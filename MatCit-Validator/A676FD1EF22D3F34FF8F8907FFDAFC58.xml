@@ -1,0 +1,897 @@
+<document approvalRequired="4" approvalRequired_for_document="2" approvalRequired_for_taxonomicNames="1" approvalRequired_for_treatments="1" docAuthor="Cockerell, T. D. A." docDate="1942" docId="A676FD1EF22D3F34FF8F8907FFDAFC58" docName="InsectsOfGuamI.172.191-194.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Halictine Bees from Rota Island" lastPageNumber="194" mods:ID="http://doi.org/10.5281/zenodo.5160456" mods:ID-DOI="http://doi.org/10.5281/zenodo.5160456" mods:ID-GBIF-Dataset="50ed734c-2b1e-4792-a56b-289d70b967ce" mods:ID-Zenodo-Dep="5160456" mods:author="Cockerell, T. D. A." mods:author-affiliation="University of Colorado, Boulder, Colorado" mods:location="Honolulu, Hawaii" mods:pagination="191-194" mods:pubDate="1942-06-01" mods:publisher="Bernice P. Bishop Museum" mods:title="Halictine Bees from Rota Island" mods:type="book chapter" mods:volumeTitle="Insects of Guam I" mods:year="1942" pageNumber="191">
+<subSection _generate="added" pageId="0" pageNumber="191" type="multiple">
+<paragraph blockId="0.[542,1428,455,495]" box="[542,1428,455,495]" pageId="0" pageNumber="191">
+<heading box="[542,1428,455,495]" centered="true" fontSize="8" level="2" pageId="0" pageNumber="191" reason="3">
+<emphasis bold="true" box="[542,1428,455,495]" pageId="0" pageNumber="191">
+<docTitle box="[542,1428,455,495]" pageId="0" pageNumber="191">HALICTINE BEES FROM ROTA ISLAND</docTitle>
+</emphasis>
+</heading>
+</paragraph>
+<paragraph blockId="0.[620,1342,557,653]" box="[762,1205,557,600]" pageId="0" pageNumber="191">By T. D. A. Cocu:RitLL</paragraph>
+<paragraph blockId="0.[620,1342,557,653]" box="[620,1342,617,653]" pageId="0" pageNumber="191">UNIVERSITY OF COLORADO, BOULDER, COLORADO</paragraph>
+<paragraph blockId="0.[284,1679,732,882]" pageId="0" pageNumber="191">
+I am indebted to 0. H. Swezey for a series of 
+<emphasis box="[1238,1388,732,774]" italics="true" pageId="0" pageNumber="191">Halictus</emphasis>
+(females), collected by H. G. Hornbostel on Rota Island, 
+<date box="[1081,1258,785,828]" pageId="0" pageNumber="191" value="1925-07">July 1925</date>
+. There are two species in his collection.
+</paragraph>
+</subSection>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5156803" ID-Zenodo-Dep="5156803" pageId="0" pageNumber="191">
+<subSubSection _generate="added" box="[286,848,942,984]" pageId="0" pageNumber="191" type="nomenclature">
+<paragraph blockId="0.[284,1680,942,1376]" box="[286,848,942,984]" pageId="0" pageNumber="191">
+<heading box="[286,848,942,984]" fontSize="11" level="2" pageId="0" pageNumber="191" reason="2">
+<emphasis bold="true" box="[286,654,942,984]" pageId="0" pageNumber="191">1. 
+<taxonomicName authorityName="Cockerell" box="[348,843,942,984]" kingdom="Animalia" pageId="0" pageNumber="191" rank="species" species="swezeyi">Halictus swezeyi Cockerell</taxonomicName>
+</emphasis>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="191" type="discussion">
+<paragraph blockId="0.[284,1680,942,1376]" pageId="0" pageNumber="191">
+I cannot clearly separate these from 
+<emphasis box="[995,1190,1003,1045]" italics="true" pageId="0" pageNumber="191">H. swezeyi</emphasis>
+which occurs on 
+<collectingCountry box="[1497,1605,1003,1045]" name="Guam" pageId="0" pageNumber="191">Guam</collectingCountry>
+. On the average, the abdomen is a darker, bluer green, but it is variable. They are less robust than 
+<emphasis box="[580,786,1112,1154]" italics="true" pageId="0" pageNumber="191">H. saffordi,</emphasis>
+the area of metathorax has denser plicas, and the first recurrent nervure joins the third cubital cell (in 
+<emphasis box="[1267,1467,1167,1207]" italics="true" pageId="0" pageNumber="191">H. saffordi</emphasis>
+it joins the second). In both sexes of 
+<emphasis box="[782,982,1221,1262]" italics="true" pageId="0" pageNumber="191">H. swezeyi</emphasis>
+from 
+<collectingCountry box="[1105,1213,1221,1262]" name="Guam" pageId="0" pageNumber="191">Guam</collectingCountry>
+, I find the first recurrent nervure meeting the intercubitus.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" box="[348,1054,1336,1376]" pageId="0" pageNumber="191" type="materials_examined">
+<paragraph blockId="0.[284,1680,942,1376]" box="[348,1054,1336,1376]" pageId="0" pageNumber="191">
+<materialsCitation box="[348,1049,1336,1376]" collectingCountry="Commonwealth of the Northern Mariana Islands" collectingDate="1925-07-23" collectorName="H. G. Hornbostel" location="Rota Island" pageId="0" pageNumber="191" specimenCount="11">
+<location box="[348,561,1336,1376]" municipality="July" name="Rota Island" pageId="0" pageNumber="191">Rota Island</location>
+, 
+<collectingMunicipality box="[585,660,1336,1376]" pageId="0" pageNumber="191">July</collectingMunicipality>
+23, 
+<specimenCount box="[744,1049,1336,1376]" pageId="0" pageNumber="191" type="generic">eleven specimens</specimenCount>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5156805" ID-Zenodo-Dep="5156805" pageId="0" pageNumber="191">
+<subSubSection _generate="added" box="[283,927,1439,1479]" pageId="0" pageNumber="191" type="nomenclature">
+<paragraph blockId="0.[283,1680,1439,1965]" box="[283,927,1439,1479]" pageId="0" pageNumber="191">
+<heading box="[283,927,1439,1479]" fontSize="8" level="2" pageId="0" pageNumber="191" reason="4">
+2. 
+<taxonomicName authorityName="Cockerell" box="[348,682,1439,1479]" kingdom="Animalia" pageId="0" pageNumber="191" rank="species">Halictus rotaensis</taxonomicName>
+, 
+<taxonomicNameLabel box="[706,922,1439,1479]" pageId="0" pageNumber="191">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="191" type="description">
+<paragraph blockId="0.[283,1680,1439,1965]" pageId="0" pageNumber="191">
+Head ordinary, face rather narrow (head smaller and face much narrower than in 
+<emphasis box="[283,467,1532,1567]" italics="true" pageId="0" pageNumber="191">H. saffordi)</emphasis>
+; apical part of flagellum variably reddish beneath; tongue short and pointed; head dull dark green, supraclypeal area shining; face, cheeks, sides of thorax and metathorax with thin white hairs; mesothorax and scutellum peacock green, not distinctly polished; metathorax (propodeum) very dark bluish, the basal area with fine plicae, tegulae shining red; wings grayish, with large dark stigma; outer intercubitus very pale; first recurrent nervure joining second cubital cell well before the end; legs dark brown, abdomen broad, without hair bands, dark purplish, with the hind margins of the tergites more or 1less pallid; as in related species, there is a ventral scopa of curled hairs, collecting pollen. Under the microscope the mesonotum and area of metathorax are seen to be minutely tessellate; mesonotum with very minute punctures, area of metathorax with irregular plicae. Length, about 
+<quantity box="[379,491,1930,1965]" metricMagnitude="-3" metricUnit="m" metricValue="5.5" pageId="0" pageNumber="191" unit="mm" value="5.5">5.5 mm</quantity>
+.; anterior wing, 
+<quantity box="[755,868,1930,1965]" metricMagnitude="-3" metricUnit="m" metricValue="4.3" pageId="0" pageNumber="191" unit="mm" value="4.3">4.3 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" box="[348,1030,2002,2044]" pageId="0" pageNumber="191" type="materials_examined">
+<paragraph blockId="0.[348,1030,2002,2044]" box="[348,1030,2002,2044]" pageId="0" pageNumber="191">
+<materialsCitation box="[348,1025,2002,2044]" collectingCountry="Commonwealth of the Northern Mariana Islands" collectingDate="1925-07-20" collectorName="H. G. Hornbostel" location="Rota Island" pageId="0" pageNumber="191" specimenCount="3">
+<location box="[348,563,2002,2044]" municipality="July" name="Rota Island" pageId="0" pageNumber="191">Rota Island</location>
+, 
+<collectingMunicipality box="[583,661,2002,2044]" pageId="0" pageNumber="191">July</collectingMunicipality>
+20, 
+<specimenCount box="[736,1025,2002,2044]" pageId="0" pageNumber="191" type="generic">three specimens</specimenCount>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5156808" ID-Zenodo-Dep="5156808" pageId="0" pageNumber="191">
+<subSubSection _generate="added" box="[286,1161,2104,2144]" pageId="0" pageNumber="191" type="nomenclature">
+<paragraph blockId="0.[285,1675,2104,2241]" box="[286,1161,2104,2144]" pageId="0" pageNumber="191">
+<taxonomicName _evidence="statusLabel" _step="nonLabeled3" authorityName="Cockerell" box="[286,919,2104,2144]" kingdom="Animalia" pageId="0" pageNumber="191" rank="variety" status="new variety" variety="hornbosteli">
+<emphasis bold="true" box="[286,614,2104,2144]" pageId="0" pageNumber="191">Halictus rotaensis</emphasis>
+var. 
+<emphasis bold="true" box="[711,919,2104,2144]" pageId="0" pageNumber="191">hornbosteli</emphasis>
+</taxonomicName>
+<emphasis bold="true" box="[919,926,2104,2144]" pageId="0" pageNumber="191">,</emphasis>
+<taxonomicNameLabel box="[940,1156,2104,2144]" pageId="0" pageNumber="191" rank="variety">new variety</taxonomicNameLabel>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="191" type="discussion">
+<paragraph blockId="0.[285,1675,2104,2241]" pageId="0" pageNumber="191">Clypeus and supraclypeal area with rosy tints, mesonotum and scutellum rosy pink, the scutellum brightly colored.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" box="[349,1041,2295,2337]" pageId="0" pageNumber="191" type="materials_examined">
+<paragraph blockId="0.[285,1676,2295,2501]" box="[349,1041,2295,2337]" pageId="0" pageNumber="191">
+<materialsCitation box="[349,1041,2295,2337]" collectingCountry="Commonwealth of the Northern Mariana Islands" collectingDate="1925-07" collectorName="H. G. Hornbostel" location="Rota Island" pageId="0" pageNumber="191" specimenCount="1">
+One specimen, 
+<location box="[624,836,2295,2337]" country="New Caledonia" name="Rota Island" pageId="0" pageNumber="191">Rota Island</location>
+, 
+<date box="[859,1036,2295,2337]" pageId="0" pageNumber="191" value="1925-07">
+<collectingDate box="[859,1036,2295,2337]" pageId="0" pageNumber="191" value="1925-07">July 1925</collectingDate>
+</date>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="191" type="discussion">
+<paragraph blockId="0.[285,1676,2295,2501]" pageId="0" pageNumber="191">
+I give this a name as it has 
+<emphasis bold="true" box="[1569,1587,2295,2337]" pageId="0" pageNumber="191">a</emphasis>
+very distinctive appearance. 
+<collectorName box="[713,906,2349,2392]" pageId="0" pageNumber="191">
+Typical 
+<emphasis box="[861,906,2349,2392]" italics="true" pageId="0" pageNumber="191">H.</emphasis>
+</collectorName>
+rotaensis, seen from in front, looks almost exactly like 
+<emphasis box="[502,748,2405,2447]" italics="true" pageId="0" pageNumber="191">H. crotalariae</emphasis>
+<collectorName box="[764,927,2405,2447]" pageId="0" pageNumber="191">Cockerell</collectorName>
+from 
+<collectingCountry box="[1048,1320,2405,2447]" name="New Caledonia" pageId="0" pageNumber="191">New Caledonia</collectingCountry>
+, which however has a shining, olive-green abdomen.
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5156810" ID-Zenodo-Dep="5156810" lastPageId="2" lastPageNumber="193" pageId="1" pageNumber="192">
+<subSubSection _generate="added" box="[765,1497,449,487]" pageId="1" pageNumber="192" type="nomenclature">
+<paragraph blockId="1.[765,1497,449,487]" box="[765,1497,449,487]" pageId="1" pageNumber="192">
+<heading box="[765,1497,449,487]" centered="true" fontSize="8" level="2" pageId="1" pageNumber="192" reason="3">
+KEY 
+<emphasis box="[855,895,449,487]" italics="true" pageId="1" pageNumber="192">TO</emphasis>
+<taxonomicName box="[909,1126,449,487]" kingdom="Animalia" pageId="1" pageNumber="192" rank="subfamily" subfamily="Halictinae">HALICTINES</taxonomicName>
+OF PACIFIC ISLANDS
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" lastPageId="2" lastPageNumber="193" pageId="1" pageNumber="192" type="key">
+<key lastPageId="2" lastPageNumber="193" pageId="1" pageNumber="192">
+<keyStep pageId="1" pageNumber="192">
+<keyLead pageId="1" pageNumber="192">
+<paragraph blockId="1.[435,1829,549,682]" pageId="1" pageNumber="192">
+A. Abdomen black, or not at all metallic, or very slightly so 
+<emphasis box="[1382,1762,549,584]" italics="true" pageId="1" pageNumber="192">(H. samoae, H. se111ic:
+<emphasis box="[516,583,593,627]" italics="true" pageId="1" pageNumber="192">yane1ts</emphasis>
+</emphasis>
+......
+.
+...
+...
+...
+....
+..
+</paragraph>
+<paragraph blockId="1.[435,1829,549,682]" box="[1827,1827,593,627]" pageId="1" pageNumber="192">.</paragraph>
+</keyLead>
+<paragraph blockId="1.[435,1829,549,682]" box="[437,1829,646,682]" pageId="1" pageNumber="192">
+<keyLead box="[437,1829,646,682]" pageId="1" pageNumber="192">
+B. Abdomen distinctly, or very faintly metallic 
+<emphasis box="[1185,1425,646,682]" italics="true" pageId="1" pageNumber="192">(H. samoae, H.</emphasis>
+semic:yaneus).............. 5
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep pageId="1" pageNumber="192">
+<paragraph blockId="1.[452,1829,703,780]" box="[452,1829,703,738]" pageId="1" pageNumber="192">
+<keyLead box="[452,1829,703,738]" pageId="1" pageNumber="192">
+1. Head and thorax black, not metallic (
+<collectingCountry box="[1106,1354,703,738]" name="New Caledonia" pageId="1" pageNumber="192">New Caledonia</collectingCountry>
+)............
+<taxonomicName box="[1478,1825,703,738]" pageId="1" pageNumber="192">
+H. 
+<emphasis bold="true" box="[1522,1658,703,738]" pageId="1" pageNumber="192">polygoni</emphasis>
+Cockerell
+</taxonomicName>
+.
+</keyLead>
+</paragraph>
+<paragraph blockId="1.[452,1829,703,780]" box="[499,1829,745,780]" pageId="1" pageNumber="192">
+<keyLead box="[499,1829,745,780]" pageId="1" pageNumber="192">Thorax brilliantly metallic.................................................................................................... 2</keyLead>
+</paragraph>
+</keyStep>
+<keyStep pageId="1" pageNumber="192">
+<paragraph blockId="1.[449,1829,792,869]" box="[449,1829,792,827]" pageId="1" pageNumber="192">
+<keyLead box="[449,1829,792,827]" pageId="1" pageNumber="192">
+2. Head greatly elongated (
+<collectingCountry box="[900,998,792,827]" name="Samoa" pageId="1" pageNumber="192">Samoa</collectingCountry>
+)..............................
+<taxonomicName box="[1283,1825,792,827]" pageId="1" pageNumber="192">H. samoae Perkins and Cheesman</taxonomicName>
+.
+</keyLead>
+</paragraph>
+<paragraph blockId="1.[449,1829,792,869]" box="[500,1829,835,869]" pageId="1" pageNumber="192">
+<keyLead box="[500,1829,835,869]" pageId="1" pageNumber="192">Headbrown..............................</keyLead>
+</paragraph>
+</keyStep>
+<paragraph blockId="1.[449,1829,792,869]" box="[1829,1829,835,869]" pageId="1" pageNumber="192">.</paragraph>
+<keyStep pageId="1" pageNumber="192">
+<paragraph blockId="1.[450,1830,882,1000]" pageId="1" pageNumber="192">
+<keyLead pageId="1" pageNumber="192">
+3. Anterior femora and tibiae clear red; small species with purple mesonotum (
+<collectingCountry box="[547,657,923,958]" name="Samoa" pageId="1" pageNumber="192">Samoa</collectingCountry>
+) ....................................................Echthralictusextraordinarius(Kohl),male.
+</keyLead>
+</paragraph>
+<paragraph blockId="1.[450,1830,882,1000]" box="[499,1830,965,1000]" pageId="1" pageNumber="192">
+<keyLead box="[499,1830,965,1000]" pageId="1" pageNumber="192">Anterior femora dark.............................................................................................................. 4</keyLead>
+</paragraph>
+</keyStep>
+<keyStep pageId="1" pageNumber="192">
+<paragraph blockId="1.[450,1830,1012,1350]" box="[450,1829,1012,1047]" pageId="1" pageNumber="192">
+<keyLead box="[450,1829,1012,1047]" pageId="1" pageNumber="192">
+4. Mesonotum and scutellum very rich purple (
+<collectingCountry box="[1216,1321,1012,1047]" name="Samoa" pageId="1" pageNumber="192">Samoa</collectingCountry>
+)..............
+<taxonomicName box="[1465,1825,1012,1047]" pageId="1" pageNumber="192">
+H. 
+<emphasis bold="true" box="[1512,1658,1012,1047]" pageId="1" pageNumber="192">mackieae</emphasis>
+Cockerell
+</taxonomicName>
+.
+</keyLead>
+</paragraph>
+<keyLead pageId="1" pageNumber="192">
+<paragraph blockId="1.[450,1830,1012,1350]" pageId="1" pageNumber="192">
+Mesonotum and scutellum green, metathorax blue (
+<collectingCountry box="[1338,1433,1054,1088]" name="Samoa" pageId="1" pageNumber="192">Samoa</collectingCountry>
+).................................... 
+<taxonomicName box="[1377,1829,1096,1131]" pageId="1" pageNumber="192">TODO TODO TODO</taxonomicName>
+</paragraph>
+<paragraph blockId="1.[450,1830,1012,1350]" pageId="1" pageNumber="192">
+~. Head greatly elongated; mesonotum brilliant blue green (
+<collectingCountry box="[1438,1536,1142,1177]" name="Samoa" pageId="1" pageNumber="192">Samoa</collectingCountry>
+)........................ 
+<taxonomicName box="[1254,1829,1185,1219]" pageId="1" pageNumber="192">TODO TODO TODO TODO TODO</taxonomicName>
+</paragraph>
+</keyLead>
+<paragraph blockId="1.[450,1830,1012,1350]" box="[500,1830,1226,1261]" pageId="1" pageNumber="192">
+<keyLead box="[500,1830,1226,1261]" pageId="1" pageNumber="192">Headordinary................................</keyLead>
+</paragraph>
+</keyStep>
+<paragraph blockId="1.[450,1830,1012,1350]" box="[1830,1830,1226,1261]" pageId="1" pageNumber="192">.</paragraph>
+<keyStep pageId="1" pageNumber="192">
+<paragraph blockId="1.[450,1830,1012,1350]" box="[450,1830,1272,1307]" pageId="1" pageNumber="192">
+<keyLead box="[450,1830,1272,1307]" pageId="1" pageNumber="192">6. Legs clear red, including femora........................................................................................ 7</keyLead>
+</paragraph>
+<paragraph blockId="1.[450,1830,1012,1350]" box="[501,1830,1314,1350]" pageId="1" pageNumber="192">
+<keyLead box="[501,1830,1314,1350]" pageId="1" pageNumber="192">Femora not thus red................................................................................................................ 8</keyLead>
+</paragraph>
+</keyStep>
+<keyStep pageId="1" pageNumber="192">
+<paragraph blockId="1.[452,1831,1360,1480]" box="[452,1831,1360,1395]" pageId="1" pageNumber="192">
+<keyLead box="[452,1831,1360,1395]" pageId="1" pageNumber="192">
+7. First two abdominal tergites entirely green (
+<collectingCountry box="[1231,1346,1360,1395]" name="Samoa" pageId="1" pageNumber="192">Samoa</collectingCountry>
+)....
+<taxonomicName box="[1394,1728,1360,1395]" pageId="1" pageNumber="192">H. perpessicius Kohl</taxonomicName>
+, male.
+</keyLead>
+</paragraph>
+<paragraph blockId="1.[452,1831,1360,1480]" pageId="1" pageNumber="192">
+<keyLead pageId="1" pageNumber="192">
+First two tergites black at base, with broad green hind borders (
+<collectingCountry box="[1538,1642,1403,1438]" name="Samoa" pageId="1" pageNumber="192">Samoa</collectingCountry>
+)............ 
+<taxonomicName box="[1320,1695,1446,1480]" pageId="1" pageNumber="192">TODO TODO TODO</taxonomicName>
+TODO
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep pageId="1" pageNumber="192">
+<paragraph blockId="1.[451,1830,1491,1610]" pageId="1" pageNumber="192">
+<keyLead pageId="1" pageNumber="192">
+8. Thorax entirely brilliant shining purple blue (
+<collectingCountry box="[1239,1333,1491,1526]" name="Samoa" pageId="1" pageNumber="192">Samoa</collectingCountry>
+)................................................ 
+<taxonomicName box="[1121,1717,1534,1568]" pageId="1" pageNumber="192">............................................................................Echthralictus stevensoni Cockerell</taxonomicName>
+, male.
+</keyLead>
+</paragraph>
+<paragraph blockId="1.[451,1830,1491,1610]" box="[500,1830,1575,1610]" pageId="1" pageNumber="192">
+<keyLead box="[500,1830,1575,1610]" pageId="1" pageNumber="192">Thorax not so colored............................................................................................................ 9</keyLead>
+</paragraph>
+</keyStep>
+<keyStep pageId="1" pageNumber="192">
+<paragraph blockId="1.[450,1831,1623,1699]" box="[450,1831,1623,1657]" pageId="1" pageNumber="192">
+<keyLead box="[450,1831,1623,1657]" pageId="1" pageNumber="192">9.Males............................................................................................................................................ 10</keyLead>
+</paragraph>
+<paragraph blockId="1.[450,1831,1623,1699]" box="[498,1831,1664,1699]" pageId="1" pageNumber="192">
+<keyLead box="[498,1831,1664,1699]" pageId="1" pageNumber="192">Females..........................................................
+..</keyLead>
+</paragraph>
+</keyStep>
+<paragraph blockId="1.[450,1831,1623,1699]" box="[1831,1831,1664,1699]" pageId="1" pageNumber="192">.</paragraph>
+<keyStep pageId="1" pageNumber="192">
+<paragraph blockId="1.[436,1830,1711,1875]" box="[436,1828,1711,1745]" pageId="1" pageNumber="192">
+<keyLead box="[436,1828,1711,1745]" pageId="1" pageNumber="192">10. Abdomen olive green.............................................................................................................. 11</keyLead>
+</paragraph>
+<paragraph blockId="1.[436,1830,1711,1875]" box="[500,1830,1753,1785]" pageId="1" pageNumber="192">
+<keyLead box="[500,1830,1753,1785]" pageId="1" pageNumber="192">Abdomen not olive. green........................................................................................................ 12</keyLead>
+</paragraph>
+</keyStep>
+<keyStep pageId="1" pageNumber="192">
+<paragraph blockId="1.[436,1830,1711,1875]" box="[438,1830,1799,1834]" pageId="1" pageNumber="192">
+<keyLead box="[438,1830,1799,1834]" pageId="1" pageNumber="192">
+11. Larger; flagellum broadly red beneath apically (
+<collectingCountry box="[1294,1408,1799,1834]" name="Samoa" pageId="1" pageNumber="192">Samoa</collectingCountry>
+)....
+<taxonomicName box="[1457,1826,1799,1834]" pageId="1" pageNumber="192">H. zachlorus Cockerell</taxonomicName>
+.
+</keyLead>
+</paragraph>
+<paragraph blockId="1.[436,1830,1711,1875]" box="[503,1830,1841,1875]" pageId="1" pageNumber="192">
+<keyLead box="[503,1830,1841,1875]" pageId="1" pageNumber="192">
+Smaller; flagellum black (
+<collectingCountry box="[924,977,1841,1875]" name="Fiji" pageId="1" pageNumber="192">Fiji</collectingCountry>
+)................................
+<taxonomicName box="[1278,1826,1841,1875]" pageId="1" pageNumber="192">H. fijiensis Perkins and Cheesman</taxonomicName>
+.
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep pageId="1" pageNumber="192">
+<paragraph blockId="1.[438,1831,1887,2006]" box="[438,1831,1887,1922]" pageId="1" pageNumber="192">
+<keyLead box="[438,1831,1887,1922]" pageId="1" pageNumber="192">
+12. Apical plate very large and broad (
+<collectingCountry box="[1073,1161,1887,1922]" name="Guam" pageId="1" pageNumber="192">Guam</collectingCountry>
+)....................................
+<taxonomicName box="[1495,1827,1887,1922]" pageId="1" pageNumber="192">H. saffordi Cockerell</taxonomicName>
+.
+</keyLead>
+</paragraph>
+<paragraph blockId="1.[438,1831,1887,2006]" pageId="1" pageNumber="192">
+<keyLead pageId="1" pageNumber="192">
+Apical plate relatively small; abdomen black with an obscure greenish luster, varying to strongly purple (
+<collectingCountry box="[987,1073,1971,2006]" name="Guam" pageId="1" pageNumber="192">Guam</collectingCountry>
+)..............................................
+<taxonomicName box="[1492,1825,1971,2006]" pageId="1" pageNumber="192">H. swezeyi Cockerell</taxonomicName>
+.
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep pageId="1" pageNumber="192">
+<paragraph blockId="1.[437,1831,2018,2178]" pageId="1" pageNumber="192">
+<keyLead pageId="1" pageNumber="192">
+13. Small species from 
+<collectingCountry box="[838,1088,2018,2053]" name="New Caledonia" pageId="1" pageNumber="192">New Caledonia</collectingCountry>
+, and Rota 
+<emphasis box="[1291,1510,2018,2053]" italics="true" pageId="1" pageNumber="192">(H. rotai!nsis);</emphasis>
+thorax above green, with no purple shades............................................................................................ 14
+</keyLead>
+</paragraph>
+<keyLead pageId="1" pageNumber="192">
+<paragraph blockId="1.[437,1831,2018,2178]" pageId="1" pageNumber="192">
+Larger species, or if rather small 
+<emphasis box="[1068,1290,2102,2137]" italics="true" pageId="1" pageNumber="192">(H. siwaiinsis)</emphasis>
+thorax above largely purple blue, or rosy pink 
+<emphasis box="[837,1233,2143,2178]" italics="true" pageId="1" pageNumber="192">(H. rotai!nsis hombosteli)</emphasis>
+............................................................
+16
+</paragraph>
+<paragraph blockId="1.[436,1830,2190,2266]" box="[436,1830,2190,2225]" pageId="1" pageNumber="192">
+14. Tegulae dark (
+<collectingCountry box="[740,972,2190,2225]" name="New Caledonia" pageId="1" pageNumber="192">New Caledonia</collectingCountry>
+)............................................................
+<taxonomicName box="[1511,1826,2190,2225]" pageId="1" pageNumber="192">H. risbeci Cockerell</taxonomicName>
+.
+</paragraph>
+</keyLead>
+<paragraph blockId="1.[436,1830,2190,2266]" box="[500,1829,2231,2266]" pageId="1" pageNumber="192">
+<keyLead box="[500,1829,2231,2266]" pageId="1" pageNumber="192">Tegulae clear red...................................................................................................................... 15</keyLead>
+</paragraph>
+</keyStep>
+<keyStep pageId="1" pageNumber="192">
+<paragraph blockId="1.[436,1829,2278,2355]" box="[436,1829,2278,2313]" pageId="1" pageNumber="192">
+<keyLead box="[436,1829,2278,2313]" pageId="1" pageNumber="192">
+15. Abdomen dark purplish (Rota)......................................................
+<taxonomicName box="[1466,1825,2278,2313]" pageId="1" pageNumber="192">H. rotaensis Cockerell</taxonomicName>
+.
+</keyLead>
+</paragraph>
+<paragraph blockId="1.[436,1829,2278,2355]" box="[500,1829,2320,2355]" pageId="1" pageNumber="192">
+<keyLead box="[500,1829,2320,2355]" pageId="1" pageNumber="192">
+Abdomen green (
+<collectingCountry box="[780,1016,2320,2355]" name="New Caledonia" pageId="1" pageNumber="192">New Caledonia</collectingCountry>
+)..............................................
+<taxonomicName box="[1437,1825,2320,2355]" pageId="1" pageNumber="192">H. crotalariae Cockerell</taxonomicName>
+.
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep pageId="1" pageNumber="192">
+<paragraph blockId="1.[436,1830,2367,2486]" pageId="1" pageNumber="192">
+<keyLead pageId="1" pageNumber="192">
+16. Mesothorax and scutellum shining, with brilliant blue purple tints; front tibiae and tarsi clear red (
+<collectingCountry box="[872,934,2408,2443]" name="Fiji" pageId="1" pageNumber="192">Fiji</collectingCountry>
+)...............................................
+<taxonomicName box="[1452,1824,2408,2443]" pageId="1" pageNumber="192">H. suvaensis Cockerell</taxonomicName>
+.
+</keyLead>
+</paragraph>
+<paragraph blockId="1.[436,1830,2367,2486]" box="[500,1830,2450,2486]" pageId="1" pageNumber="192">
+<keyLead box="[500,1830,2450,2486]" pageId="1" pageNumber="192">Thorax not so colored............................................................................................................ 17</keyLead>
+</paragraph>
+</keyStep>
+<keyStep pageId="1" pageNumber="192">
+<paragraph blockId="1.[436,1830,2498,2574]" box="[436,1829,2498,2533]" pageId="1" pageNumber="192">
+<keyLead box="[436,1829,2498,2533]" pageId="1" pageNumber="192">
+17. Tibiae and tarsi red (
+<collectingCountry box="[848,943,2498,2533]" name="Samoa" pageId="1" pageNumber="192">Samoa</collectingCountry>
+)..........................................................
+<taxonomicName box="[1467,1825,2498,2533]" pageId="1" pageNumber="192">H. zachlorus Cockerell</taxonomicName>
+.
+</keyLead>
+</paragraph>
+<paragraph blockId="1.[436,1830,2498,2574]" box="[500,1830,2540,2574]" pageId="1" pageNumber="192">
+<keyLead box="[500,1830,2540,2574]" pageId="1" pageNumber="192">Tibiae not thus red.................................................................................................................. 18</keyLead>
+</paragraph>
+</keyStep>
+<keyStep pageId="2" pageNumber="193">
+<paragraph blockId="2.[297,1689,351,580]" pageId="2" pageNumber="193">
+<keyLead pageId="2" pageNumber="193">
+18. Mesothorax and scutellum violet, contrasting with the blue-green metathorax, legs partly red (
+<collectingCountry box="[653,737,390,425]" name="Guam" pageId="2" pageNumber="193">Guam</collectingCountry>
+)......................................................................
+<taxonomicName box="[1357,1685,390,425]" pageId="2" pageNumber="193">H. saffordi Cockerell</taxonomicName>
+.
+</keyLead>
+</paragraph>
+<keyLead pageId="2" pageNumber="193">
+<paragraph blockId="2.[297,1689,351,580]" pageId="2" pageNumber="193">
+Mesothorax and scutellum rosy, contrasting with the dark blue green of metathorax; legs dark brown; a smaller species (Rota).................................................. 
+<taxonomicName box="[1098,1689,507,542]" pageId="2" pageNumber="193">TODO TODO TODO TODO</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[297,1689,351,580]" box="[361,1688,545,580]" pageId="2" pageNumber="193">Mesothorax and scutellum not at all violet or rosy...................................................... 19</paragraph>
+</keyLead>
+</keyStep>
+<keyStep pageId="2" pageNumber="193">
+<paragraph blockId="2.[295,1690,591,665]" box="[295,1689,591,626]" pageId="2" pageNumber="193">
+<keyLead box="[295,1689,591,626]" pageId="2" pageNumber="193">19. Legs black, without red.......................................................................................................... 20</keyLead>
+</paragraph>
+<paragraph blockId="2.[295,1690,591,665]" box="[360,1690,630,665]" pageId="2" pageNumber="193">
+<keyLead box="[360,1690,630,665]" pageId="2" pageNumber="193">Legs partly red.......................................................................................................................... 22</keyLead>
+</paragraph>
+</keyStep>
+<keyStep pageId="2" pageNumber="193">
+<keyLead pageId="2" pageNumber="193">
+<paragraph blockId="2.[294,1688,678,790]" pageId="2" pageNumber="193">
+20. Mesonotum dull green; abdomen broad, tergites dark bluish with black margins (
+<collectingCountry box="[486,737,716,751]" name="Solomon Islands" pageId="2" pageNumber="193">Solomon Islands</collectingCountry>
+)..............................................................
+<taxonomicName box="[1296,1684,716,751]" pageId="2" pageNumber="193">H. viridiscitus Cockerell</taxonomicName>
+.
+</paragraph>
+<paragraph blockId="2.[294,1688,678,790]" box="[360,1687,756,790]" pageId="2" pageNumber="193">Mesonotumshining............................................................</paragraph>
+<paragraph blockId="2.[294,1688,678,790]" box="[1687,1687,756,790]" pageId="2" pageNumber="193">21</paragraph>
+<paragraph blockId="2.[293,1688,802,914]" box="[293,1688,802,837]" pageId="2" pageNumber="193">
+21. Larger, face broader; abdomen dark bluish green..............
+<taxonomicName box="[1280,1609,802,837]" pageId="2" pageNumber="193">H. saffordi Cockerell</taxonomicName>
+, 
+<taxonomicNameLabel box="[1629,1683,802,837]" pageId="2" pageNumber="193">var</taxonomicNameLabel>
+.
+</paragraph>
+</keyLead>
+<paragraph blockId="2.[293,1688,802,914]" pageId="2" pageNumber="193">
+<keyLead pageId="2" pageNumber="193">
+Smaller, face narrower; abdomen olive green, varying to more bluish green (
+<collectingCountry box="[406,502,879,914]" name="Guam" pageId="2" pageNumber="193">Guam</collectingCountry>
+and Rota)................................................................................
+<taxonomicName box="[1354,1684,879,914]" pageId="2" pageNumber="193">
+H. 
+<emphasis bold="true" box="[1398,1517,879,914]" pageId="2" pageNumber="193">swezeyi</emphasis>
+Cockerell
+</taxonomicName>
+.
+</keyLead>
+</paragraph>
+</keyStep>
+<keyLead pageId="2" pageNumber="193">
+<keyStep pageId="2" pageNumber="193">
+<paragraph blockId="2.[293,1686,927,1077]" pageId="2" pageNumber="193">
+22. Mesonotum dull peacock green; abdomen not distinctly metallic (
+<collectingCountry box="[1430,1537,927,961]" name="Samoa" pageId="2" pageNumber="193">Samoa</collectingCountry>
+)........ 
+<taxonomicName box="[1214,1686,965,1000]" pageId="2" pageNumber="193">TODO TODO TODO</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[293,1686,927,1077]" pageId="2" pageNumber="193">
+Mesonotum and scutellum shining brilliant green (
+<collectingCountry box="[1195,1247,1004,1038]" name="Fiji" pageId="2" pageNumber="193">Fiji</collectingCountry>
+)...................................,...... 
+<taxonomicName box="[1096,1685,1043,1077]" pageId="2" pageNumber="193">TODO TODO TODO TODO TODO</taxonomicName>
+</paragraph>
+</keyStep>
+</keyLead>
+</key>
+</subSubSection>
+</treatment>
+<subSection _generate="added" pageId="2" pageNumber="193" type="key">
+<paragraph blockId="2.[290,1686,1130,2508]" pageId="2" pageNumber="193">
+The above key is based on the species which I have at present in my collection. 
+<emphasis box="[400,786,1183,1223]" italics="true" pageId="2" pageNumber="193">Halictus semicyaneus</emphasis>
+was first named 
+<emphasis box="[1111,1411,1183,1223]" italics="true" pageId="2" pageNumber="193">
+<taxonomicName box="[1111,1405,1183,1223]" pageId="2" pageNumber="193">H. mesocyaneus</taxonomicName>
+,
+</emphasis>
+but that name was preoccupied.
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" pageId="2" pageNumber="193">
+The following species are recorded from 
+<location box="[1135,1394,1285,1327]" municipality="American Museum of Natural History" name="Pacific islands" pageId="2" pageNumber="193">Pacific islands</location>
+. (A) indicates 
+<typeStatus box="[293,382,1338,1378]" pageId="2" pageNumber="193">types</typeStatus>
+in 
+<collectingMunicipality box="[446,1142,1338,1378]" pageId="2" pageNumber="193">American Museum of Natural History</collectingMunicipality>
+.
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[293,393,1398,1433]" pageId="2" pageNumber="193">
+<collectingCountry box="[293,393,1398,1433]" name="Samoa" pageId="2" pageNumber="193">Samoa</collectingCountry>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[358,1015,1437,1473]" pageId="2" pageNumber="193">
+<taxonomicName box="[358,1015,1437,1473]" pageId="2" pageNumber="193">
+<emphasis box="[358,729,1437,1473]" italics="true" pageId="2" pageNumber="193">
+Echthralictus 
+<title box="[575,729,1437,1473]" pageId="2" pageNumber="193">steve/lsoni</title>
+</emphasis>
+(Cockerell), 
+<year box="[950,1015,1437,1473]" pageId="2" pageNumber="193">1924</year>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[358,1026,1476,1511]" pageId="2" pageNumber="193">
+<taxonomicName box="[358,1026,1476,1511]" pageId="2" pageNumber="193">
+<emphasis box="[358,809,1476,1511]" italics="true" pageId="2" pageNumber="193">
+Echthralict
+<title box="[527,809,1476,1511]" pageId="2" pageNumber="193">1ts extraordinarfos</title>
+</emphasis>
+(Kohl), 
+<year box="[962,1026,1476,1511]" pageId="2" pageNumber="193">1908</year>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[358,1101,1514,1550]" pageId="2" pageNumber="193">
+<taxonomicName box="[358,1101,1514,1550]" pageId="2" pageNumber="193">
+<emphasis box="[358,645,1514,1550]" italics="true" pageId="2" pageNumber="193">
+Echthralictus 
+<title box="[576,645,1514,1550]" pageId="2" pageNumber="193">latro</title>
+</emphasis>
+Perkins and Cheesman, 
+<year box="[1038,1101,1514,1550]" pageId="2" pageNumber="193">1928</year>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[359,1004,1554,1589]" pageId="2" pageNumber="193">
+<taxonomicName box="[359,928,1554,1589]" pageId="2" pageNumber="193">
+<emphasis box="[359,643,1554,1589]" italics="true" pageId="2" pageNumber="193">
+Halictus 
+<title box="[500,643,1554,1589]" pageId="2" pageNumber="193">zachlorus</title>
+</emphasis>
+(Cockerell), 
+<year box="[865,928,1554,1589]" pageId="2" pageNumber="193">1929</year>
+</taxonomicName>
+(
+<journalOrPublisher box="[958,992,1554,1589]" pageId="2" pageNumber="193">A</journalOrPublisher>
+)
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[358,854,1592,1627]" pageId="2" pageNumber="193">
+<taxonomicName box="[358,854,1592,1627]" pageId="2" pageNumber="193">
+<title box="[358,679,1592,1627]" pageId="2" pageNumber="193">
+<emphasis box="[358,679,1592,1627]" italics="true" pageId="2" pageNumber="193">Halict11s perpessici-us</emphasis>
+</title>
+Kohl, 
+<year box="[790,854,1592,1627]" pageId="2" pageNumber="193">1908</year>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[358,1107,1630,1666]" pageId="2" pageNumber="193">
+<taxonomicName box="[358,1107,1630,1666]" pageId="2" pageNumber="193">
+<title box="[358,853,1630,1666]" pageId="2" pageNumber="193">
+<emphasis box="[358,656,1630,1666]" italics="true" pageId="2" pageNumber="193">Halict11 supofoensis</emphasis>
+Perkins and
+</title>
+Cheesman, 
+<year box="[1044,1107,1630,1666]" pageId="2" pageNumber="193">1928</year>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[358,1282,1668,1704]" pageId="2" pageNumber="193">
+<taxonomicName box="[358,1282,1668,1704]" pageId="2" pageNumber="193">
+<title box="[358,1028,1668,1704]" pageId="2" pageNumber="193">
+<emphasis box="[358,830,1668,1704]" italics="true" pageId="2" pageNumber="193">Halictus 11pol11 ensissavaiiensis</emphasis>
+Perkins and
+</title>
+Cheesman, 
+<year box="[1218,1282,1668,1704]" pageId="2" pageNumber="193">1928</year>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[358,1226,1707,1742]" pageId="2" pageNumber="193">
+<taxonomicName box="[358,1226,1707,1742]" pageId="2" pageNumber="193">
+<emphasis box="[358,777,1707,1742]" italics="true" pageId="2" pageNumber="193">
+Halictus 
+<title box="[496,777,1707,1742]" pageId="2" pageNumber="193">upoluensis ftttuilae</title>
+</emphasis>
+Perkins and Cheesman, 
+<year box="[1162,1226,1707,1742]" pageId="2" pageNumber="193">1928</year>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[359,1068,1746,1781]" pageId="2" pageNumber="193">
+<taxonomicName box="[359,1068,1746,1781]" pageId="2" pageNumber="193">
+<emphasis box="[359,610,1746,1781]" italics="true" pageId="2" pageNumber="193">
+Halictus 
+<title box="[502,610,1746,1781]" pageId="2" pageNumber="193">samoae</title>
+</emphasis>
+Perkins and Cheesman, 
+<year box="[1005,1068,1746,1781]" pageId="2" pageNumber="193">1928</year>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[357,957,1785,1820]" pageId="2" pageNumber="193">
+<taxonomicName box="[357,882,1785,1820]" pageId="2" pageNumber="193">
+<emphasis box="[357,637,1785,1820]" italics="true" pageId="2" pageNumber="193">
+Halictus 
+<title box="[500,637,1785,1820]" pageId="2" pageNumber="193">mackieae</title>
+</emphasis>
+Cockerell, 
+<year box="[818,882,1785,1820]" pageId="2" pageNumber="193">1929</year>
+</taxonomicName>
+(
+<journalOrPublisher box="[912,945,1785,1820]" pageId="2" pageNumber="193">A</journalOrPublisher>
+)
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[358,1002,1824,1858]" pageId="2" pageNumber="193">
+<taxonomicName box="[358,927,1824,1858]" pageId="2" pageNumber="193">
+<emphasis box="[358,684,1824,1858]" italics="true" pageId="2" pageNumber="193">
+Halictus 
+<title box="[499,684,1824,1858]" pageId="2" pageNumber="193">semicyaneus</title>
+</emphasis>
+Cockerell, 
+<year box="[863,927,1824,1858]" pageId="2" pageNumber="193">1929</year>
+</taxonomicName>
+(
+<journalOrPublisher box="[957,990,1824,1858]" pageId="2" pageNumber="193">A</journalOrPublisher>
+)
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[293,389,1872,1907]" pageId="2" pageNumber="193">
+<collectingCountry box="[293,389,1872,1907]" name="Tonga" pageId="2" pageNumber="193">Tonga</collectingCountry>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[358,1098,1909,1944]" pageId="2" pageNumber="193">
+<taxonomicName box="[358,1098,1909,1944]" pageId="2" pageNumber="193">
+<title box="[358,840,1909,1944]" pageId="2" pageNumber="193">
+<emphasis box="[358,638,1909,1944]" italics="true" pageId="2" pageNumber="193">Halictus tonga11us</emphasis>
+Perkins and
+</title>
+Cheesman, 
+<year box="[1035,1098,1909,1944]" pageId="2" pageNumber="193">1928</year>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[292,348,1957,1993]" pageId="2" pageNumber="193">
+<collectingCountry box="[292,348,1957,1993]" name="Fiji" pageId="2" pageNumber="193">Fiji</collectingCountry>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[358,1071,1995,2030]" pageId="2" pageNumber="193">
+<taxonomicName box="[358,1071,1995,2030]" pageId="2" pageNumber="193">
+<emphasis box="[358,617,1995,2030]" italics="true" pageId="2" pageNumber="193">
+Halictus 
+<title box="[501,617,1995,2030]" pageId="2" pageNumber="193">fijiensis</title>
+</emphasis>
+Perkins and Cheesman, 
+<year box="[1008,1071,1995,2030]" pageId="2" pageNumber="193">1928</year>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[358,1102,2033,2069]" pageId="2" pageNumber="193">
+<taxonomicName box="[358,1102,2033,2069]" pageId="2" pageNumber="193">
+<emphasis box="[358,652,2033,2069]" italics="true" pageId="2" pageNumber="193">
+Halictus 
+<title box="[501,652,2033,2069]" pageId="2" pageNumber="193">versifrons</title>
+</emphasis>
+Perkins and Cheesman, 
+<year box="[1039,1102,2033,2069]" pageId="2" pageNumber="193">1928</year>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[357,882,2072,2107]" pageId="2" pageNumber="193">
+<taxonomicName box="[357,882,2072,2107]" pageId="2" pageNumber="193">
+<emphasis box="[357,640,2072,2107]" italics="true" pageId="2" pageNumber="193">
+Halictus 
+<title box="[499,529,2072,2107]" pageId="2" pageNumber="193">su</title>
+~,
+<journalOrPublisher box="[551,640,2072,2107]" pageId="2" pageNumber="193">aiinsis</journalOrPublisher>
+</emphasis>
+Cockerell, 
+<year box="[819,882,2072,2107]" pageId="2" pageNumber="193">1929</year>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[292,530,2120,2155]" pageId="2" pageNumber="193">
+<collectingCountry box="[292,516,2120,2155]" name="Vanuatu" pageId="2" pageNumber="193">New Hebrides</collectingCountry>
+*
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[358,1036,2158,2193]" pageId="2" pageNumber="193">
+<taxonomicName box="[358,1036,2158,2193]" pageId="2" pageNumber="193">
+<emphasis box="[358,583,2158,2193]" italics="true" pageId="2" pageNumber="193">
+Halictus 
+<title box="[502,583,2158,2193]" pageId="2" pageNumber="193">aponi</title>
+</emphasis>
+Cheesman and Perkins, 
+<year box="[973,1036,2158,2193]" pageId="2" pageNumber="193">1939</year>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[358,1250,2197,2232]" pageId="2" pageNumber="193">
+<taxonomicName box="[358,1250,2197,2232]" pageId="2" pageNumber="193">
+<emphasis box="[358,794,2197,2232]" italics="true" pageId="2" pageNumber="193">
+Halichts 
+<title box="[501,794,2197,2232]" pageId="2" pageNumber="193">aponi erromangana</title>
+</emphasis>
+Cheesman and Perkins, 
+<year box="[1186,1250,2197,2232]" pageId="2" pageNumber="193">1939</year>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[358,1218,2236,2271]" pageId="2" pageNumber="193">
+<taxonomicName box="[358,899,2236,2271]" pageId="2" pageNumber="193">
+<emphasis box="[358,655,2236,2271]" italics="true" pageId="2" pageNumber="193">
+Halictus 
+<title box="[502,655,2236,2271]" pageId="2" pageNumber="193">tamzaiinsis</title>
+</emphasis>
+Cockerell, 
+<year box="[836,899,2236,2271]" pageId="2" pageNumber="193">1916</year>
+</taxonomicName>
+(
+<journalOrPublisher box="[928,1207,2236,2271]" pageId="2" pageNumber="193">also Banks Island</journalOrPublisher>
+)
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[357,1101,2275,2310]" pageId="2" pageNumber="193">
+<taxonomicName box="[357,1101,2275,2310]" pageId="2" pageNumber="193">
+<emphasis box="[357,646,2275,2310]" italics="true" pageId="2" pageNumber="193">
+Halictus 
+<title box="[501,646,2275,2310]" pageId="2" pageNumber="193">ommensis</title>
+</emphasis>
+Cheesman and Perkins, 
+<year box="[1037,1101,2275,2310]" pageId="2" pageNumber="193">1939</year>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[357,1180,2314,2348]" pageId="2" pageNumber="193">
+<taxonomicName box="[357,858,2314,2348]" pageId="2" pageNumber="193">
+<emphasis box="[357,616,2314,2348]" italics="true" pageId="2" pageNumber="193">
+Halictus 
+<title box="[500,616,2314,2348]" pageId="2" pageNumber="193">epiensis</title>
+</emphasis>
+Cockerell, 
+<year box="[795,858,2314,2348]" pageId="2" pageNumber="193">1916</year>
+</taxonomicName>
+(
+<journalOrPublisher box="[888,1169,2314,2348]" pageId="2" pageNumber="193">also Banks Island</journalOrPublisher>
+)
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[357,1058,2352,2387]" pageId="2" pageNumber="193">
+<taxonomicName box="[357,1058,2352,2387]" pageId="2" pageNumber="193">
+<title box="[357,838,2352,2387]" pageId="2" pageNumber="193">
+<emphasis box="[357,608,2352,2387]" italics="true" pageId="2" pageNumber="193">Halict11s wilsoni</emphasis>
+Cheesman and
+</title>
+Perkins, 
+<year box="[993,1058,2352,2387]" pageId="2" pageNumber="193">1939</year>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="2.[290,1686,1130,2508]" box="[359,1076,2391,2426]" pageId="2" pageNumber="193">
+<taxonomicName box="[359,1076,2391,2426]" pageId="2" pageNumber="193">
+<emphasis box="[359,628,2391,2426]" italics="true" pageId="2" pageNumber="193">
+Halictlts 
+<title box="[499,628,2391,2426]" pageId="2" pageNumber="193">zingowli</title>
+</emphasis>
+Cheesman and Perkins, 
+<year box="[1012,1076,2391,2426]" pageId="2" pageNumber="193">1939</year>
+</taxonomicName>
+</paragraph>
+</subSection>
+<footnote pageId="2" pageNumber="193">
+<paragraph blockId="2.[290,1686,1130,2508]" pageId="2" pageNumber="193">
+* Since this paper was written, an admirable paper on 
+<emphasis box="[1133,1242,2455,2480]" italics="true" pageId="2" pageNumber="193">Ha/ictus</emphasis>
+in the New Hebrides, by Miss Cheesman and Dr. Perkins, has been published (Roy. Ent. Soc. London, Trans. 
+<emphasis bold="true" box="[1415,1454,2481,2508]" pageId="2" pageNumber="193">88:</emphasis>
+161•171, 1939).
+</paragraph>
+</footnote>
+<paragraph blockId="3.[412,1726,427,760]" box="[413,646,427,465]" pageId="3" pageNumber="194">New Caledonia</paragraph>
+<paragraph blockId="3.[412,1726,427,760]" box="[479,997,467,502]" pageId="3" pageNumber="194">
+<taxonomicName box="[479,997,467,502]" pageId="3" pageNumber="194">
+<emphasis box="[479,524,467,502]" italics="true" pageId="3" pageNumber="194">Ha</emphasis>
+/
+<title jopScore="0.0022733232" pageId="3" pageNumber="194">ictus polygoni Cockerell, 1929
+<paragraph blockId="3.[412,1726,427,760]" box="[478,965,506,541]" pageId="3" pageNumber="194">
+<taxonomicName box="[478,965,506,541]" pageId="3" pageNumber="194">
+<emphasis box="[478,720,506,541]" italics="true" pageId="3" pageNumber="194">Ha/ictus risbeci</emphasis>
+Cockerell, 
+<year box="[900,965,506,541]" pageId="3" pageNumber="194">1929</year>
+</taxonomicName>
+</paragraph>
+</title>
+</taxonomicName>
+</paragraph>
+<journalOrPublisher jopScore="0.036373172" pageId="3" pageNumber="194">
+<paragraph blockId="3.[412,1726,427,760]" box="[479,1026,545,580]" pageId="3" pageNumber="194">
+<taxonomicName box="[479,1026,545,580]" pageId="3" pageNumber="194">
+<emphasis box="[479,782,545,580]" italics="true" pageId="3" pageNumber="194">Halictus crotalariae</emphasis>
+Cockerell, 1929
+</taxonomicName>
+</paragraph>
+<paragraph blockId="3.[412,1726,427,760]" box="[484,1726,584,619]" pageId="3" pageNumber="194">
+(Vachal's record of 
+<emphasis box="[796,1152,584,619]" italics="true" pageId="3" pageNumber="194">H. 1trbanus baudinensis</emphasis>
+Cockerell is believed to be an error.)
+</paragraph>
+</journalOrPublisher>
+<paragraph blockId="3.[412,1726,427,760]" box="[412,501,648,683]" pageId="3" pageNumber="194">Guam</paragraph>
+<paragraph blockId="3.[412,1726,427,760]" box="[478,991,687,722]" pageId="3" pageNumber="194">
+<taxonomicName box="[478,991,687,722]" pageId="3" pageNumber="194">
+<emphasis box="[478,607,687,722]" italics="true" pageId="3" pageNumber="194">Halictits</emphasis>
+<title box="[623,901,687,722]" pageId="3" pageNumber="194">saffordi Cockerell</title>
+, 
+<journalOrPublisher pageId="3" pageNumber="194">1914
+<paragraph blockId="3.[412,1726,427,760]" box="[478,980,725,760]" pageId="3" pageNumber="194">
+<taxonomicName box="[478,980,725,760]" pageId="3" pageNumber="194">
+<emphasis box="[478,737,725,760]" italics="true" pageId="3" pageNumber="194">Ha/ictus swezeyi</emphasis>
+Cockerell, 
+<year box="[916,980,725,760]" pageId="3" pageNumber="194">1939</year>
+</taxonomicName>
+</paragraph>
+</journalOrPublisher>
+</taxonomicName>
+</paragraph>
+<paragraph blockId="3.[412,1104,793,943]" box="[412,485,793,827]" pageId="3" pageNumber="194">Rota</paragraph>
+<paragraph blockId="3.[412,1104,793,943]" box="[478,992,830,865]" pageId="3" pageNumber="194">
+<taxonomicName box="[478,992,830,865]" pageId="3" pageNumber="194">
+<emphasis box="[478,741,830,865]" italics="true" pageId="3" pageNumber="194">Halictits swezeyi</emphasis>
+Cockerell, 1939
+</taxonomicName>
+</paragraph>
+<paragraph blockId="3.[412,1104,793,943]" box="[478,915,869,904]" pageId="3" pageNumber="194">
+<taxonomicName box="[478,915,869,904]" pageId="3" pageNumber="194">
+<emphasis box="[478,757,869,904]" italics="true" pageId="3" pageNumber="194">Ha/ictus rotaiinsis</emphasis>
+Cockerell
+</taxonomicName>
+</paragraph>
+<paragraph blockId="3.[412,1104,793,943]" box="[478,1104,907,943]" pageId="3" pageNumber="194">
+<taxonomicName box="[478,1104,907,943]" pageId="3" pageNumber="194">
+<emphasis box="[478,947,907,943]" italics="true" pageId="3" pageNumber="194">Ha/ictus rotaiinsis hor11bosteli</emphasis>
+,Cockerell
+</taxonomicName>
+</paragraph>
+<paragraph blockId="3.[413,1706,974,1201]" box="[413,667,974,1009]" pageId="3" pageNumber="194">
+<collectingCountry box="[413,667,974,1009]" name="Solomon Islands" pageId="3" pageNumber="194">Solomon Islands</collectingCountry>
+</paragraph>
+<paragraph blockId="3.[413,1706,974,1201]" box="[478,1001,1010,1046]" pageId="3" pageNumber="194">
+<taxonomicName box="[478,1001,1010,1046]" pageId="3" pageNumber="194">
+<emphasis box="[478,757,1010,1046]" italics="true" pageId="3" pageNumber="194">Ha/ictus froggatti</emphasis>
+Cockerell, 1911
+</taxonomicName>
+</paragraph>
+<paragraph blockId="3.[413,1706,974,1201]" box="[477,1034,1049,1085]" pageId="3" pageNumber="194">
+<taxonomicName box="[477,1034,1049,1085]" pageId="3" pageNumber="194">
+<emphasis box="[477,789,1049,1085]" italics="true" pageId="3" pageNumber="194">Ha/ictus viridiscitus</emphasis>
+Cockerell, 1911
+</taxonomicName>
+</paragraph>
+<paragraph blockId="3.[413,1706,974,1201]" box="[478,982,1088,1124]" pageId="3" pageNumber="194">
+<taxonomicName box="[478,982,1088,1124]" pageId="3" pageNumber="194">
+<emphasis box="[478,734,1088,1124]" italics="true" pageId="3" pageNumber="194">Ha/ictus exterus</emphasis>
+Cockerell, 1911
+</taxonomicName>
+</paragraph>
+<paragraph blockId="3.[413,1706,974,1201]" box="[477,1706,1125,1161]" pageId="3" pageNumber="194">
+<taxonomicName box="[477,1031,1125,1161]" pageId="3" pageNumber="194">
+<emphasis box="[477,788,1125,1161]" italics="true" pageId="3" pageNumber="194">Ha/ictus lavoroensis</emphasis>
+Cockerell, 1929
+</taxonomicName>
+(See Australian Mus. Rec. 17: TODO 228, 1929).
+</paragraph>
+<paragraph blockId="3.[413,1706,974,1201]" box="[477,1181,1163,1201]" pageId="3" pageNumber="194">
+,
+<taxonomicName box="[482,906,1163,1201]" pageId="3" pageNumber="194">
+<emphasis box="[482,751,1163,1201]" italics="true" pageId="3" pageNumber="194">Ha/ictus dampieri</emphasis>
+Cockerell
+</taxonomicName>
+(also 
+<collectingCountry box="[1012,1165,1163,1201]" name="Australia" pageId="3" pageNumber="194">Australia</collectingCountry>
+).
+</paragraph>
+</document>
