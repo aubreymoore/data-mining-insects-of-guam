@@ -1,0 +1,121 @@
+<document approvalRequired="1" approvalRequired_for_document="1" docAuthor="Swezey, O. H." docDate="1942" docId="FFF07216FFA41642FFBAFFE7FFCA482A" docName="InsectsOfGuamI.172.173-173.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Strepsiptera of Guam" lastPageNumber="173" mods:ID="http://doi.org/10.5281/zenodo.5160090" mods:ID-DOI="http://doi.org/10.5281/zenodo.5160090" mods:ID-GBIF-Dataset="5728a9af-6e4a-46e1-a28e-5e4aa1cb9a6f" mods:ID-Zenodo-Dep="5160090" mods:author="Swezey, O. H." mods:location="Honolulu, Hawaii" mods:pagination="173-173" mods:pubDate="1942-06-01" mods:publisher="Bernice P. Bishop Museum" mods:title="Strepsiptera of Guam" mods:type="book chapter" mods:volumeTitle="Insects of Guam I" mods:year="1942" pageNumber="173">
+<subSection _generate="added" box="[787,1170,759,811]" pageId="0" pageNumber="173" type="multiple">
+<paragraph blockId="0.[787,1170,759,811]" box="[787,1170,759,811]" pageId="0" pageNumber="173">
+<heading box="[787,1170,759,811]" pageId="0" pageNumber="173">
+<taxonomicName _evidence="catalogs" _step="order" box="[787,1170,759,811]" class="Insecta" kingdom="Animalia" order="Strepsiptera" pageId="0" pageNumber="173" phylum="Arthropoda" rank="order">STREPSIPTERA</taxonomicName>
+</heading>
+</paragraph>
+</subSection>
+<paragraph blockId="0.[774,1189,1040,1082]" box="[774,1189,1040,1082]" pageId="0" pageNumber="173">
+<heading box="[774,1189,1040,1082]" centered="true" fontSize="8" level="2" pageId="0" pageNumber="173" reason="3">
+FAMILY 
+<taxonomicName _evidence="catalogs" _step="family" box="[936,1189,1040,1082]" class="Insecta" family="Stylopidae" kingdom="Animalia" order="Strepsiptera" pageId="0" pageNumber="173" phylum="Arthropoda" rank="family">STYLOPIDAE</taxonomicName>
+</heading>
+</paragraph>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5164036" ID-GBIF-Taxon="183919674" ID-Zenodo-Dep="5164036" _generate="added" pageId="0" pageNumber="173">
+<subSubSection _generate="added" pageId="0" pageNumber="173" type="nomenclature">
+<paragraph blockId="0.[281,1678,1115,1690]" pageId="0" pageNumber="173">
+? 
+<treatmentCitationGroup pageId="0" pageNumber="173">
+<treatmentCitation author="Pierce" page="167" pageId="0" pageNumber="173" year="1909">
+<taxonomicName _evidence="catalogs" _step="species1" authority="Pierce, U. S." authorityName="Pierce, U. S." box="[337,844,1115,1158]" family="Stylopidae" genus="Elenchoides" kingdom="Animalia" order="Strepsiptera" pageId="0" pageNumber="173" rank="species" species="perkinsi">Elenchoides perkinsi 
+<bibCitation _evidence="bridged" author="Pierce" journalOrPublisher="U. S. National Museum, Bull." pageId="0" pageNumber="173" pagination="167" part="66" refId="ref25" type="journal article" year="1909">
+<author box="[729,844,1115,1158]" pageId="0" pageNumber="173">Pierce</author>
+, 
+<journalOrPublisher box="[864,1399,1115,1158]" pageId="0" pageNumber="173">U. S. National Museum, Bull.</journalOrPublisher>
+<part box="[1413,1463,1115,1158]" pageId="0" pageNumber="173" type="volume">66</part>
+: 
+<pagination box="[1488,1549,1115,1158]" pageId="0" pageNumber="173" type="pageRange">167</pagination>
+, pl. 15, fig. 6, 
+<year box="[459,541,1170,1212]" pageId="0" pageNumber="173">1909</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="173" type="reference_group">
+<paragraph blockId="0.[281,1678,1115,1690]" pageId="0" pageNumber="173">
+<treatmentCitationGroup pageId="0" pageNumber="173">
+<treatmentCitation author="Kirby, Perkins" page="106" pageId="0" pageNumber="173" year="1906">
+<taxonomicName _evidence="catalogs" _step="species1" authority="Kirby, Perkins" authorityName="Kirby, Perkins" box="[343,847,1226,1269]" class="Insecta" family="Elenchidae" genus="Elenchus" kingdom="Animalia" order="Strepsiptera" pageId="0" pageNumber="173" phylum="Arthropoda" rank="species" species="tenuicornis">
+<emphasis box="[343,718,1226,1269]" italics="true" pageId="0" pageNumber="173">Elenchus tenuicornis</emphasis>
+<bibCitation _evidence="authorList" author="Kirby &amp; Perkins" journalOrPublisher="Hawaii. Sugar Plant. Assoc. Ent. Bull." pageId="0" pageNumber="173" pagination="106" part="1" refId="ref46" type="journal article" year="1906">
+<author box="[736,847,1226,1269]" pageId="0" pageNumber="173">Kirby</author>
+, 
+<author box="[877,1018,1226,1269]" pageId="0" pageNumber="173">Perkins</author>
+, 
+<journalOrPublisher pageId="0" pageNumber="173">
+<collectingRegion box="[1046,1182,1226,1269]" country="United States of America" name="Hawaii" pageId="0" pageNumber="173">Hawaii</collectingRegion>
+. Sugar Plant. Assoc. Ent. Bull.
+</journalOrPublisher>
+<emphasis bold="true" box="[509,523,1278,1320]" pageId="0" pageNumber="173">
+<part box="[509,523,1278,1320]" pageId="0" pageNumber="173" type="volume">1</part>
+</emphasis>
+(
+<part box="[560,583,1278,1320]" pageId="0" pageNumber="173" type="issue">3</part>
+):
+<pagination box="[643,699,1278,1320]" pageId="0" pageNumber="173" type="pageRange">106</pagination>
+, 
+<year box="[724,806,1278,1320]" pageId="0" pageNumber="173">1906</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+<treatmentCitation author="Muir" pageId="0" pageNumber="173" year="1906">
+<bibCitation _evidence="authorList" author="Muir" journalOrPublisher="Hawaii. Sugar. Plant. Assoc. Ent. Bull." pageId="0" pageNumber="173" pagination="6" part="2" refId="ref46" type="journal article" year="1906">
+<author box="[839,931,1278,1320]" pageId="0" pageNumber="173">Muir</author>
+, 
+<journalOrPublisher box="[954,1675,1278,1320]" pageId="0" pageNumber="173">Hawaii. Sugar. Plant. Assoc. Ent. Bull.</journalOrPublisher>
+<part box="[404,433,1332,1372]" pageId="0" pageNumber="173" type="volume">2</part>
+: 
+<pagination box="[456,478,1332,1372]" pageId="0" pageNumber="173" type="pageRange">6</pagination>
+, 
+<year box="[501,583,1332,1372]" pageId="0" pageNumber="173">1906</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="173" type="discussion">
+<paragraph blockId="0.[281,1678,1115,1690]" pageId="0" pageNumber="173">
+<materialsCitation collectedFrom="delphacid leafhopper Sogata eupompe Kirkaldy" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="0" pageNumber="173" specimenCount="3">
+<collectingMunicipality box="[344,449,1391,1433]" pageId="0" pageNumber="173">Three</collectingMunicipality>
+<specimenCount box="[466,640,1391,1433]" pageId="0" pageNumber="173" type="generic">specimens</specimenCount>
+of the delphacid leafhopper 
+<taxonomicName _evidence="catalogs" _step="species1" authority="(Kirkaldy)" baseAuthorityName="Kirkaldy" baseAuthorityYear="1907" box="[1165,1671,1391,1433]" class="Insecta" family="Delphacidae" genus="Sogata" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="173" phylum="Arthropoda" rank="species" species="eupompe">
+<emphasis box="[1165,1455,1391,1433]" italics="true" pageId="0" pageNumber="173">
+<location box="[1165,1287,1391,1433]" country="Fiji" municipality="Three" name="Sogata" pageId="0" pageNumber="173">Sogata</location>
+eupompe
+</emphasis>
+(
+<location box="[1489,1659,1391,1433]" country="Fiji" municipality="Three" name="Kirkaldy" pageId="0" pageNumber="173">Kirkaldy</location>
+)
+</taxonomicName>
+from 
+<location box="[389,542,1443,1484]" country="Fiji" municipality="Three" name="Inarajan" pageId="0" pageNumber="173">Inarajan</location>
+</materialsCitation>
+<materialsCitation collectedFrom="delphacid leafhopper Sogata eupompe Kirkaldy" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Agat" pageId="0" pageNumber="173" specimenCount="1">
+and one from 
+<location box="[823,910,1443,1484]" country="Fiji" name="Agat" pageId="0" pageNumber="173">Agat</location>
+were found to have been parasitized by a stylopid.
+</materialsCitation>
+This may possibly be 
+<emphasis box="[881,1263,1493,1535]" italics="true" pageId="0" pageNumber="173">
+<taxonomicName _evidence="catalogs" _step="species1" box="[881,1257,1493,1535]" genus="Elenchoides" kingdom="Animalia" pageId="0" pageNumber="173" rank="species" species="perkinsi">Elenchoides perkinsi</taxonomicName>
+,
+</emphasis>
+a species recorded as abundant on several species of delphacids in Queensland and 
+<collectingCountry box="[1421,1486,1545,1587]" name="Fiji" pageId="0" pageNumber="173" value="Fiji">Fiji</collectingCountry>
+under the name 
+<taxonomicName _evidence="catalogs" _step="species1" authority="Kirby" authorityName="Kirby" box="[390,882,1596,1638]" class="Insecta" family="Elenchidae" genus="Elenchus" kingdom="Animalia" order="Strepsiptera" pageId="0" pageNumber="173" phylum="Arthropoda" rank="species" species="tenuicornis">
+<emphasis box="[390,760,1596,1638]" italics="true" pageId="0" pageNumber="173">Elenchus tenuicornis</emphasis>
+Kirby
+</taxonomicName>
+, a misidentification according to Pierce who names it as above.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>
