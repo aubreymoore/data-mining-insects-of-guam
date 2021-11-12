@@ -17,7 +17,7 @@ I am indebted to 0. H. Swezey for a series of
 . There are two species in his collection.
 </paragraph>
 </subSection>
-<treatment ID-DOI="http://doi.org/10.5281/zenodo.5156803" ID-Zenodo-Dep="5156803" pageId="0" pageNumber="191">
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5156803" ID-GBIF-Taxon="183919736" ID-Zenodo-Dep="5156803" pageId="0" pageNumber="191">
 <subSubSection _generate="added" box="[286,848,942,984]" pageId="0" pageNumber="191" type="nomenclature">
 <paragraph blockId="0.[284,1680,942,1376]" box="[286,848,942,984]" pageId="0" pageNumber="191">
 <heading box="[286,848,942,984]" fontSize="11" level="2" pageId="0" pageNumber="191" reason="2">
@@ -47,7 +47,7 @@ from
 </subSubSection>
 <subSubSection _generate="added" box="[348,1054,1336,1376]" pageId="0" pageNumber="191" type="materials_examined">
 <paragraph blockId="0.[284,1680,942,1376]" box="[348,1054,1336,1376]" pageId="0" pageNumber="191">
-<materialsCitation box="[348,1049,1336,1376]" collectingCountry="Commonwealth of the Northern Mariana Islands" collectingDate="1925-07-23" collectorName="H. G. Hornbostel" location="Rota Island" pageId="0" pageNumber="191" specimenCount="11">
+<materialsCitation ID-GBIF-Occurrence="3331442303" box="[348,1049,1336,1376]" collectingCountry="Commonwealth of the Northern Mariana Islands" collectingDate="1925-07-23" collectorName="H. G. Hornbostel" location="Rota Island" pageId="0" pageNumber="191" specimenCount="11">
 <location box="[348,561,1336,1376]" municipality="July" name="Rota Island" pageId="0" pageNumber="191">Rota Island</location>
 , 
 <collectingMunicipality box="[585,660,1336,1376]" pageId="0" pageNumber="191">July</collectingMunicipality>
@@ -58,7 +58,7 @@ from
 </paragraph>
 </subSubSection>
 </treatment>
-<treatment ID-DOI="http://doi.org/10.5281/zenodo.5156805" ID-Zenodo-Dep="5156805" pageId="0" pageNumber="191">
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5156805" ID-GBIF-Taxon="183919735" ID-Zenodo-Dep="5156805" pageId="0" pageNumber="191">
 <subSubSection _generate="added" box="[283,927,1439,1479]" pageId="0" pageNumber="191" type="nomenclature">
 <paragraph blockId="0.[283,1680,1439,1965]" box="[283,927,1439,1479]" pageId="0" pageNumber="191">
 <heading box="[283,927,1439,1479]" fontSize="8" level="2" pageId="0" pageNumber="191" reason="4">
@@ -83,7 +83,7 @@ Head ordinary, face rather narrow (head smaller and face much narrower than in
 </subSubSection>
 <subSubSection _generate="added" box="[348,1030,2002,2044]" pageId="0" pageNumber="191" type="materials_examined">
 <paragraph blockId="0.[348,1030,2002,2044]" box="[348,1030,2002,2044]" pageId="0" pageNumber="191">
-<materialsCitation box="[348,1025,2002,2044]" collectingCountry="Commonwealth of the Northern Mariana Islands" collectingDate="1925-07-20" collectorName="H. G. Hornbostel" location="Rota Island" pageId="0" pageNumber="191" specimenCount="3">
+<materialsCitation ID-GBIF-Occurrence="3331442301" box="[348,1025,2002,2044]" collectingCountry="Commonwealth of the Northern Mariana Islands" collectingDate="1925-07-20" collectorName="H. G. Hornbostel" location="Rota Island" pageId="0" pageNumber="191" specimenCount="3">
 <location box="[348,563,2002,2044]" municipality="July" name="Rota Island" pageId="0" pageNumber="191">Rota Island</location>
 , 
 <collectingMunicipality box="[583,661,2002,2044]" pageId="0" pageNumber="191">July</collectingMunicipality>
@@ -94,7 +94,7 @@ Head ordinary, face rather narrow (head smaller and face much narrower than in
 </paragraph>
 </subSubSection>
 </treatment>
-<treatment ID-DOI="http://doi.org/10.5281/zenodo.5156808" ID-Zenodo-Dep="5156808" pageId="0" pageNumber="191">
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5156808" ID-GBIF-Taxon="183919737" ID-Zenodo-Dep="5156808" pageId="0" pageNumber="191">
 <subSubSection _generate="added" box="[286,1161,2104,2144]" pageId="0" pageNumber="191" type="nomenclature">
 <paragraph blockId="0.[285,1675,2104,2241]" box="[286,1161,2104,2144]" pageId="0" pageNumber="191">
 <taxonomicName _evidence="statusLabel" _step="nonLabeled3" authorityName="Cockerell" box="[286,919,2104,2144]" kingdom="Animalia" pageId="0" pageNumber="191" rank="variety" status="new variety" variety="hornbosteli">
@@ -112,7 +112,7 @@ var.
 </subSubSection>
 <subSubSection _generate="added" box="[349,1041,2295,2337]" pageId="0" pageNumber="191" type="materials_examined">
 <paragraph blockId="0.[285,1676,2295,2501]" box="[349,1041,2295,2337]" pageId="0" pageNumber="191">
-<materialsCitation box="[349,1041,2295,2337]" collectingCountry="Commonwealth of the Northern Mariana Islands" collectingDate="1925-07" collectorName="H. G. Hornbostel" location="Rota Island" pageId="0" pageNumber="191" specimenCount="1">
+<materialsCitation ID-GBIF-Occurrence="3331442302" box="[349,1041,2295,2337]" collectingCountry="Commonwealth of the Northern Mariana Islands" collectingDate="1925-07" collectorName="H. G. Hornbostel" location="Rota Island" pageId="0" pageNumber="191" specimenCount="1">
 One specimen, 
 <location box="[624,836,2295,2337]" country="New Caledonia" name="Rota Island" pageId="0" pageNumber="191">Rota Island</location>
 , 
@@ -141,7 +141,7 @@ from
 </paragraph>
 </subSubSection>
 </treatment>
-<treatment ID-DOI="http://doi.org/10.5281/zenodo.5156810" ID-Zenodo-Dep="5156810" lastPageId="2" lastPageNumber="193" pageId="1" pageNumber="192">
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5156810" ID-GBIF-Taxon="183919738" ID-Zenodo-Dep="5156810" lastPageId="2" lastPageNumber="193" pageId="1" pageNumber="192">
 <subSubSection _generate="added" box="[765,1497,449,487]" pageId="1" pageNumber="192" type="nomenclature">
 <paragraph blockId="1.[765,1497,449,487]" box="[765,1497,449,487]" pageId="1" pageNumber="192">
 <heading box="[765,1497,449,487]" centered="true" fontSize="8" level="2" pageId="1" pageNumber="192" reason="3">

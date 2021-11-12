@@ -1,4 +1,4 @@
-| uuid                             | last step completed   | title                                                                 |
+| uuid                             | status                | title                                                                 |
 |:---------------------------------|:----------------------|:----------------------------------------------------------------------|
 | 6D52FFB8FF92FFADFF95FFC0A34F4C1B | not started           | no title                                                              |
 | 3E2FFFD28269FFBA01661E40436DDC7F | not started           | no title                                                              |
