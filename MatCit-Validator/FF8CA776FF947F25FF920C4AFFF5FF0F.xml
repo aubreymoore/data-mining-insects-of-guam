@@ -52,16 +52,30 @@ FAMILY
 </paragraph>
 </subSubSection>
 <subSubSection _generate="added" pageId="0" pageNumber="23" type="description">
-<paragraph blockId="0.[294,1690,702,1154]" pageId="0" pageNumber="23">The widely distributed cotton aphis was found to a slight extent on taro. Some bad infestations of it were seen on eggplant. Fullaway reported it on cotton and cowpeas in 1911, and what was probably the same species on watermelon, cucumber, eggplant, and radish. He also reported an undetermined aphid on beets.</paragraph>
+<paragraph blockId="0.[294,1690,702,1154]" pageId="0" pageNumber="23">
+<materialsCitation ID-GBIF-Occurrence="3404208310" collectedFrom="taro, eggplant, cotton, cowpeas, watermelon, cucumber, radish" collectingCountry="Guam" collectingDate="1911" collectionCountry="Guam" collectorName="Fullaway" location="Guam" pageId="0" pageNumber="23">
+<collectingMunicipality box="[358,427,751,794]" pageId="0" pageNumber="23">The</collectingMunicipality>
+widely distributed cotton aphis was found to a slight extent on taro. 
+<location box="[297,393,804,845]" pageId="0" pageNumber="23">Some</location>
+bad infestations of it were seen on eggplant. 
+<location box="[1258,1420,804,845]" pageId="0" pageNumber="23">Fullaway</location>
+reported it on cotton and cowpeas in 1911, and what was probably the same species on watermelon, cucumber, eggplant, and radish. 
+<location box="[1053,1106,908,948]" pageId="0" pageNumber="23">He</location>
+also reported an undetermined aphid on beets
+</materialsCitation>
+.
+</paragraph>
 </subSubSection>
 <subSubSection _generate="added" pageId="0" pageNumber="23" type="materials_examined">
 <paragraph blockId="0.[294,1690,702,1154]" pageId="0" pageNumber="23">
-<materialsCitation ID-GBIF-Occurrence="3331266301" pageId="0" pageNumber="23">
+<materialsCitation ID-GBIF-Occurrence="3331266301" collectedFrom="taro" collectingCountry="Guam" collectingDate="1936-05-14" collectorName="O. H. Swezey" location="Inarajan" pageId="0" pageNumber="23">
 From parasitized 
 <taxonomicName _evidence="document" _step="nonLabeled1" box="[673,816,1009,1052]" class="Insecta" family="Aphididae" genus="Aphis" kingdom="Animalia" order="Aphidomorpha" pageId="0" pageNumber="23" phylum="Arthropoda" rank="species" species="gossypii">
 <emphasis box="[673,816,1009,1052]" italics="true" pageId="0" pageNumber="23">gossypii</emphasis>
 </taxonomicName>
-on taro at Inarajan, May 14, 6 
+on taro at Inarajan, 
+<date box="[1192,1328,1009,1052]" pageId="0" pageNumber="23" value="2014-05">May 14</date>
+, 6 
 <emphasis box="[1383,1689,1009,1052]" italics="true" pageId="0" pageNumber="23">
 <taxonomicName box="[1383,1569,1009,1052]" pageId="0" pageNumber="23">Aphelinus</taxonomicName>
 issued.
@@ -105,6 +119,7 @@ but do not have the darkened mid and hind tibiae of that species.
 </subSubSection>
 <subSubSection _generate="added" pageId="0" pageNumber="23" type="description">
 <paragraph blockId="0.[296,1692,1188,1643]" pageId="0" pageNumber="23">
+<materialsCitation ID-GBIF-Occurrence="3404208307" collectedFrom="corn" collectingCountry="Guam" collectingDate="1911" collectorName="Fullaway" location="Guam" pageId="0" pageNumber="23">
 The corn aphis was very abundant on corn at times. It especially infested the tassels just before or at the time of expansion. I did not find it on other plants, but in 1911, Fullaway reported it also occurring on broom and Kafir corn. Three species.of ladybeetles were found feeding on the corn aphis, 
 <emphasis italics="true" pageId="0" pageNumber="23">
 <taxonomicName _evidence="catalogs" _step="genera" class="Insecta" family="Coccinellidae" genus="Harmonia" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="23" phylum="Arthropoda" rank="genus">Harmonia a,rcuata</taxonomicName>
@@ -117,7 +132,9 @@ and
 <taxonomicName box="[1097,1491,1447,1489]" pageId="0" pageNumber="23">Anisoleninia 1nulsanti</taxonomicName>
 .
 </emphasis>
-The first mentioned was most abundant and very effective in reducing an infestation. The last mentioned was only occasionally seen. A syrphid fly was commonly seen also, its green larvae feeding on aphids.
+The first mentioned was most abundant and very effective in reducing an infestation. The last mentioned was only occasionally seen. A syrphid fly was commonly seen also, its green larvae feeding on aphids
+</materialsCitation>
+.
 </paragraph>
 </subSubSection>
 </treatment>
@@ -155,18 +172,22 @@ Soc. Ent.
 </subSubSection>
 <subSubSection _generate="added" pageId="0" pageNumber="23" type="description">
 <paragraph blockId="0.[296,1692,1677,2207]" pageId="0" pageNumber="23">
+<materialsCitation ID-GBIF-Occurrence="3404208305" collectedFrom="common milkweed, Asclepias curassavica" collectingDate="1936" collectionCountry="Guam" collectorName="O. H. Swezey" location="Piti" pageId="0" pageNumber="23">
 The milkweed aphis was found once at Piti. A colony occurred on the common milkweed 
 <emphasis box="[653,1070,1782,1822]" italics="true" pageId="0" pageNumber="23">
 (
 <taxonomicName box="[665,1058,1782,1822]" pageId="0" pageNumber="23">Asclepias curassavica</taxonomicName>
 )
 </emphasis>
-at the Agricultural School Firm. Another colony was found on the same plant at Fadian.
+at the Agricultural School Firm
+</materialsCitation>
+. 
+<materialsCitation ID-GBIF-Occurrence="3404208308" box="[298,1305,1832,1874]" collectedFrom="common milkweed, Asclepias curassavica" collectingDate="1936" collectionCountry="Guam" collectorName="O. H. Swezey" location="Fadian" pageId="0" pageNumber="23">Another colony was found on the same plant at Fadian</materialsCitation>
+.
 </paragraph>
 </subSubSection>
 <subSubSection _generate="added" pageId="0" pageNumber="23" type="materials_examined">
 <paragraph blockId="0.[296,1692,1677,2207]" pageId="0" pageNumber="23">
-<materialsCitation ID-GBIF-Occurrence="3331266302" pageId="0" pageNumber="23">
 A large green aphid was found on the large marsh reed 
 <emphasis italics="true" pageId="0" pageNumber="23">
 (
@@ -174,7 +195,6 @@ A large green aphid was found on the large marsh reed
 )
 </emphasis>
 on two occasions, once at Inarajan and again at Piti, but I failed to preserve any for identification.
-</materialsCitation>
 </paragraph>
 </subSubSection>
 <subSubSection _generate="added" pageId="0" pageNumber="23" type="discussion">
@@ -272,23 +292,39 @@ FAMILY
 </subSubSection>
 <subSubSection _generate="added" pageId="1" pageNumber="24" type="description">
 <paragraph blockId="1.[428,1825,401,909]" pageId="1" pageNumber="24">
-<title jopScore="1.0248926" pageId="1" pageNumber="24">This sugar cane aleurodid was found sparsely in small colonies on cane in a small field on the Sumay Road about two miles south of Piti, October 3, 17, 1936. At Mata, November 11, some larger colonies were found on a single stool of cane in a garden</title>
-. They were attended by the &quot;fire ant&quot; 
+<title jopScore="1.0248926" pageId="1" pageNumber="24">
+<materialsCitation ID-GBIF-Occurrence="3404208303" collectedFrom="sugarcane" collectingCountry="Guam" collectingDate="1936-10-03" collectorName="O. H. Swezey" location="Piti" pageId="1" pageNumber="24">
+This sugar cane aleurodid was found sparsely in small colonies on cane in a small field on the 
+<location box="[783,1549,453,495]" pageId="1" pageNumber="24">Sumay Road about two miles south of Piti</location>
+, 
+<date box="[1574,1751,453,495]" pageId="1" pageNumber="24">October 3</date>
+,
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404208304" collectedFrom="sugarcane" collectingCountry="Guam" collectingDate="1936-10-17" collectorName="O. H. Swezey" location="Piti" pageId="1" pageNumber="24">17, 1936.</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404208309" collectedFrom="sugarcane" collectingCountry="Guam" collectingDate="1936-11-11" collectorName="O. H. Swezey" location="Mata" pageId="1" pageNumber="24">
+At Mata, 
+<date box="[740,984,505,546]" pageId="1" pageNumber="24" value="2011-11">November 11</date>
+, some larger colonies were found on a single stool of cane in a garden. They were attended by the &quot;fire ant&quot; 
 <emphasis italics="true" pageId="1" pageNumber="24">
 (
 <taxonomicName pageId="1" pageNumber="24">Solenopsis geminata rufa</taxonomicName>
 ).
 </emphasis>
-On Mt. Alifan, May 26, a colony was found on. the grass 
+</materialsCitation>
+</title>
+<materialsCitation ID-GBIF-Occurrence="3404208301" collectedFrom="Paspalum conjugatum" collectingCountry="Guam" collectingDate="1936-05-26" collectorName="O. H. Swezey" location="Mount Alifan" pageId="1" pageNumber="24">
+On Mt. Alifan, 
+<date box="[1052,1193,607,650]" pageId="1" pageNumber="24" value="1926-05">May 26</date>
+, a colony was found on. the grass 
 <taxonomicName box="[428,825,660,700]" pageId="1" pageNumber="24">
 <emphasis box="[428,825,660,700]" italics="true" pageId="1" pageNumber="24">Paspalum conjugatum</emphasis>
 </taxonomicName>
+</materialsCitation>
 .
 </paragraph>
 </subSubSection>
 <subSubSection _generate="added" pageId="1" pageNumber="24" type="materials_examined">
 <paragraph blockId="1.[428,1825,401,909]" pageId="1" pageNumber="24">
-<materialsCitation ID-GBIF-Occurrence="3331266303" pageId="1" pageNumber="24">
 This aleurodid is known to infest sugar cane from 
 <collectingCountry box="[1393,1570,711,753]" name="Mauritius" pageId="1" pageNumber="24">Mauritius</collectingCountry>
 , 
@@ -304,11 +340,8 @@ and
 . This is the first record of it in 
 <collectingCountry box="[1710,1818,762,804]" name="Guam" pageId="1" pageNumber="24">Guam</collectingCountry>
 .
-</materialsCitation>
 </paragraph>
-<paragraph blockId="1.[428,1825,401,909]" pageId="1" pageNumber="24">
-<materialsCitation ID-GBIF-Occurrence="3331266304" pageId="1" pageNumber="24">Immature aleurodids were found on taro leaves in a gulch near Mt. Tenjo, May3. Noadultswereobtainedandnomaterialpreserved.</materialsCitation>
-</paragraph>
+<paragraph blockId="1.[428,1825,401,909]" pageId="1" pageNumber="24">Immature aleurodids were found on taro leaves in a gulch near Mt. Tenjo, May3. Noadultswereobtainedandnomaterialpreserved.</paragraph>
 </subSubSection>
 </treatment>
 </subSection>
