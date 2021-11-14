@@ -60,7 +60,7 @@ Cryptotermes hermsi
 </heading>
 <subSubSection _generate="added" box="[361,1150,1025,1067]" pageId="0" pageNumber="9" type="materials_examined">
 <paragraph blockId="0.[296,1695,972,1229]" box="[361,1150,1025,1067]" pageId="0" pageNumber="9">
-<materialsCitation ID-GBIF-Occurrence="3331441302" box="[361,1150,1025,1067]" pageId="0" pageNumber="9">Piti, Oct. 27, in dead bamboo stub, Swezey.</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331441302" box="[361,1150,1025,1067]" collectedFrom="dead bamboo stub" collectingCountry="Guam" collectingDate="1936-10-27" collectorName="O. H. Swezey" location="Piti" pageId="0" pageNumber="9">Piti, Oct. 27, in dead bamboo stub, Swezey.</materialsCitation>
 </paragraph>
 </subSubSection>
 <subSubSection _generate="added" pageId="0" pageNumber="9" type="discussion">
@@ -105,19 +105,20 @@ Described from Fanning Island.. Recorded by Light from Washington Island, Marque
 </heading>
 <subSubSection _generate="added" pageId="0" pageNumber="9" type="materials_examined">
 <paragraph blockId="0.[297,1696,1275,1743]" pageId="0" pageNumber="9">
-<materialsCitation ID-GBIF-Occurrence="3331441303" box="[363,1372,1386,1429]" pageId="0" pageNumber="9">
-Agana Swamp, May 4 and 25, 
+<materialsCitation ID-GBIF-Occurrence="3404211301" box="[363,832,1386,1429]" collectedFrom="ex Pandanus log" collectingCountry="Guam" collectingDate="1936-05-04" collectorName="O. H. Swezey" location="Agana Swamp" pageId="0" pageNumber="9">Agana Swamp, May 4 and</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404211302" box="[844,1372,1386,1429]" collectedFrom="ex Pandanus log" collectingCountry="Guam" collectingDate="1936-05-25" collectorName="O. H. Swezey" location="Agana Swamp" pageId="0" pageNumber="9">
+25, 
 <emphasis box="[908,1136,1386,1429]" italics="true" pageId="0" pageNumber="9">exPanda.nus</emphasis>
 log, Swezey;
 </materialsCitation>
-<materialsCitation ID-GBIF-Occurrence="3331441301" pageId="0" pageNumber="9">
+<materialsCitation ID-GBIF-Occurrence="3331441301" collectedFrom="ex Hibiscus tiliaceus log" collectingCountry="Guam" collectingDate="1936-05-05" collectorName="O. H. Swezey" location="Upi Trail" pageId="0" pageNumber="9">
 Upi Trail, May 5, ex 
 <taxonomicName _evidence="catalogs" _step="species1" box="[356,670,1436,1479]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="0" pageNumber="9" phylum="Tracheophyta" rank="species" species="tiliaceus">
 <emphasis box="[356,670,1436,1479]" italics="true" pageId="0" pageNumber="9">Hibiscus tiliaceus</emphasis>
 </taxonomicName>
 log, Swezey;
 </materialsCitation>
-<materialsCitation ID-GBIF-Occurrence="3331441304" pageId="0" pageNumber="9">Yigo, Oct. 18, ex log of fertile breadfruit, Swezey.</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331441304" collectedFrom="ex log of fertile breadfruit" collectingCountry="Guam" collectingDate="1936-10-18" collectorName="O. H. Swezey" location="Yigo" pageId="0" pageNumber="9">Yigo, Oct. 18, ex log of fertile breadfruit, Swezey.</materialsCitation>
 </paragraph>
 </subSubSection>
 <subSubSection _generate="added" pageId="0" pageNumber="9" type="discussion">
@@ -185,7 +186,7 @@ Die Fauna Sudwest-Australiens,
 </heading>
 <subSubSection _generate="added" box="[363,1277,1898,1940]" pageId="0" pageNumber="9" type="materials_examined">
 <paragraph blockId="0.[299,1698,1786,2154]" box="[363,1277,1898,1940]" pageId="0" pageNumber="9">
-<materialsCitation ID-GBIF-Occurrence="3331441305" box="[363,1277,1898,1940]" pageId="0" pageNumber="9">Yigo, Oct. 18, ex log of fertile breadfruit, Swezey.</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331441305" box="[363,1277,1898,1940]" collectedFrom="ex log of fertile breadfruit" collectingCountry="Guam" collectingDate="1936-10-18" collectorName="O. H. Swezey" location="Yigo" pageId="0" pageNumber="9">Yigo, Oct. 18, ex log of fertile breadfruit, Swezey.</materialsCitation>
 </paragraph>
 </subSubSection>
 <subSubSection _generate="added" pageId="0" pageNumber="9" type="discussion">

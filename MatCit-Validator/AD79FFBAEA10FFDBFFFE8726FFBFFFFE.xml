@@ -351,10 +351,12 @@ The more salient differences are summed up in the synoptic table, and a detailed
 </subSubSection>
 <subSubSection _generate="added" lastPageId="2" lastPageNumber="67" pageId="1" pageNumber="66" type="materials_examined">
 <paragraph blockId="1.[446,1843,2103,2561]" lastBlockId="2.[306,1702,340,595]" lastPageId="2" lastPageNumber="67" pageId="1" pageNumber="66">
-<materialsCitation ID-GBIF-Occurrence="3336138305" lastPageId="2" lastPageNumber="67" pageId="1" pageNumber="66">
+<materialsCitation ID-GBIF-Occurrence="3404213315" lastPageId="2" lastPageNumber="67" pageId="1" pageNumber="66">
 Seven specimens representing both sexes of this peculiar species were collected at Machanao by Usinger, 
 <date box="[1042,1285,2468,2510]" pageId="1" pageNumber="66" value="1936-06-05">June 5, 1936</date>
-; five of them were from dead leaves of a fallen tree, the other two were beaten from dried leaves of fallen branches; 
+; five of them were from dead leaves of a fallen tree, the other two were beaten from dried leaves of fallen branches;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331287324" pageId="2" pageNumber="67">
 <specimenCount box="[494,724,340,382]" pageId="2" pageNumber="67" type="generic">22 specimens</specimenCount>
 from the National Museum were found by Oakley on 
 <taxonomicName _evidence="catalogs" _step="genera" box="[306,480,392,432]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="2" pageNumber="67" phylum="Tracheophyta" rank="genus">
@@ -566,7 +568,7 @@ vertical, reticulate, minutely punctate and setose, well margined, about one fou
 </subSubSection>
 <subSubSection _generate="added" pageId="4" pageNumber="69" type="materials_examined">
 <paragraph blockId="4.[310,1707,1408,2218]" pageId="4" pageNumber="69">
-<materialsCitation ID-GBIF-Occurrence="3336138302" collectingDate="1936-05-22" collectingDateMax="1936-05-24" collectingDateMin="1936-05-22" collectionCode="TODO" pageId="4" pageNumber="69" specimenCount="5" typeStatus="holotype">
+<materialsCitation ID-GBIF-Occurrence="3331287305" collectingDate="1936-05-22" collectingDateMax="1936-05-24" collectingDateMin="1936-05-22" collectionCode="TODO" pageId="4" pageNumber="69" specimenCount="5" typeStatus="holotype">
 <typeStatus box="[374,536,1408,1450]" pageId="4" pageNumber="69">Holotype</typeStatus>
 male and 
 <specimenCount box="[727,998,1408,1450]" pageId="4" pageNumber="69" type="generic" typeStatus="paratypes">three paratypes</specimenCount>
@@ -591,7 +593,9 @@ the other
 <specimenCount pageId="4" pageNumber="69" type="generic" typeStatus="paratypes">two paratypes</specimenCount>
 from 
 <emphasis box="[602,719,1509,1552]" italics="true" pageId="4" pageNumber="69">&quot;Ficus</emphasis>
-small leaf&quot;; 
+small leaf&quot;;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331287303" collectingDate="1936-05-22" collectingDateMax="1936-05-24" collectingDateMin="1936-05-22" collectionCode="TODO" pageId="4" pageNumber="69" specimenCount="5" typeStatus="holotype">
 <typeStatus box="[966,1103,1509,1552]" pageId="4" pageNumber="69">allotype</typeStatus>
 and 
 <specimenCount box="[1201,1480,1509,1552]" pageId="4" pageNumber="69" type="generic" typeStatus="paratypes">seven paratypes</specimenCount>
@@ -603,7 +607,9 @@ at
 <date box="[606,859,1562,1602]" pageId="4" pageNumber="69" value="1936-05-22">
 <collectingDate box="[606,859,1562,1602]" pageId="4" pageNumber="69" value="1936-05-22">May 22, 1936</collectingDate>
 </date>
-; 
+;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404213302" collectingDate="1936-05-22" collectingDateMax="1936-05-24" collectingDateMin="1936-05-22" collectionCode="TODO" pageId="4" pageNumber="69" specimenCount="5" typeStatus="holotype">
 <specimenCount box="[882,1126,1562,1602]" pageId="4" pageNumber="69" type="generic" typeStatus="paratypes">five paratypes</specimenCount>
 from the same locality collected by 
 <collectorName box="[370,501,1612,1654]" pageId="4" pageNumber="69">Swezey</collectorName>
@@ -612,17 +618,30 @@ as follows: one from
 <emphasis box="[910,1108,1612,1654]" italics="true" pageId="4" pageNumber="69">Glochidion,</emphasis>
 Aug.
 </taxonomicName>
-18; one found in a garden, 
+18;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404213317" collectingDate="1936-05-22" collectingDateMax="1936-05-24" collectingDateMin="1936-05-22" collectionCode="TODO" pageId="4" pageNumber="69" specimenCount="5" typeStatus="holotype">
+one found in a garden, 
 <collectorName box="[311,383,1662,1705]" pageId="4" pageNumber="69">Oct.</collectorName>
 <emphasis box="[401,436,1662,1705]" italics="true" pageId="4" pageNumber="69">7;</emphasis>
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404213305" box="[452,1097,1662,1705]" collectingDate="1936-05-22" collectingDateMax="1936-05-24" collectingDateMin="1936-05-22" collectionCode="TODO" pageId="4" pageNumber="69" specimenCount="5" typeStatus="holotype">
 one from dead orange twigs, 
 <collectorName box="[973,1045,1662,1705]" pageId="4" pageNumber="69">Oct.</collectorName>
-9; one from dead breadfruit branch, 
+9;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404213309" collectingDate="1936-05-22" collectingDateMax="1936-05-24" collectingDateMin="1936-05-22" collectionCode="TODO" pageId="4" pageNumber="69" specimenCount="5" typeStatus="holotype">
+one from dead breadfruit branch, 
 <collectorName box="[311,383,1714,1756]" pageId="4" pageNumber="69">Oct.</collectorName>
 <emphasis box="[401,458,1714,1756]" italics="true" pageId="4" pageNumber="69">27;</emphasis>
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404213308" box="[475,1079,1714,1756]" collectingDate="1936-05-22" collectingDateMax="1936-05-24" collectingDateMin="1936-05-22" collectionCode="TODO" pageId="4" pageNumber="69" specimenCount="5" typeStatus="holotype">
 one swept from bamboo, 
 <collectorName box="[933,1005,1714,1756]" pageId="4" pageNumber="69">Oct.</collectorName>
-29; and one collected by 
+29;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404213316" collectingDate="1936-05-22" collectingDateMax="1936-05-24" collectingDateMin="1936-05-22" collectionCode="TODO" pageId="4" pageNumber="69" specimenCount="5" typeStatus="holotype">
+and one collected by 
 <collectorName box="[1472,1602,1714,1756]" pageId="4" pageNumber="69">Swezey</collectorName>
 from 
 <taxonomicName _evidence="catalogs" _step="genera" box="[313,420,1765,1807]" class="Magnoliopsida" family="Rutaceae" genus="Citrus" kingdom="Plantae" order="Sapindales" pageId="4" pageNumber="69" phylum="Tracheophyta" rank="genus">
@@ -717,7 +736,6 @@ reticulate but evidently not punctate; finely setose. Length,
 </subSubSection>
 <subSubSection _generate="added" pageId="5" pageNumber="70" type="materials_examined">
 <paragraph blockId="5.[431,1832,405,1880]" pageId="5" pageNumber="70">
-<materialsCitation ID-GBIF-Occurrence="3336138301" collectingDate="1936-05-31" country="Island Guam" location="Usinger-is in Bishop Museum." pageId="5" pageNumber="70" specimenCount="1" typeStatus="holotype">
 <typeStatus box="[497,659,1428,1470]" pageId="5" pageNumber="70">Holotype</typeStatus>
 male, to be deposited in the United States 
 <collectorName box="[1495,1823,1428,1470]" pageId="5" pageNumber="70">National Museum</collectorName>
@@ -725,6 +743,7 @@ male, to be deposited in the United States
 <collectingCountry box="[582,822,1479,1521]" name="Island Guam" pageId="5" pageNumber="70">Island Guam</collectingCountry>
 , 1425&quot; collected by 
 <collectorName box="[1182,1353,1479,1521]" pageId="5" pageNumber="70">Fullaway.</collectorName>
+<materialsCitation ID-GBIF-Occurrence="3331287311" collectingDate="1936-05-31" country="Island Guam" location="Usinger-is in Bishop Museum." pageId="5" pageNumber="70" specimenCount="1" typeStatus="holotype">
 One paratype-an immature specimen, yellow throughout, collected at 
 <collectorName box="[1266,1351,1530,1573]" pageId="5" pageNumber="70">Agat</collectorName>
 from 
@@ -850,29 +869,43 @@ but the interscrobal area is broader than the interocular area rather than being
 breadth, 1.0-1.5 111111
 </paragraph>
 <paragraph blockId="6.[300,1696,333,888]" pageId="6" pageNumber="71">
+<materialsCitation ID-GBIF-Occurrence="3404213313" pageId="6" pageNumber="71">
 Three specimens of this species were collected by Swezey on 
 <collectingCountry box="[1534,1638,436,479]" name="Guam" pageId="6" pageNumber="71">Guam</collectingCountry>
 as follows: 
 <specimenCount box="[459,690,488,530]" pageId="6" pageNumber="71" type="generic">one specimen</specimenCount>
 from the dry leaf of a large taro at Agana, 
 <date box="[1462,1687,488,530]" pageId="6" pageNumber="71" value="1936-05-04">May 4, 1936</date>
-; 
+;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404213304" box="[301,1370,539,581]" pageId="6" pageNumber="71">
 <specimenCount box="[301,537,539,581]" pageId="6" pageNumber="71" type="generic">one specimen</specimenCount>
 from 
 <taxonomicName _evidence="catalogs" _step="species1" box="[657,1001,539,581]" class="Magnoliopsida" family="Malvaceae" genus="Thespesia" kingdom="Plantae" order="Malvales" pageId="6" pageNumber="71" phylum="Tracheophyta" rank="species" species="populnea">
 <emphasis box="[657,1001,539,581]" italics="true" pageId="6" pageNumber="71">Thespesia populnea</emphasis>
 </taxonomicName>
-at Umatac, May 28, and 
+at Umatac, May 28,
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404213318" pageId="6" pageNumber="71">
+and 
 <specimenCount box="[1463,1696,539,581]" pageId="6" pageNumber="71" type="generic">one specimen</specimenCount>
 from the seed cluster of a palm (
 <emphasis box="[890,1161,590,632]" italics="true" pageId="6" pageNumber="71">Coccothrina,r?)</emphasis>
-, Yigo, Nov. 13. The National Museum sent the following, all taken by Oakley: four in roof of thatched house, 
+, Yigo, Nov. 13.
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404213303" pageId="6" pageNumber="71">
+The National Museum sent the following, all taken by Oakley: four in roof of thatched house, 
 <date box="[442,717,693,735]" pageId="6" pageNumber="71" value="1937-09-10">Sept. 10, 1937</date>
-, and one labeled &quot;
+,
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404213310" pageId="6" pageNumber="71">
+and one labeled &quot;
 <collectingCountry box="[1091,1459,693,735]" name="Hong Kong China" pageId="6" pageNumber="71">Hong Kong China</collectingCountry>
 , 
 <collectingCountry box="[1494,1599,693,735]" name="Guam" pageId="6" pageNumber="71">Guam</collectingCountry>
-416, II-20-38, with Philippine Clipper, 38-8993.&quot;
+416, II-20-38, with Philippine Clipper, 38-8993
+</materialsCitation>
+.&quot;
 </paragraph>
 </subSubSection>
 <subSubSection _generate="added" pageId="6" pageNumber="71" type="distribution">
@@ -1075,31 +1108,49 @@ and eastward to Mangareva. Specimens range in size from
 Twenty-one specimens from 
 <collectingCountry box="[1028,1132,697,741]" name="Guam" pageId="7" pageNumber="72">Guam</collectingCountry>
 are before me. 
-<materialsCitation ID-GBIF-Occurrence="3336138303" pageId="7" pageNumber="72">
+<materialsCitation ID-GBIF-Occurrence="3331287322" pageId="7" pageNumber="72">
 Five specimens collected by Usinger as follows: one at Inarajan, 
 <date box="[1188,1422,751,793]" pageId="7" pageNumber="72" value="1936-05-06">May 6, 1936</date>
-; two, at Tarague, from 
-<emphasis box="[452,1043,802,844]" italics="true" pageId="7" pageNumber="72">Messerschniidia (Tournefortia),</emphasis>
-May 17; two at Mount Alifan, one from dead breadfruit, May 21, the other May 26.
+;
 </materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331287302" pageId="7" pageNumber="72">
+two, at Tarague, from 
+<emphasis box="[452,1043,802,844]" italics="true" pageId="7" pageNumber="72">Messerschniidia (Tournefortia),</emphasis>
+May 17;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404213307" pageId="7" pageNumber="72">two at Mount Alifan, one from dead breadfruit, May 21,</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404213312" box="[931,1262,853,895]" pageId="7" pageNumber="72">the other May 26.</materialsCitation>
 Fifteen specimens collected by Swezey as follows: 
-<materialsCitation ID-GBIF-Occurrence="3336138306" pageId="7" pageNumber="72">
-three at Santa Rosa Peak, from dead corn stalks, May 19; three at Piti from fallen breadfruit, May 23; two from Orote Point, May 24; one at Tumon from 
+<materialsCitation ID-GBIF-Occurrence="3331287314" box="[809,1848,904,947]" pageId="7" pageNumber="72">three at Santa Rosa Peak, from dead corn stalks, May 19;</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331287308" box="[454,1260,955,998]" pageId="7" pageNumber="72">three at Piti from fallen breadfruit, May 23;</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404213301" pageId="7" pageNumber="72">
+two from Orote Point, May 24; one at Tumon from 
 <emphasis box="[830,1227,1005,1049]" italics="true" pageId="7" pageNumber="72">
 <taxonomicName _evidence="catalogs" _step="species1" box="[830,1221,1005,1049]" class="Magnoliopsida" family="Lecythidaceae" genus="Barringtonia" kingdom="Plantae" order="Ericales" pageId="7" pageNumber="72" phylum="Tracheophyta" rank="species" species="speciosa">Barringtonia speciosa</taxonomicName>
 ,
 </emphasis>
-May 30; one at Agat, from 
+May 30;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331287312" pageId="7" pageNumber="72">
+one at Agat, from 
 <emphasis italics="true" pageId="7" pageNumber="72">
 <taxonomicName _evidence="catalogs" _step="genera" class="Magnoliopsida" family="Hernandiaceae" genus="Hernandia" kingdom="Plantae" order="Laurales" pageId="7" pageNumber="72" phylum="Tracheophyta" rank="genus">Hernandia</taxonomicName>
 ,
 </emphasis>
-May 31; one from Agana, June 26; one at Machanao, from 
+May 31;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331287315" box="[781,1277,1058,1101]" pageId="7" pageNumber="72">one from Agana, June 26;</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331287304" pageId="7" pageNumber="72">
+one at Machanao, from 
 <emphasis italics="true" pageId="7" pageNumber="72">
 <taxonomicName _evidence="catalogs" _step="genera" box="[1750,1849,1058,1101]" class="Magnoliopsida" family="Piperaceae" genus="Piper" kingdom="Plantae" order="Piperales" pageId="7" pageNumber="72" phylum="Tracheophyta" rank="genus">Piper</taxonomicName>
 guahaniense,
 </emphasis>
-Aug. 6; one from Piti, Aug. 17, and two from seed cluster of a Ralm 
+Aug. 6;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404213314" box="[848,1274,1110,1152]" pageId="7" pageNumber="72">one from Piti, Aug. 17,</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404213311" pageId="7" pageNumber="72">
+and two from seed cluster of a Ralm 
 <emphasis box="[569,874,1160,1203]" italics="true" pageId="7" pageNumber="72">(Coccothrina.r?).</emphasis>
 </materialsCitation>
 I have seen another specimen collected by D. T. Fullaway.
@@ -1173,7 +1224,7 @@ figs. 6a-6b,
 </subSubSection>
 <subSubSection _generate="added" pageId="7" pageNumber="72" type="materials_examined">
 <paragraph blockId="7.[452,1851,1671,2073]" pageId="7" pageNumber="72">
-<materialsCitation ID-GBIF-Occurrence="3336138304" collectingDate="1936-05-30" collectorName="Fullaway." country="Guam" location="Three" municipality="Tumon" pageId="7" pageNumber="72" specimenCount="1">
+<materialsCitation ID-GBIF-Occurrence="3404213306" collectingDate="1936-05-30" collectorName="Fullaway." country="Guam" location="Three" municipality="Tumon" pageId="7" pageNumber="72" specimenCount="1">
 <location box="[516,621,1775,1817]" country="Guam" municipality="Tumon" name="Three" pageId="7" pageNumber="72">Three</location>
 specimens of this species were collected at 
 <collectingCountry box="[1402,1506,1775,1817]" name="Guam" pageId="7" pageNumber="72">Guam</collectingCountry>
@@ -1187,11 +1238,13 @@ as follows: one at
 <date box="[965,1213,1827,1869]" pageId="7" pageNumber="72" value="1936-05-30">
 <collectingDate box="[965,1213,1827,1869]" pageId="7" pageNumber="72" value="1936-05-30">May 30, 1936</collectingDate>
 </date>
-, and one at Inarajan, &quot;ex pago&quot; by Swezey, June 8; and 
+,
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331287323" collectingDate="1936-05-30" collectorName="Fullaway." country="Guam" location="Three" municipality="Tumon" pageId="7" pageNumber="72" specimenCount="1">and one at Inarajan, &quot;ex pago&quot; by Swezey, June 8;</materialsCitation>
+and 
 <specimenCount box="[849,1086,1877,1920]" pageId="7" pageNumber="72" type="generic">one specimen</specimenCount>
 collected by 
 <collectorName box="[1331,1501,1877,1920]" pageId="7" pageNumber="72">Fullaway.</collectorName>
-</materialsCitation>
 </paragraph>
 </subSubSection>
 <subSubSection _generate="added" pageId="7" pageNumber="72" type="discussion">
