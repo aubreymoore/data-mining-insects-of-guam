@@ -6,6 +6,8 @@
 
 [Anthribidae validation report (YouTube screencast)](https://youtu.be/FM-fHQhlIT4)
 
+[Anthribidae: Editing matCit annotations: YouTube screencast](https://youtu.be/NfRHdKfv7CQ)
+
 [GitHub Pages served by this site](https://aubreymoore.github.io/data-mining-insects-of-guam/)
 
 [Table of datasets extracted from Guam I and II](https://aubreymoore.github.io/data-mining-insects-of-guam/data/dataset-list.html)
