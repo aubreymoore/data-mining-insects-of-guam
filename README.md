@@ -4,6 +4,8 @@
 
 [Anthribidae before final edit](https://aubreymoore.github.io/data-mining-insects-of-guam/MatCit-Validator/anthribidae_before_final_edit.html)
 
+[Anthribidae validation report (YouTube screencast)](https://youtu.be/FM-fHQhlIT4)
+
 [GitHub Pages served by this site](https://aubreymoore.github.io/data-mining-insects-of-guam/)
 
 [Table of datasets extracted from Guam I and II](https://aubreymoore.github.io/data-mining-insects-of-guam/data/dataset-list.html)
