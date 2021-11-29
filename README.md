@@ -2,7 +2,7 @@
 
 [Status report](https://aubreymoore.github.io/data-mining-insects-of-guam/MatCit-Validator/status_report.html)
 
-[Anthribidae before final edit](anthribidae_before_final_edit.html)
+[Anthribidae before final edit](https://aubreymoore.github.io/data-mining-insects-of-guam/MatCit-Validator/anthribidae_before_final_edit.html)
 
 [GitHub Pages served by this site](https://aubreymoore.github.io/data-mining-insects-of-guam/)
 
