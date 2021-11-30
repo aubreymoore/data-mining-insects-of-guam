@@ -2,11 +2,11 @@
 
 [Status report](https://aubreymoore.github.io/data-mining-insects-of-guam/MatCit-Validator/status_report.html)
 
-[Anthribidae before final edit](https://aubreymoore.github.io/data-mining-insects-of-guam/MatCit-Validator/anthribidae_before_final_edit.html)
+[Anthribidae: validation report before final edit](https://aubreymoore.github.io/data-mining-insects-of-guam/MatCit-Validator/anthribidae_before_final_edit.html)
 
-[Anthribidae validation report (YouTube screencast)](https://youtu.be/FM-fHQhlIT4)
+[Anthribidae: Understanding the validation report (YouTube screencast)](https://youtu.be/FM-fHQhlIT4)
 
-[Anthribidae: Editing matCit annotations: YouTube screencast](https://youtu.be/NfRHdKfv7CQ)
+[Anthribidae: Editing matCit annotations (YouTube screencast)](https://youtu.be/NfRHdKfv7CQ)
 
 [GitHub Pages served by this site](https://aubreymoore.github.io/data-mining-insects-of-guam/)
 
