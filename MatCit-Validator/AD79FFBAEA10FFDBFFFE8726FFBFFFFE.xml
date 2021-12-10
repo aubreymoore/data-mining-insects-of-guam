@@ -478,7 +478,7 @@ at Inarajan
 ;
 </volumeTitle>
 </materialsCitation>
-<materialsCitation ID-GBIF-Occurrence="3331287330" collectingDate="1936" collectorName="Fullaway" country="Island Guam" location="Guam" pageId="3" pageNumber="68" specimenCount="1">allotype male collected by Fullaway and labeled &quot;Island Guam&quot; no. &quot;1133&quot; to be deposited in the National Museum.</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331287330" collectingDate="1936" collectorName="Fullaway" country="Guam" location="Guam" pageId="3" pageNumber="68" specimenCount="1">allotype male collected by Fullaway and labeled &quot;Island Guam&quot; no. &quot;1133&quot; to be deposited in the National Museum.</materialsCitation>
 </paragraph>
 </subSubSection>
 <subSubSection _generate="added" pageId="3" pageNumber="68" type="discussion">
@@ -568,7 +568,7 @@ vertical, reticulate, minutely punctate and setose, well margined, about one fou
 </subSubSection>
 <subSubSection _generate="added" pageId="4" pageNumber="69" type="materials_examined">
 <paragraph blockId="4.[310,1707,1408,2218]" pageId="4" pageNumber="69">
-<materialsCitation ID-GBIF-Occurrence="3331287305" collectedfrom="holotype and one paratype from Pipturas and other two paratypes from Ficus small leaf" collectingDate="1936-05-24" collectorName="O. H. Swezey" country="Island Guam" location="Orote Peninsula" pageId="4" pageNumber="69" specimenCount="4">
+<materialsCitation ID-GBIF-Occurrence="3331287305" collectedfrom="holotype and one paratype from Pipturas and other two paratypes from Ficus small leaf" collectingDate="1936-05-24" collectorName="O. H. Swezey" country="Guam" location="Orote Peninsula" pageId="4" pageNumber="69" specimenCount="4">
 <typeStatus box="[374,536,1408,1450]" pageId="4" pageNumber="69">Holotype</typeStatus>
 male and 
 <specimenCount box="[727,998,1408,1450]" pageId="4" pageNumber="69" type="generic" typeStatus="paratypes">three paratypes</specimenCount>
@@ -620,7 +620,7 @@ Aug.
 </taxonomicName>
 18;
 </materialsCitation>
-<materialsCitation ID-GBIF-Occurrence="3404213317" collectedfrom="garden" collectingDate="1936-10-07" collectorName="O. H. Swezey" country="Island Guam" location="Piti" pageId="4" pageNumber="69" specimenCount="1">
+<materialsCitation ID-GBIF-Occurrence="3404213317" collectedfrom="garden" collectingDate="1936-10-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="69" specimenCount="1">
 one found in a garden, 
 <collectorName box="[311,383,1662,1705]" pageId="4" pageNumber="69">Oct.</collectorName>
 <emphasis box="[401,436,1662,1705]" italics="true" pageId="4" pageNumber="69">7;</emphasis>
@@ -898,7 +898,7 @@ The National Museum sent the following, all taken by Oakley: four in roof of tha
 <date box="[442,717,693,735]" pageId="6" pageNumber="71" value="1937-09-10">Sept. 10, 1937</date>
 ,
 </materialsCitation>
-<materialsCitation ID-GBIF-Occurrence="3404213310" collectedfrom="intercepted aboard Philippine Clipper seaplane from Hong Kong" collectingDate="1938-20-11" collectorName="unknown" country="Guam" location="Guam" pageId="6" pageNumber="71">
+<materialsCitation ID-GBIF-Occurrence="3404213310" collectedfrom="intercepted aboard Philippine Clipper seaplane from Hong Kong" collectingDate="1938-11-20" collectorName="unknown" country="Guam" location="Guam" pageId="6" pageNumber="71">
 and one labeled &quot;
 <collectingCountry box="[1091,1459,693,735]" name="Hong Kong China" pageId="6" pageNumber="71">Hong Kong China</collectingCountry>
 , 
@@ -1125,7 +1125,7 @@ Fifteen specimens collected by Swezey as follows:
 <materialsCitation ID-GBIF-Occurrence="3331287308" box="[454,1260,955,998]" collectedfrom="fallen breadfruit" collectingDate="1936-05-23" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="72" specimenCount="3">three at Piti from fallen breadfruit, May 23;</materialsCitation>
 <materialsCitation ID-GBIF-Occurrence="3412549302" box="[1276,1841,955,998]" collectingDate="1936-05-24" collectorName="O. H. Swezey" country="Guam" location="Orote Point" pageId="7" pageNumber="72" specimenCount="2">two from Orote Point, May 24</materialsCitation>
 ; 
-<materialsCitation ID-GBIF-Occurrence="3412549301" box="[454,1393,1005,1049]" collectedfrom="Barringtonia speciosa" collectingDate="1936-05-30" collectorName="O. H. Swezey" country="Guam" location="Tumon" pageId="7" pageNumber="72" specimenCount="1">
+<materialsCitation box="[454,1393,1005,1049]" collectedfrom="Barringtonia speciosa" collectingDate="1936-05-30" collectorName="O. H. Swezey" country="Guam" location="Tumon" pageId="7" pageNumber="72" specimenCount="1">
 one at Tumon from 
 <emphasis box="[830,1227,1005,1049]" italics="true" pageId="7" pageNumber="72">
 <taxonomicName _evidence="catalogs" _step="species1" box="[830,1221,1005,1049]" class="Magnoliopsida" family="Lecythidaceae" genus="Barringtonia" kingdom="Plantae" order="Ericales" pageId="7" pageNumber="72" phylum="Tracheophyta" rank="species" species="speciosa">Barringtonia speciosa</taxonomicName>

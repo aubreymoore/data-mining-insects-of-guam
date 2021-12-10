@@ -77,14 +77,33 @@ laterally fairly strongly shagreened, along the middle more feebly shagreened, l
 </subSubSection>
 <subSubSection _generate="added" pageId="0" pageNumber="41" type="materials_examined">
 <paragraph blockId="0.[294,1690,1077,1888]" pageId="0" pageNumber="41">
-<materialsCitation ID-GBIF-Occurrence="3404216302" box="[359,1024,1581,1623]" pageId="0" pageNumber="41">Agat, May 31, under bark, Usinger;</materialsCitation>
-<materialsCitation ID-GBIF-Occurrence="3404216306" pageId="0" pageNumber="41">
-Yigo, Oct. 18, ex dead small-leaved 
+<materialsCitation ID-GBIF-Occurrence="3404216302" box="[359,1024,1581,1623]" collectedFrom="under bark" collectingDate="1936-05-31" collectorName="R. L. Usinger" country="Guam" location="Agat" pageId="0" pageNumber="41">
+<location box="[359,447,1581,1623]" name="Agat" pageId="0" pageNumber="41">Agat</location>
+, 
+<date box="[475,615,1581,1623]" pageId="0" pageNumber="41" value="1931-05">
+<collectingDate box="[475,615,1581,1623]" pageId="0" pageNumber="41" value="1931-05">May 31</collectingDate>
+</date>
+, 
+<collectedFrom box="[642,841,1581,1623]" pageId="0" pageNumber="41">under bark</collectedFrom>
+, 
+<collectorName box="[867,1017,1581,1623]" pageId="0" pageNumber="41">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404216306" collectedFrom="ex dead small-leaved Ficus" collectingDate="1936-10-18" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="0" pageNumber="41">
+<location box="[1043,1132,1581,1623]" name="Yigo" pageId="0" pageNumber="41">Yigo</location>
+, 
+<date box="[1159,1292,1581,1623]" pageId="0" pageNumber="41" value="2018-10">
+<collectingDate box="[1159,1292,1581,1623]" pageId="0" pageNumber="41" value="2018-10">Oct. 18</collectingDate>
+</date>
+, 
+<collectedFrom pageId="0" pageNumber="41">ex dead small-leaved 
 <emphasis box="[294,401,1634,1674]" italics="true" pageId="0" pageNumber="41">
 <taxonomicName _evidence="catalogs" _step="genera" authority=", Swezey." box="[294,394,1634,1674]" class="Gastropoda" family="Ficidae" genus="Ficus" kingdom="Animalia" order="Littorinimorpha" pageId="0" pageNumber="41" phylum="Mollusca" rank="genus">Ficus</taxonomicName>
 ,
 </emphasis>
-Swezey.
+</collectedFrom>
+<collectorName box="[417,552,1634,1674]" pageId="0" pageNumber="41">Swezey</collectorName>
+.
 </materialsCitation>
 </paragraph>
 </subSubSection>
@@ -125,13 +144,22 @@ moderately shining, sparsely punctured. Length
 </subSubSection>
 <subSubSection _generate="added" box="[357,1291,2373,2416]" pageId="0" pageNumber="41" type="materials_examined">
 <paragraph blockId="0.[357,1689,2373,2469]" box="[357,1291,2373,2416]" pageId="0" pageNumber="41">
-<materialsCitation ID-GBIF-Occurrence="3404216303" box="[357,1286,2373,2416]" pageId="0" pageNumber="41">
-Yigo, Oct. 18, ex dead small-leaved 
+<materialsCitation ID-GBIF-Occurrence="3404216303" box="[357,1286,2373,2416]" collectedFrom="ex dead small-leaved Ficus" collectingDate="1936-10-18" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="0" pageNumber="41">
+<collectingMunicipality box="[357,449,2373,2416]" pageId="0" pageNumber="41">Yigo</collectingMunicipality>
+, 
+<date box="[472,606,2373,2416]" pageId="0" pageNumber="41" value="2018-10">
+<collectingDate box="[472,606,2373,2416]" pageId="0" pageNumber="41" value="2018-10">Oct. 18</collectingDate>
+</date>
+, 
+<specimenCount box="[630,671,2373,2416]" pageId="0" pageNumber="41" type="generic">ex</specimenCount>
+dead small-leaved 
 <emphasis box="[1027,1134,2373,2416]" italics="true" pageId="0" pageNumber="41">
-<taxonomicName _evidence="catalogs" _step="genera" authority=", Swezey." box="[1027,1127,2373,2416]" class="Gastropoda" family="Ficidae" genus="Ficus" kingdom="Animalia" order="Littorinimorpha" pageId="0" pageNumber="41" phylum="Mollusca" rank="genus">Ficus</taxonomicName>
+<taxonomicName _evidence="catalogs" _step="genera" authority=", Swezey." box="[1027,1127,2373,2416]" class="Gastropoda" family="Ficidae" genus="Ficus" kingdom="Animalia" order="Littorinimorpha" pageId="0" pageNumber="41" phylum="Mollusca" rank="genus">
+<location box="[1027,1127,2373,2416]" municipality="Yigo" name="Ficus" pageId="0" pageNumber="41">Ficus</location>
+</taxonomicName>
 ,
 </emphasis>
-Swezey
+<collectorName box="[1153,1286,2373,2416]" pageId="0" pageNumber="41">Swezey</collectorName>
 </materialsCitation>
 .
 </paragraph>
@@ -179,7 +207,15 @@ very finely and densely punctured, moderately shining. Length,
 </subSubSection>
 <subSubSection _generate="added" box="[482,956,1071,1111]" pageId="1" pageNumber="42" type="materials_examined">
 <paragraph blockId="1.[420,1814,1071,1221]" box="[482,956,1071,1111]" pageId="1" pageNumber="42">
-<materialsCitation ID-GBIF-Occurrence="3331179304" box="[482,956,1071,1111]" pageId="1" pageNumber="42">Inarajan,June 8,Usinger</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331179304" box="[482,956,1071,1111]" collectingDate="1936-06-08" collectorName="R. L. Usinger" country="Guam" location="Inarajan" pageId="1" pageNumber="42">
+<location box="[482,646,1071,1111]" name="Inarajan" pageId="1" pageNumber="42">Inarajan</location>
+,
+<date box="[670,819,1071,1111]" pageId="1" pageNumber="42">
+<collectingDate box="[670,819,1071,1111]" pageId="1" pageNumber="42">June 8</collectingDate>
+</date>
+,
+<collectorName box="[825,956,1071,1111]" pageId="1" pageNumber="42">Usinger</collectorName>
+</materialsCitation>
 </paragraph>
 </subSubSection>
 <subSubSection _generate="added" pageId="1" pageNumber="42" type="diagnosis">
@@ -213,7 +249,18 @@ hardly as long as prothorax,together much broader than long with sharply protrud
 </subSubSection>
 <subSubSection _generate="added" box="[483,1199,1733,1775]" pageId="1" pageNumber="42" type="materials_examined">
 <paragraph blockId="1.[418,1814,1266,1933]" box="[483,1199,1733,1775]" pageId="1" pageNumber="42">
-<materialsCitation ID-GBIF-Occurrence="3331179309" box="[483,1199,1733,1775]" pageId="1" pageNumber="42">Dededo, May 11, ex rotten log, Swezey.</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331179309" box="[483,1199,1733,1775]" collectedFrom="ex rotten log" collectingDate="1936-05-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="1" pageNumber="42">
+<location box="[483,618,1733,1775]" name="Dededo" pageId="1" pageNumber="42">Dededo</location>
+, 
+<date box="[642,780,1733,1775]" pageId="1" pageNumber="42" value="2011-05">
+<collectingDate box="[642,780,1733,1775]" pageId="1" pageNumber="42" value="2011-05">May 11</collectingDate>
+</date>
+, 
+<specimenCount box="[804,845,1733,1775]" pageId="1" pageNumber="42" type="generic">ex</specimenCount>
+rotten log, 
+<collectorName box="[1059,1194,1733,1775]" pageId="1" pageNumber="42">Swezey</collectorName>
+.
+</materialsCitation>
 </paragraph>
 </subSubSection>
 <subSubSection _generate="added" pageId="1" pageNumber="42" type="diagnosis">
@@ -266,21 +313,53 @@ mm
 </subSubSection>
 <subSubSection _generate="added" pageId="2" pageNumber="43" type="materials_examined">
 <paragraph blockId="2.[297,1694,315,667]" pageId="2" pageNumber="43">
-<materialsCitation ID-GBIF-Occurrence="3404216304" box="[362,876,315,358]" pageId="2" pageNumber="43">Upi Trail, May 5, ex ferns;</materialsCitation>
-<materialsCitation ID-GBIF-Occurrence="3404216305" box="[896,1233,315,358]" pageId="2" pageNumber="43">Machanao, June 2,</materialsCitation>
-<materialsCitation ID-GBIF-Occurrence="3404216301" pageId="2" pageNumber="43">
-Aug. 6, ex 
+<materialsCitation ID-GBIF-Occurrence="3404216304" box="[362,876,315,358]" collectedFrom="ex ferns" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="2" pageNumber="43">
+<location box="[362,537,315,358]" name="Upi Trail" pageId="2" pageNumber="43">Upi Trail</location>
+, 
+<date box="[564,683,315,358]" pageId="2" pageNumber="43">
+<collectingDate box="[564,683,315,358]" pageId="2" pageNumber="43">May 5</collectingDate>
+</date>
+, 
+<specimenCount box="[710,751,315,358]" pageId="2" pageNumber="43" type="generic">ex</specimenCount>
+ferns;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404216305" box="[896,1233,315,358]" collectingDate="1936-06-02" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="2" pageNumber="43">
+<location box="[896,1079,315,358]" name="Machanao" pageId="2" pageNumber="43">Machanao</location>
+, 
+<date box="[1104,1226,315,358]" pageId="2" pageNumber="43">
+<collectingDate box="[1104,1226,315,358]" pageId="2" pageNumber="43">June 2</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404216301" collectedFrom="ex Piper guahamense" collectingDate="1936-08-06" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="2" pageNumber="43">
+<date box="[1252,1376,315,358]" pageId="2" pageNumber="43">
+<collectingDate box="[1252,1376,315,358]" pageId="2" pageNumber="43">Aug. 6</collectingDate>
+</date>
+, 
+<specimenCount box="[1403,1444,315,358]" pageId="2" pageNumber="43" type="generic">ex</specimenCount>
 <emphasis italics="true" pageId="2" pageNumber="43">
-<taxonomicName _evidence="catalogs" _step="genera" class="Magnoliopsida" family="Piperaceae" genus="Piper" kingdom="Plantae" order="Piperales" pageId="2" pageNumber="43" phylum="Tracheophyta" rank="genus">Piper gi&lt;ahamense</taxonomicName>
+<taxonomicName _evidence="catalogs" _step="genera" class="Magnoliopsida" family="Piperaceae" genus="Piper" kingdom="Plantae" order="Piperales" pageId="2" pageNumber="43" phylum="Tracheophyta" rank="genus">
+<location box="[1460,1558,315,358]" name="Piper" pageId="2" pageNumber="43">Piper</location>
+gi&lt;ahamense
+</taxonomicName>
 ,
 </emphasis>
-Swezey
+<collectorName box="[434,574,369,409]" pageId="2" pageNumber="43">Swezey</collectorName>
 </materialsCitation>
 ; 
-<materialsCitation ID-GBIF-Occurrence="3331179302" box="[599,1324,369,409]" pageId="2" pageNumber="43">
-Barrigada, July 22, ex 
-<emphasis box="[1011,1173,369,409]" italics="true" pageId="2" pageNumber="43">Marinda,</emphasis>
-Swezey
+<materialsCitation ID-GBIF-Occurrence="3331179302" box="[599,1324,369,409]" collectedFrom="ex Morinda" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="2" pageNumber="43">
+<collectingMunicipality box="[599,777,369,409]" pageId="2" pageNumber="43">Barrigada</collectingMunicipality>
+, 
+<date box="[800,933,369,409]" pageId="2" pageNumber="43" value="1922-07">
+<collectingDate box="[800,933,369,409]" pageId="2" pageNumber="43" value="1922-07">July 22</collectingDate>
+</date>
+, 
+<specimenCount box="[956,998,369,409]" pageId="2" pageNumber="43" type="generic">ex</specimenCount>
+<emphasis box="[1011,1173,369,409]" italics="true" pageId="2" pageNumber="43">
+<location box="[1011,1167,369,409]" municipality="Barrigada" name="Marinda" pageId="2" pageNumber="43">Marinda</location>
+,
+</emphasis>
+<collectorName box="[1191,1324,369,409]" pageId="2" pageNumber="43">Swezey</collectorName>
 </materialsCitation>
 .
 </paragraph>
@@ -332,8 +411,26 @@ mm
 </subSubSection>
 <subSubSection _generate="added" box="[361,1320,1207,1249]" pageId="2" pageNumber="43" type="materials_examined">
 <paragraph blockId="2.[296,1694,703,1299]" box="[361,1320,1207,1249]" pageId="2" pageNumber="43">
-<materialsCitation ID-GBIF-Occurrence="3404216307" box="[361,845,1207,1249]" pageId="2" pageNumber="43">Dededo, May 11, Usinger;</materialsCitation>
-<materialsCitation ID-GBIF-Occurrence="3404216308" box="[863,1320,1207,1249]" pageId="2" pageNumber="43">Tumon, May 30, Swezey.</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404216307" box="[361,845,1207,1249]" collectingDate="1936-05-11" collectorName="R. L. Usinger" country="Guam" location="Dededo" pageId="2" pageNumber="43">
+<collectingMunicipality box="[361,499,1207,1249]" pageId="2" pageNumber="43">Dededo</collectingMunicipality>
+, 
+<date box="[522,660,1207,1249]" pageId="2" pageNumber="43" value="2011-05">
+<collectingDate box="[522,660,1207,1249]" pageId="2" pageNumber="43" value="2011-05">May 11</collectingDate>
+</date>
+, 
+<collectorName box="[683,838,1207,1249]" pageId="2" pageNumber="43">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404216308" box="[863,1320,1207,1249]" collectingDate="1936-05-30" collectorName="O. H. Swezey" country="Guam" location="Tumon" pageId="2" pageNumber="43">
+<location box="[863,995,1207,1249]" name="Tumon" pageId="2" pageNumber="43">Tumon</location>
+, 
+<date box="[1017,1156,1207,1249]" pageId="2" pageNumber="43" value="1930-05">
+<collectingDate box="[1017,1156,1207,1249]" pageId="2" pageNumber="43" value="1930-05">May 30</collectingDate>
+</date>
+, 
+<collectorName box="[1179,1315,1207,1249]" pageId="2" pageNumber="43">Swezey</collectorName>
+.
+</materialsCitation>
 </paragraph>
 </subSubSection>
 <subSubSection _generate="added" box="[360,1276,1259,1299]" pageId="2" pageNumber="43" type="diagnosis">
@@ -373,10 +470,15 @@ shagreenly punctured, dull. Length,
 </subSubSection>
 <subSubSection _generate="added" box="[362,746,1962,2004]" pageId="2" pageNumber="43" type="materials_examined">
 <paragraph blockId="2.[297,1693,1343,2157]" box="[362,746,1962,2004]" pageId="2" pageNumber="43">
-<materialsCitation ID-GBIF-Occurrence="3331179307" box="[362,741,1962,2004]" pageId="2" pageNumber="43">
-Piti, July 
+<materialsCitation ID-GBIF-Occurrence="3331179307" box="[362,741,1962,2004]" collectingDate="1936-07-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="43">
+<location box="[362,428,1962,2004]" name="Piti" pageId="2" pageNumber="43">Piti</location>
+, 
+<date box="[450,582,1962,2004]" pageId="2" pageNumber="43" value="1927-07">
+<collectingDate box="[450,582,1962,2004]" pageId="2" pageNumber="43" value="1927-07">July 
 <emphasis box="[539,589,1962,2004]" italics="true" pageId="2" pageNumber="43">27,</emphasis>
-Swezey
+</collectingDate>
+</date>
+<collectorName box="[607,741,1962,2004]" pageId="2" pageNumber="43">Swezey</collectorName>
 </materialsCitation>
 .
 </paragraph>
@@ -419,11 +521,20 @@ in the dark antennae, somewhat lighter only on extreme base.
 </subSubSection>
 <subSubSection _generate="added" box="[361,1532,2320,2363]" pageId="2" pageNumber="43" type="materials_examined">
 <paragraph blockId="2.[298,1692,2194,2466]" box="[361,1532,2320,2363]" pageId="2" pageNumber="43">
-<materialsCitation ID-GBIF-Occurrence="3331179306" box="[361,1532,2320,2363]" pageId="2" pageNumber="43">
-Tumon, May 30, in rotten seed of 
+<materialsCitation ID-GBIF-Occurrence="3331179306" box="[361,1532,2320,2363]" collectedFrom="in rotten seed of Barringtonia speciosa" collectingDate="1936-05-30" collectorName="O. H. Swezey" country="Guam" location="Tumon" pageId="2" pageNumber="43">
+<collectingMunicipality box="[361,492,2320,2363]" pageId="2" pageNumber="43">Tumon</collectingMunicipality>
+, 
+<date box="[516,654,2320,2363]" pageId="2" pageNumber="43" value="1930-05">
+<collectingDate box="[516,654,2320,2363]" pageId="2" pageNumber="43" value="1930-05">May 30</collectingDate>
+</date>
+, in rotten seed of 
 <taxonomicName _evidence="catalogs" _step="species1" authority=", Swezey." box="[982,1532,2320,2363]" class="Magnoliopsida" family="Lecythidaceae" genus="Barringtonia" kingdom="Plantae" order="Ericales" pageId="2" pageNumber="43" phylum="Tracheophyta" rank="species" species="speciosa">
-<emphasis box="[982,1375,2320,2363]" italics="true" pageId="2" pageNumber="43">Barringtonia speciosa,</emphasis>
-Swezey.
+<emphasis box="[982,1375,2320,2363]" italics="true" pageId="2" pageNumber="43">
+<location box="[982,1209,2320,2363]" municipality="Tumon" name="Barringtonia" pageId="2" pageNumber="43">Barringtonia</location>
+speciosa,
+</emphasis>
+<collectorName box="[1392,1527,2320,2363]" pageId="2" pageNumber="43">Swezey</collectorName>
+.
 </taxonomicName>
 </materialsCitation>
 </paragraph>
@@ -463,7 +574,18 @@ hardly longer than prothorax, together much wider than long, inner side of outer
 </subSubSection>
 <subSubSection _generate="added" box="[486,1264,1251,1292]" pageId="3" pageNumber="44" type="materials_examined">
 <paragraph blockId="3.[423,1817,1251,1454]" box="[486,1264,1251,1292]" pageId="3" pageNumber="44">
-<materialsCitation ID-GBIF-Occurrence="3331179301" box="[486,1264,1251,1292]" pageId="3" pageNumber="44">Barrigada, June 12, ex leaf mold, Usinger.</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331179301" box="[486,1264,1251,1292]" collectedFrom="ex leaf mold" collectingDate="1936-06-12" collectorName="R. L. Usinger" country="Guam" location="Barrigada" pageId="3" pageNumber="44">
+<collectingCountry box="[486,664,1251,1292]" pageId="3" pageNumber="44">Barrigada</collectingCountry>
+, 
+<date box="[689,833,1251,1292]" pageId="3" pageNumber="44" value="2012-06">
+<collectingDate box="[689,833,1251,1292]" pageId="3" pageNumber="44" value="2012-06">June 12</collectingDate>
+</date>
+, 
+<specimenCount box="[858,900,1251,1292]" pageId="3" pageNumber="44" type="generic">ex</specimenCount>
+leaf mold, 
+<collectorName box="[1114,1259,1251,1292]" pageId="3" pageNumber="44">Usinger</collectorName>
+.
+</materialsCitation>
 </paragraph>
 </subSubSection>
 <subSubSection _generate="added" pageId="3" pageNumber="44" type="diagnosis">
