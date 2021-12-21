@@ -1,0 +1,595 @@
+<document approvalRequired="1" approvalRequired_for_document="1" docAuthor="Bernhauer, Max" docDate="1942" docId="FFF8B07B536B3042BD53344E0F0FFFD7" docName="InsectsOfGuamI.172.41-44.pdf.imf" docOrigin="Insects of Guam I, Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Coleoptera, Staphylinidae Of Guam" lastPageNumber="44" mods:ID="http://doi.org/10.5281/zenodo.5159420" mods:ID-DOI="http://doi.org/10.5281/zenodo.5159420" mods:ID-GBIF-Dataset="797184fa-5b39-4a0e-8810-fb8e630838fd" mods:ID-Zenodo-Dep="5159420" mods:author="Bernhauer, Max" mods:author-affiliation="Notar in Horn, N. Donau" mods:pagination="41-44" mods:pubDate="1942-06-01" mods:publisher="Bernice P. Bishop Museum" mods:title="Coleoptera, Staphylinidae Of Guam" mods:type="book chapter" mods:volumeTitle="Insects of Guam I" mods:year="1942" pageNumber="41">
+<subSection _generate="added" box="[820,1172,369,421]" pageId="0" pageNumber="41" type="multiple">
+<paragraph blockId="0.[820,1172,369,421]" box="[820,1172,369,421]" pageId="0" pageNumber="41">
+<heading box="[820,1172,369,421]" pageId="0" pageNumber="41">
+<taxonomicName _evidence="catalogs" _step="order" authorityName="Linnaeus" authorityYear="1758" box="[820,1172,369,421]" class="Magnoliopsida" higherTaxonomySource="GBIF" kingdom="Plantae" order="Coleoptera" pageId="0" pageNumber="41" phylum="Tracheophyta" rank="order">
+<emphasis bold="true" box="[820,1172,369,421]" pageId="0" pageNumber="41">COLEOPTERA</emphasis>
+</taxonomicName>
+</heading>
+</paragraph>
+</subSection>
+<paragraph blockId="0.[686,1304,472,512]" box="[686,1304,472,512]" pageId="0" pageNumber="41">
+<heading box="[686,1304,472,512]" centered="true" fontSize="8" level="2" pageId="0" pageNumber="41" reason="3">
+<emphasis bold="true" box="[686,1304,472,512]" pageId="0" pageNumber="41">
+<taxonomicName _evidence="catalogs" _step="family" authority="OF" authorityName="OF" box="[686,1149,472,512]" class="Insecta" family="Staphylinidae" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="41" phylum="Arthropoda" rank="family">STAPHYLINIDAE OF</taxonomicName>
+<collectingCountry box="[1172,1304,472,512]" name="Guam" pageId="0" pageNumber="41">GUAM</collectingCountry>
+</emphasis>
+</heading>
+</paragraph>
+<paragraph blockId="0.[610,1378,549,681]" box="[799,1194,549,589]" pageId="0" pageNumber="41">
+<heading box="[799,1194,549,589]" centered="true" fontSize="8" level="2" pageId="0" pageNumber="41" reason="3">
+By 
+<docAuthor box="[867,1194,549,589]" pageId="0" pageNumber="41">MAX BERNHAUER</docAuthor>
+</heading>
+</paragraph>
+<subSection _generate="added" pageId="0" pageNumber="41" type="multiple">
+<paragraph blockId="0.[610,1378,549,681]" pageId="0" pageNumber="41">
+<heading box="[775,1214,601,635]" centered="true" fontSize="8" level="2" pageId="0" pageNumber="41" reason="3">NorAR IN HORN, N. DoNAU</heading>
+(Translated from the German by 0. H. Swezey.)
+</paragraph>
+<paragraph blockId="0.[297,1691,735,1042]" pageId="0" pageNumber="41">
+<author box="[362,616,735,776]" case="TC" fns="I" in="A. K." ins="D" ln="Sir Guy" lnc="TC" npo="LnIn" pageId="0" pageNumber="41">Sir Guy A. K.</author>
+<title jopScore="0.7518122" pageId="0" pageNumber="41">Marshall, Director of the Imperial Institute of Entomology (British Museum) in London, kindly transmitted to me for study the Staphylinidae collected by 0. H. Swezey in Guam in</title>
+<year box="[1152,1236,837,879]" pageId="0" pageNumber="41">1936</year>
+. 
+<journalOrPublisher jopScore="0.14901723" pageId="0" pageNumber="41">Types are placed in the British Museum and in my own collection</journalOrPublisher>
+.
+</paragraph>
+<paragraph blockId="0.[297,1691,735,1042]" pageId="0" pageNumber="41">
+Two subspecies of the extremely variable species 
+<taxonomicName _evidence="catalog+fontStyle" _step="styledSpecies" authority="Motschulsky" authorityName="Motschulsky" class="Insecta" family="Staphylinidae" genus="Lispinus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="41" phylum="Arthropoda" rank="species" species="impressicollis">
+<emphasis box="[1285,1691,947,990]" italics="true" pageId="0" pageNumber="41">Lispinus impressicollis</emphasis>
+Motschulsky
+</taxonomicName>
+were found in the material.
+</paragraph>
+</subSection>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5163372" ID-GBIF-Taxon="183919159" ID-Zenodo-Dep="5163372" _generate="added" pageId="0" pageNumber="41">
+<subSubSection _generate="added" box="[298,1287,1077,1119]" pageId="0" pageNumber="41" type="nomenclature">
+<paragraph blockId="0.[294,1690,1077,1888]" box="[298,1287,1077,1119]" pageId="0" pageNumber="41">
+<heading box="[298,1287,1077,1119]" fontSize="11" level="2" pageId="0" pageNumber="41" reason="2">
+<emphasis bold="true" box="[298,989,1077,1119]" pageId="0" pageNumber="41">
+1. 
+<taxonomicName _evidence="statusLabel" _step="newSubSpecies" authorityName="Bernhauer, M." box="[359,982,1077,1119]" class="Insecta" family="Staphylinidae" genus="Lispinus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="41" phylum="Arthropoda" rank="subSpecies" species="impressicollis" status="new subspecies" subSpecies="guamensis">Lispinus impressicollis guamensis</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel box="[1004,1282,1077,1119]" pageId="0" pageNumber="41" rank="subSpecies">new subspecies</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="41" type="description">
+<paragraph blockId="0.[294,1690,1077,1888]" pageId="0" pageNumber="41">
+Pitchy, a little shining, antennae, palpi and legs rusty yellow. 
+<emphasis box="[1369,1452,1137,1172]" italics="true" pageId="0" pageNumber="41">Head</emphasis>
+narrower than prothorax, in front with fairly strong impressions, shining smooth, without puncturation. 
+<emphasis box="[295,437,1213,1249]" italics="true" pageId="0" pageNumber="41">Antennae</emphasis>
+fairly short, the penultimate segment in widest view about half wider than long. 
+<emphasis box="[297,410,1252,1287]" italics="true" pageId="0" pageNumber="41">Thorax</emphasis>
+somewhat narrower than the elytra, about one third broader than long, rather flat, before middle strongly widened, sinuate, more so posteriorly than anteriorly, each side of middle with a flat longitudinal impression laterally deeper, with very fine and sparse puncturation which is stronger and denser in the impression, moderately shining. 
+<emphasis box="[1495,1592,1366,1401]" italics="true" pageId="0" pageNumber="41">Elytra</emphasis>
+about a third longer than prothorax, considerably longer than wide, with edges para!lel, finely, distinctly but sparsely punctured, indistinctly shagreened. 
+<emphasis box="[1176,1321,1442,1477]" italics="true" pageId="0" pageNumber="41">Abdomen</emphasis>
+laterally fairly strongly shagreened, along the middle more feebly shagreened, laterally with a few large punctures. Length, 
+<quantity box="[424,540,1520,1556]" metricMagnitude="-3" metricUnit="m" metricValue="2.5" pageId="0" pageNumber="41" unit="mm" value="2.5">2.5 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="41" type="materials_examined">
+<paragraph blockId="0.[294,1690,1077,1888]" pageId="0" pageNumber="41">
+<materialsCitation ID-GBIF-Occurrence="3404216302" box="[359,1024,1581,1623]" collectedFrom="under bark" collectingDate="1936-05-31" collectorName="R. L. Usinger" country="Guam" location="Agat" pageId="0" pageNumber="41">
+<location box="[359,447,1581,1623]" name="Agat" pageId="0" pageNumber="41">Agat</location>
+, 
+<date box="[475,615,1581,1623]" pageId="0" pageNumber="41" value="1931-05">
+<collectingDate box="[475,615,1581,1623]" pageId="0" pageNumber="41" value="1931-05">May 31</collectingDate>
+</date>
+, 
+<collectedFrom box="[642,841,1581,1623]" pageId="0" pageNumber="41">under bark</collectedFrom>
+, 
+<collectorName box="[867,1017,1581,1623]" pageId="0" pageNumber="41">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404216306" collectedFrom="ex dead small-leaved Ficus" collectingDate="1936-10-18" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="0" pageNumber="41">
+<location box="[1043,1132,1581,1623]" name="Yigo" pageId="0" pageNumber="41">Yigo</location>
+, 
+<date box="[1159,1292,1581,1623]" pageId="0" pageNumber="41" value="2018-10">
+<collectingDate box="[1159,1292,1581,1623]" pageId="0" pageNumber="41" value="2018-10">Oct. 18</collectingDate>
+</date>
+, 
+<collectedFrom pageId="0" pageNumber="41">ex dead small-leaved 
+<emphasis box="[294,401,1634,1674]" italics="true" pageId="0" pageNumber="41">
+<taxonomicName _evidence="catalogs" _step="genera" authority=", Swezey." box="[294,394,1634,1674]" class="Gastropoda" family="Ficidae" genus="Ficus" kingdom="Animalia" order="Littorinimorpha" pageId="0" pageNumber="41" phylum="Mollusca" rank="genus">Ficus</taxonomicName>
+,
+</emphasis>
+</collectedFrom>
+<collectorName box="[417,552,1634,1674]" pageId="0" pageNumber="41">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="41" type="diagnosis">
+<paragraph blockId="0.[294,1690,1077,1888]" pageId="0" pageNumber="41">Though agreeing with the species in its longer, narrower size, the new subspecies differs in its much finer and sparser puncturation, much weaker tJ1oracic impressions and longer elytra. When more material is obtained, it may prove to be a distinct species.</paragraph>
+</subSubSection>
+</treatment>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5163374" ID-GBIF-Taxon="183919158" ID-Zenodo-Dep="5163374" _generate="added" lastPageId="1" lastPageNumber="42" pageId="0" pageNumber="41">
+<subSubSection _generate="added" box="[295,1275,1934,1975]" pageId="0" pageNumber="41" type="nomenclature">
+<paragraph blockId="0.[293,1690,1934,2338]" box="[295,1275,1934,1975]" pageId="0" pageNumber="41">
+<heading box="[295,1275,1934,1975]" fontSize="11" level="2" pageId="0" pageNumber="41" reason="2">
+<emphasis bold="true" box="[295,977,1934,1975]" pageId="0" pageNumber="41">
+2. 
+<taxonomicName _evidence="statusLabel" _step="newSubSpecies" authorityName="Bernhauer, M." box="[358,971,1934,1975]" class="Insecta" family="Staphylinidae" genus="Lispinus" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="41" phylum="Arthropoda" rank="subSpecies" species="impressicollis" status="new subspecies" subSpecies="iridescens">Lispinus impressicollis iridescens</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel box="[992,1270,1934,1975]" pageId="0" pageNumber="41" rank="subSpecies">new subspecies</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="41" type="description">
+<paragraph blockId="0.[293,1690,1934,2338]" pageId="0" pageNumber="41">
+Pitchy, the antennae, palpi and legs clear ferruginous. 
+<emphasis box="[1230,1313,1993,2028]" italics="true" pageId="0" pageNumber="41">Head</emphasis>
+narrower than the prothorax, with two impressions on the vertex, distinctly punctate, moderately shining. 
+<emphasis box="[295,438,2070,2105]" italics="true" pageId="0" pageNumber="41">Antennae</emphasis>
+short, thickened toward the apex, the penultimate segments strongly transverse. 
+<emphasis box="[295,455,2109,2144]" italics="true" pageId="0" pageNumber="41">Prothorax</emphasis>
+as wide as elytra, moderately transverse, greatly widened toward the middle; posteriorly, considerably contracted, yet scarcely sinuately, the median groove short, very narrow, finely and sparsely punctured, scarcely shagreened, moderately shining. 
+<emphasis box="[294,393,2225,2261]" italics="true" pageId="0" pageNumber="41">Elytra</emphasis>
+little longer than prothorax, as long as wide, distinctly bluish iridescent, very finely and sparsely punctured, moderately shining, scarcely shagreened. 
+<emphasis box="[1359,1501,2264,2299]" italics="true" pageId="0" pageNumber="41">Abdomen</emphasis>
+moderately shining, sparsely punctured. Length 
+<quantity box="[863,951,2302,2338]" metricMagnitude="-3" metricUnit="m" metricValue="2.0" pageId="0" pageNumber="41" unit="mm" value="2.0">2 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" box="[357,1291,2373,2416]" pageId="0" pageNumber="41" type="materials_examined">
+<paragraph blockId="0.[357,1689,2373,2469]" box="[357,1291,2373,2416]" pageId="0" pageNumber="41">
+<materialsCitation ID-GBIF-Occurrence="3404216303" box="[357,1286,2373,2416]" collectedFrom="ex dead small-leaved Ficus" collectingDate="1936-10-18" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="0" pageNumber="41">
+<collectingMunicipality box="[357,449,2373,2416]" pageId="0" pageNumber="41">Yigo</collectingMunicipality>
+, 
+<date box="[472,606,2373,2416]" pageId="0" pageNumber="41" value="2018-10">
+<collectingDate box="[472,606,2373,2416]" pageId="0" pageNumber="41" value="2018-10">Oct. 18</collectingDate>
+</date>
+, 
+<specimenCount box="[630,671,2373,2416]" pageId="0" pageNumber="41" type="generic">ex</specimenCount>
+dead small-leaved 
+<emphasis box="[1027,1134,2373,2416]" italics="true" pageId="0" pageNumber="41">
+<taxonomicName _evidence="catalogs" _step="genera" authority=", Swezey." box="[1027,1127,2373,2416]" class="Gastropoda" family="Ficidae" genus="Ficus" kingdom="Animalia" order="Littorinimorpha" pageId="0" pageNumber="41" phylum="Mollusca" rank="genus">
+<location box="[1027,1127,2373,2416]" municipality="Yigo" name="Ficus" pageId="0" pageNumber="41">Ficus</location>
+</taxonomicName>
+,
+</emphasis>
+<collectorName box="[1153,1286,2373,2416]" pageId="0" pageNumber="41">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" lastPageId="1" lastPageNumber="42" pageId="0" pageNumber="41" type="diagnosis">
+<paragraph blockId="0.[357,1689,2373,2469]" lastBlockId="1.[422,1817,372,519]" lastPageId="1" lastPageNumber="42" pageId="0" pageNumber="41">
+This race, perhaps likewise a distinct species, stands near subspecies 
+<taxonomicName lastPageId="1" lastPageNumber="42" pageId="0" pageNumber="41">
+<emphasis italics="true" lastPageId="1" lastPageNumber="42" pageId="0" pageNumber="41">robusticollis</emphasis>
+Bernhauer
+</taxonomicName>
+. It differs essentially in its somewhat smaller, narrower form, finer and sparser puncturation, finer impressions on the prothorax, and especially in the more distinct iridescence of the elytra.
+</paragraph>
+</subSubSection>
+</treatment>
+<subSection _generate="added" pageId="1" pageNumber="42" type="multiple">
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5157022" ID-GBIF-Taxon="183919170" ID-Zenodo-Dep="5157022" pageId="1" pageNumber="42">
+<subSubSection _generate="added" box="[421,1404,562,605]" pageId="1" pageNumber="42" type="nomenclature">
+<paragraph blockId="1.[420,1816,562,1041]" box="[421,1404,562,605]" pageId="1" pageNumber="42">
+<heading box="[421,1404,562,605]" fontSize="11" level="2" pageId="1" pageNumber="42" reason="2">
+<emphasis bold="true" box="[421,1169,562,605]" pageId="1" pageNumber="42">
+3. 
+<taxonomicName _evidence="statusLabel" _step="nonLabeled1" authorityName="Bernhauer" authorityYear="1942" box="[485,1162,562,605]" class="Insecta" family="Staphylinidae" genus="Atheta" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="42" phylum="Arthropoda" rank="species" species="usingeri" status="new species" subGenus="Carpalimus">Trogophloeus (Carpalimus) usingeri</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel box="[1184,1399,562,605]" pageId="1" pageNumber="42" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="42" type="description">
+<paragraph blockId="1.[420,1816,562,1041]" pageId="1" pageNumber="42">
+Deep black, moderately dull, legs only a little brighter. 
+<emphasis box="[1364,1446,623,659]" italics="true" pageId="1" pageNumber="42">Head</emphasis>
+narrower than the prothorax, shagreenly punctured. Eyes large, expanded over nearly the whole side, moderately flat, the temples very short. 
+<emphasis box="[1005,1165,700,736]" italics="true" pageId="1" pageNumber="42">Prothorax</emphasis>
+much narrower than the elytra, about a half wider than long, strongly widened in middle, posteriorly much stronger and almost rectilinearly narrowed, before the posterior edge for the whole width with a deep wide curved transverse furrow, open anteriorly, on each side of the middle with a deep longitudinal furrow, between these raised, more shining than the remaining prothorax, the upper surface shagreenly punctured. 
+<emphasis box="[900,1000,892,927]" italics="true" pageId="1" pageNumber="42">Elytra</emphasis>
+about a half longer than prothorax, with prominent shoulders, together somewhat wider than long, fairly equal width, finely and extremely densely punctured, little shining. 
+<emphasis box="[943,1086,969,1004]" italics="true" pageId="1" pageNumber="42">Abdomen</emphasis>
+very finely and densely punctured, moderately shining. Length, 
+<quantity box="[692,832,1007,1041]" metricMagnitude="-3" metricUnit="m" metricValue="1.9" metricValueMax="2.0" metricValueMin="1.8" pageId="1" pageNumber="42" unit="mm" value="1.9" valueMax="2.0" valueMin="1.8">1.8-2 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" box="[482,956,1071,1111]" pageId="1" pageNumber="42" type="materials_examined">
+<paragraph blockId="1.[420,1814,1071,1221]" box="[482,956,1071,1111]" pageId="1" pageNumber="42">
+<materialsCitation ID-GBIF-Occurrence="3331179304" box="[482,956,1071,1111]" collectingDate="1936-06-08" collectorName="R. L. Usinger" country="Guam" location="Inarajan" pageId="1" pageNumber="42">
+<location box="[482,646,1071,1111]" name="Inarajan" pageId="1" pageNumber="42">Inarajan</location>
+,
+<date box="[670,819,1071,1111]" pageId="1" pageNumber="42">
+<collectingDate box="[670,819,1071,1111]" pageId="1" pageNumber="42">June 8</collectingDate>
+</date>
+,
+<collectorName box="[825,956,1071,1111]" pageId="1" pageNumber="42">Usinger</collectorName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="42" type="diagnosis">
+<paragraph blockId="1.[420,1814,1071,1221]" pageId="1" pageNumber="42">TODO Aremarkable species through its itssmallness and very flat large eyes and ..small temples</paragraph>
+</subSubSection>
+</treatment>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5157026" ID-GBIF-Taxon="183919161" ID-Zenodo-Dep="5157026" pageId="1" pageNumber="42">
+<subSubSection _generate="added" box="[419,1113,1266,1306]" pageId="1" pageNumber="42" type="nomenclature">
+<paragraph blockId="1.[418,1814,1266,1933]" box="[419,1113,1266,1306]" pageId="1" pageNumber="42">
+TODO 
+<taxonomicName _evidence="statusLabel" _step="newLabel1" authorityName="Bernhauer" authorityYear="1942" box="[483,873,1266,1306]" class="Insecta" family="Staphylinidae" genus="Holotrochus" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="42" phylum="Arthropoda" rank="species" species="swezeyi" status="new species">
+<emphasis bold="true" box="[483,873,1266,1306]" pageId="1" pageNumber="42">4.Holotrochus swezeyi</emphasis>
+</taxonomicName>
+,
+<taxonomicNameLabel box="[898,1113,1266,1306]" pageId="1" pageNumber="42" rank="species">new species</taxonomicNameLabel>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="42" type="description">
+<paragraph blockId="1.[418,1814,1266,1933]" pageId="1" pageNumber="42">
+Deep Deepblack,moderately dull,antennae,palpi and legs dark rust red. 
+<emphasis box="[1560,1643,1325,1360]" italics="true" pageId="1" pageNumber="42">Head</emphasis>
+much narrower rower thanprothorax,between the theantenna!scapes with a feeble roundish impression, TODO finely andfairly densely punctured, atbase moderately dull Eyes fairly large, convex. 
+<emphasis box="[419,561,1439,1475]" italics="true" pageId="1" pageNumber="42">Antennae</emphasis>
+shorter than thanhead headand andprothorax together,strongly thickened towards the apex, TODO thepenultimate segments almost double TODO aswide as aslong.
+<emphasis box="[1315,1471,1479,1513]" italics="true" pageId="1" pageNumber="42">Prothora:x</emphasis>
+almost as wide as the elytra,strongly transverse,rounded TODO onthe thesides with hind angles sharply right angled; before before these with aflatimpression,with two very fine longitudinal lines along middle, finely TODO butdistinctly TODO andfairly densely punctured,little shining. 
+<emphasis box="[1342,1440,1592,1628]" italics="true" pageId="1" pageNumber="42">Elytra</emphasis>
+hardly as long as prothorax,together much broader than long with sharply protruding shoulders, finely and rather thickly punctured,hardly shining.Length, 
+<quantity box="[1220,1282,1671,1705]" metricMagnitude="-3" metricUnit="m" metricValue="2.0" pageId="1" pageNumber="42" unit="mm" value="2.0">2mm</quantity>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" box="[483,1199,1733,1775]" pageId="1" pageNumber="42" type="materials_examined">
+<paragraph blockId="1.[418,1814,1266,1933]" box="[483,1199,1733,1775]" pageId="1" pageNumber="42">
+<materialsCitation ID-GBIF-Occurrence="3331179309" box="[483,1199,1733,1775]" collectedFrom="ex rotten log" collectingDate="1936-05-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="1" pageNumber="42">
+<location box="[483,618,1733,1775]" name="Dededo" pageId="1" pageNumber="42">Dededo</location>
+, 
+<date box="[642,780,1733,1775]" pageId="1" pageNumber="42" value="2011-05">
+<collectingDate box="[642,780,1733,1775]" pageId="1" pageNumber="42" value="2011-05">May 11</collectingDate>
+</date>
+, 
+<specimenCount box="[804,845,1733,1775]" pageId="1" pageNumber="42" type="generic">ex</specimenCount>
+rotten log, 
+<collectorName box="[1059,1194,1733,1775]" pageId="1" pageNumber="42">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="42" type="diagnosis">
+<paragraph blockId="1.[418,1814,1266,1933]" pageId="1" pageNumber="42">
+This species stands next to 
+<taxonomicName _evidence="catalog+fontStyle" _step="styledSpecies" authority="Bernhauer" authorityName="Bernhauer" box="[964,1563,1787,1830]" class="Insecta" family="Staphylinidae" genus="Holotrochus" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="42" phylum="Arthropoda" rank="species" species="splendens">
+<emphasis box="[964,1364,1787,1830]" italics="true" pageId="1" pageNumber="42">Holotrochus splendens</emphasis>
+Bernhauer
+</taxonomicName>
+from 
+<collectingCountry box="[1677,1808,1787,1830]" name="Vietnam" pageId="1" pageNumber="42">Tonkin</collectingCountry>
+. Easily distinguished, however, by smaller narrower form, denser puncturation, especially of the prothorax and elytra, as well as smoky luster of upper surface.
+</paragraph>
+</subSubSection>
+</treatment>
+</subSection>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5157030" ID-GBIF-Taxon="183919165" ID-Zenodo-Dep="5157030" _generate="added" lastPageId="2" lastPageNumber="43" pageId="1" pageNumber="42">
+<subSubSection _generate="added" box="[420,1070,1974,2018]" pageId="1" pageNumber="42" type="nomenclature">
+<paragraph blockId="1.[419,1814,1974,2530]" box="[420,1070,1974,2018]" pageId="1" pageNumber="42">
+<heading box="[420,1070,1974,2018]" fontSize="11" level="2" pageId="1" pageNumber="42" reason="2">
+<emphasis bold="true" box="[420,834,1974,2018]" pageId="1" pageNumber="42">
+5. 
+<taxonomicName _evidence="statusLabel" _step="newLabel1" authorityName="Bernhauer" authorityYear="1942" box="[481,828,1974,2018]" class="Insecta" family="Staphylinidae" genus="Palaminus" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="42" phylum="Arthropoda" rank="species" species="swezeyi" status="new species">Palaminus swezeyi</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel box="[850,1065,1974,2018]" pageId="1" pageNumber="42" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="42" type="description">
+<paragraph blockId="1.[419,1814,1974,2530]" pageId="1" pageNumber="42">
+Clear reddish yellow, shining, the antennae, palpi and legs whitish yellow, the deep black eyes sharply prominent. 
+<emphasis box="[907,990,2074,2108]" italics="true" pageId="1" pageNumber="42">Head</emphasis>
+somewhat narrower than the prothorax, transverse, coarsely and densely punctured. Eyes large, prominent, the temples extremely short, prominently sharp pointed. 
+<emphasis box="[759,901,2151,2185]" italics="true" pageId="1" pageNumber="42">Antennae</emphasis>
+almost as long as head and prothorax together, penultimate segments somewhat longer than wide, the apical segment wider and longer than the penultimate, thickened in the middle, towards the apex strongly and acuminately narrowed. 
+<emphasis italics="true" pageId="1" pageNumber="42">Prothorax</emphasis>
+distinctly narrower than elytra, scarcely as long as wide, quite evenly convex, on the sides, moderately rounded, posteriorly narrowed, in front of the scutellum a shining raised longitudinal callosity, otherwise coarsely and quite densely punctured. 
+<emphasis box="[1604,1704,2341,2376]" italics="true" pageId="1" pageNumber="42">Elytra</emphasis>
+almost a third longer than the prothorax, much longer than total width, fairly parallel-sided, less strongly punctured than the prothorax, yellow haired. 
+<emphasis box="[1310,1453,2418,2453]" italics="true" pageId="1" pageNumber="42">Abdomen</emphasis>
+as normal, sculptured with crossing oblique lines, on the seventh tergite very fine and sparsely punctured, clothed with coarse long yellow hairs. Length, 
+<quantity box="[1158,1303,2495,2530]" metricMagnitude="-3" metricUnit="m" metricValue="2.05" metricValueMax="2.1" metricValueMin="2.0" pageId="1" pageNumber="42" unit="mm" value="2.05" valueMax="2.1" valueMin="2.0">
+<emphasis bold="true" box="[1158,1226,2495,2530]" pageId="1" pageNumber="42">2-2.1</emphasis>
+mm
+</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="43" type="materials_examined">
+<paragraph blockId="2.[297,1694,315,667]" pageId="2" pageNumber="43">
+<materialsCitation ID-GBIF-Occurrence="3404216304" box="[362,876,315,358]" collectedFrom="ex ferns" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="2" pageNumber="43">
+<location box="[362,537,315,358]" name="Upi Trail" pageId="2" pageNumber="43">Upi Trail</location>
+, 
+<date box="[564,683,315,358]" pageId="2" pageNumber="43">
+<collectingDate box="[564,683,315,358]" pageId="2" pageNumber="43">May 5</collectingDate>
+</date>
+, 
+<specimenCount box="[710,751,315,358]" pageId="2" pageNumber="43" type="generic">ex</specimenCount>
+ferns;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404216305" box="[896,1233,315,358]" collectingDate="1936-06-02" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="2" pageNumber="43">
+<location box="[896,1079,315,358]" name="Machanao" pageId="2" pageNumber="43">Machanao</location>
+, 
+<date box="[1104,1226,315,358]" pageId="2" pageNumber="43">
+<collectingDate box="[1104,1226,315,358]" pageId="2" pageNumber="43">June 2</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404216301" collectedFrom="ex Piper guahamense" collectingDate="1936-08-06" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="2" pageNumber="43">
+<date box="[1252,1376,315,358]" pageId="2" pageNumber="43">
+<collectingDate box="[1252,1376,315,358]" pageId="2" pageNumber="43">Aug. 6</collectingDate>
+</date>
+, 
+<specimenCount box="[1403,1444,315,358]" pageId="2" pageNumber="43" type="generic">ex</specimenCount>
+<emphasis italics="true" pageId="2" pageNumber="43">
+<taxonomicName _evidence="catalogs" _step="genera" class="Magnoliopsida" family="Piperaceae" genus="Piper" kingdom="Plantae" order="Piperales" pageId="2" pageNumber="43" phylum="Tracheophyta" rank="genus">
+<location box="[1460,1558,315,358]" name="Piper" pageId="2" pageNumber="43">Piper</location>
+gi&lt;ahamense
+</taxonomicName>
+,
+</emphasis>
+<collectorName box="[434,574,369,409]" pageId="2" pageNumber="43">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation ID-GBIF-Occurrence="3331179302" box="[599,1324,369,409]" collectedFrom="ex Morinda" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="2" pageNumber="43">
+<collectingMunicipality box="[599,777,369,409]" pageId="2" pageNumber="43">Barrigada</collectingMunicipality>
+, 
+<date box="[800,933,369,409]" pageId="2" pageNumber="43" value="1922-07">
+<collectingDate box="[800,933,369,409]" pageId="2" pageNumber="43" value="1922-07">July 22</collectingDate>
+</date>
+, 
+<specimenCount box="[956,998,369,409]" pageId="2" pageNumber="43" type="generic">ex</specimenCount>
+<emphasis box="[1011,1173,369,409]" italics="true" pageId="2" pageNumber="43">
+<location box="[1011,1167,369,409]" municipality="Barrigada" name="Marinda" pageId="2" pageNumber="43">Marinda</location>
+,
+</emphasis>
+<collectorName box="[1191,1324,369,409]" pageId="2" pageNumber="43">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="43" type="diagnosis">
+<paragraph blockId="2.[297,1694,315,667]" pageId="2" pageNumber="43">
+Distinguished from the closely related 
+<taxonomicName _evidence="catalog+fontStyle" _step="styledSpecies" authority="Bernhauerby" authorityName="Bernhauerby" authorityYear="1914" box="[1048,1647,420,462]" class="Insecta" family="Staphylinidae" genus="Palaminus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="43" phylum="Arthropoda" rank="species" species="philippinus">
+<emphasis box="[1048,1441,420,462]" italics="true" pageId="2" pageNumber="43">Palaminus philippinus</emphasis>
+Bernhauer
+</taxonomicName>
+by somewhat smaller form, narrower head, short even moderately convex prothorax, stronger rounded sides of the prothorax, hardly discerniblelongitudinal furrows of the upper surface of the prothorax, and somewhat shorter and more sparsely punctured elytra.
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5157038" ID-GBIF-Taxon="183919166" ID-Zenodo-Dep="5157038" _generate="added" pageId="2" pageNumber="43">
+<subSubSection _generate="added" box="[298,1052,703,743]" pageId="2" pageNumber="43" type="nomenclature">
+<paragraph blockId="2.[296,1694,703,1299]" box="[298,1052,703,743]" pageId="2" pageNumber="43">
+<heading box="[298,1052,703,743]" fontSize="11" level="2" pageId="2" pageNumber="43" reason="2">
+<emphasis bold="true" box="[298,816,703,743]" pageId="2" pageNumber="43">
+6. 
+<taxonomicName _evidence="statusLabel" _step="newLabel1" authorityName="Bernhauer" authorityYear="1942" box="[361,809,703,743]" class="Insecta" family="Staphylinidae" genus="Palaminus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="43" phylum="Arthropoda" rank="species" species="minutissimus" status="new species">Palaminus minutissimus</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel box="[831,1047,703,743]" pageId="2" pageNumber="43" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="43" type="description">
+<paragraph blockId="2.[296,1694,703,1299]" pageId="2" pageNumber="43">
+Pitchy black, shining, head and pronotum pitchy brown, elytra dark brown with lighter hind margin, apex of abdomen somewhat reddish, antennae, palpi and legs clear yellow. 
+<emphasis box="[430,512,839,874]" italics="true" pageId="2" pageNumber="43">Head</emphasis>
+scarcely wider than the prothorax, coarsely and moderately densely punctured. Eyes very large, extending entirely over sides of head, without temples, posterior edge of head sharply angled. 
+<emphasis box="[757,900,915,950]" italics="true" pageId="2" pageNumber="43">Antennae</emphasis>
+moderately long, penultimate segments longer than wide, apical segments wider and longer than penultimate. 
+<emphasis box="[1182,1342,953,988]" italics="true" pageId="2" pageNumber="43">Prothorax-</emphasis>
+considerably narrower than elytra, almost as long as wide, little rounded on sides, posteriorly strongly constricted, deeply and moderately punctured, on posterior half a strong raised median ridge.
+<emphasis box="[1594,1692,1030,1065]" italics="true" pageId="2" pageNumber="43">.Elytra</emphasis>
+about a half longer than total width, posteriorly slightly widened, deeply and densely punctured, clothed with coarse yellow hair. 
+<emphasis box="[915,1058,1106,1141]" italics="true" pageId="2" pageNumber="43">Abdomen</emphasis>
+densely sculptured with crossing oblique lines, the seventh tergite shining and sparsely punctured. Length, 
+<quantity box="[1324,1411,1145,1179]" metricMagnitude="-3" metricUnit="m" metricValue="2.0" pageId="2" pageNumber="43" unit="mm" value="2.0">
+<emphasis box="[1324,1341,1145,1179]" italics="true" pageId="2" pageNumber="43">2</emphasis>
+mm
+</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" box="[361,1320,1207,1249]" pageId="2" pageNumber="43" type="materials_examined">
+<paragraph blockId="2.[296,1694,703,1299]" box="[361,1320,1207,1249]" pageId="2" pageNumber="43">
+<materialsCitation ID-GBIF-Occurrence="3404216307" box="[361,845,1207,1249]" collectingDate="1936-05-11" collectorName="R. L. Usinger" country="Guam" location="Dededo" pageId="2" pageNumber="43">
+<collectingMunicipality box="[361,499,1207,1249]" pageId="2" pageNumber="43">Dededo</collectingMunicipality>
+, 
+<date box="[522,660,1207,1249]" pageId="2" pageNumber="43" value="2011-05">
+<collectingDate box="[522,660,1207,1249]" pageId="2" pageNumber="43" value="2011-05">May 11</collectingDate>
+</date>
+, 
+<collectorName box="[683,838,1207,1249]" pageId="2" pageNumber="43">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3404216308" box="[863,1320,1207,1249]" collectingDate="1936-05-30" collectorName="O. H. Swezey" country="Guam" location="Tumon" pageId="2" pageNumber="43">
+<location box="[863,995,1207,1249]" name="Tumon" pageId="2" pageNumber="43">Tumon</location>
+, 
+<date box="[1017,1156,1207,1249]" pageId="2" pageNumber="43" value="1930-05">
+<collectingDate box="[1017,1156,1207,1249]" pageId="2" pageNumber="43" value="1930-05">May 30</collectingDate>
+</date>
+, 
+<collectorName box="[1179,1315,1207,1249]" pageId="2" pageNumber="43">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" box="[360,1276,1259,1299]" pageId="2" pageNumber="43" type="diagnosis">
+<paragraph blockId="2.[296,1694,703,1299]" box="[360,1276,1259,1299]" pageId="2" pageNumber="43">A minute species, distinguished by the coloration.</paragraph>
+</subSubSection>
+</treatment>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5163378" ID-GBIF-Taxon="183919168" ID-Zenodo-Dep="5163378" _generate="added" pageId="2" pageNumber="43">
+<subSubSection _generate="added" box="[298,973,1343,1385]" pageId="2" pageNumber="43" type="nomenclature">
+<paragraph blockId="2.[297,1693,1343,2157]" box="[298,973,1343,1385]" pageId="2" pageNumber="43">
+<heading box="[298,973,1343,1385]" fontSize="11" level="2" pageId="2" pageNumber="43" reason="2">
+7. 
+<emphasis bold="true" box="[360,739,1343,1385]" pageId="2" pageNumber="43">
+<taxonomicName _evidence="statusLabel" _step="newLabel1" authorityName="Bernhauer" authorityYear="1942" box="[360,733,1343,1385]" class="Insecta" family="Staphylinidae" genus="Scopaeus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="43" phylum="Arthropoda" rank="species" species="opacicollis" status="new species">Scopaeus opacicollis</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel box="[755,968,1343,1385]" pageId="2" pageNumber="43" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="43" type="description">
+<paragraph blockId="2.[297,1693,1343,2157]" pageId="2" pageNumber="43">
+Dark reddish yellow, elytra somewhat lighter, antennae, palpi and legs clearer pale yellow. 
+<emphasis box="[428,510,1442,1476]" italics="true" pageId="2" pageNumber="43">Head</emphasis>
+distinctly wider than prothorax, little longer than wide, posteriorly somewhat widened, almost straight truncate behind, rounded except in the angular arrangement of hind edges, on sides rectilinear, dull, extremely finely and densely shagreenly punctured, in front somewhat less finely and less densely punctured, less dull. Eyes slightly convex; temples approximately three times as long as dorsal longitudinal section of eyes. 
+<emphasis box="[1549,1690,1594,1629]" italics="true" pageId="2" pageNumber="43">Antennae</emphasis>
+quite elongate, not thickened toward the apex, the penultimate segments not or scarcely wider than long. 
+<emphasis box="[572,731,1671,1705]" italics="true" pageId="2" pageNumber="43">Prothora.&quot;C</emphasis>
+somewhat narrower than elytra, about one fourth longer than wide, moderately flat, widest before middle, feebly rounded at sides, shagreenly punctured like head, dull, with an extraordinarily narrow, fine, somewhat shining median line. 
+<emphasis box="[1596,1693,1747,1781]" italics="true" pageId="2" pageNumber="43">Elytra</emphasis>
+as long as prothorax, parallel-sided, somewhat longer than total width, with promihent shoulders, distinctly rougher with densely shagreened punctures, dull, clothed with yellow hair like the remainder of the body. 
+<emphasis box="[943,1087,1861,1895]" italics="true" pageId="2" pageNumber="43">Abdomen</emphasis>
+shagreenly punctured, dull. Length, 
+<quantity box="[299,439,1900,1934]" metricMagnitude="-3" metricUnit="m" metricValue="3.9" metricValueMax="4.0" metricValueMin="3.8" pageId="2" pageNumber="43" unit="mm" value="3.9" valueMax="4.0" valueMin="3.8">3.8-4 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" box="[362,746,1962,2004]" pageId="2" pageNumber="43" type="materials_examined">
+<paragraph blockId="2.[297,1693,1343,2157]" box="[362,746,1962,2004]" pageId="2" pageNumber="43">
+<materialsCitation ID-GBIF-Occurrence="3331179307" box="[362,741,1962,2004]" collectingDate="1936-07-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="43">
+<location box="[362,428,1962,2004]" name="Piti" pageId="2" pageNumber="43">Piti</location>
+, 
+<date box="[450,582,1962,2004]" pageId="2" pageNumber="43" value="1927-07">
+<collectingDate box="[450,582,1962,2004]" pageId="2" pageNumber="43" value="1927-07">July 
+<emphasis box="[539,589,1962,2004]" italics="true" pageId="2" pageNumber="43">27,</emphasis>
+</collectingDate>
+</date>
+<collectorName box="[607,741,1962,2004]" pageId="2" pageNumber="43">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="43" type="diagnosis">
+<paragraph blockId="2.[297,1693,1343,2157]" pageId="2" pageNumber="43">
+A medium-sized, uniformly reddish yellow species, near 
+<taxonomicName _evidence="catalogs" _step="species1" authority="Motschulsky" authorityName="Motschulsky" class="Insecta" family="Staphylinidae" genus="Scopaeus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="43" phylum="Arthropoda" rank="species" species="testaceus">
+<emphasis box="[1366,1693,2014,2054]" italics="true" pageId="2" pageNumber="43">Scopaeus testaceus</emphasis>
+Motschulsky
+</taxonomicName>
+, easily separated from it however, by the much wider and shorter, posteriorly broader head.
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5163376" ID-GBIF-Taxon="183919163" ID-Zenodo-Dep="5163376" _generate="added" pageId="2" pageNumber="43">
+<subSubSection _generate="added" box="[298,1210,2194,2234]" pageId="2" pageNumber="43" type="nomenclature">
+<paragraph blockId="2.[298,1692,2194,2466]" box="[298,1210,2194,2234]" pageId="2" pageNumber="43">
+<heading box="[298,1210,2194,2234]" fontSize="11" level="2" pageId="2" pageNumber="43" reason="2">
+<emphasis bold="true" box="[298,910,2194,2234]" pageId="2" pageNumber="43">
+8. 
+<taxonomicName _evidence="statusLabel" _step="newSubSpecies" authorityName="Bernhauer, M." box="[361,904,2194,2234]" class="Insecta" family="Staphylinidae" genus="Oligota" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="43" phylum="Arthropoda" rank="subSpecies" species="apicata" status="new subspecies" subSpecies="obscuricornis">Oligota apicata obscuricornis</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel box="[926,1205,2194,2234]" pageId="2" pageNumber="43" rank="subSpecies">new subspecies</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="43" type="description">
+<paragraph blockId="2.[298,1692,2194,2466]" pageId="2" pageNumber="43">
+Differing from 
+<taxonomicName _evidence="document" _step="nonLabeled1" authority="Erichson" authorityName="Erichson" authorityYear="1837" box="[616,925,2245,2279]" class="Insecta" family="Staphylinidae" genus="Oligota" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="43" phylum="Arthropoda" rank="species" species="apicata">
+O. 
+<emphasis box="[667,772,2245,2279]" italics="true" pageId="2" pageNumber="43">apicata</emphasis>
+Erichson
+</taxonomicName>
+in the dark antennae, somewhat lighter only on extreme base.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" box="[361,1532,2320,2363]" pageId="2" pageNumber="43" type="materials_examined">
+<paragraph blockId="2.[298,1692,2194,2466]" box="[361,1532,2320,2363]" pageId="2" pageNumber="43">
+<materialsCitation ID-GBIF-Occurrence="3331179306" box="[361,1532,2320,2363]" collectedFrom="in rotten seed of Barringtonia speciosa" collectingDate="1936-05-30" collectorName="O. H. Swezey" country="Guam" location="Tumon" pageId="2" pageNumber="43">
+<collectingMunicipality box="[361,492,2320,2363]" pageId="2" pageNumber="43">Tumon</collectingMunicipality>
+, 
+<date box="[516,654,2320,2363]" pageId="2" pageNumber="43" value="1930-05">
+<collectingDate box="[516,654,2320,2363]" pageId="2" pageNumber="43" value="1930-05">May 30</collectingDate>
+</date>
+, in rotten seed of 
+<taxonomicName _evidence="catalogs" _step="species1" authority=", Swezey." box="[982,1532,2320,2363]" class="Magnoliopsida" family="Lecythidaceae" genus="Barringtonia" kingdom="Plantae" order="Ericales" pageId="2" pageNumber="43" phylum="Tracheophyta" rank="species" species="speciosa">
+<emphasis box="[982,1375,2320,2363]" italics="true" pageId="2" pageNumber="43">
+<location box="[982,1209,2320,2363]" municipality="Tumon" name="Barringtonia" pageId="2" pageNumber="43">Barringtonia</location>
+speciosa,
+</emphasis>
+<collectorName box="[1392,1527,2320,2363]" pageId="2" pageNumber="43">Swezey</collectorName>
+.
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="2" pageNumber="43" type="diagnosis">
+<paragraph blockId="2.[298,1692,2194,2466]" pageId="2" pageNumber="43">At present I cannot see any other distinguishing characters, and the similarity is great. It can scarcely be considered a distinct species.</paragraph>
+</subSubSection>
+</treatment>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5157046" ID-GBIF-Taxon="183919171" ID-Zenodo-Dep="5157046" _generate="added" pageId="3" pageNumber="44">
+<subSubSection _generate="added" box="[419,1252,385,427]" pageId="3" pageNumber="44" type="nomenclature">
+<paragraph blockId="3.[418,1816,385,1214]" box="[419,1252,385,427]" pageId="3" pageNumber="44">
+<heading box="[419,1252,385,427]" fontSize="11" level="2" pageId="3" pageNumber="44" reason="2">
+<emphasis bold="true" box="[419,1018,385,427]" pageId="3" pageNumber="44">
+9. 
+<taxonomicName _evidence="statusLabel" _step="newLabel1" authorityName="Bernhauer" authorityYear="1942" box="[480,1011,385,427]" class="Insecta" family="Staphylinidae" genus="Atheta" kingdom="Animalia" order="Coleoptera" pageId="3" pageNumber="44" phylum="Arthropoda" rank="species" species="usingeri" status="new species" subGenus="Microdota">Atheta (Microdota) usingeri</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel box="[1034,1247,385,427]" pageId="3" pageNumber="44" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="3" pageNumber="44" type="description">
+<paragraph blockId="3.[418,1816,385,1214]" pageId="3" pageNumber="44">
+Reddish to blackish brown, the base and hind margin of the elytra light yellow, base and apex of abdomen reddish yellow, antennae rust brown with paler scape, palpi and legs dirty yellow. 
+<emphasis box="[633,717,523,559]" italics="true" pageId="3" pageNumber="44">Head</emphasis>
+shiny, much narrower than prothorax, transverse, puncturation sparse, extremely fine, and scarcely visible. Eyes fairly large, temples behind them shorter than lengthwise section of eyes viewed from above; underside finely edged. 
+<emphasis box="[1572,1715,600,636]" italics="true" pageId="3" pageNumber="44">Antennae</emphasis>
+much longer than head and prothorax together, but still short, thickened toward the apex, the third segment much shorter than the second, the fourth about as long as wide, the following segments gradually becoming shorter and wider, the penultimate fairly strongly transverse, in the shortest view about one half again as wide as long, apical segment large, longer than the two preceding together. 
+<emphasis box="[1098,1259,793,829]" italics="true" pageId="3" pageNumber="44">Prothora:r</emphasis>
+convex, as wide as elytra at the shoulders, about half wider than long, widest posteriorly, with blunt hind angles, strongly narrowed anteriorly, feebly rounded, without impression in front of the scutellum, extremely finely and sparsely punctured, shiny, clothed with fine grayish yellow hair like upper surface of body. Epipleurae fairly strongly recurved, visible posteriorly when viewed from the side. 
+<emphasis box="[653,751,986,1018]" italics="true" pageId="3" pageNumber="44">Elytra</emphasis>
+hardly longer than prothorax, together much wider than long, inner side of outer posterior angles distinctly margined; moderately finely punctured, much stronger and denser than on the prothorax, distinctly rough, laterally as well as on thorax with dark uneven cilia. Prothorax is somewhat narrowed posteriorly, at the base the first free lying tergites transversely furrowed, finely and sparsely punctured, finer and sparser posteriorly, shiny, on the sides with numerous black cilia. Length, 
+<quantity box="[1453,1619,1172,1214]" metricMagnitude="-3" metricUnit="m" metricValue="1.7" metricValueMax="1.9" metricValueMin="1.5" pageId="3" pageNumber="44" unit="mm" value="1.7" valueMax="1.9" valueMin="1.5">1.5-1.9 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" box="[486,1264,1251,1292]" pageId="3" pageNumber="44" type="materials_examined">
+<paragraph blockId="3.[423,1817,1251,1454]" box="[486,1264,1251,1292]" pageId="3" pageNumber="44">
+<materialsCitation ID-GBIF-Occurrence="3331179301" box="[486,1264,1251,1292]" collectedFrom="ex leaf mold" collectingDate="1936-06-12" collectorName="R. L. Usinger" country="Guam" location="Barrigada" pageId="3" pageNumber="44">
+<collectingCountry box="[486,664,1251,1292]" pageId="3" pageNumber="44">Barrigada</collectingCountry>
+, 
+<date box="[689,833,1251,1292]" pageId="3" pageNumber="44" value="2012-06">
+<collectingDate box="[689,833,1251,1292]" pageId="3" pageNumber="44" value="2012-06">June 12</collectingDate>
+</date>
+, 
+<specimenCount box="[858,900,1251,1292]" pageId="3" pageNumber="44" type="generic">ex</specimenCount>
+leaf mold, 
+<collectorName box="[1114,1259,1251,1292]" pageId="3" pageNumber="44">Usinger</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="3" pageNumber="44" type="diagnosis">
+<paragraph blockId="3.[423,1817,1251,1454]" pageId="3" pageNumber="44">Distinguished by the coloration and the moderately strongly convex ciliated prothorax. With the acquisition of greater material, it may be placed in a new subgenus.</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,338 @@
+<document approvalRequired="1" approvalRequired_for_document="1" docAuthor="LALLEMAND, V." docDate="1942" docId="FFF49654F7692F7AFF85FFD7FFE1FFCA" docName="InsectsOfGuamI.172.17-18.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 172" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Homoptera, Cercopidae of Guam" lastPageNumber="18" mods:ID="http://doi.org/10.5281/zenodo.5159714" mods:ID-DOI="http://doi.org/10.5281/zenodo.5159714" mods:ID-GBIF-Dataset="cbd6479d-ac43-4609-ab60-e69de966ed9c" mods:ID-Zenodo-Dep="5159714" mods:author="LALLEMAND, V." mods:location="Honolulu, Hawaii" mods:pagination="17-18" mods:pubDate="1942-06-01" mods:publisher="Bernice P. Bishop Museum, Bulletin 172" mods:title="Homoptera, Cercopidae of Guam" mods:type="book chapter" mods:volumeTitle="Insects of Guam I" mods:year="1942" pageNumber="17">
+<subSection _generate="added" box="[843,1190,433,483]" pageId="0" pageNumber="17" type="multiple">
+<paragraph blockId="0.[843,1190,433,483]" box="[843,1190,433,483]" pageId="0" pageNumber="17">
+<taxonomicName _evidence="catalogs" _step="genera" box="[843,1190,433,483]" class="Insecta" family="Lepidoptera (awaiting allocation)" genus="Homoptera" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="17" phylum="Arthropoda" rank="genus">
+<emphasis bold="true" box="[843,1190,433,483]" pageId="0" pageNumber="17">HOMOPTERA</emphasis>
+</taxonomicName>
+</paragraph>
+</subSection>
+<paragraph blockId="0.[751,1282,535,574]" box="[751,1282,535,574]" pageId="0" pageNumber="17">
+<heading box="[751,1282,535,574]" centered="true" fontSize="8" level="2" pageId="0" pageNumber="17" reason="3">
+<emphasis bold="true" box="[751,1282,535,574]" pageId="0" pageNumber="17">
+<taxonomicName _evidence="catalogs" _step="family" authority="OF" authorityName="OF" box="[751,1127,535,574]" class="Insecta" family="Cercopidae" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="17" phylum="Arthropoda" rank="family">CERCOPIDAE OF</taxonomicName>
+<collectingCountry box="[1150,1282,535,574]" name="Guam" pageId="0" pageNumber="17">GUAM</collectingCountry>
+</emphasis>
+</heading>
+</paragraph>
+<paragraph blockId="0.[635,1394,612,744]" box="[801,1230,612,652]" pageId="0" pageNumber="17">
+<heading box="[801,1230,612,652]" centered="true" fontSize="8" level="2" pageId="0" pageNumber="17" reason="3">
+By DR. 
+<docAuthor box="[949,1230,612,652]" pageId="0" pageNumber="17">V. LALLEMAND</docAuthor>
+</heading>
+</paragraph>
+<subSection _generate="added" pageId="0" pageNumber="17" type="multiple">
+<paragraph blockId="0.[635,1394,612,744]" box="[885,1140,663,697]" pageId="0" pageNumber="17">
+<heading box="[885,1140,663,697]" centered="true" fontSize="8" level="2" pageId="0" pageNumber="17" reason="3">
+Uccu, 
+<collectingCountry box="[1005,1140,663,697]" name="Belgium" pageId="0" pageNumber="17">BELGIUM</collectingCountry>
+</heading>
+</paragraph>
+<paragraph blockId="0.[635,1394,612,744]" box="[635,1394,709,744]" pageId="0" pageNumber="17">(Translated from the French by 0. H. Swezey.)</paragraph>
+<paragraph blockId="0.[321,1710,796,889]" pageId="0" pageNumber="17">
+The following observations are made on 
+<taxonomicName _evidence="catalogs" _step="family" box="[1128,1321,796,838]" class="Insecta" family="Cercopidae" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="17" phylum="Arthropoda" rank="family">Cercopidae</taxonomicName>
+collected in 
+<collectingCountry box="[1557,1661,796,838]" name="Guam" pageId="0" pageNumber="17">Guam</collectingCountry>
+in 1936, and sent to me through the kindness of 0. H. Swezey.
+</paragraph>
+</subSection>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5156765" ID-GBIF-Taxon="183919380" ID-Zenodo-Dep="5156765" pageId="0" pageNumber="17">
+<subSubSection _generate="added" box="[317,961,950,991]" pageId="0" pageNumber="17" type="nomenclature">
+<paragraph blockId="0.[317,1710,950,1198]" box="[317,961,950,991]" pageId="0" pageNumber="17">
+<heading box="[317,961,950,991]" centered="true" fontSize="11" level="2" pageId="0" pageNumber="17" reason="2">
+<emphasis bold="true" box="[317,345,950,991]" pageId="0" pageNumber="17">1.</emphasis>
+<taxonomicName _evidence="catalogs" _step="species1" authority="(Stal)" baseAuthorityName="Stal" baseAuthorityYear="1854" box="[378,955,950,991]" class="Insecta" family="Aphrophoridae" genus="Lallemandana" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="17" phylum="Arthropoda" rank="species" species="phalerata">
+<emphasis bold="true" box="[378,823,950,991]" pageId="0" pageNumber="17">Lallemandana phalerata</emphasis>
+(Stal)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="17" type="reference_group">
+<paragraph blockId="0.[317,1710,950,1198]" pageId="0" pageNumber="17">
+<treatmentCitationGroup pageId="0" pageNumber="17">
+<treatmentCitation author="Stal" box="[378,1422,1000,1043]" page="250" pageId="0" pageNumber="17" year="1854">
+<taxonomicName authority=" Stal" box="[378,791,1000,1043]" family="Cercopidae" genus="Ptyelus" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="17" rank="genus" species="phaleratus">
+<title box="[378,706,1000,1043]" jopScore="0.022727273" pageId="0" pageNumber="17">
+<emphasis box="[378,706,1000,1043]" italics="true" pageId="0" pageNumber="17">Ptyelus phaleratus</emphasis>
+</title>
+<bibCitation _evidence="authorList" author="Stal" box="[722,1428,1000,1043]" journalOrPublisher="Ofv. Vet. - Akad. Forh." pageId="0" pageNumber="17" part="250" refId="ref61" type="book" year="1854">
+<author box="[722,791,1000,1043]" pageId="0" pageNumber="17">Stal</author>
+, 
+<journalOrPublisher box="[816,1221,1000,1043]" pageId="0" pageNumber="17">Ofv. Vet.-Akad. Forh.</journalOrPublisher>
+, 
+<part box="[1244,1307,1000,1043]" pageId="0" pageNumber="17">250</part>
+,.
+<year box="[1337,1422,1000,1043]" pageId="0" pageNumber="17">1854</year>
+;
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+<bibCitation _evidence="authorList" author="Eugenies Resa" journalOrPublisher="Hemipt" pageId="0" pageNumber="17" part="287" refId="ref61" type="book" year="1859">
+<treatmentCitation author="Eugine Resa" page="287" pageId="0" pageNumber="17" year="1859">
+<author box="[1443,1704,1000,1043]" pageId="0" pageNumber="17">Eugenies Resa</author>
+, 
+<journalOrPublisher box="[442,583,1052,1094]" pageId="0" pageNumber="17">Hemipt</journalOrPublisher>
+., 
+<part box="[611,676,1052,1094]" pageId="0" pageNumber="17">287</part>
+, 
+<year box="[702,784,1052,1094]" pageId="0" pageNumber="17">1859</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+<treatmentCitationGroup pageId="0" pageNumber="17">
+<treatmentCitation author="Stal" box="[380,1384,1105,1148]" page="75" pageId="0" pageNumber="17" year="1866">
+<title box="[380,1279,1105,1148]" pageId="0" pageNumber="17">
+<taxonomicName authority=" (Stal)" box="[380,792,1105,1148]" kingdom="Animalia" pageId="0" pageNumber="17" rank="species">
+<emphasis box="[380,667,1105,1148]" italics="true" pageId="0" pageNumber="17">Clovia phalerata</emphasis>
+<bibCitation _evidence="authorList" author="Stal" box="[686,1389,1105,1148]" journalOrPublisher="Hemiptera Africana" pageId="0" pageNumber="17" pagination="75" part="4" refId="ref90" type="journal article" year="1866">
+(
+<author box="[700,778,1105,1148]" pageId="0" pageNumber="17">Stal</author>
+) 
+<journalOrPublisher box="[812,1173,1105,1148]" pageId="0" pageNumber="17">Hemiptera Africana</journalOrPublisher>
+<emphasis bold="true" box="[1185,1221,1105,1148]" pageId="0" pageNumber="17">
+<part box="[1185,1205,1105,1148]" pageId="0" pageNumber="17" type="volume">4</part>
+:
+</emphasis>
+<pagination box="[1236,1279,1105,1148]" pageId="0" pageNumber="17" type="pagination">75</pagination>
+, 
+<year box="[1302,1384,1105,1148]" pageId="0" pageNumber="17">1866</year>
+.
+</bibCitation>
+</taxonomicName>
+</title>
+</treatmentCitation>
+<bibCitation _evidence="authorList" author="Lallemand" journalOrPublisher="Gen. Insect. Homopt." pageId="0" pageNumber="17" pagination="44" part="143" refId="ref90" type="journal article" year="1912">
+<treatmentCitation author="Lallemand" page="44" pageId="0" pageNumber="17" year="1912">
+<author box="[1415,1609,1105,1148]" pageId="0" pageNumber="17">Lallemand</author>
+, 
+<journalOrPublisher pageId="0" pageNumber="17">Gen. Insect. Homopt.</journalOrPublisher>
+<emphasis bold="true" box="[750,806,1158,1198]" pageId="0" pageNumber="17">
+<part box="[750,806,1158,1198]" pageId="0" pageNumber="17" type="volume">143</part>
+</emphasis>
+:
+<pagination box="[843,882,1158,1198]" pageId="0" pageNumber="17" type="pageRange">44</pagination>
+, 
+<year box="[907,990,1158,1198]" pageId="0" pageNumber="17">1912</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="17" type="description">
+<paragraph blockId="0.[315,1711,1232,1498]" pageId="0" pageNumber="17">Coloration and design quite variable; frons may be completely brown; majority with three transverse bands, of which the first is quite fine and often less distinct than the other 2; posterior part of pronotum varies strongly in shade, ochreous brown, light or dark; 2 anterior bands of elytra may go only partly from base of clavus, or sometimes quite broad along the suture, passing from it upon the corium or scarcely passing the radius; clavus in apical half and corium in the adjacent area may be paler, almost brownish yellow.</paragraph>
+<paragraph blockId="0.[316,1712,1553,1851]" pageId="0" pageNumber="17">
+<materialsCitation ID-GBIF-Occurrence="3331242303" box="[380,1156,1553,1594]" pageId="0" pageNumber="17">Ritidia11 Point, April 15, ex ferns, Bryan;</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331242309" pageId="0" pageNumber="17">
+Mt. Alifan, April 
+<emphasis box="[1510,1564,1553,1594]" italics="true" pageId="0" pageNumber="17">20,</emphasis>
+Bryan; Agana, May 4, ex 
+<emphasis box="[644,855,1603,1646]" italics="true" pageId="0" pageNumber="17">
+<taxonomicName _evidence="catalogs" _step="genera" authority=", Swezey" authorityName="Swezey" box="[644,849,1603,1646]" class="Magnoliopsida" family="Polygonaceae" genus="Polygonum" kingdom="Plantae" order="Polygonales" pageId="0" pageNumber="17" phylum="Tracheophyta" rank="genus">Polygonum</taxonomicName>
+,
+</emphasis>
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331242306" pageId="0" pageNumber="17">
+Swezey, May 25, ex 
+<emphasis box="[1233,1387,1603,1646]" italics="true" pageId="0" pageNumber="17">
+<taxonomicName _evidence="catalogs" _step="genera" authority=", Usinger" authorityName="Usinger" box="[1233,1381,1603,1646]" genus="Jussiaea" kingdom="Plantae" pageId="0" pageNumber="17" rank="genus">Jussiaea</taxonomicName>
+,
+</emphasis>
+Usinger, June 26, ex 
+<emphasis box="[375,529,1655,1697]" italics="true" pageId="0" pageNumber="17">
+<taxonomicName _evidence="catalogs" _step="genera" authority=", Usinger" authorityName="Usinger" box="[375,523,1655,1697]" genus="Jussiaea" kingdom="Plantae" pageId="0" pageNumber="17" rank="genus">Jussiaea</taxonomicName>
+,
+</emphasis>
+Usinger;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331242301" box="[725,1230,1655,1697]" pageId="0" pageNumber="17">Upi Trail, May 5, Usinger;</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331242308" pageId="0" pageNumber="17">
+Mt. Chachao, May 16, ex 
+<emphasis box="[319,429,1707,1749]" italics="true" pageId="0" pageNumber="17">
+<taxonomicName _evidence="catalogs" _step="genera" authority=", Sept." authorityName="Sept." box="[319,423,1707,1749]" class="Cycadopsida" family="Cycadaceae" genus="Cycas" kingdom="Plantae" order="Cycadales" pageId="0" pageNumber="17" phylum="Tracheophyta" rank="genus">Cycas</taxonomicName>
+,
+</emphasis>
+Sept. 22, ex 
+<emphasis box="[671,1029,1707,1749]" italics="true" pageId="0" pageNumber="17">
+<taxonomicName _evidence="catalogs" _step="species1" authority=", Swezey" authorityName="Swezey" box="[671,1023,1707,1749]" class="Magnoliopsida" family="Goodeniaceae" genus="Scaevola" kingdom="Plantae" order="Asterales" pageId="0" pageNumber="17" phylum="Tracheophyta" rank="species" species="frutescens">Scaevola frutescens</taxonomicName>
+,
+</emphasis>
+Swezey;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331242312" pageId="0" pageNumber="17">
+Machanao, Aug. 6, ex 
+<emphasis italics="true" pageId="0" pageNumber="17">
+<taxonomicName _evidence="catalogs" _step="species1" authority=", Swezey" authorityName="Swezey" class="Magnoliopsida" family="Piperaceae" genus="Piper" kingdom="Plantae" order="Piperales" pageId="0" pageNumber="17" phylum="Tracheophyta" rank="species" species="guahamense">Piper guahamense</taxonomicName>
+,
+</emphasis>
+Swezey;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331242302" box="[734,1381,1758,1800]" pageId="0" pageNumber="17">
+Asan, Aug. 22, ex 
+<emphasis box="[1102,1209,1758,1800]" italics="true" pageId="0" pageNumber="17">
+<taxonomicName _evidence="catalogs" _step="genera" authority=", Swezey" authorityName="Swezey" box="[1102,1202,1758,1800]" class="Gastropoda" family="Ficidae" genus="Ficus" kingdom="Animalia" order="Littorinimorpha" pageId="0" pageNumber="17" phylum="Mollusca" rank="genus">Ficus</taxonomicName>
+,
+</emphasis>
+Swezey;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331242304" pageId="0" pageNumber="17">
+Orote Penimsula, Sept. 27, ex 
+<emphasis box="[544,743,1809,1851]" italics="true" pageId="0" pageNumber="17">
+<taxonomicName _evidence="catalogs" _step="genera" authority=", Swezey. Sixteen" authorityName="Swezey. Sixteen" box="[544,737,1809,1851]" class="Magnoliopsida" family="Rubiaceae" genus="Psychotria" kingdom="Plantae" order="Gentianales" pageId="0" pageNumber="17" phylum="Tracheophyta" rank="genus">Psychotria</taxonomicName>
+,
+</emphasis>
+Swezey. Sixteen specimens.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5163556" ID-GBIF-Taxon="183919381" ID-Zenodo-Dep="5163556" _generate="added" pageId="0" pageNumber="17">
+<subSubSection _generate="added" box="[317,1326,1887,1927]" pageId="0" pageNumber="17" type="nomenclature">
+<paragraph blockId="0.[317,1713,1887,2125]" box="[317,1326,1887,1927]" pageId="0" pageNumber="17">
+<heading box="[317,1326,1887,1927]" fontSize="11" level="2" pageId="0" pageNumber="17" reason="2">
+<emphasis bold="true" box="[317,1093,1887,1927]" pageId="0" pageNumber="17">
+2. 
+<taxonomicName _evidence="statusLabel" _step="newVariety" authority="Lallemand" box="[381,1087,1887,1927]" class="Insecta" family="Aphrophoridae" genus="Lallemandana" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="17" phylum="Arthropoda" rank="variety" species="phalerata" status="new variety" variety="luteomaculata">Lallemandana phalerata luteomaculata</taxonomicName>
+,
+</emphasis>
+new variety.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="17" type="description">
+<paragraph blockId="0.[317,1713,1887,2125]" pageId="0" pageNumber="17">Transverse bands of vertex generally paler, clear brown instead of blackish brown, the first band not distinct, even absent; band on scutellum much wider; about the basal fourth of clavus and a more or less rectangular spot on middle of corium yellow; middle of frons brown, on each side of which a fine yellow band starting from mesosternum unites with that of the opposite side at anterior margin of head.</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="17" type="materials_examined">
+<paragraph blockId="0.[318,1713,2179,2478]" pageId="0" pageNumber="17">
+<materialsCitation ID-GBIF-Occurrence="3331242313" box="[380,876,2179,2221]" pageId="0" pageNumber="17">Talofofo, April 11, Bryan;</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331242315" pageId="0" pageNumber="17">
+Ritidian Point, April 15, Bryan, June 30, ex 
+<emphasis box="[319,487,2231,2272]" italics="true" pageId="0" pageNumber="17">&quot;hamlat&quot;,</emphasis>
+Usinger;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331242314" box="[680,1405,2231,2272]" pageId="0" pageNumber="17">
+Barrigada, July 22, ex 
+<emphasis box="[1092,1241,2231,2272]" italics="true" pageId="0" pageNumber="17">
+<taxonomicName _evidence="catalogs" _step="genera" authority=", Swezey" authorityName="Swezey" box="[1092,1234,2231,2272]" class="Magnoliopsida" family="Lamiaceae" genus="Premna" kingdom="Plantae" order="Lamiales" pageId="0" pageNumber="17" phylum="Tracheophyta" rank="genus">Premna</taxonomicName>
+,
+</emphasis>
+Swezey;
+</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331242307" pageId="0" pageNumber="17">Machanao, Aug. 6, Swezey;</materialsCitation>
+<materialsCitation ID-GBIF-Occurrence="3331242311" box="[532,1412,2282,2325]" pageId="0" pageNumber="17">
+Dededo, Sept. 7, ex 
+<emphasis box="[897,1258,2282,2325]" italics="true" pageId="0" pageNumber="17">
+<taxonomicName _evidence="catalogs" _step="species1" authority=", Swezey." box="[897,1252,2282,2325]" class="Magnoliopsida" family="Convolvulaceae" genus="Ipomoea" kingdom="Plantae" order="Solanales" pageId="0" pageNumber="17" phylum="Tracheophyta" rank="species" species="pes-caprae">Ipomoea pes-caprae</taxonomicName>
+,
+</emphasis>
+Swezey
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="0" pageNumber="17" type="discussion">
+<paragraph blockId="0.[318,1713,2179,2478]" pageId="0" pageNumber="17">
+These few examples constitute a well set-off variety, intermediate between the species and 
+<taxonomicName _evidence="document" _step="nonLabeled1" authority="(Stal)" baseAuthorityName="Stal" box="[605,1147,2386,2427]" class="Insecta" family="Aphrophoridae" genus="Clovia" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="17" phylum="Arthropoda" rank="species" species="eugeniae">
+<emphasis box="[605,852,2386,2427]" italics="true" pageId="0" pageNumber="17">Lallemanda.na</emphasis>
+<emphasis box="[869,1018,2386,2427]" italics="true" pageId="0" pageNumber="17">eugeniae</emphasis>
+(Stal)
+</taxonomicName>
+which I have reviewed as only a variety of 
+<emphasis box="[541,711,2439,2478]" italics="true" pageId="0" pageNumber="17">
+<taxonomicName _evidence="document" _step="nonLabeled1" baseAuthorityName="Stal" baseAuthorityYear="1854" box="[541,706,2439,2478]" class="Insecta" family="Aphrophoridae" genus="Lallemandana" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="17" phylum="Arthropoda" rank="species" species="phalerata">phalerata</taxonomicName>
+.
+</emphasis>
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5156767" ID-GBIF-Taxon="183919383" ID-Zenodo-Dep="5156767" pageId="1" pageNumber="18">
+<subSubSection _generate="added" box="[503,1316,406,448]" pageId="1" pageNumber="18" type="nomenclature">
+<paragraph blockId="1.[503,1525,406,552]" box="[503,1316,406,448]" pageId="1" pageNumber="18">
+<heading box="[503,1316,406,448]" centered="true" fontSize="11" level="2" pageId="1" pageNumber="18" reason="2">
+<emphasis bold="true" box="[503,531,408,447]" pageId="1" pageNumber="18">3.</emphasis>
+<taxonomicName _evidence="catalogs" _step="species1" authority="(Stal)" baseAuthorityName="Stal" baseAuthorityYear="1854" box="[566,1310,406,448]" class="Insecta" family="Aphrophoridae" genus="Lallemandana" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="18" phylum="Arthropoda" rank="species" species="phalerata">
+<emphasis bold="true" box="[566,1008,406,448]" pageId="1" pageNumber="18">Lallemandana phalerata</emphasis>
+<emphasis bold="true" box="[1023,1179,406,448]" pageId="1" pageNumber="18">eugeniae</emphasis>
+(Stal)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" box="[568,1525,458,500]" pageId="1" pageNumber="18" type="reference_group">
+<paragraph blockId="1.[503,1525,406,552]" box="[568,1525,458,500]" pageId="1" pageNumber="18">
+<treatmentCitationGroup box="[568,1525,458,500]" pageId="1" pageNumber="18">
+<treatmentCitation author="Stal" box="[568,1520,458,500]" page="75" pageId="1" pageNumber="18" year="1866">
+<taxonomicName _evidence="catalogs" _step="species1" authority="Stal" authorityName="Stal" authorityYear="1866" box="[568,927,458,500]" class="Insecta" family="Aphrophoridae" genus="Clovia" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="18" phylum="Arthropoda" rank="species" species="eugeniae">
+<emphasis box="[568,840,458,500]" italics="true" pageId="1" pageNumber="18">Clovia eugeniae</emphasis>
+<bibCitation author="Stal" box="[856,1525,458,500]" journalOrPublisher="Hemiptera Africana" pageId="1" pageNumber="18" pagination="75" part="4" type="journal article" year="1866">
+<author box="[856,927,458,500]" pageId="1" pageNumber="18">Stal</author>
+, 
+<journalOrPublisher box="[950,1311,458,500]" pageId="1" pageNumber="18">Hemiptera Africana</journalOrPublisher>
+<emphasis bold="true" box="[1322,1358,458,500]" pageId="1" pageNumber="18">
+<part box="[1322,1351,458,500]" pageId="1" pageNumber="18" type="volume">4</part>
+:
+</emphasis>
+<emphasis box="[1373,1422,458,500]" italics="true" pageId="1" pageNumber="18">
+<pagination box="[1373,1416,458,500]" pageId="1" pageNumber="18" type="pageRange">75</pagination>
+,
+</emphasis>
+<year box="[1439,1520,458,500]" pageId="1" pageNumber="18">1866</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" box="[566,1319,510,552]" pageId="1" pageNumber="18" type="materials_examined">
+<paragraph blockId="1.[503,1525,406,552]" box="[566,1319,510,552]" pageId="1" pageNumber="18">
+<materialsCitation ID-GBIF-Occurrence="3331242310" box="[566,1314,510,552]" pageId="1" pageNumber="18">
+Mt. Alifan, May 21, 
+<specimenCount box="[953,1154,510,552]" pageId="1" pageNumber="18" type="generic">1 specimen</specimenCount>
+, Swezey
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+<treatment ID-DOI="http://doi.org/10.5281/zenodo.5156771" ID-GBIF-Taxon="183919382" ID-Zenodo-Dep="5156771" _generate="added" pageId="1" pageNumber="18">
+<subSubSection _generate="added" box="[504,1211,597,636]" pageId="1" pageNumber="18" type="nomenclature">
+<paragraph blockId="1.[504,1899,597,883]" box="[504,1211,597,636]" pageId="1" pageNumber="18">
+<heading box="[504,1211,597,636]" fontSize="11" level="2" pageId="1" pageNumber="18" reason="2">
+<emphasis bold="true" box="[504,982,597,636]" pageId="1" pageNumber="18">
+4. 
+<taxonomicName _evidence="statusLabel" _step="species1" baseAuthorityName="Lallemand" baseAuthorityYear="1928" box="[567,976,597,636]" class="Insecta" family="Aphrophoridae" genus="Lallemandana" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="18" phylum="Arthropoda" rank="species" species="swezeyi" status="new species">Lallemandana swezeyi</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel box="[994,1206,597,636]" pageId="1" pageNumber="18" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" pageId="1" pageNumber="18" type="description">
+<paragraph blockId="1.[504,1899,597,883]" pageId="1" pageNumber="18">
+Upper part of body very clear ochreous brown, clothed with a reddish villosity; apical margin of elytra slightly darker; under surface a little paler; posterior part of clypeus, anterior half of proclypeus, cheeks, a series of spots forming a band on the sides of the sternum, brownish; second joint of rostrum anterior tibiae, extremity of tarsi and their spines, brown; wings hyaline, slightly smoky, veins black. Vertex much wider than long, shorter than pronotum; extremity of elytra rounded. Length 
+<quantity box="[1476,1565,847,883]" metricMagnitude="-3" metricUnit="m" metricValue="7.0" pageId="1" pageNumber="18" unit="mm" value="7.0">
+<emphasis box="[1476,1491,847,883]" italics="true" pageId="1" pageNumber="18">7</emphasis>
+mm
+</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection _generate="added" box="[566,1374,920,963]" pageId="1" pageNumber="18" type="materials_examined">
+<paragraph blockId="1.[566,1374,920,963]" box="[566,1374,920,963]" pageId="1" pageNumber="18">
+<materialsCitation ID-GBIF-Occurrence="3331242305" box="[566,1369,920,963]" pageId="1" pageNumber="18">
+Upi Trail, May 
+<emphasis box="[870,897,920,963]" italics="true" pageId="1" pageNumber="18">5,</emphasis>
+ex ferns, Swezey, Bryan
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>
