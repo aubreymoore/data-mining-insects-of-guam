@@ -1,0 +1,53 @@
+{
+	"identifier": {
+		"plazi": "9668142AFFAC355BFFD8FFF0FFC6FFA4"
+	},
+	"title": "Neuropteroid Insects from Guam",
+	"version": "1643416811422",
+	"issued": "2022-01-29",
+	"creator": [
+		{
+			"organisation": "Harvard University",
+			"given": "Nathan",
+			"family": "Banks"
+		}
+	],
+	"editor": [
+	],
+	"publisher": {
+		"organisation": "Plazi",
+		"city": "Bern",
+		"country": "CH",
+		"email": "info@plazi.org",
+		"url": "http://plazi.org/"
+	},
+	"contact": {
+		"family": "Sautter",
+		"given": "Guido",
+		"organisation": "Plazi",
+		"email": "gsautter@gmail.com",
+		"url": "http://plazi.org"
+	},
+	"description": "This dataset contains the digitized treatments in Plazi based on the original book chapter Banks, Nathan (1942): Neuropteroid Insects from Guam. In: Insects of Guam I. Honolulu, Hawaii: Bernice P. Bishop Museum: 25-30, DOI: http://doi.org/10.5281/zenodo.5159923",
+	"url": "http://tb.plazi.org/GgServer/summary/9668142AFFAC355BFFD8FFF0FFC6FFA4",
+	"license": "CC0",
+	"source": [
+		{
+			"author": [
+				{
+					"given": "Nathan",
+					"family": "Banks"
+				}
+			],
+			"type": "chapter",
+			"publisher": "Bernice P. Bishop Museum",
+			"publisherPlace": "Honolulu, Hawaii",
+			"containerTitle": "Insects of Guam I",
+			"page": "25-30",
+			"issued": "1942-06-01",
+			"doi": "10.5281/zenodo.5159923",
+			"id": "10.5281/zenodo.5159923",
+			"title": "Neuropteroid Insects from Guam"
+		}
+	]
+}
