@@ -1,15 +1,14 @@
 {
 	"identifier": {
-		"plazi": "9668142AFFAC355BFFD8FFF0FFC6FFA4"
+		"plazi": "1054DB21F50C3F6D4A60EF68FFE4C168"
 	},
-	"title": "Neuropteroid Insects from Guam",
-	"version": "1643418651910",
-	"issued": "2022-01-29",
+	"title": "Hemiptera Heteroptera of Guam",
+	"version": "1643595050750",
+	"issued": "2022-01-31",
 	"creator": [
 		{
-			"organisation": "Harvard University",
-			"given": "Nathan",
-			"family": "Banks"
+			"given": "Robert L.",
+			"family": "Usinger"
 		}
 	],
 	"editor": [
@@ -28,26 +27,26 @@
 		"email": "gsautter@gmail.com",
 		"url": "http://plazi.org"
 	},
-	"description": "This dataset contains the digitized treatments in Plazi based on the original book chapter Banks, Nathan (1942): Neuropteroid Insects from Guam. In: Insects of Guam I. Honolulu, Hawaii: Bernice P. Bishop Museum: 25-30, DOI: http://doi.org/10.5281/zenodo.5159923",
-	"url": "http://tb.plazi.org/GgServer/summary/9668142AFFAC355BFFD8FFF0FFC6FFA4",
+	"description": "This dataset contains the digitized treatments in Plazi based on the original book chapter Usinger, Robert L. (1946): Hemiptera Heteroptera of Guam. In: Insects of Guam II. Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189: 11-103, DOI: http://doi.org/10.5281/zenodo.5173934",
+	"url": "http://tb.plazi.org/GgServer/summary/1054DB21F50C3F6D4A60EF68FFE4C168",
 	"license": "CC0",
 	"source": [
 		{
 			"author": [
 				{
-					"given": "Nathan",
-					"family": "Banks"
+					"given": "Robert L.",
+					"family": "Usinger"
 				}
 			],
 			"type": "chapter",
-			"publisher": "Bernice P. Bishop Museum",
+			"publisher": "Bernice P. Bishop Museum, Bulletin 189",
 			"publisherPlace": "Honolulu, Hawaii",
-			"containerTitle": "Insects of Guam I",
-			"page": "25-30",
-			"issued": "1942-06-01",
-			"doi": "10.5281/zenodo.5159923",
-			"id": "10.5281/zenodo.5159923",
-			"title": "Neuropteroid Insects from Guam"
+			"containerTitle": "Insects of Guam II",
+			"page": "11-103",
+			"issued": "1946-12-20",
+			"doi": "10.5281/zenodo.5173934",
+			"id": "10.5281/zenodo.5173934",
+			"title": "Hemiptera Heteroptera of Guam"
 		}
 	]
 }
