@@ -1,16 +1,16 @@
 Input Notebook:  validator2.ipynb
 Output Notebook: output.ipynb
 Executing:   0%|          | 0/14 [00:00<?, ?cell/s]Executing notebook with kernel: python3
-Executing:   7%|▋         | 1/14 [00:00<00:10,  1.24cell/s]Executing:  14%|█▍        | 2/14 [00:01<00:05,  2.19cell/s]Executing:  64%|██████▍   | 9/14 [00:01<00:00, 12.55cell/s]--2022-08-19 14:02:02--  http://tb.plazi.org/GgServer/dwca/FFF07216FFA41642FFBAFFE7FFCA482A.zip
+Executing:   7%|▋         | 1/14 [00:00<00:09,  1.43cell/s]Executing:  14%|█▍        | 2/14 [00:00<00:04,  2.41cell/s]Executing:  64%|██████▍   | 9/14 [00:01<00:00, 13.56cell/s]--2022-08-19 15:02:02--  http://tb.plazi.org/GgServer/dwca/FFF07216FFA41642FFBAFFE7FFCA482A.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 9274 (9.1K) [application/zip]
 Saving to: ‘FFF07216FFA41642FFBAFFE7FFCA482A.zip’
 
-     0K .........                                             100% 30.9M=0s
+     0K .........                                             100% 62.0M=0s
 
-2022-08-19 14:02:03 (30.9 MB/s) - ‘FFF07216FFA41642FFBAFFE7FFCA482A.zip’ saved [9274/9274]
+2022-08-19 15:02:03 (62.0 MB/s) - ‘FFF07216FFA41642FFBAFFE7FFCA482A.zip’ saved [9274/9274]
 
 Archive:  FFF07216FFA41642FFBAFFE7FFCA482A.zip
   inflating: meta.xml                
@@ -24,16 +24,16 @@ Archive:  FFF07216FFA41642FFBAFFE7FFCA482A.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:03--  http://tb.plazi.org/GgServer/dwca/A676FD1EF22D3F34FF8F8907FFDAFC58.zip
+--2022-08-19 15:02:03--  http://tb.plazi.org/GgServer/dwca/A676FD1EF22D3F34FF8F8907FFDAFC58.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 12334 (12K) [application/zip]
 Saving to: ‘A676FD1EF22D3F34FF8F8907FFDAFC58.zip’
 
-     0K .......... ..                                         100% 70.2M=0s
+     0K .......... ..                                         100% 78.9M=0s
 
-2022-08-19 14:02:03 (70.2 MB/s) - ‘A676FD1EF22D3F34FF8F8907FFDAFC58.zip’ saved [12334/12334]
+2022-08-19 15:02:04 (78.9 MB/s) - ‘A676FD1EF22D3F34FF8F8907FFDAFC58.zip’ saved [12334/12334]
 
 Archive:  A676FD1EF22D3F34FF8F8907FFDAFC58.zip
   inflating: meta.xml                
@@ -47,16 +47,16 @@ Archive:  A676FD1EF22D3F34FF8F8907FFDAFC58.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:03--  http://tb.plazi.org/GgServer/dwca/FF8CA776FF947F25FF920C4AFFF5FF0F.zip
+--2022-08-19 15:02:04--  http://tb.plazi.org/GgServer/dwca/FF8CA776FF947F25FF920C4AFFF5FF0F.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 12777 (12K) [application/zip]
 Saving to: ‘FF8CA776FF947F25FF920C4AFFF5FF0F.zip’
 
-     0K .......... ..                                         100% 79.3M=0s
+     0K .......... ..                                         100% 79.2M=0s
 
-2022-08-19 14:02:04 (79.3 MB/s) - ‘FF8CA776FF947F25FF920C4AFFF5FF0F.zip’ saved [12777/12777]
+2022-08-19 15:02:04 (79.2 MB/s) - ‘FF8CA776FF947F25FF920C4AFFF5FF0F.zip’ saved [12777/12777]
 
 Archive:  FF8CA776FF947F25FF920C4AFFF5FF0F.zip
   inflating: meta.xml                
@@ -70,16 +70,16 @@ Archive:  FF8CA776FF947F25FF920C4AFFF5FF0F.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:04--  http://tb.plazi.org/GgServer/dwca/FFDEFF89B713A955FFD59822FF8CFF82.zip
+--2022-08-19 15:02:04--  http://tb.plazi.org/GgServer/dwca/FFDEFF89B713A955FFD59822FF8CFF82.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 10298 (10K) [application/zip]
 Saving to: ‘FFDEFF89B713A955FFD59822FF8CFF82.zip’
 
-     0K ..........                                            100% 43.6M=0s
+     0K ..........                                            100% 64.7M=0s
 
-2022-08-19 14:02:04 (43.6 MB/s) - ‘FFDEFF89B713A955FFD59822FF8CFF82.zip’ saved [10298/10298]
+2022-08-19 15:02:05 (64.7 MB/s) - ‘FFDEFF89B713A955FFD59822FF8CFF82.zip’ saved [10298/10298]
 
 Archive:  FFDEFF89B713A955FFD59822FF8CFF82.zip
   inflating: meta.xml                
@@ -93,16 +93,16 @@ Archive:  FFDEFF89B713A955FFD59822FF8CFF82.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:04--  http://tb.plazi.org/GgServer/dwca/6137FFB29C68FFD2FFB6585FFF92FFC4.zip
+--2022-08-19 15:02:05--  http://tb.plazi.org/GgServer/dwca/6137FFB29C68FFD2FFB6585FFF92FFC4.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 21534 (21K) [application/zip]
 Saving to: ‘6137FFB29C68FFD2FFB6585FFF92FFC4.zip’
 
-     0K .......... .......... .                               100% 79.9K=0.3s
+     0K .......... .......... .                               100% 76.6K=0.3s
 
-2022-08-19 14:02:05 (79.9 KB/s) - ‘6137FFB29C68FFD2FFB6585FFF92FFC4.zip’ saved [21534/21534]
+2022-08-19 15:02:06 (76.6 KB/s) - ‘6137FFB29C68FFD2FFB6585FFF92FFC4.zip’ saved [21534/21534]
 
 Archive:  6137FFB29C68FFD2FFB6585FFF92FFC4.zip
   inflating: meta.xml                
@@ -116,16 +116,16 @@ Archive:  6137FFB29C68FFD2FFB6585FFF92FFC4.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:05--  http://tb.plazi.org/GgServer/dwca/C5751610FFAD3E7CE078FFB1FFCFFF82.zip
+--2022-08-19 15:02:06--  http://tb.plazi.org/GgServer/dwca/C5751610FFAD3E7CE078FFB1FFCFFF82.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 13609 (13K) [application/zip]
 Saving to: ‘C5751610FFAD3E7CE078FFB1FFCFFF82.zip’
 
-     0K .......... ...                                        100% 86.2M=0s
+     0K .......... ...                                        100%  140K=0.1s
 
-2022-08-19 14:02:06 (86.2 MB/s) - ‘C5751610FFAD3E7CE078FFB1FFCFFF82.zip’ saved [13609/13609]
+2022-08-19 15:02:06 (140 KB/s) - ‘C5751610FFAD3E7CE078FFB1FFCFFF82.zip’ saved [13609/13609]
 
 Archive:  C5751610FFAD3E7CE078FFB1FFCFFF82.zip
   inflating: meta.xml                
@@ -139,16 +139,16 @@ Archive:  C5751610FFAD3E7CE078FFB1FFCFFF82.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:06--  http://tb.plazi.org/GgServer/dwca/AD79FFBAEA10FFDBFFFE8726FFBFFFFE.zip
+--2022-08-19 15:02:06--  http://tb.plazi.org/GgServer/dwca/AD79FFBAEA10FFDBFFFE8726FFBFFFFE.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 27055 (26K) [application/zip]
 Saving to: ‘AD79FFBAEA10FFDBFFFE8726FFBFFFFE.zip’
 
-     0K .......... .......... ......                          100% 96.6K=0.3s
+     0K .......... .......... ......                          100% 99.8K=0.3s
 
-2022-08-19 14:02:07 (96.6 KB/s) - ‘AD79FFBAEA10FFDBFFFE8726FFBFFFFE.zip’ saved [27055/27055]
+2022-08-19 15:02:07 (99.8 KB/s) - ‘AD79FFBAEA10FFDBFFFE8726FFBFFFFE.zip’ saved [27055/27055]
 
 Archive:  AD79FFBAEA10FFDBFFFE8726FFBFFFFE.zip
   inflating: meta.xml                
@@ -162,16 +162,16 @@ Archive:  AD79FFBAEA10FFDBFFFE8726FFBFFFFE.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:07--  http://tb.plazi.org/GgServer/dwca/FFECFFAC5917FF88FFDE5B1BFFC4FF9B.zip
+--2022-08-19 15:02:07--  http://tb.plazi.org/GgServer/dwca/FFECFFAC5917FF88FFDE5B1BFFC4FF9B.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 12554 (12K) [application/zip]
 Saving to: ‘FFECFFAC5917FF88FFDE5B1BFFC4FF9B.zip’
 
-     0K .......... ..                                         100% 28.5M=0s
+     0K .......... ..                                         100% 77.6M=0s
 
-2022-08-19 14:02:07 (28.5 MB/s) - ‘FFECFFAC5917FF88FFDE5B1BFFC4FF9B.zip’ saved [12554/12554]
+2022-08-19 15:02:08 (77.6 MB/s) - ‘FFECFFAC5917FF88FFDE5B1BFFC4FF9B.zip’ saved [12554/12554]
 
 Archive:  FFECFFAC5917FF88FFDE5B1BFFC4FF9B.zip
   inflating: meta.xml                
@@ -185,16 +185,16 @@ Archive:  FFECFFAC5917FF88FFDE5B1BFFC4FF9B.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:07--  http://tb.plazi.org/GgServer/dwca/FFC7133C860D1213FFF18D1A5E327636.zip
+--2022-08-19 15:02:08--  http://tb.plazi.org/GgServer/dwca/FFC7133C860D1213FFF18D1A5E327636.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 32335 (32K) [application/zip]
 Saving to: ‘FFC7133C860D1213FFF18D1A5E327636.zip’
 
-     0K .......... .......... .......... .                    100%  115K=0.3s
+     0K .......... .......... .......... .                    100%  113K=0.3s
 
-2022-08-19 14:02:08 (115 KB/s) - ‘FFC7133C860D1213FFF18D1A5E327636.zip’ saved [32335/32335]
+2022-08-19 15:02:09 (113 KB/s) - ‘FFC7133C860D1213FFF18D1A5E327636.zip’ saved [32335/32335]
 
 Archive:  FFC7133C860D1213FFF18D1A5E327636.zip
   inflating: meta.xml                
@@ -208,16 +208,16 @@ Archive:  FFC7133C860D1213FFF18D1A5E327636.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:08--  http://tb.plazi.org/GgServer/dwca/FFF8B07B536B3042BD53344E0F0FFFD7.zip
+--2022-08-19 15:02:09--  http://tb.plazi.org/GgServer/dwca/FFF8B07B536B3042BD53344E0F0FFFD7.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 17678 (17K) [application/zip]
 Saving to: ‘FFF8B07B536B3042BD53344E0F0FFFD7.zip’
 
-     0K .......... .......                                    100% 64.8K=0.3s
+     0K .......... .......                                    100% 65.0K=0.3s
 
-2022-08-19 14:02:09 (64.8 KB/s) - ‘FFF8B07B536B3042BD53344E0F0FFFD7.zip’ saved [17678/17678]
+2022-08-19 15:02:10 (65.0 KB/s) - ‘FFF8B07B536B3042BD53344E0F0FFFD7.zip’ saved [17678/17678]
 
 Archive:  FFF8B07B536B3042BD53344E0F0FFFD7.zip
   inflating: meta.xml                
@@ -231,16 +231,16 @@ Archive:  FFF8B07B536B3042BD53344E0F0FFFD7.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:09--  http://tb.plazi.org/GgServer/dwca/4125F147872BFF9DFFF5FFAC140DFF83.zip
+--2022-08-19 15:02:10--  http://tb.plazi.org/GgServer/dwca/4125F147872BFF9DFFF5FFAC140DFF83.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 12417 (12K) [application/zip]
 Saving to: ‘4125F147872BFF9DFFF5FFAC140DFF83.zip’
 
-     0K .......... ..                                         100% 79.9M=0s
+     0K .......... ..                                         100% 21.4M=0.001s
 
-2022-08-19 14:02:10 (79.9 MB/s) - ‘4125F147872BFF9DFFF5FFAC140DFF83.zip’ saved [12417/12417]
+2022-08-19 15:02:10 (21.4 MB/s) - ‘4125F147872BFF9DFFF5FFAC140DFF83.zip’ saved [12417/12417]
 
 Archive:  4125F147872BFF9DFFF5FFAC140DFF83.zip
   inflating: meta.xml                
@@ -254,16 +254,16 @@ Archive:  4125F147872BFF9DFFF5FFAC140DFF83.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:10--  http://tb.plazi.org/GgServer/dwca/BE7D4354FFEEFF8BFFBDFFBC0B359010.zip
+--2022-08-19 15:02:10--  http://tb.plazi.org/GgServer/dwca/BE7D4354FFEEFF8BFFBDFFBC0B359010.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 18111 (18K) [application/zip]
 Saving to: ‘BE7D4354FFEEFF8BFFBDFFBC0B359010.zip’
 
-     0K .......... .......                                    100% 64.6K=0.3s
+     0K .......... .......                                    100% 66.6K=0.3s
 
-2022-08-19 14:02:11 (64.6 KB/s) - ‘BE7D4354FFEEFF8BFFBDFFBC0B359010.zip’ saved [18111/18111]
+2022-08-19 15:02:11 (66.6 KB/s) - ‘BE7D4354FFEEFF8BFFBDFFBC0B359010.zip’ saved [18111/18111]
 
 Archive:  BE7D4354FFEEFF8BFFBDFFBC0B359010.zip
   inflating: meta.xml                
@@ -277,16 +277,16 @@ Archive:  BE7D4354FFEEFF8BFFBDFFBC0B359010.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:11--  http://tb.plazi.org/GgServer/dwca/FF86FFC39D5F6775A307302F3260421D.zip
+--2022-08-19 15:02:11--  http://tb.plazi.org/GgServer/dwca/FF86FFC39D5F6775A307302F3260421D.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 10551 (10K) [application/zip]
 Saving to: ‘FF86FFC39D5F6775A307302F3260421D.zip’
 
-     0K ..........                                            100% 66.9M=0s
+     0K ..........                                            100% 65.6M=0s
 
-2022-08-19 14:02:11 (66.9 MB/s) - ‘FF86FFC39D5F6775A307302F3260421D.zip’ saved [10551/10551]
+2022-08-19 15:02:12 (65.6 MB/s) - ‘FF86FFC39D5F6775A307302F3260421D.zip’ saved [10551/10551]
 
 Archive:  FF86FFC39D5F6775A307302F3260421D.zip
   inflating: meta.xml                
@@ -300,16 +300,16 @@ Archive:  FF86FFC39D5F6775A307302F3260421D.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:11--  http://tb.plazi.org/GgServer/dwca/FFF49654F7692F7AFF85FFD7FFE1FFCA.zip
+--2022-08-19 15:02:12--  http://tb.plazi.org/GgServer/dwca/FFF49654F7692F7AFF85FFD7FFE1FFCA.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 12581 (12K) [application/zip]
 Saving to: ‘FFF49654F7692F7AFF85FFD7FFE1FFCA.zip’
 
-     0K .......... ..                                         100% 3.63M=0.003s
+     0K .......... ..                                         100% 80.5M=0s
 
-2022-08-19 14:02:12 (3.63 MB/s) - ‘FFF49654F7692F7AFF85FFD7FFE1FFCA.zip’ saved [12581/12581]
+2022-08-19 15:02:12 (80.5 MB/s) - ‘FFF49654F7692F7AFF85FFD7FFE1FFCA.zip’ saved [12581/12581]
 
 Archive:  FFF49654F7692F7AFF85FFD7FFE1FFCA.zip
   inflating: meta.xml                
@@ -323,16 +323,16 @@ Archive:  FFF49654F7692F7AFF85FFD7FFE1FFCA.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:12--  http://tb.plazi.org/GgServer/dwca/8A034648715AFFEADD11FF809F446C3F.zip
+--2022-08-19 15:02:12--  http://tb.plazi.org/GgServer/dwca/8A034648715AFFEADD11FF809F446C3F.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 15349 (15K) [application/zip]
 Saving to: ‘8A034648715AFFEADD11FF809F446C3F.zip’
 
-     0K .......... ....                                       100% 53.7K=0.3s
+     0K .......... ....                                       100% 57.3K=0.3s
 
-2022-08-19 14:02:13 (53.7 KB/s) - ‘8A034648715AFFEADD11FF809F446C3F.zip’ saved [15349/15349]
+2022-08-19 15:02:13 (57.3 KB/s) - ‘8A034648715AFFEADD11FF809F446C3F.zip’ saved [15349/15349]
 
 Archive:  8A034648715AFFEADD11FF809F446C3F.zip
   inflating: meta.xml                
@@ -346,16 +346,16 @@ Archive:  8A034648715AFFEADD11FF809F446C3F.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:13--  http://tb.plazi.org/GgServer/dwca/9668142AFFAC355BFFD8FFF0FFC6FFA4.zip
+--2022-08-19 15:02:13--  http://tb.plazi.org/GgServer/dwca/9668142AFFAC355BFFD8FFF0FFC6FFA4.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 23323 (23K) [application/zip]
 Saving to: ‘9668142AFFAC355BFFD8FFF0FFC6FFA4.zip’
 
-     0K .......... .......... ..                              100% 80.6K=0.3s
+     0K .......... .......... ..                              100% 86.5K=0.3s
 
-2022-08-19 14:02:14 (80.6 KB/s) - ‘9668142AFFAC355BFFD8FFF0FFC6FFA4.zip’ saved [23323/23323]
+2022-08-19 15:02:14 (86.5 KB/s) - ‘9668142AFFAC355BFFD8FFF0FFC6FFA4.zip’ saved [23323/23323]
 
 Archive:  9668142AFFAC355BFFD8FFF0FFC6FFA4.zip
   inflating: meta.xml                
@@ -369,16 +369,16 @@ Archive:  9668142AFFAC355BFFD8FFF0FFC6FFA4.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:14--  http://tb.plazi.org/GgServer/dwca/FF82F923FF8F8849FFA5FF95FFD8C108.zip
+--2022-08-19 15:02:14--  http://tb.plazi.org/GgServer/dwca/FF82F923FF8F8849FFA5FF95FFD8C108.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 18584 (18K) [application/zip]
 Saving to: ‘FF82F923FF8F8849FFA5FF95FFD8C108.zip’
 
-     0K .......... ........                                   100% 33.8K=0.5s
+     0K .......... ........                                   100% 64.2K=0.3s
 
-2022-08-19 14:02:15 (33.8 KB/s) - ‘FF82F923FF8F8849FFA5FF95FFD8C108.zip’ saved [18584/18584]
+2022-08-19 15:02:15 (64.2 KB/s) - ‘FF82F923FF8F8849FFA5FF95FFD8C108.zip’ saved [18584/18584]
 
 Archive:  FF82F923FF8F8849FFA5FF95FFD8C108.zip
   inflating: meta.xml                
@@ -392,16 +392,16 @@ Archive:  FF82F923FF8F8849FFA5FF95FFD8C108.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:15--  http://tb.plazi.org/GgServer/dwca/860DFFECFFDCFFF2FFF5FFD0FFC18147.zip
+--2022-08-19 15:02:15--  http://tb.plazi.org/GgServer/dwca/860DFFECFFDCFFF2FFF5FFD0FFC18147.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 23665 (23K) [application/zip]
 Saving to: ‘860DFFECFFDCFFF2FFF5FFD0FFC18147.zip’
 
-     0K .......... .......... ...                             100% 82.3K=0.3s
+     0K .......... .......... ...                             100% 83.7K=0.3s
 
-2022-08-19 14:02:16 (82.3 KB/s) - ‘860DFFECFFDCFFF2FFF5FFD0FFC18147.zip’ saved [23665/23665]
+2022-08-19 15:02:16 (83.7 KB/s) - ‘860DFFECFFDCFFF2FFF5FFD0FFC18147.zip’ saved [23665/23665]
 
 Archive:  860DFFECFFDCFFF2FFF5FFD0FFC18147.zip
   inflating: meta.xml                
@@ -415,16 +415,16 @@ Archive:  860DFFECFFDCFFF2FFF5FFD0FFC18147.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:16--  http://tb.plazi.org/GgServer/dwca/D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8.zip
+--2022-08-19 15:02:16--  http://tb.plazi.org/GgServer/dwca/D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 22359 (22K) [application/zip]
 Saving to: ‘D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8.zip’
 
-     0K .......... .......... .                               100% 80.1K=0.3s
+     0K .......... .......... .                               100% 82.3K=0.3s
 
-2022-08-19 14:02:17 (80.1 KB/s) - ‘D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8.zip’ saved [22359/22359]
+2022-08-19 15:02:17 (82.3 KB/s) - ‘D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8.zip’ saved [22359/22359]
 
 Archive:  D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8.zip
   inflating: meta.xml                
@@ -438,16 +438,16 @@ Archive:  D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:17--  http://tb.plazi.org/GgServer/dwca/F27607317E645A2FB552FF8416577654.zip
+--2022-08-19 15:02:17--  http://tb.plazi.org/GgServer/dwca/F27607317E645A2FB552FF8416577654.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 26997 (26K) [application/zip]
 Saving to: ‘F27607317E645A2FB552FF8416577654.zip’
 
-     0K .......... .......... ......                          100% 98.8K=0.3s
+     0K .......... .......... ......                          100% 99.0K=0.3s
 
-2022-08-19 14:02:17 (98.8 KB/s) - ‘F27607317E645A2FB552FF8416577654.zip’ saved [26997/26997]
+2022-08-19 15:02:18 (99.0 KB/s) - ‘F27607317E645A2FB552FF8416577654.zip’ saved [26997/26997]
 
 Archive:  F27607317E645A2FB552FF8416577654.zip
   inflating: meta.xml                
@@ -461,16 +461,16 @@ Archive:  F27607317E645A2FB552FF8416577654.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:17--  http://tb.plazi.org/GgServer/dwca/FFD1FFF8FFF9FFB3FFC86E5DFFBE8B32.zip
+--2022-08-19 15:02:18--  http://tb.plazi.org/GgServer/dwca/FFD1FFF8FFF9FFB3FFC86E5DFFBE8B32.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 33356 (33K) [application/zip]
 Saving to: ‘FFD1FFF8FFF9FFB3FFC86E5DFFBE8B32.zip’
 
-     0K .......... .......... .......... ..                   100%  117K=0.3s
+     0K .......... .......... .......... ..                   100%  123K=0.3s
 
-2022-08-19 14:02:18 (117 KB/s) - ‘FFD1FFF8FFF9FFB3FFC86E5DFFBE8B32.zip’ saved [33356/33356]
+2022-08-19 15:02:18 (123 KB/s) - ‘FFD1FFF8FFF9FFB3FFC86E5DFFBE8B32.zip’ saved [33356/33356]
 
 Archive:  FFD1FFF8FFF9FFB3FFC86E5DFFBE8B32.zip
   inflating: meta.xml                
@@ -484,7 +484,7 @@ Archive:  FFD1FFF8FFF9FFB3FFC86E5DFFBE8B32.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:18--  http://tb.plazi.org/GgServer/dwca/FFE68664BF23FFD1F70BFF81FFA1FFE4.zip
+--2022-08-19 15:02:18--  http://tb.plazi.org/GgServer/dwca/FFE68664BF23FFD1F70BFF81FFA1FFE4.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
@@ -493,7 +493,7 @@ Saving to: ‘FFE68664BF23FFD1F70BFF81FFA1FFE4.zip’
 
      0K .......... ......                                     100% 61.8K=0.3s
 
-2022-08-19 14:02:19 (61.8 KB/s) - ‘FFE68664BF23FFD1F70BFF81FFA1FFE4.zip’ saved [16743/16743]
+2022-08-19 15:02:19 (61.8 KB/s) - ‘FFE68664BF23FFD1F70BFF81FFA1FFE4.zip’ saved [16743/16743]
 
 Archive:  FFE68664BF23FFD1F70BFF81FFA1FFE4.zip
   inflating: meta.xml                
@@ -507,16 +507,16 @@ Archive:  FFE68664BF23FFD1F70BFF81FFA1FFE4.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:19--  http://tb.plazi.org/GgServer/dwca/B525F8594A7852476D53FFF00A6FFFD2.zip
+--2022-08-19 15:02:19--  http://tb.plazi.org/GgServer/dwca/B525F8594A7852476D53FFF00A6FFFD2.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 19139 (19K) [application/zip]
 Saving to: ‘B525F8594A7852476D53FFF00A6FFFD2.zip’
 
-     0K .......... ........                                   100% 70.9K=0.3s
+     0K .......... ........                                   100% 69.5K=0.3s
 
-2022-08-19 14:02:20 (70.9 KB/s) - ‘B525F8594A7852476D53FFF00A6FFFD2.zip’ saved [19139/19139]
+2022-08-19 15:02:20 (69.5 KB/s) - ‘B525F8594A7852476D53FFF00A6FFFD2.zip’ saved [19139/19139]
 
 Archive:  B525F8594A7852476D53FFF00A6FFFD2.zip
   inflating: meta.xml                
@@ -530,16 +530,16 @@ Archive:  B525F8594A7852476D53FFF00A6FFFD2.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:20--  http://tb.plazi.org/GgServer/dwca/FFE8E303585AA232FF96FFDCFFCADD26.zip
+--2022-08-19 15:02:20--  http://tb.plazi.org/GgServer/dwca/FFE8E303585AA232FF96FFDCFFCADD26.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 17986 (18K) [application/zip]
 Saving to: ‘FFE8E303585AA232FF96FFDCFFCADD26.zip’
 
-     0K .......... .......                                    100% 66.8K=0.3s
+     0K .......... .......                                    100% 66.9K=0.3s
 
-2022-08-19 14:02:21 (66.8 KB/s) - ‘FFE8E303585AA232FF96FFDCFFCADD26.zip’ saved [17986/17986]
+2022-08-19 15:02:21 (66.9 KB/s) - ‘FFE8E303585AA232FF96FFDCFFCADD26.zip’ saved [17986/17986]
 
 Archive:  FFE8E303585AA232FF96FFDCFFCADD26.zip
   inflating: meta.xml                
@@ -553,16 +553,16 @@ Archive:  FFE8E303585AA232FF96FFDCFFCADD26.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:21--  http://tb.plazi.org/GgServer/dwca/FFDF7A4CFFF3FFC777195003DD64051A.zip
+--2022-08-19 15:02:21--  http://tb.plazi.org/GgServer/dwca/FFDF7A4CFFF3FFC777195003DD64051A.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
-Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... Executing:  86%|████████▌ | 12/14 [00:20<00:00, 12.55cell/s]connected.
+Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... Executing:  86%|████████▌ | 12/14 [00:20<00:00, 13.56cell/s]connected.
 HTTP request sent, awaiting response... 200 
 Length: 31332 (31K) [application/zip]
 Saving to: ‘FFDF7A4CFFF3FFC777195003DD64051A.zip’
 
      0K .......... .......... ..........                      100%  115K=0.3s
 
-2022-08-19 14:02:22 (115 KB/s) - ‘FFDF7A4CFFF3FFC777195003DD64051A.zip’ saved [31332/31332]
+2022-08-19 15:02:22 (115 KB/s) - ‘FFDF7A4CFFF3FFC777195003DD64051A.zip’ saved [31332/31332]
 
 Archive:  FFDF7A4CFFF3FFC777195003DD64051A.zip
   inflating: meta.xml                
@@ -576,16 +576,16 @@ Archive:  FFDF7A4CFFF3FFC777195003DD64051A.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:22--  http://tb.plazi.org/GgServer/dwca/FE566D11FFD2FFF5383F9056FFE3FFEF.zip
+--2022-08-19 15:02:22--  http://tb.plazi.org/GgServer/dwca/FE566D11FFD2FFF5383F9056FFE3FFEF.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 15719 (15K) [application/zip]
 Saving to: ‘FE566D11FFD2FFF5383F9056FFE3FFEF.zip’
 
-     0K .......... .....                                      100% 58.2K=0.3s
+     0K .......... .....                                      100% 57.9K=0.3s
 
-2022-08-19 14:02:23 (58.2 KB/s) - ‘FE566D11FFD2FFF5383F9056FFE3FFEF.zip’ saved [15719/15719]
+2022-08-19 15:02:23 (57.9 KB/s) - ‘FE566D11FFD2FFF5383F9056FFE3FFEF.zip’ saved [15719/15719]
 
 Archive:  FE566D11FFD2FFF5383F9056FFE3FFEF.zip
   inflating: meta.xml                
@@ -599,16 +599,16 @@ Archive:  FE566D11FFD2FFF5383F9056FFE3FFEF.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:23--  http://tb.plazi.org/GgServer/dwca/FFDFF02AC57CFFB7FF89B354FF83F875.zip
+--2022-08-19 15:02:23--  http://tb.plazi.org/GgServer/dwca/FFDFF02AC57CFFB7FF89B354FF83F875.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 16913 (17K) [application/zip]
 Saving to: ‘FFDFF02AC57CFFB7FF89B354FF83F875.zip’
 
-     0K .......... ......                                     100% 60.0K=0.3s
+     0K .......... ......                                     100% 63.0K=0.3s
 
-2022-08-19 14:02:23 (60.0 KB/s) - ‘FFDFF02AC57CFFB7FF89B354FF83F875.zip’ saved [16913/16913]
+2022-08-19 15:02:23 (63.0 KB/s) - ‘FFDFF02AC57CFFB7FF89B354FF83F875.zip’ saved [16913/16913]
 
 Archive:  FFDFF02AC57CFFB7FF89B354FF83F875.zip
   inflating: meta.xml                
@@ -622,16 +622,16 @@ Archive:  FFDFF02AC57CFFB7FF89B354FF83F875.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:23--  http://tb.plazi.org/GgServer/dwca/B472FFEFFFAEFFB2A40BFFD9A227FFD1.zip
+--2022-08-19 15:02:24--  http://tb.plazi.org/GgServer/dwca/B472FFEFFFAEFFB2A40BFFD9A227FFD1.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 21807 (21K) [application/zip]
 Saving to: ‘B472FFEFFFAEFFB2A40BFFD9A227FFD1.zip’
 
-     0K .......... .......... .                               100% 78.6K=0.3s
+     0K .......... .......... .                               100% 78.5K=0.3s
 
-2022-08-19 14:02:24 (78.6 KB/s) - ‘B472FFEFFFAEFFB2A40BFFD9A227FFD1.zip’ saved [21807/21807]
+2022-08-19 15:02:25 (78.5 KB/s) - ‘B472FFEFFFAEFFB2A40BFFD9A227FFD1.zip’ saved [21807/21807]
 
 Archive:  B472FFEFFFAEFFB2A40BFFD9A227FFD1.zip
   inflating: meta.xml                
@@ -645,16 +645,16 @@ Archive:  B472FFEFFFAEFFB2A40BFFD9A227FFD1.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:24--  http://tb.plazi.org/GgServer/dwca/FFDAFFA2FFAEFFC88657F353FF92FFF8.zip
+--2022-08-19 15:02:25--  http://tb.plazi.org/GgServer/dwca/FFDAFFA2FFAEFFC88657F353FF92FFF8.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 23741 (23K) [application/zip]
 Saving to: ‘FFDAFFA2FFAEFFC88657F353FF92FFF8.zip’
 
-     0K .......... .......... ...                             100% 87.7K=0.3s
+     0K .......... .......... ...                             100% 84.7K=0.3s
 
-2022-08-19 14:02:25 (87.7 KB/s) - ‘FFDAFFA2FFAEFFC88657F353FF92FFF8.zip’ saved [23741/23741]
+2022-08-19 15:02:25 (84.7 KB/s) - ‘FFDAFFA2FFAEFFC88657F353FF92FFF8.zip’ saved [23741/23741]
 
 Archive:  FFDAFFA2FFAEFFC88657F353FF92FFF8.zip
   inflating: meta.xml                
@@ -668,17 +668,17 @@ Archive:  FFDAFFA2FFAEFFC88657F353FF92FFF8.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:25--  http://tb.plazi.org/GgServer/dwca/BD58FF95EB59FFFFFFB04B578875FD6D.zip
+--2022-08-19 15:02:25--  http://tb.plazi.org/GgServer/dwca/BD58FF95EB59FFFFFFB04B578875FD6D.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 62167 (61K) [application/zip]
 Saving to: ‘BD58FF95EB59FFFFFFB04B578875FD6D.zip’
 
-     0K .......... .......... .......... .......... .......... 82% 95.0K 0s
-    50K ..........                                            100% 13.9M=0.5s
+     0K .......... .......... .......... .......... .......... 82% 90.4K 0s
+    50K ..........                                            100% 17.6M=0.6s
 
-2022-08-19 14:02:26 (115 KB/s) - ‘BD58FF95EB59FFFFFFB04B578875FD6D.zip’ saved [62167/62167]
+2022-08-19 15:02:27 (110 KB/s) - ‘BD58FF95EB59FFFFFFB04B578875FD6D.zip’ saved [62167/62167]
 
 Archive:  BD58FF95EB59FFFFFFB04B578875FD6D.zip
   inflating: meta.xml                
@@ -692,16 +692,16 @@ Archive:  BD58FF95EB59FFFFFFB04B578875FD6D.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:26--  http://tb.plazi.org/GgServer/dwca/6C420D32855DFFCA221EFFCCE940FF9E.zip
+--2022-08-19 15:02:27--  http://tb.plazi.org/GgServer/dwca/6C420D32855DFFCA221EFFCCE940FF9E.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 30073 (29K) [application/zip]
 Saving to: ‘6C420D32855DFFCA221EFFCCE940FF9E.zip’
 
-     0K .......... .......... .........                       100%  110K=0.3s
+     0K .......... .......... .........                       100%  111K=0.3s
 
-2022-08-19 14:02:27 (110 KB/s) - ‘6C420D32855DFFCA221EFFCCE940FF9E.zip’ saved [30073/30073]
+2022-08-19 15:02:27 (111 KB/s) - ‘6C420D32855DFFCA221EFFCCE940FF9E.zip’ saved [30073/30073]
 
 Archive:  6C420D32855DFFCA221EFFCCE940FF9E.zip
   inflating: meta.xml                
@@ -715,7 +715,7 @@ Archive:  6C420D32855DFFCA221EFFCCE940FF9E.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:27--  http://tb.plazi.org/GgServer/dwca/0C07FFD2F91AFFFBFF82FF9EFFC41E3E.zip
+--2022-08-19 15:02:27--  http://tb.plazi.org/GgServer/dwca/0C07FFD2F91AFFFBFF82FF9EFFC41E3E.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
@@ -724,7 +724,7 @@ Saving to: ‘0C07FFD2F91AFFFBFF82FF9EFFC41E3E.zip’
 
      0K .......... .......... .                               100% 80.7K=0.3s
 
-2022-08-19 14:02:28 (80.7 KB/s) - ‘0C07FFD2F91AFFFBFF82FF9EFFC41E3E.zip’ saved [21767/21767]
+2022-08-19 15:02:28 (80.7 KB/s) - ‘0C07FFD2F91AFFFBFF82FF9EFFC41E3E.zip’ saved [21767/21767]
 
 Archive:  0C07FFD2F91AFFFBFF82FF9EFFC41E3E.zip
   inflating: meta.xml                
@@ -738,7 +738,7 @@ Archive:  0C07FFD2F91AFFFBFF82FF9EFFC41E3E.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:28--  http://tb.plazi.org/GgServer/dwca/8F4F9461FF8AFFE4E503FFAC8F5EFFD2.zip
+--2022-08-19 15:02:28--  http://tb.plazi.org/GgServer/dwca/8F4F9461FF8AFFE4E503FFAC8F5EFFD2.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
@@ -747,7 +747,7 @@ Saving to: ‘8F4F9461FF8AFFE4E503FFAC8F5EFFD2.zip’
 
      0K .......... .......... .......                         100%  104K=0.3s
 
-2022-08-19 14:02:29 (104 KB/s) - ‘8F4F9461FF8AFFE4E503FFAC8F5EFFD2.zip’ saved [28026/28026]
+2022-08-19 15:02:29 (104 KB/s) - ‘8F4F9461FF8AFFE4E503FFAC8F5EFFD2.zip’ saved [28026/28026]
 
 Archive:  8F4F9461FF8AFFE4E503FFAC8F5EFFD2.zip
   inflating: meta.xml                
@@ -761,16 +761,16 @@ Archive:  8F4F9461FF8AFFE4E503FFAC8F5EFFD2.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:29--  http://tb.plazi.org/GgServer/dwca/FF8A6512AA2D474D9945FF80FFCFFFAC.zip
+--2022-08-19 15:02:29--  http://tb.plazi.org/GgServer/dwca/FF8A6512AA2D474D9945FF80FFCFFFAC.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 25499 (25K) [application/zip]
 Saving to: ‘FF8A6512AA2D474D9945FF80FFCFFFAC.zip’
 
-     0K .......... .......... ....                            100% 94.8K=0.3s
+     0K .......... .......... ....                            100% 85.6K=0.3s
 
-2022-08-19 14:02:30 (94.8 KB/s) - ‘FF8A6512AA2D474D9945FF80FFCFFFAC.zip’ saved [25499/25499]
+2022-08-19 15:02:30 (85.6 KB/s) - ‘FF8A6512AA2D474D9945FF80FFCFFFAC.zip’ saved [25499/25499]
 
 Archive:  FF8A6512AA2D474D9945FF80FFCFFFAC.zip
   inflating: meta.xml                
@@ -784,17 +784,17 @@ Archive:  FF8A6512AA2D474D9945FF80FFCFFFAC.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:30--  http://tb.plazi.org/GgServer/dwca/FF8AFFC0E94BFFA1FFCF823D9276034F.zip
+--2022-08-19 15:02:30--  http://tb.plazi.org/GgServer/dwca/FF8AFFC0E94BFFA1FFCF823D9276034F.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 58230 (57K) [application/zip]
 Saving to: ‘FF8AFFC0E94BFFA1FFCF823D9276034F.zip’
 
-     0K .......... .......... .......... .......... .......... 87% 92.6K 0s
-    50K ......                                                100% 8.95M=0.5s
+     0K .......... .......... .......... .......... .......... 87% 92.8K 0s
+    50K ......                                                100% 11.8M=0.5s
 
-2022-08-19 14:02:31 (105 KB/s) - ‘FF8AFFC0E94BFFA1FFCF823D9276034F.zip’ saved [58230/58230]
+2022-08-19 15:02:31 (105 KB/s) - ‘FF8AFFC0E94BFFA1FFCF823D9276034F.zip’ saved [58230/58230]
 
 Archive:  FF8AFFC0E94BFFA1FFCF823D9276034F.zip
   inflating: meta.xml                
@@ -808,19 +808,19 @@ Archive:  FF8AFFC0E94BFFA1FFCF823D9276034F.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:31--  http://tb.plazi.org/GgServer/dwca/2A01FF71FFF051065F5BAF5AFFFAFF96.zip
+--2022-08-19 15:02:31--  http://tb.plazi.org/GgServer/dwca/2A01FF71FFF051065F5BAF5AFFFAFF96.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 158193 (154K) [application/zip]
 Saving to: ‘2A01FF71FFF051065F5BAF5AFFFAFF96.zip’
 
-     0K .......... .......... .......... .......... .......... 32% 91.6K 1s
-    50K .......... .......... .......... .......... .......... 64%  183K 0s
-   100K .......... .......... .......... .......... .......... 97% 18.6M 0s
-   150K ....                                                  100% 12.8M=0.8s
+     0K .......... .......... .......... .......... .......... 32% 94.8K 1s
+    50K .......... .......... .......... .......... .......... 64%  192K 0s
+   100K .......... .......... .......... .......... .......... 97% 17.2M 0s
+   150K ....                                                  100% 13.0M=0.8s
 
-2022-08-19 14:02:32 (188 KB/s) - ‘2A01FF71FFF051065F5BAF5AFFFAFF96.zip’ saved [158193/158193]
+2022-08-19 15:02:33 (195 KB/s) - ‘2A01FF71FFF051065F5BAF5AFFFAFF96.zip’ saved [158193/158193]
 
 Archive:  2A01FF71FFF051065F5BAF5AFFFAFF96.zip
   inflating: meta.xml                
@@ -834,16 +834,16 @@ Archive:  2A01FF71FFF051065F5BAF5AFFFAFF96.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:32--  http://tb.plazi.org/GgServer/dwca/FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9.zip
+--2022-08-19 15:02:33--  http://tb.plazi.org/GgServer/dwca/FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 26663 (26K) [application/zip]
 Saving to: ‘FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9.zip’
 
-     0K .......... .......... ......                          100% 98.0K=0.3s
+     0K .......... .......... ......                          100% 98.7K=0.3s
 
-2022-08-19 14:02:33 (98.0 KB/s) - ‘FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9.zip’ saved [26663/26663]
+2022-08-19 15:02:34 (98.7 KB/s) - ‘FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9.zip’ saved [26663/26663]
 
 Archive:  FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9.zip
   inflating: meta.xml                
@@ -857,17 +857,17 @@ Archive:  FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:33--  http://tb.plazi.org/GgServer/dwca/CB52FF9DFFBE1B09FFDAFFB507064636.zip
+--2022-08-19 15:02:34--  http://tb.plazi.org/GgServer/dwca/CB52FF9DFFBE1B09FFDAFFB507064636.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 55670 (54K) [application/zip]
 Saving to: ‘CB52FF9DFFBE1B09FFDAFFB507064636.zip’
 
-     0K .......... .......... .......... .......... .......... 91% 92.5K 0s
-    50K ....                                                  100% 24.4M=0.5s
+     0K .......... .......... .......... .......... .......... 91% 92.9K 0s
+    50K ....                                                  100% 30.1M=0.5s
 
-2022-08-19 14:02:34 (101 KB/s) - ‘CB52FF9DFFBE1B09FFDAFFB507064636.zip’ saved [55670/55670]
+2022-08-19 15:02:35 (101 KB/s) - ‘CB52FF9DFFBE1B09FFDAFFB507064636.zip’ saved [55670/55670]
 
 Archive:  CB52FF9DFFBE1B09FFDAFFB507064636.zip
   inflating: meta.xml                
@@ -881,19 +881,19 @@ Archive:  CB52FF9DFFBE1B09FFDAFFB507064636.zip
   inflating: media.txt               
   inflating: references.txt          
   inflating: vernaculars.txt         
---2022-08-19 14:02:34--  http://tb.plazi.org/GgServer/dwca/1054DB21F50C3F6D4A60EF68FFE4C168.zip
+--2022-08-19 15:02:35--  http://tb.plazi.org/GgServer/dwca/1054DB21F50C3F6D4A60EF68FFE4C168.zip
 Resolving tb.plazi.org (tb.plazi.org)... 62.113.194.160, 2a00:f48:2000:100a::2
 Connecting to tb.plazi.org (tb.plazi.org)|62.113.194.160|:80... connected.
 HTTP request sent, awaiting response... 200 
 Length: 174309 (170K) [application/zip]
 Saving to: ‘1054DB21F50C3F6D4A60EF68FFE4C168.zip’
 
-     0K .......... .......... .......... .......... .......... 29% 94.9K 1s
-    50K .......... .......... .......... .......... .......... 58%  191K 1s
-   100K .......... .......... .......... .......... .......... 88% 17.6M 0s
-   150K .......... ..........                                 100% 8.53M=0.8s
+     0K .......... .......... .......... .......... .......... 29% 88.4K 1s
+    50K .......... .......... .......... .......... .......... 58%  178K 1s
+   100K .......... .......... .......... .......... .......... 88% 16.1M 0s
+   150K .......... ..........                                 100% 9.51M=0.9s
 
-2022-08-19 14:02:36 (215 KB/s) - ‘1054DB21F50C3F6D4A60EF68FFE4C168.zip’ saved [174309/174309]
+2022-08-19 15:02:36 (200 KB/s) - ‘1054DB21F50C3F6D4A60EF68FFE4C168.zip’ saved [174309/174309]
 
 Archive:  1054DB21F50C3F6D4A60EF68FFE4C168.zip
   inflating: meta.xml                
