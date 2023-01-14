@@ -1,0 +1,108 @@
+<document id="342269D717CF8504F03D37E4799F9A85" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFB551435DD7A8E6F8EEF6C6" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Phloeophagosoma Wollaston 1873" docType="treatment" docVersion="14" lastPageNumber="142" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="142" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="30226F085B90A5F1566535DCBD928EC6" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="D46448EB3BEDF684072155A0B8E780E6">
+<mods:title id="1D44FD8C0A3649E6DBEC76E35063C6C4">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="702923BDD7E8868087C022845DEC3E24" type="personal">
+<mods:role id="8937A0DBB996499D3F9CDDA640E253B5">
+<mods:roleTerm id="ADE728B1996D7A74F711956EEC78D19B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="86806C20E6682F0D874CF82F56AA4D31">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="938C156F525D61A89E71A6FE23A2ABBC">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="EFB9EB5E1E61599E844FC9024AAB9E27">text</mods:typeOfResource>
+<mods:relatedItem id="F1D2B6662A4356F498B7AFEE3B12241E" type="host">
+<mods:originInfo id="4DB9CDC219130405EF01EB6FB87B1F1E">
+<mods:dateIssued id="8685842961E66D0191835F9A3F9FBE3D">1942</mods:dateIssued>
+<mods:dateOther id="DF390654116BC129C70EB085457913CA" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="7AB99FB955E7EE092BB69BA70C407611">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="06E2C415ACB9390A8D68A5AD1ACC64D8">
+<mods:placeTerm id="21F9AEB1AD7958294429D9D09C478D5E">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A4D5E27AFC502EAE2CF435EB0F292F01">
+<mods:title id="1F6A5854E2273F278593C4D5B3FF92C7">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="20AAB34C66BB180CA6EC56BD1D778069">
+<mods:extent id="55DD647F8DBA7CC702A03D8F1C979BB0" unit="page">
+<mods:start id="28DC42EE8584D108D7F071A205435D34">73</mods:start>
+<mods:end id="47DCBD822B2258A3CB44092AF059E9D4">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="6CAE780644913262EAD2FB43320A646C">book chapter</mods:classification>
+<mods:identifier id="CCA5D5D93781907FB238BD7DB44575AF" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="D581AF8DD01295B64E0E69434654AE23" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="3F1932CEE0426A2AB7B7BC8F3BF616A0" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFB551435DD7A8E6F8EEF6C6" ID-DOI="http://doi.org/10.5281/zenodo.5191794" ID-GBIF-Taxon="184097911" ID-Zenodo-Dep="5191794" LSID="urn:lsid:plazi:treatment:D6388709FFB551435DD7A8E6F8EEF6C6" httpUri="http://treatment.plazi.org/id/D6388709FFB551435DD7A8E6F8EEF6C6" lastPageNumber="142" pageId="69" pageNumber="142">
+<subSubSection id="168B6594FFB551435DD7A8E6F9D2F870" box="[652,1576,1980,2022]" pageId="69" pageNumber="142" type="nomenclature">
+<paragraph id="5E2E361FFFB551435DD7A8E6F9D2F870" blockId="69.[652,1576,1980,2022]" box="[652,1576,1980,2022]" pageId="69" pageNumber="142">
+<heading id="05668173FFB551435DD7A8E6F9D2F870" box="[652,1576,1980,2022]" centered="true" fontSize="8" level="2" pageId="69" pageNumber="142" reason="3">
+Genus 
+<taxonomicName id="99914D9CFFB551435C54A8E6F9D2F870" authority="Wollaston, 1873" authorityName="Wollaston" authorityYear="1873" box="[783,1576,1980,2022]" class="Insecta" family="Curculionidae" genus="Phloeophagosoma" kingdom="Animalia" order="Coleoptera" pageId="69" pageNumber="142" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFB551435C54A8E6FB15F870" bold="true" box="[783,1263,1980,2022]" pageId="69" pageNumber="142">PHLOEOPHAGOSOMA</emphasis>
+Wollaston, 1873
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB551435EFAA74BFA83F7AB" box="[417,1401,2065,2109]" pageId="69" pageNumber="142" type="reference_group">
+<paragraph id="5E2E361FFFB551435EFAA74BFA83F7AB" blockId="69.[417,1813,2065,2384]" box="[417,1401,2065,2109]" pageId="69" pageNumber="142">
+<treatmentCitationGroup id="7E811131FFB551435EFAA74BFA83F7AB" box="[417,1401,2065,2109]" pageId="69" pageNumber="142">
+<bibCitation id="8BBB3E73FFB551435EFAA74BFA83F7AB" box="[417,1401,2065,2109]" journalOrPublisher="Ent. Soc. London, Trans." pageId="69" pageNumber="142" pagination="23" refId="ref47852" type="journal volume" year="1873">
+<treatmentCitation id="DF30100EFFB551435EFAA74BFA8EF7AB" author="Wollaston" box="[417,1396,2065,2109]" page="23" pageId="69" pageNumber="142" year="1873">
+<author id="862CDEFAFFB551435EFAA74BFCC9F7AB" box="[417,819,2065,2109]" case="TC" fns="*" inm="true" npo="*" pageId="69" pageNumber="142">
+<taxonomicName id="99914D9CFFB551435EFAA74BFD24F7AB" box="[417,734,2065,2109]" pageId="69" pageNumber="142">
+<emphasis id="6CE5EA0DFFB551435EFAA74BFD24F7AB" box="[417,734,2065,2109]" italics="true" pageId="69" pageNumber="142">Phloeophagosoma</emphasis>
+</taxonomicName>
+<journalOrPublisher id="84503CD3FFB551435DB4A74BFCC9F7AB" box="[751,819,2065,2109]" pageId="69" pageNumber="142">Ent</journalOrPublisher>
+</author>
+. 
+<title id="2C95DD29FFB551435C17A74BFBC8F7AB" box="[844,1074,2065,2109]" jopScore="2.7761476" pageId="69" pageNumber="142">Soc. London</title>
+, 
+<journalOrPublisher id="84503CD3FFB551435B10A74BFB3BF7AB" box="[1099,1217,2065,2109]" jopScore="1.8666667" pageId="69" pageNumber="142">Trans.</journalOrPublisher>
+, 
+<pagination id="6758C8EBFFB551435B81A74BFAFFF7AB" box="[1242,1285,2065,2109]" pageId="69" pageNumber="142" type="pageRange">
+<part id="2A359C82FFB551435B81A74BFAFFF7AB" box="[1242,1285,2065,2109]" pageId="69" pageNumber="142" type="volume">23</part>
+</pagination>
+, 
+<year id="2A39774CFFB551435A78A74BFA8EF7AB" box="[1315,1396,2065,2109]" pageId="69" pageNumber="142">1873</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB551435E84A717F8EEF6C6" pageId="69" pageNumber="142" type="discussion">
+<paragraph id="5E2E361FFFB551435E84A717F8EEF6C6" blockId="69.[417,1813,2065,2384]" pageId="69" pageNumber="142">
+This genus, including 
+<taxonomicName id="99914D9CFFB551435C2AA717FA24F7EF" box="[881,1502,2125,2169]" pageId="69" pageNumber="142">
+<emphasis id="6CE5EA0DFFB551435C2AA717FB50F7EF" box="[881,1194,2125,2169]" italics="true" pageId="69" pageNumber="142">Amophorhynchus</emphasis>
+Wollaston, 1873
+</taxonomicName>
+, which is considered a subgenus, contains 26 species described from 
+<collectingCountry id="2686768FFFB551435ADCA7D9F9A4F739" box="[1415,1630,2179,2223]" name="Madagascar" pageId="69" pageNumber="142">Madagascar</collectingCountry>
+, the 
+<collectingCountry id="2686768FFFB55143599CA7D9FDE3F773" name="Seychelles" pageId="69" pageNumber="142">Seychelles</collectingCountry>
+, 
+<collectingCountry id="2686768FFFB551435D6BA7E3FD74F773" box="[560,654,2233,2277]" name="India" pageId="69" pageNumber="142">India</collectingCountry>
+, 
+<collectingCountry id="2686768FFFB551435DF9A7E3FCF6F773" box="[674,780,2233,2277]" name="Japan" pageId="69" pageNumber="142">Japan</collectingCountry>
+, the 
+<collectingCountry id="2686768FFFB551435C3EA7E3FBD6F773" box="[869,1068,2233,2277]" name="Philippines" pageId="69" pageNumber="142">Philippines</collectingCountry>
+, Java, Borneo, New 
+<collectingCountry id="2686768FFFB551435AF8A7E3F9D8F773" box="[1443,1570,2233,2277]" name="Guinea-Bissau" pageId="69" pageNumber="142">Guinea</collectingCountry>
+, other islands of the Indo- and Austro-Malayan subregions, 
+<collectingCountry id="2686768FFFB551435B8DA7B5FA87F68C" box="[1238,1405,2287,2330]" name="Australia" pageId="69" pageNumber="142">Australia</collectingCountry>
+, 
+<collectingCountry id="2686768FFFB551435ACFA7B5F97AF68C" box="[1428,1664,2287,2330]" name="New Zealand" pageId="69" pageNumber="142">New Zealand</collectingCountry>
+, 
+<collectingCountry id="2686768FFFB5514359C3A7B5F8F4F68C" box="[1688,1806,2287,2330]" name="Samoa" pageId="69" pageNumber="142">Samoa</collectingCountry>
+, and Hawaii. The following new species is the first recorded from 
+<collectingCountry id="2686768FFFB551435912A67FF8F5F6C6" box="[1609,1807,2341,2384]" name="Micronesia" pageId="69" pageNumber="142">Micronesia</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

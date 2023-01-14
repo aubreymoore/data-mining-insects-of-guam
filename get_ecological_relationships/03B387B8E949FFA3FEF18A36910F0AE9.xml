@@ -1,0 +1,144 @@
+<document id="B957EFA203959901280BA814C819133E" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E949FFA3FEF18A36910F0AE9" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Cirphis loreyi" docType="treatment" docVersion="19" lastPageNumber="165" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="165" updateTime="1669841625929" updateUser="ExternalLinkService">
+<mods:mods id="C75C352633587D19FF038140C8BA3366" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="01C969FAEA0821FDC3F4751DD8008E20">
+<mods:title id="909BA1215C43DADF8FDD95649765F47B">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="899D851FEF623B63D5BFFCA85253A1C2" type="personal">
+<mods:role id="F8DFB1FB246FD0DEA2A6AB3C99C18373">
+<mods:roleTerm id="26016F06A9E950579BA3FE18A0973B04">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="788383CCCECCEEB1CCF1A5C679734A6B">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="B18A42989FAB297EB5E5166508B541A7">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="CDD3EA778CD3C0791D79A53E37EE90BD">text</mods:typeOfResource>
+<mods:relatedItem id="C6B431AB96C7009A237DEB8FBA1ED6EB" type="host">
+<mods:originInfo id="957420DFA485CB42B2C9916E7A5D2504">
+<mods:dateIssued id="505E66B3D564F4FCF0FC5704A0CDAE37">1946</mods:dateIssued>
+<mods:dateOther id="F53FF251568DB0C088A20D6BF3FFCFB3" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="7950F32B8242BDCAB2BE33F83F2C2CE1">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="02A85322D58AF75CB52F19C64FDADB40">
+<mods:placeTerm id="C3C15FA596F5B7142356B6B30FE03DFE">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="CDA99D85DF7D33988EF4EA3A3ADA3EE7">
+<mods:title id="51E6B29D14C9A6C67F4171D1307A074F">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="392FE78ACA558FC27487B3BE6F5438FB">
+<mods:extent id="A87B02F86D3BD66576E76E795607EC40" unit="page">
+<mods:start id="0A09276114A4EF062F08781FE2E865D1">163</mods:start>
+<mods:end id="745EEB354F245EA3CFCEFC864C8A8BF8">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="D5631AC1CB7B28C7286013F977CEA036">book chapter</mods:classification>
+<mods:identifier id="1C2072594985C1CC0E1E1FA38255A77C" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="B7BA2690565F1953EE461436D27E3884" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="26A73F8BF4F13200BF6ABE5D60491CF0" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E949FFA3FEF18A36910F0AE9" ID-DOI="http://doi.org/10.5281/zenodo.5158390" ID-GBIF-Taxon="183926952" ID-Zenodo-Dep="5158390" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF18A36910F0AE9" httpUri="http://treatment.plazi.org/id/03B387B8E949FFA3FEF18A36910F0AE9" lastPageNumber="165" pageId="2" pageNumber="165">
+<subSubSection id="C3006525E949FFA3FEF18A3691F70B7B" box="[318,897,2059,2100]" pageId="2" pageNumber="165" type="nomenclature">
+<paragraph id="8BA536AEE949FFA3FEF18A3691F70B7B" blockId="2.[318,1717,2059,2470]" box="[318,897,2059,2100]" pageId="2" pageNumber="165">
+<heading id="D0ED81C2E949FFA3FEF18A3691F70B7B" box="[318,897,2059,2100]" fontSize="11" level="2" pageId="2" pageNumber="165" reason="2">
+<emphasis id="B96EEABCE949FFA3FEF18A36932D0B7B" bold="true" box="[318,347,2059,2100]" pageId="2" pageNumber="165">2.</emphasis>
+<taxonomicName id="4C1A4D2DE949FFA3FEB18A36910A0B7B" authority="(Duponchel)" baseAuthorityName="Duponchel" baseAuthorityYear="1827" box="[382,892,2059,2100]" class="Insecta" family="Noctuidae" genus="Cirphis" kingdom="Animalia" order="Lepidoptera" pageId="2" pageNumber="165" phylum="Arthropoda" rank="species" species="loreyi">
+<emphasis id="B96EEABCE949FFA3FEB18A36900C0B7B" bold="true" box="[382,634,2059,2100]" pageId="2" pageNumber="165">Cirphis loreyi</emphasis>
+(Duponchel)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E949FFA3FEB38A7D94490BD1" pageId="2" pageNumber="165" type="description">
+<paragraph id="8BA536AEE949FFA3FEB38A7D94620B25" blockId="2.[318,1717,2059,2470]" box="[380,1556,2112,2154]" pageId="2" pageNumber="165">
+<treatmentCitationGroup id="AB0A1180E949FFA3FEB38A7D94620B25" box="[380,1556,2112,2154]" pageId="2" pageNumber="165">
+<bibCitation id="5E303EC2E949FFA3FEB38A7D94620B25" author="Duponchel" box="[380,1556,2112,2154]" pageId="2" pageNumber="165" pagination="81" refId="ref1342" title="Lep. France 7" type="book" year="1827">
+<treatmentCitation id="0ABB10BFE949FFA3FEB38A7D94790B25" author="Duponchel" box="[380,1551,2112,2154]" page="81" pageId="2" pageNumber="165" year="1827">
+<emphasis id="B96EEABCE949FFA3FEB38A7D90060B25" box="[380,624,2112,2154]" italics="true" pageId="2" pageNumber="165">Noctua loreyi</emphasis>
+<author id="53A7DE4BE949FFA3FD4F8A7D91490B25" box="[640,831,2112,2154]" pageId="2" pageNumber="165">Duponchel</author>
+, 
+<title id="F91EDD98E949FFA3FC998A7D963B0B25" box="[854,1101,2112,2154]" pageId="2" pageNumber="165">
+Lep. 
+<collectingCountry id="F30D763EE949FFA3FC798A7D96460B25" box="[950,1072,2112,2154]" name="France" pageId="2" pageNumber="165">France</collectingCountry>
+7
+</title>
+: 
+<pagination id="B2D3C85AE949FFA3FBBF8A7D96ED0B25" box="[1136,1179,2112,2154]" pageId="2" pageNumber="165">81</pagination>
+, pl. 105, fig. 7, 
+<year id="FFB277FDE949FFA3FA728A7D94790B25" box="[1469,1551,2112,2154]" pageId="2" pageNumber="165">1827</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE949FFA3FE4F8A4E94490BD1" blockId="2.[318,1717,2059,2470]" box="[384,1599,2163,2206]" pageId="2" pageNumber="165">
+<bibCitation id="5E303EC2E949FFA3FE4F8A4E94490BD1" author="Hampson" box="[384,1599,2163,2206]" pageId="2" pageNumber="165" pagination="492" refId="ref1363" title="Cat. Lep. Phalaenae 5" type="journal volume" year="1905">
+<treatmentCitationGroup id="AB0A1180E949FFA3FE4F8A4E944C0BD1" box="[384,1594,2163,2206]" pageId="2" pageNumber="165">
+<emphasis id="B96EEABCE949FFA3FE4F8A4E900C0BD1" box="[384,634,2163,2206]" italics="true" pageId="2" pageNumber="165">Cirphis loreyi,</emphasis>
+<treatmentCitation id="0ABB10BFE949FFA3FD468A4E944C0BD1" author="Hampson" box="[649,1594,2163,2206]" page="492" pageId="2" pageNumber="165" year="1905">
+<author id="53A7DE4BE949FFA3FD468A4E91410BD1" box="[649,823,2163,2206]" pageId="2" pageNumber="165">Hampson</author>
+, 
+<title id="F91EDD98E949FFA3FC808A4E96A60BD1" box="[847,1232,2163,2206]" pageId="2" pageNumber="165">Cat. Lep. Phalaenae 5</title>
+: 
+<pagination id="B2D3C85AE949FFA3FB3D8A4E97450BD1" box="[1266,1331,2163,2206]" pageId="2" pageNumber="165">492</pagination>
+, fig. 153, 
+<year id="FFB277FDE949FFA3FA268A4E944C0BD1" box="[1513,1594,2163,2206]" pageId="2" pageNumber="165">1905</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E949FFA3FE4F8A8D910F0AE9" pageId="2" pageNumber="165" type="description">
+<paragraph id="8BA536AEE949FFA3FE4F8A8D910F0AE9" blockId="2.[318,1717,2059,2470]" pageId="2" pageNumber="165">
+<location id="8EC56075E949FFA3FE4F8A8D93A60B95" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF18A36910F0AE9:8EC56075E949FFA3FE4F8A8D93A60B95" box="[384,464,2224,2266]" country="Japan, Formosa" county="We" municipality="Java" name="This" pageId="2" pageNumber="165">This</location>
+widely distributed moth is recorded in 
+<location id="8EC56075E949FFA3FB128A8D97140B95" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF18A36910F0AE9:8EC56075E949FFA3FB128A8D97140B95" box="[1245,1378,2224,2266]" country="Japan, Formosa" county="We" municipality="Java" name="Europe" pageId="2" pageNumber="165">Europe</location>
+, 
+<location id="8EC56075E949FFA3FA4D8A8D97820B95" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF18A36910F0AE9:8EC56075E949FFA3FA4D8A8D97820B95" box="[1410,1524,2224,2266]" country="Japan, Formosa" county="We" municipality="Java" name="Africa" pageId="2" pageNumber="165">Africa</location>
+, 
+<location id="8EC56075E949FFA3F9D88A8D93E20A41" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF18A36910F0AE9:8EC56075E949FFA3F9D88A8D93E20A41" country="Japan, Formosa" county="We" municipality="Java" name="Southern Asia" pageId="2" pageNumber="165">Southern Asia</location>
+, 
+<collectingCountry id="F30D763EE949FFA3FE628ADE90A70A41" box="[429,721,2275,2318]" isEnumeration="true" pageId="2" pageNumber="165">Japan, Formosa</collectingCountry>
+, 
+<collectingCountry id="F30D763EE949FFA3FD238ADE91C20A41" box="[748,948,2275,2318]" name="Philippines" pageId="2" pageNumber="165">Philippines</collectingCountry>
+, 
+<collectingMunicipality id="6BC1ACD4E949FFA3FC018ADE96560A41" box="[974,1056,2275,2318]" pageId="2" pageNumber="165">Java</collectingMunicipality>
+, Queensland. It was not previously recorded in 
+<collectingCountry id="F30D763EE949FFA3FDEA8B2B90E70A0F" box="[549,657,2326,2368]" name="Guam" pageId="2" pageNumber="165">Guam</collectingCountry>
+. 
+<materialsCitation id="3B723CF3E949FFA3FD788B2B90FD0A3C" ID-GBIF-Occurrence="3970494306" collectedFrom="in rice field" collectingDate="1936-05-07" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="2" pageNumber="165" specimenCount="2">
+<collectingCounty id="62C44E22E949FFA3FD788B2B90830A0F" box="[695,757,2326,2368]" pageId="2" pageNumber="165">We</collectingCounty>
+collected only 
+<specimenCount id="9D1CFD27E949FFA3FBD98B2B97690A0F" box="[1046,1311,2326,2368]" pageId="2" pageNumber="165" type="generic">two specimens</specimenCount>
+. 
+<location id="8EC56075E949FFA3FA898B2B97960A0F" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF18A36910F0AE9:8EC56075E949FFA3FA898B2B97960A0F" box="[1350,1504,2326,2368]" pageId="2" pageNumber="165">Inarajan</location>
+, 
+<date id="FFA4106EE949FFA3FA318B2B94010A0F" box="[1534,1655,2326,2368]" pageId="2" pageNumber="165">
+<collectingDate id="EFE0E986E949FFA3FA318B2B94010A0F" box="[1534,1655,2326,2368]" pageId="2" pageNumber="165">May 7</collectingDate>
+</date>
+, in rice field, 
+<collectorName id="26EF5378E949FFA3FDCF8B7490FD0A3C" box="[512,651,2377,2419]" pageId="2" pageNumber="165">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="3B723CF3E949FFA3FD678B7491020AE9" ID-GBIF-Occurrence="3913642349" collectedFrom="reared from a caterpillar on sword grass, Xiphagrostis floridula" collectingDate="1936-09-21" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="165">
+<location id="8EC56075E949FFA3FD678B74909D0A3C" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF18A36910F0AE9:8EC56075E949FFA3FD678B74909D0A3C" box="[680,747,2377,2419]" pageId="2" pageNumber="165">
+<collectingMunicipality id="6BC1ACD4E949FFA3FD678B74909D0A3C" box="[680,747,2377,2419]" pageId="2" pageNumber="165">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE949FFA3FCC68B7491D60A3C" box="[777,928,2377,2419]" pageId="2" pageNumber="165" value="2021-09">
+<collectingDate id="EFE0E986E949FFA3FCC68B7491D60A3C" box="[777,928,2377,2419]" pageId="2" pageNumber="165" value="2021-09">Sept. 21</collectingDate>
+</date>
+, reared from a caterpillar on sword grass; 
+<taxonomicName id="4C1A4D2DE949FFA3FE8D8B4191020AE9" authority=", Swezey" authorityName="Swezey." box="[322,884,2428,2470]" class="Liliopsida" family="Poaceae" genus="Xiphagrostis" higherTaxonomySource="CoL" kingdom="Plantae" order="Poales" pageId="2" pageNumber="165" phylum="Tracheophyta" rank="species" species="floridula">
+<emphasis id="B96EEABCE949FFA3FE8D8B4190A00AE9" box="[322,726,2428,2470]" italics="true" pageId="2" pageNumber="165">
+<location id="8EC56075E949FFA3FE8D8B4190520AE9" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF18A36910F0AE9:8EC56075E949FFA3FE8D8B4190520AE9" box="[322,548,2428,2470]" pageId="2" pageNumber="165">Xiphagrostis</location>
+floridula,
+</emphasis>
+<collectorName id="26EF5378E949FFA3FD218B4191020AE9" box="[750,884,2428,2470]" pageId="2" pageNumber="165">Swezey</collectorName>
+</taxonomicName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

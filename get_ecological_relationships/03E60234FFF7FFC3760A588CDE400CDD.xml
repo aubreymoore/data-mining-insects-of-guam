@@ -1,0 +1,101 @@
+<document id="AEF4A3F3645237DB88D1639A0C056F6D" ID-DOI="http://doi.org/10.5281/zenodo.3634035" ID-GBIF-Dataset="9c8d5683-76c1-4938-aede-b7ad5391b6b2" ID-Zenodo-Dep="3634035" checkinTime="1580668122796" checkinUser="plazi" docAuthor="Moulton, Dudley" docDate="1942" docId="03E60234FFF7FFC3760A588CDE400CDD" docLanguage="en" docName="InsectsOfGuam.172.7-16.pdf.imf" docOrigin="Insects of Guam I, Bernice P. Bishop Museum Bulletin" docSource="http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Karnyothrips flavipes Hood" docType="treatment" docVersion="16" lastPageNumber="11" masterDocId="FFDF7A4CFFF3FFC777195003DD64051A" masterDocTitle="Thysanoptera: Thrips of Guam" masterLastPageNumber="16" masterPageNumber="7" pageNumber="11" updateTime="1658840059004" updateUser="annettekang">
+<mods:mods id="A37A34295142192F08F3F373B7E271FE" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="EE0FE0BE8460F2FA400597815EF50F6A">
+<mods:title id="3E48B69436B07840131E106121AECA63">Thysanoptera: Thrips of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="8B3FF41FD186B2546ED22EAE65B93177" type="personal">
+<mods:role id="CA28F735489B75FCF3C8C91EE1086849">
+<mods:roleTerm id="ECA7A5EE3B7CDE0A0882D675133C1DD9">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A421C04B7F21BD4D272B022DD0CFC018">Moulton, Dudley</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="1475CC823FBA78347F905ADFC6B0DF14">text</mods:typeOfResource>
+<mods:relatedItem id="B5E6DC3721EEBC952E96C9C9482FDC73" type="host">
+<mods:originInfo id="23243D0BAA261C685DCBDAEB4C723607">
+<mods:dateIssued id="75B8432EB7A3A66896E6FDB03BD4F4B0">1942</mods:dateIssued>
+<mods:dateOther id="2047C0EF106E35ED7858CE1110D60AE9" type="pubDate">1942-12-31</mods:dateOther>
+<mods:publisher id="EB646A79D26C596FC14626A45B99B89F">Bernice P. Bishop Museum Bulletin</mods:publisher>
+</mods:originInfo>
+<mods:titleInfo id="D6F359281D195D895C7FB40CE9F25C32">
+<mods:title id="274E1E366EC64068AB5082B831A572C9">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="D2AF58A6FF480FFAD25087E81D4FEC59">
+<mods:extent id="D8918EA0D9827B533377776087FF61FE" unit="page">
+<mods:start id="CA051EBB94342E0F921F4F4E869E2F87">7</mods:start>
+<mods:end id="EF3A79D551F6E2B896CDE43D9996EB5E">16</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="03A37A811F55F76489CE5F1D04583A23">
+<mods:url id="778E9B25DD63B61D25180FBDD3BB85AE">http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf</mods:url>
+</mods:location>
+<mods:classification id="830A004EA64670C84EEE2E418F4EB143">book chapter</mods:classification>
+<mods:identifier id="1B6AC8E4008E0696683D266E2D117F28" type="DOI">http://doi.org/10.5281/zenodo.3634035</mods:identifier>
+<mods:identifier id="09D8DA274558673F9AB4CFD0A239FE06" type="GBIF-Dataset">9c8d5683-76c1-4938-aede-b7ad5391b6b2</mods:identifier>
+<mods:identifier id="F6B269BF54902E803C01861F56F0FE9D" type="Zenodo-Dep">3634035</mods:identifier>
+</mods:mods>
+<treatment id="03E60234FFF7FFC3760A588CDE400CDD" ID-DOI="http://doi.org/10.5281/zenodo.5157433" ID-GBIF-Taxon="161938945" ID-Zenodo-Dep="5157433" LSID="urn:lsid:plazi:treatment:03E60234FFF7FFC3760A588CDE400CDD" httpUri="http://treatment.plazi.org/id/03E60234FFF7FFC3760A588CDE400CDD" lastPageNumber="11" pageId="4" pageNumber="11">
+<subSubSection id="C355E0A9FFF7FFC3760A588CDEED0DAE" box="[275,905,2191,2228]" pageId="4" pageNumber="11" type="nomenclature">
+<paragraph id="8BF0B322FFF7FFC3760A588CDEED0DAE" blockId="4.[275,1674,2188,2504]" box="[275,905,2191,2228]" pageId="4" pageNumber="11">
+<heading id="D0B8044EFFF7FFC3760A588CDEED0DAE" box="[275,905,2191,2228]" fontSize="11" level="5" pageId="4" pageNumber="11" reason="1">
+<emphasis id="B93B6F30FFF7FFC3760A588CDC250DAE" bold="true" box="[275,321,2191,2228]" pageId="4" pageNumber="11">12</emphasis>
+. 
+<taxonomicName id="4C4FC8A1FFF7FFC3767D588CDEE00DAE" authority="(Jones)" authorityName="Hood" baseAuthorityName="Jones" baseAuthorityYear="1912" box="[356,900,2191,2228]" class="Insecta" family="Phlaeothripidae" genus="Karnyothrips" kingdom="Animalia" order="Thysanoptera" pageId="4" pageNumber="11" phylum="Arthropoda" rank="species" species="flavipes">
+Karnyothrips 
+<emphasis id="B93B6F30FFF7FFC37570588CDF960DAE" bold="true" box="[617,754,2191,2228]" pageId="4" pageNumber="11">flavipes</emphasis>
+(Jones)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFF7FFC3764958C6DBEE0C42" pageId="4" pageNumber="11" type="reference_group">
+<treatmentCitationGroup id="AB5F940CFFF7FFC3764958C6DBEE0C42" pageId="4" pageNumber="11">
+<paragraph id="8BF0B322FFF7FFC3764958C6DFF30C01" blockId="4.[275,1674,2188,2504]" pageId="4" pageNumber="11">
+<treatmentCitation id="0AEE9533FFF7FFC3764958C6DFF30C01" author="Jones" page="18" pageId="4" pageNumber="11" year="1912">
+<taxonomicName id="4C4FC8A1FFF7FFC3764958C6DE4E0DF3" authority="Jones" authorityName="Jones" authorityYear="1912" box="[336,810,2244,2281]" class="Insecta" family="Phlaeothripidae" genus="Anthothrips" higherTaxonomySource="GBIF" kingdom="Animalia" order="Thysanoptera" pageId="4" pageNumber="11" phylum="Arthropoda" rank="species" species="flavipes">
+<emphasis id="B93B6F30FFF7FFC3764958C6DFD00DF3" box="[336,692,2245,2281]" italics="true" pageId="4" pageNumber="11">Anthothrips flavipes</emphasis>
+<bibCitation id="5E65BB4EFFF7FFC375D058C7DFF30C01" pageId="4" pageNumber="11">Jones, U.S. Dept. Agric. Bur. Ent. Tech. Ser. 23(1): 18, pl. 5, 1912.</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</paragraph>
+<paragraph id="8BF0B322FFF7FFC376485937DBEE0C42" blockId="4.[275,1674,2188,2504]" box="[337,1674,2355,2392]" pageId="4" pageNumber="11">
+<treatmentCitation id="0AEE9533FFF7FFC376485937DBEE0C42" author="Hood" box="[337,1674,2355,2392]" page="176" pageId="4" pageNumber="11" year="1927">
+<taxonomicName id="4C4FC8A1FFF7FFC376485937DE9F0C42" authority="(Jones) Hood" authorityName="Hood" baseAuthorityName="Jones" baseAuthorityYear="1912" box="[337,1019,2355,2392]" class="Insecta" family="Phlaeothripidae" genus="Karnyothrips" kingdom="Animalia" order="Thysanoptera" pageId="4" pageNumber="11" phylum="Arthropoda" rank="species" species="flavipes">
+<emphasis id="B93B6F30FFF7FFC376485937DFB10C42" box="[337,725,2356,2392]" italics="true" pageId="4" pageNumber="11">Karnyothrips flavipes</emphasis>
+(Jones) 
+<bibCitation id="5E65BB4EFFF7FFC374835930DBEE0C42" box="[922,1674,2355,2392]" pageId="4" pageNumber="11">
+Hood, Pan-Pacific Ent. 
+<emphasis id="B93B6F30FFF7FFC372465930D8100C42" bold="true" box="[1375,1396,2355,2392]" pageId="4" pageNumber="11">3</emphasis>
+(4): 176, 1927.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</paragraph>
+</treatmentCitationGroup>
+</subSubSection>
+<subSubSection id="C355E0A9FFF7FFC3764B596CDE400CDD" pageId="4" pageNumber="11" type="materials_examined">
+<paragraph id="8BF0B322FFF7FFC3764B596CDE400CDD" blockId="4.[275,1674,2188,2504]" pageId="4" pageNumber="11">
+<materialsCitation id="3B27B97FFFF7FFC3764B596CDE400CDD" ID-GBIF-Occurrence="3357451309" collectedFrom="on unidentified tree, in company with Ceroplastes floridensis" collectingDate="1936-08-16" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="11" specimenCount-female="4">
+<location id="8E90E5F9FFF7FFC3764B596CDCF40C8E" LSID="urn:lsid:plazi:treatment:03E60234FFF7FFC3760A588CDE400CDD:8E90E5F9FFF7FFC3764B596CDCF40C8E" box="[338,400,2415,2452]" name="Piti" pageId="4" pageNumber="11">Piti</location>
+, 
+<date id="FFF195E2FFF7FFC376B0596CDF590C8E" box="[425,573,2415,2452]" pageId="4" pageNumber="11" value="2016-08">
+<collectingDate id="EFB56C0AFFF7FFC376B0596CDF590C8E" box="[425,573,2415,2452]" pageId="4" pageNumber="11" value="2016-08">Aug. 16</collectingDate>
+</date>
+, on unidentified tree, in company with 
+<emphasis id="B93B6F30FFF7FFC373F75973DB1F0C8E" box="[1262,1659,2416,2452]" italics="true" pageId="4" pageNumber="11">
+<taxonomicName id="4C4FC8A1FFF7FFC373F75973DB110C8E" authorityName="Comstock" authorityYear="1881" box="[1262,1653,2416,2452]" class="Insecta" family="Coccidae" genus="Ceroplastes" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="11" phylum="Arthropoda" rank="species" species="floridensis">
+<location id="8E90E5F9FFF7FFC373F75973D8D10C8E" LSID="urn:lsid:plazi:treatment:03E60234FFF7FFC3760A588CDE400CDD:8E90E5F9FFF7FFC373F75973D8D10C8E" box="[1262,1461,2416,2452]" name="Ceroplastes" pageId="4" pageNumber="11">Ceroplastes</location>
+floridensis
+</taxonomicName>
+,
+</emphasis>
+<specimenCount id="9D4978ABFFF7FFC3760D59A1DC920CDD" box="[276,502,2466,2503]" pageId="4" pageNumber="11" type="female">four females</specimenCount>
+, 
+<collectorName id="26BAD6F4FFF7FFC3751659A1DFF50CDD" box="[527,657,2466,2503]" pageId="4" pageNumber="11">Swezey</collectorName>
+(5481).
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

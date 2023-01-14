@@ -1,0 +1,147 @@
+<document id="1F562323E52A6C7F7B968B578A78C1FE" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFD9512C5DAFAC36F96DFD39" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Microcryptorhynchus Lea 1908" docType="treatment" docVersion="13" lastPageNumber="115" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="114" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="7802F8D7AA25FE39095A011EC1EDAD1C" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="BF6A8D6C1ED7CFD8782B34FBA2AE17F1">
+<mods:title id="0FA8DBB6F0E3EF1BD265FA749B0CD3EC">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="747CFD5C509B1190FD1FF2F8D12C9E03" type="personal">
+<mods:role id="98F0DD0762CEE2A3B3BEB9A8DE4ACF1E">
+<mods:roleTerm id="60135A0560BD0A64AED041A64C92990B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9F0CA935417360C42500CF07EC7F8CD9">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="09CE99643509C533242B309417C22FA4">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="673E43790F765ECC37DCA6EEE1263325">text</mods:typeOfResource>
+<mods:relatedItem id="4C94991AFDFD9D8D71C433C401F57F9C" type="host">
+<mods:originInfo id="F32C36A2876731472FE9E2340EC09CE1">
+<mods:dateIssued id="373FD78DE4844F35EBA4F7841EAB30AD">1942</mods:dateIssued>
+<mods:dateOther id="7118CEC633AF0B71F3ACE1BF99873878" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="A5B8EE65E74F3FB632C727F852675D6F">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="7F1D5CD5148D75260BD396326D7A415D">
+<mods:placeTerm id="9783EF73F4BB8AF8E3525D36D14BEB9A">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="E656C5100126605725A1E4CA0CC08D49">
+<mods:title id="88C204FA8E4B9BD1787C9D1BAC78AC84">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="B2FAD963B0ADC7074D903257F355663B">
+<mods:extent id="52B1F65A82BC59A73B2523B0CB54DEE5" unit="page">
+<mods:start id="CE6D40A3989AFAC3572BE55C8D142A45">73</mods:start>
+<mods:end id="588D72248BA2340E50306340ED93EAE4">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="8049EBB60CFB0EA72715F057FB11AA0E">book chapter</mods:classification>
+<mods:identifier id="05F53E8FDBA995683B7D6D109320715D" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="7B5359964FD604E4D448B52525497F29" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="E3BDB14EEA5785916CA733B3E6D60775" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFD9512C5DAFAC36F96DFD39" ID-DOI="http://doi.org/10.5281/zenodo.5157330" ID-GBIF-Taxon="184097874" ID-Zenodo-Dep="5157330" LSID="urn:lsid:plazi:treatment:D6388709FFD9512C5DAFAC36F96DFD39" httpUri="http://treatment.plazi.org/id/D6388709FFD9512C5DAFAC36F96DFD39" lastPageId="42" lastPageNumber="115" pageId="41" pageNumber="114">
+<subSubSection id="168B6594FFD9512F5DAFAC36F9E6FC00" box="[756,1564,876,918]" pageId="41" pageNumber="114" type="nomenclature">
+<paragraph id="5E2E361FFFD9512F5DAFAC36F9E6FC00" blockId="41.[756,1564,876,918]" box="[756,1564,876,918]" pageId="41" pageNumber="114">
+<heading id="05668173FFD9512F5DAFAC36F9E6FC00" box="[756,1564,876,918]" centered="true" fontSize="8" level="2" pageId="41" pageNumber="114" reason="3">
+Genus 
+<taxonomicName id="99914D9CFFD9512F5C2CAC36F9E6FC00" authority="Lea" authorityName="Lea" authorityYear="1908" box="[887,1564,876,918]" class="Insecta" family="Curculionidae" genus="Microcryptorhynchus" kingdom="Animalia" order="Coleoptera" pageId="41" pageNumber="114" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFD9512F5C2CAC36FA3FFC00" bold="true" box="[887,1477,876,918]" pageId="41" pageNumber="114">MICROCRYPTORHYNCHUS</emphasis>
+Lea
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFD9512F5D55ACE5F9F6F71A" pageId="41" pageNumber="114" type="discussion">
+<paragraph id="5E2E361FFFD9512F5D55ACE5FC91FBC6" blockId="41.[457,1858,959,2188]" pageId="41" pageNumber="114">
+For a description of this genus, together with discussion and a chart of the distribution of the species, see my &quot;Cryptorhynchinae of Rapa&quot; (B. P. Bishop Mus., Bull. 
+<emphasis id="6CE5EA0DFFD9512F5DFFAB7CFD21FBC6" bold="true" box="[676,731,1062,1104]" pageId="41" pageNumber="114">151:</emphasis>
+1938).
+</paragraph>
+<paragraph id="5E2E361FFFD9512F5D56AB39FB2CF8CF" blockId="41.[457,1858,959,2188]" pageId="41" pageNumber="114">
+From a zoogeographical viewpoint, the discovery of four new species of 
+<taxonomicName id="99914D9CFFD9512F5E96ABCDFCB0FB56" authorityName="Lea" authorityYear="1908" box="[461,842,1175,1216]" class="Insecta" family="Curculionidae" genus="Microcryptorhynchus" kingdom="Animalia" order="Coleoptera" pageId="41" pageNumber="114" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFD9512F5E96ABCDFCB0FB56" box="[461,842,1175,1216]" italics="true" pageId="41" pageNumber="114">Microcryptorhynchus</emphasis>
+</taxonomicName>
+on 
+<collectingCountry id="2686768FFFD9512F5CFCABCDFBF4FB56" box="[935,1038,1175,1216]" name="Guam" pageId="41" pageNumber="114">Guam</collectingCountry>
+is particularly significant. Heretofore, the most westerly known extension of the genus was along the east coast of 
+<collectingCountry id="2686768FFFD9512F59B0AB91FDD3FAB0" name="Australia" pageId="41" pageNumber="114">Australia</collectingCountry>
+and King Island in Bass Straits off the south coast of 
+<collectingRegion id="9C55F8FDFFD9512F5973ABA4F942FAB0" box="[1576,1720,1278,1318]" country="Australia" name="Victoria" pageId="41" pageNumber="114">Victoria</collectingRegion>
+and an isolated species collected by Lea on Mount Barker, north of Albany near the southwest tip of 
+<collectingRegion id="9C55F8FDFFD9512F5C5EAA3EFBB2FA1A" box="[773,1096,1380,1420]" country="Australia" name="Western Australia" pageId="41" pageNumber="114">western Australia</collectingRegion>
+. It seems to me unusual that an isolated species should live in the Mount Barker vicinity, and I should like to have the locality data verified. Although 
+<collectingCountry id="2686768FFFD9512F5B49AA90FB81FA64" box="[1042,1147,1482,1522]" name="Guam" pageId="41" pageNumber="114">Guam</collectingCountry>
+is not nearly so far west as the Mount Barker locality, it marks the most northwesterly extension of the genus thus far recorded. Only four species have been described from the vast area and numerous islands between 
+<collectingCountry id="2686768FFFD9512F5CE2A939FB30F91B" box="[953,1226,1635,1677]" name="New Caledonia" pageId="41" pageNumber="114">New Caledonia</collectingCountry>
+and 
+<collectingCountry id="2686768FFFD9512F5A6BA939FA61F91B" box="[1328,1435,1635,1677]" name="Guam" pageId="41" pageNumber="114">Guam</collectingCountry>
+, but many species will probably be found there. The description of the four 
+<collectingCountry id="2686768FFFD9512F5ACAA9CFFA03F956" box="[1425,1529,1685,1728]" name="Guam" pageId="41" pageNumber="114">Guam</collectingCountry>
+species brings the total number of species to 107 which show an almost continuous distribution from eastern 
+<collectingCountry id="2686768FFFD9512F5D9BA9A6FC9EF8B0" box="[704,868,1788,1830]" name="Australia" pageId="41" pageNumber="114">Australia</collectingCountry>
+through 
+<collectingCountry id="2686768FFFD9512F5B4BA9A6FAD8F8B0" box="[1040,1314,1788,1830]" name="New Caledonia" pageId="41" pageNumber="114">New Caledonia</collectingCountry>
+, 
+<collectingCountry id="2686768FFFD9512F5A60A9A6FA85F8B0" box="[1339,1407,1788,1830]" name="Fiji" pageId="41" pageNumber="114">Fiji</collectingCountry>
+, 
+<collectingCountry id="2686768FFFD9512F5AC3A9A6F9F7F8B0" box="[1432,1549,1788,1830]" name="Samoa" pageId="41" pageNumber="114">Samoa</collectingCountry>
+and the Austral, Society, Marquesas and Mangareva Islands.
+</paragraph>
+<paragraph id="5E2E361FFFD9512F5D51A83EF9F6F71A" blockId="41.[457,1858,959,2188]" pageId="41" pageNumber="114">
+In my other studies of the genus I have called attention to the fact that each island or group of islands usually has its own complex or complexes of species displaying characters peculiar to that island or group. This phenomenon apparently holds true for the Guaman species, because, insofar as I now know, only in 
+<collectingCountry id="2686768FFFD9512F5D3FA76AFD37F7CC" box="[612,717,2096,2138]" name="Guam" pageId="41" pageNumber="114">Guam</collectingCountry>
+are found species that have a sclerotized, conical, spinelike process at the base of the elytra on either side of the scutellum.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFD9512C5D73A7BBF96DFD39" lastPageId="42" lastPageNumber="115" pageId="41" pageNumber="114" type="key">
+<paragraph id="5E2E361FFFD9512F5D73A7BBF927F69F" blockId="41.[552,1757,2273,2313]" box="[552,1757,2273,2313]" pageId="41" pageNumber="114">
+<heading id="05668173FFD9512F5D73A7BBF927F69F" box="[552,1757,2273,2313]" centered="true" fontSize="8" level="2" pageId="41" pageNumber="114" reason="3">
+KEY 
+<emphasis id="6CE5EA0DFFD9512F5DD8A7BBFD56F69F" box="[643,684,2273,2313]" italics="true" pageId="41" pageNumber="114">To</emphasis>
+THE SPitcre:s oF 
+<taxonomicName id="99914D9CFFD9512F5CB8A7BBFA64F69F" box="[995,1438,2273,2313]" pageId="41" pageNumber="114">MrcROCRYPTORHYNCHUS</taxonomicName>
+FouNn IN 
+<collectingCountry id="2686768FFFD9512F592BA7BBF927F69F" box="[1648,1757,2273,2313]" name="Guam" pageId="41" pageNumber="114">GUAM</collectingCountry>
+</heading>
+</paragraph>
+<key id="2A00612EFFD9512C5E92A61DF96DFD39" lastPageId="42" lastPageNumber="115" pageId="41" pageNumber="114">
+<keyStep id="E5652EBAFFD9512F5E92A61DF8C0F596" pageId="41" pageNumber="114">
+<paragraph id="5E2E361FFFD9512F5E92A61DF8C0F619" blockId="41.[457,1785,2374,2560]" lastBlockId="41.[1835,1850,2413,2447]" pageId="41" pageNumber="114">
+<keyLead id="E560952AFFD9512F5E92A61DF8C0F619" pageId="41" pageNumber="114">1. All the elytral intervals distinctly setose; base of elytra without a sclerotized spine on either side of the scutellum......................................................................... 2</keyLead>
+</paragraph>
+<paragraph id="5E2E361FFFD9512F5D77A6C9F8C0F596" blockId="41.[457,1785,2374,2560]" lastBlockId="41.[1835,1850,2528,2560]" pageId="41" pageNumber="114">
+<keyLead id="E560952AFFD9512F5D77A6C9F8C0F596" pageId="41" pageNumber="114">
+Only the alternate elytral intervals setose, base of elytra with a conical, sclerotized spine on either side of the scutellum (sometimes partially obscured by incrustation).............................................................................................. 
+<emphasis id="6CE5EA0DFFD9512F5870A6BAF8C0F596" box="[1835,1850,2528,2560]" italics="true" pageId="41" pageNumber="114">3</emphasis>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E5652EBAFFDA512C5E7DAE0EF962FE7F" pageId="42" pageNumber="115">
+<paragraph id="5E2E361FFFDA512C5E7DAE0EF963FE0B" blockId="42.[294,1689,340,489]" pageId="42" pageNumber="115">
+<keyLead id="E560952AFFDA512C5E7DAE0EF963FE0B" pageId="42" pageNumber="115">
+2(1). Pronotum with no trace of a median carina; elytra conspicuously globose TODO 
+<taxonomicName id="99914D9CFFDA512C5A57AE23F963FE0B" box="[1292,1689,377,413]" pageId="42" pageNumber="115">TODO TODO TODO</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="5E2E361FFFDA512C5ED0AEC5F962FE7F" blockId="42.[294,1689,340,489]" pageId="42" pageNumber="115">
+<keyLead id="E560952AFFDA512C5ED0AEC5F962FE7F" pageId="42" pageNumber="115">
+Pronotum with a partial or almost complete, distinct median carina; elytra more ovate than globose................................................26. 
+<taxonomicName id="99914D9CFFDA512C5A53AE9CF962FE7F" authority="Zimmerman." authorityName="Zimmerman." authorityYear="1942" box="[1288,1688,454,489]" class="Insecta" family="Curculionidae" genus="Microcryptorhynchus" kingdom="Animalia" order="Coleoptera" pageId="42" pageNumber="115" phylum="Arthropoda" rank="species" species="premnae">M.premnae Zimmerman.</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E5652EBAFFDA512C5E7EAEAEF96DFD39" pageId="42" pageNumber="115">
+<paragraph id="5E2E361FFFDA512C5E7EAEAEF96DFDAB" blockId="42.[293,1687,500,687]" pageId="42" pageNumber="115">
+<keyLead id="E560952AFFDA512C5E7EAEAEF96DFDAB" pageId="42" pageNumber="115">
+3(1). Basal spine of elytra situated at the base of the setose third interval................ TODO 
+<taxonomicName id="99914D9CFFDA512C5A4DAD40F96DFDAB" box="[1302,1687,538,573]" pageId="42" pageNumber="115">TODO TODO TODO</taxonomicName>
+</keyLead>
+</paragraph>
+<paragraph id="5E2E361FFFDA512C5ED2AD1BF96DFD39" blockId="42.[293,1687,500,687]" pageId="42" pageNumber="115">
+<keyLead id="E560952AFFDA512C5ED2AD1BF96DFD39" pageId="42" pageNumber="115">
+Basal spine of the elytra situated at the base of the non setose second interval and so small as to be often almost concealed by the incrustation.................... TODO 
+<taxonomicName id="99914D9CFFDA512C5BBDADD7F96DFD39" box="[1254,1687,653,687]" pageId="42" pageNumber="115">TODO TODO TODO</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+</key>
+</subSubSection>
+</treatment>
+</document>

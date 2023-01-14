@@ -1,0 +1,169 @@
+<document id="FC770AFD4CE563C2263A0FF104D05E49" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E95AFFB0FE648068973C058F" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Susumia exigua" docType="treatment" docVersion="18" lastPageNumber="180" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="180" updateTime="1670258098573" updateUser="annettekang">
+<mods:mods id="2DC896AE82FEE039540EA9F2C9129B08" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="FC956498265E4E892A86FFCF0ADD67E1">
+<mods:title id="E1E3CAACB98FD609A3F90F5DBB89D96F">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="9A772120B21E7B0E180C5305E7D0597F" type="personal">
+<mods:role id="431B9A3E637B791B705A01BC896574F2">
+<mods:roleTerm id="931BB01DA91B99CA690A1F497F70386F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9A74C5DB5F9889FEE7DF0907B7C25D35">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="E561012132E7084B749EC6882CE5B474">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="AB3C6FF245C1889BA5D928C6FF75D4FA">text</mods:typeOfResource>
+<mods:relatedItem id="BADF4619BCEB9275E566ADCD9B5A0C1E" type="host">
+<mods:originInfo id="2B045CB946FEB07F482532068BC3F829">
+<mods:dateIssued id="713F25CE4FC1411254DFB3925B11FFBC">1946</mods:dateIssued>
+<mods:dateOther id="669EF4A6AC56D8F87E4ACF509E020EE6" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="ED15D39B33B532B9C4922A9113D19FE1">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="5D1B1E9EE540D6026AE7AF8A971B1AC2">
+<mods:placeTerm id="9F48C155F568BC0CEDF85E0275BB047A">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="D9CB46DD56B53712705974D5A7F14AFD">
+<mods:title id="E5F4E0711B994C42A22FE44B49833978">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="564B278C5BF080A9C1B34C55A9AD44D9">
+<mods:extent id="B1D4A74B1F11D30EB265452C410EEE17" unit="page">
+<mods:start id="AD8C280F29C83DC350EC53F6DEEB6D08">163</mods:start>
+<mods:end id="99304FB875B2A4D31A15B8576972B3A9">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E8E4680185B6861BF35D33209ED29F24">book chapter</mods:classification>
+<mods:identifier id="C14D03B7C1AD1A3263FF01815F5CD902" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="B023CAEE8173D639D5798B632B030047" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="4765ED6575DA67E482E8AEE4A6D92F75" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E95AFFB0FE648068973C058F" ID-DOI="http://doi.org/10.5281/zenodo.5224241" ID-GBIF-Taxon="183926912" ID-Zenodo-Dep="5224241" LSID="urn:lsid:plazi:treatment:03B387B8E95AFFB0FE648068973C058F" httpUri="http://treatment.plazi.org/id/03B387B8E95AFFB0FE648068973C058F" lastPageNumber="180" pageId="17" pageNumber="180">
+<subSubSection id="C3006525E95AFFB0FE64806891A00132" box="[427,982,597,637]" pageId="17" pageNumber="180" type="nomenclature">
+<paragraph id="8BA536AEE95AFFB0FE64806891A00132" blockId="17.[427,1830,597,1728]" box="[427,982,597,637]" pageId="17" pageNumber="180">
+<heading id="D0ED81C2E95AFFB0FE64806891A00132" box="[427,982,597,637]" fontSize="8" level="2" pageId="17" pageNumber="180" reason="4">
+<emphasis id="B96EEABCE95AFFB0FE64806893A80132" bold="true" box="[427,478,597,637]" pageId="17" pageNumber="180">24.</emphasis>
+<taxonomicName id="4C1A4D2DE95AFFB0FE30806891A60132" authority="(Butler)" baseAuthorityName="Butler" box="[511,976,597,637]" class="Insecta" family="Crambidae" genus="Susumia" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="17" pageNumber="180" phylum="Arthropoda" rank="species" species="exigua">
+<emphasis id="B96EEABCE95AFFB0FE30806891540132" bold="true" box="[511,802,597,637]" pageId="17" pageNumber="180">Susumia exigua</emphasis>
+(Butler)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95AFFB0FE2380BA97F10058" pageId="17" pageNumber="180" type="description">
+<paragraph id="8BA536AEE95AFFB0FE2380BA945101FD" blockId="17.[427,1830,597,1728]" box="[492,1575,647,690]" pageId="17" pageNumber="180">
+<treatmentCitationGroup id="AB0A1180E95AFFB0FE2380BA945101FD" box="[492,1575,647,690]" pageId="17" pageNumber="180">
+<bibCitation id="5E303EC2E95AFFB0FE2380BA945101FD" author="Butler" box="[492,1575,647,690]" journalOrPublisher="Ann. Mag. Nat. Hist." pageId="17" pageNumber="180" pagination="453" part="4" refId="ref9306" type="journal article" year="1879">
+<treatmentCitation id="0ABB10BFE95AFFB0FE2380BA945401FD" author="Butler" box="[492,1570,647,690]" page="453" pageId="17" pageNumber="180" year="1879">
+<emphasis id="B96EEABCE95AFFB0FE2380BA909501FD" box="[492,739,647,690]" italics="true" pageId="17" pageNumber="180">Samea exigua</emphasis>
+<author id="53A7DE4BE95AFFB0FD3D80BA911501FD" box="[754,867,647,690]" pageId="17" pageNumber="180">Butler</author>
+, 
+<journalOrPublisher id="51DB3C62E95AFFB0FCB580BA968C01FD" box="[890,1274,647,690]" pageId="17" pageNumber="180">Ann. Mag. Nat. Hist.</journalOrPublisher>
+V, 
+<emphasis id="B96EEABCE95AFFB0FA8D80BA971001FD" bold="true" box="[1346,1382,647,690]" pageId="17" pageNumber="180">
+<part id="FFBE9C33E95AFFB0FA8D80BA972901FD" box="[1346,1375,647,690]" pageId="17" pageNumber="180" type="volume">4</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE95AFFB0FABC80BA97C301FD" box="[1395,1461,647,690]" pageId="17" pageNumber="180" type="pageRange">453</pagination>
+, 
+<year id="FFB277FDE95AFFB0FA0180BA945401FD" box="[1486,1570,647,690]" pageId="17" pageNumber="180">1879</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE95AFFB0FE25808697F10058" blockId="17.[427,1830,597,1728]" pageId="17" pageNumber="180">
+<treatmentCitationGroup id="AB0A1180E95AFFB0FE25808697F10058" pageId="17" pageNumber="180">
+<bibCitation id="5E303EC2E95AFFB0FE25808697F10058" author="Marumo" pageId="17" pageNumber="180" pagination="41" part="2" refId="ref9326" title="Oyo-Dobuts. Zasshi" type="journal article" year="1930">
+<emphasis id="B96EEABCE95AFFB0FE258086916701AA" box="[490,785,699,741]" italics="true" pageId="17" pageNumber="180">
+<title id="F91EDD98E95AFFB0FE258086917D01AA" box="[490,779,699,741]" jopScore="0.25" pageId="17" pageNumber="180">Susumia exigua</title>
+,
+</emphasis>
+<treatmentCitation id="0ABB10BFE95AFFB0FCEA8086940301AA" author="Marumo" box="[805,1653,699,741]" pageId="17" pageNumber="180" year="1930">
+<author id="53A7DE4BE95AFFB0FCEA808691B601AA" box="[805,960,699,741]" pageId="17" pageNumber="180">Marumo</author>
+, 
+<title id="F91EDD98E95AFFB0FC158086974B01AA" box="[986,1341,699,741]" pageId="17" pageNumber="180">Oyo-Dobuts. Zasshi</title>
+<part id="FFBE9C33E95AFFB0FA9F8086972B01AA" box="[1360,1373,699,741]" pageId="17" pageNumber="180" type="volume">2</part>
+: 
+<pagination id="B2D3C85AE95AFFB0FA4E808697DA01AA" box="[1409,1452,699,741]" pageId="17" pageNumber="180" type="pageRange">41</pagination>
+, fig., 
+<year id="FFB277FDE95AFFB0F9D38086940301AA" box="[1564,1653,699,741]" pageId="17" pageNumber="180">1930</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE95AFFB0F95F808697F40058" author="Kawata" page="1391" pageId="17" pageNumber="180" year="1932">
+<author id="53A7DE4BE95AFFB0F95F8086956D01AA" box="[1680,1819,699,741]" pageId="17" pageNumber="180">Kawata</author>
+, 
+<title id="F91EDD98E95AFFB0FDE580D2962A0058" box="[554,1116,751,791]" pageId="17" pageNumber="180">Icon. Insectorum Japonicorum</title>
+, 
+<pagination id="B2D3C85AE95AFFB0FBBB80D296B30058" box="[1140,1221,751,791]" pageId="17" pageNumber="180">1391</pagination>
+, fig., 
+<year id="FFB277FDE95AFFB0FAE080D297F40058" box="[1327,1410,751,791]" pageId="17" pageNumber="180">1932</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95AFFB0FE21811694DD001A" box="[494,1707,811,853]" pageId="17" pageNumber="180" type="description">
+<paragraph id="8BA536AEE95AFFB0FE21811694DD001A" blockId="17.[427,1830,597,1728]" box="[494,1707,811,853]" pageId="17" pageNumber="180">
+<materialsCitation id="3B723CF3E95AFFB0FE2181169149001A" ID-GBIF-Occurrence="3332081334" box="[494,831,811,853]" collectingDate="1936-05-14" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="17" pageNumber="180">
+<location id="8EC56075E95AFFB0FE21811690FE001A" LSID="urn:lsid:plazi:treatment:03B387B8E95AFFB0FE648068973C058F:8EC56075E95AFFB0FE21811690FE001A" box="[494,648,811,853]" pageId="17" pageNumber="180">Inarajan</location>
+, 
+<date id="FFA4106EE95AFFB0FD6C81169158001A" box="[675,814,811,853]" pageId="17" pageNumber="180" value="2014-05">
+<collectingDate id="EFE0E986E95AFFB0FD6C81169158001A" box="[675,814,811,853]" pageId="17" pageNumber="180" value="2014-05">May 14</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95AFFB0FC9B81169637001A" ID-GBIF-Occurrence="3913652489" box="[852,1089,811,853]" collectingDate="1936-07-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="17" pageNumber="180">
+<location id="8EC56075E95AFFB0FC9B811691E1001A" LSID="urn:lsid:plazi:treatment:03B387B8E95AFFB0FE648068973C058F:8EC56075E95AFFB0FC9B811691E1001A" box="[852,919,811,853]" pageId="17" pageNumber="180">
+<collectingMunicipality id="6BC1ACD4E95AFFB0FC9B811691E1001A" box="[852,919,811,853]" pageId="17" pageNumber="180">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE95AFFB0FC7E8116964C001A" box="[945,1082,811,853]" pageId="17" pageNumber="180" value="2012-07">
+<collectingDate id="EFE0E986E95AFFB0FC7E8116964C001A" box="[945,1082,811,853]" pageId="17" pageNumber="180" value="2012-07">July 12</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E95AFFB0FB9781169693001A" ID-GBIF-Occurrence="3913652357" box="[1112,1253,811,853]" collectingDate="1936-09-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="17" pageNumber="180">
+<date id="FFA4106EE95AFFB0FB97811696A7001A" box="[1112,1233,811,853]" pageId="17" pageNumber="180">
+<collectingDate id="EFE0E986E95AFFB0FB97811696A7001A" box="[1112,1233,811,853]" pageId="17" pageNumber="180">Sept. 1</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95AFFB0FB35811694DD001A" ID-GBIF-Occurrence="3332081318" box="[1274,1707,811,853]" collectingDate="1936-09-20" collectorName="O. H. Swezey" country="Guam" location="Agat" pageId="17" pageNumber="180">
+<location id="8EC56075E95AFFB0FB3581169724001A" LSID="urn:lsid:plazi:treatment:03B387B8E95AFFB0FE648068973C058F:8EC56075E95AFFB0FB3581169724001A" box="[1274,1362,811,853]" pageId="17" pageNumber="180">Agat</location>
+, 
+<date id="FFA4106EE95AFFB0FAA181169472001A" box="[1390,1540,811,853]" pageId="17" pageNumber="180" value="2020-09">
+<collectingDate id="EFE0E986E95AFFB0FAA181169472001A" box="[1390,1540,811,853]" pageId="17" pageNumber="180" value="2020-09">Sept. 20</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E95AFFB0F9D0811694D0001A" box="[1567,1702,811,853]" pageId="17" pageNumber="180">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95AFFB0FE228159973C058F" pageId="17" pageNumber="180" type="description">
+<paragraph id="8BA536AEE95AFFB0FE2281599729056F" blockId="17.[427,1830,597,1728]" pageId="17" pageNumber="180">
+This rice leafroller was described from Japan, and I have not found it recorded elsewhere. No doubt it has been present in Guam for some time, as I find mention of a rice pest in the November 
+<year id="FFB277FDE95AFFB0FAF581F697FE00BA" box="[1338,1416,971,1013]" pageId="17" pageNumber="180">1933</year>
+number of The Guam Recorder which is apparently this insect: &quot;The yearly invasion of the rice leaf folder upon young rice in the seed beds has made its appearance. This pest is harmful only while in the larva stage, injuring the plant by folding the leaf edges and fastening them together with a mucilaginous secretion. With this protection it feeds, but the principal damage is done by preventing the leaves from performing their proper· functions, thus retarding growth. This year the invasion of the folder is in much greater proportions than in previous. years.&quot; I saw similar work in rice seed beds, and also on maturing rice, but without serious results. I reared moths from the larvae found and presume it is the same pest as described in the quotation. 
+<journalOrPublisher id="51DB3C62E95AFFB0FA1A87F9972C056F" jopScore="0.04859122" pageId="17" pageNumber="180">
+Some of the larvae were parasitized by 
+<emphasis id="B96EEABCE95AFFB0FCE987CB96E9056F" box="[806,1183,1526,1568]" italics="true" pageId="17" pageNumber="180">Apanteles guamensis</emphasis>
+Fullaway
+</journalOrPublisher>
+.
+</paragraph>
+<paragraph id="8BA536AEE95AFFB0FE3F840D973C058F" blockId="17.[427,1830,597,1728]" pageId="17" pageNumber="180">
+This moth is very similar to the preceding species which is a leafroller on grasses. Another similar species recorded on rice in the 
+<collectingCountry id="F30D763EE95AFFB0FA688459941D05C1" box="[1447,1643,1636,1678]" name="Philippines" pageId="17" pageNumber="180">Philippines</collectingCountry>
+and 
+<collectingCountry id="F30D763EE95AFFB0F9058459955005C1" box="[1738,1830,1636,1678]" name="India" pageId="17" pageNumber="180">India</collectingCountry>
+has the name 
+<taxonomicName id="4C1A4D2DE95AFFB0FD7684AA9732058F" authority="(Guenee)" baseAuthorityName="Guenee" box="[697,1348,1687,1728]" class="Insecta" family="Crambidae" genus="Cnaphalocrocis" kingdom="Animalia" order="Lepidoptera" pageId="17" pageNumber="180" phylum="Arthropoda" rank="species" species="medinalis">
+<emphasis id="B96EEABCE95AFFB0FD7684AA960D058F" box="[697,1147,1687,1728]" italics="true" pageId="17" pageNumber="180">Cnaphalocrocis medinalis</emphasis>
+(Guenee)
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,129 @@
+<document id="904FD3F4A8E59EAAEBD4C725F35B85F8" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E944FFAEFE708145966907EC" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Piletocera signiferalis" docType="treatment" docVersion="21" lastPageNumber="178" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="178" updateTime="1670257311710" updateUser="annettekang">
+<mods:mods id="69BFDC958C6F8C3C2108DFE4AE4C50D1" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="0A0106F144F6DAD06CA37071E3C8136A">
+<mods:title id="87DC7707830A2AD21DCD3BB216E91125">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="32122AA7467BC5BB8C160BC42C48DF20" type="personal">
+<mods:role id="34C912A3D09E6DF26CEF35B6D2DCA9FD">
+<mods:roleTerm id="83B32620B83CB4D78CE697B3767BFCE2">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="8711176CD5B15845DBF2A381189B068C">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="DE1430D84BEA3A32946C9A849E413ED1">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A53D675C09647E46E480DBAC5C2E9BEA">text</mods:typeOfResource>
+<mods:relatedItem id="13C2E01BBA4B3A74EA2306FCECBE3C5E" type="host">
+<mods:originInfo id="EF12FD024B54F10901F1C588A5088772">
+<mods:dateIssued id="48068418CB0DBBB0616F3829513A4B5C">1946</mods:dateIssued>
+<mods:dateOther id="31529C47AD9DA857B5966A393A354DC0" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="A34829A035414A0B06ACA917D8E8181D">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="8D028A6F0802E91D72C64C4B05F78738">
+<mods:placeTerm id="277AD5A1C96B0F36687F4D80E695C9AC">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="FB35824AE539652CEBB40AB951C00729">
+<mods:title id="AD7DCF54964BF9B61667B06BEB2FDF13">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="9655599D9B5C11537801146ABB994A7E">
+<mods:extent id="54980E1AF93791082D9B3DC7A04132BE" unit="page">
+<mods:start id="11FC0CB8A07BEEC68E18711E85DF3B09">163</mods:start>
+<mods:end id="ECE62014CB2453960D205BEA0545D0E6">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="0A4225486C5844E38850E4D2A272945B">book chapter</mods:classification>
+<mods:identifier id="25D01E661B50BB808A313A1AA0E08E1E" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="139BB157783F083E2ECAF29A1A417739" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="89888439289347353DDB78F5C7018AE7" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E944FFAEFE708145966907EC" ID-DOI="http://doi.org/10.5281/zenodo.5158599" ID-GBIF-Taxon="183926933" ID-Zenodo-Dep="5158599" LSID="urn:lsid:plazi:treatment:03B387B8E944FFAEFE708145966907EC" httpUri="http://treatment.plazi.org/id/03B387B8E944FFAEFE708145966907EC" lastPageNumber="178" pageId="15" pageNumber="178">
+<subSubSection id="C3006525E944FFAEFE70814596C100EC" box="[447,1207,888,931]" pageId="15" pageNumber="178" type="nomenclature">
+<paragraph id="8BA536AEE944FFAEFE70814596C100EC" blockId="15.[444,1844,412,1187]" box="[447,1207,888,931]" pageId="15" pageNumber="178">
+<emphasis id="B96EEABCE944FFAEFE708145939800EC" bold="true" box="[447,494,888,931]" pageId="15" pageNumber="178">17.</emphasis>
+<taxonomicName id="4C1A4D2DE944FFAEFDC0814596C400EC" authority="(Wallengren)" baseAuthorityName="Wallengren" baseAuthorityYear="1860" box="[527,1202,888,931]" class="Insecta" family="Crambidae" genus="Piletocera" kingdom="Animalia" order="Lepidoptera" pageId="15" pageNumber="178" phylum="Arthropoda" rank="species" species="signiferalis">
+<emphasis id="B96EEABCE944FFAEFDC0814591D600EC" bold="true" box="[527,928,888,931]" pageId="15" pageNumber="178">Piletocera signiferalis</emphasis>
+(Wallengren)
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E944FFAEFE34819094790745" pageId="15" pageNumber="178" type="reference_group">
+<paragraph id="8BA536AEE944FFAEFE34819094840098" blockId="15.[444,1844,412,1187]" box="[507,1778,941,983]" pageId="15" pageNumber="178">
+<treatmentCitationGroup id="AB0A1180E944FFAEFE34819094840098" box="[507,1778,941,983]" pageId="15" pageNumber="178">
+<bibCitation id="5E303EC2E944FFAEFE34819094840098" author="Wallengren" box="[507,1778,941,983]" journalOrPublisher="Wien Ent. Monatschr." pageId="15" pageNumber="178" pagination="175" part="4" refId="ref8225" type="journal article" year="1860">
+<treatmentCitation id="0ABB10BFE944FFAEFE348190949B0098" author="wallengren" box="[507,1773,941,983]" page="175" pageId="15" pageNumber="178" year="1860">
+<emphasis id="B96EEABCE944FFAEFE348190910E0098" box="[507,888,941,983]" italics="true" pageId="15" pageNumber="178">Isopteryx signiferalis</emphasis>
+<author id="53A7DE4BE944FFAEFC498190962E0098" box="[902,1112,941,983]" pageId="15" pageNumber="178">Wallengren</author>
+, 
+<journalOrPublisher id="51DB3C62E944FFAEFBA2819097880098" box="[1133,1534,941,983]" pageId="15" pageNumber="178">Wien Ent. Monatschr.</journalOrPublisher>
+<part id="FFBE9C33E944FFAEF9C28190945D0098" box="[1549,1579,941,983]" pageId="15" pageNumber="178" type="volume">4</part>
+: 
+<pagination id="B2D3C85AE944FFAEF98D819094F60098" box="[1602,1664,941,983]" pageId="15" pageNumber="178" type="pagination">175</pagination>
+, 
+<year id="FFB277FDE944FFAEF9558190949B0098" box="[1690,1773,941,983]" pageId="15" pageNumber="178">1860</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE944FFAEFE3581E294790745" blockId="15.[444,1844,412,1187]" box="[506,1551,991,1034]" pageId="15" pageNumber="178">
+<treatmentCitationGroup id="AB0A1180E944FFAEFE3581E294790745" box="[506,1551,991,1034]" pageId="15" pageNumber="178">
+<bibCitation id="5E303EC2E944FFAEFE3581E294790745" author="Tams" box="[506,1551,991,1034]" pageId="15" pageNumber="178" pagination="269" part="3" refId="ref8240" title="Ins. Samoa" type="journal article" year="1935">
+<emphasis id="B96EEABCE944FFAEFE3581E291FE0745" box="[506,904,991,1034]" italics="true" pageId="15" pageNumber="178">Piletocera signiferalis,</emphasis>
+<treatmentCitation id="0ABB10BFE944FFAEFC5781E2947C0745" author="Tams" box="[920,1546,991,1034]" page="269" pageId="15" pageNumber="178" year="1935">
+<author id="53A7DE4BE944FFAEFC5781E291880745" box="[920,1022,991,1034]" pageId="15" pageNumber="178">Tams</author>
+, 
+<title id="F91EDD98E944FFAEFBD881E296A90745" box="[1047,1247,991,1034]" pageId="15" pageNumber="178">
+Ins. 
+<collectingCountry id="F30D763EE944FFAEFBA581E296A90745" box="[1130,1247,991,1034]" name="Samoa" pageId="15" pageNumber="178">Samoa</collectingCountry>
+</title>
+<part id="FFBE9C33E944FFAEFB2081E297750745" box="[1263,1283,991,1034]" pageId="15" pageNumber="178" type="volume">3</part>
+(
+<part id="FFBE9C33E944FFAEFADF81E2975E0745" box="[1296,1320,991,1034]" pageId="15" pageNumber="178" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE944FFAEFA9281E297E80745" box="[1373,1438,991,1034]" pageId="15" pageNumber="178" type="pagination">269</pagination>
+, 
+<year id="FFB277FDE944FFAEFA7881E2947C0745" box="[1463,1546,991,1034]" pageId="15" pageNumber="178">1935</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E944FFAEFE33862E966907EC" pageId="15" pageNumber="178" type="description">
+<paragraph id="8BA536AEE944FFAEFE33862E966907EC" blockId="15.[444,1844,412,1187]" pageId="15" pageNumber="178">
+Occurs in 
+<collectingCountry id="F30D763EE944FFAEFD78862E915B0772" box="[695,813,1043,1085]" name="Samoa" pageId="15" pageNumber="178">Samoa</collectingCountry>
+, Marquesas, Society Islands, Austral Islands, 
+<collectingCountry id="F30D763EE944FFAEF9A5862E94D80772" box="[1642,1710,1043,1085]" name="Fiji" pageId="15" pageNumber="178">Fiji</collectingCountry>
+, Ellice, and 
+<collectingCountry id="F30D763EE944FFAEFDDD867891350720" box="[530,835,1093,1135]" name="Micronesia" pageId="15" pageNumber="178">Caroline Islands</collectingCountry>
+. 
+<materialsCitation id="3B723CF3E944FFAEFCA68678963E0720" ID-GBIF-Occurrence="3913652448" box="[873,1096,1093,1135]" collectedFrom="at light" collectingDate="1936-09-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="178">
+<location id="8EC56075E944FFAEFCA6867891DA0720" LSID="urn:lsid:plazi:treatment:03B387B8E944FFAEFE708145966907EC:8EC56075E944FFAEFCA6867891DA0720" box="[873,940,1093,1135]" pageId="15" pageNumber="178">
+<collectingMunicipality id="6BC1ACD4E944FFAEFCA6867891DA0720" box="[873,940,1093,1135]" pageId="15" pageNumber="178">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE944FFAEFC068678963E0720" box="[969,1096,1093,1135]" pageId="15" pageNumber="178">
+<collectingDate id="EFE0E986E944FFAEFC068678963E0720" box="[969,1096,1093,1135]" pageId="15" pageNumber="178">
+Sept. 
+<emphasis id="B96EEABCE944FFAEFBF8867896270720" bold="true" box="[1079,1105,1093,1135]" pageId="15" pageNumber="178">1,</emphasis>
+</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="3B723CF3E944FFAEFBA7867897AD0720" ID-GBIF-Occurrence="3913652356" box="[1128,1499,1093,1135]" collectedFrom="at light" collectingDate="1936-09-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="178">12, at light, $wezey</materialsCitation>
+. 
+<materialsCitation id="3B723CF3E944FFAEFA318678966C07EC" ID-GBIF-Occurrence="3913652352" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Bishop Museum" pageId="15" pageNumber="178" specimenCount="1">
+<collectingMunicipality id="6BC1ACD4E944FFAEFA318678909307EC" pageId="15" pageNumber="178">
+One 
+<specimenCount id="9D1CFD27E944FFAEF994867894880720" box="[1627,1790,1093,1135]" pageId="15" pageNumber="178" type="generic">specimen</specimenCount>
+in Bjshop Museum
+</collectingMunicipality>
+, 
+<location id="8EC56075E944FFAEFCCC864491DE07EC" LSID="urn:lsid:plazi:treatment:03B387B8E944FFAEFE708145966907EC:8EC56075E944FFAEFCCC864491DE07EC" box="[771,936,1145,1187]" pageId="15" pageNumber="178">Fullaway</location>
+, 1911
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

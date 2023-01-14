@@ -1,0 +1,97 @@
+<document id="60F62FB442740759791A98ECAA86653C" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91BFFFAFE3FF6A5FA4017F2" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Planchonia miliaris longum (Green" docType="treatment" docVersion="12" lastPageNumber="158" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="158" updateTime="1661283434230" updateUser="ExternalLinkService">
+<mods:mods id="23060EF64CA98909363C90AAC62B640A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="A110BFC073FEC5F3974D2E9E66CD6DFA">
+<mods:title id="66F7D5F2B04423B90A4EF00F934DF382">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="94B8298EED4041B0BBC253C3628948C0" type="personal">
+<mods:role id="58F0E93062EB431EA45F7BD679E7839D">
+<mods:roleTerm id="95E9F3BCEBF7E2FDCA579F57C2757DAE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2727E9FFDBA0D7B960CDE475AB533553">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="50931B0738F3A98A7734D239C91FE9F6">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="1BB328701314027A99A6A710039C3775">text</mods:typeOfResource>
+<mods:relatedItem id="CA9401EED732AB241A8287A9CBD52503" type="host">
+<mods:originInfo id="1359A1CC2E2BDBC0BCD6A7E8066D941D">
+<mods:dateIssued id="8A95C633ED1145171E5A45EE6EDFBC60">1946</mods:dateIssued>
+<mods:dateOther id="7DCDBD641115395C8F138D7739D86953" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="82EA3D429488A916FBDD401AA6087F6E">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="2C6128CD27F43C98306B4D22FBECE604">
+<mods:placeTerm id="A55C187B7F83AEA3FC8959FD368B53CE">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="7430747DF226B144B79B9A9E3024A433">
+<mods:title id="44EAF2659D4C11FC34C03F2DB73F4B9E">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="68B951CA1D0E86C579062AEE61A63973">
+<mods:extent id="AA8145BE2E0A898E6C849E404C2BF671" unit="page">
+<mods:start id="33EB93523B82EC294E6FFC0C375A16A1">157</mods:start>
+<mods:end id="81A38F71F14F5AE8EB5FD9209A5F260D">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="D0AE50C366C9D83D7460123156D10FE9">book chapter</mods:classification>
+<mods:identifier id="02041C745CC158385C8DBB8DB1279FEF" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="ACD4CF06562206AAD2475BC213032607" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="FB1D448507D26F47404D08B4E5977490" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91BFFFAFE3FF6A5FA4017F2" ID-DOI="http://doi.org/10.5281/zenodo.5158003" ID-GBIF-Taxon="183925150" ID-Zenodo-Dep="5158003" LSID="urn:lsid:plazi:treatment:F03E87AAF91BFFFAFE3FF6A5FA4017F2" httpUri="http://treatment.plazi.org/id/F03E87AAF91BFFFAFE3FF6A5FA4017F2" lastPageNumber="158" pageId="1" pageNumber="158">
+<subSubSection id="308D6537F91BFFFAFE3FF6A5FAC9175B" box="[445,1293,2363,2405]" pageId="1" pageNumber="158" type="nomenclature">
+<paragraph id="782836BCF91BFFFAFE3FF6A5FAC9175B" blockId="1.[445,1717,2363,2508]" box="[445,1293,2363,2405]" pageId="1" pageNumber="158">
+<heading id="236081D0F91BFFFAFE3FF6A5FAC9175B" box="[445,1293,2363,2405]" fontSize="8" level="2" pageId="1" pageNumber="158" reason="4">
+<emphasis id="4AE3EAAEF91BFFFAFE3FF6A5FB9A175B" bold="true" box="[445,1118,2363,2405]" pageId="1" pageNumber="158">
+20. 
+<taxonomicName id="BF974D3FF91BFFFAFD92F6A5FAC3175B" authority="(Green)" box="[528,1287,2363,2405]" class="Magnoliopsida" family="Lecythidaceae" genus="Planchonia" kingdom="Animalia" order="Ericales" pageId="1" pageNumber="158" phylum="Tracheophyta" rank="species" species="miliaris">Asterolecanium miliaris longum (Green)</taxonomicName>
+</emphasis>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91BFFFAFE7EF6F0F97117A6" box="[508,1717,2414,2456]" pageId="1" pageNumber="158" type="reference_group">
+<paragraph id="782836BCF91BFFFAFE7EF6F0F97117A6" blockId="1.[445,1717,2363,2508]" box="[508,1717,2414,2456]" pageId="1" pageNumber="158">
+<treatmentCitation id="F93610ADF91BFFFAFE7EF6F0F97117A6" author="Green" box="[508,1717,2414,2456]" page="5" pageId="1" pageNumber="158" year="1896">
+<treatmentCitationGroup id="58871192F91BFFFAFE7EF6F0F97417A6" box="[508,1712,2414,2456]" pageId="1" pageNumber="158">
+<taxonomicName id="BF974D3FF91BFFFAFE7EF6F0FB4F17A6" authority="Green, Indian Mus." authorityName="Green, Indian Mus." box="[508,1163,2414,2456]" class="Magnoliopsida" family="Lecythidaceae" genus="Planchonia" kingdom="Animalia" order="Ericales" pageId="1" pageNumber="158" phylum="Tracheophyta" rank="variety" species="miliaris" variety="longa">
+<emphasis id="4AE3EAAEF91BFFFAFE7EF6F0FC9617A6" box="[508,850,2414,2456]" italics="true" pageId="1" pageNumber="158">Planchonia miliaris</emphasis>
+var. 
+<emphasis id="4AE3EAAEF91BFFFAFC30F6F0FBD517A6" box="[946,1041,2414,2456]" italics="true" pageId="1" pageNumber="158">longa</emphasis>
+<bibCitation id="ADBD3ED0F91BFFFAFB9DF6F0F97417A6" author="Green" box="[1055,1712,2414,2456]" journalOrPublisher="Indian Mus. Notes" pageId="1" pageNumber="158" pagination="5" part="4" type="journal article" year="1896">
+<author id="A02ADE59F91BFFFAFB9DF6F0FB4F17A6" box="[1055,1163,2414,2456]" pageId="1" pageNumber="158">Green</author>
+, 
+<journalOrPublisher id="A2563C70F91BFFFAFB20F6F0FA2B17A6" box="[1186,1519,2414,2456]" pageId="1" pageNumber="158">Indian Mus. Notes</journalOrPublisher>
+<emphasis id="4AE3EAAEF91BFFFAFA7CF6F0F9E617A6" bold="true" box="[1534,1570,2414,2456]" pageId="1" pageNumber="158">
+<part id="0C339C21F91BFFFAFA7CF6F0F9DF17A6" box="[1534,1563,2414,2456]" pageId="1" pageNumber="158" type="volume">4</part>
+:
+</emphasis>
+<pagination id="415EC848F91BFFFAF9B3F6F0F98117A6" box="[1585,1605,2414,2456]" pageId="1" pageNumber="158" type="pagination">5</pagination>
+, 
+<year id="0C3F77EFF91BFFFAF9DCF6F0F97417A6" box="[1630,1712,2414,2456]" pageId="1" pageNumber="158">1896</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitationGroup>
+.
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91BFFFAFE7FF63EFA4017F2" box="[509,1412,2464,2508]" pageId="1" pageNumber="158" type="materials_examined">
+<paragraph id="782836BCF91BFFFAFE7FF63EFA4017F2" blockId="1.[445,1717,2363,2508]" box="[509,1412,2464,2508]" pageId="1" pageNumber="158">
+<materialsCitation id="C8FF3CE1F91BFFFAFE7FF63EFD3717F2" ID-GBIF-Occurrence="3891552318" box="[509,755,2464,2508]" collectingDate="1936-09-26" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="158">
+<location id="7D486067F91BFFFAFE7FF63EFD8617F2" LSID="urn:lsid:plazi:treatment:F03E87AAF91BFFFAFE3FF6A5FA4017F2:7D486067F91BFFFAFE7FF63EFD8617F2" box="[509,578,2464,2508]" name="Piti" pageId="1" pageNumber="158">Piti</location>
+, 
+<date id="0C29107CF91BFFFAFDDAF63EFD2817F2" box="[600,748,2464,2508]" pageId="1" pageNumber="158" value="1926-09">
+<collectingDate id="1C6DE994F91BFFFAFDDAF63EFD2817F2" box="[600,748,2464,2508]" pageId="1" pageNumber="158" value="1926-09">Sept. 26</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F91BFFFAFC83F63EFABB17F2" ID-GBIF-Occurrence="3891552311" box="[769,1407,2464,2508]" collectedFrom="on bamboo leaves" collectingDate="1936-10-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="158">
+<date id="0C29107CF91BFFFAFC83F63EFC4117F2" box="[769,901,2464,2508]" pageId="1" pageNumber="158" value="1927-10">
+<collectingDate id="1C6DE994F91BFFFAFC83F63EFC4117F2" box="[769,901,2464,2508]" pageId="1" pageNumber="158" value="1927-10">Oct. 27</collectingDate>
+</date>
+, on bamboo leaves, 
+<collectorName id="D562536AF91BFFFAFB74F63EFABB17F2" box="[1270,1407,2464,2508]" pageId="1" pageNumber="158">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

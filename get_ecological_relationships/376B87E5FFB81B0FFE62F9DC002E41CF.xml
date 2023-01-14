@@ -1,0 +1,169 @@
+<document id="A592E91A62E07501060C86197A1075A5" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB81B0FFE62F9DC002E41CF" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Silvanus surinamensis" docType="treatment" docVersion="19" lastPageNumber="156" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="156" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="7C5BDB1CDB6511A1DCAE16F16F748404" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="44A4810F1DDB46493E6306CD098B3A7B">
+<mods:title id="593C7DE118B866B4F0CEC3B268A6D712">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="995C3333592D5AC8325B1BD5A44F0361" type="personal">
+<mods:role id="D94BC8C2C8208977A49E293EB4B12BB8">
+<mods:roleTerm id="1B878742C8B5E2DE19DEC0C046DB330D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="294AD0D06F2DBF7728C6D826ABC88C14">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="5BA34E7EEAEE7965079538AE7A24A330">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A8719FB4EB0A7C1E56329C28AB3D901B">text</mods:typeOfResource>
+<mods:relatedItem id="50EDF556B89206072CFD045EF3973981" type="host">
+<mods:originInfo id="E19C87FAFE84FEC1FC56B58BD80B6FEF">
+<mods:dateIssued id="8DD8C599BB3A143F871ABE16886E08B4">1942</mods:dateIssued>
+<mods:dateOther id="53466878A388C7DC88995ECFD927ACBA" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="BBE266495408341264D1F85ECD37E264">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="877ECBBC09331A8497DB5BAF028DD4F1">
+<mods:placeTerm id="FFD825F23B52397B77E67C84FAB07EFB">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="3CB0109B675DFF0E432A8E76AA1D2911">
+<mods:title id="2770DCA782526F8B61A38608F0DEA082">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="A05B08D110A87BE93894D0AD9F3325CF">
+<mods:extent id="C15272809FD71440EC14D7C87164D56D" unit="page">
+<mods:start id="DCA5BAAB6C1DF9ADF1208C17FE0238B9">150</mods:start>
+<mods:end id="808057C15101B20960FCC80DEA2EC056">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="79DC32D5BF3C075D94E8D107D7BE244E">book chapter</mods:classification>
+<mods:identifier id="8C237B7F56F92C06AF5CA068694B09B1" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="54CE932FF1A2F3DE5E5EE703687BD88C" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="9CBD8DEC5AB191F550A7EE60931C6070" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<subSection id="D64D2F18FFB81B0FFE62F9DC002E41CF" pageId="6" pageNumber="156" type="multiple">
+<treatment id="376B87E5FFB81B0FFE62F9DC002E41CF" ID-DOI="http://doi.org/10.5281/zenodo.5180792" ID-GBIF-Taxon="184415272" ID-Zenodo-Dep="5180792" LSID="urn:lsid:plazi:treatment:376B87E5FFB81B0FFE62F9DC002E41CF" httpUri="http://treatment.plazi.org/id/376B87E5FFB81B0FFE62F9DC002E41CF" lastPageNumber="156" pageId="6" pageNumber="156">
+<subSubSection id="F7D86578FFB81B0FFE62F9DC03CB40A5" box="[440,1229,1641,1683]" pageId="6" pageNumber="156" type="nomenclature">
+<paragraph id="BF7D36F3FFB81B0FFE62F9DC03CB40A5" blockId="6.[440,1834,1641,2041]" box="[440,1229,1641,1683]" pageId="6" pageNumber="156">
+<heading id="E435819FFFB81B0FFE62F9DC03CB40A5" box="[440,1229,1641,1683]" fontSize="8" level="2" pageId="6" pageNumber="156" reason="4">
+3. 
+<taxonomicName id="78C24D70FFB81B0FFE22F9DC03C140A5" authority="(Linnaeus)" baseAuthorityName="Linnaeus" box="[504,1223,1641,1683]" class="Insecta" family="Silvanidae" genus="Silvanus" kingdom="Animalia" order="Coleoptera" pageId="6" pageNumber="156" phylum="Arthropoda" rank="species" species="surinamensis">Oryzaephilus surinamensis (Linnaeus)</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB81B0FFE2DF92F05C94156" pageId="6" pageNumber="156" type="reference_group">
+<paragraph id="BF7D36F3FFB81B0FFE2DF92F017C40F0" blockId="6.[440,1834,1641,2041]" box="[503,1658,1690,1734]" pageId="6" pageNumber="156">
+<treatmentCitationGroup id="9FD211DDFFB81B0FFE2DF92F017C40F0" box="[503,1658,1690,1734]" pageId="6" pageNumber="156">
+<bibCitation id="6AE83E9FFFB81B0FFE2DF92F017C40F0" author="Linnaeus" box="[503,1658,1690,1734]" pageId="6" pageNumber="156" refId="ref3227" title="Syst. Nat" type="journal volume" year="1758">
+<treatmentCitation id="3E6310E2FFB81B0FFE2DF92F017340F0" ID-DOI="http://doi.org/10.5281/zenodo.3915548" ID-Zenodo-Dep="3915548" LSID="urn:lsid:zoobank.org:act:F70E423C-506D-452F-A913-21327B08C13B" author="Linnaeus" box="[503,1653,1690,1734]" httpUri="http://treatment.plazi.org/id/6B9F7D264E823E54B52562C502DC283D" page="357" pageId="6" pageNumber="156" year="1758">
+<emphasis id="8DB6EAE1FFB81B0FFE2DF92F04A340F0" box="[503,933,1690,1734]" italics="true" pageId="6" pageNumber="156">Dermestes surinamensis</emphasis>
+<author id="677FDE16FFB81B0FFC6FF92F035F40F0" box="[949,1113,1690,1734]" pageId="6" pageNumber="156">Linnaeus</author>
+, 
+<title id="CDC6DDC5FFB81B0FFBA9F92F022540F0" box="[1139,1315,1690,1734]" pageId="6" pageNumber="156">Syst. Nat</title>
+., ed. 10, 357, 
+<year id="CB6A77A0FFB81B0FF9F9F92F017340F0" box="[1571,1653,1690,1734]" pageId="6" pageNumber="156">1758</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFB81B0FFE2DF97B002C40CF" blockId="6.[440,1834,1641,2041]" box="[503,1834,1742,1785]" pageId="6" pageNumber="156">
+<treatmentCitationGroup id="9FD211DDFFB81B0FFE2DF97B002C40CF" box="[503,1834,1742,1785]" pageId="6" pageNumber="156">
+<bibCitation id="6AE83E9FFFB81B0FFE2DF97B002C40CF" author="Sharp" box="[503,1834,1742,1785]" journalOrPublisher="Fauna Hawaii" pageId="6" pageNumber="156" pagination="428" part="3" refId="ref3244" type="journal article" year="1908">
+<treatmentCitation id="3E6310E2FFB81B0FFE2DF97B002340CF" author="Sharp" box="[503,1829,1742,1785]" page="428" pageId="6" pageNumber="156" year="1908">
+<emphasis id="8DB6EAE1FFB81B0FFE2DF97B048640CF" box="[503,896,1742,1785]" italics="true" pageId="6" pageNumber="156">Silvanus surinamensis</emphasis>
+(Linnaeus) 
+<author id="677FDE16FFB81B0FFBB4F97B03DE40CF" box="[1134,1240,1742,1785]" pageId="6" pageNumber="156">Sharp</author>
+, 
+<journalOrPublisher id="65033C3FFFB81B0FFB2AF97B02F640CF" box="[1264,1520,1742,1785]" pageId="6" pageNumber="156">
+Fauna 
+<collectingRegion id="7D06F811FFB81B0FFAB6F97B02F640CF" box="[1388,1520,1742,1785]" country="United States of America" name="Hawaii" pageId="6" pageNumber="156">Hawaii</collectingRegion>
+</journalOrPublisher>
+. 
+<part id="CB669C6EFFB81B0FF9DFF97B011C40CF" box="[1541,1562,1742,1785]" pageId="6" pageNumber="156" type="volume">3</part>
+(
+<part id="CB669C6EFFB81B0FF9F3F97B014440CF" box="[1577,1602,1742,1785]" pageId="6" pageNumber="156" type="issue">4</part>
+): 
+<pagination id="860BC807FFB81B0FF9A3F97B01BC40CF" box="[1657,1722,1742,1785]" pageId="6" pageNumber="156" type="pageRange">428</pagination>
+, 
+<year id="CB6A77A0FFB81B0FF908F97B002340CF" box="[1746,1829,1742,1785]" pageId="6" pageNumber="156">1908</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFB81B0FFE23F8B405C94156" blockId="6.[440,1834,1641,2041]" pageId="6" pageNumber="156">
+<treatmentCitationGroup id="9FD211DDFFB81B0FFE23F8B405C94156" pageId="6" pageNumber="156">
+<bibCitation id="6AE83E9FFFB81B0FFE23F8B405C94156" author="Hetschko" pageId="6" pageNumber="156" pagination="68" part="109" refId="ref3263" title="Coleopt. Catalog." type="book" year="1930">
+<treatmentCitation id="3E6310E2FFB81B0FFE23F8B405CC4156" author="Hetschko" page="68" pageId="6" pageNumber="156" year="1930">
+<emphasis id="8DB6EAE1FFB81B0FFE23F8B404D7411A" box="[505,977,1793,1836]" italics="true" pageId="6" pageNumber="156">Oryzaephilits sitrinamensis</emphasis>
+(Linnaeus) 
+<author id="677FDE16FFB81B0FFB63F8B40264411A" box="[1209,1378,1793,1836]" pageId="6" pageNumber="156">Hetschko</author>
+, 
+<title id="CDC6DDC5FFB81B0FFAADF8B401A6411A" box="[1399,1696,1793,1836]" pageId="6" pageNumber="156">Coleopt. Catalog.</title>
+(
+<part id="CB669C6EFFB81B0FF91AF8B40004411A" box="[1728,1794,1793,1836]" pageId="6" pageNumber="156" type="volume">109</part>
+): 
+<pagination id="860BC807FFB81B0FFDE9F88D05594156" box="[563,607,1848,1888]" pageId="6" pageNumber="156" type="pageRange">68</pagination>
+, 
+<year id="CB6A77A0FFB81B0FFDACF88D05CC4156" box="[630,714,1848,1888]" pageId="6" pageNumber="156">1930</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB81B0FFE2DF8DD02DA41FE" pageId="6" pageNumber="156" type="materials_examined">
+<paragraph id="BF7D36F3FFB81B0FFE2DF8DD02DA41FE" blockId="6.[440,1834,1641,2041]" pageId="6" pageNumber="156">
+<materialsCitation id="0FAA3CAEFFB81B0FFE2DF8DD05F641A2" ID-GBIF-Occurrence="3994027352" box="[503,752,1896,1940]" collectingDate="1936-04-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="156">
+<location id="BA1D6028FFB81B0FFE2DF8DD053F41A2" LSID="urn:lsid:plazi:treatment:376B87E5FFB81B0FFE62F9DC002E41CF:BA1D6028FFB81B0FFE2DF8DD053F41A2" box="[503,569,1896,1940]" name="Piti" pageId="6" pageNumber="156">Piti</location>
+, 
+<date id="CB7C1033FFB81B0FFD89F8DD05F641A2" box="[595,752,1896,1940]" pageId="6" pageNumber="156" value="1930-04">
+<collectingDate id="DB38E9DBFFB81B0FFD89F8DD05F641A2" box="[595,752,1896,1940]" pageId="6" pageNumber="156" value="1930-04">April 30</collectingDate>
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="0FAA3CAEFFB81B0FFCD0F8DD039941A2" ID-GBIF-Occurrence="3994027516" box="[778,1183,1896,1940]" collectedFrom="in Grapenuts" collectingDate="1936-05-26" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="156">
+<date id="CB7C1033FFB81B0FFCD0F8DD049E41A2" box="[778,920,1896,1940]" pageId="6" pageNumber="156" value="1926-05">
+<collectingDate id="DB38E9DBFFB81B0FFCD0F8DD049E41A2" box="[778,920,1896,1940]" pageId="6" pageNumber="156" value="1926-05">May 26</collectingDate>
+</date>
+, in 
+<location id="BA1D6028FFB81B0FFC3CF8DD039941A2" LSID="urn:lsid:plazi:treatment:376B87E5FFB81B0FFE62F9DC002E41CF:BA1D6028FFB81B0FFC3CF8DD039941A2" box="[998,1183,1896,1940]" name="Grapenuts" pageId="6" pageNumber="156">Grapenuts</location>
+</materialsCitation>
+, 
+<materialsCitation id="0FAA3CAEFFB81B0FFB6DF8DD022D41A2" ID-GBIF-Occurrence="3994027500" box="[1207,1323,1896,1940]" collectingDate="1936-07-05" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="156">
+<location id="BA1D6028FFB81B0FFB6DF8DD020441A2" LSID="urn:lsid:plazi:treatment:376B87E5FFB81B0FFE62F9DC002E41CF:BA1D6028FFB81B0FFB6DF8DD020441A2" box="[1207,1282,1896,1940]" name="July" pageId="6" pageNumber="156">July</location>
+<collectionCode id="D9D3AE36FFB81B0FFACCF8DD022D41A2" box="[1302,1323,1896,1940]" country="Sweden" lsid="urn:lsid:biocol.org:col:15668" name="Department of Botany, Swedish Museum of Natural History" pageId="6" pageNumber="156" type="Herbarium">S</collectionCode>
+</materialsCitation>
+, 
+<materialsCitation id="0FAA3CAEFFB81B0FFA9DF8DD002741A2" ID-GBIF-Occurrence="3994027335" box="[1351,1825,1896,1940]" collectedFrom="in house" collectingDate="1936-11-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="156">
+<date id="CB7C1033FFB81B0FFA9DF8DD02C341A2" box="[1351,1477,1896,1940]" pageId="6" pageNumber="156">
+<collectingDate id="DB38E9DBFFB81B0FFA9DF8DD02C341A2" box="[1351,1477,1896,1940]" pageId="6" pageNumber="156">Nov. 9</collectingDate>
+</date>
+, in house, 
+<collectorName id="12375325FFB81B0FF94FF8DD002741A2" box="[1685,1825,1896,1940]" pageId="6" pageNumber="156">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="0FAA3CAEFFB81B0FFE62F828049E41FE" ID-GBIF-Occurrence="3994027454" box="[440,920,1949,1992]" collectingDate="1936-05-14" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="6" pageNumber="156">
+<location id="BA1D6028FFB81B0FFE62F828055441FE" LSID="urn:lsid:plazi:treatment:376B87E5FFB81B0FFE62F9DC002E41CF:BA1D6028FFB81B0FFE62F828055441FE" box="[440,594,1949,1992]" name="Inarajan" pageId="6" pageNumber="156">Inarajan</location>
+, 
+<date id="CB7C1033FFB81B0FFDB1F82805F541FE" box="[619,755,1949,1992]" pageId="6" pageNumber="156" value="2014-05">
+<collectingDate id="DB38E9DBFFB81B0FFDB1F82805F541FE" box="[619,755,1949,1992]" pageId="6" pageNumber="156" value="2014-05">May 14</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB81B0FFCD6F828049E41FE" box="[780,920,1949,1992]" pageId="6" pageNumber="156">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="0FAA3CAEFFB81B0FFC74F82802D141FE" ID-GBIF-Occurrence="3994027495" box="[942,1495,1949,1992]" collectedFrom="on corn" collectingDate="1936-11-08" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="6" pageNumber="156">
+<collectingMunicipality id="5F19AC89FFB81B0FFC74F828030141FE" box="[942,1031,1949,1992]" pageId="6" pageNumber="156">Yigo</collectingMunicipality>
+, 
+<date id="CB7C1033FFB81B0FFBC5F828039E41FE" box="[1055,1176,1949,1992]" pageId="6" pageNumber="156">
+<collectingDate id="DB38E9DBFFB81B0FFBC5F828039E41FE" box="[1055,1176,1949,1992]" pageId="6" pageNumber="156">Nov. 8</collectingDate>
+</date>
+, on corn, 
+<collectorName id="12375325FFB81B0FFA8BF82802D141FE" box="[1361,1495,1949,1992]" pageId="6" pageNumber="156">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB81B0FFE2FF864002E41CF" box="[501,1832,2001,2041]" pageId="6" pageNumber="156" type="discussion">
+<paragraph id="BF7D36F3FFB81B0FFE2FF864002E41CF" blockId="6.[440,1834,1641,2041]" box="[501,1832,2001,2041]" pageId="6" pageNumber="156">This cosmopolitan species was found in the house, usually in food packages.</paragraph>
+</subSubSection>
+</treatment>
+</subSection>
+</document>

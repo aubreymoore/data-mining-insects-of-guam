@@ -1,0 +1,171 @@
+<document id="FD07CBFB7A31FC3CCE1055341EB62766" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5203F414B52EBA4FD45C7AE" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Poronotus sodalis" docType="treatment" docVersion="20" lastPageNumber="55" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="55" updateTime="1671663334733" updateUser="annettekang">
+<mods:mods id="5E221537369D040D0A2B2B7F9346B69B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="61FC30F166996DA3B01581487469CC12">
+<mods:title id="68F742A23ECEDF6BAD77602791DD8435">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="4B0A6E7FA4B26E570783B51A9C9FA990" type="personal">
+<mods:role id="ECF546F8FF3710D4EB6C5C2DDF6C991F">
+<mods:roleTerm id="CA57ABBFDCE02743A7D4CF6B61DE2E3F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="5A2838F09F6F57C7F470AECE3EEAB046">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="8C88E52A789F15979A659B2B86D33A0A">text</mods:typeOfResource>
+<mods:relatedItem id="E1EFB5B146834E2FA5056A333BDA19C5" type="host">
+<mods:originInfo id="C51E7FD74982E10ABFF68E17D82E3636">
+<mods:dateIssued id="E266875D4115B8B94CF4A76E52F09BE3">1946</mods:dateIssued>
+<mods:dateOther id="3029697D37AB968B08B29C53C948F3D2" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="3DA12CCE296CE416CB843BF5C7E7CB34">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="26517E3ABCB428510FDB6A03B06D41C5">
+<mods:placeTerm id="39BC1BA5767C101A6DC809A5DD8BEADD">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="002E2D1D3015544D27FC63F9F7E46B84">
+<mods:title id="C6C3D59116DF29C93C03924764F8A5F8">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="45F8947729EF520B24B78855D8A61171">
+<mods:extent id="476829E2FCBF553DA31CB79AD90A3327" unit="page">
+<mods:start id="688A8EE8815AE8E46F25E83373C90BD5">11</mods:start>
+<mods:end id="39903C5DBFB90879A725D0DE7B06B33F">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="00B96A3DAB1DCFAA31CA2B5A5FA24981">book chapter</mods:classification>
+<mods:identifier id="5BB62A57B9B6B8170C007EEA2573DC1C" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="D1FE41057DDD76A6A91B9EF0FD9ADB17" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="2C1E670D43AD56E5210BE7BFCA29409D" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5203F414B52EBA4FD45C7AE" ID-DOI="http://doi.org/10.5281/zenodo.5213817" ID-GBIF-Taxon="184601170" ID-Zenodo-Dep="5213817" LSID="urn:lsid:plazi:treatment:EC6DA359F5203F414B52EBA4FD45C7AE" httpUri="http://treatment.plazi.org/id/EC6DA359F5203F414B52EBA4FD45C7AE" lastPageNumber="55" pageId="44" pageNumber="55">
+<subSubSection id="2CDE41C4F5203F414B52EBA4FC99C59E" box="[306,893,1228,1270]" pageId="44" pageNumber="55" type="nomenclature">
+<paragraph id="647B124FF5203F414B52EBA4FC99C59E" blockId="44.[305,1702,1228,1734]" box="[306,893,1228,1270]" pageId="44" pageNumber="55">
+<heading id="3F33A523F5203F414B52EBA4FC99C59E" box="[306,893,1228,1270]" fontSize="8" level="2" pageId="44" pageNumber="55" reason="4">
+<emphasis id="56B0CE5DF5203F414B52EBA4FE80C59E" bold="true" box="[306,356,1228,1270]" pageId="44" pageNumber="55">49.</emphasis>
+<taxonomicName id="A3C469CCF5203F414BE5EBA4FC93C59E" authority="(White)" baseAuthorityName="White" baseAuthorityYear="1878" box="[389,887,1228,1270]" class="Insecta" family="Anthocoridae" genus="Poronotus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="44" pageNumber="55" phylum="Arthropoda" rank="species" species="sodalis">
+<emphasis id="56B0CE5DF5203F414BE5EBA4FD2FC59E" bold="true" box="[389,715,1228,1270]" pageId="44" pageNumber="55">Poronotus sodalis</emphasis>
+(White)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5203F414B12EA6AF9CBC444" box="[370,1583,1282,1324]" pageId="44" pageNumber="55" type="description">
+<paragraph id="647B124FF5203F414B12EA6AF9CBC444" blockId="44.[305,1702,1228,1734]" box="[370,1583,1282,1324]" pageId="44" pageNumber="55">
+<bibCitation id="B1EE1A23F5203F414B12EA6AF9CBC444" author="White" box="[370,1583,1282,1324]" journalOrPublisher="Ann. Mag. Nat. Hist." pageId="44" pageNumber="55" pagination="372" part="1" refId="ref22782" type="journal article" year="1878">
+<treatmentCitationGroup id="44D43561F5203F414B12EA6AF9CEC444" box="[370,1578,1282,1324]" pageId="44" pageNumber="55">
+<treatmentCitation id="E565345EF5203F414B12EA6AF9CEC444" author="White" box="[370,1578,1282,1324]" page="372" pageId="44" pageNumber="55" year="1878">
+<emphasis id="56B0CE5DF5203F414B12EA6AFD0CC444" box="[370,744,1282,1324]" italics="true" pageId="44" pageNumber="55">Cardiastethus sodalis</emphasis>
+<author id="BC79FAAAF5203F414895EA6AFC82C444" box="[757,870,1282,1324]" pageId="44" pageNumber="55">White</author>
+, 
+<journalOrPublisher id="BE051883F5203F41491DEA6AFAE4C444" box="[893,1280,1282,1324]" pageId="44" pageNumber="55">Ann. Mag. Nat. Hist.</journalOrPublisher>
+V, 
+<part id="1060B8D2F5203F414F2EEA6AFABCC444" box="[1358,1368,1282,1324]" pageId="44" pageNumber="55" type="volume">1</part>
+: 
+<pagination id="5D0DECBBF5203F414F1DEA6AFA5AC444" box="[1405,1470,1282,1324]" pageId="44" pageNumber="55" type="pagination">372</pagination>
+, 
+<year id="106C531CF5203F414FB8EA6AF9CEC444" box="[1496,1578,1282,1324]" pageId="44" pageNumber="55">1878</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5203F414B12EA5DF9DFC491" pageId="44" pageNumber="55" type="description">
+<paragraph id="647B124FF5203F414B12EA5DF9DFC491" blockId="44.[305,1702,1228,1734]" pageId="44" pageNumber="55">
+<materialsCitation id="D4AC1812F5203F414B12EA5DFB42C437" ID-GBIF-Occurrence="3994028309" box="[370,1190,1333,1375]" collectingDate="1936-06-30" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="44" pageNumber="55" specimenCount="5">
+Five 
+<specimenCount id="72C2D9C6F5203F414BB1EA5DFD9EC437" box="[465,634,1333,1375]" pageId="44" pageNumber="55" type="generic">specimens</specimenCount>
+,, 
+<collectingMunicipality id="841F8835F5203F4148FDEA5DFCB7C437" box="[669,851,1333,1375]" pageId="44" pageNumber="55">Machanao</collectingMunicipality>
+, 
+<date id="107A348FF5203F41490AEA5DFC1CC437" box="[874,1016,1333,1375]" pageId="44" pageNumber="55" value="1930-06">
+<collectingDate id="003ECD67F5203F41490AEA5DFC1CC437" box="[874,1016,1333,1375]" pageId="44" pageNumber="55" value="1930-06">June 30</collectingDate>
+</date>
+, 
+<location id="611B4494F5203F414E6FEA5DFB42C437" LSID="urn:lsid:plazi:treatment:EC6DA359F5203F414B52EBA4FD45C7AE:611B4494F5203F414E6FEA5DFB42C437" box="[1039,1190,1333,1375]" municipality="Machanao" name="Usinger" pageId="44" pageNumber="55">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5203F414EDEEA5DFCB6C4FB" ID-GBIF-Occurrence="3994028411" collectedFrom="on Hibiscus tiliaceus" collectingDate="1936-04-30" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="44" pageNumber="55" specimenCount="2">
+<specimenCount id="72C2D9C6F5203F414EDEEA5DFA71C437" box="[1214,1429,1333,1375]" pageId="44" pageNumber="55" type="generic">2 specimens</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5203F414FCEEA5DFA14C437" box="[1454,1520,1333,1375]" pageId="44" pageNumber="55">Piti</collectingMunicipality>
+, 
+<date id="107A348FF5203F414C66EA5DF944C437" box="[1542,1696,1333,1375]" pageId="44" pageNumber="55" value="1930-04">
+<collectingDate id="003ECD67F5203F414C66EA5DF944C437" box="[1542,1696,1333,1375]" pageId="44" pageNumber="55" value="1930-04">April 30</collectingDate>
+</date>
+, on 
+<taxonomicName id="A3C469CCF5203F414B0BEA01FCB6C4FB" authority=", Usinger" authorityName="Usinger" box="[363,850,1385,1427]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="44" pageNumber="55" phylum="Tracheophyta" rank="species" species="tiliaceus">
+<emphasis id="56B0CE5DF5203F414B0BEA01FD48C4FB" box="[363,684,1385,1427]" italics="true" pageId="44" pageNumber="55">
+<location id="611B4494F5203F414B0BEA01FDE2C4FB" LSID="urn:lsid:plazi:treatment:EC6DA359F5203F414B52EBA4FD45C7AE:611B4494F5203F414B0BEA01FDE2C4FB" box="[363,518,1385,1427]" municipality="Piti" name="Hibiscus" pageId="44" pageNumber="55">Hibiscus</location>
+tiliaceus,
+</emphasis>
+<location id="611B4494F5203F4148DCEA01FCB6C4FB" LSID="urn:lsid:plazi:treatment:EC6DA359F5203F414B52EBA4FD45C7AE:611B4494F5203F4148DCEA01FCB6C4FB" box="[700,850,1385,1427]" municipality="Piti" name="Usinger" pageId="44" pageNumber="55">Usinger</location>
+</taxonomicName>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5203F41490AEA01FCD2C4AE" ID-GBIF-Occurrence="3994028464" collectedFrom="on dead Barringtonia leaves" collectingDate="1936-05-30" collectorName="O. H. Swezey" country="Guam" location="Tumon Beach" pageId="44" pageNumber="55" specimenCount="1">
+<specimenCount id="72C2D9C6F5203F41490AEA01FBB1C4FB" box="[874,1109,1385,1427]" pageId="44" pageNumber="55" type="generic">one specimen</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5203F414E0BEA01FA83C4FB" box="[1131,1383,1385,1427]" pageId="44" pageNumber="55">Tumon Beach</collectingMunicipality>
+, 
+<date id="107A348FF5203F414F1EEA01F9E3C4FB" box="[1406,1543,1385,1427]" pageId="44" pageNumber="55" value="1930-05">
+<collectingDate id="003ECD67F5203F414F1EEA01F9E3C4FB" box="[1406,1543,1385,1427]" pageId="44" pageNumber="55" value="1930-05">May 30</collectingDate>
+</date>
+, on dead 
+<taxonomicName id="A3C469CCF5203F414B52EAF4FDF2C4AE" box="[306,534,1436,1478]" class="Magnoliopsida" family="Lecythidaceae" genus="Barringtonia" kingdom="Plantae" order="Ericales" pageId="44" pageNumber="55" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5203F414B52EAF4FDF2C4AE" box="[306,534,1436,1478]" italics="true" pageId="44" pageNumber="55">
+<location id="611B4494F5203F414B52EAF4FDF2C4AE" LSID="urn:lsid:plazi:treatment:EC6DA359F5203F414B52EBA4FD45C7AE:611B4494F5203F414B52EAF4FDF2C4AE" box="[306,534,1436,1478]" municipality="Tumon Beach" name="Barringtonia" pageId="44" pageNumber="55">Barringtonia</location>
+</emphasis>
+</taxonomicName>
+leaves, 
+<collectorName id="C9317799F5203F4148CAEAF4FCD2C4AE" box="[682,822,1436,1478]" pageId="44" pageNumber="55">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5203F414930EAF4FE2DC491" ID-GBIF-Occurrence="3994028507" collectedFrom="on cotton boll" collectingDate="1936-05-17" collectorName="R. L. Usinger" country="Guam" location="Tarague" pageId="44" pageNumber="55" specimenCount="1">
+<specimenCount id="72C2D9C6F5203F414930EAF4FBD9C4AE" box="[848,1085,1436,1478]" pageId="44" pageNumber="55" type="generic">one specimen</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5203F414E34EAF4FB0EC4AE" box="[1108,1258,1436,1478]" pageId="44" pageNumber="55">Tarague</collectingMunicipality>
+, 
+<date id="107A348FF5203F414F62EAF4FA6AC4AE" box="[1282,1422,1436,1478]" pageId="44" pageNumber="55" value="2017-05">
+<collectingDate id="003ECD67F5203F414F62EAF4FA6AC4AE" box="[1282,1422,1436,1478]" pageId="44" pageNumber="55" value="2017-05">May 17</collectingDate>
+</date>
+, on cotton boll, 
+<location id="611B4494F5203F414B53EAB8FE2DC491" LSID="urn:lsid:plazi:treatment:EC6DA359F5203F414B52EBA4FD45C7AE:611B4494F5203F414B53EAB8FE2DC491" box="[307,457,1488,1529]" municipality="Tarague" name="Usinger" pageId="44" pageNumber="55">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5203F414B80EAB8F9D2C491" ID-GBIF-Occurrence="3994028486" box="[480,1590,1488,1529]" collectedFrom="on Hibiscus tiliaceus" collectingDate="1936-06-08" collectorName="R. L. Usinger" country="Guam" location="Inarajan" pageId="44" pageNumber="55" specimenCount="1">
+<specimenCount id="72C2D9C6F5203F414B80EAB8FD29C491" box="[480,717,1488,1529]" pageId="44" pageNumber="55" type="generic">one specimen</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5203F414884EAB8FC9AC491" box="[740,894,1488,1529]" pageId="44" pageNumber="55">Inarajan</collectingMunicipality>
+, 
+<date id="107A348FF5203F4149F4EAB8FBEEC491" box="[916,1034,1488,1529]" pageId="44" pageNumber="55">
+<collectingDate id="003ECD67F5203F4149F4EAB8FBEEC491" box="[916,1034,1488,1529]" pageId="44" pageNumber="55">June 8</collectingDate>
+</date>
+, on 
+<taxonomicName id="A3C469CCF5203F414E39EAB8F9DFC491" authority=", Usinger." box="[1113,1595,1488,1529]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="44" pageNumber="55" phylum="Tracheophyta" rank="species" species="tiliaceus">
+<emphasis id="56B0CE5DF5203F414E39EAB8FA73C491" box="[1113,1431,1488,1529]" italics="true" pageId="44" pageNumber="55">
+<location id="611B4494F5203F414E39EAB8FB17C491" LSID="urn:lsid:plazi:treatment:EC6DA359F5203F414B52EBA4FD45C7AE:611B4494F5203F414E39EAB8FB17C491" box="[1113,1267,1488,1529]" municipality="Inarajan" name="Hibiscus" pageId="44" pageNumber="55">Hibiscus</location>
+tiliaceus,
+</emphasis>
+<location id="611B4494F5203F414FC5EAB8F9D2C491" LSID="urn:lsid:plazi:treatment:EC6DA359F5203F414B52EBA4FD45C7AE:611B4494F5203F414FC5EAB8F9D2C491" box="[1445,1590,1488,1529]" municipality="Inarajan" name="Usinger" pageId="44" pageNumber="55">Usinger</location>
+.
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5203F414B10E96BFD45C7AE" pageId="44" pageNumber="55" type="description">
+<paragraph id="647B124FF5203F414B10E96BFD45C7AE" blockId="44.[305,1702,1228,1734]" pageId="44" pageNumber="55">
+Agrees perfectly with topotypic Hawaiian specimens. 
+<taxonomicName id="A3C469CCF5203F414F38E96BF97BC744" authority="Reuter" authorityName="Reuter" authorityYear="1871" box="[1368,1695,1539,1580]" class="Insecta" family="Anthocoridae" genus="Poronotus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="44" pageNumber="55" phylum="Arthropoda" rank="genus">
+<emphasis id="56B0CE5DF5203F414F38E96BF9F4C744" box="[1368,1552,1539,1580]" italics="true" pageId="44" pageNumber="55">Poronotus</emphasis>
+Reuter
+</taxonomicName>
+, as redefined by Champion (
+<collectorName id="C9317799F5203F414979E95EFBA1C737" box="[793,1093,1590,1631]" pageId="44" pageNumber="55">Biol. Centr. Am.</collectorName>
+, Hemipt.-Heteropt. 
+<emphasis id="56B0CE5DF5203F414FD0E95EFA26C737" bold="true" box="[1456,1474,1590,1631]" pageId="44" pageNumber="55">2:</emphasis>
+333, 1900), is known elsewhere from America, the islands of Madeira and Juan Fernandez, and from 
+<collectingRegion id="A600DCADF5203F414B8CE9F3FD78C7AE" box="[492,668,1691,1734]" country="Australia" name="Tasmania" pageId="44" pageNumber="55">Tasmania</collectingRegion>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

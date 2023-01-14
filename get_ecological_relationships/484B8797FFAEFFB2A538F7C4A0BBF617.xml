@@ -1,0 +1,163 @@
+<document id="078D0933EE9BD27EA005C2B2EAD1BD66" ID-DOI="http://doi.org/10.5281/zenodo.5127686" ID-GBIF-Dataset="7b960500-f4a3-4b8f-8b56-440fdc9431c9" ID-Zenodo-Dep="5127686" checkinTime="1626977897655" checkinUser="carolina" docAuthor="O. H. Swezey" docDate="1946" docId="484B8797FFAEFFB2A538F7C4A0BBF617" docLanguage="en" docName="InsectsOfGuamII.189.195-200.pdf.imf" docOrigin="Insects of Guam-II, Hawaii, Honolulu: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Ischiodon scutellaris" docType="treatment" docVersion="15" lastPageNumber="195" masterDocId="B472FFEFFFAEFFB2A40BFFD9A227FFD1" masterDocTitle="SOME MISCELLANEOUS DIPTERA OF GUAM" masterLastPageNumber="200" masterPageNumber="195" pageNumber="195" updateTime="1659465586346" updateUser="ExternalLinkService">
+<mods:mods id="ECCACFC4BA74D72C2717F266A9E12620" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="33BFB4E269F6AEBC547FEDE31A065E8D">
+<mods:title id="D260F635FAD469F37C23BF74F81E15AE">SOME MISCELLANEOUS DIPTERA OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="5CA088E3315E663B19B27D63A656801F" type="personal">
+<mods:role id="D73F80DC2C78F4E48148DD3DDFF3CBE4">
+<mods:roleTerm id="E5B72CC5A9E4C347D1AFBA1705AC37FC">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="5FE8D39B7D73FA861D161063FA2D6507">O. H. Swezey</mods:namePart>
+<mods:affiliation id="8E73E61ED9B09486D32DEB4726922F4B">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="86D4C3A56D0C935015FBA072A6F045D9">text</mods:typeOfResource>
+<mods:relatedItem id="62AAE70102B89F0EC8E180E4CF35BDA7" type="host">
+<mods:originInfo id="57CB6D624A990E35D793D630310112E0">
+<mods:dateIssued id="09006E91A80B82AC69079D1E0B3265BD">1946</mods:dateIssued>
+<mods:dateOther id="C1988AE36B6915EC709EEFC0945243A2" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="B02868A2A68B856B56067A57E121F861">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="9F1F97F3E0A6EFE53A9AA7A040D436CF">
+<mods:placeTerm id="1C1279694A427B3BB9406A66C8EAE314">Hawaii, Honolulu</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="78DC50B6B643A9FADC05AB717289EC62">
+<mods:title id="93FBA24D89263EE069016C2C9BDC6EFE">Insects of Guam-II</mods:title>
+</mods:titleInfo>
+<mods:part id="DFC557D703ED4BCC963A9F9AF7DFCABC">
+<mods:extent id="B25EECC1CC717108AA90947EF787F563" unit="page">
+<mods:start id="828D115958FC60D60FF78CBD7F4A13A4">195</mods:start>
+<mods:end id="57CDC838F173729DE16DC7684C594E7E">200</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="5E4EFEEC4C6B70390D8CD3FDC527EE4C">book chapter</mods:classification>
+<mods:identifier id="41AC08276AEECF41BCA57EBA1103FFDE" type="DOI">http://doi.org/10.5281/zenodo.5127686</mods:identifier>
+<mods:identifier id="AB992ADE39D53737C7A6071F3AE02B41" type="GBIF-Dataset">7b960500-f4a3-4b8f-8b56-440fdc9431c9</mods:identifier>
+<mods:identifier id="05CDAF23ABF28D0AB35A9AF5D39DEF31" type="Zenodo-Dep">5127686</mods:identifier>
+</mods:mods>
+<treatment id="484B8797FFAEFFB2A538F7C4A0BBF617" ID-DOI="http://doi.org/10.5281/zenodo.5123244" ID-GBIF-Taxon="184459663" ID-Zenodo-Dep="5123244" LSID="urn:lsid:plazi:treatment:484B8797FFAEFFB2A538F7C4A0BBF617" httpUri="http://treatment.plazi.org/id/484B8797FFAEFFB2A538F7C4A0BBF617" lastPageNumber="195" pageId="0" pageNumber="195">
+<subSubSection id="88F8650AFFAEFFB2A538F7C4A1F8F799" box="[307,991,2077,2120]" pageId="0" pageNumber="195" type="nomenclature">
+<paragraph id="C05D3681FFAEFFB2A538F7C4A1F8F799" blockId="0.[307,1706,2077,2502]" box="[307,991,2077,2120]" pageId="0" pageNumber="195">
+<heading id="9B1581EDFFAEFFB2A538F7C4A1F8F799" box="[307,991,2077,2120]" fontSize="11" level="2" pageId="0" pageNumber="195" reason="2">
+<emphasis id="F296EA93FFAEFFB2A538F7C4A002F799" bold="true" box="[307,549,2077,2120]" pageId="0" pageNumber="195">
+3. 
+<taxonomicName id="07E24D02FFAEFFB2A579F7C4A1FEF799" authority="(Fabricius)" baseAuthorityName="Fabricius" baseAuthorityYear="1805" box="[370,985,2077,2120]" class="Insecta" family="Syrphidae" genus="Ischiodon" kingdom="Animalia" order="Diptera" pageId="0" pageNumber="195" phylum="Arthropoda" rank="species" species="scutellaris">
+lschiodon 
+<emphasis id="F296EA93FFAEFFB2A63CF7C4A0CAF799" bold="true" box="[567,749,2077,2120]" pageId="0" pageNumber="195">scutellaris</emphasis>
+(Fabricius)
+</taxonomicName>
+</emphasis>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFAEFFB2A578F78CA42FF6F4" pageId="0" pageNumber="195" type="reference_group">
+<paragraph id="C05D3681FFAEFFB2A578F78CA748F751" blockId="0.[307,1706,2077,2502]" box="[371,1391,2133,2176]" pageId="0" pageNumber="195">
+<treatmentCitationGroup id="E0F211AFFFAEFFB2A578F78CA748F751" box="[371,1391,2133,2176]" pageId="0" pageNumber="195">
+<treatmentCitation id="41431090FFAEFFB2A578F78CA6DAF751" box="[371,1277,2133,2176]" pageId="0" pageNumber="195">
+<taxonomicName id="07E24D02FFAEFFB2A578F78CA145F751" authority="Fabricius" authorityName="Fabricius" authorityYear="1805" box="[371,866,2133,2176]" class="Insecta" family="Syrphidae" genus="Scaeva" kingdom="Animalia" order="Diptera" pageId="0" pageNumber="195" phylum="Arthropoda" rank="species" species="scutellaris">
+<emphasis id="F296EA93FFAEFFB2A578F78CA08BF751" box="[371,684,2133,2176]" italics="true" pageId="0" pageNumber="195">Scaeva scutellaris</emphasis>
+<bibCitation id="15C83EEDFFAEFFB2A6B7F78CA748F751" author="Fabricius" box="[700,1391,2133,2176]" journalOrPublisher="Systema Antliat." pageId="0" pageNumber="195" part="252" refId="ref316" type="book" year="1805">
+<author id="185FDE64FFAEFFB2A6B7F78CA145F751" box="[700,866,2133,2176]" pageId="0" pageNumber="195">Fabricius</author>
+, 
+<journalOrPublisher id="1A233C4DFFAEFFB2A770F78CA682F751" box="[891,1189,2133,2176]" pageId="0" pageNumber="195">Systema Antliat.</journalOrPublisher>
+, 
+<part id="B4469C1CFFAEFFB2A0B7F78CA6DAF751" box="[1212,1277,2133,2176]" pageId="0" pageNumber="195">252</part>
+, 
+<year id="B44A77D2FFAEFFB2A11CF78CA74DF751" box="[1303,1386,2133,2176]" pageId="0" pageNumber="195">1805</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="C05D3681FFAEFFB2A578F756A0A5F73D" blockId="0.[307,1706,2077,2502]" pageId="0" pageNumber="195">
+<treatmentCitationGroup id="E0F211AFFFAEFFB2A578F756A0A5F73D" pageId="0" pageNumber="195">
+<treatmentCitation id="41431090FFAEFFB2A578F756A028F73D" pageId="0" pageNumber="195">
+<taxonomicName id="07E24D02FFAEFFB2A578F756A645F768" box="[371,1122,2191,2233]" class="Insecta" family="Syrphidae" genus="Xanthogramma" kingdom="Animalia" order="Diptera" pageId="0" pageNumber="195" phylum="Arthropoda" rank="genus">
+<emphasis id="F296EA93FFAEFFB2A578F756A153F768" box="[371,884,2191,2233]" italics="true" pageId="0" pageNumber="195">Xanthogramma grandicornis</emphasis>
+(Macquart)
+</taxonomicName>
+, Grimshaw, Fauna Hawaiiensis 
+<emphasis id="F296EA93FFAEFFB2A5BAF71DA3E3F73D" bold="true" box="[433,452,2244,2284]" pageId="0" pageNumber="195">3:</emphasis>
+19
+</treatmentCitation>
+, 1901.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="C05D3681FFAEFFB2A578F723A42FF6F4" blockId="0.[307,1706,2077,2502]" box="[371,1544,2298,2341]" pageId="0" pageNumber="195">
+<treatmentCitationGroup id="E0F211AFFFAEFFB2A578F723A424F6F4" box="[371,1539,2298,2341]" pageId="0" pageNumber="195">
+<treatmentCitation id="41431090FFAEFFB2A578F723A7B0F6F4" box="[371,1431,2298,2341]" pageId="0" pageNumber="195">
+<taxonomicName id="07E24D02FFAEFFB2A578F723A17DF6F4" authority=", Bezzi" authorityName="Bezzi" box="[371,858,2298,2341]" class="Insecta" family="Syrphidae" genus="Ischiodon" kingdom="Animalia" order="Diptera" pageId="0" pageNumber="195" phylum="Arthropoda" rank="species" species="scutellaris">
+<emphasis id="F296EA93FFAEFFB2A578F723A147F6F4" box="[371,864,2298,2341]" italics="true" pageId="0" pageNumber="195">
+Ischiodon scutellaris, 
+<bibCitation id="15C83EEDFFAEFFB2A6F2F723A424F6F4" author="Bezzi" box="[761,1539,2298,2341]" journalOrPublisher="Diptera of the Fiji Islands" pageId="0" pageNumber="195" part="72" refId="ref345" type="book" year="1928">
+<author id="185FDE64FFAEFFB2A6F2F723A17DF6F4" box="[761,858,2298,2341]" pageId="0" pageNumber="195">Bezzi</author>
+, 
+<journalOrPublisher id="1A233C4DFFAEFFB2A779F723A774F6F4" box="[882,1363,2298,2341]" pageId="0" pageNumber="195">
+Diptera of the 
+<collectingCountry id="B8F57611FFAEFFB2A08AF723A774F6F4" box="[1153,1363,2298,2341]" name="Fiji" pageId="0" pageNumber="195">Fiji Islands</collectingCountry>
+</journalOrPublisher>
+, 
+<part id="B4469C1CFFAEFFB2A160F723A7B0F6F4" box="[1387,1431,2298,2341]" pageId="0" pageNumber="195">72</part>
+, 
+<year id="B44A77D2FFAEFFB2A1BAF723A424F6F4" box="[1457,1539,2298,2341]" pageId="0" pageNumber="195">1928</year>
+</bibCitation>
+</emphasis>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFAEFFB2A57EF6EFA0BBF617" pageId="0" pageNumber="195" type="reference_group">
+<paragraph id="C05D3681FFAEFFB2A57EF6EFA0BBF617" blockId="0.[307,1706,2077,2502]" pageId="0" pageNumber="195">
+<materialsCitation id="708A3CDCFFAEFFB2A57EF6EFA1ACF6B3" ID-GBIF-Occurrence="3334698327" box="[373,907,2358,2402]" collectingDate="1936-06-27" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="0" pageNumber="195">
+<collectingMunicipality id="2039ACFBFFAEFFB2A57EF6EFA01FF6B3" box="[373,568,2358,2402]" pageId="0" pageNumber="195">Mt. Alifan</collectingMunicipality>
+, 
+<date id="B45C1041FFAEFFB2A65AF6EFA0C5F6B3" box="[593,738,2358,2402]" pageId="0" pageNumber="195" value="1927-06">
+<collectingDate id="A418E9A9FFAEFFB2A65AF6EFA0C5F6B3" box="[593,738,2358,2402]" pageId="0" pageNumber="195" value="1927-06">June 27</collectingDate>
+</date>
+, 
+<location id="C53D605AFFAEFFB2A6F5F6EFA1ACF6B3" LSID="urn:lsid:plazi:treatment:484B8797FFAEFFB2A538F7C4A0BBF617:C53D605AFFAEFFB2A6F5F6EFA1ACF6B3" box="[766,907,2358,2402]" municipality="Mt. Alifan" name="Swezey" pageId="0" pageNumber="195">Swezey</location>
+</materialsCitation>
+; 
+<materialsCitation id="708A3CDCFFAEFFB2A7ACF6EFA6B8F6B3" ID-GBIF-Occurrence="3874685322" box="[935,1183,2358,2402]" collectingDate="1936-08-24" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="195">
+<collectingMunicipality id="2039ACFBFFAEFFB2A7ACF6EFA1CEF6B3" box="[935,1001,2358,2402]" pageId="0" pageNumber="195">Piti</collectingMunicipality>
+, 
+<date id="B45C1041FFAEFFB2A008F6EFA6BFF6B3" box="[1027,1176,2358,2402]" pageId="0" pageNumber="195" value="1924-08">
+<collectingDate id="A418E9A9FFAEFFB2A008F6EFA6BFF6B3" box="[1027,1176,2358,2402]" pageId="0" pageNumber="195" value="1924-08">Aug. 24</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="708A3CDCFFAEFFB2A0BFF6EFA6A5F645" ID-GBIF-Occurrence="3874685319" collectedFrom="feeding on Aphis maidis on corn" collectingDate="1936-09-15" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="195">
+<date id="B45C1041FFAEFFB2A0BFF6EFA76DF6B3" box="[1204,1354,2358,2402]" pageId="0" pageNumber="195" value="2015-09">
+<collectingDate id="A418E9A9FFAEFFB2A0BFF6EFA76DF6B3" box="[1204,1354,2358,2402]" pageId="0" pageNumber="195" value="2015-09">Sept. 15</collectingDate>
+</date>
+, 
+<collectingMunicipality id="2039ACFBFFAEFFB2A16DF6EFA7D5F6B3" box="[1382,1522,2358,2402]" pageId="0" pageNumber="195">Swezey</collectingMunicipality>
+; common, the 
+<specimenCount id="D6E4FD08FFAEFFB2A58EF6B0A3C8F645" box="[389,495,2409,2452]" pageId="0" pageNumber="195" type="larva">larvae</specimenCount>
+feeding on 
+<taxonomicName id="07E24D02FFAEFFB2A6E8F6B0A1F2F645" box="[739,981,2409,2452]" class="Insecta" family="Aphididae" genus="Aphis" kingdom="Animalia" order="Aphidomorpha" pageId="0" pageNumber="195" phylum="Arthropoda" rank="species" species="maidis">
+<emphasis id="F296EA93FFAEFFB2A6E8F6B0A1F2F645" box="[739,981,2409,2452]" italics="true" pageId="0" pageNumber="195">
+<location id="C53D605AFFAEFFB2A6E8F6B0A16BF645" LSID="urn:lsid:plazi:treatment:484B8797FFAEFFB2A538F7C4A0BBF617:C53D605AFFAEFFB2A6E8F6B0A16BF645" box="[739,844,2409,2452]" municipality="Swezey" name="Aphis" pageId="0" pageNumber="195">Aphis</location>
+maidis
+</emphasis>
+</taxonomicName>
+on corn
+</materialsCitation>
+. 
+<materialsCitation id="708A3CDCFFAEFFB2A0A6F6B0A0B0F617" ID-GBIF-Occurrence="3334698336" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="0" pageNumber="195" specimenCount="3">
+Three 
+<specimenCount id="D6E4FD08FFAEFFB2A13BF6B0A7FAF645" box="[1328,1501,2409,2452]" pageId="0" pageNumber="195" type="generic">specimens</specimenCount>
+in 
+<collectingMunicipality id="2039ACFBFFAEFFB2A239F6B0A3F5F617" pageId="0" pageNumber="195">Bishop Museum</collectingMunicipality>
+, 
+<location id="C53D605AFFAEFFB2A5FBF647A0B0F617" LSID="urn:lsid:plazi:treatment:484B8797FFAEFFB2A538F7C4A0BBF617:C53D605AFFAEFFB2A5FBF647A0B0F617" box="[496,663,2462,2502]" municipality="Bishop Museum" name="Fullaway" pageId="0" pageNumber="195">Fullaway</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

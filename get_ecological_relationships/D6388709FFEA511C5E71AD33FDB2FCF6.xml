@@ -1,0 +1,87 @@
+<document id="AC4738161D924C33FD8155CA2127D38F" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFEA511C5E71AD33FDB2FCF6" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Fergusoniella Zimmerman 1942" docType="treatment" docVersion="14" lastPageNumber="99" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="99" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="5A3DAFB23F6A906D6589A3FBD8881C0D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="8B5E6DEB0E209B855E5FC2476A641057">
+<mods:title id="12A07659D343F197ECAAF0C7F300AEFC">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="DC2F649E8AB4FAF175E2DC6538FA3A77" type="personal">
+<mods:role id="656F2549886A4B84794304DB75A38582">
+<mods:roleTerm id="D996F141208EF7730991C99C31748519">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="6828F5C01DCF73CAE5816EF9FBAD10F1">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="1C90B1BFDA1C7C137E7590869AF0E43A">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="792C8C025B4C19A9ACA353FC760198BF">text</mods:typeOfResource>
+<mods:relatedItem id="3B7EA717CA6AD612E6F21623FCF7C6AD" type="host">
+<mods:originInfo id="FA7A82F6F99455BE9412397ACC84ABA0">
+<mods:dateIssued id="C2F88E1571BF14F1719B34AC1E25BBB9">1942</mods:dateIssued>
+<mods:dateOther id="71E2622AAEBCC4B31D3CFD08D95747E2" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="4E9A0AE3C552D20E83476F89432BF47A">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="53A65F43AC57F5FA551C6924DAD91411">
+<mods:placeTerm id="A6BC2889C70B48BAB14DD56E6B1E19FD">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="FC918BBF1C273788D67118C6B98D40D5">
+<mods:title id="082BED4BDA62E7D810FFE19E8622312D">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="A08450326860079113B59A8FBEC1ED20">
+<mods:extent id="FAC704E94348C5FD91526D4AE362857B" unit="page">
+<mods:start id="327255D15C7CB5513DBB04A0991C2599">73</mods:start>
+<mods:end id="5C21C1CA7C2AA11753BD021F535FD34B">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="8AD73F726BAFF9CF5C0E6A15CBF0D84C">book chapter</mods:classification>
+<mods:identifier id="8305F604500C5296394A1EEBBB932B29" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="519FD2E5A9E091AB6BF7E322E668559D" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="A100654FE5AAE11A18DE3F74186946BF" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFEA511C5E71AD33FDB2FCF6" ID-DOI="http://doi.org/10.5281/zenodo.5157288" ID-GBIF-Taxon="184097851" ID-Zenodo-Dep="5157288" LSID="urn:lsid:plazi:treatment:D6388709FFEA511C5E71AD33FDB2FCF6" httpUri="http://treatment.plazi.org/id/D6388709FFEA511C5E71AD33FDB2FCF6" lastPageNumber="99" pageId="26" pageNumber="99">
+<subSubSection id="168B6594FFEA511C5E71AD33FD02FD07" box="[298,760,617,657]" pageId="26" pageNumber="99" type="nomenclature">
+<paragraph id="5E2E361FFFEA511C5E71AD33FD02FD07" blockId="26.[298,1695,617,922]" box="[298,760,617,657]" pageId="26" pageNumber="99">
+<emphasis id="6CE5EA0DFFEA511C5E71AD33FDD6FD07" bold="true" box="[298,556,617,657]" pageId="26" pageNumber="99">
+<taxonomicName id="99914D9CFFEA511C5E71AD33FDDFFD07" authorityName="Zimmerman" authorityYear="1942" box="[298,549,617,657]" class="Insecta" family="Curculionidae" genus="Fergusoniella" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="26" pageNumber="99" phylum="Arthropoda" rank="genus">Fergusoniella</taxonomicName>
+,
+</emphasis>
+new name.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFEA511C5E33ADC0FDB2FCF6" pageId="26" pageNumber="99" type="discussion">
+<paragraph id="5E2E361FFFEA511C5E33ADC0FDB2FCF6" blockId="26.[298,1695,617,922]" pageId="26" pageNumber="99">
+<treatmentCitationGroup id="7E811131FFEA511C5E33ADC0FDB2FCF6" pageId="26" pageNumber="99">
+<bibCitation id="8BBB3E73FFEA511C5E33ADC0FDB2FCF6" author="Lea &amp; Bronn's" journalOrPublisher="Soc. Ent. Belg., Mem." pageId="26" pageNumber="99" pagination="125" part="18" refId="ref17140" title="Die Klassen und Ordnungen des Thier-Reichs wissenshaftlich dargestelt" type="journal article" volumeTitle="Wort und Bild" year="1911">
+<treatmentCitation id="DF30100EFFEA511C5E33ADC0FA97FD53" author="Lea" box="[360,1389,666,709]" page="125" pageId="26" pageNumber="99" year="1911">
+<emphasis id="6CE5EA0DFFEA511C5E33ADC0FDCAFD53" box="[360,560,666,709]" italics="true" pageId="26" pageNumber="99">Fergusonia</emphasis>
+<author id="862CDEFAFFEA511C5D13ADC0FD77FD53" box="[584,653,666,709]" pageId="26" pageNumber="99">Lea</author>
+, 
+<journalOrPublisher id="84503CD3FFEA511C5DF4ADC0FBAFFD53" box="[687,1109,666,709]" pageId="26" pageNumber="99">Soc. Ent. Belg., Mem.</journalOrPublisher>
+<part id="2A359C82FFEA511C5B2AADC0FB67FD53" box="[1137,1181,666,709]" pageId="26" pageNumber="99" type="volume">18</part>
+: 
+<pagination id="6758C8EBFFEA511C5BF8ADC0FB10FD53" box="[1187,1258,666,709]" pageId="26" pageNumber="99" type="pageRange">125</pagination>
+, 
+<year id="2A39774CFFEA511C5A56ADC0FA9CFD53" box="[1293,1382,666,709]" pageId="26" pageNumber="99">1911</year>
+;
+</treatmentCitation>
+<treatmentCitation id="DF30100EFFEA511C5ADCADC0FDB2FCF6" author="Bronn" page="629" pageId="26" pageNumber="99" year="1878">
+homonym, preoccupied by the amphibian 
+<emphasis id="6CE5EA0DFFEA511C5C50AD94FC28FD6E" box="[779,978,718,760]" italics="true" pageId="26" pageNumber="99">Fergusonia</emphasis>
+Hoffmann, in 
+<author id="862CDEFAFFEA511C5B81AD94FA9CFD6E" box="[1242,1382,718,760]" pageId="26" pageNumber="99">Bronn's</author>
+, 
+<title id="2C95DD29FFEA511C5A20AD94FACAFCBD" pageId="26" pageNumber="99">Die Klassen und Ordnungen des Thier-Reichs wissenshaftlich dargestelt</title>
+in 
+<volumeTitle id="E13D542FFFEA511C5AD9AC5BF965FCBD" box="[1410,1695,769,811]" pageId="26" pageNumber="99">Wort und Bild</volumeTitle>
+<part id="2A359C82FFEA511C5E71AC6FFEBAFCF6" box="[298,320,821,864]" pageId="26" pageNumber="99" type="volume">6</part>
+(
+<part id="2A359C82FFEA511C5E16AC6FFE99FCF6" box="[333,355,821,864]" pageId="26" pageNumber="99" type="issue">2</part>
+): 
+<pagination id="6758C8EBFFEA511C5EDEAC6FFE2FFCF6" box="[389,469,821,864]" pageId="26" pageNumber="99" type="pageRange">629</pagination>
+, 
+<year id="2A39774CFFEA511C5EABAC6FFDB9FCF6" box="[496,579,821,864]" pageId="26" pageNumber="99">1878</year>
+.
+</treatmentCitation>
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

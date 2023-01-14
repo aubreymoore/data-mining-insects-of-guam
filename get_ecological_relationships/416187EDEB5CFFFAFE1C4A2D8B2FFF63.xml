@@ -1,0 +1,63 @@
+<document id="FC97C2A18084F7764F8590A07A8BAB34" ID-DOI="http://doi.org/10.5281/zenodo.5174008" ID-GBIF-Dataset="62345736-dcf6-4c38-a870-36a90992dabb" ID-Zenodo-Dep="5174008" checkinTime="1628020725273" checkinUser="carolina" docAuthor="Metcalf, Z. P." docDate="1946" docId="416187EDEB5CFFFAFE1C4A2D8B2FFF63" docLanguage="en" docName="InsectsOfGuamII.189.105-148.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Perkinsiella thompsoni Muir." docType="treatment" docVersion="10" lastPageNumber="110" masterDocId="BD58FF95EB59FFFFFFB04B578875FD6D" masterDocTitle="Homoptera, Fulgoroidea and Jassoidea of Guam" masterLastPageNumber="148" masterPageNumber="105" pageNumber="110" updateTime="1660144623724" updateUser="annettekang">
+<mods:mods id="38A691429D2A2F2749287B2C6B483474" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C25D87672AC90D51E6365721922A183E">
+<mods:title id="4F175BAE989AA9CDBE142BE0F8A8F13C">Homoptera, Fulgoroidea and Jassoidea of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="F0B69A0B11E0C8B717B3B4961871D304" type="personal">
+<mods:role id="43BC049499C2D35FED8F4250ADA5943D">
+<mods:roleTerm id="D8A283550C849C633CBE48E63EBA2979">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="006244C42F8A9AAE0CAF9D33524676B4">Metcalf, Z. P.</mods:namePart>
+<mods:affiliation id="698AAC6AE1143D55F67EEB8F6601178D">College of Agriculture and Engineering, University of North Carolins</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A82EF1C3079C78A933E33587FDBBC0A3">text</mods:typeOfResource>
+<mods:relatedItem id="D88FDD82183CB2E9672436228C2B06B5" type="host">
+<mods:originInfo id="0960E7A7EA8CC5665EA1645A8ABA8A6A">
+<mods:dateIssued id="FFEF152217DADD150FD6EB84D0BFC1DB">1946</mods:dateIssued>
+<mods:dateOther id="35A057EE52B4A3CFE6E059C81DCFDB4D" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="A381E0D7FB1541C850FAF4F5D60D7EAF">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="0DE3C662B2C474F419699E4522A485CF">
+<mods:placeTerm id="0740A07CDCA4326DC9D1EDDE03D21D58">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="CEDF3CFAC1070403BFFBB72C65382301">
+<mods:title id="84F05CFC884F9A961466775CF047FF92">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="EB1F7FC45C5BDBE0BE47478D2C0DADA4">
+<mods:extent id="0DD21B9CC8A008C69ACDCC9274AC1829" unit="page">
+<mods:start id="BF9849CCDFDE77641EBA4642784A7E40">105</mods:start>
+<mods:end id="C56DD6C8C5CDC26082BE50C3324113D8">148</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="EFE7DC10FA4B3D3E2C1E2249D0D1A915">book chapter</mods:classification>
+<mods:identifier id="226E856A2ACAF3BEEC81102B8CB5BC92" type="DOI">http://doi.org/10.5281/zenodo.5174008</mods:identifier>
+<mods:identifier id="771167735E14787C750FEE5E3D44FEED" type="GBIF-Dataset">62345736-dcf6-4c38-a870-36a90992dabb</mods:identifier>
+<mods:identifier id="4298D9B605A24D6602256C9C5F0BF829" type="Zenodo-Dep">5174008</mods:identifier>
+</mods:mods>
+<treatment id="416187EDEB5CFFFAFE1C4A2D8B2FFF63" ID-DOI="http://doi.org/10.5281/zenodo.5188217" ID-GBIF-Taxon="184008971" ID-Zenodo-Dep="5188217" LSID="urn:lsid:plazi:treatment:416187EDEB5CFFFAFE1C4A2D8B2FFF63" httpUri="http://treatment.plazi.org/id/416187EDEB5CFFFAFE1C4A2D8B2FFF63" lastPageNumber="110" pageId="5" pageNumber="110">
+<subSubSection id="81D26570EB5CFFFAFE1C4A2D8C76FCC9" box="[428,1027,378,420]" pageId="5" pageNumber="110" type="nomenclature">
+<paragraph id="C97736FBEB5CFFFAFE1C4A2D8C76FCC9" blockId="5.[428,1829,378,526]" box="[428,1027,378,420]" pageId="5" pageNumber="110">
+<heading id="923F8197EB5CFFFAFE1C4A2D8C76FCC9" box="[428,1027,378,420]" fontSize="11" level="2" pageId="5" pageNumber="110" reason="2">
+<emphasis id="FBBCEAE9EB5CFFFAFE1C4A2D89BCFCC9" bold="true" box="[428,457,378,420]" pageId="5" pageNumber="110">3.</emphasis>
+<taxonomicName id="0EC84D78EB5CFFFAFE5A4A2D8C76FCC9" authority="Muir" box="[490,1027,378,420]" class="Insecta" family="Delphacidae" genus="Perkinsiella" kingdom="Animalia" order="Hemiptera" pageId="5" pageNumber="110" phylum="Arthropoda" rank="species" species="thompsoni">
+<emphasis id="FBBCEAE9EB5CFFFAFE5A4A2D8BE5FCC9" bold="true" box="[490,912,378,420]" pageId="5" pageNumber="110">Perkinsiella thompsoni</emphasis>
+Muir.
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB5CFFFAFE5F4AF88B2FFF63" pageId="5" pageNumber="110" type="description">
+<paragraph id="C97736FBEB5CFFFAFE5F4AF88B2FFF63" blockId="5.[428,1829,378,526]" pageId="5" pageNumber="110">
+<materialsCitation id="79A03CA6EB5CFFFAFE5F4AF88A1BFF63" ID-GBIF-Occurrence="3881969332" collectedFrom="on sugar cane" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="5" pageNumber="110">
+Described from 
+<collectingCountry id="B1DF766BEB5CFFFAFCAA4AF88BF7FCB7" box="[794,898,431,474]" name="Guam" pageId="5" pageNumber="110">Guam</collectingCountry>
+<collectedFrom id="7AD47506EB5CFFFAFC274AF88CD5FCB7" box="[919,1184,431,474]" pageId="5" pageNumber="110">on sugar cane</collectedFrom>
+; also known from Java. Recorded by 
+<collectorName id="643D532DEB5CFFFAFE5A4AB58A1BFF63" box="[490,622,482,526]" pageId="5" pageNumber="110">Swezey</collectorName>
+</materialsCitation>
+(30, p. 309).
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

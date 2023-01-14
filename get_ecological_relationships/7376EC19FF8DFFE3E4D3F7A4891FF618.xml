@@ -1,0 +1,142 @@
+<document id="F0192552B0615294C2A042072F668838" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8DFFE3E4D3F7A4891FF618" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Oligosita" docType="treatment" docVersion="10" lastPageNumber="218" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="218" updateTime="1664203411617" updateUser="annettekang">
+<mods:mods id="FC3F248913D8EFF3D9B6BFA09769BF1F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="8A41A919ADEDE20885630D681178E814">
+<mods:title id="A961EAB1A1DBA88F6F8D3360E1A655F4">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="F89D848862BD8B1E2164F913FA5B3C7E" type="personal">
+<mods:role id="6184CE446B983E95785718C1B920D5FD">
+<mods:roleTerm id="126D9942963A0AEDB24CCD8F1DB1FE62">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="7B55F3D36DE37071A452BBD1756AE98B">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="92AD8910C6EA62A815543BD2E560E595">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="31CB915318D2EE82249E00A775BD8D6E">text</mods:typeOfResource>
+<mods:relatedItem id="EACF0C80947D887F1A14EDF041286B02" type="host">
+<mods:originInfo id="54312CA3B4734EF5FC84B09F3354CBC1">
+<mods:dateIssued id="684B6C95116843A8D07A581A52037550">1946</mods:dateIssued>
+<mods:dateOther id="4189CBA69982DF4A705FBE5DE40EFBA7" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="2E1E0C8BE4FB68A784EC06EBEA4AB4F5">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="D05FA2F84726288F432ADDAD4652AAFA">
+<mods:placeTerm id="C32A30B966FEEABE3B8468179B9674C5">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="03F6102D9EB03B53B3B10C336F3496F5">
+<mods:title id="36756F731DD6779DBB724A604B72E3F2">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="AFDEECAACE5B18496A69E7EEB3EA58C7">
+<mods:extent id="1A5379154828923C7B8A91E587C11E7B" unit="page">
+<mods:start id="6AEE8612B41CCAA1C8EAF0940772AB26">211</mods:start>
+<mods:end id="D77124175B0161F100ECDDC813FA7918">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="72A0C945C16309114C0C10BC658F6DCD">book chapter</mods:classification>
+<mods:identifier id="18C2EA339D89AAB380D31C246816D590" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="5FD26CF6A8F5729DF1A80BE223FECBF2" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="515643A64B2EA396D68D49541A4F048E" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8DFFE3E4D3F7A4891FF618" ID-DOI="http://doi.org/10.5281/zenodo.5500604" ID-GBIF-Taxon="187737406" ID-Zenodo-Dep="5500604" LSID="urn:lsid:plazi:treatment:7376EC19FF8DFFE3E4D3F7A4891FF618" httpUri="http://treatment.plazi.org/id/7376EC19FF8DFFE3E4D3F7A4891FF618" lastPageNumber="218" pageId="7" pageNumber="218">
+<subSubSection id="B3C50E84FF8DFFE3E4D3F7A48933F7E0" box="[464,1645,2056,2098]" pageId="7" pageNumber="218" type="nomenclature">
+<paragraph id="FB605D0FFF8DFFE3E4D3F7A48933F7E0" blockId="7.[463,1861,2056,2310]" box="[464,1645,2056,2098]" pageId="7" pageNumber="218">
+<heading id="A028EA63FF8DFFE3E4D3F7A48933F7E0" box="[464,1645,2056,2098]" fontSize="8" level="2" pageId="7" pageNumber="218" reason="4">
+<emphasis id="C9AB811DFF8DFFE3E4D3F7A48D5CF7E0" bold="true" box="[464,514,2056,2098]" pageId="7" pageNumber="218">59.</emphasis>
+<taxonomicName id="3CDF268CFF8DFFE3E727F7A48D97F7E0" box="[548,713,2056,2098]" class="Insecta" family="Trichogrammatidae" genus="Oligosita" kingdom="Animalia" order="Hymenoptera" pageId="7" pageNumber="218" phylum="Arthropoda" rank="genus">
+<emphasis id="C9AB811DFF8DFFE3E727F7A48D97F7E0" bold="true" box="[548,713,2056,2098]" pageId="7" pageNumber="218">Oligosita</emphasis>
+</taxonomicName>
+species, apparently close to 
+<emphasis id="C9AB811DFF8DFFE3E1DEF7A48AC9F7E0" bold="true" box="[1245,1431,2056,2098]" pageId="7" pageNumber="218">0. cratitia</emphasis>
+Waterston.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8DFFE3E711F7968996F7B7" box="[530,1736,2106,2149]" pageId="7" pageNumber="218" type="reference_group">
+<paragraph id="FB605D0FFF8DFFE3E711F7968996F7B7" blockId="7.[463,1861,2056,2310]" box="[530,1736,2106,2149]" pageId="7" pageNumber="218">
+<treatmentCitationGroup id="DBCF7A21FF8DFFE3E711F7968996F7B7" box="[530,1736,2106,2149]" pageId="7" pageNumber="218">
+<bibCitation id="2EF55563FF8DFFE3E711F7968996F7B7" author="Waterston" box="[530,1736,2106,2149]" journalOrPublisher="Bull. Ent. Research" pageId="7" pageNumber="218" pagination="184" part="13" refId="ref3456" type="journal article" year="1922">
+<treatmentCitation id="7A7E7B1EFF8DFFE3E711F796899DF7B7" author="Waterston" box="[530,1731,2106,2149]" page="184" pageId="7" pageNumber="218" year="1922">
+<emphasis id="C9AB811DFF8DFFE3E711F7968C25F7B7" box="[530,891,2106,2149]" italics="true" pageId="7" pageNumber="218">Chaetosticha cratitia</emphasis>
+<author id="2362B5EAFF8DFFE3E689F7968B16F7B7" box="[906,1096,2106,2149]" pageId="7" pageNumber="218">Waterston</author>
+, 
+<journalOrPublisher id="211E57C3FF8DFFE3E15CF7968AE0F7B7" box="[1119,1470,2106,2149]" pageId="7" pageNumber="218">Bull. Ent. Research</journalOrPublisher>
+<part id="8F7BF792FF8DFFE3E0D2F7968AAEF7B7" box="[1489,1520,2106,2149]" pageId="7" pageNumber="218" type="volume">13</part>
+: 
+<pagination id="C216A3FBFF8DFFE3E31AF796890BF7B7" box="[1561,1621,2106,2149]" pageId="7" pageNumber="218" type="pagination">184</pagination>
+, 
+<year id="8F771C5CFF8DFFE3E372F796899DF7B7" box="[1649,1731,2106,2149]" pageId="7" pageNumber="218">1922</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8DFFE3E70CF7DA8CDBF6D4" pageId="7" pageNumber="218" type="materials_examined">
+<paragraph id="FB605D0FFF8DFFE3E70CF7DA8CDBF6D4" blockId="7.[463,1861,2056,2310]" pageId="7" pageNumber="218">
+<materialsCitation id="4BB75752FF8DFFE3E70CF7DA8CDBF6D4" ID-GBIF-Occurrence="3345364309" collectedFrom="ex eggs of Stenocranus agamopsyche Kirkaldy in marsh reed (Trichoon roxburghii)" collectingDate="1936-05-15" collectorName="O. H. Swezey" country="Guam" location="Agana Swamp" pageId="7" pageNumber="218" specimenCount="1">
+<collectingMunicipality id="1B04C775FF8DFFE3E70CF7DA8DDDF772" box="[527,643,2166,2208]" pageId="7" pageNumber="218">Agana</collectingMunicipality>
+Swamp, 
+<date id="8F617BCFFF8DFFE3E633F7DA8CE7F772" box="[816,953,2166,2208]" pageId="7" pageNumber="218" value="2015-05">
+<collectingDate id="9F258227FF8DFFE3E633F7DA8CE7F772" box="[816,953,2166,2208]" pageId="7" pageNumber="218" value="2015-05">May 15</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8DFFE3E6D3F7DA8CA7F772" box="[976,1017,2166,2208]" pageId="7" pageNumber="218" type="generic">ex</specimenCount>
+<specimenCount id="EDD99686FF8DFFE3E10BF7DA8B0AF772" box="[1032,1108,2166,2208]" pageId="7" pageNumber="218" type="egg">eggs</specimenCount>
+of 
+<taxonomicName id="3CDF268CFF8DFFE3E19AF7DA884BF772" authority="Kirkaldy" authorityName="Kirkaldy" authorityYear="1906" box="[1177,1813,2166,2208]" class="Insecta" family="Delphacidae" genus="Stenocranus" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="218" phylum="Arthropoda" rank="species" species="agamopsyche">
+<emphasis id="C9AB811DFF8DFFE3E19AF7DA8939F772" box="[1177,1639,2166,2208]" italics="true" pageId="7" pageNumber="218">Stenocranus agamopsyche</emphasis>
+Kirkaldy
+</taxonomicName>
+in marsh reed 
+<emphasis id="C9AB811DFF8DFFE3E7B9F7058B3FF701" box="[698,1121,2217,2259]" italics="true" pageId="7" pageNumber="218">
+(
+<taxonomicName id="3CDF268CFF8DFFE3E7C5F7058B10F701" box="[710,1102,2217,2259]" class="Insecta" family="Trichogrammatidae" genus="Trichoon" kingdom="Animalia" order="Hymenoptera" pageId="7" pageNumber="218" phylum="Arthropoda" rank="species" species="roxburghii">Trichoon roxburghii</taxonomicName>
+),
+</emphasis>
+<collectorName id="562A38D9FF8DFFE3E178F7058A5CF701" box="[1147,1282,2217,2259]" pageId="7" pageNumber="218">Swezey</collectorName>
+. 
+<location id="FE000BD4FF8DFFE3E028F7058A2DF701" LSID="urn:lsid:plazi:treatment:7376EC19FF8DFFE3E4D3F7A4891FF618:FE000BD4FF8DFFE3E028F7058A2DF701" box="[1323,1395,2217,2259]" country="United States of America" municipality="Agana" name="One" pageId="7" pageNumber="218">One</location>
+slide mount, retained in 
+<collectingCountry id="83C81D9FFF8DFFE3E4D3F7728D73F6D4" box="[464,557,2270,2310]" name="United States of America" pageId="7" pageNumber="218">U. S.</collectingCountry>
+<location id="FE000BD4FF8DFFE3E743F7728CDEF6D4" LSID="urn:lsid:plazi:treatment:7376EC19FF8DFFE3E4D3F7A4891FF618:FE000BD4FF8DFFE3E743F7728CDEF6D4" box="[576,896,2270,2310]" country="United States of America" municipality="Agana" name="National Museum" pageId="7" pageNumber="218">National Museum</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8DFFE3E4D3F6978C01F6B6" box="[464,863,2363,2404]" pageId="7" pageNumber="218" type="discussion">
+<paragraph id="FB605D0FFF8DFFE3E4D3F6978C01F6B6" blockId="7.[464,1861,2363,2506]" box="[464,863,2363,2404]" pageId="7" pageNumber="218">
+<heading id="A028EA63FF8DFFE3E4D3F6978C01F6B6" box="[464,863,2363,2404]" fontSize="8" level="2" pageId="7" pageNumber="218" reason="4">
+<emphasis id="C9AB811DFF8DFFE3E4D3F6978D5CF6B6" bold="true" box="[464,514,2363,2404]" pageId="7" pageNumber="218">60.</emphasis>
+<taxonomicName id="3CDF268CFF8DFFE3E727F6978D95F6B6" box="[548,715,2363,2404]" class="Insecta" family="Trichogrammatidae" genus="Oligosita" kingdom="Animalia" order="Hymenoptera" pageId="7" pageNumber="218" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="C9AB811DFF8DFFE3E727F6978D95F6B6" bold="true" box="[548,715,2363,2404]" pageId="7" pageNumber="218">Oligosita</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8DFFE3E713F6C0891FF618" pageId="7" pageNumber="218" type="materials_examined">
+<paragraph id="FB605D0FFF8DFFE3E713F6C0891FF618" blockId="7.[464,1861,2363,2506]" pageId="7" pageNumber="218">
+<materialsCitation id="4BB75752FF8DFFE3E713F6C08962F618" ID-GBIF-Occurrence="3345364345" collectedFrom="ex orthopterous egg in dead bark of Hibiscus tiliaceus" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="7" pageNumber="218" specimenCount="1">
+<location id="FE000BD4FF8DFFE3E713F6C08D9FF644" LSID="urn:lsid:plazi:treatment:7376EC19FF8DFFE3E4D3F7A4891FF618:FE000BD4FF8DFFE3E713F6C08D9FF644" box="[528,705,2412,2454]" country="United States of America" name="Upi Trail" pageId="7" pageNumber="218">Upi Trail</location>
+, 
+<date id="8F617BCFFF8DFFE3E7D8F6C08C0CF644" box="[731,850,2412,2454]" pageId="7" pageNumber="218">
+<collectingDate id="9F258227FF8DFFE3E7D8F6C08C0CF644" box="[731,850,2412,2454]" pageId="7" pageNumber="218">May 5</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8DFFE3E669F6C08CCAF644" box="[874,916,2412,2454]" pageId="7" pageNumber="218" type="generic">ex</specimenCount>
+orthopterous 
+<specimenCount id="EDD99686FF8DFFE3E195F6C08B8CF644" box="[1174,1234,2412,2454]" pageId="7" pageNumber="218" type="egg">egg</specimenCount>
+in dead bark of 
+<taxonomicName id="3CDF268CFF8DFFE3E30EF6C08D01F618" authority="Swezey. One" authorityName="Swezey. One" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="7" pageNumber="218" phylum="Tracheophyta" rank="species" species="tiliaceus">
+<emphasis id="C9AB811DFF8DFFE3E30EF6C0881BF644" box="[1549,1861,2412,2454]" italics="true" pageId="7" pageNumber="218">Hibiscus tiliaceus</emphasis>
+<collectorName id="562A38D9FF8DFFE3E4D7F60C8D04F618" box="[468,602,2464,2506]" pageId="7" pageNumber="218">Swezey</collectorName>
+.
+</taxonomicName>
+<location id="FE000BD4FF8DFFE3E77FF60C8D9BF618" LSID="urn:lsid:plazi:treatment:7376EC19FF8DFFE3E4D3F7A4891FF618:FE000BD4FF8DFFE3E77FF60C8D9BF618" box="[636,709,2464,2506]" country="United States of America" name="One" pageId="7" pageNumber="218">One</location>
+slide mount, retained in 
+<collectingCountry id="83C81D9FFF8DFFE3E18AF60C8BB9F618" box="[1161,1255,2464,2506]" name="United States of America" pageId="7" pageNumber="218">U. S.</collectingCountry>
+<location id="FE000BD4FF8DFFE3E1FAF60C8962F618" LSID="urn:lsid:plazi:treatment:7376EC19FF8DFFE3E4D3F7A4891FF618:FE000BD4FF8DFFE3E1FAF60C8962F618" box="[1273,1596,2464,2506]" country="United States of America" name="National Museum" pageId="7" pageNumber="218">National Museum</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

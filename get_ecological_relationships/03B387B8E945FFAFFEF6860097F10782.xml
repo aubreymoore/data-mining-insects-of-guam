@@ -1,0 +1,91 @@
+<document id="2EC82B9F5944972B46A5D596E2B5E0FD" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E945FFAFFEF6860097F10782" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Cryptoblabes C.Linnaeus" docType="treatment" docVersion="19" lastPageNumber="177" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="177" updateTime="1670251363624" updateUser="annettekang">
+<mods:mods id="2B43DC1122D5AF35524A07B3784CB5BF" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="D89278AFE32B132F6EAB264005F05124">
+<mods:title id="97DB891D0472676C562AFA87D27B5474">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="2BEEA6893A55656DCA296B77CCE7B891" type="personal">
+<mods:role id="5F0DDA550EDC04F051C72E85BBC4C25F">
+<mods:roleTerm id="23DD5E4C6E8D7B230610EC92991A4499">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="8A2C6E3B88C40DD95D7A7D537DEFF092">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="848549F33792D9E190B6FEDC02BD6C96">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="67BA9DF7889AB4D1A334DA3F848543E6">text</mods:typeOfResource>
+<mods:relatedItem id="41E44872EEB843E551E739605068898D" type="host">
+<mods:originInfo id="A27CD72B1A663AC52B140D7251D23483">
+<mods:dateIssued id="31862A8D75327655DA4888BC81B3D0DD">1946</mods:dateIssued>
+<mods:dateOther id="800A610AC2BA50E043C7D997FF511EFB" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="D0358D6077F51E4262F507D56DAB9F01">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="2FEEC192EFD037DFFFAB10E9EA78D3F9">
+<mods:placeTerm id="24BDA798C24E618B3664C28FB6383F72">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5440380A29CC99B97FB65EC96EEAB387">
+<mods:title id="08A41E67900C98895B91C77191589E8D">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="2CC501A6131E5A970521CAB6CF0960E2">
+<mods:extent id="5FF53729105E15979C672D3BA94D9298" unit="page">
+<mods:start id="0D975D678A0CDE2602D239C1ABF55BEC">163</mods:start>
+<mods:end id="0901FAB98A4617674073F17894A6A8D9">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="0A5084327C5B7E38A7967378ADE20D26">book chapter</mods:classification>
+<mods:identifier id="8D2F1F7DD3BE433314DAD4FAA72BA3BE" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="FEB20A0D3E222FBB9A126F3F3DDF1145" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="DBC8CF2A0C7343BD9A8C9B551CB5171C" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E945FFAFFEF6860097F10782" ID-DOI="http://doi.org/10.5281/zenodo.5158569" ID-GBIF-Taxon="183926872" ID-Zenodo-Dep="5158569" LSID="urn:lsid:plazi:treatment:03B387B8E945FFAFFEF6860097F10782" httpUri="http://treatment.plazi.org/id/03B387B8E945FFAFFEF6860097F10782" lastPageNumber="177" pageId="14" pageNumber="177">
+<subSubSection id="C3006525E945FFAFFEF686009178072A" box="[313,782,1085,1125]" pageId="14" pageNumber="177" type="nomenclature">
+<paragraph id="8BA536AEE945FFAFFEF686009178072A" blockId="14.[309,1710,341,1651]" box="[313,782,1085,1125]" pageId="14" pageNumber="177">
+<emphasis id="B96EEABCE945FFAFFEF68600900F072A" bold="true" box="[313,633,1085,1125]" pageId="14" pageNumber="177">
+11. 
+<taxonomicName id="4C1A4D2DE945FFAFFE448600900F072A" authority="Ragonot" authorityName="C.Linnaeus" box="[395,633,1085,1125]" class="Insecta" family="Pyralidae" genus="Cryptoblabes" higherTaxonomySource="CoL" kingdom="Animalia" order="Lepidoptera" pageId="14" pageNumber="177" phylum="Arthropoda" rank="genus">Cryptoblabes</taxonomicName>
+</emphasis>
+species.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E945FFAFFEB7865297F10782" pageId="14" pageNumber="177" type="materials_examined">
+<paragraph id="8BA536AEE945FFAFFEB7865297F10782" blockId="14.[309,1710,341,1651]" pageId="14" pageNumber="177">
+<materialsCitation id="3B723CF3E945FFAFFEB7865293B80782" ID-GBIF-Occurrence="3332081419" collectedFrom="one reared from larva on leaf Barringtonia speciosa" collectingDate="1936-09-18" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="14" pageNumber="177" specimenCount="1">
+<collectingMunicipality id="6BC1ACD4E945FFAFFEB7865293B607D5" box="[376,448,1135,1178]" pageId="14" pageNumber="177">One</collectingMunicipality>
+reared from 
+<specimenCount id="9D1CFD27E945FFAFFD788652917807D5" box="[695,782,1135,1178]" pageId="14" pageNumber="177" type="larva">larva</specimenCount>
+on leaf of 
+<taxonomicName id="4C1A4D2DE945FFAFFC148652941007D5" authority=", Fadian, Sept." authorityName="Fadian, Sept." box="[987,1638,1135,1178]" class="Magnoliopsida" family="Lecythidaceae" genus="Barringtonia" kingdom="Plantae" order="Ericales" pageId="14" pageNumber="177" phylum="Tracheophyta" rank="species" species="speciosa">
+<emphasis id="B96EEABCE945FFAFFC148652971107D5" box="[987,1383,1135,1178]" italics="true" pageId="14" pageNumber="177">
+<location id="8EC56075E945FFAFFC14865296C907D5" LSID="urn:lsid:plazi:treatment:03B387B8E945FFAFFEF6860097F10782:8EC56075E945FFAFFC14865296C907D5" box="[987,1215,1135,1178]" pageId="14" pageNumber="177">Barringtonia</location>
+speciosa,
+</emphasis>
+<location id="8EC56075E945FFAFFAB48652978107D5" LSID="urn:lsid:plazi:treatment:03B387B8E945FFAFFEF6860097F10782:8EC56075E945FFAFFAB48652978107D5" box="[1403,1527,1135,1178]" pageId="14" pageNumber="177">Fadian</location>
+, 
+<date id="FFA4106EE945FFAFF9DE865294D207D5" box="[1553,1700,1135,1178]" pageId="14" pageNumber="177" value="2018-09">
+<collectingDate id="EFE0E986E945FFAFF9DE865294D207D5" box="[1553,1700,1135,1178]" pageId="14" pageNumber="177" value="2018-09">Sept. 18</collectingDate>
+</date>
+</taxonomicName>
+, 
+<collectorName id="26EF5378E945FFAFFEF4869E93B10782" box="[315,455,1187,1229]" pageId="14" pageNumber="177">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E945FFAFFE2C869E911B0782" ID-GBIF-Occurrence="3913652454" box="[483,877,1187,1229]" collectedFrom="at light" collectingDate="1936-07-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="14" pageNumber="177">
+<location id="8EC56075E945FFAFFE2C869E90500782" LSID="urn:lsid:plazi:treatment:03B387B8E945FFAFFEF6860097F10782:8EC56075E945FFAFFE2C869E90500782" box="[483,550,1187,1229]" pageId="14" pageNumber="177">
+<collectingMunicipality id="6BC1ACD4E945FFAFFE2C869E90500782" box="[483,550,1187,1229]" pageId="14" pageNumber="177">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE945FFAFFD8F869E90BF0782" box="[576,713,1187,1229]" pageId="14" pageNumber="177" value="2012-07">
+<collectingDate id="EFE0E986E945FFAFFD8F869E90BF0782" box="[576,713,1187,1229]" pageId="14" pageNumber="177" value="2012-07">July 12</collectingDate>
+</date>
+, at light,
+</materialsCitation>
+<materialsCitation id="3B723CF3E945FFAFFC4C869E97F10782" ID-GBIF-Occurrence="3913652334" box="[899,1415,1187,1229]" collectedFrom="on screen" collectingDate="1936-09-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="14" pageNumber="177">
+<date id="FFA4106EE945FFAFFC4C869E966E0782" box="[899,1048,1187,1229]" pageId="14" pageNumber="177" value="2013-09">
+<collectingDate id="EFE0E986E945FFAFFC4C869E966E0782" box="[899,1048,1187,1229]" pageId="14" pageNumber="177" value="2013-09">Sept. 13</collectingDate>
+</date>
+, on screen, 
+<collectorName id="26EF5378E945FFAFFB34869E97F40782" box="[1275,1410,1187,1229]" pageId="14" pageNumber="177">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

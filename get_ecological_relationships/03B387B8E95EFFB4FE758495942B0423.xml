@@ -1,0 +1,111 @@
+<document id="D267A1473D943661CFD08ABDF8D488DA" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E95EFFB4FE758495942B0423" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Diasemia accalis Walker" docType="treatment" docVersion="22" lastPageNumber="184" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="184" updateTime="1670268541483" updateUser="annettekang">
+<mods:mods id="7D32338CCA2CD9A0733FFB67379154B6" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="AD3EAB9268607556D57B400B79365244">
+<mods:title id="89E4559A29C473D9B26F993EBF524DE3">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="F7BBB8C4FF70B82F66C01CB53E56CBB5" type="personal">
+<mods:role id="EA7FC0C9F1D630D516D424B0FEC1D2BF">
+<mods:roleTerm id="A3FCD28CE17BCD775141D653DD9D54E6">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D2F9A882E9E3E4C11CD4228C17A2B879">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="3143AB3DA636E0859271B087D4A0254B">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="3467F9A24553B7F01B6053BC7B21BC93">text</mods:typeOfResource>
+<mods:relatedItem id="A0B07B9A915B58972CE10B1CEE51D00B" type="host">
+<mods:originInfo id="5265293FCCF6A076E20909FC3A9C8208">
+<mods:dateIssued id="5D8B27D68ED0F444254EF69B9F9DF58A">1946</mods:dateIssued>
+<mods:dateOther id="B8787D1F9216CEA833475D8B58485A79" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="020EE0C2C8EFDE3B2071544CFC66AF88">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="987AA2E6DC376963B41568CCD8C8087F">
+<mods:placeTerm id="21B0B638A9FBB85F5A9746BA25E484DA">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="DB10AAF5427C373129C7EED5969AE807">
+<mods:title id="81F7CFB359B5DA2AF1FDF79B536EF1AC">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="6B15BC0121AB113C1F251203187129C0">
+<mods:extent id="6AD0401D080D3F72BCEDF837D69DD15F" unit="page">
+<mods:start id="85181456DFD53D1849CEFF6BEB6D0EA4">163</mods:start>
+<mods:end id="F765A9D29605E47D249FC140BBDE36F9">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="13D32DD8AEA80A5E48DCB458423F5094">book chapter</mods:classification>
+<mods:identifier id="907F27D66DAF8C5FBDE41719E862812A" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="62AE19B3BD5E511E95CC42A7DA2724FF" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="F96131409A502EC1988D579CD66FB6E0" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E95EFFB4FE758495942B0423" ID-DOI="http://doi.org/10.5281/zenodo.5224298" ID-GBIF-Taxon="183926850" ID-Zenodo-Dep="5224298" LSID="urn:lsid:plazi:treatment:03B387B8E95EFFB4FE758495942B0423" httpUri="http://treatment.plazi.org/id/03B387B8E95EFFB4FE758495942B0423" lastPageNumber="184" pageId="21" pageNumber="184">
+<subSubSection id="C3006525E95EFFB4FE7584959180059C" box="[442,1014,1704,1747]" pageId="21" pageNumber="184" type="nomenclature">
+<paragraph id="8BA536AEE95EFFB4FE7584959180059C" blockId="21.[442,1842,1704,1900]" box="[442,1014,1704,1747]" pageId="21" pageNumber="184">
+<heading id="D0ED81C2E95EFFB4FE7584959180059C" box="[442,1014,1704,1747]" centered="true" fontSize="8" level="2" pageId="21" pageNumber="184" reason="4">
+<emphasis id="B96EEABCE95EFFB4FE7584959068059C" bold="true" box="[442,542,1704,1747]" pageId="21" pageNumber="184">40. *</emphasis>
+<taxonomicName id="4C1A4D2DE95EFFB4FDD184959199059C" authority="Walker" box="[542,1007,1704,1747]" class="Insecta" family="Crambidae" genus="Diasemia" kingdom="Animalia" order="Lepidoptera" pageId="21" pageNumber="184" phylum="Arthropoda" rank="species" species="accalis">
+<emphasis id="B96EEABCE95EFFB4FDD184959125059C" bold="true" box="[542,851,1704,1747]" pageId="21" pageNumber="184">Diasemia accalis</emphasis>
+<author id="53A7DE4BE95EFFB4FCAA84959199059C" box="[869,1007,1704,1747]" pageId="21" pageNumber="184">Walker</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95EFFB4FBC48495942B0423" pageId="21" pageNumber="184" type="description">
+<paragraph id="8BA536AEE95EFFB4FBC4849591A50448" blockId="21.[442,1842,1704,1900]" pageId="21" pageNumber="184">
+<treatmentCitationGroup id="AB0A1180E95EFFB4FBC4849591A50448" pageId="21" pageNumber="184">
+<bibCitation id="5E303EC2E95EFFB4FBC4849591A50448" author="Walker" pageId="21" pageNumber="184" pagination="1015" part="19" refId="ref11859" title="Fauna Br. it. India, Moths" type="journal article" year="1859">
+<heading id="D0ED81C2E95EFFB4FBC484959559059C" box="[1035,1839,1704,1747]" centered="true" fontSize="8" level="2" pageId="21" pageNumber="184" reason="4">
+<treatmentCitation id="0ABB10BFE95EFFB4FBC48495970A059C" author="Walker" box="[1035,1404,1704,1747]" page="1015" pageId="21" pageNumber="184" year="1859">
+Cat. 
+<emphasis id="B96EEABCE95EFFB4FBA7849596FB059C" bold="true" box="[1128,1165,1704,1747]" pageId="21" pageNumber="184">
+<part id="FFBE9C33E95EFFB4FBA7849596FF059C" box="[1128,1161,1704,1747]" pageId="21" pageNumber="184" type="volume">19</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE95EFFB4FB6084959777059C" box="[1199,1281,1704,1747]" pageId="21" pageNumber="184" type="pagination">1015</pagination>
+, 
+<year id="FFB277FDE95EFFB4FAD384959703059C" box="[1308,1397,1704,1747]" pageId="21" pageNumber="184">1859</year>
+;
+</treatmentCitation>
+<treatmentCitation id="0ABB10BFE95EFFB4FA5F84959559059C" author="Hampson" box="[1424,1839,1704,1747]" page="411" pageId="21" pageNumber="184" year="1896">
+<author id="53A7DE4BE95EFFB4FA5F84959449059C" box="[1424,1599,1704,1747]" pageId="21" pageNumber="184">Hampson</author>
+, 
+<title id="F91EDD98E95EFFB4F99484959559059C" box="[1627,1839,1704,1747]" pageId="21" pageNumber="184">Fauna Br.it.</title>
+</treatmentCitation>
+</heading>
+<collectingCountry id="F30D763EE95EFFB4FE3584E0902C0448" box="[506,602,1757,1799]" name="India" pageId="21" pageNumber="184">India</collectingCountry>
+, Moths 
+<emphasis id="B96EEABCE95EFFB4FD3E84E091600448" bold="true" box="[753,790,1757,1799]" pageId="21" pageNumber="184">
+<part id="FFBE9C33E95EFFB4FD3E84E091790448" box="[753,783,1757,1799]" pageId="21" pageNumber="184" type="volume">4</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE95EFFB4FCED84E091140448" box="[802,866,1757,1799]" pageId="21" pageNumber="184" type="pagination">411</pagination>
+, 
+<year id="FFB277FDE95EFFB4FCB384E091B80448" box="[892,974,1757,1799]" pageId="21" pageNumber="184">1896</year>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE95EFFB4FE328532942B0423" blockId="21.[442,1842,1704,1900]" pageId="21" pageNumber="184">
+<materialsCitation id="3B723CF3E95EFFB4FE32853290F90423" ID-GBIF-Occurrence="3913652428" collectedFrom="reared from fruit of Barringtonia speciosa" collectingDate="1936-05-30" collectorName="O. H. Swezey" country="Guam" location="Tumon" pageId="21" pageNumber="184" specimenCount="1">
+<collectingMunicipality id="6BC1ACD4E95EFFB4FE32853290330475" box="[509,581,1807,1850]" pageId="21" pageNumber="184">One</collectingMunicipality>
+<specimenCount id="9D1CFD27E95EFFB4FD938532908F0475" box="[604,761,1807,1850]" pageId="21" pageNumber="184" type="generic">specimen</specimenCount>
+reared from fruit of 
+<taxonomicName id="4C1A4D2DE95EFFB4FB55853294B20475" authority=", Tumon" authorityName="Tumon" box="[1178,1732,1807,1850]" class="Magnoliopsida" family="Lecythidaceae" genus="Barringtonia" kingdom="Plantae" order="Ericales" pageId="21" pageNumber="184" phylum="Tracheophyta" rank="species" species="speciosa">
+<emphasis id="B96EEABCE95EFFB4FB558532945C0475" box="[1178,1578,1807,1850]" italics="true" pageId="21" pageNumber="184">
+<location id="8EC56075E95EFFB4FB55853297080475" LSID="urn:lsid:plazi:treatment:03B387B8E95EFFB4FE758495942B0423:8EC56075E95EFFB4FB55853297080475" box="[1178,1406,1807,1850]" pageId="21" pageNumber="184">Barringtonia</location>
+speciosa,
+</emphasis>
+<location id="8EC56075E95EFFB4F98E853294B20475" LSID="urn:lsid:plazi:treatment:03B387B8E95EFFB4FE758495942B0423:8EC56075E95EFFB4F98E853294B20475" box="[1601,1732,1807,1850]" pageId="21" pageNumber="184">Tumon</location>
+</taxonomicName>
+, 
+<date id="FFA4106EE95EFFB4F92C8532939E0423" pageId="21" pageNumber="184" value="1930-05">
+<collectingDate id="EFE0E986E95EFFB4F92C8532939E0423" pageId="21" pageNumber="184" value="1930-05">May 30</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E95EFFB4FDC6857990F90423" box="[521,655,1860,1900]" pageId="21" pageNumber="184">Swezey</collectorName>
+</materialsCitation>
+. Recorded from Shanghai, Dharmsala, and 
+<collectingCountry id="F30D763EE95EFFB4FA138579942E0423" box="[1500,1624,1860,1900]" name="Myanmar" pageId="21" pageNumber="184">Burma</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

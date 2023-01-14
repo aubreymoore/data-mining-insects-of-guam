@@ -1,0 +1,168 @@
+<document id="E6018793A2F88B3A3DCCFFF2B9F050C3" ID-DOI="http://doi.org/10.5281/zenodo.5164064" ID-GBIF-Dataset="8ddfacbb-c42b-4385-b70b-ea5bd759c377" ID-Zenodo-Dep="5164064" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628020838575" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03938792FFDAFFC8FE3CF809841BFD16" docLanguage="en" docName="InsectsOfGuamII.189.149-156.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Peregrinus maidis" docType="treatment" docVersion="13" lastPageNumber="151" masterDocId="FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9" masterDocTitle="Notes On Some Fulgoroidea Of Guam" masterLastPageNumber="156" masterPageNumber="149" pageNumber="150" updateTime="1671318232748" updateUser="annettekang">
+<mods:mods id="1EB232E02387389A02983B1832EE0DE0" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="F730920277DC4527D6F354F1A870F1F5">
+<mods:title id="4FB8792BC07EBCC209E38FB7CB6AD17A">Notes On Some Fulgoroidea Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="DAA10E63B527F10F58921BB3D4BF72B7" type="personal">
+<mods:role id="DEAEBC4202ADDA965BA7333BD7A5B6DE">
+<mods:roleTerm id="B697F9E4C9CC2120F2A9052AEE75B31A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="150D18D819F50B9088F5B0185E40747C">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="DEF2E6E8B79E96D33E0DC1F945A8DCF8">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="3F99F71F39C39A9EB137C8EFABDFE2CB">text</mods:typeOfResource>
+<mods:relatedItem id="753ED25B8E8B320F6EBC837BCCDD7F0C" type="host">
+<mods:originInfo id="B604254743389580C33B27575014C33A">
+<mods:dateIssued id="78323EA27FEB320207DA0799AF3CE100">1946</mods:dateIssued>
+<mods:dateOther id="5A7BD61683D01260505C9C0273106A98" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="E389211A92C69CAAC24D8C7A13FDB56D">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="5214B08FB1913E91C2D7ED353D1F13F2">
+<mods:placeTerm id="C1456F284227E21C96FE48FFE8258ED2">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="F7235DB38DBBEB8E0839709348DCE0E1">
+<mods:title id="4D5457E68E7010711DC1471EC784BC7D">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="466E414ED7008F2700FCED395935CC49">
+<mods:extent id="8C97775E4AAD2D75B1E0BD065DF27467" unit="page">
+<mods:start id="48494AE4743EEBE4463F8334CC2B1499">149</mods:start>
+<mods:end id="F8549054AEF58AFC0D45421DD9D56F06">156</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="36980BA400B7D69A16A995448357E26F">book chapter</mods:classification>
+<mods:identifier id="1F0099B278C62AFB4B517CD448EA5A15" type="DOI">http://doi.org/10.5281/zenodo.5164064</mods:identifier>
+<mods:identifier id="60AF7E7922D9CE377B6EF1FD3B3930B8" type="GBIF-Dataset">8ddfacbb-c42b-4385-b70b-ea5bd759c377</mods:identifier>
+<mods:identifier id="5B7A2C7B226B8843844F2646F852C748" type="Zenodo-Dep">5164064</mods:identifier>
+</mods:mods>
+<treatment id="03938792FFDAFFC8FE3CF809841BFD16" ID-DOI="http://doi.org/10.5281/zenodo.5167388" ID-GBIF-Taxon="183925083" ID-Zenodo-Dep="5167388" LSID="urn:lsid:plazi:treatment:03938792FFDAFFC8FE3CF809841BFD16" httpUri="http://treatment.plazi.org/id/03938792FFDAFFC8FE3CF809841BFD16" lastPageId="2" lastPageNumber="151" pageId="1" pageNumber="150">
+<subSubSection id="C320650FFFDAFFCBFE3CF809824CF804" box="[450,1085,1988,2029]" pageId="1" pageNumber="150" type="nomenclature">
+<paragraph id="8B853684FFDAFFCBFE3CF809824CF804" blockId="1.[450,1851,1988,2545]" box="[450,1085,1988,2029]" pageId="1" pageNumber="150">
+<heading id="D0CD81E8FFDAFFCBFE3CF809824CF804" box="[450,1085,1988,2029]" fontSize="11" level="2" pageId="1" pageNumber="150" reason="2">
+<emphasis id="B94EEA96FFDAFFCBFE3CF8098791F804" bold="true" box="[450,480,1988,2029]" pageId="1" pageNumber="150">2.</emphasis>
+<taxonomicName id="4C3A4D07FFDAFFCBFDFFF8098249F804" authority="(Ashmead)" baseAuthorityName="Ashmead" baseAuthorityYear="1890" box="[513,1080,1988,2029]" class="Insecta" family="Delphacidae" genus="Peregrinus" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="150" phylum="Arthropoda" rank="species" species="maidis">
+<emphasis id="B94EEA96FFDAFFCBFDFFF8098521F804" bold="true" box="[513,848,1988,2029]" pageId="1" pageNumber="150">Peregrinus maidis</emphasis>
+(Ashmead)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDAFFCBFDFEF83A806DF7BD" pageId="1" pageNumber="150" type="reference_group">
+<paragraph id="8B853684FFDAFFCBFDFEF83A832BF7F6" blockId="1.[450,1851,1988,2545]" box="[512,1370,2039,2079]" pageId="1" pageNumber="150">
+<treatmentCitationGroup id="AB2A11AAFFDAFFCBFDFEF83A832BF7F6" box="[512,1370,2039,2079]" pageId="1" pageNumber="150">
+<treatmentCitation id="0A9B1095FFDAFFCBFDFEF83A832BF7F6" author="Ashmead" box="[512,1370,2039,2079]" page="323" pageId="1" pageNumber="150" year="1890">
+<taxonomicName id="4C3A4D07FFDAFFCBFDFEF83A85A0F7F6" authority="Ashmead" box="[512,977,2039,2079]" kingdom="Animalia" pageId="1" pageNumber="150" rank="species">
+<emphasis id="B94EEA96FFDAFFCBFDFEF83A8569F7F6" box="[512,792,2039,2079]" italics="true" pageId="1" pageNumber="150">Delphax maidis</emphasis>
+<bibCitation id="5E103EE8FFDAFFCBFCD7F83A8324F7F6" author="Ashmead" box="[809,1365,2039,2079]" journalOrPublisher="Psyche" pageId="1" pageNumber="150" pagination="323" part="5" type="journal article" year="1890">
+<author id="5387DE61FFDAFFCBFCD7F83A85A0F7F6" box="[809,977,2039,2079]" pageId="1" pageNumber="150">Ashmead</author>
+, 
+<journalOrPublisher id="51FB3C48FFDAFFCBFC17F83A8217F7F6" box="[1001,1126,2039,2079]" pageId="1" pageNumber="150">Psyche</journalOrPublisher>
+<emphasis id="B94EEA96FFDAFFCBFB8AF83A82F7F7F6" bold="true" box="[1140,1158,2039,2079]" pageId="1" pageNumber="150">
+<part id="FF9E9C19FFDAFFCBFB8AF83A82F3F7F6" box="[1140,1154,2039,2079]" pageId="1" pageNumber="150" type="volume">5</part>
+:
+</emphasis>
+<pagination id="B2F3C870FFDAFFCBFB5BF83A8297F7F6" box="[1189,1254,2039,2079]" pageId="1" pageNumber="150" type="pagination">323</pagination>
+, 
+<year id="FF9277D7FFDAFFCBFAFEF83A8324F7F6" box="[1280,1365,2039,2079]" pageId="1" pageNumber="150">1890</year>
+</bibCitation>
+</taxonomicName>
+.
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8B853684FFDAFFCBFDFFF7E7806DF7BD" blockId="1.[450,1851,1988,2545]" box="[513,1564,2090,2132]" pageId="1" pageNumber="150">
+<treatmentCitationGroup id="AB2A11AAFFDAFFCBFDFFF7E7806DF7BD" box="[513,1564,2090,2132]" pageId="1" pageNumber="150">
+<treatmentCitation id="0A9B1095FFDAFFCBFDFFF7E7806DF7BD" author="Kirkaldy" box="[513,1564,2090,2132]" page="176" pageId="1" pageNumber="150" year="1904">
+<taxonomicName id="4C3A4D07FFDAFFCBFDFFF7E78278F7BD" authority="Kirkaldy" box="[513,1033,2090,2132]" kingdom="Animalia" pageId="1" pageNumber="150" rank="species">
+<emphasis id="B94EEA96FFDAFFCBFDFFF7E78522F7BD" box="[513,851,2090,2132]" italics="true" pageId="1" pageNumber="150">Peregrinus maidis,</emphasis>
+<bibCitation id="5E103EE8FFDAFFCBFC99F7E7806DF7BD" author="Kirkaldy" box="[871,1564,2090,2132]" journalOrPublisher="Entomologist" pageId="1" pageNumber="150" pagination="176" part="37" type="journal article" year="1904">
+<author id="5387DE61FFDAFFCBFC99F7E78278F7BD" box="[871,1033,2090,2132]" pageId="1" pageNumber="150">Kirkaldy</author>
+, 
+<journalOrPublisher id="51FB3C48FFDAFFCBFBDDF7E7837EF7BD" box="[1059,1295,2090,2132]" pageId="1" pageNumber="150">Entomologist</journalOrPublisher>
+<emphasis id="B94EEA96FFDAFFCBFADCF7E7832AF7BD" bold="true" box="[1314,1371,2090,2132]" pageId="1" pageNumber="150">
+<part id="FF9E9C19FFDAFFCBFADCF7E7833BF7BD" box="[1314,1354,2090,2132]" pageId="1" pageNumber="150" type="volume">37</part>
+:
+</emphasis>
+<pagination id="B2F3C870FFDAFFCBFA92F7E783D8F7BD" box="[1388,1449,2090,2132]" pageId="1" pageNumber="150" type="pagination">176</pagination>
+, 
+<year id="FF9277D7FFDAFFCBFA38F7E78066F7BD" box="[1478,1559,2090,2132]" pageId="1" pageNumber="150">1904</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDAFFC8FDFDF7A9841BFD16" lastPageId="2" lastPageNumber="151" pageId="1" pageNumber="150" type="discussion">
+<paragraph id="8B853684FFDAFFC8FDFDF7A987C6FE20" blockId="1.[450,1851,1988,2545]" lastBlockId="2.[297,1696,314,767]" lastPageId="2" lastPageNumber="151" pageId="1" pageNumber="150">
+The corn leafhopper was first recorded from Florida where it was noted as an immigrant pest in 1888. It is now known wherever,corn is grown in the tropics. 
+<materialsCitation id="3B523CD9FFDAFFCBFD59F7078143F71D" ID-GBIF-Occurrence="3914035311" box="[679,1842,2250,2292]" collectedFrom="reported as a pest on corn" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="1" pageNumber="150">
+It was reported in 
+<collectingCountry id="F32D7614FFDAFFCBFBFEF7078218F71D" box="[1024,1129,2250,2292]" name="Guam" pageId="1" pageNumber="150">Guam</collectingCountry>
+by 
+<collectingMunicipality id="6BE1ACFEFFDAFFCBFB4AF7078329F71D" box="[1204,1368,2250,2292]" pageId="1" pageNumber="150">Fullaway</collectingMunicipality>
+in 1911 as a pest on corn
+</materialsCitation>
+, though not so injurious as it is in Hawaii. Its greatest importance lies in the fact that it transmits a streak disease which stunts the growth of the corn plants and prevents production of ears. The variety of corn grown in Guam is mostly resistant to this disease, but some examples of it are occasionally seen. The leafhoppers were usually to be found in small numbers on corn in all districts, but our collections include them from only a few places: 
+<materialsCitation id="3B523CD9FFD9FFC8FED4FEA18552FE7E" ID-GBIF-Occurrence="3914035321" box="[298,803,364,407]" collectingDate="1936-05-11" collectorName="R. L. Usinger" country="Guam" location="Dededo" pageId="2" pageNumber="151">
+<collectingMunicipality id="6BE1ACFEFFD9FFC8FED4FEA187C3FE7E" box="[298,434,364,407]" pageId="2" pageNumber="151">Dededo</collectingMunicipality>
+, 
+<date id="FF841044FFD9FFC8FE2BFEA1841BFE7E" box="[469,618,364,407]" pageId="2" pageNumber="151" value="2011-05">
+<collectingDate id="EFC0E9ACFFD9FFC8FE2BFEA1841BFE7E" box="[469,618,364,407]" pageId="2" pageNumber="151" value="2011-05">May 11</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFD9FFC8FD72FEA18552FE7E" box="[652,803,364,407]" pageId="2" pageNumber="151">Usinger</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="3B523CD9FFD9FFC8FCB9FEA18340FE7E" ID-GBIF-Occurrence="3914035341" box="[839,1329,364,407]" collectingDate="1936-06-11" collectorName="O. H. Swezey" country="Guam" location="Merizo" pageId="2" pageNumber="151">
+<location id="8EE5605FFFD9FFC8FCB9FEA185B6FE7E" LSID="urn:lsid:plazi:treatment:03938792FFDAFFC8FE3CF809841BFD16:8EE5605FFFD9FFC8FCB9FEA185B6FE7E" box="[839,967,364,407]" name="Merizo" pageId="2" pageNumber="151">Merizo</location>
+, 
+<date id="FF841044FFD9FFC8FC16FEA182F0FE7E" box="[1000,1153,364,407]" pageId="2" pageNumber="151" value="2011-06">
+<collectingDate id="EFC0E9ACFFD9FFC8FC16FEA182F0FE7E" box="[1000,1153,364,407]" pageId="2" pageNumber="151" value="2011-06">
+June 
+<emphasis id="B94EEA96FFD9FFC8FBA6FEA182F0FE7E" bold="true" box="[1112,1153,364,407]" pageId="2" pageNumber="151">11</emphasis>
+</collectingDate>
+</date>
+, 
+<journalOrPublisher id="51FB3C48FFD9FFC8FB5AFEA18340FE7E" box="[1188,1329,364,407]" jopScore="0.013444405" pageId="2" pageNumber="151">
+<collectorName id="26CF5352FFD9FFC8FB5AFEA18340FE7E" box="[1188,1329,364,407]" pageId="2" pageNumber="151">Swezey</collectorName>
+</journalOrPublisher>
+</materialsCitation>
+; 
+<materialsCitation id="3B523CD9FFD9FFC8FAAAFEA18038FE7E" ID-GBIF-Occurrence="3914035339" box="[1364,1609,364,407]" collectingDate="1936-07-21" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="151">
+<author id="5387DE61FFD9FFC8FAAAFEA18075FE7E" box="[1364,1540,364,407]" case="TC" fn="July" fnc="TC" fns="N" ln="Piti" lnc="TC" npo="LnFn" pageId="2" pageNumber="151">
+<location id="8EE5605FFFD9FFC8FAAAFEA183E6FE7E" LSID="urn:lsid:plazi:treatment:03938792FFDAFFC8FE3CF809841BFD16:8EE5605FFFD9FFC8FAAAFEA183E6FE7E" box="[1364,1431,364,407]" name="Piti" pageId="2" pageNumber="151">Piti</location>
+, 
+<date id="FF841044FFD9FFC8FA46FEA18038FE7E" box="[1464,1609,364,407]" pageId="2" pageNumber="151" value="2021-07">
+<collectingDate id="EFC0E9ACFFD9FFC8FA46FEA18038FE7E" box="[1464,1609,364,407]" pageId="2" pageNumber="151" value="2021-07">
+July 
+<part id="FF9E9C19FFD9FFC8F9E0FEA18038FE7E" box="[1566,1609,364,407]" pageId="2" pageNumber="151" type="volume">21</part>
+</collectingDate>
+</date>
+</author>
+</materialsCitation>
+, 
+<materialsCitation id="3B523CD9FFD9FFC8F995FEA187C3FE20" ID-GBIF-Occurrence="3914035327" collectingDate="1936-07-31" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="151">
+<pagination id="B2F3C870FFD9FFC8F995FEA180E7FE7E" box="[1643,1686,364,407]" pageId="2" pageNumber="151" type="pagination">31</pagination>
+, 
+<collectorName id="26CF5352FFD9FFC8FED5FE5287C3FE20" box="[299,434,415,457]" pageId="2" pageNumber="151">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+<paragraph id="8B853684FFD9FFC8FE96FE17841BFD16" blockId="2.[297,1696,314,767]" pageId="2" pageNumber="151">
+At Dededo, an egg parasite was reared which was determined by A. B. Gahan as 
+<taxonomicName id="4C3A4D07FFD9FFC8FE14FDC18258FDDF" authority="Waterhouse. A" authorityName="Waterhouse. A" box="[490,1065,524,566]" class="Insecta" family="Mymaridae" genus="Anagrus" kingdom="Animalia" order="Hymenoptera" pageId="2" pageNumber="151" phylum="Arthropoda" rank="species" species="flaveolus">
+<emphasis id="B94EEA96FFD9FFC8FE14FDC18542FDDF" box="[490,819,524,566]" italics="true" pageId="2" pageNumber="151">Anagrus flaveolus</emphasis>
+Waterhouse.
+</taxonomicName>
+A small green bug, 
+<taxonomicName id="4C3A4D07FFD9FFC8FA35FDC184F0FD81" authority="Reuter" authorityName="Reuter" class="Insecta" family="Miridae" genus="Cyrtorhinus" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="151" phylum="Arthropoda" rank="species" species="lividipennis">
+<emphasis id="B94EEA96FFD9FFC8FA35FDC18784FD81" italics="true" pageId="2" pageNumber="151">Cyrtorhinus lividipennis</emphasis>
+Reuter
+</taxonomicName>
+, is associated with the corn leafhopper, feeding by sucking the eggs where inserted into the midribs of the leaves. It is no doubt effective in the control of the leafhopper, keeping it from becoming so abundant as to be a serious pest.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

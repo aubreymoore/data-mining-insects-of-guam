@@ -1,0 +1,153 @@
+<document id="92ED547921C1828B9E586D777786A35D" ID-DOI="http://doi.org/10.5281/zenodo.5174008" ID-GBIF-Dataset="62345736-dcf6-4c38-a870-36a90992dabb" ID-Zenodo-Dep="5174008" checkinTime="1628020725273" checkinUser="carolina" docAuthor="Metcalf, Z. P." docDate="1946" docId="416187EDEB52FFF4FE2B4A2A8A04FA1C" docLanguage="en" docName="InsectsOfGuamII.189.105-148.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Muiralyricen pallescens" docType="treatment" docVersion="13" lastPageNumber="116" masterDocId="BD58FF95EB59FFFFFFB04B578875FD6D" masterDocTitle="Homoptera, Fulgoroidea and Jassoidea of Guam" masterLastPageNumber="148" masterPageNumber="105" pageNumber="116" updateTime="1660144623724" updateUser="annettekang">
+<mods:mods id="D86056243090EEF3E6D72DE65FB90561" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C9971F01E879B6F199F9244BC9C814BC">
+<mods:title id="2D3538E46E3A2AB990ECD3F794F31DB0">Homoptera, Fulgoroidea and Jassoidea of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="80CD1EB871D799FCE184F7167F5DB43C" type="personal">
+<mods:role id="45488A4411DF8901DA699F1D257426BA">
+<mods:roleTerm id="91D3CE6CAC771BC10B8A2DD018498370">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="FEFFE62D276CA7768E15E02E9EE467AD">Metcalf, Z. P.</mods:namePart>
+<mods:affiliation id="B91AF4BD57DD2967109ABCD189954168">College of Agriculture and Engineering, University of North Carolins</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="ADF74F81F942B7F26532979A79D3266C">text</mods:typeOfResource>
+<mods:relatedItem id="579CCECF12DDE11C70C784B02433E680" type="host">
+<mods:originInfo id="9A920EAAC1DE502163CD853B5D778830">
+<mods:dateIssued id="8BD37CF11DC001C1160F705136D2F20F">1946</mods:dateIssued>
+<mods:dateOther id="B78F8EA853B3C560386B1AF708D51C93" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="AF3E3A582513C726D08C8A4A0FA5CB03">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="3AC1E1ADAC3965AE1C098B17266B73F3">
+<mods:placeTerm id="857F28D2AA35A3FD897E627E4325B45B">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="05CFD630A7301ECCEF706B6D8F446242">
+<mods:title id="AA09B984DE8E8A628A2A5D045CBE1683">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="0C16C58D4712647B92D7A63CC283CF34">
+<mods:extent id="0965FBA90685B40E7386C3515E781E9C" unit="page">
+<mods:start id="228E852B47C366E0B4E2B1DF966534D9">105</mods:start>
+<mods:end id="730A5A53B91E1B32C3C3B0A0B48BF49D">148</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E6D22319F06EEA0D95EF483C67B12D93">book chapter</mods:classification>
+<mods:identifier id="90C89238915714EA06A132A781F20965" type="DOI">http://doi.org/10.5281/zenodo.5174008</mods:identifier>
+<mods:identifier id="AA33573E59924FAF7CBA16F14CA0B273" type="GBIF-Dataset">62345736-dcf6-4c38-a870-36a90992dabb</mods:identifier>
+<mods:identifier id="D0C7E8782633BE5F0DA2378A6AEB3DA4" type="Zenodo-Dep">5174008</mods:identifier>
+</mods:mods>
+<treatment id="416187EDEB52FFF4FE2B4A2A8A04FA1C" ID-DOI="http://doi.org/10.5281/zenodo.5188135" ID-GBIF-Taxon="184008985" ID-Zenodo-Dep="5188135" LSID="urn:lsid:plazi:treatment:416187EDEB52FFF4FE2B4A2A8A04FA1C" httpUri="http://treatment.plazi.org/id/416187EDEB52FFF4FE2B4A2A8A04FA1C" lastPageNumber="116" pageId="11" pageNumber="116">
+<subSubSection id="81D26570EB52FFF4FE2B4A2A8D13FCCA" box="[411,1382,381,423]" pageId="11" pageNumber="116" type="nomenclature">
+<paragraph id="C97736FBEB52FFF4FE2B4A2A8D13FCCA" blockId="11.[410,1809,381,1055]" box="[411,1382,381,423]" pageId="11" pageNumber="116">
+<heading id="923F8197EB52FFF4FE2B4A2A8D13FCCA" box="[411,1382,381,423]" fontSize="11" level="2" pageId="11" pageNumber="116" reason="2">
+<emphasis id="FBBCEAE9EB52FFF4FE2B4A2A8BE6FCCA" bold="true" box="[411,915,381,423]" pageId="11" pageNumber="116">
+5. 
+<taxonomicName id="0EC84D78EB52FFF4FE6A4A2A8BF8FCCA" authority="METCALF" authorityName="Metcalf" authorityYear="1946" box="[474,909,381,423]" class="Insecta" family="Derbidae" genus="Muiralyricen" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="11" pageNumber="116" phylum="Arthropoda" rank="species" species="pallescens" status="new species">Muiralyricen pallescens</taxonomicName>
+,
+</emphasis>
+new species (fig. 
+<emphasis id="FBBCEAE9EB52FFF4FB544A2A8D13FCCA" box="[1252,1382,381,423]" italics="true" pageId="11" pageNumber="116">7, a-c).</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB52FFF4FE6E4AE68A04FA1C" pageId="11" pageNumber="116" type="description">
+<paragraph id="C97736FBEB52FFF4FE6E4AE68D11FC91" blockId="11.[410,1809,381,1055]" pageId="11" pageNumber="116">
+A pale species with the tegmina somewhat longer than in 
+<emphasis id="FBBCEAE9EB52FFF4FA224AE68D81FCB8" box="[1426,1524,433,469]" italics="true" pageId="11" pageNumber="116">
+<taxonomicName id="0EC84D78EB52FFF4FA224AE68D9BFCB8" authority="Metcalf, 1946" authorityName="Metcalf" authorityYear="1946" box="[1426,1518,433,469]" class="Insecta" family="Derbidae" genus="Muiralyricen" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="11" pageNumber="116" phylum="Arthropoda" rank="species" species="ruber">ruber</taxonomicName>
+;
+</emphasis>
+milky subhyaline in color, clouded with fuscous along the veins and cross veins.
+</paragraph>
+<paragraph id="C97736FBEB52FFF4FE5149578BF3FE63" blockId="11.[410,1809,381,1055]" pageId="11" pageNumber="116">
+Crown very narrow, deeply incised caudad, projecting for nearly half its length in front of the compound eyes. Frons with the lateral carinae contiguous to the level of the lower margin of· the compound eyes only, then widely separated to the broader clypeal border. Pronotum with the median carina strongly produced, projecting only slightly between the eyes; lateral fields of the pronotum not as large as in 
+<emphasis id="FBBCEAE9EB52FFF4FA2049CB8D9CFFAD" box="[1424,1513,668,704]" italics="true" pageId="11" pageNumber="116">
+<taxonomicName id="0EC84D78EB52FFF4FA2049CB8D90FFAD" authority="Metcalf, 1946" authorityName="Metcalf" authorityYear="1946" box="[1424,1509,668,704]" class="Insecta" family="Derbidae" genus="Muiralyricen" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="11" pageNumber="116" phylum="Arthropoda" rank="species" species="ruber">ruber</taxonomicName>
+.
+</emphasis>
+Mesonotum large, median carina very distinct, intermediate carinae indistinct. Tegmina somewhat longer than in 
+<emphasis id="FBBCEAE9EB52FFF4FDA549BD8A03FE63" box="[533,630,746,782]" italics="true" pageId="11" pageNumber="116">r1tber;</emphasis>
+venation similar.
+</paragraph>
+<paragraph id="C97736FBEB52FFF4FE6F48458A64FE9A" blockId="11.[410,1809,381,1055]" pageId="11" pageNumber="116">General color of the body, including the legs and abdomen, light ochraceous buff, more or less covered with a waxy white powder. Compound eyes brown. Tegmina milky subhyaline with an irregular cloud of tawny across the medium area of the corium and a narrower fascia across the apical cross veins; veins and cross veins milky white except in the areas crossed by the tawny cloud where the veins and cross veins are blackish fuscous.</paragraph>
+<paragraph id="C97736FBEB52FFF4FE5048AB8C46F972" blockId="11.[410,1809,381,1055]" box="[480,1075,1020,1055]" pageId="11" pageNumber="116">
+Length: to apex of tegmina, 
+<quantity id="0E309B1EEB52FFF4FC0A48AB8C5AF972" box="[954,1071,1020,1055]" metricMagnitude="-3" metricUnit="m" metricValue="4.3" pageId="11" pageNumber="116" unit="mm" value="4.3">4.3 mm</quantity>
+.
+</paragraph>
+<caption id="9DB76673EB52FFF4FE6E4D2F8C62FBA9" ID-DOI="http://doi.org/10.5281/zenodo.5174023" ID-Zenodo-Dep="5174023" httpUri="https://zenodo.org/record/5174023/files/figure.png" pageId="11" pageNumber="116" startId="11.[478,582,1656,1694]" targetBox="[577,1639,1084,1641]" targetPageId="11">
+<paragraph id="C97736FBEB52FFF4FE6E4D2F8C62FBA9" blockId="11.[411,1808,1656,1732]" pageId="11" pageNumber="116">
+Frcuru; 
+<emphasis id="FBBCEAE9EB52FFF4FDEB4D2F8C7BFBF3" box="[603,1038,1656,1694]" italics="true" pageId="11" pageNumber="116">
+7.-Muiralyrice1i 
+<taxonomicName id="0EC84D78EB52FFF4FCDB4D2F8C7FFBF3" authority="Metcalf, 1946" authorityName="Metcalf" authorityYear="1946" box="[875,1034,1656,1694]" class="Insecta" family="Derbidae" genus="Muiralyricen" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="11" pageNumber="116" phylum="Arthropoda" rank="species" species="pallescens">pallescens</taxonomicName>
+:
+</emphasis>
+<emphasis id="FBBCEAE9EB52FFF4FB994D2F8C36FBF3" bold="true" box="[1065,1091,1656,1694]" pageId="11" pageNumber="116">a,</emphasis>
+dorsal view of head and thorax; 
+<emphasis id="FBBCEAE9EB52FFF4F9CA4D2F8EE1FBF3" bold="true" box="[1658,1684,1656,1694]" pageId="11" pageNumber="116">b,</emphasis>
+frontal 
+<emphasis id="FBBCEAE9EB52FFF4FE2B4DF78986FBA9" bold="true" box="[411,499,1696,1732]" pageId="11" pageNumber="116">view;</emphasis>
+c, ventral view of male genitalia.
+</paragraph>
+</caption>
+<paragraph id="C97736FBEB52FFF4FE694D888A04FA1C" blockId="11.[410,1809,1759,1905]" pageId="11" pageNumber="116">
+<materialsCitation id="79A03CA6EB52FFF4FE694D888CEBFA67" ID-GBIF-Occurrence="3332978310" box="[473,1182,1759,1802]" collectingDate="1936-09-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="11" pageNumber="116" specimenCount-male="1" typeStatus="holotype">
+<typeStatus id="16738859EB52FFF4FE694D888AF6FA67" box="[473,643,1759,1802]" pageId="11" pageNumber="116">Holotype</typeStatus>
+<specimenCount id="DFCEFD72EB52FFF4FD254D888A98FA67" box="[661,749,1759,1802]" pageId="11" pageNumber="116" type="male">male</specimenCount>
+, 
+<location id="CC176020EB52FFF4FCB94D888B38FA67" LSID="urn:lsid:plazi:treatment:416187EDEB52FFF4FE2B4A2A8A04FA1C:CC176020EB52FFF4FCB94D888B38FA67" box="[777,845,1759,1802]" name="Piti" pageId="11" pageNumber="116">Piti</location>
+, 
+<date id="BD76103BEB52FFF4FCD94D888B9CFA67" box="[873,1001,1759,1802]" pageId="11" pageNumber="116">
+<collectingDate id="AD32E9D3EB52FFF4FCD94D888B9CFA67" box="[873,1001,1759,1802]" pageId="11" pageNumber="116">
+Sept. 
+<emphasis id="FBBCEAE9EB52FFF4FC684D888B87FA67" bold="true" box="[984,1010,1759,1802]" pageId="11" pageNumber="116">1,</emphasis>
+</collectingDate>
+</date>
+<location id="CC176020EB52FFF4FBB84D888CE2FA67" LSID="urn:lsid:plazi:treatment:416187EDEB52FFF4FE2B4A2A8A04FA1C:CC176020EB52FFF4FBB84D888CE2FA67" box="[1032,1175,1759,1802]" name="Swezey" pageId="11" pageNumber="116">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB52FFF4FB024D888B52FA50" ID-GBIF-Occurrence="3332978311" collectedFrom="on Ipomoea sp." collectingDate="1936-08-03" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="11" pageNumber="116" specimenCount-female="1" typeStatus="allotype">
+<typeStatus id="16738859EB52FFF4FB024D888D37FA67" box="[1202,1346,1759,1802]" pageId="11" pageNumber="116">allotype</typeStatus>
+<specimenCount id="DFCEFD72EB52FFF4FAE64D888DA5FA67" box="[1366,1488,1759,1802]" pageId="11" pageNumber="116" type="female">female</specimenCount>
+, 
+<location id="CC176020EB52FFF4FA5C4D888E45FA67" LSID="urn:lsid:plazi:treatment:416187EDEB52FFF4FE2B4A2A8A04FA1C:CC176020EB52FFF4FA5C4D888E45FA67" box="[1516,1584,1759,1802]" name="Piti" pageId="11" pageNumber="116">Piti</location>
+, 
+<date id="BD76103BEB52FFF4F9FA4D888EBEFA67" box="[1610,1739,1759,1802]" pageId="11" pageNumber="116">
+<collectingDate id="AD32E9D3EB52FFF4F9FA4D888EBEFA67" box="[1610,1739,1759,1802]" pageId="11" pageNumber="116">Aug. 3</collectingDate>
+</date>
+, on 
+<taxonomicName id="0EC84D78EB52FFF4FE2A4C458A03FA50" box="[410,630,1810,1853]" class="Magnoliopsida" family="Convolvulaceae" genus="Ipomoea" kingdom="Plantae" order="Solanales" pageId="11" pageNumber="116" phylum="Tracheophyta" rank="species" species="undetermined">
+<emphasis id="FBBCEAE9EB52FFF4FE2A4C458A41FA50" box="[410,564,1810,1853]" italics="true" pageId="11" pageNumber="116">
+<location id="CC176020EB52FFF4FE2A4C458A41FA50" LSID="urn:lsid:plazi:treatment:416187EDEB52FFF4FE2B4A2A8A04FA1C:CC176020EB52FFF4FE2A4C458A41FA50" box="[410,564,1810,1853]" name="Ipomoea" pageId="11" pageNumber="116">Ipomoea</location>
+</emphasis>
+<specimenCount id="DFCEFD72EB52FFF4FDF54C458A03FA50" box="[581,630,1810,1853]" pageId="11" pageNumber="116" type="generic">sp.</specimenCount>
+</taxonomicName>
+, 
+<location id="CC176020EB52FFF4FD234C458B55FA50" LSID="urn:lsid:plazi:treatment:416187EDEB52FFF4FE2B4A2A8A04FA1C:CC176020EB52FFF4FD234C458B55FA50" box="[659,800,1810,1853]" name="Swezey" pageId="11" pageNumber="116">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB52FFF4FC8B4C458A04FA1C" ID-GBIF-Occurrence="3332978382" collectedFrom="on Ipomoea sp." collectingDate="1936-08-02" collectorName="O. H. Swezey" country="Guam" location="Orote Point" pageId="11" pageNumber="116" specimenCount-male="1" typeStatus="paratype">
+<typeStatus id="16738859EB52FFF4FC8B4C458BA3FA50" box="[827,982,1810,1853]" pageId="11" pageNumber="116">paratype</typeStatus>
+, 
+<specimenCount id="DFCEFD72EB52FFF4FC414C458CE1FA50" box="[1009,1172,1810,1853]" pageId="11" pageNumber="116" type="male">one male</specimenCount>
+, 
+<collectingMunicipality id="2913AC81EB52FFF4FB1E4C458DFEFA50" box="[1198,1419,1810,1853]" pageId="11" pageNumber="116">Orote Point</collectingMunicipality>
+, 
+<date id="BD76103BEB52FFF4FA154C458E51FA50" box="[1445,1572,1810,1853]" pageId="11" pageNumber="116">
+<collectingDate id="AD32E9D3EB52FFF4FA154C458E51FA50" box="[1445,1572,1810,1853]" pageId="11" pageNumber="116">Aug. 2</collectingDate>
+</date>
+, on 
+<taxonomicName id="0EC84D78EB52FFF4F9C84C4589B7FA1C" class="Magnoliopsida" family="Convolvulaceae" genus="Ipomoea" kingdom="Plantae" order="Solanales" pageId="11" pageNumber="116" phylum="Tracheophyta" rank="species" species="undetermined">
+<emphasis id="FBBCEAE9EB52FFF4F9C84C458F65FA50" box="[1656,1808,1810,1853]" italics="true" pageId="11" pageNumber="116">
+<location id="CC176020EB52FFF4F9C84C458F65FA50" LSID="urn:lsid:plazi:treatment:416187EDEB52FFF4FE2B4A2A8A04FA1C:CC176020EB52FFF4F9C84C458F65FA50" box="[1656,1808,1810,1853]" municipality="Orote Point" name="Ipomoea" pageId="11" pageNumber="116">Ipomoea</location>
+</emphasis>
+<specimenCount id="DFCEFD72EB52FFF4FE2A4C1189B7FA1C" box="[410,450,1862,1905]" pageId="11" pageNumber="116" type="generic">sp.</specimenCount>
+</taxonomicName>
+, 
+<location id="CC176020EB52FFF4FE544C118A19FA1C" LSID="urn:lsid:plazi:treatment:416187EDEB52FFF4FE2B4A2A8A04FA1C:CC176020EB52FFF4FE544C118A19FA1C" box="[484,620,1862,1905]" municipality="Orote Point" name="Swezey" pageId="11" pageNumber="116">Swezey</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

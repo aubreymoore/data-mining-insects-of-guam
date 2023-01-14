@@ -1,0 +1,178 @@
+<document id="5CB04571EBF21D601812B2F365FE5A2B" ID-DOI="http://doi.org/10.5281/zenodo.5174008" ID-GBIF-Dataset="62345736-dcf6-4c38-a870-36a90992dabb" ID-Zenodo-Dep="5174008" checkinTime="1628020725273" checkinUser="carolina" docAuthor="Metcalf, Z. P." docDate="1946" docId="416187EDEB54FFF1FE1842158EE5F9B9" docLanguage="en" docName="InsectsOfGuamII.189.105-148.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Delphacodes guamensis Metcalf, 1946, new species" docType="treatment" docVersion="13" lastPageNumber="119" masterDocId="BD58FF95EB59FFFFFFB04B578875FD6D" masterDocTitle="Homoptera, Fulgoroidea and Jassoidea of Guam" masterLastPageNumber="148" masterPageNumber="105" pageNumber="118" updateTime="1660145591045" updateUser="annettekang">
+<mods:mods id="872FB450D418C0BF4A63C68496174FD7" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="062810C29D3B3DDB740FD83C06AACB90">
+<mods:title id="3DCCF1736F70A3EECB7C99F9915E0D00">Homoptera, Fulgoroidea and Jassoidea of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="890E6A034DFD2B8051B3E1D3032206DE" type="personal">
+<mods:role id="187480B52A26138E8BC859C9DB30B088">
+<mods:roleTerm id="2CD50AC7D03F00A90A89A2391B22C3AA">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="42FCF9D88D709AB76B02E6CB25486CBF">Metcalf, Z. P.</mods:namePart>
+<mods:affiliation id="AA65411FF41A3C6573B7858761B2AFA6">College of Agriculture and Engineering, University of North Carolins</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="4E98DD5753C9258FD3AAD04645848398">text</mods:typeOfResource>
+<mods:relatedItem id="2FD13697510BC812D18920B26394F430" type="host">
+<mods:originInfo id="24FB078B88BD74DAEA9A6F7D606CE757">
+<mods:dateIssued id="062931B9517EE524FA495F96FF21824B">1946</mods:dateIssued>
+<mods:dateOther id="4C146ACB7D73DA3504653676FFAA8A10" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="86577B0D758B541025708AC7329D85F5">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="C755D99226DFADEA7D968B10F97BDD15">
+<mods:placeTerm id="4A18CEAB01EB455424299E1F65FEA1E5">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="2394E9B0BAB32F7152B8C7544E094145">
+<mods:title id="C6078341901CE5A70022A918F528D4AA">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="7A8139759FFDC194153738115FC96941">
+<mods:extent id="B9B6CFA934BD96503DC231E8FF9C2836" unit="page">
+<mods:start id="7AAB9FE5087CB3311A1B32B42BBEEE7E">105</mods:start>
+<mods:end id="22E4D7FD311B229C3E9BD45AC29B8CC0">148</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="C11E10F3C7A805A6FF869B6E66B89A47">book chapter</mods:classification>
+<mods:identifier id="A0C26B3264F6837C8148957502BE8016" type="DOI">http://doi.org/10.5281/zenodo.5174008</mods:identifier>
+<mods:identifier id="11923EB73C6FE1E1E61D7491A4872393" type="GBIF-Dataset">62345736-dcf6-4c38-a870-36a90992dabb</mods:identifier>
+<mods:identifier id="744B9A33F5710240BB8BA4E34A00624B" type="Zenodo-Dep">5174008</mods:identifier>
+</mods:mods>
+<treatment id="416187EDEB54FFF1FE1842158EE5F9B9" ID-DOI="http://doi.org/10.5281/zenodo.5188141" ID-GBIF-Taxon="184008975" ID-Zenodo-Dep="5188141" LSID="urn:lsid:zoobank.org:act:94369A9A-546E-4FC3-A194-46F484A1C1BC" httpUri="http://treatment.plazi.org/id/416187EDEB54FFF1FE1842158EE5F9B9" lastPageId="14" lastPageNumber="119" pageId="13" pageNumber="118">
+<subSubSection id="81D26570EB54FFF2FE1842158D31F401" box="[424,1348,2370,2412]" pageId="13" pageNumber="118" type="nomenclature">
+<paragraph id="C97736FBEB54FFF2FE1842158D31F401" blockId="13.[424,1824,2370,2543]" box="[424,1348,2370,2412]" pageId="13" pageNumber="118">
+2. 
+<taxonomicName id="0EC84D78EB54FFF2FE5842158B1DF401" authorityName="Metcalf" authorityYear="1946" box="[488,872,2370,2412]" class="Insecta" family="Delphacidae" genus="Delphacodes" kingdom="Animalia" order="Hemiptera" pageId="13" pageNumber="118" phylum="Arthropoda" rank="species" species="guamensis" status="new species">Tam.binia guamensis</taxonomicName>
+, 
+<taxonomicNameLabel id="E08F5792EB54FFF2FCCE42158C27F401" box="[894,1106,2370,2412]" pageId="13" pageNumber="118" rank="species">new species</taxonomicNameLabel>
+(fig. 9, 
+<emphasis id="FBBCEAE9EB54FFF2FB5E42158D31F401" box="[1262,1348,2370,2412]" italics="true" pageId="13" pageNumber="118">a-e).</emphasis>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB54FFF1FE5F422A8D09FE7B" lastPageId="14" lastPageNumber="119" pageId="13" pageNumber="118" type="description">
+<paragraph id="C97736FBEB54FFF1FE5F422A89A0FFF1" blockId="13.[424,1824,2370,2543]" lastBlockId="14.[286,1685,321,790]" lastPageId="14" lastPageNumber="119" pageId="13" pageNumber="118">Crown about one third longer than the width between the eyes; the lateral margin narrowed around the apex; median carina percurrent; posterior border sinuate with a definite notch on the median line. Face slightly longer than its greatest width; the dorsal margin narrow, broadly rounded, expanded to about the level of the compound eyes, then sinuate to just about the level of the antennae then narrowed to the clypeus; median carina percurrent, indistinct in the central depressed area. Pronotum about eight times as wide as its median length; anterior margin nearly straight; posterior margin deeply incised; the intermediate and median carinae conspicuous; the intermediate carinae merging with the median carinae at the anterior border; all three carinae percurrent. Mesonotum tricarinate; metanotum distinct. Tegmina with characteristic venation; costal and apical borders with a single row of small tubercles; the tubercles in costal and radial cells small but distinct.</paragraph>
+<paragraph id="C97736FBEB57FFF1FED349F58EF7FF80" blockId="14.[286,1685,321,790]" pageId="14" pageNumber="119">General color of venter ochraceous yellow including legs; dorsal area of head and thorax ochraceous green; dorsal area of abdomen green; tegmina with a greenish cast.</paragraph>
+<paragraph id="C97736FBEB57FFF1FED349A48D09FE7B" blockId="14.[286,1685,321,790]" box="[355,1404,755,790]" pageId="14" pageNumber="119">
+Length: to apex of abdomen, 
+<quantity id="0E309B1EEB57FFF1FCF449A48BB4FE7B" box="[836,961,755,790]" metricMagnitude="-3" metricUnit="m" metricValue="4.3" pageId="14" pageNumber="119" unit="mm" value="4.3">4.3 mm</quantity>
+.; to apex of tegmina, 
+<quantity id="0E309B1EEB57FFF1FAAD49A48D0DFE7B" box="[1309,1400,755,790]" metricMagnitude="-3" metricUnit="m" metricValue="6.0" pageId="14" pageNumber="119" unit="mm" value="6.0">6 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB57FFF1FEEC486D8D3EF95C" pageId="14" pageNumber="119" type="materials_examined">
+<paragraph id="C97736FBEB57FFF1FEEC486D8D3EF95C" blockId="14.[283,1683,826,1236]" pageId="14" pageNumber="119">
+<materialsCitation id="79A03CA6EB57FFF1FEEC486D8EE7FE0B" ID-GBIF-Occurrence="3332978391" box="[348,1682,826,870]" collectedFrom="on Hernandia sp." collectingDate="1936-05-31" collectorName="O. H. Swezey" country="Guam" location="Agat" pageId="14" pageNumber="119" specimenCount="2" specimenCount-female="1" specimenCount-male="1" typeStatus="holotype male and allotype female">
+<typeStatus id="16738859EB57FFF1FEEC486D8A74FE0B" box="[348,513,826,870]" pageId="14" pageNumber="119">Holotype</typeStatus>
+male, 
+<typeStatus id="16738859EB57FFF1FDC8486D8B74FE0B" box="[632,769,826,870]" pageId="14" pageNumber="119">allotype</typeStatus>
+female, Agat, 
+<date id="BD76103BEB57FFF1FBBE486D8CEDFE0B" box="[1038,1176,826,870]" pageId="14" pageNumber="119" value="1931-05">
+<collectingDate id="AD32E9D3EB57FFF1FBBE486D8CEDFE0B" box="[1038,1176,826,870]" pageId="14" pageNumber="119" value="1931-05">May 31</collectingDate>
+</date>
+, 
+<collectedFrom id="7AD47506EB57FFF1FB1F486D8D90FE0B" box="[1199,1509,826,870]" pageId="14" pageNumber="119">
+on 
+<taxonomicName id="0EC84D78EB57FFF1FB57486D8D90FE0B" box="[1255,1509,826,870]" class="Magnoliopsida" family="Hernandiaceae" genus="Hernandia" kingdom="Plantae" order="Laurales" pageId="14" pageNumber="119" phylum="Tracheophyta" rank="species" species="undetermined">
+<emphasis id="FBBCEAE9EB57FFF1FB57486D8DD2FE0B" box="[1255,1447,826,870]" italics="true" pageId="14" pageNumber="119">Hernandia</emphasis>
+sp.
+</taxonomicName>
+</collectedFrom>
+, Swezey;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB57FFF1FEAD48388E30FEF4" ID-GBIF-Occurrence="3332978321" box="[285,1605,879,921]" collectedFrom="on Hernandia" collectingDate="1936-05-31" collectorName="O. H. Swezey" country="Guam" location="Agat" pageId="14" pageNumber="119" specimenCount="2" specimenCount-female="1" specimenCount-male="1" typeStatus="paratype">
+<typeStatus id="16738859EB57FFF1FEAD483889BFFEF4" box="[285,458,879,921]" pageId="14" pageNumber="119">paratypes</typeStatus>
+, 
+<specimenCount id="DFCEFD72EB57FFF1FE5348388AF2FEF4" box="[483,647,879,921]" pageId="14" pageNumber="119" type="male">one male</specimenCount>
+, 
+<specimenCount id="DFCEFD72EB57FFF1FD1048388B12FEF4" box="[672,871,879,921]" pageId="14" pageNumber="119" type="female">one female</specimenCount>
+, 
+<location id="CC176020EB57FFF1FCCF48388BACFEF4" LSID="urn:lsid:plazi:treatment:416187EDEB54FFF1FE1842158EE5F9B9:CC176020EB57FFF1FCCF48388BACFEF4" box="[895,985,879,921]" county="May" municipality="Mt. Alifan" name="Agat" pageId="14" pageNumber="119">Agat</location>
+, 
+<date id="BD76103BEB57FFF1FC4348388CF4FEF4" box="[1011,1153,879,921]" pageId="14" pageNumber="119" value="1931-05">
+<collectingDate id="AD32E9D3EB57FFF1FC4348388CF4FEF4" box="[1011,1153,879,921]" pageId="14" pageNumber="119" value="1931-05">May 31</collectingDate>
+</date>
+, 
+<collectedFrom id="7AD47506EB57FFF1FB2A48388E4BFEF4" box="[1178,1598,879,921]" pageId="14" pageNumber="119">
+on 
+<taxonomicName id="0EC84D78EB57FFF1FB6648388E4BFEF4" authority=", Swezey" authorityName="Swezey" box="[1238,1598,879,921]" class="Magnoliopsida" family="Hernandiaceae" genus="Hernandia" kingdom="Plantae" order="Laurales" pageId="14" pageNumber="119" phylum="Tracheophyta" rank="genus">
+<emphasis id="FBBCEAE9EB57FFF1FB6648388DEBFEF4" box="[1238,1438,879,921]" italics="true" pageId="14" pageNumber="119">Hernandia,</emphasis>
+Swezey
+</taxonomicName>
+</collectedFrom>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB57FFF1F9E648388B01FEA1" ID-GBIF-Occurrence="3332978340" collectingDate="1936-06-17" collectorName="O. H. Swezey" country="Guam" location="Talofofo" pageId="14" pageNumber="119" specimenCount-male="1">
+<specimenCount id="DFCEFD72EB57FFF1F9E648388907FEA1" pageId="14" pageNumber="119" type="male">one male</specimenCount>
+, 
+<location id="CC176020EB57FFF1FE3548F78A52FEA1" LSID="urn:lsid:plazi:treatment:416187EDEB54FFF1FE1842158EE5F9B9:CC176020EB57FFF1FE3548F78A52FEA1" box="[389,551,928,972]" county="May" municipality="Mt. Alifan" name="Talofofo" pageId="14" pageNumber="119">Talofofo</location>
+, 
+<date id="BD76103BEB57FFF1FD8C48F78ABFFEA1" box="[572,714,928,972]" pageId="14" pageNumber="119" value="2017-06">
+<collectingDate id="AD32E9D3EB57FFF1FD8C48F78ABFFEA1" box="[572,714,928,972]" pageId="14" pageNumber="119" value="2017-06">June 17</collectingDate>
+</date>
+, 
+<location id="CC176020EB57FFF1FD5048F78B18FEA1" LSID="urn:lsid:plazi:treatment:416187EDEB54FFF1FE1842158EE5F9B9:CC176020EB57FFF1FD5048F78B18FEA1" box="[736,877,928,972]" county="May" municipality="Mt. Alifan" name="Swezey" pageId="14" pageNumber="119">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB57FFF1FC3248F78E3DFEA1" ID-GBIF-Occurrence="3332978377" box="[898,1608,928,972]" collectingDate="1936-05-05" collectorName="R. L. Usinger" country="Guam" location="Upi Trail" pageId="14" pageNumber="119" specimenCount-female="1">
+<specimenCount id="DFCEFD72EB57FFF1FC3248F78C33FEA1" box="[898,1094,928,972]" pageId="14" pageNumber="119" type="female">one female</specimenCount>
+, 
+<location id="CC176020EB57FFF1FBEB48F78D7CFEA1" LSID="urn:lsid:plazi:treatment:416187EDEB54FFF1FE1842158EE5F9B9:CC176020EB57FFF1FBEB48F78D7CFEA1" box="[1115,1289,928,972]" county="May" municipality="Mt. Alifan" name="Upi Trail" pageId="14" pageNumber="119">Upi Trail</location>
+, 
+<date id="BD76103BEB57FFF1FA9048F78DE1FEA1" box="[1312,1428,928,972]" pageId="14" pageNumber="119">
+<collectingDate id="AD32E9D3EB57FFF1FA9048F78DE1FEA1" box="[1312,1428,928,972]" pageId="14" pageNumber="119">May 5</collectingDate>
+</date>
+, 
+<location id="CC176020EB57FFF1FA1A48F78E34FEA1" LSID="urn:lsid:plazi:treatment:416187EDEB54FFF1FE1842158EE5F9B9:CC176020EB57FFF1FA1A48F78E34FEA1" box="[1450,1601,928,972]" county="May" municipality="Mt. Alifan" name="Usinger" pageId="14" pageNumber="119">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB57FFF1F9E648F78D7AFE92" ID-GBIF-Occurrence="3332978332" collectedFrom="on Piper guahamense" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="14" pageNumber="119" specimenCount-male="1">
+<specimenCount id="DFCEFD72EB57FFF1F9E648F78904FE92" pageId="14" pageNumber="119" type="male">one male</specimenCount>
+, 
+<location id="CC176020EB57FFF1FE3848838A35FE92" LSID="urn:lsid:plazi:treatment:416187EDEB54FFF1FE1842158EE5F9B9:CC176020EB57FFF1FE3848838A35FE92" box="[392,576,980,1023]" county="May" municipality="Mt. Alifan" name="Machanao" pageId="14" pageNumber="119">Machanao</location>
+, 
+<date id="BD76103BEB57FFF1FDE448838AB8FE92" box="[596,717,980,1023]" pageId="14" pageNumber="119">
+<collectingDate id="AD32E9D3EB57FFF1FDE448838AB8FE92" box="[596,717,980,1023]" pageId="14" pageNumber="119">June 4</collectingDate>
+</date>
+, 
+<collectedFrom id="7AD47506EB57FFF1FD5348838D7DFE92" box="[739,1288,980,1023]" pageId="14" pageNumber="119">
+on 
+<taxonomicName id="0EC84D78EB57FFF1FCAB48838D7DFE92" authority=", Swezey" authorityName="Swezey" box="[795,1288,980,1023]" class="Magnoliopsida" family="Piperaceae" genus="Piper" kingdom="Plantae" order="Piperales" pageId="14" pageNumber="119" phylum="Tracheophyta" rank="species" species="guahamense">
+<emphasis id="FBBCEAE9EB57FFF1FCAB48838C1CFE92" box="[795,1129,980,1023]" italics="true" pageId="14" pageNumber="119">Piper guahamense,</emphasis>
+Swezey
+</taxonomicName>
+</collectedFrom>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB57FFF1FAAE48838A37F95C" ID-GBIF-Occurrence="3332978353" collectingDate="1936-06-02" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="14" pageNumber="119" specimenCount-male="1">
+<specimenCount id="DFCEFD72EB57FFF1FAAE48838DCBFE92" box="[1310,1470,980,1023]" pageId="14" pageNumber="119" type="male">one male</specimenCount>
+, 
+<location id="CC176020EB57FFF1FA6548838EF9FE92" LSID="urn:lsid:plazi:treatment:416187EDEB54FFF1FE1842158EE5F9B9:CC176020EB57FFF1FA6548838EF9FE92" box="[1493,1676,980,1023]" county="May" municipality="Mt. Alifan" name="Machanao" pageId="14" pageNumber="119">Machanao</location>
+, 
+<date id="BD76103BEB57FFF1FEAB4F5089E0F95C" box="[283,405,1031,1073]" pageId="14" pageNumber="119">
+<collectingDate id="AD32E9D3EB57FFF1FEAB4F5089E0F95C" box="[283,405,1031,1073]" pageId="14" pageNumber="119">June 2</collectingDate>
+</date>
+, 
+<location id="CC176020EB57FFF1FE1D4F508A4EF95C" LSID="urn:lsid:plazi:treatment:416187EDEB54FFF1FE1842158EE5F9B9:CC176020EB57FFF1FE1D4F508A4EF95C" box="[429,571,1031,1073]" county="May" municipality="Mt. Alifan" name="Swezey" pageId="14" pageNumber="119">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB57FFF1FDE14F508D3EF95C" ID-GBIF-Occurrence="3332978360" box="[593,1355,1031,1073]" collectingDate="1936-05-21" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="14" pageNumber="119" specimenCount-female="2">
+<specimenCount id="DFCEFD72EB57FFF1FDE14F508B5EF95C" box="[593,811,1031,1073]" pageId="14" pageNumber="119" type="female">two females</specimenCount>
+, 
+<collectingMunicipality id="2913AC81EB57FFF1FCF14F508C71F95C" box="[833,1028,1031,1073]" pageId="14" pageNumber="119">Mt. Alifan</collectingMunicipality>
+, 
+<date id="BD76103BEB57FFF1FBAC4F508CD3F95C" box="[1052,1190,1031,1073]" pageId="14" pageNumber="119" value="2021-05">
+<collectingDate id="AD32E9D3EB57FFF1FBAC4F508CD3F95C" box="[1052,1190,1031,1073]" pageId="14" pageNumber="119" value="2021-05">May 21</collectingDate>
+</date>
+, Swezey.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB57FFF1FEEA4F158EE5F9B9" pageId="14" pageNumber="119" type="description">
+<paragraph id="C97736FBEB57FFF1FEEA4F158EE5F9B9" blockId="14.[283,1683,826,1236]" pageId="14" pageNumber="119">
+This species resembles 
+<emphasis id="FBBCEAE9EB57FFF1FD4A4F158BC5F900" box="[762,944,1090,1133]" italics="true" pageId="14" pageNumber="119">boninensis</emphasis>
+and 
+<emphasis id="FBBCEAE9EB57FFF1FBBB4F158C29F900" box="[1035,1116,1090,1133]" italics="true" pageId="14" pageNumber="119">crini</emphasis>
+in having the face impressed in the median area. It differs, however, from these species in coloration, genitalia and other, minor, characters; therefore, I believe it best to describe it as new.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

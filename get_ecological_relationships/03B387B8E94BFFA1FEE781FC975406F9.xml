@@ -1,0 +1,156 @@
+<document id="73FDBBD778BBEEDF4117FF15BDB7B74C" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E94BFFA1FEE781FC975406F9" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Eumelea rosalia" docType="treatment" docVersion="19" lastPageNumber="163" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="163" updateTime="1669841625929" updateUser="ExternalLinkService">
+<mods:mods id="46ED00AA677D7A5866586BEBAE89C7B3" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="0AE60127F49ADAE8725181FB3C2CCB03">
+<mods:title id="D84771B8F3731245C1E30C1339FE7360">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="AF352232839BEAD9F4D592D1B94BFBF9" type="personal">
+<mods:role id="F8CC049BC0396ABC949ED5BFC8D5D481">
+<mods:roleTerm id="C6B7B7C683D5A915FFDBBEBE8A1AAA5B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="51E44D89FDB64BCC3457FA2FE76D58E6">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="DD3D73A4B3F5148CB9A98183B8483FB4">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="0DA23D93F3D6ED7E5EC0B117AB7DDA96">text</mods:typeOfResource>
+<mods:relatedItem id="FC8C8CE1A026D761B4EFF58EE11F3CC5" type="host">
+<mods:originInfo id="C7167CC2C39EF3BA3347B80CB8523D96">
+<mods:dateIssued id="1F5244FB4B93A75DB55CF403F759BA7B">1946</mods:dateIssued>
+<mods:dateOther id="7225BF66D5667A8898B5CC6E1E814F48" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="881C1A9E8791ED3B148789BC68E04AF5">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="23E04B958532EFA48790A4B9B7EC7459">
+<mods:placeTerm id="05517F25A9710FBD600EE63969696799">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="E46223E3DE34B664F2442E55E137F243">
+<mods:title id="6B3523C58FEBFFA60A00298362F8D949">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="F3318C4F766FD2F3440B14D1B19DE167">
+<mods:extent id="CCE93376293BE1784489B60ACD48C79C" unit="page">
+<mods:start id="2727DE5CBB8119DDAF9DD79A122614B9">163</mods:start>
+<mods:end id="3D740E8BEAD8F21161E6EB6DED155C3E">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="52D8E168418DA0F7C6A2F320554A8400">book chapter</mods:classification>
+<mods:identifier id="21CD5CF8EBD2031551936F403C4C2752" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="D6801C2FE54D6E9312E9E2732FEC05A7" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="5CEE8C5D92D42C3113CC68BF7C1CB1F1" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E94BFFA1FEE781FC975406F9" ID-DOI="http://doi.org/10.5281/zenodo.5158357" ID-GBIF-Taxon="183926898" ID-Zenodo-Dep="5158357" LSID="urn:lsid:plazi:treatment:03B387B8E94BFFA1FEE781FC975406F9" httpUri="http://treatment.plazi.org/id/03B387B8E94BFFA1FEE781FC975406F9" lastPageNumber="163" pageId="0" pageNumber="163">
+<subSubSection id="C3006525E94BFFA1FEE781FC912E00A3" box="[296,856,961,1004]" pageId="0" pageNumber="163" type="nomenclature">
+<paragraph id="8BA536AEE94BFFA1FEE781FC912E00A3" blockId="0.[293,1692,961,1462]" box="[296,856,961,1004]" pageId="0" pageNumber="163">
+<heading id="D0ED81C2E94BFFA1FEE781FC912E00A3" box="[296,856,961,1004]" fontSize="11" level="2" pageId="0" pageNumber="163" reason="2">
+<emphasis id="B96EEABCE94BFFA1FEE781FC933500A3" bold="true" box="[296,323,961,1004]" pageId="0" pageNumber="163">1.</emphasis>
+<taxonomicName id="4C1A4D2DE94BFFA1FEAA81FC912400A3" authority="(Cramer)" box="[357,850,961,1004]" class="Insecta" family="Geometridae" genus="Eumelea" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="163" phylum="Arthropoda" rank="species" species="rosalia">
+<emphasis id="B96EEABCE94BFFA1FEAA81FC90FB00A3" bold="true" box="[357,653,961,1004]" pageId="0" pageNumber="163">Eumelea rosalia</emphasis>
+(Cramer)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94BFFA1FEAC81C994EC071E" pageId="0" pageNumber="163" type="description">
+<paragraph id="8BA536AEE94BFFA1FEAC81C997AC0750" blockId="0.[293,1692,961,1462]" box="[355,1498,1012,1055]" pageId="0" pageNumber="163">
+<treatmentCitationGroup id="AB0A1180E94BFFA1FEAC81C997AC0750" box="[355,1498,1012,1055]" pageId="0" pageNumber="163">
+<bibCitation id="5E303EC2E94BFFA1FEAC81C997AC0750" author="Cramer" box="[355,1498,1012,1055]" journalOrPublisher="Pap. Exot." pageId="0" pageNumber="163" pagination="152" part="4" refId="ref36" type="journal article" year="1781">
+<treatmentCitation id="0ABB10BFE94BFFA1FEAC81C997A30750" author="Cramer" box="[355,1493,1012,1055]" page="152" pageId="0" pageNumber="163" year="1781">
+<emphasis id="B96EEABCE94BFFA1FEAC81C990030750" box="[355,629,1012,1055]" italics="true" pageId="0" pageNumber="163">Phalena rosalia</emphasis>
+<author id="53A7DE4BE94BFFA1FD4C81C9917D0750" box="[643,779,1012,1055]" pageId="0" pageNumber="163">Cramer</author>
+, 
+<journalOrPublisher id="51DB3C62E94BFFA1FCED81C991A90750" box="[802,991,1012,1055]" pageId="0" pageNumber="163">Pap. Exot.</journalOrPublisher>
+<emphasis id="B96EEABCE94BFFA1FC2181C996620750" bold="true" box="[1006,1044,1012,1055]" pageId="0" pageNumber="163">
+<part id="FFBE9C33E94BFFA1FC2181C9967B0750" box="[1006,1037,1012,1055]" pageId="0" pageNumber="163" type="volume">4</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE94BFFA1FBEC81C996140750" box="[1059,1122,1012,1055]" pageId="0" pageNumber="163" type="pagination">152</pagination>
+, pl. 368, fig. F, 
+<year id="FFB277FDE94BFFA1FA4E81C997A30750" box="[1409,1493,1012,1055]" pageId="0" pageNumber="163">1781</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE94BFFA1FEAC861A94EC071E" blockId="0.[293,1692,961,1462]" box="[355,1690,1063,1105]" pageId="0" pageNumber="163">
+<treatmentCitationGroup id="AB0A1180E94BFFA1FEAC861A94EC071E" box="[355,1690,1063,1105]" pageId="0" pageNumber="163">
+<bibCitation id="5E303EC2E94BFFA1FEAC861A94EC071E" author="Hampson" box="[355,1690,1063,1105]" pageId="0" pageNumber="163" pagination="320" refId="ref58" title="Fauna Brit. India, Moths" type="journal volume" year="1895">
+<treatmentCitation id="0ABB10BFE94BFFA1FEAC861A94E3071E" author="Hampson" box="[355,1685,1063,1105]" page="320" pageId="0" pageNumber="163" year="1895">
+<emphasis id="B96EEABCE94BFFA1FEAC861A90F0071E" box="[355,646,1063,1105]" italics="true" pageId="0" pageNumber="163">Eumelea rosalia,</emphasis>
+<author id="53A7DE4BE94BFFA1FD5A861A9137071E" box="[661,833,1063,1105]" pageId="0" pageNumber="163">Hampson</author>
+, 
+<title id="F91EDD98E94BFFA1FC99861A9763071E" box="[854,1301,1063,1105]" pageId="0" pageNumber="163">
+Fauna Brit. 
+<collectingCountry id="F30D763EE94BFFA1FBFD861A96E6071E" box="[1074,1168,1063,1105]" name="India" pageId="0" pageNumber="163">India</collectingCountry>
+, Moths
+</title>
+3: 
+<pagination id="B2D3C85AE94BFFA1FA9B861A97E2071E" box="[1364,1428,1063,1105]" pageId="0" pageNumber="163">320</pagination>
+, fig. 155, 
+<year id="FFB277FDE94BFFA1F98C861A94E3071E" box="[1603,1685,1063,1105]" pageId="0" pageNumber="163">1895</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94BFFA1FEAA8666975406F9" pageId="0" pageNumber="163" type="description">
+<paragraph id="8BA536AEE94BFFA1FEAA8666975406F9" blockId="0.[293,1692,961,1462]" pageId="0" pageNumber="163">
+This orange-yellow moth has a distribution throughout 
+<collectingCountry id="F30D763EE94BFFA1FA588666978007C9" box="[1431,1526,1115,1158]" name="India" pageId="0" pageNumber="163">India</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94BFFA1F9D6866694E207C9" box="[1561,1684,1115,1158]" name="Sri Lanka" pageId="0" pageNumber="163">Ceylon</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94BFFA1FEE986B393D407F6" box="[294,418,1166,1209]" name="Myanmar" pageId="0" pageNumber="163">Burma</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94BFFA1FE7286B3905107F6" box="[445,551,1166,1209]" name="China" pageId="0" pageNumber="163">China</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94BFFA1FD8E86B3909607F6" box="[577,736,1166,1209]" name="Taiwan" pageId="0" pageNumber="163">Formosa</collectingCountry>
+, and Malayan and Austro-Malayan subregions. 
+<materialsCitation id="3B723CF3E94BFFA1F99186B3973C0651" ID-GBIF-Occurrence="3970494303" collectedFrom="reared from a looping caterpillar on Macaranga thompsoni" collectingDate="1936-05-21" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="0" pageNumber="163" specimenCount="1">
+We obtained a 
+<specimenCount id="9D1CFD27E94BFFA1FE2186FD917707A4" box="[494,769,1216,1259]" pageId="0" pageNumber="163">single specimen</specimenCount>
+in 
+<collectingCountry id="F30D763EE94BFFA1FC8C86FD91C607A4" box="[835,944,1216,1259]" name="Guam" pageId="0" pageNumber="163">Guam</collectingCountry>
+. It was 
+<collectedFrom id="38067553E94BFFA1FB9C86FD91760651" pageId="0" pageNumber="163">
+reared from a looping caterpillar on 
+<taxonomicName id="4C1A4D2DE94BFFA1FEA786CF919D0651" authority=", Mt. Alifan" authorityName="Mt. Alifan" box="[360,1003,1266,1310]" class="Magnoliopsida" family="Euphorbiaceae" genus="Macaranga" kingdom="Plantae" order="Malpighiales" pageId="0" pageNumber="163" phylum="Tracheophyta" rank="species" species="thompsoni">
+<emphasis id="B96EEABCE94BFFA1FEA786CF91700651" box="[360,774,1266,1310]" italics="true" pageId="0" pageNumber="163">Macaranga thompsoni,</emphasis>
+<location id="8EC56075E94BFFA1FCED86CF919D0651" LSID="urn:lsid:plazi:treatment:03B387B8E94BFFA1FEE781FC975406F9:8EC56075E94BFFA1FCED86CF919D0651" box="[802,1003,1266,1310]" country="Guam" name="Mt. Alifan" pageId="0" pageNumber="163">Mt. Alifan</location>
+</taxonomicName>
+</collectedFrom>
+, 
+<date id="FFA4106EE94BFFA1FBC386CF96D60651" box="[1036,1184,1266,1310]" pageId="0" pageNumber="163" value="2021-05">
+<collectingDate id="EFE0E986E94BFFA1FBC386CF96D60651" box="[1036,1184,1266,1310]" pageId="0" pageNumber="163" value="2021-05">May 21</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E94BFFA1FB0C86CF973C0651" box="[1219,1354,1266,1310]" pageId="0" pageNumber="163">Swezey</collectorName>
+</materialsCitation>
+. 
+<materialsCitation id="3B723CF3E94BFFA1FABB86CF9051061E" ID-GBIF-Occurrence="3970494310" collectingDate="1936-06-06" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="0" pageNumber="163">The adult moth issued June 6</materialsCitation>
+. 
+<materialsCitation id="3B723CF3E94BFFA1FD9E871A90C006CB" ID-GBIF-Occurrence="3913642345" collectedFrom="Similar looping caterpillars were collected from Macaranga" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="0" pageNumber="163">
+<collectedFrom id="38067553E94BFFA1FD9E871A94EA061E" box="[593,1692,1319,1361]" pageId="0" pageNumber="163">
+Similar looping caterpillars were collected from 
+<taxonomicName id="4C1A4D2DE94BFFA1FA18871A94EA061E" authorityName="Du Petit-Thouars" authorityYear="1806" box="[1495,1692,1319,1361]" class="Magnoliopsida" family="Euphorbiaceae" genus="Macaranga" kingdom="Plantae" order="Malpighiales" pageId="0" pageNumber="163" phylum="Tracheophyta" rank="genus">
+<emphasis id="B96EEABCE94BFFA1FA18871A94EA061E" box="[1495,1692,1319,1361]" italics="true" pageId="0" pageNumber="163">Macaranga</emphasis>
+</taxonomicName>
+</collectedFrom>
+at 
+<location id="8EC56075E94BFFA1FE958764939706CB" LSID="urn:lsid:plazi:treatment:03B387B8E94BFFA1FEE781FC975406F9:8EC56075E94BFFA1FE958764939706CB" box="[346,481,1369,1412]" name="Dededo" pageId="0" pageNumber="163">Dededo</location>
+, 
+<date id="FFA4106EE94BFFA1FE33876490C006CB" box="[508,694,1369,1412]" pageId="0" pageNumber="163" value="2011-08">
+<collectingDate id="EFE0E986E94BFFA1FE33876490C006CB" box="[508,694,1369,1412]" pageId="0" pageNumber="163" value="2011-08">August 11</collectingDate>
+</date>
+</materialsCitation>
+and 
+<materialsCitation id="3B723CF3E94BFFA1FCD1876496D806CB" ID-GBIF-Occurrence="3913642322" box="[798,1198,1369,1412]" collectedFrom="Similar looping caterpillars were collected from Macaranga" collectingDate="1936-09-18" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="0" pageNumber="163">
+<location id="8EC56075E94BFFA1FCD1876491ED06CB" LSID="urn:lsid:plazi:treatment:03B387B8E94BFFA1FEE781FC975406F9:8EC56075E94BFFA1FCD1876491ED06CB" box="[798,923,1369,1412]" name="Fadian" pageId="0" pageNumber="163">Fadian</location>
+, 
+<date id="FFA4106EE94BFFA1FC78876496D806CB" box="[951,1198,1369,1412]" pageId="0" pageNumber="163" value="2018-09">
+<collectingDate id="EFE0E986E94BFFA1FC78876496D806CB" box="[951,1198,1369,1412]" pageId="0" pageNumber="163" value="2018-09">September 18</collectingDate>
+</date>
+</materialsCitation>
+, but they failed to mature, so it is. not certain whether they were the same species.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

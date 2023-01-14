@@ -1,0 +1,112 @@
+<document id="D3003406E1824EE4FFDF236D77A1DB9C" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91AFFFBFE9DFC04FA401A62" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Icerya purchasi Maskell" docType="treatment" docVersion="14" lastPageNumber="157" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="157" updateTime="1661283434230" updateUser="ExternalLinkService">
+<mods:mods id="2694ABDF913721E23E097C75E7C833DF" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="065338D27F6A5B53991F9A552FE1B8BB">
+<mods:title id="E3F94C1695293C21DFE30E0FD0191289">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="7997D0EC7A9E3AF6A6FDBF5AF688EC6A" type="personal">
+<mods:role id="BC5D8DCF3F2038814DA8D49F2E21D39A">
+<mods:roleTerm id="916EB47F914DD8DD928B00DAF02975B2">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="76DAB8AABE71A1C2A390AB7E4908E6AE">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="AE27DF719DA7018362B4248D428D1FC3">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="F9215C14E0782EF411265D6A2F023858">text</mods:typeOfResource>
+<mods:relatedItem id="A4CB387BFFEDE6BCB1386D2641ADF2C1" type="host">
+<mods:originInfo id="71A5BA6C224F66C036F47D521A8D1671">
+<mods:dateIssued id="E3AB70A4E310AC980E549A8A0C7EB9DC">1946</mods:dateIssued>
+<mods:dateOther id="A7BD9518DB96E83A95704A48EE0B0E31" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="0757FC2628E4485BE827B5B7369577A6">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="D6BD5A73EF54C22DC211AF9102A9BD07">
+<mods:placeTerm id="E51145B10AE83A6C4AC1D9455B96E1B1">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="B8F7F6A5AFE381F557A1B1E2C7A3CD3C">
+<mods:title id="4FAC7D12BCA3EC4E0DF26796B9823C6F">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="A7C2C863E2FEE2D7D6BDDAB8EED3974F">
+<mods:extent id="1BE8A2459C93BB9945BE5FA12ED33056" unit="page">
+<mods:start id="F5657A8712D246DCEB8D72DA23982125">157</mods:start>
+<mods:end id="2938ADE2C0AFFAFE0A96C1613969714A">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E5FDC39799346238CDAC9CFC891373E8">book chapter</mods:classification>
+<mods:identifier id="7406F7F3EB817248EE3632F1D3555149" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="EC584C2C11DBC22BAF4AA18A7CB581C0" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="76663E2E36D42663B23F57434A6A975A" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91AFFFBFE9DFC04FA401A62" ID-DOI="http://doi.org/10.5281/zenodo.5211565" ID-GBIF-Taxon="183925151" ID-Zenodo-Dep="5211565" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFE9DFC04FA401A62" httpUri="http://treatment.plazi.org/id/F03E87AAF91AFFFBFE9DFC04FA401A62" lastPageNumber="157" pageId="0" pageNumber="157">
+<heading id="236081D0F91AFFFBFE9DFC04F9D71DFA" box="[287,1555,922,964]" fontSize="11" level="2" pageId="0" pageNumber="157" reason="2">
+<subSubSection id="308D6537F91AFFFBFE9DFC04FCDB1DFA" box="[287,799,922,964]" pageId="0" pageNumber="157" type="nomenclature">
+<paragraph id="782836BCF91AFFFBFE9DFC04FCDB1DFA" blockId="0.[285,1682,922,1116]" box="[287,799,922,964]" pageId="0" pageNumber="157">
+<emphasis id="4AE3EAAEF91AFFFBFE9DFC04FDBD1DFA" bold="true" box="[287,633,922,964]" pageId="0" pageNumber="157">
+1. 
+<taxonomicName id="BF974D3FF91AFFFBFED9FC04FCDD1DFA" authority="Maskell" box="[347,793,922,964]" class="Insecta" family="Coccidae" genus="Icerya" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="157" phylum="Arthropoda" rank="species" species="purchasi">
+Icerya purchasi 
+<author id="A02ADE59F91AFFFBFD05FC04FCDD1DFA" box="[647,793,922,964]" pageId="0" pageNumber="157">Maskell</author>
+</taxonomicName>
+</emphasis>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91AFFFBFCACFC04F9D71DFA" box="[814,1555,922,964]" pageId="0" pageNumber="157" type="reference_group">
+<paragraph id="782836BCF91AFFFBFCACFC04F9D71DFA" blockId="0.[285,1682,922,1116]" box="[814,1555,922,964]" pageId="0" pageNumber="157">
+<treatmentCitation id="F93610ADF91AFFFBFCACFC04F9D71DFA" box="[814,1555,922,964]" pageId="0" pageNumber="157">
+<bibCitation id="ADBD3ED0F91AFFFBFCACFC04F9D71DFA" author="Maskell" box="[814,1555,922,964]" journalOrPublisher="New Zealand Inst., Trans" pageId="0" pageNumber="157" pagination="221" part="11" type="journal article" year="1878">
+<treatmentCitationGroup id="58871192F91AFFFBFCACFC04F9CA1DFA" box="[814,1550,922,964]" pageId="0" pageNumber="157">
+<journalOrPublisher id="A2563C70F91AFFFBFCACFC04FAC31DFA" box="[814,1287,922,964]" pageId="0" pageNumber="157">
+<collectingCountry id="0080762CF91AFFFBFCACFC04FBDA1DFA" box="[814,1054,922,964]" name="New Zealand" pageId="0" pageNumber="157">New Zealand</collectingCountry>
+Inst., Trans
+</journalOrPublisher>
+. 
+<emphasis id="4AE3EAAEF91AFFFBFA9DFC04FA861DFA" bold="true" box="[1311,1346,922,964]" pageId="0" pageNumber="157">
+<part id="0C339C21F91AFFFBFA9DFC04FAFA1DFA" box="[1311,1342,922,964]" pageId="0" pageNumber="157" type="volume">11</part>
+:
+</emphasis>
+<pagination id="415EC848F91AFFFBFAE0FC04FA661DFA" box="[1378,1442,922,964]" pageId="0" pageNumber="157" type="pagination">221</pagination>
+, 
+<year id="0C3F77EFF91AFFFBFA3EFC04F9CA1DFA" box="[1468,1550,922,964]" pageId="0" pageNumber="157">1878</year>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+</heading>
+<subSubSection id="308D6537F91AFFFBFEDCFC53FA401A62" pageId="0" pageNumber="157" type="description">
+<paragraph id="782836BCF91AFFFBFEDCFC53FA401A62" blockId="0.[285,1682,922,1116]" pageId="0" pageNumber="157">
+<materialsCitation id="C8FF3CE1F91AFFFBFEDCFC53FC151DC6" ID-GBIF-Occurrence="3891552316" box="[350,977,973,1016]" collectedFrom="On Citrus and ironwood" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="0" pageNumber="157">
+<collectedFrom id="CB8B7541F91AFFFBFEDCFC53FCCA1DC6" box="[350,782,973,1016]" pageId="0" pageNumber="157">
+On 
+<taxonomicName id="BF974D3FF91AFFFBFE21FC53FDD41DC6" box="[419,528,973,1016]" class="Magnoliopsida" family="Rutaceae" genus="Citrus" kingdom="Plantae" order="Sapindales" pageId="0" pageNumber="157" phylum="Tracheophyta" rank="genus">
+<emphasis id="4AE3EAAEF91AFFFBFE21FC53FDD41DC6" box="[419,528,973,1016]" italics="true" pageId="0" pageNumber="157">Citrus</emphasis>
+</taxonomicName>
+and ironwood
+</collectedFrom>
+, 
+<collectorName id="D562536AF91AFFFBFCA6FC53FC151DC6" box="[804,977,973,1016]" pageId="0" pageNumber="157">Fullaway</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="C8FF3CE1F91AFFFBFC64FC53FA111DC6" ID-GBIF-Occurrence="3891552317" box="[998,1493,973,1016]" collectedFrom="on orange and lime" collectingDate="1938-1939" collectorName="R. G. Oakley" country="Guam" location="Guam" pageId="0" pageNumber="157">
+<collectedFrom id="CB8B7541F91AFFFBFC64FC53FAFE1DC6" box="[998,1338,973,1016]" pageId="0" pageNumber="157">on orange and lime</collectedFrom>
+, 
+<collectorName id="D562536AF91AFFFBFACDFC53FA111DC6" box="[1359,1493,973,1016]" pageId="0" pageNumber="157">Oakley</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="C8FF3CE1F91AFFFBFA68FC53FE3C1A14" ID-GBIF-Occurrence="3891552322" collectedFrom="on lemon" collectingDate="1925-1931" collectorName="S. R. Vandenberg" country="Guam" location="Guam" pageId="0" pageNumber="157">
+<collectedFrom id="CB8B7541F91AFFFBFA68FC53F9481DC6" box="[1514,1676,973,1016]" pageId="0" pageNumber="157">on lemon</collectedFrom>
+, 
+<collectorName id="D562536AF91AFFFBFE9FFB9EFE3C1A14" box="[285,504,1024,1066]" pageId="0" pageNumber="157">Vandenberg</collectorName>
+</materialsCitation>
+. Well controlled by the ladybeetle, 
+<taxonomicName id="BF974D3FF91AFFFBFBF8FB9EF94F1A14" authority="(Mulsant)" baseAuthorityName="Mulsant" baseAuthorityYear="1850" box="[1146,1675,1024,1066]" class="Insecta" family="Coccinellidae" genus="Rodolia" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="157" phylum="Arthropoda" rank="species" species="cardinalis">
+<emphasis id="4AE3EAAEF91AFFFBFBF8FB9EFA7F1A14" box="[1146,1467,1024,1066]" italics="true" pageId="0" pageNumber="157">Rodolia cardinalis</emphasis>
+(Mulsant)
+</taxonomicName>
+, which was introduced from 
+<collectingRegion id="BA53F85EF91AFFFBFCADFBADFC6A1A62" box="[815,942,1075,1116]" country="United States of America" name="Hawaii" pageId="0" pageNumber="157">Hawaii</collectingRegion>
+in 1926 by Vandenberg.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

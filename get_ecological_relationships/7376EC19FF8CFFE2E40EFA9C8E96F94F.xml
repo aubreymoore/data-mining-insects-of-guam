@@ -1,0 +1,129 @@
+<document id="364132FA39B107D49E80B13674D76B2A" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8CFFE2E40EFA9C8E96F94F" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Melittobia hawaiiensis Perkins" docType="treatment" docVersion="17" lastPageNumber="217" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="217" updateTime="1664204952648" updateUser="ExternalLinkService">
+<mods:mods id="B1CC51AD0475F215E35C5D540CD96FC1" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="61A560EDE9A971942F53E0F39C984360">
+<mods:title id="E984BCD04DA5C8FE24E1EA29459AC7CC">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="D55CFB8BBDD37FA2E9A5CB6B52319B3C" type="personal">
+<mods:role id="6DB9C23FC75D0AE3D5B0361629517C91">
+<mods:roleTerm id="D556D8553FBF026C9851A4A4B8376DE9">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A41737F5B52FC336E6AF60AA34F37047">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="D5BE6F42C9011CA74EAAB9F2AD2D9E33">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="8D11A3568A860258D6D095502CA97E76">text</mods:typeOfResource>
+<mods:relatedItem id="DE32EB498512444AAA56F309676CA366" type="host">
+<mods:originInfo id="8D71869F181DFE932E686DEBBB800E69">
+<mods:dateIssued id="71DFA7FADCADC8CB844EFD650EC75A94">1946</mods:dateIssued>
+<mods:dateOther id="F54A29E94F81ACCDAA1D764B85496496" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="FD8C892AB3AC938622055F074CF60157">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="6548ECC2259025EC467AAD6FC3CA57F4">
+<mods:placeTerm id="0C78D9B62272175B37ACED7E0DC49F04">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="736F6D575D086DEB9D2C219EC82C504A">
+<mods:title id="C52E9E5A93D2A4824CA06650E803614F">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="30341239420C71AC44E10455F9B2B271">
+<mods:extent id="6F2A89987081958E52FA25ADE841B16D" unit="page">
+<mods:start id="6D01C3A89FB5507124C7D3072AB11F85">211</mods:start>
+<mods:end id="0277FDB8C1000AAE8343387CB644069E">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E517E18278A84617ECB371B15CCA2C16">book chapter</mods:classification>
+<mods:identifier id="021DC9D96F182813CD4B46B74E46BB30" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="A9D9C2BF4BACCAFD22ED54454D6F743E" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="22808F180FD00C996F281321C6FB68FA" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8CFFE2E40EFA9C8E96F94F" ID-DOI="http://doi.org/10.5281/zenodo.5212035" ID-GBIF-Taxon="187737418" ID-Zenodo-Dep="5212035" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40EFA9C8E96F94F" httpUri="http://treatment.plazi.org/id/7376EC19FF8CFFE2E40EFA9C8E96F94F" lastPageNumber="217" pageId="6" pageNumber="217">
+<subSubSection id="B3C50E84FF8CFFE2E40EFA9C8CC1FA88" box="[269,927,1328,1370]" pageId="6" pageNumber="217" type="nomenclature">
+<paragraph id="FB605D0FFF8CFFE2E40EFA9C8CC1FA88" blockId="6.[269,1667,1328,1693]" box="[269,927,1328,1370]" pageId="6" pageNumber="217">
+<heading id="A028EA63FF8CFFE2E40EFA9C8CC1FA88" box="[269,927,1328,1370]" fontSize="8" level="2" pageId="6" pageNumber="217" reason="4">
+<emphasis id="C9AB811DFF8CFFE2E40EFA9C8E1EFA88" bold="true" box="[269,320,1328,1370]" pageId="6" pageNumber="217">47.</emphasis>
+<taxonomicName id="3CDF268CFF8CFFE2E461FA9C8CC6FA88" authority="Perkins" box="[354,920,1328,1370]" class="Insecta" family="Eulophidae" genus="Melittobia" kingdom="Animalia" order="Hymenoptera" pageId="6" pageNumber="217" phylum="Arthropoda" rank="species" species="hawaiiensis">
+<emphasis id="C9AB811DFF8CFFE2E461FA9C8DA4FA88" bold="true" box="[354,762,1328,1370]" pageId="6" pageNumber="217">Melittobia hawaiiensis</emphasis>
+<author id="2362B5EAFF8CFFE2E608FA9C8CC6FA88" box="[779,920,1328,1370]" pageId="6" pageNumber="217">Perkins</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8CFFE2E6ACFA9C8973FA88" box="[943,1581,1328,1370]" pageId="6" pageNumber="217" type="reference_group">
+<paragraph id="FB605D0FFF8CFFE2E6ACFA9C8973FA88" blockId="6.[269,1667,1328,1693]" box="[943,1581,1328,1370]" pageId="6" pageNumber="217">
+<treatmentCitationGroup id="DBCF7A21FF8CFFE2E6ACFA9C8973FA88" box="[943,1581,1328,1370]" pageId="6" pageNumber="217">
+<treatmentCitation id="7A7E7B1EFF8CFFE2E6ACFA9C8973FA88" author="Perkins" box="[943,1581,1328,1370]" page="24" pageId="6" pageNumber="217" year="1907">
+<bibCitation id="2EF55563FF8CFFE2E6ACFA9C8973FA88" author="Perkins" box="[943,1581,1328,1370]" journalOrPublisher="Haw. Ent. Soc., Proc." pageId="6" pageNumber="217" pagination="124" part="1" refId="ref2903" type="journal article" year="1907">
+<journalOrPublisher id="211E57C3FF8CFFE2E6ACFA9C8A60FA88" box="[943,1342,1328,1370]" pageId="6" pageNumber="217">Haw. Ent. Soc., Proc.</journalOrPublisher>
+<emphasis id="C9AB811DFF8CFFE2E052FA9C8A00FA88" bold="true" box="[1361,1374,1328,1370]" pageId="6" pageNumber="217">
+<part id="8F7BF792FF8CFFE2E052FA9C8A00FA88" box="[1361,1374,1328,1370]" pageId="6" pageNumber="217" type="volume">1</part>
+</emphasis>
+: 
+<pagination id="C216A3FBFF8CFFE2E08BFA9C8AE1FA88" box="[1416,1471,1328,1370]" pageId="6" pageNumber="217" type="pagination">124</pagination>
+, 
+<year id="8F771C5CFF8CFFE2E0D4FA9C8976FA88" box="[1495,1576,1328,1370]" pageId="6" pageNumber="217">1907</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8CFFE2E44CFACB8E96F94F" pageId="6" pageNumber="217" type="materials_examined">
+<paragraph id="FB605D0FFF8CFFE2E44CFACB8E96F94F" blockId="6.[269,1667,1328,1693]" pageId="6" pageNumber="217">
+<materialsCitation id="4BB75752FF8CFFE2E44CFACB8D81FA42" ID-GBIF-Occurrence="3901040387" box="[335,735,1383,1424]" collectingDate="1936-05-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="217">
+<collectingMunicipality id="1B04C775FF8CFFE2E44CFACB8ECFFA42" box="[335,401,1383,1424]" pageId="6" pageNumber="217">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF8CFFE2E4AAFACB8D6AFA42" box="[425,564,1383,1424]" pageId="6" pageNumber="217" value="2020-05">
+<collectingDate id="9F258227FF8CFFE2E4AAFACB8D6AFA42" box="[425,564,1383,1424]" pageId="6" pageNumber="217" value="2020-05">May 20</collectingDate>
+</date>
+, 
+<collectorName id="562A38D9FF8CFFE2E74FFACB8D86FA42" box="[588,728,1383,1424]" pageId="6" pageNumber="217">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8CFFE2E7F2FACB8E96F94F" ID-GBIF-Occurrence="3913378301" collectedFrom="reared from pupae found Sept. 24 in a cocoon of Pison argentatum" collectingDate="1936-09-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="217" specimenCount="6">
+<collectingMunicipality id="1B04C775FF8CFFE2E7F2FACB8C6AFA42" box="[753,820,1383,1424]" pageId="6" pageNumber="217">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF8CFFE2E64FFACB8C80FA42" box="[844,990,1383,1424]" pageId="6" pageNumber="217" value="1927-09">
+<collectingDate id="9F258227FF8CFFE2E64FFACB8C80FA42" box="[844,990,1383,1424]" pageId="6" pageNumber="217" value="1927-09">Sept. 27</collectingDate>
+</date>
+, reared from 
+<specimenCount id="EDD99686FF8CFFE2E1DBFACB8A60FA42" box="[1240,1342,1383,1424]" pageId="6" pageNumber="217" type="pupa">pupae</specimenCount>
+found 
+<date id="8F617BCFFF8CFFE2E0C7FACB890DFA42" box="[1476,1619,1383,1424]" pageId="6" pageNumber="217" value="1924-09">
+<collectingDate id="9F258227FF8CFFE2E0C7FACB890DFA42" box="[1476,1619,1383,1424]" pageId="6" pageNumber="217" value="1924-09">
+Sept. 
+<quantity id="3C27F0EAFF8CFFE2E329FACB89DCFA42" box="[1578,1666,1383,1424]" metricMagnitude="-1" metricUnit="m" metricValue="6.096" pageId="6" pageNumber="217" unit="in" value="24.0">24 in</quantity>
+</collectingDate>
+</date>
+a cocoon of 
+<taxonomicName id="3CDF268CFF8CFFE2E4E4FA318C79FA14" box="[487,807,1437,1478]" class="Insecta" family="Crabronidae" genus="Pison" kingdom="Animalia" order="Hymenoptera" pageId="6" pageNumber="217" phylum="Arthropoda" rank="species" species="argentatum">
+<emphasis id="C9AB811DFF8CFFE2E4E4FA318C79FA14" box="[487,807,1437,1478]" italics="true" pageId="6" pageNumber="217">
+<location id="FE000BD4FF8CFFE2E4E4FA318D13FA14" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40EFA9C8E96F94F:FE000BD4FF8CFFE2E4E4FA318D13FA14" box="[487,589,1437,1478]" municipality="Piti" name="Pison" pageId="6" pageNumber="217">Pison</location>
+argentatum
+</emphasis>
+</taxonomicName>
+<emphasis id="C9AB811DFF8CFFE2E624FA318C72FA14" box="[807,812,1437,1478]" italics="true" pageId="6" pageNumber="217">.</emphasis>
+<collectingMunicipality id="1B04C775FF8CFFE2E645FA318C22FA14" box="[838,892,1437,1478]" pageId="6" pageNumber="217">On</collectingMunicipality>
+another occasion there were six cocoons of 
+<taxonomicName id="3CDF268CFF8CFFE2E412FA7F8D17FA29" box="[273,585,1491,1531]" class="Insecta" family="Crabronidae" genus="Pison" kingdom="Animalia" order="Hymenoptera" pageId="6" pageNumber="217" phylum="Arthropoda" rank="species" species="argentatum">
+<emphasis id="C9AB811DFF8CFFE2E412FA7F8D17FA29" box="[273,585,1491,1531]" italics="true" pageId="6" pageNumber="217">
+<location id="FE000BD4FF8CFFE2E412FA7F8E2CFA29" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40EFA9C8E96F94F:FE000BD4FF8CFFE2E412FA7F8E2CFA29" box="[273,370,1491,1531]" municipality="On" name="Pison" pageId="6" pageNumber="217">Pison</location>
+argentatum
+</emphasis>
+</taxonomicName>
+in cells of a mud nest, and each cocoon had exit holes where 
+<taxonomicName id="3CDF268CFF8CFFE2E40DF9A48E9BF9E0" box="[270,453,1544,1586]" class="Insecta" family="Eulophidae" genus="Melittobia" kingdom="Animalia" order="Hymenoptera" pageId="6" pageNumber="217" phylum="Arthropoda" rank="genus">
+<emphasis id="C9AB811DFF8CFFE2E40DF9A48E9BF9E0" box="[270,453,1544,1586]" italics="true" pageId="6" pageNumber="217">
+<location id="FE000BD4FF8CFFE2E40DF9A48E9BF9E0" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40EFA9C8E96F94F:FE000BD4FF8CFFE2E40DF9A48E9BF9E0" box="[270,453,1544,1586]" municipality="On" name="Melittobia" pageId="6" pageNumber="217">Melittobia</location>
+</emphasis>
+</taxonomicName>
+had issued, which shows the prevalence of this wasp parasite. Three slide mounts, two retained in 
+<collectingCountry id="83C81D9FFF8CFFE2E625F9938CDDF9B5" box="[806,899,1599,1639]" name="United States of America" pageId="6" pageNumber="217">U. S.</collectingCountry>
+<location id="FE000BD4FF8CFFE2E695F9938B83F9B5" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40EFA9C8E96F94F:FE000BD4FF8CFFE2E695F9938B83F9B5" box="[918,1245,1599,1639]" country="United States of America" name="National Museum" pageId="6" pageNumber="217">National Museum</location>
+; 
+<specimenCount id="EDD99686FF8CFFE2E1F7F9938A83F9B5" box="[1268,1501,1599,1639]" pageId="6" pageNumber="217" type="generic">one specimen</specimenCount>
+mounted on a point.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,132 @@
+<document id="B280E8EBF449E503DEFEC7B0BE44FD5C" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E940FFAAFE7E84F4947A0B69" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Lacera alope" docType="treatment" docVersion="19" lastPageNumber="174" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="174" updateTime="1669841625929" updateUser="ExternalLinkService">
+<mods:mods id="B712D3A31A692547CE42B62F2D421112" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="A0F05930B0D9832C6C2A971DAD1CCA2D">
+<mods:title id="2EB3F6CFC657C569BDA8FE6F004A098E">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="4377E05E9374E6530B827F1846AF8E21" type="personal">
+<mods:role id="1C62820B56CE2A48CE43A7C4A36BBE64">
+<mods:roleTerm id="7E8AD152D15AFE507E74CA75B2848F7B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E32C614046EB1AF67C3E79AA74D36D94">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="B465E55E6D8E10CDD1BC910202D50689">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="00EA2DB5C469F525EB99B28109473D02">text</mods:typeOfResource>
+<mods:relatedItem id="A95DADCA61305ED883C25CDBCC9D5793" type="host">
+<mods:originInfo id="EE434F8E61694442E24B227F32CFB489">
+<mods:dateIssued id="71C4AA90D2FE94C548C414351D08E861">1946</mods:dateIssued>
+<mods:dateOther id="34A7B6FD15EA9967D4AD25942D2D322E" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="D245BB3D6EF8417165BD2C9FED489E52">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="43558225C1DC81211D262147314C0560">
+<mods:placeTerm id="BBD1DF1B2F27D1CADB186CB475CD5206">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="CC6224B0A0D8B404B81C6B7FF0881E4D">
+<mods:title id="CC0079772689CDB5D81DC14401E7C59F">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="B2C3E6226081DF1F1D25BF44B8DE7E4D">
+<mods:extent id="FB058F331F245343302DEAEC24C1EA96" unit="page">
+<mods:start id="D260CBD1CA89A1360E86A47B42FDD660">163</mods:start>
+<mods:end id="E01CB2771C370D3FCABA092A70C98422">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="2B2343A0334D99DD77EA6F866B3F00BD">book chapter</mods:classification>
+<mods:identifier id="358291A51192220A470547DB12787332" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="381424641E2CA75AB564BDE95686427C" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="84EB5E776114D7CD4CA13438EF803900" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E940FFAAFE7E84F4947A0B69" ID-DOI="http://doi.org/10.5281/zenodo.5498504" ID-GBIF-Taxon="183926982" ID-Zenodo-Dep="5498504" LSID="urn:lsid:plazi:treatment:03B387B8E940FFAAFE7E84F4947A0B69" httpUri="http://treatment.plazi.org/id/03B387B8E940FFAAFE7E84F4947A0B69" lastPageNumber="174" pageId="11" pageNumber="174">
+<subSubSection id="C3006525E940FFAAFE7E84F491FC05BE" box="[433,906,1737,1777]" pageId="11" pageNumber="174" type="nomenclature">
+<paragraph id="8BA536AEE940FFAAFE7E84F491FC05BE" blockId="11.[433,1831,1737,2086]" box="[433,906,1737,1777]" pageId="11" pageNumber="174">
+<heading id="D0ED81C2E940FFAAFE7E84F491FC05BE" box="[433,906,1737,1777]" fontSize="8" level="2" pageId="11" pageNumber="174" reason="4">
+<emphasis id="B96EEABCE940FFAAFE7E84F4939505BE" bold="true" box="[433,483,1737,1777]" pageId="11" pageNumber="174">30.</emphasis>
+<taxonomicName id="4C1A4D2DE940FFAAFDCA84F491F205BE" authority="(Stoll)" baseAuthorityName="Stoll" box="[517,900,1737,1777]" class="Insecta" family="Noctuidae" genus="Lacera" kingdom="Animalia" order="Lepidoptera" pageId="11" pageNumber="174" phylum="Arthropoda" rank="species" species="alope">
+<emphasis id="B96EEABCE940FFAAFDCA84F4908705BE" bold="true" box="[517,753,1737,1777]" pageId="11" pageNumber="174">Lacera alope</emphasis>
+(Stoll)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E940FFAAFE2084C1949E04C3" pageId="11" pageNumber="174" type="description">
+<paragraph id="8BA536AEE940FFAAFE2084C190800413" blockId="11.[433,1831,1737,2086]" pageId="11" pageNumber="174">
+<treatmentCitationGroup id="AB0A1180E940FFAAFE2084C190800413" pageId="11" pageNumber="174">
+<bibCitation id="5E303EC2E940FFAAFE2084C190800413" author="Stoll" editor="Cramer" pageId="11" pageNumber="174" pagination="168" part="3" refId="ref6429" title="Uitl. Kapellen" type="journal article" year="1780">
+<treatmentCitation id="0ABB10BFE940FFAAFE2084C190870413" author="Stoll" page="168" pageId="11" pageNumber="174" year="1780">
+<emphasis id="B96EEABCE940FFAAFE2084C191520469" box="[495,804,1788,1830]" italics="true" pageId="11" pageNumber="174">Phal[aena] alope</emphasis>
+<author id="53A7DE4BE940FFAAFCFA84C191F00469" box="[821,902,1788,1830]" pageId="11" pageNumber="174">Stoll</author>
+in 
+<editor id="4D86DEADE940FFAAFC0984C1963B0469" box="[966,1101,1788,1830]" pageId="11" pageNumber="174">Cramer</editor>
+, 
+<title id="F91EDD98E940FFAAFBAB84C197290469" box="[1124,1375,1788,1830]" pageId="11" pageNumber="174">Uitl. Kapellen</title>
+<part id="FFBE9C33E940FFAAFAA084C197F20469" box="[1391,1412,1788,1830]" pageId="11" pageNumber="174" type="volume">3</part>
+(
+<part id="FFBE9C33E940FFAAFA5E84C197B50469" box="[1425,1475,1788,1830]" pageId="11" pageNumber="174" type="issue">24</part>
+): 
+<pagination id="B2D3C85AE940FFAAFA3384C1944C0469" box="[1532,1594,1788,1830]" pageId="11" pageNumber="174" type="pagination">168</pagination>
+, pl. 286, figs. E, F, 
+<year id="FFB277FDE940FFAAFD52851390870413" box="[669,753,1838,1884]" pageId="11" pageNumber="174">1780</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE940FFAAFE3F855C949E04C3" blockId="11.[433,1831,1737,2086]" box="[496,1768,1889,1932]" pageId="11" pageNumber="174">
+<treatmentCitationGroup id="AB0A1180E940FFAAFE3F855C949E04C3" box="[496,1768,1889,1932]" pageId="11" pageNumber="174">
+<bibCitation id="5E303EC2E940FFAAFE3F855C949E04C3" author="Hampson" box="[496,1768,1889,1932]" pageId="11" pageNumber="174" pagination="491" refId="ref6460" title="Fauna Brit. India, Moths" type="journal volume" year="1894">
+<emphasis id="B96EEABCE940FFAAFE3F855C90AE04C3" box="[496,728,1889,1932]" italics="true" pageId="11" pageNumber="174">Lacera alope,</emphasis>
+<treatmentCitation id="0ABB10BFE940FFAAFD29855C949E04C3" author="Hampson" box="[742,1768,1889,1932]" page="491" pageId="11" pageNumber="174" year="1894">
+<author id="53A7DE4BE940FFAAFD29855C91E504C3" box="[742,915,1889,1932]" pageId="11" pageNumber="174">Hampson</author>
+, 
+<title id="F91EDD98E940FFAAFC67855C971204C3" box="[936,1380,1889,1932]" pageId="11" pageNumber="174">
+Fauna Brit. 
+<collectingCountry id="F30D763EE940FFAAFB4D855C969604C3" box="[1154,1248,1889,1932]" name="India" pageId="11" pageNumber="174">India</collectingCountry>
+, Moths
+</title>
+<emphasis id="B96EEABCE940FFAAFABE855C97F404C3" bold="true" box="[1393,1410,1889,1932]" pageId="11" pageNumber="174">3:</emphasis>
+<pagination id="B2D3C85AE940FFAAFA6C855C979504C3" box="[1443,1507,1889,1932]" pageId="11" pageNumber="174">491</pagination>
+, fig. 
+<emphasis id="B96EEABCE940FFAAF9F5855C94F704C3" box="[1594,1665,1889,1932]" italics="true" pageId="11" pageNumber="174">277,</emphasis>
+<year id="FFB277FDE940FFAAF95F855C949504C3" box="[1680,1763,1889,1932]" pageId="11" pageNumber="174">1894</year>
+.
+</treatmentCitation>
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E940FFAAFE2185AB947A0B69" pageId="11" pageNumber="174" type="description">
+<paragraph id="8BA536AEE940FFAAFE2185AB947A0B69" blockId="11.[433,1831,1737,2086]" pageId="11" pageNumber="174">
+<location id="8EC56075E940FFAAFE2185AB900704F0" LSID="urn:lsid:plazi:treatment:03B387B8E940FFAAFE7E84F4947A0B69:8EC56075E940FFAAFE2185AB900704F0" box="[494,625,1942,1983]" country="South Africa" municipality="We" name="Widely" pageId="11" pageNumber="174">Widely</location>
+distributed from 
+<collectingCountry id="F30D763EE940FFAAFC0185AB96B204F0" box="[974,1220,1942,1983]" name="South Africa" pageId="11" pageNumber="174">South Africa</collectingCountry>
+, 
+<collectingCountry id="F30D763EE940FFAAFB2F85AB97C904F0" box="[1248,1471,1942,1983]" name="Madagascar" pageId="11" pageNumber="174">Madagascar</collectingCountry>
+, throughout 
+<collectingCountry id="F30D763EE940FFAAF97185AB956904F0" box="[1726,1823,1942,1983]" name="India" pageId="11" pageNumber="174">India</collectingCountry>
+, Ceylon to 
+<collectingCountry id="F30D763EE940FFAAFDB685F491BF04BC" box="[633,969,1993,2035]" isEnumeration="true" pageId="11" pageNumber="174">China, Japan, Fiji</collectingCountry>
+, and 
+<collectingCountry id="F30D763EE940FFAAFBF385F496C204BC" box="[1084,1204,1993,2035]" name="Samoa" pageId="11" pageNumber="174">Samoa</collectingCountry>
+. 
+<materialsCitation id="3B723CF3E940FFAAFB1485F494710B69" ID-GBIF-Occurrence="3978866305" collectedFrom="in Government House" collectingDate="1936-04-28" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="11" pageNumber="174" specimenCount="1">
+<collectingMunicipality id="6BC1ACD4E940FFAAFB1485F4976F04BC" box="[1243,1305,1993,2035]" pageId="11" pageNumber="174">We</collectingMunicipality>
+obtained only 
+<specimenCount id="9D1CFD27E940FFAAF9F885F4955104BC" box="[1591,1831,1993,2035]" pageId="11" pageNumber="174" type="generic">one specimen</specimenCount>
+in 
+<collectingCountry id="F30D763EE940FFAAFE2585C1902B0B69" box="[490,605,2044,2086]" name="Guam" pageId="11" pageNumber="174">Guam</collectingCountry>
+: 
+<collectingMunicipality id="6BC1ACD4E940FFAAFD4C85C1908E0B69" box="[643,760,2044,2086]" pageId="11" pageNumber="174">Agana</collectingMunicipality>
+, 
+<date id="FFA4106EE940FFAAFCDC85C191C60B69" box="[787,944,2044,2086]" pageId="11" pageNumber="174" value="1928-04">
+<collectingDate id="EFE0E986E940FFAAFCDC85C191C60B69" box="[787,944,2044,2086]" pageId="11" pageNumber="174" value="1928-04">April 28</collectingDate>
+</date>
+, in 
+<location id="8EC56075E940FFAAFBCD85C197140B69" LSID="urn:lsid:plazi:treatment:03B387B8E940FFAAFE7E84F4947A0B69:8EC56075E940FFAAFBCD85C197140B69" box="[1026,1378,2044,2086]" pageId="11" pageNumber="174">Government House</location>
+, 
+<collectorName id="26EF5378E940FFAAFA4F85C194710B69" box="[1408,1543,2044,2086]" pageId="11" pageNumber="174">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

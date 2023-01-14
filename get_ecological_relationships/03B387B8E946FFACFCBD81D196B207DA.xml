@@ -1,0 +1,51 @@
+<document id="023323985EE05D4B049E9A6E314841FD" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E946FFACFCBD81D196B207DA" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Phycitinae C.Linnaeus 1758" docType="treatment" docVersion="15" lastPageNumber="176" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="176" updateTime="1632489365374" updateUser="carolina">
+<mods:mods id="22546BE5962F671C33B6CFB2CFE48AC9" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="2A36C385CB51E15EE48909EDD6C47EE7">
+<mods:title id="5CCAB89BCD25D85CCE5341E29CB5BB71">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="33161E4CDADE27941AEFDA9453D0A6DF" type="personal">
+<mods:role id="EFA08BED3AD34A8545B6F330F957C1B6">
+<mods:roleTerm id="BA08C6C5257D34B2E4DB45F6170585A9">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3B76E62AF9C14E98EF0B56AD58F4B49D">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="58D871098DAED6D3B76CD6387D82EE55">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9411CB25D549EFAC4A476C38AECBC0B6">text</mods:typeOfResource>
+<mods:relatedItem id="D1A2078C071892C50CF18AEBE7A22BE2" type="host">
+<mods:originInfo id="BC699D17DC707DA183C58CAFA032C0A4">
+<mods:dateIssued id="C57D88F989D4EB41E9431DD0A09014E8">1946</mods:dateIssued>
+<mods:dateOther id="CA4222A891DA9816D1A0E09282044736" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="BF3B43B2A3571EF16E644C9919C4AF66">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="5A426D3349E736C325D9061CC269A81A">
+<mods:placeTerm id="9B1B441355F9BA4E1A694C973B609198">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="3D91143C87F5AC1BEE3CABCCA00CCC21">
+<mods:title id="94920A6038319A51879DCD61CA756CE3">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="09FB7B1A6BC2DF4ADB0B24644FA9DE13">
+<mods:extent id="8308DD6804633CF9C7F02F70262A6FDB" unit="page">
+<mods:start id="359415D77FF53A83E56C395FF10F1D1F">163</mods:start>
+<mods:end id="0EA24EDF0A5E7C9FB4A8D3A6DCC46C55">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="A6E0E2407AC90A9F0E9DC0D6F47561DA">book chapter</mods:classification>
+<mods:identifier id="E60EC669337C132ACB53A8D7D99BEE95" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="E2878A2EC1DF4D1B90EABBDDD14122D0" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="3E52285E8A5E820971055C362CE7B287" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E946FFACFCBD81D196B207DA" ID-DOI="http://doi.org/10.5281/zenodo.5158507" ID-GBIF-Taxon="183926866" ID-Zenodo-Dep="5158507" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFCBD81D196B207DA" httpUri="http://treatment.plazi.org/id/03B387B8E946FFACFCBD81D196B207DA" lastPageNumber="176" pageId="13" pageNumber="176">
+<subSubSection id="C3006525E946FFACFCBD81D19739075C" box="[882,1359,1004,1043]" pageId="13" pageNumber="176" type="nomenclature">
+<paragraph id="8BA536AEE946FFACFCBD81D19739075C" blockId="13.[882,1359,1004,1043]" box="[882,1359,1004,1043]" pageId="13" pageNumber="176">
+<heading id="D0ED81C2E946FFACFCBD81D19739075C" box="[882,1359,1004,1043]" centered="true" fontSize="8" level="2" pageId="13" pageNumber="176" reason="3">
+SUBFAMILY 
+<taxonomicName id="4C1A4D2DE946FFACFB9981D19739075C" authorityName="C.Linnaeus" authorityYear="1758" box="[1110,1359,1004,1043]" family="Pyralidae" kingdom="Animalia" order="Lepidoptera" pageId="13" pageNumber="176" rank="subFamily" subFamily="Phycitinae">PHYCITINAE</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E946FFACFE2E860596B207DA" pageId="13" pageNumber="176" type="description">
+<paragraph id="8BA536AEE946FFACFE2E860596B207DA" blockId="13.[418,1814,1080,1173]" pageId="13" pageNumber="176">The phycitids lacking specific determination are in the hands of Carl Heinrich for study, and are not yet reported on.</paragraph>
+</subSubSection>
+</treatment>
+</document>

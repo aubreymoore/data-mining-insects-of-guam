@@ -1,0 +1,150 @@
+<document id="851ECDF84B1B8889B709CD0E35E8DE72" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E95FFFB5FEE48751945D0460" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Hellula undalis" docType="treatment" docVersion="20" lastPageNumber="183" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="183" updateTime="1670269774864" updateUser="ExternalLinkService">
+<mods:mods id="CCDA65446F07D428EE87B5DF47EE5071" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CA51BCB20EDD06771F57A6790F85B305">
+<mods:title id="C026EB670334ADDB378228E793139CB1">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="1829D2AD5713DEC3E9CB46C13114EAB8" type="personal">
+<mods:role id="C612E1F8AB729ED7C10AEF0FE70509E8">
+<mods:roleTerm id="9C02B203D4E4AB1A7A2C1636C621962A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="16914FD97D5E67DF939CEB76BE30F33E">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="6A419FC612710A9B4935C29108A6965C">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="289E778C4E6A36F74409BB87A8D435C0">text</mods:typeOfResource>
+<mods:relatedItem id="A771EE5D391E59C31D8CC596A7EFF854" type="host">
+<mods:originInfo id="70B7E8569364059275FD55EBEE310CEB">
+<mods:dateIssued id="665C12A93E82762AC6120D9EDC53C5DA">1946</mods:dateIssued>
+<mods:dateOther id="F0D75C93570B291C444895F8131A72D1" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="842C78D268F42B152E612D1F28D7B844">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="02F91A4458DB52D587E2B89266E910D0">
+<mods:placeTerm id="0B8B6DCD5CCA23D5E6A1B6290BBB7A5A">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="0720CAC9A4F27BFE36BE0F79F7D50DE2">
+<mods:title id="E7D2B28F232981087790A6CC1EDD6649">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="DDDDFED7361B7B5E535C70148FB44777">
+<mods:extent id="F12C8E02DB8A6D9F1BE10B82690DECAD" unit="page">
+<mods:start id="5860D39E73014116261F22AE9A1CC1EB">163</mods:start>
+<mods:end id="9ACA729D08DA50C3B7CB3C7CE14211B2">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="07056E1F9781F5D0B967572014E15D91">book chapter</mods:classification>
+<mods:identifier id="CC188CBFAB40798827EC5AF264A9AD43" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="0F6D41C25B207A38D17363F9EC091D4A" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="ADF0CEB0978761774064F35BA0AA5B4F" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E95FFFB5FEE48751945D0460" ID-DOI="http://doi.org/10.5281/zenodo.5158637" ID-GBIF-Taxon="183926905" ID-Zenodo-Dep="5158637" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB5FEE48751945D0460" httpUri="http://treatment.plazi.org/id/03B387B8E95FFFB5FEE48751945D0460" lastPageNumber="183" pageId="20" pageNumber="183">
+<subSubSection id="C3006525E95FFFB5FEE4875191F106DA" box="[299,903,1388,1429]" pageId="20" pageNumber="183" type="nomenclature">
+<paragraph id="8BA536AEE95FFFB5FEE4875191F106DA" blockId="20.[299,1699,1388,1839]" box="[299,903,1388,1429]" pageId="20" pageNumber="183">
+<heading id="D0ED81C2E95FFFB5FEE4875191F106DA" box="[299,903,1388,1429]" fontSize="8" level="2" pageId="20" pageNumber="183" reason="4">
+<emphasis id="B96EEABCE95FFFB5FEE48751932806DA" bold="true" box="[299,350,1388,1429]" pageId="20" pageNumber="183">36.</emphasis>
+<taxonomicName id="4C1A4D2DE95FFFB5FE4F875191F706DA" authority="(Fabricius)" baseAuthorityName="Fabricius" baseAuthorityYear="1781" box="[384,897,1388,1429]" class="Insecta" family="Crambidae" genus="Hellula" kingdom="Animalia" order="Lepidoptera" pageId="20" pageNumber="183" phylum="Arthropoda" rank="species" species="undalis">
+<emphasis id="B96EEABCE95FFFB5FE4F875190E106DA" bold="true" box="[384,663,1388,1429]" pageId="20" pageNumber="183">Hellula undalis</emphasis>
+(Fabricius)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95FFFB5FEA487A394D706B3" pageId="20" pageNumber="183" type="description">
+<paragraph id="8BA536AEE95FFFB5FEA487A397250687" blockId="20.[299,1699,1388,1839]" box="[363,1363,1438,1480]" pageId="20" pageNumber="183">
+<treatmentCitationGroup id="AB0A1180E95FFFB5FEA487A397250687" box="[363,1363,1438,1480]" pageId="20" pageNumber="183">
+<bibCitation id="5E303EC2E95FFFB5FEA487A397250687" author="Fabricius" box="[363,1363,1438,1480]" pageId="20" pageNumber="183" pagination="226" part="3" refId="ref11195" title="Ent. Syst." type="journal article" year="1794">
+<treatmentCitation id="0ABB10BFE95FFFB5FEA487A397380687" author="Fabricius" box="[363,1358,1438,1480]" page="226" pageId="20" pageNumber="183" year="1794">
+<emphasis id="B96EEABCE95FFFB5FEA487A390EC0687" box="[363,666,1438,1480]" italics="true" pageId="20" pageNumber="183">Phalaena undalis</emphasis>
+<author id="53A7DE4BE95FFFB5FD6587A391240687" box="[682,850,1438,1480]" pageId="20" pageNumber="183">Fabricius</author>
+, 
+<title id="F91EDD98E95FFFB5FCA687A3966D0687" box="[873,1051,1438,1480]" pageId="20" pageNumber="183">Ent. Syst.</title>
+<part id="FFBE9C33E95FFFB5FBE487A396350687" box="[1067,1091,1438,1480]" pageId="20" pageNumber="183" type="volume">3</part>
+(
+<part id="FFBE9C33E95FFFB5FB9D87A3961B0687" box="[1106,1133,1438,1480]" pageId="20" pageNumber="183" type="issue">2</part>
+): 
+<pagination id="B2D3C85AE95FFFB5FB6A87A396970687" box="[1189,1249,1438,1480]" pageId="20" pageNumber="183" type="pagination">226</pagination>
+, 
+<year id="FFB277FDE95FFFB5FB3487A397380687" box="[1275,1358,1438,1480]" pageId="20" pageNumber="183">1794</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE95FFFB5FEA387EF94D706B3" blockId="20.[299,1699,1388,1839]" box="[364,1697,1490,1532]" pageId="20" pageNumber="183">
+<treatmentCitation id="0ABB10BFE95FFFB5FEA387EF94D706B3" author="Hampson" box="[364,1697,1490,1532]" page="373" pageId="20" pageNumber="183" year="1896">
+<bibCitation id="5E303EC2E95FFFB5FEA387EF94D706B3" author="Hampson" box="[364,1697,1490,1532]" pageId="20" pageNumber="183" pagination="373" refId="ref11212" title="Fauna Brit. India, Moths" type="journal volume" year="1896">
+<treatmentCitationGroup id="AB0A1180E95FFFB5FEA387EF94EA06B3" box="[364,1692,1490,1532]" pageId="20" pageNumber="183">
+<emphasis id="B96EEABCE95FFFB5FEA387EF90F406B3" box="[364,642,1490,1532]" italics="true" pageId="20" pageNumber="183">Hellula undalis,</emphasis>
+<author id="53A7DE4BE95FFFB5FD5D87EF914906B3" box="[658,831,1490,1532]" pageId="20" pageNumber="183">Hampson</author>
+, 
+<title id="F91EDD98E95FFFB5FC9A87EF976006B3" box="[853,1302,1490,1532]" pageId="20" pageNumber="183">
+Fauna Brit. 
+<collectingCountry id="F30D763EE95FFFB5FBFD87EF96E606B3" box="[1074,1168,1490,1532]" name="India" pageId="20" pageNumber="183">India</collectingCountry>
+, Moths
+</title>
+<emphasis id="B96EEABCE95FFFB5FAEB87EF973F06B3" bold="true" box="[1316,1353,1490,1532]" pageId="20" pageNumber="183">4:</emphasis>
+<pagination id="B2D3C85AE95FFFB5FA9987EF97E006B3" box="[1366,1430,1490,1532]" pageId="20" pageNumber="183">373</pagination>
+, fig. 200, 
+<year id="FFB277FDE95FFFB5F98687EF94EA06B3" box="[1609,1692,1490,1532]" pageId="20" pageNumber="183">1896</year>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95FFFB5FEA28435945D0460" pageId="20" pageNumber="183" type="description">
+<paragraph id="8BA536AEE95FFFB5FEA28435945D0460" blockId="20.[299,1699,1388,1839]" pageId="20" pageNumber="183">
+This cabbage pest is widely distributed in tropical regions, also the Mediterranean region and the 
+<collectingCountry id="F30D763EE95FFFB5FD2384069197052B" box="[748,993,1595,1636]" name="United States of America" pageId="20" pageNumber="183">United States</collectingCountry>
+. It occurs in 
+<collectingRegion id="49DEF84CE95FFFB5FB198406972E052B" box="[1238,1368,1595,1636]" country="United States of America" name="Hawaii" pageId="20" pageNumber="183">Hawaii</collectingRegion>
+, and 
+<materialsCitation id="3B723CF3E95FFFB5FA75840697AC05D8" ID-GBIF-Occurrence="3913652399" collectedFrom="found on radish and horseradish" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="20" pageNumber="183">
+was recorded by Fullaway in 
+<collectingCountry id="F30D763EE95FFFB5FD83845090C205D8" box="[588,692,1645,1687]" name="Guam" pageId="20" pageNumber="183">Guam</collectingCountry>
+in 1911, as found on radish and horseradish
+</materialsCitation>
+. It attacks plants of the mustard family generally. 
+<materialsCitation id="3B723CF3E95FFFB5FBC7849C93C805B3" ID-GBIF-Occurrence="3913652373" collectedFrom="reared moths from cabbage" collectingDate="1936-05-14" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="20" pageNumber="183">
+I reared moths from cabbage at 
+<location id="8EC56075E95FFFB5F997849C94EC0586" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB5FEE48751945D0460:8EC56075E95FFFB5F997849C94EC0586" box="[1624,1690,1697,1737]" pageId="20" pageNumber="183">
+<collectingMunicipality id="6BC1ACD4E95FFFB5F997849C94EC0586" box="[1624,1690,1697,1737]" pageId="20" pageNumber="183">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE95FFFB5FEE184EF93C805B3" box="[302,446,1746,1788]" pageId="20" pageNumber="183" value="2014-05">
+<collectingDate id="EFE0E986E95FFFB5FEE184EF93C805B3" box="[302,446,1746,1788]" pageId="20" pageNumber="183" value="2014-05">May 14</collectingDate>
+</date>
+</materialsCitation>
+and 
+<materialsCitation id="3B723CF3E95FFFB5FDE584EF90C605B3" ID-GBIF-Occurrence="3913652376" box="[554,688,1746,1788]" collectedFrom="reared moths from cabbage" collectingDate="1936-06-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="20" pageNumber="183">
+<date id="FFA4106EE95FFFB5FDE584EF90DF05B3" box="[554,681,1746,1788]" pageId="20" pageNumber="183">
+<collectingDate id="EFE0E986E95FFFB5FDE584EF90DF05B3" box="[554,681,1746,1788]" pageId="20" pageNumber="183">June 9</collectingDate>
+</date>
+,
+</materialsCitation>
+and 
+<materialsCitation id="3B723CF3E95FFFB5FCD484EF973205B3" ID-GBIF-Occurrence="3913652507" box="[795,1348,1746,1788]" collectedFrom="from Chinese cabbage" collectingDate="1936-06-06" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="20" pageNumber="183">
+from 
+<location id="8EC56075E95FFFB5FC4884EF967805B3" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB5FEE48751945D0460:8EC56075E95FFFB5FC4884EF967805B3" box="[903,1038,1746,1788]" pageId="20" pageNumber="183">Chinese</location>
+cabbage 
+<date id="FFA4106EE95FFFB5FB0B84EF973205B3" box="[1220,1348,1746,1788]" pageId="20" pageNumber="183">
+<collectingDate id="EFE0E986E95FFFB5FB0B84EF973205B3" box="[1220,1348,1746,1788]" pageId="20" pageNumber="183">June 6</collectingDate>
+</date>
+</materialsCitation>
+. 
+<materialsCitation id="3B723CF3E95FFFB5FAA184EF90910460" ID-GBIF-Occurrence="3986711301" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="20" pageNumber="183" specimenCount="1">
+One specimep at 
+<collectingCountry id="F30D763EE95FFFB5FEE1853893F80460" box="[302,398,1797,1839]" name="United States of America" pageId="20" pageNumber="183">U. S.</collectingCountry>
+<collectingMunicipality id="6BC1ACD4E95FFFB5FE6B853890910460" box="[420,743,1797,1839]" pageId="20" pageNumber="183">National Museum</collectingMunicipality>
+</materialsCitation>
+<materialsCitation id="3B723CF3E95FFFB5FD35853894500460" ID-GBIF-Occurrence="3986711302" box="[762,1574,1797,1839]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Bishop Museum" pageId="20" pageNumber="183" specimenCount="1">
+and one at 
+<location id="8EC56075E95FFFB5FC03853896820460" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB5FEE48751945D0460:8EC56075E95FFFB5FC03853896820460" box="[972,1268,1797,1839]" pageId="20" pageNumber="183">Bishop Museum</location>
+, 
+<location id="8EC56075E95FFFB5FAC0853897C30460" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB5FEE48751945D0460:8EC56075E95FFFB5FAC0853897C30460" box="[1295,1461,1797,1839]" pageId="20" pageNumber="183">Fullaway</location>
+, 1911
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

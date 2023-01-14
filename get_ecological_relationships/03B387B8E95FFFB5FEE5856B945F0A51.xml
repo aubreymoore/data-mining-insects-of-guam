@@ -1,0 +1,149 @@
+<document id="674FFC516FFFBAA850C9927A6E110105" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E95FFFB5FEE5856B945F0A51" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Maruca testulalis" docType="treatment" docVersion="20" lastPageNumber="183" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="183" updateTime="1670267219364" updateUser="annettekang">
+<mods:mods id="B19C205F25BF497F0B05451B4EFACFA9" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="93B6AD822FA2A06BF9A79C52C4C03B31">
+<mods:title id="09F794FA1575D3CADB023D326D8E514B">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="225FB5954CCE2A6E68F54E3A03EFCDF9" type="personal">
+<mods:role id="FEF2F0CCE6E5A6D498D869A877F99CCA">
+<mods:roleTerm id="D1B6E3B226616613E5C622A5000E1789">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="8FE0F49ABEFB3B4C4C16D0B1C161BCE5">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="5E42F558FF592FCAE51C9804D2972EB6">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="450DD1902B86B91A227E10BE8536C4EE">text</mods:typeOfResource>
+<mods:relatedItem id="8D7C9F81DCE087BE80AB822214AAE768" type="host">
+<mods:originInfo id="47F5F11D5270CA55285062331422AE0E">
+<mods:dateIssued id="DDAE72833AF6A24E5ED8AD733689FC12">1946</mods:dateIssued>
+<mods:dateOther id="3CFFBA0EA8225084D647B59556556832" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="23CDAD9F88C9515EE506395FF4FDC942">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="47C707D43E0639406E6DF325C43F2B7C">
+<mods:placeTerm id="A06357449DA4A37FCD224E752D9D4841">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="E2D84904FA2FEF1B60A0A0F936A65755">
+<mods:title id="54712F069790D5E67771159D92F935C8">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="74007A0C492323EA2FEF747E2F226C06">
+<mods:extent id="9F5D4E4FD48DF63791A8153601AA91CC" unit="page">
+<mods:start id="C61871141AD2F15891A794787A05EBF3">163</mods:start>
+<mods:end id="6EE28CBCF776D129EC42592D7741E55C">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="D155301E3BA18CD0BF35906D4A95315E">book chapter</mods:classification>
+<mods:identifier id="8A04FD3129890AFA971F0B08EC26FB8F" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="7B2132505AAA0BBE33BD528A32BF85C2" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="C00518A2098C7EB59E615EDF9148FA8F" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E95FFFB5FEE5856B945F0A51" ID-DOI="http://doi.org/10.5281/zenodo.5224284" ID-GBIF-Taxon="183926903" ID-Zenodo-Dep="5224284" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB5FEE5856B945F0A51" httpUri="http://treatment.plazi.org/id/03B387B8E95FFFB5FEE5856B945F0A51" lastPageNumber="183" pageId="20" pageNumber="183">
+<subSubSection id="C3006525E95FFFB5FEE5856B911004CE" box="[298,870,1878,1921]" pageId="20" pageNumber="183" type="nomenclature">
+<paragraph id="8BA536AEE95FFFB5FEE5856B911004CE" blockId="20.[298,1697,1878,2334]" box="[298,870,1878,1921]" pageId="20" pageNumber="183">
+<heading id="D0ED81C2E95FFFB5FEE5856B911004CE" box="[298,870,1878,1921]" fontSize="8" level="2" pageId="20" pageNumber="183" reason="4">
+<emphasis id="B96EEABCE95FFFB5FEE5856B932A04CE" bold="true" box="[298,348,1878,1921]" pageId="20" pageNumber="183">37.</emphasis>
+<taxonomicName id="4C1A4D2DE95FFFB5FEB1856B911604CE" authority="(Geyer)" baseAuthorityName="Geyer" box="[382,864,1878,1921]" class="Insecta" family="Crambidae" genus="Maruca" kingdom="Animalia" order="Lepidoptera" pageId="20" pageNumber="183" phylum="Arthropoda" rank="species" species="testulalis">
+<emphasis id="B96EEABCE95FFFB5FEB1856B90C104CE" bold="true" box="[382,695,1878,1921]" pageId="20" pageNumber="183">Maruca testulalis</emphasis>
+(Geyer)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95FFFB5FEA385B791E90B00" pageId="20" pageNumber="183" type="description">
+<paragraph id="8BA536AEE95FFFB5FEA385B7917F04A8" blockId="20.[298,1697,1878,2334]" pageId="20" pageNumber="183">
+<treatmentCitationGroup id="AB0A1180E95FFFB5FEA385B7917F04A8" pageId="20" pageNumber="183">
+<bibCitation id="5E303EC2E95FFFB5FEA385B7917F04A8" author="testulalisGeyer" editor="Hubner" pageId="20" pageNumber="183" pagination="12" part="4" refId="ref11331" title="Zutr. Samml. Ex. Schm" type="journal volume" year="1832">
+<treatmentCitation id="0ABB10BFE95FFFB5FEA385B7917204A8" author="Geyer" page="12" pageId="20" pageNumber="183" year="1832">
+<emphasis id="B96EEABCE95FFFB5FEA385B7911104FA" box="[364,871,1930,1973]" italics="true" pageId="20" pageNumber="183">
+Crochiphora 
+<author id="53A7DE4BE95FFFB5FD9D85B7911704FA" box="[594,865,1930,1973]" pageId="20" pageNumber="183">testulalisGeyer</author>
+,
+</emphasis>
+in 
+<editor id="4D86DEADE95FFFB5FC6E85B7965D04FA" box="[929,1067,1930,1973]" pageId="20" pageNumber="183">Hubner</editor>
+, 
+<title id="F91EDD98E95FFFB5FBF085B7979104FA" box="[1087,1511,1930,1973]" pageId="20" pageNumber="183">Zutr. Samml. Ex. Schm</title>
+. 
+<part id="FFBE9C33E95FFFB5FA3685B7946504FA" box="[1529,1555,1930,1973]" pageId="20" pageNumber="183">4</part>
+(4): 
+<pagination id="B2D3C85AE95FFFB5F9B985B794ED04FA" box="[1654,1691,1930,1973]" pageId="20" pageNumber="183">12</pagination>
+, figs. 629, 630, 
+<year id="FFB277FDE95FFFB5FD7F8582917204A8" box="[688,772,1983,2023]" pageId="20" pageNumber="183">1832</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE95FFFB5FEA785CC91E90B00" blockId="20.[298,1697,1878,2334]" pageId="20" pageNumber="183">
+<bibCitation id="5E303EC2E95FFFB5FEA785CC91E90B00" author="Hampson" pageId="20" pageNumber="183" pagination="393" part="4" refId="ref11360" title="Fauna Brit. India, Moths" type="journal article" year="1896">
+<treatmentCitationGroup id="AB0A1180E95FFFB5FEA785CC91EC0B00" pageId="20" pageNumber="183">
+<treatmentCitation id="0ABB10BFE95FFFB5FEA785CC94560B54" author="Hampson" box="[360,1568,2033,2075]" page="393" pageId="20" pageNumber="183" year="1896">
+<emphasis id="B96EEABCE95FFFB5FEA785CC90D40B54" box="[360,674,2033,2075]" italics="true" pageId="20" pageNumber="183">Maruca testulalis,</emphasis>
+<author id="53A7DE4BE95FFFB5FD7E85CC912A0B54" box="[689,860,2033,2075]" pageId="20" pageNumber="183">Hampson</author>
+, 
+<title id="F91EDD98E95FFFB5FCBC85CC97590B54" box="[883,1327,2033,2075]" pageId="20" pageNumber="183">
+Fauna Brit. 
+<collectingCountry id="F30D763EE95FFFB5FB8285CC96DD0B54" box="[1101,1195,2033,2075]" name="India" pageId="20" pageNumber="183">India</collectingCountry>
+, Moths
+</title>
+<emphasis id="B96EEABCE95FFFB5FAF285CC97170B54" bold="true" box="[1341,1377,2033,2075]" pageId="20" pageNumber="183">
+<part id="FFBE9C33E95FFFB5FAF285CC972C0B54" box="[1341,1370,2033,2075]" pageId="20" pageNumber="183" type="volume">4</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE95FFFB5FABF85CC97D90B54" box="[1392,1455,2033,2075]" pageId="20" pageNumber="183" type="pagination">393</pagination>
+, 
+<year id="FFB277FDE95FFFB5FA0885CC94560B54" box="[1479,1568,2033,2075]" pageId="20" pageNumber="183">1896</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE95FFFB5F9FA85CC91EC0B00" author="Tams" page="286" pageId="20" pageNumber="183" year="1935">
+<author id="53A7DE4BE95FFFB5F9FA85CC94EF0B54" box="[1589,1689,2033,2075]" pageId="20" pageNumber="183">Tams</author>
+, 
+<title id="F91EDD98E95FFFB5FE678A1890050B00" box="[424,627,2085,2127]" pageId="20" pageNumber="183">
+Ins. 
+<collectingCountry id="F30D763EE95FFFB5FE348A1890050B00" box="[507,627,2085,2127]" name="Samoa" pageId="20" pageNumber="183">Samoa</collectingCountry>
+</title>
+<part id="FFBE9C33E95FFFB5FD4E8A1890E10B00" box="[641,663,2085,2127]" pageId="20" pageNumber="183" type="volume">3</part>
+(
+<part id="FFBE9C33E95FFFB5FD698A1890B60B00" box="[678,704,2085,2127]" pageId="20" pageNumber="183" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE95FFFB5FD3A8A1891470B00" box="[757,817,2085,2127]" pageId="20" pageNumber="183" type="pagination">286</pagination>
+, 
+<year id="FFB277FDE95FFFB5FC878A1891EC0B00" box="[840,922,2085,2127]" pageId="20" pageNumber="183">1935</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95FFFB5FEA48A66945F0A51" pageId="20" pageNumber="183" type="description">
+<paragraph id="8BA536AEE95FFFB5FEA48A66945F0A51" blockId="20.[298,1697,1878,2334]" pageId="20" pageNumber="183">
+This is a bean pest widely spread in the tropics of Africa, Asia, and the Pacific islands, 
+<collectingCountry id="F30D763EE95FFFB5FD858AB290C20BF7" box="[586,692,2191,2232]" name="Japan" pageId="20" pageNumber="183">Japan</collectingCountry>
+, and 
+<collectingCountry id="F30D763EE95FFFB5FCEE8AB291BE0BF7" box="[801,968,2191,2232]" name="Australia" pageId="20" pageNumber="183">Australia</collectingCountry>
+. It occurs in Hawaii, but was not previously recorded from 
+<collectingCountry id="F30D763EE95FFFB5FD128AFC913F0BA4" box="[733,841,2241,2283]" name="Guam" pageId="20" pageNumber="183">Guam</collectingCountry>
+. 
+<materialsCitation id="3B723CF3E95FFFB5FCBA8AFC90300A51" ID-GBIF-Occurrence="3913652426" collectedFrom="small caterpillars were found in bean pods" collectingDate="1936-10-17" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="20" pageNumber="183">
+Small caterpillars were found in bean pods at 
+<location id="8EC56075E95FFFB5FEAF8ACE93D40A51" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB5FEE5856B945F0A51:8EC56075E95FFFB5FEAF8ACE93D40A51" box="[352,418,2291,2334]" pageId="20" pageNumber="183">
+<collectingMunicipality id="6BC1ACD4E95FFFB5FEAF8ACE93D40A51" box="[352,418,2291,2334]" pageId="20" pageNumber="183">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE95FFFB5FE718ACE90300A51" box="[446,582,2291,2334]" pageId="20" pageNumber="183" value="2017-10">
+<collectingDate id="EFE0E986E95FFFB5FE718ACE90300A51" box="[446,582,2291,2334]" pageId="20" pageNumber="183" value="2017-10">Oct. 17</collectingDate>
+</date>
+</materialsCitation>
+, and 
+<materialsCitation id="3B723CF3E95FFFB5FD7C8ACE94520A51" ID-GBIF-Occurrence="3913652430" box="[691,1572,2291,2334]" collectedFrom="taken at light" collectingDate="1936-10-14" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="20" pageNumber="183" specimenCount="2">
+two moths were taken at light, 
+<date id="FFA4106EE95FFFB5FB368ACE97F70A51" box="[1273,1409,2291,2334]" pageId="20" pageNumber="183" value="2014-10">
+<collectingDate id="EFE0E986E95FFFB5FB368ACE97F70A51" box="[1273,1409,2291,2334]" pageId="20" pageNumber="183" value="2014-10">Oct. 14</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E95FFFB5FA518ACE94520A51" box="[1438,1572,2291,2334]" pageId="20" pageNumber="183">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

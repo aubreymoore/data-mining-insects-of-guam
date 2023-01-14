@@ -1,0 +1,62 @@
+<document id="13C535639CB45B2AFF86E80A5B2364EC" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8DFFE3E4CEFC2E8B55FC0D" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Closterocerus" docType="treatment" docVersion="12" lastPageNumber="218" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="218" updateTime="1664203411617" updateUser="annettekang">
+<mods:mods id="AB432B0CB2C134A5992ADACDB5FF0F6D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="6597F967C759E964483F507A71270828">
+<mods:title id="88B7E2CF3B3D2B49BFE8C7507570A694">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="80A537324D3D54EB18766A1B3B2769BF" type="personal">
+<mods:role id="094141D7CDB102A80AEFCD0E85063D3B">
+<mods:roleTerm id="5BCEAA8B06F83E4FD5614678A7FE7A91">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="33FE8D7896A3141DB816E03BE4A8E0A7">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="5AB4FA1FF744B71B39D6E0105F5BBDCC">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="46D25F23C711522727CCCE031455B441">text</mods:typeOfResource>
+<mods:relatedItem id="4EBAA5F46BCA422F93C4B1B0BD72D47C" type="host">
+<mods:originInfo id="D76F667C909CBD75E9C6F82BFF514383">
+<mods:dateIssued id="E85DA8621EEADACC9454159F5BF1470B">1946</mods:dateIssued>
+<mods:dateOther id="8D491C83BF3483348CCD7F09591E5C4F" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="79F596AEA38C1752A3AA09A00139F1B6">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="7565D4D3594A798542B316CC653676C3">
+<mods:placeTerm id="2CDE4E29A3F4BCB9E94934C30ED9B8F5">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="3112D9F3EF87EF2AA96B051F628BEF78">
+<mods:title id="09FF7AF3BC9957B57A1E4C14C8516ADD">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="808481BB8502036D4A46041813C6993C">
+<mods:extent id="76B4854AFC00B0965D3133130B14F26C" unit="page">
+<mods:start id="EA5366D03903FB33A05207811D526B3B">211</mods:start>
+<mods:end id="0723B269509E2ED457F2750650D141D1">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="80DC34301B404846B6DB2171322450A2">book chapter</mods:classification>
+<mods:identifier id="C6F286056DB78157B334F41F150298A6" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="068DAFD6D3A237D5B11B033E484A5EAE" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="5959B157F04A206E69C2EB73F6BB0B1A" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8DFFE3E4CEFC2E8B55FC0D" ID-DOI="http://doi.org/10.5281/zenodo.5227121" ID-GBIF-Taxon="187737412" ID-Zenodo-Dep="5227121" LSID="urn:lsid:plazi:treatment:7376EC19FF8DFFE3E4CEFC2E8B55FC0D" httpUri="http://treatment.plazi.org/id/7376EC19FF8DFFE3E4CEFC2E8B55FC0D" lastPageNumber="218" pageId="7" pageNumber="218">
+<subSubSection id="B3C50E84FF8DFFE3E4CEFC2E8CF5FC7E" box="[461,939,898,940]" pageId="7" pageNumber="218" type="nomenclature">
+<paragraph id="FB605D0FFF8DFFE3E4CEFC2E8CF5FC7E" blockId="7.[461,1035,898,991]" box="[461,939,898,940]" pageId="7" pageNumber="218">
+<heading id="A028EA63FF8DFFE3E4CEFC2E8CF5FC7E" box="[461,939,898,940]" fontSize="8" level="2" pageId="7" pageNumber="218" reason="4">
+<emphasis id="C9AB811DFF8DFFE3E4CEFC2E8C4AFC7E" bold="true" box="[461,788,898,940]" pageId="7" pageNumber="218">
+55. 
+<taxonomicName id="3CDF268CFF8DFFE3E722FC2E8C4AFC7E" authority="Spinola, 1811" box="[545,788,898,940]" class="Insecta" family="Eulophidae" genus="Closterocerus" higherTaxonomySource="CoL" kingdom="Animalia" order="Hymenoptera" pageId="7" pageNumber="218" phylum="Arthropoda" rank="genus">Closterocerus</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8DFFE3E70FFC188B55FC0D" box="[524,1035,948,991]" pageId="7" pageNumber="218" type="discussion">
+<paragraph id="FB605D0FFF8DFFE3E70FFC188B55FC0D" blockId="7.[461,1035,898,991]" box="[524,1035,948,991]" pageId="7" pageNumber="218">
+<materialsCitation id="4BB75752FF8DFFE3E70FFC188B58FC0D" ID-GBIF-Occurrence="3901040388" box="[524,1030,948,991]" collectingDate="1913" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="7" pageNumber="218">
+<collectingMunicipality id="1B04C775FF8DFFE3E70FFC188D22FC0D" box="[524,636,948,991]" pageId="7" pageNumber="218">Listed</collectingMunicipality>
+by 
+<collectorName id="562A38D9FF8DFFE3E7CBFC188C2FFC0D" box="[712,881,948,991]" pageId="7" pageNumber="218">Fullaway</collectorName>
+in 1913
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

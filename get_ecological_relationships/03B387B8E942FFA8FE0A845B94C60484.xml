@@ -1,0 +1,144 @@
+<document id="B397E8AE13291C3C577160040DC32E7D" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E942FFA8FE0A845B94C60484" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Mocis undata" docType="treatment" docVersion="22" lastPageNumber="172" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="172" updateTime="1669826952250" updateUser="annettekang">
+<mods:mods id="EB306F19B81937D50F8FAB39D8582290" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="0C845B5883833CB0650C1A84A9128962">
+<mods:title id="5C3FBA33A9AFBC475938F84B00FD16A7">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="5729ADDC35C1E9F9ADABB9A50FEECC80" type="personal">
+<mods:role id="E737AB3366F51D0E016CE4BCBECF27AF">
+<mods:roleTerm id="07C7C92DCDDD873E37028D56FAA08504">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B89D4D38DD90908E0C4834F1F24B2495">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="A3B36E9F6313CAA755155F225B9F8469">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A5EDC2379B77D6FC9A06D6133E2B899D">text</mods:typeOfResource>
+<mods:relatedItem id="7F40DEE26F7FEC54F5046E5F34C11432" type="host">
+<mods:originInfo id="4AE892B1B1B7E19FE54E149A90DF2706">
+<mods:dateIssued id="04AB6FAD1A59C5267D2212504D46C2B0">1946</mods:dateIssued>
+<mods:dateOther id="4C5D8E982269106DBB50C3464771EF37" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="CD092520CDDA7A6A1B4E673BC9CE35DF">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="2980F469EAC042EC669C578E0ACAF98B">
+<mods:placeTerm id="1439A3D549BD93419A8CAB6FE730B15E">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="44B8D37AFA47397B45C04087C85906AD">
+<mods:title id="50E110ACA36E94F318EA314459333C6B">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="0CFFDE7FA83B03DD86ADFD3467211387">
+<mods:extent id="F962B343E4D6830736A20B0D0E2E9507" unit="page">
+<mods:start id="70BF233B78097A24BFDEB75B1A2AC7C5">163</mods:start>
+<mods:end id="BEDF702B3ACCE0359784D5FA588D5D1C">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="032F5C703DF3FCEC603E67BD7158CCED">book chapter</mods:classification>
+<mods:identifier id="C73C6FC9E42D0D2ACFA048F6BF352EC4" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="7D3DD2FAF4DDF9E52EDBC8C989A05B0E" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="AF2786F152952221143A6C6EF5D1849C" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E942FFA8FE0A845B94C60484" ID-DOI="http://doi.org/10.5281/zenodo.5158418" ID-GBIF-Taxon="183926875" ID-Zenodo-Dep="5158418" LSID="urn:lsid:plazi:treatment:03B387B8E942FFA8FE0A845B94C60484" httpUri="http://treatment.plazi.org/id/03B387B8E942FFA8FE0A845B94C60484" lastPageNumber="172" pageId="9" pageNumber="172">
+<subSubSection id="C3006525E942FFA8FE0A845B972905D2" box="[453,1375,1638,1693]" pageId="9" pageNumber="172" type="nomenclature">
+<paragraph id="8BA536AEE942FFA8FE0A845B972905D2" blockId="9.[451,1852,1113,1995]" box="[453,1375,1638,1693]" pageId="9" pageNumber="172">
+22. 
+<taxonomicName id="4C1A4D2DE942FFA8FE30845B918E05D2" authority="(Fabricius)" baseAuthorityName="Fabricius" box="[511,1016,1638,1693]" class="Insecta" family="Noctuidae" genus="Mocis" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="9" pageNumber="172" phylum="Arthropoda" rank="species" species="undata">Mocis undata(Fabricius)</taxonomicName>
+. 
+<emphasis id="B96EEABCE942FFA8FA94845B972905D2" box="[1371,1375,1638,1693]" italics="true" pageId="9" pageNumber="172">1</emphasis>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E942FFA8FDCC849F94B2044F" pageId="9" pageNumber="172" type="reference_group">
+<paragraph id="8BA536AEE942FFA8FDCC849F97240582" blockId="9.[451,1852,1113,1995]" box="[515,1362,1698,1741]" pageId="9" pageNumber="172">
+<treatmentCitationGroup id="AB0A1180E942FFA8FDCC849F97240582" box="[515,1362,1698,1741]" pageId="9" pageNumber="172">
+<bibCitation id="5E303EC2E942FFA8FDCC849F97240582" author="Fabricius" box="[515,1362,1698,1741]" pageId="9" pageNumber="172" pagination="600" refId="ref5246" title="Syst. Ent." type="book" year="1775">
+<treatmentCitation id="0ABB10BFE942FFA8FDCC849F973B0582" author="Fabricius" box="[515,1357,1698,1741]" page="600" pageId="9" pageNumber="172" year="1775">
+<emphasis id="B96EEABCE942FFA8FDCC849F917F0582" box="[515,777,1698,1741]" italics="true" pageId="9" pageNumber="172">Noctua undata</emphasis>
+<author id="53A7DE4BE942FFA8FCD7849F91B60582" box="[792,960,1698,1741]" pageId="9" pageNumber="172">Fabricius</author>
+, 
+<title id="F91EDD98E942FFA8FC18849F96FC0582" box="[983,1162,1698,1741]" pageId="9" pageNumber="172">Syst. Ent.</title>
+, 
+<pagination id="B2D3C85AE942FFA8FB50849F96960582" box="[1183,1248,1698,1741]" pageId="9" pageNumber="172">600</pagination>
+, 
+<year id="FFB277FDE942FFA8FB37849F973B0582" box="[1272,1357,1698,1741]" pageId="9" pageNumber="172">1775</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE942FFA8FDCC84EB94B2044F" blockId="9.[451,1852,1113,1995]" box="[515,1732,1750,1792]" pageId="9" pageNumber="172">
+<treatmentCitationGroup id="AB0A1180E942FFA8FDCC84EB94B2044F" box="[515,1732,1750,1792]" pageId="9" pageNumber="172">
+<bibCitation id="5E303EC2E942FFA8FDCC84EB94B2044F" author="Hampson" box="[515,1732,1750,1792]" pageId="9" pageNumber="172" pagination="91" part="13" refId="ref5259" title="Cat. Lep. Phalaenae" type="book" year="1913">
+<emphasis id="B96EEABCE942FFA8FDCC84EB9088044F" box="[515,766,1750,1792]" italics="true" pageId="9" pageNumber="172">Mocis undata,</emphasis>
+<treatmentCitation id="0ABB10BFE942FFA8FCDE84EB94B2044F" author="Hampson" box="[785,1732,1750,1792]" page="91" pageId="9" pageNumber="172" year="1913">
+<author id="53A7DE4BE942FFA8FCDE84EB91C8044F" box="[785,958,1750,1792]" pageId="9" pageNumber="172">Hampson</author>
+, 
+<title id="F91EDD98E942FFA8FC1884EB9734044F" box="[983,1346,1750,1792]" pageId="9" pageNumber="172">Cat. Lep. Phalaenae</title>
+<part id="FFBE9C33E942FFA8FA9A84EB9703044F" box="[1365,1397,1750,1792]" pageId="9" pageNumber="172">13</part>
+: 
+<pagination id="B2D3C85AE942FFA8FA5684EB97B5044F" box="[1433,1475,1750,1792]" pageId="9" pageNumber="172">91</pagination>
+, fig. 25, 
+<year id="FFB277FDE942FFA8F9A384EB94C9044F" box="[1644,1727,1750,1792]" pageId="9" pageNumber="172">1913</year>
+.
+</treatmentCitation>
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E942FFA8FDCA853494C60484" pageId="9" pageNumber="172" type="reference_group">
+<paragraph id="8BA536AEE942FFA8FDCA8534954D047A" blockId="9.[451,1852,1113,1995]" box="[517,1851,1801,1845]" pageId="9" pageNumber="172">
+<materialsCitation id="3B723CF3E942FFA8FDCA853491CA047A" ID-GBIF-Occurrence="3332081391" box="[517,956,1801,1845]" collectingDate="1936-06-27" collectorName="O. H. Swezey" country="Guam" location="Agat" pageId="9" pageNumber="172">
+<location id="8EC56075E942FFA8FDCA85349028047A" LSID="urn:lsid:plazi:treatment:03B387B8E942FFA8FE0A845B94C60484:8EC56075E942FFA8FDCA85349028047A" box="[517,606,1801,1845]" pageId="9" pageNumber="172">Agat</location>
+, 
+<date id="FFA4106EE942FFA8FDB58534917A047A" box="[634,780,1801,1845]" pageId="9" pageNumber="172" value="1927-06">
+<collectingDate id="EFE0E986E942FFA8FDB58534917A047A" box="[634,780,1801,1845]" pageId="9" pageNumber="172" value="1927-06">
+June 
+<emphasis id="B96EEABCE942FFA8FD2F85349165047A" box="[736,787,1801,1845]" italics="true" pageId="9" pageNumber="172">27,</emphasis>
+</collectingDate>
+</date>
+<collectorName id="26EF5378E942FFA8FCE6853491C3047A" box="[809,949,1801,1845]" pageId="9" pageNumber="172">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E942FFA8FC1E853496C1047A" ID-GBIF-Occurrence="3913652441" box="[977,1207,1801,1845]" collectingDate="1936-08-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="9" pageNumber="172">
+<location id="8EC56075E942FFA8FC1E85349662047A" LSID="urn:lsid:plazi:treatment:03B387B8E942FFA8FE0A845B94C60484:8EC56075E942FFA8FC1E85349662047A" box="[977,1044,1801,1845]" pageId="9" pageNumber="172">
+<collectingMunicipality id="6BC1ACD4E942FFA8FC1E85349662047A" box="[977,1044,1801,1845]" pageId="9" pageNumber="172">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE942FFA8FBFF853496C6047A" box="[1072,1200,1801,1845]" pageId="9" pageNumber="172">
+<collectingDate id="EFE0E986E942FFA8FBFF853496C6047A" box="[1072,1200,1801,1845]" pageId="9" pageNumber="172">
+Aug. 
+<emphasis id="B96EEABCE942FFA8FB55853496C1047A" box="[1178,1207,1801,1845]" italics="true" pageId="9" pageNumber="172">7,</emphasis>
+</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="3B723CF3E942FFA8FB028534972B047A" ID-GBIF-Occurrence="3913652338" box="[1229,1373,1801,1845]" collectingDate="1936-10-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="9" pageNumber="172">
+<date id="FFA4106EE942FFA8FB0285349720047A" box="[1229,1366,1801,1845]" pageId="9" pageNumber="172" value="1927-10">
+<collectingDate id="EFE0E986E942FFA8FB0285349720047A" box="[1229,1366,1801,1845]" pageId="9" pageNumber="172" value="1927-10">
+Oct. 
+<emphasis id="B96EEABCE942FFA8FAE48534972B047A" box="[1323,1373,1801,1845]" italics="true" pageId="9" pageNumber="172">27,</emphasis>
+</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="3B723CF3E942FFA8FABB8534954D047A" ID-GBIF-Occurrence="3913652403" box="[1396,1851,1801,1845]" collectedFrom="at light" collectingDate="1936-11-03" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="9" pageNumber="172">
+<date id="FFA4106EE942FFA8FABB85349784047A" box="[1396,1522,1801,1845]" pageId="9" pageNumber="172">
+<collectingDate id="EFE0E986E942FFA8FABB85349784047A" box="[1396,1522,1801,1845]" pageId="9" pageNumber="172">Nov. 3</collectingDate>
+</date>
+, at light, 
+<collectorName id="26EF5378E942FFA8F97F85349540047A" box="[1712,1846,1801,1845]" pageId="9" pageNumber="172">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+<paragraph id="8BA536AEE942FFA8FDCA850194C60484" blockId="9.[451,1852,1113,1995]" pageId="9" pageNumber="172">
+<location id="8EC56075E942FFA8FDCA850190230429" LSID="urn:lsid:plazi:treatment:03B387B8E942FFA8FE0A845B94C60484:8EC56075E942FFA8FDCA850190230429" box="[517,597,1852,1894]" country="India, China, Japan, Formosa" county="Our" municipality="Africa" name="This" pageId="9" pageNumber="172">This</location>
+moth is widely distributed in 
+<collectingMunicipality id="6BC1ACD4E942FFA8FB458501968A0429" box="[1162,1276,1852,1894]" pageId="9" pageNumber="172">Africa</collectingMunicipality>
+, 
+<collectingCountry id="F30D763EE942FFA8FAD8850195400429" box="[1303,1846,1852,1894]" isEnumeration="true" pageId="9" pageNumber="172">India, China, Japan, Formosa</collectingCountry>
+, 
+<collectingCountry id="F30D763EE942FFA8FE07855290F904D6" box="[456,655,1903,1945]" name="Philippines" pageId="9" pageNumber="172">Philippines</collectingCountry>
+, Java. Now recorded for the first titrte in 
+<collectingCountry id="F30D763EE942FFA8FA6D8552947804D6" box="[1442,1550,1903,1945]" name="Guam" pageId="9" pageNumber="172">Guam</collectingCountry>
+. 
+<collectingCounty id="62C44E22E942FFA8F9FF8552940E04D6" box="[1584,1656,1903,1945]" pageId="9" pageNumber="172">Our</collectingCounty>
+<specimenCount id="9D1CFD27E942FFA8F946855290560484" pageId="9" pageNumber="172" type="generic">five specimens</specimenCount>
+were mostly taken at light, so we learned nothing of its habits.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

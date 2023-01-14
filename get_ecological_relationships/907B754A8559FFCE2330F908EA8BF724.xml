@@ -1,0 +1,188 @@
+<document id="D80EA759A21C0FA66EB776513CD0E6D1" ID-DOI="http://doi.org/10.5281/zenodo.5156759" ID-GBIF-Dataset="6e65e7d3-7a72-4da4-9739-5e3814593490" ID-Zenodo-Dep="5156759" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628022238476" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="907B754A8559FFCE2330F908EA8BF724" docLanguage="en" docName="InsectsOfGuamII.189.221-227.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Apanteles guamensis" docType="treatment" docVersion="12" lastPageNumber="225" masterDocId="6C420D32855DFFCA221EFFCCE940FF9E" masterDocTitle="Ichneumonidae, Evaniidae, And Braconidae Of Guam" masterLastPageNumber="227" masterPageNumber="221" pageNumber="225" updateTime="1660588495563" updateUser="ExternalLinkService">
+<mods:mods id="653CDF00D1B37B626D69BEC99862437A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="297D4CDAD9EA8CB6F3627A7048F04B10">
+<mods:title id="E29B885F310073260C437271441BAAFB">Ichneumonidae, Evaniidae, And Braconidae Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="2050C3F816D0EB0AAECB8EA227233FB3" type="personal">
+<mods:role id="12AE5F83370BAD143D455C850135BD7E">
+<mods:roleTerm id="181E0038E3B438CF9354E9F621092A15">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9666C6033A46B4163939ABB9A5DF4E53">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="ED5C58CF9B4425A98BD12E78BD455738">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="BD31B246592E256387D7DEE7882CB5CC">text</mods:typeOfResource>
+<mods:relatedItem id="4D7DBAFF691938AA6E334C249B36EDC7" type="host">
+<mods:originInfo id="9D770C332C557623A666E576EF506AFA">
+<mods:dateIssued id="890269551FF3B7D11B575B0DE0F4A5DA">1946</mods:dateIssued>
+<mods:dateOther id="797FCF405C0A970BCE09776F8DAED7BB" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="4C7F48CA5209AA0D81127D9D78B53F85">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="75D412E9268DFF002EC6D632E0C28007">
+<mods:placeTerm id="E596FCCD58669CBF73741BFD9A73F123">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="E6165A8723DDE5BE343B66D393D6D57C">
+<mods:title id="F8E1532D366115C7923309A55EF74667">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="B53FCD8ED41BB787A90DD714428E5037">
+<mods:extent id="CDD8C0E88629DB10AF58660859262939" unit="page">
+<mods:start id="AE65392FC5760ACFCE0ABE0A384DA5EC">221</mods:start>
+<mods:end id="95A2F0DDDB6178A06C12496872B80D4B">227</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="AAE0FC595EBAA0F2B9F7E9600966383F">book chapter</mods:classification>
+<mods:identifier id="51E1A56548CEAE3300CE8ED2892B777A" type="DOI">http://doi.org/10.5281/zenodo.5156759</mods:identifier>
+<mods:identifier id="EAF53F2A9B693AEB971FC84523271368" type="GBIF-Dataset">6e65e7d3-7a72-4da4-9739-5e3814593490</mods:identifier>
+<mods:identifier id="406E6DCEF625AD4C65704C36881D59EE" type="Zenodo-Dep">5156759</mods:identifier>
+</mods:mods>
+<treatment id="907B754A8559FFCE2330F908EA8BF724" ID-DOI="http://doi.org/10.5281/zenodo.5186470" ID-GBIF-Taxon="183969196" ID-Zenodo-Dep="5186470" LSID="urn:lsid:plazi:treatment:907B754A8559FFCE2330F908EA8BF724" httpUri="http://treatment.plazi.org/id/907B754A8559FFCE2330F908EA8BF724" lastPageNumber="225" pageId="4" pageNumber="225">
+<subSubSection id="50C897D78559FFCE2330F908EAA7F973" box="[302,999,1732,1773]" pageId="4" pageNumber="225" type="nomenclature">
+<paragraph id="186DC45C8559FFCE2330F908EAA7F973" blockId="4.[302,1698,1732,2234]" box="[302,999,1732,1773]" pageId="4" pageNumber="225">
+<heading id="432573308559FFCE2330F908EAA7F973" box="[302,999,1732,1773]" fontSize="11" level="2" pageId="4" pageNumber="225" reason="2">
+<emphasis id="2AA6184E8559FFCE2330F908E80AF973" bold="true" box="[302,330,1732,1773]" pageId="4" pageNumber="225">6.</emphasis>
+<taxonomicName id="DFD2BFDF8559FFCE2372F908EAA1F973" authority="(Holmgren)" baseAuthorityName="Holmgren" box="[364,993,1732,1773]" class="Insecta" family="Braconidae" genus="Apanteles" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="225" phylum="Arthropoda" rank="species" species="guamensis">
+<emphasis id="2AA6184E8559FFCE2372F908EBACF973" bold="true" box="[364,748,1732,1773]" pageId="4" pageNumber="225">Apanteles guamensis</emphasis>
+(Holmgren)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D78559FFCE2372F93AEFE2F8CA" pageId="4" pageNumber="225" type="reference_group">
+<paragraph id="186DC45C8559FFCE2372F93AEFE1F8BF" blockId="4.[302,1698,1732,2234]" box="[364,1697,1782,1825]" pageId="4" pageNumber="225">
+<treatmentCitationGroup id="38C2E3728559FFCE2372F93AEFE1F8BF" box="[364,1697,1782,1825]" pageId="4" pageNumber="225">
+<treatmentCitation id="9973E24D8559FFCE2372F93AEFE1F8BF" author="Holmgren" box="[364,1697,1782,1825]" page="432" pageId="4" pageNumber="225" year="1868">
+<taxonomicName id="DFD2BFDF8559FFCE2372F93AED7CF8BF" authority="Holmgren, Freg. Eugenies Resa, Ins." authorityName="Holmgren, Freg. Eugenies Resa, Ins." box="[364,1084,1782,1825]" class="Insecta" family="Braconidae" genus="Microgaster" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="225" phylum="Arthropoda" rank="species" species="guamensis">
+<emphasis id="2AA6184E8559FFCE2372F93AEA47F8BF" box="[364,775,1782,1825]" italics="true" pageId="4" pageNumber="225">Microgaster guamensis</emphasis>
+<bibCitation id="CDF8CC308559FFCE2109F93AEFE1F8BF" author="Holmgren" box="[791,1697,1782,1825]" journalOrPublisher="Freg. Eugenies Resa, Ins." pageId="4" pageNumber="225" pagination="432" part="6" refId="ref2637" type="journal article" year="1868">
+<author id="C06F2CB98559FFCE2109F93AEA8EF8BF" box="[791,974,1782,1825]" pageId="4" pageNumber="225">Holmgren</author>
+, 
+<journalOrPublisher id="C213CE908559FFCE21FBF93AECEFF8BF" box="[997,1455,1782,1825]" pageId="4" pageNumber="225">Freg. Eugenies Resa, Ins.</journalOrPublisher>
+<emphasis id="2AA6184E8559FFCE27A1F93AECA4F8BF" bold="true" box="[1471,1508,1782,1825]" pageId="4" pageNumber="225">
+<part id="6C766EC18559FFCE27A1F93AEC92F8BF" box="[1471,1490,1782,1825]" pageId="4" pageNumber="225" type="volume">6</part>
+:
+</emphasis>
+<pagination id="211B3AA88559FFCE27EEF93AEF71F8BF" box="[1520,1585,1782,1825]" pageId="4" pageNumber="225" type="pagination">432</pagination>
+, 
+<year id="6C7A850F8559FFCE2454F93AEFDCF8BF" box="[1610,1692,1782,1825]" pageId="4" pageNumber="225">1868</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="186DC45C8559FFCE2375F8E5EFE2F8CA" blockId="4.[302,1698,1732,2234]" box="[363,1698,1833,1876]" pageId="4" pageNumber="225">
+<treatmentCitationGroup id="38C2E3728559FFCE2375F8E5EFE2F8CA" box="[363,1698,1833,1876]" pageId="4" pageNumber="225">
+<treatmentCitation id="9973E24D8559FFCE2375F8E5EFE2F8CA" author="Fullaway" box="[363,1698,1833,1876]" page="290" pageId="4" pageNumber="225" year="1913">
+<taxonomicName id="DFD2BFDF8559FFCE2375F8E5EAECF8CA" authority=", Fullaway, Haw. Ent. Soc., Proc." box="[363,940,1833,1876]" class="Insecta" family="Braconidae" genus="Apanteles" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="225" phylum="Arthropoda" rank="species" species="guamensis">
+<emphasis id="2AA6184E8559FFCE2375F8E5EBAFF8CA" box="[363,751,1833,1876]" italics="true" pageId="4" pageNumber="225">Apanteles guamensis,</emphasis>
+<bibCitation id="CDF8CC308559FFCE2118F8E5EFE2F8CA" author="Fullaway" box="[774,1698,1833,1876]" journalOrPublisher="Haw. Ent. Soc., Proc." pageId="4" pageNumber="225" pagination="290" part="2" refId="ref2655" type="journal article" year="1913">
+<author id="C06F2CB98559FFCE2118F8E5EAECF8CA" box="[774,940,1833,1876]" pageId="4" pageNumber="225">Fullaway</author>
+, 
+<journalOrPublisher id="C213CE908559FFCE21D4F8E5EC25F8CA" box="[970,1381,1833,1876]" pageId="4" pageNumber="225">Haw. Ent. Soc., Proc.</journalOrPublisher>
+<part id="6C766EC18559FFCE2762F8E5ECD3F8CA" box="[1404,1427,1833,1876]" pageId="4" pageNumber="225" type="volume">2</part>
+(
+<part id="6C766EC18559FFCE27BFF8E5ECF6F8CA" box="[1441,1462,1833,1876]" pageId="4" pageNumber="225" type="issue">5</part>
+): 
+<pagination id="211B3AA88559FFCE27F5F8E5EF6CF8CA" box="[1515,1580,1833,1876]" pageId="4" pageNumber="225" type="pagination">290</pagination>
+, 
+<year id="6C7A850F8559FFCE2452F8E5EFDDF8CA" box="[1612,1693,1833,1876]" pageId="4" pageNumber="225">1913</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D78559FFCE2371F890E8FAF7CA" pageId="4" pageNumber="225" type="materials_examined">
+<paragraph id="186DC45C8559FFCE2371F890E8FAF7CA" blockId="4.[302,1698,1732,2234]" pageId="4" pageNumber="225">
+<materialsCitation id="A8BACE018559FFCE2371F890EBDDF819" ID-GBIF-Occurrence="3888069302" box="[367,669,1884,1927]" collectingDate="1936-05-07" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="4" pageNumber="225">
+<collectingMunicipality id="F8095E268559FFCE2371F890EB4AF819" box="[367,522,1884,1927]" pageId="4" pageNumber="225">Inarajan</collectingMunicipality>
+, 
+<date id="6C6CE29C8559FFCE203CF890EBD6F819" box="[546,662,1884,1927]" pageId="4" pageNumber="225">
+<collectingDate id="7C281B748559FFCE203CF890EBD6F819" box="[546,662,1884,1927]" pageId="4" pageNumber="225">
+May 
+<emphasis id="2AA6184E8559FFCE209FF890EBDDF819" box="[641,669,1884,1927]" italics="true" pageId="4" pageNumber="225">7,</emphasis>
+</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="A8BACE018559FFCE20AEF890EB9FF819" ID-GBIF-Occurrence="3888069311" box="[688,735,1884,1927]" collectingDate="1936-05-14" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="4" pageNumber="225">14,</materialsCitation>
+<materialsCitation id="A8BACE018559FFCE20F0F890E8FBF825" ID-GBIF-Occurrence="3888069313" collectedFrom="reared from rice leafroller, Susumia exigua" collectingDate="1936-06-25" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="4" pageNumber="225">
+<date id="6C6CE29C8559FFCE20F0F890EA3BF819" box="[750,891,1884,1927]" pageId="4" pageNumber="225" value="1925-06">
+<collectingDate id="7C281B748559FFCE20F0F890EA3BF819" box="[750,891,1884,1927]" pageId="4" pageNumber="225" value="1925-06">June 25</collectingDate>
+</date>
+, reared from rice leafroller, 
+<taxonomicName id="DFD2BFDF8559FFCE2761F890E8FBF825" authority=", Swezey" authorityName="Swezey" class="Insecta" family="Crambidae" genus="Susumia" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="225" phylum="Arthropoda" rank="species" species="exigua">
+<emphasis id="2AA6184E8559FFCE2761F890EFE2F819" box="[1407,1698,1884,1927]" italics="true" pageId="4" pageNumber="225">
+<location id="1D0D92878559FFCE2761F890EF58F819" LSID="urn:lsid:plazi:treatment:907B754A8559FFCE2330F908EA8BF724:1D0D92878559FFCE2761F890EF58F819" box="[1407,1560,1884,1927]" name="Susumia" pageId="4" pageNumber="225">Susumia</location>
+exigua,
+</emphasis>
+<collectorName id="B527A18A8559FFCE2331F85DE8FBF825" box="[303,443,1937,1979]" pageId="4" pageNumber="225">Swezey</collectorName>
+</taxonomicName>
+</materialsCitation>
+; 
+<materialsCitation id="A8BACE018559FFCE23C9F85DE8FBF871" ID-GBIF-Occurrence="3332362327" collectedFrom="reared from corn leafroller, Marasmia trapezalis" collectingDate="1936-05-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="4" pageNumber="225">
+<collectingMunicipality id="F8095E268559FFCE23C9F85DEB1FF825" box="[471,607,1937,1979]" pageId="4" pageNumber="225">Dededo</collectingMunicipality>
+, 
+<date id="6C6CE29C8559FFCE2065F85DEA47F825" box="[635,775,1937,1979]" pageId="4" pageNumber="225" value="2011-05">
+<collectingDate id="7C281B748559FFCE2065F85DEA47F825" box="[635,775,1937,1979]" pageId="4" pageNumber="225" value="2011-05">May 11</collectingDate>
+</date>
+, reared from corn leafroller, 
+<taxonomicName id="DFD2BFDF8559FFCE2733F85DE8FBF871" authorityName="Lederer" authorityYear="1863" class="Insecta" family="Crambidae" genus="Marasmia" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="225" phylum="Arthropoda" rank="genus">
+<emphasis id="2AA6184E8559FFCE2733F85DEFE2F825" box="[1325,1698,1937,1979]" italics="true" pageId="4" pageNumber="225">
+<location id="1D0D92878559FFCE2733F85DECA0F825" LSID="urn:lsid:plazi:treatment:907B754A8559FFCE2330F908EA8BF724:1D0D92878559FFCE2733F85DECA0F825" box="[1325,1504,1937,1979]" municipality="Dededo" name="Marasmia" pageId="4" pageNumber="225">Marasmia</location>
+trapezalis,
+</emphasis>
+<collectorName id="B527A18A8559FFCE2331F80FE8FBF871" box="[303,443,1987,2031]" pageId="4" pageNumber="225">Swezey</collectorName>
+</taxonomicName>
+</materialsCitation>
+; 
+<materialsCitation id="A8BACE018559FFCE23CBF80FECABF871" ID-GBIF-Occurrence="3332362308" box="[469,1515,1987,2031]" collectedFrom="reared from corn leafroller" collectingDate="1936-05-26" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="4" pageNumber="225">
+<location id="1D0D92878559FFCE23CBF80FEBDAF871" LSID="urn:lsid:plazi:treatment:907B754A8559FFCE2330F908EA8BF724:1D0D92878559FFCE23CBF80FEBDAF871" box="[469,666,1987,2031]" name="Mt. Alifan" pageId="4" pageNumber="225">Mt. Alifan</location>
+, 
+<date id="6C6CE29C8559FFCE20ACF80FEA7CF871" box="[690,828,1987,2031]" pageId="4" pageNumber="225" value="1926-05">
+<collectingDate id="7C281B748559FFCE20ACF80FEA7CF871" box="[690,828,1987,2031]" pageId="4" pageNumber="225" value="1926-05">May 26</collectingDate>
+</date>
+, reared from corn leafroller, 
+<collectorName id="B527A18A8559FFCE2746F80FECA4F871" box="[1368,1508,1987,2031]" pageId="4" pageNumber="225">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="A8BACE018559FFCE27E3F80FE8FAF7CA" ID-GBIF-Occurrence="3332362332" collectedFrom="reared from Pyrausta phoenicealis, a leafroller on Elephantopus spicatus" collectingDate="1936-07-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="225">
+<location id="1D0D92878559FFCE27E3F80FEF7FF871" LSID="urn:lsid:plazi:treatment:907B754A8559FFCE2330F908EA8BF724:1D0D92878559FFCE27E3F80FEF7FF871" box="[1533,1599,1987,2031]" name="Piti" pageId="4" pageNumber="225">Piti</location>
+, 
+<date id="6C6CE29C8559FFCE2448F80FE819F7BF" pageId="4" pageNumber="225" value="2013-07">
+<collectingDate id="7C281B748559FFCE2448F80FE819F7BF" pageId="4" pageNumber="225" value="2013-07">July 13</collectingDate>
+</date>
+, reared from 
+<emphasis id="2AA6184E8559FFCE2042F83BEAA9F7BF" box="[604,1001,2039,2081]" italics="true" pageId="4" pageNumber="225">
+<taxonomicName id="DFD2BFDF8559FFCE2042F83BEAA3F7BF" box="[604,995,2039,2081]" class="Insecta" family="Crambidae" genus="Pyrausta" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="225" phylum="Arthropoda" rank="species" species="phoenicealis">
+<location id="1D0D92878559FFCE2042F83BEBBCF7BF" LSID="urn:lsid:plazi:treatment:907B754A8559FFCE2330F908EA8BF724:1D0D92878559FFCE2042F83BEBBCF7BF" box="[604,764,2039,2081]" name="Pyrausta" pageId="4" pageNumber="225">Pyrausta</location>
+phoenicealis
+</taxonomicName>
+,
+</emphasis>
+a leafroller on 
+<taxonomicName id="DFD2BFDF8559FFCE2713F83BE8FAF7CA" authority=", Swezey." class="Magnoliopsida" family="Asteraceae" genus="Elephantopus" kingdom="Plantae" order="Asterales" pageId="4" pageNumber="225" phylum="Tracheophyta" rank="species" species="spicatus">
+<emphasis id="2AA6184E8559FFCE2713F83BEFE2F7BF" box="[1293,1698,2039,2081]" italics="true" pageId="4" pageNumber="225">
+<location id="1D0D92878559FFCE2713F83BECBCF7BF" LSID="urn:lsid:plazi:treatment:907B754A8559FFCE2330F908EA8BF724:1D0D92878559FFCE2713F83BECBCF7BF" box="[1293,1532,2039,2081]" name="Elephantopus" pageId="4" pageNumber="225">Elephantopus</location>
+spicatus,
+</emphasis>
+<collectorName id="B527A18A8559FFCE232EF7E7E8FAF7CA" box="[304,442,2091,2132]" pageId="4" pageNumber="225">Swezey.</collectorName>
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D78559FFCE2373F791EA8BF724" pageId="4" pageNumber="225" type="discussion">
+<paragraph id="186DC45C8559FFCE2373F791EA8BF724" blockId="4.[302,1698,1732,2234]" pageId="4" pageNumber="225">
+<materialsCitation id="A8BACE018559FFCE2373F791EA86F724" ID-GBIF-Occurrence="3888069310" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="4" pageNumber="225">
+This braconid was described from 
+<collectingCountry id="60C584CC8559FFCE21FDF791ED0FF716" box="[995,1103,2141,2184]" name="Guam" pageId="4" pageNumber="225">Guam</collectingCountry>
+. It was collected by 
+<location id="1D0D92878559FFCE27CFF791EF32F716" LSID="urn:lsid:plazi:treatment:907B754A8559FFCE2330F908EA8BF724:1D0D92878559FFCE27CFF791EF32F716" box="[1489,1650,2141,2184]" country="Guam" name="Fullaway" pageId="4" pageNumber="225">Fullaway</location>
+in 1911, and was quite common in 1936
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

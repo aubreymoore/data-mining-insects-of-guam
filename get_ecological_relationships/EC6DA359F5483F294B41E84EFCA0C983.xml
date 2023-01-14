@@ -1,0 +1,155 @@
+<document id="19D3A454B0AA0D1CEDD70E5BE97C8BEB" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5483F294B41E84EFCA0C983" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Cyrtorhinus riveti Cheesman" docType="treatment" docVersion="18" lastPageNumber="79" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="79" updateTime="1671678023131" updateUser="annettekang">
+<mods:mods id="DD45CA359C87990F098F5C8045F63922" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="AA0019F2D19028C07F88E0D725410A7D">
+<mods:title id="AB5D8277A3658C857487A8B3854C8FCA">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="0EBC82AD839CD329B227820F8E79A294" type="personal">
+<mods:role id="C90AE77B46C6A3A00CC8D05FECE15964">
+<mods:roleTerm id="A96E48AFC3FB20CAD3D380C2B3EDA712">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3D067813BA909E0EEC550A74810A4F90">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="E1CD831AEDF5BAD2743169909A94DEC4">text</mods:typeOfResource>
+<mods:relatedItem id="491ABCF7B3DC72209270EB8698467977" type="host">
+<mods:originInfo id="945083F3C5364B02676675D7BABEB372">
+<mods:dateIssued id="28A21A64FE981D57E5C4A8F377F0112F">1946</mods:dateIssued>
+<mods:dateOther id="5112F8A1E117CE39BBB6E25BEA8C7EE0" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="C80372BF10B7FE2D59B9AA54C2B9D194">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="4C106A04C1EFE2B792C48ACB0EA85AC4">
+<mods:placeTerm id="75F9075703E66C0F47E4A64CB1DEB19B">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="1FCF29191968670D0F7AA712AA3F18AF">
+<mods:title id="CFCD44339EBD828ACEA3C7A6522A5213">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="C364F5390ED3FECAC993C784A74546E8">
+<mods:extent id="697863FC567A54B0C5D797C73DB7A2DC" unit="page">
+<mods:start id="54E1E8E6888851D377CA6CD5EFF86740">11</mods:start>
+<mods:end id="F29818F4723FFDAB9AC1AB778B758497">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="99287A32C3401B76C1A6D8F1B2A9BCD8">book chapter</mods:classification>
+<mods:identifier id="D95AA805B8D6438B240D4EF8ED746BBE" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="521F9BB3C07F5E3069FBF59A68C855D8" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="AC3F22E251F0C140BEF3AE7836F44A3E" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5483F294B41E84EFCA0C983" ID-DOI="http://doi.org/10.5281/zenodo.5213835" ID-GBIF-Taxon="184601110" ID-Zenodo-Dep="5213835" LSID="urn:lsid:plazi:treatment:EC6DA359F5483F294B41E84EFCA0C983" httpUri="http://treatment.plazi.org/id/EC6DA359F5483F294B41E84EFCA0C983" lastPageNumber="79" pageId="68" pageNumber="79">
+<subSection id="0D4B0BA4F5483F294B41E84EFC6AC639" box="[289,910,1830,1873]" pageId="68" pageNumber="79" type="multiple">
+<subSubSection id="2CDE41C4F5483F294B41E84EFC6AC639" box="[289,910,1830,1873]" pageId="68" pageNumber="79" type="nomenclature">
+<paragraph id="647B124FF5483F294B41E84EFC6AC639" blockId="68.[288,1687,1830,2283]" box="[289,910,1830,1873]" pageId="68" pageNumber="79">
+<heading id="3F33A523F5483F294B41E84EFC6AC639" box="[289,910,1830,1873]" fontSize="8" level="2" pageId="68" pageNumber="79" reason="4">
+<emphasis id="56B0CE5DF5483F294B41E84EFEB6C639" bold="true" box="[289,338,1830,1873]" pageId="68" pageNumber="79">74.</emphasis>
+<taxonomicName id="A3C469CCF5483F294B14E84EFC6DC639" authority="Cheesman" authorityName="Cheesman" box="[372,905,1830,1873]" class="Insecta" family="Miridae" genus="Cyrtorhinus" kingdom="Animalia" order="Hemiptera" pageId="68" pageNumber="79" phylum="Arthropoda" rank="species" species="riveti">
+<emphasis id="56B0CE5DF5483F294B14E84EFD5BC639" bold="true" box="[372,703,1830,1873]" pageId="68" pageNumber="79">Cyrtorhinus riveti</emphasis>
+Cheesman
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+</subSection>
+<subSubSection id="2CDE41C4F5483F294B00E832F9B3C6ED" box="[352,1623,1882,1925]" pageId="68" pageNumber="79" type="reference_group">
+<paragraph id="647B124FF5483F294B00E832F9B3C6ED" blockId="68.[288,1687,1830,2283]" box="[352,1623,1882,1925]" pageId="68" pageNumber="79">
+<treatmentCitation id="E565345EF5483F294B00E832F9B3C6ED" author="Cheesman" box="[352,1623,1882,1925]" page="94" pageId="68" pageNumber="79" year="1927">
+<bibCitation id="B1EE1A23F5483F294B00E832F9B3C6ED" author="Cheesman" box="[352,1623,1882,1925]" journalOrPublisher="Ann. Mag. Nat. Hist." pageId="68" pageNumber="79" pagination="94" part="19" refId="ref36433" type="journal article" year="1927">
+<treatmentCitationGroup id="44D43561F5483F294B00E832F9B6C6ED" box="[352,1618,1882,1925]" pageId="68" pageNumber="79">
+<emphasis id="56B0CE5DF5483F294B00E832FD50C6ED" box="[352,692,1882,1925]" italics="true" pageId="68" pageNumber="79">Cyrtorrhinus riveti</emphasis>
+<author id="BC79FAAAF5483F2948A4E832FC9CC6ED" box="[708,888,1882,1925]" pageId="68" pageNumber="79">Cheesman</author>
+, 
+<journalOrPublisher id="BE051883F5483F2949EEE832FAF6C6ED" box="[910,1298,1882,1925]" pageId="68" pageNumber="79">Ann. Mag. Nat. Hist.</journalOrPublisher>
+IX, 
+<emphasis id="56B0CE5DF5483F294F16E832FA4FC6ED" bold="true" box="[1398,1451,1882,1925]" pageId="68" pageNumber="79">
+<part id="1060B8D2F5483F294F16E832FA7EC6ED" box="[1398,1434,1882,1925]" pageId="68" pageNumber="79" type="volume">19</part>
+:
+</emphasis>
+<pagination id="5D0DECBBF5483F294FD8E832FA00C6ED" box="[1464,1508,1882,1925]" pageId="68" pageNumber="79" type="pagination">94</pagination>
+, 
+<year id="106C531CF5483F294F9EE832F9B6C6ED" box="[1534,1618,1882,1925]" pageId="68" pageNumber="79">1927</year>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5483F294B01E8E6FCA0C983" pageId="68" pageNumber="79" type="discussion">
+<paragraph id="647B124FF5483F294B01E8E6FCA0C983" blockId="68.[288,1687,1830,2283]" pageId="68" pageNumber="79">
+<materialsCitation id="D4AC1812F5483F294B01E8E6FBA4C6D1" ID-GBIF-Occurrence="3994028463" box="[353,1088,1934,1977]" collectingDate="1936-05-07" collectorName="R. L. Usinger" country="Guam" location="Inarajan" pageId="68" pageNumber="79" specimenCount="1">
+<collectorName id="C9317799F5483F294B01E8E6FE4DC6D1" box="[353,425,1934,1977]" pageId="68" pageNumber="79">One</collectorName>
+<specimenCount id="72C2D9C6F5483F294BD8E8E6FDBDC6D1" box="[440,601,1934,1977]" pageId="68" pageNumber="79" type="generic">specimen</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5483F29480FE8E6FCEEC6D1" box="[623,778,1934,1977]" pageId="68" pageNumber="79">Inarajan</collectingMunicipality>
+, 
+<date id="107A348FF5483F294941E8E6FC77C6D1" box="[801,915,1934,1977]" pageId="68" pageNumber="79">
+<collectingDate id="003ECD67F5483F294941E8E6FC77C6D1" box="[801,915,1934,1977]" pageId="68" pageNumber="79">
+May 
+<emphasis id="56B0CE5DF5483F29491EE8E6FC7EC6D1" bold="true" box="[894,922,1934,1977]" pageId="68" pageNumber="79">7,</emphasis>
+</collectingDate>
+</date>
+<location id="611B4494F5483F2949C9E8E6FBA4C6D1" LSID="urn:lsid:plazi:treatment:EC6DA359F5483F294B41E84EFCA0C983:611B4494F5483F2949C9E8E6FBA4C6D1" box="[937,1088,1934,1977]" municipality="Inarajan" name="Usinger" pageId="68" pageNumber="79">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5483F294E36E8E6FD10C684" ID-GBIF-Occurrence="3994028306" collectedFrom="rice seedling plot" collectingDate="1936-09-03" collectorName="O. H. Swezey" country="Guam" location="Atantano" pageId="68" pageNumber="79" specimenCount="1">
+<specimenCount id="72C2D9C6F5483F294E36E8E6FAA7C6D1" box="[1110,1347,1934,1977]" pageId="68" pageNumber="79" type="generic">one specimen</specimenCount>
+, 
+<location id="611B4494F5483F294F36E8E6FA19C6D1" LSID="urn:lsid:plazi:treatment:EC6DA359F5483F294B41E84EFCA0C983:611B4494F5483F294F36E8E6FA19C6D1" box="[1366,1533,1934,1977]" name="Atantano" pageId="68" pageNumber="79">Atantano</location>
+, 
+<date id="107A348FF5483F294C74E8E6F96AC6D1" box="[1556,1678,1934,1977]" pageId="68" pageNumber="79">
+<collectingDate id="003ECD67F5483F294C74E8E6F96AC6D1" box="[1556,1678,1934,1977]" pageId="68" pageNumber="79">Sept. 3</collectingDate>
+</date>
+, rice seedling plot, 
+<collectorName id="C9317799F5483F294807E8A8FD10C684" box="[615,756,1984,2028]" pageId="68" pageNumber="79">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5483F29496BE8A8F96AC684" ID-GBIF-Occurrence="3994028356" box="[779,1678,1984,2028]" collectedFrom="on grass" collectingDate="1936-05-17" collectorName="O. H. Swezey" country="Guam" location="Tarague" pageId="68" pageNumber="79" specimenCount="1">
+<specimenCount id="72C2D9C6F5483F29496BE8A8FC13C684" box="[779,1015,1984,2028]" pageId="68" pageNumber="79" type="generic">one specimen</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5483F294E6CE8A8FB45C684" box="[1036,1185,1984,2028]" pageId="68" pageNumber="79">Tarague</collectingMunicipality>
+, 
+<date id="107A348FF5483F294ED8E8A8FAA5C684" box="[1208,1345,1984,2028]" pageId="68" pageNumber="79" value="2017-05">
+<collectingDate id="003ECD67F5483F294ED8E8A8FAA5C684" box="[1208,1345,1984,2028]" pageId="68" pageNumber="79" value="2017-05">May 17</collectingDate>
+</date>
+, on grass, 
+<collectorName id="C9317799F5483F294C62E8A8F96AC684" box="[1538,1678,1984,2028]" pageId="68" pageNumber="79">Swezey</collectorName>
+</materialsCitation>
+; and 
+<materialsCitation id="D4AC1812F5483F294B10E89DFE4EC93C" ID-GBIF-Occurrence="3994028327" collectedFrom="three miles south of Piti, on Sporobolus grass" collectingDate="1936-05-23" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="68" pageNumber="79" specimenCount="3">
+<specimenCount id="72C2D9C6F5483F294B10E89DFD68C948" box="[368,652,2037,2080]" pageId="68" pageNumber="79" type="generic">three specimens</specimenCount>
+, three miles south of 
+<collectingMunicipality id="841F8835F5483F294E7EE89DFB84C948" box="[1054,1120,2037,2080]" pageId="68" pageNumber="79">Piti</collectingMunicipality>
+, 
+<date id="107A348FF5483F294E1AE89DFAE3C948" box="[1146,1287,2037,2080]" pageId="68" pageNumber="79" value="1923-05">
+<collectingDate id="003ECD67F5483F294E1AE89DFAE3C948" box="[1146,1287,2037,2080]" pageId="68" pageNumber="79" value="1923-05">May 23</collectingDate>
+</date>
+, on 
+<taxonomicName id="A3C469CCF5483F294F3BE89DF9C6C948" box="[1371,1570,2037,2080]" class="Liliopsida" family="Poaceae" genus="Sporobolus" kingdom="Plantae" order="Poales" pageId="68" pageNumber="79" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5483F294F3BE89DF9C6C948" box="[1371,1570,2037,2080]" italics="true" pageId="68" pageNumber="79">
+<location id="611B4494F5483F294F3BE89DF9C6C948" LSID="urn:lsid:plazi:treatment:EC6DA359F5483F294B41E84EFCA0C983:611B4494F5483F294F3BE89DF9C6C948" box="[1371,1570,2037,2080]" municipality="Piti" name="Sporobolus" pageId="68" pageNumber="79">Sporobolus</location>
+</emphasis>
+</taxonomicName>
+grass, 
+<collectorName id="C9317799F5483F294B44E740FE4EC93C" box="[292,426,2088,2132]" pageId="68" pageNumber="79">Swezey</collectorName>
+</materialsCitation>
+. As recorded by me (Haw. Ent. Soc. Proc. 10: 273, 1939), this species was found sucking the eggs of 
+<taxonomicName id="A3C469CCF5483F2949E7E733FA97C9ED" authority="(Kirkaldy)" baseAuthorityName="Kirkaldy" baseAuthorityYear="1907" box="[903,1395,2139,2181]" class="Insecta" family="Delphacidae" genus="Sogata" kingdom="Animalia" order="Hemiptera" pageId="68" pageNumber="79" phylum="Arthropoda" rank="species" species="ochrias">
+<emphasis id="56B0CE5DF5483F2949E7E733FB72C9ED" box="[903,1174,2139,2181]" italics="true" pageId="68" pageNumber="79">Sogata ochrias</emphasis>
+(Kirkaldy)
+</taxonomicName>
+on 
+<taxonomicName id="A3C469CCF5483F294FB1E733FE2AC9D0" class="Liliopsida" family="Poaceae" genus="Sporobolus" kingdom="Plantae" order="Poales" pageId="68" pageNumber="79" phylum="Tracheophyta" rank="species" species="virginicus">
+<emphasis id="56B0CE5DF5483F294FB1E733FE2AC9D0" italics="true" pageId="68" pageNumber="79">Sporobolus virginicus</emphasis>
+</taxonomicName>
+and of 
+<taxonomicName id="A3C469CCF5483F294805E7E6FBDCC9D0" authority="(Stal)" baseAuthorityName="Stal" baseAuthorityYear="1854" box="[613,1080,2190,2232]" class="Insecta" family="Delphacidae" genus="Nilaparvata" kingdom="Animalia" order="Hemiptera" pageId="68" pageNumber="79" phylum="Arthropoda" rank="species" species="lugens">
+<emphasis id="56B0CE5DF5483F294805E7E6FC5CC9D0" box="[613,952,2190,2232]" italics="true" pageId="68" pageNumber="79">Nilaparvata lugens</emphasis>
+(Stal)
+</taxonomicName>
+on rice. 
+<emphasis id="56B0CE5DF5483F294E93E7E6FA60C9D0" box="[1267,1412,2190,2232]" italics="true" pageId="68" pageNumber="79">C. riveti</emphasis>
+is known elsewhere from 
+<collectingCountry id="1CD352DFF5483F294860E7A9FD91C983" box="[512,629,2241,2283]" name="Samoa" pageId="68" pageNumber="79">Samoa</collectingCountry>
+and Tahiti.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

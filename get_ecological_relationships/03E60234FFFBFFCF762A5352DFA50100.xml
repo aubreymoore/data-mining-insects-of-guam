@@ -1,0 +1,89 @@
+<document id="9FCB2698D7CB25817C316C6191D30140" ID-DOI="http://doi.org/10.5281/zenodo.3634035" ID-GBIF-Dataset="9c8d5683-76c1-4938-aede-b7ad5391b6b2" ID-Zenodo-Dep="3634035" checkinTime="1580668122796" checkinUser="plazi" docAuthor="Moulton, Dudley" docDate="1942" docId="03E60234FFFBFFCF762A5352DFA50100" docLanguage="en" docName="InsectsOfGuam.172.7-16.pdf.imf" docOrigin="Insects of Guam I, Bernice P. Bishop Museum Bulletin" docSource="http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Rhaebothrips lativentris Karny 1913" docType="treatment" docVersion="14" lastPageNumber="15" masterDocId="FFDF7A4CFFF3FFC777195003DD64051A" masterDocTitle="Thysanoptera: Thrips of Guam" masterLastPageNumber="16" masterPageNumber="7" pageNumber="15" updateTime="1658840059004" updateUser="annettekang">
+<mods:mods id="07688FBAB822BA672D10B89B4042407F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C500CE146567304633EEA6321C285442">
+<mods:title id="3CC7C7AF5211143E9D10A0B9619E3E18">Thysanoptera: Thrips of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="4FDF7DA1A332CC4E71AF42462D6E824F" type="personal">
+<mods:role id="80FA6CEF11FBDA26F51639F34AD36CB7">
+<mods:roleTerm id="0BE2A0D32E53B3D6005B1DD161A26638">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2D94DA9397DD3ED29C055DA3E4B56DE0">Moulton, Dudley</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="17F8C75F61FA481CC83823ED73C7BA3A">text</mods:typeOfResource>
+<mods:relatedItem id="B15C18E91E7D2A831D4B532EDF2F822E" type="host">
+<mods:originInfo id="4D4479A4FA3132468FD4F5539F21EEAB">
+<mods:dateIssued id="0132C1E2ED72339B2C9363BA5B5C40D6">1942</mods:dateIssued>
+<mods:dateOther id="1571873D425B37DC11C8265113724A90" type="pubDate">1942-12-31</mods:dateOther>
+<mods:publisher id="57121C0499621B5144D408A993187186">Bernice P. Bishop Museum Bulletin</mods:publisher>
+</mods:originInfo>
+<mods:titleInfo id="BD9B5894246473F3444A2C07211F9713">
+<mods:title id="EC2214DD076A1F875FADEDD4C30469B4">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="92C80C78ADB065F5EF9A51E7024BD6DB">
+<mods:extent id="9AD8040168C4B2C682184093DBF98E48" unit="page">
+<mods:start id="54F96AB9DEB28711F03C507A65EECA51">7</mods:start>
+<mods:end id="96375F82A39E6B611B72047FC0FADAAE">16</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="CDD1F4CADA40574AC2075E6921D841BD">
+<mods:url id="A318CAF7DE213AB673D36701168C8E4A">http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf</mods:url>
+</mods:location>
+<mods:classification id="97C69D61C994132E3110D4CBB0A97E52">book chapter</mods:classification>
+<mods:identifier id="809129FC20B43D97A6C44A9CE8906154" type="DOI">http://doi.org/10.5281/zenodo.3634035</mods:identifier>
+<mods:identifier id="62F4F0230A0683334D5ABFB060BD2317" type="GBIF-Dataset">9c8d5683-76c1-4938-aede-b7ad5391b6b2</mods:identifier>
+<mods:identifier id="6C669F424469B6D8E7378301AB87E20F" type="Zenodo-Dep">3634035</mods:identifier>
+</mods:mods>
+<treatment id="03E60234FFFBFFCF762A5352DFA50100" ID-DOI="http://doi.org/10.5281/zenodo.5157457" ID-GBIF-Taxon="161938940" ID-Zenodo-Dep="5157457" LSID="urn:lsid:plazi:treatment:03E60234FFFBFFCF762A5352DFA50100" httpUri="http://treatment.plazi.org/id/03E60234FFFBFFCF762A5352DFA50100" lastPageNumber="15" pageId="8" pageNumber="15">
+<subSubSection id="C355E0A9FFFBFFCF762A5352DEA7066D" box="[307,963,849,887]" pageId="8" pageNumber="15" type="nomenclature">
+<paragraph id="8BF0B322FFFBFFCF762A5352DEA7066D" blockId="8.[306,1709,845,1051]" box="[307,963,849,887]" pageId="8" pageNumber="15">
+21. 
+<taxonomicName id="4C4FC8A1FFFBFFCF769F5352DED9066D" authority="Karny" authorityName="Karny" authorityYear="1913" box="[390,957,849,887]" class="Insecta" family="Phlaeothripidae" genus="Rhaebothrips" higherTaxonomySource="GBIF" kingdom="Animalia" order="Thysanoptera" pageId="8" pageNumber="15" phylum="Arthropoda" rank="species" species="lativentris">
+<emphasis id="B93B6F30FFFBFFCF769F5352DE26066D" bold="true" box="[390,834,849,887]" pageId="8" pageNumber="15">Rhaebothrips lativentris</emphasis>
+Karny
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFFBFFCF74C65351DCB606B1" pageId="8" pageNumber="15" type="reference_group">
+<paragraph id="8BF0B322FFFBFFCF74C65351DCB606B1" blockId="8.[306,1709,845,1051]" pageId="8" pageNumber="15">
+<treatmentCitation id="0AEE9533FFFBFFCF74C65351DCB606B1" author="Karny" page="128" pageId="8" pageNumber="15" year="1913">
+<bibCitation id="5E65BB4EFFFBFFCF74C65351DCB606B1" author="Karny" journalOrPublisher="Suppl. Ent., Deutsch. Ent. Mus." pageId="8" pageNumber="15" pagination="128" part="2" type="journal article" year="1913">
+<journalOrPublisher id="518EB9EEFFFBFFCF74C65351DB7A066D" box="[991,1566,850,887]" pageId="8" pageNumber="15">Suppl. Ent., Deutsch. Ent. Mus.</journalOrPublisher>
+<part id="FFEB19BFFFFBFFCF71365351DB2D066D" box="[1583,1609,850,887]" pageId="8" pageNumber="15" type="volume">2</part>
+: 
+<pagination id="B2864DD6FFFBFFCF717D5351DBC2066D" box="[1636,1702,850,887]" pageId="8" pageNumber="15" type="pagination">128</pagination>
+, 
+<year id="FFE7F271FFFBFFCF766C5385DCA906B1" box="[373,461,902,939]" pageId="8" pageNumber="15">1913</year>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFFBFFCF766A53C3DFA50100" pageId="8" pageNumber="15" type="materials_examined">
+<paragraph id="8BF0B322FFFBFFCF766A53C3DFA50100" blockId="8.[306,1709,845,1051]" pageId="8" pageNumber="15">
+<materialsCitation id="3B27B97FFFFBFFCF766A53C3DFA50100" ID-GBIF-Occurrence="3357451319" collectedFrom="on leaves of Elephantopus spicatus" collectingDate="1936-05-14" collectorName="O. H. Swezey" country="Guam" location="Umatac" pageId="8" pageNumber="15" specimenCount="11" specimenCount-female="7" specimenCount-male="4">
+<collectingMunicipality id="6B942958FFFBFFCF766A53C3DC9D06FF" box="[371,505,960,997]" pageId="8" pageNumber="15">Umatac</collectingMunicipality>
+, 
+<date id="FFF195E2FFFBFFCF750153C3DFCC06FF" box="[536,680,960,997]" pageId="8" pageNumber="15" value="2014-05">
+<collectingDate id="EFB56C0AFFFBFFCF750153C3DFCC06FF" box="[536,680,960,997]" pageId="8" pageNumber="15" value="2014-05">May 14</collectingDate>
+</date>
+, on leaves of 
+<emphasis id="B93B6F30FFFBFFCF74BA53C2D85706FF" box="[931,1331,961,997]" italics="true" pageId="8" pageNumber="15">
+<taxonomicName id="4C4FC8A1FFFBFFCF74BA53C2D84906FF" authorityName="B.Jussieu ex J.B.Aublet" authorityYear="1775" box="[931,1325,961,997]" class="Magnoliopsida" family="Asteraceae" genus="Elephantopus" kingdom="Plantae" order="Asterales" pageId="8" pageNumber="15" phylum="Tracheophyta" rank="species" species="spicatus">
+<location id="8E90E5F9FFFBFFCF74BA53C2D9E006FF" LSID="urn:lsid:plazi:treatment:03E60234FFFBFFCF762A5352DFA50100:8E90E5F9FFFBFFCF74BA53C2D9E006FF" box="[931,1156,961,997]" municipality="Umatac" name="Elephantopus" pageId="8" pageNumber="15">Elephantopus</location>
+spicatus
+</taxonomicName>
+,
+</emphasis>
+<specimenCount id="9D4978ABFFFBFFCF725353C3DB2606FF" box="[1354,1602,960,997]" pageId="8" pageNumber="15" type="female">seven females</specimenCount>
+, 
+<specimenCount id="9D4978ABFFFBFFCF714453C3DCF30100" pageId="8" pageNumber="15" type="male">four males</specimenCount>
+, 
+<collectorName id="26BAD6F4FFFBFFCF76A953F6DF560100" box="[432,562,1013,1050]" pageId="8" pageNumber="15">Swezey</collectorName>
+(5466).
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

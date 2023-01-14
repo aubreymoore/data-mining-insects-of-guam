@@ -1,0 +1,164 @@
+<document id="62CA9511EFB07928B546A73464B7AA67" ID-DOI="http://doi.org/10.5281/zenodo.5156759" ID-GBIF-Dataset="6e65e7d3-7a72-4da4-9739-5e3814593490" ID-Zenodo-Dep="5156759" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628022238476" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="907B754A855EFFC923BDFC0FEBA0FAAD" docLanguage="en" docName="InsectsOfGuamII.189.221-227.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Evaniaappendigaster appendigaster" docType="treatment" docVersion="16" lastPageNumber="224" masterDocId="6C420D32855DFFCA221EFFCCE940FF9E" masterDocTitle="Ichneumonidae, Evaniidae, And Braconidae Of Guam" masterLastPageNumber="227" masterPageNumber="221" pageNumber="224" updateTime="1660693495426" updateUser="aubreymoore">
+<mods:mods id="22242ECAD98442C51E504AAEBD4D42B0" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="8EDA15EB9597B243360394D504FD84CC">
+<mods:title id="C0EE4D1995951397F5A86D962568B0B0">Ichneumonidae, Evaniidae, And Braconidae Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="9AE01AA915D259FD52E501A1F4C4483C" type="personal">
+<mods:role id="2E63F186DF99D51A996FC3A39C8FB52B">
+<mods:roleTerm id="22813254800D8F13A7E9640EF063AE22">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A8B46A4B6B459D38C280F39DA6C26404">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="0A9F1C99F9B48619AE1BFFF50006AE2F">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9E5932572C17A11A8F2B3D1F09CE012C">text</mods:typeOfResource>
+<mods:relatedItem id="FB74E456A86EFCF7977239B15795F8F4" type="host">
+<mods:originInfo id="9F4B515470C3EBABE652AED8BB45A4EB">
+<mods:dateIssued id="CB25FA5E6ABACBBF1F7338B842FF9113">1946</mods:dateIssued>
+<mods:dateOther id="4B410E69ED3D07F723D4A6B7835EBD37" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="01E3C5712FAC8FD0099B9EAAFFF04FFE">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="85EA0AA5A46E3C5CE731011455B8D925">
+<mods:placeTerm id="E08C5C64FED3AE55468557CBA5E16357">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="7A391824E28B338E1D789BC8A1036B66">
+<mods:title id="92D15F7E01412B0EF8DAC9F87D960FD3">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="35A362EBB90A30729F75123C168770E4">
+<mods:extent id="75DF260D1CB7107AD306E71068F746C2" unit="page">
+<mods:start id="E473C071AD4529C9FD2CD768AA992863">221</mods:start>
+<mods:end id="9C8BB52DF1F4664786ABE7CE3C51DB1D">227</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F8143ADE8ABC6AAF4F8A12CACEE74846">book chapter</mods:classification>
+<mods:identifier id="FA0834BF4F2CF3233EDFB41929FF6330" type="DOI">http://doi.org/10.5281/zenodo.5156759</mods:identifier>
+<mods:identifier id="C0672D0489F694F42966E54D27B35F5F" type="GBIF-Dataset">6e65e7d3-7a72-4da4-9739-5e3814593490</mods:identifier>
+<mods:identifier id="DC17D79A679C46D65E273DC5A16F13D6" type="Zenodo-Dep">5156759</mods:identifier>
+</mods:mods>
+<treatment id="907B754A855EFFC923BDFC0FEBA0FAAD" ID-DOI="http://doi.org/10.5281/zenodo.5186433" ID-GBIF-Taxon="183969165" ID-Zenodo-Dep="5186433" LSID="urn:lsid:plazi:treatment:907B754A855EFFC923BDFC0FEBA0FAAD" httpUri="http://treatment.plazi.org/id/907B754A855EFFC923BDFC0FEBA0FAAD" lastPageNumber="224" pageId="3" pageNumber="224">
+<subSubSection id="50C897D7855EFFC923BDFC0FED58FC73" box="[419,1048,963,1005]" pageId="3" pageNumber="224" type="nomenclature">
+<paragraph id="186DC45C855EFFC923BDFC0FED58FC73" blockId="3.[419,1817,963,1331]" box="[419,1048,963,1005]" pageId="3" pageNumber="224">
+<taxonomicName id="DFD2BFDF855EFFC923BDFC0FED52FC73" authority="(Linnaeus)" baseAuthorityName="Linnaeus" box="[419,1042,963,1005]" class="Insecta" family="Evaniidae" genus="Evaniaappendigaster" kingdom="Animalia" order="Hymenoptera" pageId="3" pageNumber="224" phylum="Arthropoda" rank="genus">
+<emphasis id="2AA6184E855EFFC923BDFC0FEA71FC73" bold="true" box="[419,817,963,1005]" pageId="3" pageNumber="224">Evaniaappendigaster</emphasis>
+(Linnaeus)
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D7855EFFC923FEFC3BEC81FBC9" pageId="3" pageNumber="224" type="reference_group">
+<paragraph id="186DC45C855EFFC923FEFC3BEFF7FBBF" blockId="3.[419,1817,963,1331]" box="[480,1719,1015,1057]" pageId="3" pageNumber="224">
+<treatmentCitationGroup id="38C2E372855EFFC923FEFC3BEFF7FBBF" box="[480,1719,1015,1057]" pageId="3" pageNumber="224">
+<treatmentCitation id="9973E24D855EFFC923FEFC3BEFF7FBBF" ID-DOI="http://doi.org/10.5281/zenodo.3917441" ID-Zenodo-Dep="3917441" LSID="urn:lsid:zoobank.org:act:6984D409-1C7A-4ABB-99E9-014102C51850" author="Linnaeus" box="[480,1719,1015,1057]" httpUri="http://treatment.plazi.org/id/71F88BC13744883162E9D7DF05B806A8" page="566" pageId="3" pageNumber="224" year="1758">
+<taxonomicName id="DFD2BFDF855EFFC923FEFC3BED19FBBF" authority="Linnaeus, Syst. Nat." authorityName="Linnaeus, Syst. Nat." box="[480,1113,1015,1057]" class="Insecta" family="Eulophidae" genus="Ichneumon" kingdom="Animalia" order="Hymenoptera" pageId="3" pageNumber="224" phylum="Arthropoda" rank="species" species="appendigaster">
+<emphasis id="2AA6184E855EFFC923FEFC3BEAE9FBBF" box="[480,937,1015,1057]" italics="true" pageId="3" pageNumber="224">Ichneumon appendigaster</emphasis>
+<bibCitation id="CDF8CC30855EFFC921A8FC3BEFF2FBBF" author="Linnaeus" box="[950,1714,1015,1057]" pageId="3" pageNumber="224" pagination="566" part="1" refId="ref1783" title="Syst. Nat." type="book" year="1758">
+<author id="C06F2CB9855EFFC921A8FC3BED19FBBF" box="[950,1113,1015,1057]" pageId="3" pageNumber="224">Linnaeus</author>
+, 
+<title id="6AD62F6A855EFFC9266FFC3BEC65FBBF" box="[1137,1317,1015,1057]" pageId="3" pageNumber="224">Syst. Nat.</title>
+, 10th ed. 
+<emphasis id="2AA6184E855EFFC927C8FC3BECA4FBBF" bold="true" box="[1494,1508,1015,1057]" pageId="3" pageNumber="224">
+<part id="6C766EC1855EFFC927C8FC3BECA4FBBF" box="[1494,1508,1015,1057]" pageId="3" pageNumber="224" type="volume">1</part>
+</emphasis>
+: 
+<pagination id="211B3AA8855EFFC92412FC3BEF07FBBF" box="[1548,1607,1015,1057]" pageId="3" pageNumber="224" type="pagination">566</pagination>
+, 
+<year id="6C7A850F855EFFC92441FC3BEFF2FBBF" box="[1631,1714,1015,1057]" pageId="3" pageNumber="224">1758</year>
+</bibCitation>
+</taxonomicName>
+.
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="186DC45C855EFFC923FFFBE0EC81FBC9" blockId="3.[419,1817,963,1331]" box="[481,1473,1068,1111]" pageId="3" pageNumber="224">
+<treatmentCitationGroup id="38C2E372855EFFC923FFFBE0EC81FBC9" box="[481,1473,1068,1111]" pageId="3" pageNumber="224">
+<treatmentCitation id="9973E24D855EFFC923FFFBE0EC81FBC9" author="Fabricius" box="[481,1473,1068,1111]" page="345" pageId="3" pageNumber="224" year="1775">
+<taxonomicName id="DFD2BFDF855EFFC923FFFBE0ED65FBC9" authority=", Fabricius, Syst. Ent." authorityName="Fabricius, Syst. Ent." box="[481,1061,1068,1111]" class="Insecta" family="Evaniidae" genus="Evania" kingdom="Animalia" order="Hymenoptera" pageId="3" pageNumber="224" phylum="Arthropoda" rank="species" species="appendigaster">
+<emphasis id="2AA6184E855EFFC923FFFBE0EA2AFBC9" box="[481,874,1068,1111]" italics="true" pageId="3" pageNumber="224">Evania appendigaster,</emphasis>
+<bibCitation id="CDF8CC30855EFFC92160FBE0EC81FBC9" author="Fabricius" box="[894,1473,1068,1111]" pageId="3" pageNumber="224" pagination="345" refId="ref1803" title="Syst. Ent." type="book" year="1775">
+<author id="C06F2CB9855EFFC92160FBE0ED65FBC9" box="[894,1061,1068,1111]" pageId="3" pageNumber="224">Fabricius</author>
+, 
+<title id="6AD62F6A855EFFC92621FBE0EDB4FBC9" box="[1087,1268,1068,1111]" pageId="3" pageNumber="224">Syst. Ent.</title>
+, 
+<pagination id="211B3AA8855EFFC92710FBE0EC0EFBC9" box="[1294,1358,1068,1111]" pageId="3" pageNumber="224">345</pagination>
+, 
+<year id="6C7A850F855EFFC92774FBE0ECFCFBC9" box="[1386,1468,1068,1111]" pageId="3" pageNumber="224">1775</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D7855EFFC923FDFBA4EDDCFB58" pageId="3" pageNumber="224" type="materials_examined">
+<paragraph id="186DC45C855EFFC923FDFBA4EDDCFB58" blockId="3.[419,1817,963,1331]" pageId="3" pageNumber="224">
+<materialsCitation id="A8BACE01855EFFC923FDFBA4EAD6FB0D" ID-GBIF-Occurrence="3332362344" box="[483,918,1128,1171]" collectingDate="1936-05-24" collectorName="E. H. Bryan" country="Guam" location="Merizo" pageId="3" pageNumber="224">
+<location id="1D0D9287855EFFC923FDFBA4EB23FB0D" LSID="urn:lsid:plazi:treatment:907B754A855EFFC923BDFC0FEBA0FAAD:1D0D9287855EFFC923FDFBA4EB23FB0D" box="[483,611,1128,1171]" name="Merizo" pageId="3" pageNumber="224">Merizo</location>
+, 
+<date id="6C6CE29C855EFFC92064FBA4EA42FB0D" box="[634,770,1128,1171]" pageId="3" pageNumber="224" value="1924-05">
+<collectingDate id="7C281B74855EFFC92064FBA4EA42FB0D" box="[634,770,1128,1171]" pageId="3" pageNumber="224" value="1924-05">May 24</collectingDate>
+</date>
+, 
+<collectorName id="B527A18A855EFFC92107FBA4EACFFB0D" box="[793,911,1128,1171]" pageId="3" pageNumber="224">Bryan</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="A8BACE01855EFFC921B8FBA4EDCEFB0D" ID-GBIF-Occurrence="3888069301" box="[934,1166,1128,1171]" collectingDate="1936-05-10" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="3" pageNumber="224">
+<location id="1D0D9287855EFFC921B8FBA4EAA8FB0D" LSID="urn:lsid:plazi:treatment:907B754A855EFFC923BDFC0FEBA0FAAD:1D0D9287855EFFC921B8FBA4EAA8FB0D" box="[934,1000,1128,1171]" name="Piti" pageId="3" pageNumber="224">Piti</location>
+, 
+<date id="6C6CE29C855EFFC921E1FBA4EDC8FB0D" box="[1023,1160,1128,1171]" pageId="3" pageNumber="224" value="2010-05">
+<collectingDate id="7C281B74855EFFC921E1FBA4EDC8FB0D" box="[1023,1160,1128,1171]" pageId="3" pageNumber="224" value="2010-05">May 10</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="A8BACE01855EFFC92682FBA4EC88FB0D" ID-GBIF-Occurrence="3888069319" box="[1180,1480,1128,1171]" collectingDate="1936-06-08" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="3" pageNumber="224">
+<date id="6C6CE29C855EFFC92682FBA4EC52FB0D" box="[1180,1298,1128,1171]" pageId="3" pageNumber="224">
+<collectingDate id="7C281B74855EFFC92682FBA4EC52FB0D" box="[1180,1298,1128,1171]" pageId="3" pageNumber="224">June 8</collectingDate>
+</date>
+, 
+<location id="1D0D9287855EFFC92737FBA4EC81FB0D" LSID="urn:lsid:plazi:treatment:907B754A855EFFC923BDFC0FEBA0FAAD:1D0D9287855EFFC92737FBA4EC81FB0D" box="[1321,1473,1128,1171]" name="Usinger" pageId="3" pageNumber="224">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="A8BACE01855EFFC927C9FBA4EFFFFB0D" ID-GBIF-Occurrence="3888069309" box="[1495,1727,1128,1171]" collectingDate="1936-05-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="3" pageNumber="224">
+<location id="1D0D9287855EFFC927C9FBA4EF59FB0D" LSID="urn:lsid:plazi:treatment:907B754A855EFFC923BDFC0FEBA0FAAD:1D0D9287855EFFC927C9FBA4EF59FB0D" box="[1495,1561,1128,1171]" name="Piti" pageId="3" pageNumber="224">Piti</location>
+, 
+<date id="6C6CE29C855EFFC9242EFBA4EFF8FB0D" box="[1584,1720,1128,1171]" pageId="3" pageNumber="224" value="1927-05">
+<collectingDate id="7C281B74855EFFC9242EFBA4EFF8FB0D" box="[1584,1720,1128,1171]" pageId="3" pageNumber="224" value="1927-05">May 27</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="A8BACE01855EFFC924D3FBA4E896FB58" ID-GBIF-Occurrence="3888069321" collectingDate="1936-07-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="3" pageNumber="224">
+<date id="6C6CE29C855EFFC924D3FBA4E88FFB58" pageId="3" pageNumber="224" value="2013-07">
+<collectingDate id="7C281B74855EFFC924D3FBA4E88FFB58" pageId="3" pageNumber="224" value="2013-07">July 13</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="A8BACE01855EFFC923FBFB56EBFEFB58" ID-GBIF-Occurrence="3888069320" box="[485,702,1178,1222]" collectingDate="1936-07-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="3" pageNumber="224">
+27, 
+<collectorName id="B527A18A855EFFC92034FB56EBF7FB58" box="[554,695,1178,1222]" pageId="3" pageNumber="224">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="A8BACE01855EFFC920CEFB56EDDCFB58" ID-GBIF-Occurrence="3332362337" box="[720,1180,1178,1222]" collectingDate="1936-09-28" collectorName="O. H. Swezey" country="Guam" location="Sumay" pageId="3" pageNumber="224">
+<location id="1D0D9287855EFFC920CEFB56EA0BFB58" LSID="urn:lsid:plazi:treatment:907B754A855EFFC923BDFC0FEBA0FAAD:1D0D9287855EFFC920CEFB56EA0BFB58" box="[720,843,1178,1222]" name="Sumay" pageId="3" pageNumber="224">Sumay</location>
+, 
+<date id="6C6CE29C855EFFC9217DFB56EAB8FB58" box="[867,1016,1178,1222]" pageId="3" pageNumber="224" value="1928-09">
+<collectingDate id="7C281B74855EFFC9217DFB56EAB8FB58" box="[867,1016,1178,1222]" pageId="3" pageNumber="224" value="1928-09">Sept. 28</collectingDate>
+</date>
+, 
+<collectorName id="B527A18A855EFFC9260EFB56EDD7FB58" box="[1040,1175,1178,1222]" pageId="3" pageNumber="224">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D7855EFFC923FDFB1AEBA0FAAD" pageId="3" pageNumber="224" type="discussion">
+<paragraph id="186DC45C855EFFC923FDFB1AEBA0FAAD" blockId="3.[419,1817,963,1331]" pageId="3" pageNumber="224">
+<materialsCitation id="A8BACE01855EFFC923FDFB1AEB9BFAAD" ID-GBIF-Occurrence="3888069327" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="3" pageNumber="224">
+This cosmopolitan parasite of roach oothecae was reported in 
+<collectingCountry id="60C584CC855EFFC9246CFB1AEF9BFA9E" box="[1650,1755,1238,1280]" name="Guam" pageId="3" pageNumber="224">Guam</collectingCountry>
+by 
+<location id="1D0D9287855EFFC923BDFAC5EB06FAAD" LSID="urn:lsid:plazi:treatment:907B754A855EFFC923BDFC0FEBA0FAAD:1D0D9287855EFFC923BDFAC5EB06FAAD" box="[419,582,1289,1331]" country="Guam" name="Fullaway" pageId="3" pageNumber="224">Fullaway</location>
+in 1911
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

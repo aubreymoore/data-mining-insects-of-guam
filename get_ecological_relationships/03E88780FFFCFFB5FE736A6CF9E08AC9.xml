@@ -1,0 +1,165 @@
+<document id="FBD01402C801B1632463237F436E1D16" ID-DOI="http://doi.org/10.5281/zenodo.5169330" ID-GBIF-Dataset="11d04f7a-e744-4ac9-b0af-3cbf68f8cc92" ID-Zenodo-Dep="5169330" checkinTime="1628021447149" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="03E88780FFFCFFB5FE736A6CF9E08AC9" docLanguage="en" docName="InsectsOfGuamII.189.201-210.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Ooencyrtus swezeyi Fullaway, 1946, new species" docType="treatment" docVersion="8" lastPageNumber="206" masterDocId="FFD1FFF8FFF9FFB3FFC86E5DFFBE8B32" masterDocTitle="Hymenoptera, New Species Of Guam Chalcidoidea" masterLastPageNumber="210" masterPageNumber="201" pageNumber="206" updateTime="1658154551490" updateUser="annettekang">
+<mods:mods id="414224D576D976E3C1F482532A77D272" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B90086E8057DE8F7DB238ED1B7BA0B46">
+<mods:title id="A91D98066D64020892964F084BEF3B38">Hymenoptera, New Species Of Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="586038EB0C5F45D0D8E21E4C7A1670C0" type="personal">
+<mods:role id="A4363175F908609DFD787DD50B8CC2FD">
+<mods:roleTerm id="35B43CBEB3418E52E14485431185CCC0">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3C701754B7840F04FDF976CA03C7CD4C">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="D06B370ADFE41E1F1348DC3054A5EA65">Board of Agriculture and Forestry Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="5E63891A29FEB88071955AF512A21AA3">text</mods:typeOfResource>
+<mods:relatedItem id="CC2CB0966D4EFCEA87D61F3A283A7231" type="host">
+<mods:originInfo id="5500C458C98619C090AC56428AB3E756">
+<mods:dateIssued id="77CF78FE18F489F8F8F8B2A630FC2787">1946</mods:dateIssued>
+<mods:dateOther id="B416F8957F17DA9B60665DA4FBF2C0DD" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="3BB267003FD9515AE2B60A07D1A3B716">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="32BE374968269403AEC3169E0D4C96A0">
+<mods:placeTerm id="9079035A74C2DFDBCE8FCF4E0E413B39">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="36AB8CE010AB772F69CAE5151FF7CB30">
+<mods:title id="5F2CEB3E385DAA9EBAA126AA2DD6DB4F">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="115BAFE08BB84AEE62D95C7BB5924AF8">
+<mods:extent id="EBC1F75A5C7D5F70CD69EC3E33312B03" unit="page">
+<mods:start id="302FF3141389B43DCF249153D1FEED5F">201</mods:start>
+<mods:end id="AB017475DB4B32D8C73208AA860B2E89">210</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="C06667D51A1FFF04164D07FCD203A55E">book chapter</mods:classification>
+<mods:identifier id="A4D4FA9E2B8400CCE21F3967657028D0" type="DOI">http://doi.org/10.5281/zenodo.5169330</mods:identifier>
+<mods:identifier id="87FE5D65F360DC10C0233DDE6FB7468F" type="GBIF-Dataset">11d04f7a-e744-4ac9-b0af-3cbf68f8cc92</mods:identifier>
+<mods:identifier id="43F8AFEE5ABB552311E2E9F5FC6798A7" type="Zenodo-Dep">5169330</mods:identifier>
+</mods:mods>
+<treatment id="03E88780FFFCFFB5FE736A6CF9E08AC9" ID-DOI="http://doi.org/10.5281/zenodo.5158786" ID-GBIF-Taxon="184009990" ID-Zenodo-Dep="5158786" LSID="urn:lsid:plazi:treatment:03E88780FFFCFFB5FE736A6CF9E08AC9" httpUri="http://treatment.plazi.org/id/03E88780FFFCFFB5FE736A6CF9E08AC9" lastPageId="6" lastPageNumber="206" pageId="5" pageNumber="206">
+<subSubSection id="C35B651DFFFCFFB6FE736A6CFBE58F6E" box="[443,1115,1073,1116]" pageId="5" pageNumber="206" type="nomenclature">
+<paragraph id="8BFE3696FFFCFFB6FE736A6CFBE58F6E" blockId="5.[443,1843,1073,2380]" box="[443,1115,1073,1116]" pageId="5" pageNumber="206">
+<heading id="D0B681FAFFFCFFB6FE736A6CFBE58F6E" box="[443,1115,1073,1116]" fontSize="11" level="2" pageId="5" pageNumber="206" reason="2">
+<emphasis id="B935EA84FFFCFFB6FE736A6CFCD08F6E" bold="true" box="[443,878,1073,1116]" pageId="5" pageNumber="206">
+7. 
+<taxonomicName id="4C414D15FFFCFFB6FE326A6CFCD68F6E" authorityName="Fullaway" authorityYear="1946" box="[506,872,1073,1116]" class="Insecta" family="Encyrtidae" genus="Ooencyrtus" kingdom="Animalia" order="Hymenoptera" pageId="5" pageNumber="206" phylum="Arthropoda" rank="species" species="swezeyi" status="new species">Ooencyrtus swezeyi</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="A20657FFFFFCFFB6FCB56A6CFBE88F6E" box="[893,1110,1073,1116]" pageId="5" pageNumber="206" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C35B651DFFFCFFB6FDC86A30F960827E" pageId="5" pageNumber="206" type="description">
+<paragraph id="8BFE3696FFFCFFB6FDC86A30FB7A8FEC" blockId="5.[443,1843,1073,2380]" pageId="5" pageNumber="206">
+Females: 
+<quantity id="4CB99B73FFFCFFB6FD616A30FC9F8FA2" box="[681,801,1133,1168]" metricMagnitude="-4" metricUnit="m" metricValue="7.0" pageId="5" pageNumber="206" unit="mm" value="0.7">0.7 mm</quantity>
+. long, cadmium yellow to fuscous on head and thorax, but with stutellum dark metallic green, metanotum and pleurae, also apical segments of abdomen, eyes, antennae, and hind tibiae black or blackish.
+</paragraph>
+<paragraph id="8BFE3696FFFCFFB6FDCA6AB4F960827E" blockId="5.[443,1843,1073,2380]" pageId="5" pageNumber="206">Body compact, head not decidedly lenticular but somewhat so in outline when viewed from above; seen from the side, the outline is that of an isosceles triangle with the line of the front and face forming the two short sides. Eyes lateral, short oval in shape, large, convex; frontovertex more than twice as long as wide (shorter and wider in male) with the ocelli in the vertical end arranged in an equilateral triangle; front half punctuate along the eye margins, the punctuations fine pin-point punctures bearing short black hairs; front not meeting face abruptly but the two planes merging gradually in a wellrounded junction; face widening considerably in the direction of the mouth, the antenna! scrobes rather broad and shallow. Antennae fairly long and stout, nearly as long as the thorax, scape long and slender, somewhat fusiform, reaching a little beyond the upper limit of face, pedicel obconic, more than twice as long as the apical width, twice as long as any of the six funicle joints, which are separately a little longer than wide, club as long as the last three funicle joints, entire funicle cylindrical, the club a little stouter, all the joints clothed with black hairs (individual joints flecked with white in some specimens). Pronotum declivous, separated from mesonotum by a distinct carina which is transverse, three times as wide as long, smooth and shining but uniformly punctuate, the fine pin-point punctuations bearing short black hairs; scutellum rather large, convex, nearly as long and as wide at base as mesoscutum, scutiform, with shagreened surface and fine pin-point punctuations seating short black hairs as in mesonotum; axillae small, narrow, not meeting medially; metanotum and pleurae smooth and shining. Abdomen small, shorter by one half than the thorax, triangular in shape, depressed; ovipositor scarcely extruded. vVings hyaline, marginal vein punctiform, not much longer than wide, stigmal vein a little longer than postmarginal, expanded some at apex and hooked or clawed, longer than the body and about one third as wide, long ovate in shape with the posterior margin straight from beyond middle to base; discal ciliation fine and close to speculum, which widens posteriorly; basally beyond the speculum the ciliation is not so close and fine and extends only half way to base of wing where the wing is quite bare; submarginal vein bearing seven or eight fairly long and stout hairs; marginal ciliation short and close. Legs moderately long and stout, generally concolorous with body.</paragraph>
+</subSubSection>
+<subSubSection id="C35B651DFFFCFFB5FE34672CF9E08AC9" lastPageId="6" lastPageNumber="207" pageId="5" pageNumber="206" type="materials_examined">
+<paragraph id="8BFE3696FFFCFFB5FE34672CF9E08AC9" blockId="5.[444,1843,2417,2510]" lastBlockId="6.[295,1695,309,507]" lastPageId="6" lastPageNumber="207" pageId="5" pageNumber="206">
+<materialsCitation id="3B293CCBFFFCFFB5FE34672CFC238A52" ID-GBIF-Occurrence="3333035307" collectingDate="1936-07-30" collectorName="O. H. Swezey" country="Guam" lastPageId="6" lastPageNumber="207" location="Piti" pageId="5" pageNumber="206" specimenCount-female="5" specimenCount-male="1" typeStatus="holotype (female), allotype (male), paratypes (4 females)">
+<location id="8E9E604DFFFCFFB6FE34672CFD8182A9" LSID="urn:lsid:plazi:treatment:03E88780FFFCFFB5FE736A6CF9E08AC9:8E9E604DFFFCFFB6FE34672CFD8182A9" box="[508,575,2417,2459]" name="Piti" pageId="5" pageNumber="206">Piti</location>
+, 
+<date id="FFFF1056FFFCFFB6FD91672CFD5A82A9" box="[601,740,2417,2459]" pageId="5" pageNumber="206" value="1930-07">
+<collectingDate id="EFBBE9BEFFFCFFB6FD91672CFD5A82A9" box="[601,740,2417,2459]" pageId="5" pageNumber="206" value="1930-07">July 30</collectingDate>
+</date>
+, 
+<specimenCount id="9D47FD1FFFFCFFB6FD36672CFC4D82A9" box="[766,1011,2417,2459]" pageId="5" pageNumber="206" type="generic">six specimens</specimenCount>
+reared from 
+<specimenCount id="9D47FD1FFFFCFFB6FB3D672CFAFC82A9" box="[1269,1346,2417,2459]" pageId="5" pageNumber="206" type="egg">eggs</specimenCount>
+of 
+<emphasis id="B935EA84FFFCFFB6FA43672CF90382A9" box="[1419,1725,2417,2459]" italics="true" pageId="5" pageNumber="206">
+<taxonomicName id="4C414D15FFFCFFB6FA43672CFA4882A9" box="[1419,1526,2417,2459]" class="Insecta" family="Sphingidae" genus="Herse" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="206" phylum="Arthropoda" rank="genus">
+<location id="8E9E604DFFFCFFB6FA43672CFA4882A9" LSID="urn:lsid:plazi:treatment:03E88780FFFCFFB5FE736A6CF9E08AC9:8E9E604DFFFCFFB6FA43672CFA4882A9" box="[1419,1526,2417,2459]" name="Herse" pageId="5" pageNumber="206">Herse</location>
+</taxonomicName>
+convolvuli
+</emphasis>
+(
+<location id="8E9E604DFFFCFFB6F929672CFD9B82FC" LSID="urn:lsid:plazi:treatment:03E88780FFFCFFB5FE736A6CF9E08AC9:8E9E604DFFFCFFB6F929672CFD9B82FC" name="Linnaeus" pageId="5" pageNumber="206">Linnaeus</location>
+) on 
+<emphasis id="B935EA84FFFCFFB6FDB667F9FCA982FC" box="[638,791,2468,2510]" italics="true" pageId="5" pageNumber="206">
+<location id="8E9E604DFFFCFFB6FDB667F9FCA982FC" LSID="urn:lsid:plazi:treatment:03E88780FFFCFFB5FE736A6CF9E08AC9:8E9E604DFFFCFFB6FDB667F9FCA982FC" box="[638,791,2468,2510]" name="Jpomoea" pageId="5" pageNumber="206">Jpomoea</location>
+</emphasis>
+leaves, 
+<typeStatus id="54FA8834FFFCFFB6FC6D67F9FB8482FC" box="[933,1082,2468,2510]" pageId="5" pageNumber="206">holotype</typeStatus>
+<specimenCount id="9D47FD1FFFFCFFB6FB8467F9FB0182FC" box="[1100,1215,2468,2510]" pageId="5" pageNumber="206" type="female">female</specimenCount>
+and 
+<typeStatus id="54FA8834FFFCFFB6FAD467F9FA1B82FC" box="[1308,1445,2468,2510]" pageId="5" pageNumber="206">allotype</typeStatus>
+<specimenCount id="9D47FD1FFFFCFFB6FA7B67F9F9BB82FC" box="[1459,1541,2468,2510]" pageId="5" pageNumber="206" type="male">male</specimenCount>
+on one tag, 
+<specimenCount id="9D47FD1FFFFCFFB5F92F67F9FDE68A52" lastPageId="6" lastPageNumber="207" pageId="5" pageNumber="206" type="female">
+four paratype 
+<specimenType id="DBEFBD9AFFFFFFB5FE1C6F68FDE68A52" box="[468,600,309,352]" pageId="6" pageNumber="207">females</specimenType>
+</specimenCount>
+on separate tags;
+</materialsCitation>
+<materialsCitation id="3B293CCBFFFFFFB5FC7A6F68FB488AA6" ID-GBIF-Occurrence="3333035308" collectedFrom="ex sphingid egg on Caesalpinia" collectingDate="1936-07-19" collectorName="O. H. Swezey" country="Guam" location="Orote Peninsula" pageId="6" pageNumber="207" specimenCount-male="1" typeStatus="paratype">
+<collectingMunicipality id="6B9AACECFFFFFFB5FC7A6F68FB668A52" box="[946,1240,309,352]" pageId="6" pageNumber="207">Orote ·Peninsula</collectingMunicipality>
+, 
+<date id="FFFF1056FFFFFFB5FB396F68FAC78A52" box="[1265,1401,309,352]" pageId="6" pageNumber="207" value="2019-07">
+<collectingDate id="EFBBE9BEFFFFFFB5FB396F68FAC78A52" box="[1265,1401,309,352]" pageId="6" pageNumber="207" value="2019-07">July 19</collectingDate>
+</date>
+, 
+<specimenCount id="9D47FD1FFFFFFFB5FA5A6F68F98C8A52" box="[1426,1586,309,352]" pageId="6" pageNumber="207" type="male">one male</specimenCount>
+<typeStatus id="54FA8834FFFFFFB5F98A6F68FECB8AA6" pageId="6" pageNumber="207">paratype</typeStatus>
+, head missing, 
+<specimenCount id="9D47FD1FFFFFFFB5FD686F34FD778AA6" box="[672,713,361,404]" pageId="6" pageNumber="207" type="generic">ex</specimenCount>
+sphingid 
+<specimenCount id="9D47FD1FFFFFFFB5FC426F34FC788AA6" box="[906,966,361,404]" pageId="6" pageNumber="207" type="egg">egg</specimenCount>
+on 
+<emphasis id="B935EA84FFFFFFB5FBD76F34FB488AA6" box="[1055,1270,361,404]" italics="true" pageId="6" pageNumber="207">
+<taxonomicName id="4C414D15FFFFFFB5FBD76F34FB4E8AA6" box="[1055,1264,361,404]" class="Magnoliopsida" family="Fabaceae" genus="Caesalpinia" kingdom="Plantae" order="Fabales" pageId="6" pageNumber="207" phylum="Tracheophyta" rank="genus">
+<location id="8E9E604DFFFFFFB5FBD76F34FB4E8AA6" LSID="urn:lsid:plazi:treatment:03E88780FFFCFFB5FE736A6CF9E08AC9:8E9E604DFFFFFFB5FBD76F34FB4E8AA6" box="[1055,1264,361,404]" municipality="Orote. Peninsula" name="Caesalpinia" pageId="6" pageNumber="207">Caesalpinia</location>
+</taxonomicName>
+;
+</emphasis>
+</materialsCitation>
+<materialsCitation id="3B293CCBFFFFFFB5FAC66F34FB168AF5" ID-GBIF-Occurrence="3333035308" collectedFrom="from Piper guahamense" collectingDate="1936-05-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="6" pageNumber="207" specimenCount-female="1" typeStatus="paratype">
+<collectingMunicipality id="6B9AACECFFFFFFB5FAC66F34FA2B8AA6" box="[1294,1429,361,404]" pageId="6" pageNumber="207">Dededo</collectingMunicipality>
+, 
+<date id="FFFF1056FFFFFFB5FA7C6F34F9FB8AA6" box="[1460,1605,361,404]" pageId="6" pageNumber="207" value="2011-05">
+<collectingDate id="EFBBE9BEFFFFFFB5FA7C6F34F9FB8AA6" box="[1460,1605,361,404]" pageId="6" pageNumber="207" value="2011-05">May 11</collectingDate>
+</date>
+, 
+<specimenCount id="9D47FD1FFFFFFFB5F9AB6F34FE208AF5" pageId="6" pageNumber="207" type="female">one female</specimenCount>
+<typeStatus id="54FA8834FFFFFFB5FE626FC6FDFF8AF5" box="[426,577,411,455]" pageId="6" pageNumber="207">paratype</typeStatus>
+collected from 
+<emphasis id="B935EA84FFFFFFB5FC9B6FC6FB168AF5" box="[851,1192,411,455]" italics="true" pageId="6" pageNumber="207">
+<taxonomicName id="4C414D15FFFFFFB5FC9B6FC6FB1F8AF5" box="[851,1185,411,455]" class="Magnoliopsida" family="Piperaceae" genus="Piper" kingdom="Plantae" order="Piperales" pageId="6" pageNumber="207" phylum="Tracheophyta" rank="species" species="guahamense">
+<location id="8E9E604DFFFFFFB5FC9B6FC6FC098AF5" LSID="urn:lsid:plazi:treatment:03E88780FFFCFFB5FE736A6CF9E08AC9:8E9E604DFFFFFFB5FC9B6FC6FC098AF5" box="[851,951,411,455]" municipality="Dededo" name="Piper" pageId="6" pageNumber="207">Piper</location>
+guahamense
+</taxonomicName>
+;
+</emphasis>
+</materialsCitation>
+<materialsCitation id="3B293CCBFFFFFFB5FB7E6FC6F9E08AC9" ID-GBIF-Occurrence="3333035308" collectedFrom="reared from sphingid egg on Guettarda" collectingDate="1936-09-07" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="6" pageNumber="207" specimenCount-female="1" typeStatus="paratype">
+<collectingMunicipality id="6B9AACECFFFFFFB5FB7E6FC6FA838AF5" box="[1206,1341,411,455]" pageId="6" pageNumber="207">Dededo</collectingMunicipality>
+, 
+<date id="FFFF1056FFFFFFB5FA9B6FC6FA738AF5" box="[1363,1485,411,455]" pageId="6" pageNumber="207">
+<collectingDate id="EFBBE9BEFFFFFFB5FA9B6FC6FA738AF5" box="[1363,1485,411,455]" pageId="6" pageNumber="207">
+Sept. 
+<emphasis id="B935EA84FFFFFFB5FA7F6FC6FA6A8AF5" bold="true" box="[1463,1492,411,455]" italics="true" pageId="6" pageNumber="207">7,</emphasis>
+</collectingDate>
+</date>
+<specimenCount id="9D47FD1FFFFFFFB5FA296FC6F9208AF5" box="[1505,1694,411,455]" pageId="6" pageNumber="207" type="female">one female</specimenCount>
+<typeStatus id="54FA8834FFFFFFB5FEE06F92FE7B8AC9" box="[296,453,463,507]" pageId="6" pageNumber="207">paratype</typeStatus>
+, reared from sphingid 
+<specimenCount id="9D47FD1FFFFFFFB5FC966F92FC228AC9" box="[862,924,463,507]" pageId="6" pageNumber="207" type="egg">egg</specimenCount>
+on 
+<location id="8E9E604DFFFFFFB5FC2B6F92FB578AC9" LSID="urn:lsid:plazi:treatment:03E88780FFFCFFB5FE736A6CF9E08AC9:8E9E604DFFFFFFB5FC2B6F92FB578AC9" box="[995,1257,463,507]" municipality="Dededo" name="Guettarda. All" pageId="6" pageNumber="207">
+<emphasis id="B935EA84FFFFFFB5FC2B6F92FB268AC9" box="[995,1176,463,507]" italics="true" pageId="6" pageNumber="207">
+<taxonomicName id="4C414D15FFFFFFB5FC2B6F92FB2D8AC9" box="[995,1171,463,507]" class="Magnoliopsida" family="Rubiaceae" genus="Guettarda" kingdom="Plantae" order="Gentianales" pageId="6" pageNumber="207" phylum="Tracheophyta" rank="genus">Guettarda</taxonomicName>
+.
+</emphasis>
+All
+</location>
+collected by 
+<collectorName id="26B45340FFFFFFB5FA1B6F92F9E78AC9" box="[1491,1625,463,507]" pageId="6" pageNumber="207">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

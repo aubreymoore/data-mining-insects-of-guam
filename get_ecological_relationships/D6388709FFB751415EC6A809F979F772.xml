@@ -1,0 +1,127 @@
+<document id="B1CF565AD0726BD38D0C8B468B76F960" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFB751415EC6A809F979F772" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Cosmopolites sordidus" docType="treatment" docVersion="18" lastPageNumber="144" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="144" updateTime="1671248003764" updateUser="annettekang">
+<mods:mods id="BC2D30C4FF23B4D9863A829A20BB738C" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="02811FB0C84DCA70D888DB61DCD6DFAD">
+<mods:title id="629F7930E1BB4AFA7EC5E806B8114A34">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="61A8B56B5569DABD82CF98BA0A0FFB16" type="personal">
+<mods:role id="9005A25ACD188D7BEEA00FE2746C89BD">
+<mods:roleTerm id="EC5E4BDB05AB84BF745DC301A129153C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="10D5096B5624717EB44F1C8555675778">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="47353B12097419EC2D13EF2C2046A052">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="D9DA1F6045897EAE6F6CAFF55CEEA40E">text</mods:typeOfResource>
+<mods:relatedItem id="1881D47A5D3EBCBD247C57CA56066E87" type="host">
+<mods:originInfo id="914706A2B62353A9D25902581828BAD9">
+<mods:dateIssued id="EF7B06B0DE320A1F1031DBCEE823659F">1942</mods:dateIssued>
+<mods:dateOther id="CB20036408F644C0088AB3646102ADF0" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="7531E89CEEB445CCBD4494ECF53D7FAB">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="7600F7BAF39176207E611FDAED7D0FCF">
+<mods:placeTerm id="045584D68FDC8A8669CDEE6E06E0A9E2">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="352264832DDF1262979C43FF81A8ABA4">
+<mods:title id="04D77E4814EBBF33CB7E658FC8B652A1">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="A4D0A80B847C7E77215B741DD9502D44">
+<mods:extent id="A8546717D5B051E330555C6539F6B793" unit="page">
+<mods:start id="C6197377546CAC058CB374079E66E9BC">73</mods:start>
+<mods:end id="E45DE2D084DFF9B9665AA83F4DFE44F8">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="0EE4AFF4B551EB173EE2B6A001183992">book chapter</mods:classification>
+<mods:identifier id="C791ECD80F6000B05778C4903127970B" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="DB4E4CA8D717DC428407CE64C698159C" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="8686DC212990D64E8665D35FA6CCEE9C" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFB751415EC6A809F979F772" ID-DOI="http://doi.org/10.5281/zenodo.5182990" ID-GBIF-Taxon="184097833" ID-Zenodo-Dep="5182990" LSID="urn:lsid:plazi:treatment:D6388709FFB751415EC6A809F979F772" httpUri="http://treatment.plazi.org/id/D6388709FFB751415EC6A809F979F772" lastPageNumber="144" pageId="71" pageNumber="144">
+<subSubSection id="168B6594FFB751415EC6A809FAE8F8E8" box="[413,1298,1875,1918]" pageId="71" pageNumber="144" type="nomenclature">
+<paragraph id="5E2E361FFFB751415EC6A809FAE8F8E8" blockId="71.[413,1809,1875,2276]" box="[413,1298,1875,1918]" pageId="71" pageNumber="144">
+46. 
+<taxonomicName id="99914D9CFFB751415EAAA809FBBDF8E8" authority="(Germar)" baseAuthorityName="Germar" baseAuthorityYear="1824" box="[497,1095,1875,1918]" class="Insecta" family="Dryophthoridae" genus="Cosmopolites" kingdom="Animalia" order="Coleoptera" pageId="71" pageNumber="144" phylum="Arthropoda" rank="species" species="sordidus">
+<emphasis id="6CE5EA0DFFB751415EAAA809FC73F8E8" bold="true" box="[497,905,1875,1918]" pageId="71" pageNumber="144">Cosmopolites sordidus</emphasis>
+(Germar)
+</taxonomicName>
+(pl. 6, G).
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB751415E85A8DDF8EAF7DC" pageId="71" pageNumber="144" type="reference_group">
+<paragraph id="5E2E361FFFB751415E85A8DDFA5CF827" blockId="71.[413,1809,1875,2276]" box="[478,1446,1927,1969]" pageId="71" pageNumber="144">
+<treatmentCitationGroup id="7E811131FFB751415E85A8DDFA5CF827" box="[478,1446,1927,1969]" pageId="71" pageNumber="144">
+<treatmentCitation id="DF30100EFFB751415E85A8DDFA5CF827" author="Germar" box="[478,1446,1927,1969]" page="299" pageId="71" pageNumber="144" year="1824">
+<bibCitation id="8BBB3E73FFB751415E85A8DDFA5CF827" author="Germar" box="[478,1446,1927,1969]" pageId="71" pageNumber="144" pagination="299" refId="ref49022" title="Ins. Spec. Nov." type="book" year="1824">
+<taxonomicName id="99914D9CFFB751415E85A8DDFC52F827" box="[478,936,1927,1969]" pageId="71" pageNumber="144">
+<emphasis id="6CE5EA0DFFB751415E85A8DDFCF7F827" box="[478,781,1927,1969]" italics="true" pageId="71" pageNumber="144">Calandra sordida</emphasis>
+<author id="862CDEFAFFB751415C45A8DDFC52F827" box="[798,936,1927,1969]" pageId="71" pageNumber="144">Germar</author>
+</taxonomicName>
+, 
+<title id="2C95DD29FFB751415C9AA8DDFB21F827" box="[961,1243,1927,1969]" pageId="71" pageNumber="144">
+Ins. 
+<taxonomicNameLabel id="77D65776FFB751415B4DA8DDFB21F827" box="[1046,1243,1927,1969]" pageId="71" pageNumber="144" rank="species">Spec. Nov.</taxonomicNameLabel>
+</title>
+, 
+<pagination id="6758C8EBFFB751415BA8A8DDFACEF827" box="[1267,1332,1927,1969]" pageId="71" pageNumber="144" type="pageRange">299</pagination>
+, 
+<year id="2A39774CFFB751415A14A8DDFA5BF827" box="[1359,1441,1927,1969]" pageId="71" pageNumber="144">1824</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFB751415E87A8E3FD36F78E" blockId="71.[413,1809,1875,2276]" pageId="71" pageNumber="144">
+<treatmentCitationGroup id="7E811131FFB751415E87A8E3FD36F78E" pageId="71" pageNumber="144">
+<treatmentCitation id="DF30100EFFB751415E87A8E3FD36F78E" author="Fahraeus" page="251" pageId="71" pageNumber="144" year="1845">
+<bibCitation id="8BBB3E73FFB751415E87A8E3FD36F78E" author="Fahraeus" editor="Schoenherr's Gen" pageId="71" pageNumber="144" pagination="251" part="8" refId="ref49037" title="Spec. Cure." type="book chapter" year="1845">
+<taxonomicName id="99914D9CFFB751415E87A8E3FBD8F872" box="[476,1058,1977,2020]" pageId="71" pageNumber="144">
+<emphasis id="6CE5EA0DFFB751415E87A8E3FC96F872" box="[476,876,1977,2020]" italics="true" pageId="71" pageNumber="144">Sphenophorus striatus</emphasis>
+<author id="862CDEFAFFB751415C26A8E3FBD8F872" box="[893,1058,1977,2020]" fns="*" inm="true" npo="*" pageId="71" pageNumber="144">Fahraeus</author>
+</taxonomicName>
+, in 
+<editor id="980DDE1CFFB751415B2AA8E3FA4AF872" box="[1137,1456,1977,2020]" case="TC" fns="*" inm="true" npo="*" pageId="71" pageNumber="144">Schoenherr's Gen</editor>
+. 
+<title id="2C95DD29FFB751415A90A8E3F96FF872" box="[1483,1685,1977,2020]" pageId="71" pageNumber="144">Spec. Cure.</title>
+<part id="2A359C82FFB7514159F2A8E3F945F872" box="[1705,1727,1977,2020]" pageId="71" pageNumber="144" type="volume">8</part>
+(
+<part id="2A359C82FFB751415996A8E3F91CF872" box="[1741,1766,1977,2020]" pageId="71" pageNumber="144" type="issue">2</part>
+): 
+<pagination id="6758C8EBFFB751415D41A8B4FDA0F78E" box="[538,602,2030,2072]" pageId="71" pageNumber="144" type="pageRange">251</pagination>
+, 
+<year id="2A39774CFFB751415D2EA8B4FD3DF78E" box="[629,711,2030,2072]" pageId="71" pageNumber="144">1845</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFB751415E86A77AF8EAF7DC" blockId="71.[413,1809,1875,2276]" box="[477,1808,2080,2122]" pageId="71" pageNumber="144">
+<treatmentCitation id="DF30100EFFB751415E86A77AF8EAF7DC" author="Walker" box="[477,1808,2080,2122]" page="218" pageId="71" pageNumber="144" year="1859">
+<bibCitation id="8BBB3E73FFB751415E86A77AF8EAF7DC" author="Walker" box="[477,1808,2080,2122]" journalOrPublisher="Ann. Mag. Nat. Hist." pageId="71" pageNumber="144" pagination="218" part="4" refId="ref49058" type="journal article" year="1859">
+<treatmentCitationGroup id="7E811131FFB751415E86A77AF8F1F7DC" box="[477,1803,2080,2122]" pageId="71" pageNumber="144">
+<taxonomicName id="99914D9CFFB751415E86A77AFBCCF7DC" box="[477,1078,2080,2122]" pageId="71" pageNumber="144">
+<emphasis id="6CE5EA0DFFB751415E86A77AFC5AF7DC" box="[477,928,2080,2122]" italics="true" pageId="71" pageNumber="144">Sphenophorus cribricollis</emphasis>
+<author id="862CDEFAFFB751415CF5A77AFBCCF7DC" box="[942,1078,2080,2122]" pageId="71" pageNumber="144">Walker</author>
+</taxonomicName>
+, 
+<journalOrPublisher id="84503CD3FFB751415B16A77AFA36F7DC" box="[1101,1484,2080,2122]" pageId="71" pageNumber="144">Ann. Mag. Nat. Hist.</journalOrPublisher>
+III, 
+<emphasis id="6CE5EA0DFFB751415977A77AF9AAF7DC" bold="true" box="[1580,1616,2080,2122]" pageId="71" pageNumber="144">
+<part id="2A359C82FFB751415977A77AF9BAF7DC" box="[1580,1600,2080,2122]" pageId="71" pageNumber="144" type="volume">4</part>
+:
+</emphasis>
+<pagination id="6758C8EBFFB751415905A77AF965F7DC" box="[1630,1695,2080,2122]" pageId="71" pageNumber="144" type="pageRange">218</pagination>
+, 
+<year id="2A39774CFFB7514159E3A77AF8F1F7DC" box="[1720,1803,2080,2122]" pageId="71" pageNumber="144">1859</year>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB751415E86A70EF979F772" pageId="71" pageNumber="144" type="discussion">
+<paragraph id="5E2E361FFFB751415E86A70EF979F772" blockId="71.[413,1809,1875,2276]" pageId="71" pageNumber="144">
+<materialsCitation id="EEF93C42FFB751415E86A70EF984F772" ID-GBIF-Occurrence="3989438302" collectedFrom="numerous specimens taken at Dededo, Yona, Yigo, Mount Alifan, and Barrigada from bananas" collectingDate="1936" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Guam" pageId="71" pageNumber="144">This tropicopolitan pest of bananas is represented in the collection by numerous specimens taken at Dededo, Yona, Yigo, Mt. Alifan, and Barrigada from bananas in May, June, Aug. and Nov., by Swezey and Usinger</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,93 @@
+<document id="AC430C010921EA219B6A03E07ED5E5BE" ID-DOI="http://doi.org/10.5281/zenodo.5174008" ID-GBIF-Dataset="62345736-dcf6-4c38-a870-36a90992dabb" ID-Zenodo-Dep="5174008" checkinTime="1628020725273" checkinUser="carolina" docAuthor="Metcalf, Z. P." docDate="1946" docId="416187EDEB5FFFF8FE8B4CBC8F78FF6A" docLanguage="en" docName="InsectsOfGuamII.189.105-148.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Delphacodes guamensis" docType="treatment" docVersion="11" lastPageNumber="112" masterDocId="BD58FF95EB59FFFFFFB04B578875FD6D" masterDocTitle="Homoptera, Fulgoroidea and Jassoidea of Guam" masterLastPageNumber="148" masterPageNumber="105" pageNumber="111" updateTime="1660144623724" updateUser="annettekang">
+<mods:mods id="AF184F726CFB137A8712B20142A4B41E" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="4A8B75B146FD64039734A5159A957F94">
+<mods:title id="06E5839C5426C4305948201BECBBA32D">Homoptera, Fulgoroidea and Jassoidea of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="9AC8BCE6FDD06313F335013934231388" type="personal">
+<mods:role id="629D74403339781CF313231A1302809A">
+<mods:roleTerm id="778CCD09B1DC27DB141BCBDA8CDFC765">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="97A4B6AD65C71C364C2D82D91CA28A43">Metcalf, Z. P.</mods:namePart>
+<mods:affiliation id="CE3A7E2DAA8D2EE3C678BF02ADB638A5">College of Agriculture and Engineering, University of North Carolins</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="F0BCAE7FFC9ADB15A92CBF60FAAD496E">text</mods:typeOfResource>
+<mods:relatedItem id="91639CB819E509B6A5468807F6FEED40" type="host">
+<mods:originInfo id="FE8FE92FA85F319B58D66DB534E0086F">
+<mods:dateIssued id="42BA7315379BB37F7D4FD2A4AB50D663">1946</mods:dateIssued>
+<mods:dateOther id="DE48B822DA7BCFCAB4CEB77CDBCC32AA" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="219D5E63A4F292538A5B8B591A4D2600">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="A348B23E111D96BDE2923653A580FFFE">
+<mods:placeTerm id="4B2E3733AE419616AB3EB2055060F850">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="D0EE0605837E44C511CFA3F4B9990C91">
+<mods:title id="5908973D3F2F260EE9B355D47069922F">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="116CC535A358A0A53505181DF1D3BE00">
+<mods:extent id="4B7D45269E9FCE13F30D935E1C69355F" unit="page">
+<mods:start id="96B792E4289334FA7186CD3A940496F8">105</mods:start>
+<mods:end id="CC734F3D475EDC665EB9AE189218CBAE">148</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="D28B5D299C1DECC2C3C1A4D4CA95DA2A">book chapter</mods:classification>
+<mods:identifier id="17CC9E4772706128DF9E9E086073EA05" type="DOI">http://doi.org/10.5281/zenodo.5174008</mods:identifier>
+<mods:identifier id="727C0B489702220894E7E4C260621DAA" type="GBIF-Dataset">62345736-dcf6-4c38-a870-36a90992dabb</mods:identifier>
+<mods:identifier id="1666094B2824407CBD40AAB1DB3AEC51" type="Zenodo-Dep">5174008</mods:identifier>
+</mods:mods>
+<treatment id="416187EDEB5FFFF8FE8B4CBC8F78FF6A" ID-DOI="http://doi.org/10.5281/zenodo.5186795" ID-GBIF-Taxon="184008961" ID-Zenodo-Dep="5186795" LSID="urn:lsid:plazi:treatment:416187EDEB5FFFF8FE8B4CBC8F78FF6A" httpUri="http://treatment.plazi.org/id/416187EDEB5FFFF8FE8B4CBC8F78FF6A" lastPageId="7" lastPageNumber="112" pageId="6" pageNumber="111">
+<subSubSection id="81D26570EB5FFFF9FE8B4CBC8D7FF578" box="[315,1290,2027,2069]" pageId="6" pageNumber="111" type="nomenclature">
+<paragraph id="C97736FBEB5FFFF9FE8B4CBC8D7FF578" blockId="6.[315,1712,2027,2465]" box="[315,1290,2027,2069]" pageId="6" pageNumber="111">
+<heading id="923F8197EB5FFFF9FE8B4CBC8D7FF578" box="[315,1290,2027,2069]" fontSize="11" level="2" pageId="6" pageNumber="111" reason="2">
+<emphasis id="FBBCEAE9EB5FFFF9FE8B4CBC8B43F578" bold="true" box="[315,822,2027,2069]" pageId="6" pageNumber="111">
+8. 
+<taxonomicName id="0EC84D78EB5FFFF9FEC94CBC8B43F578" authority="METCALF" box="[377,822,2027,2069]" class="Insecta" family="Delphacidae" genus="Delphacodes" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="111" phylum="Arthropoda" rank="genus" species="guamensis">Delphacodes guam.ensis</taxonomicName>
+</emphasis>
+,new species (
+<figureCitation id="51F32A7EEB5FFFF9FB8C4CBC8CEBF578" box="[1084,1182,2027,2069]" captionStart="FIGURE 4" captionStartId="7.[478,587,1729,1765]" captionTargetBox="[844,1386,530,1725]" captionText="FIGURE 4.-Delphacodes guamensis: a, dorsal view of head and thorax; b, ventral view of male genitalia; c, frontal view." figureDoi="http://doi.org/10.5281/zenodo.5174017" httpUri="https://zenodo.org/record/5174017/files/figure.png" pageId="6" pageNumber="111">fig. 4</figureCitation>
+, 
+<emphasis id="FBBCEAE9EB5FFFF9FB064CBC8D7FF578" box="[1206,1290,2027,2069]" italics="true" pageId="6" pageNumber="111">a,..c).</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB5FFFF9FE3043498BBDF4CC" pageId="6" pageNumber="111" type="description">
+<paragraph id="C97736FBEB5FFFF9FE3043498A21F5FD" blockId="6.[315,1712,2027,2465]" pageId="6" pageNumber="111">Crown slightly longer than broad, nearly quadrate; face elongate; the lateral margins nearly parallel; carinae of the head distinct; the second segment of the antennae elongate, expanded apically.</paragraph>
+<paragraph id="C97736FBEB5FFFF9FE3043C48C25F468" blockId="6.[315,1712,2027,2465]" pageId="6" pageNumber="111">Pygofer rather large; anal angles strongly produced and rounded; anal segment short, with slender recurved anal spines; genital styles short and broad, almost bifurcate, with the inner and outer angles strongly produced.</paragraph>
+<paragraph id="C97736FBEB5FFFF9FE30425E8C86F416" blockId="6.[315,1712,2027,2465]" pageId="6" pageNumber="111">General color brownish. Vertex and pronotum pale ochraceous buff; carinae of head, antennae and legs ochraceous buff; tegmina subhyaline, faintly milky with a faint brownish cloud at the apex of the clavus; veins concolorous.</paragraph>
+<paragraph id="C97736FBEB5FFFF9FE3042298BBDF4CC" blockId="6.[315,1712,2027,2465]" box="[384,968,2430,2465]" pageId="6" pageNumber="111">
+Length: to apex of tegmina, 
+<quantity id="0E309B1EEB5FFFF9FCE142298BB1F4CC" box="[849,964,2430,2465]" metricMagnitude="-3" metricUnit="m" metricValue="2.7" pageId="6" pageNumber="111" unit="mm" value="2.7">2.7 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB5EFFF8FE6F4A248DE6FCCC" box="[479,1427,371,417]" pageId="7" pageNumber="112" type="description">
+<paragraph id="C97736FBEB5EFFF8FE6F4A248DE6FCCC" blockId="7.[415,1813,371,519]" box="[479,1427,371,417]" pageId="7" pageNumber="112">
+<materialsCitation id="79A03CA6EB5EFFF8FE6F4A248DFBFCCC" ID-GBIF-Occurrence="3332978387" box="[479,1422,371,417]" collectedFrom="on grass" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="7" pageNumber="112" specimenCount-male="1" typeStatus="holotype">
+<typeStatus id="16738859EB5EFFF8FE6F4A248AF7FCCC" box="[479,642,371,417]" pageId="7" pageNumber="112">Holotype</typeStatus>
+<specimenCount id="DFCEFD72EB5EFFF8FD224A248A93FCCC" box="[658,742,371,417]" pageId="7" pageNumber="112" type="male">male</specimenCount>
+, 
+<location id="CC176020EB5EFFF8FD4F4A248BD8FCCC" LSID="urn:lsid:plazi:treatment:416187EDEB5FFFF8FE8B4CBC8F78FF6A:CC176020EB5EFFF8FD4F4A248BD8FCCC" box="[767,941,371,417]" name="Upi Trail" pageId="7" pageNumber="112">Upi Trail</location>
+, 
+<date id="BD76103BEB5EFFF8FC774A248C48FCCC" box="[967,1085,371,417]" pageId="7" pageNumber="112">
+<collectingDate id="AD32E9D3EB5EFFF8FC774A248C48FCCC" box="[967,1085,371,417]" pageId="7" pageNumber="112">May 5</collectingDate>
+</date>
+, on grass, 
+<collectorName id="643D532DEB5EFFF8FAB84A248DFBFCCC" box="[1288,1422,371,417]" pageId="7" pageNumber="112">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB5EFFF8FE6E4AF18F78FF6A" pageId="7" pageNumber="112" type="description">
+<paragraph id="C97736FBEB5EFFF8FE6E4AF18F78FF6A" blockId="7.[415,1813,371,519]" pageId="7" pageNumber="112">
+This species resembles 
+<taxonomicName id="0EC84D78EB5EFFF8FC2A4AF18DADFCB8" authority="Crawford" authorityName="Crawford" box="[922,1496,422,469]" class="Insecta" family="Delphacidae" genus="Delphacodes" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="112" phylum="Arthropoda" rank="species" species="pacifica">
+<emphasis id="FBBCEAE9EB5EFFF8FC2A4AF18D66FCB8" box="[922,1299,422,469]" italics="true" pageId="7" pageNumber="112">Delphacodes pacifica</emphasis>
+Crawford
+</taxonomicName>
+from 
+<collectingRegion id="0B0CF819EB5EFFF8F9D24AF18F60FCB8" box="[1634,1813,422,469]" country="United States of America" name="California" pageId="7" pageNumber="112">California</collectingRegion>
+perhaps more closely than any other species. It is, however, sufficiently distinct
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

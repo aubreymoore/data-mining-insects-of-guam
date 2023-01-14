@@ -1,0 +1,153 @@
+<document id="321E9525ECF444448097C1378CAF68C1" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFB151475C6DAED9F8FAFAA2" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Oxydema Wollaston 1873" docType="treatment" docVersion="16" lastPageNumber="138" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="138" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="13196921D5A1475FF8D9FF3627EF28F4" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="F83A0DE0AD7C802415BCC6B0B932910A">
+<mods:title id="5DE6C532594744ED1FE4E58CDFB7018D">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="CE1B6092ACD7CDF2E714DB52F513CC48" type="personal">
+<mods:role id="FEA280B8C1EE44E994FA37D95870DB08">
+<mods:roleTerm id="6A36622719A07B78681271130DB6A202">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C4BCE49F9D5E6E204F779A029F86ECA9">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="C60B9587423DFDA3EF9EE31674165C04">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="09D2A7BC2623D500CF56D277EE4B7DDF">text</mods:typeOfResource>
+<mods:relatedItem id="2EA7ED647BD746974B80B0F6C5B13C5E" type="host">
+<mods:originInfo id="F14B1AA580350707775DBEB3F92305C8">
+<mods:dateIssued id="BC9ED264FFF010CC3E7860B1A14374A8">1942</mods:dateIssued>
+<mods:dateOther id="09EB406FAAB1A7C9F46B9EDCB1127077" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="F8724EB28D7F682EFE16F8426457B78D">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="B659D55593A8886F6709C986B49282FD">
+<mods:placeTerm id="B0767FF4DAB1FA3E05353FCBAEAE7D96">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="0195843CFAFDE2B94422189AECC1973B">
+<mods:title id="4521B0A5242AF63DD03B3D7CC872563B">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="C468CC1E115DA08E21FBA06413E82870">
+<mods:extent id="F0D2B9D066F0865358029C07484CDE37" unit="page">
+<mods:start id="40C4565B004CD903E65881C4224FE996">73</mods:start>
+<mods:end id="D00F8E3211D72AC66076ECC7963A3421">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="981ABEECC83DEBF30AD1E87DDE685E74">book chapter</mods:classification>
+<mods:identifier id="AF330FC03B8A8025EFF0F686284D0449" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="C1A40F7721C9E50EEC6986B50D503086" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="E290908DAA2B3984843881E3962D84D7" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFB151475C6DAED9F8FAFAA2" ID-DOI="http://doi.org/10.5281/zenodo.5157379" ID-GBIF-Taxon="184097922" ID-Zenodo-Dep="5157379" LSID="urn:lsid:plazi:treatment:D6388709FFB151475C6DAED9F8FAFAA2" httpUri="http://treatment.plazi.org/id/D6388709FFB151475C6DAED9F8FAFAA2" lastPageNumber="138" pageId="65" pageNumber="138">
+<subSubSection id="168B6594FFB151475C6DAED9FA9EFE3C" box="[822,1380,387,426]" pageId="65" pageNumber="138" type="nomenclature">
+<paragraph id="5E2E361FFFB151475C6DAED9FA9EFE3C" blockId="65.[822,1380,387,426]" box="[822,1380,387,426]" pageId="65" pageNumber="138">
+<heading id="05668173FFB151475C6DAED9FA9EFE3C" box="[822,1380,387,426]" centered="true" fontSize="8" level="2" pageId="65" pageNumber="138" reason="3">
+Genus 
+<taxonomicName id="99914D9CFFB151475CEFAED9FA9EFE3C" authority="Wollaston" authorityName="Wollaston" authorityYear="1873" box="[948,1380,387,426]" class="Insecta" family="Curculionidae" genus="Oxydema" kingdom="Animalia" order="Coleoptera" pageId="65" pageNumber="138" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFB151475CEFAED9FB60FE3C" bold="true" box="[948,1178,387,426]" pageId="65" pageNumber="138">OXYDEMA</emphasis>
+Wollaston
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB151475EC0AE95F94FFDFF" pageId="65" pageNumber="138" type="reference_group">
+<paragraph id="5E2E361FFFB151475EC0AE95F9E8FE6F" blockId="65.[401,1796,463,883]" box="[411,1554,463,505]" pageId="65" pageNumber="138">
+<treatmentCitationGroup id="7E811131FFB151475EC0AE95F9E8FE6F" box="[411,1554,463,505]" pageId="65" pageNumber="138">
+<treatmentCitation id="DF30100EFFB151475EC0AE95F9E8FE6F" author="Wollaston" box="[411,1554,463,505]" page="487-488" pageId="65" pageNumber="138" year="1873">
+<bibCitation id="8BBB3E73FFB151475EC0AE95F9E8FE6F" author="Wollaston" box="[411,1554,463,505]" journalOrPublisher="Ent. Soc. London, Trans" pageId="65" pageNumber="138" pagination="487 - 488" refId="ref44801" type="book chapter" year="1873">
+<taxonomicName id="99914D9CFFB151475EC0AE95FCFDFE6F" box="[411,775,463,505]" pageId="65" pageNumber="138">
+<emphasis id="6CE5EA0DFFB151475EC0AE95FDBAFE6F" box="[411,576,463,505]" italics="true" pageId="65" pageNumber="138">0xydema</emphasis>
+<author id="862CDEFAFFB151475D09AE95FCFDFE6F" box="[594,775,463,505]" pageId="65" pageNumber="138">Wollaston</author>
+</taxonomicName>
+, 
+<journalOrPublisher id="84503CD3FFB151475C7AAE95FB15FE6F" box="[801,1263,463,505]" pageId="65" pageNumber="138">Ent. Soc. London, Trans</journalOrPublisher>
+., 
+<pagination id="6758C8EBFFB151475A54AE95FA67FE6F" box="[1295,1437,463,505]" pageId="65" pageNumber="138" type="pageRange">487-488</pagination>
+, 
+<year id="2A39774CFFB151475AE0AE95F9F7FE6F" box="[1467,1549,463,505]" pageId="65" pageNumber="138">1873</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFB151475ECDAD50F94FFDFF" blockId="65.[401,1796,463,883]" pageId="65" pageNumber="138">
+<treatmentCitationGroup id="7E811131FFB151475ECDAD50F94FFDFF" pageId="65" pageNumber="138">
+<bibCitation id="8BBB3E73FFB151475ECDAD50F94FFDFF" author="Sharp" journalOrPublisher="Roy. Dublin Soc., Trans." pageId="65" pageNumber="138" pagination="190" part="3" refId="ref44820" type="journal article" year="1885">
+<heading id="05668173FFB151475ECDAD50F8FEFDA3" box="[406,1796,522,565]" centered="true" fontSize="8" level="2" pageId="65" pageNumber="138" reason="3">
+<treatmentCitation id="DF30100EFFB151475ECDAD50FA02FDA3" author="Sharp" box="[406,1528,522,565]" page="190" pageId="65" pageNumber="138" year="1885">
+<taxonomicName id="99914D9CFFB151475ECDAD50FD3CFDA3" box="[406,710,522,565]" pageId="65" pageNumber="138">
+<emphasis id="6CE5EA0DFFB151475ECDAD50FDBCFDA3" box="[406,582,522,565]" italics="true" pageId="65" pageNumber="138">Pseudo/us</emphasis>
+<author id="862CDEFAFFB151475D06AD50FD3CFDA3" box="[605,710,522,565]" pageId="65" pageNumber="138">Sharp</author>
+</taxonomicName>
+, 
+<journalOrPublisher id="84503CD3FFB151475DB8AD50FB4FFDA3" box="[739,1205,522,565]" pageId="65" pageNumber="138">Roy. Dublin Soc., Trans.</journalOrPublisher>
+II, 
+<part id="2A359C82FFB151475A4BAD50FAE7FDA3" box="[1296,1309,522,565]" pageId="65" pageNumber="138" type="volume">3</part>
+: 
+<pagination id="6758C8EBFFB151475A1EAD50FA7BFDA3" box="[1349,1409,522,565]" pageId="65" pageNumber="138" type="pageRange">190</pagination>
+, 
+<year id="2A39774CFFB151475AFAAD50FA09FDA3" box="[1441,1523,522,565]" pageId="65" pageNumber="138">1885</year>
+.
+</treatmentCitation>
+<treatmentCitation id="DF30100EFFB151475941AD50F8FEFDA3" box="[1562,1796,522,565]" pageId="65" pageNumber="138">Synonym by</treatmentCitation>
+</heading>
+Zimmerman, B. P. Bishop Mus., 0cc. Papers 
+<emphasis id="6CE5EA0DFFB151475A0CAD64FA86FDFF" bold="true" box="[1367,1404,574,617]" pageId="65" pageNumber="138">15</emphasis>
+(25): 286, 1940.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB151475E88AD26FBDBFCE5" pageId="65" pageNumber="138" type="discussion">
+<paragraph id="5E2E361FFFB151475E88AD26FBDBFCE5" blockId="65.[401,1796,463,883]" pageId="65" pageNumber="138">
+This genus includes seven species which, with the exception of the widespread 
+<taxonomicName id="99914D9CFFB151475D42ADF5FCFFFD4E" box="[537,773,687,728]" pageId="65" pageNumber="138">
+0. 
+<emphasis id="6CE5EA0DFFB151475D08ADF5FCFFFD4E" box="[595,773,687,728]" italics="true" pageId="65" pageNumber="138">fusifonne</emphasis>
+</taxonomicName>
+<emphasis id="6CE5EA0DFFB151475C5EADF5FCF6FD4E" box="[773,780,687,728]" italics="true" pageId="65" pageNumber="138">,</emphasis>
+are all confined to the Pacific from Sumatra eastward. Champion (Linn. Soc. London, Trans. II, 
+<emphasis id="6CE5EA0DFFB151475BFCADB8FB27FC9A" bold="true" box="[1191,1245,738,780]" pageId="65" pageNumber="138">16:</emphasis>
+484, 1914) says that 
+<taxonomicName id="99914D9CFFB15147592EADB8FD7DFCA9" pageId="65" pageNumber="138">
+0. 
+<emphasis id="6CE5EA0DFFB1514759EBADB8FE04FCA9" italics="true" pageId="65" pageNumber="138">elongatuni</emphasis>
+Pascoe
+</taxonomicName>
+(Mus. civ. nat. stor. Genova, Ann. II, 2: 321, 1885) may be a synonym of 
+<taxonomicName id="99914D9CFFB151475D2AAC11FBE6FCE5" box="[625,1052,843,883]" pageId="65" pageNumber="138">
+0. 
+<emphasis id="6CE5EA0DFFB151475DFCAC11FCAFFCE5" box="[679,853,843,883]" italics="true" pageId="65" pageNumber="138">fusifonne</emphasis>
+Wollaston
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB151475DFAACEAF8FAFAA2" pageId="65" pageNumber="138" type="key">
+<paragraph id="5E2E361FFFB151475DFAACEAFA17FC41" blockId="65.[673,1517,944,983]" box="[673,1517,944,983]" pageId="65" pageNumber="138">
+<heading id="05668173FFB151475DFAACEAFA17FC41" box="[673,1517,944,983]" centered="true" fontSize="8" level="2" pageId="65" pageNumber="138" reason="3">
+KEY 'l'0 'l'HE SPECIES m· 
+<taxonomicName id="99914D9CFFB151475B21ACEAFAD7FC41" authorityName="Wollaston" authorityYear="1873" box="[1146,1325,944,983]" class="Insecta" family="Curculionidae" genus="Oxydema" kingdom="Animalia" order="Coleoptera" pageId="65" pageNumber="138" phylum="Arthropoda" rank="genus">OxYDEMA</taxonomicName>
+oF 
+<collectingCountry id="2686768FFFB151475ADBACEAFA17FC41" box="[1408,1517,944,983]" name="Guam" pageId="65" pageNumber="138">GuAM</collectingCountry>
+</heading>
+</paragraph>
+<key id="2A00612EFFB151475ECFACA6F8FAFAA2" pageId="65" pageNumber="138">
+<paragraph id="5E2E361FFFB151475ECFACA6F8FBFB19" blockId="65.[399,1793,1020,1332]" pageId="65" pageNumber="138">
+<keyLead id="E560952AFFB151475ECFACA6F8FBFB19" pageId="65" pageNumber="138">
+<keyStep id="E5652EBAFFB151475ECFACA6F8FBFB19" pageId="65" pageNumber="138">
+<heading id="05668173FFB151475ECFACA6F945FB88" box="[404,1727,1020,1054]" fontSize="8" level="2" pageId="65" pageNumber="138" reason="4">1. Elytral striae deeply, coarsely, and conspicuously grooved from base to apex</heading>
+throughout; intervals with small but comparatively coarse and conspicuous punctures, transversely sculptured and not appearing smooth............................... TODO 
+<taxonomicName id="99914D9CFFB151475AD3AB35F8FBFB19" box="[1416,1793,1135,1167]" pageId="65" pageNumber="138">TODO TODO TODO</taxonomicName>
+</keyStep>
+</keyLead>
+</paragraph>
+<paragraph id="5E2E361FFFB151475ED4ABCAF8FAFAA2" blockId="65.[399,1793,1020,1332]" pageId="65" pageNumber="138">
+<keyLead id="E560952AFFB151475ED4ABCAF8FAFAA2" pageId="65" pageNumber="138">
+<keyStep id="E5652EBAFFB151475ED4ABCAF8FAFAA2" pageId="65" pageNumber="138">
+2. Elytralstriaenotorbutshallowlyimpressedbetweenthepuncturesonthedisk, never conspicuously and deeply grooved throughout; intervals with microscopic punctures only and appearing smooth and polished................................... TODO 
+<taxonomicName id="99914D9CFFB151475A2CAA48F8FAFAA2" box="[1399,1792,1298,1332]" pageId="65" pageNumber="138">TODO TODO TODO</taxonomicName>
+</keyStep>
+</keyLead>
+</paragraph>
+</key>
+</subSubSection>
+</treatment>
+</document>

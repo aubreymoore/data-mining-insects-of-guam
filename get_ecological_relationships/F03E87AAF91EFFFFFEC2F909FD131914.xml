@@ -1,0 +1,96 @@
+<document id="74215B95474301F82233CFCE5CAB13C8" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91EFFFFFEC2F909FD131914" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Aonidiella sotetsu" docType="treatment" docVersion="12" lastPageNumber="161" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="161" updateTime="1663083075184" updateUser="annettekang">
+<mods:mods id="2B93A350E2C1CA091C94EFDC32E77431" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C81F6B522BEDA64AEF8D5A47FC010985">
+<mods:title id="8A0912EA0C31C07CD267D77308F2FDDD">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="8E9B014C6C45C2F4C6D61AD48156C048" type="personal">
+<mods:role id="FB5C58DAD09652AF3C281537DD1E73D5">
+<mods:roleTerm id="BC695D565A73E3CE422E3077AAF29AD7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="5830B5E7D58BD462615D023BE32D6FF5">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="933127120BB27EDCA9BD6A6A7D4E37EC">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9E90FC1E32FF22844EC0217EFC3D9811">text</mods:typeOfResource>
+<mods:relatedItem id="54861A7CECAC15BE320871ED2BD1A6F5" type="host">
+<mods:originInfo id="960CA534F55EB31413B43732586FFDC0">
+<mods:dateIssued id="3549296659AFD739BACA444DDFA98A23">1946</mods:dateIssued>
+<mods:dateOther id="F89C8860BC1F938C4CC102B6173941F4" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="2A5036E8FBD2EDCA375472152DCA22D3">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="D948F4A355B422E98414B048D7551970">
+<mods:placeTerm id="6749D1C9EBF3E85C296BD87C4D15854B">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="4190348B79DE943DF101576A67580F0A">
+<mods:title id="A8ED92D7DCA1EA04D7B2C9FF5DA070C3">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="3E99C064036A86E15F8E1AF807EDA0C5">
+<mods:extent id="A36A0432CBE88DD9288FDB3A521E88CF" unit="page">
+<mods:start id="D727A3DF4A48413248FABFF8F0B214BC">157</mods:start>
+<mods:end id="2E1F368FFDFDABDE4A9BC8E84C73ED0F">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="A34ADC307F135AE46650D01608BBA2E5">book chapter</mods:classification>
+<mods:identifier id="058B696E41D26BFE93942C1F7E696C3F" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="FEE0B39928EFE3EB45FB9CDB03B7D0A5" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="3C956B43C08F54223ED2F1C2DF83CF92" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91EFFFFFEC2F909FD131914" ID-DOI="http://doi.org/10.5281/zenodo.5169369" ID-GBIF-Taxon="183925183" ID-Zenodo-Dep="5169369" LSID="urn:lsid:plazi:treatment:F03E87AAF91EFFFFFEC2F909FD131914" httpUri="http://treatment.plazi.org/id/F03E87AAF91EFFFFFEC2F909FD131914" lastPageNumber="161" pageId="4" pageNumber="161">
+<subSubSection id="308D6537F91EFFFFFEC2F909FC2518FF" box="[320,993,1687,1729]" pageId="4" pageNumber="161" type="nomenclature">
+<paragraph id="782836BCF91EFFFFFEC2F909FC2518FF" blockId="4.[320,1717,1687,1834]" box="[320,993,1687,1729]" pageId="4" pageNumber="161">
+<heading id="236081D0F91EFFFFFEC2F909FC2518FF" box="[320,993,1687,1729]" fontSize="8" level="2" pageId="4" pageNumber="161" reason="4">
+<emphasis id="4AE3EAAEF91EFFFFFEC2F909FEB518FF" bold="true" box="[320,369,1687,1729]" pageId="4" pageNumber="161">50.</emphasis>
+<taxonomicName id="BF974D3FF91EFFFFFE11F909FC1F18FF" authority="(Takahashi)" baseAuthorityName="Takahashi" baseAuthorityYear="1933" box="[403,987,1687,1729]" class="Insecta" family="Coccidae" genus="Aonidiella" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="161" phylum="Arthropoda" rank="species" species="sotetsu">
+<emphasis id="4AE3EAAEF91EFFFFFE11F909FD1A18FF" bold="true" box="[403,734,1687,1729]" pageId="4" pageNumber="161">Aonidiella sotetsu</emphasis>
+(Takahashi)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91EFFFFFEFDF955F97118C9" box="[383,1717,1739,1783]" pageId="4" pageNumber="161" type="description">
+<paragraph id="782836BCF91EFFFFFEFDF955F97118C9" blockId="4.[320,1717,1687,1834]" box="[383,1717,1739,1783]" pageId="4" pageNumber="161">
+<treatmentCitationGroup id="58871192F91EFFFFFEFDF955F97418C9" box="[383,1712,1739,1783]" pageId="4" pageNumber="161">
+<treatmentCitation id="F93610ADF91EFFFFFEFDF955F97418C9" author="Takahashi" box="[383,1712,1739,1783]" page="57" pageId="4" pageNumber="161" year="1933">
+<taxonomicName id="BF974D3FF91EFFFFFEFDF955FC1B18C9" authority="Takahashi, Gov. Inst." authorityName="Takahashi, Gov. Inst." box="[383,991,1739,1783]" class="Insecta" family="Diaspididae" genus="Chrysomphalus" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="161" phylum="Arthropoda" rank="species" species="sotetsu">
+<emphasis id="4AE3EAAEF91EFFFFFEFDF955FCD318C9" box="[383,791,1739,1783]" italics="true" pageId="4" pageNumber="161">Chrysomphalus sotetsu</emphasis>
+<bibCitation id="ADBD3ED0F91EFFFFFCA7F955F97418C9" author="Takahashi" box="[805,1712,1739,1783]" pageId="4" pageNumber="161" pagination="57" part="60" title="Gov. Inst. Formosa, Rept" type="journal article" year="1933">
+<author id="A02ADE59F91EFFFFFCA7F955FC1B18C9" box="[805,991,1739,1783]" pageId="4" pageNumber="161">Takahashi</author>
+, 
+<title id="0A93DD8AF91EFFFFFC77F955FA7A18C9" box="[1013,1470,1739,1783]" pageId="4" pageNumber="161">
+Gov. Inst. 
+<collectingCountry id="0080762CF91EFFFFFB36F955FA9618C9" box="[1204,1362,1739,1783]" name="Taiwan" pageId="4" pageNumber="161">Formosa</collectingCountry>
+, Rept
+</title>
+. 
+<emphasis id="4AE3EAAEF91EFFFFFA56F955F9C818C9" bold="true" box="[1492,1548,1739,1783]" pageId="4" pageNumber="161">
+<part id="0C339C21F91EFFFFFA56F955F9C218C9" box="[1492,1542,1739,1783]" pageId="4" pageNumber="161" type="volume">60</part>
+:
+</emphasis>
+<emphasis id="4AE3EAAEF91EFFFFF999F955F98F18C9" box="[1563,1611,1739,1783]" italics="true" pageId="4" pageNumber="161">
+<pagination id="415EC848F91EFFFFF999F955F98118C9" box="[1563,1605,1739,1783]" pageId="4" pageNumber="161" type="pagination">57</pagination>
+,
+</emphasis>
+<year id="0C3F77EFF91EFFFFF9DCF955F97418C9" box="[1630,1712,1739,1783]" pageId="4" pageNumber="161">1933</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91EFFFFFEFDF89EFD131914" box="[383,727,1792,1834]" pageId="4" pageNumber="161" type="description">
+<paragraph id="782836BCF91EFFFFFEFDF89EFD131914" blockId="4.[320,1717,1687,1834]" box="[383,727,1792,1834]" pageId="4" pageNumber="161">
+<materialsCitation id="C8FF3CE1F91EFFFFFEFDF89EFD161914" ID-GBIF-Occurrence="3331839349" box="[383,722,1792,1834]" collectedFrom="On Citrus" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="4" pageNumber="161">
+<collectingMunicipality id="984CACC6F91EFFFFFEFDF89EFE711914" box="[383,437,1792,1834]" pageId="4" pageNumber="161">On</collectingMunicipality>
+<emphasis id="4AE3EAAEF91EFFFFFE47F89EFDFE1914" box="[453,570,1792,1834]" italics="true" pageId="4" pageNumber="161">
+<location id="7D486067F91EFFFFFE47F89EFDF71914" LSID="urn:lsid:plazi:treatment:F03E87AAF91EFFFFFEC2F909FD131914:7D486067F91EFFFFFE47F89EFDF71914" box="[453,563,1792,1834]" municipality="On" name="Citrus" pageId="4" pageNumber="161">Citrus</location>
+,
+</emphasis>
+<collectorName id="D562536AF91EFFFFFDC9F89EFD161914" box="[587,722,1792,1834]" pageId="4" pageNumber="161">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

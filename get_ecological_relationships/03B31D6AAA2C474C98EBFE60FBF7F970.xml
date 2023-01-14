@@ -1,0 +1,235 @@
+<document id="90E01A1E36F3B9A151EAE722A8C39C84" ID-DOI="http://doi.org/10.5281/zenodo.5160043" ID-GBIF-Dataset="9298158c-3c02-4ba2-ab8a-87c7f9c8e70b" ID-Zenodo-Dep="5160043" checkinTime="1627487837253" checkinUser="admin" docAuthor="Swezey, O. H." docDate="1942" docId="03B31D6AAA2C474C98EBFE60FBF7F970" docLanguage="en" docName="InsectsOfGuamI.172.30-38.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Biship Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Danaida plexippus" docType="treatment" docVersion="16" lastPageNumber="32" masterDocId="FF8A6512AA2D474D9945FF80FFCFFFAC" masterDocTitle="Lepidoptera, Butterflies of Guam" masterLastPageNumber="38" masterPageNumber="31" pageNumber="32" updateTime="1664294797178" updateUser="ExternalLinkService">
+<mods:mods id="277025CC0F3BCCF31C380660BE72F408" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="E0E90BDFBF3B2E3FF2DF28AD6F170559">
+<mods:title id="0A0F9C183AB1A382858AA3A4B142DB86">Lepidoptera, Butterflies of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="39B2514150F18754DA6C9E0276B33BBB" type="personal">
+<mods:role id="98FB0CAB531935792F2561B231BE336D">
+<mods:roleTerm id="D97174818E472396F7F750FBB0D2C78E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="996785D2F04CE080E606E5605BDBDDDC">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="A9B450A5C97A3C0973A4981EFF2BB4BA">Experiment Station Hawaiian Sugar Planters' Associantion, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="61C4A17D829C883293F2F5483817A142">text</mods:typeOfResource>
+<mods:relatedItem id="F18691134A2E3C35C95163FF47955676" type="host">
+<mods:originInfo id="6AB2903E305640CA14675F35875CABBC">
+<mods:dateIssued id="0D6D8B3EE552D490E3BCF3FDFE76B409">1942</mods:dateIssued>
+<mods:dateOther id="3E542CE75241468E6A315B699A32FA73" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="6E571F6A9086BC2088CC6F5360EFE3FE">Bernice P. Biship Museum</mods:publisher>
+<mods:place id="270D65AF5829D6E0C6A78AB98C2C89E7">
+<mods:placeTerm id="605D8D7FD9FF5645A7FA1F74D7D0DAC6">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="3E9987F61E69C00F1386EC747C9F7431">
+<mods:title id="5A7A6AF66DFDB1C85BE348CA3C4B71DA">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="BE903B9AFD7ABCD8F074692B9D986239">
+<mods:extent id="D81826D712B69611AFFEDEBAF775AC47" unit="page">
+<mods:start id="B3493AD91C89F0975529CF3D321BF4DE">31</mods:start>
+<mods:end id="FD8BC8C4C3CE93957B6F9008357E7DB2">38</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="722713D6D00C192E49335E4AD4A30B13">book chapter</mods:classification>
+<mods:identifier id="886AD82AD6514C7BE209E887A5B798CE" type="DOI">http://doi.org/10.5281/zenodo.5160043</mods:identifier>
+<mods:identifier id="7443809D0D5F4BA9626B3E669EE509F3" type="GBIF-Dataset">9298158c-3c02-4ba2-ab8a-87c7f9c8e70b</mods:identifier>
+<mods:identifier id="CCD198724E2F6A714C69851F80580A4A" type="Zenodo-Dep">5160043</mods:identifier>
+</mods:mods>
+<treatment id="03B31D6AAA2C474C98EBFE60FBF7F970" ID-GBIF-Taxon="187975379" LSID="urn:lsid:plazi:treatment:03B31D6AAA2C474C98EBFE60FBF7F970" httpUri="http://treatment.plazi.org/id/03B31D6AAA2C474C98EBFE60FBF7F970" lastPageNumber="32" pageId="1" pageNumber="32">
+<subSubSection id="C300FFF7AA2C474C98EBFE60FBE9FDA7" box="[430,1062,480,523]" pageId="1" pageNumber="32" type="nomenclature">
+<paragraph id="8BA5AC7CAA2C474C98EBFE60FBE9FDA7" blockId="1.[430,1826,400,2385]" box="[430,1062,480,523]" pageId="1" pageNumber="32">
+2. 
+<taxonomicName id="4C1AD7FFAA2C474C98A8FE60FBEFFDA7" authority="(Linnaeus)" baseAuthorityName="Linnaeus" box="[493,1056,480,523]" class="Insecta" family="Nymphalidae" genus="Danaida" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="32" phylum="Arthropoda" rank="species" species="plexippus">
+<emphasis id="B96E706EAA2C474C98A8FE60FC8FFDA7" bold="true" box="[493,832,480,523]" pageId="1" pageNumber="32">Danaida plexippus</emphasis>
+(Linnaeus)
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C300FFF7AA2C474C98A9FD95F8EEFD00" pageId="1" pageNumber="32" type="reference_group">
+<paragraph id="8BA5AC7CAA2C474C98A9FD95F9D3FDEC" blockId="1.[430,1826,400,2385]" box="[492,1564,533,576]" pageId="1" pageNumber="32">
+<treatmentCitationGroup id="AB0A8B52AA2C474C98A9FD95F9D3FDEC" box="[492,1564,533,576]" pageId="1" pageNumber="32">
+<treatmentCitation id="0ABB8A6DAA2C474C98A9FD95F9D8FDEC" ID-DOI="http://doi.org/10.5281/zenodo.3917501" ID-Zenodo-Dep="3917501" LSID="urn:lsid:zoobank.org:act:FE02E163-D2E7-44A9-A090-492833DEEA98" author="Linnaeus" box="[492,1559,533,576]" httpUri="http://treatment.plazi.org/id/235FB4982766141A376301A00EAD48E2" page="471" pageId="1" pageNumber="32" year="1758">
+<taxonomicName id="4C1AD7FFAA2C474C98A9FD95FC18FDEC" authorityName="Linnaeus" authorityYear="1758" box="[492,983,533,576]" class="Insecta" family="Papilionidae" genus="Papilio" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="32" phylum="Arthropoda" rank="genus">
+<emphasis id="B96E706EAA2C474C98A9FD95FCECFDEC" box="[492,803,533,576]" italics="true" pageId="1" pageNumber="32">Papilio plexippus</emphasis>
+<bibCitation id="5E30A410AA2C474C9A76FD95F9D8FDEC" author="Linnaeus" box="[819,1559,533,576]" pageId="1" pageNumber="32" pagination="471" title="Syst. Nat." type="book" year="1758">
+<author id="53A74499AA2C474C9A76FD95FC18FDEC" box="[819,983,533,576]" pageId="1" pageNumber="32">Linnaeus</author>
+, 
+<title id="F91E474AAA2C474C9AB4FD95FB68FDEC" box="[1009,1191,533,576]" pageId="1" pageNumber="32">Syst. Nat.</title>
+, 10th ed., 
+<pagination id="B2D35288AA2C474C9C2DFD95FA67FDEC" box="[1384,1448,533,576]" pageId="1" pageNumber="32">471</pagination>
+, 
+<year id="FFB2ED2FAA2C474C9C80FD95F9D8FDEC" box="[1477,1559,533,576]" pageId="1" pageNumber="32">1758</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<treatmentCitationGroup id="AB0A8B52AA2C474C98A8FDCBFBD4FD4E" pageId="1" pageNumber="32">
+<paragraph id="8BA5AC7CAA2C474C98A8FDCBF8EFFDDA" blockId="1.[430,1826,400,2385]" box="[493,1824,587,630]" pageId="1" pageNumber="32">
+<treatmentCitation id="0ABB8A6DAA2C474C98A8FDCBF8D4FDDA" author="Walker" box="[493,1819,587,630]" page="187" pageId="1" pageNumber="32" year="1914">
+<taxonomicName id="4C1AD7FFAA2C474C98A8FDCBFBEAFDDA" authority="(Linnaeus)" baseAuthorityName="Linnaeus" box="[493,1061,587,630]" class="Insecta" family="Nymphalidae" genus="Danaida" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="32" phylum="Arthropoda" rank="species" species="plexippus">
+<emphasis id="B96E706EAA2C474C98A8FDCBFC8EFDDA" box="[493,833,587,630]" italics="true" pageId="1" pageNumber="32">Danaida plexippus</emphasis>
+(Linnaeus)
+</taxonomicName>
+<bibCitation id="5E30A410AA2C474C9D06FDCBF8D4FDDA" author="Walker" box="[1091,1819,587,630]" journalOrPublisher="Ent. Mo. Mag." pageId="1" pageNumber="32" pagination="187" part="25" type="journal article" year="1914">
+<author id="53A74499AA2C474C9D06FDCBFB05FDDA" box="[1091,1226,587,630]" pageId="1" pageNumber="32">Walker</author>
+, 
+<journalOrPublisher id="51DBA6B0AA2C474C9DAFFDCBF9C8FDDA" box="[1258,1543,587,630]" pageId="1" pageNumber="32">Ent. Mo. Mag.</journalOrPublisher>
+<emphasis id="B96E706EAA2C474C9F65FDCBF996FDDA" bold="true" box="[1568,1625,587,630]" pageId="1" pageNumber="32">
+<part id="FFBE06E1AA2C474C9F65FDCBF99CFDDA" box="[1568,1619,587,630]" pageId="1" pageNumber="32" type="volume">25</part>
+:
+</emphasis>
+<pagination id="B2D35288AA2C474C9F2FFDCBF967FDDA" box="[1642,1704,587,630]" pageId="1" pageNumber="32" type="pagination">187</pagination>
+, 
+<year id="FFB2ED2FAA2C474C9F8FFDCBF8D4FDDA" box="[1738,1819,587,630]" pageId="1" pageNumber="32">1914</year>
+</bibCitation>
+</treatmentCitation>
+.
+</paragraph>
+<paragraph id="8BA5AC7CAA2C474C9B68FD01FBD4FD4E" blockId="1.[430,1826,400,2385]" pageId="1" pageNumber="32">
+<treatmentCitation id="0ABB8A6DAA2C474C9B68FD01FA59FD00" author="Poulton" box="[557,1430,641,684]" page="453" pageId="1" pageNumber="32" year="1928">
+<bibCitation id="5E30A410AA2C474C9B68FD01FA59FD00" author="Poulton" box="[557,1430,641,684]" journalOrPublisher="Ent. Soc. London, Trans" pageId="1" pageNumber="32" pagination="453" type="book" year="1928">
+<author id="53A74499AA2C474C9B68FD01FD73FD00" box="[557,700,641,684]" pageId="1" pageNumber="32">Poulton</author>
+, 
+<journalOrPublisher id="51DBA6B0AA2C474C9B9FFD01FB76FD00" box="[730,1209,641,684]" pageId="1" pageNumber="32">Ent. Soc. London, Trans</journalOrPublisher>
+., 
+<pagination id="B2D35288AA2C474C9D98FD01FAD2FD00" box="[1245,1309,641,684]" pageId="1" pageNumber="32">453</pagination>
+, 
+<year id="FFB2ED2FAA2C474C9C7BFD01FA59FD00" box="[1342,1430,641,684]" pageId="1" pageNumber="32">1928</year>
+</bibCitation>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB8A6DAA2C474C9CF0FD01FBD9FD4E" author="Poulton" page="299" pageId="1" pageNumber="32" year="1935">
+<journalOrPublisher id="51DBA6B0AA2C474C9CF0FD01FDB1FD4E" pageId="1" pageNumber="32">
+<bibCitation id="5E30A410AA2C474C9CF0FD01FBD9FD4E" journalOrPublisher="B. P. Bishop Mus., Bull." pageId="1" pageNumber="32" pagination="299" part="114" type="journal article" year="1935">
+B. P. Bishop Mus., 
+<subSubSection id="C300FFF7AA2C474C9B6EFD37FBF7F970" pageId="1" pageNumber="32" type="description">
+Bull. 
+<emphasis id="B96E706EAA2C474C9BCBFD37FD15FD4E" bold="true" box="[654,730,695,738]" pageId="1" pageNumber="32">
+<part id="FFBE06E1AA2C474C9BCBFD37FD1BFD4E" box="[654,724,695,738]" pageId="1" pageNumber="32" type="volume">114</part>
+:
+</emphasis>
+<pagination id="B2D35288AA2C474C9BA3FD37FCE8FD4E" box="[742,807,695,738]" pageId="1" pageNumber="32">299</pagination>
+, (1934) 
+<year id="FFB2ED2FAA2C474C9A81FD37FBD9FD4E" box="[964,1046,695,738]" pageId="1" pageNumber="32">1935</year>
+. 
+<paragraph id="8BA5AC7CAA2C474C98ABFD6DF9FFFC16" blockId="1.[430,1826,400,2385]" pageId="1" pageNumber="32">
+<materialsCitation id="3B72A621AA2C474C98ABFD6DFCBEFCB4" ID-GBIF-Occurrence="3913641304" box="[494,881,749,792]" collectingDate="1936-04-15" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="1" pageNumber="32">
+<location id="8EC5FAA7AA2C474C98ABFD6DFD70FCB4" LSID="urn:lsid:plazi:treatment:03B31D6AAA2C474C98EBFE60FBF7F970:8EC5FAA7AA2C474C98ABFD6DFD70FCB4" box="[494,703,749,792]" name="Ritidian Pt." pageId="1" pageNumber="32">Ritidian Pt.</location>
+, 
+<date id="FFA48ABCAA2C474C9B91FD6DFC64FCB4" box="[724,939,749,792]" pageId="1" pageNumber="32" value="1922-04-15">
+<collectingDate id="EFE07354AA2C474C9B91FD6DFC64FCB4" box="[724,939,749,792]" pageId="1" pageNumber="32" value="1922-04-15">
+April 15, 
+<materialsCitation id="3B72A621AA2C474C9A3AFD6DFBF2FCB4" ID-GBIF-Occurrence="3913641303" box="[895,1085,749,792]" collectingDate="1936-04-22" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="1" pageNumber="32">
+22, 
+<collectorName id="26EFC9AAAA2C474C9A85FD6DFBF9FCB4" box="[960,1078,749,792]" pageId="1" pageNumber="32">Bryan</collectorName>
+;
+</materialsCitation>
+</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="3B72A621AA2C474C9D0BFD6DFA52FCB4" ID-GBIF-Occurrence="3913379311" box="[1102,1437,749,792]" collectedFrom="the caterpillars were most numerous in a weedy clearing on Mt. Alifan" collectingDate="1936-05-04" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="1" pageNumber="32">
+<collectingMunicipality id="6BC13606AA2C474C9D0BFD6DFAC1FCB4" box="[1102,1294,749,792]" pageId="1" pageNumber="32">Mt. Alifan</collectingMunicipality>
+, 
+<date id="FFA48ABCAA2C474C9C60FD6DFA59FCB4" box="[1317,1430,749,792]" pageId="1" pageNumber="32">
+<collectingDate id="EFE07354AA2C474C9C60FD6DFA59FCB4" box="[1317,1430,749,792]" pageId="1" pageNumber="32">May 4</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B72A621AA2C474C9CEEFD6DFA12FCB4" ID-GBIF-Occurrence="3913379324" box="[1451,1501,749,792]" collectedFrom="the caterpillars were most numerous in a weedy clearing on Mt. Alifan" collectingDate="1936-05-26" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="1" pageNumber="32">26,</materialsCitation>
+<materialsCitation id="3B72A621AA2C474C9CAEFD6DF8EEFCB4" ID-GBIF-Occurrence="3913379303" box="[1515,1825,749,792]" collectedFrom="the caterpillars were most numerous in a weedy clearing on Mt. Alifan" collectingDate="1936-06-19" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="1" pageNumber="32">
+<date id="FFA48ABCAA2C474C9CAEFD6DF9B8FCB4" box="[1515,1655,749,792]" pageId="1" pageNumber="32" value="2019-06">
+<collectingDate id="EFE07354AA2C474C9CAEFD6DF9B8FCB4" box="[1515,1655,749,792]" pageId="1" pageNumber="32" value="2019-06">June 19</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA2C474C9FCBFD6DF8D5FCB4" LSID="urn:lsid:plazi:treatment:03B31D6AAA2C474C98EBFE60FBF7F970:8EC5FAA7AA2C474C9FCBFD6DF8D5FCB4" box="[1678,1818,749,792]" name="Swezey" pageId="1" pageNumber="32">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="3B72A621AA2C474C98EAFCA3FC49FCE2" ID-GBIF-Occurrence="3352147332" box="[431,902,803,846]" collectingDate="1936-09-18" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="1" pageNumber="32">
+<collectingMunicipality id="6BC13606AA2C474C98EAFCA3FDE3FCE2" box="[431,556,803,846]" pageId="1" pageNumber="32">Fadian</collectingMunicipality>
+, 
+<date id="FFA48ABCAA2C474C9B00FCA3FD16FCE2" box="[581,729,803,846]" pageId="1" pageNumber="32" value="2018-09">
+<collectingDate id="EFE07354AA2C474C9B00FCA3FD16FCE2" box="[581,729,803,846]" pageId="1" pageNumber="32" value="2018-09">Sept. 18</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA2C474C9BB4FCA3FCB0FCE2" LSID="urn:lsid:plazi:treatment:03B31D6AAA2C474C98EBFE60FBF7F970:8EC5FAA7AA2C474C9BB4FCA3FCB0FCE2" box="[753,895,803,846]" municipality="Fadian" name="Swezey" pageId="1" pageNumber="32">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="3B72A621AA2C474C9ADDFCA3FAF9FCE2" ID-GBIF-Occurrence="3352147348" box="[920,1334,803,846]" collectingDate="1936-09-17" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="32">
+<collectingMunicipality id="6BC13606AA2C474C9ADDFCA3FC14FCE2" box="[920,987,803,846]" pageId="1" pageNumber="32">Piti</collectingMunicipality>
+, 
+<date id="FFA48ABCAA2C474C9AB1FCA3FB47FCE2" box="[1012,1160,803,846]" pageId="1" pageNumber="32" value="2017-09">
+<collectingDate id="EFE07354AA2C474C9AB1FCA3FB47FCE2" box="[1012,1160,803,846]" pageId="1" pageNumber="32" value="2017-09">Sept. 17</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA2C474C9DE4FCA3FAE0FCE2" LSID="urn:lsid:plazi:treatment:03B31D6AAA2C474C98EBFE60FBF7F970:8EC5FAA7AA2C474C9DE4FCA3FAE0FCE2" box="[1185,1327,803,846]" municipality="Piti" name="Swezey" pageId="1" pageNumber="32">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="3B72A621AA2C474C9C0DFCA3FD8CFC2F" ID-GBIF-Occurrence="3352147318" collectingDate="1936-09-27" collectorName="O. H. Swezey" country="Guam" location="Orote Peninsula" pageId="1" pageNumber="32">
+<collectingMunicipality id="6BC13606AA2C474C9C0DFCA3F9A1FCE2" box="[1352,1646,803,846]" pageId="1" pageNumber="32">Orote Peninsula</collectingMunicipality>
+, 
+<date id="FFA48ABCAA2C474C9FC2FCA3F8D4FCE2" box="[1671,1819,803,846]" pageId="1" pageNumber="32" value="1927-09">
+<collectingDate id="EFE07354AA2C474C9FC2FCA3F8D4FCE2" box="[1671,1819,803,846]" pageId="1" pageNumber="32" value="1927-09">Sept. 27</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA2C474C98F5FCD8FDF3FC2F" LSID="urn:lsid:plazi:treatment:03B31D6AAA2C474C98EBFE60FBF7F970:8EC5FAA7AA2C474C98F5FCD8FDF3FC2F" box="[432,572,856,899]" municipality="Orote Peninsula" name="Swezey" pageId="1" pageNumber="32">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="3B72A621AA2C474C9B1DFCD8F9FFFC16" ID-GBIF-Occurrence="3352147366" collectingDate="1936-10-21" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="1" pageNumber="32">
+<collectingMunicipality id="6BC13606AA2C474C9B1DFCD8FD7EFC2F" box="[600,689,856,899]" pageId="1" pageNumber="32">Yigo</collectingMunicipality>
+, 
+<date id="FFA48ABCAA2C474C9B89FCD8FC9BFC2F" box="[716,852,856,899]" pageId="1" pageNumber="32" value="2021-10">
+<collectingDate id="EFE07354AA2C474C9B89FCD8FC9BFC2F" box="[716,852,856,899]" pageId="1" pageNumber="32" value="2021-10">Oct. 21</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA2C474C9A37FCD8FC37FC2F" LSID="urn:lsid:plazi:treatment:03B31D6AAA2C474C98EBFE60FBF7F970:8EC5FAA7AA2C474C9A37FCD8FC37FC2F" box="[882,1016,856,899]" municipality="Yigo" name="Swezey" pageId="1" pageNumber="32">Swezey</location>
+. 
+<location id="8EC5FAA7AA2C474C9D5BFCD8FBACFC2F" LSID="urn:lsid:plazi:treatment:03B31D6AAA2C474C98EBFE60FBF7F970:8EC5FAA7AA2C474C9D5BFCD8FBACFC2F" box="[1054,1123,856,899]" municipality="Yigo" name="The" pageId="1" pageNumber="32">The</location>
+caterpillars were most numerous in a weedyclearingonMt. 
+<location id="8EC5FAA7AA2C474C9A05FC10FC70FC16" LSID="urn:lsid:plazi:treatment:03B31D6AAA2C474C98EBFE60FBF7F970:8EC5FAA7AA2C474C9A05FC10FC70FC16" box="[832,959,912,954]" municipality="Yigo" name="Alifan" pageId="1" pageNumber="32">Alifan</location>
+. TODO
+</materialsCitation>
+</paragraph>
+<paragraph id="8BA5AC7CAA2C474C98ABFC45FC82FA9D" blockId="1.[430,1826,400,2385]" pageId="1" pageNumber="32">
+This is the widespread American species known as the monarch or milkweed butterfly. There has been confusion in literature because various names have been used for it, particularly 
+<emphasis id="B96E706EAA2C474C9D49FBB0FB78FBF6" box="[1036,1207,1072,1114]" italics="true" pageId="1" pageNumber="32">archippus</emphasis>
+Fabricius and 
+<emphasis id="B96E706EAA2C474C9C84FBB0F9A5FBF6" box="[1473,1642,1072,1114]" italics="true" pageId="1" pageNumber="32">plexippus</emphasis>
+Linnaeus. It has finally been considered that 
+<emphasis id="B96E706EAA2C474C9D56FBE6FB73FB22" box="[1043,1212,1126,1166]" italics="true" pageId="1" pageNumber="32">plexippus</emphasis>
+Linnaeus is the correct name as is e.xfplainedby N. D. Riley (Ent. Soc. London, Trans., 454, 455, 1928). Where the name 
+<emphasis id="B96E706EAA2C474C9B20FB52FCC2FB56" box="[613,781,1234,1274]" italics="true" pageId="1" pageNumber="32">plexippus</emphasis>
+has been used for the related Oriental butterfly, 
+<emphasis id="B96E706EAA2C474C9FE7FB52F8EDFB56" box="[1698,1826,1234,1274]" italics="true" pageId="1" pageNumber="32">genutia</emphasis>
+Cramer should be used.
+</paragraph>
+<paragraph id="8BA5AC7CAA2C474C98ABFABBFBF7F970" blockId="1.[430,1826,400,2385]" pageId="1" pageNumber="32">
+The monarch has spread from America across the Pacific to the various island groups following the spread of the milkweed 
+<emphasis id="B96E706EAA2C474C9C3FFAF0F8D2FA36" box="[1402,1821,1392,1434]" italics="true" pageId="1" pageNumber="32">
+(
+<taxonomicName id="4C1AD7FFAA2C474C9CC3FAF0F8DEFA36" box="[1414,1809,1392,1434]" class="Magnoliopsida" family="Apocynaceae" genus="Asclepias" kingdom="Plantae" order="Gentianales" pageId="1" pageNumber="32" phylum="Tracheophyta" rank="species" species="curassavica">Asclepias curassavica</taxonomicName>
+)
+</emphasis>
+on which its caterpillars feed. They feed on any species of 
+<taxonomicName id="4C1AD7FFAA2C474C9C82FA25F9A1FA7C" box="[1479,1646,1445,1488]" class="Magnoliopsida" family="Apocynaceae" genus="Asclepias" kingdom="Plantae" order="Gentianales" pageId="1" pageNumber="32" phylum="Tracheophyta" rank="genus">
+<emphasis id="B96E706EAA2C474C9C82FA25F9A1FA7C" box="[1479,1646,1445,1488]" italics="true" pageId="1" pageNumber="32">Asclepias</emphasis>
+</taxonomicName>
+or related plants, but 
+<taxonomicName id="4C1AD7FFAA2C474C9B3BFA5CFC4CF9A9" box="[638,899,1500,1541]" class="Magnoliopsida" family="Apocynaceae" genus="Asclepias" kingdom="Plantae" order="Gentianales" pageId="1" pageNumber="32" phylum="Tracheophyta" rank="species" species="curassavica">
+<emphasis id="B96E706EAA2C474C9B3BFA5CFC4CF9A9" box="[638,899,1500,1541]" italics="true" pageId="1" pageNumber="32">A. curassavica</emphasis>
+</taxonomicName>
+has been the particular species which in historical times spread over the Pacific area. This weed is abundant in 
+<collectingCountry id="F30DECECAA2C474C9F7BF991F966F997" box="[1598,1705,1553,1595]" name="Guam" pageId="1" pageNumber="32">Guam</collectingCountry>
+, along roadsides and in waste land and fields, sometimes forming dense stands almost acres in extent. Correspondingly the butterfly is abundant. As it is a common species, we paid little attention to it.
+</paragraph>
+</subSubSection>
+</bibCitation>
+</journalOrPublisher>
+</treatmentCitation>
+</paragraph>
+</treatmentCitationGroup>
+</subSubSection>
+</treatment>
+</document>

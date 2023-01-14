@@ -1,0 +1,56 @@
+<document id="5AB702895AA9946DB13899CE6C6A201B" ID-DOI="http://doi.org/10.5281/zenodo.5174008" ID-GBIF-Dataset="62345736-dcf6-4c38-a870-36a90992dabb" ID-Zenodo-Dep="5174008" checkinTime="1628020725273" checkinUser="carolina" docAuthor="Metcalf, Z. P." docDate="1946" docId="416187EDEB52FFF3FCBB4CA08C66FCE4" docLanguage="en" docName="InsectsOfGuamII.189.105-148.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Swezeyaria Metcalf, 1946, new genus" docType="treatment" docVersion="8" lastPageNumber="117" masterDocId="BD58FF95EB59FFFFFFB04B578875FD6D" masterDocTitle="Homoptera, Fulgoroidea and Jassoidea of Guam" masterLastPageNumber="148" masterPageNumber="105" pageNumber="116" updateTime="1659988635587" updateUser="annettekang">
+<mods:mods id="AA0ACC0134A1931120E30DEBF1B143DE" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="37B680471EE45542EE30CE5EC15EF4FF">
+<mods:title id="004286615FDBDCBDE86515D3488CBB11">Homoptera, Fulgoroidea and Jassoidea of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="5C8FF582690DBC277C7C2785CE00A40A" type="personal">
+<mods:role id="BD14E1F48CA6CD40BB7B79C06ECE76F3">
+<mods:roleTerm id="E36E6D78EB5982E7D38ED716591B8EFB">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C816C98099B50461F4C6E168D442AA07">Metcalf, Z. P.</mods:namePart>
+<mods:affiliation id="825CFCEDFE58B4A806B6F8F78BD87F16">College of Agriculture and Engineering, University of North Carolins</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="78DF0A3E7496A5B14860C91A015A621B">text</mods:typeOfResource>
+<mods:relatedItem id="D937065D5188BCEBF01BA358FE799423" type="host">
+<mods:originInfo id="D581CB678391FB6F257560F260561FDB">
+<mods:dateIssued id="6EF2362B26CB71993B2EBA269A274BD8">1946</mods:dateIssued>
+<mods:dateOther id="A4C7483992F4E306E3D4E1BEDC07BD3B" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="B70F1BB899C2052F37A1BAA6E0F55E84">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="CD39516AE6C0901EC6902C9F0545FFB4">
+<mods:placeTerm id="B868847AB40F0DF49DE9F4536D006E18">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="B9E35B1951BA733D1C9CCA58AFFC7353">
+<mods:title id="2E38FDFA4F730F48AE3CE3E5B7ADC483">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="BDDC1C2972E05100086F9F5038E56B9F">
+<mods:extent id="3C6423D806DA3203531AA58D7A199E60" unit="page">
+<mods:start id="AF9A04197A41D6E7B7AEE94DE4DD4754">105</mods:start>
+<mods:end id="10129EACB74318F03052B36D379FBEF9">148</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="35000C44163C3AB313D45BDE0AE653ED">book chapter</mods:classification>
+<mods:identifier id="0574F8F3518FFE53C7956537C38C4A9D" type="DOI">http://doi.org/10.5281/zenodo.5174008</mods:identifier>
+<mods:identifier id="7935A9A56A1EB16034E6707FF9C8EE03" type="GBIF-Dataset">62345736-dcf6-4c38-a870-36a90992dabb</mods:identifier>
+<mods:identifier id="2BE9AEDAFE3887891B82E60DD2F1244C" type="Zenodo-Dep">5174008</mods:identifier>
+</mods:mods>
+<treatment id="416187EDEB52FFF3FCBB4CA08C66FCE4" ID-DOI="http://doi.org/10.5281/zenodo.5188137" ID-GBIF-Taxon="184008957" ID-Zenodo-Dep="5188137" LSID="urn:lsid:plazi:treatment:416187EDEB52FFF3FCBB4CA08C66FCE4" httpUri="http://treatment.plazi.org/id/416187EDEB52FFF3FCBB4CA08C66FCE4" lastPageId="12" lastPageNumber="117" pageId="11" pageNumber="116">
+<subSubSection id="81D26570EB52FFF4FCBB4CA08DEEF54C" box="[779,1435,2039,2081]" pageId="11" pageNumber="116" type="nomenclature">
+<paragraph id="C97736FBEB52FFF4FCBB4CA08DEEF54C" blockId="11.[779,1435,2039,2081]" box="[779,1435,2039,2081]" pageId="11" pageNumber="116">
+<heading id="923F8197EB52FFF4FCBB4CA08DEEF54C" box="[779,1435,2039,2081]" centered="true" fontSize="8" level="2" pageId="11" pageNumber="116" reason="3">
+Genus 
+<emphasis id="FBBCEAE9EB52FFF4FC3E4CA08CBCF54C" bold="true" box="[910,1225,2039,2081]" pageId="11" pageNumber="116">
+<taxonomicName id="0EC84D78EB52FFF4FC3E4CA08CB7F54C" authorityName="Metcalf" authorityYear="1946" box="[910,1218,2039,2081]" class="Insecta" family="Tropiduchidae" genus="Swezeyaria" kingdom="Animalia" order="Hemiptera" pageId="11" pageNumber="116" phylum="Arthropoda" rank="genus" status="new genus">SWEZEYARIA</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="E08F5792EB52FFF4FB6A4CA08DEEF54C" box="[1242,1435,2039,2081]" pageId="11" pageNumber="116" rank="genus">new genus</taxonomicNameLabel>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB52FFF3FE5143148C66FCE4" lastPageId="12" lastPageNumber="117" pageId="11" pageNumber="116" type="description">
+<paragraph id="C97736FBEB52FFF4FE5143148F65F486" blockId="11.[412,1809,2115,2539]" pageId="11" pageNumber="116">Crown produced for more than half.its length in front of the eyes; the lateral margin strongly elevated, converging to the obtuse apex; the median carina faint. Frons elongate, narrow, widening gradually from the obtuse dorsal border to near the clypeus and then suddenly constricted to the narrower clypeus. Pronotum short; the median area triangularly produced to approximately the anterior margin of the compound eyes; lateral margin carinate; median carina distinct; posterior margin of the pronotum deeply incised. Mesonotum tricarinate. Tegmina transparent with a single definite subapical line extending from the nodal cell to the apex of clavus; a few irregular cross veins in front of the subapical line but not forming a distinct line; subcosta very close to the costal border; radius with three branches before the subapical line; media with two; and cubitus branched at the apex of the basal third of the tegmina; most of the longitudinal veins branched</paragraph>
+<paragraph id="C97736FBEB55FFF3FE964A178C66FCE4" blockId="12.[294,1691,320,618]" pageId="12" pageNumber="117">beyond subapical line without cross veins beyond the subapical line. Posterior tibiae with three lateral spines, the third near the distal end.</paragraph>
+</subSubSection>
+</treatment>
+</document>

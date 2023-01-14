@@ -1,0 +1,124 @@
+<document id="BED4E516E2A1341F7EB10C53610990A7" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB31B04FEFAFB17048A43FA" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Lasioderma serricorne" docType="treatment" docVersion="18" lastPageNumber="163" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="163" updateTime="1671377585779" updateUser="annettekang">
+<mods:mods id="7D707AC9DCF4346BAFB24BB5801DF785" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B73B64CF37B2731B6E0CE0160C779803">
+<mods:title id="E92C6FAE40C03AD3ABD022774E1D59E0">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="94A35A0D538A2CB9B6E784650777D69C" type="personal">
+<mods:role id="DA3A20D383421E203463338CF809C664">
+<mods:roleTerm id="2A7BD0CB8B31F972790B32ECBC35BAD4">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="26AA8A4B1103244E995CA3C1A30A8030">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="2E05B89311536440D18461796378290C">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="7E0C3BE262D25A7DB4206552B2839B85">text</mods:typeOfResource>
+<mods:relatedItem id="3EC96A7898CC7690E4AE9F7F9C32726E" type="host">
+<mods:originInfo id="4E2B59FF31F6AEDE010814EB2966282D">
+<mods:dateIssued id="1FDDD81BECB5656AC36019EC4CD7CC22">1942</mods:dateIssued>
+<mods:dateOther id="9133D6134E5B9E50547E739149CFF6C9" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="231CD0CDE6F714C93C460255C77B4C03">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="A630EBA39FC6CABA5CC75A578BDD9E23">
+<mods:placeTerm id="073D09BB6E5D662AEA55567469AEAFC0">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="94FC2EE51B0E0F0F616D44DF44D4A561">
+<mods:title id="C9CBD63B65328753116AC4FC311E7374">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="5E8BB9F0B453E60CF14BCFBF9781F840">
+<mods:extent id="2E09BD20B15AB63F1A07ACBEFDFFFCB0" unit="page">
+<mods:start id="3A99457D974338A6703FC7AF86E70A32">150</mods:start>
+<mods:end id="F9B0582DC6F92F54BD3B73247C34DEFC">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E3C23A422E5BE933B585A68D44224D7D">book chapter</mods:classification>
+<mods:identifier id="289A2A915E933AB731A4AF01EC3F7EC9" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="52FB07DAC22FB03D2BA99B3710A1E343" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="984A5B803FB98DE8EAA2E4B544F597D9" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB31B04FEFAFB17048A43FA" ID-DOI="http://doi.org/10.5281/zenodo.5183008" ID-GBIF-Taxon="184415315" ID-Zenodo-Dep="5183008" LSID="urn:lsid:plazi:treatment:376B87E5FFB31B04FEFAFB17048A43FA" httpUri="http://treatment.plazi.org/id/376B87E5FFB31B04FEFAFB17048A43FA" lastPageNumber="163" pageId="13" pageNumber="163">
+<subSubSection id="F7D86578FFB31B04FEFAFB1704E042FB" box="[288,998,1186,1229]" pageId="13" pageNumber="163" type="nomenclature">
+<paragraph id="BF7D36F3FFB31B04FEFAFB1704E042FB" blockId="13.[288,1677,1186,1484]" box="[288,998,1186,1229]" pageId="13" pageNumber="163">
+<heading id="E435819FFFB31B04FEFAFB1704E042FB" box="[288,998,1186,1229]" fontSize="8" level="2" pageId="13" pageNumber="163" reason="4">
+<emphasis id="8DB6EAE1FFB31B04FEFAFB17063D42FB" bold="true" box="[288,315,1186,1229]" pageId="13" pageNumber="163">1.</emphasis>
+<taxonomicName id="78C24D70FFB31B04FE86FB1704E642FB" authority="(Fabricius)" baseAuthorityName="Fabricius" box="[348,992,1186,1229]" class="Insecta" family="Anobiidae" genus="Lasioderma" kingdom="Animalia" order="Coleoptera" pageId="13" pageNumber="163" phylum="Arthropoda" rank="species" species="serricorne">
+<emphasis id="8DB6EAE1FFB31B04FE86FB1705F042FB" bold="true" box="[348,758,1186,1229]" pageId="13" pageNumber="163">Lasioderma serricorne</emphasis>
+(Fabricius)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB31B04FE86FB6303B34350" pageId="13" pageNumber="163" type="reference_group">
+<paragraph id="BF7D36F3FFB31B04FE86FB6303F04336" blockId="13.[288,1677,1186,1484]" box="[348,1270,1238,1280]" pageId="13" pageNumber="163">
+<treatmentCitationGroup id="9FD211DDFFB31B04FE86FB6303F04336" box="[348,1270,1238,1280]" pageId="13" pageNumber="163">
+<bibCitation id="6AE83E9FFFB31B04FE86FB6303F04336" author="Fabricius" box="[348,1270,1238,1280]" journalOrPublisher="Ent. Syst." pageId="13" pageNumber="163" pagination="241" part="1" refId="ref6868" type="journal article" year="1792">
+<treatmentCitation id="3E6310E2FFB31B04FE86FB6303F74336" author="Fabricius" box="[348,1265,1238,1280]" page="241" pageId="13" pageNumber="163" year="1792">
+<emphasis id="8DB6EAE1FFB31B04FE86FB63058B4336" box="[348,653,1238,1280]" italics="true" pageId="13" pageNumber="163">Ptinus serricorne</emphasis>
+<author id="677FDE16FFB31B04FD46FB6304424336" box="[668,836,1238,1280]" pageId="13" pageNumber="163">Fabricius</author>
+, 
+<journalOrPublisher id="65033C3FFFB31B04FC83FB6303014336" box="[857,1031,1238,1280]" pageId="13" pageNumber="163">Ent. Syst.</journalOrPublisher>
+<emphasis id="8DB6EAE1FFB31B04FBC3FB6303204336" bold="true" box="[1049,1062,1238,1280]" pageId="13" pageNumber="163">
+<part id="CB669C6EFFB31B04FBC3FB6303244336" box="[1049,1058,1238,1280]" pageId="13" pageNumber="163" type="volume">1</part>
+:
+</emphasis>
+<pagination id="860BC807FFB31B04FB9DFB6303814336" box="[1095,1159,1238,1280]" pageId="13" pageNumber="163" type="pageRange">241</pagination>
+, 
+<year id="CB6A77A0FFB31B04FB7AFB6303F74336" box="[1184,1265,1238,1280]" pageId="13" pageNumber="163">1792</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFB31B04FE87FABC03B34350" blockId="13.[288,1677,1186,1484]" pageId="13" pageNumber="163">
+<bibCitation id="6AE83E9FFFB31B04FE87FABC03B34350" author="Bandi" editor="48" journalOrPublisher="Berlin Ent. Zeitschrift" pageId="13" pageNumber="163" pagination="333" part="17" refId="ref6882" title="Coleopt. Catalog." type="journal article" year="1874">
+<treatmentCitationGroup id="9FD211DDFFB31B04FE87FABC03B64350" pageId="13" pageNumber="163">
+<treatmentCitation id="3E6310E2FFB31B04FE87FABC06F44350" author="Bandi" page="333" pageId="13" pageNumber="163" year="1874">
+<emphasis id="8DB6EAE1FFB31B04FE87FABC05ED4305" box="[349,747,1289,1331]" italics="true" pageId="13" pageNumber="163">Lasioderma serricorne</emphasis>
+(Fabricius) 
+<author id="677FDE16FFB31B04FC05FABC034C4305" box="[991,1098,1289,1331]" pageId="13" pageNumber="163">Bandi</author>
+, 
+<journalOrPublisher id="65033C3FFFB31B04FBBBFABC02F64305" box="[1121,1520,1289,1331]" pageId="13" pageNumber="163">Berlin Ent. Zeitschrift</journalOrPublisher>
+<emphasis id="8DB6EAE1FFB31B04F9D9FABC013F4305" bold="true" box="[1539,1593,1289,1331]" pageId="13" pageNumber="163">
+<part id="CB669C6EFFB31B04F9D9FABC012E4305" box="[1539,1576,1289,1331]" pageId="13" pageNumber="163" type="volume">17</part>
+:
+</emphasis>
+<pagination id="860BC807FFB31B04F99DFABC01804305" box="[1607,1670,1289,1331]" pageId="13" pageNumber="163" type="pageRange">333</pagination>
+, 
+<year id="CB6A77A0FFB31B04FE7AFA8906F44350" box="[416,498,1340,1382]" pageId="13" pageNumber="163">1874</year>
+</treatmentCitation>
+. 
+<treatmentCitation id="3E6310E2FFB31B04FDCEFA8903B64350" author="Pic" box="[532,1200,1340,1382]" page="57" pageId="13" pageNumber="163" year="1912">
+<author id="677FDE16FFB31B04FDCEFA8905494350" box="[532,591,1340,1382]" pageId="13" pageNumber="163">Pie</author>
+, 
+<title id="CDC6DDC5FFB31B04FDBDFA8904954350" box="[615,915,1340,1382]" pageId="13" pageNumber="163">Coleopt. Catalog.</title>
+(
+<editor id="795EDEF0FFB31B04FC6CFA8904EE4350" box="[950,1000,1340,1382]" pageId="13" pageNumber="163">48</editor>
+): 
+<pagination id="860BC807FFB31B04FBC5FA8903424350" box="[1055,1092,1340,1382]" pageId="13" pageNumber="163" type="pageRange">57</pagination>
+, 
+<year id="CB6A77A0FFB31B04FB84FA8903B64350" box="[1118,1200,1340,1382]" pageId="13" pageNumber="163">1912</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB31B04FE84FADA048A43FA" pageId="13" pageNumber="163" type="discussion">
+<paragraph id="BF7D36F3FFB31B04FE84FADA048A43FA" blockId="13.[288,1677,1186,1484]" pageId="13" pageNumber="163">
+<materialsCitation id="0FAA3CAEFFB31B04FE84FADA048143FA" ID-GBIF-Occurrence="3994027336" collectedFrom="in the house" collectingDate="1936-06-15" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="163" specimenCount="1">
+The cosmopolitan cigarette beetle was taken but once, a single 
+<specimenCount id="A9C4FD7AFFB31B04FA1BFADA015843AC" box="[1473,1630,1391,1434]" pageId="13" pageNumber="163" type="generic">specimen</specimenCount>
+at 
+<location id="BA1D6028FFB31B04FEFAFA16065943FA" LSID="urn:lsid:plazi:treatment:376B87E5FFB31B04FEFAFB17048A43FA:BA1D6028FFB31B04FEFAFA16065943FA" box="[288,351,1443,1484]" name="Piti" pageId="13" pageNumber="163">Piti</location>
+in the house, 
+<date id="CB7C1033FFB31B04FD86FA1605EF43FA" box="[604,745,1443,1484]" pageId="13" pageNumber="163" value="2015-06">
+<collectingDate id="DB38E9DBFFB31B04FD86FA1605EF43FA" box="[604,745,1443,1484]" pageId="13" pageNumber="163" value="2015-06">June 15</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB31B04FCDAFA16048143FA" box="[768,903,1443,1484]" pageId="13" pageNumber="163">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

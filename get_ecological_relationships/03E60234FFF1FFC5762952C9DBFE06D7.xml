@@ -1,0 +1,98 @@
+<document id="AE6D4D09FC5A127D267289518B2CC3F6" ID-DOI="http://doi.org/10.5281/zenodo.3634035" ID-GBIF-Dataset="9c8d5683-76c1-4938-aede-b7ad5391b6b2" ID-Zenodo-Dep="3634035" checkinTime="1580668122796" checkinUser="plazi" docAuthor="Moulton, Dudley" docDate="1942" docId="03E60234FFF1FFC5762952C9DBFE06D7" docLanguage="en" docName="InsectsOfGuam.172.7-16.pdf.imf" docOrigin="Insects of Guam I, Bernice P. Bishop Museum Bulletin" docSource="http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Taeniothrips setipennis Karny 1925" docType="treatment" docVersion="16" lastPageNumber="9" masterDocId="FFDF7A4CFFF3FFC777195003DD64051A" masterDocTitle="Thysanoptera: Thrips of Guam" masterLastPageNumber="16" masterPageNumber="7" pageNumber="9" updateTime="1658840059004" updateUser="annettekang">
+<mods:mods id="16B6B2614356D9F1848C6C203A20377D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="8A8BC8F40C1C9BD52FF99ED2C23F6843">
+<mods:title id="6E32406668735DF93D4A5C8F8BAEB129">Thysanoptera: Thrips of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="3A46AC0D93E26FD8A6735F6010843DFD" type="personal">
+<mods:role id="CDCC318024354C02938AE81E88CA5306">
+<mods:roleTerm id="0CCF6B1B5F555148DB558B8793ABE35B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E268E2EBE6F7FA66083BBE044CEC86FA">Moulton, Dudley</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="E274E6ACB1DD91236781F80639275BAE">text</mods:typeOfResource>
+<mods:relatedItem id="547719D5B9D1383FC9E0F4ED966CDE38" type="host">
+<mods:originInfo id="666216E2DC848D94A5D3FEE8EA295346">
+<mods:dateIssued id="A32AA5462CF6144B3D3872521898EA37">1942</mods:dateIssued>
+<mods:dateOther id="8E8885C35A180D094115A35BED0A5DB3" type="pubDate">1942-12-31</mods:dateOther>
+<mods:publisher id="74389B14DECA60712FAE191ABDBE7889">Bernice P. Bishop Museum Bulletin</mods:publisher>
+</mods:originInfo>
+<mods:titleInfo id="0E8A4113666FC6685234A150C1358F72">
+<mods:title id="A53AF8E130A762EAD0A81876BE27B295">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="AAC12CAA45F4A76CCBDDE1DFFA7C13F8">
+<mods:extent id="AB9FB20EFE5E6610CE9DF40AB10AE235" unit="page">
+<mods:start id="985BDE50B255AA28305C0D6CE0E2A121">7</mods:start>
+<mods:end id="102A73C16D6317D235081E50FC73DC3A">16</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="57846C2421724AA7CEDA3492D9DAE90A">
+<mods:url id="130EA7E628B5E9C6E8313E4C491751D6">http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf</mods:url>
+</mods:location>
+<mods:classification id="B4ACD67DDB79EDB604ECC8D1DFFE6B47">book chapter</mods:classification>
+<mods:identifier id="C59880379E71E2E7DBC07975DF2789E2" type="DOI">http://doi.org/10.5281/zenodo.3634035</mods:identifier>
+<mods:identifier id="DDD9F6551539C9D141775E028E31467F" type="GBIF-Dataset">9c8d5683-76c1-4938-aede-b7ad5391b6b2</mods:identifier>
+<mods:identifier id="266F1245142693F0612C5AED110E4310" type="Zenodo-Dep">3634035</mods:identifier>
+</mods:mods>
+<treatment id="03E60234FFF1FFC5762952C9DBFE06D7" ID-GBIF-Taxon="161938931" LSID="urn:lsid:plazi:treatment:03E60234FFF1FFC5762952C9DBFE06D7" httpUri="http://treatment.plazi.org/id/03E60234FFF1FFC5762952C9DBFE06D7" lastPageNumber="9" pageId="2" pageNumber="9">
+<paragraph id="8BF0B322FFF1FFC5762952C9DE760639" blockId="2.[304,1704,711,975]" pageId="2" pageNumber="9">
+<subSubSection id="C355E0A9FFF1FFC5762952C9DEF207F5" box="[304,918,714,751]" pageId="2" pageNumber="9" type="nomenclature">
+<emphasis id="B93B6F30FFF1FFC5762952C9DC2B07F5" bold="true" box="[304,335,714,751]" pageId="2" pageNumber="9">6.</emphasis>
+<taxonomicName id="4C4FC8A1FFF1FFC5767752C8DEF207F5" authority="Karny," authorityName="Karny" authorityYear="1925" box="[366,918,715,751]" class="Insecta" family="Thripidae" genus="Taeniothrips" kingdom="Animalia" order="Thysanoptera" pageId="2" pageNumber="9" phylum="Arthropoda" rank="species" species="setipennis">
+<emphasis id="B93B6F30FFF1FFC5767752C8DF5B07F5" bold="true" box="[366,575,715,751]" pageId="2" pageNumber="9">Taeniothrips</emphasis>
+setipennis Karny,
+</taxonomicName>
+</subSubSection>
+<subSubSection id="C355E0A9FFF1FFC574A852C8DF6A0688" pageId="2" pageNumber="9" type="reference_group">
+<treatmentCitation id="0AEE9533FFF1FFC574A852C8DBCC07F5" author="Karny" box="[945,1704,714,751]" page="32" pageId="2" pageNumber="9" year="1925">
+<bibCitation id="5E65BB4EFFF1FFC574A852C8DBCC07F5" author="Karny" box="[945,1704,714,751]" journalOrPublisher="Delhi Proefstation, Sumatra" pageId="2" pageNumber="9" pagination="32" part="23" type="journal article" year="1925">
+<journalOrPublisher id="518EB9EEFFF1FFC574A852C8D8CE07F5" box="[945,1450,715,751]" pageId="2" pageNumber="9">Delhi Proefstation, Sumatra</journalOrPublisher>
+, 
+<part id="FFEB19BFFFF1FFC572D552C8D89F07F5" box="[1484,1531,715,751]" pageId="2" pageNumber="9" type="volume">23</part>
+: 
+<pagination id="B2864DD6FFF1FFC5710A52C9DB2407F5" box="[1555,1600,714,751]" pageId="2" pageNumber="9" type="pagination">32</pagination>
+, 
+<year id="FFE7F271FFF1FFC5714C52C9DBCC07F5" box="[1621,1704,714,751]" pageId="2" pageNumber="9">1925</year>
+</bibCitation>
+</treatmentCitation>
+(from 
+<taxonomicName id="4C4FC8A1FFF1FFC576F552FCDE640639" authorityName="Bagnall" authorityYear="1915" box="[492,768,767,803]" class="Insecta" family="Thripidae" genus="Megalurothrips" kingdom="Animalia" order="Thysanoptera" pageId="2" pageNumber="9" phylum="Arthropoda" rank="genus">
+<emphasis id="B93B6F30FFF1FFC576F552FCDE640639" box="[492,768,767,803]" italics="true" pageId="2" pageNumber="9">Megalurothrips</emphasis>
+</taxonomicName>
+<emphasis id="B93B6F30FFF1FFC5741952FCDE760639" box="[768,786,767,803]" italics="true" pageId="2" pageNumber="9">).</emphasis>
+<paragraph id="8BF0B322FFF1FFC576685339DF6A0688" blockId="2.[304,1704,711,975]" pageId="2" pageNumber="9">
+<treatmentCitation id="0AEE9533FFF1FFC576685339DF6A0688" author="Moulton" page="292" pageId="2" pageNumber="9" year="1928">
+<taxonomicName id="4C4FC8A1FFF1FFC576685339DEC90644" authority="Moulton" authorityName="Moulton" authorityYear="1928" box="[369,941,826,862]" class="Insecta" family="Thripidae" genus="Taeniothrips" kingdom="Animalia" order="Thysanoptera" pageId="2" pageNumber="9" phylum="Arthropoda" rank="species" species="varicornis">
+<emphasis id="B93B6F30FFF1FFC576685339DE630644" box="[369,775,826,862]" italics="true" pageId="2" pageNumber="9">Taeniothrips varicornis</emphasis>
+<bibCitation id="5E65BB4EFFF1FFC574025339DF6A0688" pageId="2" pageNumber="9">
+Moulton, Nat. Hist. Soc. 
+<collectingCountry id="F358F3B2FFF1FFC573FA5339D81C0644" box="[1251,1400,826,862]" name="Taiwan" pageId="2" pageNumber="9">Formosa</collectingCountry>
+, Trans. 18: 292, 1928.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+</paragraph>
+<subSubSection id="C355E0A9FFF1FFC5766953AADBFE06D7" box="[368,1690,936,973]" pageId="2" pageNumber="9" type="materials_examined">
+<paragraph id="8BF0B322FFF1FFC5766953AADBFE06D7" blockId="2.[304,1704,711,975]" box="[368,1690,936,973]" pageId="2" pageNumber="9">
+<materialsCitation id="3B27B97FFFF1FFC5766953AADBFE06D7" ID-GBIF-Occurrence="3357451312" box="[368,1690,936,973]" collectedFrom="in flowers of Leucaena glauca" collectingDate="1936-05-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="9" specimenCount-female="1">
+<location id="8E90E5F9FFF1FFC5766953AADCC906D7" LSID="urn:lsid:plazi:treatment:03E60234FFF1FFC5762952C9DBFE06D7:8E90E5F9FFF1FFC5766953AADCC906D7" box="[368,429,937,973]" name="Piti" pageId="2" pageNumber="9">Piti</location>
+, 
+<date id="FFF195E2FFF1FFC576D453AADF2306D7" box="[461,583,936,973]" pageId="2" pageNumber="9">
+<collectingDate id="EFB56C0AFFF1FFC576D453AADF2306D7" box="[461,583,936,973]" pageId="2" pageNumber="9">May 1</collectingDate>
+</date>
+, in flowers of 
+<taxonomicName id="4C4FC8A1FFF1FFC5744553AAD9EC06D7" box="[860,1160,937,973]" class="Magnoliopsida" family="Fabaceae" genus="Leucaena" kingdom="Plantae" order="Fabales" pageId="2" pageNumber="9" phylum="Tracheophyta" rank="species" species="glauca">
+<location id="8E90E5F9FFF1FFC5744553AADE9A06D7" LSID="urn:lsid:plazi:treatment:03E60234FFF1FFC5762952C9DBFE06D7:8E90E5F9FFF1FFC5744553AADE9A06D7" box="[860,1022,937,973]" name="Leucaena" pageId="2" pageNumber="9">Leucaena</location>
+<emphasis id="B93B6F30FFF1FFC5730A53AAD9EA06D7" box="[1043,1166,937,973]" italics="true" pageId="2" pageNumber="9">glauca,</emphasis>
+</taxonomicName>
+<specimenCount id="9D4978ABFFF1FFC573B953AAD80006D7" box="[1184,1380,937,973]" pageId="2" pageNumber="9" type="female">one female</specimenCount>
+, 
+<collectorName id="26BAD6F4FFF1FFC5729853AADB6506D7" box="[1409,1537,937,973]" pageId="2" pageNumber="9">Swezey</collectorName>
+5464).
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

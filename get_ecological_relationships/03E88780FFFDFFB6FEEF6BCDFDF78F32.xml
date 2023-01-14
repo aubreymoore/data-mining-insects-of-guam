@@ -1,0 +1,93 @@
+<document id="53C34BAF9612A6D5ED10336270E56DFF" ID-DOI="http://doi.org/10.5281/zenodo.5169330" ID-GBIF-Dataset="11d04f7a-e744-4ac9-b0af-3cbf68f8cc92" ID-Zenodo-Dep="5169330" checkinTime="1628021447149" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="03E88780FFFDFFB6FEEF6BCDFDF78F32" docLanguage="en" docName="InsectsOfGuamII.189.201-210.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Ooencyrtus guamensis Fullaway, 1946, new species" docType="treatment" docVersion="9" lastPageNumber="206" masterDocId="FFD1FFF8FFF9FFB3FFC86E5DFFBE8B32" masterDocTitle="Hymenoptera, New Species Of Guam Chalcidoidea" masterLastPageNumber="210" masterPageNumber="201" pageNumber="205" updateTime="1658154551490" updateUser="annettekang">
+<mods:mods id="44B316228372069733D51A979BE2A35D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="3CAD51C3D57403EAFCAD260F2C69A132">
+<mods:title id="1A1D79FDE2CECEC16DB24457DFB6300C">Hymenoptera, New Species Of Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="55F9DB6CB28FCEC9C84BD602E1CB15D6" type="personal">
+<mods:role id="FC83EBEC7B98D38C0B13A30558ABC12D">
+<mods:roleTerm id="B372BD1B40EA6AEDD8FF4116C7DB7031">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="50BCEABBA7C01D14F8FCAA2C063E3877">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="07595BC010A2640727A0CB6EF0A2A10C">Board of Agriculture and Forestry Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="B99F89F030EEF484E28CC63E3B87F2B9">text</mods:typeOfResource>
+<mods:relatedItem id="931BC966E67754DC4BA27624C6FDFDDE" type="host">
+<mods:originInfo id="A60D3655C33CCDE940408FC69F9CD8A7">
+<mods:dateIssued id="EAE484E7DB6479514706564267FC0370">1946</mods:dateIssued>
+<mods:dateOther id="AA5BEC11B3E98FBC04E275723E2C7492" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="0D1EC9AFCCB720AD807A091A510447F5">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="46196B5725160D1D991339ED4165321D">
+<mods:placeTerm id="8ECD9C9945B07512BC9A22EA1BB46195">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="F74D38B0CF87C7C5167CE2932E202CE1">
+<mods:title id="DDD302D94BA34D232751D4DA4092C66A">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="BBFC75CAFB634EA7F3A8F3F4BB483304">
+<mods:extent id="DA191001B59BFCE6BE6547461978EAF9" unit="page">
+<mods:start id="6330DFEC70FFCE4C917E192E9D8EE0CD">201</mods:start>
+<mods:end id="4697B817F8855AD7AE1E65649CC82414">210</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="4E4880EF6AAAA7DE5B5A931AE05DFA1C">book chapter</mods:classification>
+<mods:identifier id="D34692BB90DE6E2A711A17398A611137" type="DOI">http://doi.org/10.5281/zenodo.5169330</mods:identifier>
+<mods:identifier id="83C5DFD8D07723E86AD50C4AA51466EA" type="GBIF-Dataset">11d04f7a-e744-4ac9-b0af-3cbf68f8cc92</mods:identifier>
+<mods:identifier id="C0EFFC6972E67B48C44226E8035A9458" type="Zenodo-Dep">5169330</mods:identifier>
+</mods:mods>
+<treatment id="03E88780FFFDFFB6FEEF6BCDFDF78F32" ID-DOI="http://doi.org/10.5281/zenodo.5158768" ID-GBIF-Taxon="184009991" ID-Zenodo-Dep="5158768" LSID="urn:lsid:zoobank.org:act:C9977170-152A-43FB-B379-B7B0B7578B18" httpUri="http://treatment.plazi.org/id/03E88780FFFDFFB6FEEF6BCDFDF78F32" lastPageId="5" lastPageNumber="206" pageId="4" pageNumber="205">
+<subSubSection id="C35B651DFFFDFFB7FEEF6BCDFBBB8E88" box="[295,1029,1424,1466]" pageId="4" pageNumber="205" type="nomenclature">
+<paragraph id="8BFE3696FFFDFFB7FEEF6BCDFBBB8E88" blockId="4.[295,1696,1424,2456]" box="[295,1029,1424,1466]" pageId="4" pageNumber="205">
+<heading id="D0B681FAFFFDFFB7FEEF6BCDFBBB8E88" box="[295,1029,1424,1466]" fontSize="11" level="2" pageId="4" pageNumber="205" reason="2">
+<emphasis id="B935EA84FFFDFFB7FEEF6BCDFCAE8E88" bold="true" box="[295,784,1424,1466]" pageId="4" pageNumber="205">
+6. 
+<taxonomicName id="4C414D15FFFDFFB7FEAE6BCDFCB78E88" authorityName="Fullaway" authorityYear="1946" box="[358,777,1424,1466]" class="Insecta" family="Encyrtidae" genus="Ooencyrtus" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="205" phylum="Arthropoda" rank="species" species="guamensis" status="new species">Ooencyrtus guamensis</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="A20657FFFFFDFFB7FCEB6BCDFBBE8E88" box="[803,1024,1424,1466]" pageId="4" pageNumber="205" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C35B651DFFFDFFB6FEA46B96F9518878" lastPageId="5" lastPageNumber="206" pageId="4" pageNumber="205" type="description">
+<paragraph id="8BFE3696FFFDFFB7FEA46B96FE2E8D0C" blockId="4.[295,1696,1424,2456]" pageId="4" pageNumber="205">
+Female: 
+<quantity id="4CB99B73FFFDFFB7FDD86B96FDCA8EDC" box="[528,628,1483,1518]" metricMagnitude="-3" metricUnit="m" metricValue="1.0" pageId="4" pageNumber="205" unit="mm" value="1.0">
+<emphasis id="B935EA84FFFDFFB7FDD86B96FDA28EDC" bold="true" box="[528,540,1483,1518]" pageId="4" pageNumber="205">1</emphasis>
+mm
+</quantity>
+. long, stout, black with metallic bluish or greenish reflections, antennae and legs outwardly to tibiae fuscous, the latter as well as tarsi pale yellowish TODO
+</paragraph>
+<paragraph id="8BFE3696FFFDFFB7FEA5681FFB68836F" blockId="4.[295,1696,1424,2456]" pageId="4" pageNumber="205">Head transverse, moderately lenticular, frontovertex lying in the horizontal plane, a little longer than wide, ocelli in form of an equilateral triangle, the lateral members close to the vertical and ocular margin, surface finely shagreened and sparsely punctuate with fine pin-point punctuations, eyes lateral, short oval in shape, large, convex, ·hairy, face in the vertical plane widening considerably toward mouth and rather deeply excavate above where antenna! scrobes join, below separated by a rather wide flat ridge. Antennae fairly long (as long as head and thorax together), and only moderately stout, more or less filiform, scape elongate, slender, and extending a little beyond upper limit of face; pedicel short, only twice as long as wide at apical end, obconic, nearly twice as long as any of the funicle joints, which are scarcely if any longer than wide, club as long as the last three joints of the funicle together, somewhat expanded and flattened, ending in a blunt point, all clothed with short silvery hairs, mandibles short and stout, toothed apically on outer third of apposed edges, the remainder of the cutting edge truncate and blunt, genae long and narrow, three fourths length of eye.</paragraph>
+<paragraph id="8BFE3696FFFDFFB6FEB86639FB798AEB" blockId="4.[295,1696,1424,2456]" lastBlockId="5.[443,1842,360,842]" lastPageId="5" lastPageNumber="206" pageId="4" pageNumber="205">Pronotum transverse, narrow above, declivous in front, mesonotum convex, transverse, ovoid in shape with front and hind margins both curved outward, therefore longest down the middle line where the length is less than half the width, smooth and shining but uniformly and rather closely punctuate, the fine pin-point punctuations bearing short, stiff, appressed silvery hairs, scutellum rather large, convex, triangular, with rounded apex, shagreened and a dull black, also sparsely clothed with rather long black hairs, axillae triangular, smooth, and shining, apices not meeting medially, metanotum short, transverse, pleura large, discoid, convex, both shining blue-green. Abdomen short, hardly as long as thorax and widest along apical margin of first segment where width exceeds that of thorax, abruptly narrowing beyond to terminate in a blunt point, much depressed and dorsally sunken. Ovipositor scarcely extruded.</paragraph>
+<paragraph id="8BFE3696FFFCFFB6FDC86FB8F95689FE" blockId="5.[443,1842,360,842]" pageId="5" pageNumber="206">Wings hyaline, long ovate in shape with the posterior margin straight from beyond middle to base, marginal vein punctiform, stigma! vein short but twice as long as postmarginal and hooked at apex, discal ciliation fine and close to speculum, which widens posteriorly, basally beyond speculum the ciliation is not so close and fine and extends only half way to base of wing, where the wing is quite bare, submarginal vein bearing a few setiferous hairs, marginal ciliation short and close. Legs moderately long and stout.</paragraph>
+<paragraph id="8BFE3696FFFCFFB6FDC86C85F9518878" blockId="5.[443,1842,360,842]" pageId="5" pageNumber="206">Male: smaller, the frontovertex wider than long, antennae and legs yellowish brown, the former decidedly filamentous, the funicle joints twice as long as wide, club not expanded and shorter than the last two funicle joints, clothed with whorled hairs on flagellum.</paragraph>
+</subSubSection>
+<subSubSection id="C35B651DFFFCFFB6FE346D33FDF78F32" pageId="5" pageNumber="206" type="materials_examined">
+<paragraph id="8BFE3696FFFCFFB6FE346D33FDF78F32" blockId="5.[446,1841,878,1024]" pageId="5" pageNumber="206">
+<materialsCitation id="3B293CCBFFFCFFB6FE346D33FDF78F32" ID-GBIF-Occurrence="3333035314" collectedFrom="reared from puparium of a syrphid fly on corn leaf" collectingDate="1936-09-15" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="206" specimenCount="34" specimenCount-female="13" specimenCount-male="6" typeStatus="holotype, allotype, and paratypes">
+<collectingMunicipality id="6B9AACECFFFCFFB6FE346D33FD8088AA" box="[508,574,878,920]" pageId="5" pageNumber="206">Piti</collectingMunicipality>
+, 
+<date id="FFFF1056FFFCFFB6FD966D33FD4B88AA" box="[606,757,878,920]" pageId="5" pageNumber="206" value="2015-09">
+<collectingDate id="EFBBE9BEFFFCFFB6FD966D33FD4B88AA" box="[606,757,878,920]" pageId="5" pageNumber="206" value="2015-09">Sept. 15</collectingDate>
+</date>
+, reared from puparium of a syrphid fly, on corn leaf, 
+<specimenCount id="9D47FD1FFFFCFFB6F8C46D33FDF888FE" pageId="5" pageNumber="206" type="female">13 females</specimenCount>
+, 
+<specimenCount id="9D47FD1FFFFCFFB6FDAD6DFCFD4A88FE" box="[613,756,929,972]" pageId="5" pageNumber="206" type="male">6 males</specimenCount>
+(
+<typeStatus id="54FA8834FFFCFFB6FCD76DFCFC0388FE" box="[799,957,929,972]" pageId="5" pageNumber="206">holotype</typeStatus>
+, 
+<typeStatus id="54FA8834FFFCFFB6FC146DFCFBD988FE" box="[988,1127,929,972]" pageId="5" pageNumber="206">allotype</typeStatus>
+, and 
+<typeStatus id="54FA8834FFFCFFB6FB176DFCFA2888FE" box="[1247,1430,929,972]" pageId="5" pageNumber="206">paratypes</typeStatus>
+), 15 
+<typeStatus id="54FA8834FFFCFFB6F9CC6DFCF89588FE" box="[1540,1835,929,972]" isOtherTypeStatus="true" pageId="5" pageNumber="206">other specimens</typeStatus>
+, 
+<collectorName id="26B45340FFFCFFB6FE766D8BFDFA8F32" box="[446,580,982,1024]" pageId="5" pageNumber="206">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

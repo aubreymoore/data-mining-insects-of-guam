@@ -1,0 +1,126 @@
+<document id="2E6EFA375101A88D079634EAFFB2CB2B" ID-DOI="http://doi.org/10.5281/zenodo.3634035" ID-GBIF-Dataset="9c8d5683-76c1-4938-aede-b7ad5391b6b2" ID-Zenodo-Dep="3634035" checkinTime="1580668122796" checkinUser="plazi" docAuthor="Moulton, Dudley" docDate="1942" docId="03E60234FFF3FFC776295722DEAD0DB7" docLanguage="en" docName="InsectsOfGuam.172.7-16.pdf.imf" docOrigin="Insects of Guam I, Bernice P. Bishop Museum Bulletin" docSource="http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Selenothrips rubrocinctus Karny" docType="treatment" docVersion="18" lastPageNumber="7" masterDocId="FFDF7A4CFFF3FFC777195003DD64051A" masterDocTitle="Thysanoptera: Thrips of Guam" masterLastPageNumber="16" masterPageNumber="7" pageNumber="7" updateTime="1658840059004" updateUser="annettekang">
+<mods:mods id="D98DC90439B22E589F8E417CA5DA09C9" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="DEBACCBB74D2CCABC0D38DA129D5298A">
+<mods:title id="EE670699AFDDF58D4E4F283AAD8FDFC6">Thysanoptera: Thrips of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="5B4473B0031F5CC33901DE39C4771DA4" type="personal">
+<mods:role id="66801B20065FA7BABBB10C745A96640B">
+<mods:roleTerm id="03640506B405EB42BFD96FF6AC79B4EF">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9E4F4FA2483456C67D5ECF408C167BD5">Moulton, Dudley</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="384C1455B0B0E30B3FFB5766CA1561BE">text</mods:typeOfResource>
+<mods:relatedItem id="55AF927B3195D8B9FE6850085E23A2CF" type="host">
+<mods:originInfo id="D383223A9A25893018AC5981D4422661">
+<mods:dateIssued id="B4BBC5D7C441A2652419C0E598384C50">1942</mods:dateIssued>
+<mods:dateOther id="5D62CC2920491CD024EC958AF38C1CB9" type="pubDate">1942-12-31</mods:dateOther>
+<mods:publisher id="7F40DB29BE7CE0B0F68B144AF5B1497B">Bernice P. Bishop Museum Bulletin</mods:publisher>
+</mods:originInfo>
+<mods:titleInfo id="30B6E5D19E15E615ECD9ACB8095F3B26">
+<mods:title id="43C104B009BAC18BEA1D5CE8AD27353C">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="F869E4FA6FFF45573E6E609BA0C777DA">
+<mods:extent id="930C85F276081D88A6B338DADBD02738" unit="page">
+<mods:start id="344448ECF99B1369AA8EE154CDA0AB97">7</mods:start>
+<mods:end id="8D67EC4F5721F30E69D4A11AB9C62E90">16</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="B1C7E6578F6CE3FEA367447E7F43D4C9">
+<mods:url id="5250B880D83D643F6091B631BC515595">http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf</mods:url>
+</mods:location>
+<mods:classification id="261140C4B9EAFB40392EDDEB0B9C9C05">book chapter</mods:classification>
+<mods:identifier id="1FD3C2321B902874964D63330B132F5A" type="DOI">http://doi.org/10.5281/zenodo.3634035</mods:identifier>
+<mods:identifier id="55DE5A8186BD0781B221731AF7BC3AF5" type="GBIF-Dataset">9c8d5683-76c1-4938-aede-b7ad5391b6b2</mods:identifier>
+<mods:identifier id="2E6FDE937A7DA268554BEFF8ED38302A" type="Zenodo-Dep">3634035</mods:identifier>
+</mods:mods>
+<treatment id="03E60234FFF3FFC776295722DEAD0DB7" ID-DOI="http://doi.org/10.5281/zenodo.5157403" ID-GBIF-Taxon="161938924" ID-Zenodo-Dep="5157403" LSID="urn:lsid:plazi:treatment:03E60234FFF3FFC776295722DEAD0DB7" httpUri="http://treatment.plazi.org/id/03E60234FFF3FFC776295722DEAD0DB7" lastPageNumber="7" pageId="0" pageNumber="7">
+<subSubSection id="C355E0A9FFF3FFC776295722DEBF025F" box="[304,987,1825,1861]" pageId="0" pageNumber="7" type="nomenclature">
+<paragraph id="8BF0B322FFF3FFC776295722DEBF025F" blockId="0.[304,1703,1822,2222]" box="[304,987,1825,1861]" pageId="0" pageNumber="7">
+<heading id="D0B8044EFFF3FFC776295722DEBF025F" box="[304,987,1825,1861]" fontSize="11" level="5" pageId="0" pageNumber="7" reason="1">
+2. 
+<taxonomicName id="4C4FC8A1FFF3FFC776775722DEB3025F" authority="(Giard)" authorityName="Karny" baseAuthorityName="Giard" baseAuthorityYear="1901" box="[366,983,1825,1861]" class="Insecta" family="Thripidae" genus="Selenothrips" kingdom="Animalia" order="Thysanoptera" pageId="0" pageNumber="7" phylum="Arthropoda" rank="species" species="rubrocinctus">
+<emphasis id="B93B6F30FFF3FFC776775722DE5A025F" bold="true" box="[366,830,1825,1861]" pageId="0" pageNumber="7">Selenothrips rubrocinctus</emphasis>
+(Giard)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFF3FFC776775757DFCB02FA" pageId="0" pageNumber="7" type="reference_group">
+<treatmentCitationGroup id="AB5F940CFFF3FFC776775757DFCB02FA" pageId="0" pageNumber="7">
+<paragraph id="8BF0B322FFF3FFC776775757D8BA0262" blockId="0.[304,1703,1822,2222]" box="[366,1502,1875,1912]" pageId="0" pageNumber="7">
+<treatmentCitation id="0AEE9533FFF3FFC776775757D8BA0262" author="Giard" box="[366,1502,1875,1912]" page="263" pageId="0" pageNumber="7" year="1901">
+<taxonomicName id="4C4FC8A1FFF3FFC776775757DE330262" authority="Giard" authorityName="Giard" box="[366,855,1876,1912]" class="Insecta" family="Thripidae" genus="Physapus" higherTaxonomySource="CoL" kingdom="Animalia" order="Thysanoptera" pageId="0" pageNumber="7" phylum="Arthropoda" rank="species" species="rubricincta">
+Physapus 
+<emphasis id="B93B6F30FFF3FFC7753F5757DF860262" box="[550,738,1876,1912]" italics="true" pageId="0" pageNumber="7">rubricincta</emphasis>
+<bibCitation id="5E65BB4EFFF3FFC775EF5757D8BA0262" box="[758,1502,1875,1912]" pageId="0" pageNumber="7">
+Giard, Soc. Ent. 
+<collectingCountry id="F358F3B2FFF3FFC7733E5757D9FE0262" box="[1063,1178,1876,1912]" name="France" pageId="0" pageNumber="7">France</collectingCountry>
+, Bull., 263, 1901.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</paragraph>
+<paragraph id="8BF0B322FFF3FFC77668578BDFCB02FA" blockId="0.[304,1703,1822,2222]" pageId="0" pageNumber="7">
+<treatmentCitation id="0AEE9533FFF3FFC77668578BDFCB02FA" author="Karny" page="28" pageId="0" pageNumber="7" year="1911">
+<taxonomicName id="4C4FC8A1FFF3FFC77668578BD90B02B6" authority="(Giard) Karny" authorityName="Karny" baseAuthorityName="Giard" baseAuthorityYear="1901" box="[369,1135,1928,1964]" class="Insecta" family="Thripidae" genus="Selenothrips" kingdom="Animalia" order="Thysanoptera" pageId="0" pageNumber="7" phylum="Arthropoda" rank="genus" species="rubrocinctus">
+<emphasis id="B93B6F30FFF3FFC77668578BDF2502B6" box="[369,577,1928,1964]" italics="true" pageId="0" pageNumber="7">Selenothrips</emphasis>
+rubrocinctus (Giard) 
+<bibCitation id="5E65BB4EFFF3FFC7731C578BDFCB02FA" pageId="0" pageNumber="7">Karny, Ent. Rundschau, Jahrg. 28: 179-181, 1911.</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</paragraph>
+</treatmentCitationGroup>
+</subSubSection>
+<subSubSection id="C355E0A9FFF3FFC7766857ECDEAD0DB7" pageId="0" pageNumber="7" type="materials_examined">
+<paragraph id="8BF0B322FFF3FFC7766857ECDEAD0DB7" blockId="0.[304,1703,1822,2222]" pageId="0" pageNumber="7">
+<materialsCitation id="3B27B97FFFF3FFC7766857ECD9A90D09" ID-GBIF-Occurrence="3864798302" box="[369,1229,2030,2067]" collectedFrom="on leaves of Terminalia catappa" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="0" pageNumber="7">
+<collectingMunicipality id="6B942958FFF3FFC7766857ECDC900D09" box="[369,500,2031,2067]" pageId="0" pageNumber="7">Dededo</collectingMunicipality>
+, on leaves of 
+<taxonomicName id="4C4FC8A1FFF3FFC775F557ECD9240D09" box="[748,1088,2031,2067]" class="Magnoliopsida" family="Combretaceae" genus="Terminalia" higherTaxonomySource="CoL" kingdom="Plantae" order="Myrtales" pageId="0" pageNumber="7" phylum="Tracheophyta" rank="species" species="catappa">
+<location id="8E90E5F9FFF3FFC775F557ECDEC10D09" LSID="urn:lsid:plazi:treatment:03E60234FFF3FFC776295722DEAD0DB7:8E90E5F9FFF3FFC775F557ECDEC10D09" box="[748,933,2031,2067]" municipality="Dededo" name="Terminalia" pageId="0" pageNumber="7">Terminalia</location>
+catappa
+</taxonomicName>
+(4567);
+</materialsCitation>
+<materialsCitation id="3B27B97FFFF3FFC773F357ECDFD20D5D" ID-GBIF-Occurrence="3864798312" collectedFrom="on Pithecolobium dulce leaves" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="0" pageNumber="7">
+<collectingMunicipality id="6B942958FFF3FFC773F357ECD83D0D09" box="[1258,1369,2031,2067]" pageId="0" pageNumber="7">Agana</collectingMunicipality>
+, on 
+<taxonomicName id="4C4FC8A1FFF3FFC772B157ECDCE80D5D" class="Magnoliopsida" family="Fabaceae" genus="Pithecolobium" higherTaxonomySource="CoL" kingdom="Plantae" order="Fabales" pageId="0" pageNumber="7" phylum="Tracheophyta" rank="species" species="dulce">
+<emphasis id="B93B6F30FFF3FFC772B157ECDCE80D5D" italics="true" pageId="0" pageNumber="7">
+<location id="8E90E5F9FFF3FFC772B157ECDBFF0D09" LSID="urn:lsid:plazi:treatment:03E60234FFF3FFC776295722DEAD0DB7:8E90E5F9FFF3FFC772B157ECDBFF0D09" box="[1448,1691,2031,2067]" municipality="Agana" name="Pithecolobium" pageId="0" pageNumber="7">Pithecolobium</location>
+dulce
+</emphasis>
+</taxonomicName>
+leaves (5471);
+</materialsCitation>
+<materialsCitation id="3B27B97FFFF3FFC775D15820D8600D5D" ID-GBIF-Occurrence="3864798304" box="[712,1284,2082,2119]" collectedFrom="on mango leaves" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="7">
+<location id="8E90E5F9FFF3FFC775D15820DE610D5D" LSID="urn:lsid:plazi:treatment:03E60234FFF3FFC776295722DEAD0DB7:8E90E5F9FFF3FFC775D15820DE610D5D" box="[712,773,2083,2119]" name="Piti" pageId="0" pageNumber="7">Piti</location>
+, on mango leaves (5472);
+</materialsCitation>
+<materialsCitation id="3B27B97FFFF3FFC7720F5820DBC30D5D" ID-GBIF-Occurrence="3864798306" box="[1302,1703,2082,2119]" collectedFrom="on rose" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="7">
+<collectingMunicipality id="6B942958FFF3FFC7720F5820D8370D5D" box="[1302,1363,2083,2119]" pageId="0" pageNumber="7">Piti</collectingMunicipality>
+, on rose (5484);
+</materialsCitation>
+<materialsCitation id="3B27B97FFFF3FFC7762B5855DEAD0DB7" ID-GBIF-Occurrence="3864798301" collectedFrom="on Barringtonia racemosa" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="0" pageNumber="7">
+<collectingMunicipality id="6B942958FFF3FFC7762B5855DCD80D60" box="[306,444,2134,2170]" pageId="0" pageNumber="7">Inarajan</collectingMunicipality>
+, on 
+<taxonomicName id="4C4FC8A1FFF3FFC775025855DEC90D60" box="[539,941,2134,2170]" class="Magnoliopsida" family="Lecythidaceae" genus="Barringtonia" kingdom="Plantae" order="Ericales" pageId="0" pageNumber="7" phylum="Tracheophyta" rank="species" species="racemosa">
+<emphasis id="B93B6F30FFF3FFC775025855DEC90D60" box="[539,941,2134,2170]" italics="true" pageId="0" pageNumber="7">
+<location id="8E90E5F9FFF3FFC775025855DF910D60" LSID="urn:lsid:plazi:treatment:03E60234FFF3FFC776295722DEAD0DB7:8E90E5F9FFF3FFC775025855DF910D60" box="[539,757,2134,2170]" municipality="Inarajan" name="Barringtonia" pageId="0" pageNumber="7">Barringtonia</location>
+racemosa
+</emphasis>
+</taxonomicName>
+(5492). 
+<location id="8E90E5F9FFF3FFC7737B5855D8B80D60" LSID="urn:lsid:plazi:treatment:03E60234FFF3FFC776295722DEAD0DB7:8E90E5F9FFF3FFC7737B5855D8B80D60" box="[1122,1500,2134,2170]" municipality="Inarajan" name="Many females. Other" pageId="0" pageNumber="7">
+Many females. 
+<emphasis id="B93B6F30FFF3FFC772665855D8B80D60" box="[1407,1500,2134,2170]" italics="true" pageId="0" pageNumber="7">Other</emphasis>
+</location>
+<specimenCount id="9D4978ABFFF3FFC772EC5855DBFB0D60" box="[1525,1695,2134,2170]" pageId="0" pageNumber="7" type="generic">specimens</specimenCount>
+were taken from unknown hostplants.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

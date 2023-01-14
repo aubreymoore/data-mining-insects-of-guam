@@ -1,0 +1,85 @@
+<document id="A0887616EFF4284D0077443808A987DC" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF82FFECE409FED28ADEFE0E" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Mymar tyndalli Girault" docType="treatment" docVersion="17" lastPageNumber="219" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="219" updateTime="1664321828526" updateUser="aubreymoore">
+<mods:mods id="833D34E87738EEC232E4BEC3EB4F991F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="088E60B88770009180C8820E64159465">
+<mods:title id="D4F9810F8BE7D55841C2CE402B8B4AA4">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="689842B6179E483155B8778E3881BA9D" type="personal">
+<mods:role id="64E8179CAA189C916DF25C9BBD4704D3">
+<mods:roleTerm id="B737E3C59ED90502F77713D84AF5A8E6">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A2A1956F024C15952DBF17BA8E9208B4">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="5EA253F3EB093B09FAF41AD3041F90F9">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C1C3261D229EA6F0F145763BABE17248">text</mods:typeOfResource>
+<mods:relatedItem id="39E98DE75D5E206CD70FD5DB467E888F" type="host">
+<mods:originInfo id="26319CE1FCE0D036F5DB5F6BDCB5EA8F">
+<mods:dateIssued id="808771B95D176E149A74924C5FCD9DF6">1946</mods:dateIssued>
+<mods:dateOther id="A73CE499F84A2CE8FA990793000B17F8" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="0161655E42476206030C0AD56EB685A2">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="2AACB3DCF7992B7F6701BDA0A1915246">
+<mods:placeTerm id="4E1D27A9C19F4872A82618A9D5C405AC">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="58B3B2297CC4EDBAB4D6A71780995EF3">
+<mods:title id="B7E6A2DD2243A070282F497D949A844A">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="69BA7B20532C07152E09A75F01D73AF6">
+<mods:extent id="3E92CBD8C69A31738B1E375EA0775E36" unit="page">
+<mods:start id="4F202CD4694F0E734FD5EF61C4DC370E">211</mods:start>
+<mods:end id="D327DACAD125A6784A7EBF5994EDEA0A">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="B7CD6E33C305380963FAF27AD65BEB73">book chapter</mods:classification>
+<mods:identifier id="8ECC6A88EE5C83DBB01773FA55ED4D96" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="B1B71A80AD3A6C6E211CBDC3382EC809" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="BF1A4B708C8E8CEA7C48E89B7C0A8A20" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF82FFECE409FED28ADEFE0E" ID-DOI="http://doi.org/10.5281/zenodo.5212041" ID-GBIF-Taxon="187737480" ID-Zenodo-Dep="5212041" LSID="urn:lsid:plazi:treatment:7376EC19FF82FFECE409FED28ADEFE0E" httpUri="http://treatment.plazi.org/id/7376EC19FF82FFECE409FED28ADEFE0E" lastPageNumber="219" pageId="8" pageNumber="219">
+<subSubSection id="B3C50E84FF82FFECE409FED28C49FE7B" box="[266,791,382,425]" pageId="8" pageNumber="219" type="nomenclature">
+<paragraph id="FB605D0FFF82FFECE409FED28C49FE7B" blockId="8.[266,1493,382,476]" box="[266,791,382,425]" pageId="8" pageNumber="219">
+<emphasis id="C9AB811DFF82FFECE409FED28E62FE7B" bold="true" box="[266,316,382,425]" pageId="8" pageNumber="219">61.</emphasis>
+<taxonomicName id="3CDF268CFF82FFECE45EFED28C4EFE7B" authority="Girault" authorityName="Girault" box="[349,784,382,425]" class="Insecta" family="Mymaridae" genus="Mymar" higherTaxonomySource="CoL" kingdom="Animalia" order="Hymenoptera" pageId="8" pageNumber="219" phylum="Arthropoda" rank="species" species="tyndalli">
+<title id="89DBB639FF82FFECE45EFED28D20FE7B" box="[349,638,382,425]" jopScore="0.14637451" pageId="8" pageNumber="219">
+<emphasis id="C9AB811DFF82FFECE45EFED28D20FE7B" bold="true" box="[349,638,382,425]" pageId="8" pageNumber="219">Mymar tyndalli</emphasis>
+</title>
+<author id="2362B5EAFF82FFECE78EFED28C4EFE7B" box="[653,784,382,425]" pageId="8" pageNumber="219">Girault</author>
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF82FFECE62AFED28A8BFE7B" box="[809,1493,382,425]" pageId="8" pageNumber="219" type="reference_group">
+<paragraph id="FB605D0FFF82FFECE62AFED28A8BFE7B" blockId="8.[266,1493,382,476]" box="[809,1493,382,425]" pageId="8" pageNumber="219">
+<treatmentCitationGroup id="DBCF7A21FF82FFECE62AFED28A8BFE7B" box="[809,1493,382,425]" pageId="8" pageNumber="219">
+<treatmentCitation id="7A7E7B1EFF82FFECE62AFED28A8BFE7B" author="Girault" box="[809,1493,382,425]" page="168" pageId="8" pageNumber="219" year="1912">
+<bibCitation id="2EF55563FF82FFECE62AFED28A8BFE7B" author="Girault" box="[809,1493,382,425]" journalOrPublisher="Queensland Mus., Mem." pageId="8" pageNumber="219" pagination="168" part="1" refId="ref3549" type="journal article" year="1912">
+<journalOrPublisher id="211E57C3FF82FFECE62AFED28BBEFE7B" box="[809,1248,382,425]" pageId="8" pageNumber="219">Queensland Mus., Mem.</journalOrPublisher>
+<part id="8F7BF792FF82FFECE1F7FED28BA0FE7B" box="[1268,1278,382,425]" pageId="8" pageNumber="219" type="volume">1</part>
+: 
+<pagination id="C216A3FBFF82FFECE025FED28A3AFE7B" box="[1318,1380,382,425]" pageId="8" pageNumber="219" type="pagination">168</pagination>
+, 
+<year id="8F771C5CFF82FFECE07EFED28A8EFE7B" box="[1405,1488,382,425]" pageId="8" pageNumber="219">1912</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF82FFECE44AFE1E8ADEFE0E" box="[329,1408,434,476]" pageId="8" pageNumber="219" type="materials_examined">
+<paragraph id="FB605D0FFF82FFECE44AFE1E8ADEFE0E" blockId="8.[266,1493,382,476]" box="[329,1408,434,476]" pageId="8" pageNumber="219">
+<materialsCitation id="4BB75752FF82FFECE44AFE1E8ADEFE0E" ID-GBIF-Occurrence="3345364327" box="[329,1408,434,476]" collectedFrom="swept from lawn grass" collectingDate="1936-11-05" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="8" pageNumber="219" specimenCount="1">
+<collectingMunicipality id="1B04C775FF82FFECE44AFE1E8ED0FE0E" box="[329,398,434,476]" pageId="8" pageNumber="219">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF82FFECE4A0FE1E8D41FE0E" box="[419,543,434,476]" pageId="8" pageNumber="219">
+<collectingDate id="9F258227FF82FFECE4A0FE1E8D41FE0E" box="[419,543,434,476]" pageId="8" pageNumber="219">Nov. 5</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF82FFECE735FE1E8C78FE0E" box="[566,806,434,476]" pageId="8" pageNumber="219" type="generic">one specimen</specimenCount>
+swept from lawn grass, 
+<collectorName id="562A38D9FF82FFECE1F1FE1E8A25FE0E" box="[1266,1403,434,476]" pageId="8" pageNumber="219">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

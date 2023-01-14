@@ -1,0 +1,114 @@
+<document id="ABA131A6ED16457E7FE8024C7B8CCFA4" ID-DOI="http://doi.org/10.5281/zenodo.5169330" ID-GBIF-Dataset="11d04f7a-e744-4ac9-b0af-3cbf68f8cc92" ID-Zenodo-Dep="5169330" checkinTime="1628021447149" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="03E88780FFFFFFB5FEE16C73FC6982AB" docLanguage="en" docName="InsectsOfGuamII.189.201-210.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Cheiloneurus chrysopae Fullaway, 1946, new species" docType="treatment" docVersion="8" lastPageNumber="207" masterDocId="FFD1FFF8FFF9FFB3FFC86E5DFFBE8B32" masterDocTitle="Hymenoptera, New Species Of Guam Chalcidoidea" masterLastPageNumber="210" masterPageNumber="201" pageNumber="207" updateTime="1658154551490" updateUser="annettekang">
+<mods:mods id="A0703440891E56E4EB4694D3753B409E" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="4D1110D4BE254EDB6E6D23C0AE67A776">
+<mods:title id="4762445F8D4A7BAB4618A9292829938A">Hymenoptera, New Species Of Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="4BB6D4753A41F68DD151F5F49AAB43DE" type="personal">
+<mods:role id="C1B4B91AC83C114D9160086689CC125F">
+<mods:roleTerm id="96F17127CABF88FBB9498B6A884CF9E9">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F8A14BEFB78CA7E6CA76BAF337BE7C09">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="8004D0249B22C07E2A475B104BD81E89">Board of Agriculture and Forestry Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="7776ED2C0D7851D7927FC88657F8D447">text</mods:typeOfResource>
+<mods:relatedItem id="F834516C88ECB5DBBCE56B1975ECE800" type="host">
+<mods:originInfo id="C350553DD198707CB085FAC6E54B6AE6">
+<mods:dateIssued id="E259677FEF771668A5681AA69AFABC41">1946</mods:dateIssued>
+<mods:dateOther id="4EB5CE165A18490989B2C53858A77A7B" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="18C1D9AF58CC74E6D175E73F4C4E113C">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="CA1261A94677D6A060B34F88681F238E">
+<mods:placeTerm id="088C79FF5C8BCA1A0D5BCB2A9B514425">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="D21FDA78E4C78E9F6D38DF27D4B5C93C">
+<mods:title id="03585BA035C67A0662131187401C0CB0">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="3D244332AA730C1C1C9F1D357FE81446">
+<mods:extent id="A861D6FCD8EF72EB1CD1BD52BC46713B" unit="page">
+<mods:start id="882AD26DA988D7980CC1F5C64206219A">201</mods:start>
+<mods:end id="05F9E85292BE3AEF3147E02B12F760EF">210</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="25026F6C2B83BFE291DE0D793A44A150">book chapter</mods:classification>
+<mods:identifier id="546BB5EE79270181E7877DF6EF4358DA" type="DOI">http://doi.org/10.5281/zenodo.5169330</mods:identifier>
+<mods:identifier id="AA3E3D02DAA57939D8B50A619198EB18" type="GBIF-Dataset">11d04f7a-e744-4ac9-b0af-3cbf68f8cc92</mods:identifier>
+<mods:identifier id="6B414AEF3747096B0686DA5351C3B8F3" type="Zenodo-Dep">5169330</mods:identifier>
+</mods:mods>
+<treatment id="03E88780FFFFFFB5FEE16C73FC6982AB" ID-DOI="http://doi.org/10.5281/zenodo.5186390" ID-GBIF-Taxon="184009986" ID-Zenodo-Dep="5186390" LSID="urn:lsid:plazi:treatment:03E88780FFFFFFB5FEE16C73FC6982AB" httpUri="http://treatment.plazi.org/id/03E88780FFFFFFB5FEE16C73FC6982AB" lastPageNumber="207" pageId="6" pageNumber="207">
+<subSubSection id="C35B651DFFFFFFB5FEE16C73FBAB896A" box="[297,1045,558,600]" pageId="6" pageNumber="207" type="nomenclature">
+<paragraph id="8BFE3696FFFFFFB5FEE16C73FBAB896A" blockId="6.[297,1700,558,2170]" box="[297,1045,558,600]" pageId="6" pageNumber="207">
+<heading id="D0B681FAFFFFFFB5FEE16C73FBAB896A" box="[297,1045,558,600]" fontSize="11" level="2" pageId="6" pageNumber="207" reason="2">
+<emphasis id="B935EA84FFFFFFB5FEE16C73FC98896A" bold="true" box="[297,806,558,600]" pageId="6" pageNumber="207">
+8. 
+<taxonomicName id="4C414D15FFFFFFB5FEA06C73FCA1896A" authorityName="Fullaway" authorityYear="1946" box="[360,799,558,600]" class="Insecta" family="Encyrtidae" genus="Cheiloneurus" kingdom="Animalia" order="Hymenoptera" pageId="6" pageNumber="207" phylum="Arthropoda" rank="species" species="chrysopae" status="new species">Cheiloneurus chrysopae</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="A20657FFFFFFFFB5FCFD6C73FBAE896A" box="[821,1040,558,600]" pageId="6" pageNumber="207" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C35B651DFFFFFFB5FEA56C35FA778348" pageId="6" pageNumber="207" type="description">
+<paragraph id="8BFE3696FFFFFFB5FEA56C35F9F489E8" blockId="6.[297,1700,558,2170]" pageId="6" pageNumber="207">
+Female: 
+<quantity id="4CB99B73FFFFFFB5FDD86C35FD3589BE" box="[528,651,616,652]" metricMagnitude="-3" metricUnit="m" metricValue="1.5" pageId="6" pageNumber="207" unit="mm" value="1.5">1.5 mm</quantity>
+. long, golden-yellow with metallic green infuscations on head (cheeks and frontovertex), thorax (mesonotum), and abdomen basally. Antenna! club, eyes and scutellar brush black, legs pallid,. the femora and tibiae slightly fuscous.
+</paragraph>
+<paragraph id="8BFE3696FFFFFFB5FEA56CBBFA588EF4" blockId="6.[297,1700,558,2170]" pageId="6" pageNumber="207">Head approaching the hemispherical in shape, viewed from above nearly circular in outline, from the side the outline is that of an obtuse triangle with the line of the occiput forming the long side and that of the face and the frontovertex respectively the two shorter sides, the respective planes of the frontovertex almost at right angles to each other, the former being horizontal and the latter nearly vertical; the eyes are of moderate size, oval, convex, naked; frontovertex elongate, hourglass-shaped, twice as wide in front and behind as in the middle and six times as long as the width there, with its surface coarsely shagreened; ocelli small, the anterior member marking the.point of an acute angle, the lateral members close to the eye margin and not far from the vertex. Face considerably excavated to form the widely separated antenna! scrobes, central field elevated and convex. Antennae attached not far from the mouth opening, generally cylindrical and rather short and stout, consisting of nine segments (scape, pedicel, six funicle joints, and undivided club). Scape long and slender, somewhat fusiform, reaching beyond the upper margin of the face and to lower margin of eye, pedicel obconic, less than one sixth length of scape, funicle joints all transverse and widening outwardly, the sixth twice as wide as the first, all six together shorter in length than the scape, club still wider at mid length, flattened and equal in length to the funicle, all the joints clothed with short silvery pile; cheeks coextensive with the lower part of frontovertex, rather wide and convex, and shagreened; mandibles short, blunt and three-toothed.</paragraph>
+<paragraph id="8BFE3696FFFFFFB5FEB86B8CF9E38D5B" blockId="6.[297,1700,558,2170]" pageId="6" pageNumber="207">Pronotum short, transverse, convex; mesonotum transverse, twice as wide as long, convex, shagreened and heavily clothed with short, appressed, silver-gray hairs; scutellum scutiform, convex, also clothed with longer, coarser hairs which form a brush at apex; axillae triangular, apices touching in middle line; metanotum transverse, declivous.</paragraph>
+<paragraph id="8BFE3696FFFFFFB5FEA76828F91C8DD7" blockId="6.[297,1700,558,2170]" pageId="6" pageNumber="207">Abdomen roughly ovate, pointed apically, considerably shorter than the thorax, widest at apical margin of first segment, median segments considerably depressed, sparsely clothed with silvery hairs apically. Ovipositor not projecting beyond tip of abdomen.</paragraph>
+<paragraph id="8BFE3696FFFFFFB5FEB868AFF91F8CE4" blockId="6.[297,1700,558,2170]" pageId="6" pageNumber="207">Forewings spatulate, three times as long as wide, marginal vein only half as 1long as submarginal, reaching halfway along costal margin, stigma! and postmarginal short, marginal ciliation short outwardly, a little longer on caudal margin basally, eight to ten longer setaceous hairs on submarginal vein, the discal ciliation close and fine, the disk of wing infumate in outer two thirds almost to apical margin with a short clear streak below stigma. Legs fairly long and stout, the spur on median pair as long as metatarsus.</paragraph>
+<paragraph id="8BFE3696FFFFFFB5FEB969BFFA778348" blockId="6.[297,1700,558,2170]" pageId="6" pageNumber="207">Male: smaller and more dusky, head entirely metallic green, frontovertex wider than in female, wider than eyes but still longer than wide; antennae pallid, filiform, clothed with whorls of long hairs, all the funicle joints twice or more longer than wide, club not enlarged or flattened; wings hyaline, entirely without infumation.</paragraph>
+</subSubSection>
+<subSubSection id="C35B651DFFFFFFB5FEA466FFFC6982AB" pageId="6" pageNumber="207" type="materials_examined">
+<paragraph id="8BFE3696FFFFFFB5FEA466FFFC6982AB" blockId="6.[302,1699,2210,2457]" pageId="6" pageNumber="207">
+<materialsCitation id="3B293CCBFFFFFFB5FEA466FFFC6982AB" ID-GBIF-Occurrence="3333035324" collectedFrom="reared from a Chrysopa cocoon" collectingDate="1936-06-11" collectorName="O. H. Swezey" country="Guam" location="Merizo" pageId="6" pageNumber="207" specimenCount="14" specimenCount-female="5" specimenCount-male="3" typeStatus="holotype (female), allotype (male), paratype (1 male and 3 females)">
+<collectingMunicipality id="6B9AACECFFFFFFB5FEA466FFFDA483FE" box="[364,538,2210,2252]" pageId="6" pageNumber="207">Described</collectingMunicipality>
+from 
+<specimenCount id="9D47FD1FFFFFFFB5FD5A66FFFCD883FE" box="[658,870,2210,2252]" pageId="6" pageNumber="207" type="female">five females</specimenCount>
+and 
+<specimenCount id="9D47FD1FFFFFFFB5FC0B66FFFB3083FE" box="[963,1166,2210,2252]" pageId="6" pageNumber="207" type="male">three males</specimenCount>
+(
+<typeStatus id="54FA8834FFFFFFB5FB7866FFFAF383FE" box="[1200,1357,2210,2252]" pageId="6" pageNumber="207">holotype</typeStatus>
+, 
+<typeStatus id="54FA8834FFFFFFB5FAAB66FFFA5583FE" box="[1379,1515,2210,2252]" pageId="6" pageNumber="207">allotype</typeStatus>
+and 
+<typeStatus id="54FA8834FFFFFFB5F98F66FFFE3183CD" pageId="6" pageNumber="207">paratypes</typeStatus>
+) as follows: 
+<typeStatus id="54FA8834FFFFFFB5FDB06688FCB383CD" box="[632,781,2261,2303]" pageId="6" pageNumber="207">holotype</typeStatus>
+<specimenCount id="9D47FD1FFFFFFFB5FCD36688FC3083CD" box="[795,910,2261,2303]" pageId="6" pageNumber="207" type="female">female</specimenCount>
+and 
+<typeStatus id="54FA8834FFFFFFB5FC2D6688FBD183CD" box="[997,1135,2261,2303]" pageId="6" pageNumber="207">allotype</typeStatus>
+<specimenCount id="9D47FD1FFFFFFFB5FBB26688FB7283CD" box="[1146,1228,2261,2303]" pageId="6" pageNumber="207" type="male">male</specimenCount>
+mounted on a single point, two more points, each with 
+<specimenCount id="9D47FD1FFFFFFFB5FCEF6754FC7B8201" box="[807,965,2313,2355]" pageId="6" pageNumber="207" type="male">one male</specimenCount>
+and 
+<specimenCount id="9D47FD1FFFFFFFB5FBEF6754FB558201" box="[1063,1259,2313,2355]" pageId="6" pageNumber="207" type="female">one female</specimenCount>
+<typeStatus id="54FA8834FFFFFFB5FB326754FA2B8201" box="[1274,1429,2313,2355]" pageId="6" pageNumber="207">paratype</typeStatus>
+, and one point with 
+<specimenCount id="9D47FD1FFFFFFFB5FE436761FDEC8254" box="[395,594,2364,2406]" pageId="6" pageNumber="207" type="female">two female</specimenCount>
+<typeStatus id="54FA8834FFFFFFB5FDAB6761FCB08254" box="[611,782,2364,2406]" pageId="6" pageNumber="207">paratypes</typeStatus>
+, labeled 
+<location id="8E9E604DFFFFFFB5FC796761FB8F8254" LSID="urn:lsid:plazi:treatment:03E88780FFFFFFB5FEE16C73FC6982AB:8E9E604DFFFFFFB5FC796761FB8F8254" box="[945,1073,2364,2406]" municipality="Described" name="Merizo" pageId="6" pageNumber="207">Merizo</location>
+, 
+<date id="FFFF1056FFFFFFB5FB816761FB678254" box="[1097,1241,2364,2406]" pageId="6" pageNumber="207" value="2011-06">
+<collectingDate id="EFBBE9BEFFFFFFB5FB816761FB678254" box="[1097,1241,2364,2406]" pageId="6" pageNumber="207" value="2011-06">June 11</collectingDate>
+</date>
+, reared from a 
+<taxonomicName id="4C414D15FFFFFFB5FA366761F91D8254" authorityName="Leach" authorityYear="1815" box="[1534,1699,2364,2406]" class="Insecta" family="Chrysopidae" genus="Chrysopa" kingdom="Animalia" order="Neuroptera" pageId="6" pageNumber="207" phylum="Arthropoda" rank="genus">
+<emphasis id="B935EA84FFFFFFB5FA366761F91D8254" box="[1534,1699,2364,2406]" italics="true" pageId="6" pageNumber="207">
+<location id="8E9E604DFFFFFFB5FA366761F91D8254" LSID="urn:lsid:plazi:treatment:03E88780FFFFFFB5FEE16C73FC6982AB:8E9E604DFFFFFFB5FA366761F91D8254" box="[1534,1699,2364,2406]" municipality="Described" name="Chrysopa" pageId="6" pageNumber="207">Chrysopa</location>
+</emphasis>
+</taxonomicName>
+cocoon, 
+<collectorName id="26B45340FFFFFFB5FE09672DFDF982AB" box="[449,583,2416,2457]" pageId="6" pageNumber="207">Swezey</collectorName>
+. 
+<location id="8E9E604DFFFFFFB5FDA2672DFD1B82AB" LSID="urn:lsid:plazi:treatment:03E88780FFFFFFB5FEE16C73FC6982AB:8E9E604DFFFFFFB5FDA2672DFD1B82AB" box="[618,677,2416,2457]" municipality="Described" name="Six" pageId="6" pageNumber="207">Six</location>
+<typeStatus id="54FA8834FFFFFFB5FD7E672DFC6C82AB" box="[694,978,2416,2457]" isOtherTypeStatus="true" pageId="6" pageNumber="207">other specimens</typeStatus>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

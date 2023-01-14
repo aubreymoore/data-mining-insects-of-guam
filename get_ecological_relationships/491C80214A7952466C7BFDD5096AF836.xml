@@ -1,0 +1,190 @@
+<document id="28D7FCCFB6D78E0B051C8FB45ED97529" ID-DOI="http://doi.org/10.5281/zenodo.5160297" ID-GBIF-Dataset="1df399c6-c920-4862-81a3-dd51f0a28471" ID-Zenodo-Dep="5160297" checkinTime="1628013120545" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="491C80214A7952466C7BFDD5096AF836" docLanguage="en" docName="InsectsOfGuamI.172.184-187.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pison argentatum" docType="treatment" docVersion="17" lastPageNumber="185" masterDocId="B525F8594A7852476D53FFF00A6FFFD2" masterDocTitle="Wasps of Guam" masterLastPageNumber="187" masterPageNumber="184" pageNumber="185" updateTime="1658951126020" updateUser="aubreymoore">
+<mods:mods id="4373828FB3DBB99785E6E0031E3A9A35" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CB4325BD10249791A966EF0AC84CDC30">
+<mods:title id="6312E600D595323D5EEB21B81AECFA04">Wasps of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="4949470A4DA26D78FC5BAFF57D463FE3" type="personal">
+<mods:role id="EEAC08DB89D9CB1938C93A631EFE187C">
+<mods:roleTerm id="6CB2DF1EE83F28F03E66B54BFE808EBE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F13C83E5C0E03CD94B1A56164E4E0ACE">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="729D1624090FE1AF2867C8DD04858718">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A43290A100291E1B7C7553DFDAFD748F">text</mods:typeOfResource>
+<mods:relatedItem id="31024A5AE8DB2C8A9755B6F3A9AD8790" type="host">
+<mods:originInfo id="B71FDD7A6940B1BBE8E18547D045B0F9">
+<mods:dateIssued id="DBC486626B5CBDBDBCC8700057179963">1942</mods:dateIssued>
+<mods:dateOther id="156C08753EB9294A33A678878ACE0E95" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="76576A914B365FCFB147499F198FF5A0">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="D735696BDC59ACA12163068A236F7E3D">
+<mods:placeTerm id="3EFF524A6B99B0198575B7D843708647">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="4A2614BD5781B7A237891DAE5164568F">
+<mods:title id="A09EBE5924A451F82F0E179D806E2444">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="3F7B3F953CBC9F165E1C024C88F90CBB">
+<mods:extent id="78194D519F70899EEEB2639AC0629354" unit="page">
+<mods:start id="0C0B6EA51F914DB2C0D2FDFE5BAE03B9">184</mods:start>
+<mods:end id="BA4DCAF396D96F880B93EC3C9E027CCB">187</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E76B1870F1788A3B6C80B6B65EC4D2E2">book chapter</mods:classification>
+<mods:identifier id="C7A01F9111F12D9601E56C05268AEA43" type="DOI">http://doi.org/10.5281/zenodo.5160297</mods:identifier>
+<mods:identifier id="9722A410551757D965DBA6881D48A4ED" type="GBIF-Dataset">1df399c6-c920-4862-81a3-dd51f0a28471</mods:identifier>
+<mods:identifier id="FA19287DED33F6CC8131111F27630124" type="Zenodo-Dep">5160297</mods:identifier>
+</mods:mods>
+<treatment id="491C80214A7952466C7BFDD5096AF836" ID-DOI="http://doi.org/10.5281/zenodo.5164318" ID-GBIF-Taxon="184130513" ID-Zenodo-Dep="5164318" LSID="urn:lsid:plazi:treatment:491C80214A7952466C7BFDD5096AF836" httpUri="http://treatment.plazi.org/id/491C80214A7952466C7BFDD5096AF836" lastPageNumber="185" pageId="1" pageNumber="185">
+<subSubSection id="89AF62BC4A7952466C7BFDD509CFFD9C" box="[296,928,549,590]" pageId="1" pageNumber="185" type="nomenclature">
+<paragraph id="C10A31374A7952466C7BFDD509CFFD9C" blockId="1.[296,1694,549,2020]" box="[296,928,549,590]" pageId="1" pageNumber="185">
+<heading id="9A42865B4A7952466C7BFDD509CFFD9C" box="[296,928,549,590]" fontSize="11" level="2" pageId="1" pageNumber="185" reason="2">
+<emphasis id="F3C1ED254A7952466C7BFDD50B29FD9C" bold="true" box="[296,326,549,590]" pageId="1" pageNumber="185">3.</emphasis>
+<taxonomicName id="06B54AB44A7952466C3BFDD509F5FD9C" authority="(Shuckard)" baseAuthorityName="Shuckard" box="[360,922,549,590]" class="Insecta" family="Crabronidae" genus="Pison" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="185" phylum="Arthropoda" rank="species" species="argentatum">
+<emphasis id="F3C1ED254A7952466C3BFDD508C0FD9C" bold="true" box="[360,687,549,590]" pageId="1" pageNumber="185">Pison argentatum</emphasis>
+(Shuckard)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="89AF62BC4A7952466C3BFDAF08E5FD3C" pageId="1" pageNumber="185" type="reference_group">
+<paragraph id="C10A31374A7952466C3BFDAF0C52FD58" blockId="1.[296,1694,549,2020]" box="[360,1597,607,650]" pageId="1" pageNumber="185">
+<treatmentCitationGroup id="E1A516194A7952466C3BFDAF0C52FD58" box="[360,1597,607,650]" pageId="1" pageNumber="185">
+<treatmentCitation id="401417264A7952466C3BFDAF0C52FD58" author="Shuckard" box="[360,1597,607,650]" page="79" pageId="1" pageNumber="185" year="1837">
+<taxonomicName id="06B54AB44A7952466C3BFDAF09E7FD58" authority="Shuckard, Ent. Soc. London, Trans." box="[360,904,607,650]" class="Insecta" family="Larridae" genus="Pisonites" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="185" phylum="Arthropoda" rank="species" species="argentatus">
+<emphasis id="F3C1ED254A7952466C3BFDAF08A0FD58" box="[360,719,607,650]" italics="true" pageId="1" pageNumber="185">Pisonites argentatus</emphasis>
+<bibCitation id="149F395B4A7952466F8DFDAF0C52FD58" author="Shuckard" box="[734,1597,607,650]" journalOrPublisher="Ent. Soc. London, Trans." pageId="1" pageNumber="185" pagination="79" part="2" type="journal article" year="1837">
+<author id="1908D9D24A7952466F8DFDAF09E7FD58" box="[734,904,607,650]" pageId="1" pageNumber="185">Shuckard</author>
+, 
+<journalOrPublisher id="1B743BFB4A7952466ECEFDAF0F0EFD58" box="[925,1377,607,650]" pageId="1" pageNumber="185">Ent. Soc. London, Trans.</journalOrPublisher>
+<emphasis id="F3C1ED254A7952466822FDAF0FECFD58" bold="true" box="[1393,1411,607,650]" pageId="1" pageNumber="185">
+<part id="B5119BAA4A7952466822FDAF0F10FD58" box="[1393,1407,607,650]" pageId="1" pageNumber="185" type="volume">2</part>
+:
+</emphasis>
+<emphasis id="F3C1ED254A79524668F0FDAF0FBBFD58" box="[1443,1492,607,650]" italics="true" pageId="1" pageNumber="185">
+<pagination id="F87CCFC34A79524668F0FDAF0FA1FD58" box="[1443,1486,607,650]" pageId="1" pageNumber="185" type="pagination">79</pagination>
+,
+</emphasis>
+<year id="B51D70644A79524668B5FDAF0C57FD58" box="[1510,1592,607,650]" pageId="1" pageNumber="185">1837</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="C10A31374A7952466C3BFD6B08E5FD3C" blockId="1.[296,1694,549,2020]" pageId="1" pageNumber="185">
+<treatmentCitationGroup id="E1A516194A7952466C3BFD6B08E5FD3C" pageId="1" pageNumber="185">
+<treatmentCitation id="401417264A7952466C3BFD6B08EAFD3C" author="Bingham" page="220" pageId="1" pageNumber="185" year="1897">
+<taxonomicName id="06B54AB44A7952466C3BFD6B09FCFD14" authority="(Shuckard) Bingham, Fauna Brit." authorityName="Bingham, Fauna Brit." baseAuthorityName="Shuckard" box="[360,915,667,710]" class="Insecta" family="Crabronidae" genus="Pison" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="185" phylum="Arthropoda" rank="species" species="argentatum">
+<emphasis id="F3C1ED254A7952466C3BFD6B08C3FD14" box="[360,684,667,710]" italics="true" pageId="1" pageNumber="185">Pison argentatum</emphasis>
+(Shuckard)
+</taxonomicName>
+<bibCitation id="149F395B4A7952466EE2FD6B08E5FD3C" author="Bingham" journalOrPublisher="Fauna Brit. India, Hymenopt." pageId="1" pageNumber="185" pagination="220" part="1" type="journal article" year="1897">
+<author id="1908D9D24A7952466EE2FD6B0E3DFD14" box="[945,1106,667,710]" pageId="1" pageNumber="185">Bingham</author>
+, 
+<journalOrPublisher id="1B743BFB4A7952466922FD6B0CF3FD14" box="[1137,1692,667,710]" pageId="1" pageNumber="185">
+Fauna Brit. 
+<collectingCountry id="B9A271A74A795246680EFD6B0FD4FD14" box="[1373,1467,667,710]" name="India" pageId="1" pageNumber="185">India</collectingCountry>
+, Hymenopt.
+</journalOrPublisher>
+<emphasis id="F3C1ED254A7952466CFAFD3F0BD7FD3C" bold="true" box="[425,440,719,750]" pageId="1" pageNumber="185">
+<part id="B5119BAA4A7952466CFAFD3F0BD7FD3C" box="[425,440,719,750]" pageId="1" pageNumber="185" type="volume">1</part>
+</emphasis>
+: 
+<pagination id="F87CCFC34A7952466C8FFD3F087DFD3C" box="[476,530,719,750]" pageId="1" pageNumber="185" type="pagination">220</pagination>
+, 
+<year id="B51D70644A7952466F61FD3F08EAFD3C" box="[562,645,719,750]" pageId="1" pageNumber="185">1897</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="89AF62BC4A7952466C38FD1F0F17FCBB" pageId="1" pageNumber="185" type="materials_examined">
+<paragraph id="C10A31374A7952466C38FD1F0F17FCBB" blockId="1.[296,1694,549,2020]" pageId="1" pageNumber="185">
+<materialsCitation id="71DD3B6A4A7952466C38FD1F080DFCEF" ID-GBIF-Occurrence="3864422315" box="[363,610,751,829]" collectingDate="1936-04-30" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="1" pageNumber="185">Piti,April30,</materialsCitation>
+<materialsCitation id="71DD3B6A4A7952466F31FD1F0961FCEF" ID-GBIF-Occurrence="3866139306" box="[610,782,751,829]" collectingDate="1936-05-19" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="1" pageNumber="185">May 19,</materialsCitation>
+<materialsCitation id="71DD3B6A4A7952466E5DFD1F0920FCEF" ID-GBIF-Occurrence="3866139302" box="[782,847,751,829]" collectingDate="1936-05-24" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="1" pageNumber="185">24,</materialsCitation>
+<materialsCitation id="71DD3B6A4A7952466E1CFD1F09E3FCEF" ID-GBIF-Occurrence="3866139304" box="[847,908,751,829]" collectingDate="1936-05-30" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="1" pageNumber="185">30;</materialsCitation>
+<materialsCitation id="71DD3B6A4A7952466EDFFD1F0E73FCEF" ID-GBIF-Occurrence="3866139301" box="[908,1052,751,829]" collectingDate="1936-06-01" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="1" pageNumber="185">June 1,</materialsCitation>
+<materialsCitation id="71DD3B6A4A795246694FFD1F0E2CFCEF" ID-GBIF-Occurrence="3866139308" box="[1052,1091,751,829]" collectingDate="1936-06-03" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="1" pageNumber="185">3,</materialsCitation>
+<materialsCitation id="71DD3B6A4A7952466910FD1F0EE6FCEF" ID-GBIF-Occurrence="3866139305" box="[1091,1161,751,829]" collectingDate="1936-05-13" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="1" pageNumber="185">13;</materialsCitation>
+<materialsCitation id="71DD3B6A4A79524669CBFD1F0F72FCEF" ID-GBIF-Occurrence="3866139307" box="[1176,1309,751,829]" collectingDate="1936-07-05" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="1" pageNumber="185">July5,</materialsCitation>
+<materialsCitation id="71DD3B6A4A795246684EFD1F0F32FCEF" ID-GBIF-Occurrence="3866139303" box="[1309,1373,751,829]" collectingDate="1936-07-28" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="1" pageNumber="185">28</materialsCitation>
+; 
+<materialsCitation id="71DD3B6A4A7952466836FD1F0F9CFCEF" ID-GBIF-Occurrence="3864422301" box="[1381,1523,751,829]" collectingDate="1936-08-09" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="1" pageNumber="185">Aug.9;</materialsCitation>
+<materialsCitation id="71DD3B6A4A79524668A0FD1F0CF3FCEF" ID-GBIF-Occurrence="3864422331" box="[1523,1692,751,829]" collectingDate="1936-09-13" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="1" pageNumber="185">Sept.13;</materialsCitation>
+<materialsCitation id="71DD3B6A4A7952466C7FFCCE0BD1FCBB" ID-GBIF-Occurrence="3333898329" box="[300,446,830,873]" collectingDate="1936-10-29" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="1" pageNumber="185">Oct. 29;</materialsCitation>
+<materialsCitation id="71DD3B6A4A7952466C83FCCE09F0FCBB" ID-GBIF-Occurrence="3333898311" box="[464,927,830,873]" collectingDate="1936-11-06" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="1" pageNumber="185">Nov. 6, Swezey, Usinger;</materialsCitation>
+<materialsCitation id="71DD3B6A4A7952466EE1FCCE0F1CFCBB" ID-GBIF-Occurrence="3333898301" box="[946,1395,830,873]" collectingDate="1936-06-11" collectorName="O. H. Swezey" country="Guam" location="Merizo" pageId="1" pageNumber="185">Merizo, June 11, Swezey</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="89AF62BC4A7952466C3BFC8A0BDDF890" pageId="1" pageNumber="185" type="discussion">
+<paragraph id="C10A31374A7952466C3BFC8A0BDDF890" blockId="1.[296,1694,549,2020]" pageId="1" pageNumber="185">
+Among the wasps collected by Fullaway in 
+<collectingCountry id="B9A271A74A79524669E0FC8A0F75FC76" box="[1203,1306,890,932]" name="Guam" pageId="1" pageNumber="185">Guam</collectingCountry>
+in 1911 (in Bishop Museum) there are at least four species of 
+<emphasis id="F3C1ED254A795246690BFC5E0EA9FC05" box="[1112,1222,942,983]" italics="true" pageId="1" pageNumber="185">
+<taxonomicName id="06B54AB44A795246690BFC5E0ED0FC05" box="[1112,1215,942,983]" class="Insecta" family="Crabronidae" genus="Pison" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="185" phylum="Arthropoda" rank="genus">Pison</taxonomicName>
+,
+</emphasis>
+all undetermined, and no 
+<taxonomicName id="06B54AB44A7952466C79FC110849FBD9" box="[298,550,993,1035]" class="Insecta" family="Crabronidae" genus="Pison" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="185" phylum="Arthropoda" rank="species" species="argentatum">
+<emphasis id="F3C1ED254A7952466C79FC110849FBD9" box="[298,550,993,1035]" italics="true" pageId="1" pageNumber="185">P. argentatum</emphasis>
+</taxonomicName>
+among them. In 1936 we procured more specimens of 
+<taxonomicName id="06B54AB44A79524668ABFC110BE0FBEC" class="Insecta" family="Crabronidae" genus="Pison" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="185" phylum="Arthropoda" rank="species" species="argentatum">
+<emphasis id="F3C1ED254A79524668ABFC110BE0FBEC" italics="true" pageId="1" pageNumber="185">P. argentatum</emphasis>
+</taxonomicName>
+than of all the others. We have 
+<specimenCount id="D7B3FABE4A7952466EB9FBE50EBEFBEC" box="[1002,1233,1045,1086]" pageId="1" pageNumber="185" type="generic">21 specimens</specimenCount>
+of 
+<emphasis id="F3C1ED254A7952466847FBE50C74FBEC" box="[1300,1563,1045,1086]" italics="true" pageId="1" pageNumber="185">
+<taxonomicName id="06B54AB44A7952466847FBE50C7AFBEC" box="[1300,1557,1045,1086]" class="Insecta" family="Crabronidae" genus="Pison" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="185" phylum="Arthropoda" rank="species" species="argentatum">P. argentatum</taxonomicName>
+,
+</emphasis>
+all but one from Piti, where they were quite common in and about our residence. The little mud nests were common on walls and in corners of back rooms. These nests are made up of one to six cells in which the wasp stores up small spiders on which its larvae feed. There is considerable parasitism by 
+<emphasis id="F3C1ED254A79524668B0FB110B94FAED" italics="true" pageId="1" pageNumber="185">
+<taxonomicName id="06B54AB44A79524668B0FB110B9AFAED" authorityName="Perkins" authorityYear="1907" class="Insecta" family="Eulophidae" genus="Melittobia" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="185" phylum="Arthropoda" rank="species" species="hawaiiensis">Melittobia hawaiiensis</taxonomicName>
+,
+</emphasis>
+a tiny parasite whose larvae feed externally on the wasp larvae. There may be up to 100 parasite larvae on one wasp larva. On May 19, a nest containing 6 cells was collected on the scale shed at the Agricultural School, Piti, each cell containing a 
+<taxonomicName id="06B54AB44A7952466E44FA410914FA08" box="[791,891,1457,1498]" class="Insecta" family="Crabronidae" genus="Pison" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="185" phylum="Arthropoda" rank="genus">
+<emphasis id="F3C1ED254A7952466E44FA410914FA08" box="[791,891,1457,1498]" italics="true" pageId="1" pageNumber="185">Pison</emphasis>
+</taxonomicName>
+cocoon in which were tiny exit holes where parasites had issued; hence, a parasitism of 100 percent. On September 24, several nests were collected and examined at the residence. These nests totalled 19 cells, the contents of which were: four with dead pisons; one with dead spiders, one with caterpillars stored by 
+<emphasis id="F3C1ED254A7952466E8EF98E0FE7F974" box="[989,1416,1662,1702]" italics="true" pageId="1" pageNumber="185">
+<taxonomicName id="06B54AB44A7952466E8EF98E0FEEF974" baseAuthorityName="Latreille" baseAuthorityYear="1812" box="[989,1409,1662,1702]" class="Insecta" family="Eumenidae" genus="Pachodynerus" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="185" phylum="Arthropoda" rank="species" species="nasidens">Pachodynerus nasidens</taxonomicName>
+;
+</emphasis>
+two with roach egg case; ten had cocoons showing exit holes of 
+<taxonomicName id="06B54AB44A79524669EEF9420FECF909" box="[1213,1411,1714,1755]" pageId="1" pageNumber="185">
+<emphasis id="F3C1ED254A79524669EEF9420FECF909" box="[1213,1411,1714,1755]" italics="true" pageId="1" pageNumber="185">MeZ,ittobia</emphasis>
+</taxonomicName>
+;one had living pupae of 
+<emphasis id="F3C1ED254A7952466C8BF91508FAF8C2" box="[472,661,1765,1808]" italics="true" pageId="1" pageNumber="185">
+<taxonomicName id="06B54AB44A7952466C8BF91508FFF8C2" box="[472,656,1765,1808]" class="Insecta" family="Eulophidae" genus="Melittobia" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="185" phylum="Arthropoda" rank="genus">Melittobia</taxonomicName>
+.
+</emphasis>
+In this nest, the parasitism would have been at least 56 percent.
+</paragraph>
+</subSubSection>
+<subSubSection id="89AF62BC4A7952466C3AF8A4096AF836" pageId="1" pageNumber="185" type="distribution">
+<paragraph id="C10A31374A7952466C3AF8A4096AF836" blockId="1.[296,1694,549,2020]" pageId="1" pageNumber="185">
+This wasp occurs in 
+<collectingCountry id="B9A271A74A7952466FBEF8A409ABF8AC" box="[749,964,1876,1918]" name="Madagascar" pageId="1" pageNumber="185">Madagascar</collectingCountry>
+, 
+<collectingCountry id="B9A271A74A7952466E8CF8A40E52F8AC" box="[991,1085,1876,1918]" name="India" pageId="1" pageNumber="185">India</collectingCountry>
+, 
+<collectingCountry id="B9A271A74A795246690AF8A40F4EF8AC" box="[1113,1313,1876,1918]" name="Philippines" pageId="1" pageNumber="185">Philippines</collectingCountry>
+, and Hawaii. It has undoubtedly become introduced into 
+<collectingCountry id="B9A271A74A7952466E85F8770E52F863" box="[982,1085,1927,1969]" name="Guam" pageId="1" pageNumber="185">Guam</collectingCountry>
+in somewhat recent years, from Hawaii or the 
+<collectingCountry id="B9A271A74A7952466F6BF84C096FF836" box="[568,768,1980,2020]" name="Philippines" pageId="1" pageNumber="185">Philippines</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

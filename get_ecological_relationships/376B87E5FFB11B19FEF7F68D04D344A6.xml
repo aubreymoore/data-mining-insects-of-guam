@@ -1,0 +1,141 @@
+<document id="B65DC10523163E0F5008BD33171715F0" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB11B19FEF7F68D04D344A6" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Eutochia lateralis Gebien, Coleopt." docType="treatment" docVersion="17" lastPageNumber="166" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="165" updateTime="1671396144017" updateUser="ExternalLinkService">
+<mods:mods id="10C14343136210262AA4A0EA110CB61B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B2DC064AA8C5004FF55BABB388D51E14">
+<mods:title id="12EE11A9F0217818F865793A8382BB9F">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="8F6F23400C7470ECD1D2DF9EABC6BE0E" type="personal">
+<mods:role id="1F920771EDDB6F8C3F21C7971FB6D56B">
+<mods:roleTerm id="C5B11936B0FB0BE733C9754D47A2AF4A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E14613F9225000EB527CD167369B1B9B">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="D050E6761D05E7001519DB3BD5841EBF">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="AA4D231C01568B4AAD9BEE31A1A6B9A2">text</mods:typeOfResource>
+<mods:relatedItem id="411AFFA94A9C4CF7F083EDB41839DBBF" type="host">
+<mods:originInfo id="FE7392FA6187091D677BBC520059C632">
+<mods:dateIssued id="A6E2254C232EE4FD013D9BD6A54D2243">1942</mods:dateIssued>
+<mods:dateOther id="8546F45C39E6B5A7B1F43589BB1F3122" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="0454C23A511CDB5CBDA312E717E8C5A3">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="45B7E2A46192261C5455405DA45E2C42">
+<mods:placeTerm id="D8A5404ACFCBC04F9E08AD03E666C0C4">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="4C210055DA792B6F52AE9B4B50D8B424">
+<mods:title id="FB2D0001E33D121480AE201A13B270BF">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="1BB16533701011E232B93ED5804B1DDA">
+<mods:extent id="CADCE0576024A7293BE6AA41356EFEF7" unit="page">
+<mods:start id="8C330AEEB30E133B8F6893582F53CEA5">150</mods:start>
+<mods:end id="72A383926D886DC72F4D385A87D9BFA3">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F54405689B2C10BBEC1717C62B94829D">book chapter</mods:classification>
+<mods:identifier id="43ABBE3228E03589E52FC40F087589CE" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="C7E6938C57E6E9BEF86456224328C74A" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="6689DCF5D5BD784D1513661FD07A4DCB" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB11B19FEF7F68D04D344A6" ID-DOI="http://doi.org/10.5281/zenodo.5195115" ID-GBIF-Taxon="184415353" ID-Zenodo-Dep="5195115" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B19FEF7F68D04D344A6" httpUri="http://treatment.plazi.org/id/376B87E5FFB11B19FEF7F68D04D344A6" lastPageId="16" lastPageNumber="166" pageId="15" pageNumber="165">
+<subSubSection id="F7D86578FFB11B06FEF7F68D04B74F56" box="[301,945,2360,2400]" pageId="15" pageNumber="165" type="nomenclature">
+<paragraph id="BF7D36F3FFB11B06FEF7F68D04B74F56" blockId="15.[301,1476,2360,2504]" box="[301,945,2360,2400]" pageId="15" pageNumber="165">
+*4. 
+<taxonomicName id="78C24D70FFB11B06FEA7F68D04AA4F56" authority="(Boheman)" authorityName="Gebien, Coleopt." baseAuthorityName="Boheman" baseAuthorityYear="1858" box="[381,940,2360,2400]" class="Insecta" family="Tenebrionidae" genus="Eutochia" kingdom="Animalia" order="Coleoptera" pageId="15" pageNumber="165" phylum="Arthropoda" rank="species" species="lateralis">
+<emphasis id="8DB6EAE1FFB11B06FEA7F68D05274F56" bold="true" box="[381,545,2360,2400]" pageId="15" pageNumber="165">Eutochia</emphasis>
+lateralis (Boheman)
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB11B06FEB1F6DF02734FA3" box="[363,1397,2410,2453]" pageId="15" pageNumber="165" type="reference_group">
+<paragraph id="BF7D36F3FFB11B06FEB1F6DF02734FA3" blockId="15.[301,1476,2360,2504]" box="[363,1397,2410,2453]" pageId="15" pageNumber="165">
+<treatmentCitationGroup id="9FD211DDFFB11B06FEB1F6DF02734FA3" box="[363,1397,2410,2453]" pageId="15" pageNumber="165">
+<bibCitation id="6AE83E9FFFB11B06FEB1F6DF02734FA3" author="Boheman" box="[363,1397,2410,2453]" pageId="15" pageNumber="165" pagination="94" refId="ref8281" title="Eugenies Resa" type="book" year="1858">
+<treatmentCitation id="3E6310E2FFB11B06FEB1F6DF02764FA3" author="Boheman" box="[363,1392,2410,2453]" page="94" pageId="15" pageNumber="165" year="1858">
+<emphasis id="8DB6EAE1FFB11B06FEB1F6DF05EF4FA3" box="[363,745,2410,2453]" italics="true" pageId="15" pageNumber="165">Heterophaga lateralis</emphasis>
+<author id="677FDE16FFB11B06FD20F6DF04A64FA3" box="[762,928,2410,2453]" pageId="15" pageNumber="165">Boheman</author>
+, 
+<title id="CDC6DDC5FFB11B06FC62F6DF03C64FA3" box="[952,1216,2410,2453]" pageId="15" pageNumber="165">Eugenies Resa</title>
+, 
+<pagination id="860BC807FFB11B06FB0DF6DF02054FA3" box="[1239,1283,2410,2453]" pageId="15" pageNumber="165" type="pageRange">94</pagination>
+, 
+<year id="CB6A77A0FFB11B06FAC4F6DF02764FA3" box="[1310,1392,2410,2453]" pageId="15" pageNumber="165">1858</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB11B19FEB0F62A040C441F" lastPageId="16" lastPageNumber="166" pageId="15" pageNumber="165" type="materials_examined">
+<paragraph id="BF7D36F3FFB11B19FEB0F62A040C441F" blockId="15.[301,1476,2360,2504]" lastBlockId="16.[437,1832,407,656]" lastPageId="16" lastPageNumber="166" pageId="15" pageNumber="165">
+<bibCitation id="6AE83E9FFFB11B19FEB0F62A040C441F" author="Gebien" lastPageId="16" lastPageNumber="166" pageId="15" pageNumber="165" pagination="408" part="28" refId="ref8292" title="Coleopt. Catalog." type="book" year="1911">
+<treatmentCitationGroup id="9FD211DDFFB11B06FEB0F62A019F4FFE" box="[362,1689,2463,2504]" pageId="15" pageNumber="165">
+<treatmentCitation id="3E6310E2FFB11B06FEB0F62A019F4FFE" author="Gebien" box="[362,1689,2463,2504]" page="408" pageId="15" pageNumber="165" year="1911">
+<emphasis id="8DB6EAE1FFB11B06FEB0F62A05A54FFE" box="[362,675,2463,2504]" italics="true" pageId="15" pageNumber="165">Eutochia lateralis</emphasis>
+(Boheman) 
+<author id="677FDE16FFB11B06FC46F62A03104FFE" box="[924,1046,2463,2504]" pageId="15" pageNumber="165">Gebien</author>
+, 
+<title id="CDC6DDC5FFB11B06FBE8F62A02584FFE" box="[1074,1374,2463,2504]" pageId="15" pageNumber="165">Coleopt. Catalog.</title>
+(
+<part id="CB669C6EFFB11B06FA5FF62A02B44FFE" box="[1413,1458,2463,2504]" pageId="15" pageNumber="165" type="volume">28</part>
+): 
+<pagination id="860BC807FFB11B06FA32F615012E4FFE" box="[1512,1576,2464,2504]" pageId="15" pageNumber="165" type="pageRange">408</pagination>
+, 
+<year id="CB6A77A0FFB11B06F99CF615019F4FFE" box="[1606,1689,2464,2504]" pageId="15" pageNumber="165">1911</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+<materialsCitation id="0FAA3CAEFFAE1B19FE2FFE2205DD47F5" ID-GBIF-Occurrence="3994733304" box="[501,731,407,451]" collectingDate="1936-07-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="16" pageNumber="166">
+<location id="BA1D6028FFAE1B19FE2FFE22053E47F5" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B19FEF7F68D04D344A6:BA1D6028FFAE1B19FE2FFE22053E47F5" box="[501,568,407,451]" name="Piti" pageId="16" pageNumber="166">Piti</location>
+, 
+<date id="CB7C1033FFAE1B19FD95FE2205D247F5" box="[591,724,407,451]" pageId="16" pageNumber="166" value="1927-07">
+<collectingDate id="DB38E9DBFFAE1B19FD95FE2205D247F5" box="[591,724,407,451]" pageId="16" pageNumber="166" value="1927-07">
+July 
+<emphasis id="8DB6EAE1FFAE1B19FD73FE2205DD47F5" box="[681,731,407,451]" italics="true" pageId="16" pageNumber="166">27,</emphasis>
+</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAE1B19FD36FE22029D47F5" ID-GBIF-Occurrence="3994733303" box="[748,1435,407,451]" collectedFrom="in rotten sugar cane" collectingDate="1936-10-23" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="16" pageNumber="166">
+Oct. 23, in rotten sugar cane, 
+<collectorName id="12375325FFAE1B19FAD2FE22029247F5" box="[1288,1428,407,451]" pageId="16" pageNumber="166">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAE1B19FA77FE2201A447F5" ID-GBIF-Occurrence="3994027404" box="[1453,1698,407,451]" collectingDate="1936-09-28" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="16" pageNumber="166">
+<location id="BA1D6028FFAE1B19FA77FE2202E947F5" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B19FEF7F68D04D344A6:BA1D6028FFAE1B19FA77FE2202E947F5" box="[1453,1519,407,451]" name="Piti" pageId="16" pageNumber="166">Piti</location>
+, 
+<date id="CB7C1033FFAE1B19F9D3FE22019D47F5" box="[1545,1691,407,451]" pageId="16" pageNumber="166" value="1928-09">
+<collectingDate id="DB38E9DBFFAE1B19F9D3FE22019D47F5" box="[1545,1691,407,451]" pageId="16" pageNumber="166" value="1928-09">Sept. 28</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAE1B19F969FE22023947C1" ID-GBIF-Occurrence="3994027508" collectedFrom="under coconut husk and stones in pasture" collectingDate="1936-10-06" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="16" pageNumber="166">
+<date id="CB7C1033FFAE1B19F969FE22002747F5" box="[1715,1825,407,451]" pageId="16" pageNumber="166">
+<collectingDate id="DB38E9DBFFAE1B19F969FE22002747F5" box="[1715,1825,407,451]" pageId="16" pageNumber="166">Oct. 6</collectingDate>
+</date>
+, under coconut husk and stones in pasture, 
+<collectorName id="12375325FFAE1B19FB71FE79023E47C1" box="[1195,1336,460,503]" pageId="16" pageNumber="166">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAE1B19FA94FE79040C441F" ID-GBIF-Occurrence="3334692397" collectedFrom="in dead corn stalk" collectingDate="1936-11-18" collectorName="O. H. Swezey" country="Guam" location="Talofofo" pageId="16" pageNumber="166">
+<location id="BA1D6028FFAE1B19FA94FE7902E947C1" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B19FEF7F68D04D344A6:BA1D6028FFAE1B19FA94FE7902E947C1" box="[1358,1519,460,503]" name="Talofofo" pageId="16" pageNumber="166">Talofofo</location>
+, 
+<date id="CB7C1033FFAE1B19F9DCFE79019247C1" box="[1542,1684,460,503]" pageId="16" pageNumber="166" value="2018-11">
+<collectingDate id="DB38E9DBFFAE1B19F9DCFE79019247C1" box="[1542,1684,460,503]" pageId="16" pageNumber="166" value="2018-11">Nov. 18</collectingDate>
+</date>
+, in dead corn stalk, 
+<collectorName id="12375325FFAE1B19FDA4FE4A0403441F" box="[638,773,511,553]" pageId="16" pageNumber="166">Swezey</collectorName>
+.
+</materialsCitation>
+</bibCitation>
+</paragraph>
+</subSubSection>
+<paragraph id="BF7D36F3FFB11B06F943F61501984FFE" blockId="15.[1512,1694,2464,2504]" box="[1689,1694,2464,2504]" pageId="15" pageNumber="165">.</paragraph>
+<subSubSection id="F7D86578FFAE1B19FE2EFD8704D344A6" pageId="16" pageNumber="166" type="distribution">
+<paragraph id="BF7D36F3FFAE1B19FE2EFD8704D344A6" blockId="16.[437,1832,407,656]" pageId="16" pageNumber="166">
+A common widely distributed species, described from 
+<collectingCountry id="C7D57663FFAE1B19FA17FD87018C4468" box="[1485,1674,562,606]" name="Hong Kong" pageId="16" pageNumber="166">Hongkong</collectingCountry>
+. Occurs in Hawaii and the 
+<collectingCountry id="C7D57663FFAE1B19FCD3FDD304D644A6" box="[777,976,614,656]" name="Philippines" pageId="16" pageNumber="166">Philippines</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

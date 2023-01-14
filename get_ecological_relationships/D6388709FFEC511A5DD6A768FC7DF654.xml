@@ -1,0 +1,82 @@
+<document id="2607047317931E8DD167A8D25BE731FA" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFEC511A5DD6A768FC7DF654" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Deretiosus Pascoe 1871" docType="treatment" docVersion="11" lastPageNumber="101" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="101" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="0C5099C9602AF053832CFC0C66D590B5" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="A31C2E3E9088A185EBE7A19191A6EF47">
+<mods:title id="04A0EA5DCBCCA6424B0B38F093D0D07A">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="556C7C81B483E3B10F4BD3BB622151A1" type="personal">
+<mods:role id="567E39F6FF58BBFA5641944D0C5D5604">
+<mods:roleTerm id="15300069EFE12B6277FE1672AA530699">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="48F55A54EA7BDEDE03186CA3F8FA638D">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="41FD5B2FEB7808EBD4EA52E801690579">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C73EA2ACC11ADD89E9299694C4D85458">text</mods:typeOfResource>
+<mods:relatedItem id="E580F8405B010A921302986A71F16A7B" type="host">
+<mods:originInfo id="7C58FAAA5F2A35E2115B3CE21916922E">
+<mods:dateIssued id="493A715A799386FE56FA94982E6CCCC0">1942</mods:dateIssued>
+<mods:dateOther id="4C18E7D48916862A6E97051E69D71A16" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="A4235D79E135272C1A35C0BEBE294812">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="6EAEFE5155BAAA172C31E9E7322FE95A">
+<mods:placeTerm id="C54B0BB9AA8718EC9FEBD54A5F76B364">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="B39A561C4EF28CEEA7037BE23BD8EBC5">
+<mods:title id="E069EB12017912DE377A54749C2EBD1C">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="B119E59015C1F9A326407A448FCB4433">
+<mods:extent id="E1649FFD9C1A92F100F63CFC4D8BE61B" unit="page">
+<mods:start id="E504E2609707F1FFA8F5F40FEC9F085B">73</mods:start>
+<mods:end id="EBC808F8C07A006A28E036158C5C948A">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="0C2189ED1DCB55C25D4562E6DFC4C8DB">book chapter</mods:classification>
+<mods:identifier id="EB35B2F4C69C9A6DD021C56F4A83B771" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="34F0F208D020E2D49650708FDE927E93" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="59C17EA243885C0D1529606B92CEB40A" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFEC511A5DD6A768FC7DF654" ID-DOI="http://doi.org/10.5281/zenodo.5163933" ID-GBIF-Taxon="184097849" ID-Zenodo-Dep="5163933" LSID="urn:lsid:plazi:treatment:D6388709FFEC511A5DD6A768FC7DF654" httpUri="http://treatment.plazi.org/id/D6388709FFEC511A5DD6A768FC7DF654" lastPageNumber="101" pageId="28" pageNumber="101">
+<subSubSection id="168B6594FFEC511A5DD6A768FAD1F7CA" box="[653,1323,2098,2140]" pageId="28" pageNumber="101" type="nomenclature">
+<paragraph id="5E2E361FFFEC511A5DD6A768FAD1F7CA" blockId="28.[653,1323,2098,2140]" box="[653,1323,2098,2140]" pageId="28" pageNumber="101">
+<heading id="05668173FFEC511A5DD6A768FAD1F7CA" box="[653,1323,2098,2140]" centered="true" fontSize="8" level="2" pageId="28" pageNumber="101" reason="3">
+Genus 
+<taxonomicName id="99914D9CFFEC511A5C55A768FAD1F7CA" authority="Pascoe, 1871" authorityName="Pascoe" authorityYear="1871" box="[782,1323,2098,2140]" class="Insecta" family="Curculionidae" genus="Deretiosus" kingdom="Animalia" order="Coleoptera" pageId="28" pageNumber="101" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFEC511A5C55A768FBCBF7CA" bold="true" box="[782,1073,2098,2140]" pageId="28" pageNumber="101">DERETIOSUS</emphasis>
+Pascoe, 1871
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFEC511A5E3AA7D2FC7DF654" pageId="28" pageNumber="101" type="discussion">
+<paragraph id="5E2E361FFFEC511A5E3AA7D2FC7DF654" blockId="28.[291,1686,2184,2498]" pageId="28" pageNumber="101">
+This sophrorhine genus contains many species and is distributed from New 
+<collectingCountry id="2686768FFFEC511A5ED3A7E5FDFFF771" box="[392,517,2239,2279]" name="Guinea-Bissau" pageId="28" pageNumber="101">Guinea</collectingCountry>
+eastward as far as 
+<collectingCountry id="2686768FFFEC511A5CDAA7E5FC06F771" box="[897,1020,2239,2279]" name="Samoa" pageId="28" pageNumber="101">Samoa</collectingCountry>
+, westward to the 
+<collectingCountry id="2686768FFFEC511A5A09A7E5F9DAF771" box="[1362,1568,2239,2279]" name="Philippines" pageId="28" pageNumber="101">Philippines</collectingCountry>
+, Java, and Sumatra and south into 
+<collectingCountry id="2686768FFFEC511A5C19A7AFFC0AF689" box="[834,1008,2293,2335]" name="Australia" pageId="28" pageNumber="101">Australia</collectingCountry>
+. One other Micronesian species has been described; it is 
+<taxonomicName id="99914D9CFFEC511A5DE6A676FAF4F6C2" authority="con. color Zimmerman" authorityName="Pascoe" authorityYear="1871" box="[701,1294,2348,2388]" class="Insecta" family="Curculionidae" genus="Deretiosus" kingdom="Animalia" order="Coleoptera" pageId="28" pageNumber="101" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFEC511A5DE6A676FBDBF6C2" box="[701,1057,2348,2388]" italics="true" pageId="28" pageNumber="101">Deretiosus con.color</emphasis>
+Zimmerman
+</taxonomicName>
+, 1938, from 
+<collectingCountry id="2686768FFFEC511A5950A676F975F6C2" box="[1547,1679,2348,2388]" name="Micronesia" pageId="28" pageNumber="101">Ponape</collectingCountry>
+, 
+<collectingCountry id="2686768FFFEC511A5E7FA63BFDAEF61A" box="[292,596,2401,2444]" name="Micronesia" pageId="28" pageNumber="101">Caroline Islands</collectingCountry>
+; and I have recorded the New Guinean 
+<taxonomicName id="99914D9CFFEC511A5A0BA63BFE8EF654" authority="Lea, 1928" authorityName="Lea" authorityYear="1928" class="Insecta" family="Curculionidae" genus="Deretiosus" kingdom="Animalia" order="Coleoptera" pageId="28" pageNumber="101" phylum="Arthropoda" rank="species" species="subaridus">
+<emphasis id="6CE5EA0DFFEC511A5A0BA63BF9CCF61A" box="[1360,1590,2401,2444]" italics="true" pageId="28" pageNumber="101">D. subaridus</emphasis>
+Lea, 1928
+</taxonomicName>
+from 
+<collectingCountry id="2686768FFFEC511A5EB2A6CDFDBCF654" box="[489,582,2455,2498]" name="Micronesia" pageId="28" pageNumber="101">Truk</collectingCountry>
+, 
+<collectingCountry id="2686768FFFEC511A5D05A6CDFC78F654" box="[606,898,2455,2498]" name="Micronesia" pageId="28" pageNumber="101">Caroline Islands</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

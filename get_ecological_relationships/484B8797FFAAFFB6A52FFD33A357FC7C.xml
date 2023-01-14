@@ -1,0 +1,105 @@
+<document id="0C4A07CE4059A02B79D39F66007C3024" ID-DOI="http://doi.org/10.5281/zenodo.5127686" ID-GBIF-Dataset="7b960500-f4a3-4b8f-8b56-440fdc9431c9" ID-Zenodo-Dep="5127686" checkinTime="1626977897655" checkinUser="carolina" docAuthor="O. H. Swezey" docDate="1946" docId="484B8797FFAAFFB6A52FFD33A357FC7C" docLanguage="en" docName="InsectsOfGuamII.189.195-200.pdf.imf" docOrigin="Insects of Guam-II, Hawaii, Honolulu: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Scholastes aitapensis Malloch" docType="treatment" docVersion="16" lastPageNumber="199" masterDocId="B472FFEFFFAEFFB2A40BFFD9A227FFD1" masterDocTitle="SOME MISCELLANEOUS DIPTERA OF GUAM" masterLastPageNumber="200" masterPageNumber="195" pageNumber="199" updateTime="1659539279702" updateUser="annettekang">
+<mods:mods id="A24DACA4AD4D5045E8B4CA634F77ED9A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="1D2CB9FE3A0DC0D0ECC8ACC80E06590B">
+<mods:title id="C3B0329E591BD3081829A8DC55C5269C">SOME MISCELLANEOUS DIPTERA OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="F0694CAEE5A42DF941DBC8DCA9E195B5" type="personal">
+<mods:role id="9B4B585BED1D138C7BE4385A59F0B9FA">
+<mods:roleTerm id="240CEC668E6C38AC7276C19EFA9CE33E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="240679B1FBE2919B384C36CA53AFCD2A">O. H. Swezey</mods:namePart>
+<mods:affiliation id="3AF6BE06538C4CC434763990ECF4DC8E">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="3DEF8DB12F8F67BA5E4787BF35F5B598">text</mods:typeOfResource>
+<mods:relatedItem id="EC4012B286A8632C3411CDF91EA6E36E" type="host">
+<mods:originInfo id="523FEF89B2F79BECE1E5054DD9571EE2">
+<mods:dateIssued id="4E21AAF43BACB86FDD888B9868ACFF37">1946</mods:dateIssued>
+<mods:dateOther id="3F60691D4C526B4AD54F79D48E588537" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="C5553E099AB4849C2F9836CCA9DAFE0F">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="95FB5450DAA2ED708100E7C6189530B6">
+<mods:placeTerm id="E210BA68C51EB1784FAF2C30B2DBA5BF">Hawaii, Honolulu</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="7004E80A26ABACBD3237845713DE1EF4">
+<mods:title id="9369F4815EBFCC10D8EBDEA9749A0117">Insects of Guam-II</mods:title>
+</mods:titleInfo>
+<mods:part id="6AD105E938A2106BD8B80A280426878D">
+<mods:extent id="5A54B8A60C38AE8F1ED337EAD20816F1" unit="page">
+<mods:start id="8D2E1DA8A373B575CCCC48E79166E8C5">195</mods:start>
+<mods:end id="651C753077779F79DCDE606AB64C97B9">200</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="227DFB3E76AE1352568616DDB053C946">book chapter</mods:classification>
+<mods:identifier id="BC5BF1D4AB51E32E0BB8B3D150544E95" type="DOI">http://doi.org/10.5281/zenodo.5127686</mods:identifier>
+<mods:identifier id="D3D294AEC81D098DCF480974B90A9BEC" type="GBIF-Dataset">7b960500-f4a3-4b8f-8b56-440fdc9431c9</mods:identifier>
+<mods:identifier id="EA84C92FD74BFCC3D54CE6D894C6631C" type="Zenodo-Dep">5127686</mods:identifier>
+</mods:mods>
+<treatment id="484B8797FFAAFFB6A52FFD33A357FC7C" ID-DOI="http://doi.org/10.5281/zenodo.5128329" ID-GBIF-Taxon="184459689" ID-Zenodo-Dep="5128329" LSID="urn:lsid:plazi:treatment:484B8797FFAAFFB6A52FFD33A357FC7C" httpUri="http://treatment.plazi.org/id/484B8797FFAAFFB6A52FFD33A357FC7C" lastPageNumber="199" pageId="4" pageNumber="199">
+<paragraph id="C05D3681FFAAFFB6A52FFD33A783FC96" blockId="4.[288,1687,746,941]" pageId="4" pageNumber="199">
+<subSubSection id="88F8650AFFAAFFB6A52FFD33A19EFCC2" box="[292,953,746,787]" pageId="4" pageNumber="199" type="nomenclature">
+<emphasis id="F296EA93FFAAFFB6A52FFD33A12DFCC2" bold="true" box="[292,778,746,787]" pageId="4" pageNumber="199">
+18. * 
+<taxonomicName id="07E24D02FFAAFFB6A58DFD33A194FCC2" authority="(Malloch)" box="[390,947,746,787]" class="Insecta" family="Otitidae" genus="Scholastes" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="199" phylum="Arthropoda" rank="genus">
+Scholastes aitapensis 
+<author id="185FDE64FFAAFFB6A716FD33A194FCC2" box="[797,947,746,787]" pageId="4" pageNumber="199">Malloch</author>
+</taxonomicName>
+</emphasis>
+,
+</subSubSection>
+<subSubSection id="88F8650AFFAAFFB6A7C6FD33A783FC96" pageId="4" pageNumber="199" type="reference_group">
+<treatmentCitationGroup id="E0F211AFFFAAFFB6A7C6FD33A7B8FC96" pageId="4" pageNumber="199">
+<bibCitation id="15C83EEDFFAAFFB6A7C6FD33A088FC96" author="Malloch" journalOrPublisher="Linn. Soc. N. S. Wales, Proc" pageId="4" pageNumber="199" part="64" refId="ref1889" type="journal volume" year="1939">
+<treatmentCitation id="41431090FFAAFFB6A7C6FD33A4B7FCC2" box="[973,1680,746,787]" pageId="4" pageNumber="199">
+<journalOrPublisher id="1A233C4DFFAAFFB6A7C6FD33A7D5FCC2" box="[973,1522,746,787]" pageId="4" pageNumber="199">
+Linn. Soc. N. S. 
+<collectingCountry id="B8F57611FFAAFFB6A107FD33A758FCC2" box="[1292,1407,746,787]" name="United Kingdom" pageId="4" pageNumber="199">Wales</collectingCountry>
+, Proc
+</journalOrPublisher>
+. 
+<emphasis id="F296EA93FFAAFFB6A201FD33A464FCC2" bold="true" box="[1546,1603,746,787]" pageId="4" pageNumber="199">
+<part id="B4469C1CFFAAFFB6A201FD33A415FCC2" box="[1546,1586,746,787]" pageId="4" pageNumber="199" type="volume">64</part>
+:
+</emphasis>
+128
+</treatmentCitation>
+, pl. 5, fig. 24, 
+<year id="B44A77D2FFAAFFB6A65CFCC5A088FC96" box="[599,687,796,839]" pageId="4" pageNumber="199">1939</year>
+</bibCitation>
+; 
+<bibCitation id="15C83EEDFFAAFFB6A6C2FCC5A7B8FC96" author="Malloch" box="[713,1439,796,839]" journalOrPublisher="B. P. Bishop Mus., Bull." pageId="4" pageNumber="199" pagination="207" part="172" refId="ref1917" type="journal article" year="1942">
+<journalOrPublisher id="1A233C4DFFAAFFB6A6C2FCC5A6AFFC96" box="[713,1160,796,839]" pageId="4" pageNumber="199">B. P. Bishop Mus., Bull.</journalOrPublisher>
+<emphasis id="F296EA93FFAAFFB6A091FCC5A6F4FC96" bold="true" box="[1178,1235,796,839]" pageId="4" pageNumber="199">
+<part id="B4469C1CFFAAFFB6A091FCC5A6E8FC96" box="[1178,1231,796,839]" pageId="4" pageNumber="199" type="volume">172</part>
+:
+</emphasis>
+<emphasis id="F296EA93FFAAFFB6A0F8FCC5A71EFC96" box="[1267,1337,796,839]" italics="true" pageId="4" pageNumber="199">
+<pagination id="F92BC875FFAAFFB6A0F8FCC5A714FC96" box="[1267,1331,796,839]" pageId="4" pageNumber="199" type="pagination">207</pagination>
+,
+</emphasis>
+<year id="B44A77D2FFAAFFB6A146FCC5A7B8FC96" box="[1357,1439,796,839]" pageId="4" pageNumber="199">1942</year>
+</bibCitation>
+</treatmentCitationGroup>
+.
+</subSubSection>
+</paragraph>
+<subSubSection id="88F8650AFFAAFFB6A56BFC96A357FC7C" pageId="4" pageNumber="199" type="materials_examined">
+<paragraph id="C05D3681FFAAFFB6A56BFC96A357FC7C" blockId="4.[288,1687,746,941]" pageId="4" pageNumber="199">
+<materialsCitation id="708A3CDCFFAAFFB6A56BFC96A357FC7C" ID-GBIF-Occurrence="3334698304" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="4" pageNumber="199" specimenCount="2">
+Two 
+<specimenCount id="D6E4FD08FFAAFFB6A5CAFC96A052FCAB" box="[449,629,847,890]" pageId="4" pageNumber="199" type="generic">specimens</specimenCount>
+in 
+<collectingMunicipality id="2039ACFBFFAAFFB6A6BCFC96A1C6FCAB" box="[695,993,847,890]" pageId="4" pageNumber="199">Bishop Museum</collectingMunicipality>
+, labeled 
+<collectorName id="6D175357FFAAFFB6A088FC96A430FCAB" box="[1155,1559,847,890]" pageId="4" pageNumber="199">
+<emphasis id="F296EA93FFAAFFB6A088FC96A7A1FCAB" box="[1155,1414,847,890]" italics="true" pageId="4" pageNumber="199">S. bimaculatus</emphasis>
+Hendel
+</collectorName>
+, 
+<location id="C53D605AFFAAFFB6A225FC96A34CFC7C" LSID="urn:lsid:plazi:treatment:484B8797FFAAFFB6A52FFD33A357FC7C:C53D605AFFAAFFB6A225FC96A34CFC7C" municipality="Bishop Museum" name="Fullaway" pageId="4" pageNumber="199">Fullaway</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

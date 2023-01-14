@@ -1,0 +1,86 @@
+<document id="8BCAB92CAC4C87AEC60D2349EA43CAA6" ID-DOI="http://doi.org/10.5281/zenodo.5160233" ID-GBIF-Dataset="16f6ef92-619b-417b-946c-22d9b1445e7d" ID-Zenodo-Dep="5160233" checkinTime="1628022546680" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="2C76878DFF9FFFF6BE56F9A8FC44F91D" docLanguage="en" docName="InsectsOfGuamII.189.3-8.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docTitle="Gryllotalpa africana Beauvois, Ins. Rec." docType="treatment" docVersion="16" lastPageNumber="5" masterDocId="D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8" masterDocTitle="Orthoptera And Related Orders Orthoptera And Related Orders Of Guam" masterLastPageNumber="8" masterPageNumber="3" pageNumber="5" updateTime="1657636930491" updateUser="annettekang">
+<mods:mods id="49BF935AA281A78D082A5C296BEEA253" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="3CB648F3358E95DCA072D2878FB032ED">
+<mods:title id="4FC248F50581B9AA780D4C53DE1705A5">Orthoptera And Related Orders Orthoptera And Related Orders Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="A416BA8E9541AC6658E118A91121CF2A" type="personal">
+<mods:role id="6CCCA791350DB12EBD4711FFA5BEAFA8">
+<mods:roleTerm id="6F5F8E28D189DEFFEAA69D0912B404B5">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="0EC746FFC5098E8978F8EB26ABB26071">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="E154DA5A0D102BAFE77608707FA57C9E">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="F3ADF3DBD238C20DE4EB66D391A56B8D">text</mods:typeOfResource>
+<mods:relatedItem id="058E21E704E27AF6807DA8B8A407DC0B" type="host">
+<mods:originInfo id="3F2DF2EEED7DCACC8DD6671E6D6C00BC">
+<mods:dateIssued id="186A5009F3413AAA260D904D77D18E89">1946</mods:dateIssued>
+<mods:dateOther id="6D2329A8889492B154B7C5691A0A5115" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="045AA855208EA887AEEFCE81F4210752">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="220198B04D533CC7C858D605177995AE">
+<mods:placeTerm id="159BB737AB25217438569DA88BC91E84">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="1A0ED58308735ABA27FB481832363CA9">
+<mods:title id="454A8FF94F480A7D2F7DA41A20246F53">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="B89B702B10D6BE8AA0201EE86B97C1BC">
+<mods:extent id="BCE6E5643809287935E6A4F80B25DC25" unit="page">
+<mods:start id="F80A720C54565D6F927CC16BDBDFF730">3</mods:start>
+<mods:end id="732FC9F6223B7B72D1363DD517B29DAD">8</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="BBC562BB7319F8F3FA075D33871CC44E">book chapter</mods:classification>
+<mods:identifier id="036B24A75A67F2B517C38E22814281ED" type="DOI">http://doi.org/10.5281/zenodo.5160233</mods:identifier>
+<mods:identifier id="C5137FF6926383443C3619B25DC09E40" type="GBIF-Dataset">16f6ef92-619b-417b-946c-22d9b1445e7d</mods:identifier>
+<mods:identifier id="200E27495EBE8E9BCAB7E57D53BA403A" type="Zenodo-Dep">5160233</mods:identifier>
+</mods:mods>
+<treatment id="2C76878DFF9FFFF6BE56F9A8FC44F91D" ID-DOI="http://doi.org/10.5281/zenodo.5208342" ID-GBIF-Taxon="183924934" ID-Zenodo-Dep="5208342" LSID="urn:lsid:plazi:treatment:2C76878DFF9FFFF6BE56F9A8FC44F91D" httpUri="http://treatment.plazi.org/id/2C76878DFF9FFFF6BE56F9A8FC44F91D" lastPageNumber="5" pageId="2" pageNumber="5">
+<subSubSection id="ECC56510FF9FFFF6BE56F9A8FC0AF9F4" box="[318,945,1538,1580]" pageId="2" pageNumber="5" type="nomenclature">
+<paragraph id="A460369BFF9FFFF6BE56F9A8FC0AF9F4" blockId="2.[318,1715,1538,1733]" box="[318,945,1538,1580]" pageId="2" pageNumber="5">
+<heading id="FF2881F7FF9FFFF6BE56F9A8FC0AF9F4" box="[318,945,1538,1580]" centered="true" fontSize="11" level="2" pageId="2" pageNumber="5" reason="2">
+9. 
+<taxonomicName id="63DF4D18FF9FFFF6BE16F9A8FC11F9F4" authority="Beauvois, Ins. Rec." authorityName="Beauvois, Ins. Rec." box="[382,938,1538,1580]" class="Insecta" family="Gryllidae" genus="Gryllotalpa" kingdom="Animalia" order="Orthoptera" pageId="2" pageNumber="5" phylum="Arthropoda" rank="species" species="africana">
+<emphasis id="96ABEA89FF9FFFF6BE16F9A8FD49F9F4" bold="true" box="[382,754,1538,1580]" pageId="2" pageNumber="5">Gryllotalpa africana</emphasis>
+<author id="7C62DE7EFF9FFFF6BC6BF9A8FC11F9F4" box="[771,938,1538,1580]" pageId="2" pageNumber="5">Beauvois</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9FFFF6BCABF9A8F908F9F4" box="[963,1715,1538,1580]" pageId="2" pageNumber="5" type="reference_group">
+<paragraph id="A460369BFF9FFFF6BCABF9A8F908F9F4" blockId="2.[318,1715,1538,1733]" box="[963,1715,1538,1580]" pageId="2" pageNumber="5">
+<treatmentCitationGroup id="84CF11B5FF9FFFF6BCABF9A8F908F9F4" box="[963,1715,1538,1580]" pageId="2" pageNumber="5">
+<treatmentCitation id="257E108AFF9FFFF6BCABF9A8F908F9F4" author="Beauvois" box="[963,1715,1538,1580]" page="229" pageId="2" pageNumber="5" year="1805">
+<bibCitation id="71F53EF7FF9FFFF6BCABF9A8F908F9F4" author="Beauvois" box="[963,1715,1538,1580]" journalOrPublisher="Ins. Rec. Africa and America" pageId="2" pageNumber="5" pagination="229" refId="ref1258" type="book" year="1805">
+<journalOrPublisher id="7E1E3C57FF9FFFF6BCABF9A8FA52F9F4" box="[963,1513,1538,1580]" pageId="2" pageNumber="5">Ins. Rec. Africa and America</journalOrPublisher>
+, 
+<pagination id="9D16C86FFF9FFFF6B968F9A8F9FBF9F4" box="[1536,1600,1538,1580]" pageId="2" pageNumber="5">229</pagination>
+, 
+<year id="D07777C8FF9FFFF6B933F9A8F915F9F4" box="[1627,1710,1538,1580]" pageId="2" pageNumber="5">1805</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9FFFF6BE15F99EFC44F91D" pageId="2" pageNumber="5" type="description">
+<paragraph id="A460369BFF9FFFF6BE15F99EFC44F91D" blockId="2.[318,1715,1538,1733]" pageId="2" pageNumber="5">
+This widely distributed mole cricket was not previously recorded in 
+<collectingCountry id="DCC8760BFF9FFFF6B929F99EF916F987" box="[1601,1709,1588,1631]" name="Guam" pageId="2" pageNumber="5">Guam</collectingCountry>
+. We saw very little of it or its work. 
+<materialsCitation id="14B73CC6FF9FFFF6BCAEF9C2F910F94A" ID-GBIF-Occurrence="3855283302" box="[966,1707,1640,1682]" collectingDate="1936-05-09" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="2" pageNumber="5" specimenCount="1">
+One came to light at 
+<collectingMunicipality id="4404ACE1FF9FFFF6BA5EF9C2FAC3F94A" box="[1334,1400,1640,1682]" pageId="2" pageNumber="5">Piti</collectingMunicipality>
+, 
+<date id="D061105BFF9FFFF6BAE6F9C2FA44F94A" box="[1422,1535,1640,1682]" pageId="2" pageNumber="5">
+<collectingDate id="C025E9B3FF9FFFF6BAE6F9C2FA44F94A" box="[1422,1535,1640,1682]" pageId="2" pageNumber="5">May 9</collectingDate>
+</date>
+, 
+<location id="A1006040FF9FFFF6B97CF9C2F910F94A" LSID="urn:lsid:plazi:treatment:2C76878DFF9FFFF6BE56F9A8FC44F91D:A1006040FF9FFFF6B97CF9C2F910F94A" box="[1556,1707,1640,1682]" municipality="Piti" name="Usinger" pageId="2" pageNumber="5">Usinger</location>
+</materialsCitation>
+; Fullaway (1304). It occurs in Hawaii.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

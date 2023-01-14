@@ -1,0 +1,132 @@
+<document id="B870E7469D72C6BE49556BBFE3A364EB" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8DFFE3E4CDFA728D2FF895" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Trichogramma nanum" docType="treatment" docVersion="14" lastPageNumber="218" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="218" updateTime="1664203411617" updateUser="annettekang">
+<mods:mods id="6D636BE283070C726ECFF0D841A166B2" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="D6EF9C94567665161C6D84E8E6C51314">
+<mods:title id="8F81AFB1519EC04642A86443237F12CF">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="601CEC9D1D5526B082D79B3559BD02C5" type="personal">
+<mods:role id="B8C41D0EA589275C1FD784CF74C2C778">
+<mods:roleTerm id="1494A00620BCCCAE83452C9AF5F53900">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A0DB5F3EF606E96382CBE59A82D9725D">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="48E884FDA11F8D21BF3A9A2D58E6C252">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="1A5AD597700B175E2D8871A24BFB1738">text</mods:typeOfResource>
+<mods:relatedItem id="D031FD0CFA79AEA617DA69AFFC81C26A" type="host">
+<mods:originInfo id="34DCF6807EE8D98AAB2F6B0CC29A9B3E">
+<mods:dateIssued id="F60CF087E61995C6746931E063E1DCAA">1946</mods:dateIssued>
+<mods:dateOther id="7710B6850976916905AB1BCB09949408" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="28F4B48BFD6718FD5B678EB0153D1AA3">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="F1AB20838CC0E50D7E7F34966225DEEB">
+<mods:placeTerm id="3605B091C6BA307C4F54BA3D3A25B58E">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="2C368BE87D3568905BBA1735C4A905CB">
+<mods:title id="3722D099D525569E2011A7AAFEFA67B8">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="2CC91E009762DAC31A10891C5D15B65D">
+<mods:extent id="947910E1C4552E10A1F1BCC50AB12AD6" unit="page">
+<mods:start id="1BA4835B09262A1295188B5F643AD0DC">211</mods:start>
+<mods:end id="BA79B039196842AC7B628786A7D88862">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="43AF0E4D9C72B696F6A954FA0ED0D339">book chapter</mods:classification>
+<mods:identifier id="6518D5E451D0FA0BFA400C6177DCE0D6" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="70DEA7754C8B86657E5FAC6C8B3BA5B5" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="A193B814A93208C821CD8A67C9994EEE" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8DFFE3E4CDFA728D2FF895" ID-DOI="http://doi.org/10.5281/zenodo.5227123" ID-GBIF-Taxon="187737409" ID-Zenodo-Dep="5227123" LSID="urn:lsid:plazi:treatment:7376EC19FF8DFFE3E4CDFA728D2FF895" httpUri="http://treatment.plazi.org/id/7376EC19FF8DFFE3E4CDFA728D2FF895" lastPageNumber="218" pageId="7" pageNumber="218">
+<subSubSection id="B3C50E84FF8DFFE3E4CDFA728BF8F9DA" box="[462,1190,1502,1544]" pageId="7" pageNumber="218" type="nomenclature">
+<paragraph id="FB605D0FFF8DFFE3E4CDFA728BF8F9DA" blockId="7.[462,1860,1502,1863]" box="[462,1190,1502,1544]" pageId="7" pageNumber="218">
+<heading id="A028EA63FF8DFFE3E4CDFA728BF8F9DA" box="[462,1190,1502,1544]" fontSize="8" level="2" pageId="7" pageNumber="218" reason="4">
+<emphasis id="C9AB811DFF8DFFE3E4CDFA728D5EF9DA" bold="true" box="[462,512,1502,1544]" pageId="7" pageNumber="218">57.</emphasis>
+<taxonomicName id="3CDF268CFF8DFFE3E722FA728BFEF9DA" authority="(Zehntner)" baseAuthorityName="Zehntner" box="[545,1184,1502,1544]" class="Insecta" family="Trichogrammatidae" genus="Trichogramma" kingdom="Animalia" order="Hymenoptera" pageId="7" pageNumber="218" phylum="Arthropoda" rank="species" species="nanum">
+<emphasis id="C9AB811DFF8DFFE3E722FA728CE0F9DA" bold="true" box="[545,958,1502,1544]" pageId="7" pageNumber="218">Trichogramma nanum</emphasis>
+(Zehntner)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8DFFE3E70DF9BC89A1F9BD" pageId="7" pageNumber="218" type="reference_group">
+<paragraph id="FB605D0FFF8DFFE3E70DF9BC89A1F9BD" blockId="7.[462,1860,1502,1863]" pageId="7" pageNumber="218">
+<bibCitation id="2EF55563FF8DFFE3E70DF9BC89A1F9BD" author="Zehntner" journalOrPublisher="Arch. voor de Java-Suikerindustrie" pageId="7" pageNumber="218" pagination="400" part="4" refId="ref3334" type="journal article" year="1896">
+<treatmentCitationGroup id="DBCF7A21FF8DFFE3E70DF9BC8C92F9BD" pageId="7" pageNumber="218">
+<treatmentCitation id="7A7E7B1EFF8DFFE3E70DF9BC8C92F9BD" author="Zehntner" page="400" pageId="7" pageNumber="218" year="1896">
+<emphasis id="C9AB811DFF8DFFE3E70DF9BC8C0BF9E9" box="[526,853,1552,1595]" italics="true" pageId="7" pageNumber="218">Chaetosticha nana</emphasis>
+<author id="2362B5EAFF8DFFE3E669F9BC8B53F9E9" box="[874,1037,1552,1595]" pageId="7" pageNumber="218">Zehntner</author>
+, 
+<journalOrPublisher id="211E57C3FF8DFFE3E129F9BC89E8F9E9" box="[1066,1718,1552,1595]" pageId="7" pageNumber="218">Arch. voor de Java-Suikerindustrie</journalOrPublisher>
+<emphasis id="C9AB811DFF8DFFE3E3C9F9BC89B1F9E9" bold="true" box="[1738,1775,1552,1595]" pageId="7" pageNumber="218">
+<part id="8F7BF792FF8DFFE3E3C9F9BC89B6F9E9" box="[1738,1768,1552,1595]" pageId="7" pageNumber="218" type="volume">4</part>
+:
+</emphasis>
+<pagination id="C216A3FBFF8DFFE3E3FFF9BC8863F9E9" box="[1788,1853,1552,1595]" pageId="7" pageNumber="218" type="pagination">400</pagination>
+, pl. 5, figs. 9-11, 
+<year id="8F771C5CFF8DFFE3E677F9EF8C99F9BD" box="[884,967,1603,1647]" pageId="7" pageNumber="218">1896</year>
+.
+</treatmentCitation>
+</treatmentCitationGroup>
+(The figure is labeled 
+<emphasis id="C9AB811DFF8DFFE3E07FF9EF89A1F9BD" box="[1404,1791,1603,1647]" italics="true" pageId="7" pageNumber="218">Trichogramma nana.)</emphasis>
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8DFFE3E70DF92C8D2FF895" pageId="7" pageNumber="218" type="materials_examined">
+<paragraph id="FB605D0FFF8DFFE3E70DF92C8D2FF895" blockId="7.[462,1860,1502,1863]" pageId="7" pageNumber="218">
+<materialsCitation id="4BB75752FF8DFFE3E70DF92C881DF979" ID-GBIF-Occurrence="3901040305" box="[526,1859,1664,1707]" collectedFrom="ex eggs of Cosmolyce boeticus on Crotalaria " collectingDate="1936-06-14" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="7" pageNumber="218">
+<collectingMunicipality id="1B04C775FF8DFFE3E70DF92C8D9FF979" box="[526,705,1664,1707]" pageId="7" pageNumber="218">Barrigada</collectingMunicipality>
+, 
+<date id="8F617BCFFF8DFFE3E7D4F92C8C3BF979" box="[727,869,1664,1707]" pageId="7" pageNumber="218" value="2014-06">
+<collectingDate id="9F258227FF8DFFE3E7D4F92C8C3BF979" box="[727,869,1664,1707]" pageId="7" pageNumber="218" value="2014-06">June 14</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8DFFE3E67FF92C8CFBF979" box="[892,933,1664,1707]" pageId="7" pageNumber="218" type="generic">ex</specimenCount>
+<specimenCount id="EDD99686FF8DFFE3E6B6F92C8B5FF979" box="[949,1025,1664,1707]" pageId="7" pageNumber="218" type="egg">eggs</specimenCount>
+of 
+<location id="FE000BD4FF8DFFE3E144F92C89C7F979" LSID="urn:lsid:plazi:treatment:7376EC19FF8DFFE3E4CDFA728D2FF895:FE000BD4FF8DFFE3E144F92C89C7F979" box="[1095,1689,1664,1707]" municipality="Barrigada" name="Cosmolyce boeticus on Crotalaria" pageId="7" pageNumber="218">
+<taxonomicName id="3CDF268CFF8DFFE3E144F92C8AC0F979" authorityName="Toxopeus" authorityYear="1927" box="[1095,1438,1664,1707]" class="Insecta" family="Lycaenidae" genus="Cosmolyce" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="7" pageNumber="218" phylum="Arthropoda" rank="genus">
+<emphasis id="C9AB811DFF8DFFE3E144F92C8AC0F979" box="[1095,1438,1664,1707]" italics="true" pageId="7" pageNumber="218">Cosmolyce boeticus</emphasis>
+</taxonomicName>
+on 
+<taxonomicName id="3CDF268CFF8DFFE3E0E6F92C8862F979" authority=", Swezey" authorityName="Swezey" box="[1509,1852,1664,1707]" class="Magnoliopsida" family="Fabaceae" genus="Crotalaria" kingdom="Plantae" order="Fabales" pageId="7" pageNumber="218" phylum="Tracheophyta" rank="genus">
+<emphasis id="C9AB811DFF8DFFE3E0E6F92C89C1F979" box="[1509,1695,1664,1707]" italics="true" pageId="7" pageNumber="218">Crotalaria,</emphasis>
+<collectorName id="562A38D9FF8DFFE3E3ACF92C8862F979" box="[1711,1852,1664,1707]" pageId="7" pageNumber="218">Swezey</collectorName>
+</taxonomicName>
+</location>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8DFFE3E4D3F9188D9DF90D" ID-GBIF-Occurrence="3901040399" box="[464,707,1716,1759]" collectingDate="1936-10-10" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="218">
+<collectingMunicipality id="1B04C775FF8DFFE3E4D3F9188D4DF90D" box="[464,531,1716,1759]" pageId="7" pageNumber="218">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF8DFFE3E731F9188DE2F90D" box="[562,700,1716,1759]" pageId="7" pageNumber="218" value="2010-10">
+<collectingDate id="9F258227FF8DFFE3E731F9188DE2F90D" box="[562,700,1716,1759]" pageId="7" pageNumber="218" value="2010-10">Oct. 10</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="4BB75752FF8DFFE3E7DFF9188C55F90D" ID-GBIF-Occurrence="3901040326" box="[732,779,1716,1759]" collectingDate="1936-10-11" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="218">11,</materialsCitation>
+<materialsCitation id="4BB75752FF8DFFE3E623F9188D2FF895" ID-GBIF-Occurrence="3901040343" collectedFrom="ex egg of Catopsilia crocale (Cramer) on Cassia grandis" collectingDate="1936-10-28" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="218" specimenCount="3">
+28, 
+<specimenCount id="EDD99686FF8DFFE3E669F9188CCDF90D" box="[874,915,1716,1759]" pageId="7" pageNumber="218" type="generic">ex</specimenCount>
+<specimenCount id="EDD99686FF8DFFE3E6ABF9188CAAF90D" box="[936,1012,1716,1759]" pageId="7" pageNumber="218" type="egg">eggs</specimenCount>
+of 
+<taxonomicName id="3CDF268CFF8DFFE3E144F9188918F90D" authorityName="Hubner" authorityYear="1819" box="[1095,1606,1716,1759]" class="Insecta" family="Pieridae" genus="Catopsilia" kingdom="Animalia" order="Lepidoptera" pageId="7" pageNumber="218" phylum="Arthropoda" rank="genus">
+<emphasis id="C9AB811DFF8DFFE3E144F9188ADDF90D" box="[1095,1411,1716,1759]" italics="true" pageId="7" pageNumber="218">Catopsilia crocale</emphasis>
+(Cramer)
+</taxonomicName>
+on leaves of 
+<taxonomicName id="3CDF268CFF8DFFE3E4D2F94B8CDCF8C0" authority=", Swezey. Two" authorityName="Swezey. Two" box="[465,898,1767,1810]" class="Magnoliopsida" family="Fabaceae" genus="Cassia" kingdom="Plantae" order="Fabales" pageId="7" pageNumber="218" phylum="Tracheophyta" rank="species" species="grandis">
+<emphasis id="C9AB811DFF8DFFE3E4D2F94B8D80F8C0" box="[465,734,1767,1810]" italics="true" pageId="7" pageNumber="218">Cassia grandis,</emphasis>
+<collectorName id="562A38D9FF8DFFE3E7F5F94B8C23F8C0" box="[758,893,1767,1810]" pageId="7" pageNumber="218">Swezey</collectorName>
+.
+</taxonomicName>
+<location id="FE000BD4FF8DFFE3E6A2F94B8CACF8C0" LSID="urn:lsid:plazi:treatment:7376EC19FF8DFFE3E4CDFA728D2FF895:FE000BD4FF8DFFE3E6A2F94B8CACF8C0" box="[929,1010,1767,1810]" country="United States of America" name="Two" pageId="7" pageNumber="218">Two</location>
+slide mounts, one retained in 
+<collectingCountry id="83C81D9FFF8DFFE3E330F94B89C8F8C0" box="[1587,1686,1767,1810]" name="United States of America" pageId="7" pageNumber="218">U. S.</collectingCountry>
+<location id="FE000BD4FF8DFFE3E3ADF94B8D32F895" LSID="urn:lsid:plazi:treatment:7376EC19FF8DFFE3E4CDFA728D2FF895:FE000BD4FF8DFFE3E3ADF94B8D32F895" country="United States of America" name="National Museum" pageId="7" pageNumber="218">National Museum</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

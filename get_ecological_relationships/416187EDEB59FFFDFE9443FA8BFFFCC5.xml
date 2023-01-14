@@ -1,0 +1,152 @@
+<document id="C8135A5F114425E5977D2414409B2F07" ID-DOI="http://doi.org/10.5281/zenodo.5174008" ID-GBIF-Dataset="62345736-dcf6-4c38-a870-36a90992dabb" ID-Zenodo-Dep="5174008" checkinTime="1628020725273" checkinUser="carolina" docAuthor="Metcalf, Z. P." docDate="1946" docId="416187EDEB59FFFDFE9443FA8BFFFCC5" docLanguage="en" docName="InsectsOfGuamII.189.105-148.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Myndus bifurcatus, new species" docType="treatment" docVersion="12" lastPageNumber="107" masterDocId="BD58FF95EB59FFFFFFB04B578875FD6D" masterDocTitle="Homoptera, Fulgoroidea and Jassoidea of Guam" masterLastPageNumber="148" masterPageNumber="105" pageNumber="105" updateTime="1660144623724" updateUser="annettekang">
+<mods:mods id="7C27B111345F14EECAFA53F9C1A46B4A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="119A647FC7718DEB0B4927B03BDA9907">
+<mods:title id="546E3A029D213FB76A41844BDEB8EFE7">Homoptera, Fulgoroidea and Jassoidea of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="6FEAF7BC09F5B8A11B6674F9DA76DF11" type="personal">
+<mods:role id="583FEA6C937E1C8A2B455B9BCA80B121">
+<mods:roleTerm id="ADADFAB2CA0B5920A0E39EC91361F9AA">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="0C11C932EAB4994E8229BA2D7E1B2D4C">Metcalf, Z. P.</mods:namePart>
+<mods:affiliation id="68592E7D48D78B35BA77AB26B6ADA9C6">College of Agriculture and Engineering, University of North Carolins</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="12A167F5953F721BEBA2242A9EACFDA6">text</mods:typeOfResource>
+<mods:relatedItem id="50E66F20D892EC2F230A295AD80BD16C" type="host">
+<mods:originInfo id="4B9175205DB8CA06459FB93387906E5E">
+<mods:dateIssued id="32574033D8615426C6E1EC551196814C">1946</mods:dateIssued>
+<mods:dateOther id="15193582CADDE11EE84C87C77EFE6200" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="E9D62D9D8DDBACE34FAE55464B91DA38">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="DD61094FB149976F046AC7872E178389">
+<mods:placeTerm id="7371892DC9BAB5B5CBD3345A1592F81D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="BBF479795B1695DD09BA00A1277EC198">
+<mods:title id="A2F0370174DF8A28D1E74057044625BA">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="C5642EC656EE426E4EB51C1D8FF1C28B">
+<mods:extent id="DA0E5AA0B3C1D7C7C682C3E66CD37517" unit="page">
+<mods:start id="88393F700655D311EC99D84DE54C3B0F">105</mods:start>
+<mods:end id="859F94451FCD6F024BF89737163D2561">148</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="421C2E4A50C7BF8568F298AFBD612096">book chapter</mods:classification>
+<mods:identifier id="B86BA2E2DF907BEB7050A92E084A80B8" type="DOI">http://doi.org/10.5281/zenodo.5174008</mods:identifier>
+<mods:identifier id="64DE5AE69108B40DE882A92D5C52F452" type="GBIF-Dataset">62345736-dcf6-4c38-a870-36a90992dabb</mods:identifier>
+<mods:identifier id="C223A94ED5D5EFCBC6E8B584B69AAA67" type="Zenodo-Dep">5174008</mods:identifier>
+</mods:mods>
+<treatment id="416187EDEB59FFFDFE9443FA8BFFFCC5" ID-DOI="http://doi.org/10.5281/zenodo.5188119" ID-GBIF-Taxon="184008953" ID-Zenodo-Dep="5188119" LSID="urn:lsid:plazi:treatment:416187EDEB59FFFDFE9443FA8BFFFCC5" httpUri="http://treatment.plazi.org/id/416187EDEB59FFFDFE9443FA8BFFFCC5" lastPageId="2" lastPageNumber="107" pageId="0" pageNumber="105">
+<subSubSection id="81D26570EB59FFFFFE9443FA8CE1F5BA" box="[292,1172,2221,2263]" pageId="0" pageNumber="105" type="nomenclature">
+<paragraph id="C97736FBEB59FFFFFE9443FA8CE1F5BA" blockId="0.[290,1688,2221,2482]" box="[292,1172,2221,2263]" pageId="0" pageNumber="105">
+<heading id="923F8197EB59FFFFFE9443FA8CE1F5BA" box="[292,1172,2221,2263]" fontSize="11" level="2" pageId="0" pageNumber="105" reason="2">
+<emphasis id="FBBCEAE9EB59FFFFFE9443FA8AB1F5BA" bold="true" box="[292,708,2221,2263]" pageId="0" pageNumber="105">
+1. 
+<taxonomicName id="0EC84D78EB59FFFFFED143FA8AC8F5BA" authority="METCALF" box="[353,701,2221,2263]" class="Insecta" family="Cixiidae" genus="Myndus" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="105" phylum="Arthropoda" rank="species" species="bifurcatus" status="new species">Myndus bifurcatus</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="E08F5792EB59FFFFFD6343FA8BD0F5BA" box="[723,933,2221,2263]" pageId="0" pageNumber="105" rank="species">new species</taxonomicNameLabel>
+(
+<figureCitation id="51F32A7EEB59FFFFFC7543FA8C51F5BA" box="[965,1060,2221,2263]" captionStart="FIGURE 1" captionStartId="1.[481,590,2201,2237]" captionTargetBox="[577,1651,791,2176]" captionText="FIGURE 1.-Myndus lnfurcatus: a, frontal view; b,dorsal view of head and thorax; c, lateral view of male genitalia; d, ventral view of male genitalia." figureDoi="http://doi.org/10.5281/zenodo.5174013" httpUri="https://zenodo.org/record/5174013/files/figure.png" pageId="0" pageNumber="105">
+fig. 
+<emphasis id="FBBCEAE9EB59FFFFFBA243FA8C51F5BA" bold="true" box="[1042,1060,2221,2263]" pageId="0" pageNumber="105">1</emphasis>
+</figureCitation>
+, 
+<emphasis id="FBBCEAE9EB59FFFFFB8C43FA8CE1F5BA" box="[1084,1172,2221,2263]" italics="true" pageId="0" pageNumber="105">a-d).</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB59FFFEFED643B78E6CFF84" lastPageId="1" lastPageNumber="106" pageId="0" pageNumber="105" type="description">
+<paragraph id="C97736FBEB59FFFFFED643B78D35F416" blockId="0.[290,1688,2221,2482]" pageId="0" pageNumber="105">Crown broad and rather short, conspicuously narrowed anteriorly with a transverse carina at the anterior margin of the eyes and a second transverse carina at the anterior margin of the crown. Face broad, the lateral margins strongly elevated; the median carina strongly elevated dorsad, rather faintly elevated on the ventral half.</paragraph>
+<paragraph id="C97736FBEB59FFFFFEEE42C18C2FF4DF" blockId="0.[290,1688,2221,2482]" box="[350,1114,2454,2482]" pageId="0" pageNumber="105">1 Numbers in parentheses refer to Bibliography, page 147.</paragraph>
+<paragraph id="C97736FBEB58FFFEFE524A2C8BA5FF78" blockId="1.[414,1810,379,745]" pageId="1" pageNumber="106">Male pygofer short and broad with a median elongate triangular tooth on the posterior border; genital styles elongate, bifurcate at the apex; aedeagus complex with two elongate apical spines which are strongly depressed; anal segment short, broadly reflexed ventrad; anal style elongate, conical.</paragraph>
+<paragraph id="C97736FBEB58FFFEFE5349768B79FFD4" blockId="1.[414,1810,379,745]" pageId="1" pageNumber="106">General color quite variable, usually tawny olive, sometimes face and mesonotum blackish brown; legs and venter sometimes cinnamon-buff; compound eyes blackish; abdomen usually cinnamon, sometimes blackish; tegmina yellowish translucent with the apical fourth infuscated.</paragraph>
+<paragraph id="C97736FBEB58FFFEFE5249918E6CFF84" blockId="1.[414,1810,379,745]" box="[482,1561,710,745]" pageId="1" pageNumber="106">
+Length: to apex of abdomen, 
+<quantity id="0E309B1EEB58FFFEFC7549918C36FF84" box="[965,1091,710,745]" metricMagnitude="-3" metricUnit="m" metricValue="2.4" pageId="1" pageNumber="106" unit="mm" value="2.4">2.4 mm</quantity>
+.; to apex of tegmina, 
+<quantity id="0E309B1EEB58FFFEFA1049918E60FF84" box="[1440,1557,710,745]" metricMagnitude="-3" metricUnit="m" metricValue="3.6" pageId="1" pageNumber="106" unit="mm" value="3.6">3.6 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<caption id="9DB76673EB58FFFEFE5143CE8DA0F58E" ID-DOI="http://doi.org/10.5281/zenodo.5174013" ID-Zenodo-Dep="5174013" httpUri="https://zenodo.org/record/5174013/files/figure.png" pageId="1" pageNumber="106" startId="1.[481,590,2201,2237]" targetBox="[577,1651,791,2176]" targetPageId="1">
+<paragraph id="C97736FBEB58FFFEFE5143CE8DA0F58E" blockId="1.[415,1807,2201,2275]" pageId="1" pageNumber="106">
+FIGURE 
+<emphasis id="FBBCEAE9EB58FFFEFDED43CE8BB7F5D0" box="[605,962,2201,2237]" italics="true" pageId="1" pageNumber="106">
+1.- 
+<taxonomicName id="0EC84D78EB58FFFEFDCB43CE8B7BF5D0" box="[635,782,2201,2237]" class="Insecta" family="Cixiidae" genus="Myndus" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="106" phylum="Arthropoda" rank="genus">Myndus</taxonomicName>
+lnfurcatus:
+</emphasis>
+a, frontal view; b,dorsal view of head and thorax; c, lateral view of male genitalia; d, ventral view of male genitalia.
+</paragraph>
+</caption>
+<subSubSection id="81D26570EB58FFFEFE6D42768A95F489" pageId="1" pageNumber="106" type="description">
+<paragraph id="C97736FBEB58FFFEFE6D42768A95F489" blockId="1.[413,1810,2337,2532]" pageId="1" pageNumber="106">
+<materialsCitation id="79A03CA6EB58FFFEFE6D42768E1DF426" ID-GBIF-Occurrence="3332978364" box="[477,1640,2337,2379]" collectedFrom="from Pandanus" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="1" pageNumber="106" specimenCount-male="1" typeStatus="holotype">
+<typeStatus id="16738859EB58FFFEFE6D42768AF3F426" box="[477,646,2337,2379]" pageId="1" pageNumber="106">Holotype</typeStatus>
+male, 
+<location id="CC176020EB58FFFEFCA542768BA4F426" LSID="urn:lsid:plazi:treatment:416187EDEB59FFFDFE9443FA8BFFFCC5:CC176020EB58FFFEFCA542768BA4F426" box="[789,977,2337,2379]" county="Ritidian Point" municipality="Mt. Alifan" name="Machanao" pageId="1" pageNumber="106">Machanao</location>
+, 
+<date id="BD76103BEB58FFFEFC4042768C07F426" box="[1008,1138,2337,2379]" pageId="1" pageNumber="106">
+<collectingDate id="AD32E9D3EB58FFFEFC4042768C07F426" box="[1008,1138,2337,2379]" pageId="1" pageNumber="106">June 4</collectingDate>
+</date>
+, 
+<collectedFrom id="7AD47506EB58FFFEFB2342768DC7F426" box="[1171,1458,2337,2379]" pageId="1" pageNumber="106">
+from 
+<taxonomicName id="0EC84D78EB58FFFEFAB242768E14F426" authority=", Swezey" authorityName="Swezey" box="[1282,1633,2337,2379]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="1" pageNumber="106" phylum="Tracheophyta" rank="genus">
+<emphasis id="FBBCEAE9EB58FFFEFAB242768DCCF426" box="[1282,1465,2337,2379]" italics="true" pageId="1" pageNumber="106">Pandanus,</emphasis>
+<collectorName id="643D532DEB58FFFEFA6342768E14F426" box="[1491,1633,2337,2379]" pageId="1" pageNumber="106">Swezey</collectorName>
+</taxonomicName>
+</collectedFrom>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB58FFFEF93242768D02F413" ID-GBIF-Occurrence="3332978323" collectedFrom="from Macaranga" collectingDate="1936-05-21" collectorName="R. L. Usinger" country="Guam" location="Mount Alifan" pageId="1" pageNumber="106" specimenCount-female="1" typeStatus="allotype">
+<typeStatus id="16738859EB58FFFEF93242768F64F426" box="[1666,1809,2337,2379]" pageId="1" pageNumber="106">allotype</typeStatus>
+female, 
+<location id="CC176020EB58FFFEFD9C42038A99F413" LSID="urn:lsid:plazi:treatment:416187EDEB59FFFDFE9443FA8BFFFCC5:CC176020EB58FFFEFD9C42038A99F413" box="[556,748,2388,2430]" county="Ritidian Point" municipality="Mt. Alifan" name="Mt. Alifan" pageId="1" pageNumber="106">Mt. Alifan</location>
+, 
+<date id="BD76103BEB58FFFEFCB142038BF3F413" box="[769,902,2388,2430]" pageId="1" pageNumber="106" value="2021-05">
+<collectingDate id="AD32E9D3EB58FFFEFCB142038BF3F413" box="[769,902,2388,2430]" pageId="1" pageNumber="106" value="2021-05">May 21</collectingDate>
+</date>
+, 
+<collectedFrom id="7AD47506EB58FFFEFC2C42038CB3F413" box="[924,1222,2388,2430]" pageId="1" pageNumber="106">
+from 
+<taxonomicName id="0EC84D78EB58FFFEFC4D42038D05F413" authority=", Usinger" authorityName="Usinger" box="[1021,1392,2388,2430]" class="Magnoliopsida" family="Euphorbiaceae" genus="Macaranga" kingdom="Plantae" order="Malpighiales" pageId="1" pageNumber="106" phylum="Tracheophyta" rank="genus">
+<emphasis id="FBBCEAE9EB58FFFEFC4D42038CB9F413" box="[1021,1228,2388,2430]" italics="true" pageId="1" pageNumber="106">Macaranga,</emphasis>
+<collectorName id="643D532DEB58FFFEFB6942038D05F413" box="[1241,1392,2388,2430]" pageId="1" pageNumber="106">Usinger</collectorName>
+</taxonomicName>
+</collectedFrom>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB58FFFEFA3442038A0BF4DD" ID-GBIF-Occurrence="3332978390" collectingDate="1936" collectorName="R. L. Usinger" country="Guam" location="Mount Alifan" pageId="1" pageNumber="106" specimenCount-male="3" typeStatus="paratype">
+<typeStatus id="16738859EB58FFFEFA3442038E42F413" box="[1412,1591,2388,2430]" pageId="1" pageNumber="106">paratypes</typeStatus>
+: 
+<location id="CC176020EB58FFFEF9FB42038F7EF413" LSID="urn:lsid:plazi:treatment:416187EDEB59FFFDFE9443FA8BFFFCC5:CC176020EB58FFFEF9FB42038F7EF413" box="[1611,1803,2388,2430]" county="Ritidian Point" municipality="Mt. Alifan" name="Mt. Alifan" pageId="1" pageNumber="106">Mt. Alifan</location>
+, 
+<specimenCount id="DFCEFD72EB58FFFEFE2D42DF8A02F4DD" box="[413,631,2440,2480]" pageId="1" pageNumber="106" type="male">three males</specimenCount>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB58FFFEFD2642DF8CE4F4DD" ID-GBIF-Occurrence="3332978383" box="[662,1169,2440,2480]" collectingDate="1936" collectorName="R. L. Usinger" country="Guam" location="Orote Peninsula" pageId="1" pageNumber="106" specimenCount-male="1">
+<location id="CC176020EB58FFFEFD2642DF8BB5F4DD" LSID="urn:lsid:plazi:treatment:416187EDEB59FFFDFE9443FA8BFFFCC5:CC176020EB58FFFEFD2642DF8BB5F4DD" box="[662,960,2440,2480]" county="Ritidian Point" municipality="Mt. Alifan" name="Orote Peninsula" pageId="1" pageNumber="106">Orote Peninsula</location>
+, 
+<specimenCount id="DFCEFD72EB58FFFEFC6D42DF8CFFF4DD" box="[989,1162,2440,2480]" pageId="1" pageNumber="106" type="male">one male</specimenCount>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB58FFFEFB1942DF8E19F4DD" ID-GBIF-Occurrence="3332978374" box="[1193,1644,2440,2480]" collectingDate="1936" collectorName="R. L. Usinger" country="Guam" location="Mount Alifan" pageId="1" pageNumber="106" specimenCount-female="6">
+<collectingMunicipality id="2913AC81EB58FFFEFB1942DF8D07F4DD" box="[1193,1394,2440,2480]" pageId="1" pageNumber="106">Mt. Alifan</collectingMunicipality>
+, 
+<specimenCount id="DFCEFD72EB58FFFEFA3E42DF8E10F4DD" box="[1422,1637,2440,2480]" pageId="1" pageNumber="106" type="female">six females</specimenCount>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB58FFFEF93442DF8A95F489" ID-GBIF-Occurrence="3332978303" collectingDate="1936" collectorName="R. L. Usinger" country="Guam" location="Ritidian Point" pageId="1" pageNumber="106" specimenCount-female="1">
+<collectingCounty id="20164E77EB58FFFEF93442DF8A74F489" pageId="1" pageNumber="106">Ritidian Point</collectingCounty>
+, 
+<specimenCount id="DFCEFD72EB58FFFEFDA842EB8AAEF489" box="[536,731,2492,2532]" pageId="1" pageNumber="106" type="female">one female</specimenCount>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB5BFFFDFEE44A1B8BFFFCC5" pageId="2" pageNumber="107" type="description">
+<paragraph id="C97736FBEB5BFFFDFEE44A1B8BFFFCC5" blockId="2.[276,1672,332,424]" pageId="2" pageNumber="107">This species has the tegmina infuscate on the apical fourth, and the genital styles of the male bifurcate apically.</paragraph>
+</subSubSection>
+</treatment>
+</document>

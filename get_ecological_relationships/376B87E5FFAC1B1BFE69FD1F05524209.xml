@@ -1,0 +1,134 @@
+<document id="44E0CFBDD8A4D1F7CFE61257C6155976" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFAC1B1BFE69FD1F05524209" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Ataenius cognatus" docType="treatment" docVersion="18" lastPageNumber="168" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="168" updateTime="1671385820913" updateUser="annettekang">
+<mods:mods id="D1ECC6FEF8C504504249947B969AE488" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B035EF759A9E9EF1A76A7E42DC081389">
+<mods:title id="F8830EA10CCEEB214F23C965ADD03116">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="7506751DD82E2A2F9E21F200C188C818" type="personal">
+<mods:role id="392653DE4F99FAD67F4F5BE02F91FA1A">
+<mods:roleTerm id="8082A8D542A6A6ECB3F6EAABDBE4C5D2">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="53C43A1D17CCE9E3895D796F5C920CF0">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="E42F3BC3EE9987EDD0E8177017D723B3">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="0900C9C10EF77CC3D5F8115AFBBBD7DD">text</mods:typeOfResource>
+<mods:relatedItem id="CC0554DBD6ABA0677305D725A1A727FD" type="host">
+<mods:originInfo id="7D197E558A845F5955CDC04EE87C572B">
+<mods:dateIssued id="5656A3C0ECE48B1BF87689370FF5A4AE">1942</mods:dateIssued>
+<mods:dateOther id="552A89593FA65704D40B25D32870B22E" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="8EAD26B1637E4CA5D6B82EE83A678E5D">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="EFD8969A1B5662663693C094E1376D42">
+<mods:placeTerm id="0C859093164A65FB4FFB19DF34FF5292">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5A599F28474A9BE45CC0AE7CC7A155BC">
+<mods:title id="F6EB7C0A3D82CC2577A2A513294CB296">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="E2E997D1A4FAF3D18DE0EDA7E1108CD3">
+<mods:extent id="6DFCD8A4D3337A2896E33501064F27AE" unit="page">
+<mods:start id="69A10841479C1757A841FB26B0295674">150</mods:start>
+<mods:end id="9B533F20541F92254294FC41402815CF">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="D0AAD7A9B633190E81F5EC9925C49111">book chapter</mods:classification>
+<mods:identifier id="EA4D19BDC52742A8B3134163188E51C7" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="2CDFDBFFFE96B0462C2A619AEF1EFB65" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="293FCDAA2638E5322F5A23272903BFD5" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFAC1B1BFE69FD1F05524209" ID-DOI="http://doi.org/10.5281/zenodo.5183014" ID-GBIF-Taxon="184415396" ID-Zenodo-Dep="5183014" LSID="urn:lsid:plazi:treatment:376B87E5FFAC1B1BFE69FD1F05524209" httpUri="http://treatment.plazi.org/id/376B87E5FFAC1B1BFE69FD1F05524209" lastPageNumber="168" pageId="18" pageNumber="168">
+<subSubSection id="F7D86578FFAC1B1BFE69FD1F032E44E2" box="[435,1064,682,724]" pageId="18" pageNumber="168" type="nomenclature">
+<paragraph id="BF7D36F3FFAC1B1BFE69FD1F032E44E2" blockId="18.[435,1830,682,1087]" box="[435,1064,682,724]" pageId="18" pageNumber="168">
+<heading id="E435819FFFAC1B1BFE69FD1F032E44E2" box="[435,1064,682,724]" fontSize="11" level="2" pageId="18" pageNumber="168" reason="2">
+<emphasis id="8DB6EAE1FFAC1B1BFE69FD1F06D644E2" bold="true" box="[435,464,682,724]" pageId="18" pageNumber="168">2.</emphasis>
+<taxonomicName id="78C24D70FFAC1B1BFE28FD1F032544E2" authority="(Le Conte)" baseAuthorityName="Le Conte" box="[498,1059,682,724]" class="Insecta" family="Aphodiidae" genus="Ataenius" kingdom="Animalia" order="Coleoptera" pageId="18" pageNumber="168" phylum="Arthropoda" rank="species" species="cognatus">
+<emphasis id="8DB6EAE1FFAC1B1BFE28FD1F044744E2" bold="true" box="[498,833,682,724]" pageId="18" pageNumber="168">Ataenius cognatus</emphasis>
+(Le Conte)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAC1B1BFE29FD6A04514544" pageId="18" pageNumber="168" type="reference_group">
+<paragraph id="BF7D36F3FFAC1B1BFE29FD6A01A2453D" blockId="18.[435,1830,682,1087]" box="[499,1700,735,779]" pageId="18" pageNumber="168">
+<treatmentCitationGroup id="9FD211DDFFAC1B1BFE29FD6A01A2453D" box="[499,1700,735,779]" pageId="18" pageNumber="168">
+<bibCitation id="6AE83E9FFFAC1B1BFE29FD6A01A2453D" author="Le Conte" box="[499,1700,735,779]" journalOrPublisher="Phila. Nat. Sci. Acad., Proc." pageId="18" pageNumber="168" part="65" refId="ref9428" type="journal volume" year="1858">
+<treatmentCitation id="3E6310E2FFAC1B1BFE29FD6A0199453D" author="Le Conte" box="[499,1695,735,779]" page="65" pageId="18" pageNumber="168" year="1858">
+<emphasis id="8DB6EAE1FFAC1B1BFE29FD6A041E453D" box="[499,792,735,779]" italics="true" pageId="18" pageNumber="168">Euparia cognata</emphasis>
+<author id="677FDE16FFAC1B1BFCFDFD6A04C9453D" box="[807,975,735,779]" pageId="18" pageNumber="168">Le Conte</author>
+, 
+<journalOrPublisher id="65033C3FFFAC1B1BFC32FD6A02EA453D" box="[1000,1516,735,779]" pageId="18" pageNumber="168">Phila. Nat. Sci. Acad., Proc.</journalOrPublisher>
+, 
+<part id="CB669C6EFFAC1B1BF9DEFD6A0129453D" box="[1540,1583,735,779]" pageId="18" pageNumber="168" type="volume">65</part>
+, 
+<year id="CB6A77A0FFAC1B1BF991FD6A0199453D" box="[1611,1695,735,779]" pageId="18" pageNumber="168">1858</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFAC1B1BFE28FCA104514544" blockId="18.[435,1830,682,1087]" pageId="18" pageNumber="168">
+<bibCitation id="6AE83E9FFFAC1B1BFE28FCA104514544" author="Gemminger and Harold" pageId="18" pageNumber="168" pagination="1066" part="4" refId="ref9449" title="Coleopt. Catalog." type="journal article" year="1869">
+<treatmentCitationGroup id="9FD211DDFFAC1B1BFE28FCA104544544" pageId="18" pageNumber="168">
+<treatmentCitation id="3E6310E2FFAC1B1BFE28FCA104544544" author="Gemminger and Harold" page="1066" pageId="18" pageNumber="168" year="1869">
+<emphasis id="8DB6EAE1FFAC1B1BFE28FCA1043D4508" box="[498,827,788,830]" italics="true" pageId="18" pageNumber="168">Ata.enius cognatus</emphasis>
+(Le Conte) 
+<author id="677FDE16FFAC1B1BFBEAFCA103FA4508" box="[1072,1276,788,830]" pageId="18" pageNumber="168">Gemminger</author>
+and 
+<author id="677FDE16FFAC1B1BFA84FCA102D84508" box="[1374,1502,788,830]" pageId="18" pageNumber="168">Harold</author>
+, 
+<title id="CDC6DDC5FFAC1B1BFA23FCA100204508" box="[1529,1830,788,830]" pageId="18" pageNumber="168">Coleopt. Catalog.</title>
+(
+<part id="CB669C6EFFAC1B1BFD9CFCFD05674544" box="[582,609,840,882]" pageId="18" pageNumber="168" type="issue">4</part>
+): 
+<pagination id="860BC807FFAC1B1BFD41FCFD05EF4544" box="[667,745,840,882]" pageId="18" pageNumber="168" type="pageRange">1066</pagination>
+, 
+<year id="CB6A77A0FFAC1B1BFD25FCFD04544544" box="[767,850,840,882]" pageId="18" pageNumber="168">1869</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAC1B1BFE2FFCCF01A34593" box="[501,1701,890,933]" pageId="18" pageNumber="168" type="materials_examined">
+<paragraph id="BF7D36F3FFAC1B1BFE2FFCCF01A34593" blockId="18.[435,1830,682,1087]" box="[501,1701,890,933]" pageId="18" pageNumber="168">
+<materialsCitation id="0FAA3CAEFFAC1B1BFE2FFCCF05DF4593" ID-GBIF-Occurrence="3994027471" box="[501,729,890,933]" collectingDate="1936-07-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="18" pageNumber="168">
+<location id="BA1D6028FFAC1B1BFE2FFCCF05314593" LSID="urn:lsid:plazi:treatment:376B87E5FFAC1B1BFE69FD1F05524209:BA1D6028FFAC1B1BFE2FFCCF05314593" box="[501,567,890,933]" name="Piti" pageId="18" pageNumber="168">Piti</location>
+, 
+<date id="CB7C1033FFAC1B1BFD94FCCF05D44593" box="[590,722,890,933]" pageId="18" pageNumber="168" value="1927-07">
+<collectingDate id="DB38E9DBFFAC1B1BFD94FCCF05D44593" box="[590,722,890,933]" pageId="18" pageNumber="168" value="1927-07">
+July 
+<emphasis id="8DB6EAE1FFAC1B1BFD7DFCCF05DF4593" box="[679,729,890,933]" italics="true" pageId="18" pageNumber="168">27,</emphasis>
+</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAC1B1BFD30FCCF036F4593" ID-GBIF-Occurrence="3994027394" box="[746,1129,890,933]" collectedFrom="in corn field" collectingDate="1936-09-14" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="18" pageNumber="168">
+<date id="CB7C1033FFAC1B1BFD30FCCF047D4593" box="[746,891,890,933]" pageId="18" pageNumber="168" value="2014-09">
+<collectingDate id="DB38E9DBFFAC1B1BFD30FCCF047D4593" box="[746,891,890,933]" pageId="18" pageNumber="168" value="2014-09">Sept. 14</collectingDate>
+</date>
+, in corn field
+</materialsCitation>
+, 
+<materialsCitation id="0FAA3CAEFFAC1B1BFB5BFCCF01A64593" ID-GBIF-Occurrence="3334692543" box="[1153,1696,890,933]" collectedFrom="in cow dung" collectingDate="1936-09-21" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="18" pageNumber="168">
+<date id="CB7C1033FFAC1B1BFB5BFCCF02164593" box="[1153,1296,890,933]" pageId="18" pageNumber="168" value="2021-09">
+<collectingDate id="DB38E9DBFFAC1B1BFB5BFCCF02164593" box="[1153,1296,890,933]" pageId="18" pageNumber="168" value="2021-09">Sept. 21</collectingDate>
+</date>
+, in cow clung, 
+<collectorName id="12375325FFAC1B1BF9C0FCCF01A64593" box="[1562,1696,890,933]" pageId="18" pageNumber="168">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAC1B1BFE29FC0505524209" pageId="18" pageNumber="168" type="discussion">
+<paragraph id="BF7D36F3FFAC1B1BFE29FC0505524209" blockId="18.[435,1830,682,1087]" pageId="18" pageNumber="168">
+Dr. Chapin says that it may not be this species, as several species are involved in what has been called 
+<emphasis id="8DB6EAE1FFAC1B1BFC2EFC5003934238" box="[1012,1173,997,1038]" italics="true" pageId="18" pageNumber="168">
+<taxonomicName id="78C24D70FFAC1B1BFC2EFC5003964238" baseAuthorityName="Le Conte" box="[1012,1168,997,1038]" class="Insecta" family="Aphodiidae" genus="Ataenius" kingdom="Animalia" order="Coleoptera" pageId="18" pageNumber="168" phylum="Arthropoda" rank="species" species="cognatus">cognatus</taxonomicName>
+.
+</emphasis>
+Only a few specimens were collected in 
+<collectingCountry id="C7D57663FFAC1B1BFE3EFBA205494209" box="[484,591,1047,1087]" name="Guam" pageId="18" pageNumber="168">Guam</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

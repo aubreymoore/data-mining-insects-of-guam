@@ -1,0 +1,103 @@
+<document id="2FCA30BEE93A4DFFB03CFE23AB49A5CB" ID-DOI="http://doi.org/10.5281/zenodo.5156759" ID-GBIF-Dataset="6e65e7d3-7a72-4da4-9739-5e3814593490" ID-Zenodo-Dep="5156759" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628022238476" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="907B754A855EFFC923BAFDB9EF6BFCA7" docLanguage="en" docName="InsectsOfGuamII.189.221-227.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pezomachus" docType="treatment" docVersion="10" lastPageNumber="224" masterDocId="6C420D32855DFFCA221EFFCCE940FF9E" masterDocTitle="Ichneumonidae, Evaniidae, And Braconidae Of Guam" masterLastPageNumber="227" masterPageNumber="221" pageNumber="224" updateTime="1660588485465" updateUser="annettekang">
+<mods:mods id="FDABCC71FD11B18F9996BAF05B129987" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="7746640984F6BBF86E631666746116FF">
+<mods:title id="0B6B2D0EB75BBF0A882CD520FE7A5C3B">Ichneumonidae, Evaniidae, And Braconidae Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="A02FB6AB840A129AE8415BB02EBD21C8" type="personal">
+<mods:role id="F03CD64D6DC25CD25A1DF4374E714A4C">
+<mods:roleTerm id="04884B831272FC17A8700A750988358E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="CCCEC316E92742449FAD6248A7476FBD">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="34093B6AAA49B523680C0AEA2EDEFE0D">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="91B32E982BCB545E385E176AE350D9F6">text</mods:typeOfResource>
+<mods:relatedItem id="03B050D03853F9558231F31BD34744AB" type="host">
+<mods:originInfo id="100623FC0D8A418B7F1A7F0A72A67C9B">
+<mods:dateIssued id="E8CF1BB5BB1D189C762003AB5500070B">1946</mods:dateIssued>
+<mods:dateOther id="D0148EF1911DE2F227A16855293E301F" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="647D3F0F29B47EA58D291036081D9BE3">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="12EDCE1E5F7ECC42821F32D40055C320">
+<mods:placeTerm id="848F1888AEE73557F93584578C81FF1B">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A3EC087A1658B31019FC881C482F5784">
+<mods:title id="BEF623AF86292B430116F653CAA19E2D">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="5F3AC687568C96A7E4DE33AE0728845E">
+<mods:extent id="AC98B97F06FB47240F80F864F4263DCC" unit="page">
+<mods:start id="92389073BFCBD16F76DEE9F9831DF594">221</mods:start>
+<mods:end id="689A0D52ABF59160B9B919AF255CD1C6">227</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="9AEC921746437CC6F0F60F7932268248">book chapter</mods:classification>
+<mods:identifier id="99208838225BFC87130047D784746038" type="DOI">http://doi.org/10.5281/zenodo.5156759</mods:identifier>
+<mods:identifier id="6B5285E28F65D06B9E9AD1028FA2F308" type="GBIF-Dataset">6e65e7d3-7a72-4da4-9739-5e3814593490</mods:identifier>
+<mods:identifier id="6681E3AEAF4995DDE1A1023AFBA348FB" type="Zenodo-Dep">5156759</mods:identifier>
+</mods:mods>
+<treatment id="907B754A855EFFC923BAFDB9EF6BFCA7" ID-DOI="http://doi.org/10.5281/zenodo.5186431" ID-GBIF-Taxon="183969166" ID-Zenodo-Dep="5186431" LSID="urn:lsid:plazi:treatment:907B754A855EFFC923BAFDB9EF6BFCA7" httpUri="http://treatment.plazi.org/id/907B754A855EFFC923BAFDB9EF6BFCA7" lastPageNumber="224" pageId="3" pageNumber="224">
+<subSubSection id="50C897D7855EFFC923BAFDB9EA28FD03" box="[420,872,629,669]" pageId="3" pageNumber="224" type="nomenclature">
+<paragraph id="186DC45C855EFFC923BAFDB9EA28FD03" blockId="3.[418,1815,629,825]" box="[420,872,629,669]" pageId="3" pageNumber="224">
+<heading id="43257330855EFFC923BAFDB9EA28FD03" box="[420,872,629,669]" fontSize="8" level="2" pageId="3" pageNumber="224" reason="4">
+<emphasis id="2AA6184E855EFFC923BAFDB9EB93FD03" bold="true" box="[420,723,629,669]" pageId="3" pageNumber="224">
+10. 
+<taxonomicName id="DFD2BFDF855EFFC923EAFDB9EB93FD03" box="[500,723,629,669]" class="Insecta" family="Ichneumonidae" genus="Pezomachus" kingdom="Animalia" order="Hymenoptera" pageId="3" pageNumber="224" phylum="Arthropoda" rank="genus">Pezomachus</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D7855EFFC923FCFD6AEF6BFCA7" pageId="3" pageNumber="224" type="materials_examined">
+<paragraph id="186DC45C855EFFC923FCFD6AEF6BFCA7" blockId="3.[418,1815,629,825]" pageId="3" pageNumber="224">
+<materialsCitation id="A8BACE01855EFFC923FCFD6AEC89FD4A" ID-GBIF-Occurrence="3332362313" box="[482,1481,678,724]" collectedFrom="swept from ferns" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="3" pageNumber="224" specimenCount-male="1">
+<location id="1D0D9287855EFFC923FCFD6AEBCEFD4A" LSID="urn:lsid:plazi:treatment:907B754A855EFFC923BAFDB9EF6BFCA7:1D0D9287855EFFC923FCFD6AEBCEFD4A" box="[482,654,678,724]" name="Upi Trail" pageId="3" pageNumber="224">Upi Trail</location>
+, 
+<date id="6C6CE29C855EFFC920B9FD6AEA5BFD4A" box="[679,795,678,724]" pageId="3" pageNumber="224">
+<collectingDate id="7C281B74855EFFC920B9FD6AEA5BFD4A" box="[679,795,678,724]" pageId="3" pageNumber="224">May 5</collectingDate>
+</date>
+, swept from f~rns, 
+<specimenCount id="0ED40FD5855EFFC92660FD6AEC5EFD4A" box="[1150,1310,678,724]" pageId="3" pageNumber="224" type="male">one male</specimenCount>
+, 
+<collectorName id="B527A18A855EFFC92728FD6AEC82FD4A" box="[1334,1474,678,724]" pageId="3" pageNumber="224">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="A8BACE01855EFFC927C7FD6AEA22FC98" ID-GBIF-Occurrence="3332362307" collectingDate="1936-05-24" collectorName="O. H. Swezey" country="Guam" location="Orote Point" pageId="3" pageNumber="224" specimenCount-female="1">
+<location id="1D0D9287855EFFC927C7FD6AEFF1FD4A" LSID="urn:lsid:plazi:treatment:907B754A855EFFC923BAFDB9EF6BFCA7:1D0D9287855EFFC927C7FD6AEFF1FD4A" box="[1497,1713,678,724]" name="Orote Point" pageId="3" pageNumber="224">Orote Point</location>
+, 
+<date id="6C6CE29C855EFFC924D7FD6AE88EFC98" pageId="3" pageNumber="224" value="1924-05">
+<collectingDate id="7C281B74855EFFC924D7FD6AE88EFC98" pageId="3" pageNumber="224" value="1924-05">May 24</collectingDate>
+</date>
+, 
+<specimenCount id="0ED40FD5855EFFC923F4FD10EBF2FC98" box="[490,690,732,774]" pageId="3" pageNumber="224" type="female">one female</specimenCount>
+, 
+<collectorName id="B527A18A855EFFC920D1FD10EA1BFC98" box="[719,859,732,774]" pageId="3" pageNumber="224">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="A8BACE01855EFFC92164FD10EF1DFC98" ID-GBIF-Occurrence="3332362316" box="[890,1629,732,774]" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="3" pageNumber="224" specimenCount-female="1">
+<location id="1D0D9287855EFFC92164FD10ED6FFC98" LSID="urn:lsid:plazi:treatment:907B754A855EFFC923BAFDB9EF6BFCA7:1D0D9287855EFFC92164FD10ED6FFC98" box="[890,1071,732,774]" name="Machanao" pageId="3" pageNumber="224">Machanao</location>
+, 
+<date id="6C6CE29C855EFFC92654FD10ED87FC98" box="[1098,1223,732,774]" pageId="3" pageNumber="224">
+<collectingDate id="7C281B74855EFFC92654FD10ED87FC98" box="[1098,1223,732,774]" pageId="3" pageNumber="224">June 4</collectingDate>
+</date>
+, 
+<specimenCount id="0ED40FD5855EFFC926FAFD10ECEDFC98" box="[1252,1453,732,774]" pageId="3" pageNumber="224" type="female">one female</specimenCount>
+, 
+<collectorName id="B527A18A855EFFC927D7FD10EF16FC98" box="[1481,1622,732,774]" pageId="3" pageNumber="224">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="A8BACE01855EFFC9246AFD10EF6BFCA7" ID-GBIF-Occurrence="3332362338" collectingDate="1936-06-15" collectorName="O. H. Swezey" country="Guam" location="Sinajana" pageId="3" pageNumber="224" specimenCount-male="1">
+<collectingMunicipality id="F8095E26855EFFC9246AFD10EE51FC98" box="[1652,1809,732,774]" pageId="3" pageNumber="224">Sinajana</collectingMunicipality>
+, 
+<date id="6C6CE29C855EFFC923BCFCC2EB6EFCA7" box="[418,558,782,825]" pageId="3" pageNumber="224" value="2015-06">
+<collectingDate id="7C281B74855EFFC923BCFCC2EB6EFCA7" box="[418,558,782,825]" pageId="3" pageNumber="224" value="2015-06">June 15</collectingDate>
+</date>
+, one malt:, 
+<collectorName id="B527A18A855EFFC920E7FCC2EAC0FCA7" box="[761,896,782,825]" pageId="3" pageNumber="224">Swezey</collectorName>
+. 
+<location id="1D0D9287855EFFC92180FCC2ED47FCA7" LSID="urn:lsid:plazi:treatment:907B754A855EFFC923BAFDB9EF6BFCA7:1D0D9287855EFFC92180FCC2ED47FCA7" box="[926,1031,782,825]" municipality="Sinajana" name="There" pageId="3" pageNumber="224">There</location>
+may be more than one species.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

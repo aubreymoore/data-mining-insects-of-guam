@@ -1,0 +1,70 @@
+<document id="B6F681E850F1A09387208701E72B67BF" ID-DOI="http://doi.org/10.5281/zenodo.5160270" ID-GBIF-Dataset="6dc2872d-cbab-4982-baed-c0969e3e3236" ID-Zenodo-Dep="5160270" checkinTime="1628013042203" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="0E4F7F497E675A2CB4E4F7DC12347EB3" docLanguage="en" docName="InsectsOfGuamI.172.175-183.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Solenopsis" docType="treatment" docVersion="13" lastPageNumber="178" masterDocId="F27607317E645A2FB552FF8416577654" masterDocTitle="Hymenoptera Formicidae of Guam" masterLastPageNumber="183" masterPageNumber="175" pageNumber="178" updateTime="1657820913249" updateUser="annettekang">
+<mods:mods id="F1A11CBC42F19045FE9C2BD36DB37738" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="DEBEC90F5FEDFA3792E5E8E6B3E213D8">
+<mods:title id="6BC6D205AC3BA200E4E9B2167D230C9E">Hymenoptera Formicidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="0A9BC8831EF89F7074EF115D86757927" type="personal">
+<mods:role id="CF8FE6B50D855670CE79133EE3976D66">
+<mods:roleTerm id="7F89A5E72B274EFFCFF005CAC5F2F5A3">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4FBF5037E88FFAD634AEA298331967ED">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="14A43EF5F53DCFA2083756EB4B0CC576">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="E21505AB231C5DDEF1BBA0D0E09FFBA1">text</mods:typeOfResource>
+<mods:relatedItem id="AADF0129F2BB35AE5727E318509F51B2" type="host">
+<mods:originInfo id="4222A10D9CF97C502F61A548B6A3355D">
+<mods:dateIssued id="3D3B49A3851F0E07FB7DF000D89FE5A9">1942</mods:dateIssued>
+<mods:dateOther id="9926DB159CAAE989C6F7597064A430EC" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="B28BC24368466B623F5560D1666997CC">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="13EFF6C503C090CCEBAEEB072C85AC8F">
+<mods:placeTerm id="D9AF70E9B8EC12E64CF60DD72F777323">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="EFBE71AC7BCAAC653822DA57EEDADBA6">
+<mods:title id="395B6DFEE45845120B628290237A2E5C">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="C72B8DE20CF30FA978290961170F655F">
+<mods:extent id="9C6577211225E0087BA4A7336CD9FD67" unit="page">
+<mods:start id="28148AB1CF4020B8C7E630FE2876BC85">175</mods:start>
+<mods:end id="838BD30BD935D8224FEA1AAD4A8D4AAC">183</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="BB8CA0F8A7701F27E12520F5ED3E3D5C">book chapter</mods:classification>
+<mods:identifier id="E5CC3BAF50C143D6B55F420E646C64D2" type="DOI">http://doi.org/10.5281/zenodo.5160270</mods:identifier>
+<mods:identifier id="88CD183C40839470AFF570038849BE91" type="GBIF-Dataset">6dc2872d-cbab-4982-baed-c0969e3e3236</mods:identifier>
+<mods:identifier id="E839C385CE96780189C9526EFACB6E1C" type="Zenodo-Dep">5160270</mods:identifier>
+</mods:mods>
+<treatment id="0E4F7F497E675A2CB4E4F7DC12347EB3" ID-DOI="http://doi.org/10.5281/zenodo.5206793" ID-GBIF-Taxon="184416177" ID-Zenodo-Dep="5206793" LSID="urn:lsid:plazi:treatment:0E4F7F497E675A2CB4E4F7DC12347EB3" httpUri="http://treatment.plazi.org/id/0E4F7F497E675A2CB4E4F7DC12347EB3" lastPageNumber="178" pageId="3" pageNumber="178">
+<subSubSection id="CEFC9DD47E675A2CB4E4F7DC150C7ED4" box="[438,859,2136,2176]" pageId="3" pageNumber="178" type="nomenclature">
+<paragraph id="8659CE5F7E675A2CB4E4F7DC150C7ED4" blockId="3.[437,1831,2136,2279]" box="[438,859,2136,2176]" pageId="3" pageNumber="178">
+<heading id="DD1179337E675A2CB4E4F7DC150C7ED4" box="[438,859,2136,2176]" fontSize="8" level="2" pageId="3" pageNumber="178" reason="4">
+<emphasis id="B492124D7E675A2CB4E4F7DC17B27ED4" bold="true" box="[438,485,2136,2176]" pageId="3" pageNumber="178">13.</emphasis>
+<taxonomicName id="41E6B5DC7E675A2CB755F7DC14917ED4" box="[519,710,2136,2176]" class="Insecta" family="Formicidae" genus="Solenopsis" kingdom="Animalia" order="Hymenoptera" pageId="3" pageNumber="178" phylum="Arthropoda" rank="genus">
+<emphasis id="B492124D7E675A2CB755F7DC14917ED4" bold="true" box="[519,710,2136,2176]" pageId="3" pageNumber="178">Solenopsis</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E675A2CB4A6F70E12347EB3" pageId="3" pageNumber="178" type="materials_examined">
+<paragraph id="8659CE5F7E675A2CB4A6F70E12347EB3" blockId="3.[437,1831,2136,2279]" pageId="3" pageNumber="178">
+<materialsCitation id="368EC4027E675A2CB4A6F70E12347EB3" ID-GBIF-Occurrence="3334693334" collectingDate="1936-11-13" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="3" pageNumber="178" specimenCount-worker="2">
+<location id="833998847E675A2CB4A6F70E141A7EE0" LSID="urn:lsid:plazi:treatment:0E4F7F497E675A2CB4E4F7DC12347EB3:833998847E675A2CB4A6F70E141A7EE0" box="[500,589,2186,2228]" country="United States of America" name="Yigo" pageId="3" pageNumber="178">Yigo</location>
+, 
+<date id="F258E89F7E675A2CB734F70E14A17EE0" box="[614,758,2186,2228]" pageId="3" pageNumber="178" value="2013-11">
+<collectingDate id="E21C11777E675A2CB734F70E14A17EE0" box="[614,758,2186,2228]" pageId="3" pageNumber="178" value="2013-11">Nov. 13</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E675A2CB640F70E15C07EE0" box="[786,919,2186,2228]" pageId="3" pageNumber="178">Swezey</collectorName>
+. Two 
+<specimenCount id="90E005D67E675A2CB148F70E12F07EE0" box="[1050,1191,2186,2228]" pageId="3" pageNumber="178" type="worker">workers</specimenCount>
+of a black species, identification by M. R. Smith, 
+<collectingCountry id="FEF18ECF7E675A2CB7E2F739155B7EB3" box="[688,780,2237,2279]" name="United States of America" pageId="3" pageNumber="178">U. S.</collectingCountry>
+<location id="833998847E675A2CB64FF73912097EB3" LSID="urn:lsid:plazi:treatment:0E4F7F497E675A2CB4E4F7DC12347EB3:833998847E675A2CB64FF73912097EB3" box="[797,1118,2237,2279]" country="United States of America" name="National Museum" pageId="3" pageNumber="178">National Museum</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

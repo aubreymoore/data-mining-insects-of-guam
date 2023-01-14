@@ -1,0 +1,160 @@
+<document id="ED8D43A6D80FE7D7A8C72F47144EEFE1" ID-DOI="http://doi.org/10.5281/zenodo.5174008" ID-GBIF-Dataset="62345736-dcf6-4c38-a870-36a90992dabb" ID-Zenodo-Dep="5174008" checkinTime="1628020725273" checkinUser="carolina" docAuthor="Metcalf, Z. P." docDate="1946" docId="416187EDEB42FFE4FE0548688D56F498" docLanguage="en" docName="InsectsOfGuamII.189.105-148.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Cicadulina viridis, new species" docType="treatment" docVersion="14" lastPageNumber="134" masterDocId="BD58FF95EB59FFFFFFB04B578875FD6D" masterDocTitle="Homoptera, Fulgoroidea and Jassoidea of Guam" masterLastPageNumber="148" masterPageNumber="105" pageNumber="134" updateTime="1660241962857" updateUser="annettekang">
+<mods:mods id="0DA1F56E8C6FE8F56B5AB46DDB594859" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="2C1C451474C9674A055221B7C6AA99BA">
+<mods:title id="F12EA354F4D756530ED065C4DF54D8AE">Homoptera, Fulgoroidea and Jassoidea of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="FAFFF81A223C8DF762F1F22240FE1883" type="personal">
+<mods:role id="9AA80F5DB34B768C91CC038744AC2DD0">
+<mods:roleTerm id="2251984F4F0E7EEFFCA30860286BEAEB">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="52CCFCE772A180E2584B98BF5E8CDCA9">Metcalf, Z. P.</mods:namePart>
+<mods:affiliation id="0C9163F1D723BE2DFB4202FE9A5317FE">College of Agriculture and Engineering, University of North Carolins</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="64E98409A2D62F59EDF2C8AFC34E5B67">text</mods:typeOfResource>
+<mods:relatedItem id="A5A78A47B71F72EF2D10879D33AE8132" type="host">
+<mods:originInfo id="8AD13B891C8CCA8AEF28B2FC0966021C">
+<mods:dateIssued id="46FCA379E51A393C07A53119DCD611D3">1946</mods:dateIssued>
+<mods:dateOther id="745C18E3DC3D050CB30B6A13E34FB143" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="1DAB1AF1038F9383312194785EC5ECDC">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="77828F492A17D794933214D83F5D5F22">
+<mods:placeTerm id="B7BE3545E3784D640DC2959406CAFA32">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="B604B6AAC39DCEA6EE47149450910D1C">
+<mods:title id="A58A9A9E0A9E609E0EC58490DDB2743B">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="45AF83BFDBEF7AFB4271C82BA554E5DB">
+<mods:extent id="5C138EA3B3242D1DBF9BBD0C375E56E5" unit="page">
+<mods:start id="282C5A1807CBF57CFC99C597B1308564">105</mods:start>
+<mods:end id="C58E3EF0F93B1531CE74C0229FD8D108">148</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="1F6A81356A41A7EFD97DA29F6E7AAC0F">book chapter</mods:classification>
+<mods:identifier id="2CF1D1082C18CEE18D2102246AD1192F" type="DOI">http://doi.org/10.5281/zenodo.5174008</mods:identifier>
+<mods:identifier id="AB9B4596B71CCB3AF598A5DBFCEDDD62" type="GBIF-Dataset">62345736-dcf6-4c38-a870-36a90992dabb</mods:identifier>
+<mods:identifier id="719718CF7711FB6CA744E5206A9E46C5" type="Zenodo-Dep">5174008</mods:identifier>
+</mods:mods>
+<treatment id="416187EDEB42FFE4FE0548688D56F498" ID-DOI="http://doi.org/10.5281/zenodo.5188167" ID-GBIF-Taxon="184009014" ID-Zenodo-Dep="5188167" LSID="urn:lsid:plazi:treatment:416187EDEB42FFE4FE0548688D56F498" httpUri="http://treatment.plazi.org/id/416187EDEB42FFE4FE0548688D56F498" lastPageNumber="134" pageId="27" pageNumber="134">
+<subSubSection id="81D26570EB42FFE4FE0548688D49FE0A" box="[437,1340,831,871]" pageId="27" pageNumber="134" type="nomenclature">
+<paragraph id="C97736FBEB42FFE4FE0548688D49FE0A" blockId="27.[435,1832,831,1345]" box="[437,1340,831,871]" pageId="27" pageNumber="134">
+<heading id="923F8197EB42FFE4FE0548688D49FE0A" box="[437,1340,831,871]" fontSize="8" level="2" pageId="27" pageNumber="134" reason="4">
+<emphasis id="FBBCEAE9EB42FFE4FE0548688B26FE0A" bold="true" box="[437,851,831,871]" pageId="27" pageNumber="134">
+11. 
+<taxonomicName id="0EC84D78EB42FFE4FDB748688B39FE0A" authority="METCALF" box="[519,844,831,871]" class="Insecta" family="Cicadellidae" genus="Cicadulina" kingdom="Animalia" order="Hemiptera" pageId="27" pageNumber="134" phylum="Arthropoda" rank="species" species="viridis" status="new species">Cicadulina viridis</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="E08F5792EB42FFE4FCD348688C42FE0A" box="[867,1079,831,871]" pageId="27" pageNumber="134" rank="species">new species</taxonomicNameLabel>
+(
+<figureCitation id="51F32A7EEB42FFE4FBEA48688CA4FE0A" box="[1114,1233,831,871]" captionStart="FIGURE 19" captionStartId="27.[502,611,2223,2261]" captionTargetBox="[611,1662,1356,2215]" captionText="FIGURE 19.-Cicadulina viridis: a, ventral view of female genitalia; b, ventral view of male genitalia; c, lateral view of male genitalia." figureDoi="http://doi.org/10.5281/zenodo.5174049" httpUri="https://zenodo.org/record/5174049/files/figure.png" pageId="27" pageNumber="134">fig. 19</figureCitation>
+, 
+<emphasis id="FBBCEAE9EB42FFE4FB5948688D49FE0A" box="[1257,1340,831,871]" italics="true" pageId="27" pageNumber="134">a-c).</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB42FFE4FE4648258E4BF82C" pageId="27" pageNumber="134" type="description">
+<paragraph id="C97736FBEB42FFE4FE4648258BFAFE89" blockId="27.[435,1832,831,1345]" pageId="27" pageNumber="134">A pale olive-yellow species, uniformly colored except the darker compound eyes. Crown much broader than in any other species known to me, being more than three times as broad as its median length.</paragraph>
+<paragraph id="C97736FBEB42FFE4FE4648B08AB9F876" blockId="27.[435,1832,831,1345]" pageId="27" pageNumber="134">Female genitalia: last ventral segment not strongly produced, but little broader than its median length, posterior margin straight. External male genitalia: valve small; posterior border rounded; plates attenuate, not quite as long as the pygofer, with a row of six stout spines along the lateral margins; pygofer large, broadly expanded posteriorly cop.cealing the anal style. Internal male genitalia: genital styles slender terminating in acute, laterally directed spines; aedeagus long, slender, strongly recurved and directed cephalad, suddenly expanded apically. Spine of pygofer elongate, spirally curved, broadly expanded apically.</paragraph>
+<paragraph id="C97736FBEB42FFE4FE464E4A8E4BF82C" blockId="27.[435,1832,831,1345]" box="[502,1598,1309,1345]" pageId="27" pageNumber="134">
+Length: to apex of abdomen, 
+<quantity id="0E309B1EEB42FFE4FC644E4A8C16F82C" box="[980,1123,1309,1345]" metricMagnitude="-3" metricUnit="m" metricValue="2.75" pageId="27" pageNumber="134" unit="mm" value="2.75">2.75 mm</quantity>
+.; to apex of tegmina, 
+<quantity id="0E309B1EEB42FFE4FA754E4A8E4FF82C" box="[1477,1594,1309,1345]" metricMagnitude="-3" metricUnit="m" metricValue="3.5" pageId="27" pageNumber="134" unit="mm" value="3.5">3.5 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<caption id="9DB76673EB42FFE4FE4643F88C9DF596" ID-DOI="http://doi.org/10.5281/zenodo.5174049" ID-Zenodo-Dep="5174049" httpUri="https://zenodo.org/record/5174049/files/figure.png" pageId="27" pageNumber="134" startId="27.[502,611,2223,2261]" targetBox="[611,1662,1356,2215]" targetPageId="27">
+<paragraph id="C97736FBEB42FFE4FE4643F88C9DF596" blockId="27.[436,1831,2223,2299]" pageId="27" pageNumber="134">
+FIGURE 
+<emphasis id="FBBCEAE9EB42FFE4FDC343F88BA2F5B8" box="[627,983,2223,2261]" italics="true" pageId="27" pageNumber="134">
+19.- 
+<taxonomicName id="0EC84D78EB42FFE4FD1643F88BA7F5B8" box="[678,978,2223,2261]" class="Insecta" family="Cicadellidae" genus="Cicadulina" kingdom="Animalia" order="Hemiptera" pageId="27" pageNumber="134" phylum="Arthropoda" rank="species" species="viridis">Cicadulina viridis</taxonomicName>
+:
+</emphasis>
+a, ventral view of female genitalia; 
+<emphasis id="FBBCEAE9EB42FFE4F98943F88E21F5B8" bold="true" box="[1593,1620,2223,2261]" pageId="27" pageNumber="134">b,</emphasis>
+ventral view of male genitalia; c, lateral view of male genitalia.
+</paragraph>
+</caption>
+<subSubSection id="81D26570EB42FFE4FE4242798D56F498" pageId="27" pageNumber="134" type="description">
+<paragraph id="C97736FBEB42FFE4FE4242798D56F498" blockId="27.[435,1832,2350,2549]" pageId="27" pageNumber="134">
+<materialsCitation id="79A03CA6EB42FFE4FE4242798CFDF437" ID-GBIF-Occurrence="3332978354" box="[498,1160,2350,2394]" collectingDate="1936-05-01" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="27" pageNumber="134" specimenCount-male="1" typeStatus="holotype">
+<typeStatus id="16738859EB42FFE4FE4242798AE0F437" box="[498,661,2350,2394]" pageId="27" pageNumber="134">Holotype</typeStatus>
+<specimenCount id="DFCEFD72EB42FFE4FD1142798A82F437" box="[673,759,2350,2394]" pageId="27" pageNumber="134" type="male">male</specimenCount>
+, 
+<collectingMunicipality id="2913AC81EB42FFE4FCBC42798B3BF437" box="[780,846,2350,2394]" pageId="27" pageNumber="134">Piti</collectingMunicipality>
+, 
+<collectingDate id="AD32E9D3EB42FFE4FCD442798BA1F437" box="[868,980,2350,2394]" pageId="27" pageNumber="134">
+<date id="BD76103BEB42FFE4FCD442798BA1F437" box="[868,980,2350,2394]" pageId="27" pageNumber="134">May 1</date>
+</collectingDate>
+, 
+<location id="CC176020EB42FFE4FC5A42798CF4F437" LSID="urn:lsid:plazi:treatment:416187EDEB42FFE4FE0548688D56F498:CC176020EB42FFE4FC5A42798CF4F437" box="[1002,1153,2350,2394]" municipality="Piti" name="Usinger" pageId="27" pageNumber="134">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB42FFE4FB2642798F53F437" ID-GBIF-Occurrence="3332978384" box="[1174,1830,2350,2394]" collectingDate="1936-06-03" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="27" pageNumber="134" specimenCount-female="1" typeStatus="allotype">
+<typeStatus id="16738859EB42FFE4FB2642798D6AF437" box="[1174,1311,2350,2394]" pageId="27" pageNumber="134">allotype</typeStatus>
+<specimenCount id="DFCEFD72EB42FFE4FA9E42798DD1F437" box="[1326,1444,2350,2394]" pageId="27" pageNumber="134" type="female">female</specimenCount>
+, 
+<location id="CC176020EB42FFE4FA0942798D8EF437" LSID="urn:lsid:plazi:treatment:416187EDEB42FFE4FE0548688D56F498:CC176020EB42FFE4FA0942798D8EF437" box="[1465,1531,2350,2394]" name="Piti" pageId="27" pageNumber="134">Piti</location>
+, 
+<date id="BD76103BEB42FFE4F9BF42798EF6F437" box="[1551,1667,2350,2394]" pageId="27" pageNumber="134">
+<collectingDate id="AD32E9D3EB42FFE4F9BF42798EF6F437" box="[1551,1667,2350,2394]" pageId="27" pageNumber="134">June 3</collectingDate>
+</date>
+, 
+<location id="CC176020EB42FFE4F92A42798F54F437" LSID="urn:lsid:plazi:treatment:416187EDEB42FFE4FE0548688D56F498:CC176020EB42FFE4F92A42798F54F437" box="[1690,1825,2350,2394]" name="Swezey" pageId="27" pageNumber="134">Swezey</location>
+.
+</materialsCitation>
+<materialsCitation id="79A03CA6EB42FFE4FE0442358D47F4E3" ID-GBIF-Occurrence="3881969322" box="[436,1330,2402,2446]" collectingDate="1936-05" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="27" pageNumber="134" specimenCount="21" specimenCount-female="11" specimenCount-male="10" typeStatus="paratypes">
+<typeStatus id="16738859EB42FFE4FE0442358A1BF4E3" box="[436,622,2402,2446]" pageId="27" pageNumber="134">Paratypes</typeStatus>
+: 
+<specimenCount id="DFCEFD72EB42FFE4FD3D42358B38F4E3" box="[653,845,2402,2446]" pageId="27" pageNumber="134" type="female">11 females</specimenCount>
+and 
+<specimenCount id="DFCEFD72EB42FFE4FC0A42358C2FF4E3" box="[954,1114,2402,2446]" pageId="27" pageNumber="134" type="male">10 males</specimenCount>
+, 
+<location id="CC176020EB42FFE4FBC842358CCFF4E3" LSID="urn:lsid:plazi:treatment:416187EDEB42FFE4FE0548688D56F498:CC176020EB42FFE4FBC842358CCFF4E3" box="[1144,1210,2402,2446]" name="Piti" pageId="27" pageNumber="134">Piti</location>
+, 
+<location id="CC176020EB42FFE4FB6942358D5EF4E3" LSID="urn:lsid:plazi:treatment:416187EDEB42FFE4FE0548688D56F498:CC176020EB42FFE4FB6942358D5EF4E3" box="[1241,1323,2402,2446]" name="May" pageId="27" pageNumber="134">May</location>
+,
+</materialsCitation>
+<materialsCitation id="79A03CA6EB42FFE4FAF742358DD6F4E3" ID-GBIF-Occurrence="3881969308" box="[1351,1443,2402,2446]" collectingDate="1936-06" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="27" pageNumber="134">
+<location id="CC176020EB42FFE4FAF742358DE9F4E3" LSID="urn:lsid:plazi:treatment:416187EDEB42FFE4FE0548688D56F498:CC176020EB42FFE4FAF742358DE9F4E3" box="[1351,1436,2402,2446]" name="June" pageId="27" pageNumber="134">June</location>
+,
+</materialsCitation>
+<materialsCitation id="79A03CA6EB42FFE4FA0942358ECDF4E3" ID-GBIF-Occurrence="3881969312" box="[1465,1720,2402,2446]" collectingDate="1936-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="27" pageNumber="134">
+<collectingMunicipality id="2913AC81EB42FFE4FA0942358E73F4E3" box="[1465,1542,2402,2446]" pageId="27" pageNumber="134">July</collectingMunicipality>
+, 
+<location id="CC176020EB42FFE4F99442358EC4F4E3" LSID="urn:lsid:plazi:treatment:416187EDEB42FFE4FE0548688D56F498:CC176020EB42FFE4F99442358EC4F4E3" box="[1572,1713,2402,2446]" municipality="July" name="Swezey" pageId="27" pageNumber="134">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB42FFE4F97E42358B24F4AC" ID-GBIF-Occurrence="3332978327" collectingDate="1936" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="27" pageNumber="134" specimenCount-female="3">
+<specimenCount id="DFCEFD72EB42FFE4F97E42358A48F4AC" pageId="27" pageNumber="134" type="female">three females</specimenCount>
+, 
+<location id="CC176020EB42FFE4FDE642C28AECF4AC" LSID="urn:lsid:plazi:treatment:416187EDEB42FFE4FE0548688D56F498:CC176020EB42FFE4FDE642C28AECF4AC" box="[598,665,2453,2497]" name="Piti" pageId="27" pageNumber="134">Piti</location>
+, 
+<location id="CC176020EB42FFE4FD0242C28B3FF4AC" LSID="urn:lsid:plazi:treatment:416187EDEB42FFE4FE0548688D56F498:CC176020EB42FFE4FD0242C28B3FF4AC" box="[690,842,2453,2497]" name="Usinger" pageId="27" pageNumber="134">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB42FFE4FCD342C28E14F4AC" ID-GBIF-Occurrence="3332978330" box="[867,1633,2453,2497]" collectingDate="1936" collectorName="R. L. Usinger" country="Guam" location="Sasa" pageId="27" pageNumber="134" specimenCount-female="2" specimenCount-male="1">
+<specimenCount id="DFCEFD72EB42FFE4FCD342C28C77F4AC" box="[867,1026,2453,2497]" pageId="27" pageNumber="134" type="male">one male</specimenCount>
+and 
+<specimenCount id="DFCEFD72EB42FFE4FBD242C28D4AF4AC" box="[1122,1343,2453,2497]" pageId="27" pageNumber="134" type="female">two females</specimenCount>
+, 
+<collectingMunicipality id="2913AC81EB42FFE4FAE942C28DDFF4AC" box="[1369,1450,2453,2497]" pageId="27" pageNumber="134">Sasa</collectingMunicipality>
+, 
+<location id="CC176020EB42FFE4FA7342C28E2FF4AC" LSID="urn:lsid:plazi:treatment:416187EDEB42FFE4FE0548688D56F498:CC176020EB42FFE4FA7342C28E2FF4AC" box="[1475,1626,2453,2497]" municipality="Sasa" name="Usinger" pageId="27" pageNumber="134">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB42FFE4F9C342C28D56F498" ID-GBIF-Occurrence="3332978349" collectedFrom="on sedges" collectingDate="1936" collectorName="R. L. Usinger" country="Guam" location="Inarajan" pageId="27" pageNumber="134" specimenCount="3" specimenCount-female="1" specimenCount-male="2">
+<specimenCount id="DFCEFD72EB42FFE4F9C342C28F52F4AC" box="[1651,1831,2453,2497]" pageId="27" pageNumber="134" type="male">two males</specimenCount>
+and 
+<specimenCount id="DFCEFD72EB42FFE4FDB0429C8AB1F498" box="[512,708,2507,2549]" pageId="27" pageNumber="134" type="female">one female</specimenCount>
+, 
+<collectingMunicipality id="2913AC81EB42FFE4FD6B429C8B01F498" box="[731,884,2507,2549]" pageId="27" pageNumber="134">Inarajan</collectingMunicipality>
+, 
+<location id="CC176020EB42FFE4FC3B429C8C57F498" LSID="urn:lsid:plazi:treatment:416187EDEB42FFE4FE0548688D56F498:CC176020EB42FFE4FC3B429C8C57F498" box="[907,1058,2507,2549]" municipality="Inarajan" name="Usinger" pageId="27" pageNumber="134">Usinger</location>
+; all on sedges.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

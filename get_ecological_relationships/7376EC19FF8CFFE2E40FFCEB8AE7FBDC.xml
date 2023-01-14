@@ -1,0 +1,95 @@
+<document id="432C59FF80A2001836DBC9AC9545027F" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8CFFE2E40FFCEB8AE7FBDC" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Euplectrus sp. near leucostomus Rohwer" docType="treatment" docVersion="16" lastPageNumber="217" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="217" updateTime="1663770129699" updateUser="annettekang">
+<mods:mods id="593DA1A1160B1365E5DA628B7AFA7006" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="16A3154982EA10A84293B4A5B8142E7B">
+<mods:title id="567657BF08B166901A341A16D533E415">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="AB7A527860EF33F059EC531D0EF108AF" type="personal">
+<mods:role id="0B8D68F1575A67404FE16F1102524608">
+<mods:roleTerm id="BFD23389507D600A8DC154602E55D805">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B6CBB5570408B356FA1658C6CEA554B2">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="17B535AEDDE50B5643F9A40143D8CEDC">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C0D6834DED9119DD1ACF48ABB5A7F97A">text</mods:typeOfResource>
+<mods:relatedItem id="2C976C7C07613C6D42271813DC1ECD48" type="host">
+<mods:originInfo id="138AA480BFA8BFEBD7E53723E4AC353B">
+<mods:dateIssued id="03C2243033F8A938E95463BA388471C7">1946</mods:dateIssued>
+<mods:dateOther id="1029509C2AE0873EC1C9AB1481D2360C" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="AC9AD802EEE91A4533EC0B0BAD94FD66">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="C601428B6DB98B857CE1195CD037BB02">
+<mods:placeTerm id="27D0A98E9095875146CD5544C33AD05D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="4A6AE54977B0CB5FBE89390A0A712AE8">
+<mods:title id="B875C6563DF7A1F9A6787A580FBE8420">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="53279D4C2F545215CEBE29760C4802E5">
+<mods:extent id="DFF1684FE793C3B4616F88CB0687E7DD" unit="page">
+<mods:start id="74367B80A45C76FCFF60872C24BA821D">211</mods:start>
+<mods:end id="85DE5E8B30F473EBC0ADC0EA3397647B">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="A1F9E6D536BF0795CA29CCA4A93EB73E">book chapter</mods:classification>
+<mods:identifier id="0CC64AEF69A6FB554F47624A9CD68D00" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="D8C70964FBDC715C86379BD6234C5509" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="54C6020300BBB9814A3128AA421DE072" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8CFFE2E40FFCEB8AE7FBDC" ID-DOI="http://doi.org/10.5281/zenodo.5212029" ID-GBIF-Taxon="187737437" ID-Zenodo-Dep="5212029" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40FFCEB8AE7FBDC" httpUri="http://treatment.plazi.org/id/7376EC19FF8CFFE2E40FFCEB8AE7FBDC" lastPageNumber="217" pageId="6" pageNumber="217">
+<subSubSection id="B3C50E84FF8CFFE2E40FFCEB8B05FCA0" box="[268,1115,839,882]" pageId="6" pageNumber="217" type="nomenclature">
+<paragraph id="FB605D0FFF8CFFE2E40FFCEB8B05FCA0" blockId="6.[268,1665,839,1038]" box="[268,1115,839,882]" pageId="6" pageNumber="217">
+<emphasis id="C9AB811DFF8CFFE2E40FFCEB8E61FCA0" bold="true" box="[268,319,839,882]" pageId="6" pageNumber="217">45.</emphasis>
+<taxonomicName id="3CDF268CFF8CFFE2E463FCEB8B0AFCA0" authority="Rohwer" box="[352,1108,839,882]" class="Insecta" family="Aphelinidae" genus="Euplectrus" kingdom="Animalia" order="Hymenoptera" pageId="6" pageNumber="217" phylum="Arthropoda" rank="genus">
+<emphasis id="C9AB811DFF8CFFE2E463FCEB8D7DFCA0" bold="true" box="[352,547,839,882]" pageId="6" pageNumber="217">Euplectrus</emphasis>
+sp. near 
+<emphasis id="C9AB811DFF8CFFE2E7D7FCEB8CEFFCA0" bold="true" box="[724,945,839,882]" pageId="6" pageNumber="217">leucostomus</emphasis>
+<author id="2362B5EAFF8CFFE2E6C1FCEB8B0AFCA0" box="[962,1108,839,882]" pageId="6" pageNumber="217">Rohwer</author>
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8CFFE2E168FCEB8EA2FC77" pageId="6" pageNumber="217" type="reference_group">
+<paragraph id="FB605D0FFF8CFFE2E168FCEB8EA2FC77" blockId="6.[268,1665,839,1038]" pageId="6" pageNumber="217">
+<treatmentCitationGroup id="DBCF7A21FF8CFFE2E168FCEB8EA2FC77" pageId="6" pageNumber="217">
+<treatmentCitation id="7A7E7B1EFF8CFFE2E168FCEB8EA2FC77" author="Rohwer" page="134" pageId="6" pageNumber="217" year="1921">
+<bibCitation id="2EF55563FF8CFFE2E168FCEB8EA2FC77" author="Rohwer" journalOrPublisher="Ann. Mag. Nat. Hist." pageId="6" pageNumber="217" pagination="134" part="7" refId="ref2806" type="journal article" year="1921">
+<journalOrPublisher id="211E57C3FF8CFFE2E168FCEB8AA7FCA0" box="[1131,1529,839,882]" pageId="6" pageNumber="217">Ann. Mag. Nat. Hist.</journalOrPublisher>
+, IX, 
+<emphasis id="C9AB811DFF8CFFE2E35FFCEB89DFFCA0" bold="true" box="[1628,1665,839,882]" pageId="6" pageNumber="217">
+<part id="8F7BF792FF8CFFE2E35FFCEB8930FCA0" box="[1628,1646,839,882]" pageId="6" pageNumber="217" type="volume">7</part>
+:
+</emphasis>
+<pagination id="C216A3FBFF8CFFE2E44EFCD18ED4FC77" box="[333,394,893,933]" pageId="6" pageNumber="217" type="pagination">134</pagination>
+, 
+<year id="8F771C5CFF8CFFE2E4A0FCD18EA9FC77" box="[419,503,893,933]" pageId="6" pageNumber="217">1921</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8CFFE2E44DFC1C8AE7FBDC" pageId="6" pageNumber="217" type="materials_examined">
+<paragraph id="FB605D0FFF8CFFE2E44DFC1C8AE7FBDC" blockId="6.[268,1665,839,1038]" pageId="6" pageNumber="217">
+<materialsCitation id="4BB75752FF8CFFE2E44DFC1C8AE7FBDC" ID-GBIF-Occurrence="3345364325" collectedFrom="reared from an unidentified caterpillar on Eugenia" collectingDate="1936-06-30" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="6" pageNumber="217" specimenCount="3">
+<collectingMunicipality id="1B04C775FF8CFFE2E44DFC1C8D5AFC09" box="[334,516,944,987]" pageId="6" pageNumber="217">Machanao</collectingMunicipality>
+, 
+<date id="8F617BCFFF8CFFE2E723FC1C8DECFC09" box="[544,690,944,987]" pageId="6" pageNumber="217" value="1930-06">
+<collectingDate id="9F258227FF8CFFE2E723FC1C8DECFC09" box="[544,690,944,987]" pageId="6" pageNumber="217" value="1930-06">June 30</collectingDate>
+</date>
+, reared from an unidentified caterpillar on 
+<emphasis id="C9AB811DFF8CFFE2E0E4FC1C89DFFC09" box="[1511,1665,944,987]" italics="true" pageId="6" pageNumber="217">
+<taxonomicName id="3CDF268CFF8CFFE2E0E4FC1C8925FC09" box="[1511,1659,944,987]" class="Insecta" family="Tachinidae" genus="Eugenia" kingdom="Animalia" order="Diptera" pageId="6" pageNumber="217" phylum="Arthropoda" rank="genus">Eugenia</taxonomicName>
+,
+</emphasis>
+<collectorName id="562A38D9FF8CFFE2E40CFC488ECBFBDC" box="[271,405,996,1038]" pageId="6" pageNumber="217">Swezey</collectorName>
+. Three 
+<specimenCount id="EDD99686FF8CFFE2E72FFC488D80FBDC" box="[556,734,996,1038]" pageId="6" pageNumber="217" type="generic">specimens</specimenCount>
+, one retained in 
+<collectingCountry id="83C81D9FFF8CFFE2E104FC488B3CFBDC" box="[1031,1122,996,1038]" name="United States of America" pageId="6" pageNumber="217">U. S.</collectingCountry>
+<location id="FE000BD4FF8CFFE2E170FC488AEAFBDC" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40FFCEB8AE7FBDC:FE000BD4FF8CFFE2E170FC488AEAFBDC" box="[1139,1460,996,1038]" country="United States of America" municipality="Machanao" name="National Museum" pageId="6" pageNumber="217">National Museum</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

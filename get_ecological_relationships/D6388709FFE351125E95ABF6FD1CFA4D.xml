@@ -1,0 +1,324 @@
+<document id="4E192CEEB2243117BA1C1839939BAA2A" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFE351125E95ABF6FD1CFA4D" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Trigonops vulgaris Zimmerman. 1942, new species" docType="treatment" docVersion="22" lastPageNumber="93" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="92" updateTime="1671054461980" updateUser="ExternalLinkService">
+<mods:mods id="AD2F8B5681DBD624FFDBE5AD19EA3692" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="26C77AFCA570B36F991C0368581FE6D8">
+<mods:title id="8226E2BC28C1950D9BDC913C095D4ADE">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="00DCACCC238BC1EFF38E1098D1E66559" type="personal">
+<mods:role id="25DAFEDA0F22F00CDD419B721D9C0141">
+<mods:roleTerm id="4AC511AC0103E08EC0951B37AD67CB1B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C9DCC52D55E1A3FAFF0C41603740F3AD">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="3AF401176B09CB8F4F54EA6C72E07B06">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C26A0DA01E517A537E7F234E6B5B83E4">text</mods:typeOfResource>
+<mods:relatedItem id="B91B52D8EEDF5D8EFD6A408CF42638DC" type="host">
+<mods:originInfo id="04AA5895C37911AA74B055ADAE44DDE0">
+<mods:dateIssued id="4FB2742E8D375DA9B5EAE2B420AAA1EB">1942</mods:dateIssued>
+<mods:dateOther id="F1AF4C5737C1FCC0C528BCAE0509A60E" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="BEB43ED99A7362B861D70DA810947812">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="273EBF08680905256A82C7912E78F064">
+<mods:placeTerm id="08B0F7216CC5389DB3260CD55808FC1D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="4F5B5200C5169E716A0AE0AFF4E15D3D">
+<mods:title id="130E15CE193A74A2F345E895F38ED475">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="2795E39F5470D70C376E272D9965791B">
+<mods:extent id="32A5C317C0A125F5BE2360A25E9F3D22" unit="page">
+<mods:start id="39195C96E99F5393915E476A09FABC2E">73</mods:start>
+<mods:end id="3D8A27822D5ECF2AD2BEA7B6A5547E21">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="FA8C9DA368CA21C920458721D30EC6B6">book chapter</mods:classification>
+<mods:identifier id="FB31F7BAC31915DF6235956B823AE50E" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="549F92BC33BD701F5FF95A3BFDC9B73A" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="0BC1E0580158D56C865D4348D94BBF28" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFE351125E95ABF6FD1CFA4D" ID-DOI="http://doi.org/10.5281/zenodo.5184781" ID-GBIF-Taxon="184097868" ID-Zenodo-Dep="5184781" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D" httpUri="http://treatment.plazi.org/id/D6388709FFE351125E95ABF6FD1CFA4D" lastPageId="20" lastPageNumber="93" pageId="19" pageNumber="92">
+<subSubSection id="168B6594FFE351155E95ABF6FA1EFB41" box="[462,1508,1196,1239]" pageId="19" pageNumber="92" type="nomenclature">
+<paragraph id="5E2E361FFFE351155E95ABF6FA1EFB41" blockId="19.[458,1858,1196,2546]" box="[462,1508,1196,1239]" pageId="19" pageNumber="92">
+<heading id="05668173FFE351155E95ABF6FA1EFB41" box="[462,1508,1196,1239]" fontSize="11" level="2" pageId="19" pageNumber="92" reason="2">
+<emphasis id="6CE5EA0DFFE351155E95ABF6FC83FB41" bold="true" box="[462,889,1196,1239]" pageId="19" pageNumber="92">
+9. 
+<taxonomicName id="99914D9CFFE351155D56ABF6FC88FB41" authority="Zimmerman, 1942" authorityName="Zimmerman." authorityYear="1942" box="[525,882,1196,1239]" class="Insecta" family="Curculionidae" genus="Trigonops" kingdom="Animalia" order="Coleoptera" pageId="19" pageNumber="92" phylum="Arthropoda" rank="species" species="vulgaris" status="new species">Trigonops vulgaris</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="77D65776FFE351155CD7ABF6FB9BFB41" box="[908,1121,1196,1239]" pageId="19" pageNumber="92" rank="species">new species</taxonomicNameLabel>
+(pl. 1, 
+<emphasis id="6CE5EA0DFFE351155BA3ABF6FADFFB41" box="[1272,1317,1196,1239]" italics="true" pageId="19" pageNumber="92">G;</emphasis>
+<figureCitation id="C6AA2A9AFFE351155A62ABF6FA62FB41" box="[1337,1432,1196,1239]" captionStart="FIGURE 1.-0" captionStartId="18.[350,458,2300,2336]" captionTargetPageId="18" captionText="FIGURE 1.-0utlines of structures of Curculionidae: a, b, outlines of heads of (a) Trigonops convexa and (b) T. vulgaris, showing convexity of eyes; c, d, lateral outlines of aedeagus of (c) Microcryptorhynchus guamae and (d) M. premnae; e, f, dorsal outline of aedeagus of (e) M. premnae and (f) M. guamae; g, h, apices of mesotibiae of (g) Choerorrhi1wides flavisetosus and (h) C. marshalli." figureDoi="http://doi.org/10.5281/zenodo.5167921" httpUri="https://zenodo.org/record/5167921/files/figure.png" pageId="19" pageNumber="92">fig. 1</figureCitation>
+, 
+<emphasis id="6CE5EA0DFFE351155AEEABF6FA1EFB41" box="[1461,1508,1196,1239]" italics="true" pageId="19" pageNumber="92">b).</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE351125D4AABBBFB77FDC3" lastPageId="20" lastPageNumber="93" pageId="19" pageNumber="92" type="description">
+<paragraph id="5E2E361FFFE351155D4AABBBF905FAEE" blockId="19.[458,1858,1196,2546]" pageId="19" pageNumber="92">Derm dark reddish brown to black; scaling variable, basically brownish gray to grayish brown, often with some dark brown scaling, prothorax usually with lateral scaling paler and often with a pale median vitta, with at least a patch of dark scales in front of elytral intervals 2 and 3; elytra usually with a broad V-shaped fascia of paler scales.</paragraph>
+<paragraph id="5E2E361FFFE351125D54AA21FB77FDC3" blockId="19.[458,1858,1196,2546]" lastBlockId="20.[293,1689,334,1499]" lastPageId="20" lastPageNumber="93" pageId="19" pageNumber="92">
+<emphasis id="6CE5EA0DFFE351155D54AA21FD98FA08" box="[527,610,1403,1438]" italics="true" pageId="19" pageNumber="92">Head</emphasis>
+with the small punctures almost all concealed by dense scaling, usually with a small bare spot, or short bare vitta adjacent to apex of interocular suture; eyes quite strongly protuberant, subhemispherical, abruptly interrupting lateral cephalic outline, obviously shorter than distance between them. 
+<emphasis id="6CE5EA0DFFE351155B31AAB7FB16F986" box="[1130,1260,1517,1552]" italics="true" pageId="19" pageNumber="92">Rostrum</emphasis>
+with area between transrostral carina and basal suture normally flat or but slightly longitudinally convex and slightly or distinctly depressed below level of transrostral carina, distance between carina and basal suture obviously shorter than narrowest interocular breadth, with or without a trace of a median carina; apical declivitous part finely to coarsely punctate, squamae scattered except for usual condensation at base. 
+<emphasis id="6CE5EA0DFFE351155B64A9F7FB37F946" box="[1087,1229,1709,1744]" italics="true" pageId="19" pageNumber="92">Antennae</emphasis>
+with scape longer than seven funicular segments, setae usually, but not always, conspicuously slanting away from derm; funicular segments as follows in length: (1, 1.3) (2, 1.2) (3, 0.9) (4, 5, 6, and 7, 0.8); TODO club as long as three preceding funicular segments, its first segment a third or a fourth longer than second. 
+<emphasis id="6CE5EA0DFFE351155D14A81CFD15F8FE" box="[591,751,1862,1896]" italics="true" pageId="19" pageNumber="92">Prothora.1:</emphasis>
+slightly broader than long, broadest at about middle and rather evenly arcuate on sides; disk closely set with moderately large punctures, interstices narrower or broader than punctures and densely squamose, setae inserted at outer edges of punctures, transversely placed, usually quite closely appressed and extending across their punctures. 
+<emphasis id="6CE5EA0DFFE351155D63A884FD61F797" box="[568,667,2014,2049]" italics="true" pageId="19" pageNumber="92">Elytra</emphasis>
+about three fourths as broad as long, twice as long as prothorax, broadest somewhat before middle, broadly arcuate on sides to about apical third thence strongly narrowed to apex; striae well defined throughout, discal punctures often preceded by small tubercles near base; intervals flat to slightly convex on disk, densely squamose, scales finely to rather coarsely reticulate, rounded or angular, flat, closely appressed to derm, discal setae usually quite conspicuous and slanting steeply away from derm, but in some individuals much shorter, decumbent and not conspicuous, normally longer and more erect on declivity, often with a fe~ble sutural fascicle on declivity. 
+<emphasis id="6CE5EA0DFFE351155A2CA7B3FA3AF69A" box="[1399,1472,2281,2316]" italics="true" pageId="19" pageNumber="92">Legs</emphasis>
+with hind femora reaching to about middle of fifth ventrite in female and about to apex in male, setae usually slanting away from derm, especially along lower edge of shaft, but often rather closely appressed dorsally; hind tibial setae bristling. 
+<emphasis id="6CE5EA0DFFE351155BFEA606FAD2F6E9" box="[1189,1320,2396,2431]" italics="true" pageId="19" pageNumber="92">Sternum</emphasis>
+with prosternum one half as long between fore margin and coxal cavity as between cavity and hind margin, intercoxal process one fourth to one third as broad as a fore coxa, coarsely punctate, densely squamose; mesosternum with side pieces, excluding bare space adjacent to coxae, densely squamose; metasternum more than three fourths to about as long between mid and hind coxae as breadth of a mesocoxa, densely, moderately coarsely punctate, setae slanting steeply. 
+<emphasis id="6CE5EA0DFFE451125EF4AEC3FDEFFE2B" box="[431,533,409,445]" italics="true" pageId="20" pageNumber="93">Venter</emphasis>
+with first ventrite mostly or entirely free from scales down middle in both sexes, punctate as metasternum, tumid in female, depressed or impressed in male; second ventrite free from scales at middle of base only; ventrites 3 and 4 punctate, setose and sometimes squamose from side to side; ventrite 5 densely punctate and setose, usually with scattered squamae. Length, 4-5.5 mm.; breadth, 
+<quantity id="99699BFAFFE451125B49AD68FB73FDC3" box="[1042,1161,562,597]" metricMagnitude="-3" metricUnit="m" metricValue="2.5" metricValueMax="3.0" metricValueMin="2.0" pageId="20" pageNumber="93" unit="mm" value="2.5" valueMax="3.0" valueMin="2.0">2-3 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE451125E3FAD28FD8CFAFA" pageId="20" pageNumber="93" type="materials_examined">
+<paragraph id="5E2E361FFFE451125E3FAD28FD8CFAFA" blockId="20.[293,1689,334,1499]" pageId="20" pageNumber="93">
+<materialsCitation id="EEF93C42FFE451125E3FAD28FAFCFD0B" ID-GBIF-Occurrence="3333874367" box="[356,1286,626,669]" collectingDate="1936-11-25" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="20" pageNumber="93" specimenCount-male="1" typeStatus="holotype">
+<typeStatus id="812A88BDFFE451125E3FAD28FDFDFD0B" box="[356,519,626,669]" pageId="20" pageNumber="93">Holotype</typeStatus>
+<specimenCount id="4897FD96FFE451125D4CAD28FD96FD0B" box="[535,620,626,669]" pageId="20" pageNumber="93" type="male">male</specimenCount>
+, 
+<collectingMunicipality id="BE4AAC65FFE451125DDDAD28FCC7FD0B" box="[646,829,626,669]" pageId="20" pageNumber="93">Machanao</collectingMunicipality>
+, 
+<date id="2A2F10DFFFE451125C0CAD28FBA2FD0B" box="[855,1112,626,669]" pageId="20" pageNumber="93" value="1936-11-25">
+<collectingDate id="3A6BE937FFE451125C0CAD28FBA2FD0B" box="[855,1112,626,669]" pageId="20" pageNumber="93" value="1936-11-25">Nov. 25, 1936</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFE451125B29AD28FB05FD0B" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125B29AD28FB05FD0B" box="[1138,1279,626,669]" municipality="Machanao" name="Swezey" pageId="20" pageNumber="93">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125A42AD28FB6EFD46" ID-GBIF-Occurrence="3333874313" collectedFrom="from Piper guahamense" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="20" pageNumber="93" specimenCount-female="1" typeStatus="allotype">
+<typeStatus id="812A88BDFFE451125A42AD28FA5BFD0B" box="[1305,1441,626,669]" pageId="20" pageNumber="93">allotype</typeStatus>
+<specimenCount id="4897FD96FFE451125AEFAD28F9D1FD0B" box="[1460,1579,626,669]" pageId="20" pageNumber="93" type="female">female</specimenCount>
+, same locality, from 
+<emphasis id="6CE5EA0DFFE451125D47ADFCFC92FD46" box="[540,872,678,720]" italics="true" pageId="20" pageNumber="93">
+<taxonomicName id="99914D9CFFE451125D47ADFCFC98FD46" box="[540,866,678,720]" class="Magnoliopsida" family="Piperaceae" genus="Piper" kingdom="Plantae" order="Piperales" pageId="20" pageNumber="93" phylum="Tracheophyta" rank="species" species="guahamense">
+<collectingMunicipality id="BE4AAC65FFE451125D47ADFCFD85FD46" box="[540,639,678,720]" pageId="20" pageNumber="93">Piper</collectingMunicipality>
+guahamense
+</taxonomicName>
+,
+</emphasis>
+<date id="2A2F10DFFFE451125C2FADFCFC10FD46" box="[884,1002,678,720]" pageId="20" pageNumber="93">
+<collectingDate id="3A6BE937FFE451125C2FADFCFC10FD46" box="[884,1002,678,720]" pageId="20" pageNumber="93">June 4</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFE451125B5BADFCFB77FD46" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125B5BADFCFB77FD46" box="[1024,1165,678,720]" municipality="Piper" name="Swezey" pageId="20" pageNumber="93">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125BFAADFCFB8EFC95" ID-GBIF-Occurrence="3333874422" collectedFrom="from Piper guahamense" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="20" pageNumber="93" specimenCount="10" typeStatus="paratype">
+and the following 
+<typeStatus id="812A88BDFFE451125A85ADFCF968FD46" box="[1502,1682,678,720]" pageId="20" pageNumber="93">paratypes</typeStatus>
+: 
+<specimenCount id="4897FD96FFE451125E72AD80FDF0FC95" box="[297,522,730,771]" pageId="20" pageNumber="93" type="generic">10 specimens</specimenCount>
+with the same data as the 
+<typeStatus id="812A88BDFFE451125CB8AD80FB94FC95" box="[995,1134,730,771]" pageId="20" pageNumber="93">allotype</typeStatus>
+,
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125BD8AD80FD93FCA0" ID-GBIF-Occurrence="3333874422" collectedFrom="from &quot;spiny amaranth&quot;" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="20" pageNumber="93" specimenCount="3" typeStatus="paratype">three with same data but from &quot;spiny amaranth&quot;,</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125D21AC57FA13FCA0" ID-GBIF-Occurrence="3333874408" box="[634,1513,781,822]" collectedFrom="from Ipomoea pes-caprae" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="20" pageNumber="93" specimenCount="5">
+five with same data but from 
+<taxonomicName id="99914D9CFFE451125BD3AC57FA13FCA0" box="[1160,1513,781,822]" class="Magnoliopsida" family="Convolvulaceae" genus="Ipomoea" kingdom="Plantae" order="Solanales" pageId="20" pageNumber="93" phylum="Tracheophyta" rank="species" species="pes-caprae">
+<emphasis id="6CE5EA0DFFE451125BD3AC57FA13FCA0" box="[1160,1513,781,822]" italics="true" pageId="20" pageNumber="93">
+<collectingMunicipality id="BE4AAC65FFE451125BD3AC57FADBFCA0" box="[1160,1313,781,822]" pageId="20" pageNumber="93">Ipomoea</collectingMunicipality>
+pes-caprae
+</emphasis>
+</taxonomicName>
+</materialsCitation>
+<emphasis id="6CE5EA0DFFE451125AB2AC57FA15FCA0" box="[1513,1519,781,822]" italics="true" pageId="20" pageNumber="93">,</emphasis>
+<materialsCitation id="EEF93C42FFE451125AA5AC57FB72FCFF" ID-GBIF-Occurrence="3333874392" collectedFrom="ex Ipomoea sp." collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="20" pageNumber="93" specimenCount="1">
+two with same data but one labeled &quot; 
+<specimenCount id="4897FD96FFE451125C1AAC1AFC8BFCFF" box="[833,881,832,873]" pageId="20" pageNumber="93" type="generic">ex</specimenCount>
+<taxonomicName id="99914D9CFFE451125CD2AC1AFB8BFCFF" box="[905,1137,832,873]" class="Magnoliopsida" family="Convolvulaceae" genus="Ipomoea" kingdom="Plantae" order="Solanales" pageId="20" pageNumber="93" phylum="Tracheophyta" rank="species" species="undetermined">
+<emphasis id="6CE5EA0DFFE451125CD2AC1AFBD8FCFF" box="[905,1058,832,873]" italics="true" pageId="20" pageNumber="93">
+<location id="5B4E60C4FFE451125CD2AC1AFBD8FCFF" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125CD2AC1AFBD8FCFF" box="[905,1058,832,873]" name="Ipomoea" pageId="20" pageNumber="93">Ipomoea</location>
+</emphasis>
+<specimenCount id="4897FD96FFE451125B61AC1AFB8BFCFF" box="[1082,1137,832,873]" pageId="20" pageNumber="93" type="generic">sp.</specimenCount>
+</taxonomicName>
+&quot;,
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125BF8AC1AFE22FC0B" ID-GBIF-Occurrence="3333874429" collectedFrom="&quot;on Amaranthus spinosus&quot;" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="20" pageNumber="93" specimenCount="1">
+the other &quot;on 
+<emphasis id="6CE5EA0DFFE451125AE6AC1AFE22FC0B" italics="true" pageId="20" pageNumber="93">
+<taxonomicName id="99914D9CFFE451125AE6AC1AFE3FFC0B" class="Magnoliopsida" family="Amaranthaceae" genus="Amaranthus" kingdom="Plantae" order="Caryophyllales" pageId="20" pageNumber="93" phylum="Tracheophyta" rank="species" species="spinosus">
+<collectingMunicipality id="BE4AAC65FFE451125AE6AC1AF962FCFF" box="[1469,1688,832,873]" pageId="20" pageNumber="93">Amaranthus</collectingMunicipality>
+spinosus
+</taxonomicName>
+&quot;,
+</emphasis>
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125EA8AC2EFE40FC47" ID-GBIF-Occurrence="3333874357" collectedFrom="miscellaneous sweeping" collectingDate="1936-06-02" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="20" pageNumber="93" specimenCount="1">
+one taken at same locality in miscellaneous sweeping, 
+<date id="2A2F10DFFFE451125956AC2EF975FC0B" box="[1549,1679,884,925]" pageId="20" pageNumber="93">
+<collectingDate id="3A6BE937FFE451125956AC2EF975FC0B" box="[1549,1679,884,925]" pageId="20" pageNumber="93">June 2</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFE451125E7CACFFFE49FC47" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125E7CACFFFE49FC47" box="[295,435,933,977]" municipality="Amaranthus" name="Swezey" pageId="20" pageNumber="93">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125E8AACFFF96DFC47" ID-GBIF-Occurrence="3333874454" box="[465,1687,933,977]" collectedFrom="from Ficus sp. (hodda)" collectingDate="1936-08-07" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="20" pageNumber="93" specimenCount="4">
+<specimenCount id="4897FD96FFE451125E8AACFFFD1BFC47" box="[465,737,933,977]" pageId="20" pageNumber="93" type="generic">four specimens</specimenCount>
+, 
+<collectingMunicipality id="BE4AAC65FFE451125DA0ACFFFC7EFC47" box="[763,900,933,977]" pageId="20" pageNumber="93">Dededo</collectingMunicipality>
+, from 
+<taxonomicName id="99914D9CFFE451125B5CACFFFB52FC47" box="[1031,1192,933,977]" class="Gastropoda" family="Ficidae" genus="Ficus" kingdom="Animalia" order="Littorinimorpha" pageId="20" pageNumber="93" phylum="Mollusca" rank="species" species="undetermined">
+<emphasis id="6CE5EA0DFFE451125B5CACFFFB93FC47" box="[1031,1129,933,977]" italics="true" pageId="20" pageNumber="93">
+<location id="5B4E60C4FFE451125B5CACFFFB93FC47" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125B5CACFFFB93FC47" box="[1031,1129,933,977]" municipality="Dededo" name="Ficus" pageId="20" pageNumber="93">Ficus</location>
+</emphasis>
+<specimenCount id="4897FD96FFE451125B20ACFFFB52FC47" box="[1147,1192,933,977]" pageId="20" pageNumber="93" type="generic">sp.</specimenCount>
+</taxonomicName>
+<emphasis id="6CE5EA0DFFE451125B99ACFFFAA4FC47" box="[1218,1374,933,977]" italics="true" pageId="20" pageNumber="93">(hodda),</emphasis>
+<date id="2A2F10DFFFE451125A2AACFFFA15FC47" box="[1393,1519,933,977]" pageId="20" pageNumber="93">
+<collectingDate id="3A6BE937FFE451125A2AACFFFA15FC47" box="[1393,1519,933,977]" pageId="20" pageNumber="93">Aug. 7</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFE451125950ACFFF96BFC47" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125950ACFFF96BFC47" box="[1547,1681,933,977]" municipality="Dededo" name="Swezey" pageId="20" pageNumber="93">Swezey</location>
+,
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125E7EAC80FDA1FB92" ID-GBIF-Occurrence="3990062301" box="[293,603,986,1028]" collectedFrom="from banana" collectingDate="1936-08-07" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="20" pageNumber="93" specimenCount="1">one from banana,</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125D30AC80FB10FB92" ID-GBIF-Occurrence="3913856326" box="[619,1258,986,1028]" collectedFrom="from Ipomoea pes-caprae" collectingDate="1936-08-07" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="20" pageNumber="93" specimenCount="1">
+the other from 
+<emphasis id="6CE5EA0DFFE451125CDAAC80FB10FB92" box="[897,1258,986,1028]" italics="true" pageId="20" pageNumber="93">
+<taxonomicName id="99914D9CFFE451125CDAAC80FB1EFB92" box="[897,1252,986,1028]" class="Magnoliopsida" family="Convolvulaceae" genus="Ipomoea" kingdom="Plantae" order="Solanales" pageId="20" pageNumber="93" phylum="Tracheophyta" rank="species" species="pes-caprae">
+<location id="5B4E60C4FFE451125CDAAC80FBE0FB92" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125CDAAC80FBE0FB92" box="[897,1050,986,1028]" name="Ipomoea" pageId="20" pageNumber="93">Ipomoea</location>
+pes-caprae
+</taxonomicName>
+,
+</emphasis>
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125BA2AC80FDFCFBA1" ID-GBIF-Occurrence="3913856305" collectingDate="1936-05-11" collectorName="R. L. Usinger" country="Guam" location="Dededo" pageId="20" pageNumber="93" specimenCount="1">
+one at same place, 
+<date id="2A2F10DFFFE451125911AC80FEB5FBA1" pageId="20" pageNumber="93" value="2011-05">
+<collectingDate id="3A6BE937FFE451125911AC80FEB5FBA1" pageId="20" pageNumber="93" value="2011-05">
+May 
+<emphasis id="6CE5EA0DFFE451125E7CAB56FEACFBA1" bold="true" box="[295,342,1036,1079]" pageId="20" pageNumber="93">11,</emphasis>
+</collectingDate>
+</date>
+<location id="5B4E60C4FFE451125E33AB56FE05FBA1" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125E33AB56FE05FBA1" box="[360,511,1036,1079]" name="Usinger" pageId="20" pageNumber="93">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125D42AB56FA95FBA1" ID-GBIF-Occurrence="3333874343" box="[537,1391,1036,1079]" collectedFrom="from Terminalia" collectingDate="1936-11-13" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="20" pageNumber="93" specimenCount="5">
+five, 
+<collectingMunicipality id="BE4AAC65FFE451125D28AB56FD36FBA1" box="[627,716,1036,1079]" pageId="20" pageNumber="93">Yigo</collectingMunicipality>
+, from 
+<emphasis id="6CE5EA0DFFE451125C0BAB56FBE1FBA1" box="[848,1051,1036,1079]" italics="true" pageId="20" pageNumber="93">
+<taxonomicName id="99914D9CFFE451125C0BAB56FBEFFBA1" box="[848,1045,1036,1079]" class="Magnoliopsida" family="Combretaceae" genus="Terminalia" kingdom="Plantae" order="Myrtales" pageId="20" pageNumber="93" phylum="Tracheophyta" rank="genus">
+<location id="5B4E60C4FFE451125C0BAB56FBEFFBA1" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125C0BAB56FBEFFBA1" box="[848,1045,1036,1079]" municipality="Yigo" name="Terminalia" pageId="20" pageNumber="93">Terminalia</location>
+</taxonomicName>
+,
+</emphasis>
+<date id="2A2F10DFFFE451125B75AB56FB3AFBA1" box="[1070,1216,1036,1079]" pageId="20" pageNumber="93" value="2013-11">
+<collectingDate id="3A6BE937FFE451125B75AB56FB3AFBA1" box="[1070,1216,1036,1079]" pageId="20" pageNumber="93" value="2013-11">Nov. 13</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFE451125B80AB56FA92FBA1" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125B80AB56FA92FBA1" box="[1243,1384,1036,1079]" municipality="Yigo" name="Swezey" pageId="20" pageNumber="93">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125ADAAB56FCB2FBFA" ID-GBIF-Occurrence="3333874329" collectedFrom="from Piper" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="20" pageNumber="93" specimenCount="2">
+two, 
+<collectingMunicipality id="BE4AAC65FFE451125A86AB56F96AFBA1" box="[1501,1680,1036,1079]" pageId="20" pageNumber="93">Barrigada</collectingMunicipality>
+, from 
+<emphasis id="6CE5EA0DFFE451125ED4AB1AFE00FBFA" box="[399,506,1088,1132]" italics="true" pageId="20" pageNumber="93">
+<taxonomicName id="99914D9CFFE451125ED4AB1AFE09FBFA" box="[399,499,1088,1132]" class="Magnoliopsida" family="Piperaceae" genus="Piper" kingdom="Plantae" order="Piperales" pageId="20" pageNumber="93" phylum="Tracheophyta" rank="genus">
+<location id="5B4E60C4FFE451125ED4AB1AFE09FBFA" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125ED4AB1AFE09FBFA" box="[399,499,1088,1132]" municipality="Barrigada" name="Piper" pageId="20" pageNumber="93">Piper</location>
+</taxonomicName>
+,
+</emphasis>
+<date id="2A2F10DFFFE451125D55AB1AFD62FBFA" box="[526,664,1088,1132]" pageId="20" pageNumber="93" value="1922-07">
+<collectingDate id="3A6BE937FFE451125D55AB1AFD62FBFA" box="[526,664,1088,1132]" pageId="20" pageNumber="93" value="1922-07">July 22</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFE451125DEEAB1AFCBBFBFA" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125DEEAB1AFCBBFBFA" box="[693,833,1088,1132]" municipality="Barrigada" name="Swezey" pageId="20" pageNumber="93">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125C06AB1AFE71FB09" ID-GBIF-Occurrence="3913856319" collectedFrom="from fence" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="20" pageNumber="93" specimenCount="1">
+two, 
+<collectingMunicipality id="BE4AAC65FFE451125CE0AB1AFB97FBFA" box="[955,1133,1088,1132]" pageId="20" pageNumber="93">Upi Trail</collectingMunicipality>
+, 
+<date id="2A2F10DFFFE451125BD2AB1AFAFBFBFA" box="[1161,1281,1088,1132]" pageId="20" pageNumber="93">
+<collectingDate id="3A6BE937FFE451125BD2AB1AFAFBFBFA" box="[1161,1281,1088,1132]" pageId="20" pageNumber="93">May 5</collectingDate>
+</date>
+, one by 
+<location id="5B4E60C4FFE451125AF2AB1AF9D6FBFA" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125AF2AB1AF9D6FBFA" box="[1449,1580,1088,1132]" municipality="Upi Trail" name="Swezey" pageId="20" pageNumber="93">Swezey</location>
+from fence,
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125EF9AB2EFD4BFB09" ID-GBIF-Occurrence="3913856314" box="[418,689,1140,1183]" collectingDate="1936-05-05" collectorName="E. H. Bryan" country="Guam" location="Upi Trail" pageId="20" pageNumber="93" specimenCount="1">
+one by 
+<collectingMunicipality id="BE4AAC65FFE451125D6FAB2EFD50FB09" box="[564,682,1140,1183]" pageId="20" pageNumber="93">Bryan</collectingMunicipality>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125D93AB2EFAD4FB09" ID-GBIF-Occurrence="3333874352" box="[712,1326,1140,1183]" collectingDate="1936-11-18" collectorName="O. H. Swezey" country="Guam" location="Talofofo" pageId="20" pageNumber="93" specimenCount="1">
+one, 
+<collectingMunicipality id="BE4AAC65FFE451125C7EAB2EFC3DFB09" box="[805,967,1140,1183]" pageId="20" pageNumber="93">Talofofo</collectingMunicipality>
+, 
+<date id="2A2F10DFFFE451125CBEAB2EFB81FB09" box="[997,1147,1140,1183]" pageId="20" pageNumber="93" value="2018-11">
+<collectingDate id="3A6BE937FFE451125CBEAB2EFB81FB09" box="[997,1147,1140,1183]" pageId="20" pageNumber="93" value="2018-11">Nov. 18</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFE451125BC0AB2EFADDFB09" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125BC0AB2EFADDFB09" box="[1179,1319,1140,1183]" municipality="Talofofo" name="Swezey" pageId="20" pageNumber="93">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125A1DAB2EFD93FB44" ID-GBIF-Occurrence="3333874420" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="20" pageNumber="93" specimenCount="4">
+four from &quot; 
+<collectingCountry id="2686768FFFE451125978AB2EFE63FB44" name="Island Guam" pageId="20" pageNumber="93">Island Guam</collectingCountry>
+&quot;, 
+<collectingMunicipality id="BE4AAC65FFE451125EE5ABF2FD9EFB44" box="[446,612,1192,1234]" pageId="20" pageNumber="93">Fullaway</collectingMunicipality>
+.
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125DDDABF2F9DAFA93" ID-GBIF-Occurrence="3333874384" collectedFrom="from PIper guahamense" collectingDate="1937-08-15" collectorName="R. G. Oakley" country="Guam" location="U. S. National Museum" pageId="20" pageNumber="93" specimenCount="6">
+<collectingMunicipality id="BE4AAC65FFE451125DDDABF2FD36FB44" box="[646,716,1192,1234]" pageId="20" pageNumber="93">The</collectingMunicipality>
+following 
+<specimenCount id="4897FD96FFE451125CCEABF2FBB9FB44" box="[917,1091,1192,1234]" pageId="20" pageNumber="93" type="generic">specimens</specimenCount>
+are from the 
+<location id="5B4E60C4FFE451125A13ABF2F96BFB44" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125A13ABF2F96BFB44" box="[1352,1681,1192,1234]" municipality="The" name="National Museum" pageId="20" pageNumber="93">National Museum</location>
+: six, from 
+<taxonomicName id="99914D9CFFE451125E8DAB83FC7DFA93" authority=", Aug." authorityName="Aug." box="[470,903,1241,1285]" class="Magnoliopsida" family="Piperaceae" genus="Piper" kingdom="Plantae" order="Piperales" pageId="20" pageNumber="93" phylum="Tracheophyta" rank="species" species="guahamense">
+<emphasis id="6CE5EA0DFFE451125E8DAB83FCDEFA93" box="[470,804,1241,1285]" italics="true" pageId="20" pageNumber="93">
+<location id="5B4E60C4FFE451125E8DAB83FDC2FA93" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125E8DAB83FDC2FA93" box="[470,568,1241,1285]" municipality="The" name="Piper" pageId="20" pageNumber="93">Piper</location>
+guahamense,
+</emphasis>
+<date id="2A2F10DFFFE451125C68AB83FBD7FA93" box="[819,1069,1241,1285]" pageId="20" pageNumber="93" value="1937-08-15">
+<collectingDate id="3A6BE937FFE451125C68AB83FBD7FA93" box="[819,1069,1241,1285]" pageId="20" pageNumber="93" value="1937-08-15">Aug. 15, 1937</collectingDate>
+</date>
+</taxonomicName>
+, 
+<location id="5B4E60C4FFE451125B18AB83FB38FA93" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125B18AB83FB38FA93" box="[1091,1218,1241,1285]" municipality="The" name="Oakley" pageId="20" pageNumber="93">Oakley</location>
+, no. 134, 37-26120;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125974AB83FA64FAAC" ID-GBIF-Occurrence="3333874331" collectedFrom="from Vigna sinensis" collectingDate="1937-09-30" collectorName="R. G. Oakley" country="Guam" location="U. S. National Museum" pageId="20" pageNumber="93" specimenCount="7">
+seven, from 
+<taxonomicName id="99914D9CFFE451125ECAAA5DFCF9FAAC" authority=", Sept." authorityName="Sept." box="[401,771,1287,1338]" class="Magnoliopsida" family="Fabaceae" genus="Vigna" kingdom="Plantae" order="Fabales" pageId="20" pageNumber="93" phylum="Tracheophyta" rank="species" species="sinensis">
+<emphasis id="6CE5EA0DFFE451125ECAAA5DFD63FAAC" box="[401,665,1287,1338]" italics="true" pageId="20" pageNumber="93">
+<collectingMunicipality id="BE4AAC65FFE451125ECAAA5DFE03FAAC" box="[401,505,1287,1338]" pageId="20" pageNumber="93">Vigna</collectingMunicipality>
+sinensis,
+</emphasis>
+<date id="2A2F10DFFFE451125DF7AA5DFC57FAAC" box="[684,941,1287,1338]" pageId="20" pageNumber="93" value="1937-09-30">
+<collectingDate id="3A6BE937FFE451125DF7AA5DFC57FAAC" box="[684,941,1287,1338]" pageId="20" pageNumber="93" value="1937-09-30">Sept. 30, 1937</collectingDate>
+</date>
+</taxonomicName>
+, 
+<location id="5B4E60C4FFE451125C9EAA5DFBBAFAAC" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125C9EAA5DFBBAFAAC" box="[965,1088,1287,1338]" municipality="Vigna" name="Oakley" pageId="20" pageNumber="93">Oakley</location>
+no. 155, 37-26126;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE451125AF4AA5DFD8CFAFA" ID-GBIF-Occurrence="3333874344" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="20" pageNumber="93" specimenCount="1">
+<specimenCount id="4897FD96FFE451125AF4AA5DF96DFAAC" box="[1455,1687,1287,1338]" pageId="20" pageNumber="93" type="generic">one specimen</specimenCount>
+taken by 
+<location id="5B4E60C4FFE451125E91AA18FD8BFAFA" LSID="urn:lsid:plazi:treatment:D6388709FFE351125E95ABF6FD1CFA4D:5B4E60C4FFE451125E91AA18FD8BFAFA" box="[458,625,1346,1388]" name="Fullaway" pageId="20" pageNumber="93">Fullaway</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE451125E3FAA27FD1CFA4D" pageId="20" pageNumber="93" type="discussion">
+<paragraph id="5E2E361FFFE451125E3FAA27FD1CFA4D" blockId="20.[293,1689,334,1499]" pageId="20" pageNumber="93">
+The strongly convex, protuberant eyes will serve to distinguish this species fromitsally, 
+<emphasis id="6CE5EA0DFFE451125D40AAEBFD1CFA4D" box="[539,742,1457,1499]" italics="true" pageId="20" pageNumber="93">
+<taxonomicName id="99914D9CFFE451125D40AAEBFD1BFA4D" authorityName="Zimmerman." authorityYear="1942" box="[539,737,1457,1499]" class="Insecta" family="Curculionidae" genus="Trigonops" kingdom="Animalia" order="Coleoptera" pageId="20" pageNumber="93" phylum="Arthropoda" rank="species" species="convexa">T. convexa</taxonomicName>
+.
+</emphasis>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

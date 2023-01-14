@@ -1,0 +1,136 @@
+<document id="AFD929BCA106D900F411BA1973840228" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E94DFFA7FEEC84EB908804B1" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Stictoptera timesia Swinhoe" docType="treatment" docVersion="25" lastPageNumber="169" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="169" updateTime="1669841625929" updateUser="ExternalLinkService">
+<mods:mods id="1CC65CB7B4E1492E41B0D1D3BA22F6CE" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="E6C6C05700AB78E8DED8ED10AB53A2F4">
+<mods:title id="DB1B3A0EC5DB1153BD1955E0673CD432">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="3F267FEE270151D8E426643AED872418" type="personal">
+<mods:role id="B64E94F34846CABC0E118E9F94E8F21C">
+<mods:roleTerm id="0A83EB4165C1E2EA3BC59570FAFD6C36">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2A9284ACF31A434255EB1BDFF60CCC2C">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="25B469040646730B66EAB4B1E499F4C0">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A804710005580A653AC2443090E10743">text</mods:typeOfResource>
+<mods:relatedItem id="7FEAB3C4CDA7E0C339DE9BF8C0AF5F3C" type="host">
+<mods:originInfo id="0086DC5550D586E52427609474229F2A">
+<mods:dateIssued id="A9B24B7FF26B2CCCE9F29C06C8491E93">1946</mods:dateIssued>
+<mods:dateOther id="5A2F3200C720CD9E4093DBAC6CB316D7" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="7504BDF234ED1C7EB8B05B2C9D5D6186">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="CF360DD1599936C10C9D894F9C9B783A">
+<mods:placeTerm id="EF50DA980B599112155826F8BADAAB1F">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="2466B1C73DA1EE6154F65B9A146B30AC">
+<mods:title id="3E91275C125770B74D975DE34FA4C64D">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="3F0E9F01E5F4FD4DEC27BA75D00B16E8">
+<mods:extent id="2A6A2B0733503E77268DD5EB05690186" unit="page">
+<mods:start id="438286E3422187478D120286B7E02796">163</mods:start>
+<mods:end id="5A3962563161BDFAF70E652A7468DF7E">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="8514096715303B8BA33BF0A48762C579">book chapter</mods:classification>
+<mods:identifier id="913EF4D18DE8400F1C2CF154450DA9FC" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="B095F5AB746334A5F1D1FEADBA128A1D" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="71BB7E48F5C07519E102AB34407C93B2" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E94DFFA7FEEC84EB908804B1" ID-DOI="http://doi.org/10.5281/zenodo.5211900" ID-GBIF-Taxon="183926948" ID-Zenodo-Dep="5211900" LSID="urn:lsid:plazi:treatment:03B387B8E94DFFA7FEEC84EB908804B1" httpUri="http://treatment.plazi.org/id/03B387B8E94DFFA7FEEC84EB908804B1" lastPageNumber="169" pageId="6" pageNumber="169">
+<subSubSection id="C3006525E94DFFA7FEEC84EB91FF044F" box="[291,905,1750,1792]" pageId="6" pageNumber="169" type="nomenclature">
+<paragraph id="8BA536AEE94DFFA7FEEC84EB91FF044F" blockId="6.[291,1689,1750,2046]" box="[291,905,1750,1792]" pageId="6" pageNumber="169">
+<heading id="D0ED81C2E94DFFA7FEEC84EB91FF044F" box="[291,905,1750,1792]" centered="true" fontSize="8" level="2" pageId="6" pageNumber="169" reason="3">
+<emphasis id="B96EEABCE94DFFA7FEEC84EB9322044F" bold="true" box="[291,340,1750,1792]" pageId="6" pageNumber="169">12.</emphasis>
+<taxonomicName id="4C1A4D2DE94DFFA7FEBB84EB91F5044F" authority=" Swinhoe" box="[372,899,1750,1792]" class="Insecta" family="Noctuidae" genus="Stictoptera" kingdom="Animalia" order="Lepidoptera" pageId="6" pageNumber="169" phylum="Arthropoda" rank="species" species="timesia">
+<emphasis id="B96EEABCE94DFFA7FEBB84EB90A4044F" bold="true" box="[372,722,1750,1792]" pageId="6" pageNumber="169">Stictoptera timesia</emphasis>
+<author id="53A7DE4BE94DFFA7FD2984EB91F5044F" box="[742,899,1750,1792]" pageId="6" pageNumber="169">Swinhoe</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94DFFA7FC5384EB97C6047B" pageId="6" pageNumber="169" type="reference_group">
+<paragraph id="8BA536AEE94DFFA7FC5384EB94E1044F" blockId="6.[291,1689,1750,2046]" box="[924,1687,1750,1792]" pageId="6" pageNumber="169">
+<heading id="D0ED81C2E94DFFA7FC5384EB94E1044F" box="[924,1687,1750,1792]" centered="true" fontSize="8" level="2" pageId="6" pageNumber="169" reason="3">
+<treatmentCitationGroup id="AB0A1180E94DFFA7FC5384EB94E1044F" box="[924,1687,1750,1792]" pageId="6" pageNumber="169">
+<treatmentCitation id="0ABB10BFE94DFFA7FC5384EB94E1044F" author="Swinhoe" box="[924,1687,1750,1792]" page="218" pageId="6" pageNumber="169" year="1893">
+<bibCitation id="5E303EC2E94DFFA7FC5384EB94E1044F" box="[924,1687,1750,1792]" journalOrPublisher="Ann. Mag. Nat. Hist." pageId="6" pageNumber="169" pagination="218" part="12" refId="ref3575" type="journal article" year="18">
+<journalOrPublisher id="51DB3C62E94DFFA7FC5384EB9759044F" box="[924,1327,1750,1792]" pageId="6" pageNumber="169">Ann. Mag. Nat. Hist.</journalOrPublisher>
+VI, 
+<emphasis id="B96EEABCE94DFFA7FA5884EB97CC044F" bold="true" box="[1431,1466,1750,1792]" pageId="6" pageNumber="169">
+<part id="FFBE9C33E94DFFA7FA5884EB97C0044F" box="[1431,1462,1750,1792]" pageId="6" pageNumber="169" type="volume">12</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE94DFFA7FA1684EB946C044F" box="[1497,1562,1750,1792]" pageId="6" pageNumber="169" type="pagination">218</pagination>
+, 
+<year id="FFB277FDE94DFFA7F9F884EB94F2044F" box="[1591,1668,1750,1792]" pageId="6" pageNumber="169">18?3</year>
+;
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</heading>
+</paragraph>
+<paragraph id="8BA536AEE94DFFA7FEAF853497C6047B" blockId="6.[291,1689,1750,2046]" box="[352,1456,1801,1844]" pageId="6" pageNumber="169">
+<treatmentCitationGroup id="AB0A1180E94DFFA7FEAF853497C6047B" box="[352,1456,1801,1844]" pageId="6" pageNumber="169">
+<bibCitation id="5E303EC2E94DFFA7FEAF853497C6047B" author="Hampson" box="[352,1456,1801,1844]" pageId="6" pageNumber="169" pagination="157" part="11" refId="ref3593" title="Cat. Lep. Phalaenae" type="journal volume" year="1912">
+<treatmentCitation id="0ABB10BFE94DFFA7FEAF853497DD047B" author="Hampson" box="[352,1451,1801,1844]" page="177" pageId="6" pageNumber="169" year="1912">
+<author id="53A7DE4BE94DFFA7FEAF85349066047B" box="[352,528,1801,1844]" pageId="6" pageNumber="169">Hampson</author>
+, 
+<title id="F91EDD98E94DFFA7FDE7853491E2047B" box="[552,916,1801,1844]" pageId="6" pageNumber="169">Cat. Lep. Phalaenae</title>
+<emphasis id="B96EEABCE94DFFA7FC6A853491BE047B" bold="true" box="[933,968,1801,1844]" pageId="6" pageNumber="169">
+<part id="FFBE9C33E94DFFA7FC6A853491B2047B" box="[933,964,1801,1844]" pageId="6" pageNumber="169" type="volume">11</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE94DFFA7FC238534965C047B" box="[1004,1066,1801,1844]" pageId="6" pageNumber="169">157</pagination>
+, pl. 177, fig. 30, 
+<year id="FFB277FDE94DFFA7FA97853497DD047B" box="[1368,1451,1801,1844]" pageId="6" pageNumber="169">1912</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94DFFA7FEAC8500908804B1" pageId="6" pageNumber="169" type="description">
+<paragraph id="8BA536AEE94DFFA7FEAC8500908804B1" blockId="6.[291,1689,1750,2046]" pageId="6" pageNumber="169">
+This moth was described from 
+<collectingCountry id="F30D763EE94DFFA7FC73850096070428" box="[956,1137,1853,1895]" name="Singapore" pageId="6" pageNumber="169">Singapore</collectingCountry>
+, and I have not found other records. 
+<materialsCitation id="3B723CF3E94DFFA7FE068552972204D6" ID-GBIF-Occurrence="3970494309" box="[457,1364,1903,1945]" collectedFrom="at light" collectingDate="1936-08-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="169" specimenCount="1">
+Three specimens were taken at light, 
+<location id="8EC56075E94DFFA7FBA5855296DD04D6" LSID="urn:lsid:plazi:treatment:03B387B8E94DFFA7FEEC84EB908804B1:8EC56075E94DFFA7FBA5855296DD04D6" box="[1130,1195,1903,1945]" pageId="6" pageNumber="169">
+<collectingMunicipality id="6BC1ACD4E94DFFA7FBA5855296DD04D6" box="[1130,1195,1903,1945]" pageId="6" pageNumber="169">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE94DFFA7FB0C8552972204D6" box="[1219,1364,1903,1945]" pageId="6" pageNumber="169" value="2020-08">
+<collectingDate id="EFE0E986E94DFFA7FB0C8552972204D6" box="[1219,1364,1903,1945]" pageId="6" pageNumber="169" value="2020-08">Aug. 20</collectingDate>
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E94DFFA7FAA38552978804D6" ID-GBIF-Occurrence="3913652415" box="[1388,1534,1903,1945]" collectedFrom="at light" collectingDate="1936-09-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="169" specimenCount="1">
+<date id="FFA4106EE94DFFA7FAA38552978804D6" box="[1388,1534,1903,1945]" pageId="6" pageNumber="169" value="2012-09">
+<collectingDate id="EFE0E986E94DFFA7FAA38552978804D6" box="[1388,1534,1903,1945]" pageId="6" pageNumber="169" value="2012-09">Sept. 12</collectingDate>
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E94DFFA7F9D9855293DB0483" ID-GBIF-Occurrence="3913652353" collectedFrom="at light" collectingDate="1936-11-03" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="169" specimenCount="1">
+<date id="FFA4106EE94DFFA7F9D9855294E604D6" box="[1558,1680,1903,1945]" pageId="6" pageNumber="169">
+<collectingDate id="EFE0E986E94DFFA7F9D9855294E604D6" box="[1558,1680,1903,1945]" pageId="6" pageNumber="169">Nov. 3</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E94DFFA7FEE8859E93DB0483" box="[295,429,1955,1996]" pageId="6" pageNumber="169">Swezey</collectorName>
+</materialsCitation>
+. Nothing was learned of its habits. 
+<materialsCitation id="3B723CF3E94DFFA7FB9B859E908F04B1" ID-GBIF-Occurrence="3913652318" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="6" pageNumber="169" specimenCount="1">
+One 
+<specimenCount id="9D1CFD27E94DFFA7FB60859E973A0483" box="[1199,1356,1955,1996]" pageId="6" pageNumber="169" type="generic">specimen</specimenCount>
+in 
+<collectingCountry id="F30D763EE94DFFA7FA40859E97980483" box="[1423,1518,1955,1996]" name="United States of America" pageId="6" pageNumber="169">U. S.</collectingCountry>
+<collectingMunicipality id="6BC1ACD4E94DFFA7F9CC859E93B604B1" pageId="6" pageNumber="169">National Museum</collectingMunicipality>
+, 
+<location id="8EC56075E94DFFA7FE1185E990F304B1" LSID="urn:lsid:plazi:treatment:03B387B8E94DFFA7FEEC84EB908804B1:8EC56075E94DFFA7FE1185E990F304B1" box="[478,645,2004,2046]" pageId="6" pageNumber="169">Fullaway</location>
+, 1911
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

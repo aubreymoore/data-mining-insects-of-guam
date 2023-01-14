@@ -1,0 +1,87 @@
+<document id="C8835A938F890B1AB41F7B3B4D3FEDBD" ID-DOI="http://doi.org/10.5281/zenodo.5159673" ID-GBIF-Dataset="7700299b-eb39-4c24-86fe-2eabb15beda7" ID-Zenodo-Dep="5159673" approvalRequired="1" approvalRequired_for_document="1" checkinTime="1628017110730" checkinUser="carolina" docAuthor="Blair, K. G." docDate="1942" docId="03E387DAFFADFFCC8743FB10FAA8FC3B" docLanguage="en" docName="InsectsOfGuamI.172.56-60.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Lissodema guamense Blair, 1942, new species" docType="treatment" docVersion="9" lastPageNumber="60" masterDocId="FFDAFFA2FFAEFFC88657F353FF92FFF8" masterDocTitle="Coleoptera Heteromera From Guam" masterLastPageNumber="60" masterPageNumber="56" pageNumber="59" updateTime="1659621072307" updateUser="annettekang">
+<mods:mods id="B182A671A55B35CA1B73CB4C5DFEA3D1" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="2B935468406CE8A7B4A3F017A52414CF">
+<mods:title id="51F59D2CD641BCB60DB1276DCA57DD8F">Coleoptera Heteromera From Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="80DE4E780CFBB8A23F7095970A829091" type="personal">
+<mods:role id="978F86D754911A6D22E94E24AAEC452A">
+<mods:roleTerm id="C2A576189A0AC1B57F732E4EB5571677">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="96AE7E17D82D775428C4B542547EA07E">Blair, K. G.</mods:namePart>
+<mods:affiliation id="73611ACB93316C41F84D85D9D6D73B07">British Museum \ (Natural History), London</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="20022BB39F5FCF03C9BE6480937F4B1D">text</mods:typeOfResource>
+<mods:relatedItem id="51C89425ECC4441A26755367ABA68538" type="host">
+<mods:originInfo id="5558AB0C74566329182FE63BE8F56380">
+<mods:dateIssued id="64A09E1DCD2917D1AF5F05EFC7AD64B1">1942</mods:dateIssued>
+<mods:dateOther id="4AAEBF8D629CEA7C25D224691189E189" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="D74EB0D4BE9AC2912AAA4F194C9C67CF">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="4C838008DD5CA8C7D0D0A6BEA7B79357">
+<mods:placeTerm id="602E18D10A406D98CD5081E7FC0C4E8E">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A473DD11579DDD082F5AE704F2213D78">
+<mods:title id="29B0D4B05DBD563C7FD519FE5643D735">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="F514A7408F51329F42B4B0AF2F075B5F">
+<mods:extent id="77317D451C116586288300B9369D61E6" unit="page">
+<mods:start id="8612FA760C572296DAD8C098EDE53D3D">56</mods:start>
+<mods:end id="7EA5BD34FAEC266332A564DE9EA0C7F7">60</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="19993308945771FCD38E19FB48308026">book chapter</mods:classification>
+<mods:identifier id="2FF51CFACD5BE7699BC43A11A0A80424" type="DOI">http://doi.org/10.5281/zenodo.5159673</mods:identifier>
+<mods:identifier id="23FBD1EB94843A4E140DC59B0A3C1D8C" type="GBIF-Dataset">7700299b-eb39-4c24-86fe-2eabb15beda7</mods:identifier>
+<mods:identifier id="E33128709CDE152C0FEDB4FA9B3F8893" type="Zenodo-Dep">5159673</mods:identifier>
+</mods:mods>
+<treatment id="03E387DAFFADFFCC8743FB10FAA8FC3B" ID-DOI="http://doi.org/10.5281/zenodo.5163538" ID-GBIF-Taxon="183919355" ID-Zenodo-Dep="5163538" LSID="urn:lsid:plazi:treatment:03E387DAFFADFFCC8743FB10FAA8FC3B" httpUri="http://treatment.plazi.org/id/03E387DAFFADFFCC8743FB10FAA8FC3B" lastPageId="4" lastPageNumber="60" pageId="3" pageNumber="59">
+<subSubSection id="C3506547FFADFFCB8743FB10FC02F794" box="[276,912,2115,2156]" pageId="3" pageNumber="59" type="nomenclature">
+<paragraph id="8BF536CCFFADFFCB8743FB10FC02F794" blockId="3.[273,1669,2115,2484]" box="[276,912,2115,2156]" pageId="3" pageNumber="59">
+<emphasis id="B93EEADEFFADFFCB8743FB10FD33F794" bold="true" box="[276,673,2115,2156]" pageId="3" pageNumber="59">
+<taxonomicName id="4C4A4D4FFFADFFCB8743FB10FD09F794" authorityName="Blair" box="[276,667,2115,2156]" class="Insecta" family="Salpingidae" genus="Lissodema" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="3" pageNumber="59" phylum="Arthropoda" rank="species" species="guamense" status="new species">Lissodema guamense</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="A20D57A5FFADFFCB84E3FB10FC19F794" box="[692,907,2115,2156]" pageId="3" pageNumber="59" rank="species">new species</taxonomicNameLabel>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFADFFCC8701FBD3F951FD93" lastPageId="4" lastPageNumber="60" pageId="3" pageNumber="59" type="description">
+<paragraph id="8BF536CCFFADFFCC8701FBD3F951FD93" blockId="3.[273,1669,2115,2484]" lastBlockId="4.[416,1812,388,619]" lastPageId="4" lastPageNumber="60" pageId="3" pageNumber="59">Elongate oblong, convex, black, with front of head, funicle of antennae, legs and underside reddish. Rostrum short, strongly but not closely punctured, frons slightly and evenly convex, punctured as rostrum. Antennae extending to base of thorax, club very distinct, as long as joints 2 to 8 together. Thorax fully as wide as elytra, very convex from side to side, less so from front to base, without depressions or foveae; sides finely margined, each with four teeth, the two anterior closer together than the two posterior, each tooth with a fine erect bristle arising from its upper side; greatest width across second tooth, base finely margined, disk punctured as frons. Elytra subparallel, sedately punctured, the punctures not close, fairly strong near base but very fine from the middle onwards, with scattered erect setae especially towards sides and apex; pygidium exposed. Prothorax beneath more coarsely and closely punctured than above, sides of meso- and metasterna also strongly and closely punctured, middle of metasternum and abdomen finely punctate. First three joints of tarsi (two of posterior) closely compact, with long hairs beneath, the next smaller, the claw-joint about as long as the first three together. Length, 2.5 mm.</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAAFFCC87B6F1C3FB77FD42" box="[481,1253,656,698]" pageId="4" pageNumber="60" type="materials_examined">
+<paragraph id="8BF536CCFFAAFFCC87B6F1C3FB77FD42" blockId="4.[417,1812,656,963]" box="[481,1253,656,698]" pageId="4" pageNumber="60">
+<materialsCitation id="3B223C91FFAAFFCC87B6F1C3FB72FD42" ID-GBIF-Occurrence="3331241337" box="[481,1248,656,698]" collectedFrom="under bark" collectingDate="1936-11-06" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="60" specimenCount="1" typeStatus="holotype">
+<collectingMunicipality id="6B91ACB6FFAAFFCC87B6F1C3FDB1FD42" box="[481,547,656,698]" pageId="4" pageNumber="60">Piti</collectingMunicipality>
+, under bark, 
+<date id="FFF4100CFFAAFFCC8540F1C3FC03FD42" box="[791,913,656,698]" pageId="4" pageNumber="60">
+<collectingDate id="EFB0E9E4FFAAFFCC8540F1C3FC03FD42" box="[791,913,656,698]" pageId="4" pageNumber="60">Nov. 6</collectingDate>
+</date>
+, 
+<location id="8E956017FFAAFFCC85FDF1C3FBA3FD42" LSID="urn:lsid:plazi:treatment:03E387DAFFADFFCC8743FB10FAA8FC3B:8E956017FFAAFFCC85FDF1C3FBA3FD42" box="[938,1073,656,698]" municipality="Piti" name="Swezey" pageId="4" pageNumber="60">Swezey</location>
+, 
+<typeStatus id="54F1886EFFAAFFCC8211F1C3FB72FD42" box="[1094,1248,656,698]" pageId="4" pageNumber="60">holotype</typeStatus>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAAFFCC87B6F19FFAA8FC3B" pageId="4" pageNumber="60" type="discussion">
+<paragraph id="8BF536CCFFAAFFCC87B6F19FFAA8FC3B" blockId="4.[417,1812,656,963]" pageId="4" pageNumber="60">
+In its parallel-sided form, 
+<taxonomicName id="4C4A4D4FFFAAFFCC8584F19FFB2AFD0E" box="[979,1208,716,758]" class="Insecta" family="Salpingidae" genus="Lissodema" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="4" pageNumber="60" phylum="Arthropoda" rank="species" species="guamense">
+<emphasis id="B93EEADEFFAAFFCC8584F19FFB2AFD0E" box="[979,1208,716,758]" italics="true" pageId="4" pageNumber="60">L. guamense</emphasis>
+</taxonomicName>
+resembles 
+<taxonomicName id="4C4A4D4FFFAAFFCC83D9F19FF935FD0E" authority="Pie" authorityName="Pie" box="[1422,1703,716,758]" class="Insecta" family="Salpingidae" genus="Lissodema" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="4" pageNumber="60" phylum="Arthropoda" rank="species" species="luzonica">
+<emphasis id="B93EEADEFFAAFFCC83D9F19FF9CBFD0E" box="[1422,1625,716,758]" italics="true" pageId="4" pageNumber="60">L. luzonica</emphasis>
+Pie
+</taxonomicName>
+from the 
+<collectingCountry id="F35D765CFFAAFFCC87BFF053FCBFFCD1" box="[488,813,768,809]" name="Philippines" pageId="4" pageNumber="60">Philippine Islands</collectingCountry>
+, geographically its nearest congener, but that species is larger, rufous in color and has the thorax impressed at base and the sides multidentate. The numerous Japanese species all have the thorax narrower than the elytra. 
+<typeStatus id="54F1886EFFAAFFCC8491F0CBFCB3FC3B" box="[710,801,920,963]" pageId="4" pageNumber="60">Type</typeStatus>
+in Bishop Museum collection.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

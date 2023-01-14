@@ -1,0 +1,107 @@
+<document id="984EF355ED9F34A208F8628C9C99833A" ID-DOI="http://doi.org/10.5281/zenodo.5164064" ID-GBIF-Dataset="8ddfacbb-c42b-4385-b70b-ea5bd759c377" ID-Zenodo-Dep="5164064" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628020838575" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03938792FFDBFFCAFEC5F7EB87E6F65A" docLanguage="en" docName="InsectsOfGuamII.189.149-156.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Myndus palawanensis Muir, Philippine Jour. Sci." docType="treatment" docVersion="13" lastPageNumber="149" masterDocId="FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9" masterDocTitle="Notes On Some Fulgoroidea Of Guam" masterLastPageNumber="156" masterPageNumber="149" pageNumber="149" updateTime="1671318232748" updateUser="annettekang">
+<mods:mods id="5D7AF9A6028B4B6FC3146B9B2FA42118" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="8DDFC7277711D8DEDB770EF868439BF9">
+<mods:title id="D076FF7AE685AAAFC5ADBBF7B765B00C">Notes On Some Fulgoroidea Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="CDCFA7342C00E7F3265B6047B6FBC154" type="personal">
+<mods:role id="6079C83675ED08BAB6FDB96E1879A637">
+<mods:roleTerm id="1FD32C4D8E762CA5170F6D7170F7AA58">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F2E8A81CE4519BE33079CA36737983CC">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="AB39F59A1BA665640B1FA48AEA42502B">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="01970A8172E9DC50A9FA50D84831321F">text</mods:typeOfResource>
+<mods:relatedItem id="B16D2C7E13F32E07D22018F0FB89D357" type="host">
+<mods:originInfo id="D921C2197DBE69346A92E373C3AFE20F">
+<mods:dateIssued id="386504868F7615C379C0FACC2BAE9C94">1946</mods:dateIssued>
+<mods:dateOther id="5FA743DD61D9ECBBA41002BFF39AA069" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="65F1647B080D564E74F034EEA31E7E04">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="44EF9978856E13A7AA1DEDF5B7C7053D">
+<mods:placeTerm id="8CEB257AC1EDE1392F3F6DF1E1E9D9E4">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="BCEB18510B13EDA9760470828B19A326">
+<mods:title id="2D519527BBB8B8835D4BE9BF71A813A9">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="25A02A28F8F84B66E81CC68E7C9F1B8A">
+<mods:extent id="684227F40F14C7539B6408620C17D0A1" unit="page">
+<mods:start id="3977B444DD20EF3677D6F55AF1FAFCC8">149</mods:start>
+<mods:end id="A8D5887CEACCAFF72B475F2CEF82CCF4">156</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="AEE7EA3837A0A592437034710C06CF61">book chapter</mods:classification>
+<mods:identifier id="82E570EE8F6F440AE202A92D59EB4A2B" type="DOI">http://doi.org/10.5281/zenodo.5164064</mods:identifier>
+<mods:identifier id="6692993C33E79A39B04B44ACC6C4F70E" type="GBIF-Dataset">8ddfacbb-c42b-4385-b70b-ea5bd759c377</mods:identifier>
+<mods:identifier id="08B3FB8EF7789BD197000C0A63FB5C20" type="Zenodo-Dep">5164064</mods:identifier>
+</mods:mods>
+<treatment id="03938792FFDBFFCAFEC5F7EB87E6F65A" ID-DOI="http://doi.org/10.5281/zenodo.5211514" ID-GBIF-Taxon="183925066" ID-Zenodo-Dep="5211514" LSID="urn:lsid:plazi:treatment:03938792FFDBFFCAFEC5F7EB87E6F65A" httpUri="http://treatment.plazi.org/id/03938792FFDBFFCAFEC5F7EB87E6F65A" lastPageNumber="149" pageId="0" pageNumber="149">
+<subSubSection id="C320650FFFDBFFCAFEC5F7EB85F5F7A6" box="[315,900,2086,2127]" pageId="0" pageNumber="149" type="nomenclature">
+<paragraph id="8B853684FFDBFFCAFEC5F7EB85F5F7A6" blockId="0.[311,1709,2086,2483]" box="[315,900,2086,2127]" pageId="0" pageNumber="149">
+<heading id="D0CD81E8FFDBFFCAFEC5F7EB85F5F7A6" box="[315,900,2086,2127]" centered="true" fontSize="8" level="2" pageId="0" pageNumber="149" reason="4">
+<emphasis id="B94EEA96FFDBFFCAFEC5F7EB8724F7A6" bold="true" box="[315,341,2086,2127]" pageId="0" pageNumber="149">1.</emphasis>
+<taxonomicName id="4C3A4D07FFDBFFCAFE89F7EB850CF7A6" authority="Muir, Philippine Jour. Sci." authorityName="Muir, Philippine Jour. Sci." box="[375,893,2086,2127]" class="Insecta" family="Cixiidae" genus="Myndus" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="149" phylum="Arthropoda" rank="species" species="palawanensis">
+<emphasis id="B94EEA96FFDBFFCAFE89F7EB857AF7A6" bold="true" box="[375,779,2086,2127]" pageId="0" pageNumber="149">Myndus palawanensis</emphasis>
+<author id="5387DE61FFDBFFCAFCDEF7EB850CF7A6" box="[800,893,2086,2127]" pageId="0" pageNumber="149">Muir</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDBFFCAFC62F7EB87A1F768" pageId="0" pageNumber="149" type="reference_group">
+<paragraph id="8B853684FFDBFFCAFC62F7EB87A1F768" blockId="0.[311,1709,2086,2483]" pageId="0" pageNumber="149">
+<treatmentCitationGroup id="AB2A11AAFFDBFFCAFC62F7EB87A1F768" pageId="0" pageNumber="149">
+<treatmentCitation id="0A9B1095FFDBFFCAFC62F7EB87A1F768" author="Muir" page="162" pageId="0" pageNumber="149" year="1923">
+<bibCitation id="5E103EE8FFDBFFCAFC62F7EB87A1F768" author="Muir" journalOrPublisher="Philippine Jour. Sci." pageId="0" pageNumber="149" pagination="162" part="22" type="journal article" year="1923">
+<journalOrPublisher id="51FB3C48FFDBFFCAFC62F7EB836BF7A6" box="[924,1306,2086,2127]" pageId="0" pageNumber="149">Philippine Jour. Sci.</journalOrPublisher>
+<emphasis id="B94EEA96FFDBFFCAFACEF7EB8327F7A6" bold="true" box="[1328,1366,2086,2127]" pageId="0" pageNumber="149">
+<part id="FF9E9C19FFDBFFCAFACEF7EB8323F7A6" box="[1328,1362,2086,2127]" pageId="0" pageNumber="149">22</part>
+:
+</emphasis>
+<pagination id="B2F3C870FFDBFFCAFA87F7EB83C6F7A6" box="[1401,1463,2086,2127]" pageId="0" pageNumber="149">162</pagination>
+, pl. 
+<emphasis id="B94EEA96FFDBFFCAF9EBF7EB805FF7A6" bold="true" box="[1557,1582,2086,2127]" pageId="0" pageNumber="149">1,</emphasis>
+fig. 3, 
+<year id="FF9277D7FFDBFFCAFE87F79487BAF768" box="[377,459,2137,2177]" pageId="0" pageNumber="149">1923</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDBFFCAFE87F74187E6F65A" pageId="0" pageNumber="149" type="discussion">
+<paragraph id="8B853684FFDBFFCAFE87F74187E6F65A" blockId="0.[311,1709,2086,2483]" pageId="0" pageNumber="149">
+This species was described from Palawan, Mindanao, and Borneo, and also occurs in Ceram and Larat. It was not previously recorded in 
+<collectingCountry id="F32D7614FFDBFFCAF9C5F77280D7F700" box="[1595,1702,2239,2281]" name="Guam" pageId="0" pageNumber="149">Guam</collectingCountry>
+. 
+<materialsCitation id="3B523CD9FFDBFFCAFEC7F73F8401F6A6" ID-GBIF-Occurrence="3914035330" collectedFrom="abundant on Pandanus leaves" collectingDate="1936-05-19" collectorName="O. H. Swezey" country="Guam" location="Santa Rosa Peak" pageId="0" pageNumber="149">
+<collectedFrom id="38267579FFDBFFCAFEC7F73F8259F6F5" box="[313,1064,2290,2332]" pageId="0" pageNumber="149">
+We found it abundant on 
+<taxonomicName id="4C3A4D07FFDBFFCAFCFAF73F85C2F6F5" box="[772,947,2290,2332]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="0" pageNumber="149" phylum="Tracheophyta" rank="genus">
+<emphasis id="B94EEA96FFDBFFCAFCFAF73F85C2F6F5" box="[772,947,2290,2332]" italics="true" pageId="0" pageNumber="149">Pandanus</emphasis>
+</taxonomicName>
+leaves
+</collectedFrom>
+in two localities: 
+<location id="8EE5605FFFDBFFCAFA89F73F80D7F6F5" LSID="urn:lsid:plazi:treatment:03938792FFDBFFCAFEC5F7EB87E6F65A:8EE5605FFFDBFFCAFA89F73F80D7F6F5" box="[1399,1702,2290,2332]" name="Santa Rosa Peak" pageId="0" pageNumber="149">Santa Rosa Peak</location>
+, 
+<collectingDate id="EFC0E9ACFFDBFFCAFEC4F6E987BFF6A6" box="[314,462,2340,2383]" pageId="0" pageNumber="149">May 191</collectingDate>
+<collectorName id="26CF5352FFDBFFCAFE1AF6E98401F6A6" box="[484,624,2340,2383]" pageId="0" pageNumber="149">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="3B523CD9FFDBFFCAFD72F6E982E6F6A6" ID-GBIF-Occurrence="3914035346" box="[652,1175,2340,2383]" collectedFrom="abundant on Pandanus leaves" collectingDate="1936-06-12" collectorName="R. L. Usinger" country="Guam" location="Barrigada" pageId="0" pageNumber="149">
+<location id="8EE5605FFFDBFFCAFD72F6E9854EF6A6" LSID="urn:lsid:plazi:treatment:03938792FFDBFFCAFEC5F7EB87E6F65A:8EE5605FFFDBFFCAFD72F6E9854EF6A6" box="[652,831,2340,2383]" name="Barrigada" pageId="0" pageNumber="149">Barrigada</location>
+, 
+<date id="FF841044FFDBFFCAFCA4F6E9859AF6A6" box="[858,1003,2340,2383]" pageId="0" pageNumber="149" value="2012-06">
+<collectingDate id="EFC0E9ACFFDBFFCAFCA4F6E9859AF6A6" box="[858,1003,2340,2383]" pageId="0" pageNumber="149" value="2012-06">June-12</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDBFFCAFBF8F6E982E6F6A6" box="[1030,1175,2340,2383]" pageId="0" pageNumber="149">Usinger</collectorName>
+</materialsCitation>
+. In the records of its occur• rence in the 
+<collectingCountry id="F32D7614FFDBFFCAFDD4F69A849CF668" box="[554,749,2391,2433]" name="Philippines" pageId="0" pageNumber="149">Philippines</collectingCountry>
+and East Indies, no mention was made of its food plant.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

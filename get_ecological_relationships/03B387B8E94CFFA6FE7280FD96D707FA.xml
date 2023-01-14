@@ -1,0 +1,208 @@
+<document id="29F2DF9DE04167D8239F2821EC460B0C" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E94CFFA6FE7280FD96D707FA" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Mniothripa lichenigera" docType="treatment" docVersion="21" lastPageNumber="170" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="170" updateTime="1669826952250" updateUser="annettekang">
+<mods:mods id="B97BBC558D79F0549A42EA2A64B7D74F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="F5039034560F62F7017F7C6B9EB58BA8">
+<mods:title id="FB51BABEB49FDD597402E87D0CFFA028">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="D84F0E166B77E1BAEB9A1318DCC3E16A" type="personal">
+<mods:role id="B5ED487C1AA901A2D57525E58EDF4A8C">
+<mods:roleTerm id="801D871C254C078F751C030E65E0B65D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1D645BBC118C8D599CDC3A9F8E9C550B">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="59A3160E85B8461EC256152B038B80B9">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="E51560B9826883D5BE568A634D4BA0C1">text</mods:typeOfResource>
+<mods:relatedItem id="55B889558053A9E1973E65836CD7489F" type="host">
+<mods:originInfo id="ED7EA9EDA6954F3F8D9A6CBE6E76A4B5">
+<mods:dateIssued id="041371D9645CCC1E42AB1C1B5E5E9468">1946</mods:dateIssued>
+<mods:dateOther id="57167AE3574FD013390067639A948656" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="3001EF1C8E1D67281F650213C78B488A">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="432EC2D0E50985714ECADF73FF728409">
+<mods:placeTerm id="67ACED80706BC9FDA3E7F8472E56880E">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="CBD7DBD1A763AB3D65AFE6B6EF735ECB">
+<mods:title id="16E0CBCA4752A83439F19460AA57E29D">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="FBC4E3E8B6C46B1C41AA09C320C1AFE7">
+<mods:extent id="1E529CCF04DF034056DD695B184A5D20" unit="page">
+<mods:start id="CF3D84A580957D410E12442A4D5A57BC">163</mods:start>
+<mods:end id="10707A5E49102A078DB2C08A66E821F4">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="87073E87272AD60B85F07F82350372A2">book chapter</mods:classification>
+<mods:identifier id="7CB19E5975E90BCA93FEC7F91E32E5B0" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="D65C8D14DE423D7C239E4277421E80D3" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="F26C370430AA5B6A72787B5C82184D83" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E94CFFA6FE7280FD96D707FA" ID-DOI="http://doi.org/10.5281/zenodo.5171198" ID-GBIF-Taxon="183926881" ID-Zenodo-Dep="5171198" LSID="urn:lsid:plazi:treatment:03B387B8E94CFFA6FE7280FD96D707FA" httpUri="http://treatment.plazi.org/id/03B387B8E94CFFA6FE7280FD96D707FA" lastPageNumber="170" pageId="7" pageNumber="170">
+<subSubSection id="C3006525E94CFFA6FE7280FD96CA01A5" box="[445,1212,704,746]" pageId="7" pageNumber="170" type="nomenclature">
+<paragraph id="8BA536AEE94CFFA6FE7280FD96CA01A5" blockId="7.[443,1841,704,1205]" box="[445,1212,704,746]" pageId="7" pageNumber="170">
+<heading id="D0ED81C2E94CFFA6FE7280FD96CA01A5" box="[445,1212,704,746]" fontSize="8" level="2" pageId="7" pageNumber="170" reason="4">
+<emphasis id="B96EEABCE94CFFA6FE7280FD906901A5" bold="true" box="[445,543,704,746]" pageId="7" pageNumber="170">14. *</emphasis>
+<taxonomicName id="4C1A4D2DE94CFFA6FDD080FD96C001A5" authority="(Hampson)" baseAuthorityName="Hampson" box="[543,1206,704,746]" class="Insecta" family="Nolidae" genus="Mniothripa" kingdom="Animalia" order="Lepidoptera" pageId="7" pageNumber="170" phylum="Arthropoda" rank="species" species="lichenigera">
+<emphasis id="B96EEABCE94CFFA6FDD080FD91BC01A5" bold="true" box="[543,970,704,746]" pageId="7" pageNumber="170">Mniothripa lichenigera</emphasis>
+(Hampson)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94CFFA6FE3380CE96D900CA" pageId="7" pageNumber="170" type="reference_group">
+<paragraph id="8BA536AEE94CFFA6FE3380CE94860051" blockId="7.[443,1841,704,1205]" box="[508,1776,755,798]" pageId="7" pageNumber="170">
+<heading id="D0ED81C2E94CFFA6FE3380CE94860051" box="[508,1776,755,798]" centered="true" fontSize="8" level="2" pageId="7" pageNumber="170" reason="3">
+<treatmentCitationGroup id="AB0A1180E94CFFA6FE3380CE94860051" box="[508,1776,755,798]" pageId="7" pageNumber="170">
+<bibCitation id="5E303EC2E94CFFA6FE3380CE94860051" author="Hampson" box="[508,1776,755,798]" journalOrPublisher="Ann. Mag. Nat. Hist." pageId="7" pageNumber="170" pagination="543" part="16" refId="ref3853" type="journal article" year="1905">
+<treatmentCitation id="0ABB10BFE94CFFA6FE3380CE949D0051" author="Hampson" box="[508,1771,755,798]" page="543" pageId="7" pageNumber="170" year="1905">
+<emphasis id="B96EEABCE94CFFA6FE3380CE91480051" box="[508,830,755,798]" italics="true" pageId="7" pageNumber="170">Giaura lichenigera</emphasis>
+<author id="53A7DE4BE94CFFA6FC8380CE918F0051" box="[844,1017,755,798]" pageId="7" pageNumber="170">Hampson</author>
+, 
+<journalOrPublisher id="51DB3C62E94CFFA6FBC380CE97FA0051" box="[1036,1420,755,798]" pageId="7" pageNumber="170">Ann. Mag. Nat. Hist.</journalOrPublisher>
+VII, 
+<emphasis id="B96EEABCE94CFFA6FA3380CE94470051" bold="true" box="[1532,1585,755,798]" pageId="7" pageNumber="170">
+<part id="FFBE9C33E94CFFA6FA3380CE945D0051" box="[1532,1579,755,798]" pageId="7" pageNumber="170" type="volume">16</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE94CFFA6F98F80CE94F60051" box="[1600,1664,755,798]" pageId="7" pageNumber="170" type="pagination">543</pagination>
+, 
+<year id="FFB277FDE94CFFA6F95780CE949D0051" box="[1688,1771,755,798]" pageId="7" pageNumber="170">1905</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</heading>
+</paragraph>
+<paragraph id="8BA536AEE94CFFA6FE36811A9546001E" blockId="7.[443,1841,704,1205]" box="[505,1840,807,849]" pageId="7" pageNumber="170">
+<treatmentCitationGroup id="AB0A1180E94CFFA6FE36811A9546001E" box="[505,1840,807,849]" pageId="7" pageNumber="170">
+<bibCitation id="5E303EC2E94CFFA6FE36811A9546001E" author="Hampson" box="[505,1840,807,849]" pageId="7" pageNumber="170" pagination="261" part="11" refId="ref3873" title="Cat. Lep. Phalaenae" type="journal article" year="1912">
+<emphasis id="B96EEABCE94CFFA6FE36811A91D7001E" box="[505,929,807,849]" italics="true" pageId="7" pageNumber="170">Mniothripa lichenigera,</emphasis>
+<treatmentCitation id="0ABB10BFE94CFFA6FC73811A955F001E" author="Hampson" box="[956,1833,807,849]" page="261" pageId="7" pageNumber="170" year="1912">
+<author id="53A7DE4BE94CFFA6FC73811A961E001E" box="[956,1128,807,849]" pageId="7" pageNumber="170">Hampson</author>
+, 
+<title id="F91EDD98E94CFFA6FB45811A947B001E" box="[1162,1549,807,849]" pageId="7" pageNumber="170">Cat. Lep. Phalaenae</title>
+<emphasis id="B96EEABCE94CFFA6F9E7811A943D001E" bold="true" box="[1576,1611,807,849]" pageId="7" pageNumber="170">
+<part id="FFBE9C33E94CFFA6F9E7811A9431001E" box="[1576,1607,807,849]" pageId="7" pageNumber="170" type="volume">11</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE94CFFA6F9A4811A94DD001E" box="[1643,1707,807,849]" pageId="7" pageNumber="170" type="pagination">261</pagination>
+, 
+<year id="FFB277FDE94CFFA6F91F811A955F001E" box="[1744,1833,807,849]" pageId="7" pageNumber="170">1912</year>
+</treatmentCitation>
+;
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE94CFFA6FDF9816796D900CA" blockId="7.[443,1841,704,1205]" box="[566,1199,858,901]" pageId="7" pageNumber="170">
+<treatmentCitationGroup id="AB0A1180E94CFFA6FDF9816796D900CA" box="[566,1199,858,901]" pageId="7" pageNumber="170">
+<treatmentCitation id="0ABB10BFE94CFFA6FDF9816796D900CA" author="Tams" box="[566,1199,858,901]" page="209" pageId="7" pageNumber="170" year="1935">
+<bibCitation id="5E303EC2E94CFFA6FDF9816796D900CA" author="Tams" box="[566,1199,858,901]" journalOrPublisher="Ins. Samoa" pageId="7" pageNumber="170" pagination="209" part="3" refId="ref3889" type="journal article" year="1935">
+<author id="53A7DE4BE94CFFA6FDF9816790EB00CA" box="[566,669,858,901]" pageId="7" pageNumber="170">Tams</author>
+, 
+<journalOrPublisher id="51DB3C62E94CFFA6FD79816791F600CA" box="[694,896,858,901]" pageId="7" pageNumber="170">
+Ins. 
+<collectingCountry id="F30D763EE94CFFA6FCC6816791F600CA" box="[777,896,858,901]" name="Samoa" pageId="7" pageNumber="170">Samoa</collectingCountry>
+</journalOrPublisher>
+<part id="FFBE9C33E94CFFA6FC40816791D200CA" box="[911,932,858,901]" pageId="7" pageNumber="170" type="volume">3</part>
+(
+<part id="FFBE9C33E94CFFA6FC7E816791BC00CA" box="[945,970,858,901]" pageId="7" pageNumber="170" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE94CFFA6FC318167963600CA" box="[1022,1088,858,901]" pageId="7" pageNumber="170" type="pagination">209</pagination>
+, 
+<year id="FFB277FDE94CFFA6FB97816796DC00CA" box="[1112,1194,858,901]" pageId="7" pageNumber="170">1935</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94CFFA6FE3481B296D707FA" pageId="7" pageNumber="170" type="description">
+<paragraph id="8BA536AEE94CFFA6FE3481B297160751" blockId="7.[443,1841,704,1205]" pageId="7" pageNumber="170">
+<materialsCitation id="3B723CF3E94CFFA6FE3481B290BB00F4" ID-GBIF-Occurrence="3913652417" box="[507,717,911,955]" collectedFrom="at light" collectingDate="1936-05-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="170">
+<location id="8EC56075E94CFFA6FE3481B2904A00F4" LSID="urn:lsid:plazi:treatment:03B387B8E94CFFA6FE7280FD96D707FA:8EC56075E94CFFA6FE3481B2904A00F4" box="[507,572,911,955]" pageId="7" pageNumber="170">
+<collectingMunicipality id="6BC1ACD4E94CFFA6FE3481B2904A00F4" box="[507,572,911,955]" pageId="7" pageNumber="170">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE94CFFA6FD9C81B290B000F4" box="[595,710,911,955]" pageId="7" pageNumber="170">
+<collectingDate id="EFE0E986E94CFFA6FD9C81B290B000F4" box="[595,710,911,955]" pageId="7" pageNumber="170">May 9</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E94CFFA6FD1481B2911300F4" ID-GBIF-Occurrence="3913652330" box="[731,869,911,955]" collectedFrom="at light" collectingDate="1936-07-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="170">
+<date id="FFA4106EE94CFFA6FD1481B2912900F4" box="[731,863,911,955]" pageId="7" pageNumber="170" value="2012-07">
+<collectingDate id="EFE0E986E94CFFA6FD1481B2912900F4" box="[731,863,911,955]" pageId="7" pageNumber="170" value="2012-07">July 12</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E94CFFA6FCB881B291D300F4" ID-GBIF-Occurrence="3913652411" box="[887,933,911,955]" collectedFrom="at light" collectingDate="1936-07-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="170">13,</materialsCitation>
+<materialsCitation id="3B723CF3E94CFFA6FC7B81B2919000F4" ID-GBIF-Occurrence="3913652434" box="[948,998,911,955]" collectedFrom="at light" collectingDate="1936-07-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="170">27,</materialsCitation>
+<materialsCitation id="3B723CF3E94CFFA6FC3881B297C700F4" ID-GBIF-Occurrence="3913652335" box="[1015,1457,911,955]" collectedFrom="at light" collectingDate="1936-09-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="170">
+<date id="FFA4106EE94CFFA6FC3881B2960400F4" box="[1015,1138,911,955]" pageId="7" pageNumber="170">
+<collectingDate id="EFE0E986E94CFFA6FC3881B2960400F4" box="[1015,1138,911,955]" pageId="7" pageNumber="170">Sept. 7</collectingDate>
+</date>
+, at light, 
+<collectorName id="26EF5378E94CFFA6FAD181B297DC00F4" box="[1310,1450,911,955]" pageId="7" pageNumber="170">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E94CFFA6FA0E81B296F200A3" ID-GBIF-Occurrence="3332081335" collectedFrom="reared from foliage of Intsia bijuga" collectingDate="1936-09-15" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="170">
+<location id="8EC56075E94CFFA6FA0E81B2947500F4" LSID="urn:lsid:plazi:treatment:03B387B8E94CFFA6FE7280FD96D707FA:8EC56075E94CFFA6FA0E81B2947500F4" box="[1473,1539,911,955]" pageId="7" pageNumber="170">
+<collectingMunicipality id="6BC1ACD4E94CFFA6FA0E81B2947500F4" box="[1473,1539,911,955]" pageId="7" pageNumber="170">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE94CFFA6F9D581B294DD00F4" box="[1562,1707,911,955]" pageId="7" pageNumber="170" value="2015-09">
+<collectingDate id="EFE0E986E94CFFA6F9D581B294DD00F4" box="[1562,1707,911,955]" pageId="7" pageNumber="170" value="2015-09">Sept. 15</collectingDate>
+</date>
+, reared from foliage of 
+<taxonomicName id="4C1A4D2DE94CFFA6FD2C81FC960B00A3" authority=", Swezey" authorityName="Swezey" box="[739,1149,961,1004]" class="Magnoliopsida" family="Fabaceae" genus="Intsia" kingdom="Plantae" order="Fabales" pageId="7" pageNumber="170" phylum="Tracheophyta" rank="species" species="bijuga">
+<emphasis id="B96EEABCE94CFFA6FD2C81FC91A100A3" box="[739,983,961,1004]" italics="true" pageId="7" pageNumber="170">
+<location id="8EC56075E94CFFA6FD2C81FC913D00A3" LSID="urn:lsid:plazi:treatment:03B387B8E94CFFA6FE7280FD96D707FA:8EC56075E94CFFA6FD2C81FC913D00A3" box="[739,843,961,1004]" pageId="7" pageNumber="170">Intsia</location>
+bijuga,
+</emphasis>
+<collectorName id="26EF5378E94CFFA6FC2081FC960B00A3" box="[1007,1149,961,1004]" pageId="7" pageNumber="170">Swezey</collectorName>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E94CFFA6FB5481FC94E500A3" ID-GBIF-Occurrence="3332081305" box="[1179,1683,961,1004]" collectingDate="1936-05-17" collectorName="O. H. Swezey" country="Guam" location="Tarague" pageId="7" pageNumber="170">
+<collectingMunicipality id="6BC1ACD4E94CFFA6FB5481FC974700A3" box="[1179,1329,961,1004]" pageId="7" pageNumber="170">
+<location id="8EC56075E94CFFA6FB5481FC974700A3" LSID="urn:lsid:plazi:treatment:03B387B8E94CFFA6FE7280FD96D707FA:8EC56075E94CFFA6FB5481FC974700A3" box="[1179,1329,961,1004]" pageId="7" pageNumber="170">Tarague</location>
+</collectingMunicipality>
+, 
+<date id="FFA4106EE94CFFA6FA9F81FC979600A3" box="[1360,1504,961,1004]" pageId="7" pageNumber="170" value="2017-05">
+<collectingDate id="EFE0E986E94CFFA6FA9F81FC979600A3" box="[1360,1504,961,1004]" pageId="7" pageNumber="170" value="2017-05">May 17</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E94CFFA6F9CF81FC94FA00A3" box="[1536,1676,961,1004]" pageId="7" pageNumber="170">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E94CFFA6F96481FC97160751" ID-GBIF-Occurrence="3332081492" collectedFrom="swept from Pemphis at seashore" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="7" pageNumber="170">
+<collectingMunicipality id="6BC1ACD4E94CFFA6F96481FC955E00A3" box="[1707,1832,961,1004]" pageId="7" pageNumber="170">
+<location id="8EC56075E94CFFA6F96481FC955E00A3" LSID="urn:lsid:plazi:treatment:03B387B8E94CFFA6FE7280FD96D707FA:8EC56075E94CFFA6F96481FC955E00A3" box="[1707,1832,961,1004]" pageId="7" pageNumber="170">Fadian</location>
+</collectingMunicipality>
+, 
+<date id="FFA4106EE94CFFA6FE7381C890260751" box="[444,592,1013,1054]" pageId="7" pageNumber="170" value="2019-08">
+<collectingDate id="EFE0E986E94CFFA6FE7381C890260751" box="[444,592,1013,1054]" pageId="7" pageNumber="170" value="2019-08">Aug. 19</collectingDate>
+</date>
+, swept from 
+<taxonomicName id="4C1A4D2DE94CFFA6FC8A81C891A80751" box="[837,990,1013,1054]" class="Magnoliopsida" family="Lythraceae" genus="Pemphis" kingdom="Plantae" order="Myrtales" pageId="7" pageNumber="170" phylum="Tracheophyta" rank="genus">
+<emphasis id="B96EEABCE94CFFA6FC8A81C891A80751" box="[837,990,1013,1054]" italics="true" pageId="7" pageNumber="170">
+<location id="8EC56075E94CFFA6FC8A81C891A80751" LSID="urn:lsid:plazi:treatment:03B387B8E94CFFA6FE7280FD96D707FA:8EC56075E94CFFA6FC8A81C891A80751" box="[837,990,1013,1054]" pageId="7" pageNumber="170">Pemphis</location>
+</emphasis>
+</taxonomicName>
+at seashore, 
+<collectorName id="26EF5378E94CFFA6FB1981C8972D0751" box="[1238,1371,1013,1054]" pageId="7" pageNumber="170">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+<paragraph id="8BA536AEE94CFFA6FE34861B96D707FA" blockId="7.[443,1841,704,1205]" pageId="7" pageNumber="170">
+This moth was described from 
+<collectingCountry id="F30D763EE94CFFA6FBF5861B9751071E" box="[1082,1319,1062,1105]" name="Sierra Leone" pageId="7" pageNumber="170">Sierra Leone</collectingCountry>
+, Sikhim and 
+<collectingCountry id="F30D763EE94CFFA6F9EA861B94AE071E" box="[1573,1752,1062,1105]" name="Singapore" pageId="7" pageNumber="170">Singapore</collectingCountry>
+, and has been recorded from 
+<collectingCountry id="F30D763EE94CFFA6FCBC8667919A07CB" box="[883,1004,1114,1156]" name="Samoa" pageId="7" pageNumber="170">Samoa</collectingCountry>
+. Now recorded from 
+<collectingCountry id="F30D763EE94CFFA6FA4D8667979C07CB" box="[1410,1514,1114,1156]" name="Guam" pageId="7" pageNumber="170">Guam</collectingCountry>
+for the first time. Most of our material was taken at light.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,127 @@
+<document id="11D8F99A4CACA24B5B1A99977DD0911C" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91BFFFAFE42FA54FB1818FE" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Ferrisia virgata" docType="treatment" docVersion="11" lastPageNumber="158" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="158" updateTime="1661283429254" updateUser="annettekang">
+<mods:mods id="9F6B4166E0B21480B87B9353D88333EE" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="D8BF3A57A368EADC044116E91B361DCF">
+<mods:title id="C8A48544B38EF1C8DE51B72E3DEA26E4">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="982C2A243221020BB7331F39BBB162C3" type="personal">
+<mods:role id="AF0A96003E67B59FEEF27DB721AEE9B8">
+<mods:roleTerm id="D3A391E7858C8C4C7099083DB0E0D95B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="066AD64F029757235699CE05811964B7">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="DF862884A8A4B662A391BFDF44B8C4AA">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="68DD420236B3B1614256095C65F79945">text</mods:typeOfResource>
+<mods:relatedItem id="C9F31BDA6161F4834F359571B7F3D53B" type="host">
+<mods:originInfo id="9E459A93D4730D5D23C7DF115EC69CB5">
+<mods:dateIssued id="7A1401144B04117FBDD3FC89E3429924">1946</mods:dateIssued>
+<mods:dateOther id="F4B7038D22A6789AE1112A97A03923D4" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="8AEDCD6D5AF596ECC2DAFA81D85B515D">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="CEDCCFDCE83A11292602ACB1CD0F5843">
+<mods:placeTerm id="A692B84B9D3BD7558C792F951FDC0553">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="CD4A8101B55AB0398B6BB0C3A13DF090">
+<mods:title id="66D627CA3581236F5DF4ACAB70FDEDC8">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="37CC3927EFA19C2D89B0EF4CFD6EC416">
+<mods:extent id="007508A1F1B0F34EC7AD06BE001C8FF4" unit="page">
+<mods:start id="8B9B21208E622B376B8B3E810FD4539E">157</mods:start>
+<mods:end id="3DA1326FFB220CA431DD58E9C11621E8">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="53958343B3FB7F74B600E20F9750FFC8">book chapter</mods:classification>
+<mods:identifier id="8D18B9707366EEFDCF0A261F3A7A1137" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="AF5F9C2E914AC58CBA8A8AFC7DEDE632" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="2A9B4E8B09940F064B274B79C68FC4E5" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91BFFFAFE42FA54FB1818FE" ID-DOI="http://doi.org/10.5281/zenodo.5157992" ID-GBIF-Taxon="183925188" ID-Zenodo-Dep="5157992" LSID="urn:lsid:plazi:treatment:F03E87AAF91BFFFAFE42FA54FB1818FE" httpUri="http://treatment.plazi.org/id/F03E87AAF91BFFFAFE42FA54FB1818FE" lastPageNumber="158" pageId="1" pageNumber="158">
+<subSubSection id="308D6537F91BFFFAFE42FA54FBD91BCA" box="[448,1053,1482,1524]" pageId="1" pageNumber="158" type="nomenclature">
+<paragraph id="782836BCF91BFFFAFE42FA54FBD91BCA" blockId="1.[446,1842,1482,1728]" box="[448,1053,1482,1524]" pageId="1" pageNumber="158">
+<heading id="236081D0F91BFFFAFE42FA54FBD91BCA" box="[448,1053,1482,1524]" fontSize="8" level="2" pageId="1" pageNumber="158" reason="4">
+<emphasis id="4AE3EAAEF91BFFFAFE42FA54FE2B1BCA" bold="true" box="[448,495,1482,1524]" pageId="1" pageNumber="158">16.</emphasis>
+<taxonomicName id="BF974D3FF91BFFFAFD93FA54FBDC1BCA" authority="(Cockerell)" baseAuthorityName="Cockerell" baseAuthorityYear="1893" box="[529,1048,1482,1524]" class="Insecta" family="Coccidae" genus="Ferrisia" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="158" phylum="Arthropoda" rank="species" species="virgata">
+<emphasis id="4AE3EAAEF91BFFFAFD93FA54FCF61BCA" bold="true" box="[529,818,1482,1524]" pageId="1" pageNumber="158">Ferrisia virgata</emphasis>
+(Cockerell)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91BFFFAFE79FA65F9461818" box="[507,1666,1531,1574]" pageId="1" pageNumber="158" type="description">
+<paragraph id="782836BCF91BFFFAFE79FA65F9461818" blockId="1.[446,1842,1482,1728]" box="[507,1666,1531,1574]" pageId="1" pageNumber="158">
+<treatmentCitationGroup id="58871192F91BFFFAFE79FA65F9B91818" box="[507,1661,1531,1574]" pageId="1" pageNumber="158">
+<treatmentCitation id="F93610ADF91BFFFAFE79FA65F9B91818" author="Cockerell" box="[507,1661,1531,1574]" page="178" pageId="1" pageNumber="158" year="1893">
+<taxonomicName id="BF974D3FF91BFFFAFE79FA65FBE61818" authority="Cockerell, The Entomologist" authorityName="Cockerell, The Entomologist" box="[507,1058,1531,1574]" class="Insecta" family="Dactylopiidae" genus="Dactylopius" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="158" phylum="Arthropoda" rank="species" species="virgatus">
+<emphasis id="4AE3EAAEF91BFFFAFE79FA65FCA81818" box="[507,876,1531,1574]" italics="true" pageId="1" pageNumber="158">Dactylopius virgatus</emphasis>
+<bibCitation id="ADBD3ED0F91BFFFAFCFEFA65F9B91818" author="Cockerell" box="[892,1661,1531,1574]" journalOrPublisher="The Entomologist" pageId="1" pageNumber="158" pagination="178" part="26" type="journal article" year="1893">
+<author id="A02ADE59F91BFFFAFCFEFA65FBE61818" box="[892,1058,1531,1574]" pageId="1" pageNumber="158">Cockerell</author>
+, 
+<journalOrPublisher id="A2563C70F91BFFFAFBBAFA65FABE1818" box="[1080,1402,1531,1574]" pageId="1" pageNumber="158">The Entomologist</journalOrPublisher>
+<emphasis id="4AE3EAAEF91BFFFAFA0BFA65FA061818" bold="true" box="[1417,1474,1531,1574]" pageId="1" pageNumber="158">
+<part id="0C339C21F91BFFFAFA0BFA65FA751818" box="[1417,1457,1531,1574]" pageId="1" pageNumber="158" type="volume">26</part>
+:
+</emphasis>
+<pagination id="415EC848F91BFFFAFA51FA65F9D41818" box="[1491,1552,1531,1574]" pageId="1" pageNumber="158" type="pagination">178</pagination>
+, 
+<year id="0C3F77EFF91BFFFAF9A8FA65F9B91818" box="[1578,1661,1531,1574]" pageId="1" pageNumber="158">1893</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91BFFFAFE7CF9B1FB1818FE" pageId="1" pageNumber="158" type="description">
+<paragraph id="782836BCF91BFFFAFE7CF9B1FB1818FE" blockId="1.[446,1842,1482,1728]" pageId="1" pageNumber="158">
+<materialsCitation id="C8FF3CE1F91BFFFAFE7CF9B1F9BF1864" box="[510,1659,1583,1626]" collectedFrom="on peanut, cotton, Ceara rubber, eggplant, soursop" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="1" pageNumber="158">
+<collectingMunicipality id="984CACC6F91BFFFAFE7CF9B1FDF71864" box="[510,563,1583,1626]" pageId="1" pageNumber="158">On</collectingMunicipality>
+peanut, cotton, 
+<location id="7D486067F91BFFFAFCE7F9B1FC0E1864" LSID="urn:lsid:plazi:treatment:F03E87AAF91BFFFAFE42FA54FB1818FE:7D486067F91BFFFAFCE7F9B1FC0E1864" box="[869,970,1583,1626]" municipality="On" name="Ceara" pageId="1" pageNumber="158">Ceara</location>
+rubber, eggplant, soursop, 
+<collectorName id="D562536AF91BFFFAFA4AF9B1F9B01864" box="[1480,1652,1583,1626]" pageId="1" pageNumber="158">Fullaway</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F91BFFFAF913F9B1FB9018B0" ID-GBIF-Occurrence="3331839351" collectedFrom="On Citrus" collectingDate="1936-05-07" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Inarajan" pageId="1" pageNumber="158">
+Inarajan, 
+<date id="0C29107CF91BFFFAFE42F9FDFDF318B0" box="[448,567,1635,1678]" pageId="1" pageNumber="158">
+<collectingDate id="1C6DE994F91BFFFAFE42F9FDFDF318B0" box="[448,567,1635,1678]" pageId="1" pageNumber="158">
+May 
+<emphasis id="4AE3EAAEF91BFFFAFDA0F9FDFDFA18B0" bold="true" box="[546,574,1635,1678]" italics="true" pageId="1" pageNumber="158">7,</emphasis>
+</collectingDate>
+</date>
+on 
+<emphasis id="4AE3EAAEF91BFFFAFD0CF9FDFCC618B0" box="[654,770,1635,1678]" italics="true" pageId="1" pageNumber="158">
+<location id="7D486067F91BFFFAFD0CF9FDFD3818B0" LSID="urn:lsid:plazi:treatment:F03E87AAF91BFFFAFE42FA54FB1818FE:7D486067F91BFFFAFD0CF9FDFD3818B0" box="[654,764,1635,1678]" name="Citrus" pageId="1" pageNumber="158">Citrus</location>
+,
+</emphasis>
+<collectorName id="D562536AF91BFFFAFC94F9FDFC5818B0" box="[790,924,1635,1678]" pageId="1" pageNumber="158">Swezey</collectorName>
+, 
+<location id="7D486067F91BFFFAFC37F9FDFB8918B0" LSID="urn:lsid:plazi:treatment:F03E87AAF91BFFFAFE42FA54FB1818FE:7D486067F91BFFFAFC37F9FDFB8918B0" box="[949,1101,1635,1678]" name="Usinger" pageId="1" pageNumber="158">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F91BFFFAFBE4F9FDF8F618B0" ID-GBIF-Occurrence="3331839310" box="[1126,1842,1635,1678]" collectedFrom="on pigeon pea" collectingDate="1936-05-12" collectorName="O. H. Swezey" country="Guam" location="Yona" pageId="1" pageNumber="158">
+<collectingMunicipality id="984CACC6F91BFFFAFBE4F9FDFB0C18B0" box="[1126,1224,1635,1678]" pageId="1" pageNumber="158">Yona</collectingMunicipality>
+, 
+<date id="0C29107CF91BFFFAFB60F9FDFAAA18B0" box="[1250,1390,1635,1678]" pageId="1" pageNumber="158" value="2012-05">
+<collectingDate id="1C6DE994F91BFFFAFB60F9FDFAAA18B0" box="[1250,1390,1635,1678]" pageId="1" pageNumber="158" value="2012-05">May 12</collectingDate>
+</date>
+, on pigeon pea, 
+<collectorName id="D562536AF91BFFFAF91DF9FDF8EF18B0" box="[1695,1835,1635,1678]" pageId="1" pageNumber="158">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F91BFFFAFE3CF908FB1318FE" ID-GBIF-Occurrence="3331839319" box="[446,1239,1686,1728]" collectedFrom="on cactus, mango fruits, Allamanda" collectingDate="1938-1939" collectorName="R. G. Oakley" country="Guam" location="Guam" pageId="1" pageNumber="158">
+on cactus, mango fruits, 
+<emphasis id="4AE3EAAEF91BFFFAFCFCF908FB8218FE" box="[894,1094,1686,1728]" italics="true" pageId="1" pageNumber="158">
+<taxonomicName id="BF974D3FF91BFFFAFCFCF908FB8418FE" authority=", Oakley." authorityName="Oakley." box="[894,1088,1686,1728]" class="Magnoliopsida" family="Apocynaceae" genus="Allamanda" kingdom="Plantae" order="Gentianales" pageId="1" pageNumber="158" phylum="Tracheophyta" rank="genus">
+<location id="7D486067F91BFFFAFCFCF908FB8418FE" LSID="urn:lsid:plazi:treatment:F03E87AAF91BFFFAFE42FA54FB1818FE:7D486067F91BFFFAFCFCF908FB8418FE" box="[894,1088,1686,1728]" name="Allamanda" pageId="1" pageNumber="158">Allamanda</location>
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="D562536AF91BFFFAFBD5F908FB1318FE" box="[1111,1239,1686,1728]" pageId="1" pageNumber="158">Oakley</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

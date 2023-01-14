@@ -1,0 +1,112 @@
+<document id="D595D46DA87DE8ECEF8E5BAA5C43DA29" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8FFFE1E4C7F8C289A2F7B7" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Cirrospiloideus japonica" docType="treatment" docVersion="15" lastPageNumber="216" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="216" updateTime="1663776455487" updateUser="ExternalLinkService">
+<mods:mods id="B2AE1D54F5E48E3319D5380E19896BB4" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="3876510FB82B4921B5841C0D59FDB071">
+<mods:title id="9FFA6432B31DEFE113C456CF2FFE30F6">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="E10D1040EB44B181924EF0BADB1E6EB0" type="personal">
+<mods:role id="D9C84EC6F495FF6592EF115608871C7A">
+<mods:roleTerm id="3A9440F37BA9FA858718F768F9ED642C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C32F556E71A3ADB1BFD5769D0C698D16">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="C7373B5C57447D6581133F5E30CC2A89">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="633956DA7FCFFD072D156EA9C736F4E1">text</mods:typeOfResource>
+<mods:relatedItem id="454FF855C8BAC8823B740503F80F92AC" type="host">
+<mods:originInfo id="6EB58D932F5F189D151EECE814A6E2ED">
+<mods:dateIssued id="DE05604BE2158788DD182A42C215CC8D">1946</mods:dateIssued>
+<mods:dateOther id="A3E53B9BE66CE275A406A5D7B1313277" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="7E5A7ECC327BF44182C4C8B76EA26F02">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="B91BB91E2373EC729E7DC504666CA48C">
+<mods:placeTerm id="BB8AE79D8FE465212716FABE8E82447E">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5F2FD33550721191F6EB605B4C2E691C">
+<mods:title id="E3DEDA71FDD8CE7C9910384F106B01C1">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="18E1A7C4CF84246721B3A5D6D7755C89">
+<mods:extent id="1CD9F226FA2A4B7D7249E4AB302A4B7A" unit="page">
+<mods:start id="E81D6B67AA0467C73994006FB010FEA6">211</mods:start>
+<mods:end id="AFD36C9FB8BF03C43DC4E9E7C10AAFE7">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="121CC6728B30C6A54530B17386116829">book chapter</mods:classification>
+<mods:identifier id="E5EB5832175602C5406B7F402C89795D" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="7B78B607EF5500202EBC9B275FFAC391" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="146933A55252D5CE942D7747BE4A7EC9" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8FFFE1E4C7F8C289A2F7B7" ID-DOI="http://doi.org/10.5281/zenodo.5188087" ID-GBIF-Taxon="187737433" ID-Zenodo-Dep="5188087" LSID="urn:lsid:plazi:treatment:7376EC19FF8FFFE1E4C7F8C289A2F7B7" httpUri="http://treatment.plazi.org/id/7376EC19FF8FFFE1E4C7F8C289A2F7B7" lastPageNumber="216" pageId="5" pageNumber="216">
+<subSubSection id="B3C50E84FF8FFFE1E4C7F8C28B9FF845" box="[452,1217,1902,1943]" pageId="5" pageNumber="216" type="nomenclature">
+<paragraph id="FB605D0FFF8FFFE1E4C7F8C28B9FF845" blockId="5.[452,1852,1902,2149]" box="[452,1217,1902,1943]" pageId="5" pageNumber="216">
+<heading id="A028EA63FF8FFFE1E4C7F8C28B9FF845" box="[452,1217,1902,1943]" fontSize="8" level="2" pageId="5" pageNumber="216" reason="4">
+<emphasis id="C9AB811DFF8FFFE1E4C7F8C28EA9F845" bold="true" box="[452,503,1902,1943]" pageId="5" pageNumber="216">41.</emphasis>
+<taxonomicName id="3CDF268CFF8FFFE1E71AF8C28BE2F845" authority="(Ashmead)" baseAuthorityName="Ashmead" box="[537,1212,1902,1943]" class="Insecta" family="Aphelinidae" genus="Cirrospiloideus" kingdom="Animalia" order="Hymenoptera" pageId="5" pageNumber="216" phylum="Arthropoda" rank="species" species="japonica">
+<emphasis id="C9AB811DFF8FFFE1E71AF8C28C8BF845" bold="true" box="[537,981,1902,1943]" pageId="5" pageNumber="216">Cirrospiloideus japonica</emphasis>
+(Ashmead)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8FFFE1E706F80D8DC2F82F" pageId="5" pageNumber="216" type="reference_group">
+<paragraph id="FB605D0FFF8FFFE1E706F80D8DC2F82F" blockId="5.[452,1852,1902,2149]" pageId="5" pageNumber="216">
+<treatmentCitationGroup id="DBCF7A21FF8FFFE1E706F80D8DC2F82F" pageId="5" pageNumber="216">
+<treatmentCitation id="7A7E7B1EFF8FFFE1E706F80D8DC2F82F" author="Ashmead" page="163" pageId="5" pageNumber="216" year="1904">
+<bibCitation id="2EF55563FF8FFFE1E706F80D8DC2F82F" author="Ashmead" journalOrPublisher="New York Ent. Soc., Jour." pageId="5" pageNumber="216" pagination="163" part="12" refId="ref2529" type="journal article" year="1904">
+<emphasis id="C9AB811DFF8FFFE1E706F80D8C86F819" box="[517,984,1953,1995]" italics="true" pageId="5" pageNumber="216">Sympiesomorpha japonica</emphasis>
+<author id="2362B5EAFF8FFFE1E6E8F80D8BCCF819" box="[1003,1170,1953,1995]" pageId="5" pageNumber="216">Ashmead</author>
+, 
+<journalOrPublisher id="211E57C3FF8FFFE1E1AEF80D89C4F819" box="[1197,1690,1953,1995]" pageId="5" pageNumber="216">
+<collectingRegion id="391B93EDFF8FFFE1E1AEF80D8A35F819" box="[1197,1387,1953,1995]" country="United States of America" name="New York" pageId="5" pageNumber="216">New York</collectingRegion>
+Ent. Soc., Jour.
+</journalOrPublisher>
+<emphasis id="C9AB811DFF8FFFE1E3B1F80D898AF819" bold="true" box="[1714,1748,1953,1995]" pageId="5" pageNumber="216">
+<part id="8F7BF792FF8FFFE1E3B1F80D898EF819" box="[1714,1744,1953,1995]" pageId="5" pageNumber="216" type="volume">12</part>
+:
+</emphasis>
+<pagination id="C216A3FBFF8FFFE1E3FBF80D8868F819" box="[1784,1846,1953,1995]" pageId="5" pageNumber="216" type="pagination">163</pagination>
+, 
+<year id="8F771C5CFF8FFFE1E746F8798DC9F82F" box="[581,663,2005,2045]" pageId="5" pageNumber="216">1904</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8FFFE1E705F7AB89A2F7B7" pageId="5" pageNumber="216" type="materials_examined">
+<paragraph id="FB605D0FFF8FFFE1E705F7AB89A2F7B7" blockId="5.[452,1852,1902,2149]" pageId="5" pageNumber="216">
+<materialsCitation id="4BB75752FF8FFFE1E705F7AB8A61F7E3" ID-GBIF-Occurrence="3901040402" box="[518,1343,2055,2097]" collectedFrom="ex bean leafminer" collectingDate="1936-05-07" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="5" pageNumber="216">
+<collectingMunicipality id="1B04C775FF8FFFE1E705F7AB8DFAF7E3" box="[518,676,2055,2097]" pageId="5" pageNumber="216">Inarajan</collectingMunicipality>
+, 
+<date id="8F617BCFFF8FFFE1E7BEF7AB8C6CF7E3" box="[701,818,2055,2097]" pageId="5" pageNumber="216">
+<collectingDate id="9F258227FF8FFFE1E7BEF7AB8C6CF7E3" box="[701,818,2055,2097]" pageId="5" pageNumber="216">
+May 
+<emphasis id="C9AB811DFF8FFFE1E61EF7AB8C67F7E3" bold="true" box="[797,825,2055,2097]" italics="true" pageId="5" pageNumber="216">7,</emphasis>
+</collectingDate>
+</date>
+<specimenCount id="EDD99686FF8FFFE1E649F7AB8C2DF7E3" box="[842,883,2055,2097]" pageId="5" pageNumber="216" type="generic">ex</specimenCount>
+bean leafminer, 
+<collectorName id="562A38D9FF8FFFE1E1A9F7AB8A66F7E3" box="[1194,1336,2055,2097]" pageId="5" pageNumber="216">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8FFFE1E050F7AB89A9F7B7" ID-GBIF-Occurrence="3909827301" collectedFrom="ex bean leafminer" collectingDate="1936-05-23" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="216" specimenCount="3">
+<collectingMunicipality id="1B04C775FF8FFFE1E050F7AB8AC8F7E3" box="[1363,1430,2055,2097]" pageId="5" pageNumber="216">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF8FFFE1E0AEF7AB8969F7E3" box="[1453,1591,2055,2097]" pageId="5" pageNumber="216" value="1923-05">
+<collectingDate id="9F258227FF8FFFE1E0AEF7AB8969F7E3" box="[1453,1591,2055,2097]" pageId="5" pageNumber="216" value="1923-05">May 23</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8FFFE1E34CF7AB8927F7E3" box="[1615,1657,2055,2097]" pageId="5" pageNumber="216" type="generic">ex</specimenCount>
+bean leafminer, 
+<collectorName id="562A38D9FF8FFFE1E744F7968D8EF7B7" box="[583,720,2106,2149]" pageId="5" pageNumber="216">Swezey</collectorName>
+. Three 
+<specimenCount id="EDD99686FF8FFFE1E666F7968B42F7B7" box="[869,1052,2106,2149]" pageId="5" pageNumber="216" type="generic">specimens</specimenCount>
+, two retained in 
+<collectingCountry id="83C81D9FFF8FFFE1E049F7968AFAF7B7" box="[1354,1444,2106,2149]" name="United States of America" pageId="5" pageNumber="216">U. S.</collectingCountry>
+<location id="FE000BD4FF8FFFE1E0B0F79689A9F7B7" LSID="urn:lsid:plazi:treatment:7376EC19FF8FFFE1E4C7F8C289A2F7B7:FE000BD4FF8FFFE1E0B0F79689A9F7B7" box="[1459,1783,2106,2149]" country="United States of America" name="National Museum" pageId="5" pageNumber="216">National Museum</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

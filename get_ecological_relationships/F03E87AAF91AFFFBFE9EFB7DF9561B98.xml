@@ -1,0 +1,120 @@
+<document id="0C2AC65E5290C9B2E1C4C3A3CF964C16" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91AFFFBFE9EFB7DF9561B98" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pseudococcus boninsis" docType="treatment" docVersion="13" lastPageNumber="157" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="157" updateTime="1663083075184" updateUser="annettekang">
+<mods:mods id="C92540F5218D4121EFC9E2CD9E49B2DA" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="D5F3AE1A0E850D6C6563C432FD186338">
+<mods:title id="E552FC22DD40A1A91A4DB39D8D8C71A4">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="7F0BE7E4C1DE4035A18DDB77F3B21343" type="personal">
+<mods:role id="062A33C9ADC5A02E7CBD794A5660F078">
+<mods:roleTerm id="132D579A1BA967F10855727CD5ED7A20">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9B5361DBB6FCDE52D923A29479E6C4E4">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="AE486E86A574F18757765B9CE482BF2F">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="ABC9EA59AB87D807C093585870CBCFA9">text</mods:typeOfResource>
+<mods:relatedItem id="B316D524DF031CC55B7DCF6F3ED70B51" type="host">
+<mods:originInfo id="B63558B61D14DD9D9A386DBC17753B8D">
+<mods:dateIssued id="0B70555F03745FD014F8BD68FF24DDCA">1946</mods:dateIssued>
+<mods:dateOther id="8F83F82BBE8FE3DEC8EDE683C6571F8A" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="6B670A3E98C6CF2EC8AAC52EE3359AF5">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="58BD6C01D93DD73E984708A2676E414B">
+<mods:placeTerm id="D0271A062ABFD75FC3C26D9DF2D771CD">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="E5322CCE75B55F24DA3B2DFC19D6B4FE">
+<mods:title id="B3937FD8D23AD513DD186E8BD4E3F54B">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="29D40FA9F9C03E425E30CB5D3491577E">
+<mods:extent id="ADB4A9B569D958E5FC6D222FC3F60694" unit="page">
+<mods:start id="8EE43C4B3C18BD01AAA961A1B9645FCA">157</mods:start>
+<mods:end id="7CDBF000911823BB30A9734F53BFED02">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="3CDF372B4F17CB08A2674E1688E784D6">book chapter</mods:classification>
+<mods:identifier id="AD962B73DEC928AD1E2BDD107801B8F8" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="BDABE48A833AC4CEFE13AF0AE8A874AD" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="5B5FEE84E3EE2187CE0E51877E2B4E92" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91AFFFBFE9EFB7DF9561B98" ID-DOI="http://doi.org/10.5281/zenodo.5169328" ID-GBIF-Taxon="183925167" ID-Zenodo-Dep="5169328" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFE9EFB7DF9561B98" httpUri="http://treatment.plazi.org/id/F03E87AAF91AFFFBFE9EFB7DF9561B98" lastPageNumber="157" pageId="0" pageNumber="157">
+<subSubSection id="308D6537F91AFFFBFE9EFB7DFC131B32" box="[284,983,1251,1292]" pageId="0" pageNumber="157" type="nomenclature">
+<paragraph id="782836BCF91AFFFBFE9EFB7DFC131B32" blockId="0.[284,1683,1251,1446]" box="[284,983,1251,1292]" pageId="0" pageNumber="157">
+<heading id="236081D0F91AFFFBFE9EFB7DFC131B32" box="[284,983,1251,1292]" fontSize="11" level="2" pageId="0" pageNumber="157" reason="2">
+<emphasis id="4AE3EAAEF91AFFFBFE9EFB7DFEFD1B32" bold="true" box="[284,313,1251,1292]" pageId="0" pageNumber="157">2.</emphasis>
+<taxonomicName id="BF974D3FF91AFFFBFED9FB7DFC151B32" authority="(Kuwana)" baseAuthorityName="Kuwana" box="[347,977,1251,1292]" class="Insecta" family="Pseudococcidae" genus="Pseudococcus" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="157" phylum="Arthropoda" rank="species" species="boninsis">
+<emphasis id="4AE3EAAEF91AFFFBFED9FB7DFD3E1B32" bold="true" box="[347,762,1251,1292]" pageId="0" pageNumber="157">Pseudococcus boninsis</emphasis>
+(Kuwana)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<paragraph id="782836BCF91AFFFBFED9FA88F9561B98" blockId="0.[284,1683,1251,1446]" pageId="0" pageNumber="157">
+<subSubSection id="308D6537F91AFFFBFED9FA88F9561B7E" box="[347,1682,1302,1344]" pageId="0" pageNumber="157" type="reference_group">
+<treatmentCitationGroup id="58871192F91AFFFBFED9FA88F9561B7E" box="[347,1682,1302,1344]" pageId="0" pageNumber="157">
+<treatmentCitation id="F93610ADF91AFFFBFED9FA88F9491B7E" author="Kuwana" box="[347,1677,1302,1344]" page="161" pageId="0" pageNumber="157" year="1909">
+<taxonomicName id="BF974D3FF91AFFFBFED9FA88FCB21B7E" authority="Kuwana" authorityName="Kuwana" box="[347,886,1302,1344]" class="Insecta" family="Dactylopiidae" genus="Dactylopius" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="157" phylum="Arthropoda" rank="species" species="boninsis">
+<emphasis id="4AE3EAAEF91AFFFBFED9FA88FD091B7E" box="[347,717,1302,1344]" italics="true" pageId="0" pageNumber="157">Dactylopius boninsis</emphasis>
+<bibCitation id="ADBD3ED0F91AFFFBFD62FA88F9491B7E" author="Kuwana" box="[736,1677,1302,1344]" journalOrPublisher="New York Ent. Soc., Jour." pageId="0" pageNumber="157" pagination="161" part="17" type="journal article" year="1909">
+<author id="A02ADE59F91AFFFBFD62FA88FCB21B7E" box="[736,886,1302,1344]" pageId="0" pageNumber="157">Kuwana</author>
+, 
+<journalOrPublisher id="A2563C70F91AFFFBFC10FA88FA471B7E" box="[914,1411,1302,1344]" pageId="0" pageNumber="157">
+<collectingRegion id="BA53F85EF91AFFFBFC10FA88FB971B7E" box="[914,1107,1302,1344]" country="United States of America" name="New York" pageId="0" pageNumber="157">New York</collectingRegion>
+Ent. Soc., Jour.
+</journalOrPublisher>
+<emphasis id="4AE3EAAEF91AFFFBFA18FA88FA141B7E" bold="true" box="[1434,1488,1302,1344]" pageId="0" pageNumber="157">
+<part id="0C339C21F91AFFFBFA18FA88FA0E1B7E" box="[1434,1482,1302,1344]" pageId="0" pageNumber="157" type="volume">17</part>
+:
+</emphasis>
+<pagination id="415EC848F91AFFFBFA63FA88F9D91B7E" box="[1505,1565,1302,1344]" pageId="0" pageNumber="157" type="pagination">161</pagination>
+, 
+<year id="0C3F77EFF91AFFFBF9B8FA88F9491B7E" box="[1594,1677,1302,1344]" pageId="0" pageNumber="157">1909</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</subSubSection>
+<subSubSection id="308D6537F91AFFFBFEDCFAD7F9561B98" pageId="0" pageNumber="157" type="materials_examined">
+<materialsCitation id="C8FF3CE1F91AFFFBFEDCFAD7FA301B4A" ID-GBIF-Occurrence="3331839340" box="[350,1524,1353,1396]" collectedFrom="On sugar cane at Agricultural School Farm" collectingDate="1936-07-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="157">
+<collectedFrom id="CB8B7541F91AFFFBFEDCFAD7FDA11B4A" box="[350,613,1353,1396]" pageId="0" pageNumber="157">On sugar cane</collectedFrom>
+, 
+<location id="7D486067F91AFFFBFDFEFAD7FB8B1B4A" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFE9EFB7DF9561B98:7D486067F91AFFFBFDFEFAD7FB8B1B4A" box="[636,1103,1353,1396]" name="Agricultural School Farm" pageId="0" pageNumber="157">Agricultural School Farm</location>
+, 
+<location id="7D486067F91AFFFBFBEAFAD7FB6F1B4A" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFE9EFB7DF9561B98:7D486067F91AFFFBFBEAFAD7FB6F1B4A" box="[1128,1195,1353,1396]" name="Piti" pageId="0" pageNumber="157">Piti</location>
+, 
+<date id="0C29107CF91AFFFBFB40FAD7FA8C1B4A" box="[1218,1352,1353,1396]" pageId="0" pageNumber="157" value="1927-07">
+<collectingDate id="1C6DE994F91AFFFBFB40FAD7FA8C1B4A" box="[1218,1352,1353,1396]" pageId="0" pageNumber="157" value="1927-07">July 27</collectingDate>
+</date>
+, 
+<collectorName id="D562536AF91AFFFBFAE3FAD7FA291B4A" box="[1377,1517,1353,1396]" pageId="0" pageNumber="157">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F91AFFFBF987FAD7FD9C1B98" ID-GBIF-Occurrence="3891552315" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="0" pageNumber="157">
+<location id="7D486067F91AFFFBF987FAD7F9491B4A" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFE9EFB7DF9561B98:7D486067F91AFFFBF987FAD7F9491B4A" box="[1541,1677,1353,1396]" name="Dededo" pageId="0" pageNumber="157">Dededo</location>
+, 
+<date id="0C29107CF91AFFFBFE9DFAE2FE741B98" box="[287,432,1404,1446]" pageId="0" pageNumber="157" value="2011-08">
+<collectingDate id="1C6DE994F91AFFFBFE9DFAE2FE741B98" box="[287,432,1404,1446]" pageId="0" pageNumber="157" value="2011-08">Aug. 11</collectingDate>
+</date>
+, 
+<collectorName id="D562536AF91AFFFBFE4EFAE2FD971B98" box="[460,595,1404,1446]" pageId="0" pageNumber="157">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F91AFFFBFDF7FAE2F9561B98" ID-GBIF-Occurrence="3891552320" box="[629,1682,1404,1446]" collectedFrom="parasitized by Pseudococcobius terryi" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Piti" pageId="0" pageNumber="157">
+<collectingMunicipality id="984CACC6F91AFFFBFDF7FAE2FD661B98" box="[629,674,1404,1446]" pageId="0" pageNumber="157">At</collectingMunicipality>
+<location id="7D486067F91AFFFBFD31FAE2FD301B98" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFE9EFB7DF9561B98:7D486067F91AFFFBFD31FAE2FD301B98" box="[691,756,1404,1446]" municipality="At" name="Piti" pageId="0" pageNumber="157">Piti</location>
+parasitized by 
+<taxonomicName id="BF974D3FF91AFFFBFB8EFAE2F9481B98" authority="(Fullaway)" baseAuthorityName="Fullaway" baseAuthorityYear="1913" box="[1036,1676,1404,1446]" class="Insecta" family="Encyrtidae" genus="Pseudococcobius" kingdom="Animalia" order="Hymenoptera" pageId="0" pageNumber="157" phylum="Arthropoda" rank="species" species="terryi">
+<emphasis id="4AE3EAAEF91AFFFBFB8EFAE2FA6C1B98" box="[1036,1448,1404,1446]" italics="true" pageId="0" pageNumber="157">
+<location id="7D486067F91AFFFBFB8EFAE2FAF01B98" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFE9EFB7DF9561B98:7D486067F91AFFFBFB8EFAE2FAF01B98" box="[1036,1332,1404,1446]" municipality="At" name="Pseudococcobius" pageId="0" pageNumber="157">Pseudococcobius</location>
+terryi
+</emphasis>
+(
+<collectorName id="D562536AF91AFFFBFA48FAE2F9BB1B98" box="[1482,1663,1404,1446]" pageId="0" pageNumber="157">Fullaway</collectorName>
+)
+</taxonomicName>
+.
+</materialsCitation>
+</subSubSection>
+</paragraph>
+</treatment>
+</document>

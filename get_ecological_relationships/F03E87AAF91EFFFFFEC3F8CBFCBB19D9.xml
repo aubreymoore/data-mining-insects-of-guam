@@ -1,0 +1,90 @@
+<document id="B324B8266C56F1518EF841F967F7AC75" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91EFFFFFEC3F8CBFCBB19D9" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Aonidiella orientalis" docType="treatment" docVersion="8" lastPageNumber="161" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="161" updateTime="1663083075184" updateUser="annettekang">
+<mods:mods id="F7D2DE57172BEBD018B917228FFB5D1E" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="7CAF71EEAD16960ACD3AB18488623553">
+<mods:title id="51C149C78B058E4A0B5AA93E878C366D">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="A4BF6232B18B46307CA6A2E36B3BB19A" type="personal">
+<mods:role id="317C4C2BC671D83A6D773F0899D8EF71">
+<mods:roleTerm id="685FCFAE2F67AB4916B9466EBBE41260">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3B35C0040B8D96453CCCD6628B61CBA4">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="78F5343E239FBAFFC33D780B2D361397">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="6144B13F42F33CD3593EDCC546C49776">text</mods:typeOfResource>
+<mods:relatedItem id="A0CA560FCDB14CC72F0E70B44835F7F7" type="host">
+<mods:originInfo id="37B4C645D2CEC21DB8CC144032534546">
+<mods:dateIssued id="E3DF61D44AD09B92DF60142274D25E46">1946</mods:dateIssued>
+<mods:dateOther id="889B5485AE5952C9A471E71F605AFA31" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="B5FE2AE491F5E0962A924FB90DE02CED">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="E22BE5707EC0AE24471D3F518AF727B2">
+<mods:placeTerm id="1F14F650D1CD74313F793FA0912AD0E1">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="178F30E5066736E217A236750CA78F16">
+<mods:title id="E6CE75EB719621D6E43E0F103CA74CE4">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="ED8AD2161F8D0583E6AB33A7466E4BC4">
+<mods:extent id="2079D84A35D49C14D5AEC8D5A9D6D617" unit="page">
+<mods:start id="6BD83BE3F762893A99BF4BFF24A5415B">157</mods:start>
+<mods:end id="B02612B249F73DB1F0218D053841FAE1">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="8C56B19D666F8476DC39FAB9B36C8AA5">book chapter</mods:classification>
+<mods:identifier id="A214CA012FD784D88AD3E0EC58219129" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="40EC494F877471F94F4D8621F3C1C658" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="6D5C7F84D620F559AECF0E270622E8E6" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91EFFFFFEC3F8CBFCBB19D9" ID-DOI="http://doi.org/10.5281/zenodo.5169375" ID-GBIF-Taxon="184133260" ID-Zenodo-Dep="5169375" LSID="urn:lsid:plazi:treatment:F03E87AAF91EFFFFFEC3F8CBFCBB19D9" httpUri="http://treatment.plazi.org/id/F03E87AAF91EFFFFFEC3F8CBFCBB19D9" lastPageNumber="161" pageId="4" pageNumber="161">
+<subSubSection id="308D6537F91EFFFFFEC3F8CBFC3D19BE" box="[321,1017,1877,1920]" pageId="4" pageNumber="161" type="nomenclature">
+<paragraph id="782836BCF91EFFFFFEC3F8CBFC3D19BE" blockId="4.[321,1598,1877,2023]" box="[321,1017,1877,1920]" pageId="4" pageNumber="161">
+<heading id="236081D0F91EFFFFFEC3F8CBFC3D19BE" box="[321,1017,1877,1920]" fontSize="8" level="2" pageId="4" pageNumber="161" reason="4">
+<emphasis id="4AE3EAAEF91EFFFFFEC3F8CBFEB619BE" bold="true" box="[321,370,1877,1920]" pageId="4" pageNumber="161">51.</emphasis>
+<taxonomicName id="BF974D3FF91EFFFFFE11F8CBFC3019BE" authority="(Newstead)" baseAuthorityName="Newstead" baseAuthorityYear="1894" box="[403,1012,1877,1920]" class="Insecta" family="Coccidae" genus="Aonidiella" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="161" phylum="Arthropoda" rank="species" species="orientalis">
+<emphasis id="4AE3EAAEF91EFFFFFE11F8CBFCC319BE" bold="true" box="[403,775,1877,1920]" pageId="4" pageNumber="161">Aonidiella orientalis</emphasis>
+(Newstead)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91EFFFFFEFFF814F9FA198A" box="[381,1598,1930,1972]" pageId="4" pageNumber="161" type="description">
+<paragraph id="782836BCF91EFFFFFEFFF814F9FA198A" blockId="4.[321,1598,1877,2023]" box="[381,1598,1930,1972]" pageId="4" pageNumber="161">
+<treatmentCitationGroup id="58871192F91EFFFFFEFFF814F9FA198A" box="[381,1598,1930,1972]" pageId="4" pageNumber="161">
+<treatmentCitation id="F93610ADF91EFFFFFEFFF814F9FA198A" author="Newstead" box="[381,1598,1930,1972]" page="26" pageId="4" pageNumber="161" year="1894">
+<taxonomicName id="BF974D3FF91EFFFFFEFFF814FC74198A" authority="Newstead, Indian Mus." authorityName="Newstead, Indian Mus." box="[381,944,1930,1972]" class="Insecta" family="Diaspididae" genus="Aspidiotus" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="161" phylum="Arthropoda" rank="species" species="orientalis">
+<emphasis id="4AE3EAAEF91EFFFFFEFFF814FD2B198A" box="[381,751,1930,1972]" italics="true" pageId="4" pageNumber="161">Aspidiotus orientalis</emphasis>
+<bibCitation id="ADBD3ED0F91EFFFFFC82F814F9FA198A" author="Newstead" box="[768,1598,1930,1972]" journalOrPublisher="Indian Mus. Notes" pageId="4" pageNumber="161" pagination="26" part="3" type="journal article" year="1894">
+<author id="A02ADE59F91EFFFFFC82F814FC74198A" box="[768,944,1930,1972]" pageId="4" pageNumber="161">Newstead</author>
+, 
+<journalOrPublisher id="A2563C70F91EFFFFFC4AF814FADE198A" box="[968,1306,1930,1972]" pageId="4" pageNumber="161">Indian Mus. Notes</journalOrPublisher>
+<part id="0C339C21F91EFFFFFAABF814FAFE198A" box="[1321,1338,1930,1972]" pageId="4" pageNumber="161" type="volume">3</part>
+(
+<part id="0C339C21F91EFFFFFAD1F814FAA8198A" box="[1363,1388,1930,1972]" pageId="4" pageNumber="161" type="issue">5</part>
+): 
+<pagination id="415EC848F91EFFFFFA21F814FA0F198A" box="[1443,1483,1930,1972]" pageId="4" pageNumber="161" type="pagination">26</pagination>
+, 
+<year id="0C3F77EFF91EFFFFFA64F814F9FD198A" box="[1510,1593,1930,1972]" pageId="4" pageNumber="161">1894</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<paragraph id="782836BCF91EFFFFFEFDF823FCBB19D9" blockId="4.[321,1598,1877,2023]" box="[383,895,1981,2023]" pageId="4" pageNumber="161">
+<subSubSection id="308D6537F91EFFFFFEFDF823FCBE19D9" box="[383,890,1981,2023]" pageId="4" pageNumber="161" type="description">
+<materialsCitation id="C8FF3CE1F91EFFFFFEFDF823FCBE19D9" ID-GBIF-Occurrence="3334182301" box="[383,890,1981,2023]" collectedFrom="On rose and Citrus" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="4" pageNumber="161">
+<collectingMunicipality id="984CACC6F91EFFFFFEFDF823FE7219D9" box="[383,438,1981,2023]" pageId="4" pageNumber="161">On</collectingMunicipality>
+rose and 
+<emphasis id="4AE3EAAEF91EFFFFFDEFF823FD2519D9" box="[621,737,1981,2023]" italics="true" pageId="4" pageNumber="161">
+<location id="7D486067F91EFFFFFDEFF823FD1F19D9" LSID="urn:lsid:plazi:treatment:F03E87AAF91EFFFFFEC3F8CBFCBB19D9:7D486067F91EFFFFFDEFF823FD1F19D9" box="[621,731,1981,2023]" municipality="On" name="Citrus" pageId="4" pageNumber="161">Citrus</location>
+,
+</emphasis>
+<collectorName id="D562536AF91EFFFFFD76F823FCBE19D9" box="[756,890,1981,2023]" pageId="4" pageNumber="161">Swezey</collectorName>
+</materialsCitation>
+</subSubSection>
+.
+</paragraph>
+</treatment>
+</document>

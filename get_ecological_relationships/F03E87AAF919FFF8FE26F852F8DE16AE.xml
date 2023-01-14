@@ -1,0 +1,125 @@
+<document id="C0C33FCC91360E50DD697E94BACDE7BA" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF919FFF8FE26F852F8DE16AE" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Ischnaspis longirostris Coccoidea" docType="treatment" docVersion="14" lastPageNumber="160" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="160" updateTime="1663190934983" updateUser="aubreymoore">
+<mods:mods id="8FD27F24F0FC234B9F777955C7349249" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="7541F03BDE085AD3220BC4757215E1B3">
+<mods:title id="EE0A03D124CF547DE89A0D1C0B0ECC54">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="DC93E281125226A5949EF6F634ADDC0B" type="personal">
+<mods:role id="B3F2AD7C8328D99495675A708AE99BB7">
+<mods:roleTerm id="AD56E3B0E42058AB1EBC126799C0D3C8">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="6151750577F1B96A918BEFA27B84F4AE">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="E48520E088C6F29A9D65D7D311D6F2FC">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="2787784D66D66B0BC5B345386A91BA51">text</mods:typeOfResource>
+<mods:relatedItem id="C212BF8257667CA9A1D7331D082A2573" type="host">
+<mods:originInfo id="81D4F5A2E1D425D823AB02C373431B22">
+<mods:dateIssued id="0D6B7CE53A92A85D6C110B8CB173088C">1946</mods:dateIssued>
+<mods:dateOther id="AC65389DE62FC2403984585CFB897373" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="CD4B79AD10D3826CC8DA8B8953C9C766">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="331FBD7680CC780914B501E26AE4D2A0">
+<mods:placeTerm id="CBC416447D1320B3BC44149098B3A068">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="11350FCB7AEA07337E4EC8E48BE98019">
+<mods:title id="7F990539E7EEF93E21C15457BA561112">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="1A7E29DEF049186AD9249A42895F1D46">
+<mods:extent id="33D7F895B2E34F66AAB330269CCAE52C" unit="page">
+<mods:start id="A78D5940EFABE20F2B05847FB807413A">157</mods:start>
+<mods:end id="86AD8F25DE6D6406E47D7B6C2490A642">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="BD92EDF586BF5ED219EE33CD9E08AB3D">book chapter</mods:classification>
+<mods:identifier id="989066B9A3FD55BC2F23AE7A5B332879" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="2AFC390FDA6AA2E4E64AC0C7E8F96926" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="849E7853C4D9DE48CD62127C330131B4" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF919FFF8FE26F852F8DE16AE" ID-DOI="http://doi.org/10.5281/zenodo.5158140" ID-GBIF-Taxon="183925197" ID-Zenodo-Dep="5158140" LSID="urn:lsid:plazi:treatment:F03E87AAF919FFF8FE26F852F8DE16AE" httpUri="http://treatment.plazi.org/id/F03E87AAF919FFF8FE26F852F8DE16AE" lastPageNumber="160" pageId="3" pageNumber="160">
+<subSubSection id="308D6537F919FFF8FE26F852FBBC19C8" box="[420,1144,1996,2038]" pageId="3" pageNumber="160" type="nomenclature">
+<paragraph id="782836BCF919FFF8FE26F852FBBC19C8" blockId="3.[420,1820,1996,2192]" box="[420,1144,1996,2038]" pageId="3" pageNumber="160">
+<heading id="236081D0F919FFF8FE26F852FBBC19C8" box="[420,1144,1996,2038]" fontSize="8" level="2" pageId="3" pageNumber="160" reason="4">
+<emphasis id="4AE3EAAEF919FFF8FE26F852FE1219C8" bold="true" box="[420,470,1996,2038]" pageId="3" pageNumber="160">42.</emphasis>
+<taxonomicName id="BF974D3FF919FFF8FE75F852FBB619C8" authority="(Signoret)" authorityName="Coccoidea" baseAuthorityName="Signoret" baseAuthorityYear="1882" box="[503,1138,1996,2038]" class="Insecta" family="Coccidae" genus="Ischnaspis" kingdom="Animalia" order="Hemiptera" pageId="3" pageNumber="160" phylum="Arthropoda" rank="species" species="longirostris">
+<emphasis id="4AE3EAAEF919FFF8FE75F852FC5D19C8" bold="true" box="[503,921,1996,2038]" pageId="3" pageNumber="160">Ischnaspis longirostris</emphasis>
+(Signoret)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F919FFF8FE61F860F8DF1617" box="[483,1819,2046,2089]" pageId="3" pageNumber="160" type="description">
+<paragraph id="782836BCF919FFF8FE61F860F8DF1617" blockId="3.[420,1820,1996,2192]" box="[483,1819,2046,2089]" pageId="3" pageNumber="160">
+<treatmentCitationGroup id="58871192F919FFF8FE61F860F8D21617" box="[483,1814,2046,2089]" pageId="3" pageNumber="160">
+<treatmentCitation id="F93610ADF919FFF8FE61F860F8D21617" author="Signoret" box="[483,1814,2046,2089]" pageId="3" pageNumber="160" year="1882">
+<taxonomicName id="BF974D3FF919FFF8FE61F860FBD91617" authority="Signoret, Soc." authorityName="Signoret, Soc." box="[483,1053,2046,2089]" class="Insecta" family="Diaspididae" genus="Mytilaspis" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="3" pageNumber="160" phylum="Arthropoda" rank="species" species="longirostris">
+<emphasis id="4AE3EAAEF919FFF8FE61F860FCB01617" box="[483,884,2046,2089]" italics="true" pageId="3" pageNumber="160">Mytilaspis longirostris</emphasis>
+<bibCitation id="ADBD3ED0F919FFF8FC07F860F8D21617" author="Signoret" box="[901,1814,2046,2089]" journalOrPublisher="Soc. ent. France, Bull" pageId="3" pageNumber="160" type="book" year="1882">
+<author id="A02ADE59F919FFF8FC07F860FBD91617" box="[901,1053,2046,2089]" pageId="3" pageNumber="160">Signoret</author>
+, 
+<journalOrPublisher id="A2563C70F919FFF8FBB6F860FA7E1617" box="[1076,1466,2046,2089]" pageId="3" pageNumber="160">
+Soc. ent. 
+<collectingCountry id="0080762CF919FFF8FB5BF860FA921617" box="[1241,1366,2046,2089]" name="France" pageId="3" pageNumber="160">France</collectingCountry>
+, Bull
+</journalOrPublisher>
+. VI, 
+<emphasis id="4AE3EAAEF919FFF8F999F860F9E91617" bold="true" box="[1563,1581,2046,2089]" pageId="3" pageNumber="160">2:</emphasis>
+xxxv, 
+<year id="0C3F77EFF919FFF8F946F860F8D21617" box="[1732,1814,2046,2089]" pageId="3" pageNumber="160">1882</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F919FFF8FE67F7ACF8DE16AE" pageId="3" pageNumber="160" type="description">
+<paragraph id="782836BCF919FFF8FE67F7ACF8DE16AE" blockId="3.[420,1820,1996,2192]" pageId="3" pageNumber="160">
+<materialsCitation id="C8FF3CE1F919FFF8FE67F7ACFBDC1663" ID-GBIF-Occurrence="3901039301" box="[485,1048,2098,2141]" collectedFrom="On Jasminum sambac" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="3" pageNumber="160">
+<collectingMunicipality id="984CACC6F919FFF8FE67F7ACFDD81663" box="[485,540,2098,2141]" pageId="3" pageNumber="160">On</collectingMunicipality>
+<taxonomicName id="BF974D3FF919FFF8FDABF7ACFBD51663" authority=", Swezey" authorityName="Swezey" box="[553,1041,2098,2141]" class="Magnoliopsida" family="Oleaceae" genus="Jasminum" kingdom="Plantae" order="Lamiales" pageId="3" pageNumber="160" phylum="Tracheophyta" rank="species" species="sambac">
+<emphasis id="4AE3EAAEF919FFF8FDABF7ACFCB71663" box="[553,883,2098,2141]" italics="true" pageId="3" pageNumber="160">
+<location id="7D486067F919FFF8FDABF7ACFD191663" LSID="urn:lsid:plazi:treatment:F03E87AAF919FFF8FE26F852F8DE16AE:7D486067F919FFF8FDABF7ACFD191663" box="[553,733,2098,2141]" municipality="On" name="Jasminum" pageId="3" pageNumber="160">Jasminum</location>
+sambac,
+</emphasis>
+<collectorName id="D562536AF919FFF8FC06F7ACFBD51663" box="[900,1041,2098,2141]" pageId="3" pageNumber="160">Swezey</collectorName>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F919FFF8FBA7F7ACFABE1663" ID-GBIF-Occurrence="3901039303" box="[1061,1402,2098,2141]" collectedFrom="Pandanus" collectingDate="1938-1939" collectorName="R. G. Oakley" country="Guam" location="Guam" pageId="3" pageNumber="160">
+<taxonomicName id="BF974D3FF919FFF8FBA7F7ACFAB71663" authority=", Oakley" authorityName="Oakley" box="[1061,1395,2098,2141]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="3" pageNumber="160" phylum="Tracheophyta" rank="genus">
+<emphasis id="4AE3EAAEF919FFF8FBA7F7ACFB191663" box="[1061,1245,2098,2141]" italics="true" pageId="3" pageNumber="160">
+<location id="7D486067F919FFF8FBA7F7ACFB121663" LSID="urn:lsid:plazi:treatment:F03E87AAF919FFF8FE26F852F8DE16AE:7D486067F919FFF8FBA7F7ACFB121663" box="[1061,1238,2098,2141]" municipality="On" name="Pandanus" pageId="3" pageNumber="160">Pandanus</location>
+,
+</emphasis>
+<collectorName id="D562536AF919FFF8FB6FF7ACFAB71663" box="[1261,1395,2098,2141]" pageId="3" pageNumber="160">Oakley</collectorName>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F919FFF8FA0BF7ACFC0F16AE" ID-GBIF-Occurrence="3891552306" collectedFrom="palm" collectingDate="1936" collectorName="Bureau of Entomology and Plant Quarantine" country="Guam" location="Guam" pageId="3" pageNumber="160">
+palm, 
+<collectingMunicipality id="984CACC6F919FFF8FA7AF7ACFC0016AE" pageId="3" pageNumber="160">Bureau of Entomology and Plant Quarantine</collectingMunicipality>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F919FFF8FC5EF7FAFA4716AE" ID-GBIF-Occurrence="3331839325" box="[988,1411,2148,2192]" collectedFrom="on mango" collectingDate="1911-05-02" collectorName="D. T. Fullaway" country="Guam" location="Piti" pageId="3" pageNumber="160">
+<location id="7D486067F919FFF8FC5EF7FAFBDB16AE" LSID="urn:lsid:plazi:treatment:F03E87AAF919FFF8FE26F852F8DE16AE:7D486067F919FFF8FC5EF7FAFBDB16AE" box="[988,1055,2148,2192]" name="Piti" pageId="3" pageNumber="160">Piti</location>
+, 
+<date id="0C29107CF919FFF8FBBAF7FAFB6916AE" box="[1080,1197,2148,2192]" pageId="3" pageNumber="160">
+<collectingDate id="1C6DE994F919FFF8FBBAF7FAFB6916AE" box="[1080,1197,2148,2192]" pageId="3" pageNumber="160">May 2</collectingDate>
+</date>
+, on mango';
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F919FFF8FA14F7FAF8D116AE" ID-GBIF-Occurrence="3331839317" box="[1430,1813,2148,2192]" collectingDate="1936-07-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="3" pageNumber="160">
+<location id="7D486067F919FFF8FA14F7FAFA1C16AE" LSID="urn:lsid:plazi:treatment:F03E87AAF919FFF8FE26F852F8DE16AE:7D486067F919FFF8FA14F7FAFA1C16AE" box="[1430,1496,2148,2192]" name="Piti" pageId="3" pageNumber="160">Piti</location>
+, 
+<date id="0C29107CF919FFF8FA6DF7FAF9B216AE" box="[1519,1654,2148,2192]" pageId="3" pageNumber="160" value="1930-07">
+<collectingDate id="1C6DE994F919FFF8FA6DF7FAF9B216AE" box="[1519,1654,2148,2192]" pageId="3" pageNumber="160" value="1930-07">July 30</collectingDate>
+</date>
+, 
+<collectorName id="D562536AF919FFF8F90CF7FAF8D116AE" box="[1678,1813,2148,2192]" pageId="3" pageNumber="160">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

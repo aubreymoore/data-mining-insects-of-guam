@@ -1,0 +1,81 @@
+<document id="254A1EA45BB8D4885A78500C433FCC6A" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF918FFF9FEADFB21FCBC1B6E" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Saissetia hemisphaerica" docType="treatment" docVersion="12" lastPageNumber="159" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="159" updateTime="1661283429254" updateUser="annettekang">
+<mods:mods id="98319ABF49B4073E68341E5E063F7B1E" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="08036CD2E21E2AB342CF4E72675C119F">
+<mods:title id="A2E0A2B8EAA21A5663F0E1B8DC5A30D6">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="67687002F2862640953EF7259B08D5DA" type="personal">
+<mods:role id="C39D9BAD436710C59C216B7898B80306">
+<mods:roleTerm id="59E917E8DCC98EA67817BC094F3A08A5">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="FEF4726BC634A3F986E31EA254B0F89A">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="EE2B75E500CF8C4F411CCF2664E3288F">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="46320778C6BF78C048F62A03F3EBC67B">text</mods:typeOfResource>
+<mods:relatedItem id="199D055593BE52D0343648B8C3416B93" type="host">
+<mods:originInfo id="C39AADEBA79EDF62D1B67BEC3B9649F9">
+<mods:dateIssued id="BB86E13A50C1112AA9EA2CDD7F1409BB">1946</mods:dateIssued>
+<mods:dateOther id="D583603651B316472145661C40D3A9F2" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="B984085A2260B10DF27981EE6FA5C313">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="5D78EBCBA2AFB816ADE742C0AB9057C6">
+<mods:placeTerm id="7A7C10B011682E218ABCE8794E99F9D4">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="484194A3BFAA3E641D97ABA98AA66901">
+<mods:title id="4507EB4F066E8E4E77AE65DDBFA5F9DB">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="73E8F1B478C8C1DEC8CD1492B64D02DB">
+<mods:extent id="4649999E2AE3C410DDAE528FDD084663" unit="page">
+<mods:start id="58AB033E2AFA60FFBB77D99EFDEED06D">157</mods:start>
+<mods:end id="463FF501F6B903C728719CFD25E406FF">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="19E6C407CCCFF63F292912E79E3BBCB0">book chapter</mods:classification>
+<mods:identifier id="4E89E9E137A1551258ACD21AEB66ECDA" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="E3F3B672135C06D5897DBE3FBCA66940" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="C899C7189EDC69264C729C8C99C22941" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF918FFF9FEADFB21FCBC1B6E" ID-DOI="http://doi.org/10.5281/zenodo.5158041" ID-GBIF-Taxon="183925208" ID-Zenodo-Dep="5158041" LSID="urn:lsid:plazi:treatment:F03E87AAF918FFF9FEADFB21FCBC1B6E" httpUri="http://treatment.plazi.org/id/F03E87AAF918FFF9FEADFB21FCBC1B6E" lastPageNumber="159" pageId="2" pageNumber="159">
+<subSubSection id="308D6537F918FFF9FEADFB21FBD81AD7" box="[303,1052,1215,1257]" pageId="2" pageNumber="159" type="nomenclature">
+<paragraph id="782836BCF918FFF9FEADFB21FBD81AD7" blockId="2.[303,1585,1215,1360]" box="[303,1052,1215,1257]" pageId="2" pageNumber="159">
+<heading id="236081D0F918FFF9FEADFB21FBD81AD7" box="[303,1052,1215,1257]" fontSize="8" level="2" pageId="2" pageNumber="159" reason="4">
+<emphasis id="4AE3EAAEF918FFF9FEADFB21FEA51AD7" bold="true" box="[303,353,1215,1257]" pageId="2" pageNumber="159">25.</emphasis>
+<taxonomicName id="BF974D3FF918FFF9FE01FB21FBD21AD7" authority="(Targioni)" baseAuthorityName="Targioni" box="[387,1046,1215,1257]" class="Insecta" family="Coccidae" genus="Saissetia" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="159" phylum="Arthropoda" rank="species" species="hemisphaerica">
+<emphasis id="4AE3EAAEF918FFF9FE01FB21FCFC1AD7" bold="true" box="[387,824,1215,1257]" pageId="2" pageNumber="159">Saissetia hemisphaerica</emphasis>
+(Targioni)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F918FFF9FEEDFB6CF9F51B23" box="[367,1585,1266,1309]" pageId="2" pageNumber="159" type="description">
+<paragraph id="782836BCF918FFF9FEEDFB6CF9F51B23" blockId="2.[303,1585,1215,1360]" box="[367,1585,1266,1309]" pageId="2" pageNumber="159">
+<taxonomicName id="BF974D3FF918FFF9FEEDFB6CFC291B23" authority="Targioni, Studii" authorityName="Targioni, Studii" box="[367,1005,1266,1309]" class="Insecta" family="Coccidae" genus="Lecanium" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="159" phylum="Arthropoda" rank="species" species="hemisphaericum">
+<emphasis id="4AE3EAAEF918FFF9FEEDFB6CFC811B23" box="[367,837,1266,1309]" italics="true" pageId="2" pageNumber="159">Lecanium hemisphaericum</emphasis>
+<bibCitation id="ADBD3ED0F918FFF9FCD3FB6CF9E81B23" author="Targioni" box="[849,1580,1266,1309]" pageId="2" pageNumber="159" part="26" title="Studii sul. cocciniiglie" type="book" year="1867">
+<author id="A02ADE59F918FFF9FCD3FB6CFC291B23" box="[849,1005,1266,1309]" pageId="2" pageNumber="159">Targioni</author>
+, 
+<title id="0A93DD8AF918FFF9FB81FB6CFA401B23" box="[1027,1412,1266,1309]" pageId="2" pageNumber="159">Studii sul. cocciniiglie</title>
+, 
+<part id="0C339C21F918FFF9FA14FB6CFA061B23" box="[1430,1474,1266,1309]" pageId="2" pageNumber="159">26</part>
+, 
+<year id="0C3F77EFF918FFF9FA5BFB6CF9E81B23" box="[1497,1580,1266,1309]" pageId="2" pageNumber="159">1867</year>
+</bibCitation>
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F918FFF9FEEDFAB8FCBC1B6E" box="[367,888,1318,1360]" pageId="2" pageNumber="159" type="description">
+<paragraph id="782836BCF918FFF9FEEDFAB8FCBC1B6E" blockId="2.[303,1585,1215,1360]" box="[367,888,1318,1360]" pageId="2" pageNumber="159">
+<materialsCitation id="C8FF3CE1F918FFF9FEEDFAB8FCBC1B6E" ID-GBIF-Occurrence="3331839302" box="[367,888,1318,1360]" collectedFrom="on coffee" collectingDate="1911-1939" collectorName="D. T. Fullaway and R. G. Oakley" country="Guam" location="Guam" pageId="2" pageNumber="159">
+<collectingMunicipality id="984CACC6F918FFF9FEEDFAB8FE621B6E" box="[367,422,1318,1360]" pageId="2" pageNumber="159">On</collectingMunicipality>
+coffee, 
+<collectorName id="D562536AF918FFF9FDBAFAB8FD191B6E" box="[568,733,1318,1360]" pageId="2" pageNumber="159">Fullaway</collectorName>
+, 
+<collectorName id="D562536AF918FFF9FD76FAB8FCB71B6E" box="[756,883,1318,1360]" pageId="2" pageNumber="159">Oakley</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

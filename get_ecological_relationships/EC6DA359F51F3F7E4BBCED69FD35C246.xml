@@ -1,0 +1,85 @@
+<document id="020D376D6629CA5675230174A93EA8AB" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F51F3F7E4BBCED69FD35C246" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pachybrachius nietneri" docType="treatment" docVersion="21" lastPageNumber="30" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="30" updateTime="1671564665568" updateUser="annettekang">
+<mods:mods id="A4CCD4EE13956429A3D0AAB06ACF2339" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="2F37A9BCC5BBABAEC8BDF1A851CACDAA">
+<mods:title id="1177AFE4C211A8469A4BAC12C1688B2A">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="D1760536B9A0D81A8C46D74D20C1DBCB" type="personal">
+<mods:role id="6CCAE4AF2FE835EF72973180DD545FC7">
+<mods:roleTerm id="EE861E9060F5EEC8C112EDDCA889C890">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D4E07A666A79061AA05128DBFD265916">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="BCBADB627FB276A94DF3C29001A819E1">text</mods:typeOfResource>
+<mods:relatedItem id="AB8CD4DC3C76554404AC2E6AACED10FE" type="host">
+<mods:originInfo id="3A3499D9BFB61A05F6F898FFAAB020D5">
+<mods:dateIssued id="D5A3D7F112497BC1BD667DBADDAAAC65">1946</mods:dateIssued>
+<mods:dateOther id="44811AF182D138CCF7C967858577C278" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="A328CC020C08BF46C6CE20D2FE825CD4">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="119EBC508ED5E69231AA0888CA90337E">
+<mods:placeTerm id="61657061A5E1D2A282009AC510BEBF81">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="2B580EA51CA6A9471E1F7D870C044BEB">
+<mods:title id="D7DCE8E9A013F8AB70398A8BEF865ED4">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="4E1A15AE13568D9DF739610BA05557B3">
+<mods:extent id="312473A50F65FF62B45403344462DB5C" unit="page">
+<mods:start id="CC16BEBE78406626C681E45E0EC2894C">11</mods:start>
+<mods:end id="10AC1389BF2688492B6A9674E1878140">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="55DA5AE75D224A214B8EF61B55D1732E">book chapter</mods:classification>
+<mods:identifier id="D6589D3E4DAC52EC2D984E767ADA4F18" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="493E29B0D549A903EB366E9925182D53" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="510CD308AC5E7EA047E21413F6C3B344" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F51F3F7E4BBCED69FD35C246" ID-DOI="http://doi.org/10.5281/zenodo.5217845" ID-GBIF-Taxon="184601067" ID-Zenodo-Dep="5217845" LSID="urn:lsid:plazi:treatment:EC6DA359F51F3F7E4BBCED69FD35C246" httpUri="http://treatment.plazi.org/id/EC6DA359F51F3F7E4BBCED69FD35C246" lastPageNumber="30" pageId="19" pageNumber="30">
+<subSubSection id="2CDE41C4F51F3F7E4BBCED69FB69C342" box="[476,1165,513,554]" pageId="19" pageNumber="30" type="nomenclature">
+<paragraph id="647B124FF51F3F7E4BBCED69FB69C342" blockId="19.[476,1874,513,814]" box="[476,1165,513,554]" pageId="19" pageNumber="30">
+<heading id="3F33A523F51F3F7E4BBCED69FB69C342" box="[476,1165,513,554]" fontSize="8" level="2" pageId="19" pageNumber="30" reason="4">
+24. 
+<taxonomicName id="A3C469CCF51F3F7E484FED69FB63C342" authority="(Dohrn)" box="[559,1159,513,554]" class="Insecta" family="Encyrtidae" genus="Pachybrachius" kingdom="Animalia" order="Hymenoptera" pageId="19" pageNumber="30" phylum="Arthropoda" rank="species" species="nietneri">Pachybrachius nietneri (Dohrn)</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F51F3F7E487AED5DF99DC337" box="[538,1657,565,607]" pageId="19" pageNumber="30">
+<paragraph id="647B124FF51F3F7E487AED5DF99DC337" blockId="19.[476,1874,513,814]" box="[538,1657,565,607]" pageId="19" pageNumber="30">
+<bibCitation id="B1EE1A23F51F3F7E487AED5DF99DC337" author="Dohrn" box="[538,1657,565,607]" journalOrPublisher="Stett. Ent. Zeitung" pageId="19" pageNumber="30" pagination="404" part="21" refId="ref8894" type="journal article" year="1860">
+<treatmentCitationGroup id="44D43561F51F3F7E487AED5DF990C337" box="[538,1652,565,607]" pageId="19" pageNumber="30">
+<treatmentCitation id="E565345EF51F3F7E487AED5DF990C337" author="Dohrn" box="[538,1652,565,607]" page="404" pageId="19" pageNumber="30" year="1860">
+<emphasis id="56B0CE5DF51F3F7E487AED5DFC68C337" box="[538,908,565,607]" italics="true" pageId="19" pageNumber="30">Plociomerus nietneri</emphasis>
+<author id="BC79FAAAF51F3F7E49F9ED5DFBEAC337" box="[921,1038,565,607]" pageId="19" pageNumber="30">Dohrn</author>
+, 
+<journalOrPublisher id="BE051883F51F3F7E4E46ED5DFA90C337" box="[1062,1396,565,607]" pageId="19" pageNumber="30">Stett. Ent. Zeitung</journalOrPublisher>
+<emphasis id="56B0CE5DF51F3F7E4FE1ED5DFA43C337" bold="true" box="[1409,1447,565,607]" pageId="19" pageNumber="30">
+<part id="1060B8D2F51F3F7E4FE1ED5DFA47C337" box="[1409,1443,565,607]" pageId="19" pageNumber="30" type="volume">21</part>
+:
+</emphasis>
+<pagination id="5D0DECBBF51F3F7E4FA6ED5DF9ECC337" box="[1478,1544,565,607]" pageId="19" pageNumber="30" type="pagination">404</pagination>
+, 
+<year id="106C531CF51F3F7E4C41ED5DF990C337" box="[1569,1652,565,607]" pageId="19" pageNumber="30">1860</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F51F3F7E487DED00FD35C246" pageId="19" pageNumber="30">
+<paragraph id="647B124FF51F3F7E487DED00FD35C246" blockId="19.[476,1874,513,814]" pageId="19" pageNumber="30">
+<materialsCitation id="D4AC1812F51F3F7E487DED00FB44C3FB" ID-GBIF-Occurrence="3994028522" box="[541,1184,616,659]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="19" pageNumber="30" specimenCount="1">
+<collectorName id="C9317799F51F3F7E487DED00FD82C3FB" box="[541,614,616,659]" pageId="19" pageNumber="30">One</collectorName>
+<specimenCount id="72C2D9C6F51F3F7E4814ED00FCF6C3FB" box="[628,786,616,659]" pageId="19" pageNumber="30" type="generic">specimen</specimenCount>
+collected by 
+<location id="611B4494F51F3F7E499CED00FB44C3FB" LSID="urn:lsid:plazi:treatment:EC6DA359F51F3F7E4BBCED69FD35C246:611B4494F51F3F7E499CED00FB44C3FB" box="[1020,1184,616,659]" name="Fullaway" pageId="19" pageNumber="30">Fullaway</location>
+</materialsCitation>
+and bearing the determination label of C. S. Banks. Although both antennae are broken off, the specimen agrees well with the original description and runs to 
+<emphasis id="56B0CE5DF51F3F7E4ECEEDB8FAD2C392" box="[1198,1334,720,762]" italics="true" pageId="19" pageNumber="30">nietneri</emphasis>
+in StiU's key (Enum. Hemipt. 
+<emphasis id="56B0CE5DF51F3F7E4BBCEC6BFDE5C246" bold="true" box="[476,513,771,814]" pageId="19" pageNumber="30">4:</emphasis>
+148, 1874).
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

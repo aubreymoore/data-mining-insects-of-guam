@@ -1,0 +1,62 @@
+<document id="EEBEDE4C34BF86719184CA9655E24644" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E947FFADFCE085E696F10AD1" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pyralidae" docType="treatment" docVersion="12" lastPageNumber="175" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="175" updateTime="1632489365374" updateUser="carolina">
+<mods:mods id="4D53B3BA92C682094F15CBE077ECBCAB" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="5FE456E0C996D02B590E25CE4438BE72">
+<mods:title id="72970602C5F99539FD5721353D6361CF">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="623564FB488F835215CEC332FE33BF9C" type="personal">
+<mods:role id="DE8D7243AC9D41EC23AC6E945CD65739">
+<mods:roleTerm id="91AEFD6EE75424FACD1E284A56CC6056">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="0AAA5D010A83EF8F94CE0F3D7E906A0D">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="AECB50A033F43F080B797B42E66F5C17">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A07FD3D8F9060521EBE5420ACE2F0C08">text</mods:typeOfResource>
+<mods:relatedItem id="7F5D251E0C33288689C3D437AB591DD0" type="host">
+<mods:originInfo id="20F96BC3108FFCC9BC5040107E5CD400">
+<mods:dateIssued id="E67836E14D82C3C3F5D3AA68C8DFC987">1946</mods:dateIssued>
+<mods:dateOther id="1F2386A03B3BD3C9893179B3E3E34BE6" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="FC523044AE9B4F4D37474269E69E3210">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="F77734E0C1A993BDFDC37F2AC92F996F">
+<mods:placeTerm id="2F3211B173BAA6C2C9994242F086E7D6">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="2CA3286A62E8F2351F6E597FDB2DCE41">
+<mods:title id="B6621D02EE8490690474D08538CDCDB8">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="D2E16DBD8890439D72A458FC5090ECBC">
+<mods:extent id="E01C9995FA89F4B16B53E3573CC8E0FE" unit="page">
+<mods:start id="B2CAE034E7F23E7F4B7E9E0C2C79EE5A">163</mods:start>
+<mods:end id="03890614E7711C6F5D61A46E8DA52159">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="0CAF8E92217B4C13C31FE196BD86589B">book chapter</mods:classification>
+<mods:identifier id="1FB88CF281CA5302BE9E0F009E0BC604" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="257984B22F3163270AD941C73A432D89" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="709DD09B2B79894373462CAC759A2CEB" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E947FFADFCE085E696F10AD1" ID-DOI="http://doi.org/10.5281/zenodo.5519637" ID-GBIF-Taxon="183926890" ID-Zenodo-Dep="5519637" LSID="urn:lsid:plazi:treatment:03B387B8E947FFADFCE085E696F10AD1" httpUri="http://treatment.plazi.org/id/03B387B8E947FFADFCE085E696F10AD1" lastPageNumber="175" pageId="12" pageNumber="175">
+<subSubSection id="C3006525E947FFADFCE085E696CE0B48" box="[815,1208,2011,2055]" pageId="12" pageNumber="175" type="nomenclature">
+<paragraph id="8BA536AEE947FFADFCE085E696CE0B48" blockId="12.[815,1208,2011,2055]" box="[815,1208,2011,2055]" pageId="12" pageNumber="175">
+<heading id="D0ED81C2E947FFADFCE085E696CE0B48" box="[815,1208,2011,2055]" centered="true" fontSize="8" level="2" pageId="12" pageNumber="175" reason="3">
+<emphasis id="B96EEABCE947FFADFCE085E691C80B48" bold="true" box="[815,958,2011,2055]" pageId="12" pageNumber="175">FAMILY</emphasis>
+<taxonomicName id="4C1A4D2DE947FFADFC1E85E696CE0B48" box="[977,1208,2011,2055]" class="Insecta" family="Pyralidae" kingdom="Animalia" order="Lepidoptera" pageId="12" pageNumber="175" phylum="Arthropoda" rank="family">PYRALIDAE</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E947FFADFEBA8A7C96F10AD1" pageId="12" pageNumber="175" type="description">
+<paragraph id="8BA536AEE947FFADFEBA8A7C96F10AD1" blockId="12.[310,1707,2113,2462]" pageId="12" pageNumber="175">
+The arrangement of the 
+<collectingCountry id="F30D763EE947FFADFCF68A7C91D60B22" box="[825,928,2113,2157]" name="Guam" pageId="12" pageNumber="175">Guam</collectingCountry>
+material of this family is according to the classification used by W. H. T. Tams [Insects of 
+<collectingCountry id="F30D763EE947FFADFAD78A4997E60BEF" box="[1304,1424,2164,2208]" name="Samoa" pageId="12" pageNumber="175">Samoa</collectingCountry>
+<emphasis id="B96EEABCE947FFADFA688A4997830BEF" bold="true" box="[1447,1525,2164,2208]" pageId="12" pageNumber="175">3(4):</emphasis>
+243-289, 1935]. Only a few of the subfamilies are represented in 
+<collectingCountry id="F30D763EE947FFADFA848A9597C10B9C" box="[1355,1463,2216,2259]" name="Guam" pageId="12" pageNumber="175">Guam</collectingCountry>
+. Besides our 1936 collections, records of D. T. Fullaway's collecting in 1911 are included. The species marked with asterisks were determined by Carl Heinrich, 
+<collectingCountry id="F30D763EE947FFADF9878B3394DF0A76" box="[1608,1705,2318,2361]" name="United States of America" pageId="12" pageNumber="175">U. S.</collectingCountry>
+National Museum. There were a few species sent to Tams at the British Museum which have not yet been reported on.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,76 @@
+<document id="3AA9AA72100839E29F8D6D7C867C1A7D" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8EFFE0E425F80D8D86F7E3" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Elasmus" docType="treatment" docVersion="12" lastPageNumber="215" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="215" updateTime="1663769165332" updateUser="annettekang">
+<mods:mods id="0D649E9E6D67936F84CF131F514860C2" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="5BA9ED28261F313CE3EA138E058858FE">
+<mods:title id="7CCC5DC954172F3AB90771F174EAF153">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="73A8F42749A373CDD63EBD136FA0F012" type="personal">
+<mods:role id="38E98D1CA4E434C50D94651CB07FF032">
+<mods:roleTerm id="7D7CF0B4072CB8BA314C7381A5FD911E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="BB2B7620FE289586FCA71BFD8EE01D46">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="8375041AF0BA3BFE754FDEB1A9B02E24">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="1F044D786DB9D8165BE61CBE46423F91">text</mods:typeOfResource>
+<mods:relatedItem id="BA6BA6DE0F076C16D088120460E3B7A3" type="host">
+<mods:originInfo id="8F07B7CF3FAB949666341FC60F02A36E">
+<mods:dateIssued id="B127969897E992587E6C35666D604C67">1946</mods:dateIssued>
+<mods:dateOther id="6EE193CC2E870E43EC87ED82F023D538" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="7531174E32AC8B098E73A718ED54404E">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="434376215E119F45BEF27B7FFA9F9D6B">
+<mods:placeTerm id="CE0F95745378E21D438F73593F649F03">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="98A584AFC98DEBA89ECBC5D82C738337">
+<mods:title id="EFD2F57076B9E9B17D493EE022F60FA9">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="69F19DB90E8410914AF821FC746F5A87">
+<mods:extent id="461D1DC145899F38DB7C0125CDC73E7F" unit="page">
+<mods:start id="C814F82FBD1A44A5775C07C28FD2A27E">211</mods:start>
+<mods:end id="388088ADEC21745B8DB62B82CFC93171">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="C370AA0E96D79EA1C0718DD3BAA1B962">book chapter</mods:classification>
+<mods:identifier id="0940EA8D2B4D508CFF431A2CDE392CA7" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="D833C1CD6501F72AEBF9166C6BC52B06" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="2F7E39A5EDE0604FD0D1EBF8DF010BFE" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8EFFE0E425F80D8D86F7E3" ID-DOI="http://doi.org/10.5281/zenodo.5208028" ID-GBIF-Taxon="187737403" ID-Zenodo-Dep="5208028" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E425F80D8D86F7E3" httpUri="http://treatment.plazi.org/id/7376EC19FF8EFFE0E425F80D8D86F7E3" lastPageNumber="215" pageId="4" pageNumber="215">
+<subSubSection id="B3C50E84FF8EFFE0E425F80D8DF5F81B" box="[294,683,1953,1993]" pageId="4" pageNumber="215" type="nomenclature">
+<paragraph id="FB605D0FFF8EFFE0E425F80D8DF5F81B" blockId="4.[294,1692,1953,2097]" box="[294,683,1953,1993]" pageId="4" pageNumber="215">
+<heading id="A028EA63FF8EFFE0E425F80D8DF5F81B" box="[294,683,1953,1993]" fontSize="8" level="2" pageId="4" pageNumber="215" reason="4">
+<emphasis id="C9AB811DFF8EFFE0E425F80D8D4DF81B" bold="true" box="[294,531,1953,1993]" pageId="4" pageNumber="215">
+34. 
+<taxonomicName id="3CDF268CFF8EFFE0E47AF80D8D4DF81B" authority="Westwood, 1833" box="[377,531,1953,1993]" class="Insecta" family="Elasmidae" genus="Elasmus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="215" phylum="Arthropoda" rank="genus">Elasmus</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8EFFE0E465F87F8D86F7E3" pageId="4" pageNumber="215" type="materials_examined">
+<paragraph id="FB605D0FFF8EFFE0E465F87F8D86F7E3" blockId="4.[294,1692,1953,2097]" pageId="4" pageNumber="215">
+<materialsCitation id="4BB75752FF8EFFE0E465F87F8D86F7E3" ID-GBIF-Occurrence="3345364346" collectedFrom="ex lepidopterous leafminer in Terminalia catappa" collectingDate="1936-05-19" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="4" pageNumber="215" specimenCount="2">
+<collectingMunicipality id="1B04C775FF8EFFE0E465F87F8EB2F82C" box="[358,492,2003,2046]" pageId="4" pageNumber="215">Dededo</collectingMunicipality>
+., 
+<date id="8F617BCFFF8EFFE0E716F87F8DF0F82C" box="[533,686,2003,2046]" pageId="4" pageNumber="215" value="2019-05">
+<collectingDate id="9F258227FF8EFFE0E716F87F8DF0F82C" box="[533,686,2003,2046]" pageId="4" pageNumber="215" value="2019-05">May 19</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8EFFE0E7D2F87F8DA5F82C" box="[721,763,2003,2046]" pageId="4" pageNumber="215" type="generic">ex</specimenCount>
+lepidopterous leafminer in 
+<emphasis id="C9AB811DFF8EFFE0E032F87F89C2F82C" box="[1329,1692,2003,2046]" italics="true" pageId="4" pageNumber="215">
+<taxonomicName id="3CDF268CFF8EFFE0E032F87F89C8F82C" box="[1329,1686,2003,2046]" class="Magnoliopsida" family="Combretaceae" genus="Terminalia" kingdom="Plantae" order="Myrtales" pageId="4" pageNumber="215" phylum="Tracheophyta" rank="species" species="catappa">
+<location id="FE000BD4FF8EFFE0E032F87F8AACF82C" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E425F80D8D86F7E3:FE000BD4FF8EFFE0E032F87F8AACF82C" box="[1329,1522,2003,2046]" municipality="Dededo" name="Terminalia" pageId="4" pageNumber="215">Terminalia</location>
+catappa
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="562A38D9FF8EFFE0E424F7AB8EEAF7E3" box="[295,436,2055,2097]" pageId="4" pageNumber="215">Swezey</collectorName>
+; 
+<specimenCount id="EDD99686FF8EFFE0E4C9F7AB8D8DF7E3" box="[458,723,2055,2097]" pageId="4" pageNumber="215" type="generic">two specimens</specimenCount>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

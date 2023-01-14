@@ -1,0 +1,120 @@
+<document id="2639D9E51EAB9048D9D820E88E699FF2" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFE051175E6BA9DCFBC5F929" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Trigonops incrinita Zimmerman 1942, new species" docType="treatment" docVersion="14" lastPageNumber="90" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="89" updateTime="1670960415986" updateUser="annettekang">
+<mods:mods id="EFC913110D3DC4224AFE654A1A0E4CC2" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="4D7362A5EC5291DBBCA802D82BAC116A">
+<mods:title id="F7B580BE804C64D2196EDF29F845EA9F">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="EB0D9E211FC42553E675261407B3C0B4" type="personal">
+<mods:role id="8DFFBC407D47B015224C29962699B2CE">
+<mods:roleTerm id="FF773E11A9BBCB5662328C1E1E4E6ADD">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="ED7AC454CA5091F862530FEF234A47ED">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="A7425A37A241295B84BF3CA6A3F88C9E">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9933F16B1DDFBAD7AA346A18C305E7D8">text</mods:typeOfResource>
+<mods:relatedItem id="04642F12819C161E66EEA61D51899E0E" type="host">
+<mods:originInfo id="8E86952FBD1315E5D51B58F88E9E519E">
+<mods:dateIssued id="3A70266CA74ADC8F2DBA82684B43E922">1942</mods:dateIssued>
+<mods:dateOther id="74AEBC66969D42C8DFDEE7A252A85AC3" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="22B96AD6DC185E4815BA90B7203233E5">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="0ECC743D2737DB2875E7821FFDE08CB9">
+<mods:placeTerm id="9D7586FDBC3FFE8576C0B5829EDCB783">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="755B33F1B4B78D52C8D3F2DC2B6463AF">
+<mods:title id="A4CDD1F036A77EA534B351AA7C4C1D06">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="DC1D4BE4ACB354D2C7BFD7BAF5CB078E">
+<mods:extent id="86DFA9408E2E35275295E1BC0A6678EA" unit="page">
+<mods:start id="E97A7B1333B85A190B4FBFC7F0049850">73</mods:start>
+<mods:end id="EBBCBA048A0E48349CC436597A9E7E64">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E4520BE9321542250B64629661106689">book chapter</mods:classification>
+<mods:identifier id="8C52D9CAC250D4A59F6CD6C369F46379" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="3D4519846B3CF72B7389A2401F93B13E" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="BF50306135572A955E2B5E8AB3512ED2" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFE051175E6BA9DCFBC5F929" ID-DOI="http://doi.org/10.5281/zenodo.5184777" ID-GBIF-Taxon="184097870" ID-Zenodo-Dep="5184777" LSID="urn:lsid:plazi:treatment:D6388709FFE051175E6BA9DCFBC5F929" httpUri="http://treatment.plazi.org/id/D6388709FFE051175E6BA9DCFBC5F929" lastPageId="17" lastPageNumber="90" pageId="16" pageNumber="89">
+<subSubSection id="168B6594FFE051165E6BA9DCFB83F927" box="[304,1145,1670,1713]" pageId="16" pageNumber="89" type="nomenclature">
+<paragraph id="5E2E361FFFE051165E6BA9DCFB83F927" blockId="16.[304,1701,1670,2494]" box="[304,1145,1670,1713]" pageId="16" pageNumber="89">
+<heading id="05668173FFE051165E6BA9DCFB83F927" box="[304,1145,1670,1713]" fontSize="11" level="2" pageId="16" pageNumber="89" reason="2">
+<emphasis id="6CE5EA0DFFE051165E6BA9DCFD21F927" bold="true" box="[304,731,1670,1713]" pageId="16" pageNumber="89">
+7. 
+<taxonomicName id="99914D9CFFE051165E34A9DCFD2EF927" authority="Zimmerman, 1942" authorityName="Zimmerman" authorityYear="1942" box="[367,724,1670,1713]" class="Insecta" family="Curculionidae" genus="Trigonops" kingdom="Animalia" order="Coleoptera" pageId="16" pageNumber="89" phylum="Arthropoda" rank="species" species="incrinita" status="new species">Trigonops incrinita</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="77D65776FFE051165DBCA9DCFC4DF927" box="[743,951,1670,1713]" pageId="16" pageNumber="89" rank="species">new species</taxonomicNameLabel>
+(pl. 1, C).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE051175E2FA998FBC0FAFB" lastPageId="17" lastPageNumber="90" pageId="16" pageNumber="89" type="description">
+<paragraph id="5E2E361FFFE051165E2FA998F99AF8A7" blockId="16.[304,1701,1670,2494]" pageId="16" pageNumber="89">Derm dark reddish brown to black; scaling basically white or grayish white, normally almost entirely concolorous, but when abraded appearing blotched or tessellated with small to large black areas; elytra usually with a vague post-median V of denser scaling.</paragraph>
+<paragraph id="5E2E361FFFE051175E2FA86FFBC0FAFB" blockId="16.[304,1701,1670,2494]" lastBlockId="17.[446,1843,396,1389]" lastPageId="17" lastPageNumber="90" pageId="16" pageNumber="89">
+<emphasis id="6CE5EA0DFFE051165E2FA86FFE3CF8C1" box="[372,454,1845,1879]" italics="true" pageId="16" pageNumber="89">Head</emphasis>
+with the front densely squamose, scaling concealing puncturation which is evidently fine and shallow, setae inconspicuous; eyes rather flatly convex, not strongly interrupting longitudinal lateral cephalic outline, as long or slightly longer than narrowest interocular breadth. 
+<emphasis id="6CE5EA0DFFE051165DDDA8F2FCF3F85C" box="[646,777,1960,1994]" italics="true" pageId="16" pageNumber="89">Rostrum</emphasis>
+with area between transrostral carina and basal suture slightly to distinctly convex longitudinally, either distinctly impressed below level of carina or continuous in outline with apical part of rostrum, with a fine median carina, about three fourths to almost as long between the carina and basal suture as the interocular breadth; apical declivitous part densely but not coarsely punctate, with numerous scales at base and scattered scales distally. 
+<emphasis id="6CE5EA0DFFE051165C11A732FC22F71C" box="[842,984,2152,2186]" italics="true" pageId="16" pageNumber="89">Antennae</emphasis>
+with scape densely squamose, closely set with decumbent setae, the tips of most of which touch derm, longer than funicle to slightly longer than funicle plus first segment of club; funicle with lengths of segments as follows: (1, 1.4) (2, 1.3) (3, 1.1) (4, 1.0) (5, 0.9) (6, 0.8) (7, 0.7); club rather stoutly oval, slightly shorter than preceding three funicular segments. 
+<emphasis id="6CE5EA0DFFE051165B87A65BFA81F6B2" box="[1244,1403,2305,2340]" italics="true" pageId="16" pageNumber="89">Prothorax</emphasis>
+as long as broad, broadest at or slightly behind middle, subequally narrowed toward base and apex, disk gently convex sometimes just perceptibly flattened along middle in basal half; discal punctures comparatively rather small, separated by interstices about as broad or broader than their diameters, concealed by dense scaling, scales angular and forming a reticulate pattern, some of discal interstices bearing small, low tubercles; setae few, small, hardly discernible. 
+<emphasis id="6CE5EA0DFFE151175DD9AEEBFD1EFE4E" box="[642,740,433,472]" italics="true" pageId="17" pageNumber="90">Elytra</emphasis>
+three fourths as broad as long, twice as long as prothorax, broadly rounded on sides from subtruncate or concave base to about apical third, thence sharply narrowed to apex, broadest before middle; discal striae shallow, almost concealed by scaling in some places, distinctly deeper on lateral declivities, their discal punctures rather deep, striae often not impressed between them, some near the base sometimes with low tubercles at their bases; discal intervals quite flat, scaling very dense, almost imbricated, scales mostly angular, flat, appearing rather dull because of their minute reticulation, without discal setae, with only a few setae on declivity. 
+<emphasis id="6CE5EA0DFFE151175A66ADE5FA7DFD73" box="[1341,1415,703,741]" italics="true" pageId="17" pageNumber="90">Legs</emphasis>
+with hind femora reaching to or behind middle of fifth ventrite, broadest part of club slightly more than twice as broad as base and at five eighths of distance between base and apex, densely squamose, setae closely appressed to derm and not slanting or erect; hind tibiae almost straight on outer side from base to apical expansion, densely squamose, setae decumbent or but slightly slanting away from derm. 
+<emphasis id="6CE5EA0DFFE151175C3AACDBFC1EFC32" box="[865,996,897,932]" italics="true" pageId="17" pageNumber="90">Stermtm</emphasis>
+with prosternum about one half as long from anterior margin to fore edge of coxal cavity as distance between hind margin and cavity, intercoxal process one fourth to one third as broad as a coxa, densely squamose, densely punctate; mesosternum densely squamose excepting a small bare area just above coxa; metasternum one third to one half as long between mid and hind coxae as breadth of a mesocoxa, densely squamose from inner margins of coxae outward, less densely toward middle, rather closely punctate, setae decumbent. 
+<emphasis id="6CE5EA0DFFE151175B39AB3CFB32FB1F" box="[1122,1224,1126,1161]" italics="true" pageId="17" pageNumber="90">Venter</emphasis>
+with first ventrite free from scales in middle, densely clothed laterally, punctures separated by interstices about as broad as their di~meters, setae rather long, decumbent; second ventrite sculptured and setose as the first, but with denser scaling medially; third and fourth ventrites sculptured and evidently setose for their entire breadths; ventrite 5 coarsely and densely punctate, densely setose, most of setae decumbent, but with some long erect setae near apex, with only a few scattered scales. Length, 4.5-5.0 mm.; breadth, 2.5-3.0 mm.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE151175EA4AACBFB1AF9B5" pageId="17" pageNumber="90" type="materials_examined">
+<paragraph id="5E2E361FFFE151175EA4AACBFB1AF9B5" blockId="17.[447,1842,1425,1727]" pageId="17" pageNumber="90">
+<materialsCitation id="EEF93C42FFE151175EA4AACBFA16FA66" ID-GBIF-Occurrence="3913856320" collectingDate="1937-09-17" collectorName="R. G. Oakley" country="Guam" location="Guam" pageId="17" pageNumber="90" specimenCount="1" typeStatus="holotype">
+<typeStatus id="812A88BDFFE151175EA4AACBFD5EFA2A" box="[511,676,1425,1468]" pageId="17" pageNumber="90">Holotype</typeStatus>
+, sex not certain, 
+<collectingCountry id="2686768FFFE151175CBEAACBFBAAFA2A" box="[997,1104,1425,1468]" name="Guam" pageId="17" pageNumber="90">Guam</collectingCountry>
+, from 
+<taxonomicName id="99914D9CFFE151175B8AAACBF984FA2A" authority=", Sept." authorityName="Sept." box="[1233,1662,1425,1468]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="17" pageNumber="90" phylum="Tracheophyta" rank="species" species="tiliaceus">
+<emphasis id="6CE5EA0DFFE151175B8AAACBF9EEFA2A" box="[1233,1556,1425,1468]" italics="true" pageId="17" pageNumber="90">Hibiscus tiliaceus,</emphasis>
+<date id="2A2F10DFFFE151175973AACBF8D6FA2A" box="[1576,1836,1425,1468]" pageId="17" pageNumber="90" value="1937-09-17">
+<collectingDate id="3A6BE937FFE151175973AACBF984FA2A" box="[1576,1662,1425,1468]" pageId="17" pageNumber="90" value="1937-09-17">Sept.</collectingDate>
+17, 1937
+</date>
+</taxonomicName>
+, Oakley, numbers 135 and 37-26161 (in 
+<collectingCountry id="2686768FFFE151175B24AA9FFB23FA66" box="[1151,1241,1477,1520]" name="United States of America" pageId="17" pageNumber="90">U. S.</collectingCountry>
+Nat. Museum);
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE15117594AAA9FFB1AF9B5" ID-GBIF-Occurrence="3913856339" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="17" pageNumber="90" specimenCount="2" typeStatus="paratypes">
+and two abraded 
+<typeStatus id="812A88BDFFE151175EE4AAA2FD91F9B5" box="[447,619,1528,1571]" pageId="17" pageNumber="90">paratypes</typeStatus>
+, labeled &quot; 
+<collectingCountry id="2686768FFFE151175C4EAAA2FBFCF9B5" box="[789,1030,1528,1571]" name="Island Guam" pageId="17" pageNumber="90">
+<collectingCountry id="2686768FFFE151175C4EAAA2FC73F9B5" box="[789,905,1528,1571]" name="Iceland" pageId="17" pageNumber="90">Island</collectingCountry>
+<collectingCountry id="2686768FFFE151175CC0AAA2FBFCF9B5" box="[923,1030,1528,1571]" name="Guam" pageId="17" pageNumber="90">Guam</collectingCountry>
+</collectingCountry>
+&quot;, Fullaway.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE151175EA4A974FBC5F929" pageId="17" pageNumber="90" type="discussion">
+<paragraph id="5E2E361FFFE151175EA4A974FBC5F929" blockId="17.[447,1842,1425,1727]" pageId="17" pageNumber="90">
+This species is closely allied to 
+<taxonomicName id="99914D9CFFE151175B0EA974FAE7F9CF" authorityName="Zimmerman." authorityYear="1942" box="[1109,1309,1582,1625]" class="Insecta" family="Curculionidae" genus="Trigonops" kingdom="Animalia" order="Coleoptera" pageId="17" pageNumber="90" phylum="Arthropoda" rank="species" species="vulgaris">
+<emphasis id="6CE5EA0DFFE151175B0EA974FAE7F9CF" box="[1109,1309,1582,1625]" italics="true" pageId="17" pageNumber="90">T. vulgaris</emphasis>
+</taxonomicName>
+and 
+<emphasis id="6CE5EA0DFFE151175AD2A974F9A6F9CF" box="[1417,1628,1582,1625]" italics="true" pageId="17" pageNumber="90">
+<taxonomicName id="99914D9CFFE151175AD2A974F9ACF9CF" authorityName="Zimmerman." authorityYear="1942" box="[1417,1622,1582,1625]" class="Insecta" family="Curculionidae" genus="Trigonops" kingdom="Animalia" order="Coleoptera" pageId="17" pageNumber="90" phylum="Arthropoda" rank="species" species="convexa">T. convexa</taxonomicName>
+,
+</emphasis>
+but can be separated from. those species, as well as all of the other 
+<collectingCountry id="2686768FFFE151175AE0A938F9D8F91B" box="[1467,1570,1634,1677]" name="Guam" pageId="17" pageNumber="90">Guam</collectingCountry>
+species, by the absence of discal setae on the elytra.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

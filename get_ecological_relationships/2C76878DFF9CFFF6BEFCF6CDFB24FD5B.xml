@@ -1,0 +1,154 @@
+<document id="631F1BD3BD997479E1E95CE8FBE9BF9E" ID-DOI="http://doi.org/10.5281/zenodo.5160233" ID-GBIF-Dataset="16f6ef92-619b-417b-946c-22d9b1445e7d" ID-Zenodo-Dep="5160233" checkinTime="1628022546680" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="2C76878DFF9CFFF6BEFCF6CDFB24FD5B" docLanguage="en" docName="InsectsOfGuamII.189.3-8.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Xiphidion longipenne" docType="treatment" docVersion="19" lastPageNumber="5" masterDocId="D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8" masterDocTitle="Orthoptera And Related Orders Orthoptera And Related Orders Of Guam" masterLastPageNumber="8" masterPageNumber="3" pageNumber="4" updateTime="1657633747505" updateUser="annettekang">
+<mods:mods id="A49002F708BD767B6F26269BAF4A611B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C4B83B332D80909B72723E789E715112">
+<mods:title id="BA4C3384BD21C298772E51B10085DEDD">Orthoptera And Related Orders Orthoptera And Related Orders Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="A37D8609FC9760AF875A676705807A57" type="personal">
+<mods:role id="6FED30052571CE8102EF6BAAEB722FEB">
+<mods:roleTerm id="03A8DD84966936930F2D4D48CB145FF2">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="767FE54BCAE4CAABD55A1CC6F3F5785C">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="5D7AAF17E4D2989F76AF4C0DA8D6AAB4">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="5E2CC364D09E265CD18AC7C9CD0BF405">text</mods:typeOfResource>
+<mods:relatedItem id="A625B1328F1FD725F20924669BE94F36" type="host">
+<mods:originInfo id="42C54B81FDBB936B4EAC822BD39D95CC">
+<mods:dateIssued id="C0307D8D89384BABBFAA1CFBD4FC6646">1946</mods:dateIssued>
+<mods:dateOther id="E82E19E893D8B636760CB5961A13626B" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="F42B960AFBCC16D815C4237B0D9D3B45">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="07AA98FE1B1BF6C07C4567C1BDA34BAC">
+<mods:placeTerm id="52D6A127CE7D7213AB698A7C1BD3F582">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="CF12CA668CCD2815C69165987E75911E">
+<mods:title id="21A5EB065D18E9D80E59412EDCF8817D">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="D2EAD3368569FAD04D49CEBFD37BEB31">
+<mods:extent id="B2A6780920CA15C03665A1E7D0DA9F2A" unit="page">
+<mods:start id="F45B383567376FE2CC7ABE60F31705D2">3</mods:start>
+<mods:end id="48D03603565DA33E0784347BFE253A1E">8</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="FC14F73C966EC08993A70E54897F0F76">book chapter</mods:classification>
+<mods:identifier id="E9B718F9EA73C80FB37C0173F90270B6" type="DOI">http://doi.org/10.5281/zenodo.5160233</mods:identifier>
+<mods:identifier id="EB0CEA9F37CD707505B0719F15EC6195" type="GBIF-Dataset">16f6ef92-619b-417b-946c-22d9b1445e7d</mods:identifier>
+<mods:identifier id="3D9C307C34D3715D2C42530D250DEF32" type="Zenodo-Dep">5160233</mods:identifier>
+</mods:mods>
+<treatment id="2C76878DFF9CFFF6BEFCF6CDFB24FD5B" ID-DOI="http://doi.org/10.5281/zenodo.5158982" ID-GBIF-Taxon="183924945" ID-Zenodo-Dep="5158982" LSID="urn:lsid:plazi:treatment:2C76878DFF9CFFF6BEFCF6CDFB24FD5B" httpUri="http://treatment.plazi.org/id/2C76878DFF9CFFF6BEFCF6CDFB24FD5B" lastPageId="2" lastPageNumber="5" pageId="1" pageNumber="4">
+<subSubSection id="ECC56510FF9CFFF5BEFCF6CDFBFBF655" box="[404,1088,2404,2446]" pageId="1" pageNumber="4" type="nomenclature">
+<paragraph id="A460369BFF9CFFF5BEFCF6CDFBFBF655" blockId="1.[404,1800,2404,2548]" box="[404,1088,2404,2446]" pageId="1" pageNumber="4">
+<heading id="FF2881F7FF9CFFF5BEFCF6CDFBFBF655" box="[404,1088,2404,2446]" centered="true" fontSize="11" level="2" pageId="1" pageNumber="4" reason="2">
+<emphasis id="96ABEA89FF9CFFF5BEFCF6CDFE0AF656" bold="true" box="[404,433,2407,2446]" pageId="1" pageNumber="4">6.</emphasis>
+<taxonomicName id="63DF4D18FF9CFFF5BEBAF6CEFB81F655" authority="(de Haan)" baseAuthorityName="de Haan" box="[466,1082,2404,2445]" class="Insecta" family="Tetrigidae" genus="Xiphidion" higherTaxonomySource="CoL" kingdom="Animalia" order="Orthoptera" pageId="1" pageNumber="4" phylum="Arthropoda" rank="species" species="longipenne">
+<emphasis id="96ABEA89FF9CFFF5BEBAF6CEFCDBF655" bold="true" box="[466,864,2404,2445]" pageId="1" pageNumber="4">Xiphidion longipenne</emphasis>
+(de Haan)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9CFFF6BEBAF63CF9A6FEAA" lastPageId="2" lastPageNumber="5" pageId="1" pageNumber="4" type="reference_group">
+<paragraph id="A460369BFF9CFFF5BEBAF63CFDD0F62C" blockId="1.[404,1800,2404,2548]" pageId="1" pageNumber="4">
+<treatmentCitationGroup id="84CF11B5FF9CFFF5BEBAF63CFDD0F62C" pageId="1" pageNumber="4">
+<treatmentCitation id="257E108AFF9CFFF5BEBAF63CFDD0F62C" author="de Haan" page="188" pageId="1" pageNumber="4" year="1842">
+<bibCitation id="71F53EF7FF9CFFF5BEBAF63CFDD0F62C" author="de Haan" journalOrPublisher="Temninck, Verh. Orth." pageId="1" pageNumber="4" pagination="188" refId="ref946" type="book" year="1842">
+<emphasis id="96ABEA89FF9CFFF5BEBAF63CFB8DF619" box="[466,1078,2454,2497]" italics="true" pageId="1" pageNumber="4">Locusta (Xiphidium) longipennis</emphasis>
+<author id="7C62DE7EFF9CFFF5BB20F63CFB5EF619" box="[1096,1253,2454,2497]" pageId="1" pageNumber="4">de Haan</author>
+, 
+<journalOrPublisher id="7E1E3C57FF9CFFF5BB97F63CF91DF619" box="[1279,1702,2454,2497]" pageId="1" pageNumber="4">Temninck, Verh. Orth.</journalOrPublisher>
+, 
+<pagination id="9D16C86FFF9CFFF5B9ACF63CF8B9F619" box="[1732,1794,2454,2497]" pageId="1" pageNumber="4">188</pagination>
+, 
+<emphasis id="96ABEA89FF9CFFF5BD7BF666FDD0F62C" bold="true" box="[531,619,2508,2548]" pageId="1" pageNumber="4">
+<year id="D07777C8FF9CFFF5BD7BF666FDDDF62C" box="[531,614,2508,2548]" pageId="1" pageNumber="4">1842</year>
+.
+</emphasis>
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="A460369BFF9FFFF6BE17FEE3F9A6FEAA" blockId="2.[320,1718,329,643]" box="[383,1565,329,370]" pageId="2" pageNumber="5">
+<treatmentCitation id="257E108AFF9FFFF6BE17FEE3F9A6FEAA" author="Karny" box="[383,1565,329,370]" page="608" pageId="2" pageNumber="5" year="1921">
+<bibCitation id="71F53EF7FF9FFFF6BE17FEE3F9A6FEAA" box="[383,1565,329,370]" journalOrPublisher="Philippine Jour. Sci." pageId="2" pageNumber="5" pagination="608" part="18" refId="ref965" type="journal article" year="1921">
+<treatmentCitationGroup id="84CF11B5FF9FFFF6BE17FEE3F9A3FEAA" box="[383,1560,329,370]" pageId="2" pageNumber="5">
+<emphasis id="96ABEA89FF9FFFF6BE17FEE3FCB3FEAA" box="[383,776,329,370]" italics="true" pageId="2" pageNumber="5">Xiphidion longipenne,</emphasis>
+<author id="7C62DE7EFF9FFFF6BC71FEE3FC37FEAA" box="[793,908,329,370]" pageId="2" pageNumber="5">Karny</author>
+, 
+<journalOrPublisher id="7E1E3C57FF9FFFF6BCCDFEE3FAA9FEAA" box="[933,1298,329,370]" pageId="2" pageNumber="5">Philippine Jour. Sci.</journalOrPublisher>
+<emphasis id="96ABEA89FF9FFFF6BA4EFEE3FAE6FEAA" bold="true" box="[1318,1373,329,370]" pageId="2" pageNumber="5">
+<part id="D07B9C06FF9FFFF6BA4EFEE3FAECFEAA" box="[1318,1367,329,370]" pageId="2" pageNumber="5" type="volume">18</part>
+:
+</emphasis>
+<pagination id="9D16C86FFF9FFFF6BA02FEE3FA10FEAA" box="[1386,1451,329,370]" pageId="2" pageNumber="5" type="pagination">608</pagination>
+, 
+<year id="D07777C8FF9FFFF6BAAEFEE3F9A3FEAA" box="[1478,1560,329,370]" pageId="2" pageNumber="5">1921</year>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9FFFF6BEE9FE2EFAE7FE3A" pageId="2" pageNumber="5" type="materials_examined">
+<paragraph id="A460369BFF9FFFF6BEE9FE2EFAE7FE3A" blockId="2.[320,1718,329,643]" pageId="2" pageNumber="5">
+<materialsCitation id="14B73CC6FF9FFFF6BEE9FE2EFC4BFE77" ID-GBIF-Occurrence="3441224304" box="[385,1008,388,431]" collectedFrom="ex grass" collectingDate="1936-04-30" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="2" pageNumber="5">
+<collectingMunicipality id="4404ACE1FF9FFFF6BEE9FE2EFE7FFE77" box="[385,452,388,431]" pageId="2" pageNumber="5">Piti</collectingMunicipality>
+, 
+<date id="D061105BFF9FFFF6BE89FE2EFD39FE77" box="[481,642,388,431]" pageId="2" pageNumber="5" value="1930-04">
+<collectingDate id="C025E9B3FF9FFFF6BE89FE2EFD39FE77" box="[481,642,388,431]" pageId="2" pageNumber="5" value="1930-04">April 30</collectingDate>
+</date>
+, 
+<specimenCount id="B2D9FD12FF9FFFF6BDF7FE2EFD73FE77" box="[671,712,388,431]" pageId="2" pageNumber="5" type="generic">ex</specimenCount>
+grass, 
+<location id="A1006040FF9FFFF6BC31FE2EFC4BFE77" LSID="urn:lsid:plazi:treatment:2C76878DFF9CFFF6BEFCF6CDFB24FD5B:A1006040FF9FFFF6BC31FE2EFC4BFE77" box="[857,1008,388,431]" municipality="Piti" name="Usinger" pageId="2" pageNumber="5">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9FFFF6BB67FE2EF915FE77" ID-GBIF-Occurrence="3441224391" box="[1039,1710,388,431]" collectedFrom="on rice" collectingDate="1936-05-14" collectorName="R. L. Usinger" country="Guam" location="Inarajan" pageId="2" pageNumber="5">
+<collectingMunicipality id="4404ACE1FF9FFFF6BB67FE2EFB11FE77" box="[1039,1194,388,431]" name="Inarajan" pageId="2" pageNumber="5">Inarajan</collectingMunicipality>
+, 
+<date id="D061105BFF9FFFF6BBA1FE2EFAE1FE77" box="[1225,1370,388,431]" pageId="2" pageNumber="5" value="2014-05">
+<collectingDate id="C025E9B3FF9FFFF6BBA1FE2EFAE1FE77" box="[1225,1370,388,431]" pageId="2" pageNumber="5" value="2014-05">May 14</collectingDate>
+</date>
+, on rice, 
+<location id="A1006040FF9FFFF6B97FFE2EF915FE77" LSID="urn:lsid:plazi:treatment:2C76878DFF9CFFF6BEFCF6CDFB24FD5B:A1006040FF9FFFF6B97FFE2EF915FE77" box="[1559,1710,388,431]" municipality="Inarajan" name="Usinger" pageId="2" pageNumber="5">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9FFFF6BE29FE1DFCB0FE3A" ID-GBIF-Occurrence="3441224373" box="[321,779,439,482]" collectingDate="1936-05-25" collectorName="R. L. Usinger" country="Guam" location="Agana" pageId="2" pageNumber="5">
+<collectingMunicipality id="4404ACE1FF9FFFF6BE29FE1DFE0CFE3A" box="[321,439,439,482]" name="Agana" pageId="2" pageNumber="5">Agana</collectingMunicipality>
+, 
+<date id="D061105BFF9FFFF6BEB8FE1DFDE0FE3A" box="[464,603,439,482]" pageId="2" pageNumber="5" value="1925-05">
+<collectingDate id="C025E9B3FF9FFFF6BEB8FE1DFDE0FE3A" box="[464,603,439,482]" pageId="2" pageNumber="5" value="1925-05">May 25</collectingDate>
+</date>
+, 
+<location id="A1006040FF9FFFF6BD1CFE1DFCB0FE3A" LSID="urn:lsid:plazi:treatment:2C76878DFF9CFFF6BEFCF6CDFB24FD5B:A1006040FF9FFFF6BD1CFE1DFCB0FE3A" box="[628,779,439,482]" municipality="Agana" name="Usinger" pageId="2" pageNumber="5">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9FFFF6BC4CFE1DFAECFE3A" ID-GBIF-Occurrence="3441224355" box="[804,1367,439,482]" collectedFrom="on corn" collectingDate="1936-11-08" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="2" pageNumber="5">
+<collectingMunicipality id="4404ACE1FF9FFFF6BC4CFE1DFCC6FE3A" box="[804,893,439,482]" name="Yigo" pageId="2" pageNumber="5">Yigo</collectingMunicipality>
+, 
+<date id="D061105BFF9FFFF6BCFEFE1DFBA9FE3A" box="[918,1042,439,482]" pageId="2" pageNumber="5">
+<collectingDate id="C025E9B3FF9FFFF6BCFEFE1DFBA9FE3A" box="[918,1042,439,482]" pageId="2" pageNumber="5">Nov. 8</collectingDate>
+</date>
+, on corn, 
+<collectorName id="092A534DFF9FFFF6BBB8FE1DFAECFE3A" box="[1232,1367,439,482]" pageId="2" pageNumber="5">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9FFFF6BE17FE59FB24FD5B" pageId="2" pageNumber="5" type="distribution">
+<paragraph id="A460369BFF9FFFF6BE17FE59FB24FD5B" blockId="2.[320,1718,329,643]" pageId="2" pageNumber="5">
+This species is distributed from 
+<collectingCountry id="DCC8760BFF9FFFF6BCACFE59FBA4FDC5" box="[964,1055,499,541]" name="India" pageId="2" pageNumber="5">India</collectingCountry>
+and 
+<collectingCountry id="DCC8760BFF9FFFF6BB16FE59FB4DFDC5" box="[1150,1270,499,541]" name="Sri Lanka" pageId="2" pageNumber="5">Ceylon</collectingCountry>
+to 
+<collectingCountry id="DCC8760BFF9FFFF6BA5FFE59FA2CFDC5" box="[1335,1431,499,541]" name="China" pageId="2" pageNumber="5">China</collectingCountry>
+. and the 
+<collectingCountry id="DCC8760BFF9FFFF6B956FE59FE25FD89" name="Philippines" pageId="2" pageNumber="5">Philippines</collectingCountry>
+. It was common in 
+<collectingCountry id="DCC8760BFF9FFFF6BC66FD8DFCC2FD89" box="[782,889,551,593]" name="Guam" pageId="2" pageNumber="5">Guam</collectingCountry>
+, being somewhat of a rice pest, feeding on the rice kernels in the heads before they were ripe.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

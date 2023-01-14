@@ -1,0 +1,74 @@
+<document id="7ACCDEBA6F0CB59C7166BB5B746364BC" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8DFFE3E4CEFD198B0DFC9D" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Elachertini" docType="treatment" docVersion="13" lastPageNumber="218" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="218" updateTime="1664203411617" updateUser="annettekang">
+<mods:mods id="180D344DB7AF8C6777E95BB3F449B933" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="4C1F56DD42B24D56326FFAD5B2EBD1DA">
+<mods:title id="1DC9358DC814341ADE8BA8C46610446C">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="831672E52D64973AEA990D3771A2FA17" type="personal">
+<mods:role id="3CF413472F7D9251943CF670F189B4FE">
+<mods:roleTerm id="20902762F9B3D128741347695A2DC65B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9CFBF99ABEE99C16CD6E01E15926547E">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="BE066A9AC53D0D8CCEFF623880088AFD">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="677DB692F945C7BECFCC241AEB3332D2">text</mods:typeOfResource>
+<mods:relatedItem id="0612D1D409FA98C7F9E4106F87227B40" type="host">
+<mods:originInfo id="7DADE8D542E33AC7C298E613CEB02FC0">
+<mods:dateIssued id="AEEC54B7D60EC4C5063D883FDD323241">1946</mods:dateIssued>
+<mods:dateOther id="881582F10BEB706B9BB31EB37771D47F" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="37B9E3B9DB1E0FCFBA387D023EDB9657">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="C1C3F035BED1EDED9A48B7959A7BE22E">
+<mods:placeTerm id="E9CABEA83E29DB8A508C464701899BF2">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="1FCF681E7BD5D991001975A53BA8BA49">
+<mods:title id="DEBAB84150E82932277F313FDB1DACE0">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="B6523D62EA7B894EFA716294AD95060A">
+<mods:extent id="0C73D3E19DAE0FFE700239782052B90D" unit="page">
+<mods:start id="7BBB357FAA185E33EBB9B4189CC641CB">211</mods:start>
+<mods:end id="9810EA42EECAE2C52E02A5E4B2F235B9">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="CB8535EF2A52817C86B64E097F201148">book chapter</mods:classification>
+<mods:identifier id="F0AE42573A7A39CC1ACC474718C3901E" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="4955D3E3F4B058656C613C4D009581E9" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="73184B2F9C4D55CD3AA554E57440D88B" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8DFFE3E4CEFD198B0DFC9D" ID-DOI="http://doi.org/10.5281/zenodo.5227119" ID-GBIF-Taxon="187737413" ID-Zenodo-Dep="5227119" LSID="urn:lsid:plazi:treatment:7376EC19FF8DFFE3E4CEFD198B0DFC9D" httpUri="http://treatment.plazi.org/id/7376EC19FF8DFFE3E4CEFD198B0DFC9D" lastPageNumber="218" pageId="7" pageNumber="218">
+<subSubSection id="B3C50E84FF8DFFE3E4CEFD198A98FD0D" box="[461,1478,693,735]" pageId="7" pageNumber="218" type="nomenclature">
+<paragraph id="FB605D0FFF8DFFE3E4CEFD198A98FD0D" blockId="7.[461,1858,693,847]" box="[461,1478,693,735]" pageId="7" pageNumber="218">
+<heading id="A028EA63FF8DFFE3E4CEFD198A98FD0D" box="[461,1478,693,735]" fontSize="8" level="2" pageId="7" pageNumber="218" reason="4">
+<emphasis id="C9AB811DFF8DFFE3E4CEFD198C57FD0D" bold="true" box="[461,777,693,735]" pageId="7" pageNumber="218">
+54. 
+<taxonomicName id="3CDF268CFF8DFFE3E723FD198DAFFD0D" authority="Spinola, 1811" box="[544,753,693,735]" class="Insecta" family="Eulophidae" genus="Elachertini" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hymenoptera" pageId="7" pageNumber="218" phylum="Arthropoda" rank="genus">Elachertini</taxonomicName>
+,?
+</emphasis>
+genus near 
+<emphasis id="C9AB811DFF8DFFE3E6F1FD198A72FD0D" bold="true" box="[1010,1324,693,735]" pageId="7" pageNumber="218">Entedonomorpha</emphasis>
+Girault.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8DFFE3E70FFD5C8B0DFC9D" pageId="7" pageNumber="218" type="materials_examined">
+<paragraph id="FB605D0FFF8DFFE3E70FFD5C8B0DFC9D" blockId="7.[461,1858,693,847]" pageId="7" pageNumber="218">
+<materialsCitation id="4BB75752FF8DFFE3E70FFD5C8B0DFC9D" ID-GBIF-Occurrence="3901040406" collectedFrom="swept from ferns" collectingDate="1936-04-15" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="7" pageNumber="218" specimenCount="3">
+<collectingMunicipality id="1B04C775FF8DFFE3E70FFD5C8C48FCC9" box="[524,790,752,795]" pageId="7" pageNumber="218">Ritidian Point</collectingMunicipality>
+, 
+<date id="8F617BCFFF8DFFE3E62DFD5C8C97FCC9" box="[814,969,752,795]" pageId="7" pageNumber="218" value="2015-04">
+<collectingDate id="9F258227FF8DFFE3E62DFD5C8C97FCC9" box="[814,969,752,795]" pageId="7" pageNumber="218" value="2015-04">April 15</collectingDate>
+</date>
+, swept from ferns, 
+<location id="FE000BD4FF8DFFE3E03FFD5C8AEEFCC9" LSID="urn:lsid:plazi:treatment:7376EC19FF8DFFE3E4CEFD198B0DFC9D:FE000BD4FF8DFFE3E03FFD5C8AEEFCC9" box="[1340,1456,752,795]" country="United States of America" municipality="Ritidian Point" name="Bryan" pageId="7" pageNumber="218">Bryan</location>
+. 
+<location id="FE000BD4FF8DFFE3E0D1FD5C897CFCC9" LSID="urn:lsid:plazi:treatment:7376EC19FF8DFFE3E4CEFD198B0DFC9D:FE000BD4FF8DFFE3E0D1FD5C897CFCC9" box="[1490,1570,752,795]" country="United States of America" municipality="Ritidian Point" name="Two" pageId="7" pageNumber="218">Two</location>
+<specimenCount id="EDD99686FF8DFFE3E336FD5C89B3FCC9" box="[1589,1773,752,795]" pageId="7" pageNumber="218" type="generic">specimens</specimenCount>
+, one retained in 
+<collectingCountry id="83C81D9FFF8DFFE3E79FFC898DA9FC9D" box="[668,759,805,847]" name="United States of America" pageId="7" pageNumber="218">U. S.</collectingCountry>
+<location id="FE000BD4FF8DFFE3E604FC898B10FC9D" LSID="urn:lsid:plazi:treatment:7376EC19FF8DFFE3E4CEFD198B0DFC9D:FE000BD4FF8DFFE3E604FC898B10FC9D" box="[775,1102,805,847]" country="United States of America" municipality="Ritidian Point" name="National Museum" pageId="7" pageNumber="218">National Museum</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

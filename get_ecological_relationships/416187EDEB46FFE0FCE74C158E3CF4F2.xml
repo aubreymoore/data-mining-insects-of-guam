@@ -1,0 +1,77 @@
+<document id="ED8C9A93EE6B32842747ABD254C8CEB4" ID-DOI="http://doi.org/10.5281/zenodo.5174008" ID-GBIF-Dataset="62345736-dcf6-4c38-a870-36a90992dabb" ID-Zenodo-Dep="5174008" checkinTime="1628020725273" checkinUser="carolina" docAuthor="Metcalf, Z. P." docDate="1946" docId="416187EDEB46FFE0FCE74C158E3CF4F2" docLanguage="en" docName="InsectsOfGuamII.189.105-148.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Empoasca Walsh" docType="treatment" docVersion="8" lastPageNumber="138" masterDocId="BD58FF95EB59FFFFFFB04B578875FD6D" masterDocTitle="Homoptera, Fulgoroidea and Jassoidea of Guam" masterLastPageNumber="148" masterPageNumber="105" pageNumber="138" updateTime="1659988635587" updateUser="annettekang">
+<mods:mods id="7426F646BC28F8323ACB9A2E1C081CC0" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="834C332230B4D11EF5989ED1208EE1B1">
+<mods:title id="D3A32D1EF39DBD00142FD92785A4FE8E">Homoptera, Fulgoroidea and Jassoidea of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="31E941711E5F7DDDA30DFE67FBED877A" type="personal">
+<mods:role id="8F9C5C2642D68A9F53D27F2BC40CDE06">
+<mods:roleTerm id="C22B6D814DB96F7A484D1F291E1A74DA">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F47693C00A38177982626836DB27B5C7">Metcalf, Z. P.</mods:namePart>
+<mods:affiliation id="B6C5A8C4CE26B00C53FBB8C26C53CCA0">College of Agriculture and Engineering, University of North Carolins</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="49786EA5A05174799E7AAD5FF93C4A76">text</mods:typeOfResource>
+<mods:relatedItem id="36FF4945FCE1B4786D574C27BDBEAE11" type="host">
+<mods:originInfo id="91FD4E6435EFD66A7BE4A7FA2D4FDFBB">
+<mods:dateIssued id="349B78C150A5EAF28263A8EE207497BC">1946</mods:dateIssued>
+<mods:dateOther id="2E5CF6552999A4DBBAE246709F167820" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="260EDCB29D372D92EA8EC6E5B0AF5B9C">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="D59E0A026B695BA3607687D0F99DFCB8">
+<mods:placeTerm id="EDEF9C528FD545FEC6E068D4D316A18C">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A0F43402D2530BF458B63309F981E9A8">
+<mods:title id="C8B22994658BEF2B08AD3D7CE3333515">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="21F0FA4383C58A036C1D1EE34FDA5C71">
+<mods:extent id="59A572041C670228C7C773C4A70C9B8D" unit="page">
+<mods:start id="BC8584D8CEB0944370E39FA64AC6A124">105</mods:start>
+<mods:end id="302D5CADA097BB0DD13FF71618DCAF88">148</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="BDCBDC241AF88137C157EF76F4949B56">book chapter</mods:classification>
+<mods:identifier id="5E50B9E9B66642EB9799C8FE57F83E9D" type="DOI">http://doi.org/10.5281/zenodo.5174008</mods:identifier>
+<mods:identifier id="E8826391CE4640D24043A6619A99A7F6" type="GBIF-Dataset">62345736-dcf6-4c38-a870-36a90992dabb</mods:identifier>
+<mods:identifier id="F9790A20A220EBE2ED962CEED1CEE686" type="Zenodo-Dep">5174008</mods:identifier>
+</mods:mods>
+<treatment id="416187EDEB46FFE0FCE74C158E3CF4F2" ID-DOI="http://doi.org/10.5281/zenodo.5188171" ID-GBIF-Taxon="184008995" ID-Zenodo-Dep="5188171" LSID="urn:lsid:plazi:treatment:416187EDEB46FFE0FCE74C158E3CF4F2" httpUri="http://treatment.plazi.org/id/416187EDEB46FFE0FCE74C158E3CF4F2" lastPageNumber="138" pageId="31" pageNumber="138">
+<subSubSection id="81D26570EB46FFE0FCE74C158D2CFA07" box="[855,1369,1858,1898]" pageId="31" pageNumber="138" type="nomenclature">
+<paragraph id="C97736FBEB46FFE0FCE74C158D2CFA07" blockId="31.[855,1369,1858,1898]" box="[855,1369,1858,1898]" pageId="31" pageNumber="138">
+<heading id="923F8197EB46FFE0FCE74C158D2CFA07" box="[855,1369,1858,1898]" centered="true" fontSize="8" level="2" pageId="31" pageNumber="138" reason="3">
+Genus 
+<taxonomicName id="0EC84D78EB46FFE0FC6A4C158D2CFA07" authority="Walsh" authorityName="Walsh" box="[986,1369,1858,1898]" class="Insecta" family="Cicadellidae" genus="Empoasca" kingdom="Animalia" order="Hemiptera" pageId="31" pageNumber="138" phylum="Arthropoda" rank="genus">
+<emphasis id="FBBCEAE9EB46FFE0FC6A4C158CA4FA07" bold="true" box="[986,1233,1858,1898]" pageId="31" pageNumber="138">EMPOASCA</emphasis>
+Walsh
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB46FFE0FE2F4CF28B9EF56E" pageId="31" pageNumber="138" type="reference_group">
+<paragraph id="C97736FBEB46FFE0FE2F4CF28B9EF56E" blockId="31.[415,1817,1957,2051]" pageId="31" pageNumber="138">
+<treatmentCitationGroup id="E9D811D5EB46FFE0FE2F4CF28B9EF56E" pageId="31" pageNumber="138">
+<treatmentCitation id="486910EAEB46FFE0FE2F4CF28B9EF56E" author="Walsh" page="315" pageId="31" pageNumber="138" year="1864">
+<taxonomicName id="0EC84D78EB46FFE0FE2F4CF28A93FABD" authority="Walsh, Boston Soc. Nat. Hist., Proc." box="[415,742,1957,2000]" class="Insecta" family="Cicadellidae" genus="Empoasca" kingdom="Animalia" order="Hemiptera" pageId="31" pageNumber="138" phylum="Arthropoda" rank="genus">
+<emphasis id="FBBCEAE9EB46FFE0FE2F4CF28A27FABD" box="[415,594,1957,2000]" italics="true" pageId="31" pageNumber="138">Empoasca</emphasis>
+Walsh
+</taxonomicName>
+,Boston Soc. Nat. Hist., Proc. Logotype,. 
+<taxonomicName id="0EC84D78EB46FFE0FE6C4C8F8B9EF56E" authority="Walsh" authorityName="Walsh" authorityYear="1862" box="[476,1003,2008,2051]" class="Insecta" family="Cicadellidae" genus="Empoasca" kingdom="Animalia" order="Hemiptera" pageId="31" pageNumber="138" phylum="Arthropoda" rank="species" species="viridescens">
+<emphasis id="FBBCEAE9EB46FFE0FE6C4C8F8B14F56E" box="[476,865,2008,2051]" italics="true" pageId="31" pageNumber="138">Empoasca viridescens</emphasis>
+Walsh
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB46FFE0FE5243728E3CF4F2" pageId="31" pageNumber="138" type="description">
+<paragraph id="C97736FBEB46FFE0FE5243728B9CF5D0" blockId="31.[415,1813,2085,2237]" pageId="31" pageNumber="138">
+<taxonomicName id="0EC84D78EB46FFE0FE5243728A09F524" box="[482,636,2085,2121]" class="Insecta" family="Cicadellidae" genus="Empoasca" kingdom="Animalia" order="Hemiptera" pageId="31" pageNumber="138" phylum="Arthropoda" rank="genus">
+<emphasis id="FBBCEAE9EB46FFE0FE5243728A09F524" box="[482,636,2085,2121]" italics="true" pageId="31" pageNumber="138">Empoasca</emphasis>
+</taxonomicName>
+may be recognized by the following combination of characters: crown usually rounded or subangulate; ocelli distinct; tegmina with four apical cells; wings with a single apical cell; the last ventral segment of female and the external and internal male genitalia are usually diagnostic.
+</paragraph>
+<paragraph id="C97736FBEB46FFE0FE6E438C8E3CF4F2" blockId="31.[416,1813,2267,2463]" pageId="31" pageNumber="138">This is a genus with a large number of species which are small or very small, usually plain green, greenish, or golden yellow in color. Only the species in the Nearctic and Palearctic faunas have been extensively studied and very few species have been reported previously from the Pacific islands.</paragraph>
+</subSubSection>
+</treatment>
+</document>

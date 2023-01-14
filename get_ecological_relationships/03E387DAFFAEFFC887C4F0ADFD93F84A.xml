@@ -1,0 +1,130 @@
+<document id="AA526E4048865CC4227E7655754A89C5" ID-DOI="http://doi.org/10.5281/zenodo.5159673" ID-GBIF-Dataset="7700299b-eb39-4c24-86fe-2eabb15beda7" ID-Zenodo-Dep="5159673" approvalRequired="1" approvalRequired_for_document="1" checkinTime="1628017110730" checkinUser="carolina" docAuthor="Blair, K. G." docDate="1942" docId="03E387DAFFAEFFC887C4F0ADFD93F84A" docLanguage="en" docName="InsectsOfGuamI.172.56-60.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Gonocephalum incisum (Blanchard)" docType="treatment" docVersion="12" lastPageNumber="56" masterDocId="FFDAFFA2FFAEFFC88657F353FF92FFF8" masterDocTitle="Coleoptera Heteromera From Guam" masterLastPageNumber="60" masterPageNumber="56" pageNumber="56" updateTime="1659987656943" updateUser="annettekang">
+<mods:mods id="DA5E0D57012EC3FE750F80AA19C7A7F2" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="51D1C111FAA9937880CC1B1B5884FDA0">
+<mods:title id="95D8E324E78FEC714251B793AD1DA851">Coleoptera Heteromera From Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="8A3978DC25A18726EEE09189C3F3DFB8" type="personal">
+<mods:role id="723083802F199EA38E18C3250EFA5990">
+<mods:roleTerm id="5330BF0978C83967CD4A0BF3CF9359C4">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="84263B528705D021AE3F0DCDDB6309C2">Blair, K. G.</mods:namePart>
+<mods:affiliation id="3413D72E9D6A81017740D421607B7310">British Museum \ (Natural History), London</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="7AFA68050FDC934D56B030CB73472289">text</mods:typeOfResource>
+<mods:relatedItem id="189843F4E5730C408091D9173F0A0AC4" type="host">
+<mods:originInfo id="5C4CF784302D7B6528BC34B347E4B5A4">
+<mods:dateIssued id="D22E2B72367DF1E8A0A67F924BB435FE">1942</mods:dateIssued>
+<mods:dateOther id="3941222C4E324D9E0BFD3721F53F93DA" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="F726BFF1123D9DB6937CCA36C3749EC6">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="B5E9C3B16F4F6C51B9B32AA73CC92B30">
+<mods:placeTerm id="189AB230DD5C257B79AC2E76C4E3C0D0">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="7BF0F7F8FE7BA93E23ACA5EC312BA97E">
+<mods:title id="881FF219C5AE53C78071AB2A86EF2118">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="F18DE0E13A896BDF9FAEF6F8242F204B">
+<mods:extent id="263342E3E8CEF526DAB1F5DBF23FDD4E" unit="page">
+<mods:start id="CDB3BA0F0D5B58D50062EFC127D2A708">56</mods:start>
+<mods:end id="F27C67B29C2234F75412D3C58E2D3014">60</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="628F9F974CF0E76304C920E23376B89C">book chapter</mods:classification>
+<mods:identifier id="56B8EDA3F73E16D40708F38BF275C715" type="DOI">http://doi.org/10.5281/zenodo.5159673</mods:identifier>
+<mods:identifier id="B742ACAAA75F9201C72E778A3E3A493E" type="GBIF-Dataset">7700299b-eb39-4c24-86fe-2eabb15beda7</mods:identifier>
+<mods:identifier id="6585D85201AF598AFEF1DC9C2E7607F0" type="Zenodo-Dep">5159673</mods:identifier>
+</mods:mods>
+<treatment id="03E387DAFFAEFFC887C4F0ADFD93F84A" ID-DOI="http://doi.org/10.5281/zenodo.5157193" ID-GBIF-Taxon="183919352" ID-Zenodo-Dep="5157193" LSID="urn:lsid:plazi:treatment:03E387DAFFAEFFC887C4F0ADFD93F84A" httpUri="http://treatment.plazi.org/id/03E387DAFFAEFFC887C4F0ADFD93F84A" lastPageNumber="56" pageId="0" pageNumber="56">
+<subSubSection id="C3506547FFAEFFC887C4F0ADFBE2FBDF" box="[403,1136,1022,1063]" pageId="0" pageNumber="56" type="nomenclature">
+<paragraph id="8BF536CCFFAEFFC887C4F0ADFBE2FBDF" blockId="0.[397,1796,1022,1970]" box="[403,1136,1022,1063]" pageId="0" pageNumber="56">
+<heading id="D0BD81A0FFAEFFC887C4F0ADFBE2FBDF" box="[403,1136,1022,1063]" fontSize="8" level="2" pageId="0" pageNumber="56" reason="4">
+<emphasis id="B93EEADEFFAEFFC887C4F0ADFCE7FBDF" bold="true" box="[403,885,1022,1063]" pageId="0" pageNumber="56">
+1. 
+<taxonomicName id="4C4A4D4FFFAEFFC88787F0ADFBF8FBDF" authorityName="(Blanchard)" box="[464,1130,1022,1063]" class="Insecta" family="Tenebrionidae" genus="Gonocephalum" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="56" phylum="Arthropoda" rank="species" species="incisum">Gonocephalum incisum (Blanchard)</taxonomicName>
+</emphasis>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAEFFC88798F760FD3CFB6D" pageId="0" pageNumber="56" type="reference_group">
+<paragraph id="8BF536CCFFAEFFC88798F760FD3CFB6D" blockId="0.[397,1796,1022,1970]" pageId="0" pageNumber="56">
+<treatmentCitationGroup id="AB5A11E2FFAEFFC88798F760F891FBA5" box="[463,1795,1075,1117]" pageId="0" pageNumber="56">
+<treatmentCitation id="0AEB10DDFFAEFFC88798F760F891FBA5" author="Blanchard" box="[463,1795,1075,1117]" page="157" pageId="0" pageNumber="56" year="1853">
+<taxonomicName id="4C4A4D4FFFAEFFC88798F760FC71FBA5" authority="Blanchard, Voy. Pole Sud" authorityName="Blanchard, Voy. Pole Sud" box="[463,995,1075,1117]" class="Insecta" family="Tenebrionidae" genus="Epilasium" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="56" phylum="Arthropoda" rank="species" species="incisum">
+<emphasis id="B93EEADEFFAEFFC88798F760FC88FBA5" box="[463,794,1075,1117]" italics="true" pageId="0" pageNumber="56">Epilasium incisum</emphasis>
+<bibCitation id="5E603EA0FFAEFFC8857BF760F891FBA5" author="Blanchard" box="[812,1795,1075,1117]" journalOrPublisher="Voy. Pole Sud" pageId="0" pageNumber="56" pagination="157" part="4" type="journal article" year="1853">
+<author id="53F7DE29FFAEFFC8857BF760FC71FBA5" box="[812,995,1075,1117]" pageId="0" pageNumber="56">Blanchard</author>
+, 
+<journalOrPublisher id="518B3C00FFAEFFC885ABF760FA9BFBA5" box="[1020,1289,1075,1117]" pageId="0" pageNumber="56">Voy. Pole Sud</journalOrPublisher>
+<emphasis id="B93EEADEFFAEFFC8834CF760FAACFBA5" bold="true" box="[1307,1342,1075,1117]" pageId="0" pageNumber="56">
+<part id="FFEE9C51FFAEFFC8834CF760FAA5FBA5" box="[1307,1335,1075,1117]" pageId="0" pageNumber="56" type="volume">4</part>
+:
+</emphasis>
+<pagination id="B283C838FFAEFFC88307F760FA1EFBA5" box="[1360,1420,1075,1117]" pageId="0" pageNumber="56" type="pageRange">157</pagination>
+, pl. 10, fig. 16, 
+<year id="FFE2779FFFAEFFC880E1F760F891FBA5" box="[1718,1795,1075,1117]" pageId="0" pageNumber="56">1853</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+(
+<collectingCountry id="F35D765CFFAEFFC88476F739FD09FB6D" box="[545,667,1130,1173]" name="Guam" pageId="0" pageNumber="56">Guam</collectingCountry>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAEFFC88799F7F3FB71FB30" box="[462,1251,1184,1224]" pageId="0" pageNumber="56" type="materials_examined">
+<paragraph id="8BF536CCFFAEFFC88799F7F3FB71FB30" blockId="0.[397,1796,1022,1970]" box="[462,1251,1184,1224]" pageId="0" pageNumber="56">
+<materialsCitation id="3B223C91FFAEFFC88799F7F3FB4CFB30" ID-GBIF-Occurrence="3331241318" box="[462,1246,1184,1224]" collectingDate="1936-04-22" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="0" pageNumber="56" specimenCount="1">
+<collectingMunicipality id="6B91ACB6FFAEFFC88799F7F3FD34FB30" box="[462,678,1184,1224]" pageId="0" pageNumber="56">Ritidian Pt.</collectingMunicipality>
+, 
+<date id="FFF4100CFFAEFFC884EDF7F3FCC0FB30" box="[698,850,1184,1224]" pageId="0" pageNumber="56" value="1922-04">
+<collectingDate id="EFB0E9E4FFAEFFC884EDF7F3FCC0FB30" box="[698,850,1184,1224]" pageId="0" pageNumber="56" value="1922-04">April 22</collectingDate>
+</date>
+, 
+<collectorName id="26BF531AFFAEFFC88531F7F3FC4AFB30" box="[870,984,1184,1224]" pageId="0" pageNumber="56">Bryan</collectorName>
+, 
+<specimenCount id="9D4CFD45FFAEFFC885BAF7F3FB4CFB30" box="[1005,1246,1184,1224]" pageId="0" pageNumber="56" type="generic">one specimen</specimenCount>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAEFFC88785F785FC71FA59" pageId="0" pageNumber="56" type="discussion">
+<paragraph id="8BF536CCFFAEFFC88785F785FC71FA59" blockId="0.[397,1796,1022,1970]" pageId="0" pageNumber="56">
+Gebien [Coleopt. Catalog. (22) 1910] places the species erroneously in 
+<emphasis id="B93EEADEFFAEFFC887C3F653FD2AFAC0" box="[404,696,1280,1336]" italics="true" pageId="0" pageNumber="56">TrichotonHope.</emphasis>
+Itis,however,closelyalliedtoLeichenuniverrucosumFairmaire and 
+<taxonomicName id="4C4A4D4FFFAEFFC8840AF611FB97FA94" authority="Fairmaire" authorityName="Fairmaire" box="[605,1029,1346,1388]" genus="L." pageId="0" pageNumber="56" rank="species" species="impictum">
+<emphasis id="B93EEADEFFAEFFC8840AF611FCACFA94" box="[605,830,1346,1388]" italics="true" pageId="0" pageNumber="56">L. impictum</emphasis>
+Fairmaire
+</taxonomicName>
+both from 
+<collectingCountry id="F35D765CFFAEFFC882BCF611FAA2FA94" box="[1259,1328,1346,1388]" name="Fiji" pageId="0" pageNumber="56">Fiji</collectingCountry>
+, and with these must be removed fo 
+<taxonomicName id="4C4A4D4FFFAEFFC88433F62AFC71FA59" authority="Solier." box="[612,995,1401,1441]" class="Insecta" family="Tenebrionidae" genus="Gonocephalum" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="56" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EEADEFFAEFFC88433F62AFCF7FA59" box="[612,869,1401,1441]" italics="true" pageId="0" pageNumber="56">Gonocephalum</emphasis>
+Solier.
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAEFFC88785F6EFFD93F84A" pageId="0" pageNumber="56" type="description">
+<paragraph id="8BF536CCFFAEFFC88785F6EFFD93F84A" blockId="0.[397,1796,1022,1970]" pageId="0" pageNumber="56">
+The genae are wide, the eyes not divided as in 
+<emphasis id="B93EEADEFFAEFFC8828CF6EFFAEAFA18" box="[1243,1400,1468,1504]" italics="true" pageId="0" pageNumber="56">
+<taxonomicName id="4C4A4D4FFFAEFFC8828CF6EFFAE1FA18" box="[1243,1395,1468,1504]" class="Insecta" family="Tenebrionidae" genus="Trichoton" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="56" phylum="Arthropoda" rank="genus">Trichoton</taxonomicName>
+,
+</emphasis>
+the thorax coarsely and closely granulate, the granules on the more elevated parts sloping backwards, each with a reddish seta at tip; in an indistinct longitudinal depression on each side of the middle they are sharper and more elevated, and on the rather sharply explanate side margins much finer. The elytral striae are very ill-defined, but the alternate intervals 3, 5, and 
+<emphasis id="B93EEADEFFAEFFC880E6F504F953F982" box="[1713,1729,1623,1658]" italics="true" pageId="0" pageNumber="56">7</emphasis>
+are wider than the others and more elevated, especially 3 and 
+<emphasis id="B93EEADEFFAEFFC88358F52DFA8DF959" box="[1295,1311,1662,1697]" italics="true" pageId="0" pageNumber="56">7</emphasis>
+at base. The striae are sinuate and the wider intervals behind the middle interrupted by somewhat indistinct depressions. Sculpture sharply granulate but the granules smaller than those of thorax, tending to be uniseriate in the narrow intervals; a smaller granule accompanying each puncture of the striae renders these more indistinct. The elytral epipleura end about the base of the 5th ventral segment of the abdomen (continuous to apex in 
+<emphasis id="B93EEADEFFAEFFC882B5F46CFA01F89B" box="[1250,1427,1855,1891]" italics="true" pageId="0" pageNumber="56">
+<taxonomicName id="4C4A4D4FFFAEFFC882B5F46CFA16F89B" box="[1250,1412,1855,1891]" class="Insecta" family="Tenebrionidae" genus="Trichoton" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="56" phylum="Arthropoda" rank="genus">Trichoton</taxonomicName>
+).
+</emphasis>
+Legs moderately stout, tips only of femora visibly exposed beyond the elytra (much too long in Blanchard's figure).·
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

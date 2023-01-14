@@ -1,0 +1,167 @@
+<document id="FB03E86F9781431BA2B7D5467CDBFEB1" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF89FFE7E4CFF9CC8C1AF7B3" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Blepyrus insularis" docType="treatment" docVersion="15" lastPageNumber="214" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="214" updateTime="1663776455487" updateUser="ExternalLinkService">
+<mods:mods id="5EF611F4C9B03AC6FE24BD402F54C202" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="3F88774C31A296E3432FEB99FE6E603E">
+<mods:title id="F473F5B3A165B9C40B263CAFB6B3FEDA">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="FCF23E78364DA7C514D8DF9DFCBC3993" type="personal">
+<mods:role id="6C800CBF890DD85A9FE8C0393A4C340D">
+<mods:roleTerm id="5AA19762A5FC31FCC47AE75D6C9DFAE7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F3DC1F71FD8506F3E576FF6FD0DA20F0">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="AC495110C8DFE04B21E514B13C1BB05F">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="FE4F69AAF3968379F82A79C5847EDB3E">text</mods:typeOfResource>
+<mods:relatedItem id="127CBBAE7685E68D241C7262C1255174" type="host">
+<mods:originInfo id="A78C3558353EB5D91F40E7404F30C613">
+<mods:dateIssued id="9418053CDB0CA57E90A3EF9D7A05F8D1">1946</mods:dateIssued>
+<mods:dateOther id="45705489E9030848681E6DF55D788BE5" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="B19F544922D00CB756F756C1189D099D">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="4CA7880ECC419038D6387960B06BC06C">
+<mods:placeTerm id="B3674DC8B5A3AFD8F124CC7D11638746">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="E8B71FBFE9881CFD989D508C77ED0F83">
+<mods:title id="33BAF2F2EA84C3ED5A7E9441272324B1">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="E86B6143D3F4812CF61EC80DBE321DF3">
+<mods:extent id="A5D604435CE07A026D881708AC89CFE9" unit="page">
+<mods:start id="DFA4827AB08C2BA9E128ACD63D8A813C">211</mods:start>
+<mods:end id="DACA56864C4E6BF2B9F269707469BF3E">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="9F8F446F96A9656E6437C4DA796C734E">book chapter</mods:classification>
+<mods:identifier id="C543C6F9AFDC105F23C3CE2CA9CB44D9" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="66417BE91058C90157ED828573C72738" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="FD34BB7EE5D16AECDCA8F1C208C6EDC1" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF89FFE7E4CFF9CC8C1AF7B3" ID-DOI="http://doi.org/10.5281/zenodo.5188077" ID-GBIF-Taxon="187737463" ID-Zenodo-Dep="5188077" LSID="urn:lsid:plazi:treatment:7376EC19FF89FFE7E4CFF9CC8C1AF7B3" httpUri="http://treatment.plazi.org/id/7376EC19FF89FFE7E4CFF9CC8C1AF7B3" lastPageNumber="214" pageId="3" pageNumber="214">
+<subSubSection id="B3C50E84FF89FFE7E4CFF9CC8B0AF959" box="[460,1108,1632,1675]" pageId="3" pageNumber="214" type="nomenclature">
+<paragraph id="FB605D0FFF89FFE7E4CFF9CC8B0AF959" blockId="3.[460,1860,1632,2145]" box="[460,1108,1632,1675]" pageId="3" pageNumber="214">
+<heading id="A028EA63FF89FFE7E4CFF9CC8B0AF959" box="[460,1108,1632,1675]" fontSize="8" level="2" pageId="3" pageNumber="214" reason="4">
+<emphasis id="C9AB811DFF89FFE7E4CFF9CC8EA0F959" bold="true" box="[460,510,1632,1675]" pageId="3" pageNumber="214">26.</emphasis>
+<taxonomicName id="3CDF268CFF89FFE7E723F9CC8B11F959" authority="(Cameron)" baseAuthorityName="Cameron" box="[544,1103,1632,1675]" class="Insecta" family="Encyrtidae" genus="Blepyrus" kingdom="Animalia" order="Hymenoptera" pageId="3" pageNumber="214" phylum="Arthropoda" rank="species" species="insularis">
+<emphasis id="C9AB811DFF89FFE7E723F9CC8C30F959" bold="true" box="[544,878,1632,1675]" pageId="3" pageNumber="214">Blepyrus insularis</emphasis>
+(Cameron)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF89FFE7E70FF93F8DF8F88B" pageId="3" pageNumber="214" type="reference_group">
+<paragraph id="FB605D0FFF89FFE7E70FF93F8C03F921" blockId="3.[460,1860,1632,2145]" pageId="3" pageNumber="214">
+<treatmentCitationGroup id="DBCF7A21FF89FFE7E70FF93F8C03F921" pageId="3" pageNumber="214">
+<bibCitation id="2EF55563FF89FFE7E70FF93F8C03F921" author="Cameron" journalOrPublisher="Manchester Lit. and Philos. Soc., Mem." pageId="3" pageNumber="214" pagination="483" part="10" refId="ref1509" type="journal article" year="1886">
+<treatmentCitation id="7A7E7B1EFF89FFE7E70FF93F8C06F921" author="Cameron" page="483" pageId="3" pageNumber="214" year="1886">
+<emphasis id="C9AB811DFF89FFE7E70FF93F8C09F96C" box="[524,855,1683,1726]" italics="true" pageId="3" pageNumber="214">Encyrtus insularis</emphasis>
+<author id="2362B5EAFF89FFE7E668F93F8B53F96C" box="[875,1037,1683,1726]" pageId="3" pageNumber="214">Cameron</author>
+, 
+<journalOrPublisher id="211E57C3FF89FFE7E124F93F8859F96C" box="[1063,1799,1683,1726]" pageId="3" pageNumber="214">Manchester Lit. and Philos. Soc., Mem.</journalOrPublisher>
+<emphasis id="C9AB811DFF89FFE7E21CF93F881AF96C" bold="true" box="[1823,1860,1683,1726]" pageId="3" pageNumber="214">
+<part id="8F7BF792FF89FFE7E21CF93F881AF96C" box="[1823,1860,1683,1726]" pageId="3" pageNumber="214" type="volume">10</part>
+</emphasis>
+(
+<part id="8F7BF792FF89FFE7E75DF9648D2DF921" box="[606,627,1736,1779]" pageId="3" pageNumber="214" type="issue">3</part>
+): 
+<pagination id="C216A3FBFF89FFE7E794F9648DB4F921" box="[663,746,1736,1779]" pageId="3" pageNumber="214" type="pagination">483</pagination>
+, 
+<year id="8F771C5CFF89FFE7E607F9648C06F921" box="[772,856,1736,1779]" pageId="3" pageNumber="214">1886</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="FB605D0FFF89FFE7E708F9558DF8F88B" blockId="3.[460,1860,1632,2145]" pageId="3" pageNumber="214">
+<treatmentCitationGroup id="DBCF7A21FF89FFE7E708F9558DF8F88B" pageId="3" pageNumber="214">
+<treatmentCitation id="7A7E7B1EFF89FFE7E708F9558DF8F88B" author="Timberlake" page="429" pageId="3" pageNumber="214" year="1924">
+<bibCitation id="2EF55563FF89FFE7E708F9558DF8F88B" author="Timberlake" journalOrPublisher="Haw. Ent. Soc., Proc." pageId="3" pageNumber="214" pagination="429" part="5" refId="ref1533" type="journal article" year="1924">
+<emphasis id="C9AB811DFF89FFE7E708F9558C0FF8F7" box="[523,849,1785,1829]" italics="true" pageId="3" pageNumber="214">Blepyrus insularis</emphasis>
+(Cameron), 
+<author id="2362B5EAFF89FFE7E14AF9558A48F8F7" box="[1097,1302,1785,1829]" pageId="3" pageNumber="214">Timberlake</author>
+, 
+<journalOrPublisher id="211E57C3FF89FFE7E02DF95589E5F8F7" box="[1326,1723,1785,1829]" pageId="3" pageNumber="214">Haw. Ent. Soc., Proc.</journalOrPublisher>
+<emphasis id="C9AB811DFF89FFE7E3C8F95589B1F8F7" bold="true" box="[1739,1775,1785,1829]" pageId="3" pageNumber="214">
+<part id="8F7BF792FF89FFE7E3C8F95589B9F8F7" box="[1739,1767,1785,1829]" pageId="3" pageNumber="214" type="volume">5</part>
+:
+</emphasis>
+<pagination id="C216A3FBFF89FFE7E3F8F9558863F8F7" box="[1787,1853,1785,1829]" pageId="3" pageNumber="214" type="pagination">429</pagination>
+, 
+<year id="8F771C5CFF89FFE7E74EF8838DFFF88B" box="[589,673,1839,1881]" pageId="3" pageNumber="214">1924</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF89FFE7E70CF8C58C1AF7B3" pageId="3" pageNumber="214" type="materials_examined">
+<paragraph id="FB605D0FFF89FFE7E70CF8C58C1AF7B3" blockId="3.[460,1860,1632,2145]" pageId="3" pageNumber="214">
+<materialsCitation id="4BB75752FF89FFE7E70CF8C58A4AF846" ID-GBIF-Occurrence="3901040349" box="[527,1300,1897,1940]" collectedFrom="on Cestrum pallidum" collectingDate="1936-05-02" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="3" pageNumber="214">
+<collectingMunicipality id="1B04C775FF89FFE7E70CF8C58D0CF846" box="[527,594,1897,1940]" pageId="3" pageNumber="214">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF89FFE7E764F8C58D86F846" box="[615,728,1897,1940]" pageId="3" pageNumber="214">
+<collectingDate id="9F258227FF89FFE7E764F8C58D86F846" box="[615,728,1897,1940]" pageId="3" pageNumber="214">May 2</collectingDate>
+</date>
+, on 
+<emphasis id="C9AB811DFF89FFE7E626F8C58B36F846" box="[805,1128,1897,1940]" italics="true" pageId="3" pageNumber="214">
+<taxonomicName id="3CDF268CFF89FFE7E626F8C58B3CF846" authority=", Usinger" authorityName="Usinger" box="[805,1122,1897,1940]" class="Magnoliopsida" family="Solanaceae" genus="Cestrum" kingdom="Plantae" order="Solanales" pageId="3" pageNumber="214" phylum="Tracheophyta" rank="species" species="pallidum">
+<location id="FE000BD4FF89FFE7E626F8C58CE6F846" LSID="urn:lsid:plazi:treatment:7376EC19FF89FFE7E4CFF9CC8C1AF7B3:FE000BD4FF89FFE7E626F8C58CE6F846" box="[805,952,1897,1940]" municipality="Piti" name="Cestrum" pageId="3" pageNumber="214">Cestrum</location>
+pallidum
+</taxonomicName>
+,
+</emphasis>
+<location id="FE000BD4FF89FFE7E176F8C58A53F846" LSID="urn:lsid:plazi:treatment:7376EC19FF89FFE7E4CFF9CC8C1AF7B3:FE000BD4FF89FFE7E176F8C58A53F846" box="[1141,1293,1897,1940]" municipality="Piti" name="Usinger" pageId="3" pageNumber="214">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF89FFE7E022F8C589BBF846" ID-GBIF-Occurrence="3901040375" box="[1313,1765,1897,1940]" collectingDate="1936-05-25" collectorName="R. L. Usinger" country="Guam" location="Agana" pageId="3" pageNumber="214">
+<collectingMunicipality id="1B04C775FF89FFE7E022F8C58AC9F846" box="[1313,1431,1897,1940]" pageId="3" pageNumber="214">Agana</collectingMunicipality>
+, 
+<date id="8F617BCFFF89FFE7E0AFF8C5896DF846" box="[1452,1587,1897,1940]" pageId="3" pageNumber="214" value="1925-05">
+<collectingDate id="9F258227FF89FFE7E0AFF8C5896DF846" box="[1452,1587,1897,1940]" pageId="3" pageNumber="214" value="1925-05">May 25</collectingDate>
+</date>
+, 
+<location id="FE000BD4FF89FFE7E344F8C58980F846" LSID="urn:lsid:plazi:treatment:7376EC19FF89FFE7E4CFF9CC8C1AF7B3:FE000BD4FF89FFE7E344F8C58980F846" box="[1607,1758,1897,1940]" municipality="Agana" name="Usinger" pageId="3" pageNumber="214">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF89FFE7E3F0F8C58C03F81A" ID-GBIF-Occurrence="3901040302" collectingDate="1936-06-15" collectorName="R. L. Usinger" country="Guam" location="Passan" pageId="3" pageNumber="214">
+<collectingMunicipality id="1B04C775FF89FFE7E3F0F8C58D54F81A" pageId="3" pageNumber="214">Paasan</collectingMunicipality>
+, 
+<date id="8F617BCFFF89FFE7E71DF8308DF4F81A" box="[542,682,1948,1992]" pageId="3" pageNumber="214" value="2015-06">
+<collectingDate id="9F258227FF89FFE7E71DF8308DF4F81A" box="[542,682,1948,1992]" pageId="3" pageNumber="214" value="2015-06">June 15</collectingDate>
+</date>
+, 
+<location id="FE000BD4FF89FFE7E7C3F8308C08F81A" LSID="urn:lsid:plazi:treatment:7376EC19FF89FFE7E4CFF9CC8C1AF7B3:FE000BD4FF89FFE7E7C3F8308C08F81A" box="[704,854,1948,1992]" municipality="Paasan" name="Usinger" pageId="3" pageNumber="214">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF89FFE7E66EF8308C48F7FC" ID-GBIF-Occurrence="3909827302" collectedFrom="this is a parasite of the mealybug Ferrisia virgata (Cockerell)" collectingDate="1936-07-15" collectorName="O. H. Swezey" country="Guam" location="Sumay Road" pageId="3" pageNumber="214" specimenCount="8">
+<collectingMunicipality id="1B04C775FF89FFE7E66EF8308B0CF81A" box="[877,1106,1948,1992]" pageId="3" pageNumber="214">Sumay Road</collectingMunicipality>
+, 
+<date id="8F617BCFFF89FFE7E165F8308BB7F81A" box="[1126,1257,1948,1992]" pageId="3" pageNumber="214" value="2015-07">
+<collectingDate id="9F258227FF89FFE7E165F8308BB7F81A" box="[1126,1257,1948,1992]" pageId="3" pageNumber="214" value="2015-07">July 15</collectingDate>
+</date>
+, 
+<collectorName id="562A38D9FF89FFE7E1FCF8308AD9F81A" box="[1279,1415,1948,1992]" pageId="3" pageNumber="214">Swezey</collectorName>
+. This is a parasite of the mealybug 
+<taxonomicName id="3CDF268CFF89FFE7E781F87C8B22F829" authority="(Cockerell)" baseAuthorityName="Cockerell" baseAuthorityYear="1893" box="[642,1148,2000,2043]" class="Insecta" family="Pseudococcidae" genus="Ferrisia" kingdom="Animalia" order="Hemiptera" pageId="3" pageNumber="214" phylum="Arthropoda" rank="species" species="virgata">
+<emphasis id="C9AB811DFF89FFE7E781F87C8CC7F829" box="[642,921,2000,2043]" italics="true" pageId="3" pageNumber="214">Ferrisia virgata</emphasis>
+(Cockerell)
+</taxonomicName>
+. Eight 
+<specimenCount id="EDD99686FF89FFE7E009F87C8AE3F829" box="[1290,1469,2000,2043]" pageId="3" pageNumber="214" type="generic">specimens</specimenCount>
+, two retained in U.S S. 
+<location id="FE000BD4FF89FFE7E4D3F7A88C4FF7FC" LSID="urn:lsid:plazi:treatment:7376EC19FF89FFE7E4CFF9CC8C1AF7B3:FE000BD4FF89FFE7E4D3F7A88C4FF7FC" box="[464,785,2052,2094]" name="National Museum" pageId="3" pageNumber="214">National Museum</location>
+.
+</materialsCitation>
+<materialsCitation id="4BB75752FF89FFE7E62EF7A88C1AF7B3" ID-GBIF-Occurrence="3901040310" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="3" pageNumber="214" specimenCount="12">
+<collectingMunicipality id="1B04C775FF89FFE7E62EF7A88CC5F7FC" box="[813,923,2052,2094]" pageId="3" pageNumber="214">About</collectingMunicipality>
+a dozen 
+<specimenCount id="EDD99686FF89FFE7E13AF7A88BB7F7FC" box="[1081,1257,2052,2094]" pageId="3" pageNumber="214" type="generic">specimens</specimenCount>
+at 
+<location id="FE000BD4FF89FFE7E020F7A8891FF7FC" LSID="urn:lsid:plazi:treatment:7376EC19FF89FFE7E4CFF9CC8C1AF7B3:FE000BD4FF89FFE7E020F7A8891FF7FC" box="[1315,1601,2052,2094]" municipality="About" name="Bishop Museum" pageId="3" pageNumber="214">Bishop Museum</location>
+were collected by 
+<collectorName id="562A38D9FF89FFE7E705F79B8DF7F7B3" box="[518,681,2103,2145]" pageId="3" pageNumber="214">Fullaway</collectorName>
+in 1911.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

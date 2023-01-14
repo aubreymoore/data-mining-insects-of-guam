@@ -1,0 +1,241 @@
+<document id="4981ABAC1F19F52A21069B90F02BEA2B" ID-DOI="http://doi.org/10.5281/zenodo.5160270" ID-GBIF-Dataset="6dc2872d-cbab-4982-baed-c0969e3e3236" ID-Zenodo-Dep="5160270" checkinTime="1628013042203" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="0E4F7F497E635A27B4F5F817140677F8" docLanguage="en" docName="InsectsOfGuamI.172.175-183.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Camponotus (Tanaemyrmex) chloroticus subsp. irritans chloroticus Emery" docType="treatment" docVersion="17" lastPageNumber="182" masterDocId="F27607317E645A2FB552FF8416577654" masterDocTitle="Hymenoptera Formicidae of Guam" masterLastPageNumber="183" masterPageNumber="175" pageNumber="182" updateTime="1658169206258" updateUser="annettekang">
+<mods:mods id="3A81662008285C53049779510D2D55DA" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="68723954794D0B4B3AEF107917145F0B">
+<mods:title id="81E024DE6D5ACEC8F406FCAED6BFC095">Hymenoptera Formicidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="1C5ED384443A7EEF900FCA1DD655911D" type="personal">
+<mods:role id="9C73AAAA230F20A405E488A9BE3A16CD">
+<mods:roleTerm id="D321B09E4CE0D72689DDE39971026F76">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="AA40C94656B6B2FFFE5E7AC8C677A0C9">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="7AF97DCFC66F429EDD8F03C0F5EDAF8B">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="F415A1789FA9481AFA0F6A5AB8908FFE">text</mods:typeOfResource>
+<mods:relatedItem id="C7EFAA9C9E831EEAAA9BC1B3EC721CCF" type="host">
+<mods:originInfo id="B43F847C64172BA4B2F057990966C54F">
+<mods:dateIssued id="D814F387A4F026FF8261A5CD09084EC9">1942</mods:dateIssued>
+<mods:dateOther id="B6A063127DE534B32EF52DA37B74D834" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="B7B718C370087DEDE9F683ED628F4A97">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="712F571F28A07673894CF44415E283DC">
+<mods:placeTerm id="866DEDFF26670ABC27152C04E16BD4ED">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="75D814DE8167B480C73E4E9D49E2DF48">
+<mods:title id="3E0530409749DA8F6930AE09E15D7982">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="5EC150A921E3F000E9B423935F48054C">
+<mods:extent id="5C62CED94A5C7DEE9FAFAE313F208CF6" unit="page">
+<mods:start id="95F466579F3AA268AC638D1D816B1192">175</mods:start>
+<mods:end id="F133946C701D96468E4386834ACDAE25">183</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="9969CF27F6107AFBA3976B5A054B978B">book chapter</mods:classification>
+<mods:identifier id="D0945D04DBB008A7F06E32C258038BF8" type="DOI">http://doi.org/10.5281/zenodo.5160270</mods:identifier>
+<mods:identifier id="9C7B334A2C82B3F8A9AA3889C1FBF850" type="GBIF-Dataset">6dc2872d-cbab-4982-baed-c0969e3e3236</mods:identifier>
+<mods:identifier id="EB8F46476F478AA4BD2143A5E4CEF49F" type="Zenodo-Dep">5160270</mods:identifier>
+</mods:mods>
+<treatment id="0E4F7F497E635A27B4F5F817140677F8" ID-DOI="http://doi.org/10.5281/zenodo.5164312" ID-GBIF-Taxon="184416200" ID-Zenodo-Dep="5164312" LSID="urn:lsid:plazi:treatment:0E4F7F497E635A27B4F5F817140677F8" httpUri="http://treatment.plazi.org/id/0E4F7F497E635A27B4F5F817140677F8" lastPageId="8" lastPageNumber="182" pageId="7" pageNumber="182">
+<subSubSection id="CEFC9DD47E635A28B4F5F817107271EB" box="[423,1573,1939,1983]" pageId="7" pageNumber="182" type="nomenclature">
+<paragraph id="8659CE5F7E635A28B4F5F817107271EB" blockId="7.[423,1818,1939,2553]" box="[423,1573,1939,1983]" pageId="7" pageNumber="182">
+<heading id="DD1179337E635A28B4F5F817107271EB" box="[423,1573,1939,1983]" fontSize="8" level="2" pageId="7" pageNumber="182" reason="4">
+<emphasis id="B492124D7E635A28B4F5F817178F71EB" bold="true" box="[423,472,1939,1983]" pageId="7" pageNumber="182">28.</emphasis>
+<taxonomicName id="41E6B5DC7E635A28B4AEF817107771EB" authority="Emery" box="[508,1568,1939,1983]" class="Insecta" family="Formicidae" genus="Camponotus" kingdom="Animalia" order="Hymenoptera" pageId="7" pageNumber="182" phylum="Arthropoda" rank="subSpecies" species="chloroticus" subGenus="Tanaemyrmex" subSpecies="irritans">
+<emphasis id="B492124D7E635A28B4AEF81713D871EB" bold="true" box="[508,1423,1939,1983]" pageId="7" pageNumber="182">Camponotus (Tanaemyrmex) irritans chloroticus</emphasis>
+Emery
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E635A28B4BBF84C13017ED9" pageId="7" pageNumber="182" type="reference_group">
+<paragraph id="8659CE5F7E635A28B4BBF84C102D7E72" blockId="7.[423,1818,1939,2553]" pageId="7" pageNumber="182">
+<treatmentCitationGroup id="A6F6E9717E635A28B4BBF84C102D7E72" pageId="7" pageNumber="182">
+<bibCitation id="53CCC6337E635A28B4BBF84C102D7E72" author="Emery" journalOrPublisher="Mus. civ. stor. nat. Genova" pageId="7" pageNumber="182" pagination="574" part="38" refId="ref4448" type="journal article" year="1897">
+<treatmentCitation id="0747E84E7E635A28B4BBF84C148E7E72" author="Emery" page="574" pageId="7" pageNumber="182" year="1897">
+<emphasis id="B492124D7E635A28B4BBF84C121971A6" box="[489,1102,1992,2034]" italics="true" pageId="7" pageNumber="182">Camponotus tnarnlatus chlorotirns</emphasis>
+<author id="5E5B26BA7E635A28B10CF84C128F71A6" box="[1118,1240,1992,2034]" pageId="7" pageNumber="182">Emery</author>
+, 
+<journalOrPublisher id="5C27C4937E635A28B1BDF84C108571A6" box="[1263,1746,1992,2034]" pageId="7" pageNumber="182">Mus. civ. stor. nat. Genova</journalOrPublisher>
+<emphasis id="B492124D7E635A28B3B0F84C114E71A6" bold="true" box="[1762,1817,1992,2034]" pageId="7" pageNumber="182">
+<part id="F24264C27E635A28B3B0F84C114471A6" box="[1762,1811,1992,2034]" pageId="7" pageNumber="182" type="volume">38</part>
+:
+</emphasis>
+<pagination id="BF2F30AB7E635A28B77AF87F14307E72" box="[552,615,2043,2086]" pageId="7" pageNumber="182" type="pagination">574</pagination>
+, 
+<year id="F24E8F0C7E635A28B7D3F87F14837E72" box="[641,724,2043,2086]" pageId="7" pageNumber="182">1897</year>
+.
+</treatmentCitation>
+<treatmentCitation id="0747E84E7E635A28B7A7F87F102D7E72" author="Wheeler" box="[757,1658,2043,2086]" page="47" pageId="7" pageNumber="182" year="1912">
+<author id="5E5B26BA7E635A28B7A7F87F15DA7E72" box="[757,909,2043,2086]" pageId="7" pageNumber="182">Wheeler</author>
+, 
+<journalOrPublisher id="5C27C4937E635A28B6F7F87F13D17E72" box="[933,1414,2043,2086]" pageId="7" pageNumber="182">
+<collectingRegion id="442200BD7E635A28B6F7F87F12367E72" box="[933,1121,2043,2086]" country="United States of America" name="New York" pageId="7" pageNumber="182">New York</collectingRegion>
+Ent. Soc., Jour.
+</journalOrPublisher>
+<emphasis id="B492124D7E635A28B0C5F87F13E97E72" bold="true" box="[1431,1470,2043,2086]" pageId="7" pageNumber="182">
+<part id="F24264C27E635A28B0C5F87F13ED7E72" box="[1431,1466,2043,2086]" pageId="7" pageNumber="182" type="volume">20</part>
+:
+</emphasis>
+<emphasis id="B492124D7E635A28B08EF87F10597E72" box="[1500,1550,2043,2086]" italics="true" pageId="7" pageNumber="182">
+<pagination id="BF2F30AB7E635A28B08EF87F105F7E72" box="[1500,1544,2043,2086]" pageId="7" pageNumber="182" type="pagination">47</pagination>
+,
+</emphasis>
+<year id="F24E8F0C7E635A28B370F87F10227E72" box="[1570,1653,2043,2086]" pageId="7" pageNumber="182">1912</year>
+.
+</treatmentCitation>
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8659CE5F7E635A28B4BBF7AA13017ED9" blockId="7.[423,1818,1939,2553]" pageId="7" pageNumber="182">
+<treatmentCitationGroup id="A6F6E9717E635A28B4BBF7AA13017ED9" pageId="7" pageNumber="182">
+<treatmentCitation id="0747E84E7E635A28B4BBF7AA13017ED9" author="Emery" page="39" pageId="7" pageNumber="182" year="1935">
+<bibCitation id="53CCC6337E635A28B4BBF7AA13017ED9" author="Emery, Wheeler" journalOrPublisher="B. P. Bishop Mus., 0 cc. Papers" pageId="7" pageNumber="182" pagination="39" part="11" refId="ref4485" type="journal article" year="1935">
+<emphasis id="B492124D7E635A28B4BBF7AA13307E0D" box="[489,1383,2094,2137]" italics="true" pageId="7" pageNumber="182">Camponotus (Tanaemyrme:r) irritans chloroticus</emphasis>
+<author id="5E5B26BA7E635A28B02AF7AA13A57E0D" box="[1400,1522,2094,2137]" case="TC" fn="Wheeler" fnc="TC" fns="N" ln="Emery" lnc="TC" npo="LnFn" pageId="7" pageNumber="182">Emery</author>
+, Wheeler, 
+<journalOrPublisher id="5C27C4937E635A28B3ECF7AA12547ED9" pageId="7" pageNumber="182">B. P. Bishop Mus., 0cc. Papers</journalOrPublisher>
+<emphasis id="B492124D7E635A28B14BF7E512C67ED9" bold="true" box="[1049,1169,2145,2189]" pageId="7" pageNumber="182">
+<part id="F24264C27E635A28B14BF7E512137ED9" box="[1049,1092,2145,2189]" pageId="7" pageNumber="182" type="volume">11</part>
+(
+<part id="F24264C27E635A28B100F7E5122A7ED9" box="[1106,1149,2145,2189]" pageId="7" pageNumber="182" type="issue">11</part>
+):
+</emphasis>
+<pagination id="BF2F30AB7E635A28B1E7F7E512B77ED9" box="[1205,1248,2145,2189]" pageId="7" pageNumber="182" type="pagination">39</pagination>
+, 
+<year id="F24E8F0C7E635A28B1ACF7E513067ED9" box="[1278,1361,2145,2189]" pageId="7" pageNumber="182">1935</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E635A28B4BAF71915067FC1" pageId="7" pageNumber="182" type="materials_examined">
+<paragraph id="8659CE5F7E635A28B4BAF71915067FC1" blockId="7.[423,1818,1939,2553]" pageId="7" pageNumber="182">
+<materialsCitation id="368EC4027E635A28B4BAF71915287E9C" ID-GBIF-Occurrence="3862685349" box="[488,895,2205,2248]" collectingDate="1936-04-15" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="7" pageNumber="182">
+<collectingMunicipality id="663D54257E635A28B4BAF71914E87E9C" box="[488,703,2205,2248]" pageId="7" pageNumber="182">Ritidian Pt.</collectingMunicipality>
+, 
+<date id="F258E89F7E635A28B78EF719152F7E9C" box="[732,888,2205,2248]" pageId="7" pageNumber="182" value="2015-04">
+<collectingDate id="E21C11777E635A28B78EF719152F7E9C" box="[732,888,2205,2248]" pageId="7" pageNumber="182" value="2015-04">April 15</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="368EC4027E635A28B6CAF71915917E9C" ID-GBIF-Occurrence="3862685332" box="[920,966,2205,2248]" collectingDate="1936-04-16" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="7" pageNumber="182">16,</materialsCitation>
+<materialsCitation id="368EC4027E635A28B689F71912C87E9C" ID-GBIF-Occurrence="3862685387" box="[987,1183,2205,2248]" collectingDate="1936-04-22" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="7" pageNumber="182">
+22, 
+<location id="833998847E635A28B171F71912CF7E9C" LSID="urn:lsid:plazi:treatment:0E4F7F497E635A27B4F5F817140677F8:833998847E635A28B171F71912CF7E9C" box="[1059,1176,2205,2248]" name="Bryan" pageId="7" pageNumber="182">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E635A28B1E6F719156E7EA8" ID-GBIF-Occurrence="3334693400" collectedFrom="nest in rotten stick" collectingDate="1936-05-03" collectorName="E. H. Bryan and O. H. Swezey" country="Guam" location="Mount Tenjo" pageId="7" pageNumber="182">
+<location id="833998847E635A28B1E6F71913247E9C" LSID="urn:lsid:plazi:treatment:0E4F7F497E635A27B4F5F817140677F8:833998847E635A28B1E6F71913247E9C" box="[1204,1395,2205,2248]" name="Mt. Tenjo" pageId="7" pageNumber="182">Mt. Tenjo</location>
+, 
+<date id="F258E89F7E635A28B0DCF71910507E9C" box="[1422,1543,2205,2248]" pageId="7" pageNumber="182">
+<collectingDate id="E21C11777E635A28B0DCF71910507E9C" box="[1422,1543,2205,2248]" pageId="7" pageNumber="182">
+May 
+<emphasis id="B492124D7E635A28B0A0F71910597E9C" bold="true" box="[1522,1550,2205,2248]" pageId="7" pageNumber="182">3,</emphasis>
+</collectingDate>
+</date>
+nest in rotten stick, 
+<location id="833998847E635A28B74AF75614D07EA8" LSID="urn:lsid:plazi:treatment:0E4F7F497E635A27B4F5F817140677F8:833998847E635A28B74AF75614D07EA8" box="[536,647,2258,2300]" name="Bryan" pageId="7" pageNumber="182">Bryan</location>
+, 
+<collectorName id="2B13AB897E635A28B7F7F75615657EA8" box="[677,818,2258,2300]" pageId="7" pageNumber="182">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E635A28B602F75612F17EA8" ID-GBIF-Occurrence="3862685368" box="[848,1190,2258,2300]" collectingDate="1936-06-02" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="7" pageNumber="182">
+<location id="833998847E635A28B602F75612517EA8" LSID="urn:lsid:plazi:treatment:0E4F7F497E635A27B4F5F817140677F8:833998847E635A28B602F75612517EA8" box="[848,1030,2258,2300]" name="Machanao" pageId="7" pageNumber="182">Machanao</location>
+, 
+<date id="F258E89F7E635A28B170F75612C87EA8" box="[1058,1183,2258,2300]" pageId="7" pageNumber="182">
+<collectingDate id="E21C11777E635A28B170F75612C87EA8" box="[1058,1183,2258,2300]" pageId="7" pageNumber="182">June 2</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="368EC4027E635A28B1EFF75612B97EA8" ID-GBIF-Occurrence="3862685315" box="[1213,1262,2258,2300]" collectingDate="1936-06-30" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="7" pageNumber="182">30,</materialsCitation>
+<materialsCitation id="368EC4027E635A28B056F75610607EA8" ID-GBIF-Occurrence="3862685307" box="[1284,1591,2258,2300]" collectingDate="1936-08-06" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="7" pageNumber="182">
+<date id="F258E89F7E635A28B056F75613D27EA8" box="[1284,1413,2258,2300]" pageId="7" pageNumber="182">
+<collectingDate id="E21C11777E635A28B056F75613D27EA8" box="[1284,1413,2258,2300]" pageId="7" pageNumber="182">Aug. 6</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E635A28B0F6F75610677EA8" box="[1444,1584,2258,2300]" pageId="7" pageNumber="182">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E635A28B31CF75614B87F7B" ID-GBIF-Occurrence="3334693357" collectingDate="1936-06-27" collectorName="R. L. Usinger" country="Guam" location="Mount Alifan" pageId="7" pageNumber="182">
+<collectingMunicipality id="663D54257E635A28B31CF75611447EA8" box="[1614,1811,2258,2300]" pageId="7" pageNumber="182">Mt. Alifan</collectingMunicipality>
+, 
+<date id="F258E89F7E635A28B4FAF68014607F7B" box="[424,567,2308,2351]" pageId="7" pageNumber="182" value="1927-06">
+<collectingDate id="E21C11777E635A28B4FAF68014607F7B" box="[424,567,2308,2351]" pageId="7" pageNumber="182" value="1927-06">June 27</collectingDate>
+</date>
+, 
+<location id="833998847E635A28B702F68014BF7F7B" LSID="urn:lsid:plazi:treatment:0E4F7F497E635A27B4F5F817140677F8:833998847E635A28B702F68014BF7F7B" box="[592,744,2308,2351]" municipality="Mt. Alifan" name="Usinger" pageId="7" pageNumber="182">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E635A28B653F68017A57F35" ID-GBIF-Occurrence="3334693368" collectedFrom="nest in stump of Lumnitzera" collectingDate="1936-06-23" collectorName="O. H. Swezey" country="Guam" location="Sumay Road" pageId="7" pageNumber="182">
+<collectingMunicipality id="663D54257E635A28B653F68015BE7F7B" box="[769,1001,2308,2351]" pageId="7" pageNumber="182">Sumay Road</collectingMunicipality>
+, 
+<date id="F258E89F7E635A28B153F68012D87F7B" box="[1025,1167,2308,2351]" pageId="7" pageNumber="182" value="1923-06">
+<collectingDate id="E21C11777E635A28B153F68012D87F7B" box="[1025,1167,2308,2351]" pageId="7" pageNumber="182" value="1923-06">June 23</collectingDate>
+</date>
+, nest in stump of 
+<emphasis id="B492124D7E635A28B08BF68010E67F7B" box="[1497,1713,2308,2351]" italics="true" pageId="7" pageNumber="182">
+<location id="833998847E635A28B08BF68010FC7F7B" LSID="urn:lsid:plazi:treatment:0E4F7F497E635A27B4F5F817140677F8:833998847E635A28B08BF68010FC7F7B" box="[1497,1707,2308,2351]" municipality="Sumay Road" name="Lwmnitzera" pageId="7" pageNumber="182">Lwmnitzera</location>
+,
+</emphasis>
+<collectorName id="2B13AB897E635A28B396F68017BC7F35" pageId="7" pageNumber="182">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E635A28B752F6B315817F35" ID-GBIF-Occurrence="3334693388" box="[512,982,2359,2401]" collectingDate="1936-07-10" collectorName="O. H. Swezey" country="Guam" location="Libugon" pageId="7" pageNumber="182">
+<collectingMunicipality id="663D54257E635A28B752F6B314C07F35" box="[512,663,2359,2401]" pageId="7" pageNumber="182">Libugon</collectingMunicipality>
+, 
+<date id="F258E89F7E635A28B7F8F6B315797F35" box="[682,814,2359,2401]" pageId="7" pageNumber="182" value="2010-07">
+<collectingDate id="E21C11777E635A28B7F8F6B315797F35" box="[682,814,2359,2401]" pageId="7" pageNumber="182" value="2010-07">July 10</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E635A28B616F6B315987F35" box="[836,975,2359,2401]" pageId="7" pageNumber="182">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E635A28B6B4F6B313F97F35" ID-GBIF-Occurrence="3334693402" box="[998,1454,2359,2401]" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="7" pageNumber="182">
+<location id="833998847E635A28B6B4F6B312357F35" LSID="urn:lsid:plazi:treatment:0E4F7F497E635A27B4F5F817140677F8:833998847E635A28B6B4F6B312357F35" box="[998,1122,2359,2401]" name="Fadian" pageId="7" pageNumber="182">Fadian</location>
+, 
+<date id="F258E89F7E635A28B125F6B313537F35" box="[1143,1284,2359,2401]" pageId="7" pageNumber="182" value="2019-08">
+<collectingDate id="E21C11777E635A28B125F6B313537F35" box="[1143,1284,2359,2401]" pageId="7" pageNumber="182" value="2019-08">Aug. 19</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E635A28B049F6B313F07F35" box="[1307,1447,2359,2401]" pageId="7" pageNumber="182">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E635A28B0EFF6B315067FC1" ID-GBIF-Occurrence="3334693350" collectedFrom="nest in bamboo stump" collectingDate="1936-10-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="182">
+<location id="833998847E635A28B0EFF6B313A87F35" LSID="urn:lsid:plazi:treatment:0E4F7F497E635A27B4F5F817140677F8:833998847E635A28B0EFF6B313A87F35" box="[1469,1535,2359,2401]" name="Piti" pageId="7" pageNumber="182">Piti</location>
+, nest in bamboo stump, 
+<date id="F258E89F7E635A28B77EF6EE14F97FC1" box="[556,686,2410,2453]" pageId="7" pageNumber="182" value="1927-10">
+<collectingDate id="E21C11777E635A28B77EF6EE14F97FC1" box="[556,686,2410,2453]" pageId="7" pageNumber="182" value="1927-10">Oct. 27</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E635A28B794F6EE151B7FC1" box="[710,844,2410,2453]" pageId="7" pageNumber="182">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E635A27B4B5F618140677F8" lastPageId="8" lastPageNumber="183" pageId="7" pageNumber="182" type="discussion">
+<paragraph id="8659CE5F7E635A27B4B5F618140677F8" blockId="7.[423,1818,1939,2553]" lastBlockId="8.[323,1718,336,428]" lastPageId="8" lastPageNumber="183" pageId="7" pageNumber="182">
+This large pale brown wood ant occurs in 
+<collectingCountry id="FEF18ECF7E635A28B185F61813B17F93" box="[1239,1510,2460,2503]" name="New Caledonia" pageId="7" pageNumber="182">New Caledonia</collectingCountry>
+, 
+<collectingRegion id="442200BD7E635A28B0AEF61811467F93" box="[1532,1809,2460,2503]" country="New Caledonia" name="Province des Iles" pageId="7" pageNumber="182">Loyalty Islands</collectingRegion>
+, New Britain, and Matupi Island. 
+<materialsCitation id="368EC4027E635A27B174F64917CC772C" ID-GBIF-Occurrence="3862685399" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" lastPageId="8" lastPageNumber="183" location="Guam" pageId="7" pageNumber="182">
+<location id="833998847E635A28B174F64912137FAD" LSID="urn:lsid:plazi:treatment:0E4F7F497E635A27B4F5F817140677F8:833998847E635A28B174F64912137FAD" box="[1062,1092,2509,2553]" country="Guam" name="It" pageId="7" pageNumber="182">It</location>
+·was collected in 
+<collectingCountry id="FEF18ECF7E635A28B0D9F64913A47FAD" box="[1419,1523,2509,2553]" name="Guam" pageId="7" pageNumber="182">Guam</collectingCountry>
+by 
+<location id="833998847E635A28B311F64910B17FAD" LSID="urn:lsid:plazi:treatment:0E4F7F497E635A27B4F5F817140677F8:833998847E635A28B311F64910B17FAD" box="[1603,1766,2509,2553]" country="Guam" name="Fullaway" pageId="7" pageNumber="182">Fullaway</location>
+in 1911
+</materialsCitation>
+. 
+<materialsCitation id="368EC4027E6C5A27B4EFFED4141B77F8" ID-GBIF-Occurrence="3862685342" collectedFrom="in stumps and rotten logs" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="8" pageNumber="183">
+<location id="833998847E6C5A27B4EFFED417AB772C" LSID="urn:lsid:plazi:treatment:0E4F7F497E635A27B4F5F817140677F8:833998847E6C5A27B4EFFED417AB772C" box="[445,508,336,376]" name="We" pageId="8" pageNumber="183">We</location>
+found it everywhere in stumps and rotten logs, sometimes in very populous nests
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

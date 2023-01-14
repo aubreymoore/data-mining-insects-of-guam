@@ -1,0 +1,238 @@
+<document id="4B5C8C6CFF08C4C3E3BBAD48A72C8E30" ID-DOI="http://doi.org/10.5281/zenodo.5160043" ID-GBIF-Dataset="9298158c-3c02-4ba2-ab8a-87c7f9c8e70b" ID-Zenodo-Dep="5160043" checkinTime="1627487837253" checkinUser="admin" docAuthor="Swezey, O. H." docDate="1942" docId="03B31D6AAA294748986AF6C3F956FB32" docLanguage="en" docName="InsectsOfGuamI.172.30-38.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Biship Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Catopsilia crocale" docType="treatment" docVersion="14" lastPageNumber="36" masterDocId="FF8A6512AA2D474D9945FF80FFCFFFAC" masterDocTitle="Lepidoptera, Butterflies of Guam" masterLastPageNumber="38" masterPageNumber="31" pageNumber="35" updateTime="1664293270315" updateUser="annettekang">
+<mods:mods id="89021C3D9F8310357DD48B554545F35A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="31EFEE432CACABE112C74F906C3D9AE4">
+<mods:title id="799BEFA76C1AFB9AE9B76CCD9B8A3F96">Lepidoptera, Butterflies of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="7D00583E3778AD93255C66E7D6634464" type="personal">
+<mods:role id="B8D918B5CDFC2E046378919ED43B48ED">
+<mods:roleTerm id="85EE987ED5BE3EF8931B7AD3BD964441">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A0837EF97BF45D5DF6F9B926A15015A3">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="825278884F30F390EF5221637E990628">Experiment Station Hawaiian Sugar Planters' Associantion, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="20B38594E32258F65529964D3840695D">text</mods:typeOfResource>
+<mods:relatedItem id="72C966B80987456DE6E0BFA506276668" type="host">
+<mods:originInfo id="FDEB268A703DAEA18459F68901E4F63B">
+<mods:dateIssued id="889496C1C0A6FC87BF429E7A3BE44EDF">1942</mods:dateIssued>
+<mods:dateOther id="FE8CD3AEF0DA21919235F3B85EAF46E0" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="8327864253446A5AE7B910B5460BB764">Bernice P. Biship Museum</mods:publisher>
+<mods:place id="A8B7AA2215B9C7E4F8658DCC1820867A">
+<mods:placeTerm id="C69A12724D1BEEA26D9FA7925EE6CEA4">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="7188C56B5F15E3E2A4CC494E58788BB4">
+<mods:title id="2BF68BDA97957A5B64D8B285350C506E">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="7EC1BF19FBF4CDF3D671AFAD41BCCB9D">
+<mods:extent id="CC73752CFA0705F1956A87540F5A4E78" unit="page">
+<mods:start id="5BD1A804658384464007CE6D7CF0198B">31</mods:start>
+<mods:end id="488DDA2352692F9AFF3C4F8A2DB9F095">38</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="433F0817BF6FB530211B12235AA158E9">book chapter</mods:classification>
+<mods:identifier id="4C086B82AF9176F604F358431FA5F163" type="DOI">http://doi.org/10.5281/zenodo.5160043</mods:identifier>
+<mods:identifier id="DD7EB1BA4645593846E61A405DA785F9" type="GBIF-Dataset">9298158c-3c02-4ba2-ab8a-87c7f9c8e70b</mods:identifier>
+<mods:identifier id="4FCECD1FB5F9CAD34EF621400977DC68" type="Zenodo-Dep">5160043</mods:identifier>
+</mods:mods>
+<treatment id="03B31D6AAA294748986AF6C3F956FB32" ID-DOI="http://doi.org/10.5281/zenodo.5526393" ID-GBIF-Taxon="187975395" ID-Zenodo-Dep="5526393" LSID="urn:lsid:plazi:treatment:03B31D6AAA294748986AF6C3F956FB32" httpUri="http://treatment.plazi.org/id/03B31D6AAA294748986AF6C3F956FB32" lastPageId="5" lastPageNumber="36" pageId="4" pageNumber="35">
+<subSubSection id="C300FFF7AA294749986AF6C3FC44F6C1" box="[303,907,2371,2413]" pageId="4" pageNumber="35" type="nomenclature">
+<paragraph id="8BA5AC7CAA294749986AF6C3FC44F6C1" blockId="4.[303,1515,2371,2523]" box="[303,907,2371,2413]" pageId="4" pageNumber="35">
+<heading id="D0ED1B10AA294749986AF6C3FC44F6C1" box="[303,907,2371,2413]" fontSize="8" level="2" pageId="4" pageNumber="35" reason="4">
+<emphasis id="B96E706EAA294749986AF6C3FE91F6C1" bold="true" box="[303,350,2371,2413]" pageId="4" pageNumber="35">10.</emphasis>
+<taxonomicName id="4C1AD7FFAA29474998C7F6C3FC4AF6C1" authority="(Cramer)" baseAuthorityName="Cramer" box="[386,901,2371,2413]" class="Insecta" family="Pieridae" genus="Catopsilia" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="35" phylum="Arthropoda" rank="species" species="crocale">
+<emphasis id="B96E706EAA29474998C7F6C3FD0EF6C1" bold="true" box="[386,705,2371,2413]" pageId="4" pageNumber="35">Catopsilia crocale</emphasis>
+(Cramer)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C300FFF7AA2947489828F6F6FC60FDF2" lastPageId="5" lastPageNumber="36" pageId="4" pageNumber="35" type="description">
+<paragraph id="8BA5AC7CAA2947499828F6F6FB1CF60D" blockId="4.[303,1515,2371,2523]" box="[365,1235,2422,2465]" pageId="4" pageNumber="35">
+<treatmentCitationGroup id="AB0A8B52AA2947499828F6F6FB1CF60D" box="[365,1235,2422,2465]" pageId="4" pageNumber="35">
+<treatmentCitation id="0ABB8A6DAA2947499828F6F6FB01F60D" author="Fabricius" box="[365,1230,2422,2465]" page="479" pageId="4" pageNumber="35" year="1775">
+<taxonomicName id="4C1AD7FFAA2947499828F6F6FCF3F60D" authority="Fabricius, Syst. Ent." authorityName="Fabricius, Syst. Ent." box="[365,828,2422,2465]" class="Insecta" family="Papilionidae" genus="Papilio" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="35" phylum="Arthropoda" rank="species" species="pomona">
+<emphasis id="B96E706EAA2947499828F6F6FD4DF60D" box="[365,642,2422,2465]" italics="true" pageId="4" pageNumber="35">Papilio pomona</emphasis>
+<bibCitation id="5E30A410AA2947499BD0F6F6FB01F60D" author="Fabricius" box="[661,1230,2422,2465]" pageId="4" pageNumber="35" pagination="479" title="Syst. Ent" type="book" year="1775">
+<author id="53A74499AA2947499BD0F6F6FCF3F60D" box="[661,828,2422,2465]" pageId="4" pageNumber="35">Fabricius</author>
+, 
+<title id="F91E474AAA2947499A13F6F6FBCDF60D" box="[854,1026,2422,2465]" pageId="4" pageNumber="35">Syst. Ent</title>
+., 
+<emphasis id="B96E706EAA2947499D65F6F6FBA8F60D" box="[1056,1127,2422,2465]" italics="true" pageId="4" pageNumber="35">
+<pagination id="B2D35288AA2947499D65F6F6FBAEF60D" box="[1056,1121,2422,2465]" pageId="4" pageNumber="35">479</pagination>
+,
+</emphasis>
+<year id="FFB2ED2FAA2947499D39F6F6FB01F60D" box="[1148,1230,2422,2465]" pageId="4" pageNumber="35">1775</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA5AC7CAA2947499829F62AFA24F678" blockId="4.[303,1515,2371,2523]" box="[364,1515,2474,2516]" pageId="4" pageNumber="35">
+<treatmentCitationGroup id="AB0A8B52AA2947499829F62AFA24F678" box="[364,1515,2474,2516]" pageId="4" pageNumber="35">
+<treatmentCitation id="0ABB8A6DAA2947499829F62AFA24F678" author="Cramer" box="[364,1515,2474,2516]" page="87" pageId="4" pageNumber="35" year="1775">
+<taxonomicName id="4C1AD7FFAA2947499829F62AFCC5F678" authority="Cramer, Pap. Exot." authorityName="Cramer, Pap. Exot." box="[364,778,2474,2516]" class="Insecta" family="Papilionidae" genus="Papilio" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="35" phylum="Arthropoda" rank="species" species="crocale">
+<emphasis id="B96E706EAA2947499829F62AFDBEF678" box="[364,625,2474,2516]" italics="true" pageId="4" pageNumber="35">Papilio crocale</emphasis>
+<bibCitation id="5E30A410AA2947499BC6F62AFA29F678" author="Cramer" box="[643,1510,2474,2516]" journalOrPublisher="Pap. Exot." pageId="4" pageNumber="35" pagination="87" part="1" type="journal article" year="1775">
+<author id="53A74499AA2947499BC6F62AFCC5F678" box="[643,778,2474,2516]" pageId="4" pageNumber="35">Cramer</author>
+, 
+<journalOrPublisher id="51DBA6B0AA2947499A64F62AFC10F678" box="[801,991,2474,2516]" pageId="4" pageNumber="35">Pap. Exot.</journalOrPublisher>
+<emphasis id="B96E706EAA2947499AB7F62AFBDCF678" bold="true" box="[1010,1043,2474,2516]" pageId="4" pageNumber="35">
+<part id="FFBE06E1AA2947499AB7F62AFBCFF678" box="[1010,1024,2474,2516]" pageId="4" pageNumber="35" type="volume">1</part>
+:
+</emphasis>
+<emphasis id="B96E706EAA2947499D64F62AFB9CF678" box="[1057,1107,2474,2516]" italics="true" pageId="4" pageNumber="35">
+<pagination id="B2D35288AA2947499D64F62AFB83F678" box="[1057,1100,2474,2516]" pageId="4" pageNumber="35" type="pagination">87</pagination>
+,
+</emphasis>
+pl. 55, fig. C, D, 
+<year id="FFB2ED2FAA2947499CD1F62AFA29F678" box="[1428,1510,2474,2516]" pageId="4" pageNumber="35">1775</year>
+</bibCitation>
+</taxonomicName>
+.
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA5AC7CAA284748989FFE22FBB1FE5B" blockId="5.[411,1807,418,1199]" pageId="5" pageNumber="36">
+<treatmentCitationGroup id="AB0A8B52AA284748989FFE22FBB1FE5B" pageId="5" pageNumber="36">
+<treatmentCitation id="0ABB8A6DAA284748989FFE22FBBAFE5B" author="Kershaw" page="101" pageId="5" pageNumber="36" year="1907">
+<taxonomicName id="4C1AD7FFAA284748989FFE22FB79FE68" authorityName="Hubner" authorityYear="1819" box="[474,1206,418,460]" class="Insecta" family="Pieridae" genus="Catopsilia" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="36" phylum="Arthropoda" rank="genus">
+Catopsilia ¡bomona (Fabricius) 
+<bibCitation id="5E30A410AA2847489D5CFE24FBB1FE5B" author="Kershaw" pageId="5" pageNumber="36" pagination="101" part="19" title="Butterflies of Hong Kong" type="book" year="1907">
+<author id="53A74499AA2847489D5CFE24FB79FE68" box="[1049,1206,420,452]" pageId="5" pageNumber="36">Kershaw</author>
+, 
+<title id="F91E474AAA2847489D96FE24F965FE60" box="[1235,1706,420,460]" pageId="5" pageNumber="36">
+Butterﬂies of 
+<collectingCountry id="F30DECECAA2847489C96FE25F965FE60" box="[1491,1706,420,460]" name="Hong Kong" pageId="5" pageNumber="36">Hong Kong</collectingCountry>
+</title>
+, 
+<pagination id="B2D35288AA2847489F8CFE23F930FE6F" box="[1737,1791,419,451]" pageId="5" pageNumber="36">101</pagination>
+, pl. 9, ﬁgs. 18, 
+<part id="FFBE06E1AA2847489A64FE57FC8AFE5A" box="[801,837,471,502]" pageId="5" pageNumber="36" type="volume">19</part>
+, 20, pl. 5 a, 
+<year id="FFB2ED2FAA2847489D62FE57FBBAFE5B" box="[1063,1141,471,503]" pageId="5" pageNumber="36">1907</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA5AC7CAA2847489899FD89FC60FDF2" blockId="5.[411,1807,418,1199]" pageId="5" pageNumber="36">
+<treatmentCitationGroup id="AB0A8B52AA2847489899FD89FC60FDF2" pageId="5" pageNumber="36">
+<treatmentCitation id="0ABB8A6DAA2847489899FD89FC68FDF2" author="Fruhstorfer" page="162-163" pageId="5" pageNumber="36" year="1910">
+<taxonomicName id="4C1AD7FFAA2847489899FD89FB70FD87" authority="(Cramer) Fruhstorfer, Seitz Gross-Schmetterlinge der" box="[476,1215,521,563]" class="Insecta" family="Pieridae" genus="Catopsilia" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="36" phylum="Arthropoda" rank="species" species="crocale">
+Catopsilia crocale (Cramer) 
+<bibCitation id="5E30A410AA2847489AA9FD8AFC60FDF2" author="Fruhstorfer" journalOrPublisher="Seitz Gross-Schmetterlinge der Erde" pageId="5" pageNumber="36" pagination="162 - 163" part="9" type="journal article" year="1910">
+<author id="53A74499AA2847489AA9FD8AFB70FD87" box="[1004,1215,522,555]" pageId="5" pageNumber="36">Fruhstorfer</author>
+, 
+<journalOrPublisher id="51DBA6B0AA2847489D9BFD8AFDA0FDF3" pageId="5" pageNumber="36">Seitz Gross-Schmetterlinge der Erde</journalOrPublisher>
+<part id="FFBE06E1AA2847489B3BFDBFFD5EFDF2" box="[638,657,575,606]" pageId="5" pageNumber="36" type="volume">9</part>
+: 
+<pagination id="B2D35288AA2847489BF6FDBEFCF6FDF1" box="[691,825,574,612]" pageId="5" pageNumber="36" type="pagination">162- 163</pagination>
+, 
+<year id="FFB2ED2FAA2847489A12FDBFFC68FDF2" box="[855,935,575,606]" pageId="5" pageNumber="36">1910</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C300FFF7AA2847489899FDF2FA73FD63" pageId="5" pageNumber="36" type="description">
+<paragraph id="8BA5AC7CAA2847489899FDF2FA73FD63" blockId="5.[411,1807,418,1199]" pageId="5" pageNumber="36">
+<materialsCitation id="3B72A621AA2847489899FDF2FD04FD34" ID-GBIF-Occurrence="3913379335" box="[476,715,625,666]" collectingDate="1936-09-19" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="36">
+<collectingMunicipality id="6BC13606AA2847489899FDF2FDD4FD3D" box="[476,539,626,657]" pageId="5" pageNumber="36">Piti</collectingMunicipality>
+, 
+<date id="FFA48ABCAA2847489B71FDF1FD0EFD3D" box="[564,705,625,666]" pageId="5" pageNumber="36" value="2019-09">
+<collectingDate id="EFE07354AA2847489B71FDF1FD0EFD3D" box="[564,705,625,666]" pageId="5" pageNumber="36" value="2019-09">Sept. 19</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B72A621AA2847489B9CFDF2FCC5FD3B" ID-GBIF-Occurrence="3913379329" box="[729,778,626,663]" collectingDate="1936-09-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="36">20,</materialsCitation>
+<materialsCitation id="3B72A621AA2847489A5CFDF2FC43FD34" ID-GBIF-Occurrence="3913379345" box="[793,908,625,664]" collectingDate="1936-10-05" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="36">
+<date id="FFA48ABCAA2847489A5CFDF2FC4EFD3E" box="[793,897,625,658]" pageId="5" pageNumber="36">
+<collectingDate id="EFE07354AA2847489A5CFDF2FC4EFD3E" box="[793,897,625,658]" pageId="5" pageNumber="36">Oct. 5</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B72A621AA2847489ADEFDF2FBA0FD37" ID-GBIF-Occurrence="3913379317" box="[923,1135,626,667]" collectingDate="1936-10-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="36">
+30, 
+<location id="8EC5FAA7AA2847489A99FDF2FB91FD37" LSID="urn:lsid:plazi:treatment:03B31D6AAA294748986AF6C3F956FB32:8EC5FAA7AA2847489A99FDF2FB91FD37" box="[988,1118,626,667]" name="Swezey" pageId="5" pageNumber="36">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="3B72A621AA2847489D3AFDF3FDEDFD66" ID-GBIF-Occurrence="3352147320" collectingDate="1936-09-30" collectorName="student at Agricultural School" country="Guam" location="Piti" pageId="5" pageNumber="36">
+<collectingMunicipality id="6BC13606AA2847489D3AFDF3FB71FD3E" box="[1151,1214,627,658]" pageId="5" pageNumber="36">Píti</collectingMunicipality>
+, 
+<date id="FFA48ABCAA2847489D92FDF3FAABFD3F" box="[1239,1380,627,667]" pageId="5" pageNumber="36" value="1930-09">
+<collectingDate id="EFE07354AA2847489D92FDF3FAABFD3F" box="[1239,1380,627,667]" pageId="5" pageNumber="36" value="1930-09">Sept. 30</collectingDate>
+</date>
+, student at 
+<location id="8EC5FAA7AA2847489F71FDF2FDDEFD6A" LSID="urn:lsid:plazi:treatment:03B31D6AAA294748986AF6C3F956FB32:8EC5FAA7AA2847489F71FDF2FDDEFD6A" municipality="Piti" name="Agricultural School" pageId="5" pageNumber="36">Agricultural School</location>
+;
+</materialsCitation>
+<materialsCitation id="3B72A621AA2847489B71FD26FA73FD63" ID-GBIF-Occurrence="3352147325" box="[564,1468,678,719]" collectingDate="1936-10-02" collectorName="O. H. Swezey" country="Guam" location="Merizo" pageId="5" pageNumber="36">
+Merizo, 
+<date id="FFA48ABCAA2847489B8EFD26FCF8FD68" box="[715,823,678,709]" pageId="5" pageNumber="36">
+<collectingDate id="EFE07354AA2847489B8EFD26FCF8FD68" box="[715,823,678,709]" pageId="5" pageNumber="36">Oct. 2</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA2847489A11FD26FC18FD62" LSID="urn:lsid:plazi:treatment:03B31D6AAA294748986AF6C3F956FB32:8EC5FAA7AA2847489A11FD26FC18FD62" box="[852,983,678,718]" name="Swezey" pageId="5" pageNumber="36">Swezey</location>
+. 
+<location id="8EC5FAA7AA2847489AB8FD27FBB8FD63" LSID="urn:lsid:plazi:treatment:03B31D6AAA294748986AF6C3F956FB32:8EC5FAA7AA2847489AB8FD27FBB8FD63" box="[1021,1143,679,719]" name="Mostly" pageId="5" pageNumber="36">Mostly</location>
+reared 
+<specimenCount id="9D1C67F5AA2847489C41FD27FA7CFD63" box="[1284,1459,679,719]" pageId="5" pageNumber="36" type="generic">specimens</specimenCount>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C300FFF7AA284748989EFD62F956FB32" pageId="5" pageNumber="36" type="description">
+<paragraph id="8BA5AC7CAA284748989EFD62F956FB32" blockId="5.[411,1807,418,1199]" pageId="5" pageNumber="36">
+<location id="8EC5FAA7AA284748989EFD62FDB7FCAD" LSID="urn:lsid:plazi:treatment:03B31D6AAA294748986AF6C3F956FB32:8EC5FAA7AA284748989EFD62FDB7FCAD" box="[475,632,738,769]" country="Japan" county="Of" municipality="Some" name="Kershaw" pageId="5" pageNumber="36">Kershaw</location>
+considers 
+<taxonomicName id="4C1AD7FFAA2847489A7FFD64FC7EFCAE" box="[826,945,740,770]" class="Insecta" family="Pieridae" genus="Catopsilia" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="36" phylum="Arthropoda" rank="species" species="crocale">crocale</taxonomicName>
+to be a dimorphic female of 
+<taxonomicName id="4C1AD7FFAA2847489CF8FD68F988FCA6" box="[1469,1607,744,778]" class="Insecta" family="Papilionidae" genus="Papilio" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="36" phylum="Arthropoda" rank="species" species="pomona">pomona</taxonomicName>
+. 
+<location id="8EC5FAA7AA2847489F2FFD61F976FCAE" LSID="urn:lsid:plazi:treatment:03B31D6AAA294748986AF6C3F956FB32:8EC5FAA7AA2847489F2FFD61F976FCAE" box="[1642,1721,737,770]" country="Japan" county="Of" municipality="Some" name="This" pageId="5" pageNumber="36">This</location>
+butterﬂy is known in 
+<collectingCountry id="F30DECECAA2847489BA0FC96FC83FC92" box="[741,844,790,830]" name="Japan" pageId="5" pageNumber="36">Japan</collectingCountry>
+, 
+<collectingCountry id="F30DECECAA2847489A22FC95FC02FC9A" box="[871,973,789,822]" name="China" pageId="5" pageNumber="36">China</collectingCountry>
+, and Siam and is widely distributed in 
+<collectingCountry id="F30DECECAA2847489FD0FC96FE36FCC4" name="India" pageId="5" pageNumber="36">British India</collectingCountry>
+. 
+<location id="8EC5FAA7AA2847489B59FCC9FDF5FCC4" LSID="urn:lsid:plazi:treatment:03B31D6AAA294748986AF6C3F956FB32:8EC5FAA7AA2847489B59FCC9FDF5FCC4" box="[540,570,841,872]" country="Japan" county="Of" municipality="Some" name="It" pageId="5" pageNumber="36">It</location>
+is said to be the commonest butterﬂy in the 
+<location id="8EC5FAA7AA2847489C0FFCC9F9DDFCC6" LSID="urn:lsid:plazi:treatment:03B31D6AAA294748986AF6C3F956FB32:8EC5FAA7AA2847489C0FFCC9F9DDFCC6" box="[1354,1554,841,875]" country="Japan" county="Of" municipality="Some" name="East Indies" pageId="5" pageNumber="36">East Indies</location>
+, and its range extends to 
+<collectingCountry id="F30DECECAA2847489B24FCFDFCCAFC30" box="[609,773,893,924]" name="Australia" pageId="5" pageNumber="36">Australia</collectingCountry>
+. 
+<location id="8EC5FAA7AA2847489A6EFCFDFC85FC30" LSID="urn:lsid:plazi:treatment:03B31D6AAA294748986AF6C3F956FB32:8EC5FAA7AA2847489A6EFCFDFC85FC30" box="[811,842,893,924]" country="Japan" county="Of" municipality="Some" name="It" pageId="5" pageNumber="36">It</location>
+has many variations. 
+<location id="8EC5FAA7AA2847489DA2FCFEFACAFC31" LSID="urn:lsid:plazi:treatment:03B31D6AAA294748986AF6C3F956FB32:8EC5FAA7AA2847489DA2FCFEFACAFC31" box="[1255,1285,894,925]" country="Japan" county="Of" municipality="Some" name="It" pageId="5" pageNumber="36">It</location>
+was not previously recorded from 
+<collectingCountry id="F30DECECAA2847489B42FC30FDBFFC63" box="[519,624,944,975]" name="Guam" pageId="5" pageNumber="36">Guam</collectingCountry>
+. I reared it from green caterpillars on leaves of 
+<location id="8EC5FAA7AA2847489F48FC30F9B3FC7D" LSID="urn:lsid:plazi:treatment:03B31D6AAA294748986AF6C3F956FB32:8EC5FAA7AA2847489F48FC30F9B3FC7D" box="[1549,1660,944,977]" country="Japan" county="Of" municipality="Some" name="Cassia" pageId="5" pageNumber="36">Cassia</location>
+grandis and C. fístula. 
+<location id="8EC5FAA7AA2847489BEFFC63FCCDFBA1" LSID="urn:lsid:plazi:treatment:03B31D6AAA294748986AF6C3F956FB32:8EC5FAA7AA2847489BEFFC63FCCDFBA1" box="[682,770,995,1037]" country="Japan" county="Of" municipality="Some" name="Eggs" pageId="5" pageNumber="36">Eggs</location>
+were found also on the leaves. 
+<location id="8EC5FAA7AA2847489C7AFC63FA55FBA0" LSID="urn:lsid:plazi:treatment:03B31D6AAA294748986AF6C3F956FB32:8EC5FAA7AA2847489C7AFC63FA55FBA0" box="[1343,1434,995,1036]" country="Japan" county="Of" municipality="Some" name="They" pageId="5" pageNumber="36">They</location>
+are deposited singly. 
+<collectingMunicipality id="6BC13606AA28474898DBFB97FE32FB9B" box="[414,509,1047,1079]" pageId="5" pageNumber="36">Some</collectingMunicipality>
+of the eggs are parasitized by a trichograrnmatid. 
+<collectingCounty id="62C4D4F0AA2847489CDCFB99FA05FB9B" box="[1433,1482,1049,1079]" pageId="5" pageNumber="36">Of</collectingCounty>
+<specimenCount id="9D1C67F5AA2847489C9EFB99F9A6FBEC" box="[1499,1641,1049,1088]" pageId="5" pageNumber="36" type="egg">six eggs</specimenCount>
+collected at Merizo, parasites issued from 
+<specimenCount id="9D1C67F5AA2847489AB5FBD0FB42FBDF" box="[1008,1165,1104,1139]" pageId="5" pageNumber="36" type="egg">two eggs</specimenCount>
+, a parasitism of 33 percent. Of 
+<specimenCount id="9D1C67F5AA2847489FAFFBCBFE26FB03" pageId="5" pageNumber="36" type="egg">19 eggs</specimenCount>
+at Piti, parasites issued from 
+<specimenCount id="9D1C67F5AA2847489D41FBFFFB52FB0B" box="[1028,1181,1151,1191]" pageId="5" pageNumber="36" type="egg">ﬁve eggs</specimenCount>
+, a parasitism of 26 per cent.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

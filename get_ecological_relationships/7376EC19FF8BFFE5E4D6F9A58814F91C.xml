@@ -1,0 +1,100 @@
+<document id="ED37D14FE3C26FC52B508D0DD6C12118" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8BFFE5E4D6F9A58814F91C" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Chalcura upeensis Fullaway" docType="treatment" docVersion="16" lastPageNumber="212" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="212" updateTime="1663097425548" updateUser="annettekang">
+<mods:mods id="073C2B91E97E802CE6E616802E9E6913" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="BABF4795392C03E8F1BE33C8EB1C14D4">
+<mods:title id="C863ED8EBD20B447708D9CD4A2DC93E3">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="787B3DC9077D7950C94F73C62C87B9D9" type="personal">
+<mods:role id="60A84F1561A07DDB2214CA58669B3A8F">
+<mods:roleTerm id="5C64D1F0C2E3C941C015244ACD5E8592">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E844C0E27FF8F62D6208DBEE604B55DE">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="780509A9C62353365CDB25147E641439">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="8FB326274002D74E3651E9E50F4BDBDD">text</mods:typeOfResource>
+<mods:relatedItem id="6086CF3993C4D92FB52DE47185018A30" type="host">
+<mods:originInfo id="6A384EE6C4EE6650E2DC270000A5C3BC">
+<mods:dateIssued id="29F77A82E6106B1146DABC722AAF41B0">1946</mods:dateIssued>
+<mods:dateOther id="303008C7F1169B17B839292A1D620C8B" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="0EE0CAF00F012E1F7DFE5C62168381CE">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="72214B5E124312B21B4F10E4838B23C7">
+<mods:placeTerm id="5D187759690F2D801092B36E61E03BD2">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="F59244E7574799550F08A466DACD48B6">
+<mods:title id="80DBB8D6D9E6A0E2987B117C79480BDE">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="34A84C73300858DDC906B37455BAC9A2">
+<mods:extent id="47277588A7FA5626151F73391A56F9EF" unit="page">
+<mods:start id="397FFE91F8E4F8EF1A5658E3D0B937E0">211</mods:start>
+<mods:end id="B05DF05924032B293D802E60FFDBB834">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="4E53095E92813DA3B534EEDBBF90EFAA">book chapter</mods:classification>
+<mods:identifier id="EC2722ABE75DC49ECBDC732A0D1B5BAC" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="3B616D15C6FCF1CD98C2CAC0DA9690D2" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="579E24FFA849EEFB2BC957FE0931CC29" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8BFFE5E4D6F9A58814F91C" ID-DOI="http://doi.org/10.5281/zenodo.5211979" ID-GBIF-Taxon="187737452" ID-Zenodo-Dep="5211979" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE5E4D6F9A58814F91C" httpUri="http://treatment.plazi.org/id/7376EC19FF8BFFE5E4D6F9A58814F91C" lastPageNumber="212" pageId="1" pageNumber="212">
+<subSubSection id="B3C50E84FF8BFFE5E4D6F9A58B40F9E6" box="[469,1054,1545,1588]" pageId="1" pageNumber="212" type="nomenclature">
+<paragraph id="FB605D0FFF8BFFE5E4D6F9A58B40F9E6" blockId="1.[469,1868,1545,1742]" box="[469,1054,1545,1588]" pageId="1" pageNumber="212">
+<heading id="A028EA63FF8BFFE5E4D6F9A58B40F9E6" box="[469,1054,1545,1588]" fontSize="11" level="2" pageId="1" pageNumber="212" reason="2">
+<emphasis id="C9AB811DFF8BFFE5E4D6F9A58EACF9E6" bold="true" box="[469,498,1545,1588]" pageId="1" pageNumber="212">9.</emphasis>
+<taxonomicName id="3CDF268CFF8BFFE5E716F9A58B49F9E6" authority="Fullaway" box="[533,1047,1545,1588]" class="Insecta" family="Eucharidae" genus="Chalcura" higherTaxonomySource="CoL" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="212" phylum="Arthropoda" rank="species" species="upeensis">
+<emphasis id="C9AB811DFF8BFFE5E716F9A58C05F9E6" bold="true" box="[533,859,1545,1588]" pageId="1" pageNumber="212">Chalcura upeensis</emphasis>
+<author id="2362B5EAFF8BFFE5E66FF9A58B49F9E6" box="[876,1047,1545,1588]" pageId="1" pageNumber="212">Fullaway</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8BFFE5E12CF9A589F3F9E6" box="[1071,1709,1545,1588]" pageId="1" pageNumber="212" type="reference_group">
+<paragraph id="FB605D0FFF8BFFE5E12CF9A589F3F9E6" blockId="1.[469,1868,1545,1742]" box="[1071,1709,1545,1588]" pageId="1" pageNumber="212">
+<treatmentCitationGroup id="DBCF7A21FF8BFFE5E12CF9A589F3F9E6" box="[1071,1709,1545,1588]" pageId="1" pageNumber="212">
+<treatmentCitation id="7A7E7B1EFF8BFFE5E12CF9A589F3F9E6" author="Fullaway" box="[1071,1709,1545,1588]" page="285" pageId="1" pageNumber="212" year="1913">
+<bibCitation id="2EF55563FF8BFFE5E12CF9A589F3F9E6" author="Fullaway" box="[1071,1709,1545,1588]" journalOrPublisher="Haw. Ent. Soc., Proc." pageId="1" pageNumber="212" pagination="285" part="2" refId="ref611" type="journal article" year="1913">
+<journalOrPublisher id="211E57C3FF8BFFE5E12CF9A58AE2F9E6" box="[1071,1468,1545,1588]" pageId="1" pageNumber="212">Haw. Ent. Soc., Proc.</journalOrPublisher>
+<part id="8F7BF792FF8BFFE5E0C8F9A58A87F9E6" box="[1483,1497,1545,1588]" pageId="1" pageNumber="212" type="volume">2</part>
+: 
+<pagination id="C216A3FBFF8BFFE5E0FEF9A58963F9E6" box="[1533,1597,1545,1588]" pageId="1" pageNumber="212" type="pagination">285</pagination>
+, 
+<year id="8F771C5CFF8BFFE5E357F9A589F6F9E6" box="[1620,1704,1545,1588]" pageId="1" pageNumber="212">1913</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8BFFE5E717F9918814F91C" pageId="1" pageNumber="212" type="materials_examined">
+<paragraph id="FB605D0FFF8BFFE5E717F9918814F91C" blockId="1.[469,1868,1545,1742]" pageId="1" pageNumber="212">
+<materialsCitation id="4BB75752FF8BFFE5E717F9918984F9B5" ID-GBIF-Occurrence="3345364314" box="[532,1754,1597,1639]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Upi Trail" pageId="1" pageNumber="212" specimenCount-male="1">
+<location id="FE000BD4FF8BFFE5E717F9918D14F9B5" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE5E4D6F9A58814F91C:FE000BD4FF8BFFE5E717F9918D14F9B5" box="[532,586,1597,1639]" name="An" pageId="1" pageNumber="212">An</location>
+ant parasite, described by 
+<collectorName id="562A38D9FF8BFFE5E128F9918B91F9B5" box="[1067,1231,1597,1639]" pageId="1" pageNumber="212">Fullaway</collectorName>
+from a single 
+<specimenCount id="EDD99686FF8BFFE5E0DBF9918974F9B5" box="[1496,1578,1597,1639]" pageId="1" pageNumber="212" type="male">male</specimenCount>
+<specimenCount id="EDD99686FF8BFFE5E33AF9918984F9B5" box="[1593,1754,1597,1639]" pageId="1" pageNumber="212" type="generic">specimen</specimenCount>
+</materialsCitation>
+. 
+<materialsCitation id="4BB75752FF8BFFE5E3F8F9918814F91C" ID-GBIF-Occurrence="3345364360" collectedFrom="in the same district where it was collected by Fullaway in 1911" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="1" pageNumber="212" specimenCount="2">
+Two 
+<specimenCount id="EDD99686FF8BFFE5E4D6F9DC8DD6F949" box="[469,648,1648,1691]" pageId="1" pageNumber="212" type="generic">specimens</specimenCount>
+, 
+<location id="FE000BD4FF8BFFE5E7A1F9DC8C0AF949" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE5E4D6F9A58814F91C:FE000BD4FF8BFFE5E7A1F9DC8C0AF949" box="[674,852,1648,1691]" country="United States of America" municipality="National Museum" name="Upi Trail" pageId="1" pageNumber="212">Upi Trail</location>
+, 
+<date id="8F617BCFFF8BFFE5E672F9DC8CB4F949" box="[881,1002,1648,1691]" pageId="1" pageNumber="212">
+<collectingDate id="9F258227FF8BFFE5E672F9DC8CB4F949" box="[881,1002,1648,1691]" pageId="1" pageNumber="212">May 5</collectingDate>
+</date>
+, in the same district where it was collected by 
+<collectorName id="562A38D9FF8BFFE5E4D5F9088D24F91C" box="[470,634,1700,1742]" pageId="1" pageNumber="212">Fullaway</collectorName>
+in 1911. Two 
+<specimenCount id="EDD99686FF8BFFE5E69FF9088B10F91C" box="[924,1102,1700,1742]" pageId="1" pageNumber="212" type="generic">specimens</specimenCount>
+, one retained in 
+<collectingCountry id="83C81D9FFF8BFFE5E089F9088AB4F91C" box="[1418,1514,1700,1742]" name="United States of America" pageId="1" pageNumber="212">U. S.</collectingCountry>
+<collectingMunicipality id="1B04C775FF8BFFE5E303F908881BF91C" box="[1536,1861,1700,1742]" pageId="1" pageNumber="212">National Museum</collectingMunicipality>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

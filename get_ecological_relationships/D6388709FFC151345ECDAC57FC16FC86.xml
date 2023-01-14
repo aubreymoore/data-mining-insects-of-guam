@@ -1,0 +1,160 @@
+<document id="8B815BF44D42EE606BA0D214C90BA821" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFC151345ECDAC57FC16FC86" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Choerorrhinodes constricticeps Zimmerman 1942, new species" docType="treatment" docVersion="19" lastPageNumber="123" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="122" updateTime="1671243089236" updateUser="annettekang">
+<mods:mods id="D2A4FB64497366A27902AF62C12DAB1E" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="BABF1238CE8CE722D5404E57B675DB84">
+<mods:title id="7940FCF0E1A9CFFBC910E2B41698ADC3">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="907FE28AEB5CFA41ACEA96CBC400F50E" type="personal">
+<mods:role id="92D6E4C2C6372E20F08DDC2CBE1D9C7B">
+<mods:roleTerm id="7BEAB555E2E0D611B9F970CA9548ACCC">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="CABCAB39A07B6CFA17499BC2B61CF531">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="DDF5E24F058430FB849C039011155D12">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="ED71F065A09A3F25B498438AB283E327">text</mods:typeOfResource>
+<mods:relatedItem id="BD0082A21BCDDE6E1F2F72E39617D456" type="host">
+<mods:originInfo id="CDD5C6A2F8686A8FD7AD23AA6093D31E">
+<mods:dateIssued id="651FDAD6FC5B019C9042FC68B16BDE93">1942</mods:dateIssued>
+<mods:dateOther id="37C1A20315B7D18E7E89F35A6D5EA625" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="EC333DEADBD5A51409B65E81BA501DC2">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="ECEA256E6129194BC8817FDF63F67407">
+<mods:placeTerm id="36E242C6BBD3B84B59E6F1B308114286">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="E921C691866E0E9B11545A90B8530E68">
+<mods:title id="5B5464E19DB5B40043EB1D87B725F5EB">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="6ADA81888AF52A3641D74EDD93EAB577">
+<mods:extent id="7ED269375E6F6686ABF311F4327E0559" unit="page">
+<mods:start id="7D1715533815D552E336A95E38FBAF55">73</mods:start>
+<mods:end id="8B302079604FA8F6C4A8EE50F614A1A4">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="FF9A82119DAA4FABC1C698DE118EB310">book chapter</mods:classification>
+<mods:identifier id="590B5F8767ACFE40AAB0BEBD3F9BC23B" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="6A71C1F0B22057DF2C6F3271BF2B584B" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="2BE5472F4F965D231B3EF923A274FD83" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFC151345ECDAC57FC16FC86" ID-DOI="http://doi.org/10.5281/zenodo.5157351" ID-GBIF-Taxon="184097909" ID-Zenodo-Dep="5157351" LSID="urn:lsid:plazi:treatment:D6388709FFC151345ECDAC57FC16FC86" httpUri="http://treatment.plazi.org/id/D6388709FFC151345ECDAC57FC16FC86" lastPageId="50" lastPageNumber="123" pageId="49" pageNumber="122">
+<subSubSection id="168B6594FFC151375ECDAC57FA35FCA1" box="[406,1487,781,823]" pageId="49" pageNumber="122" type="nomenclature">
+<paragraph id="5E2E361FFFC151375ECDAC57FA35FCA1" blockId="49.[397,1800,781,2541]" box="[406,1487,781,823]" pageId="49" pageNumber="122">
+30. 
+<emphasis id="6CE5EA0DFFC151375EB2AC57FBDFFCA1" bold="true" box="[489,1061,781,823]" pageId="49" pageNumber="122">
+<taxonomicName id="99914D9CFFC151375EB2AC57FBE5FCA1" authority="Zimmerman, 1942" authorityName="Zimmerman" authorityYear="1942" box="[489,1055,781,823]" class="Insecta" family="Curculionidae" genus="Choerorrhinodes" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="49" pageNumber="122" phylum="Arthropoda" rank="species" species="constricticeps" status="new species">Choerorrhinodes constricticeps</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="77D65776FFC151375B68AC57FAFFFCA1" box="[1075,1285,781,823]" pageId="49" pageNumber="122" rank="species">new species</taxonomicNameLabel>
+(pl. 4, 
+<emphasis id="6CE5EA0DFFC151375AD5AC57FA35FCA1" box="[1422,1487,781,823]" italics="true" pageId="49" pageNumber="122">A).</emphasis>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFC151375E83AC65F8FAF698" pageId="49" pageNumber="122" type="description">
+<paragraph id="5E2E361FFFC151375E83AC65FD02FC1F" blockId="49.[397,1800,781,2541]" pageId="49" pageNumber="122">Female. Derm rather dull to moderately shiny, reddish brown, piceous to black; setae minute and pale.</paragraph>
+<paragraph id="5E2E361FFFC151375E8CACD7F8FAF698" blockId="49.[397,1800,781,2541]" pageId="49" pageNumber="122">
+<emphasis id="6CE5EA0DFFC151375E8CACD7FDD0FC26" box="[471,554,909,944]" italics="true" pageId="49" pageNumber="122">Head</emphasis>
+strongly constricted at less than length of an eye behind eyes, the constriction continued prominently across dorsum, area behind constriction reticulate but impunctate, the lobed area between constriction and eyes coarsely and densely punctate as interocular area; interocular area twice as broad as breadth of an eye when viewed from above, coarsely, densely, subconfluently, continuously punctate with base of rostrum; eyes separated from prothorax by one and one half to two times their length. 
+<emphasis id="6CE5EA0DFFC151375957AB16F96BFBF8" box="[1548,1681,1100,1134]" italics="true" pageId="49" pageNumber="122">Rostrum</emphasis>
+almost continuous in longitudinal dorsal outline with interocular area, about three fifths or two&quot; 'thirds as long as pronotum, slightly more than twice as long as broad, slightly and evenly narrowed laterally from base to antennae, thence evenly and slightly expanded to apex, apex about one fourth broader than narrowest post antenna! breadth, antennae inserted slightly but distinctly behind middle, apex of scrobe marked by a raised line below hind margin of eye; longitudinal dorsal outline gently arcuate; densely punctate behind antennae, punctures tending to be longitudinally confluent, more finely punctate beyond antennae, coarsely reticulate; setae sparse, minute. 
+<emphasis id="6CE5EA0DFFC151375B88AA27FA98FA09" box="[1235,1378,1405,1439]" italics="true" pageId="49" pageNumber="122">Antennae</emphasis>
+with scape reaching hind margin of eye; funicular segment 1 about one fourth broader and twice as long as 2, 2 about as broad as long and longer than 3, 3-5 successively slightly more transverse; club stout, ovate, slightly longer than three preceding segments. 
+<emphasis id="6CE5EA0DFFC151375BB7AAB5FA76F984" box="[1260,1420,1519,1554]" italics="true" pageId="49" pageNumber="122">Prothorax</emphasis>
+one fifth to almost one third longer than broad; base subtruncate, arcuate on sides from base to near subapical constriction, broadest at or behind middle, subapical constriction prominent, slightly impressed across dorsum which is otherwise almost straight and flat longitudinally; disk flattened, densely and coarsely punctate, punctures subhexagonal, their interstices irregular and much narrower than their diameters; setae minute. 
+<emphasis id="6CE5EA0DFFC151375A7BA9F7FA79F946" box="[1312,1411,1709,1744]" italics="true" pageId="49" pageNumber="122">Elytra</emphasis>
+two and one half times as long as broad, twice as long as prothorax, base subtruncate, subparallel-sided in basal two thirds, thence narrowed to the bluntly rounded apex; striae deep and coarse; their punctures coarse and close, as broad or broader than intervals, lateral stria terminating at metacoxa, setae minute and inconspicuous; intervals convex, their sides crenulated by strial punctures, each bearing a row of small, fine, decumbent setae, punctate, coarsely reticulate, the ninth costiform above last three ventrites. 
+<emphasis id="6CE5EA0DFFC151375A45A8C8FA9CF823" box="[1310,1382,1938,1973]" italics="true" pageId="49" pageNumber="122">Legs</emphasis>
+with tibial unci and teeth at inner apical angles well developed; third tarsal segment deeply bilobed. 
+<emphasis id="6CE5EA0DFFC1513759DAA8E2F8F9F84D" box="[1665,1795,1976,2011]" italics="true" pageId="49" pageNumber="122">Sternum</emphasis>
+coarsely, densely punctate throughout; intercoxal process of prosternum about as broad as a coxa, distance between coxal cavity and fore margin of prosternum twice that of distance behind coxal cavity; mesocoxae separated by more than breadth of a coxa; metasternum between mid and hind coxae three times as long as breadth of a mesocoxa, metacoxae separated by slightly less than the transverse diameter of a metacoxa. 
+<emphasis id="6CE5EA0DFFC1513759C7A722F8F8F70C" box="[1692,1794,2168,2202]" italics="true" pageId="49" pageNumber="122">Venter</emphasis>
+with first two segments coarsely and densely punctate as metasternum; ventrites 3 and 4 punctate along base; ventrite 5 shallowly concave, distinctly punctate along basal margin, indistinctly so elsewhere; finely, sparsely setose. Length, 2-2.25 mm.; breadth, 0.5-0.6 mm.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFC151345E96A672FA83FE37" lastPageId="50" lastPageNumber="123" pageId="49" pageNumber="122" type="materials_examined">
+<paragraph id="5E2E361FFFC151345E96A672FA83FE37" blockId="49.[397,1800,781,2541]" lastBlockId="50.[301,1698,325,784]" lastPageId="50" lastPageNumber="123" pageId="49" pageNumber="122">
+<materialsCitation id="EEF93C42FFC151375E96A672FA73F610" ID-GBIF-Occurrence="3333874469" collectedFrom="one female paratype swept from grass" collectingDate="1936-05-17" collectorName="O. H. Swezey" country="Guam" location="Tarague" pageId="49" pageNumber="122" specimenCount="2" typeStatus="holotype and paratype">
+<typeStatus id="812A88BDFFC151375E96A672FD8AF6C4" box="[461,624,2344,2386]" pageId="49" pageNumber="122">Holotype</typeStatus>
+<specimenCount id="4897FD96FFC151375DDAA672FD0EF6C4" box="[641,756,2344,2386]" pageId="49" pageNumber="122" type="female">female</specimenCount>
+collected at 
+<collectingMunicipality id="BE4AAC65FFC151375C8CA672FB97F6C4" box="[983,1133,2344,2386]" pageId="49" pageNumber="122">Tarague</collectingMunicipality>
+, 
+<date id="2A2F10DFFFC151375BDDA672FA83F6C4" box="[1158,1401,2344,2386]" pageId="49" pageNumber="122" value="1936-05-17">
+<collectingDate id="3A6BE937FFC151375BDDA672FA83F6C4" box="[1158,1401,2344,2386]" pageId="49" pageNumber="122" value="1936-05-17">May 17, 1936</collectingDate>
+</date>
+and 
+<specimenCount id="4897FD96FFC151375A8CA672F96DF6C4" box="[1495,1687,2344,2386]" pageId="49" pageNumber="122" type="female">one female</specimenCount>
+<typeStatus id="812A88BDFFC1513759FDA672FE22F610" pageId="49" pageNumber="122">paratype</typeStatus>
+swept from grass at same time and place, 
+<location id="5B4E60C4FFC151375BACA606FA78F610" LSID="urn:lsid:plazi:treatment:D6388709FFC151345ECDAC57FC16FC86:5B4E60C4FFC151375BACA606FA78F610" box="[1271,1410,2396,2438]" municipality="Tarague" name="Swezey" pageId="49" pageNumber="122">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFC151375AC7A606FDDAF67B" ID-GBIF-Occurrence="3333874309" collectedFrom="taken from Ochrosia" collectingDate="1938-02-09" collectorName="R. G. Oakley" country="Guam" location="U. S. National Museum" pageId="49" pageNumber="122" specimenCount="2" typeStatus="paratype">
+two 
+<typeStatus id="812A88BDFFC151375AB5A606F96DF610" box="[1518,1687,2396,2438]" pageId="49" pageNumber="122">paratypes</typeStatus>
+from 
+<collectingMunicipality id="BE4AAC65FFC151375ECBA6D4FD2FF62F" box="[400,725,2446,2489]" pageId="49" pageNumber="122">National Museum</collectingMunicipality>
+material taken from 
+<location id="5B4E60C4FFC151375B21A6D4FA17F62F" LSID="urn:lsid:plazi:treatment:D6388709FFC151345ECDAC57FC16FC86:5B4E60C4FFC151375B21A6D4FA17F62F" box="[1146,1517,2446,2489]" municipality="National Museum" name="Ochrosia by Oakley" pageId="49" pageNumber="122">
+<taxonomicName id="99914D9CFFC151375B21A6D4FAEDF62F" box="[1146,1303,2446,2489]" class="Magnoliopsida" family="Apocynaceae" genus="Ochrosia" kingdom="Plantae" order="Gentianales" pageId="49" pageNumber="122" phylum="Tracheophyta" rank="genus">
+<emphasis id="6CE5EA0DFFC151375B21A6D4FAEDF62F" box="[1146,1303,2446,2489]" italics="true" pageId="49" pageNumber="122">Ochrosia</emphasis>
+</taxonomicName>
+by Oakley
+</location>
+, 
+<date id="2A2F10DFFFC151375957A6D4F900F62F" box="[1548,1786,2446,2489]" pageId="49" pageNumber="122" value="1938-02-09">
+<collectingDate id="3A6BE937FFC151375957A6D4F900F62F" box="[1548,1786,2446,2489]" pageId="49" pageNumber="122" value="1938-02-09">Feb. 9, 1938</collectingDate>
+</date>
+, no. 741;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFC151375D6BA699F904F67B" ID-GBIF-Occurrence="3333874340" box="[560,1790,2499,2541]" collectedFrom="from dead wood" collectingDate="1939-06-29" collectorName="R. G. Oakley" country="Guam" location="U. S. National Museum" pageId="49" pageNumber="122" specimenCount="4">
+and four taken by 
+<location id="5B4E60C4FFC151375CDEA699FBFAF67B" LSID="urn:lsid:plazi:treatment:D6388709FFC151345ECDAC57FC16FC86:5B4E60C4FFC151375CDEA699FBFAF67B" box="[901,1024,2499,2541]" municipality="National Museum" name="Oakley" pageId="49" pageNumber="122">Oakley</location>
+from dead wood, 
+<date id="2A2F10DFFFC151375A15A699F9B3F67B" box="[1358,1609,2499,2541]" pageId="49" pageNumber="122" value="1939-06-29">
+<collectingDate id="3A6BE937FFC151375A15A699F9B3F67B" box="[1358,1609,2499,2541]" pageId="49" pageNumber="122" value="1939-06-29">June 29, 1939</collectingDate>
+</date>
+, no. 2349.
+</materialsCitation>
+<materialsCitation id="EEF93C42FFC251345E69AE1FFA8EFE37" ID-GBIF-Occurrence="3333874365" collectedFrom="taken from &quot;Chopag nuts&quot; (Ochrocarpus obovalis)" collectingDate="1938-02-02" collectorName="R. G. Oakley" country="Guam" location="Guam" pageId="50" pageNumber="123" specimenCount="1">
+<location id="5B4E60C4FFC251345E69AE1FFE75FEFB" LSID="urn:lsid:plazi:treatment:D6388709FFC151345ECDAC57FC16FC86:5B4E60C4FFC251345E69AE1FFE75FEFB" box="[306,399,325,365]" municipality="National Museum" name="Since" pageId="50" pageNumber="123">Since</location>
+the description was written, 
+<collectionCode id="3880AEDAFFC251345CF4AE1FFC47FEFB" box="[943,957,325,365]" country="Romania" lsid="urn:lsid:biocol.org:col:14415" name="&amp;quot;Alexandru Ioan Cuza&amp;quot; University" pageId="50" pageNumber="123" type="Herbarium">I</collectionCode>
+have seen another 
+<specimenCount id="4897FD96FFC251345A72AE1FFA3DFEFB" box="[1321,1479,325,365]" pageId="50" pageNumber="123" type="generic">specimen</specimenCount>
+taken from &quot; 
+<location id="5B4E60C4FFC251345E66AE2DFE33FE37" LSID="urn:lsid:plazi:treatment:D6388709FFC151345ECDAC57FC16FC86:5B4E60C4FFC251345E66AE2DFE33FE37" box="[317,457,375,417]" municipality="National Museum" name="Chopag" pageId="50" pageNumber="123">Chopag</location>
+nuts&quot; 
+<emphasis id="6CE5EA0DFFC251345D13AE2DFC0CFE37" box="[584,1014,375,417]" italics="true" pageId="50" pageNumber="123">
+(
+<taxonomicName id="99914D9CFFC251345D0FAE2DFC19FE37" authority="obovalis" box="[596,995,375,417]" class="Magnoliopsida" family="Calophyllaceae" genus="Ochrocarpus" higherTaxonomySource="CoL" kingdom="Plantae" order="Malpighiales" pageId="50" pageNumber="123" phylum="Tracheophyta" rank="genus">
+<location id="5B4E60C4FFC251345D0FAE2DFCC1FE37" LSID="urn:lsid:plazi:treatment:D6388709FFC151345ECDAC57FC16FC86:5B4E60C4FFC251345D0FAE2DFCC1FE37" box="[596,827,375,417]" municipality="National Museum" name="Ochrocarpus" pageId="50" pageNumber="123">Ochrocarpus</location>
+obovalis
+</taxonomicName>
+),
+</emphasis>
+<date id="2A2F10DFFFC251345B5CAE2DFB1AFE37" box="[1031,1248,375,417]" pageId="50" pageNumber="123" value="1938-02-02">
+<collectingDate id="3A6BE937FFC251345B5CAE2DFB1AFE37" box="[1031,1248,375,417]" pageId="50" pageNumber="123" value="1938-02-02">Feb. 2, 1938</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFC251345BAEAE2DFA8EFE37" LSID="urn:lsid:plazi:treatment:D6388709FFC151345ECDAC57FC16FC86:5B4E60C4FFC251345BAEAE2DFA8EFE37" box="[1269,1396,375,417]" municipality="National Museum" name="Oakley" pageId="50" pageNumber="123">Oakley</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFC251345E35AEE8FC16FC86" pageId="50" pageNumber="123" type="discussion">
+<paragraph id="5E2E361FFFC251345E35AEE8FC16FC86" blockId="50.[301,1698,325,784]" pageId="50" pageNumber="123">
+The conspicuously constricted head will serve to distinguish this species from the other 
+<collectingCountry id="2686768FFFC251345D3BAEBDFD32FD86" box="[608,712,487,528]" name="Guam" pageId="50" pageNumber="123">Guam</collectingCountry>
+members of the genus. It is most closely allied to 
+<taxonomicName id="99914D9CFFC251345E6AAD40FCEBFDD2" authority="rnarshalli" authorityName="Champion" authorityYear="1914" box="[305,785,538,580]" class="Insecta" family="Curculionidae" genus="Choerorrhinodes" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="50" pageNumber="123" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFC251345E6AAD40FCEBFDD2" box="[305,785,538,580]" italics="true" pageId="50" pageNumber="123">Choerorrhinodes rnarshalli</emphasis>
+</taxonomicName>
+but it has, in addition to its different cephalic characters, a flattened instead of dorsally convex pronotum upon which the punctures are more angular, irregular, and individually less distinct than on 
+<emphasis id="6CE5EA0DFFC251345E74ADEEFDEBFD4A" box="[303,529,692,732]" italics="true" pageId="50" pageNumber="123">
+<taxonomicName id="99914D9CFFC251345E74ADEEFDF1FD4A" authorityName="Zimmerman." authorityYear="1942" box="[303,523,692,732]" class="Insecta" family="Curculionidae" genus="Choerorrhinodes" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="50" pageNumber="123" phylum="Arthropoda" rank="species" species="marshalli">C. marshalli</taxonomicName>
+,
+</emphasis>
+and the setae on the elytral intervals and in the striae are less dense and less conspicuously developed.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,180 @@
+<document id="361E2923AA3FC1D427D3A7C95BF7D3E1" ID-DOI="http://doi.org/10.5281/zenodo.5164064" ID-GBIF-Dataset="8ddfacbb-c42b-4385-b70b-ea5bd759c377" ID-Zenodo-Dep="5164064" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628020838575" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03938792FFDFFFCEFEDFFEFE826BFCC1" docLanguage="en" docName="InsectsOfGuamII.189.149-156.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Liburnia ochrias" docType="treatment" docVersion="12" lastPageNumber="153" masterDocId="FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9" masterDocTitle="Notes On Some Fulgoroidea Of Guam" masterLastPageNumber="156" masterPageNumber="149" pageNumber="153" updateTime="1671318232748" updateUser="annettekang">
+<mods:mods id="471420245650487F7778442249A519AB" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="7D5FB5A8F6DC365A21F9CDA6E25818F0">
+<mods:title id="78B0BFFDC3CE4775875BFBDF7977E7F9">Notes On Some Fulgoroidea Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="D4BAC9D40EAF346B7341DCB0912220C3" type="personal">
+<mods:role id="238DE68E87AC2BDD27C26FFDF3A0822D">
+<mods:roleTerm id="827CAAC0ACBC30852E7CD4737947B83C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9280DD1A9BA16BA024EE63574CB44DD9">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="172E014523AEF2CC97473A772753EDB8">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="01AAD358E09097916340BC88709B6349">text</mods:typeOfResource>
+<mods:relatedItem id="373427EF5B81162A0AB481A062893FE6" type="host">
+<mods:originInfo id="F5316A15AC9A6053D4070A965628A3AB">
+<mods:dateIssued id="4ED51D83DA3AD026948C4B65233F6C8E">1946</mods:dateIssued>
+<mods:dateOther id="E2D160E340B0C65C877CC9F40E76F9BC" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="919F691EA09B9667A2399FD4197EC44F">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="AF5B53E00EB1AA416CDC26D3A91149D8">
+<mods:placeTerm id="E63B7CE1E3E176F5845779765CE62852">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="C116B68FF903322791A839C7A5D5D688">
+<mods:title id="9F976437ED833829AFE241F81ED816EE">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="A7FB78C5F4BAB96DF10AFBC7ED9E1E82">
+<mods:extent id="2480CAAEA9F3954FF0101CB777E06C3F" unit="page">
+<mods:start id="9CE402AEB7383F8F245E6E768AB2791C">149</mods:start>
+<mods:end id="E699A860AF6B2CFFF9C91C11A96BBBB9">156</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="589074DF58598B3185DBB5C899FAF631">book chapter</mods:classification>
+<mods:identifier id="49B820F4C5B3F62B11C4BE9C6CB467A5" type="DOI">http://doi.org/10.5281/zenodo.5164064</mods:identifier>
+<mods:identifier id="039959821224766D96661FFB2DF14680" type="GBIF-Dataset">8ddfacbb-c42b-4385-b70b-ea5bd759c377</mods:identifier>
+<mods:identifier id="5CA9623237F450DCB64C511C2803DB95" type="Zenodo-Dep">5164064</mods:identifier>
+</mods:mods>
+<treatment id="03938792FFDFFFCEFEDFFEFE826BFCC1" ID-DOI="http://doi.org/10.5281/zenodo.5167450" ID-GBIF-Taxon="183925071" ID-Zenodo-Dep="5167450" LSID="urn:lsid:plazi:treatment:03938792FFDFFFCEFEDFFEFE826BFCC1" httpUri="http://treatment.plazi.org/id/03938792FFDFFFCEFEDFFEFE826BFCC1" lastPageNumber="153" pageId="4" pageNumber="153">
+<subSubSection id="C320650FFFDFFFCEFEDFFEFE8508FEB5" box="[289,889,307,348]" pageId="4" pageNumber="153" type="nomenclature">
+<paragraph id="8B853684FFDFFFCEFEDFFEFE8508FEB5" blockId="4.[289,1686,307,808]" box="[289,889,307,348]" pageId="4" pageNumber="153">
+<heading id="D0CD81E8FFDFFFCEFEDFFEFE8508FEB5" box="[289,889,307,348]" fontSize="11" level="2" pageId="4" pageNumber="153" reason="2">
+<emphasis id="B94EEA96FFDFFFCEFEDFFEFE874FFEB5" bold="true" box="[289,318,307,348]" pageId="4" pageNumber="153">6.</emphasis>
+<taxonomicName id="4C3A4D07FFDFFFCEFE9EFEFE8502FEB5" authority="(Kirkaldy)" baseAuthorityName="Kirkaldy" baseAuthorityYear="1907" box="[352,883,307,348]" class="Insecta" family="Delphacidae" genus="Liburnia" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="153" phylum="Arthropoda" rank="species" species="ochrias">
+<emphasis id="B94EEA96FFDFFFCEFE9EFEFE84E0FEB5" bold="true" box="[352,657,307,348]" pageId="4" pageNumber="153">Liburnia ochrias</emphasis>
+(Kirkaldy)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDFFFCEFE9EFEA88042FDC0" pageId="4" pageNumber="153" type="reference_group">
+<paragraph id="8B853684FFDFFFCEFE9EFEA884D7FE2A" blockId="4.[289,1686,307,808]" pageId="4" pageNumber="153">
+<emphasis id="B94EEA96FFDFFFCEFE9EFEA8846CFE66" box="[352,541,357,399]" italics="true" pageId="4" pageNumber="153">
+&quot; 
+<treatmentCitationGroup id="AB2A11AAFFDFFFCEFE92FEA884D0FE2A" pageId="4" pageNumber="153">
+<treatmentCitation id="0A9B1095FFDFFFCEFE92FEA884D7FE2A" author="Kirkaldy" page="157" pageId="4" pageNumber="153" year="1907">
+<taxonomicName id="4C3A4D07FFDFFFCEFE92FEA88515FE66" authority="Kirkaldy, Haw. Sugar Plant. Assoc. Expt. Sta., Ent." box="[364,868,357,399]" class="Insecta" family="Delphacidae" genus="Delphax" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="153" phylum="Arthropoda" rank="genus">
+Delphax&quot; 
+<emphasis id="B94EEA96FFDFFFCEFDCDFEA884C1FE66" box="[563,688,357,399]" italics="true" pageId="4" pageNumber="153">ochrias</emphasis>
+<bibCitation id="5E103EE8FFDFFFCEFD3DFEA884D7FE2A" author="Kirkaldy" journalOrPublisher="Haw. Sugar Plant. Assoc. Expt. Sta., Ent. Bull." pageId="4" pageNumber="153" pagination="157" part="3" type="journal article" year="1907">
+<author id="5387DE61FFDFFFCEFD3DFEA88515FE66" box="[707,868,357,399]" pageId="4" pageNumber="153">Kirkaldy</author>
+, 
+<journalOrPublisher id="51FB3C48FFDFFFCEFC7EFEA887C2FE2A" pageId="4" pageNumber="153">Haw. Sugar Plant. Assoc. Expt. Sta., Ent. Bull.</journalOrPublisher>
+<part id="FF9E9C19FFDFFFCEFE3DFE5587A0FE2A" box="[451,465,408,451]" pageId="4" pageNumber="153" type="volume">3</part>
+: 
+<pagination id="B2F3C870FFDFFFCEFE06FE558447FE2A" box="[504,566,408,451]" pageId="4" pageNumber="153" type="pagination">157</pagination>
+, 
+<year id="FF9277D7FFDFFFCEFDB1FE5584D0FE2A" box="[591,673,408,451]" pageId="4" pageNumber="153">1907</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</emphasis>
+</paragraph>
+<paragraph id="8B853684FFDFFFCEFE9EFE0082A0FE1C" blockId="4.[289,1686,307,808]" box="[352,1233,461,501]" pageId="4" pageNumber="153">
+<treatmentCitationGroup id="AB2A11AAFFDFFFCEFE9EFE0082A0FE1C" box="[352,1233,461,501]" pageId="4" pageNumber="153">
+<treatmentCitation id="0A9B1095FFDFFFCEFE9EFE0082BDFE1C" author="Muir" box="[352,1228,461,501]" page="12" pageId="4" pageNumber="153" year="1927">
+<taxonomicName id="4C3A4D07FFDFFFCEFE9EFE0084ABFE1C" authority=", Muir, Ins." authorityName="Muir, Ins." box="[352,730,461,501]" class="Insecta" family="Delphacidae" genus="Sogata" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="153" phylum="Arthropoda" rank="species" species="ochrias">
+<emphasis id="B94EEA96FFDFFFCEFE9EFE00841CFE1C" box="[352,621,461,501]" italics="true" pageId="4" pageNumber="153">Sogata ochrias,</emphasis>
+<bibCitation id="5E103EE8FFDFFFCEFD80FE0082A0FE1C" author="Muir" box="[638,1233,461,501]" pageId="4" pageNumber="153" pagination="12" part="2" title="Ins. Samoa" type="book" year="1927">
+<author id="5387DE61FFDFFFCEFD80FE0084ABFE1C" box="[638,730,461,501]" pageId="4" pageNumber="153">Muir</author>
+, 
+<title id="F93EDDB2FFDFFFCEFD0CFE0085C9FE1C" box="[754,952,461,501]" pageId="4" pageNumber="153">
+Ins. 
+<collectingCountry id="F32D7614FFDFFFCEFCBAFE0085C9FE1C" box="[836,952,461,501]" name="Samoa" pageId="4" pageNumber="153">Samoa</collectingCountry>
+</title>
+<part id="FF9E9C19FFDFFFCEFC38FE0085AEFE1C" box="[966,991,461,501]" pageId="4" pageNumber="153" type="volume">2</part>
+(
+<part id="FF9E9C19FFDFFFCEFC10FE00858FFE1C" box="[1006,1022,461,501]" pageId="4" pageNumber="153" type="issue">1</part>
+): 
+<pagination id="B2F3C870FFDFFFCEFBC7FE008210FE1C" box="[1081,1121,461,501]" pageId="4" pageNumber="153" type="pagination">12</pagination>
+, 
+<year id="FF9277D7FFDFFFCEFB87FE0082BDFE1C" box="[1145,1228,461,501]" pageId="4" pageNumber="153">1927</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8B853684FFDFFFCEFE9EFE338042FDC0" blockId="4.[289,1686,307,808]" box="[352,1587,510,553]" pageId="4" pageNumber="153">
+<treatmentCitationGroup id="AB2A11AAFFDFFFCEFE9EFE33805FFDC0" box="[352,1582,510,553]" pageId="4" pageNumber="153">
+<treatmentCitation id="0A9B1095FFDFFFCEFE9EFE338042FDC0" author="Metcalf" box="[352,1587,510,553]" page="366" pageId="4" pageNumber="153" year="1943">
+<taxonomicName id="4C3A4D07FFDFFFCEFE9EFE33855EFDC0" authority=", Metcalf, Cat. Hemip., Fulgoroidea" authorityName="Metcalf, Cat. Hemip., Fulgoroidea" box="[352,815,510,553]" class="Insecta" family="Delphacidae" genus="Liburnia" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="153" phylum="Arthropoda" rank="species" species="ochrias">
+<emphasis id="B94EEA96FFDFFFCEFE9EFE3384E1FDC0" box="[352,656,510,553]" italics="true" pageId="4" pageNumber="153">Liburnia ochrias,</emphasis>
+<bibCitation id="5E103EE8FFDFFFCEFD5DFE338042FDC0" author="Metcalf" box="[675,1587,510,553]" pageId="4" pageNumber="153" pagination="366" part="3" title="Cat. Hemip., Fulgoroidea" type="book" year="1943">
+<author id="5387DE61FFDFFFCEFD5DFE33855EFDC0" box="[675,815,510,553]" pageId="4" pageNumber="153">Metcalf</author>
+, 
+<title id="F93EDDB2FFDFFFCEFCB6FE33837EFDC0" box="[840,1295,510,553]" pageId="4" pageNumber="153">Cat. Hemip., Fulgoroidea</title>
+(
+<part id="FF9E9C19FFDFFFCEFACDFE338336FDC0" box="[1331,1351,510,553]" pageId="4" pageNumber="153" type="issue">3</part>
+): 
+<pagination id="B2F3C870FFDFFFCEFA7EFE3383B1FDC0" box="[1408,1472,510,553]" pageId="4" pageNumber="153" type="pagination">366</pagination>
+, 
+<year id="FF9277D7FFDFFFCEFA25FE33805FFDC0" box="[1499,1582,510,553]" pageId="4" pageNumber="153">1943</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDFFFCEFE9FFDF980E4FD79" pageId="4" pageNumber="153" type="distribution">
+<paragraph id="8B853684FFDFFFCEFE9FFDF980E4FD79" blockId="4.[289,1686,307,808]" pageId="4" pageNumber="153">
+A grass leafhopper, described from 
+<collectingCountry id="F32D7614FFDFFFCEFC10FDF9825EFDB4" box="[1006,1071,564,605]" name="Fiji" pageId="4" pageNumber="153">Fiji</collectingCountry>
+and 
+<collectingCountry id="F32D7614FFDFFFCEFB6CFDF98348FDB4" box="[1170,1337,564,605]" name="Australia" pageId="4" pageNumber="153">Australia</collectingCountry>
+. Also known from 
+<collectingCountry id="F32D7614FFDFFFCEFEDBFDAB87ECFD79" box="[293,413,614,656]" name="Samoa" pageId="4" pageNumber="153">Samoa</collectingCountry>
+, and now recorded from 
+<collectingCountry id="F32D7614FFDFFFCEFC90FDAB85A8FD79" box="[878,985,614,656]" name="Guam" pageId="4" pageNumber="153">Guam</collectingCountry>
+, where it was swept from low grasses.
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDFFFCEFEDAFD54826BFCC1" pageId="4" pageNumber="153" type="materials_examined">
+<paragraph id="8B853684FFDFFFCEFEDAFD54826BFCC1" blockId="4.[289,1686,307,808]" pageId="4" pageNumber="153">
+<materialsCitation id="3B523CD9FFDFFFCEFEDAFD548788FD1D" ID-GBIF-Occurrence="3331825324" collectedFrom="abundant on Sporobolus virginicus on the beach" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="4" pageNumber="153">
+<collectingMunicipality id="6BE1ACFEFFDFFFCEFEDAFD548733FD2B" box="[292,322,665,706]" pageId="4" pageNumber="153">It</collectingMunicipality>
+was very abundant on 
+<taxonomicName id="4C3A4D07FFDFFFCEFD0DFD548206FD2B" box="[755,1143,665,706]" class="Liliopsida" family="Poaceae" genus="Sporobolus" kingdom="Plantae" order="Poales" pageId="4" pageNumber="153" phylum="Tracheophyta" rank="species" species="virginicus">
+<emphasis id="B94EEA96FFDFFFCEFD0DFD548206FD2B" box="[755,1143,665,706]" italics="true" pageId="4" pageNumber="153">
+<location id="8EE5605FFFDFFFCEFD0DFD5485CBFD2B" LSID="urn:lsid:plazi:treatment:03938792FFDFFFCEFEDFFEFE826BFCC1:8EE5605FFFDFFFCEFD0DFD5485CBFD2B" box="[755,954,665,706]" municipality="It" name="Sporobolus" pageId="4" pageNumber="153">Sporobolus</location>
+virginicus
+</emphasis>
+</taxonomicName>
+on the beach at 
+<location id="8EE5605FFFDFFFCEFA52FD548058FD2B" LSID="urn:lsid:plazi:treatment:03938792FFDFFFCEFEDFFEFE826BFCC1:8EE5605FFFDFFFCEFA52FD548058FD2B" box="[1452,1577,665,706]" municipality="It" name="Fadian" pageId="4" pageNumber="153">Fadian</location>
+, 
+<date id="FF841044FFDFFFCEF9BFFD54873EFD1D" pageId="4" pageNumber="153" value="2019-08">
+<collectingDate id="EFC0E9ACFFDFFFCEF9BFFD54873EFD1D" pageId="4" pageNumber="153" value="2019-08">Aug. 19</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDFFFCEFE93FD018785FD1D" box="[365,500,716,756]" pageId="4" pageNumber="153">Swezey</collectorName>
+.
+</materialsCitation>
+A 
+<materialsCitation id="3B523CD9FFDFFFCEFDB0FD0187C1FCC1" ID-GBIF-Occurrence="3914035342" collectedFrom="a few were collected also on grass by the roadside " collectingDate="1936-05-23" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="153">
+few were collected also on grass by the roadside near 
+<location id="8EE5605FFFDFFFCEF9B2FD0180FFFD1D" LSID="urn:lsid:plazi:treatment:03938792FFDFFFCEFEDFFEFE826BFCC1:8EE5605FFFDFFFCEF9B2FD0180FFFD1D" box="[1612,1678,716,756]" name="Piti" pageId="4" pageNumber="153">Piti</location>
+, 
+<date id="FF841044FFDFFFCEFEDBFD3087C1FCC1" box="[293,432,765,808]" pageId="4" pageNumber="153" value="1923-05">
+<collectingDate id="EFC0E9ACFFDFFFCEFEDBFD3087C1FCC1" box="[293,432,765,808]" pageId="4" pageNumber="153" value="1923-05">May 23</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDFFFCEFE38FD308264FCC1" ID-GBIF-Occurrence="3914035357" box="[454,1045,765,808]" collectedFrom="a few were collected also on grass by the roadside " collectingDate="1936-05-03" collectorName="O. H. Swezey" country="Guam" location="Mount Tenjo" pageId="4" pageNumber="153">
+and 
+<location id="8EE5605FFFDFFFCEFDE4FD3084ABFCC1" LSID="urn:lsid:plazi:treatment:03938792FFDFFFCEFEDFFEFE826BFCC1:8EE5605FFFDFFFCEFDE4FD3084ABFCC1" box="[538,730,765,808]" name="Mt. Tenjo" pageId="4" pageNumber="153">Mt. Tenjo</location>
+, 
+<date id="FF841044FFDFFFCEFD09FD308501FCC1" box="[759,880,765,808]" pageId="4" pageNumber="153">
+<collectingDate id="EFC0E9ACFFDFFFCEFD09FD308501FCC1" box="[759,880,765,808]" pageId="4" pageNumber="153">May 3</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDFFFCEFC71FD308264FCC1" box="[911,1045,765,808]" pageId="4" pageNumber="153">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

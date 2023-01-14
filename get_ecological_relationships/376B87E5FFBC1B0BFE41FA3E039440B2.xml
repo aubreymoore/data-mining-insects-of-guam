@@ -1,0 +1,110 @@
+<document id="861C885DB15873071173BAA2FB4E4F35" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBC1B0BFE41FA3E039440B2" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Espeson crenicollis Fauvel" docType="treatment" docVersion="20" lastPageNumber="152" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="152" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="EE32F7B28A1A7B653D87B53919D6DBB2" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="791B77DCBDA285F98B6B6D5E1E2B25FD">
+<mods:title id="93209513714050DCAA247DB8E88AE228">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="22E94F7F2F90559097CEE4B097C17501" type="personal">
+<mods:role id="7C3348428883B3789AFBD16B79B3EBDB">
+<mods:roleTerm id="B4C9D289348CB03BC7E41A23E21BCC0C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1E8353C3E342729D1C373C97E529DD72">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="9B0B031CBA49E393128A825853C68E3E">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="78A425BFAD5C90A5ECA884157F9631D8">text</mods:typeOfResource>
+<mods:relatedItem id="89435AA544B501DFDA44D03E3D0427A5" type="host">
+<mods:originInfo id="2FA965D21B4334E08FCDEA9751EFE9F0">
+<mods:dateIssued id="305830575A65D5D1D76F339BFFC9204F">1942</mods:dateIssued>
+<mods:dateOther id="2E865F77BD0E5E4A247587BCA034143D" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="DF79FAC030927973379B8FEC5B7951CA">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="28DC1603FD8DEBEF710ACDF8D869D185">
+<mods:placeTerm id="90FF596C7F8BC54A83056898656BC41F">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A2228F33D66BD00CD6819C5282E3FB59">
+<mods:title id="2424139EA8B60CA919387F77E72DF739">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="5A3C2152024882DD1AE878F40CCBD1A4">
+<mods:extent id="C4AB79239713DC4155D262AB1B939DCA" unit="page">
+<mods:start id="406CD1F135DF0A213CA3D19085ED541C">150</mods:start>
+<mods:end id="C166D22F0340AFDBAE6A66CF037F0E99">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="4DAA1230292F2A54BF3E5E9BAAC62CB7">book chapter</mods:classification>
+<mods:identifier id="52A2CB530401D44C5AA1CA7FCB7DF14A" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="E76465A179A3969A22F00653D3DD5006" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="11730A891451EA9A57490025FB0FEB9D" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBC1B0BFE41FA3E039440B2" ID-DOI="http://doi.org/10.5281/zenodo.5211593" ID-GBIF-Taxon="184415237" ID-Zenodo-Dep="5211593" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE41FA3E039440B2" httpUri="http://treatment.plazi.org/id/376B87E5FFBC1B0BFE41FA3E039440B2" lastPageNumber="152" pageId="2" pageNumber="152">
+<subSubSection id="F7D86578FFBC1B0BFE41FA3E04DE4381" box="[411,984,1419,1463]" pageId="2" pageNumber="152" type="nomenclature">
+<paragraph id="BF7D36F3FFBC1B0BFE41FA3E04DE4381" blockId="2.[411,1805,1419,1668]" box="[411,984,1419,1463]" pageId="2" pageNumber="152">
+<emphasis id="8DB6EAE1FFBC1B0BFE41FA3E06BE4381" bold="true" box="[411,440,1419,1463]" pageId="2" pageNumber="152">2.</emphasis>
+<taxonomicName id="78C24D70FFBC1B0BFE01FA3E04D74381" authority="Fauvel" authorityName="Fauvel" box="[475,977,1419,1463]" class="Insecta" family="Staphylinidae" genus="Espeson" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="152" phylum="Arthropoda" rank="species" species="crenicollis">
+<emphasis id="8DB6EAE1FFBC1B0BFE01FA3E043D4381" bold="true" box="[475,827,1419,1463]" pageId="2" pageNumber="152">Espeson crenicollis</emphasis>
+Fauvel
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFC34FA3E045943DC" pageId="2" pageNumber="152" type="reference_group">
+<paragraph id="BF7D36F3FFBC1B0BFC34FA3E045943DC" blockId="2.[411,1805,1419,1668]" pageId="2" pageNumber="152">
+<bibCitation id="6AE83E9FFFBC1B0BFC34FA3E045943DC" author="Fauvel" journalOrPublisher="Mus. civ. stor. nat. Genova, Ann." pageId="2" pageNumber="152" pagination="196" part="12" refId="ref1151" type="journal volume" year="1878">
+<treatmentCitationGroup id="9FD211DDFFBC1B0BFC34FA3E045C43DC" pageId="2" pageNumber="152">
+<treatmentCitation id="3E6310E2FFBC1B0BFC34FA3E045C43DC" author="Fauvel" page="196" pageId="2" pageNumber="152" year="1878">
+<journalOrPublisher id="65033C3FFFBC1B0BFC34FA3E016C4381" box="[1006,1642,1419,1463]" pageId="2" pageNumber="152">Mus. civ. stor. nat. Genova, Ann.</journalOrPublisher>
+<emphasis id="8DB6EAE1FFBC1B0BF959FA3E01A14381" bold="true" box="[1667,1703,1419,1463]" pageId="2" pageNumber="152">
+<part id="CB669C6EFFBC1B0BF959FA3E01A54381" box="[1667,1699,1419,1463]" pageId="2" pageNumber="152" type="volume">12</part>
+:
+</emphasis>
+<pagination id="860BC807FFBC1B0BF910FA3E00014381" box="[1738,1799,1419,1463]" pageId="2" pageNumber="152" type="pageRange">196</pagination>
+, pl. 
+<part id="CB669C6EFFBC1B0BFD8EFA75056343DC" box="[596,613,1472,1514]" pageId="2" pageNumber="152" type="volume">1</part>
+, fig. 16, 
+<year id="CB6A77A0FFBC1B0BFCD3FA75045C43DC" box="[777,858,1472,1514]" pageId="2" pageNumber="152">1878</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFE03FA46043F4066" pageId="2" pageNumber="152" type="materials_examined">
+<paragraph id="BF7D36F3FFBC1B0BFE03FA46043F4066" blockId="2.[411,1805,1419,1668]" pageId="2" pageNumber="152">
+<materialsCitation id="0FAA3CAEFFBC1B0BFE03FA4601264028" ID-GBIF-Occurrence="3334692601" box="[473,1568,1523,1566]" collectedFrom="ex rotten Pandanus trunk" collectingDate="1936-05-04" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Agana" pageId="2" pageNumber="152">
+<collectingMunicipality id="5F19AC89FFBC1B0BFE03FA4605494028" box="[473,591,1523,1566]" pageId="2" pageNumber="152">Agana</collectingMunicipality>
+, 
+<date id="CB7C1033FFBC1B0BFDB2FA4605D84028" box="[616,734,1523,1566]" pageId="2" pageNumber="152">
+<collectingDate id="DB38E9DBFFBC1B0BFDB2FA4605D84028" box="[616,734,1523,1566]" pageId="2" pageNumber="152">May 4</collectingDate>
+</date>
+, 
+<specimenCount id="A9C4FD7AFFBC1B0BFD2DFA4604274028" box="[759,801,1523,1566]" pageId="2" pageNumber="152" type="generic">ex</specimenCount>
+rotten 
+<taxonomicName id="78C24D70FFBC1B0BFC7DFA4603504028" authorityName=", Swezey" box="[935,1110,1523,1566]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="2" pageNumber="152" phylum="Tracheophyta" rank="genus">
+<emphasis id="8DB6EAE1FFBC1B0BFC7DFA4603504028" box="[935,1110,1523,1566]" italics="true" pageId="2" pageNumber="152">
+<location id="BA1D6028FFBC1B0BFC7DFA4603504028" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE41FA3E039440B2:BA1D6028FFBC1B0BFC7DFA4603504028" box="[935,1110,1523,1566]" municipality="Agana" name="Pandanus" pageId="2" pageNumber="152">Pandanus</location>
+</emphasis>
+</taxonomicName>
+trunk, 
+<collectorName id="12375325FFBC1B0BFB3EFA46026C4028" box="[1252,1386,1523,1566]" pageId="2" pageNumber="152">Swezey</collectorName>
+, 
+<collectorName id="12375325FFBC1B0BFA58FA46011F4028" box="[1410,1561,1523,1566]" pageId="2" pageNumber="152">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBC1B0BF9E9FA46043F4066" ID-GBIF-Occurrence="3334692561" collectingDate="1936-06-03" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="2" pageNumber="152" specimenCount="13">
+<location id="BA1D6028FFBC1B0BF9E9FA4601724028" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE41FA3E039440B2:BA1D6028FFBC1B0BF9E9FA4601724028" box="[1587,1652,1523,1566]" name="Piti" pageId="2" pageNumber="152">Piti</location>
+, 
+<date id="CB7C1033FFBC1B0BF957FA4600004028" box="[1677,1798,1523,1566]" pageId="2" pageNumber="152">
+<collectingDate id="DB38E9DBFFBC1B0BF957FA4600004028" box="[1677,1798,1523,1566]" pageId="2" pageNumber="152">June 3</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFBC1B0BFE41F99205374066" box="[411,561,1575,1616]" pageId="2" pageNumber="152">Usinger</collectorName>
+; 
+<specimenCount id="A9C4FD7AFFBC1B0BFD97F99204324066" box="[589,820,1575,1616]" pageId="2" pageNumber="152" type="generic">13 specimens</specimenCount>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFE00F9EF039440B2" box="[474,1170,1626,1668]" pageId="2" pageNumber="152" type="discussion">
+<paragraph id="BF7D36F3FFBC1B0BFE00F9EF039440B2" blockId="2.[411,1805,1419,1668]" box="[474,1170,1626,1668]" pageId="2" pageNumber="152">Described from Key Island and Gilolo.</paragraph>
+</subSubSection>
+</treatment>
+</document>

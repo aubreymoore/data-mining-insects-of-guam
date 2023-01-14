@@ -1,0 +1,125 @@
+<document id="6A5AD777E7237103EDDADD02FAA65EA9" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBC1B0BFE4DF73A03404FDA" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Phloeonomus singularis" docType="treatment" docVersion="17" lastPageNumber="152" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="152" updateTime="1671336034494" updateUser="annettekang">
+<mods:mods id="F222B25383048F40959B3626BC59A2C9" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CBDE400C8AFF21D19470A6C0D0F669E0">
+<mods:title id="CC35BE42361C1B55EEEC5774E5E1810B">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="5AE4E3B83AF77A4A9B19D4AFE0DFF50B" type="personal">
+<mods:role id="CCADE0523059A099B3444D480EEC8216">
+<mods:roleTerm id="6DA777B03F16C52DD000155636C1FDDB">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2D206DE3602604A62A926252472C4756">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="1E5E32F30E286D6C4F58FEDF897E5366">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="4BEED73345CCE2B5D5DB65D838B2204F">text</mods:typeOfResource>
+<mods:relatedItem id="AD64D798ECBDD936CAA14D711E08B588" type="host">
+<mods:originInfo id="69AA3E963B1CBFA534EF2C995C3ED894">
+<mods:dateIssued id="F23CEB318FAA5C36690DADE0E2ABCAB5">1942</mods:dateIssued>
+<mods:dateOther id="EDFD8D452B1287B6A5C3548A19CB36BA" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="5C7D0B3FAB187604D212D1AC3B217144">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="D4DC92BAC2822AEE0E72A85B6E655133">
+<mods:placeTerm id="45A18AC0970ED1CB3312C95D366C3124">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="2530FBA662C86D4142DBBFE0F0431E25">
+<mods:title id="94B9C5C67286BC255138E22B276AD312">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="91D22D7A5F793F5F56EABA424A22E337">
+<mods:extent id="F501D8306DFD042BF86783FDD93B6237" unit="page">
+<mods:start id="A5FC537D501F35424E812F0686E66A49">150</mods:start>
+<mods:end id="205FA46A26917CB0585ECCBBD85D1D44">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="1E142A837EF1EF65DC05B2EFC67E2028">book chapter</mods:classification>
+<mods:identifier id="FEC0574C3A9F92C120F3E5F989971BFA" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="4DDB582EBD938BB81E928DA9350F8234" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="9B5AD60280E0AE476E7A51EC07A2AE28" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBC1B0BFE4DF73A03404FDA" ID-DOI="http://doi.org/10.5281/zenodo.5180778" ID-GBIF-Taxon="184415243" ID-Zenodo-Dep="5180778" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE4DF73A03404FDA" httpUri="http://treatment.plazi.org/id/376B87E5FFBC1B0BFE4DF73A03404FDA" lastPageNumber="152" pageId="2" pageNumber="152">
+<subSubSection id="F7D86578FFBC1B0BFE4DF73A02364E8F" box="[407,1328,2191,2233]" pageId="2" pageNumber="152" type="nomenclature">
+<paragraph id="BF7D36F3FFBC1B0BFE4DF73A02364E8F" blockId="2.[407,1803,2191,2540]" box="[407,1328,2191,2233]" pageId="2" pageNumber="152">
+<heading id="E435819FFFBC1B0BFE4DF73A02364E8F" box="[407,1328,2191,2233]" fontSize="11" level="2" pageId="2" pageNumber="152" reason="2">
+<emphasis id="8DB6EAE1FFBC1B0BFE4DF73A06B34E8F" bold="true" box="[407,437,2191,2233]" pageId="2" pageNumber="152">4.</emphasis>
+<taxonomicName id="78C24D70FFBC1B0BFE0EF73A03474E8F" authority="(Kraatz)" baseAuthorityName="Kraatz" box="[468,1089,2191,2233]" class="Insecta" family="Staphylinidae" genus="Phloeonomus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="152" phylum="Arthropoda" rank="species" species="singularis">
+<emphasis id="8DB6EAE1FFBC1B0BFE0EF73A048F4E8F" bold="true" box="[468,905,2191,2233]" pageId="2" pageNumber="152">Phloeonomus singularis</emphasis>
+(Kraatz)
+</taxonomicName>
+, variety (?).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFE0DF77704754F62" pageId="2" pageNumber="152" type="reference_group">
+<paragraph id="BF7D36F3FFBC1B0BFE0DF77701AE4EDA" blockId="2.[407,1803,2191,2540]" box="[471,1704,2242,2284]" pageId="2" pageNumber="152">
+<treatmentCitationGroup id="9FD211DDFFBC1B0BFE0DF77701AE4EDA" box="[471,1704,2242,2284]" pageId="2" pageNumber="152">
+<treatmentCitation id="3E6310E2FFBC1B0BFE0DF77701AE4EDA" author="Kraatz" box="[471,1704,2242,2284]" page="181" pageId="2" pageNumber="152" year="1859">
+<bibCitation id="6AE83E9FFFBC1B0BFE0DF77701AE4EDA" author="Kraatz" box="[471,1704,2242,2284]" journalOrPublisher="Arch. Naturgesch." pageId="2" pageNumber="152" pagination="181" part="25" refId="ref1359" type="journal article" year="1859">
+<emphasis id="8DB6EAE1FFBC1B0BFE0DF77704724EDA" box="[471,884,2242,2284]" italics="true" pageId="2" pageNumber="152">Phloeonomus singulare</emphasis>
+<author id="677FDE16FFBC1B0BFC5CF77703044EDA" box="[902,1026,2242,2284]" pageId="2" pageNumber="152">Kraatz</author>
+, 
+<journalOrPublisher id="65033C3FFFBC1B0BFBC1F77702644EDA" box="[1051,1378,2242,2284]" pageId="2" pageNumber="152">Arch. Naturgesch.</journalOrPublisher>
+<emphasis id="8DB6EAE1FFBC1B0BFAAEF77702D34EDA" bold="true" box="[1396,1493,2242,2284]" pageId="2" pageNumber="152">
+<part id="CB669C6EFFBC1B0BFAAEF77702A34EDA" box="[1396,1445,2242,2284]" pageId="2" pageNumber="152" type="volume">25</part>
+(
+<part id="CB669C6EFFBC1B0BFA68F77702C74EDA" box="[1458,1473,2242,2284]" pageId="2" pageNumber="152" type="issue">1</part>
+):
+</emphasis>
+<pagination id="860BC807FFBC1B0BFA21F77701314EDA" box="[1531,1591,2242,2284]" pageId="2" pageNumber="152" type="pageRange">181</pagination>
+, 
+<year id="CB6A77A0FFBC1B0BF98BF77701A54EDA" box="[1617,1699,2242,2284]" pageId="2" pageNumber="152">1859</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFBC1B0BFE0CF74304754F62" blockId="2.[407,1803,2191,2540]" pageId="2" pageNumber="152">
+<treatmentCitationGroup id="9FD211DDFFBC1B0BFE0CF74304754F62" pageId="2" pageNumber="152">
+<treatmentCitation id="3E6310E2FFBC1B0BFE0CF74304754F62" author="Bernhauer and Schubert" page="59" pageId="2" pageNumber="152" year="1910">
+<bibCitation id="6AE83E9FFFBC1B0BFE0CF74304754F62" author="Bernhauer &amp; Schubert" pageId="2" pageNumber="152" pagination="59" part="19" refId="ref1376" title="Coleopt. Catalog." type="book" year="1910">
+<emphasis id="8DB6EAE1FFBC1B0BFE0CF74304754F29" box="[470,883,2294,2335]" italics="true" pageId="2" pageNumber="152">Phloeonomus singulare</emphasis>
+(Kraatz) 
+<author id="677FDE16FFBC1B0BFBE4F74302F34F29" box="[1086,1525,2294,2335]" pageId="2" pageNumber="152">Bernhauer and Schubert</author>
+, 
+<title id="CDC6DDC5FFBC1B0BF9D4F74305544F62" pageId="2" pageNumber="152">Coleopt. Catalog.</title>
+(
+<part id="CB669C6EFFBC1B0BFDAFF69C05A64F62" box="[629,672,2345,2388]" pageId="2" pageNumber="152" type="issue">19</part>
+): 
+<pagination id="860BC807FFBC1B0BFD03F69C04054F62" box="[729,771,2345,2388]" pageId="2" pageNumber="152" type="pageRange">59</pagination>
+, 
+<year id="CB6A77A0FFBC1B0BFCC6F69C04684F62" box="[796,878,2345,2388]" pageId="2" pageNumber="152">1910</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFE03F6E803EC4FB3" box="[473,1258,2397,2437]" pageId="2" pageNumber="152" type="materials_examined">
+<paragraph id="BF7D36F3FFBC1B0BFE03F6E803EC4FB3" blockId="2.[407,1803,2191,2540]" box="[473,1258,2397,2437]" pageId="2" pageNumber="152">
+<materialsCitation id="0FAA3CAEFFBC1B0BFE03F6E803EC4FB3" ID-GBIF-Occurrence="3334692441" box="[473,1258,2397,2437]" collectedFrom="from Pandanus" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="2" pageNumber="152">
+<location id="BA1D6028FFBC1B0BFE03F6E805884FB3" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE4DF73A03404FDA:BA1D6028FFBC1B0BFE03F6E805884FB3" box="[473,654,2397,2437]" name="Machanao" pageId="2" pageNumber="152">Machanao</location>
+, 
+<date id="CB7C1033FFBC1B0BFD7EF6E8041A4FB3" box="[676,796,2397,2437]" pageId="2" pageNumber="152">
+<collectingDate id="DB38E9DBFFBC1B0BFD7EF6E8041A4FB3" box="[676,796,2397,2437]" pageId="2" pageNumber="152">June 4</collectingDate>
+</date>
+, from 
+<taxonomicName id="78C24D70FFBC1B0BFC4CF6E8034B4FB3" authority="," authorityName=", Swezey" box="[918,1101,2397,2437]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="2" pageNumber="152" phylum="Tracheophyta" rank="genus">
+<emphasis id="8DB6EAE1FFBC1B0BFC4CF6E8034B4FB3" box="[918,1101,2397,2437]" italics="true" pageId="2" pageNumber="152">
+<location id="BA1D6028FFBC1B0BFC4CF6E803404FB3" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE4DF73A03404FDA:BA1D6028FFBC1B0BFC4CF6E803404FB3" box="[918,1094,2397,2437]" name="Pandanus" pageId="2" pageNumber="152">Pandanus</location>
+,
+</emphasis>
+</taxonomicName>
+<collectorName id="12375325FFBC1B0BFB85F6E803E34FB3" box="[1119,1253,2397,2437]" pageId="2" pageNumber="152">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFE02F63B03404FDA" pageId="2" pageNumber="152" type="discussion">
+<paragraph id="BF7D36F3FFBC1B0BFE02F63B03404FDA" blockId="2.[407,1803,2191,2540]" pageId="2" pageNumber="152">
+The species was described from 
+<collectingCountry id="C7D57663FFBC1B0BFBC3F63B03924F8C" box="[1049,1172,2446,2490]" name="Sri Lanka" pageId="2" pageNumber="152">Ceylon</collectingCountry>
+. The single specimen I collected in 
+<collectingCountry id="C7D57663FFBC1B0BFE42F67105064FDA" box="[408,512,2500,2540]" name="Guam" pageId="2" pageNumber="152">Guam</collectingCountry>
+is labelled by Bernhauer &quot;var.?&quot;.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

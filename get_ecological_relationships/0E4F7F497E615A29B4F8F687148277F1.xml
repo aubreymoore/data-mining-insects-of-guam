@@ -1,0 +1,126 @@
+<document id="F04FC484F4C2FA8F2880E2CDDDCF1D53" ID-DOI="http://doi.org/10.5281/zenodo.5160270" ID-GBIF-Dataset="6dc2872d-cbab-4982-baed-c0969e3e3236" ID-Zenodo-Dep="5160270" checkinTime="1628013042203" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="0E4F7F497E615A29B4F8F687148277F1" docLanguage="en" docName="InsectsOfGuamI.172.175-183.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Tapinoma indicum Forel" docType="treatment" docVersion="18" lastPageNumber="180" masterDocId="F27607317E645A2FB552FF8416577654" masterDocTitle="Hymenoptera Formicidae of Guam" masterLastPageNumber="183" masterPageNumber="175" pageNumber="180" updateTime="1657826854609" updateUser="ExternalLinkService">
+<mods:mods id="F4763FD99D72401F519D5324F142E85A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="065E2C0E24777F6CC4A6F877EE575E2F">
+<mods:title id="E7E13AC58B3CDADA7060760D27B6EBAA">Hymenoptera Formicidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="E3420C458F0AF9C57998B62834014C7C" type="personal">
+<mods:role id="701A0D3A3B3566353A037A41EAD8F760">
+<mods:roleTerm id="02A1D40873B0F9DDF92E9F3333CBB5B7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="CEC42F378BC2100F0E09957FF5329BE9">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="44BCFDCEF2E48B7F97E3A9178B0344EC">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="511779958009FFE345EDF755500848BB">text</mods:typeOfResource>
+<mods:relatedItem id="F664D299E9C778DDB48F5D07EE1862B0" type="host">
+<mods:originInfo id="AAF6DA71883D68B3C02439C15C36A1FA">
+<mods:dateIssued id="01720513939642C3CCEFA0DCABBC4BB1">1942</mods:dateIssued>
+<mods:dateOther id="870D3445B08A26C16C5F73C307E9CB34" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="6EC799E9C24BCB1CF7E8EC87957F2ADB">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="94EF7CBDA7A78625B21552DD324A142C">
+<mods:placeTerm id="A2CCD250BF64EED0BE91F0EA6EBD4410">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9E387036CE0F0F2ECA4EE0937DFDB4C0">
+<mods:title id="FD780DC825C98BF08D06F53042FC7C70">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="6BB76EFABED5759B65B9D8D3139284DA">
+<mods:extent id="C6DAD80D45D8B13A33F56F8F44A6CD3E" unit="page">
+<mods:start id="839B592D032807AB37F7B65A14D3DD7D">175</mods:start>
+<mods:end id="9125983DE494F3EF33F89E8B152B6E51">183</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="099D7E68E17439FA413CDA07C1F30FE1">book chapter</mods:classification>
+<mods:identifier id="7945963166FE28FFCBAF279D9785C51D" type="DOI">http://doi.org/10.5281/zenodo.5160270</mods:identifier>
+<mods:identifier id="4A3AF61579262D37EF27722591AB1FA8" type="GBIF-Dataset">6dc2872d-cbab-4982-baed-c0969e3e3236</mods:identifier>
+<mods:identifier id="EEF04B0DBA86FE88019E005EAE25654B" type="Zenodo-Dep">5160270</mods:identifier>
+</mods:mods>
+<treatment id="0E4F7F497E615A29B4F8F687148277F1" ID-DOI="http://doi.org/10.5281/zenodo.5211713" ID-GBIF-Taxon="184416212" ID-Zenodo-Dep="5211713" LSID="urn:lsid:plazi:treatment:0E4F7F497E615A29B4F8F687148277F1" httpUri="http://treatment.plazi.org/id/0E4F7F497E615A29B4F8F687148277F1" lastPageId="6" lastPageNumber="180" pageId="5" pageNumber="180">
+<subSubSection id="CEFC9DD47E615A2AB4F8F68715BB7F7A" box="[426,1004,2307,2350]" pageId="5" pageNumber="180" type="nomenclature">
+<paragraph id="8659CE5F7E615A2AB4F8F68715BB7F7A" blockId="5.[426,1822,2307,2556]" box="[426,1004,2307,2350]" pageId="5" pageNumber="180">
+<heading id="DD1179337E615A2AB4F8F68715BB7F7A" box="[426,1004,2307,2350]" centered="true" fontSize="8" level="2" pageId="5" pageNumber="180" reason="4">
+<emphasis id="B492124D7E615A2AB4F8F68717A67F7A" bold="true" box="[426,497,2307,2350]" pageId="5" pageNumber="180">22a.</emphasis>
+<taxonomicName id="41E6B5DC7E615A2AB741F68715B27F7A" authority="Forel" box="[531,997,2307,2350]" class="Insecta" family="Formicidae" genus="Tapinoma" kingdom="Animalia" order="Hymenoptera" pageId="5" pageNumber="180" phylum="Arthropoda" rank="species" species="indicum">
+<emphasis id="B492124D7E615A2AB741F68715387F7A" bold="true" box="[531,879,2307,2350]" pageId="5" pageNumber="180">Tapinoma indicum</emphasis>
+Forel
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E615A2AB150F68713677F36" pageId="5" pageNumber="180" type="reference_group">
+<paragraph id="8659CE5F7E615A2AB150F68713677F36" blockId="5.[426,1822,2307,2556]" pageId="5" pageNumber="180">
+<treatmentCitationGroup id="A6F6E9717E615A2AB150F687114A7F7A" box="[1026,1821,2307,2350]" pageId="5" pageNumber="180">
+<treatmentCitation id="0747E84E7E615A2AB150F687114A7F7A" author="Forel" box="[1026,1821,2307,2350]" page="472" pageId="5" pageNumber="180" year="1895">
+<bibCitation id="53CCC6337E615A2AB150F687114A7F7A" author="Forel" box="[1026,1821,2307,2350]" journalOrPublisher="Bomb. Nat. Hist. Soc., Jour." pageId="5" pageNumber="180" pagination="472" part="9" refId="ref3341" type="journal article" year="1895">
+<journalOrPublisher id="5C27C4937E615A2AB150F687104E7F7A" box="[1026,1561,2307,2350]" pageId="5" pageNumber="180">Bomb. Nat. Hist. Soc., Jour.</journalOrPublisher>
+<emphasis id="B492124D7E615A2AB37CF68710167F7A" bold="true" box="[1582,1601,2307,2350]" pageId="5" pageNumber="180">
+<part id="F24264C27E615A2AB37CF687106A7F7A" box="[1582,1597,2307,2350]" pageId="5" pageNumber="180" type="volume">9</part>
+:
+</emphasis>
+<pagination id="BF2F30AB7E615A2AB30DF68710F77F7A" box="[1631,1696,2307,2350]" pageId="5" pageNumber="180" type="pagination">472</pagination>
+, 
+<year id="F24E8F0C7E615A2AB3EFF687115D7F7A" box="[1725,1802,2307,2350]" pageId="5" pageNumber="180">1895</year>
+;
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+<treatmentCitation id="0747E84E7E615A2AB4B8F6B213677F36" author="Bingham" box="[490,1328,2358,2402]" page="304" pageId="5" pageNumber="180" year="1903">
+<bibCitation id="53CCC6337E615A2AB4B8F6B213677F36" author="Bingham" box="[490,1328,2358,2402]" pageId="5" pageNumber="180" pagination="304," part="2" refId="ref3358" title="FaunaBr. India" type="book" year="1903">
+<author id="5E5B26BA7E615A2AB4B8F6B214FF7F36" box="[490,680,2358,2402]" pageId="5" pageNumber="180">Bingham</author>
+, 
+<title id="F4E225697E615A2AB7E2F6B215817F36" box="[688,982,2358,2402]" pageId="5" pageNumber="180">
+FaunaBr. 
+<collectingCountry id="FEF18ECF7E615A2AB638F6B215817F36" box="[874,982,2358,2402]" name="India" pageId="5" pageNumber="180">India</collectingCountry>
+</title>
+,Hym. 
+<part id="F24264C27E615A2AB119F6B212347F36" box="[1099,1123,2358,2402]" pageId="5" pageNumber="180" type="volume">2</part>
+: 
+<pagination id="BF2F30AB7E615A2AB1DAF6B212817F36" box="[1160,1238,2358,2402]" pageId="5" pageNumber="180" type="pageRange">304,</pagination>
+<year id="F24E8F0C7E615A2AB184F6B2137C7F36" box="[1238,1323,2358,2402]" pageId="5" pageNumber="180">1903</year>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E615A29B4BEF6EF148277F1" lastPageId="6" lastPageNumber="181" pageId="5" pageNumber="180" type="discussion">
+<paragraph id="8659CE5F7E615A29B4BEF6EF148277F1" blockId="5.[426,1822,2307,2556]" lastBlockId="6.[325,1717,328,421]" lastPageId="6" lastPageNumber="181" pageId="5" pageNumber="180">
+What appears to be this species was obtained in a few places. It is of a uniformly brownish color, with shorter antennae than the preceding species. It occurs in 
+<collectingCountry id="FEF18ECF7E615A2AB709F65614E07FA8" box="[603,695,2514,2556]" name="India" pageId="5" pageNumber="180">India</collectingCountry>
+and New Britain. Our 
+<collectingCountry id="FEF18ECF7E615A2AB13DF656128F7FA8" box="[1135,1240,2514,2556]" name="Guam" pageId="5" pageNumber="180">Guam</collectingCountry>
+specimens are from 
+<materialsCitation id="368EC4027E615A29B307F65614A97726" ID-GBIF-Occurrence="3862685326" collectingDate="1936-05-19" collectorName="O. H. Swezey" country="Guam" lastPageId="6" lastPageNumber="181" location="Santa Rosa Peak" pageId="5" pageNumber="180">
+<collectingMunicipality id="663D54257E615A29B307F65617C87726" lastPageId="6" lastPageNumber="181" pageId="5" pageNumber="180">Santa Rosa Peak</collectingMunicipality>
+, 
+<date id="F258E89F7E625A29B4EDFECC14057726" box="[447,594,328,370]" pageId="6" pageNumber="181" value="2019-05">
+<collectingDate id="E21C11777E625A29B4EDFECC14057726" box="[447,594,328,370]" pageId="6" pageNumber="181" value="2019-05">May 19</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E625A29B720FECC14A97726" box="[626,766,328,370]" pageId="6" pageNumber="181">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="368EC4027E625A29B672FECC10627726" ID-GBIF-Occurrence="3862685396" box="[800,1589,328,370]" collectedFrom="on sugar-cane leaf" collectingDate="1936-07-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="181">
+<location id="833998847E625A29B672FECC15357726" LSID="urn:lsid:plazi:treatment:0E4F7F497E615A29B4F8F687148277F1:833998847E625A29B672FECC15357726" box="[800,866,328,370]" name="Piti" pageId="6" pageNumber="181">Piti</location>
+, 
+<date id="F258E89F7E625A29B6D0FECC12477726" box="[898,1040,328,370]" pageId="6" pageNumber="181" value="1930-07">
+<collectingDate id="E21C11777E625A29B6D0FECC12477726" box="[898,1040,328,370]" pageId="6" pageNumber="181" value="1930-07">July 30</collectingDate>
+</date>
+, on sugar-cane leaf, 
+<collectorName id="2B13AB897E625A29B0FBFECC10627726" box="[1449,1589,328,370]" pageId="6" pageNumber="181">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="368EC4027E625A29B307FECC148777F1" ID-GBIF-Occurrence="3862685402" collectingDate="1936-11-13" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="6" pageNumber="181">
+<location id="833998847E625A29B307FECC10F97726" LSID="urn:lsid:plazi:treatment:0E4F7F497E615A29B4F8F687148277F1:833998847E625A29B307FECC10F97726" box="[1621,1710,328,370]" name="Yigo" pageId="6" pageNumber="181">Yigo</location>
+, 
+<date id="F258E89F7E625A29B414FEFF146477F1" box="[326,563,379,421]" pageId="6" pageNumber="181" value="2013-11">
+<collectingDate id="E21C11777E625A29B414FEFF146477F1" box="[326,563,379,421]" pageId="6" pageNumber="181" value="2013-11">November 13</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E625A29B719FEFF148777F1" box="[587,720,379,421]" pageId="6" pageNumber="181">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

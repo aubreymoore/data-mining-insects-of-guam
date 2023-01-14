@@ -1,0 +1,80 @@
+<document id="0859615DB9910C4CE86C28233B252800" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF88FFE6E41EFB118B88FACE" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Spalangia cameroni Perkins" docType="treatment" docVersion="17" lastPageNumber="213" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="213" updateTime="1663098421291" updateUser="ExternalLinkService">
+<mods:mods id="7A4832729908DA84FC414B4EBB36E2C2" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="85708412668B40B3728FB372BF3C33CF">
+<mods:title id="47B115A8D0038C158B837FD11F2A20DA">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="76C0D6FC49D00B3611506D3B2D3D2ED0" type="personal">
+<mods:role id="C678CFAB7866C0BC268BA6DB9ABE0223">
+<mods:roleTerm id="873BFACB13C2C8AB4FEE53D9B641C275">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D61D65E0B5988C54DA2DB99F6064A785">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="988FDD8D7D4D6E6E60DF39BEF24D3686">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="25A395A9F73B8E15279B89D1B76AC01E">text</mods:typeOfResource>
+<mods:relatedItem id="EF4485A83EC29C992AC442D38A37A0C1" type="host">
+<mods:originInfo id="B5E7A579E520877549BA4CC19A0A9E33">
+<mods:dateIssued id="D190D24AC123E4C7B058BA8C5E287E4E">1946</mods:dateIssued>
+<mods:dateOther id="E33DE5DD6E20A61AB1F761A740A39C6D" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="D1FB764DEAC992739C6BD7B499C9D409">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="4F52C77D7AD26DDCA5A088282B17906D">
+<mods:placeTerm id="3EBCB28DA87181E6FADA42E3670F329C">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="4450AB0905306FE224BFFC0B794947B1">
+<mods:title id="6EE494B313ABD2BE679474B530AF3B73">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="6A44D01F96163BD083802B24A3C14BD0">
+<mods:extent id="E646BF7757B583003C9840A9A5358380" unit="page">
+<mods:start id="E7D1082869A938085F14FA70E5756B09">211</mods:start>
+<mods:end id="89280150B5AD3FCB87FE21BDEBB8F0D3">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="47171221BBA74DFED71CCF6BE7B6C223">book chapter</mods:classification>
+<mods:identifier id="58B33E9E4935F892D3051DB7BB41F008" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="B7F0C45FFC9097A63494D294813D44A9" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="712B74436E6D01F20321542845C41E84" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF88FFE6E41EFB118B88FACE" ID-DOI="http://doi.org/10.5281/zenodo.5188075" ID-GBIF-Taxon="187737474" ID-Zenodo-Dep="5188075" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE6E41EFB118B88FACE" httpUri="http://treatment.plazi.org/id/7376EC19FF88FFE6E41EFB118B88FACE" lastPageNumber="213" pageId="2" pageNumber="213">
+<subSubSection id="B3C50E84FF88FFE6E41EFB118C23FB3A" box="[285,893,1213,1256]" pageId="2" pageNumber="213" type="nomenclature">
+<paragraph id="FB605D0FFF88FFE6E41EFB118C23FB3A" blockId="2.[285,1564,1213,1308]" box="[285,893,1213,1256]" pageId="2" pageNumber="213">
+<emphasis id="C9AB811DFF88FFE6E41EFB118E13FB3A" bold="true" box="[285,333,1213,1256]" pageId="2" pageNumber="213">15.</emphasis>
+<taxonomicName id="3CDF268CFF88FFE6E46CFB118C28FB3A" authority="Perkings" box="[367,886,1213,1256]" class="Insecta" family="Pteromalidae" genus="Spalangia" kingdom="Animalia" order="Hymenoptera" pageId="2" pageNumber="213" phylum="Arthropoda" rank="species" species="cameroni">
+<emphasis id="C9AB811DFF88FFE6E46CFB118D87FB3A" bold="true" box="[367,729,1213,1256]" pageId="2" pageNumber="213">Spalangia cameroni</emphasis>
+<author id="2362B5EAFF88FFE6E7E9FB118C28FB3A" box="[746,886,1213,1256]" pageId="2" pageNumber="213">Perkins</author>
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF88FFE6E68CFB118942FB35" box="[911,1564,1213,1256]" pageId="2" pageNumber="213" type="reference_group">
+<paragraph id="FB605D0FFF88FFE6E68CFB118942FB35" blockId="2.[285,1564,1213,1308]" box="[911,1564,1213,1256]" pageId="2" pageNumber="213">
+<treatmentCitationGroup id="DBCF7A21FF88FFE6E68CFB118942FB35" box="[911,1564,1213,1256]" pageId="2" pageNumber="213">
+<treatmentCitation id="7A7E7B1EFF88FFE6E68CFB118942FB35" author="Perkins" box="[911,1564,1213,1256]" page="656" pageId="2" pageNumber="213" year="1910">
+<bibCitation id="2EF55563FF88FFE6E68CFB118942FB35" author="Perkins" box="[911,1564,1213,1256]" journalOrPublisher="Fauna Hawaiiensis" pageId="2" pageNumber="213" pagination="656" part="2" refId="ref1038" type="journal article" year="1910">
+<journalOrPublisher id="211E57C3FF88FFE6E68CFB118BB2FB3A" box="[911,1260,1213,1256]" pageId="2" pageNumber="213">Fauna Hawaiiensis</journalOrPublisher>
+<part id="8F7BF792FF88FFE6E1F8FB118A4CFB3A" box="[1275,1298,1213,1256]" pageId="2" pageNumber="213" type="volume">2</part>
+(
+<part id="8F7BF792FF88FFE6E01CFB118A6BFB3A" box="[1311,1333,1213,1256]" pageId="2" pageNumber="213" type="issue">6</part>
+): 
+<pagination id="C216A3FBFF88FFE6E068FB118AF5FB35" box="[1387,1451,1213,1255]" pageId="2" pageNumber="213" type="pageRange">656</pagination>
+, 
+<year id="8F771C5CFF88FFE6E0C7FB118949FB35" box="[1476,1559,1213,1255]" pageId="2" pageNumber="213">1910</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF88FFE6E458FB5D8B88FACE" box="[347,1238,1265,1308]" pageId="2" pageNumber="213" type="discussion">
+<paragraph id="FB605D0FFF88FFE6E458FB5D8B88FACE" blockId="2.[285,1564,1213,1308]" box="[347,1238,1265,1308]" pageId="2" pageNumber="213">
+<materialsCitation id="4BB75752FF88FFE6E458FB5D8B8FFACE" ID-GBIF-Occurrence="3901040308" box="[347,1233,1265,1308]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="2" pageNumber="213">
+<location id="FE000BD4FF88FFE6E458FB5D8D5BFACE" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE6E41EFB118B88FACE:FE000BD4FF88FFE6E458FB5D8D5BFACE" box="[347,517,1265,1308]" name="Recorded" pageId="2" pageNumber="213">Recorded</location>
+by 
+<collectorName id="562A38D9FF88FFE6E757FB5D8DA3FACE" box="[596,765,1265,1308]" pageId="2" pageNumber="213">Fullaway</collectorName>
+from his 1911 collecting
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

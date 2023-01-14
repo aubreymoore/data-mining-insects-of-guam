@@ -1,0 +1,66 @@
+<document id="C8316F137C0693D6A8C908E644BCEB8E" ID-DOI="http://doi.org/10.5281/zenodo.5160270" ID-GBIF-Dataset="6dc2872d-cbab-4982-baed-c0969e3e3236" ID-Zenodo-Dep="5160270" checkinTime="1628013042203" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="0E4F7F497E605A2BB416FC3F10107243" docLanguage="en" docName="InsectsOfGuamI.172.175-183.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pheidole umbonata var. fullawayi Mayr" docType="treatment" docVersion="12" lastPageNumber="179" masterDocId="F27607317E645A2FB552FF8416577654" masterDocTitle="Hymenoptera Formicidae of Guam" masterLastPageNumber="183" masterPageNumber="175" pageNumber="179" updateTime="1657820913249" updateUser="annettekang">
+<mods:mods id="D97D76B6EB995188DCE17F625F0A3339" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="9AB4A4F1FD9E0A2B62CB9D74EBEC7663">
+<mods:title id="5924CE3E9146BE13D450E05823AE9B37">Hymenoptera Formicidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="B5D4670CED3DDD975C811F8B8A547A67" type="personal">
+<mods:role id="9F7C1152DF2D2373E5C0860F269ABBFC">
+<mods:roleTerm id="4E0E9C56E17CDA0A5DF00593D8B9AD82">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="80FC24D5F8D6EBE4F3094C70D87EDD94">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="75A8C337E93310F362B6BA9DF4A20E00">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="87B29C80D868439077B66D06C7863AF6">text</mods:typeOfResource>
+<mods:relatedItem id="31253A1A72816934982D39F1B7AA0B07" type="host">
+<mods:originInfo id="2C94C3B02A61C451D823645F448BF8E4">
+<mods:dateIssued id="CFBF15B83F7655ED5BC9DF88D2C3ED1D">1942</mods:dateIssued>
+<mods:dateOther id="5159B666C772CEC2F56036E8E49ACB58" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="90E25A1719611118D2BC92806E50ABBD">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="23DAFF829D828DA3BED7DA35BFE81689">
+<mods:placeTerm id="DFA8AB3533C4F6FBF3DFAE7F50299D0B">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="D3F3712818CDE09ABAB8C7C28F269881">
+<mods:title id="AD61CA716FE5DF691CE0510EC883AC91">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="C4E62C635E30AB3DBE25FE23083BE84E">
+<mods:extent id="B41975A1F20E91E08BAFEFE6E6B90618" unit="page">
+<mods:start id="23460CF3E79445784E29F5B11B6157BA">175</mods:start>
+<mods:end id="AA227CDFB967B17155375D30B6FE6190">183</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="0864EE57537D0A3E62684DA1F1A304A6">book chapter</mods:classification>
+<mods:identifier id="AFA624072B7ABD86B2539EBC89ED5D0F" type="DOI">http://doi.org/10.5281/zenodo.5160270</mods:identifier>
+<mods:identifier id="94457F0578BF419E829F3693CDC626ED" type="GBIF-Dataset">6dc2872d-cbab-4982-baed-c0969e3e3236</mods:identifier>
+<mods:identifier id="7F3924F2C458046FBC0E3D29870491E1" type="Zenodo-Dep">5160270</mods:identifier>
+</mods:mods>
+<treatment id="0E4F7F497E605A2BB416FC3F10107243" ID-DOI="http://doi.org/10.5281/zenodo.5164295" ID-GBIF-Taxon="184552228" ID-Zenodo-Dep="5164295" LSID="urn:lsid:plazi:treatment:0E4F7F497E605A2BB416FC3F10107243" httpUri="http://treatment.plazi.org/id/0E4F7F497E605A2BB416FC3F10107243" lastPageNumber="179" pageId="4" pageNumber="179">
+<subSubSection id="CEFC9DD47E605A2BB416FC3F15CD75B6" box="[324,922,955,994]" pageId="4" pageNumber="179" type="nomenclature">
+<paragraph id="8659CE5F7E605A2BB416FC3F15CD75B6" blockId="4.[324,1607,955,1047]" box="[324,922,955,994]" pageId="4" pageNumber="179">
+<heading id="DD1179337E605A2BB416FC3F15CD75B6" box="[324,922,955,994]" fontSize="8" level="2" pageId="4" pageNumber="179" reason="4">
+<emphasis id="B492124D7E605A2BB416FC3F14A875B6" bold="true" box="[324,767,955,994]" pageId="4" pageNumber="179">
+16. 
+<taxonomicName id="41E6B5DC7E605A2BB4C7FC3F14AF75B6" authorityName="Mayr" box="[405,760,955,994]" class="Insecta" family="Formicidae" genus="Pheidole" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="179" phylum="Arthropoda" rank="variety" species="umbonata" variety="fullawayi">Pheidole umbonata</taxonomicName>
+,
+</emphasis>
+variety.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E605A2BB4D0FC6A10107243" box="[386,1607,1006,1047]" pageId="4" pageNumber="179" type="materials_examined">
+<paragraph id="8659CE5F7E605A2BB4D0FC6A10107243" blockId="4.[324,1607,955,1047]" box="[386,1607,1006,1047]" pageId="4" pageNumber="179">
+<materialsCitation id="368EC4027E605A2BB4D0FC6A10107243" ID-GBIF-Occurrence="3335007302" box="[386,1607,1006,1047]" collectedFrom="in rotten sugar cane" collectingDate="1936-05-12" collectorName="O. H. Swezey" country="Guam" location="Yona" pageId="4" pageNumber="179">
+<collectingMunicipality id="663D54257E605A2BB4D0FC6A17B47243" box="[386,483,1006,1047]" pageId="4" pageNumber="179">Yona</collectingMunicipality>
+, 
+<date id="F258E89F7E605A2BB4A8FC6A14D57243" box="[506,642,1006,1047]" pageId="4" pageNumber="179" value="2012-05">
+<collectingDate id="E21C11777E605A2BB4A8FC6A14D57243" box="[506,642,1006,1047]" pageId="4" pageNumber="179" value="2012-05">May 12</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E605A2BB7C9FC6A15777243" box="[667,800,1006,1047]" pageId="4" pageNumber="179">Swezey</collectorName>
+, a pale variety, collected in rotten sugar cane.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

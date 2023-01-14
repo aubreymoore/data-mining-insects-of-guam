@@ -1,0 +1,123 @@
+<document id="51557D02A36538FC22D8C378B179C3DA" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFCA513D5E61AAECFA2CF9F1" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Himatinum bisetosum Zimmerman 1942, new species" docType="treatment" docVersion="13" lastPageNumber="132" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="131" updateTime="1671248003764" updateUser="annettekang">
+<mods:mods id="5B74F17C332FC0072D9B472805EDC8E1" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="19D83607B36FFD967EC04FCC2E1D233E">
+<mods:title id="95C66C8A687B829EF5CEE85787C38169">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="8B1C1A8EC68DABE10B837D234FCFBE9D" type="personal">
+<mods:role id="FF71C197E87E3B4B912F6EB8152C8CA4">
+<mods:roleTerm id="1535BF082D0EB7F21D9FBFC313AFFB5B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="714813DDE9B38A6A4999F1A12AA94BA3">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="3A85ACE3550D1D3863165F4549FCB1D0">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="5434841F266FA3A82BC8EA5BFFA569CA">text</mods:typeOfResource>
+<mods:relatedItem id="F5657C99EB278B428C8E9ADB4717C56D" type="host">
+<mods:originInfo id="28A629BDBD70069CE4E7E58BDAEBABE7">
+<mods:dateIssued id="109BCC00DC2D9267C28BAA1410AE570D">1942</mods:dateIssued>
+<mods:dateOther id="075AAC849DEBCFC25AB09D9EB5D4F9F8" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="CFA9A9DF5CC0915B13B3C32F7C276260">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="186B3846440082DCCB1AC73543279482">
+<mods:placeTerm id="83E94FC45BE9649E49308FECF33AD783">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="3DBFC332CAB06FB980AB189DAEAAA6A3">
+<mods:title id="EB8B432405A418D5CE22B9DDD3BD81B6">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="6DC7DFF7983C125E68495543AA70A5B0">
+<mods:extent id="775336BA3A592102972277469FA94C38" unit="page">
+<mods:start id="7B9294A029FE0F9115B266339ED42F8E">73</mods:start>
+<mods:end id="D43D452B2051D1A836DE41757250B648">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="4932EF43C4B2AECB037CC8931223589C">book chapter</mods:classification>
+<mods:identifier id="55ED5DEF341B21C98CC61DA76FC48748" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="A17751630E3AF28F1BADDB2D9D099A4E" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="1EF0FD807CE2F2D0BACD216E237B1409" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFCA513D5E61AAECFA2CF9F1" ID-DOI="http://doi.org/10.5281/zenodo.5167711" ID-GBIF-Taxon="184097900" ID-Zenodo-Dep="5167711" LSID="urn:lsid:plazi:treatment:D6388709FFCA513D5E61AAECFA2CF9F1" httpUri="http://treatment.plazi.org/id/D6388709FFCA513D5E61AAECFA2CF9F1" lastPageId="59" lastPageNumber="132" pageId="58" pageNumber="131">
+<subSubSection id="168B6594FFCA513C5E61AAECFB35FA76" box="[314,1231,1462,1504]" pageId="58" pageNumber="131" type="nomenclature">
+<paragraph id="5E2E361FFFCA513C5E61AAECFB35FA76" blockId="58.[307,1706,1462,2510]" box="[314,1231,1462,1504]" pageId="58" pageNumber="131">
+<heading id="05668173FFCA513C5E61AAECFB35FA76" box="[314,1231,1462,1504]" fontSize="8" level="2" pageId="58" pageNumber="131" reason="4">
+<emphasis id="6CE5EA0DFFCA513C5E61AAECFCD3FA76" bold="true" box="[314,809,1462,1504]" pageId="58" pageNumber="131">
+36. 
+<taxonomicName id="99914D9CFFCA513C5ED5AAECFCD9FA76" authority="Zimmerman, 1942" authorityName="Zimmerman" authorityYear="1942" box="[398,803,1462,1504]" class="Insecta" family="Curculionidae" genus="Himatinum" kingdom="Animalia" order="Coleoptera" pageId="58" pageNumber="131" phylum="Arthropoda" rank="species" species="bisetosum" status="new species">Himatinum bisetosum</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="77D65776FFCA513C5C6CAAECFBF2FA76" box="[823,1032,1462,1504]" pageId="58" pageNumber="131" rank="species">new species</taxonomicNameLabel>
+(pl. 4, C).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFCA513D5E26AAA8FD17FA99" lastPageId="59" lastPageNumber="132" pageId="58" pageNumber="131" type="description">
+<paragraph id="5E2E361FFFCA513C5E26AAA8FD3DF9AB" blockId="58.[307,1706,1462,2510]" pageId="58" pageNumber="131">Derm coarsely reticulate, dull reddish brown to piceous black; setae conspicuous, white or yellowish white.</paragraph>
+<paragraph id="5E2E361FFFCA513D5E20A912FD17FA99" blockId="58.[307,1706,1462,2510]" lastBlockId="59.[408,1804,405,1295]" lastPageId="59" lastPageNumber="132" pageId="58" pageNumber="131">
+<emphasis id="6CE5EA0DFFCA513C5E20A912FE34F9FC" box="[379,462,1608,1642]" italics="true" pageId="58" pageNumber="131">Head</emphasis>
+without a postocular constriction, only one third as long on sides from prothorax to fore margins of eyes as basal breadth; eyes oval, about four sevenths as broad as high, obliquely placed, their hind margins touching prothorax, separated by not quite their heights below (6: 7), their dorsal edges reaching to about half way between upper margin of scrobe and top of rostrum; top of head meeting rostrum above top of eye, separation well marked and angulate; crown coarsely reticulate, but shallowly and indistinctly punctate; sparsely clothed with fine, prostrate, anteriorly directed setae. 
+<emphasis id="6CE5EA0DFFCA513C5E6CA83CFE41F81E" box="[311,443,1894,1928]" italics="true" pageId="58" pageNumber="131">Rostrmn</emphasis>
+almost straight, but slightly arcuate in apical fourth, subcylindrical, four fifths as long as prothorax in female, two thirds as long in male, about as high as broad at antennae, subparallel-sided, slightly expanded at antennae, hardly expanded toward apex; conspicuously, closely, longitudinally strigulated; setae arising from striae, erect, clavate, coarser than those on crown; antennae inserted at slightly beyond basal fourth, dorsal margin of scrobe straight and touching dorsal fourth of eye, lower margin directed toward lower hind edge of eye, but not reaching eye. 
+<emphasis id="6CE5EA0DFFCA513C5BC2A714FADDF7E7" box="[1177,1319,2126,2161]" italics="true" pageId="58" pageNumber="131">Antennae</emphasis>
+with scape shorter than funicle exclusive of club, touching front edge of eye; first funicular segment about one third longer than broad, triangular, as long as 2 plus 3 plus 4, 2 broader than long, 2 to 7 successively slightly broader; club not much broader than 7, as long as 3 to 7. 
+<emphasis id="6CE5EA0DFFCA513C595DA798F958F773" box="[1542,1698,2242,2277]" italics="true" pageId="58" pageNumber="131">Prothorax</emphasis>
+longer than broad (3: 2.5), base and apex slightly convex, broadest between the basal third and middle, arcuately narrowing from base to feeble subapical constriction, constriction not or hardly marked across dorsum which is almost straight and flat in longitudinal dorsal contour; disk flattened, densely, shallowly punctate, punctures subconfluent and individually indistinct, interstices much narrower than their diameters; setae of 
+<specimenCount id="4897FD96FFCA513C595DA6DEF96CF631" box="[1542,1686,2436,2471]" pageId="58" pageNumber="131" type="generic" typeStatus="types">two types</specimenCount>
+, 
+<specimenCount id="4897FD96FFCA513C5E68A6F1FE4CF658" box="[307,438,2475,2510]" pageId="58" pageNumber="131" type="generic" typeStatus="type">one type</specimenCount>
+slender, more or less hairlike, decumbent and directed medially, the other subclavate, erect or suberect, middle of the apex not setose. 
+<emphasis id="6CE5EA0DFFCB513D5A44AECFFA7AFE2D" box="[1311,1408,405,443]" italics="true" pageId="59" pageNumber="132">Elytra</emphasis>
+slightly more than twice as long as broad and slightly more than twice as long as protl1orax, base subtruncate, but broadly and shallowly emarginate to scutellum, subparallel-sided to behind middle, thence broadly rounded to apex, without any irregularities; striae about as broad as intervals on disk, their punctures close, subquadrate, without evident setae, outer stria terminating above metacoxa or vaguely continued somewhat farther caudad; intervals flat or slightly convex, none conspicuously elevated, 9 evidently reaching 1 behind, 10 obliterated or obscure behind metacoxa, each interval bearing a row of 
+<specimenCount id="4897FD96FFCB513D5A1FADFDFA26FD5D" box="[1348,1500,679,715]" pageId="59" pageNumber="132" type="generic" typeStatus="types">two types</specimenCount>
+of setae, 
+<specimenCount id="4897FD96FFCB513D59DCADFDF8F6FD5D" box="[1671,1804,679,715]" pageId="59" pageNumber="132" type="generic" typeStatus="type">one type</specimenCount>
+erect and subspatulate, the other 
+<typeStatus id="812A88BDFFCB513D5CFFAD94FC18FD64" box="[932,994,718,754]" pageId="59" pageNumber="132">type</typeStatus>
+decumbent, narrow and sharp, 2, 4, 5, and 
+<emphasis id="6CE5EA0DFFCB513D59CEAD94F95EFD64" box="[1685,1700,718,754]" italics="true" pageId="59" pageNumber="132">7</emphasis>
+sometimes with fewer erect setae than the others. 
+<emphasis id="6CE5EA0DFFCB513D5B3AADAEFB57FC8E" box="[1121,1197,756,792]" italics="true" pageId="59" pageNumber="132">Legs</emphasis>
+with numerous setae of 
+<specimenCount id="4897FD96FFCB513D596BADAEF93EFC8E" box="[1584,1732,756,792]" pageId="59" pageNumber="132" type="generic" typeStatus="types">two types</specimenCount>
+, one finer and prostrate, the other coarser and erect; tibiae compressed, unci large and stout, evidently not mucronate; third tarsal segment as long as and about one third broader than 2, subtruncate at apex. 
+<emphasis id="6CE5EA0DFFCB513D5C27AC32FC07FC18" box="[892,1021,872,910]" italics="true" pageId="59" pageNumber="132">Sternum</emphasis>
+densely, rather coarsely but shallowly punctate, punctures bearing decumbent or prostrate, mostly fine setae; prosternum three times as long before as behind coxae, intercoxal process slightly broader than a coxa; mesosternum on a continuous plane with metasternum, densely punctate, intercoxal process slightly broader than a coxa; metasternum twice as long between mid and hind coxae as breadili of intercoxal process of mesosternum, metacoxae separated by slightly more than mesocoxae. 
+<emphasis id="6CE5EA0DFFCB513D5D43AB08FD84FBE3" box="[536,638,1106,1141]" italics="true" pageId="59" pageNumber="132">Venter</emphasis>
+with first two ventrites broadly depressed down middle in male, more tumid in female, puncturation and vestiture similar to that of the metasternum; ventrites 3 atid 4 each with a row of coarse punctures at their bases and a row of fine punctures at their apices; ventrite 5 densely set with setiferous punctures. Length, 2.1-2.5 mm.; breadth, 0.70-0.75 mm.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFCB513D5E82AA6EFCC1FA07" pageId="59" pageNumber="132" type="materials_examined">
+<paragraph id="5E2E361FFFCB513D5E82AA6EFCC1FA07" blockId="59.[411,1806,1332,1639]" pageId="59" pageNumber="132">
+<materialsCitation id="EEF93C42FFCB513D5E82AA6EFCC1FA07" ID-GBIF-Occurrence="3335008301" collectingDate="1936-05-17" collectorName="R. L. Usinger" country="Guam" location="Tarague" pageId="59" pageNumber="132" specimenCount="3" typeStatus="holotype male, allotype female, paratype male">
+<typeStatus id="812A88BDFFCB513D5E82AA6EFD81FAC9" box="[473,635,1332,1375]" pageId="59" pageNumber="132">Holotype</typeStatus>
+<specimenCount id="4897FD96FFCB513D5DDDAA6EFD20FAC9" box="[646,730,1332,1375]" pageId="59" pageNumber="132" type="male">male</specimenCount>
+, 
+<typeStatus id="812A88BDFFCB513D5DB5AA6EFC8DFAC9" box="[750,887,1332,1375]" pageId="59" pageNumber="132">allotype</typeStatus>
+female, and 
+<specimenCount id="4897FD96FFCB513D5B01AA6EFB09FAC9" box="[1114,1267,1332,1375]" pageId="59" pageNumber="132" type="male">one male</specimenCount>
+<typeStatus id="812A88BDFFCB513D5BA5AA6EFA6DFAC9" box="[1278,1431,1332,1375]" pageId="59" pageNumber="132">paratype</typeStatus>
+collected at 
+<collectingMunicipality id="BE4AAC65FFCB513D592BAA6EF8FFFAC9" box="[1648,1797,1332,1375]" pageId="59" pageNumber="132">Tarague</collectingMunicipality>
+, 
+<date id="2A2F10DFFFCB513D5EC7AA3CFD75FA07" box="[412,655,1382,1425]" pageId="59" pageNumber="132" value="1936-05-17">
+<collectingDate id="3A6BE937FFCB513D5EC7AA3CFD75FA07" box="[412,655,1382,1425]" pageId="59" pageNumber="132" value="1936-05-17">May 17, 1936</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFCB513D5DFEAA3CFCCCFA07" LSID="urn:lsid:plazi:treatment:D6388709FFCA513D5E61AAECFA2CF9F1:5B4E60C4FFCB513D5DFEAA3CFCCCFA07" box="[677,822,1382,1425]" municipality="Tarague" name="Usinger" pageId="59" pageNumber="132">Usinger</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFCB513D5E82AAFFFA2CF9F1" pageId="59" pageNumber="132" type="discussion">
+<paragraph id="5E2E361FFFCB513D5E82AAFFFA2CF9F1" blockId="59.[411,1806,1332,1639]" pageId="59" pageNumber="132">
+The peculiarly placed eyes together with the vestiture will readily separate this species from all of the other 
+<collectingCountry id="2686768FFFCB513D5CA4AA8DFB92F997" box="[1023,1128,1495,1537]" name="Guam" pageId="59" pageNumber="132">Guam</collectingCountry>
+<taxonomicName id="99914D9CFFCB513D5B21AA8DFABBF997" authorityName="Schoenherr" authorityYear="1825" box="[1146,1345,1495,1537]" class="Insecta" family="Curculionidae" kingdom="Animalia" order="Coleoptera" pageId="59" pageNumber="132" phylum="Arthropoda" rank="subFamily" subFamily="Cossoninae">Cossoninae</taxonomicName>
+. It greatly resembles the North American 
+<taxonomicName id="99914D9CFFCB513D5D8AA950FB10F9A3" authority="(LeConte)" baseAuthorityName="LeConte" box="[721,1258,1546,1589]" class="Insecta" family="Curculionidae" genus="Hiniatinum" kingdom="Animalia" order="Coleoptera" pageId="59" pageNumber="132" phylum="Arthropoda" rank="species" species="errans">
+<emphasis id="6CE5EA0DFFCB513D5D8AA950FBE1F9A3" box="[721,1051,1546,1589]" italics="true" pageId="59" pageNumber="132">Hiniatinum errans</emphasis>
+(LeConte)
+</taxonomicName>
+but the rostrum is longer and the cephalic, leg and rostral vestiture is shorter and less dense.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

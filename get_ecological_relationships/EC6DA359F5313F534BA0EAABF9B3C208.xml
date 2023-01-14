@@ -1,0 +1,239 @@
+<document id="9FA66F2555700A9D50F4F9EEB55AA54D" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5313F534BA0EAABF9B3C208" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Engytatus nicotianae" docType="treatment" docVersion="21" lastPageNumber="73" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="72" updateTime="1671674318142" updateUser="annettekang">
+<mods:mods id="31B9DDB8E22CA1B1DBFDBEF5E4C6A1D2" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="FB6187770BE03D7E54EEE180767F6855">
+<mods:title id="5254A2B9D0EF44CEBBEB999B65ADB2E8">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="32A13DFA06C2FD0EB7FCC3881BEA4D89" type="personal">
+<mods:role id="3F1B3C122A20ECBF4C02DACAC0D3EAC5">
+<mods:roleTerm id="0F2B0A75E32CA7CC081B324EB85874BF">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F35E88BFB7032A5BDC63C4273E4D6771">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="6B4F7134F417190D975C0F96950BD70A">text</mods:typeOfResource>
+<mods:relatedItem id="80C931EBA1B777BE676AE04C6C2763CC" type="host">
+<mods:originInfo id="1D278ECF1E71AA366C208616FB9782D5">
+<mods:dateIssued id="377194B72429DC5D815AF868CEB1319F">1946</mods:dateIssued>
+<mods:dateOther id="6AA55E311C2641E4F3639D7A61F36031" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="1D2CEAC8086CF77AB890F0E385831C53">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="E379D1E6CB16B1F0222111ECEDB8CE34">
+<mods:placeTerm id="313FEA923F94D1FBB34F56067A3BA54C">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="BDCA19AC6D03E55BF2CA581B838BAA87">
+<mods:title id="3962586B13F618AB9821A1A5EDE2CAE3">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="12C4AD42FD729F1C6BCBF6C8D7CF941A">
+<mods:extent id="15184163BBE99FD88DCB82D07A114B0D" unit="page">
+<mods:start id="97F5F58A0281CAD69C2D9EDA357479F5">11</mods:start>
+<mods:end id="D456D8DC51F1515A5FD3B086DAC2129E">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="B288ACDE7DB2A06C3B48AAF2F00DC72F">book chapter</mods:classification>
+<mods:identifier id="0E8631EC7765E5FA949F106B15DE4A36" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="01464FB3E1A31B7CD887EF83B611BD0E" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="36D94D7F26870B4082223A87D572B1CB" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5313F534BA0EAABF9B3C208" ID-DOI="http://doi.org/10.5281/zenodo.5213829" ID-GBIF-Taxon="184601151" ID-Zenodo-Dep="5213829" LSID="urn:lsid:plazi:treatment:EC6DA359F5313F534BA0EAABF9B3C208" httpUri="http://treatment.plazi.org/id/EC6DA359F5313F534BA0EAABF9B3C208" lastPageId="62" lastPageNumber="73" pageId="61" pageNumber="72">
+<subSubSection id="2CDE41C4F5313F504BA0EAABFA17C486" box="[448,1523,1475,1518]" pageId="61" pageNumber="72" type="nomenclature">
+<paragraph id="647B124FF5313F504BA0EAABFA17C486" blockId="61.[448,1847,1475,1901]" box="[448,1523,1475,1518]" pageId="61" pageNumber="72">
+<heading id="3F33A523F5313F504BA0EAABFA17C486" box="[448,1523,1475,1518]" fontSize="8" level="2" pageId="61" pageNumber="72" reason="4">
+68. 
+<taxonomicName id="A3C469CCF5313F504874EAABFB3AC486" authority="(Koningsberger)" baseAuthorityName="Koningsberger" baseAuthorityYear="1903" box="[532,1246,1475,1518]" class="Insecta" family="Miridae" genus="Engytatus" kingdom="Animalia" order="Hemiptera" pageId="61" pageNumber="72" phylum="Arthropoda" rank="species" species="nicotianae">
+<emphasis id="56B0CE5DF5313F504874EAABFC7CC486" bold="true" box="[532,920,1475,1518]" pageId="61" pageNumber="72">Engytatus nicotianae</emphasis>
+(Koningsberger)
+</taxonomicName>
+(
+<figureCitation id="FCFF0ECAF5313F504F63EAABFA9EC486" box="[1283,1402,1475,1518]" captionStart="FIGURE 17" captionStartId="61.[516,625,2361,2397]" captionTargetBox="[775,1522,1936,2322]" captionTargetPageId="61" captionText="FIGURE 17.-Engytatus nicotianae: a, posterior view of end of abdomen of male from right side showing broad prolongation of last segment and its broad dorsal arm with a small curved projection at its apex; b, postero-dorsal view from the left side of the left clasper showing its stout, curved form with long bladelike projection extending at a right angle from middle." figureDoi="http://doi.org/10.5281/zenodo.5173968" httpUri="https://zenodo.org/record/5173968/files/figure.png" pageId="61" pageNumber="72">fig. 17</figureCitation>
+, 
+<emphasis id="56B0CE5DF5313F504FF2EAABFA17C486" box="[1426,1523,1475,1518]" italics="true" pageId="61" pageNumber="72">a, b).</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5313F504B9EEA9FF94EC797" pageId="61" pageNumber="72" type="reference_group">
+<paragraph id="647B124FF5313F504B9EEA9FFC88C73E" blockId="61.[448,1847,1475,1901]" pageId="61" pageNumber="72">
+<treatmentCitationGroup id="44D43561F5313F504B9EEA9FFC88C73E" pageId="61" pageNumber="72">
+<bibCitation id="B1EE1A23F5313F504B9EEA9FFC88C73E" author="Koningsberger" journalOrPublisher="Lands Plantent" pageId="61" pageNumber="72" pagination="32" part="64" refId="ref32649" type="book" year="1903">
+<treatmentCitation id="E565345EF5313F504B9EEA9FFC83C73E" author="Koningsberger" page="32" pageId="61" pageNumber="72" year="1903">
+<emphasis id="56B0CE5DF5313F504B9EEA9FFC61C748" box="[510,901,1527,1568]" italics="true" pageId="61" pageNumber="72">Leptoterna nicotianae</emphasis>
+<author id="BC79FAAAF5313F5049F9EA9FFB40C748" box="[921,1188,1527,1568]" pageId="61" pageNumber="72">Koningsberger</author>
+, Mededeel. 
+<journalOrPublisher id="BE051883F5313F504FE9EA9FF940C748" box="[1417,1700,1527,1568]" pageId="61" pageNumber="72">Lands Plantent</journalOrPublisher>
+. 
+<emphasis id="56B0CE5DF5313F504CDFEA9FF91CC748" bold="true" box="[1727,1784,1527,1568]" pageId="61" pageNumber="72">
+<part id="1060B8D2F5313F504CDFEA9FF916C748" box="[1727,1778,1527,1568]" pageId="61" pageNumber="72">64</part>
+:
+</emphasis>
+<pagination id="5D0DECBBF5313F504D65EA9FF8D4C748" box="[1797,1840,1527,1568]" pageId="61" pageNumber="72">32</pagination>
+, pl. 
+<emphasis id="56B0CE5DF5313F504813E942FD76C73E" bold="true" box="[627,658,1578,1622]" pageId="61" pageNumber="72">4,</emphasis>
+fig. 8, 
+<year id="106C531CF5313F504975E942FC83C73E" box="[789,871,1578,1622]" pageId="61" pageNumber="72">1903</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="647B124FF5313F504862E90DFC34C7AA" blockId="61.[448,1847,1475,1901]" pageId="61" pageNumber="72">
+<treatmentCitationGroup id="44D43561F5313F504862E90DFC34C7AA" pageId="61" pageNumber="72">
+<bibCitation id="B1EE1A23F5313F504862E90DFC34C7AA" author="Kirkaldy" journalOrPublisher="Linn. Soc. N. S. Wales, Proc." pageId="61" pageNumber="72" pagination="377" part="33" refId="ref32675" type="journal article" year="1908">
+<treatmentCitation id="E565345EF5313F504862E90DFD70C7AA" author="Kirkaldy" page="377" pageId="61" pageNumber="72" year="1908">
+<emphasis id="56B0CE5DF5313F504862E90DFD26C7F8" box="[514,706,1637,1680]" italics="true" pageId="61" pageNumber="72">Cyrtopeltis</emphasis>
+(?) 
+<emphasis id="56B0CE5DF5313F50497DE90DFC29C7F8" box="[797,973,1637,1680]" italics="true" pageId="61" pageNumber="72">nicotianae</emphasis>
+<author id="BC79FAAAF5313F5049BAE90DFB98C7F8" box="[986,1148,1637,1680]" pageId="61" pageNumber="72">Kirkaldy</author>
+, 
+<journalOrPublisher id="BE051883F5313F504EF0E90DFA49C7F8" box="[1168,1453,1637,1680]" pageId="61" pageNumber="72">Linn. Soc. N. S.</journalOrPublisher>
+<collectingCountry id="1CD352DFF5313F504FDAE90DF9CEC7F8" box="[1466,1578,1637,1680]" name="United Kingdom" pageId="61" pageNumber="72">Wales</collectingCountry>
+, Proc. 
+<part id="1060B8D2F5313F504CC9E90DF938C7F8" box="[1705,1756,1637,1680]" pageId="61" pageNumber="72" type="volume">33</part>
+: 
+<pagination id="5D0DECBBF5313F504C90E90DF8D5C7F8" box="[1776,1841,1637,1680]" pageId="61" pageNumber="72" type="pagination">377</pagination>
+, 
+<year id="106C531CF5313F504822E9F2FD70C7AA" box="[578,660,1690,1730]" pageId="61" pageNumber="72">1908</year>
+</treatmentCitation>
+. New synonymy.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="647B124FF5313F504B9FE9BCF94EC797" blockId="61.[448,1847,1475,1901]" box="[511,1706,1748,1791]" pageId="61" pageNumber="72">
+<treatmentCitationGroup id="44D43561F5313F504B9FE9BCF94EC797" box="[511,1706,1748,1791]" pageId="61" pageNumber="72">
+<bibCitation id="B1EE1A23F5313F504B9FE9BCF94EC797" author="Fulmek" box="[511,1706,1748,1791]" journalOrPublisher="Deli Proefstation, Bull." pageId="61" pageNumber="72" pagination="2" part="25" refId="ref32701" type="journal article" year="1925">
+<treatmentCitation id="E565345EF5313F504B9FE9BCF941C797" author="Fulmek" box="[511,1701,1748,1791]" page="2" pageId="61" pageNumber="72" year="1925">
+<emphasis id="56B0CE5DF5313F504B9FE9BCFC94C797" box="[511,880,1748,1791]" italics="true" pageId="61" pageNumber="72">Dicyphus nicotianae,</emphasis>
+<author id="BC79FAAAF5313F5049E3E9BCFBEFC797" box="[899,1035,1748,1791]" pageId="61" pageNumber="72">Fulmek</author>
+, 
+<journalOrPublisher id="BE051883F5313F504E45E9BCFA2DC797" box="[1061,1481,1748,1791]" pageId="61" pageNumber="72">
+<collectingRegion id="A600DCADF5313F504E45E9BCFB88C797" box="[1061,1132,1748,1791]" country="India" name="Delhi" pageId="61" pageNumber="72">Deli</collectingRegion>
+Proefstation, Bull.
+</journalOrPublisher>
+<emphasis id="56B0CE5DF5313F504FBBE9BCF9F0C797" bold="true" box="[1499,1556,1748,1791]" pageId="61" pageNumber="72">
+<part id="1060B8D2F5313F504FBBE9BCF9E7C797" box="[1499,1539,1748,1791]" pageId="61" pageNumber="72" type="volume">25</part>
+:
+</emphasis>
+<pagination id="5D0DECBBF5313F504C41E9BCF9D3C797" box="[1569,1591,1748,1791]" pageId="61" pageNumber="72" type="pagination">2</pagination>
+, 
+<year id="106C531CF5313F504C33E9BCF941C797" box="[1619,1701,1748,1791]" pageId="61" pageNumber="72">1925</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5313F504861E878F9A8C605" pageId="61" pageNumber="72" type="materials_examined">
+<paragraph id="647B124FF5313F504861E878F9A8C605" blockId="61.[448,1847,1475,1901]" pageId="61" pageNumber="72">
+<materialsCitation id="D4AC1812F5313F504861E878FC32C652" ID-GBIF-Occurrence="3994028500" box="[513,982,1808,1850]" collectingDate="1936-05-02" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="61" pageNumber="72" specimenCount="1">
+<collectorName id="C9317799F5313F504861E878FDAEC652" box="[513,586,1808,1850]" pageId="61" pageNumber="72">One</collectorName>
+<specimenCount id="72C2D9C6F5313F504837E878FD1CC652" box="[599,760,1808,1850]" pageId="61" pageNumber="72" type="generic">specimen</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5313F50496DE878FCB4C652" box="[781,848,1808,1850]" pageId="61" pageNumber="72">Piti</collectingMunicipality>
+, 
+<date id="107A348FF5313F504905E878FC32C652" box="[869,982,1808,1850]" pageId="61" pageNumber="72">
+<collectingDate id="003ECD67F5313F504905E878FC32C652" box="[869,982,1808,1850]" pageId="61" pageNumber="72">May 2</collectingDate>
+</date>
+</materialsCitation>
+, and 
+<materialsCitation id="D4AC1812F5313F504E56E878FDBCC605" ID-GBIF-Occurrence="3994028442" collectedFrom="on Nicotiana" collectingDate="1936-04-30" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="61" pageNumber="72" specimenCount="2">
+<specimenCount id="72C2D9C6F5313F504E56E878FAD3C652" box="[1078,1335,1808,1850]" pageId="61" pageNumber="72" type="generic">two specimens</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5313F504F2BE878FA6AC652" box="[1355,1422,1808,1850]" pageId="61" pageNumber="72">Piti</collectingMunicipality>
+, 
+<date id="107A348FF5313F504FC2E878F9DDC652" box="[1442,1593,1808,1850]" pageId="61" pageNumber="72" value="1930-04">
+<collectingDate id="003ECD67F5313F504FC2E878F9DDC652" box="[1442,1593,1808,1850]" pageId="61" pageNumber="72" value="1930-04">April 30</collectingDate>
+</date>
+, on 
+<taxonomicName id="A3C469CCF5313F504CE2E878FDBCC605" authority=", Usinger" authorityName="Usinger" class="Magnoliopsida" family="Solanaceae" genus="Nicotiana" kingdom="Plantae" order="Solanales" pageId="61" pageNumber="72" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5313F504CE2E878F8D3C652" box="[1666,1847,1808,1850]" italics="true" pageId="61" pageNumber="72">
+<location id="611B4494F5313F504CE2E878F8D5C652" LSID="urn:lsid:plazi:treatment:EC6DA359F5313F534BA0EAABF9B3C208:611B4494F5313F504CE2E878F8D5C652" box="[1666,1841,1808,1850]" municipality="Piti" name="Nicotiana" pageId="61" pageNumber="72">Nicotiana</location>
+,
+</emphasis>
+<location id="611B4494F5313F504BA1E82CFDBCC605" LSID="urn:lsid:plazi:treatment:EC6DA359F5313F534BA0EAABF9B3C208:611B4494F5313F504BA1E82CFDBCC605" box="[449,600,1860,1901]" municipality="Piti" name="Usinger" pageId="61" pageNumber="72">Usinger</location>
+</taxonomicName>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5313F50480FE82CF9A3C605" ID-GBIF-Occurrence="3994028437" box="[623,1607,1860,1901]" collectedFrom="on Nicotiana" collectingDate="1936-05-12" collectorName="R. L. Usinger" country="Guam" location="Yona" pageId="61" pageNumber="72" specimenCount="7">
+<specimenCount id="72C2D9C6F5313F50480FE82CFC74C605" box="[623,912,1860,1901]" pageId="61" pageNumber="72" type="generic">seven specimens</specimenCount>
+, Yona, 
+<date id="107A348FF5313F504E7CE82CFB41C605" box="[1052,1189,1860,1901]" pageId="61" pageNumber="72" value="2012-05">
+<collectingDate id="003ECD67F5313F504E7CE82CFB41C605" box="[1052,1189,1860,1901]" pageId="61" pageNumber="72" value="2012-05">May 12</collectingDate>
+</date>
+, on 
+<taxonomicName id="A3C469CCF5313F504E91E82CF9A8C605" authority=", Usinger." authorityName="Usinger." box="[1265,1612,1860,1901]" class="Magnoliopsida" family="Solanaceae" genus="Nicotiana" kingdom="Plantae" order="Solanales" pageId="61" pageNumber="72" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5313F504E91E82CFA4CC605" box="[1265,1448,1860,1901]" italics="true" pageId="61" pageNumber="72">
+<location id="611B4494F5313F504E91E82CFA46C605" LSID="urn:lsid:plazi:treatment:EC6DA359F5313F534BA0EAABF9B3C208:611B4494F5313F504E91E82CFA46C605" box="[1265,1442,1860,1901]" name="Nicotiana" pageId="61" pageNumber="72">Nicotiana</location>
+,
+</emphasis>
+<location id="611B4494F5313F504FD5E82CF9A3C605" LSID="urn:lsid:plazi:treatment:EC6DA359F5313F534BA0EAABF9B3C208:611B4494F5313F504FD5E82CF9A3C605" box="[1461,1607,1860,1901]" name="Usinger" pageId="61" pageNumber="72">Usinger</location>
+.
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<caption id="30BB42C7F5313F504864E651FC72C890" ID-DOI="http://doi.org/10.5281/zenodo.5173968" ID-Zenodo-Dep="5173968" httpUri="https://zenodo.org/record/5173968/files/figure.png" pageId="61" pageNumber="72" startId="61.[516,625,2361,2397]" targetBox="[775,1522,1936,2322]" targetPageId="61">
+<paragraph id="647B124FF5313F504864E651FC72C890" blockId="61.[449,1848,2361,2552]" pageId="61" pageNumber="72">
+FIGURE 
+<emphasis id="56B0CE5DF5313F5048E7E651FBC7C835" box="[647,1059,2361,2397]" italics="true" pageId="61" pageNumber="72">
+17.- 
+<taxonomicName id="A3C469CCF5313F5048DDE651FBFBC835" baseAuthorityName="Koningsberger" baseAuthorityYear="1903" box="[701,1055,2361,2397]" class="Insecta" family="Miridae" genus="Engytatus" kingdom="Animalia" order="Hemiptera" pageId="61" pageNumber="72" phylum="Arthropoda" rank="species" species="nicotianae">Engytatus nicotianae</taxonomicName>
+:
+</emphasis>
+<emphasis id="56B0CE5DF5313F504E22E651FBBFC835" bold="true" box="[1090,1115,2361,2397]" pageId="61" pageNumber="72">a,</emphasis>
+posterior view of end of abdomen of male from right side showing broad prolongation of last segment and its broad dorsal arm with a small curved projection at its apex; 
+<emphasis id="56B0CE5DF5313F504EE3E6EEFB79C8C2" bold="true" box="[1155,1181,2438,2474]" pageId="61" pageNumber="72">b,</emphasis>
+postero-dorsal view from the left side of the left clasper showing its stout, curved form with long bladelike projection extending at a right angle from middle.
+</paragraph>
+</caption>
+<subSubSection id="2CDE41C4F5323F534B3FEE5DF9B3C208" pageId="62" pageNumber="73" type="description">
+<paragraph id="647B124FF5323F534B3FEE5DFE96C308" blockId="62.[287,1687,309,864]" pageId="62" pageNumber="73">
+I follow Fulmek in assuming that this is the species described by Koningsberger from Java, though the length is given as 
+<quantity id="A33CBFAAF5323F534EE1EE02FB0EC0FC" box="[1153,1258,362,404]" metricMagnitude="-3" metricUnit="m" metricValue="4.0" pageId="62" pageNumber="73" unit="mm" value="4.0">4 mm</quantity>
+. in the original description, whereas my series is uniformly about 
+<quantity id="A33CBFAAF5323F534E3FEEF4FB0FC0AF" box="[1119,1259,412,455]" metricMagnitude="-3" metricUnit="m" metricValue="3.5" pageId="62" pageNumber="73" unit="mm" value="3.5">3.5 mm</quantity>
+. 
+<taxonomicName id="A3C469CCF5323F534F6FEEF4FA1FC0AF" baseAuthorityName="Koningsberger" baseAuthorityYear="1903" box="[1295,1531,412,455]" class="Insecta" family="Miridae" genus="Engytatus" kingdom="Animalia" order="Hemiptera" pageId="62" pageNumber="73" phylum="Arthropoda" rank="species" species="nicotianae">
+<emphasis id="56B0CE5DF5323F534F6FEEF4FA1FC0AF" box="[1295,1531,412,455]" italics="true" pageId="62" pageNumber="73">E. nicotianae</emphasis>
+</taxonomicName>
+may be separated from 
+<emphasis id="56B0CE5DF5323F534820EEB9FD54C092" box="[576,688,465,506]" italics="true" pageId="62" pageNumber="73">
+<taxonomicName id="A3C469CCF5323F534820EEB9FD4EC092" box="[576,682,465,506]" class="Insecta" family="Miridae" genus="Gallobelicus" kingdom="Animalia" order="Hemiptera" pageId="62" pageNumber="73" phylum="Arthropoda" rank="species" species="tenuis">tenuis</taxonomicName>
+,
+</emphasis>
+aside from the distinctive male terminalia, by the dark dorsal pubescence, and by the third antenna! segment which is pale even at the base.
+</paragraph>
+<paragraph id="647B124FF5323F534B3EED03F9B3C208" blockId="62.[287,1687,309,864]" pageId="62" pageNumber="73">
+Judging from the damaged female 
+<typeStatus id="BB7FACEDF5323F5349BCED03FBDEC3FD" box="[988,1082,619,661]" pageId="62" pageNumber="73">types</typeStatus>
+, Kirkaldy's 
+<taxonomicName id="A3C469CCF5323F534F7CED03FA39C3FD" authorityName="Fieber" authorityYear="1860" box="[1308,1501,619,661]" class="Insecta" family="Miridae" genus="Cyrtopeltis" kingdom="Animalia" order="Hemiptera" pageId="62" pageNumber="73" phylum="Arthropoda" rank="genus">
+<emphasis id="56B0CE5DF5323F534F7CED03FA39C3FD" box="[1308,1501,619,661]" italics="true" pageId="62" pageNumber="73">Cyrtopeltis</emphasis>
+</taxonomicName>
+(?) 
+<taxonomicName id="A3C469CCF5323F534C20ED03FE63C3A0" baseAuthorityName="Koningsberger" baseAuthorityYear="1903" class="Insecta" family="Miridae" genus="Engytatus" kingdom="Animalia" order="Hemiptera" pageId="62" pageNumber="73" phylum="Arthropoda" rank="species" species="nicotianae">
+<emphasis id="56B0CE5DF5323F534C20ED03FE63C3A0" italics="true" pageId="62" pageNumber="73">nicotianae</emphasis>
+</taxonomicName>
+from 
+<collectingCountry id="1CD352DFF5323F534867EDF5FDACC3A0" box="[519,584,669,712]" name="Fiji" pageId="62" pageNumber="73">Fiji</collectingCountry>
+belongs here. Whether Froggatt's 
+<taxonomicName id="A3C469CCF5323F534EBEEDF5FA1AC3A0" authorityName="Froggatt" authorityYear="1920" box="[1246,1534,669,712]" class="Insecta" family="Miridae" genus="Dicyphus" kingdom="Animalia" order="Hemiptera" pageId="62" pageNumber="73" phylum="Arthropoda" rank="species" species="tabaci">
+<emphasis id="56B0CE5DF5323F534EBEEDF5FA1AC3A0" box="[1246,1534,669,712]" italics="true" pageId="62" pageNumber="73">Dicyphus tabaci</emphasis>
+</taxonomicName>
+(Agric. Gaz. N. S. 
+<collectingCountry id="1CD352DFF5323F534B9EEDB9FD8FC393" box="[510,619,721,763]" name="United Kingdom" pageId="62" pageNumber="73">Wales</collectingCountry>
+<emphasis id="56B0CE5DF5323F5348E0EDB9FD42C393" bold="true" box="[640,678,721,763]" pageId="62" pageNumber="73">31:</emphasis>
+715-716, figs., 1920) from 
+<collectingCountry id="1CD352DFF5323F534EA3EDB9FA83C393" box="[1219,1383,721,763]" name="Australia" pageId="62" pageNumber="73">Australia</collectingCountry>
+belongs here or elsewhere is impossible for me to determine from the brief description. I have seen 
+<taxonomicName id="A3C469CCF5323F534B1AEC50FDCEC208" baseAuthorityName="Koningsberger" baseAuthorityYear="1903" box="[378,554,824,864]" class="Insecta" family="Miridae" genus="Engytatus" kingdom="Animalia" order="Hemiptera" pageId="62" pageNumber="73" phylum="Arthropoda" rank="species" species="nicotianae">
+<emphasis id="56B0CE5DF5323F534B1AEC50FDCEC208" box="[378,554,824,864]" italics="true" pageId="62" pageNumber="73">nicotianae</emphasis>
+</taxonomicName>
+from Noumea, 
+<collectingCountry id="1CD352DFF5323F53492DEC50FBB9C208" box="[845,1117,824,864]" name="New Caledonia" pageId="62" pageNumber="73">New Caledonia</collectingCountry>
+, on 
+<taxonomicName id="A3C469CCF5323F534ECBEC50F9B3C208" authority=", F. X. Williams." authorityName="F. X. Williams." box="[1195,1623,824,864]" class="Magnoliopsida" family="Solanaceae" genus="Datura" kingdom="Plantae" order="Solanales" pageId="62" pageNumber="73" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5323F534ECBEC50FAD5C208" box="[1195,1329,824,864]" italics="true" pageId="62" pageNumber="73">Datura,</emphasis>
+F. X. Williams.
+</taxonomicName>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

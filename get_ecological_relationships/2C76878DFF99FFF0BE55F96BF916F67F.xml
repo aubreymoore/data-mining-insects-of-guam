@@ -1,0 +1,176 @@
+<document id="948CDC72946C9A19D58737787088075F" ID-DOI="http://doi.org/10.5281/zenodo.5160233" ID-GBIF-Dataset="16f6ef92-619b-417b-946c-22d9b1445e7d" ID-Zenodo-Dep="5160233" checkinTime="1628022546680" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="2C76878DFF99FFF0BE55F96BF916F67F" docLanguage="en" docName="InsectsOfGuamII.189.3-8.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Acanthograeffea denticulata" docType="treatment" docVersion="20" lastPageNumber="7" masterDocId="D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8" masterDocTitle="Orthoptera And Related Orders Orthoptera And Related Orders Of Guam" masterLastPageNumber="8" masterPageNumber="3" pageNumber="7" updateTime="1658440303337" updateUser="aubreymoore">
+<mods:mods id="BC6B3B94B7EAD1BD12B1508088B34B05" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="3A86F41FDB1D15D8AD09DB7E86596D32">
+<mods:title id="8EAFD330A78C976D54AA590ED00DD8B0">Orthoptera And Related Orders Orthoptera And Related Orders Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="F611BB16CFBF39EECAD12B3863B6C64A" type="personal">
+<mods:role id="6EBF49E38FBE0F6739554A022DE393EC">
+<mods:roleTerm id="E84AE45DF90A28C45D6DBEF76A6E8755">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="FC1FE296847A47C191FD0603A345A00A">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="65964F87A3646E3637242A25D5942E69">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="B709A978F0FB3CD04DC7F4D960ACFFF1">text</mods:typeOfResource>
+<mods:relatedItem id="7648550A33D591725F4BCF40A561133B" type="host">
+<mods:originInfo id="E044013696EFDBBEF2CE0465A7B8F027">
+<mods:dateIssued id="10DD0E9460B42C8BE26FEC1D9819F33C">1946</mods:dateIssued>
+<mods:dateOther id="310528B3F5D61B4BDC9A266AE46F1542" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="9ACCA46724FD3AA03E4F776854DAFA96">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="97ECE2468F9AFBA73CE20411C2E35FB6">
+<mods:placeTerm id="7CEDE8BC83668DB106ADA8742D5E4B0F">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="680FA57ABF597E7B1BAAE0314653C60A">
+<mods:title id="D86CCA1F6E219D159FF842401BB741D3">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="A71F04571764E80FD3B3E16326BD3673">
+<mods:extent id="A95665E068551D952CBCFACDE100FD1B" unit="page">
+<mods:start id="679B2D297B6FDA96C8393CD0F9E760CF">3</mods:start>
+<mods:end id="E3BCC378B64B14260AF997AD69F5E2BF">8</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="5C1CB1CE6BFA1C9F510EFAC9ECDA3A08">book chapter</mods:classification>
+<mods:identifier id="586281F9314D54507E3998E3DE9128A7" type="DOI">http://doi.org/10.5281/zenodo.5160233</mods:identifier>
+<mods:identifier id="10B2FD8637EC1BA81A024E2212D159D7" type="GBIF-Dataset">16f6ef92-619b-417b-946c-22d9b1445e7d</mods:identifier>
+<mods:identifier id="6E0A0085143A9B3163908AFA0194A025" type="Zenodo-Dep">5160233</mods:identifier>
+</mods:mods>
+<treatment id="2C76878DFF99FFF0BE55F96BF916F67F" ID-DOI="http://doi.org/10.5281/zenodo.5188703" ID-GBIF-Taxon="183924963" ID-Zenodo-Dep="5188703" LSID="urn:lsid:plazi:treatment:2C76878DFF99FFF0BE55F96BF916F67F" httpUri="http://treatment.plazi.org/id/2C76878DFF99FFF0BE55F96BF916F67F" lastPageNumber="7" pageId="4" pageNumber="7">
+<subSubSection id="ECC56510FF99FFF0BE55F96BFB0CF932" box="[317,1207,1729,1770]" pageId="4" pageNumber="7" type="nomenclature">
+<paragraph id="A460369BFF99FFF0BE55F96BFB0CF932" blockId="4.[312,1711,1729,2471]" box="[317,1207,1729,1770]" pageId="4" pageNumber="7">
+<heading id="FF2881F7FF99FFF0BE55F96BFB0CF932" box="[317,1207,1729,1770]" fontSize="8" level="2" pageId="4" pageNumber="7" reason="4">
+<emphasis id="96ABEA89FF99FFF0BE55F96BFEE3F932" bold="true" box="[317,344,1729,1770]" pageId="4" pageNumber="7">1.</emphasis>
+<taxonomicName id="63DF4D18FF99FFF0BE11F96BFB09F932" authority="(Redtenbacher)" baseAuthorityName="Redtenbacher" baseAuthorityYear="1908" box="[377,1202,1729,1770]" class="Insecta" family="Phasmatidae" genus="Acanthograeffea" kingdom="Animalia" order="Phasmida" pageId="4" pageNumber="7" phylum="Arthropoda" rank="species" species="denticulata">
+<emphasis id="96ABEA89FF99FFF0BE11F96BFCC7F932" bold="true" box="[377,892,1729,1770]" pageId="4" pageNumber="7">Acanthograeffea denticulata</emphasis>
+(Redtenbacher)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF99FFF0BE12F956FD84F810" pageId="4" pageNumber="7" type="reference_group">
+<paragraph id="A460369BFF99FFF0BE12F956FDD1F881" blockId="4.[312,1711,1729,2471]" pageId="4" pageNumber="7">
+<treatmentCitationGroup id="84CF11B5FF99FFF0BE12F956FDD1F881" pageId="4" pageNumber="7">
+<treatmentCitation id="257E108AFF99FFF0BE12F956FDD1F881" author="Redtenbacher" page="371" pageId="4" pageNumber="7" year="1908">
+<bibCitation id="71F53EF7FF99FFF0BE12F956FDD1F881" author="Redtenbacher" pageId="4" pageNumber="7" pagination="371" refId="ref2264" title="Die Insektenfamilie der Phasmidae" type="book" year="1908">
+<emphasis id="96ABEA89FF99FFF0BE12F956FD52F8FE" box="[378,745,1788,1830]" italics="true" pageId="4" pageNumber="7">Graeffea denticulata</emphasis>
+<author id="7C62DE7EFF99FFF0BD97F956FC4EF8FE" box="[767,1013,1788,1830]" pageId="4" pageNumber="7">Redtenbacher</author>
+, 
+<title id="D6DBDDADFF99FFF0BB7DF956F912F8FE" box="[1045,1705,1788,1830]" pageId="4" pageNumber="7">Die Insektenfamilie der Phasmidae</title>
+, 
+<pagination id="9D16C86FFF99FFF0BEDFF885FE4CF881" box="[439,503,1839,1881]" pageId="4" pageNumber="7">371</pagination>
+, 
+<year id="D07777C8FF99FFF0BD78F885FDDEF881" box="[528,613,1839,1881]" pageId="4" pageNumber="7">1908</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="A460369BFF99FFF0BE1FF8C0FD84F810" blockId="4.[312,1711,1729,2471]" pageId="4" pageNumber="7">
+<treatmentCitationGroup id="84CF11B5FF99FFF0BE1FF8C0FD84F810" pageId="4" pageNumber="7">
+<treatmentCitation id="257E108AFF99FFF0BE1FF8C0FD84F810" author="Gunther" page="776" pageId="4" pageNumber="7" year="1931">
+<bibCitation id="71F53EF7FF99FFF0BE1FF8C0FD84F810" author="Gunther" journalOrPublisher="Zool. Mus. Berlin, Mitt." pageId="4" pageNumber="7" pagination="776" part="17" refId="ref2277" type="journal article" year="1931">
+<emphasis id="96ABEA89FF99FFF0BE1FF8C0FCCBF84C" box="[375,880,1898,1940]" italics="true" pageId="4" pageNumber="7">Acanthograeffea denticulata,</emphasis>
+<author id="7C62DE7EFF99FFF0BC17F8C0FBAEF84C" box="[895,1045,1898,1940]" pageId="4" pageNumber="7">Gunther</author>
+, 
+<journalOrPublisher id="7E1E3C57FF99FFF0BB41F8C0FA6BF84C" box="[1065,1488,1898,1940]" pageId="4" pageNumber="7">Zool. Mus. Berlin, Mitt.</journalOrPublisher>
+<emphasis id="96ABEA89FF99FFF0BA88F8C0F9ACF84C" bold="true" box="[1504,1559,1898,1940]" pageId="4" pageNumber="7">
+<part id="D07B9C06FF99FFF0BA88F8C0F9AAF84C" box="[1504,1553,1898,1940]" pageId="4" pageNumber="7">17</part>
+:
+</emphasis>
+<pagination id="9D16C86FFF99FFF0B94CF8C0F9DEF84C" box="[1572,1637,1898,1940]" pageId="4" pageNumber="7">776</pagination>
+, fig. 1, 
+<year id="D07777C8FF99FFF0BE8EF834FD81F810" box="[486,570,1950,1992]" pageId="4" pageNumber="7">1931</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF99FFF0BE11F872FD36F7B2" pageId="4" pageNumber="7" type="materials_examined">
+<paragraph id="A460369BFF99FFF0BE11F872FD36F7B2" blockId="4.[312,1711,1729,2471]" pageId="4" pageNumber="7">
+<materialsCitation id="14B73CC6FF99FFF0BE11F872FC84F7DC" ID-GBIF-Occurrence="3441224313" box="[377,831,2008,2052]" collectingDate="1936-04-01" collectorName="E. H. Bryan" country="Guam" location="Talofofo" pageId="4" pageNumber="7">
+<collectingMunicipality id="4404ACE1FF99FFF0BE11F872FDA0F7DC" box="[377,539,2008,2052]" pageId="4" pageNumber="7">Talofofo</collectingMunicipality>
+, 
+<date id="D061105BFF99FFF0BD47F872FD0BF7DC" box="[559,688,2008,2052]" pageId="4" pageNumber="7">
+<collectingDate id="C025E9B3FF99FFF0BD47F872FD0BF7DC" box="[559,688,2008,2052]" pageId="4" pageNumber="7">April 1</collectingDate>
+</date>
+, 
+<collectorName id="092A534DFF99FFF0BDA0F872FC84F7DC" box="[712,831,2008,2052]" pageId="4" pageNumber="7">Bryan</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF99FFF0BC3FF872FB74F7DC" ID-GBIF-Occurrence="3441224319" box="[855,1231,2008,2052]" collectingDate="1936-05-03" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="4" pageNumber="7">
+<collectingMunicipality id="4404ACE1FF99FFF0BC3FF872FC22F7DC" box="[855,921,2008,2052]" pageId="4" pageNumber="7">Piti</collectingMunicipality>
+, 
+<date id="D061105BFF99FFF0BCC7F872FB9AF7DC" box="[943,1057,2008,2052]" pageId="4" pageNumber="7">
+<collectingDate id="C025E9B3FF99FFF0BCC7F872FB9AF7DC" box="[943,1057,2008,2052]" pageId="4" pageNumber="7">May 3</collectingDate>
+</date>
+, 
+<location id="A1006040FF99FFF0BB5FF872FB74F7DC" LSID="urn:lsid:plazi:treatment:2C76878DFF99FFF0BE55F96BF916F67F:A1006040FF99FFF0BB5FF872FB74F7DC" box="[1079,1231,2008,2052]" municipality="Piti" name="Usinger" pageId="4" pageNumber="7">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF99FFF0BB8DF872FDBDF7EF" ID-GBIF-Occurrence="3441224343" collectedFrom="on coconut" collectingDate="1936-05-07" collectorName="E. H. Bryan" country="Guam" location="Inarajan" pageId="4" pageNumber="7">
+<location id="A1006040FF99FFF0BB8DF872FA3BF7DC" LSID="urn:lsid:plazi:treatment:2C76878DFF99FFF0BE55F96BF916F67F:A1006040FF99FFF0BB8DF872FA3BF7DC" box="[1253,1408,2008,2052]" name="Inarajan" pageId="4" pageNumber="7">Inarajan</location>
+, 
+<date id="D061105BFF99FFF0BAFFF872F9B2F7DC" box="[1431,1545,2008,2052]" pageId="4" pageNumber="7">
+<collectingDate id="C025E9B3FF99FFF0BAFFF872F9B2F7DC" box="[1431,1545,2008,2052]" pageId="4" pageNumber="7">May 7</collectingDate>
+</date>
+, on coconut, 
+<collectorName id="092A534DFF99FFF0BEE7F7A7FDBDF7EF" box="[399,518,2061,2103]" pageId="4" pageNumber="7">Bryan</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF99FFF0BD77F7A7FB4DF7EF" ID-GBIF-Occurrence="3441224356" box="[543,1270,2061,2103]" collectedFrom="on Pandanus" collectingDate="1936-06-08" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="4" pageNumber="7">
+<location id="A1006040FF99FFF0BD77F7A7FD00F7EF" LSID="urn:lsid:plazi:treatment:2C76878DFF99FFF0BE55F96BF916F67F:A1006040FF99FFF0BD77F7A7FD00F7EF" box="[543,699,2061,2103]" name="Inarajan" pageId="4" pageNumber="7">Inarajan</location>
+, 
+<date id="D061105BFF99FFF0BDBBF7A7FCF7F7EF" box="[723,844,2061,2103]" pageId="4" pageNumber="7">
+<collectingDate id="C025E9B3FF99FFF0BDBBF7A7FCF7F7EF" box="[723,844,2061,2103]" pageId="4" pageNumber="7">June 8</collectingDate>
+</date>
+, on 
+<emphasis id="96ABEA89FF99FFF0BCF6F7A7FBECF7EF" box="[926,1111,2061,2103]" italics="true" pageId="4" pageNumber="7">
+<taxonomicName id="63DF4D18FF99FFF0BCF6F7A7FBEBF7EF" authority="Swezey" authorityName="Swezey" box="[926,1104,2061,2103]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="4" pageNumber="7" phylum="Tracheophyta" rank="genus">
+<location id="A1006040FF99FFF0BCF6F7A7FBEBF7EF" LSID="urn:lsid:plazi:treatment:2C76878DFF99FFF0BE55F96BF916F67F:A1006040FF99FFF0BCF6F7A7FBEBF7EF" box="[926,1104,2061,2103]" name="Pandanus" pageId="4" pageNumber="7">Pandanus</location>
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="092A534DFF99FFF0BB01F7A7FB4DF7EF" box="[1129,1270,2061,2103]" pageId="4" pageNumber="7">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF99FFF0BA78F7A7FD33F7B2" ID-GBIF-Occurrence="3441224302" collectedFrom="on Pandanus" collectingDate="1936-06-30" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="4" pageNumber="7">
+<collectingMunicipality id="4404ACE1FF99FFF0BA78F7A7FA73F7EF" box="[1296,1480,2061,2103]" pageId="4" pageNumber="7">Machanao</collectingMunicipality>
+, 
+<date id="D061105BFF99FFF0BAB6F7A7F9D6F7EF" box="[1502,1645,2061,2103]" pageId="4" pageNumber="7" value="1930-06">
+<collectingDate id="C025E9B3FF99FFF0BAB6F7A7F9D6F7EF" box="[1502,1645,2061,2103]" pageId="4" pageNumber="7" value="1930-06">June 30</collectingDate>
+</date>
+, on 
+<emphasis id="96ABEA89FF99FFF0BE50F7EBFE54F7B2" box="[312,495,2113,2154]" italics="true" pageId="4" pageNumber="7">
+<taxonomicName id="63DF4D18FF99FFF0BE50F7EBFE53F7B2" authority="Swezey" box="[312,488,2113,2154]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="4" pageNumber="7" phylum="Tracheophyta" rank="genus">
+<location id="A1006040FF99FFF0BE50F7EBFE53F7B2" LSID="urn:lsid:plazi:treatment:2C76878DFF99FFF0BE55F96BF916F67F:A1006040FF99FFF0BE50F7EBFE53F7B2" box="[312,488,2113,2154]" municipality="Machanao" name="Pandanus" pageId="4" pageNumber="7">Pandanus</location>
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="092A534DFF99FFF0BD68F7EBFD33F7B2" box="[512,648,2113,2154]" pageId="4" pageNumber="7">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF99FFF0BE11F7D1F916F67F" pageId="4" pageNumber="7" type="discussion">
+<paragraph id="A460369BFF99FFF0BE11F7D1F916F67F" blockId="4.[312,1711,1729,2471]" pageId="4" pageNumber="7">
+<materialsCitation id="14B73CC6FF99FFF0BE11F7D1F910F70F" ID-GBIF-Occurrence="3861811301" collectedFrom="on coconut leaves" collectingDate="1911" collectorName="D. T. Fullaway" country="Northern Mariana Islands" location="Saipan" pageId="4" pageNumber="7" specimenCount="1">
+This large walking-stick was described from 
+<collectingRegion id="661BF879FF99FFF0BBF1F7D1FAA8F77E" box="[1177,1299,2171,2214]" country="Northern Mariana Islands" name="Saipan" pageId="4" pageNumber="7">Saipan</collectingRegion>
+, 
+<collectingCountry id="DCC8760BFF99FFF0BA40F7D1F9E0F77E" box="[1320,1627,2171,2214]" name="Northern Mariana Islands" pageId="4" pageNumber="7">Marianas Islands</collectingCountry>
+, and I know of no other records. 
+<location id="A1006040FF99FFF0BC3FF705FC41F70F" LSID="urn:lsid:plazi:treatment:2C76878DFF99FFF0BE55F96BF916F67F:A1006040FF99FFF0BC3FF705FC41F70F" box="[855,1018,2223,2263]" name="Fullaway" pageId="4" pageNumber="7">Fullaway</location>
+reported it on coconut leaves in 1911
+</materialsCitation>
+<emphasis id="96ABEA89FF99FFF0BC6AF772FCB6F73A" box="[770,781,2264,2274]" italics="true" pageId="4" pageNumber="7">$</emphasis>
+(1293) without name (merely &quot;phasmid&quot;). We saw coconut trees with ragged leaves, said to have been caused by the feeding of this insect when abundant. However, we found only an occasional specimen, and no significant injury being done. Some of the specimens that we collected were on 
+<taxonomicName id="63DF4D18FF99FFF0BAE9F6D4F994F67F" box="[1409,1583,2430,2471]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="4" pageNumber="7" phylum="Tracheophyta" rank="genus">
+<emphasis id="96ABEA89FF99FFF0BAE9F6D4F994F67F" box="[1409,1583,2430,2471]" italics="true" pageId="4" pageNumber="7">Pandanus</emphasis>
+</taxonomicName>
+leaves.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

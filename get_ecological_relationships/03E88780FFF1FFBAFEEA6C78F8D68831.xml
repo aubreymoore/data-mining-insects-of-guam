@@ -1,0 +1,91 @@
+<document id="19400131061AEE4BC3A48D1D58C9D4F3" ID-DOI="http://doi.org/10.5281/zenodo.5169330" ID-GBIF-Dataset="11d04f7a-e744-4ac9-b0af-3cbf68f8cc92" ID-Zenodo-Dep="5169330" checkinTime="1628021447149" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="03E88780FFF1FFBAFEEA6C78F8D68831" docLanguage="en" docName="InsectsOfGuamII.189.201-210.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pseudhomalopoda guamensis Fullaway, 1946, new species" docType="treatment" docVersion="9" lastPageNumber="210" masterDocId="FFD1FFF8FFF9FFB3FFC86E5DFFBE8B32" masterDocTitle="Hymenoptera, New Species Of Guam Chalcidoidea" masterLastPageNumber="210" masterPageNumber="201" pageNumber="209" updateTime="1658154551490" updateUser="annettekang">
+<mods:mods id="738B04D61B59A4A2CDCAE61AC0087831" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C7CD68E1D55F99AC490A0D386372A8D1">
+<mods:title id="C286C964B84217D7904ACC000755BA83">Hymenoptera, New Species Of Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="B6B57EE2F2F08EA908E6AC2C5D65C7BA" type="personal">
+<mods:role id="F073FC6B9B68C8A6BFA43422AD42931F">
+<mods:roleTerm id="A859AE16A871389481432EF91E05AB17">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="7310CC8977F482665E4EC660F12EAE4F">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="52A9B78AA57DE34C37DCE610F77CC369">Board of Agriculture and Forestry Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="E1A9EEE1308643BF2946F990488BB145">text</mods:typeOfResource>
+<mods:relatedItem id="69DBADEB76888D8B61199674CE448884" type="host">
+<mods:originInfo id="1B5F83B850FD572541BE0E6B856D7A30">
+<mods:dateIssued id="0284FE8FBBC914D770A235B46CF94ABB">1946</mods:dateIssued>
+<mods:dateOther id="CD58A72CC4BEC78AD0E0E3D5FDD9CBBB" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="EC15151B2922903544A1D5B7AD6EEA01">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="19C4DB00F280A64576C9A16F6CE22911">
+<mods:placeTerm id="E4BC66B29813EE80DCA35D5F5005D800">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="60DCB676A6A3D72C95947582867BE749">
+<mods:title id="C7A9F1BEB4AA2D89CD1CEAFB9A4A0A1F">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="6CAE8942750057E4C997E343771EB947">
+<mods:extent id="16B87F4D0E7DBED4E096FD9315D6C084" unit="page">
+<mods:start id="80E1DE937B45375F1FBD5E5FC8293B19">201</mods:start>
+<mods:end id="807C32FE96A8EF1D9779C20008744700">210</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="0F4E0D29ACD4B299DB0630E6620741BC">book chapter</mods:classification>
+<mods:identifier id="43B13689D3C56584778420E37E8514F9" type="DOI">http://doi.org/10.5281/zenodo.5169330</mods:identifier>
+<mods:identifier id="1285418211212B7BDA2DE883A51BF45F" type="GBIF-Dataset">11d04f7a-e744-4ac9-b0af-3cbf68f8cc92</mods:identifier>
+<mods:identifier id="91138DD454F90F715BDB6A6500B3F141" type="Zenodo-Dep">5169330</mods:identifier>
+</mods:mods>
+<treatment id="03E88780FFF1FFBAFEEA6C78F8D68831" ID-DOI="http://doi.org/10.5281/zenodo.5186394" ID-GBIF-Taxon="184009993" ID-Zenodo-Dep="5186394" LSID="urn:lsid:zoobank.org:act:3CF3F602-874D-426F-B979-EE509CA28883" httpUri="http://treatment.plazi.org/id/03E88780FFF1FFBAFEEA6C78F8D68831" lastPageId="9" lastPageNumber="210" pageId="8" pageNumber="209">
+<subSubSection id="C35B651DFFF1FFBBFEEA6C78FB33897C" box="[290,1165,549,590]" pageId="8" pageNumber="209" type="nomenclature">
+<paragraph id="8BFE3696FFF1FFBBFEEA6C78FB33897C" blockId="8.[288,1698,549,2511]" box="[290,1165,549,590]" pageId="8" pageNumber="209">
+<heading id="D0B681FAFFF1FFBBFEEA6C78FB33897C" box="[290,1165,549,590]" fontSize="8" level="2" pageId="8" pageNumber="209" reason="4">
+<emphasis id="B935EA84FFF1FFBBFEEA6C78FC26897C" bold="true" box="[290,920,549,590]" pageId="8" pageNumber="209">
+10. 
+<taxonomicName id="4C414D15FFF1FFBBFEBB6C78FC2F897C" authorityName="Fullaway" authorityYear="1946" box="[371,913,549,590]" class="Insecta" family="Encyrtidae" genus="Pseudhomalopoda" kingdom="Animalia" order="Hymenoptera" pageId="8" pageNumber="209" phylum="Arthropoda" rank="species" species="guamensis" status="new species">Pseudhomalopoda guamensis</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="A20657FFFFF1FFBBFC636C78FB36897C" box="[939,1160,549,590]" pageId="8" pageNumber="209" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C35B651DFFF1FFBAFEAD6C3DFAE98964" lastPageId="9" lastPageNumber="210" pageId="8" pageNumber="209" type="description">
+<paragraph id="8BFE3696FFF1FFBBFEAD6C3DFA9D88A6" blockId="8.[288,1698,549,2511]" pageId="8" pageNumber="209">
+Female: 
+<quantity id="4CB99B73FFF1FFBBFDCE6C3DFDDA89B0" box="[518,612,608,642]" metricMagnitude="-3" metricUnit="m" metricValue="1.0" pageId="8" pageNumber="209" unit="mm" value="1.0">1 mm</quantity>
+. long, metallic blue-green on head and thorax dorsally, abdomen and ventral surface of thorax bluish black without metallic reflections, legs fuscous except at the joints where they are a dirty white, antennae dusky with the club and distal joint of the funicle sordid white. Head: frontovertex rather coarsely shagreened, face and cheeks finely so, mesonotum microscopically reticulately sculptured, a few fine pin-point punctuations bearing fine black hairs scattered over the surface, scutellum shagreened on the triangular disk and bearing three hairs in a row on both lateral margins; otherwise body so finely sculptured as to appear smooth and shining.
+</paragraph>
+<paragraph id="8BFE3696FFF1FFBBFEAE6DC2FA0C8D94" blockId="8.[288,1698,549,2511]" pageId="8" pageNumber="209">Head transverse, viewed from above lenticular, width three times length anteriorlyposteriorly, flat, lying in horizontal plane, in side view triangular with the frontal and occipital margins forming the short sides, the retracted face the long side; eyes fairly large, oval, convex, partly on the top and partly on side of head, the lowest point. in the margin lying beneath the attachment of the antennae; frontovertex occupying a third of the top of the head, nearly quadrate in form, the posterior (occipital) margin rather deeply incised, the anterior (frontal) margin carinate; the ocelli are situated in the middle and form an obtuse triangle, the lateral members less than one diameter removed from the ocular margin and several diameters from the anterior member, a stout, erect, black scalelike hair arises from the occipital margin on either side behind eye; the face widens considerably below eyes; the antennae are attached at about the middle of the face and are far apart; the upper part of the face is excavated to form the scrobes although between the lower scapes there is a short flat ridge; the genae are quite wide; the mandibles are small, slender, and pointed apically; antennae short and fairly stout (as long as width of head) consisting of nine segments, scape as long as head and with a leaflike expansion downward apically, pedicel obconic, less than a third the length of the scape and less than twice as long as apical width; of the four funicle joints, the 1st and 4th are quadrate, the 2d and 3d transverse or wider than long, the combined length of· the four less than that of the scape and about equal to that of the club, which is somewhat flattened and apically pointed, the apical joint shorter than the other two.</paragraph>
+<paragraph id="8BFE3696FFF1FFBBFEA168EFF9248CD6" blockId="8.[288,1698,549,2511]" pageId="8" pageNumber="209">Thorax longer than wide and not very deep (more or less depressed), pronotum transverse, crescentic, both anterior and posterior margins arcuate, the curve in bpth cases being cephalad; mesonotum also transverse, twice as wide as long, anterior margin coinciding with hind margin of pronotum, posterior margin nearly straight, more or less convex; scutellum scutate, posteriorly rounded, and bearing two stout scalelike hairs on posterior margin; axillae small, triangular, apices directed inward and touching at about midline; metanotum and propodeum declivous and rather flat behind, as wide as the mesonotum and fairly long, the posterior angles full and bearing a prominent spiracle.</paragraph>
+<paragraph id="8BFE3696FFF1FFBBFEA269ADFC9F8352" blockId="8.[288,1698,549,2511]" pageId="8" pageNumber="209">Abdomen as long as the thorax and at base as wide but narrowing apically to a blunt end with the ovipositor projecting behind about a fourth the abdominal length, the abdomen itself generally flat or depressed.</paragraph>
+<paragraph id="8BFE3696FFF1FFBBFEA36631FD628384" blockId="8.[288,1698,549,2511]" pageId="8" pageNumber="209">Legs only moderately long and not particularly stout, the spine on the middle tibiae longer than the metatarsus.</paragraph>
+<paragraph id="8BFE3696FFF1FFBAFEA2669FFAE98964" blockId="8.[288,1698,549,2511]" lastBlockId="9.[500,1898,405,771]" lastPageId="9" lastPageNumber="210" pageId="8" pageNumber="209">Forewings nearly three times longer than greatest width, spatulate, the marginal vein within the proximal half of wing short and thick and bearing many crowded stiff black hairs or bristles, S1'bmarginal long, probably 10 times longer than the marginal, with nine stout bristles evenly distributed along its length, stigma! half the length of marginal and very thin, diverging from costal margin at a 15-degree angle and bearing a line of three sensory pits apically, postmarginal vein indistinct; marginal ciliation short to apex of wing where it increases in length several times and on caudal margin becomes even longer, probably one tenth the width of the wing; discal ciliation follows generally the pattern of infumation although apically and caudally there is a ciliated area not obfuscated; there are three hyaline areas along the costal margin and three corresponding areas along caudal margin; the base of the wing is also hyaline and the outer costal hyaline area is triangular in shape with apex directed apically.</paragraph>
+</subSubSection>
+<subSubSection id="C35B651DFFF0FFBAFDFC6C2FF8D68831" pageId="9" pageNumber="210" type="materials_examined">
+<paragraph id="8BFE3696FFF0FFBAFDFC6C2FF8D68831" blockId="9.[500,1898,405,771]" pageId="9" pageNumber="210">
+<materialsCitation id="3B293CCBFFF0FFBAFDFC6C2FF8D68831" ID-GBIF-Occurrence="3333035315" collectedFrom="swept from scale-infested bamboo" collectingDate="1936-10-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="9" pageNumber="210" specimenCount="24" specimenCount-female="12" typeStatus="holotype and paratypes">
+<location id="8E9E604DFFF0FFBAFDFC6C2FFDC989AE" LSID="urn:lsid:plazi:treatment:03E88780FFF1FFBAFEEA6C78F8D68831:8E9E604DFFF0FFBAFDFC6C2FFDC989AE" box="[564,631,626,668]" municipality="Described" name="Piti" pageId="9" pageNumber="210">Piti</location>
+, 
+<date id="FFFF1056FFF0FFBAFD456C2FFCB189AE" box="[653,783,626,668]" pageId="9" pageNumber="210" value="1927-10">
+<collectingDate id="EFBBE9BEFFF0FFBAFD456C2FFCB189AE" box="[653,783,626,668]" pageId="9" pageNumber="210" value="1927-10">Oct. 27</collectingDate>
+</date>
+, swept from scale-infested bamboo, 
+<collectorName id="26B45340FFF0FFBAFA606C2FF98C89AE" box="[1448,1586,626,668]" pageId="9" pageNumber="210">Swezey</collectorName>
+. 
+<collectingMunicipality id="6B9AACECFFF0FFBAF9986C2FF8BD89AE" box="[1616,1795,626,668]" pageId="9" pageNumber="210">Described</collectingMunicipality>
+from 
+<specimenCount id="9D47FD1FFFF0FFBAFE306CF8FD5D89E2" box="[504,739,677,720]" pageId="9" pageNumber="210" type="generic">12 specimens</specimenCount>
+, all 
+<specimenCount id="9D47FD1FFFF0FFBAFCF96CF8FC0389E2" box="[817,957,677,720]" pageId="9" pageNumber="210" type="female">females</specimenCount>
+, six mounted on points and six on a slide (
+<typeStatus id="54FA8834FFF0FFBAF9006CF8F8D489E2" box="[1736,1898,677,720]" pageId="9" pageNumber="210">holotype</typeStatus>
+and 
+<typeStatus id="54FA8834FFF0FFBAFDF66C87FD618831" box="[574,735,730,771]" pageId="9" pageNumber="210">paratypes</typeStatus>
+)); 12 
+<typeStatus id="54FA8834FFF0FFBAFC9A6C87FB038831" box="[850,1213,730,771]" isOtherTypeStatus="true" pageId="9" pageNumber="210">additional specimens</typeStatus>
+, mounted on points, from same source.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

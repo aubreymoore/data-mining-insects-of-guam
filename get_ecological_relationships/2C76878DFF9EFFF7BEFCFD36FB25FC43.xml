@@ -1,0 +1,108 @@
+<document id="32D9973CD5F5D99839EDDAAB6E161F50" ID-DOI="http://doi.org/10.5281/zenodo.5160233" ID-GBIF-Dataset="16f6ef92-619b-417b-946c-22d9b1445e7d" ID-Zenodo-Dep="5160233" checkinTime="1628022546680" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="2C76878DFF9EFFF7BEFCFD36FB25FC43" docLanguage="en" docName="InsectsOfGuamII.189.3-8.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docTitle="Supella supellectilium" docType="treatment" docVersion="14" lastPageNumber="6" masterDocId="D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8" masterDocTitle="Orthoptera And Related Orders Orthoptera And Related Orders Of Guam" masterLastPageNumber="8" masterPageNumber="3" pageNumber="6" updateTime="1657636930491" updateUser="annettekang">
+<mods:mods id="D51D072CD4F78AA0067DC45F74679656" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="A9DB4BFD240BA286C7A5862DD56BA58E">
+<mods:title id="50D24877DAAB58EBCB9FDBE1FAF87F87">Orthoptera And Related Orders Orthoptera And Related Orders Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="47827AD0AAF6D3200A0998A6547C033B" type="personal">
+<mods:role id="38BC3874B36819961C14AF6406236138">
+<mods:roleTerm id="E7090F5283405D3B8C35583313156ED8">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="8EEA00205879EDDACABC83FE46D9CF30">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="606B7A4ECA9299AEBAA518ADD23EA499">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="799E9FAB89982DD1F895A168084D3108">text</mods:typeOfResource>
+<mods:relatedItem id="9DE55AEB9516763BB3DB37E6E81FA69B" type="host">
+<mods:originInfo id="C027418F52F36B5C2FD46CBE28A46CFE">
+<mods:dateIssued id="585F0EEC3A5A32AFCA26DE384BB24B9D">1946</mods:dateIssued>
+<mods:dateOther id="6715C33E5B3036B6B09AFE1BD5E73BC7" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="FBB6170DE6BCE2374791406829372127">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="0CDA005D027B79C6A0598E07A8354A4E">
+<mods:placeTerm id="73EC7C619A5525DF44EE5FDAB8686622">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="E7C9AD9F9B967F1C0CD057B4F23D8E6D">
+<mods:title id="E43CA3DBFE6FD554A50F86214D7122EC">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="867CD02647E9F9A8F3B4CD1660F87390">
+<mods:extent id="890C3CDBBA758ACF851CF8D8DDB7A3D5" unit="page">
+<mods:start id="B39B1E823F9DA220BFFA39C943AEC459">3</mods:start>
+<mods:end id="45CF37D031724735B30EA2D97151DB1F">8</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="1E0ED8408EB93F1BEDC431D21536762C">book chapter</mods:classification>
+<mods:identifier id="9FBEF1FBD109A371FB50AFC13A566F60" type="DOI">http://doi.org/10.5281/zenodo.5160233</mods:identifier>
+<mods:identifier id="A687E110903D2CE7C5F4692B1F83BBB8" type="GBIF-Dataset">16f6ef92-619b-417b-946c-22d9b1445e7d</mods:identifier>
+<mods:identifier id="268103335AFC43FF5E8456CF4AE27B67" type="Zenodo-Dep">5160233</mods:identifier>
+</mods:mods>
+<treatment id="2C76878DFF9EFFF7BEFCFD36FB25FC43" ID-DOI="http://doi.org/10.5281/zenodo.5164266" ID-GBIF-Taxon="183924967" ID-Zenodo-Dep="5164266" LSID="urn:lsid:plazi:treatment:2C76878DFF9EFFF7BEFCFD36FB25FC43" httpUri="http://treatment.plazi.org/id/2C76878DFF9EFFF7BEFCFD36FB25FC43" lastPageNumber="6" pageId="3" pageNumber="6">
+<subSubSection id="ECC56510FF9EFFF7BEFCFD36FB95FD1E" box="[404,1070,668,710]" pageId="3" pageNumber="6" type="nomenclature">
+<paragraph id="A460369BFF9EFFF7BEFCFD36FB95FD1E" blockId="3.[402,1799,668,923]" box="[404,1070,668,710]" pageId="3" pageNumber="6">
+<heading id="FF2881F7FF9EFFF7BEFCFD36FB95FD1E" box="[404,1070,668,710]" fontSize="8" level="2" pageId="3" pageNumber="6" reason="4">
+1. 
+<taxonomicName id="63DF4D18FF9EFFF7BEB9FD36FB93FD1E" authority="(Serville)" baseAuthorityName="Serville" box="[465,1064,668,710]" class="Insecta" family="Blattidae" genus="Supella" kingdom="Animalia" order="Blattodea" pageId="3" pageNumber="6" phylum="Arthropoda" rank="species" species="supellectilium">Supella supellectilium (Serville)</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9EFFF7BEB8FD72F9C1FCED" pageId="3" pageNumber="6" type="reference_group">
+<paragraph id="A460369BFF9EFFF7BEB8FD72FADEFCDA" blockId="3.[402,1799,668,923]" box="[464,1381,728,770]" pageId="3" pageNumber="6">
+<treatmentCitationGroup id="84CF11B5FF9EFFF7BEB8FD72FADEFCDA" box="[464,1381,728,770]" pageId="3" pageNumber="6">
+<treatmentCitation id="257E108AFF9EFFF7BEB8FD72FADEFCDA" author="Serville" box="[464,1381,728,770]" page="114" pageId="3" pageNumber="6" year="1839">
+<bibCitation id="71F53EF7FF9EFFF7BEB8FD72FADEFCDA" author="Serville" box="[464,1381,728,770]" journalOrPublisher="Ins. Orth." pageId="3" pageNumber="6" pagination="114" refId="ref1512" type="book" year="1839">
+<emphasis id="96ABEA89FF9EFFF7BEB8FD72FC81FCDA" box="[464,826,728,770]" italics="true" pageId="3" pageNumber="6">Blatta supellectilium</emphasis>
+<author id="7C62DE7EFF9EFFF7BC22FD72FC69FCDA" box="[842,978,728,770]" pageId="3" pageNumber="6">Serville</author>
+, 
+<journalOrPublisher id="7E1E3C57FF9EFFF7BC82FD72FB27FCDA" box="[1002,1180,728,770]" pageId="3" pageNumber="6">Ins. Orth.</journalOrPublisher>
+, 
+<pagination id="9D16C86FFF9EFFF7BBDFFD72FB4FFCDA" box="[1207,1268,728,770]" pageId="3" pageNumber="6">114</pagination>
+, 
+<year id="D07777C8FF9EFFF7BA64FD72FADBFCDA" box="[1292,1376,728,770]" pageId="3" pageNumber="6">1839</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="A460369BFF9EFFF7BEB9FCA1F9C1FCED" blockId="3.[402,1799,668,923]" box="[465,1658,779,821]" pageId="3" pageNumber="6">
+<treatmentCitationGroup id="84CF11B5FF9EFFF7BEB9FCA1F9C1FCED" box="[465,1658,779,821]" pageId="3" pageNumber="6">
+<treatmentCitation id="257E108AFF9EFFF7BEB9FCA1F9C1FCED" author="Shelford" box="[465,1658,779,821]" page="155" pageId="3" pageNumber="6" year="1911">
+<bibCitation id="71F53EF7FF9EFFF7BEB9FCA1F9C1FCED" author="Shelford" box="[465,1658,779,821]" journalOrPublisher="Ent. Mo. Mag." pageId="3" pageNumber="6" pagination="155" part="2" refId="ref1525" type="journal article" year="1911">
+<emphasis id="96ABEA89FF9EFFF7BEB9FCA1FCE7FCED" box="[465,860,779,821]" italics="true" pageId="3" pageNumber="6">Supella supellectiliitin,</emphasis>
+<author id="7C62DE7EFF9EFFF7BC18FCA1FBB6FCED" box="[880,1037,779,821]" pageId="3" pageNumber="6">Shelford</author>
+, 
+<journalOrPublisher id="7E1E3C57FF9EFFF7BB4EFCA1FA89FCED" box="[1062,1330,779,821]" pageId="3" pageNumber="6">Ent. Mo. Mag.</journalOrPublisher>
+<part id="D07B9C06FF9EFFF7BA2BFCA1FAE2FCED" box="[1347,1369,779,821]" pageId="3" pageNumber="6" type="volume">2</part>
+(
+<part id="D07B9C06FF9EFFF7BA0DFCA1FA2FFCED" box="[1381,1428,779,821]" pageId="3" pageNumber="6" type="issue">22</part>
+): 
+<pagination id="9D16C86FFF9EFFF7BAA3FCA1F9B3FCED" box="[1483,1544,779,821]" pageId="3" pageNumber="6" type="pagination">155</pagination>
+, 
+<year id="D07777C8FF9EFFF7B94AFCA1F9CEFCED" box="[1570,1653,779,821]" pageId="3" pageNumber="6">1911</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9EFFF7BEBAFC95FB25FC43" pageId="3" pageNumber="6" type="materials_examined">
+<paragraph id="A460369BFF9EFFF7BEBAFC95FB25FC43" blockId="3.[402,1799,668,923]" pageId="3" pageNumber="6">
+<materialsCitation id="14B73CC6FF9EFFF7BEBAFC95FC83FC43" ID-GBIF-Occurrence="3331604379" collectedFrom="taken in the house" collectingDate="1936-11-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="3" pageNumber="6" specimenCount-male="1">
+One 
+<specimenCount id="B2D9FD12FF9EFFF7BD4FFC95FDC3FCB1" box="[551,632,831,873]" pageId="3" pageNumber="6" type="male">male</specimenCount>
+<specimenCount id="B2D9FD12FF9EFFF7BDEEFC95FC98FCB1" box="[646,803,831,873]" pageId="3" pageNumber="6" type="generic">specimen</specimenCount>
+of this cosmopolitan house roach was taken in the house at 
+<collectingMunicipality id="4404ACE1FF9EFFF7BEAAFCD9FDBEFC43" box="[450,517,883,923]" pageId="3" pageNumber="6">Piti</collectingMunicipality>
+, 
+<date id="D061105BFF9EFFF7BD75FCD9FD23FC43" box="[541,664,883,923]" pageId="3" pageNumber="6">
+<collectingDate id="C025E9B3FF9EFFF7BD75FCD9FD23FC43" box="[541,664,883,923]" pageId="3" pageNumber="6">Nov. 9</collectingDate>
+</date>
+, 
+<collectorName id="092A534DFF9EFFF7BDD9FCD9FC83FC43" box="[689,824,883,923]" pageId="3" pageNumber="6">Swezey</collectorName>
+</materialsCitation>
+. Occurs in 
+<collectingRegion id="661BF879FF9EFFF7BB7DFCD9FB22FC43" box="[1045,1177,883,923]" country="United States of America" name="Hawaii" pageId="3" pageNumber="6">Hawaii</collectingRegion>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

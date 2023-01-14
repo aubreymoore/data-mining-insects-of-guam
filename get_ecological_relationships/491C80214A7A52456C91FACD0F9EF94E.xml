@@ -1,0 +1,115 @@
+<document id="014A28D4E5736C92EF8A50B3A0FB5FE1" ID-DOI="http://doi.org/10.5281/zenodo.5160297" ID-GBIF-Dataset="1df399c6-c920-4862-81a3-dd51f0a28471" ID-Zenodo-Dep="5160297" checkinTime="1628013120545" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="491C80214A7A52456C91FACD0F9EF94E" docLanguage="en" docName="InsectsOfGuamI.172.184-187.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Polistes semiflavus Holmgren, Eugenies Resa, Ins." docType="treatment" docVersion="14" lastPageNumber="186" masterDocId="B525F8594A7852476D53FFF00A6FFFD2" masterDocTitle="Wasps of Guam" masterLastPageNumber="187" masterPageNumber="184" pageNumber="186" updateTime="1658951126020" updateUser="aubreymoore">
+<mods:mods id="5BE03666ACA3F8BA1263581C1B9F9D1D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="EC936D02CB392563DDB458A78D8D9B2E">
+<mods:title id="9AEB30678EA5EB5503DC6E0374DD6F63">Wasps of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="5A35F6C560291EBB3C2776E9BAB6AD08" type="personal">
+<mods:role id="64D77A8FD7C6D9E52F586FA366C75E0F">
+<mods:roleTerm id="523C63E67F90BC5EEC1A6F546D03712A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C25DA206BBFC99221402559B88CDE237">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="FF0D896B94EC04EDAAF296579403DC2D">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="0096EFA50A7F93F113F6B9B16B8C15D4">text</mods:typeOfResource>
+<mods:relatedItem id="B852EA0337F87C6C4FFD16A83E5BB50A" type="host">
+<mods:originInfo id="6147888CC643C1E2040206C717031655">
+<mods:dateIssued id="DBF4E2FC16DE02FE257B51C28B5AF100">1942</mods:dateIssued>
+<mods:dateOther id="C7CF11AE1F34825B6D3AD81BC0BD7214" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="223138B223AF08B9D9FD94205EFA12D9">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="AFA19F6F6118CD5E9D64E0C49EEE21B6">
+<mods:placeTerm id="59C1EB9139FDA7A4C71696425D592E9D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="F952FA39AD316AF9E331F479FD84CE63">
+<mods:title id="B90B7E8AB1B574D48A658374F2A3729C">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="5B3E812293882258934E0A98FA2C65EE">
+<mods:extent id="317B181A942B19B42DED7F576C7156EA" unit="page">
+<mods:start id="82C1338DE0F31179B34D54748C4C3DDD">184</mods:start>
+<mods:end id="71DC26CF6855066A5CC5E32E699ED433">187</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="3302AACF36D29E8A6758BFE3BDF2464F">book chapter</mods:classification>
+<mods:identifier id="84D4724DCB3ECE67611DABF6258D42FB" type="DOI">http://doi.org/10.5281/zenodo.5160297</mods:identifier>
+<mods:identifier id="EE520CDE4172B3E47FC37F173AB10DD0" type="GBIF-Dataset">1df399c6-c920-4862-81a3-dd51f0a28471</mods:identifier>
+<mods:identifier id="3869C1E449AE0010E890D23563E4C43D" type="Zenodo-Dep">5160297</mods:identifier>
+</mods:mods>
+<treatment id="491C80214A7A52456C91FACD0F9EF94E" ID-DOI="http://doi.org/10.5281/zenodo.5164324" ID-GBIF-Taxon="184130506" ID-Zenodo-Dep="5164324" LSID="urn:lsid:plazi:treatment:491C80214A7A52456C91FACD0F9EF94E" httpUri="http://treatment.plazi.org/id/491C80214A7A52456C91FACD0F9EF94E" lastPageNumber="186" pageId="2" pageNumber="186">
+<subSubSection id="89AF62BC4A7A52456C91FACD0E12FA49" pageId="2" pageNumber="186" type="nomenclature">
+<paragraph id="C10A31374A7A52456C91FACD0E12FA49" blockId="2.[446,1848,382,2543]" pageId="2" pageNumber="186">
+<emphasis id="F3C1ED254A7A52456C91FACD0BB1FABA" bold="true" box="[450,478,1341,1384]" pageId="2" pageNumber="186">7.</emphasis>
+<treatmentCitationGroup id="E1A516194A7A52456F53FACD0E12FA49" pageId="2" pageNumber="186">
+<treatmentCitation id="401417264A7A52456F53FACD0C07FABA" author="Holmgren" box="[512,1640,1341,1384]" page="439" pageId="2" pageNumber="186" year="1868">
+<taxonomicName id="06B54AB44A7A52456F53FACD0E4BFABA" authority="Holmgren, Eugenies Resa, Ins." authorityName="Holmgren, Eugenies Resa, Ins." box="[512,1060,1341,1384]" class="Insecta" family="Eumenidae" genus="Polistes" kingdom="Animalia" order="Hymenoptera" pageId="2" pageNumber="186" phylum="Arthropoda" rank="species" species="semiflavus">
+<emphasis id="F3C1ED254A7A52456F53FACD0937FABA" bold="true" box="[512,856,1341,1384]" pageId="2" pageNumber="186">Polistes semiflavus</emphasis>
+<bibCitation id="149F395B4A7A52456E34FACD0C0CFABA" author="Holmgren" box="[871,1635,1341,1384]" journalOrPublisher="Eugenies Resa, Ins." pageId="2" pageNumber="186" pagination="439" type="book" year="1868">
+<author id="1908D9D24A7A52456E34FACD0E4BFABA" box="[871,1060,1341,1384]" pageId="2" pageNumber="186">Holmgren</author>
+, 
+<journalOrPublisher id="1B743BFB4A7A5245696AFACD0FCDFABA" box="[1081,1442,1341,1384]" pageId="2" pageNumber="186">Eugenies Resa, Ins.</journalOrPublisher>
+, 
+<pagination id="F87CCFC34A7A524568EBFACD0F97FABA" box="[1464,1528,1341,1384]" pageId="2" pageNumber="186">439</pagination>
+, 
+<year id="B51D70644A7A52456B42FACD0C0CFABA" box="[1553,1635,1341,1384]" pageId="2" pageNumber="186">1868</year>
+</bibCitation>
+</taxonomicName>
+.
+</treatmentCitation>
+<treatmentCitation id="401417264A7A52456BD0FACD0E12FA49" author="Fullaway" page="283" pageId="2" pageNumber="186" year="1913">
+<bibCitation id="149F395B4A7A52456BD0FACD0E12FA49" author="Fullaway" journalOrPublisher="Haw. Ent. Soc., Proc." pageId="2" pageNumber="186" pagination="283" part="2" type="journal article" year="1913">
+<author id="1908D9D24A7A52456BD0FACD0D41FABA" box="[1667,1838,1341,1384]" pageId="2" pageNumber="186">Fullaway</author>
+, 
+<journalOrPublisher id="1B743BFB4A7A52456CACFA8109E3FA49" box="[511,908,1393,1435]" pageId="2" pageNumber="186">Haw. Ent. Soc., Proc.</journalOrPublisher>
+<emphasis id="F3C1ED254A7A52456EC8FA8109C2FA49" bold="true" box="[923,941,1393,1435]" pageId="2" pageNumber="186">
+<part id="B5119BAA4A7A52456EC8FA8109C2FA49" box="[923,941,1393,1435]" pageId="2" pageNumber="186" type="volume">2</part>
+</emphasis>
+: 
+<pagination id="F87CCFC34A7A52456E82FA810E62FA49" box="[977,1037,1393,1435]" pageId="2" pageNumber="186" type="pagination">283</pagination>
+, 
+<year id="B51D70644A7A52456976FA810E17FA49" box="[1061,1144,1393,1435]" pageId="2" pageNumber="186">1913</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="89AF62BC4A7A52456F51FA550FFFF9E4" pageId="2" pageNumber="186" type="materials_examined">
+<paragraph id="C10A31374A7A52456F51FA550FFFF9E4" blockId="2.[446,1848,382,2543]" pageId="2" pageNumber="186">
+<materialsCitation id="71DD3B6A4A7A52456F51FA550C6FFA1D" ID-GBIF-Occurrence="3864422307" box="[514,1536,1445,1487]" collectingDate="1936-04-15" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="2" pageNumber="186">
+Ritidian Pt., on 
+<taxonomicName id="06B54AB44A7A52456E68FA550995FA1D" box="[827,1018,1445,1487]" class="Magnoliopsida" family="Hernandiaceae" genus="Hernandia" kingdom="Plantae" order="Laurales" pageId="2" pageNumber="186" phylum="Tracheophyta" rank="genus">
+<emphasis id="F3C1ED254A7A52456E68FA550995FA1D" box="[827,1018,1445,1487]" italics="true" pageId="2" pageNumber="186">Hernandia</emphasis>
+</taxonomicName>
+blossoms, April 15, Bryan
+</materialsCitation>
+; 
+<materialsCitation id="71DD3B6A4A7A52456B4DFA550836F9D1" ID-GBIF-Occurrence="3864422319" collectingDate="1936-05-09" collectorName="R. L. Usinger" country="Guam" location="Agana" pageId="2" pageNumber="186">Agana, May 9, Usinger</materialsCitation>
+; 
+<materialsCitation id="71DD3B6A4A7A52456F20FA280E4CF9D1" ID-GBIF-Occurrence="3864422327" box="[627,1059,1496,1539]" collectingDate="1936-05-12" collectorName="O. H. Swezey" country="Guam" location="Yona" pageId="2" pageNumber="186">Yona, May 12, Swezey</materialsCitation>
+; 
+<materialsCitation id="71DD3B6A4A7A5245696DFA280F44F9D1" ID-GBIF-Occurrence="3864422322" box="[1086,1323,1496,1539]" collectingDate="1936-06-22" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="186">Piti, June 22</materialsCitation>
+, 
+<materialsCitation id="71DD3B6A4A7A52456810FA280FB9F9D1" ID-GBIF-Occurrence="3864422325" box="[1347,1494,1496,1539]" collectingDate="1936-08-10" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="186">Aug. 10</materialsCitation>
+, 
+<materialsCitation id="71DD3B6A4A7A524568A1FA280D41F9D1" ID-GBIF-Occurrence="3864422317" box="[1522,1838,1496,1539]" collectingDate="1936-09-26" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="186">Sept. 26, Swezey</materialsCitation>
+; 
+<materialsCitation id="71DD3B6A4A7A52456C90F9FA09C5F9E4" ID-GBIF-Occurrence="3864422342" box="[451,938,1546,1590]" collectingDate="1936-09-01" collectorName="O. H. Swezey" country="Guam" location="Orote Point" pageId="2" pageNumber="186">
+Orote Pt., Sept. 
+<emphasis id="F3C1ED254A7A52456FA2F9FA0964F9E4" bold="true" box="[753,779,1546,1590]" pageId="2" pageNumber="186">1,</emphasis>
+Swezey
+</materialsCitation>
+; 
+<materialsCitation id="71DD3B6A4A7A52456E92F9FA0FE4F9E4" ID-GBIF-Occurrence="3864422334" box="[961,1419,1546,1590]" collectingDate="1936-11-13" collectorName="O. H. Swezey" country="Guam" location="Tumon" pageId="2" pageNumber="186">Tumon, Nov. 13, Swezey</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="89AF62BC4A7A52456F53F9CF0F9EF94E" pageId="2" pageNumber="186" type="discussion">
+<paragraph id="C10A31374A7A52456F53F9CF0F9EF94E" blockId="2.[446,1848,382,2543]" pageId="2" pageNumber="186">
+This species is less common than 
+<emphasis id="F3C1ED254A7A52456922F9CF0F33F9BB" box="[1137,1372,1599,1641]" italics="true" pageId="2" pageNumber="186">P. macaiinsis</emphasis>
+and it is smaller and has smaller colonies. 
+<materialsCitation id="71DD3B6A4A7A52456FACF9820F9EF94E" ID-GBIF-Occurrence="3864422338" box="[767,1521,1650,1692]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="2" pageNumber="186">It was also collected by Fullaway in 1911.</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

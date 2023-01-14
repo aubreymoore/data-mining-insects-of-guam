@@ -1,0 +1,131 @@
+<document id="DA51E7BDD410C3637D65508273E54154" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E940FFAAFE7E8A7B96900A99" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Anticarsia irrorata" docType="treatment" docVersion="20" lastPageNumber="174" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="174" updateTime="1669838197629" updateUser="annettekang">
+<mods:mods id="493C608B31A7610B8A905955EECB1D2B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="1299F548EC90091E56985E40B2EF467A">
+<mods:title id="83CEBB16BA9551845C1F9A9C6FAADE56">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="3901794A6DE4F410FC21C6415F5834CA" type="personal">
+<mods:role id="03BC72AFECCAD0AE743940189220D677">
+<mods:roleTerm id="9D85A545B2925412C0F66A05DFFE455B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="98BAA6FE3E56757E53DBFB4C30F8DEEE">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="1E83CD4FEABE778224D7C9EC0497BF1F">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="6CBA7C9447E878BC0F476E8A640524E0">text</mods:typeOfResource>
+<mods:relatedItem id="B2FA53A0370DAB0E9AD731DDB484FA3F" type="host">
+<mods:originInfo id="E25266F2B596B8CD48CFE5C33201A746">
+<mods:dateIssued id="3F48E6637BA678CC3EA4A76A34074418">1946</mods:dateIssued>
+<mods:dateOther id="0A195755505E935EAEDD0B3AC156940F" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="5D7404AF3C5C23A7B198DE6060DAF0C4">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="781365299137B1D7564B7D3488CA7153">
+<mods:placeTerm id="01F4FFBC12F91C25988AB8D0872D273A">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="8219C5376ED625AD89F06998410C3FA3">
+<mods:title id="25FFED4A90AD6B7E73671788B0083504">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="304D248857097180E87F94859828025E">
+<mods:extent id="E059403A9BA65203C78900068A0D7683" unit="page">
+<mods:start id="6888BBF584C45C10E99E6EDAE7DF5B2B">163</mods:start>
+<mods:end id="95ABFC5B99C395E0D5D65CD84DA620CF">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="1DD6B17223C8AA06234921B76FE1257C">book chapter</mods:classification>
+<mods:identifier id="295FBA71F9753F2F55A7DD743D8C7A25" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="8CF29C07F2F01B91E87AB3E9D4EA3F25" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="57FAF164E9BBBE5EED69BA86A4BD4DEA" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E940FFAAFE7E8A7B96900A99" ID-DOI="http://doi.org/10.5281/zenodo.5158492" ID-GBIF-Taxon="183926979" ID-Zenodo-Dep="5158492" LSID="urn:lsid:plazi:treatment:03B387B8E940FFAAFE7E8A7B96900A99" httpUri="http://treatment.plazi.org/id/03B387B8E940FFAAFE7E8A7B96900A99" lastPageNumber="174" pageId="11" pageNumber="174">
+<subSubSection id="C3006525E940FFAAFE7E8A7B96160B3E" box="[433,1120,2118,2161]" pageId="11" pageNumber="174" type="nomenclature">
+<paragraph id="8BA536AEE940FFAAFE7E8A7B96160B3E" blockId="11.[433,1830,2118,2518]" box="[433,1120,2118,2161]" pageId="11" pageNumber="174">
+<heading id="D0ED81C2E940FFAAFE7E8A7B96160B3E" box="[433,1120,2118,2161]" fontSize="8" level="2" pageId="11" pageNumber="174" reason="4">
+<emphasis id="B96EEABCE940FFAAFE7E8A7B90600B3E" bold="true" box="[433,534,2118,2161]" pageId="11" pageNumber="174">31. *</emphasis>
+<taxonomicName id="4C1A4D2DE940FFAAFDD98A7B962C0B3E" authority="(Fabricius)" baseAuthorityName="Fabricius" baseAuthorityYear="1781" box="[534,1114,2118,2161]" class="Insecta" family="Noctuidae" genus="Anticarsia" kingdom="Animalia" order="Lepidoptera" pageId="11" pageNumber="174" phylum="Arthropoda" rank="species" species="irrorata">
+<emphasis id="B96EEABCE940FFAAFDD98A7B91040B3E" bold="true" box="[534,882,2118,2161]" pageId="11" pageNumber="174">Anticarsia irrorata</emphasis>
+(Fabricius)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E940FFAAFE3F8A4497A60B98" pageId="11" pageNumber="174" type="reference_group">
+<paragraph id="8BA536AEE940FFAAFE3F8A4494330BEB" blockId="11.[433,1830,2118,2518]" box="[496,1605,2169,2212]" pageId="11" pageNumber="174">
+<treatmentCitationGroup id="AB0A1180E940FFAAFE3F8A4494330BEB" box="[496,1605,2169,2212]" pageId="11" pageNumber="174">
+<bibCitation id="5E303EC2E940FFAAFE3F8A4494330BEB" author="Fabricius" box="[496,1605,2169,2212]" pageId="11" pageNumber="174" refId="ref6531" title="Spec. Ins." type="book" year="1781">
+<treatmentCitation id="0ABB10BFE940FFAAFE3F8A4494360BEB" author="Fabricius" box="[496,1600,2169,2212]" pageId="11" pageNumber="174" year="1781">
+<emphasis id="B96EEABCE940FFAAFE3F8A44917C0BEB" box="[496,778,2169,2212]" italics="true" pageId="11" pageNumber="174">Noctua irrorata</emphasis>
+<author id="53A7DE4BE940FFAAFCD58A4491B70BEB" box="[794,961,2169,2212]" pageId="11" pageNumber="174">Fabricius</author>
+, 
+<title id="F91EDD98E940FFAAFC168A4496F10BEB" box="[985,1159,2169,2212]" pageId="11" pageNumber="174">Spec. Ins.</title>
+<emphasis id="B96EEABCE940FFAAFB588A4496CA0BEB" bold="true" box="[1175,1212,2169,2212]" pageId="11" pageNumber="174">2:</emphasis>
+Appendix, 506, 
+<year id="FFB277FDE940FFAAFA228A4494360BEB" box="[1517,1600,2169,2212]" pageId="11" pageNumber="174">1781</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE940FFAAFE208A9097A60B98" blockId="11.[433,1830,2118,2518]" box="[495,1488,2221,2263]" pageId="11" pageNumber="174">
+<treatmentCitationGroup id="AB0A1180E940FFAAFE208A9097A60B98" box="[495,1488,2221,2263]" pageId="11" pageNumber="174">
+<bibCitation id="5E303EC2E940FFAAFE208A9097A60B98" author="Tams" box="[495,1488,2221,2263]" pageId="11" pageNumber="174" pagination="227" part="3" refId="ref6547" title="Ins. Samoa" type="journal article" year="1935">
+<emphasis id="B96EEABCE940FFAAFE208A9091330B98" box="[495,837,2221,2263]" italics="true" pageId="11" pageNumber="174">Anticarsia irrorata,</emphasis>
+<treatmentCitation id="0ABB10BFE940FFAAFC9A8A9097BD0B98" author="Tams" box="[853,1483,2221,2263]" page="227" pageId="11" pageNumber="174" year="1935">
+<author id="53A7DE4BE940FFAAFC9A8A9091CC0B98" box="[853,954,2221,2263]" pageId="11" pageNumber="174">Tams</author>
+, 
+<title id="F91EDD98E940FFAAFC1C8A9096EC0B98" box="[979,1178,2221,2263]" pageId="11" pageNumber="174">
+Ins. 
+<collectingCountry id="F30D763EE940FFAAFBE98A9096EC0B98" box="[1062,1178,2221,2263]" name="Samoa" pageId="11" pageNumber="174">Samoa</collectingCountry>
+</title>
+<part id="FFBE9C33E940FFAAFB678A9096C90B98" box="[1192,1215,2221,2263]" pageId="11" pageNumber="174" type="volume">3</part>
+(
+<part id="FFBE9C33E940FFAAFB008A90969D0B98" box="[1231,1259,2221,2263]" pageId="11" pageNumber="174" type="issue">4</part>
+): 
+<emphasis id="B96EEABCE940FFAAFAEC8A9097130B98" box="[1315,1381,2221,2263]" italics="true" pageId="11" pageNumber="174">
+<pagination id="B2D3C85AE940FFAAFAEC8A9097290B98" box="[1315,1375,2221,2263]" pageId="11" pageNumber="174" type="pagination">227</pagination>
+,
+</emphasis>
+<year id="FFB277FDE940FFAAFAB78A9097BD0B98" box="[1400,1483,2221,2263]" pageId="11" pageNumber="174">1935</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E940FFAAFE3D8ADC916A0A72" pageId="11" pageNumber="174" type="materials_examined">
+<paragraph id="8BA536AEE940FFAAFE3D8ADC916A0A72" blockId="11.[433,1830,2118,2518]" pageId="11" pageNumber="174">
+<materialsCitation id="3B723CF3E940FFAAFE3D8ADC97340A44" ID-GBIF-Occurrence="3913652501" box="[498,1346,2273,2315]" collectedFrom="at light" collectingDate="1936-09-11" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="11" pageNumber="174" specimenCount="1">
+<location id="8EC56075E940FFAAFE3D8ADC90420A44" LSID="urn:lsid:plazi:treatment:03B387B8E940FFAAFE7E8A7B96900A99:8EC56075E940FFAAFE3D8ADC90420A44" box="[498,564,2273,2315]" pageId="11" pageNumber="174">
+<collectingMunicipality id="6BC1ACD4E940FFAAFE3D8ADC90420A44" box="[498,564,2273,2315]" pageId="11" pageNumber="174">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE940FFAAFD9B8ADC909A0A44" box="[596,748,2273,2315]" pageId="11" pageNumber="174" value="2011-09">
+<collectingDate id="EFE0E986E940FFAAFD9B8ADC909A0A44" box="[596,748,2273,2315]" pageId="11" pageNumber="174" value="2011-09">Sept. 11</collectingDate>
+</date>
+, 
+<specimenCount id="9D1CFD27E940FFAAFCC58ADC918F0A44" box="[778,1017,2273,2315]" pageId="11" pageNumber="174" type="generic">one specimen</specimenCount>
+at light, 
+<collectorName id="26EF5378E940FFAAFB7A8ADC974B0A44" box="[1205,1341,2273,2315]" pageId="11" pageNumber="174">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="3B723CF3E940FFAAFAAA8ADC91610A72" ID-GBIF-Occurrence="3913652370" collectingDate="1938" collectorName="R. G. Oakley" country="Guam" location="Guam" pageId="11" pageNumber="174">
+<location id="8EC56075E940FFAAFAAA8ADC97960A44" LSID="urn:lsid:plazi:treatment:03B387B8E940FFAAFE7E8A7B96900A99:8EC56075E940FFAAFAAA8ADC97960A44" box="[1381,1504,2273,2315]" pageId="11" pageNumber="174">Oakley</location>
+collected it more abundantly in 1938
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E940FFAAFE3F8B7A96900A99" pageId="11" pageNumber="174" type="description">
+<paragraph id="8BA536AEE940FFAAFE3F8B7A96900A99" blockId="11.[433,1830,2118,2518]" pageId="11" pageNumber="174">
+This moth was described from 
+<collectingCountry id="F30D763EE940FFAAFBD68B7A960E0A20" box="[1049,1144,2375,2415]" name="India" pageId="11" pageNumber="174">India</collectingCountry>
+. It is also recorded from 
+<collectingCountry id="F30D763EE940FFAAF9888B7A95560A20" box="[1607,1824,2375,2415]" name="Madagascar" pageId="11" pageNumber="174">Madagascar</collectingCountry>
+, Rapa, Society Islands, and 
+<collectingCountry id="F30D763EE940FFAAFC768B4796470AEB" box="[953,1073,2426,2468]" name="Samoa" pageId="11" pageNumber="174">Samoa</collectingCountry>
+, indicating a wide range of distribution. Now recorded from 
+<collectingCountry id="F30D763EE940FFAAFCE18B9191E30A99" box="[814,917,2476,2518]" name="Guam" pageId="11" pageNumber="174">Guam</collectingCountry>
+for the first time.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

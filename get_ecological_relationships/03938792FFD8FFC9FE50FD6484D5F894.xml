@@ -1,0 +1,160 @@
+<document id="BA6CCFC314B803AF6A1C86450B5FE7F6" ID-DOI="http://doi.org/10.5281/zenodo.5164064" ID-GBIF-Dataset="8ddfacbb-c42b-4385-b70b-ea5bd759c377" ID-Zenodo-Dep="5164064" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628020838575" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03938792FFD8FFC9FE50FD6484D5F894" docLanguage="en" docName="InsectsOfGuamII.189.149-156.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Megamelus proserpina Kirkaldy" docType="treatment" docVersion="13" lastPageNumber="152" masterDocId="FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9" masterDocTitle="Notes On Some Fulgoroidea Of Guam" masterLastPageNumber="156" masterPageNumber="149" pageNumber="152" updateTime="1671318232748" updateUser="annettekang">
+<mods:mods id="0E4361392F020B77966AE4046386A3C9" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="322F21BA5B8200A4B9B29C7E4E017799">
+<mods:title id="77E81DC7D81F1B8F8DBC7B7C7D3E9B8E">Notes On Some Fulgoroidea Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="0F5FEA7ACB7E4221C7E757C179BD8889" type="personal">
+<mods:role id="D3C67374A4BC163EFFF465846A5A197B">
+<mods:roleTerm id="B31F201F90715F649EEC999A390C5DCA">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3B08E345337BDC0028DFA5EF99CB27E3">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="C7956D3EB846CE390A89D11AD951DE6A">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="CB67C61B5F77874E72108C3481E0B9B1">text</mods:typeOfResource>
+<mods:relatedItem id="AA590A983139CBBFA06B3348D44F625C" type="host">
+<mods:originInfo id="AA6AE3CD209529D98F28D5EDCBF9D95F">
+<mods:dateIssued id="90C696CFEE8A4365BC9D3EF4E461ACC4">1946</mods:dateIssued>
+<mods:dateOther id="9B0B36C95ED79A856EBCB3311F8BBFDB" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="A734993ADCAFA916C31908D0DC7D58C0">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="86C2295881B6E90B70DAC9B8E559B868">
+<mods:placeTerm id="AC119CD08E14FB9E378D0CE6BCF43D98">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9AF0D965C4794C59943D93D89BFDF66F">
+<mods:title id="C7E2101AC952643E7C31825ABDF98F72">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="DBB02FEA9899A0A18B1DB85996B2C242">
+<mods:extent id="A323574761F6287548D46E8C48EAC168" unit="page">
+<mods:start id="4D0FD8DE9F22CA1EE8A438193F5BA1D9">149</mods:start>
+<mods:end id="FB11BD4B04C1E3042AFDF48219626E24">156</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="13A168C9021C918BD8088E8234D9627A">book chapter</mods:classification>
+<mods:identifier id="36543113E078391AA03F9DAAFF08CBE1" type="DOI">http://doi.org/10.5281/zenodo.5164064</mods:identifier>
+<mods:identifier id="2D7F3CE136F5CF530E4B21DADE9D2860" type="GBIF-Dataset">8ddfacbb-c42b-4385-b70b-ea5bd759c377</mods:identifier>
+<mods:identifier id="BA8CFBD5542A80BE9B9F98F4F92870EA" type="Zenodo-Dep">5164064</mods:identifier>
+</mods:mods>
+<treatment id="03938792FFD8FFC9FE50FD6484D5F894" ID-DOI="http://doi.org/10.5281/zenodo.5211520" ID-GBIF-Taxon="183925087" ID-Zenodo-Dep="5211520" LSID="urn:lsid:plazi:treatment:03938792FFD8FFC9FE50FD6484D5F894" httpUri="http://treatment.plazi.org/id/03938792FFD8FFC9FE50FD6484D5F894" lastPageNumber="152" pageId="3" pageNumber="152">
+<subSubSection id="C320650FFFD8FFC9FE50FD64823EFD3D" box="[430,1103,681,724]" pageId="3" pageNumber="152" type="nomenclature">
+<paragraph id="8B853684FFD8FFC9FE50FD64823EFD3D" blockId="3.[430,1830,681,1917]" box="[430,1103,681,724]" pageId="3" pageNumber="152">
+<heading id="D0CD81E8FFD8FFC9FE50FD64823EFD3D" box="[430,1103,681,724]" centered="true" fontSize="11" level="2" pageId="3" pageNumber="152" reason="2">
+<emphasis id="B94EEA96FFD8FFC9FE50FD6487BDFD3D" bold="true" box="[430,460,681,724]" pageId="3" pageNumber="152">4.</emphasis>
+<taxonomicName id="4C3A4D07FFD8FFC9FE10FD648239FD3D" authority="Kirkaldy, Haw. Sugar Plant. Assoc. Expt. Sta." box="[494,1096,681,724]" class="Insecta" family="Delphacidae" genus="Megamelus" kingdom="Animalia" order="Hemiptera" pageId="3" pageNumber="152" phylum="Arthropoda" rank="species" species="proserpina">
+<emphasis id="B94EEA96FFD8FFC9FE10FD6485FEFD3D" bold="true" box="[494,911,681,724]" pageId="3" pageNumber="152">Megamelus proserpina</emphasis>
+<author id="5387DE61FFD8FFC9FC5FFD648239FD3D" box="[929,1096,681,724]" pageId="3" pageNumber="152">Kirkaldy</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFD8FFC9FB9AFD64807CFCE6" pageId="3" pageNumber="152" type="reference_group">
+<paragraph id="8B853684FFD8FFC9FB9AFD64807CFCE6" blockId="3.[430,1830,681,1917]" pageId="3" pageNumber="152">
+<treatmentCitationGroup id="AB2A11AAFFD8FFC9FB9AFD64807CFCE6" pageId="3" pageNumber="152">
+<treatmentCitation id="0A9B1095FFD8FFC9FB9AFD64807CFCE6" author="Kirkaldy" page="147" pageId="3" pageNumber="152" year="1907">
+<bibCitation id="5E103EE8FFD8FFC9FB9AFD64807CFCE6" author="Kirkaldy" journalOrPublisher="Haw. Sugar Plant. Assoc. Expt. Sta., Ent. Bull." pageId="3" pageNumber="152" pagination="147" part="3" type="journal article" year="1907">
+<journalOrPublisher id="51FB3C48FFD8FFC9FB9AFD6484EEFCE6" pageId="3" pageNumber="152">Haw. Sugar Plant. Assoc. Expt. Sta., Ent. Bull.</journalOrPublisher>
+<part id="FF9E9C19FFD8FFC9FD4EFD2984CCFCE6" box="[688,701,740,783]" pageId="3" pageNumber="152" type="volume">3</part>
+: 
+<pagination id="B2F3C870FFD8FFC9FD1BFD298553FCE6" box="[741,802,740,783]" pageId="3" pageNumber="152" type="pagination">147</pagination>
+, pl. 10, figs. 5-7, pl. 12, figs. 19-21, 
+<year id="FF9277D7FFD8FFC9FA4BFD298079FCE6" box="[1461,1544,740,783]" pageId="3" pageNumber="152">1907</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFD8FFC9FE0EFCEC82DFFC95" pageId="3" pageNumber="152" type="materials_examined">
+<paragraph id="8B853684FFD8FFC9FE0EFCEC82DFFC95" blockId="3.[430,1830,681,1917]" pageId="3" pageNumber="152">
+<materialsCitation id="3B523CD9FFD8FFC9FE0EFCEC8251FCA5" ID-GBIF-Occurrence="3331825344" box="[496,1056,801,844]" collectingDate="1936-05-03" collectorName="O. H. Swezey" country="Guam" location="Mount Tenjo" pageId="3" pageNumber="152">
+<location id="8EE5605FFFD8FFC9FE0EFCEC85F3FCA5" LSID="urn:lsid:plazi:treatment:03938792FFD8FFC9FE50FD6484D5F894:8EE5605FFFD8FFC9FE0EFCEC85F3FCA5" box="[496,898,801,844]" name="Gulch near Mt. Tenjo" pageId="3" pageNumber="152">Gulch near Mt. Tenjo</location>
+, 
+<date id="FF841044FFD8FFC9FC65FCEC827FFCA5" box="[923,1038,801,844]" pageId="3" pageNumber="152">
+<collectingDate id="EFC0E9ACFFD8FFC9FC65FCEC827FFCA5" box="[923,1038,801,844]" pageId="3" pageNumber="152">May 3</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFD8FFC9FBCCFCEC8328FCA5" ID-GBIF-Occurrence="3331825333" box="[1074,1369,801,844]" collectingDate="1936-05-15" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="3" pageNumber="152">
+<collectingMunicipality id="6BE1ACFEFFD8FFC9FBCCFCEC82D6FCA5" box="[1074,1191,801,844]" pageId="3" pageNumber="152">Agana</collectingMunicipality>
+, 
+<date id="FF841044FFD8FFC9FB3EFCEC8336FCA5" box="[1216,1351,801,844]" pageId="3" pageNumber="152" value="2015-05">
+<collectingDate id="EFC0E9ACFFD8FFC9FB3EFCEC8336FCA5" box="[1216,1351,801,844]" pageId="3" pageNumber="152" value="2015-05">May 15</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFD8FFC9FA95FCEC80F2FCA5" ID-GBIF-Occurrence="3914035322" box="[1387,1667,801,844]" collectingDate="1936-10-02" collectorName="O. H. Swezey" country="Guam" location="Merizo" pageId="3" pageNumber="152">
+<location id="8EE5605FFFD8FFC9FA95FCEC839DFCA5" LSID="urn:lsid:plazi:treatment:03938792FFD8FFC9FE50FD6484D5F894:8EE5605FFFD8FFC9FA95FCEC839DFCA5" box="[1387,1516,801,844]" name="Merizo" pageId="3" pageNumber="152">Merizo</location>
+, 
+<date id="FF841044FFD8FFC9F9FAFCEC800BFCA5" box="[1540,1658,801,844]" pageId="3" pageNumber="152">
+<collectingDate id="EFC0E9ACFFD8FFC9F9FAFCEC800BFCA5" box="[1540,1658,801,844]" pageId="3" pageNumber="152">Oct. 2</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFD8FFC9F96BFCEC8448FC95" ID-GBIF-Occurrence="3914035302" collectingDate="1936-11-08" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="3" pageNumber="152">
+<collectingMunicipality id="6BE1ACFEFFD8FFC9F96BFCEC816CFCA5" box="[1685,1821,801,844]" pageId="3" pageNumber="152">Dededo</collectingMunicipality>
+, 
+<date id="FF841044FFD8FFC9FE4CFC998459FC95" box="[434,552,852,892]" pageId="3" pageNumber="152">
+<collectingDate id="EFC0E9ACFFD8FFC9FE4CFC998459FC95" box="[434,552,852,892]" pageId="3" pageNumber="152">Nov. 8</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFD8FFC9FDB6FC9982DFFC95" ID-GBIF-Occurrence="3331825328" box="[584,1198,852,892]" collectingDate="1936-11-10" collectorName="O. H. Swezey" country="Guam" location="Libugon" pageId="3" pageNumber="152">
+<collectingMunicipality id="6BE1ACFEFFD8FFC9FDB6FC998491FC95" box="[584,736,852,892]" pageId="3" pageNumber="152">Libugon</collectingMunicipality>
+, 
+<date id="FF841044FFD8FFC9FD08FC9985FAFC95" box="[758,907,852,892]" pageId="3" pageNumber="152">
+<collectingDate id="EFC0E9ACFFD8FFC9FD08FC9985FAFC95" box="[758,907,852,892]" pageId="3" pageNumber="152">Nov. 10.</collectingDate>
+</date>
+<location id="8EE5605FFFD8FFC9FC5AFC9985ADFC95" LSID="urn:lsid:plazi:treatment:03938792FFD8FFC9FE50FD6484D5F894:8EE5605FFFD8FFC9FC5AFC9985ADFC95" box="[932,988,852,892]" municipality="Libugon" name="All" pageId="3" pageNumber="152">All</location>
+by 
+<collectorName id="26CF5352FFD8FFC9FBDAFC9982D8FC95" box="[1060,1193,852,892]" pageId="3" pageNumber="152">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFD8FFC9FE11FC4284D5F894" pageId="3" pageNumber="152" type="discussion">
+<paragraph id="8B853684FFD8FFC9FE11FC4285D7FA7E" blockId="3.[430,1830,681,1917]" pageId="3" pageNumber="152">
+The taro leafhopper was described from Suva, 
+<collectingCountry id="F32D7614FFD8FFC9FA9BFC4283D9FC53" box="[1381,1448,911,954]" name="Fiji" pageId="3" pageNumber="152">Fiji</collectingCountry>
+, without mention of food plant. It is now known as a taro pest in 
+<collectingCountry id="F32D7614FFD8FFC9FAC1FC0B83C7FC07" box="[1343,1462,966,1006]" name="Samoa" pageId="3" pageNumber="152">Samoa</collectingCountry>
+, 
+<collectingCountry id="F32D7614FFD8FFC9FA28FC0B805FFC07" box="[1494,1582,966,1006]" name="Niue" pageId="3" pageNumber="152">Niue</collectingCountry>
+, Queensland, Amboina, Java, the 
+<collectingCountry id="F32D7614FFD8FFC9FCDDFC36859DFBCD" box="[803,1004,1019,1060]" name="Philippines" pageId="3" pageNumber="152">Philippines</collectingCountry>
+, and Hawaii. It was first reported in 
+<collectingCountry id="F32D7614FFD8FFC9F943FC368154FBCD" box="[1725,1829,1019,1060]" name="Guam" pageId="3" pageNumber="152">Guam</collectingCountry>
+in 1924. In 1927, under the name 
+<taxonomicName id="4C3A4D07FFD8FFC9FBE6FBE28351FBB0" box="[1048,1312,1071,1113]" class="Insecta" family="Delphacidae" genus="Megamelus" kingdom="Animalia" order="Hemiptera" pageId="3" pageNumber="152" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="B94EEA96FFD8FFC9FBE6FBE28291FBB0" box="[1048,1248,1071,1113]" italics="true" pageId="3" pageNumber="152">Megamelus</emphasis>
+sp.
+</taxonomicName>
+, it was reported as epidemic, and its attacks were followed by a fungus disease 
+<emphasis id="B94EEA96FFD8FFC9FA94FBA98000FB66" box="[1386,1649,1124,1167]" italics="true" pageId="3" pageNumber="152">(Gloeosporium</emphasis>
+sp.) that often ruined the entire crop. In 
+<date id="FF841044FFD8FFC9FBF8FB578207FB2D" box="[1030,1142,1178,1220]" pageId="3" pageNumber="152" value="1936-01">1936 I</date>
+did not see any serious injury by the taro leafhopper in 
+<collectingCountry id="F32D7614FFD8FFC9FCF5FB028506FB10" box="[779,887,1231,1273]" name="Guam" pageId="3" pageNumber="152">Guam</collectingCountry>
+. In fact, it was rather scarce on dryland taro, the predominant 
+<taxonomicName id="4C3A4D07FFD8FFC9FD60FAC985EAFAC7" box="[670,923,1284,1326]" pageId="3" pageNumber="152" rank="variety" variety="grown">variety grown</taxonomicName>
+. In a few places where there were small plantings of wet taro by ditches the leafhopper was very abundant, but did not seem to affect the taro seriously.
+</paragraph>
+<paragraph id="8B853684FFD8FFC9FE11FA678329F934" blockId="3.[430,1830,681,1917]" pageId="3" pageNumber="152">
+A dryinid parasite attacks this leafhopper to a slight extent. Parasitized leafhoppers and parasite cocoons were found on taro leaves at Dededo, Merizo, and Libugon. Three female dryinids and 
+<specimenCount id="9D3CFD0DFFD8FFC9FB50F9DE833AF9D7" box="[1198,1355,1555,1598]" pageId="3" pageNumber="152" type="male">one male</specimenCount>
+were obtained from these cocoons. 
+<location id="8EE5605FFFD8FFC9FD9AF98484F3F99A" LSID="urn:lsid:plazi:treatment:03938792FFD8FFC9FE50FD6484D5F894:8EE5605FFFD8FFC9FD9AF98484F3F99A" box="[612,642,1609,1651]" country="Fiji" name="It" pageId="3" pageNumber="152">It</location>
+is the same species 
+<emphasis id="B94EEA96FFD8FFC9FBE4F9848257F99A" box="[1050,1062,1609,1651]" italics="true" pageId="3" pageNumber="152">(</emphasis>
+<taxonomicName id="4C3A4D07FFD8FFC9FBD8F98480E7F99A" authority="Perkins" authorityName="Perkins" box="[1062,1686,1609,1651]" class="Insecta" family="Araeopidae" genus="Haplogonatopits" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="3" pageNumber="152" phylum="Arthropoda" rank="species" species="vitiensis">
+<emphasis id="B94EEA96FFD8FFC9FBD8F9848382F99A" box="[1062,1523,1609,1651]" italics="true" pageId="3" pageNumber="152">Haplogonatopits vitiensis</emphasis>
+Perkins
+</taxonomicName>
+) which is now attacking the taro leafhopper in Hawaii. It was introduced from 
+<collectingCountry id="F32D7614FFD8FFC9F91DF9B08154F940" box="[1763,1829,1661,1705]" name="Fiji" pageId="3" pageNumber="152">Fiji</collectingCountry>
+in 1906 as a parasite for the sugar cane leafhopper.
+</paragraph>
+<paragraph id="8B853684FFD8FFC9FE0EF92384D5F894" blockId="3.[430,1830,681,1917]" pageId="3" pageNumber="152">Attempts were made to breed out egg parasites, but none were obtained. Two fungus diseases killed some of the leafhoppers, the dead ones adhering to the leaves.</paragraph>
+</subSubSection>
+</treatment>
+</document>

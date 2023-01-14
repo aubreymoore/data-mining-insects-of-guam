@@ -1,0 +1,120 @@
+<document id="217C8BBFF4BCFAB56AB8C500353515AE" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBF1B08FEFEFDBA038B4534" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Endynomena pradieri Andrews, Ins." docType="treatment" docVersion="16" lastPageNumber="151" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="151" updateTime="1671336034494" updateUser="annettekang">
+<mods:mods id="6214F87D30A24A6880051867EE81799A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B525AC4B9663409D7B354C825CEB48B1">
+<mods:title id="AB038B1A26CAB674CC7ECF88FD7D332A">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="44E13725B43DFDD08C040752AD888FB5" type="personal">
+<mods:role id="221F2EC0D2B3DBED4EC0999D585B8E3A">
+<mods:roleTerm id="D2DAFD84D81BD437A0C6972619ED45F4">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="785DCA3AE275012C70C3ED34875C3EBB">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="27B4DB4273E5CC7C853E58F83E95518A">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="ED1A686A4931F704E249694FF6AA8F43">text</mods:typeOfResource>
+<mods:relatedItem id="C11C367A6B4F286D5CB954D02ABAD83D" type="host">
+<mods:originInfo id="3A9505E320FFAD68761C8B2F216EF231">
+<mods:dateIssued id="4ADBD35351A922E802F4F25E83673577">1942</mods:dateIssued>
+<mods:dateOther id="DBD446221EDA8BD10AF2B0FAEB275DC1" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="B9C16DDBF632B5F1C93B40E4D952A5B5">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="CCE71D512195E24CB0F2462840491817">
+<mods:placeTerm id="4981C6FDE7EC5C00E0964F736A80EC6C">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="268EBBA6A4D3084C7CDE36D3571AD83C">
+<mods:title id="DE6C1182D9F60189022F5280C8A07961">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="364E47532102FE1CB9E006D229DB610D">
+<mods:extent id="8C0EEC3011689BA926CB93C81D37D270" unit="page">
+<mods:start id="F3DA3206A15AA6156AFD29A5032CFB24">150</mods:start>
+<mods:end id="41B555F245B8191A5E72698F048A46D1">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F4EB370618E2EA824D2E784035BC72AE">book chapter</mods:classification>
+<mods:identifier id="DDD149209C9CA24A1934B22B384B30C7" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="407C4EDC3F776537CB14E1A358397E3A" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="2948EAD0AA765DB1721A90EA830A4AC9" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<subSection id="D64D2F18FFBF1B08FEFEFDBA038B4534" pageId="1" pageNumber="151" type="multiple">
+<treatment id="376B87E5FFBF1B08FEFEFDBA038B4534" ID-DOI="http://doi.org/10.5281/zenodo.5180761" ID-GBIF-Taxon="184415222" ID-Zenodo-Dep="5180761" LSID="urn:lsid:plazi:treatment:376B87E5FFBF1B08FEFEFDBA038B4534" httpUri="http://treatment.plazi.org/id/376B87E5FFBF1B08FEFEFDBA038B4534" lastPageNumber="151" pageId="1" pageNumber="151">
+<subSubSection id="F7D86578FFBF1B08FEFEFDBA04ED4403" box="[292,1003,523,566]" pageId="1" pageNumber="151" type="nomenclature">
+<paragraph id="BF7D36F3FFBF1B08FEFEFDBA04ED4403" blockId="1.[292,320,527,566]" box="[292,1003,523,566]" lastBlockId="1.[355,1688,523,770]" pageId="1" pageNumber="151">
+<heading id="E435819FFFBF1B08FEFEFDBA05F54403" box="[292,755,523,566]" centered="true" fontSize="8" level="2" pageId="1" pageNumber="151" reason="4">
+3. 
+<taxonomicName id="78C24D70FFBF1B08FEB9FDBE05F54403" authorityName="Andrews, Ins." baseAuthorityName="Fairmaire" baseAuthorityYear="1849" box="[355,755,523,565]" class="Insecta" family="Carabidae" genus="Endynomena" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="151" phylum="Arthropoda" rank="species" species="pradieri">
+<emphasis id="8DB6EAE1FFBF1B08FEB9FDBE05F54403" bold="true" box="[355,755,523,565]" pageId="1" pageNumber="151">Endynomena pradieri</emphasis>
+</taxonomicName>
+</heading>
+(Faim1aire).
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBF1B08FEBEFD8B06FB44E6" pageId="1" pageNumber="151" type="reference_group">
+<paragraph id="BF7D36F3FFBF1B08FEBEFD8B02D3445E" blockId="1.[355,1688,523,770]" box="[356,1493,574,616]" pageId="1" pageNumber="151">
+<treatmentCitationGroup id="9FD211DDFFBF1B08FEBEFD8B02D3445E" box="[356,1493,574,616]" pageId="1" pageNumber="151">
+<treatmentCitation id="3E6310E2FFBF1B08FEBEFD8B02D3445E" author="Fairmaire" box="[356,1493,574,616]" page="34" pageId="1" pageNumber="151" year="1849">
+<bibCitation id="6AE83E9FFFBF1B08FEBEFD8B02D3445E" author="Fairmaire" box="[356,1493,574,616]" journalOrPublisher="Rev. Mag. Zool." pageId="1" pageNumber="151" pagination="34" part="1" refId="ref527" title="Plochionus pradieri" type="journal article" year="1849">
+<title id="CDC6DDC5FFBF1B08FEBEFD8B05C4445E" box="[356,706,574,616]" pageId="1" pageNumber="151">
+<emphasis id="8DB6EAE1FFBF1B08FEBEFD8B05C4445E" box="[356,706,574,616]" italics="true" pageId="1" pageNumber="151">Plochionus pradieri</emphasis>
+</title>
+<author id="677FDE16FFBF1B08FD0BFD8B0485445E" box="[721,899,574,616]" pageId="1" pageNumber="151">Fairmaire</author>
+, 
+<journalOrPublisher id="65033C3FFFBF1B08FC40FD8B03BE445E" box="[922,1208,574,616]" pageId="1" pageNumber="151">Rev. Mag. Zool.</journalOrPublisher>
+II, 
+<emphasis id="8DB6EAE1FFBF1B08FAD3FD8B0211445E" bold="true" box="[1289,1303,574,616]" pageId="1" pageNumber="151">
+<part id="CB669C6EFFBF1B08FAD3FD8B0215445E" box="[1289,1299,574,616]" pageId="1" pageNumber="151" type="volume">1</part>
+:
+</emphasis>
+<pagination id="860BC807FFBF1B08FAE2FD8B0265445E" box="[1336,1379,574,616]" pageId="1" pageNumber="151" type="pageRange">34</pagination>
+, 
+<year id="CB6A77A0FFBF1B08FAA7FD8B02D6445E" box="[1405,1488,574,616]" pageId="1" pageNumber="151">1849</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFBF1B08FEBFFDC706FB44E6" blockId="1.[355,1688,523,770]" pageId="1" pageNumber="151">
+<treatmentCitationGroup id="9FD211DDFFBF1B08FEBFFDC706FB44E6" pageId="1" pageNumber="151">
+<treatmentCitation id="3E6310E2FFBF1B08FEBFFDC706FB44E6" pageId="1" pageNumber="151">
+<bibCitation id="6AE83E9FFFBF1B08FEBFFDC706FB44E6" author="Andrews" journalOrPublisher="Ins. Samoa" pageId="1" pageNumber="151" pagination="12" part="4" refId="ref545" title="Endynomena pradieri (Fairmaire)" type="book" year="1927">
+<title id="CDC6DDC5FFBF1B08FEBFFDC704D544AA" box="[357,979,626,668]" pageId="1" pageNumber="151">
+<emphasis id="8DB6EAE1FFBF1B08FEBFFDC705EF44AA" box="[357,745,626,668]" italics="true" pageId="1" pageNumber="151">Endynomena pradieri</emphasis>
+(Fairmaire)
+</title>
+<author id="677FDE16FFBF1B08FC30FDC7038A44AA" box="[1002,1164,626,668]" pageId="1" pageNumber="151">Andrews</author>
+, 
+<journalOrPublisher id="65033C3FFFBF1B08FB7CFDC7026844AA" box="[1190,1390,626,668]" pageId="1" pageNumber="151">
+Ins. 
+<collectingCountry id="C7D57663FFBF1B08FB20FDC7026844AA" box="[1274,1390,626,668]" name="Samoa" pageId="1" pageNumber="151">Samoa</collectingCountry>
+</journalOrPublisher>
+<emphasis id="8DB6EAE1FFBF1B08FAA5FDC702CA44AA" bold="true" box="[1407,1484,626,668]" pageId="1" pageNumber="151">
+<part id="CB669C6EFFBF1B08FAA5FDC7029F44AA" box="[1407,1433,626,668]" pageId="1" pageNumber="151" type="volume">4</part>
+(1):
+</emphasis>
+<pagination id="860BC807FFBF1B08FA2BFDC7011F44AA" box="[1521,1561,626,668]" pageId="1" pageNumber="151" type="pageRange">12</pagination>
+, fig. 9, 
+<year id="CB6A77A0FFBF1B08FE7FFD1306FE44E6" box="[421,504,678,720]" pageId="1" pageNumber="151">1927</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBF1B08FEBFFD6F038B4534" box="[357,1165,730,770]" pageId="1" pageNumber="151" type="materials_examined">
+<paragraph id="BF7D36F3FFBF1B08FEBFFD6F038B4534" blockId="1.[355,1688,523,770]" box="[357,1165,730,770]" pageId="1" pageNumber="151">
+<materialsCitation id="0FAA3CAEFFBF1B08FEBFFD6F038E4534" ID-GBIF-Occurrence="3334692512" box="[357,1160,730,770]" collectingDate="1936-06-30" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="1" pageNumber="151" specimenCount="1">
+<location id="BA1D6028FFBF1B08FEBFFD6F05244534" LSID="urn:lsid:plazi:treatment:376B87E5FFBF1B08FEFEFDBA038B4534:BA1D6028FFBF1B08FEBFFD6F05244534" box="[357,546,730,770]" name="Machanao" pageId="1" pageNumber="151">Machanao</location>
+, 
+<date id="CB7C1033FFBF1B08FDE0FD6F05CD4534" box="[570,715,730,770]" pageId="1" pageNumber="151" value="1930-06">
+<collectingDate id="DB38E9DBFFBF1B08FDE0FD6F05CD4534" box="[570,715,730,770]" pageId="1" pageNumber="151" value="1930-06">June 30</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFBF1B08FD39FD6F047E4534" box="[739,888,730,770]" pageId="1" pageNumber="151">Usinger</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFBF1B08FC4BFD6F038E4534" box="[913,1160,730,770]" pageId="1" pageNumber="151" type="generic">one specimen</specimenCount>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</subSection>
+</document>

@@ -1,0 +1,133 @@
+<document id="F924CCB7AD2B452A49560AC155E78E6E" ID-DOI="http://doi.org/10.5281/zenodo.5159515" ID-GBIF-Dataset="c9232a85-5a09-440a-9ede-102073e7b6f0" ID-Zenodo-Dep="5159515" checkinTime="1627051975127" checkinUser="carolina" docAuthor="SWEZEY, O. H. &amp; WILLIAMS, F. X." docDate="1942" docId="03E68852C57CFFB6FEB3BB24FAFFFA14" docLanguage="en" docName="InsectsOfGuamI.172.3-6.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 172" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Anax piraticus Kennedy, Ent. Soc. Am., Ann. 27: 346 1934" docType="treatment" docVersion="14" lastPageNumber="3" masterDocId="FFDFF02AC57CFFB7FF89B354FF83F875" masterDocTitle="ODONATA, DRAGONFLIES OF GUAM" masterLastPageNumber="6" masterPageNumber="3" pageNumber="3" updateTime="1658861037059" updateUser="ExternalLinkService">
+<mods:mods id="80013D84DC9A95115050ED2810EE8C60" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="796DC8DDBDBE356501E49B15E98612F5">
+<mods:title id="BD2DABC61A044E1EF64AF7BB77312314">ODONATA, DRAGONFLIES OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="FCBDCC5585EDE39519306D953572CC6D" type="personal">
+<mods:role id="EAE555FAD26E36F1BF3E43FD8389D71D">
+<mods:roleTerm id="4E8BD4DD939F61C5B69D8F9089DCEE07">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="28C971C7E64AD88AC043C3ECFD39AFD6">SWEZEY, O. H.</mods:namePart>
+<mods:affiliation id="5B72EC52851C760238B86DA9D35E26B2">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:name id="EA903548CD8E2FC7F88EE38E3F6C4920" type="personal">
+<mods:role id="088517638BBD9A7A9DD2CE59B83750A1">
+<mods:roleTerm id="99CF30EA43D8F26C81163EB65D92E4FB">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C2B59CCC36CB73AF91F5A92BCD095540">WILLIAMS, F. X.</mods:namePart>
+<mods:affiliation id="5E400E438F4F6AD43816880959B35A0A">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="F34CCE12FB968DE11F2A93C7A600267B">text</mods:typeOfResource>
+<mods:relatedItem id="D9AAFCF3772CDB3C85597A41D1B3DFEF" type="host">
+<mods:originInfo id="C67ABAC62FC2728A3D16BDBDC972EE79">
+<mods:dateIssued id="E458568A3F0699C31463ECC1C88DFA98">1942</mods:dateIssued>
+<mods:dateOther id="F0F477496AC1670ABCE5B410C8F4D6B6" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="9725426A3BC755F9A166645F707D0568">Bernice P. Bishop Museum, Bulletin 172</mods:publisher>
+<mods:place id="61ADE018838965724E90658C05E2077B">
+<mods:placeTerm id="301D62B8D75539293613B97C1B271F44">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="0CA202979F7920779C7220D9E654C0C4">
+<mods:title id="9EADD34817F8D2307336AC5CB4A4788B">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="3BB094640773237FBA34855B7F97AD82">
+<mods:extent id="C46E0395006DFE0BC42F80C56E9543E9" unit="page">
+<mods:start id="128F222EB82A5FE2640A9FCBFB09D246">3</mods:start>
+<mods:end id="B78134B35DAB3DFB9939F9D88019CB11">6</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="32D1DF0AE2A5B83DCB48AB9B3A71B84C">book chapter</mods:classification>
+<mods:identifier id="937EA44CD7632C5A05874F3F1FC06861" type="DOI">http://doi.org/10.5281/zenodo.5159515</mods:identifier>
+<mods:identifier id="ACFF3D55D1F75AFBED48322180D0B5EF" type="GBIF-Dataset">c9232a85-5a09-440a-9ede-102073e7b6f0</mods:identifier>
+<mods:identifier id="A5F6ADA3582E01065E35F4901C726661" type="Zenodo-Dep">5159515</mods:identifier>
+</mods:mods>
+<treatment id="03E68852C57CFFB6FEB3BB24FAFFFA14" ID-GBIF-Taxon="183919260" LSID="urn:lsid:plazi:treatment:03E68852C57CFFB6FEB3BB24FAFFFA14" httpUri="http://treatment.plazi.org/id/03E68852C57CFFB6FEB3BB24FAFFFA14" lastPageId="1" lastPageNumber="3" pageId="0" pageNumber="3">
+<subSubSection id="C3556ACFC57CFFB7FEB3BB24FCC7F0EE" box="[314,836,2160,2203]" pageId="0" pageNumber="3" type="nomenclature">
+<paragraph id="8BF03944C57CFFB7FEB3BB24FCC7F0EE" blockId="0.[311,1707,2160,2513]" box="[314,836,2160,2203]" pageId="0" pageNumber="3">
+<heading id="D0B88E28C57CFFB7FEB3BB24FA50F0EE" box="[314,1491,2160,2203]" fontSize="11" level="2" pageId="0" pageNumber="3" reason="2">
+<emphasis id="B93BE556C57CFFB7FEB3BB24FD0AF0EE" bold="true" box="[314,649,2160,2203]" pageId="0" pageNumber="3">
+2. 
+<taxonomicName id="4C4F42C7C57CFFB7FEF1BB24FCBDF0EE" authority="Kennedy" box="[376,830,2160,2203]" class="Insecta" family="Coenagriidae" genus="Anax" higherTaxonomySource="CoL" kingdom="Animalia" order="Odonata" pageId="0" pageNumber="3" phylum="Arthropoda" rank="species" species="piraticus">
+Anax piraticus 
+<bibCitation id="5E653128C57CFFB7FD13BB24FA4DF0EE" author="Kennedy" box="[666,1486,2160,2203]" journalOrPublisher="Ent. Soc. Am., Ann." pageId="0" pageNumber="3" pagination="346" part="27" refId="ref258" type="journal article" year="1934">
+<author id="53F2D1A1C57CFFB7FD13BB24FCBDF0EE" box="[666,830,2160,2203]" pageId="0" pageNumber="3">Kennedy</author>
+, 
+<subSubSection id="C3556ACFC57CFFB7FCDCBB24FA50F0EE" box="[853,1491,2160,2203]" pageId="0" pageNumber="3" type="reference_group">
+<paragraph id="8BF03944C57CFFB7FCDCBB24FA50F0EE" blockId="0.[311,1707,2160,2513]" box="[853,1491,2160,2203]" pageId="0" pageNumber="3">
+<journalOrPublisher id="518E3388C57CFFB7FCDCBB24FB48F0EE" box="[853,1227,2160,2203]" pageId="0" pageNumber="3">Ent. Soc. Am., Ann.</journalOrPublisher>
+<emphasis id="B93BE556C57CFFB7FB55BB24FA87F0EE" bold="true" box="[1244,1284,2160,2203]" pageId="0" pageNumber="3">
+<part id="FFEB93D9C57CFFB7FB55BB24FA83F0EE" box="[1244,1280,2160,2203]" pageId="0" pageNumber="3" type="volume">27</part>
+:
+</emphasis>
+<pagination id="B286C7B0C57CFFB7FAADBB24FAE0F0EE" box="[1316,1379,2160,2203]" pageId="0" pageNumber="3" type="pagination">346</pagination>
+, 
+<year id="FFE77817C57CFFB7FAF5BB24FA4DF0EE" box="[1404,1486,2160,2203]" pageId="0" pageNumber="3">1934</year>
+.
+</paragraph>
+</subSubSection>
+</bibCitation>
+</taxonomicName>
+</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3556ACFC57CFFB6FEF2BBF2FAFFFA14" lastPageId="1" lastPageNumber="4" pageId="0" pageNumber="3" type="materials_examined">
+<paragraph id="8BF03944C57CFFB6FEF2BBF2FAFFFA14" blockId="0.[311,1707,2160,2513]" lastBlockId="1.[392,1787,411,609]" lastPageId="1" lastPageNumber="4" pageId="0" pageNumber="3">
+<materialsCitation id="3B273319C57CFFB7FEF2BBF2FBEDF176" ID-GBIF-Occurrence="3866005301" collectedFrom="dead specimen collected by a student on bark of Pithecolobium tree at Root Agricultural School" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="3" specimenCount="1">
+<collectingMunicipality id="6B94A33EC57CFFB7FEF2BBF2FE3EF0BB" box="[379,445,2214,2254]" name="Piti" pageId="0" pageNumber="3">Piti</collectingMunicipality>
+, 
+<collectedFrom id="38537AB9C57CFFB7FE57BBF2FE31F176" pageId="0" pageNumber="3">
+dead specimen on bark of 
+<taxonomicName id="4C4F42C7C57CFFB7FC60BBF2FB65F0BB" box="[1001,1254,2214,2254]" class="Magnoliopsida" family="Fabaceae" genus="Pithecolobium" higherTaxonomySource="CoL" kingdom="Plantae" order="Fabales" pageId="0" pageNumber="3" phylum="Tracheophyta" rank="genus">
+<emphasis id="B93BE556C57CFFB7FC60BBF2FB65F0BB" box="[1001,1254,2214,2254]" italics="true" pageId="0" pageNumber="3">Pithecolobium</emphasis>
+</taxonomicName>
+tree, Root Agricultural School
+</collectedFrom>
+, 
+<date id="FFF11F84C57CFFB7FE40BB8DFD4BF176" box="[457,712,2265,2307]" pageId="0" pageNumber="3" value="1936-08-19">
+<collectingDate id="EFB5E66CC57CFFB7FE40BB8DFD4BF176" box="[457,712,2265,2307]" pageId="0" pageNumber="3" value="1936-08-19">Aug. 19, 1936</collectingDate>
+</date>
+, collected by a student;
+</materialsCitation>
+<materialsCitation id="3B273319C57CFFB7FB09BB8DF929F176" ID-GBIF-Occurrence="3866005349" box="[1152,1706,2265,2307]" collectedFrom="at light" collectingDate="1936-09-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="3">
+<collectingMunicipality id="6B94A33EC57CFFB7FB09BB8DFB40F176" box="[1152,1219,2265,2307]" name="Piti" pageId="0" pageNumber="3">Piti</collectingMunicipality>
+, at light, 
+<date id="FFF11F84C57CFFB7FAFCBB8DF985F176" box="[1397,1542,2265,2307]" pageId="0" pageNumber="3" value="2012-09">
+<collectingDate id="EFB5E66CC57CFFB7FAFCBB8DF985F176" box="[1397,1542,2265,2307]" pageId="0" pageNumber="3" value="2012-09">Sept. 12</collectingDate>
+</date>
+, 
+<collectorName id="26BA5C92C57CFFB7F997BB8DF927F176" box="[1566,1700,2265,2307]" pageId="0" pageNumber="3">Swezey</collectorName>
+,
+</materialsCitation>
+<materialsCitation id="3B273319C57CFFB7FEB2BA59FDDCF143" ID-GBIF-Occurrence="3866012301" box="[315,607,2317,2358]" collectingDate="1936-10-17" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="3">
+<date id="FFF11F84C57CFFB7FEB2BA59FE3CF143" box="[315,447,2317,2358]" pageId="0" pageNumber="3" value="2017-10">
+<collectingDate id="EFB5E66CC57CFFB7FEB2BA59FE3CF143" box="[315,447,2317,2358]" pageId="0" pageNumber="3" value="2017-10">Oct. 17</collectingDate>
+</date>
+, 
+<collectorName id="26BA5C92C57CFFB7FE51BA59FDDCF143" box="[472,607,2317,2358]" pageId="0" pageNumber="3">Swezey</collectorName>
+</materialsCitation>
+. A wary high-flying species difficult to capture. 
+<materialsCitation id="3B273319C57CFFB7FEF1BA6BF920F11F" ID-GBIF-Occurrence="3866005316" box="[376,1699,2367,2410]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="0" pageNumber="3" specimenCount-male="1">
+Described from a 
+<specimenCount id="9D49F2CDC57CFFB7FD4CBA6BFC94F11F" box="[709,791,2367,2410]" pageId="0" pageNumber="3" type="male">male</specimenCount>
+<specimenCount id="9D49F2CDC57CFFB7FCA0BA6BFC44F11F" box="[809,967,2367,2410]" pageId="0" pageNumber="3" type="generic">specimen</specimenCount>
+collected in 
+<collectingCountry id="F35879D4C57CFFB7FB3DBA6BFA9FF11F" box="[1204,1308,2367,2410]" name="Guam" pageId="0" pageNumber="3">Guam</collectingCountry>
+by 
+<location id="8E906F9FC57CFFB7FAE0BA6BF989F11F" LSID="urn:lsid:plazi:treatment:03E68852C57CFFB6FEB3BB24FAFFFA14:8E906F9FC57CFFB7FAE0BA6BF989F11F" box="[1385,1546,2367,2410]" country="Guam" name="Fullaway" pageId="0" pageNumber="3">Fullaway</location>
+in 1911
+</materialsCitation>
+. A male specimen collected in 1936 was submitted to Dr. Kennedy for verification. In reply, Dr. Kennedy stated that he had not seen the species 
+<emphasis id="B93BE556C57CFFB7F981BAFCF92AF1A4" box="[1544,1705,2472,2513]" italics="true" pageId="0" pageNumber="3">panybcus</emphasis>
+Hagen with which he had compared 
+<emphasis id="B93BE556C57DFFB6FBA2B2CFFB40F9B3" box="[1067,1219,411,454]" italics="true" pageId="1" pageNumber="4">piratirns</emphasis>
+in his original description, and now he says: &quot;My opinion after seeing this second specimen is that it will be difficult to separate all specimens from 
+<collectingCountry id="F35879D4C57DFFB6FBCCB157FB2EFA5B" box="[1093,1197,515,558]" name="Guam" pageId="1" pageNumber="4">Guam</collectingCountry>
+from 
+<emphasis id="B93BE556C57DFFB6FAA8B157FA40FA5B" box="[1313,1475,515,558]" italics="true" pageId="1" pageNumber="4">panybeus</emphasis>
+of Celebes. They may prove to be one species with study of more material.&quot;
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

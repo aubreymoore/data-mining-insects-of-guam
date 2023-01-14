@@ -1,0 +1,199 @@
+<document id="E526D8D5E54170E80E4DEA3FB752D31E" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E940FFAAFE7F8355963A0765" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Othreis fullonia" docType="treatment" docVersion="20" lastPageNumber="174" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="174" updateTime="1669841625929" updateUser="ExternalLinkService">
+<mods:mods id="E0A18ACD5C989674F0AD585CCACE3B41" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="28F7A44D98B03492CB5F0C41D4F82A03">
+<mods:title id="F9F3169C2D6D4F8A46790EEFAB505355">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="04CDC1E4945082DC169F9B5760A65254" type="personal">
+<mods:role id="FC32D36986719DAE0523C3AA91E555BA">
+<mods:roleTerm id="2A609B307FD1F7D80FD29AD816A7208D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D495E1756F7ACA0924BBE52E8F38B4F3">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="A338C363C635047F768706451BDD046F">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="0273C5E9CBD63946A633BD9F63946DFC">text</mods:typeOfResource>
+<mods:relatedItem id="73301CAE61622FFE073E46A3F2A3A7C4" type="host">
+<mods:originInfo id="10AA1A711C91A2A213959BDFE397EF6D">
+<mods:dateIssued id="23015F59F76373C8BCDFF0C2B79E0132">1946</mods:dateIssued>
+<mods:dateOther id="738BA10FA4E5684EA8EDF02E3D546343" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="3BCAD791FA410F848F67F189676B0829">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="F4443126C1C60E27DF05214CFECF282A">
+<mods:placeTerm id="FCA16EE6BB8571D288E78D212E2C76DC">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="12D332AD859B0BBE50DF1F06FEE6876E">
+<mods:title id="D327567FA46212DC49BED62302074757">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="077E9CA4E90F76BB34F2F7358999F46F">
+<mods:extent id="601EE708037A5DBE551781B8097CD8A1" unit="page">
+<mods:start id="4CC8ABB12214428CE32EF23E70B562B7">163</mods:start>
+<mods:end id="11078B45215005C6BEB33DA38EA8E8F9">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="DAF2C5FAF1FF126D20C1FBF5E1E77F9A">book chapter</mods:classification>
+<mods:identifier id="97C0CA6C8C5A648312EDED4E8063D224" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="7DFB412FFBCCDAC62AA25E002333DC6F" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="C926C721CDB1BDA9920A72BDC24CB4CA" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E940FFAAFE7F8355963A0765" ID-DOI="http://doi.org/10.5281/zenodo.5224127" ID-GBIF-Taxon="183926977" ID-Zenodo-Dep="5224127" LSID="urn:lsid:plazi:treatment:03B387B8E940FFAAFE7F8355963A0765" httpUri="http://treatment.plazi.org/id/03B387B8E940FFAAFE7F8355963A0765" lastPageNumber="174" pageId="11" pageNumber="174">
+<subSubSection id="C3006525E940FFAAFE7F8355919402DD" box="[432,994,360,402]" pageId="11" pageNumber="174" type="nomenclature">
+<paragraph id="8BA536AEE940FFAAFE7F8355919402DD" blockId="11.[432,1832,360,1066]" box="[432,994,360,402]" pageId="11" pageNumber="174">
+<heading id="D0ED81C2E940FFAAFE7F8355919402DD" box="[432,994,360,402]" fontSize="8" level="2" pageId="11" pageNumber="174" reason="4">
+<emphasis id="B96EEABCE940FFAAFE7F8355939502DD" bold="true" box="[432,483,360,402]" pageId="11" pageNumber="174">28.</emphasis>
+<taxonomicName id="4C1A4D2DE940FFAAFDCA835591AA02DD" authority="(Clerck)" baseAuthorityName="Clerck" box="[517,988,360,402]" class="Insecta" family="Noctuidae" genus="Othreis" kingdom="Animalia" order="Lepidoptera" pageId="11" pageNumber="174" phylum="Arthropoda" rank="species" species="fullonia">
+<emphasis id="B96EEABCE940FFAAFDCA8355915C02DD" bold="true" box="[517,810,360,402]" pageId="11" pageNumber="174">Othreis fullonia</emphasis>
+(Clerck)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E940FFAAFE3883A197EE012E" pageId="11" pageNumber="174" type="description">
+<paragraph id="8BA536AEE940FFAAFE3883A197F60289" blockId="11.[432,1832,360,1066]" box="[503,1408,412,454]" pageId="11" pageNumber="174">
+<treatmentCitationGroup id="AB0A1180E940FFAAFE3883A197F60289" box="[503,1408,412,454]" pageId="11" pageNumber="174">
+<bibCitation id="5E303EC2E940FFAAFE3883A197F60289" author="Clerck" box="[503,1408,412,454]" journalOrPublisher="cones" pageId="11" pageNumber="174" refId="ref6037" type="book" year="1764">
+<emphasis id="B96EEABCE940FFAAFE3883A190770289" box="[503,513,412,454]" italics="true" pageId="11" pageNumber="174">[</emphasis>
+<emphasis id="B96EEABCE940FFAAFDCE83A191230289" box="[513,853,412,454]" italics="true" pageId="11" pageNumber="174">
+<treatmentCitation id="0ABB10BFE940FFAAFDCE83A190C30289" author="Clerck" box="[513,693,412,454]" pageId="11" pageNumber="174" year="1764">Phalaena]</treatmentCitation>
+fullonia
+</emphasis>
+<author id="53A7DE4BE940FFAAFCA983A191AC0289" box="[870,986,412,454]" pageId="11" pageNumber="174">Clerck</author>
+,! 
+<journalOrPublisher id="51DB3C62E940FFAAFC3783A196150289" box="[1016,1123,412,454]" pageId="11" pageNumber="174">cones</journalOrPublisher>
+<emphasis id="B96EEABCE940FFAAFBBC83A196F00289" bold="true" box="[1139,1158,412,454]" pageId="11" pageNumber="174">2:</emphasis>
+pl. 48, 
+<year id="FFB277FDE940FFAAFAE883A1970D0289" box="[1319,1403,412,454]" pageId="11" pageNumber="174">1764</year>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE940FFAAFE3D83ED90FC0162" blockId="11.[432,1832,360,1066]" pageId="11" pageNumber="174">
+<treatmentCitationGroup id="AB0A1180E940FFAAFE3D83ED90FC0162" pageId="11" pageNumber="174">
+<bibCitation id="5E303EC2E940FFAAFE3D83ED90FC0162" author="Hampson" pageId="11" pageNumber="174" pagination="560" refId="ref6053" title="Fauna Brit. India, Moths" type="journal volume" year="1894">
+<emphasis id="B96EEABCE940FFAAFE3D83ED912E02B5" box="[498,856,464,506]" italics="true" pageId="11" pageNumber="174">Ophideres fullonica,</emphasis>
+<treatmentCitation id="0ABB10BFE940FFAAFCA583ED90F30162" author="Hampson" page="560" pageId="11" pageNumber="174" year="1864">
+<author id="53A7DE4BE940FFAAFCA583ED966E02B5" box="[874,1048,464,506]" pageId="11" pageNumber="174">Hampson</author>
+, 
+<title id="F91EDD98E940FFAAFBFE83ED978A02B5" box="[1073,1532,464,506]" pageId="11" pageNumber="174">
+Fauna Brit. 
+<collectingCountry id="F30D763EE940FFAAFADB83ED970502B5" box="[1300,1395,464,506]" name="India" pageId="11" pageNumber="174">India</collectingCountry>
+, Moths
+</title>
+<emphasis id="B96EEABCE940FFAAF9C383ED946902B5" bold="true" box="[1548,1567,464,506]" pageId="11" pageNumber="174">2:</emphasis>
+<pagination id="B2D3C85AE940FFAAF98F83ED940902B5" box="[1600,1663,464,506]" pageId="11" pageNumber="174">560</pagination>
+, fig. 317, 
+<year id="FFB277FDE940FFAAFDFC803E90F30162" box="[563,645,515,557]" pageId="11" pageNumber="174">1894</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE940FFAAFE3C800B97EE012E" blockId="11.[432,1832,360,1066]" box="[499,1432,566,609]" pageId="11" pageNumber="174">
+<treatmentCitationGroup id="AB0A1180E940FFAAFE3C800B97EE012E" box="[499,1432,566,609]" pageId="11" pageNumber="174">
+<bibCitation id="5E303EC2E940FFAAFE3C800B97EE012E" author="Tams" box="[499,1432,566,609]" pageId="11" pageNumber="174" pagination="224" part="3" refId="ref6074" title="Ins. Samoa" type="journal article" year="1935">
+<emphasis id="B96EEABCE940FFAAFE3C800B9163012E" box="[499,789,566,609]" italics="true" pageId="11" pageNumber="174">Othreis fullonia,</emphasis>
+<treatmentCitation id="0ABB10BFE940FFAAFCEB800B97E5012E" author="Tams" box="[804,1427,566,609]" page="224" pageId="11" pageNumber="174" year="1935">
+<author id="53A7DE4BE940FFAAFCEB800B91FC012E" box="[804,906,566,609]" pageId="11" pageNumber="174">Tams</author>
+, 
+<title id="F91EDD98E940FFAAFC6D800B961F012E" box="[930,1129,566,609]" pageId="11" pageNumber="174">
+Ins. 
+<collectingCountry id="F30D763EE940FFAAFC3B800B961F012E" box="[1012,1129,566,609]" name="Samoa" pageId="11" pageNumber="174">Samoa</collectingCountry>
+</title>
+<part id="FFBE9C33E940FFAAFBB7800B96F8012E" box="[1144,1166,566,609]" pageId="11" pageNumber="174" type="volume">3</part>
+(
+<part id="FFBE9C33E940FFAAFB52800B96C1012E" box="[1181,1207,566,609]" pageId="11" pageNumber="174" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE940FFAAFB23800B9751012E" box="[1260,1319,566,609]" pageId="11" pageNumber="174" type="pagination">224</pagination>
+, 
+<year id="FFB277FDE940FFAAFA8F800B97E5012E" box="[1344,1427,566,609]" pageId="11" pageNumber="174">1935</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E940FFAAFE3C805694C600DC" pageId="11" pageNumber="174" type="description">
+<paragraph id="8BA536AEE940FFAAFE3C805694C600DC" blockId="11.[432,1832,360,1066]" pageId="11" pageNumber="174">
+<materialsCitation id="3B723CF3E940FFAAFE3C8056965301DA" ID-GBIF-Occurrence="3332081327" box="[499,1061,619,661]" collectedFrom="at light" collectingDate="1936-06-16" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="11" pageNumber="174">
+<location id="8EC56075E940FFAAFE3C8056904301DA" LSID="urn:lsid:plazi:treatment:03B387B8E940FFAAFE7F8355963A0765:8EC56075E940FFAAFE3C8056904301DA" box="[499,565,619,661]" pageId="11" pageNumber="174">
+<collectingMunicipality id="6BC1ACD4E940FFAAFE3C8056904301DA" box="[499,565,619,661]" pageId="11" pageNumber="174">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE940FFAAFD83805690AC01DA" box="[588,730,619,661]" pageId="11" pageNumber="174" value="2016-06">
+<collectingDate id="EFE0E986E940FFAAFD83805690AC01DA" box="[588,730,619,661]" pageId="11" pageNumber="174" value="2016-06">June 16</collectingDate>
+</date>
+, at light, 
+<location id="8EC56075E940FFAAFC488056966801DA" LSID="urn:lsid:plazi:treatment:03B387B8E940FFAAFE7F8355963A0765:8EC56075E940FFAAFC488056966801DA" box="[903,1054,619,661]" pageId="11" pageNumber="174">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E940FFAAFBFA8056971A0186" ID-GBIF-Occurrence="3332081374" collectedFrom="a chrysalis found in webbed leaf of Erythrina indica, moth issued Nov. 9" collectingDate="1936-11-02" collectorName="O. H. Swezey" country="Guam" location="Asan" pageId="11" pageNumber="174">
+<collectingMunicipality id="6BC1ACD4E940FFAAFBFA805696E501DA" box="[1077,1171,619,661]" pageId="11" pageNumber="174">Asan</collectingMunicipality>
+, 
+<date id="FFA4106EE940FFAAFB648056975201DA" box="[1195,1316,619,661]" pageId="11" pageNumber="174">
+<collectingDate id="EFE0E986E940FFAAFB648056975201DA" box="[1195,1316,619,661]" pageId="11" pageNumber="174">Nov. 2</collectingDate>
+</date>
+, a chrysalis found in webbed leaf on 
+<emphasis id="B96EEABCE940FFAAFDFA80A191140186" box="[565,866,668,713]" italics="true" pageId="11" pageNumber="174">
+<taxonomicName id="4C1A4D2DE940FFAAFDFA80A1912A0186" box="[565,860,668,713]" class="Magnoliopsida" family="Fabaceae" genus="Erythrina" kingdom="Animalia" order="Fabales" pageId="11" pageNumber="174" phylum="Tracheophyta" rank="species" species="indica">
+<location id="8EC56075E940FFAAFDFA80A190950186" LSID="urn:lsid:plazi:treatment:03B387B8E940FFAAFE7F8355963A0765:8EC56075E940FFAAFDFA80A190950186" box="[565,739,668,713]" pageId="11" pageNumber="174">Erythrina</location>
+indica
+</taxonomicName>
+,
+</emphasis>
+moth issued 
+<date id="FFA4106EE940FFAAFB9E80A196BC0186" box="[1105,1226,668,713]" pageId="11" pageNumber="174">
+<collectingDate id="EFE0E986E940FFAAFB9E80A196BC0186" box="[1105,1226,668,713]" pageId="11" pageNumber="174">Nov. 9</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E940FFAAFB2E80A197110186" box="[1249,1383,668,713]" pageId="11" pageNumber="174">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="3B723CF3E940FFAAFA4A80A191A30061" ID-GBIF-Occurrence="3913652458" collectedFrom="a few small caterpillars on an Erythrina tree, may have been this species but we were not successful in rearing them" collectingDate="1936-10-17" collectorName="O. H. Swezey" country="Guam" location="Agat" pageId="11" pageNumber="174">
+A few small caterpillars on an 
+<location id="8EC56075E940FFAAFDEC80F291C101B4" LSID="urn:lsid:plazi:treatment:03B387B8E940FFAAFE7F8355963A0765:8EC56075E940FFAAFDEC80F291C101B4" box="[547,951,719,763]" pageId="11" pageNumber="174">
+<taxonomicName id="4C1A4D2DE940FFAAFDEC80F290A401B4" authorityName="C.L.Brehm" authorityYear="1753" box="[547,722,719,763]" class="Magnoliopsida" family="Fabaceae" genus="Erythrina" kingdom="Animalia" order="Fabales" pageId="11" pageNumber="174" phylum="Tracheophyta" rank="genus">
+<emphasis id="B96EEABCE940FFAAFDEC80F290A401B4" box="[547,722,719,763]" italics="true" pageId="11" pageNumber="174">Erythrina</emphasis>
+</taxonomicName>
+tree at Agat
+</location>
+, 
+<date id="FFA4106EE940FFAAFC0080F2962501B4" box="[975,1107,719,763]" pageId="11" pageNumber="174" value="2017-10">
+<collectingDate id="EFE0E986E940FFAAFC0080F2962501B4" box="[975,1107,719,763]" pageId="11" pageNumber="174" value="2017-10">Oct. 17</collectingDate>
+</date>
+, may have been this species but we were not successful in rearing them
+</materialsCitation>
+. The tree was nearly defoliated, as though the caterpillars had been very abundant previously. 
+<materialsCitation id="3B723CF3E940FFAAFA85810A911A00DC" ID-GBIF-Occurrence="3978866301" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="11" pageNumber="174" specimenCount="1">
+There is 
+<specimenCount id="9D1CFD27E940FFAAFA33810A9486002E" box="[1532,1776,823,865]" pageId="11" pageNumber="174" type="generic">one specimen</specimenCount>
+in 
+<collectingCountry id="F30D763EE940FFAAFE7C8157906300DC" box="[435,533,874,915]" name="United States of America" pageId="11" pageNumber="174">U. S.</collectingCountry>
+<collectingMunicipality id="6BC1ACD4E940FFAAFDE58157911A00DC" box="[554,876,874,915]" pageId="11" pageNumber="174">National Museum</collectingMunicipality>
+</materialsCitation>
+<materialsCitation id="3B723CF3E940FFAAFCB0815794DD00DC" ID-GBIF-Occurrence="3978866307" box="[895,1707,874,915]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Bishop Museum" pageId="11" pageNumber="174" specimenCount="1">
+and one in 
+<location id="8EC56075E940FFAAFB9C8157970C00DC" LSID="urn:lsid:plazi:treatment:03B387B8E940FFAAFE7F8355963A0765:8EC56075E940FFAAFB9C8157970C00DC" box="[1107,1402,874,915]" pageId="11" pageNumber="174">Bishop Museum</location>
+, 
+<location id="8EC56075E940FFAAFA5A8157944A00DC" LSID="urn:lsid:plazi:treatment:03B387B8E940FFAAFE7F8355963A0765:8EC56075E940FFAAFA5A8157944A00DC" box="[1429,1596,874,915]" pageId="11" pageNumber="174">Fullaway</location>
+, 1911
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E940FFAAFE3E81A7963A0765" pageId="11" pageNumber="174" type="description">
+<paragraph id="8BA536AEE940FFAAFE3E81A7963A0765" blockId="11.[432,1832,360,1066]" pageId="11" pageNumber="174">
+This fine large moth has a wide distribution from Africa throughout the Oriental region to New 
+<collectingCountry id="F30D763EE940FFAAFCB781F2918200B6" box="[888,1012,975,1017]" name="Guinea-Bissau" pageId="11" pageNumber="174">Guinea</collectingCountry>
+and 
+<collectingCountry id="F30D763EE940FFAAFB9581F2977700B6" box="[1114,1281,975,1017]" name="Australia" pageId="11" pageNumber="174">Australia</collectingCountry>
+, and to 
+<collectingCountry id="F30D763EE940FFAAFA6B81F2979300B6" box="[1444,1509,975,1017]" name="Fiji" pageId="11" pageNumber="174">Fiji</collectingCountry>
+and 
+<collectingCountry id="F30D763EE940FFAAF98181F294B300B6" box="[1614,1733,975,1017]" name="Samoa" pageId="11" pageNumber="174">Samoa</collectingCountry>
+. We record it for the first time in 
+<collectingCountry id="F30D763EE940FFAAFC14863F96310765" box="[987,1095,1026,1066]" name="Guam" pageId="11" pageNumber="174">Guam</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

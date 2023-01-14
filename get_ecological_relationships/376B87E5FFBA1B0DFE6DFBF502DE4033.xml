@@ -1,0 +1,180 @@
+<document id="446E71909A90E15CF1E8019063A329DB" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBA1B0DFE6DFBF502DE4033" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Homalota cribrum" docType="treatment" docVersion="18" lastPageNumber="154" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="154" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="40B9EAB66DE631DB8C0D7272628AE669" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="9E8F2B6A8245691DA2B071E218931E7E">
+<mods:title id="B2DE73FBC4C8492E4320FE233581D5CE">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="95ED4B7FA9EF51DB625B396F7BC0068E" type="personal">
+<mods:role id="1C2F620EA070A6D4AD1F4CE301FC7053">
+<mods:roleTerm id="44146C189141822F718668D058262C3D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="81840FB4AB6935D4B2F250FD038A6770">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="01D86230562AC58F0F435CC4E5BCE065">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="BD81415D088DD2DD3AA434180A6626AC">text</mods:typeOfResource>
+<mods:relatedItem id="EEB40949F179EAC57D61DBD20864280E" type="host">
+<mods:originInfo id="4EC5C467CFC4452FCD9AD4E49A9E493E">
+<mods:dateIssued id="4E0DF95D15FBAC9ED4C92B4355912372">1942</mods:dateIssued>
+<mods:dateOther id="5481A6F479C594436F6152A5668103A9" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="FB5AD3E05B2159C0FB08987419B7736C">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="1A71555A03E24F20162DC3867D50664A">
+<mods:placeTerm id="762E14D29C2B70C649FE3377D67B2266">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="D5362A1DD4D19A6F75FA72C8C7309DD6">
+<mods:title id="472894EEB4D5A57FBAABB80BF2AFD5AC">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="701D3D88AB7A1A310F4543C6A76796D4">
+<mods:extent id="BEC529E604880469A424E1E495074C42" unit="page">
+<mods:start id="8D3F81D320D00C3BB27C16C4DDD5A901">150</mods:start>
+<mods:end id="4F1811B1610E29655FABA94EE29A7023">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="190A78DC85A1285BE9004C9B00B42FB0">book chapter</mods:classification>
+<mods:identifier id="016415F661CFBE9362EA251B1A247EFC" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="1232107D257A1B35F4DAC63727A1341D" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="C89C94842C8DB86AA1560EEE450E0F55" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBA1B0DFE6DFBF502DE4033" ID-DOI="http://doi.org/10.5281/zenodo.5182998" ID-GBIF-Taxon="184415263" ID-Zenodo-Dep="5182998" LSID="urn:lsid:plazi:treatment:376B87E5FFBA1B0DFE6DFBF502DE4033" httpUri="http://treatment.plazi.org/id/376B87E5FFBA1B0DFE6DFBF502DE4033" lastPageNumber="154" pageId="4" pageNumber="154">
+<subSubSection id="F7D86578FFBA1B0DFE6DFBF50294425C" box="[439,1426,1088,1130]" pageId="4" pageNumber="154" type="nomenclature">
+<paragraph id="BF7D36F3FFBA1B0DFE6DFBF50294425C" blockId="4.[438,1832,1088,1541]" box="[439,1426,1088,1130]" pageId="4" pageNumber="154">
+<heading id="E435819FFFBA1B0DFE6DFBF50294425C" box="[439,1426,1088,1130]" fontSize="8" level="2" pageId="4" pageNumber="154" reason="4">
+15. 
+<taxonomicName id="78C24D70FFBA1B0DFDD2FBF50317425C" authority="(Fauvel)" baseAuthorityName="Fauvel" box="[520,1041,1088,1130]" class="Insecta" family="Staphylinidae" genus="Homalota" kingdom="Animalia" order="Coleoptera" pageId="4" pageNumber="154" phylum="Arthropoda" rank="species" species="cribrum">Homalota cribrum (Fauvel)</taxonomicName>
+,. as now determined.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBA1B0DFE2CFBC604F04332" pageId="4" pageNumber="154" type="reference_group">
+<paragraph id="BF7D36F3FFBA1B0DFE2CFBC6002042AB" blockId="4.[438,1832,1088,1541]" box="[502,1830,1139,1181]" pageId="4" pageNumber="154">
+<treatmentCitationGroup id="9FD211DDFFBA1B0DFE2CFBC6002042AB" box="[502,1830,1139,1181]" pageId="4" pageNumber="154">
+<bibCitation id="6AE83E9FFFBA1B0DFE2CFBC6002042AB" author="Fauvel" box="[502,1830,1139,1181]" journalOrPublisher="Mus. civ. stor. nat. Genova" pageId="4" pageNumber="154" pagination="597" part="12" refId="ref2060" type="journal article" year="1878">
+<treatmentCitation id="3E6310E2FFBA1B0DFE2CFBC6002742AB" author="Fauvel" box="[502,1825,1139,1181]" page="597" pageId="4" pageNumber="154" year="1878">
+<emphasis id="8DB6EAE1FFBA1B0DFE2CFBC6042B42AB" box="[502,813,1139,1181]" italics="true" pageId="4" pageNumber="154">Thectura cribrum</emphasis>
+<author id="677FDE16FFBA1B0DFCE4FBC604BE42AB" box="[830,952,1139,1181]" pageId="4" pageNumber="154">Fauvel</author>
+, 
+<journalOrPublisher id="65033C3FFFBA1B0DFC0AFBC6032042AB" box="[976,1062,1139,1181]" pageId="4" pageNumber="154">Mus.</journalOrPublisher>
+civ. stor. nat. Genova, 
+<journalOrPublisher id="65033C3FFFBA1B0DFA11FBC6012642AB" box="[1483,1568,1139,1181]" jopScore="1.7179487" pageId="4" pageNumber="154">Ann.</journalOrPublisher>
+<part id="CB669C6EFFBA1B0DF9E9FBC6015442AB" box="[1587,1618,1139,1181]" pageId="4" pageNumber="154" type="volume">12</part>
+: 
+<pagination id="860BC807FFBA1B0DF9A2FBC601B042AB" box="[1656,1718,1139,1181]" pageId="4" pageNumber="154" type="pageRange">597</pagination>
+, 
+<year id="CB6A77A0FFBA1B0DF915FBC6002742AB" box="[1743,1825,1139,1181]" pageId="4" pageNumber="154">1878</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFBA1B0DFE28FB1204F04332" blockId="4.[438,1832,1088,1541]" pageId="4" pageNumber="154">
+<treatmentCitationGroup id="9FD211DDFFBA1B0DFE28FB1204F04332" pageId="4" pageNumber="154">
+<bibCitation id="6AE83E9FFFBA1B0DFE28FB1204F04332" author="Bernhauer &amp; Scheerpeltz" journalOrPublisher="Coleopt. Catalog" pageId="4" pageNumber="154" pagination="254" part="82" refId="ref2082" type="journal article" year="1926">
+<treatmentCitation id="3E6310E2FFBA1B0DFE28FB1204F74332" author="Fauvel" page="254" pageId="4" pageNumber="154" year="1926">
+<emphasis id="8DB6EAE1FFBA1B0DFE28FB1204A542E6" box="[498,931,1191,1232]" italics="true" pageId="4" pageNumber="154">Anoniognathus cribrum</emphasis>
+(Fauvel) 
+<author id="677FDE16FFBA1B0DFB5AFB12023F42E6" box="[1152,1337,1191,1232]" pageId="4" pageNumber="154">Bernhauer</author>
+and 
+<author id="677FDE16FFBA1B0DFA71FB12017142E6" box="[1451,1655,1191,1232]" pageId="4" pageNumber="154">Scheerpeltz</author>
+, 
+<journalOrPublisher id="65033C3FFFBA1B0DF943FB1205BF4332" pageId="4" pageNumber="154">Coleopt. Catalog</journalOrPublisher>
+. (
+<part id="CB669C6EFFBA1B0DFD39FB6F04154332" box="[739,787,1242,1284]" pageId="4" pageNumber="154" type="issue">82</part>
+): 
+<pagination id="860BC807FFBA1B0DFC93FB6F04834332" box="[841,901,1242,1284]" pageId="4" pageNumber="154" type="pageRange">254</pagination>
+, 
+<year id="CB6A77A0FFBA1B0DFC44FB6F04F74332" box="[926,1009,1242,1284]" pageId="4" pageNumber="154">1926</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBA1B0DFE2CFABB01B643E6" pageId="4" pageNumber="154" type="materials_examined">
+<paragraph id="BF7D36F3FFBA1B0DFE2CFABB01B643E6" blockId="4.[438,1832,1088,1541]" pageId="4" pageNumber="154">
+<materialsCitation id="0FAA3CAEFFBA1B0DFE2CFABB037A4300" ID-GBIF-Occurrence="3994027512" box="[502,1148,1294,1334]" collectedFrom="ex rotten breadfruit" collectingDate="1936-05-22" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="154" specimenCount="6">
+<location id="BA1D6028FFBA1B0DFE2CFABB05314300" LSID="urn:lsid:plazi:treatment:376B87E5FFBA1B0DFE6DFBF502DE4033:BA1D6028FFBA1B0DFE2CFABB05314300" box="[502,567,1294,1334]" name="Piti" pageId="4" pageNumber="154">Piti</location>
+, 
+<date id="CB7C1033FFBA1B0DFD8DFABB05E04300" box="[599,742,1294,1334]" pageId="4" pageNumber="154" value="1922-05">
+<collectingDate id="DB38E9DBFFBA1B0DFD8DFABB05E04300" box="[599,742,1294,1334]" pageId="4" pageNumber="154" value="1922-05">May 22</collectingDate>
+</date>
+, 
+<specimenCount id="A9C4FD7AFFBA1B0DFCD9FABB042A4300" box="[771,812,1294,1334]" pageId="4" pageNumber="154" type="generic">ex</specimenCount>
+rotten breadfruit,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBA1B0DFB49FABB054C435C" ID-GBIF-Occurrence="3994027533" collectedFrom="ex rotten bamboo sprouts" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="154" specimenCount="6">
+<date id="CB7C1033FFBA1B0DFB49FABB022C4300" box="[1171,1322,1294,1334]" pageId="4" pageNumber="154" value="2019-08">
+<collectingDate id="DB38E9DBFFBA1B0DFB49FABB022C4300" box="[1171,1322,1294,1334]" pageId="4" pageNumber="154" value="2019-08">Aug. 19</collectingDate>
+</date>
+, 
+<specimenCount id="A9C4FD7AFFBA1B0DFA9CFABB02764300" box="[1350,1392,1294,1334]" pageId="4" pageNumber="154" type="generic">ex</specimenCount>
+rotten bamboo sprouts, 
+<collectorName id="12375325FFBA1B0DFE62FAF50545435C" box="[440,579,1344,1386]" pageId="4" pageNumber="154">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBA1B0DFDBAFAF50147435C" ID-GBIF-Occurrence="3994027386" box="[608,1601,1344,1386]" collectedFrom="ex rotten papaya trunk" collectingDate="1936-05-26" collectorName="R. L. Usinger" country="Guam" location="Mount Alifan" pageId="4" pageNumber="154" specimenCount="6">
+<location id="BA1D6028FFBA1B0DFDBAFAF50420435C" LSID="urn:lsid:plazi:treatment:376B87E5FFBA1B0DFE6DFBF502DE4033:BA1D6028FFBA1B0DFDBAFAF50420435C" box="[608,806,1344,1386]" name="Mt. Alifan" pageId="4" pageNumber="154">Mt. Alifan</location>
+, 
+<date id="CB7C1033FFBA1B0DFC9BFAF504C9435C" box="[833,975,1344,1386]" pageId="4" pageNumber="154" value="1926-05">
+<collectingDate id="DB38E9DBFFBA1B0DFC9BFAF504C9435C" box="[833,975,1344,1386]" pageId="4" pageNumber="154" value="1926-05">May 26</collectingDate>
+</date>
+, 
+<specimenCount id="A9C4FD7AFFBA1B0DFC33FAF50314435C" box="[1001,1042,1344,1386]" pageId="4" pageNumber="154" type="generic">ex</specimenCount>
+rotten papaya trunk, 
+<collectorName id="12375325FFBA1B0DFA70FAF5013C435C" box="[1450,1594,1344,1386]" pageId="4" pageNumber="154">Usinger</collectorName>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBA1B0DF98EFAF504F043A8" ID-GBIF-Occurrence="3994027503" collectedFrom="ex rotten Pandanus fruit" collectingDate="1936-06-27" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="4" pageNumber="154" specimenCount="6">
+<date id="CB7C1033FFBA1B0DF98EFAF501E0435C" box="[1620,1766,1344,1386]" pageId="4" pageNumber="154" value="1927-06">
+<collectingDate id="DB38E9DBFFBA1B0DF98EFAF501E0435C" box="[1620,1766,1344,1386]" pageId="4" pageNumber="154" value="1927-06">June 27</collectingDate>
+</date>
+, 
+<specimenCount id="A9C4FD7AFFBA1B0DF925FAF5002E435C" box="[1791,1832,1344,1386]" pageId="4" pageNumber="154" type="generic">ex</specimenCount>
+rotten 
+<taxonomicName id="78C24D70FFBA1B0DFDEAFAC105D943A8" authorityName=", Swezey" box="[560,735,1396,1438]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="4" pageNumber="154" phylum="Tracheophyta" rank="genus">
+<emphasis id="8DB6EAE1FFBA1B0DFDEAFAC105D943A8" box="[560,735,1396,1438]" italics="true" pageId="4" pageNumber="154">
+<location id="BA1D6028FFBA1B0DFDEAFAC105D943A8" LSID="urn:lsid:plazi:treatment:376B87E5FFBA1B0DFE6DFBF502DE4033:BA1D6028FFBA1B0DFDEAFAC105D943A8" box="[560,735,1396,1438]" name="Pandanus" pageId="4" pageNumber="154">Pandanus</location>
+</emphasis>
+</taxonomicName>
+fruit, 
+<collectorName id="12375325FFBA1B0DFCB9FAC104E943A8" box="[867,1007,1396,1438]" pageId="4" pageNumber="154">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBA1B0DFBD7FAC1002143A8" ID-GBIF-Occurrence="3334692404" box="[1037,1831,1396,1438]" collectedFrom="ex wild papaya" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="4" pageNumber="154" specimenCount="6">
+<location id="BA1D6028FFBA1B0DFBD7FAC1039543A8" LSID="urn:lsid:plazi:treatment:376B87E5FFBA1B0DFE6DFBF502DE4033:BA1D6028FFBA1B0DFBD7FAC1039543A8" box="[1037,1171,1396,1438]" name="Dededo" pageId="4" pageNumber="154">Dededo</location>
+, 
+<date id="CB7C1033FFBA1B0DFB6AFAC1024243A8" box="[1200,1348,1396,1438]" pageId="4" pageNumber="154" value="2011-08">
+<collectingDate id="DB38E9DBFFBA1B0DFB6AFAC1024243A8" box="[1200,1348,1396,1438]" pageId="4" pageNumber="154" value="2011-08">Aug. 11</collectingDate>
+</date>
+, 
+<specimenCount id="A9C4FD7AFFBA1B0DFA85FAC1028E43A8" box="[1375,1416,1396,1438]" pageId="4" pageNumber="154" type="generic">ex</specimenCount>
+wild papaya, 
+<collectorName id="12375325FFBA1B0DF94EFAC1002643A8" box="[1684,1824,1396,1438]" pageId="4" pageNumber="154">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBA1B0DFE6CFA1D01B643E6" ID-GBIF-Occurrence="3334692371" box="[438,1712,1448,1488]" collectedFrom="ex rotten breadfruit on ground" collectingDate="1936-08-22" collectorName="O. H. Swezey" country="Guam" location="Asan" pageId="4" pageNumber="154" specimenCount="6">
+<location id="BA1D6028FFBA1B0DFE6CFA1D051543E6" LSID="urn:lsid:plazi:treatment:376B87E5FFBA1B0DFE6DFBF502DE4033:BA1D6028FFBA1B0DFE6CFA1D051543E6" box="[438,531,1448,1488]" name="Asan" pageId="4" pageNumber="154">Asan</location>
+, 
+<date id="CB7C1033FFBA1B0DFDF3FA1D05BD43E6" box="[553,699,1448,1488]" pageId="4" pageNumber="154" value="1922-08">
+<collectingDate id="DB38E9DBFFBA1B0DFDF3FA1D05BD43E6" box="[553,699,1448,1488]" pageId="4" pageNumber="154" value="1922-08">Aug. 22</collectingDate>
+</date>
+, 
+<specimenCount id="A9C4FD7AFFBA1B0DFD08FA1D05FA43E6" box="[722,764,1448,1488]" pageId="4" pageNumber="154" type="generic">ex</specimenCount>
+rotten breadfruit on ground, 
+<collectorName id="12375325FFBA1B0DFAC1FA1D02A143E6" box="[1307,1447,1448,1488]" pageId="4" pageNumber="154">Swezey</collectorName>
+; 
+<specimenCount id="A9C4FD7AFFBA1B0DFA1AFA1D01AD43E6" box="[1472,1707,1448,1488]" pageId="4" pageNumber="154" type="generic">36 specimens</specimenCount>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBA1B0DFE29FA6E02DE4033" box="[499,1496,1499,1541]" pageId="4" pageNumber="154" type="discussion">
+<paragraph id="BF7D36F3FFBA1B0DFE29FA6E02DE4033" blockId="4.[438,1832,1088,1541]" box="[499,1496,1499,1541]" pageId="4" pageNumber="154">
+Described from New 
+<collectingCountry id="C7D57663FFBA1B0DFC59FA6E03024033" box="[899,1028,1499,1541]" name="Guinea-Bissau" pageId="4" pageNumber="154">Guinea</collectingCountry>
+, very abundant in 
+<collectingCountry id="C7D57663FFBA1B0DFABCFA6E02D54033" box="[1382,1491,1499,1541]" name="Guam" pageId="4" pageNumber="154">Guam</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,140 @@
+<document id="30EA5DD34CF61225ECA87234C9C82DBD" ID-DOI="http://doi.org/10.5281/zenodo.5159673" ID-GBIF-Dataset="7700299b-eb39-4c24-86fe-2eabb15beda7" ID-Zenodo-Dep="5159673" approvalRequired="1" approvalRequired_for_document="1" checkinTime="1628017110730" checkinUser="carolina" docAuthor="Blair, K. G." docDate="1942" docId="03E387DAFFACFFCA8794F4C3F94CF716" docLanguage="en" docName="InsectsOfGuamI.172.56-60.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Micropelecotoides fulvosericans (Fairmaire)" docType="treatment" docVersion="13" lastPageNumber="58" masterDocId="FFDAFFA2FFAEFFC88657F353FF92FFF8" masterDocTitle="Coleoptera Heteromera From Guam" masterLastPageNumber="60" masterPageNumber="56" pageNumber="58" updateTime="1659619232536" updateUser="ExternalLinkService">
+<mods:mods id="4FC3451D18D4ACE8E78948A6ED944F64" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="DE7130F84A3CD80565DDA92B30B513AB">
+<mods:title id="464FFA09D047075F47613B6B0539C235">Coleoptera Heteromera From Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="DB1CE43DDA2191F681B569E18BA65C72" type="personal">
+<mods:role id="5AAC413FD8FB98373C0D111593D2D73C">
+<mods:roleTerm id="DF5589C4F41E6A297264E1ED1D0A44D1">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="59AFDBE41309C0CCABD6DDC8959AFC0C">Blair, K. G.</mods:namePart>
+<mods:affiliation id="E672A7E67BCD8B0E542BA28457E5CAF0">British Museum \ (Natural History), London</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="5D8B582CE5E7E42694A533ABA99E2BE3">text</mods:typeOfResource>
+<mods:relatedItem id="47ADEC25CC5F06391CA38D53CFD44635" type="host">
+<mods:originInfo id="0004D16EBBF4B19326B0947FA0EA3BC7">
+<mods:dateIssued id="27CDC194547C8DE62B06E8095BA3E6F3">1942</mods:dateIssued>
+<mods:dateOther id="B9E20E1BB6EB804F1CA7AC5E70DAB503" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="FCA18FB22382CE0FC282AB975B95BAE9">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="48A760C09E322943BA640ABA998A7AEE">
+<mods:placeTerm id="1B3DA6BA892A720CF789642754441398">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="3390F0E348150BD71B224E895175B909">
+<mods:title id="89F31E65289223D7D92936C24F336B6E">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="C8D350E9FEDB2AD4B839FAAA0729D675">
+<mods:extent id="8F192C221FAA11D7DF6BE1ACB1F326BD" unit="page">
+<mods:start id="2C2485E3A2CC8E64515667790A2E6BB9">56</mods:start>
+<mods:end id="B591B5C22403C845E7AFCC777CFDCD91">60</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="4F7EE6568A0E581A9F3F86996C0677DC">book chapter</mods:classification>
+<mods:identifier id="400D2597B6086B2648117CC523239B54" type="DOI">http://doi.org/10.5281/zenodo.5159673</mods:identifier>
+<mods:identifier id="EF3074F15F7236197A1C6DF66A5651D4" type="GBIF-Dataset">7700299b-eb39-4c24-86fe-2eabb15beda7</mods:identifier>
+<mods:identifier id="4427C506CB959DD2C2CF04C16AAE8144" type="Zenodo-Dep">5159673</mods:identifier>
+</mods:mods>
+<treatment id="03E387DAFFACFFCA8794F4C3F94CF716" ID-DOI="http://doi.org/10.5281/zenodo.5157201" ID-GBIF-Taxon="183919370" ID-Zenodo-Dep="5157201" LSID="urn:lsid:plazi:treatment:03E387DAFFACFFCA8794F4C3F94CF716" httpUri="http://treatment.plazi.org/id/03E387DAFFACFFCA8794F4C3F94CF716" lastPageNumber="58" pageId="2" pageNumber="58">
+<subSubSection id="C3506547FFACFFCA8794F4C3FA93F843" box="[451,1281,1936,1979]" pageId="2" pageNumber="58" type="nomenclature">
+<paragraph id="8BF536CCFFACFFCA8794F4C3FA93F843" blockId="2.[449,1845,1936,2286]" box="[451,1281,1936,1979]" pageId="2" pageNumber="58">
+<treatmentCitationGroup id="AB5A11E2FFACFFCA8794F4C3FA93F843" box="[451,1281,1936,1979]" pageId="2" pageNumber="58">
+<taxonomicName id="4C4A4D4FFFACFFCA8794F4C3FB69F843" authority="" authorityName="(Fairmaire)" box="[451,1275,1936,1979]" class="Insecta" family="Rhipiphoridae" genus="Micropelecotoides" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="58" phylum="Arthropoda" rank="species" species="fulvosericans">
+<emphasis id="B93EEADEFFACFFCA8794F4C3FB9AF843" bold="true" box="[451,1032,1936,1979]" pageId="2" pageNumber="58">Micropelecotoides fulvosericans</emphasis>
+(Fairmaire)
+</taxonomicName>
+.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFACFFCA8457F497F8A1F816" box="[512,1843,1988,2030]" pageId="2" pageNumber="58" type="reference_group">
+<paragraph id="8BF536CCFFACFFCA8457F497F8A1F816" blockId="2.[449,1845,1936,2286]" box="[512,1843,1988,2030]" pageId="2" pageNumber="58">
+<treatmentCitation id="0AEB10DDFFACFFCA8457F497F8A1F816" author="Fairmaire" box="[512,1843,1988,2030]" page="279" pageId="2" pageNumber="58" year="1878">
+<treatmentCitationGroup id="AB5A11E2FFACFFCA8457F497F8BCF816" box="[512,1838,1988,2030]" pageId="2" pageNumber="58">
+<taxonomicName id="4C4A4D4FFFACFFCA8457F497FB75F816" authority="Fairmaire, Pet. Nouv. Ent." box="[512,1255,1988,2030]" class="Insecta" family="Ripiphoridae" genus="Pelecotomoides" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="58" phylum="Arthropoda" rank="species" species="fulvo-sericans">
+<emphasis id="B93EEADEFFACFFCA8457F497FB8FF816" box="[512,1053,1988,2030]" italics="true" pageId="2" pageNumber="58">Pelecotomoides fulvo-sericans</emphasis>
+<bibCitation id="5E603EA0FFACFFCA8262F497F8BCF816" author="Fairmaire" box="[1077,1838,1988,2030]" journalOrPublisher="Pet. Nouv. Ent." pageId="2" pageNumber="58" pagination="279" part="2" type="journal article" year="1878">
+<author id="53F7DE29FFACFFCA8262F497FB75F816" box="[1077,1255,1988,2030]" pageId="2" pageNumber="58">Fairmaire</author>
+, 
+<journalOrPublisher id="518B3C00FFACFFCA8350F497F9A3F816" box="[1287,1585,1988,2030]" pageId="2" pageNumber="58">Pet. Nouv. Ent.</journalOrPublisher>
+<emphasis id="B93EEADEFFACFFCA801EF497F9C9F816" bold="true" box="[1609,1627,1988,2030]" pageId="2" pageNumber="58">
+<part id="FFEE9C51FFACFFCA801EF497F9C5F816" box="[1609,1623,1988,2030]" pageId="2" pageNumber="58" type="volume">2</part>
+:
+</emphasis>
+<emphasis id="B93EEADEFFACFFCA802CF497F953F816" box="[1659,1729,1988,2030]" italics="true" pageId="2" pageNumber="58">
+<pagination id="B283C838FFACFFCA802CF497F929F816" box="[1659,1723,1988,2030]" pageId="2" pageNumber="58" type="pagination">279</pagination>
+,
+</emphasis>
+<year id="FFE2779FFFACFFCA808AF497F8BCF816" box="[1757,1838,1988,2030]" pageId="2" pageNumber="58">1878</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitationGroup>
+.
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFACFFCA8456F4ABFC2FF771" pageId="2" pageNumber="58" type="materials_examined">
+<paragraph id="8BF536CCFFACFFCA8456F4ABFC2FF771" blockId="2.[449,1845,1936,2286]" pageId="2" pageNumber="58">
+<materialsCitation id="3B223C91FFACFFCA8456F4ABF9CCF7DA" ID-GBIF-Occurrence="3878849315" box="[513,1630,2040,2082]" collectedFrom="miscellaneous sweeping" collectingDate="1936-06-02" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="2" pageNumber="58" specimenCount-male="1">
+<collectingMunicipality id="6B91ACB6FFACFFCA8456F4ABFD2AF7DA" box="[513,696,2040,2082]" pageId="2" pageNumber="58">Machanao</collectingMunicipality>
+, 
+<date id="FFF4100CFFACFFCA8498F4ABFCDAF7DA" box="[719,840,2040,2082]" pageId="2" pageNumber="58">
+<collectingDate id="EFB0E9E4FFACFFCA8498F4ABFCDAF7DA" box="[719,840,2040,2082]" pageId="2" pageNumber="58">June 2</collectingDate>
+</date>
+, 
+<collectedFrom id="38567531FFACFFCA8536F4ABFA91F7DA" box="[865,1283,2040,2082]" pageId="2" pageNumber="58">miscellaneous sweeping</collectedFrom>
+, 
+<location id="8E956017FFACFFCA834BF4ABFA33F7DA" LSID="urn:lsid:plazi:treatment:03E387DAFFACFFCA8794F4C3F94CF716:8E956017FFACFFCA834BF4ABFA33F7DA" box="[1308,1441,2040,2082]" municipality="Machanao" name="Swezey" pageId="2" pageNumber="58">Swezey</location>
+, 
+<specimenCount id="9D4CFD45FFACFFCA83EEF4ABF9CCF7DA" box="[1465,1630,2040,2082]" pageId="2" pageNumber="58" type="male">one male</specimenCount>
+</materialsCitation>
+; 
+<materialsCitation id="3B223C91FFACFFCA802FF4ABFC08F7AD" ID-GBIF-Occurrence="3878849324" collectingDate="1936-06-04" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="2" pageNumber="58" specimenCount-male="1">
+<collectingMunicipality id="6B91ACB6FFACFFCA802FF4ABF8BFF7DA" box="[1656,1837,2040,2082]" pageId="2" pageNumber="58">Machanao</collectingMunicipality>
+, 
+<date id="FFF4100CFFACFFCA8796FB79FDABF7AD" box="[449,569,2090,2133]" pageId="2" pageNumber="58">
+<collectingDate id="EFB0E9E4FFACFFCA8796FB79FDABF7AD" box="[449,569,2090,2133]" pageId="2" pageNumber="58">June 4</collectingDate>
+</date>
+, 
+<location id="8E956017FFACFFCA8407FB79FD72F7AD" LSID="urn:lsid:plazi:treatment:03E387DAFFACFFCA8794F4C3F94CF716:8E956017FFACFFCA8407FB79FD72F7AD" box="[592,736,2090,2133]" municipality="Machanao" name="Usinger" pageId="2" pageNumber="58">Usinger</location>
+, 
+<specimenCount id="9D4CFD45FFACFFCA84A1FB79FC08F7AD" box="[758,922,2090,2133]" pageId="2" pageNumber="58" type="male">one male</specimenCount>
+</materialsCitation>
+; 
+<materialsCitation id="3B223C91FFACFFCA85E4FB79F9FAF7AD" ID-GBIF-Occurrence="3878849311" box="[947,1640,2090,2133]" collectingDate="1936-06-12" collectorName="R. L. Usinger" country="Guam" location="Barrigada" pageId="2" pageNumber="58" specimenCount-male="1">
+<collectingMunicipality id="6B91ACB6FFACFFCA85E4FB79FBF4F7AD" box="[947,1126,2090,2133]" pageId="2" pageNumber="58">Barrigada</collectingMunicipality>
+, 
+<date id="FFF4100CFFACFFCA822CFB79FA9AF7AD" box="[1147,1288,2090,2133]" pageId="2" pageNumber="58" value="2012-06">
+<collectingDate id="EFB0E9E4FFACFFCA822CFB79FA9AF7AD" box="[1147,1288,2090,2133]" pageId="2" pageNumber="58" value="2012-06">June 12</collectingDate>
+</date>
+, 
+<specimenCount id="9D4CFD45FFACFFCA834AFB79FA29F7AD" box="[1309,1467,2090,2133]" pageId="2" pageNumber="58" type="male">one male</specimenCount>
+, 
+<location id="8E956017FFACFFCA8385FB79F9FAF7AD" LSID="urn:lsid:plazi:treatment:03E387DAFFACFFCA8794F4C3F94CF716:8E956017FFACFFCA8385FB79F9FAF7AD" box="[1490,1640,2090,2133]" municipality="Barrigada" name="Usinger" pageId="2" pageNumber="58">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="3B223C91FFACFFCA8028FB79FC2AF771" ID-GBIF-Occurrence="3878849303" collectingDate="1936-05-05" collectorName="R. L. Usinger" country="Guam" location="Upi Trail" pageId="2" pageNumber="58" specimenCount-female="1">
+<collectingMunicipality id="6B91ACB6FFACFFCA8028FB79F8B9F7AD" box="[1663,1835,2090,2133]" pageId="2" pageNumber="58">Upi Trail</collectingMunicipality>
+, 
+<date id="FFF4100CFFACFFCA8795FB0CFDA7F771" box="[450,565,2143,2185]" pageId="2" pageNumber="58">
+<collectingDate id="EFB0E9E4FFACFFCA8795FB0CFDA7F771" box="[450,565,2143,2185]" pageId="2" pageNumber="58">May 5</collectingDate>
+</date>
+, 
+<location id="8E956017FFACFFCA841AFB0CFD4EF771" LSID="urn:lsid:plazi:treatment:03E387DAFFACFFCA8794F4C3F94CF716:8E956017FFACFFCA841AFB0CFD4EF771" box="[589,732,2143,2185]" municipality="Upi Trail" name="Usinger" pageId="2" pageNumber="58">Usinger</location>
+, 
+<specimenCount id="9D4CFD45FFACFFCA84A3FB0CFC2AF771" box="[756,952,2143,2185]" pageId="2" pageNumber="58" type="female">one female</specimenCount>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFACFFCA8456FBC2F94CF716" pageId="2" pageNumber="58" type="discussion">
+<paragraph id="8BF536CCFFACFFCA8456FBC2F94CF716" blockId="2.[449,1845,1936,2286]" pageId="2" pageNumber="58">
+The males vary from 2.5 to 4 111111.in length; the female is scarcely as large as the smallest male. Described from 
+<collectingCountry id="F35D765CFFACFFCA823DFB97FB39F716" box="[1130,1195,2244,2286]" name="Fiji" pageId="2" pageNumber="58">Fiji</collectingCountry>
+and recorded also from 
+<collectingCountry id="F35D765CFFACFFCA8033FB97F94BF716" box="[1636,1753,2244,2286]" name="Tonga" pageId="2" pageNumber="58">Tonga</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

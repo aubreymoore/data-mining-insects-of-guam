@@ -1,0 +1,88 @@
+<document id="0F57F8E97C820AFBF03B0C1E4B79608B" ID-DOI="http://doi.org/10.5281/zenodo.5127686" ID-GBIF-Dataset="7b960500-f4a3-4b8f-8b56-440fdc9431c9" ID-Zenodo-Dep="5127686" checkinTime="1626977897655" checkinUser="carolina" docAuthor="O. H. Swezey" docDate="1946" docId="484B8797FFADFFB1A5EFFCB4A1EEFBEB" docLanguage="en" docName="InsectsOfGuamII.189.195-200.pdf.imf" docOrigin="Insects of Guam-II, Hawaii, Honolulu: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pygophora lobata" docType="treatment" docVersion="15" lastPageNumber="198" masterDocId="B472FFEFFFAEFFB2A40BFFD9A227FFD1" masterDocTitle="SOME MISCELLANEOUS DIPTERA OF GUAM" masterLastPageNumber="200" masterPageNumber="195" pageNumber="198" updateTime="1659465586346" updateUser="ExternalLinkService">
+<mods:mods id="62FBC825135D7259D5D69192DAD4C2E4" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="D8D726D5B90F01807BC83A131A6E0071">
+<mods:title id="EAA307D1A8B69A508AB66903E8ED7151">SOME MISCELLANEOUS DIPTERA OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="DD709244F9665BC08D5253D0C04BDC36" type="personal">
+<mods:role id="273D139099A7297EE54ECD1DFC63346F">
+<mods:roleTerm id="826060D433D769129CC03393C7A2EEFA">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="AD843A515A013253DEF4C01E05B1FEFC">O. H. Swezey</mods:namePart>
+<mods:affiliation id="117A902BBC3E603281ED50B9FC326D54">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C8313D37D8BDC62830189622A9CD8A25">text</mods:typeOfResource>
+<mods:relatedItem id="CA76E9DB88E24DD36FF93C10B436EA98" type="host">
+<mods:originInfo id="5C634E2E0B43E787FDC63CC195F1C021">
+<mods:dateIssued id="2AA3F7DDAE5707E2A94312003CEB9A10">1946</mods:dateIssued>
+<mods:dateOther id="ECE00D880C29E3AB3050DEFB9B314D42" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="CC074695DB65BA805CFEFF7FC3669128">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="3D4473B3B68148300419A27C0AC3DC84">
+<mods:placeTerm id="7CD5817BDDF6E3AD5F7636E052A72F93">Hawaii, Honolulu</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5610D405E6A7E9FDA5857B320C20C481">
+<mods:title id="705137487A05D2A7ADE9F175BFEF125B">Insects of Guam-II</mods:title>
+</mods:titleInfo>
+<mods:part id="EA9A659AC98CB25CE90E523BE5D829E3">
+<mods:extent id="AA1752C01B900001EF155B009E5F36EF" unit="page">
+<mods:start id="61E7FF44E3942747707CFD1E7231DC47">195</mods:start>
+<mods:end id="04C195102C92D36C615F840092D8331D">200</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="0365F390B7ECE3EECE3FC263388C7295">book chapter</mods:classification>
+<mods:identifier id="74F49EBB17FBAC2FE7A0B7CBA122A705" type="DOI">http://doi.org/10.5281/zenodo.5127686</mods:identifier>
+<mods:identifier id="088C39E33965766877F26877E48A6BCC" type="GBIF-Dataset">7b960500-f4a3-4b8f-8b56-440fdc9431c9</mods:identifier>
+<mods:identifier id="69D5541E42B3415B2598D37F4B4E4DFF" type="Zenodo-Dep">5127686</mods:identifier>
+</mods:mods>
+<treatment id="484B8797FFADFFB1A5EFFCB4A1EEFBEB" ID-DOI="http://doi.org/10.5281/zenodo.5123258" ID-GBIF-Taxon="184459673" ID-Zenodo-Dep="5123258" LSID="urn:lsid:plazi:treatment:484B8797FFADFFB1A5EFFCB4A1EEFBEB" httpUri="http://treatment.plazi.org/id/484B8797FFADFFB1A5EFFCB4A1EEFBEB" lastPageNumber="198" pageId="3" pageNumber="198">
+<subSubSection id="88F8650AFFADFFB1A5EFFCB4A61FFC46" box="[484,1080,877,919]" pageId="3" pageNumber="198" type="nomenclature">
+<paragraph id="C05D3681FFADFFB1A5EFFCB4A61FFC46" blockId="3.[482,1880,877,1082]" box="[484,1080,877,919]" pageId="3" pageNumber="198">
+<heading id="9B1581EDFFADFFB1A5EFFCB4A61FFC46" box="[484,1080,877,919]" fontSize="8" level="2" pageId="3" pageNumber="198" reason="4">
+<emphasis id="F296EA93FFADFFB1A5EFFCB4A060FC46" bold="true" box="[484,583,877,919]" pageId="3" pageNumber="198">12. *</emphasis>
+<taxonomicName id="07E24D02FFADFFB1A64CFCB4A615FC46" authority="(Stein)" baseAuthorityName="Stein" box="[583,1074,877,919]" class="Insecta" family="Muscidae" genus="Pygophora" kingdom="Animalia" order="Diptera" pageId="3" pageNumber="198" phylum="Arthropoda" rank="species" species="lobata">
+<emphasis id="F296EA93FFADFFB1A64CFCB4A1B0FC46" bold="true" box="[583,919,877,919]" pageId="3" pageNumber="198">Pygophora lobata</emphasis>
+(Stein)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFADFFB1A62FFC79A4D2FC1A" box="[548,1781,928,971]" pageId="3" pageNumber="198" type="reference_group">
+<paragraph id="C05D3681FFADFFB1A62FFC79A4D2FC1A" blockId="3.[482,1880,877,1082]" box="[548,1781,928,971]" pageId="3" pageNumber="198">
+<taxonomicName id="07E24D02FFADFFB1A62FFC79A684FC1A" authority="Stein, Termes. Fiizetek" authorityName="Stein, Termes. Fiizetek" authorityYear="1900" box="[548,1187,928,971]" class="Insecta" family="Muscidae" genus="Coenosia" kingdom="Animalia" order="Diptera" pageId="3" pageNumber="198" phylum="Arthropoda" rank="species" species="lobata" subGenus="Pygophora">
+<emphasis id="F296EA93FFADFFB1A62FFC79A610FC1A" box="[548,1079,928,971]" italics="true" pageId="3" pageNumber="198">Coenosia (Pygophora) lobata</emphasis>
+<bibCitation id="15C83EEDFFADFFB1A04CFC79A4D7FC1A" author="Stein" box="[1095,1776,928,971]" journalOrPublisher="Termes. Fiizetek" pageId="3" pageNumber="198" pagination="147" part="23" refId="ref1493" type="journal article" year="1900">
+<author id="185FDE64FFADFFB1A04CFC79A684FC1A" box="[1095,1187,928,971]" pageId="3" pageNumber="198">Stein</author>
+, 
+<journalOrPublisher id="1A233C4DFFADFFB1A0B3FC79A7C9FC1A" box="[1208,1518,928,971]" pageId="3" pageNumber="198">Termes. Fiizetek</journalOrPublisher>
+<part id="B4469C1CFFADFFB1A1F6FC79A438FC1A" box="[1533,1567,928,971]" pageId="3" pageNumber="198" type="volume">23</part>
+: 
+<pagination id="F92BC875FFADFFB1A24DFC79A4A3FC1A" box="[1606,1668,928,971]" pageId="3" pageNumber="198" type="pagination">147</pagination>
+, 
+<year id="B44A77D2FFADFFB1A296FC79A4D7FC1A" box="[1693,1776,928,971]" pageId="3" pageNumber="198">1900</year>
+</bibCitation>
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFADFFB1A628FC05A1EEFBEB" pageId="3" pageNumber="198" type="materials_examined">
+<paragraph id="C05D3681FFADFFB1A628FC05A1EEFBEB" blockId="3.[482,1880,877,1082]" pageId="3" pageNumber="198">
+<materialsCitation id="708A3CDCFFADFFB1A628FC05A777FBD7" ID-GBIF-Occurrence="3874685301" box="[547,1360,988,1030]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="3" pageNumber="198" specimenCount="1">
+<collectingMunicipality id="2039ACFBFFADFFB1A628FC05A04CFBD7" box="[547,619,988,1030]" pageId="3" pageNumber="198">One</collectingMunicipality>
+<specimenCount id="D6E4FD08FFADFFB1A68BFC05A13AFBD7" box="[640,797,988,1030]" pageId="3" pageNumber="198" type="generic">specimen</specimenCount>
+in 
+<collectingMunicipality id="2039ACFBFFADFFB1A76EFC05A6A9FBD7" box="[869,1166,988,1030]" pageId="3" pageNumber="198">Bishop Museum</collectingMunicipality>
+, 
+<location id="C53D605AFFADFFB1A0A1FC05A777FBD7" LSID="urn:lsid:plazi:treatment:484B8797FFADFFB1A5EFFCB4A1EEFBEB:C53D605AFFADFFB1A0A1FC05A777FBD7" box="[1194,1360,988,1030]" municipality="One" name="Fullaway" pageId="3" pageNumber="198">Fullaway</location>
+</materialsCitation>
+. Determined by Malloch as 
+<taxonomicName id="07E24D02FFADFFB1A5E9FBC9A1E4FBEB" authority="(Stein)" baseAuthorityName="Stein" box="[482,963,1040,1082]" class="Insecta" family="Muscidae" genus="Pygophora" kingdom="Animalia" order="Diptera" pageId="3" pageNumber="198" phylum="Arthropoda" rank="species" species="lobata">
+<emphasis id="F296EA93FFADFFB1A5E9FBC9A106FBEB" box="[482,801,1040,1082]" italics="true" pageId="3" pageNumber="198">Pygophora lobata</emphasis>
+(Stein)
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

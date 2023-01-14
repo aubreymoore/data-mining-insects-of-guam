@@ -1,0 +1,221 @@
+<document id="1FE0DB16E7A6790ACCE1D673D6857F31" ID-DOI="http://doi.org/10.5281/zenodo.5160043" ID-GBIF-Dataset="9298158c-3c02-4ba2-ab8a-87c7f9c8e70b" ID-Zenodo-Dep="5160043" checkinTime="1627487837253" checkinUser="admin" docAuthor="Swezey, O. H." docDate="1942" docId="03B31D6AAA294749986AFC0AF96DF78C" docLanguage="en" docName="InsectsOfGuamI.172.30-38.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Biship Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Issoria egistina" docType="treatment" docVersion="16" lastPageNumber="35" masterDocId="FF8A6512AA2D474D9945FF80FFCFFFAC" masterDocTitle="Lepidoptera, Butterflies of Guam" masterLastPageNumber="38" masterPageNumber="31" pageNumber="35" updateTime="1664294797178" updateUser="ExternalLinkService">
+<mods:mods id="692DEC171F16EC1D8B70B245C3C54911" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="E4A8A1A179111EA7226E3FE86D1B0D8A">
+<mods:title id="1810C156D9FE02E0AA54B63D0CD9F6E2">Lepidoptera, Butterflies of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="8F843BC1479DB7D33100B88EC6FB8C03" type="personal">
+<mods:role id="607166332C2D09E285F7CE990473B0ED">
+<mods:roleTerm id="F96B584059D4500A4CB4ECB45A7691EF">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="FAD97829B1F584C1AD1150FA2AB33B08">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="AE8DAEA55865C87B380BFB7F317DA03B">Experiment Station Hawaiian Sugar Planters' Associantion, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="96AC8FC1A6BC73135D59F0FC07370697">text</mods:typeOfResource>
+<mods:relatedItem id="768E03DCA82578A71CA848823296113B" type="host">
+<mods:originInfo id="2A71A0E7C2692DBC736FBE11C99230B6">
+<mods:dateIssued id="9D23F177552365A466AA252BC70CD667">1942</mods:dateIssued>
+<mods:dateOther id="2D055C5584507D766DEE9FBF2B8498D5" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="DC103C8517AF252673AFEF05B76B6917">Bernice P. Biship Museum</mods:publisher>
+<mods:place id="B8ACFF1054A19F85949E8D278DEF14C7">
+<mods:placeTerm id="0792C8F2FC75C12D467B7FCC573A9324">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="D9093CFB25612DAC94CCFCE5899A0744">
+<mods:title id="DE26768C788D3171B0410C5358FDF48F">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="84F8337B7BE31E4A23C94A416CB3DDE1">
+<mods:extent id="9CB4748AF29F3F7CA093CF48E3786B08" unit="page">
+<mods:start id="054F91330BC451B678870CBB5E153B7B">31</mods:start>
+<mods:end id="3823D8B909FAEA7C8CF11CBBC13AC07D">38</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="C97E5FCF4C6E61C1AD5F9EDE1F50D417">book chapter</mods:classification>
+<mods:identifier id="5D4B872C24BF9FC62101BB8DC367458C" type="DOI">http://doi.org/10.5281/zenodo.5160043</mods:identifier>
+<mods:identifier id="EB1A1CE9B21CA87E5AF85176A67E3F37" type="GBIF-Dataset">9298158c-3c02-4ba2-ab8a-87c7f9c8e70b</mods:identifier>
+<mods:identifier id="9851B78A0E04DD10A86AA1A1B0CC3CF6" type="Zenodo-Dep">5160043</mods:identifier>
+</mods:mods>
+<treatment id="03B31D6AAA294749986AFC0AF96DF78C" ID-DOI="http://doi.org/10.5281/zenodo.5526391" ID-GBIF-Taxon="187975390" ID-Zenodo-Dep="5526391" LSID="urn:lsid:plazi:treatment:03B31D6AAA294749986AFC0AF96DF78C" httpUri="http://treatment.plazi.org/id/03B31D6AAA294749986AFC0AF96DF78C" lastPageNumber="35" pageId="4" pageNumber="35">
+<subSubSection id="C300FFF7AA294749986AFC0AFB8EFC1E" box="[303,1089,906,946]" pageId="4" pageNumber="35" type="nomenclature">
+<paragraph id="8BA5AC7CAA294749986AFC0AFB8EFC1E" blockId="4.[303,1700,906,2080]" box="[303,1089,906,946]" pageId="4" pageNumber="35">
+<heading id="D0ED1B10AA294749986AFC0AFB8EFC1E" box="[303,1089,906,946]" fontSize="11" level="2" pageId="4" pageNumber="35" reason="2">
+<emphasis id="B96E706EAA294749986AFC0AFD47FC1E" bold="true" box="[303,648,906,946]" pageId="4" pageNumber="35">
+8. 
+<taxonomicName id="4C1AD7FFAA2947499828FC0AFBF4FC1E" authority="(Latreille and Godart)" baseAuthorityName="Latreille and Godart" box="[365,1083,906,946]" class="Insecta" family="Nymphalidae" genus="Issoria" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="35" phylum="Arthropoda" rank="species" species="egistina">Issoria egistina (Latreille and Godart)</taxonomicName>
+</emphasis>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C300FFF7AA294749982AFC39FBD7FAB7" pageId="4" pageNumber="35" type="description">
+<paragraph id="8BA5AC7CAA294749982AFC39FD61FBE1" blockId="4.[303,1700,906,2080]" pageId="4" pageNumber="35">
+<treatmentCitationGroup id="AB0A8B52AA294749982AFC39FD61FBE1" pageId="4" pageNumber="35">
+<treatmentCitation id="0ABB8A6DAA294749982AFC39FDC6FBB5" author="Latreille &amp; Godart" page="816-817" pageId="4" pageNumber="35" year="1824">
+<taxonomicName id="4C1AD7FFAA294749982AFC39FBE4FC4B" box="[367,1067,953,999]" pageId="4" pageNumber="35">
+<emphasis id="B96E706EAA294749982AFC39FD67FC4B" box="[367,680,953,999]" italics="true" pageId="4" pageNumber="35">Argynne egestina</emphasis>
+<bibCitation id="5E30A410AA2947499BFDFC39FDC6FBB5" author="Latreille and Godart" pageId="4" pageNumber="35" pagination="816 - 817" part="9" refId="ref2340" title="Encycl. Meth." type="book" year="1824">
+<author id="53A74499AA2947499BFDFC39FBE4FC4B" box="[696,1067,953,999]" pageId="4" pageNumber="35">Latreille and Godart</author>
+, 
+<title id="F91E474AAA2947499D06FC39FAF4FC4B" box="[1091,1339,953,999]" pageId="4" pageNumber="35">Encycl. Meth.</title>
+<emphasis id="B96E706EAA2947499C0BFC39FAA6FC4B" bold="true" box="[1358,1385,953,999]" pageId="4" pageNumber="35">
+<part id="FFBE06E1AA2947499C0BFC39FAADFC4B" box="[1358,1378,953,999]" pageId="4" pageNumber="35">9</part>
+,
+</emphasis>
+Suppl.: 
+<pagination id="B2D35288AA2947499F4AFC39F953FC4B" box="[1551,1692,953,999]" pageId="4" pageNumber="35" type="pagination">816-817</pagination>
+, 
+<year id="FFB2ED2FAA29474998F4FC6FFDCBFBB5" box="[433,516,1007,1049]" pageId="4" pageNumber="35">1824</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+<treatmentCitation id="0ABB8A6DAA2947499B6DFC6FFD61FBE1" author="Quoy &amp; Gaimard" page="83" pageId="4" pageNumber="35" year="1824">
+<bibCitation id="5E30A410AA2947499B6DFC6FFDCFFBE1" author="Quoy and Gaimard" journalOrPublisher="Voy. autour du Monde" pageId="4" pageNumber="35" pagination="256" part="83" refId="ref2340" type="journal article" year="1824">
+<author id="53A74499AA2947499B6DFC6FFC46FBB5" box="[552,905,1007,1049]" pageId="4" pageNumber="35">Quoy and Gaimard</author>
+, 
+<journalOrPublisher id="51DBA6B0AA2947499AE7FC6FFA86FBB5" box="[930,1353,1007,1049]" pageId="4" pageNumber="35">Voy. autour du Monde</journalOrPublisher>
+, 
+<pagination id="B2D35288AA2947499C24FC6FFA6DFBB5" box="[1377,1442,1007,1049]" pageId="4" pageNumber="35" type="pageRange">256</pagination>
+, pl. 
+<part id="FFBE06E1AA2947499CB2FC6FF9ECFBB5" box="[1527,1571,1007,1049]" pageId="4" pageNumber="35" type="volume">83</part>
+, fig. 4, 
+<year id="FFB2ED2FAA29474998F4FBA4FDCFFBE1" box="[433,512,1060,1101]" pageId="4" pageNumber="35">1824</year>
+</bibCitation>
+(
+<author id="53A74499AA2947499B64FBA4FD54FBE1" box="[545,667,1060,1101]" fns="*" inm="true" npo="*" pageId="4" pageNumber="35">Guam</author>
+).
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA5AC7CAA294749982BFBD6FD41FB18" blockId="4.[303,1700,906,2080]" pageId="4" pageNumber="35">
+<treatmentCitationGroup id="AB0A8B52AA294749982BFBD6FD41FB18" pageId="4" pageNumber="35">
+<treatmentCitation id="0ABB8A6DAA294749982BFBD6FD46FB18" author="Wallace" page="343" pageId="4" pageNumber="35" year="1869">
+<taxonomicName id="4C1AD7FFAA294749982BFBD6FBDBFB2C" box="[366,1044,1110,1152]" class="Insecta" family="Nymphalidae" genus="Atella" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="35" phylum="Arthropoda" rank="genus">
+<emphasis id="B96E706EAA294749982BFBD6FDA0FB2C" box="[366,623,1110,1152]" italics="true" pageId="4" pageNumber="35">Atella egistina</emphasis>
+(Latreille and Godart)
+</taxonomicName>
+<bibCitation id="5E30A410AA2947499D6FFBD6FD41FB18" author="Wallace" journalOrPublisher="Ent. Soc. London, Trans." pageId="4" pageNumber="35" pagination="343" part="4" refId="ref2385" type="journal article" year="1869">
+<author id="53A74499AA2947499D6FFBD6FB76FB2C" box="[1066,1209,1110,1152]" pageId="4" pageNumber="35">Wallace</author>
+, 
+<journalOrPublisher id="51DBA6B0AA2947499D94FBD6F956FB2C" box="[1233,1689,1110,1152]" pageId="4" pageNumber="35">Ent. Soc. London, Trans.</journalOrPublisher>
+, 
+<emphasis id="B96E706EAA29474998E9FB0CFE00FB18" bold="true" box="[428,463,1164,1204]" pageId="4" pageNumber="35">
+<part id="FFBE06E1AA29474998E9FB0CFE07FB18" box="[428,456,1164,1204]" pageId="4" pageNumber="35">4</part>
+:
+</emphasis>
+<pagination id="B2D35288AA294749989BFB0CFDD1FB18" box="[478,542,1164,1204]" pageId="4" pageNumber="35">343</pagination>
+, 
+<year id="FFB2ED2FAA2947499B72FB0CFD46FB18" box="[567,649,1164,1204]" pageId="4" pageNumber="35">1869</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA5AC7CAA294749982AFB3DFBD7FAB7" blockId="4.[303,1700,906,2080]" pageId="4" pageNumber="35">
+<treatmentCitationGroup id="AB0A8B52AA294749982AFB3DFBD7FAB7" pageId="4" pageNumber="35">
+<treatmentCitation id="0ABB8A6DAA294749982AFB3DFBDCFAB7" author="Fruhstorfer" page="473-475" pageId="4" pageNumber="35" year="1912">
+<taxonomicName id="4C1AD7FFAA294749982AFB3DFBFBFB4B" box="[367,1076,1213,1255]" pageId="4" pageNumber="35">
+<emphasis id="B96E706EAA294749982AFB3DFD4FFB4B" box="[367,640,1213,1255]" italics="true" pageId="4" pageNumber="35">lssoria egistina</emphasis>
+(Latreille and Godart)
+</taxonomicName>
+, 
+<bibCitation id="5E30A410AA2947499D14FB3DFBD7FAB7" author="Fruhstorfer" journalOrPublisher="Seitz Gross-Schmet- terlinge der Erde" pageId="4" pageNumber="35" pagination="473 - 475" part="9" refId="ref2402" type="journal article" year="1912">
+<author id="53A74499AA2947499D14FB3DFAEDFB4B" box="[1105,1314,1213,1255]" pageId="4" pageNumber="35">Fruhstorfer</author>
+<journalOrPublisher id="51DBA6B0AA2947499C70FB3DFD13FAB7" pageId="4" pageNumber="35">Seitz Gross-Schmet­terlinge der Erde</journalOrPublisher>
+<emphasis id="B96E706EAA2947499BAFFB70FCC2FAB7" bold="true" box="[746,781,1264,1307]" pageId="4" pageNumber="35">
+<part id="FFBE06E1AA2947499BAFFB70FD33FAB7" box="[746,764,1264,1307]" pageId="4" pageNumber="35" type="volume">9</part>
+:
+</emphasis>
+<emphasis id="B96E706EAA2947499A5FFB70FC61FAB7" box="[794,942,1264,1307]" italics="true" pageId="4" pageNumber="35">
+<pagination id="B2D35288AA2947499A5FFB70FC67FAB7" box="[794,936,1264,1307]" pageId="4" pageNumber="35" type="pageRange">473-475</pagination>
+,
+</emphasis>
+<year id="FFB2ED2FAA2947499A84FB70FBDCFAB7" box="[961,1043,1264,1307]" pageId="4" pageNumber="35">1912</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C300FFF7AA2947499835FAA5F950FA2E" pageId="4" pageNumber="35" type="description">
+<paragraph id="8BA5AC7CAA2947499835FAA5F950FA2E" blockId="4.[303,1700,906,2080]" pageId="4" pageNumber="35">
+<materialsCitation id="3B72A621AA2947499835FAA5FC67FAE1" ID-GBIF-Occurrence="3352147364" box="[368,936,1317,1357]" collectingDate="1936-04-22" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="4" pageNumber="35">
+<location id="8EC5FAA7AA2947499835FAA5FD84FAE1" LSID="urn:lsid:plazi:treatment:03B31D6AAA294749986AFC0AF96DF78C:8EC5FAA7AA2947499835FAA5FD84FAE1" box="[368,587,1317,1357]" name="Ritidian Pt." pageId="4" pageNumber="35">Ritidian Pt.</location>
+, 
+<date id="FFA48ABCAA2947499B2EFAA5FCC3FAE1" box="[619,780,1317,1357]" pageId="4" pageNumber="35" value="1922-04">
+<collectingDate id="EFE07354AA2947499B2EFAA5FCC3FAE1" box="[619,780,1317,1357]" pageId="4" pageNumber="35" value="1922-04">April 22</collectingDate>
+</date>
+, 
+<collectorName id="26EFC9AAAA2947499A6EFAA5FC6EFAE1" box="[811,929,1317,1357]" pageId="4" pageNumber="35">Bryan</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B72A621AA2947499A84FAA5FAB4FAE1" ID-GBIF-Occurrence="3913379310" box="[961,1403,1317,1357]" collectingDate="1936-04-29" collectorName="E. H. Bryan" country="Guam" location="Yona" pageId="4" pageNumber="35">
+<location id="8EC5FAA7AA2947499A84FAA5FBEEFAE1" LSID="urn:lsid:plazi:treatment:03B31D6AAA294749986AFC0AF96DF78C:8EC5FAA7AA2947499A84FAA5FBEEFAE1" box="[961,1057,1317,1357]" name="Yona" pageId="4" pageNumber="35">Yona</location>
+, 
+<date id="FFA48ABCAA2947499D05FAA5FB10FAE1" box="[1088,1247,1317,1357]" pageId="4" pageNumber="35" value="1929-04">
+<collectingDate id="EFE07354AA2947499D05FAA5FB10FAE1" box="[1088,1247,1317,1357]" pageId="4" pageNumber="35" value="1929-04">April 29</collectingDate>
+</date>
+, 
+<collectorName id="26EFC9AAAA2947499DBAFAA5FABBFAE1" box="[1279,1396,1317,1357]" pageId="4" pageNumber="35">Bryan</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B72A621AA2947499CD6FAA5FCD4FA2E" ID-GBIF-Occurrence="3913379328" collectedFrom="gully near" collectingDate="1936-06-16" collectorName="R. L. Usinger" country="Guam" location="Mount Chachao" pageId="4" pageNumber="35">
+gully near 
+<collectingMunicipality id="6BC13606AA2947499F21FAA5FE07FA2E" pageId="4" pageNumber="35">Mt. Chachao</collectingMunicipality>
+, 
+<date id="FFA48ABCAA29474998A5FAD8FDA1FA2E" box="[480,622,1368,1410]" pageId="4" pageNumber="35" value="2016-06">
+<collectingDate id="EFE07354AA29474998A5FAD8FDA1FA2E" box="[480,622,1368,1410]" pageId="4" pageNumber="35" value="2016-06">June 16</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA2947499BC3FAD8FCDAFA2E" LSID="urn:lsid:plazi:treatment:03B31D6AAA294749986AFC0AF96DF78C:8EC5FAA7AA2947499BC3FAD8FCDAFA2E" box="[646,789,1368,1410]" municipality="Mt. Chachao" name="Usinger" pageId="4" pageNumber="35">Usinger</location>
+,
+</materialsCitation>
+<materialsCitation id="3B72A621AA2947499A75FAD8FBA1FA2E" ID-GBIF-Occurrence="3913379316" box="[816,1134,1368,1410]" collectingDate="1936-09-22" collectorName="O. H. Swezey" country="Guam" location="Mount Chachao" pageId="4" pageNumber="35">
+<date id="FFA48ABCAA2947499A75FAD8FC0EFA2E" box="[816,961,1368,1410]" pageId="4" pageNumber="35" value="1922-09">
+<collectingDate id="EFE07354AA2947499A75FAD8FC0EFA2E" box="[816,961,1368,1410]" pageId="4" pageNumber="35" value="1922-09">Sept. 22</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA2947499A9EFAD8FBA8FA2E" LSID="urn:lsid:plazi:treatment:03B31D6AAA294749986AFC0AF96DF78C:8EC5FAA7AA2947499A9EFAD8FBA8FA2E" box="[987,1127,1368,1410]" name="Swezey" pageId="4" pageNumber="35">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="3B72A621AA2947499DC4FAD8FAA3FA2E" ID-GBIF-Occurrence="3913641302" box="[1153,1388,1368,1410]" collectingDate="1936-05-23" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="35">
+<collectingMunicipality id="6BC13606AA2947499DC4FAD8FB0CFA2E" box="[1153,1219,1368,1410]" pageId="4" pageNumber="35">Piti</collectingMunicipality>
+, 
+<date id="FFA48ABCAA2947499D98FAD8FAAAFA2E" box="[1245,1381,1368,1410]" pageId="4" pageNumber="35" value="1923-05">
+<collectingDate id="EFE07354AA2947499D98FAD8FAAAFA2E" box="[1245,1381,1368,1410]" pageId="4" pageNumber="35" value="1923-05">May 23</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B72A621AA2947499C3AFAD8F950FA2E" ID-GBIF-Occurrence="3913641306" box="[1407,1695,1368,1410]" collectingDate="1936-09-04" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="35">
+<location id="8EC5FAA7AA2947499C3AFAD8FA00FA2E" LSID="urn:lsid:plazi:treatment:03B31D6AAA294749986AFC0AF96DF78C:8EC5FAA7AA2947499C3AFAD8FA00FA2E" box="[1407,1487,1368,1410]" municipality="Piti" name="Sept" pageId="4" pageNumber="35">Sept</location>
+. 4, 
+<location id="8EC5FAA7AA2947499F51FAD8F955FA2E" LSID="urn:lsid:plazi:treatment:03B31D6AAA294749986AFC0AF96DF78C:8EC5FAA7AA2947499F51FAD8F955FA2E" box="[1556,1690,1368,1410]" municipality="Piti" name="Swezey" pageId="4" pageNumber="35">Swezey</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C300FFF7AA2947499835FA0DF96DF78C" pageId="4" pageNumber="35" type="description">
+<paragraph id="8BA5AC7CAA2947499835FA0DF943F8FE" blockId="4.[303,1700,906,2080]" pageId="4" pageNumber="35">
+This butterfly was described from Guam. I am indebted to R. L. Usinger for looking up the literature on it at the California Academy of Sciences. It was not possible to determine which authors should get credit for the species, as each group of authors (Latreille and Godart, and Quoy and Gaimard) attributes the species to the other group. Each group has given a description of the species, and the publication of each was in the same year 1824. Fruhstorfer, in 
+<volumeTitle id="34B6CE4CAA2947499B4DF943FE65F8FE" jopScore="0.14021252" pageId="4" pageNumber="35">
+the above citation, has considerable discussion of the different species of 
+<emphasis id="B96E706EAA29474998B0F96DFDA2F88D" box="[501,621,1773,1825]" italics="true" pageId="4" pageNumber="35">lssoria</emphasis>
+related to 
+<emphasis id="B96E706EAA2947499A04F96DFC07F88D" box="[833,968,1773,1825]" italics="true" pageId="4" pageNumber="35">egistina</emphasis>
+and seems to consider them all as ~ubspecies
+</volumeTitle>
+. 
+<journalOrPublisher id="51DBA6B0AA2947499FCDF8AAF943F8FE" box="[1672,1676,1834,1874]" jopScore="0.009498094" pageId="4" pageNumber="35">TODO</journalOrPublisher>
+</paragraph>
+<paragraph id="8BA5AC7CAA294749982AF8DDF96DF78C" blockId="4.[303,1700,906,2080]" pageId="4" pageNumber="35">
+We found it rather rare, though quite widely spread. We reared it from a small native tree called 
+<emphasis id="B96E706EAA2947499A45F80FFA4FF815" box="[768,1408,1935,1977]" italics="true" pageId="4" pageNumber="35">luluhut (Gy1nnosporia thonipsonii).</emphasis>
+The caterpillar and pupa are similar to the figures of 
+<emphasis id="B96E706EAA2947499A9BF844FAB9F840" box="[990,1398,1988,2028]" italics="true" pageId="4" pageNumber="35">lssoria sinha bowdenia</emphasis>
+(Butler) [Hopkins, Insects of Samoa 3 (1): TODO pl. 4, figs. 6, 
+<emphasis id="B96E706EAA2947499D5FF875FBF8F78C" box="[1050,1079,2037,2080]" italics="true" pageId="4" pageNumber="35">7,</emphasis>
+1927]. Also collected by Fullaway.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

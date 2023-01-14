@@ -1,0 +1,97 @@
+<document id="8298900637C80FBB9E1E2DF90CD4B0F3" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91BFFFAFE42F974FA661990" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Trionymus sacchari" docType="treatment" docVersion="13" lastPageNumber="158" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="158" updateTime="1661283429254" updateUser="annettekang">
+<mods:mods id="6A9595A2C71A65D968881181F698B137" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="94CA9F78B49758437095BA14FE70D0D3">
+<mods:title id="485DBA4CE61AE25C28DFD7182C115614">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="7D7F814DD5DF7E8F3CA2CC6D65C588E9" type="personal">
+<mods:role id="3961EA2BF70FC4E08D15052BC1BE36B4">
+<mods:roleTerm id="A245319E4BB2F14FC423CEA2CF6E8961">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="EE01CB876D93CF0F1B876ECF77FB4BE1">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="70ACBC0740BD71B00EA68FE11E2B2648">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="5C5B4938E39959BC6C9B087C97639430">text</mods:typeOfResource>
+<mods:relatedItem id="3617875B35E41E72A74D7EBF708C582D" type="host">
+<mods:originInfo id="9F77DBAE7CF07A934B98625BB306F75E">
+<mods:dateIssued id="D788343A40F5A67845D0402B06F1587D">1946</mods:dateIssued>
+<mods:dateOther id="40EC5D537C623DD4F52A8026A175F9EC" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="4E5D8F8C9B6E8BE817CC348DE6DC52A5">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="71F70B609762FD0C48A2BFBE0998DA09">
+<mods:placeTerm id="0EFF59DFAE55A0C51F2EBC063896E2FA">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="F9039408D5531BD700E5BF592066EEB7">
+<mods:title id="BE8AE4AE082A260E5AE64AD39C2E5C63">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="D8AF5310075BB3A04A10745B7465623A">
+<mods:extent id="DC66C682E9E2366AAEC19ED8F2C50DC9" unit="page">
+<mods:start id="F53B1DC725D2F76E48CFE3CBE404A0C5">157</mods:start>
+<mods:end id="44D227035804654DBF7BA74559310045">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="3D743F64204358AA686D2D781BCA1474">book chapter</mods:classification>
+<mods:identifier id="B16A63E4DCCDBBA63807EF7150F3E71B" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="1C0986C6ECFCB5F08491DAB53954077E" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="9C950FB568737B112D0A9DC354863A74" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91BFFFAFE42F974FA661990" ID-DOI="http://doi.org/10.5281/zenodo.5195351" ID-GBIF-Taxon="183925190" ID-Zenodo-Dep="5195351" LSID="urn:lsid:plazi:treatment:F03E87AAF91BFFFAFE42F974FA661990" httpUri="http://treatment.plazi.org/id/F03E87AAF91BFFFAFE42F974FA661990" lastPageNumber="158" pageId="1" pageNumber="158">
+<subSubSection id="308D6537F91BFFFAFE42F974FBAA192A" box="[448,1134,1770,1812]" pageId="1" pageNumber="158" type="nomenclature">
+<paragraph id="782836BCF91BFFFAFE42F974FBAA192A" blockId="1.[448,1842,1770,1966]" box="[448,1134,1770,1812]" pageId="1" pageNumber="158">
+<heading id="236081D0F91BFFFAFE42F974FBAA192A" box="[448,1134,1770,1812]" fontSize="8" level="2" pageId="1" pageNumber="158" reason="4">
+<emphasis id="4AE3EAAEF91BFFFAFE42F974FE2B192A" bold="true" box="[448,495,1770,1812]" pageId="1" pageNumber="158">17.</emphasis>
+<taxonomicName id="BF974D3FF91BFFFAFD93F974FBAD192A" authority="(Cockerell)" baseAuthorityName="Cockerell" baseAuthorityYear="1895" box="[529,1129,1770,1812]" class="Insecta" family="Coccidae" genus="Trionymus" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="158" phylum="Arthropoda" rank="species" species="sacchari">
+<emphasis id="4AE3EAAEF91BFFFAFD93F974FCBB192A" bold="true" box="[529,895,1770,1812]" pageId="1" pageNumber="158">Trionymus sacchari</emphasis>
+(Cockerell)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91BFFFAFE79F883FD531945" pageId="1" pageNumber="158" type="description">
+<paragraph id="782836BCF91BFFFAFE79F883FD531945" blockId="1.[448,1842,1770,1966]" pageId="1" pageNumber="158">
+<treatmentCitationGroup id="58871192F91BFFFAFE79F883FD561945" pageId="1" pageNumber="158">
+<treatmentCitation id="F93610ADF91BFFFAFE79F883FD531945" author="Cockerell" page="195" pageId="1" pageNumber="158" year="1895">
+<taxonomicName id="BF974D3FF91BFFFAFE79F883FBEE1979" authority="Cockerell" authorityName="Cockerell" authorityYear="1895" box="[507,1066,1821,1863]" class="Insecta" family="Dactylopiidae" genus="Dactylopius" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="158" phylum="Arthropoda" rank="species" species="sacchari">
+<emphasis id="4AE3EAAEF91BFFFAFE79F883FCB41979" box="[507,880,1821,1863]" italics="true" pageId="1" pageNumber="158">Dactylopius sacchari</emphasis>
+<bibCitation id="ADBD3ED0F91BFFFAFC06F883FD531945" author="Cockerell" journalOrPublisher="Trinidad Naturalists' Club, Jour." pageId="1" pageNumber="158" pagination="195" part="2" type="journal article" year="1895">
+<author id="A02ADE59F91BFFFAFC06F883FBEE1979" box="[900,1066,1821,1863]" pageId="1" pageNumber="158">Cockerell</author>
+, 
+<journalOrPublisher id="A2563C70F91BFFFAFBC4F883F9671979" box="[1094,1699,1821,1863]" pageId="1" pageNumber="158">
+<collectingCountry id="0080762CF91BFFFAFBC4F883FB261979" box="[1094,1250,1821,1863]" name="Trinidad and Tobago" pageId="1" pageNumber="158">Trinidad</collectingCountry>
+Naturalists' Club, Jour.
+</journalOrPublisher>
+<emphasis id="4AE3EAAEF91BFFFAF938F883F9081979" bold="true" box="[1722,1740,1821,1863]" pageId="1" pageNumber="158">
+<part id="0C339C21F91BFFFAF938F883F90C1979" box="[1722,1736,1821,1863]" pageId="1" pageNumber="158" type="volume">2</part>
+:
+</emphasis>
+<heading id="236081D0F91BFFFAF96DF883F8F61979" box="[1775,1842,1821,1863]" centered="true" fontSize="8" level="2" pageId="1" pageNumber="158" reason="4">
+<pagination id="415EC848F91BFFFAF96DF883F8E81979" box="[1775,1836,1821,1863]" pageId="1" pageNumber="158" type="pagination">195</pagination>
+,
+</heading>
+<year id="0C3F77EFF91BFFFAFDBCF8CFFD561945" box="[574,658,1873,1915]" pageId="1" pageNumber="158">1895</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91BFFFAFE7DF81DFA661990" box="[511,1442,1923,1966]" pageId="1" pageNumber="158" type="description">
+<paragraph id="782836BCF91BFFFAFE7DF81DFA661990" blockId="1.[448,1842,1770,1966]" box="[511,1442,1923,1966]" pageId="1" pageNumber="158">
+<materialsCitation id="C8FF3CE1F91BFFFAFE7DF81DFA591990" ID-GBIF-Occurrence="3331839326" box="[511,1437,1923,1966]" collectedFrom="on sugar cane" collectingDate="1911-1939" collectorName="D. T. Fullaway, O. H. Swezey, R. L. Usinger, and R. G. Oakley" country="Guam" location="Guam" pageId="1" pageNumber="158">
+<collectingMunicipality id="984CACC6F91BFFFAFE7DF81DFDF11990" box="[511,565,1923,1966]" pageId="1" pageNumber="158">On</collectingMunicipality>
+sugar cane, 
+<collectorName id="D562536AF91BFFFAFC9EF81DFC051990" box="[796,961,1923,1966]" pageId="1" pageNumber="158">Fullaway</collectorName>
+, 
+<collectorName id="D562536AF91BFFFAFC5BF81DFB9B1990" box="[985,1119,1923,1966]" pageId="1" pageNumber="158">Swezey</collectorName>
+, 
+<location id="7D486067F91BFFFAFBF4F81DFAC21990" LSID="urn:lsid:plazi:treatment:F03E87AAF91BFFFAFE42F974FA661990:7D486067F91BFFFAFBF4F81DFAC21990" box="[1142,1286,1923,1966]" municipality="On" name="Usinger" pageId="1" pageNumber="158">Usinger</location>
+, 
+<collectorName id="D562536AF91BFFFAFA9CF81DFA591990" box="[1310,1437,1923,1966]" pageId="1" pageNumber="158">Oakley</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

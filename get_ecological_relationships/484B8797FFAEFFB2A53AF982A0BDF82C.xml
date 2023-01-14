@@ -1,0 +1,163 @@
+<document id="F2B2348D2668C997CE22548EA3F88AE1" ID-DOI="http://doi.org/10.5281/zenodo.5127686" ID-GBIF-Dataset="7b960500-f4a3-4b8f-8b56-440fdc9431c9" ID-Zenodo-Dep="5127686" checkinTime="1626977897655" checkinUser="carolina" docAuthor="O. H. Swezey" docDate="1946" docId="484B8797FFAEFFB2A53AF982A0BDF82C" docLanguage="en" docName="InsectsOfGuamII.189.195-200.pdf.imf" docOrigin="Insects of Guam-II, Hawaii, Honolulu: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Lathyrophthalmus arvorum" docType="treatment" docVersion="15" lastPageNumber="195" masterDocId="B472FFEFFFAEFFB2A40BFFD9A227FFD1" masterDocTitle="SOME MISCELLANEOUS DIPTERA OF GUAM" masterLastPageNumber="200" masterPageNumber="195" pageNumber="195" updateTime="1659539279702" updateUser="annettekang">
+<mods:mods id="8623744CFE11FCECC52BF4CADD53BF5A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CC6CA4B199B7B42407CCB059F435E1EE">
+<mods:title id="F958E743B8C306BA111EC6FFBE0CA5A9">SOME MISCELLANEOUS DIPTERA OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="5943E6D69003898BD01AA13C162308E2" type="personal">
+<mods:role id="BE43DED5D46D2EEE367516CDC0FE7E8C">
+<mods:roleTerm id="633147A3B5D497A6050966A9112F3C89">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="FDF389934D373A41745E908E0B839430">O. H. Swezey</mods:namePart>
+<mods:affiliation id="B6D9FF4CF8BB1FC1D824DB97E2B8E784">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="FED91F9D9D8C35B1A4AE9882C50DE2D3">text</mods:typeOfResource>
+<mods:relatedItem id="CAFDDE06CE295EF24DC5998520581FC1" type="host">
+<mods:originInfo id="8F60308E61DD7DE74E606CEFB3823BE7">
+<mods:dateIssued id="707530A42068ABCF491622EFFE8DBA91">1946</mods:dateIssued>
+<mods:dateOther id="85887C16C315B274995B4A32E47CBE4D" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="B3AD5271B2C3A676DDD8DA3E9CCFC445">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="9C886A4998A731E3FC78F5C1646810A1">
+<mods:placeTerm id="58A9A1390DC1B7E4E0EDCA23B8016869">Hawaii, Honolulu</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="396D78A57347FB9DBED1552944930AA0">
+<mods:title id="9A8AC88644935DA6F0A7846D244E9793">Insects of Guam-II</mods:title>
+</mods:titleInfo>
+<mods:part id="DFC830CB014314A2A552F5F8710FBA9A">
+<mods:extent id="17949916249FFEDF6DDB9C4DAF62F7BD" unit="page">
+<mods:start id="5F537DE97D7FCC15658BABA01787F3FE">195</mods:start>
+<mods:end id="12BFE17DA02F47981EB781184C0EEC3C">200</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="03A475DC1A1B7C9FB6CAA84D9FF0D3F4">book chapter</mods:classification>
+<mods:identifier id="73C8FD0185434771745EBE6EA84CC248" type="DOI">http://doi.org/10.5281/zenodo.5127686</mods:identifier>
+<mods:identifier id="4EE0EB0497B5A7A01A79B5AB781FE915" type="GBIF-Dataset">7b960500-f4a3-4b8f-8b56-440fdc9431c9</mods:identifier>
+<mods:identifier id="2EC70DA9D18FD09AAC42E6E28EA74F15" type="Zenodo-Dep">5127686</mods:identifier>
+</mods:mods>
+<treatment id="484B8797FFAEFFB2A53AF982A0BDF82C" ID-DOI="http://doi.org/10.5281/zenodo.5207708" ID-GBIF-Taxon="184459657" ID-Zenodo-Dep="5207708" LSID="urn:lsid:plazi:treatment:484B8797FFAEFFB2A53AF982A0BDF82C" httpUri="http://treatment.plazi.org/id/484B8797FFAEFFB2A53AF982A0BDF82C" lastPageNumber="195" pageId="0" pageNumber="195">
+<subSubSection id="88F8650AFFAEFFB2A53AF982A644F957" box="[305,1123,1627,1670]" pageId="0" pageNumber="195" type="nomenclature">
+<paragraph id="C05D3681FFAEFFB2A53AF982A644F957" blockId="0.[305,1705,1627,2045]" box="[305,1123,1627,1670]" pageId="0" pageNumber="195">
+2. 
+<taxonomicName id="07E24D02FFAEFFB2A57BF982A67AF957" authority="(Fabricius)" baseAuthorityName="Fabricius" box="[368,1117,1627,1670]" class="Insecta" family="Syrphidae" genus="Lathyrophthalmus" higherTaxonomySource="CoL" kingdom="Animalia" order="Diptera" pageId="0" pageNumber="195" phylum="Arthropoda" rank="species" species="arvorum">Lathyrophthalmus arvorum (Fabricius)</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFAEFFB2A57AF948A456F842" pageId="0" pageNumber="195" type="reference_group">
+<paragraph id="C05D3681FFAEFFB2A57AF948A723F96A" blockId="0.[305,1705,1627,2045]" box="[369,1284,1681,1723]" pageId="0" pageNumber="195">
+<treatmentCitationGroup id="E0F211AFFFAEFFB2A57AF948A723F96A" box="[369,1284,1681,1723]" pageId="0" pageNumber="195">
+<treatmentCitation id="41431090FFAEFFB2A57AF948A6B5F96A" box="[369,1170,1681,1723]" pageId="0" pageNumber="195">
+<taxonomicName id="07E24D02FFAEFFB2A57AF948A61FF96A" authority="Fabricius, Mant. Ins." authorityName="Fabricius, Mant. Ins." box="[369,1080,1681,1723]" class="Insecta" family="Syrphidae" genus="Syrphus" kingdom="Animalia" order="Diptera" pageId="0" pageNumber="195" phylum="Arthropoda" rank="species" species="arvorum">
+<emphasis id="F296EA93FFAEFFB2A57AF948A08CF96A" box="[369,683,1681,1723]" italics="true" pageId="0" pageNumber="195">Syrphus arvorum</emphasis>
+<bibCitation id="15C83EEDFFAEFFB2A6B7F948A6D8F96A" author="Fabricius" box="[700,1279,1681,1723]" journalOrPublisher="Mant. Ins" pageId="0" pageNumber="195" part="335" refId="ref215" type="book" year="1787">
+<author id="185FDE64FFAEFFB2A6B7F948A144F96A" box="[700,867,1681,1723]" pageId="0" pageNumber="195">Fabricius</author>
+, 
+<journalOrPublisher id="1A233C4DFFAEFFB2A770F948A615F96A" box="[891,1074,1681,1723]" pageId="0" pageNumber="195">Mant. Ins</journalOrPublisher>
+., 
+<part id="B4469C1CFFAEFFB2A05AF948A6B5F96A" box="[1105,1170,1681,1723]" pageId="0" pageNumber="195">335</part>
+, 
+<year id="B44A77D2FFAEFFB2A0A7F948A6D8F96A" box="[1196,1279,1681,1723]" pageId="0" pageNumber="195">1787</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="C05D3681FFAEFFB2A57AF913A7D6F923" blockId="0.[305,1705,1627,2045]" box="[369,1521,1738,1778]" pageId="0" pageNumber="195">
+<treatmentCitationGroup id="E0F211AFFFAEFFB2A57AF913A7D6F923" box="[369,1521,1738,1778]" pageId="0" pageNumber="195">
+<treatmentCitation id="41431090FFAEFFB2A57AF913A75AF923" box="[369,1405,1738,1778]" pageId="0" pageNumber="195">
+<taxonomicName id="07E24D02FFAEFFB2A57AF913A180F923" authorityName="Latreille" authorityYear="1804" box="[369,935,1738,1778]" class="Insecta" family="Syrphidae" genus="Eristalis" kingdom="Animalia" order="Diptera" pageId="0" pageNumber="195" phylum="Arthropoda" rank="genus">
+<emphasis id="F296EA93FFAEFFB2A57AF913A0C6F923" box="[369,737,1738,1778]" italics="true" pageId="0" pageNumber="195">Eristalis punctulatus</emphasis>
+<bibCitation id="15C83EEDFFAEFFB2A6E4F913A7CBF923" author="Grimshaw" box="[751,1516,1738,1778]" journalOrPublisher="Fauna Hawaiiensis" pageId="0" pageNumber="195" pagination="82" part="3" refId="ref228" type="journal article" year="1902">
+<author id="185FDE64FFAEFFB2A6E4F913A180F923" box="[751,935,1738,1778]" pageId="0" pageNumber="195">Grimshaw</author>
+, 
+<journalOrPublisher id="1A233C4DFFAEFFB2A7B4F913A737F923" box="[959,1296,1738,1778]" pageId="0" pageNumber="195">Fauna Hawaiiensis</journalOrPublisher>
+<part id="B4469C1CFFAEFFB2A12BF913A70AF923" box="[1312,1325,1738,1778]" pageId="0" pageNumber="195" type="volume">3</part>
+: 
+<pagination id="F92BC875FFAEFFB2A159F913A75AF923" box="[1362,1405,1738,1778]" pageId="0" pageNumber="195" type="pagination">82</pagination>
+, 
+<year id="B44A77D2FFAEFFB2A193F913A7CBF923" box="[1432,1516,1738,1778]" pageId="0" pageNumber="195">1902</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="C05D3681FFAEFFB2A57AF8DBA01CF8B1" blockId="0.[305,1705,1627,2045]" pageId="0" pageNumber="195">
+<treatmentCitationGroup id="E0F211AFFFAEFFB2A57AF8DBA011F8B1" pageId="0" pageNumber="195">
+<treatmentCitation id="41431090FFAEFFB2A57AF8DBA799F8FD" box="[369,1470,1794,1836]" pageId="0" pageNumber="195">
+<taxonomicName id="07E24D02FFAEFFB2A57AF8DBA610F8FD" authority=", Brunetti, Fauna Brit." authorityName="Brunetti, Fauna Brit." box="[369,1079,1794,1836]" class="Insecta" family="Syrphidae" genus="Eristalis" kingdom="Animalia" order="Diptera" pageId="0" pageNumber="195" phylum="Arthropoda" rank="species" species="arvorum">
+<emphasis id="F296EA93FFAEFFB2A57AF8DBA095F8FD" box="[369,690,1794,1836]" italics="true" pageId="0" pageNumber="195">Eristalis arvorum,</emphasis>
+<bibCitation id="15C83EEDFFAEFFB2A6CAF8DBA011F8B1" author="Brunetti" journalOrPublisher="Diptera" pageId="0" pageNumber="195" part="3" refId="ref241" title="Fauna Brit. India" type="journal volume" year="1923">
+<author id="185FDE64FFAEFFB2A6CAF8DBA171F8FD" box="[705,854,1794,1836]" pageId="0" pageNumber="195">Brunetti</author>
+, 
+<title id="B2E6DDB7FFAEFFB2A766F8DBA681F8FD" box="[877,1190,1794,1836]" pageId="0" pageNumber="195">
+Fauna Brit. 
+<collectingCountry id="B8F57611FFAEFFB2A043F8DBA681F8FD" box="[1096,1190,1794,1836]" name="India" pageId="0" pageNumber="195">India</collectingCountry>
+</title>
+, 
+<taxonomicName id="07E24D02FFAEFFB2A0B0F8DBA767F8FD" box="[1211,1344,1794,1836]" kingdom="Animalia" order="Diptera" pageId="0" pageNumber="195" rank="order">
+<journalOrPublisher id="1A233C4DFFAEFFB2A0B0F8DBA767F8FD" box="[1211,1344,1794,1836]" pageId="0" pageNumber="195">Diptera</journalOrPublisher>
+</taxonomicName>
+<part id="B4469C1CFFAEFFB2A147F8DBA77EF8FD" box="[1356,1369,1794,1836]" pageId="0" pageNumber="195">3</part>
+: 181, pl. 4, figs. 6, 
+<emphasis id="F296EA93FFAEFFB2A5B8F8EFA3E8F8B1" bold="true" box="[435,463,1846,1888]" italics="true" pageId="0" pageNumber="195">7,</emphasis>
+<year id="B44A77D2FFAEFFB2A5EFF8EFA011F8B1" box="[484,566,1846,1888]" pageId="0" pageNumber="195">1923</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</paragraph>
+<paragraph id="C05D3681FFAEFFB2A579F8B3A456F842" blockId="0.[305,1705,1627,2045]" box="[370,1649,1898,1939]" pageId="0" pageNumber="195">
+<treatmentCitationGroup id="E0F211AFFFAEFFB2A579F8B3A456F842" box="[370,1649,1898,1939]" pageId="0" pageNumber="195">
+<treatmentCitation id="41431090FFAEFFB2A579F8B3A427F842" box="[370,1536,1898,1939]" pageId="0" pageNumber="195">
+<taxonomicName id="07E24D02FFAEFFB2A579F8B3A758F842" authority=", Bryan, Haw. Ent. Soc., Proc." box="[370,1407,1898,1939]" class="Insecta" family="Syrphidae" genus="Lathyrophthalmus" higherTaxonomySource="CoL" kingdom="Animalia" order="Diptera" pageId="0" pageNumber="195" phylum="Arthropoda" rank="species" species="arvorum">
+<emphasis id="F296EA93FFAEFFB2A579F8B3A143F842" box="[370,868,1898,1939]" italics="true" pageId="0" pageNumber="195">Lathyrophthalmus arvorum,</emphasis>
+<bibCitation id="15C83EEDFFAEFFB2A77FF8B3A44BF842" author="Bryan" box="[884,1644,1898,1939]" journalOrPublisher="Haw. Ent. Soc., Proc" pageId="0" pageNumber="195" pagination="413" part="8" refId="ref268" type="journal article" year="1934">
+<author id="185FDE64FFAEFFB2A77FF8B3A1C5F842" box="[884,994,1898,1939]" pageId="0" pageNumber="195">Bryan</author>
+, 
+<journalOrPublisher id="1A233C4DFFAEFFB2A7F2F8B3A75DF842" box="[1017,1402,1898,1939]" pageId="0" pageNumber="195">Haw. Ent. Soc., Proc</journalOrPublisher>
+. 
+<emphasis id="F296EA93FFAEFFB2A185F8B3A795F842" bold="true" box="[1422,1458,1898,1939]" pageId="0" pageNumber="195">
+<part id="B4469C1CFFAEFFB2A185F8B3A78DF842" box="[1422,1450,1898,1939]" pageId="0" pageNumber="195" type="volume">8</part>
+:
+</emphasis>
+<pagination id="F92BC875FFAEFFB2A1B4F8B3A427F842" box="[1471,1536,1898,1939]" pageId="0" pageNumber="195" type="pagination">413</pagination>
+, 
+<year id="B44A77D2FFAEFFB2A212F8B3A44BF842" box="[1561,1644,1898,1939]" pageId="0" pageNumber="195">1934</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFAEFFB2A57FF846A0BDF82C" pageId="0" pageNumber="195" type="materials_examined">
+<paragraph id="C05D3681FFAEFFB2A57FF846A0BDF82C" blockId="0.[305,1705,1627,2045]" pageId="0" pageNumber="195">
+<materialsCitation id="708A3CDCFFAEFFB2A57FF846A680F81B" ID-GBIF-Occurrence="3874685330" box="[372,1191,1951,1994]" collectedFrom="at light" collectingDate="1936-10-02" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="195" specimenCount="1">
+<collectingMunicipality id="2039ACFBFFAEFFB2A57FF846A39AF81B" box="[372,445,1951,1994]" pageId="0" pageNumber="195">One</collectingMunicipality>
+<specimenCount id="D6E4FD08FFAEFFB2A5D9F846A057F81B" box="[466,624,1951,1994]" pageId="0" pageNumber="195" type="generic">specimen</specimenCount>
+at light, 
+<location id="C53D605AFFAEFFB2A723F846A14DF81B" LSID="urn:lsid:plazi:treatment:484B8797FFAEFFB2A53AF982A0BDF82C:C53D605AFFAEFFB2A723F846A14DF81B" box="[808,874,1951,1994]" municipality="One" name="Piti" pageId="0" pageNumber="195">Piti</location>
+, 
+<date id="B45C1041FFAEFFB2A783F846A1DCF81B" box="[904,1019,1951,1994]" pageId="0" pageNumber="195">
+<collectingDate id="A418E9A9FFAEFFB2A783F846A1DCF81B" box="[904,1019,1951,1994]" pageId="0" pageNumber="195">Oct. 2</collectingDate>
+</date>
+, 
+<location id="C53D605AFFAEFFB2A010F846A685F81B" LSID="urn:lsid:plazi:treatment:484B8797FFAEFFB2A53AF982A0BDF82C:C53D605AFFAEFFB2A010F846A685F81B" box="[1051,1186,1951,1994]" municipality="One" name="Swezey" pageId="0" pageNumber="195">Swezey</location>
+.
+</materialsCitation>
+<materialsCitation id="708A3CDCFFAEFFB2A0C3F846A0BDF82C" ID-GBIF-Occurrence="3874685321" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="0" pageNumber="195" specimenCount="4">
+Four 
+<specimenCount id="D6E4FD08FFAEFFB2A13DF846A7C3F81B" box="[1334,1508,1951,1994]" pageId="0" pageNumber="195" type="generic">specimens</specimenCount>
+in 
+<collectingMunicipality id="2039ACFBFFAEFFB2A23BF846A3F7F82C" pageId="0" pageNumber="195">Bishop Museum</collectingMunicipality>
+, 
+<location id="C53D605AFFAEFFB2A5E5F80AA0B2F82C" LSID="urn:lsid:plazi:treatment:484B8797FFAEFFB2A53AF982A0BDF82C:C53D605AFFAEFFB2A5E5F80AA0B2F82C" box="[494,661,2003,2045]" municipality="Bishop Museum" name="Fullaway" pageId="0" pageNumber="195">Fullaway</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

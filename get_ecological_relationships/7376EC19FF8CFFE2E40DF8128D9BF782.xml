@@ -1,0 +1,73 @@
+<document id="FEC20F6D2193D7D1C6AA2E47E62FFF34" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8CFFE2E40DF8128D9BF782" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Sympiesis" docType="treatment" docVersion="12" lastPageNumber="217" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="217" updateTime="1664203411617" updateUser="annettekang">
+<mods:mods id="DE6886A4F9DD75CE0685E2AA583C0D0E" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="50793F3002783877B32C477E6F462BD3">
+<mods:title id="58266151F202E36166E8C3A9A9E9DFD0">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="8703115E6D28A58CA4FF518BF7528B97" type="personal">
+<mods:role id="DC74F8BFF40E5097C8BF2FEE5D2FB08D">
+<mods:roleTerm id="0FE61E52E415B1CE4F07C35B985C27C5">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D6C0CA87CEBD84D1F74AADB212173D9D">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="3132C0A00A92E6E7175A43232BD0BDB6">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="4B340BD44F504945E36A8CDB53E44847">text</mods:typeOfResource>
+<mods:relatedItem id="0967FC4E62BC9FCE5A21FB038DDBBCE5" type="host">
+<mods:originInfo id="EBB0B54257DAF11BFAAEC0EB18F0222C">
+<mods:dateIssued id="89B6DA97A6717BD869209778A80434FE">1946</mods:dateIssued>
+<mods:dateOther id="8F9D81D16D1C5CB6AB924B382E44B52F" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="CBAA874B8447FF84B8DB0CA69C1098DB">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="8FA8CDE8A4DCAD39A7D4F28808038AC6">
+<mods:placeTerm id="6338BCBCC98637F4EC697F77A8227B71">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="C66583701DC21D3EB5FC44EFAF8997CC">
+<mods:title id="8E2D4B43422A761FB0E3EF869D28ABB9">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="36CE800369B8B3BF22F62110C85DD1BB">
+<mods:extent id="6206C957D7E376B6997B7EEB00865489" unit="page">
+<mods:start id="99A9222D93D4C63624E543A9E4D8D263">211</mods:start>
+<mods:end id="5924B939B9218BBB6D3974D032060560">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="52D9EAC1AABE7EECC0089675A39C0F0F">book chapter</mods:classification>
+<mods:identifier id="E070B135911C9CCE975257DC2F0BC928" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="8F875F45F89FDC83FEC93D664ECA6821" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="C657537519E6132CAB33BD78CC0EAFEB" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8CFFE2E40DF8128D9BF782" ID-DOI="http://doi.org/10.5281/zenodo.5208034" ID-GBIF-Taxon="187737416" ID-Zenodo-Dep="5208034" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40DF8128D9BF782" httpUri="http://treatment.plazi.org/id/7376EC19FF8CFFE2E40DF8128D9BF782" lastPageNumber="217" pageId="6" pageNumber="217">
+<subSubSection id="B3C50E84FF8CFFE2E40DF8128D9AF834" box="[270,708,1982,2022]" pageId="6" pageNumber="217" type="nomenclature">
+<paragraph id="FB605D0FFF8CFFE2E40DF8128D9AF834" blockId="6.[270,1667,1982,2128]" box="[270,708,1982,2022]" pageId="6" pageNumber="217">
+<heading id="A028EA63FF8CFFE2E40DF8128D9AF834" box="[270,708,1982,2022]" fontSize="8" level="2" pageId="6" pageNumber="217" reason="4">
+<emphasis id="C9AB811DFF8CFFE2E40DF8128D71F834" bold="true" box="[270,559,1982,2022]" pageId="6" pageNumber="217">
+49.? 
+<taxonomicName id="3CDF268CFF8CFFE2E474F8128D71F834" authority="Timberlake" box="[375,559,1982,2022]" class="Insecta" family="Eulophidae" genus="Sympiesis" kingdom="Animalia" order="Hymenoptera" pageId="6" pageNumber="217" phylum="Arthropoda" rank="genus">Sympiesis</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8CFFE2E44DF85F8D9BF782" pageId="6" pageNumber="217" type="materials_examined">
+<paragraph id="FB605D0FFF8CFFE2E44DF85F8D9BF782" blockId="6.[270,1667,1982,2128]" pageId="6" pageNumber="217">
+<materialsCitation id="4BB75752FF8CFFE2E44DF85F8D9BF782" ID-GBIF-Occurrence="3345364316" collectedFrom="ex bean leafminer" collectingDate="1936-11-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="217" specimenCount="3">
+<collectingMunicipality id="1B04C775FF8CFFE2E44DF85F8ECDF7CF" box="[334,403,2035,2077]" pageId="6" pageNumber="217">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF8CFFE2E4A8F85F8D78F7CF" box="[427,550,2035,2077]" pageId="6" pageNumber="217">
+<collectingDate id="9F258227FF8CFFE2E4A8F85F8D78F7CF" box="[427,550,2035,2077]" pageId="6" pageNumber="217">Nov. 7</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8CFFE2E73DF85F8D39F7CF" box="[574,615,2035,2077]" pageId="6" pageNumber="217" type="generic">ex</specimenCount>
+bean leafminer, 
+<collectorName id="562A38D9FF8CFFE2E69DF85F8B76F7CF" box="[926,1064,2035,2077]" pageId="6" pageNumber="217">Swezey</collectorName>
+. 
+<location id="FE000BD4FF8CFFE2E144F85F8BC6F7CF" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40DF8128D9BF782:FE000BD4FF8CFFE2E144F85F8BC6F7CF" box="[1095,1176,2035,2077]" country="United States of America" municipality="Piti" name="Two" pageId="6" pageNumber="217">Two</location>
+<specimenCount id="EDD99686FF8CFFE2E1AAF85F8A3FF7CF" box="[1193,1377,2035,2077]" pageId="6" pageNumber="217" type="generic">specimens</specimenCount>
+, one retained in 
+<collectingCountry id="83C81D9FFF8CFFE2E40CF7848E37F782" box="[271,361,2088,2128]" name="United States of America" pageId="6" pageNumber="217">U. S.</collectingCountry>
+<location id="FE000BD4FF8CFFE2E47AF7848D9EF782" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40DF8128D9BF782:FE000BD4FF8CFFE2E47AF7848D9EF782" box="[377,704,2088,2128]" country="United States of America" municipality="Piti" name="National Museum" pageId="6" pageNumber="217">National Museum</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,163 @@
+<document id="611F991DD212D19902B19C23EDABB06B" ID-DOI="http://doi.org/10.5281/zenodo.5160233" ID-GBIF-Dataset="16f6ef92-619b-417b-946c-22d9b1445e7d" ID-Zenodo-Dep="5160233" checkinTime="1628022546680" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="2C76878DFF99FFF0BE52FBA6F9DDFA52" docLanguage="en" docName="InsectsOfGuamII.189.3-8.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docTitle="Pycnoscelus surinamensis" docType="treatment" docVersion="14" lastPageNumber="7" masterDocId="D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8" masterDocTitle="Orthoptera And Related Orders Orthoptera And Related Orders Of Guam" masterLastPageNumber="8" masterPageNumber="3" pageNumber="7" updateTime="1657639050607" updateUser="annettekang">
+<mods:mods id="0F4C909CF4EC1C393507F5475FB0BB4A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="341D82EBBDBF55B817E66443F0B173D9">
+<mods:title id="C6CBBB588D743C557133894A889F9E9F">Orthoptera And Related Orders Orthoptera And Related Orders Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="E10A82148589029BD54534EA631D3C8E" type="personal">
+<mods:role id="43491160F813FA284C0854B0A4C5F26A">
+<mods:roleTerm id="5E0AF665CFE09E60B72879AE6C981ED7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="BA1CA618F124A31F341AB83A53A54920">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="3F2A8EC4A5FC1FB34D6EBB292F1DFB9A">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A2288C449E2CED93FD3A16356186CFD2">text</mods:typeOfResource>
+<mods:relatedItem id="1798AA23C5CEF9BE3899FC5947C54DF3" type="host">
+<mods:originInfo id="3FB98C1E3AE196AEFA878042571D4403">
+<mods:dateIssued id="2509AABCF5ECD43E8A926E31517764EE">1946</mods:dateIssued>
+<mods:dateOther id="0FBACF014E2B82020A2D9FE88D7C527C" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="E300DD685DF3C7DB299C6478B05BB0AA">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="B3520DAB70382FD943C3370A5F488405">
+<mods:placeTerm id="4706220B0C7B93AC065B89055F0EE7F5">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="3CE70E11EA829F333A47D52150331D21">
+<mods:title id="A6B1C20F138880F136118A45B69F0B5A">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="FF807DC5BAEBF07802CD9E5143B595B2">
+<mods:extent id="88A821F9E479EA0441EFC21C6A4E8AA8" unit="page">
+<mods:start id="419075F2C2D05DE670C241571C108D9B">3</mods:start>
+<mods:end id="E1723B0CD48A99783C969218300B11E6">8</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="742335EC2B255EA938DD79405A92634F">book chapter</mods:classification>
+<mods:identifier id="7D400A02F2CE76706EB571F7CEC0C2BF" type="DOI">http://doi.org/10.5281/zenodo.5160233</mods:identifier>
+<mods:identifier id="CF6FE156469609A9EBB1B7FD9A20D156" type="GBIF-Dataset">16f6ef92-619b-417b-946c-22d9b1445e7d</mods:identifier>
+<mods:identifier id="97865FDF98AE332BABCCED838B5CDF62" type="Zenodo-Dep">5160233</mods:identifier>
+</mods:mods>
+<treatment id="2C76878DFF99FFF0BE52FBA6F9DDFA52" ID-DOI="http://doi.org/10.5281/zenodo.5159032" ID-GBIF-Taxon="183924979" ID-Zenodo-Dep="5159032" LSID="urn:lsid:plazi:treatment:2C76878DFF99FFF0BE52FBA6F9DDFA52" httpUri="http://treatment.plazi.org/id/2C76878DFF99FFF0BE52FBA6F9DDFA52" lastPageNumber="7" pageId="4" pageNumber="7">
+<subSubSection id="ECC56510FF99FFF0BE52FBA6FB83FBEE" box="[314,1080,1036,1078]" pageId="4" pageNumber="7" type="nomenclature">
+<paragraph id="A460369BFF99FFF0BE52FBA6FB83FBEE" blockId="4.[314,1713,1036,1418]" box="[314,1080,1036,1078]" pageId="4" pageNumber="7">
+<heading id="FF2881F7FF99FFF0BE52FBA6FB83FBEE" box="[314,1080,1036,1078]" fontSize="11" level="2" pageId="4" pageNumber="7" reason="2">
+<emphasis id="96ABEA89FF99FFF0BE52FBA6FEE3FBEE" bold="true" box="[314,344,1036,1078]" pageId="4" pageNumber="7">9.</emphasis>
+<taxonomicName id="63DF4D18FF99FFF0BE11FBA6FB89FBEE" authority="(Linnaeus)" baseAuthorityName="Linnaeus" baseAuthorityYear="1758" box="[377,1074,1036,1078]" class="Insecta" family="Blaberidae" genus="Pycnoscelus" kingdom="Animalia" order="Blattodea" pageId="4" pageNumber="7" phylum="Arthropoda" rank="species" species="surinamensis">
+<emphasis id="96ABEA89FF99FFF0BE11FBA6FCEBFBEE" bold="true" box="[377,848,1036,1078]" pageId="4" pageNumber="7">Pycnoscelus surinamensis</emphasis>
+(Linnaeus)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF99FFF0BE11FBEFFA40FB74" pageId="4" pageNumber="7" type="reference_group">
+<paragraph id="A460369BFF99FFF0BE11FBEFFA47FBA9" blockId="4.[314,1713,1036,1418]" box="[377,1532,1093,1137]" pageId="4" pageNumber="7">
+<bibCitation id="71F53EF7FF99FFF0BE11FBEFFA47FBA9" author="Linnaeus" box="[377,1532,1093,1137]" pageId="4" pageNumber="7" pagination="687" part="1" refId="ref2152" title="Syst. Nat" type="book" year="1767">
+<treatmentCitationGroup id="84CF11B5FF99FFF0BE11FBEFFA4CFBA9" box="[377,1527,1093,1137]" pageId="4" pageNumber="7">
+<treatmentCitation id="257E108AFF99FFF0BE11FBEFFA4CFBA9" author="Linnaeus" box="[377,1527,1093,1137]" page="687" pageId="4" pageNumber="7" year="1767">
+<emphasis id="96ABEA89FF99FFF0BE11FBEFFD61FBA9" box="[377,730,1093,1137]" italics="true" pageId="4" pageNumber="7">Blatta surinamensis</emphasis>
+<author id="7C62DE7EFF99FFF0BD80FBEFFC35FBA9" box="[744,910,1093,1137]" pageId="4" pageNumber="7">Linnaeus</author>
+, 
+<title id="D6DBDDADFF99FFF0BCCCFBEFFBEFFBA9" box="[932,1108,1093,1137]" pageId="4" pageNumber="7">Syst. Nat</title>
+., 12th ed., 
+<emphasis id="96ABEA89FF99FFF0BA71FBEFFA93FBA9" bold="true" box="[1305,1320,1093,1137]" pageId="4" pageNumber="7">
+<part id="D07B9C06FF99FFF0BA71FBEFFA9FFBA9" box="[1305,1316,1093,1137]" pageId="4" pageNumber="7" type="volume">1</part>
+:
+</emphasis>
+<pagination id="9D16C86FFF99FFF0BA20FBEFFA31FBA9" box="[1352,1418,1093,1137]" pageId="4" pageNumber="7" type="pagination">687</pagination>
+, 
+<year id="D07777C8FF99FFF0BACBFBEFFA4CFBA9" box="[1443,1527,1093,1137]" pageId="4" pageNumber="7">1767</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+<paragraph id="A460369BFF99FFF0BE11FB2BFA40FB74" blockId="4.[314,1713,1036,1418]" box="[377,1531,1153,1196]" pageId="4" pageNumber="7">
+<treatmentCitationGroup id="84CF11B5FF99FFF0BE11FB2BFA40FB74" box="[377,1531,1153,1196]" pageId="4" pageNumber="7">
+<treatmentCitation id="257E108AFF99FFF0BE11FB2BFA40FB74" author="Chopard" box="[377,1531,1153,1196]" page="20" pageId="4" pageNumber="7" year="1929">
+<bibCitation id="71F53EF7FF99FFF0BE11FB2BFA40FB74" author="Chopard" box="[377,1531,1153,1196]" journalOrPublisher="Ins. Samoa" pageId="4" pageNumber="7" pagination="20" part="1" refId="ref2172" type="journal article" year="1929">
+<emphasis id="96ABEA89FF99FFF0BE11FB2BFCF4FB74" box="[377,847,1153,1196]" italics="true" pageId="4" pageNumber="7">Pycnoscelus surinamensis,</emphasis>
+<author id="7C62DE7EFF99FFF0BC09FB2BFC40FB74" box="[865,1019,1153,1196]" pageId="4" pageNumber="7">Chopard</author>
+, 
+<journalOrPublisher id="7E1E3C57FF99FFF0BB7BFB2BFB66FB74" box="[1043,1245,1153,1196]" pageId="4" pageNumber="7">
+Ins. 
+<collectingCountry id="DCC8760BFF99FFF0BB01FB2BFB66FB74" box="[1129,1245,1153,1196]" name="Samoa" pageId="4" pageNumber="7">Samoa</collectingCountry>
+</journalOrPublisher>
+<part id="D07B9C06FF99FFF0BB99FB2BFAB9FB74" box="[1265,1282,1153,1196]" pageId="4" pageNumber="7" type="volume">1</part>
+(
+<part id="D07B9C06FF99FFF0BA7AFB2BFA96FB74" box="[1298,1325,1153,1196]" pageId="4" pageNumber="7" type="issue">2</part>
+): 
+<pagination id="9D16C86FFF99FFF0BA0AFB2BFA32FB74" box="[1378,1417,1153,1196]" pageId="4" pageNumber="7" type="pagination">20</pagination>
+, 
+<year id="D07777C8FF99FFF0BACCFB2BFA4DFB74" box="[1444,1526,1153,1196]" pageId="4" pageNumber="7">1929</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF99FFF0BE12FB17FC68FA97" pageId="4" pageNumber="7" type="materials_examined">
+<paragraph id="A460369BFF99FFF0BE12FB17FC68FA97" blockId="4.[314,1713,1036,1418]" pageId="4" pageNumber="7">
+<materialsCitation id="14B73CC6FF99FFF0BE12FB17FC60FB3F" ID-GBIF-Occurrence="3331604367" box="[378,987,1213,1255]" collectingDate="1936-04-22" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="4" pageNumber="7">
+<collectingMunicipality id="4404ACE1FF99FFF0BE12FB17FD3CFB3F" box="[378,647,1213,1255]" pageId="4" pageNumber="7">Ritidian Point</collectingMunicipality>
+, 
+<date id="D061105BFF99FFF0BDC9FB17FCFBFB3F" box="[673,832,1213,1255]" pageId="4" pageNumber="7" value="1922-04">
+<collectingDate id="C025E9B3FF99FFF0BDC9FB17FCFBFB3F" box="[673,832,1213,1255]" pageId="4" pageNumber="7" value="1922-04">April 22</collectingDate>
+</date>
+, 
+<collectorName id="092A534DFF99FFF0BC33FB17FC6FFB3F" box="[859,980,1213,1255]" pageId="4" pageNumber="7">Bryan</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="14B73CC6FF99FFF0BC85FB17FA6AFB3F" ID-GBIF-Occurrence="3331604346" box="[1005,1489,1213,1255]" collectingDate="1936-05-14" collectorName="O. H. Swezey" country="Guam" location="Umatac" pageId="4" pageNumber="7">
+<collectingMunicipality id="4404ACE1FF99FFF0BC85FB17FBC5FB3F" box="[1005,1150,1213,1255]" pageId="4" pageNumber="7">Umatac</collectingMunicipality>
+, 
+<date id="D061105BFF99FFF0BBF0FB17FA9CFB3F" box="[1176,1319,1213,1255]" pageId="4" pageNumber="7" value="2014-05">
+<collectingDate id="C025E9B3FF99FFF0BBF0FB17FA9CFB3F" box="[1176,1319,1213,1255]" pageId="4" pageNumber="7" value="2014-05">May 14</collectingDate>
+</date>
+, 
+<collectorName id="092A534DFF99FFF0BA2AFB17FA6AFB3F" box="[1346,1489,1213,1255]" pageId="4" pageNumber="7">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF99FFF0BA83FB17FD42FAFC" ID-GBIF-Occurrence="3441224379" collectedFrom="under bark" collectingDate="1936-05-31" collectorName="R. L. Usinger" country="Guam" location="Agat" pageId="4" pageNumber="7">
+<collectingMunicipality id="4404ACE1FF99FFF0BA83FB17F9FCFB3F" box="[1515,1607,1213,1255]" pageId="4" pageNumber="7">Agat</collectingMunicipality>
+, 
+<date id="D061105BFF99FFF0B909FB17FEDDFAFC" pageId="4" pageNumber="7" value="1931-05">
+<collectingDate id="C025E9B3FF99FFF0B909FB17FEDDFAFC" pageId="4" pageNumber="7" value="1931-05">May 31</collectingDate>
+</date>
+, under bark, 
+<location id="A1006040FF99FFF0BD33FB42FD42FAFC" LSID="urn:lsid:plazi:treatment:2C76878DFF99FFF0BE52FBA6F9DDFA52:A1006040FF99FFF0BD33FB42FD42FAFC" box="[603,761,1256,1316]" municipality="Agat" name="Usinger" pageId="4" pageNumber="7">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF99FFF0BC78FB42FB62FAFC" ID-GBIF-Occurrence="3441224375" box="[784,1241,1256,1316]" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="4" pageNumber="7">
+<collectingMunicipality id="4404ACE1FF99FFF0BC78FB42FC22FAFC" box="[784,921,1256,1316]" pageId="4" pageNumber="7">Fadian</collectingMunicipality>
+, 
+<date id="D061105BFF99FFF0BCC8FB42FB8FFAFC" box="[928,1076,1256,1316]" pageId="4" pageNumber="7" value="2019-08">
+<collectingDate id="C025E9B3FF99FFF0BCC8FB42FB8FFAFC" box="[928,1076,1256,1316]" pageId="4" pageNumber="7" value="2019-08">Aug. 19</collectingDate>
+</date>
+, 
+<collectorName id="092A534DFF99FFF0BB22FB42FB62FAFC" box="[1098,1241,1256,1316]" pageId="4" pageNumber="7">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF99FFF0BB98FB42FA68FAFC" ID-GBIF-Occurrence="3441224315" box="[1264,1491,1256,1316]" collectedFrom="at light" collectingDate="1936-07-19" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="7">
+<collectingMunicipality id="4404ACE1FF99FFF0BB98FB42FA8FFAFC" box="[1264,1332,1256,1316]" pageId="4" pageNumber="7">Piti</collectingMunicipality>
+, 
+<date id="D061105BFF99FFF0BA20FB42FA68FAFC" box="[1352,1491,1256,1316]" pageId="4" pageNumber="7" value="2019-07">
+<collectingDate id="C025E9B3FF99FFF0BA20FB42FA68FAFC" box="[1352,1491,1256,1316]" pageId="4" pageNumber="7" value="2019-07">July 19</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="14B73CC6FF99FFF0BABBFB42FDDCFA97" ID-GBIF-Occurrence="3441224365" collectedFrom="at light" collectingDate="1936-10-18" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="7">
+and ~18, at light, 
+<collectorName id="092A534DFF99FFF0BEB6FA8FFDDCFA97" box="[478,615,1317,1359]" pageId="4" pageNumber="7">Swezey</collectorName>
+</materialsCitation>
+. Occurs in 
+<collectingRegion id="661BF879FF99FFF0BC2EFA8FFC75FA97" box="[838,974,1317,1359]" country="United States of America" name="Hawaii" pageId="4" pageNumber="7">Hawaii</collectingRegion>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF99FFF0BE11FAF5F9DDFA52" box="[377,1638,1375,1418]" pageId="4" pageNumber="7" type="discussion">
+<paragraph id="A460369BFF99FFF0BE11FAF5F9DDFA52" blockId="4.[314,1713,1036,1418]" box="[377,1638,1375,1418]" pageId="4" pageNumber="7">
+The 
+<collectingCountry id="DCC8760BFF99FFF0BEA7FAF5FDD2FA52" box="[463,617,1375,1418]" name="Suriname" pageId="4" pageNumber="7">Surinam</collectingCountry>
+roach was common, but we saved only a few specimens.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

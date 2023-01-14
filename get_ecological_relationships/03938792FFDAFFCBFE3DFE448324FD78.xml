@@ -1,0 +1,129 @@
+<document id="A5AECB57BBB465B577021947F4404FF1" ID-DOI="http://doi.org/10.5281/zenodo.5164064" ID-GBIF-Dataset="8ddfacbb-c42b-4385-b70b-ea5bd759c377" ID-Zenodo-Dep="5164064" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628020838575" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03938792FFDAFFCBFE3DFE448324FD78" docLanguage="en" docName="InsectsOfGuamII.189.149-156.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Myndus seminiger Muir, Ins." docType="treatment" docVersion="13" lastPageNumber="150" masterDocId="FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9" masterDocTitle="Notes On Some Fulgoroidea Of Guam" masterLastPageNumber="156" masterPageNumber="149" pageNumber="150" updateTime="1671318232748" updateUser="annettekang">
+<mods:mods id="E61F0435F5599AB35193D331532D3564" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="8B5EC364BDCBA25D3BA6F0A71EDF00C0">
+<mods:title id="343EEE0A6A18D6B353C563A6C8670BDF">Notes On Some Fulgoroidea Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="EC27D79314038C282A09F5CE82B10846" type="personal">
+<mods:role id="A3BA729E70C5DB974C99D6F71A859868">
+<mods:roleTerm id="7FD0CA8B8F22644C81597DF3A83BA117">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B008BD1D77B04B290E0C90A193479ECA">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="C038A0F3568A9327966551A78FD955A3">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A274A2CAC9E66ACBC5CCC36D37286660">text</mods:typeOfResource>
+<mods:relatedItem id="017528C52D36314C30DF49329B4DAD9A" type="host">
+<mods:originInfo id="C59D78393CCFC57E98E71058BFA3D60D">
+<mods:dateIssued id="18E12FAD3A4227C401C7F53E2F1031BB">1946</mods:dateIssued>
+<mods:dateOther id="A04EE417CDD89799D92CE84701CAC12C" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="1400557E3DF11C7BC3F410DD845E4B1F">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="D8B53C8D391DD93585220D995A178A6D">
+<mods:placeTerm id="C051A7C05C3F9FE9D7C5B9DD6512C2F1">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A10A3C33D218FC4D03B1D284F68981AF">
+<mods:title id="05027346E5F250EF6AF7AC78CA3EE79F">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="CE921B94275BB3934C65F14E17FAA1C5">
+<mods:extent id="4F86F8EAC92CEBDF7D99FF4A968B9C80" unit="page">
+<mods:start id="FC095C513A3D56F8ED561B50A3C49338">149</mods:start>
+<mods:end id="940FF24A928779C5552E1CAFE55AD8E4">156</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="586CD2CA539EBAEB9FBA9BD89EA718F4">book chapter</mods:classification>
+<mods:identifier id="A2EF13A527B414D72EE7F65EA7AD5BA9" type="DOI">http://doi.org/10.5281/zenodo.5164064</mods:identifier>
+<mods:identifier id="032DBB66BEA38F445C13ABD669EB4BEF" type="GBIF-Dataset">8ddfacbb-c42b-4385-b70b-ea5bd759c377</mods:identifier>
+<mods:identifier id="D3DAF7CDA49AF7254209B06F87CE9831" type="Zenodo-Dep">5164064</mods:identifier>
+</mods:mods>
+<treatment id="03938792FFDAFFCBFE3DFE448324FD78" ID-DOI="http://doi.org/10.5281/zenodo.5211516" ID-GBIF-Taxon="183925067" ID-Zenodo-Dep="5211516" LSID="urn:lsid:plazi:treatment:03938792FFDAFFCBFE3DFE448324FD78" httpUri="http://treatment.plazi.org/id/03938792FFDAFFCBFE3DFE448324FD78" lastPageNumber="150" pageId="1" pageNumber="150">
+<subSubSection id="C320650FFFDAFFCBFE3DFE4485B6FE5A" box="[451,967,393,435]" pageId="1" pageNumber="150" type="nomenclature">
+<paragraph id="8B853684FFDAFFCBFE3DFE4485B6FE5A" blockId="1.[451,1849,393,657]" box="[451,967,393,435]" pageId="1" pageNumber="150">
+<heading id="D0CD81E8FFDAFFCBFE3DFE4485B6FE5A" box="[451,967,393,435]" fontSize="11" level="2" pageId="1" pageNumber="150" reason="2">
+<emphasis id="B94EEA96FFDAFFCBFE3DFE448790FE5A" bold="true" box="[451,481,393,435]" pageId="1" pageNumber="150">2.</emphasis>
+<taxonomicName id="4C3A4D07FFDAFFCBFDFCFE4485B1FE5A" authority="Muir, Ins." authorityName="Muir, Ins." box="[514,960,393,435]" class="Insecta" family="Cixiidae" genus="Myndus" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="150" phylum="Arthropoda" rank="species" species="seminiger">
+<emphasis id="B94EEA96FFDAFFCBFDFCFE448525FE5A" bold="true" box="[514,852,393,435]" pageId="1" pageNumber="150">Myndus seminiger</emphasis>
+<author id="5387DE61FFDAFFCBFC9DFE4485B1FE5A" box="[867,960,393,435]" pageId="1" pageNumber="150">Muir</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDAFFCBFC26FE448055FE5A" box="[984,1572,393,435]" pageId="1" pageNumber="150" type="reference_group">
+<paragraph id="8B853684FFDAFFCBFC26FE448055FE5A" blockId="1.[451,1849,393,657]" box="[984,1572,393,435]" pageId="1" pageNumber="150">
+<treatmentCitationGroup id="AB2A11AAFFDAFFCBFC26FE448055FE5A" box="[984,1572,393,435]" pageId="1" pageNumber="150">
+<treatmentCitation id="0A9B1095FFDAFFCBFC26FE448055FE5A" author="Muir" box="[984,1572,393,435]" page="6" pageId="1" pageNumber="150" year="1927">
+<bibCitation id="5E103EE8FFDAFFCBFC26FE44806EFE5A" author="Muir" box="[984,1567,393,435]" journalOrPublisher="Ins. Samoa" pageId="1" pageNumber="150" pagination="6" part="2" type="book" year="1927">
+<journalOrPublisher id="51FB3C48FFDAFFCBFC26FE4482D4FE5A" box="[984,1189,393,435]" pageId="1" pageNumber="150">
+Ins. 
+<collectingCountry id="F32D7614FFDAFFCBFBD3FE4482D4FE5A" box="[1069,1189,393,435]" name="Samoa" pageId="1" pageNumber="150">Samoa</collectingCountry>
+</journalOrPublisher>
+<part id="FF9E9C19FFDAFFCBFB4BFE4482BFFE5A" box="[1205,1230,393,435]" pageId="1" pageNumber="150">2</part>
+(
+<part id="FF9E9C19FFDAFFCBFB23FE44829CFE5A" box="[1245,1261,393,435]" pageId="1" pageNumber="150">1</part>
+): 
+<pagination id="B2F3C870FFDAFFCBFADBFE44834BFE5A" box="[1317,1338,393,435]" pageId="1" pageNumber="150">6</pagination>
+, fig. 6, 
+<year id="FF9277D7FFDAFFCBFA32FE44806EFE5A" box="[1484,1567,393,435]" pageId="1" pageNumber="150">1927</year>
+</bibCitation>
+.
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDAFFCBFDFDFE088324FD78" pageId="1" pageNumber="150" type="discussion">
+<paragraph id="8B853684FFDAFFCBFDFDFE088324FD78" blockId="1.[451,1849,393,657]" pageId="1" pageNumber="150">
+Described from 
+<collectingCountry id="F32D7614FFDAFFCBFCC1FE0885C5FE18" box="[831,948,453,497]" name="Samoa" pageId="1" pageNumber="150">Samoa</collectingCountry>
+and hitherto not recorded elsewhere. It also occurred on 
+<taxonomicName id="4C3A4D07FFDAFFCBFD60FE3A853FFDCE" box="[670,846,503,551]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="1" pageNumber="150" phylum="Tracheophyta" rank="genus">
+<emphasis id="B94EEA96FFDAFFCBFD60FE3A853FFDCE" box="[670,846,503,551]" italics="true" pageId="1" pageNumber="150">Pandanus</emphasis>
+</taxonomicName>
+in 
+<collectingCountry id="F32D7614FFDAFFCBFC79FE3A8585FDCE" box="[903,1012,503,551]" name="Guam" pageId="1" pageNumber="150">Guam</collectingCountry>
+, but not as abundantly as the preceding species. 
+<materialsCitation id="3B523CD9FFDAFFCBFE3AFDE385DEFDB4" ID-GBIF-Occurrence="3914035303" box="[452,943,558,605]" collectingDate="1936-05-17" collectorName="O. H. Swezey" country="Guam" location="Tarague" pageId="1" pageNumber="150">
+<location id="8EE5605FFFDAFFCBFE3AFDE3842BFDB4" LSID="urn:lsid:plazi:treatment:03938792FFDAFFCBFE3DFE448324FD78:8EE5605FFFDAFFCBFE3AFDE3842BFDB4" box="[452,602,558,605]" name="Tarague" pageId="1" pageNumber="150">Tarague</location>
+, 
+<date id="FF841044FFDAFFCBFD89FDE38574FDB4" box="[631,773,558,605]" pageId="1" pageNumber="150" value="2017-05">
+<collectingDate id="EFC0E9ACFFDAFFCBFD89FDE38574FDB4" box="[631,773,558,605]" pageId="1" pageNumber="150" value="2017-05">May 17</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDAFFCBFCDCFDE385DEFDB4" box="[802,943,558,605]" pageId="1" pageNumber="150">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="3B523CD9FFDAFFCBFC33FDE3802FFDB4" ID-GBIF-Occurrence="3914035316" box="[973,1630,558,605]" collectingDate="1936-05-19" collectorName="O. H. Swezey" country="Guam" location="Santa Rosa Peak" pageId="1" pageNumber="150">
+<collectingMunicipality id="6BE1ACFEFFDAFFCBFC33FDE3837BFDB4" box="[973,1290,558,605]" pageId="1" pageNumber="150">Santa Rosa Peak</collectingMunicipality>
+, 
+<date id="FF841044FFDAFFCBFADBFDE383C5FDB4" box="[1317,1460,558,605]" pageId="1" pageNumber="150" value="2019-05">
+<collectingDate id="EFC0E9ACFFDAFFCBFADBFDE383C5FDB4" box="[1317,1460,558,605]" pageId="1" pageNumber="150" value="2019-05">May 19</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDAFFCBFA2FFDE3802FFDB4" box="[1489,1630,558,605]" pageId="1" pageNumber="150">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="3B523CD9FFDAFFCBF985FDE385E3FD78" ID-GBIF-Occurrence="3914035326" collectingDate="1936-06-04" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Machanao" pageId="1" pageNumber="150">
+<location id="8EE5605FFFDAFFCBF985FDE38143FDB4" LSID="urn:lsid:plazi:treatment:03938792FFDAFFCBFE3DFE448324FD78:8EE5605FFFDAFFCBF985FDE38143FDB4" box="[1659,1842,558,605]" name="Machanao" pageId="1" pageNumber="150">Machanao</location>
+, 
+<date id="FF841044FFDAFFCBFE3AFDAB844EFD78" box="[452,575,614,657]" pageId="1" pageNumber="150">
+<collectingDate id="EFC0E9ACFFDAFFCBFE3AFDAB844EFD78" box="[452,575,614,657]" pageId="1" pageNumber="150">June 4</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDAFFCBFDA5FDAB8493FD78" box="[603,738,614,657]" pageId="1" pageNumber="150">Swezey</collectorName>
+, 
+<collectorName id="26CF5352FFDAFFCBFD05FDAB85E3FD78" box="[763,914,614,657]" pageId="1" pageNumber="150">Usinger</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="3B523CD9FFDAFFCBFC50FDAB8321FD78" ID-GBIF-Occurrence="3914035324" box="[942,1360,614,657]" collectingDate="1936-08-02" collectorName="O. H. Swezey" country="Guam" location="Orote" pageId="1" pageNumber="150">
+<location id="8EE5605FFFDAFFCBFC50FDAB8267FD78" LSID="urn:lsid:plazi:treatment:03938792FFDAFFCBFE3DFE448324FD78:8EE5605FFFDAFFCBFC50FDAB8267FD78" box="[942,1046,614,657]" name="Orote" pageId="1" pageNumber="150">Orote</location>
+, 
+<date id="FF841044FFDAFFCBFBCEFDAB82DFFD78" box="[1072,1198,614,657]" pageId="1" pageNumber="150">
+<collectingDate id="EFC0E9ACFFDAFFCBFBCEFDAB82DFFD78" box="[1072,1198,614,657]" pageId="1" pageNumber="150">Aug. 2</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDAFFCBFB34FDAB8321FD78" box="[1226,1360,614,657]" pageId="1" pageNumber="150">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

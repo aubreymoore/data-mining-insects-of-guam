@@ -1,0 +1,78 @@
+<document id="8088CD5CDDA834300B31176A24E68769" ID-DOI="http://doi.org/10.5281/zenodo.5127686" ID-GBIF-Dataset="7b960500-f4a3-4b8f-8b56-440fdc9431c9" ID-Zenodo-Dep="5127686" checkinTime="1626977897655" checkinUser="carolina" docAuthor="O. H. Swezey" docDate="1946" docId="484B8797FFAAFFB6A52FFC16A0C2FBB0" docLanguage="en" docName="InsectsOfGuamII.189.195-200.pdf.imf" docOrigin="Insects of Guam-II, Hawaii, Honolulu: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Scholastes hirtiventris Malloch" docType="treatment" docVersion="16" lastPageNumber="199" masterDocId="B472FFEFFFAEFFB2A40BFFD9A227FFD1" masterDocTitle="SOME MISCELLANEOUS DIPTERA OF GUAM" masterLastPageNumber="200" masterPageNumber="195" pageNumber="199" updateTime="1659539279702" updateUser="annettekang">
+<mods:mods id="C692A38F3158BDC880EA40F857F2C535" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="098D235B2A191B63F4298E73AFE25509">
+<mods:title id="4F9F63856E16E13782E4093BB8C18712">SOME MISCELLANEOUS DIPTERA OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="0D6CBF8C9260F19D1FC8FC87CDCAA616" type="personal">
+<mods:role id="374D0CA028178DB619017E415FACEC50">
+<mods:roleTerm id="695C1C035D3CA3A367A4560A64A3441A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="0151E16AEC74011F03D91ECB4662D55C">O. H. Swezey</mods:namePart>
+<mods:affiliation id="EE2617522E0F3C900EDFD390C22BF96D">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C5A5B2A662BD8FDDF42CA37C99BCEC74">text</mods:typeOfResource>
+<mods:relatedItem id="C462963F1EC731B7BB48BC1865EEB86A" type="host">
+<mods:originInfo id="B8CFBDF912C5F325A434B45F5633634D">
+<mods:dateIssued id="7E5788764D180868D06966272A4A5F35">1946</mods:dateIssued>
+<mods:dateOther id="99B3DDD77599ED982AC14EE63DC99841" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="BBF4B0E773634896F8E603E20F6E419D">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="6DE4BF9B628D8325810DE1554848B019">
+<mods:placeTerm id="E9C086D7BE3B994AF715DF13E927260A">Hawaii, Honolulu</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="357514D52975414C745D60AAEEED716C">
+<mods:title id="E3D1C4AE4F8B23ED15DFEA2970A2A286">Insects of Guam-II</mods:title>
+</mods:titleInfo>
+<mods:part id="7F59F4CFEB0554B37C65DDEDF475EE88">
+<mods:extent id="85C6796F206A9B63D2E8CB297B0506D4" unit="page">
+<mods:start id="073CE33E004F69042F6E60058A8FCAFD">195</mods:start>
+<mods:end id="70CCB1EA328883FD9AF4C59355F740A1">200</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="C5E53132826390344D3E06EFF5B129AF">book chapter</mods:classification>
+<mods:identifier id="909D0EA24247993EB194283C8B0866C0" type="DOI">http://doi.org/10.5281/zenodo.5127686</mods:identifier>
+<mods:identifier id="1D1EAD314320AE0799C9BD74104F9086" type="GBIF-Dataset">7b960500-f4a3-4b8f-8b56-440fdc9431c9</mods:identifier>
+<mods:identifier id="2888DB606A756E749D18241A8AF4D889" type="Zenodo-Dep">5127686</mods:identifier>
+</mods:mods>
+<treatment id="484B8797FFAAFFB6A52FFC16A0C2FBB0" ID-DOI="http://doi.org/10.5281/zenodo.5123276" ID-GBIF-Taxon="184459690" ID-Zenodo-Dep="5123276" LSID="urn:lsid:plazi:treatment:484B8797FFAAFFB6A52FFC16A0C2FBB0" httpUri="http://treatment.plazi.org/id/484B8797FFAAFFB6A52FFC16A0C2FBB0" lastPageNumber="199" pageId="4" pageNumber="199">
+<paragraph id="C05D3681FFAAFFB6A52FFC16A4B0FC28" blockId="4.[289,1687,975,1121]" box="[292,1687,975,1017]" pageId="4" pageNumber="199">
+<subSubSection id="88F8650AFFAAFFB6A52FFC16A1EEFC28" box="[292,969,975,1017]" pageId="4" pageNumber="199" type="nomenclature">
+19. * 
+<taxonomicName id="07E24D02FFAAFFB6A58DFC16A1E4FC28" authority="(Malloch)" box="[390,963,975,1017]" class="Insecta" family="Otitidae" genus="Scholastes" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="199" phylum="Arthropoda" rank="genus">
+Scholastes hirtiventris 
+<author id="185FDE64FFAAFFB6A726FC16A1E4FC28" box="[813,963,975,1017]" pageId="4" pageNumber="199">Malloch</author>
+</taxonomicName>
+,
+</subSubSection>
+<subSubSection id="88F8650AFFAAFFB6A7DCFC16A4B0FC28" box="[983,1687,975,1017]" pageId="4" pageNumber="199" type="reference_group">
+<bibCitation id="15C83EEDFFAAFFB6A7DCFC16A4B5FC28" author="Malloch" box="[983,1682,975,1017]" journalOrPublisher="B. P. Bishop Mus., Bull." pageId="4" pageNumber="199" pagination="208" part="172" refId="ref1953" type="journal article" year="1942">
+<journalOrPublisher id="1A233C4DFFAAFFB6A7DCFC16A7A7FC28" box="[983,1408,975,1017]" pageId="4" pageNumber="199">B. P. Bishop Mus., Bull.</journalOrPublisher>
+<part id="B4469C1CFFAAFFB6A19BFC16A7E2FC28" box="[1424,1477,975,1017]" pageId="4" pageNumber="199" type="volume">172</part>
+: 
+<pagination id="F92BC875FFAAFFB6A1E2FC16A40EFC28" box="[1513,1577,975,1017]" pageId="4" pageNumber="199" type="pagination">208</pagination>
+, 
+<year id="B44A77D2FFAAFFB6A234FC16A4B5FC28" box="[1599,1682,975,1017]" pageId="4" pageNumber="199">1942</year>
+</bibCitation>
+.
+</subSubSection>
+</paragraph>
+<subSubSection id="88F8650AFFAAFFB6A56AFBDBA0C2FBB0" pageId="4" pageNumber="199" type="materials_examined">
+<paragraph id="C05D3681FFAAFFB6A56AFBDBA0C2FBB0" blockId="4.[289,1687,975,1121]" pageId="4" pageNumber="199">
+<materialsCitation id="708A3CDCFFAAFFB6A56AFBDBA0C2FBB0" ID-GBIF-Occurrence="3334698331" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="4" pageNumber="199" specimenCount="3">
+Three 
+<specimenCount id="D6E4FD08FFAAFFB6A5DCFBDBA0A2FBFD" box="[471,645,1026,1068]" pageId="4" pageNumber="199" type="generic">specimens</specimenCount>
+in 
+<collectingMunicipality id="2039ACFBFFAAFFB6A6CBFBDBA1C6FBFD" box="[704,993,1026,1068]" pageId="4" pageNumber="199">Bishop Museum</collectingMunicipality>
+, 
+<location id="C53D605AFFAAFFB6A7FDFBDBA0C7FBB0" LSID="urn:lsid:plazi:treatment:484B8797FFAAFFB6A52FFC16A0C2FBB0:C53D605AFFAAFFB6A7FDFBDBA0C7FBB0" municipality="Bishop Museum" name="Fullaway. Determined by C. S. Banks as S. sexvittatus Walker" pageId="4" pageNumber="199">
+Fullaway. Determined by C. S. Banks as 
+<emphasis id="F296EA93FFAAFFB6A55EFBEEA060FBB0" box="[341,583,1079,1121]" italics="true" pageId="4" pageNumber="199">S. sexvittatus</emphasis>
+Walker
+</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

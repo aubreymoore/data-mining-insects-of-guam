@@ -1,0 +1,135 @@
+<document id="FE9C6519D22AC5586059BCDBAD513408" ID-DOI="http://doi.org/10.5281/zenodo.5160270" ID-GBIF-Dataset="6dc2872d-cbab-4982-baed-c0969e3e3236" ID-Zenodo-Dep="5160270" checkinTime="1628013042203" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="0E4F7F497E645A2EB47BF73912AB747C" docLanguage="en" docName="InsectsOfGuamI.172.175-183.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Cerapachys (Syscia) silvestrii Wheeler" docType="treatment" docVersion="16" lastPageNumber="176" masterDocId="F27607317E645A2FB552FF8416577654" masterDocTitle="Hymenoptera Formicidae of Guam" masterLastPageNumber="183" masterPageNumber="175" pageNumber="175" updateTime="1657826854609" updateUser="ExternalLinkService">
+<mods:mods id="A819E686C6230F38E868357FD249A3CC" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="7225CDA427D6B63DF5CBFA6820C658A6">
+<mods:title id="A86CFC83EFFEB175CA63FAC65EE52F77">Hymenoptera Formicidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="1CAFFF8804BDF28276269415C91445EE" type="personal">
+<mods:role id="8EED154A303B556E8F9CF37674EB824B">
+<mods:roleTerm id="0DFFD31A9C5B4044FC29C736F3554B1F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="036067F812769237B3EF54D61F14F27F">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="810C2EFC5C6CE37855536B47C7198D72">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="94AB9988CA8260110C913455AE428D84">text</mods:typeOfResource>
+<mods:relatedItem id="D77D78C70FDCB961CBC99B492C6577C6" type="host">
+<mods:originInfo id="2EB4553C5D87C31A107FDA4C96D181A4">
+<mods:dateIssued id="B42ED278E25F51CD7B84C3217898B162">1942</mods:dateIssued>
+<mods:dateOther id="0BC8143A9C4EDA6750A8832B8D545D24" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="FDB5B980B5AA23378BC2F5E3633A88CA">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="0A89495D7FAC105C98E0142883B0B00E">
+<mods:placeTerm id="D1F3DC94795136ABE5B7B21603ABFFAB">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="91546642B812696D72998851679EDD7D">
+<mods:title id="B39D3D2E764AE88F418E78E4D8B2E4D6">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="68366E79813F2E20025C1B26C38E2988">
+<mods:extent id="7AD2F1C0BF129B31A29ADD4A1AF7A953" unit="page">
+<mods:start id="32650DFB0B1D6D7379087591A2F550BF">175</mods:start>
+<mods:end id="D1B51D9E357878339BE0F02FDB5FDD89">183</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="703367C908B7148991D462685AF23638">book chapter</mods:classification>
+<mods:identifier id="4607F396D70A9DCAF5D92E7BAE498374" type="DOI">http://doi.org/10.5281/zenodo.5160270</mods:identifier>
+<mods:identifier id="329111C2365E98B4D615CF5118687535" type="GBIF-Dataset">6dc2872d-cbab-4982-baed-c0969e3e3236</mods:identifier>
+<mods:identifier id="38C3D848412854C98E765617E4B1A2F5" type="Zenodo-Dep">5160270</mods:identifier>
+</mods:mods>
+<treatment id="0E4F7F497E645A2EB47BF73912AB747C" ID-DOI="http://doi.org/10.5281/zenodo.5211700" ID-GBIF-Taxon="184416195" ID-Zenodo-Dep="5211700" LSID="urn:lsid:plazi:treatment:0E4F7F497E645A2EB47BF73912AB747C" httpUri="http://treatment.plazi.org/id/0E4F7F497E645A2EB47BF73912AB747C" lastPageId="1" lastPageNumber="176" pageId="0" pageNumber="175">
+<subSubSection id="CEFC9DD47E645A2FB47BF739122E7EB3" box="[297,1145,2237,2279]" pageId="0" pageNumber="175" type="nomenclature">
+<paragraph id="8659CE5F7E645A2FB47BF739122E7EB3" blockId="0.[290,1692,675,2485]" box="[297,1145,2237,2279]" pageId="0" pageNumber="175">
+<heading id="DD1179337E645A2FB47BF739122E7EB3" box="[297,1145,2237,2279]" pageId="0" pageNumber="175">
+<emphasis id="B492124D7E645A2FB47BF739170E7EB3" bold="true" box="[297,345,2237,2279]" pageId="0" pageNumber="175">*1.</emphasis>
+<taxonomicName id="41E6B5DC7E645A2FB42EF73912247EB3" authority="Wheeler" authorityName="Wheeler" box="[380,1139,2237,2279]" class="Insecta" family="Formicidae" genus="Cerapachys" kingdom="Animalia" order="Hymenoptera" pageId="0" pageNumber="175" phylum="Arthropoda" rank="species" species="silvestrii" subGenus="Syscia">
+<emphasis id="B492124D7E645A2FB42EF73915EA7EB3" bold="true" box="[380,957,2237,2279]" pageId="0" pageNumber="175">Cerapachys (Syscia) silvestrii</emphasis>
+Wheeler
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E645A2FB1C4F73914D17F1B" pageId="0" pageNumber="175" type="reference_group">
+<paragraph id="8659CE5F7E645A2FB1C4F73914D17F1B" blockId="0.[290,1692,675,2485]" pageId="0" pageNumber="175">
+<treatmentCitationGroup id="A6F6E9717E645A2FB1C4F73914D17F1B" pageId="0" pageNumber="175">
+<treatmentCitation id="0747E84E7E645A2FB1C4F73914ED7F4E" author="Wheeler" page="269" pageId="0" pageNumber="175" year="1909">
+<bibCitation id="53CCC6337E645A2FB1C4F73914ED7F4E" author="Wheeler" journalOrPublisher="Portici, Boll." pageId="0" pageNumber="175" pagination="269" part="3" refId="ref430" title="Lab. Zool. Agrar." type="journal article" year="1909">
+<title id="F4E225697E645A2FB1C4F73913A57EB3" box="[1174,1522,2237,2279]" pageId="0" pageNumber="175">Lab. Zool. Agrar.</title>
+, 
+<journalOrPublisher id="5C27C4937E645A2FB345F73917EC7F4E" pageId="0" pageNumber="175">Portici, Boll.</journalOrPublisher>
+<emphasis id="B492124D7E645A2FB49CF77417887F4E" bold="true" box="[462,479,2288,2330]" pageId="0" pageNumber="175">
+<part id="F24264C27E645A2FB49CF774178C7F4E" box="[462,475,2288,2330]" pageId="0" pageNumber="175" type="volume">3</part>
+:
+</emphasis>
+<pagination id="BF2F30AB7E645A2FB4ADF77414177F4E" box="[511,576,2288,2330]" pageId="0" pageNumber="175" type="pageRange">269</pagination>
+, 
+<year id="F24E8F0C7E645A2FB709F77414E47F4E" box="[603,691,2288,2330]" pageId="0" pageNumber="175">1909</year>
+;
+</bibCitation>
+</treatmentCitation>
+<bibCitation id="53CCC6337E645A2FB79CF77414D17F1B" author="Wheeler" journalOrPublisher="0 cc. Papers" pageId="0" pageNumber="175" pagination="8" part="11" refId="ref430" type="journal article" volumeTitle="B. P. Bishop Mus." year="1935">
+<treatmentCitation id="0747E84E7E645A2FB79CF774101C7F4E" author="Wheeler" box="[718,1611,2288,2330]" page="9" pageId="0" pageNumber="175" year="1934">
+<volumeTitle id="394AAC6F7E645A2FB79CF77412727F4E" box="[718,1061,2288,2330]" pageId="0" pageNumber="175">B. P. Bishop Mus.</volumeTitle>
+, 
+<journalOrPublisher id="5C27C4937E645A2FB16FF774134E7F4E" box="[1085,1305,2288,2330]" pageId="0" pageNumber="175">0cc. Papers</journalOrPublisher>
+10(21): 9, 1934,
+</treatmentCitation>
+<treatmentCitation id="0747E84E7E645A2FB30EF77414D17F1B" author="Wheeler" page="8" pageId="0" pageNumber="175" year="1935">
+and 
+<emphasis id="B492124D7E645A2FB43BF6A1178B7F1B" bold="true" box="[361,476,2341,2383]" pageId="0" pageNumber="175">
+<part id="F24264C27E645A2FB43BF6A117C57F1B" box="[361,402,2341,2383]" pageId="0" pageNumber="175" type="volume">11</part>
+(
+<part id="F24264C27E645A2FB4F2F6A1179E7F1B" box="[416,457,2341,2383]" pageId="0" pageNumber="175" type="issue">11</part>
+):
+</emphasis>
+<pagination id="BF2F30AB7E645A2FB4ACF6A114437F1B" box="[510,532,2341,2383]" pageId="0" pageNumber="175" type="pagination">8</pagination>
+, 
+<year id="F24E8F0C7E645A2FB77FF6A114D67F1B" box="[557,641,2341,2383]" pageId="0" pageNumber="175">1935</year>
+.
+</treatmentCitation>
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E645A2FB438F6DC17E17FE1" pageId="0" pageNumber="175" type="materials_examined">
+<paragraph id="8659CE5F7E645A2FB438F6DC17E17FE1" blockId="0.[290,1692,675,2485]" pageId="0" pageNumber="175">
+<materialsCitation id="368EC4027E645A2FB438F6DC15267FD6" ID-GBIF-Occurrence="3334693380" box="[362,881,2392,2434]" collectedFrom="in house" collectingDate="1936-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="175">
+<location id="833998847E645A2FB438F6DC17FB7FD6" LSID="urn:lsid:plazi:treatment:0E4F7F497E645A2EB47BF73912AB747C:833998847E645A2FB438F6DC17FB7FD6" box="[362,428,2392,2434]" name="Piti" pageId="0" pageNumber="175">Piti</location>
+, 
+<collectedFrom id="35FA8DA27E645A2FB497F6DC140A7FD6" box="[453,605,2392,2434]" pageId="0" pageNumber="175">in house</collectedFrom>
+, 
+<collectingDate id="E21C11777E645A2FB727F6DC14957FD6" box="[629,706,2392,2434]" pageId="0" pageNumber="175">July</collectingDate>
+, 
+<collectorName id="2B13AB897E645A2FB78CF6DC153B7FD6" box="[734,876,2392,2434]" pageId="0" pageNumber="175">Swezey</collectorName>
+:
+</materialsCitation>
+<materialsCitation id="368EC4027E645A2FB6D6F6DC13DB7FD6" ID-GBIF-Occurrence="3334693401" box="[900,1420,2392,2434]" collectedFrom="in garden" collectingDate="1936-09-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="175">
+<collectedFrom id="35FA8DA27E645A2FB6D6F6DC12677FD6" box="[900,1072,2392,2434]" pageId="0" pageNumber="175">in garden</collectedFrom>
+, 
+<date id="F258E89F7E645A2FB119F6DC12887FD6" box="[1099,1247,2392,2434]" pageId="0" pageNumber="175" value="2020-09">
+<collectingDate id="E21C11777E645A2FB119F6DC12887FD6" box="[1099,1247,2392,2434]" pageId="0" pageNumber="175" value="2020-09">Sept. 20</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E645A2FB1A8F6DC13D27FD6" box="[1274,1413,2392,2434]" pageId="0" pageNumber="175">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E645A2FB0CDF6DC17E17FE1" ID-GBIF-Occurrence="3334693303" collectedFrom="in garden" collectingDate="1936-10-18" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="0" pageNumber="175">
+<location id="833998847E645A2FB0CDF6DC13A07FD6" LSID="urn:lsid:plazi:treatment:0E4F7F497E645A2EB47BF73912AB747C:833998847E645A2FB0CDF6DC13A07FD6" box="[1439,1527,2392,2434]" name="Yigo" pageId="0" pageNumber="175">Yigo</location>
+, 
+<date id="F258E89F7E645A2FB342F6DC10C27FD6" box="[1552,1685,2392,2434]" pageId="0" pageNumber="175" value="2018-10">
+<collectingDate id="E21C11777E645A2FB342F6DC10C27FD6" box="[1552,1685,2392,2434]" pageId="0" pageNumber="175" value="2018-10">Oct. 18</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E645A2FB479F60917E67FE1" box="[299,433,2445,2485]" pageId="0" pageNumber="175">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E655A2EB752FE1112AB747C" pageId="1" pageNumber="176" type="discussion">
+<paragraph id="8659CE5F7E655A2EB752FE1112AB747C" blockId="1.[449,1846,405,552]" pageId="1" pageNumber="176">
+This ant was described from Hilo, Hawaii, and has also been collected in Honolulu. It is now recorded outside of the Hawaiian islands for the first time. It was not previously collected in 
+<collectingCountry id="FEF18ECF7E655A2EB1D9FE7B12A0747C" box="[1163,1271,511,552]" name="Guam" pageId="1" pageNumber="176">Guam</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,90 @@
+<document id="13148C44F0FC5CD70804BDABFE76EFA7" ID-DOI="http://doi.org/10.5281/zenodo.5156759" ID-GBIF-Dataset="6e65e7d3-7a72-4da4-9739-5e3814593490" ID-Zenodo-Dep="5156759" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628022238476" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="907B754A8559FFCE2333F712EF60F6F1" docLanguage="en" docName="InsectsOfGuamII.189.221-227.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Apanteles guamensis" docType="treatment" docVersion="9" lastPageNumber="225" masterDocId="6C420D32855DFFCA221EFFCCE940FF9E" masterDocTitle="Ichneumonidae, Evaniidae, And Braconidae Of Guam" masterLastPageNumber="227" masterPageNumber="221" pageNumber="225" updateTime="1660588485465" updateUser="annettekang">
+<mods:mods id="80DEFD11901F38ADB90E902F1CB49092" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="DE3977E3BB51C31B8964FA79888C75C8">
+<mods:title id="795C3B4F789F4532AFDE2213C93C02CA">Ichneumonidae, Evaniidae, And Braconidae Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="376E17E30CBB24A000DB81E1EAD9171D" type="personal">
+<mods:role id="C7E651EED6D990F50E445CFAD841AC93">
+<mods:roleTerm id="75DC5D95285D83E20671FEAD741D842B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DAE9008E7D2413A2E623673A274761C6">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="C290AF2396510B07113EB2FF4C354F51">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C0484C697EE7F6D08CE6C01C78392027">text</mods:typeOfResource>
+<mods:relatedItem id="559FCFC16E9E5C45E52E54CB24BFF5D3" type="host">
+<mods:originInfo id="0918B411D4B8994A3F844EFEA3D2D76E">
+<mods:dateIssued id="79B37F4991C6024C3A7C33EB9C938531">1946</mods:dateIssued>
+<mods:dateOther id="4E4723228C992ED702B1CCA28567921E" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="DB1672365BE309AB73D95AE0B31075B4">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="7B4666CCB337258B3442579E9CF4B81C">
+<mods:placeTerm id="E72E83069F5F0C4578529B34E83B934C">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="439724476353B99282CC44EFA4926404">
+<mods:title id="41693DFFF43737C505E2B681E6B90DA8">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="685B922FA82C608A406D7DB1962D044F">
+<mods:extent id="92A4285AA8DA181011BA151AD48F089C" unit="page">
+<mods:start id="B2CB75B72007F55E45D3FAFBDE9AC12F">221</mods:start>
+<mods:end id="37FF63CCE1982EC70B3BBB57A7C845C1">227</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="C8AD24CF8BCCCDA0DA6E30E2BB00603A">book chapter</mods:classification>
+<mods:identifier id="962C8F7AB3A5A0C116AC6E8B1BE1C05F" type="DOI">http://doi.org/10.5281/zenodo.5156759</mods:identifier>
+<mods:identifier id="3FB98E23B8AF216B56DF7998FD8F9ED3" type="GBIF-Dataset">6e65e7d3-7a72-4da4-9739-5e3814593490</mods:identifier>
+<mods:identifier id="1629074D48B28295949A3A99250D549A" type="Zenodo-Dep">5156759</mods:identifier>
+</mods:mods>
+<treatment id="907B754A8559FFCE2333F712EF60F6F1" ID-DOI="http://doi.org/10.5281/zenodo.5186439" ID-GBIF-Taxon="183969195" ID-Zenodo-Dep="5186439" LSID="urn:lsid:plazi:treatment:907B754A8559FFCE2333F712EF60F6F1" httpUri="http://treatment.plazi.org/id/907B754A8559FFCE2333F712EF60F6F1" lastPageNumber="225" pageId="4" pageNumber="225">
+<subSubSection id="50C897D78559FFCE2333F712EAE8F699" box="[301,936,2270,2311]" pageId="4" pageNumber="225" type="nomenclature">
+<paragraph id="186DC45C8559FFCE2333F712EAE8F699" blockId="4.[301,1698,2270,2415]" box="[301,936,2270,2311]" pageId="4" pageNumber="225">
+<heading id="432573308559FFCE2333F712EAE8F699" box="[301,936,2270,2311]" fontSize="8" level="2" pageId="4" pageNumber="225" reason="4">
+6a. 
+<taxonomicName id="DFD2BFDF8559FFCE239EF712EA41F699" authority="FULLAWAY" box="[384,769,2270,2311]" class="Insecta" family="Braconidae" genus="Apanteles" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="225" phylum="Arthropoda" rank="species" species="guamensis">
+<emphasis id="2AA6184E8559FFCE239EF712EA41F699" bold="true" box="[384,769,2270,2311]" pageId="4" pageNumber="225">Apanteles guamensis</emphasis>
+</taxonomicName>
+variety?
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D78559FFCE2372F6DEEF60F6F1" pageId="4" pageNumber="225" type="materials_examined">
+<paragraph id="186DC45C8559FFCE2372F6DEEF60F6F1" blockId="4.[301,1698,2270,2415]" pageId="4" pageNumber="225">
+<materialsCitation id="A8BACE018559FFCE2372F6DEEF73F6A5" ID-GBIF-Occurrence="3332362318" box="[364,1587,2322,2363]" collectedFrom="reared from Hymenia fascialis" collectingDate="1936-06-08" collectorName="O. H. Swezey" country="Guam" location="Ipan" pageId="4" pageNumber="225" specimenCount="1">
+<collectingMunicipality id="F8095E268559FFCE2372F6DEE88EF6A5" box="[364,462,2322,2363]" pageId="4" pageNumber="225">Ypan</collectingMunicipality>
+, 
+<date id="6C6CE29C8559FFCE23FDF6DEEB1AF6A5" box="[483,602,2322,2363]" pageId="4" pageNumber="225">
+<collectingDate id="7C281B748559FFCE23FDF6DEEB1AF6A5" box="[483,602,2322,2363]" pageId="4" pageNumber="225">June 8</collectingDate>
+</date>
+, 
+<specimenCount id="0ED40FD58559FFCE206FF6DEEA1AF6A5" box="[625,858,2322,2363]" pageId="4" pageNumber="225" type="generic">one specimen</specimenCount>
+reared from 
+<taxonomicName id="DFD2BFDF8559FFCE2657F6DEEF6CF6A5" authority=", Swezey" authorityName="Swezey" box="[1097,1580,2322,2363]" class="Insecta" family="Crambidae" genus="Hymenia" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="225" phylum="Arthropoda" rank="species" species="fascialis">
+<emphasis id="2AA6184E8559FFCE2657F6DEECD0F6A5" box="[1097,1424,2322,2363]" italics="true" pageId="4" pageNumber="225">
+<location id="1D0D92878559FFCE2657F6DEEDADF6A5" LSID="urn:lsid:plazi:treatment:907B754A8559FFCE2333F712EF60F6F1:1D0D92878559FFCE2657F6DEEDADF6A5" box="[1097,1261,2322,2363]" municipality="Ypan" name="Hymenia" pageId="4" pageNumber="225">Hymenia</location>
+fascialis,
+</emphasis>
+<collectorName id="B527A18A8559FFCE27BFF6DEEF6CF6A5" box="[1441,1580,2322,2363]" pageId="4" pageNumber="225">Swezey</collectorName>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="A8BACE018559FFCE245DF6DEEF60F6F1" ID-GBIF-Occurrence="3332362324" collectedFrom="reared from Hymenia fascialis" collectingDate="1936-11-18" collectorName="O. H. Swezey" country="Guam" location="Talofofo" pageId="4" pageNumber="225" specimenCount="4">
+<collectingMunicipality id="F8095E268559FFCE245DF6DEE83EF6F1" pageId="4" pageNumber="225">Talofofo</collectingMunicipality>
+, 
+<date id="6C6CE29C8559FFCE2388F689EB64F6F1" box="[406,548,2373,2415]" pageId="4" pageNumber="225" value="2018-11">
+<collectingDate id="7C281B748559FFCE2388F689EB64F6F1" box="[406,548,2373,2415]" pageId="4" pageNumber="225" value="2018-11">Nov. 18</collectingDate>
+</date>
+, 
+<specimenCount id="0ED40FD58559FFCE2023F689EA08F6F1" box="[573,840,2373,2415]" pageId="4" pageNumber="225" type="generic">four specimens</specimenCount>
+reared from 
+<taxonomicName id="DFD2BFDF8559FFCE2625F689EF60F6F1" authority=", Swezey." box="[1083,1568,2373,2415]" class="Insecta" family="Crambidae" genus="Hymenia" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="225" phylum="Arthropoda" rank="species" species="fascialis">
+<emphasis id="2AA6184E8559FFCE2625F689ECC3F6F1" box="[1083,1411,2373,2415]" italics="true" pageId="4" pageNumber="225">
+<location id="1D0D92878559FFCE2625F689ED9FF6F1" LSID="urn:lsid:plazi:treatment:907B754A8559FFCE2333F712EF60F6F1:1D0D92878559FFCE2625F689ED9FF6F1" box="[1083,1247,2373,2415]" municipality="Talofofo" name="Hymenia" pageId="4" pageNumber="225">Hymenia</location>
+fascialis,
+</emphasis>
+<collectorName id="B527A18A8559FFCE278BF689EF60F6F1" box="[1429,1568,2373,2415]" pageId="4" pageNumber="225">Swezey.</collectorName>
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

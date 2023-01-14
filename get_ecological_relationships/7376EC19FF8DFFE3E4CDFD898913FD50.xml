@@ -1,0 +1,67 @@
+<document id="54D576F8F15B448E3F73F2A789A9F2F8" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8DFFE3E4CDFD898913FD50" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Ootetrastichus" docType="treatment" docVersion="11" lastPageNumber="218" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="218" updateTime="1664203411617" updateUser="annettekang">
+<mods:mods id="E75E7FF8A2FEB872A8BAF6C433452A7B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CFE8B643D54BD3ED5726CE4AB9A6033B">
+<mods:title id="9507BCBCA7024111A9348850554654CF">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="7DC9DC6496F497ABC7D9D567005C5055" type="personal">
+<mods:role id="6383704DC8508EE86DD5227BBB0C5F0D">
+<mods:roleTerm id="72996FB8496673FC2471628B0D25B22C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="44B36E27D30C24F7642760A22CAC2DC2">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="E8EBE64E4B18AE6395F884B408D0EBE0">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A0E88A2070A23175086EEF23191B5071">text</mods:typeOfResource>
+<mods:relatedItem id="53FB9F7C7D04E7CF8990B01338E6895D" type="host">
+<mods:originInfo id="FBA8262230BFF1287D48A8EA077261FC">
+<mods:dateIssued id="973AA101B7C81667F60057923D2E83E0">1946</mods:dateIssued>
+<mods:dateOther id="8647E1FB0CD8D4EA8B72644B26FB9A86" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="844124BD07C9D41669F04C4400825272">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="E1781A3D0F265E6D5AAEEC3036FAD7C5">
+<mods:placeTerm id="003143FD795A96BC53BDFF96B5D74B54">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="8EB32332063DE92774D1E2993F49A0C8">
+<mods:title id="71694D5A7DE8A71D33FB05617A987B5E">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="D2836CEC6E0BD480E3F2897AD2A6EA36">
+<mods:extent id="56AB922F3328EB85AB9672C7773A585B" unit="page">
+<mods:start id="08BEFD5CF776C4257CBFAEDDD3D09FF8">211</mods:start>
+<mods:end id="28A1B89D154EDB159697F6E9971BF34B">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="AB98ED885769EB9CA5F5396AF6693961">book chapter</mods:classification>
+<mods:identifier id="E6C3DF2CE5422ED1A490CA7130A38FA5" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="8E9DD6CF46739A022DFA12307494DCC5" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="F0A71EF4CBDC255A1FAAD2EF36A7C486" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8DFFE3E4CDFD898913FD50" ID-DOI="http://doi.org/10.5281/zenodo.5227117" ID-GBIF-Taxon="187737411" ID-Zenodo-Dep="5227117" LSID="urn:lsid:plazi:treatment:7376EC19FF8DFFE3E4CDFD898913FD50" httpUri="http://treatment.plazi.org/id/7376EC19FF8DFFE3E4CDFD898913FD50" lastPageNumber="218" pageId="7" pageNumber="218">
+<subSubSection id="B3C50E84FF8DFFE3E4CDFD898C9EFD9D" box="[462,960,549,591]" pageId="7" pageNumber="218" type="nomenclature">
+<paragraph id="FB605D0FFF8DFFE3E4CDFD898C9EFD9D" blockId="7.[462,1613,549,642]" box="[462,960,549,591]" pageId="7" pageNumber="218">
+<heading id="A028EA63FF8DFFE3E4CDFD898C9EFD9D" box="[462,960,549,591]" fontSize="8" level="2" pageId="7" pageNumber="218" reason="4">
+<emphasis id="C9AB811DFF8DFFE3E4CDFD898C77FD9D" bold="true" box="[462,809,549,591]" pageId="7" pageNumber="218">
+53. 
+<taxonomicName id="3CDF268CFF8DFFE3E722FD898C77FD9D" authority="Spinola, 1811" box="[545,809,549,591]" class="Insecta" family="Eulophidae" genus="Ootetrastichus" higherTaxonomySource="CoL" kingdom="Animalia" order="Hymenoptera" pageId="7" pageNumber="218" phylum="Arthropoda" rank="genus">Ootetrastichus</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8DFFE3E70EFDF48913FD50" box="[525,1613,600,642]" pageId="7" pageNumber="218" type="materials_examined">
+<paragraph id="FB605D0FFF8DFFE3E70EFDF48913FD50" blockId="7.[462,1613,549,642]" box="[525,1613,600,642]" pageId="7" pageNumber="218">
+<materialsCitation id="4BB75752FF8DFFE3E70EFDF48913FD50" ID-GBIF-Occurrence="3345364353" box="[525,1613,600,642]" collectedFrom="swept from bean vines" collectingDate="1936-05-23" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="218" specimenCount="1">
+<collectingMunicipality id="1B04C775FF8DFFE3E70EFDF48D0FFD50" box="[525,593,600,642]" pageId="7" pageNumber="218">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF8DFFE3E76BFDF48DACFD50" box="[616,754,600,642]" pageId="7" pageNumber="218" value="1923-05">
+<collectingDate id="9F258227FF8DFFE3E76BFDF48DACFD50" box="[616,754,600,642]" pageId="7" pageNumber="218" value="1923-05">May 23</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8DFFE3E609FDF48CA7FD50" box="[778,1017,600,642]" pageId="7" pageNumber="218" type="generic">one specimen</specimenCount>
+swept from bean vines, 
+<collectorName id="562A38D9FF8DFFE3E0BCFDF48916FD50" box="[1471,1608,600,642]" pageId="7" pageNumber="218">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

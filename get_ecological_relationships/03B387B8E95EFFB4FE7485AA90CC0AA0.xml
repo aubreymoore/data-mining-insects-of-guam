@@ -1,0 +1,189 @@
+<document id="4BCAD34017524A7055C789C2A6E2A7C3" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E95EFFB4FE7485AA90CC0AA0" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pyrausta phoenicealis" docType="treatment" docVersion="20" lastPageNumber="184" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="184" updateTime="1670510394792" updateUser="annettekang">
+<mods:mods id="ECB9BB4ED6FFB39181F9D6C3B228CFDF" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="757EBAA89E0C2F2D68CB06C4417F7C4C">
+<mods:title id="733CBC1E6322968AA1F7CF64404D2340">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="8519658C4B3C9ACD949DB366A5CFEEB1" type="personal">
+<mods:role id="0619064FDA3B41A659132968B6608E68">
+<mods:roleTerm id="C6AEEEAC2006C00BC2C719A4B1A6340A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="7CDCB135CF7D041F7652FA632D0BC1DB">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="BE24266BD2C288A5A0015E112421D222">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="CAB70A2C1E8E3D925774791E9AD14280">text</mods:typeOfResource>
+<mods:relatedItem id="2D92B1BE3CA46A97FD19010D877C5B97" type="host">
+<mods:originInfo id="3981A876439C71C8E69EC96B9D6F82E0">
+<mods:dateIssued id="B72DF849B88141A87FA3AE807A48A17F">1946</mods:dateIssued>
+<mods:dateOther id="ACBF82D8251817499C4BB0FAAB31107A" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="03AA16B203BAEA4A1B6CA0FAF90FE7AA">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="F5AFDBE500167DD01E825A146D160232">
+<mods:placeTerm id="96304A2372509ADA0DAD5D55894CE877">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="815919FE684B6986564D895142EE14C8">
+<mods:title id="B6C78A0C87153820530CCBC066D7B53A">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="E9A0E0058CB940181474EB443247226D">
+<mods:extent id="1C50450B41062235D153F34614ACC038" unit="page">
+<mods:start id="325CFBC831F3E4A39E835F17C150E26D">163</mods:start>
+<mods:end id="3EFD7610AEC436B4ADF8DCC0F2149D3A">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="BB75FF1D130D9F6DBD09631D7E911DDF">book chapter</mods:classification>
+<mods:identifier id="7C4F86B39938053F8A636245B54045AB" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="310198AE9A31AE78242308533696C67E" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="7597B3C35654735B9EF6F007EC32ED55" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E95EFFB4FE7485AA90CC0AA0" ID-DOI="http://doi.org/10.5281/zenodo.5224300" ID-GBIF-Taxon="183926907" ID-Zenodo-Dep="5224300" LSID="urn:lsid:plazi:treatment:03B387B8E95EFFB4FE7485AA90CC0AA0" httpUri="http://treatment.plazi.org/id/03B387B8E95EFFB4FE7485AA90CC0AA0" lastPageNumber="184" pageId="21" pageNumber="184">
+<subSubSection id="C3006525E95EFFB4FE7485AA961D04F0" box="[443,1131,1943,1983]" pageId="21" pageNumber="184" type="nomenclature">
+<paragraph id="8BA536AEE95EFFB4FE7485AA961D04F0" blockId="21.[443,1844,1943,2543]" box="[443,1131,1943,1983]" pageId="21" pageNumber="184">
+<heading id="D0ED81C2E95EFFB4FE7485AA961D04F0" box="[443,1131,1943,1983]" fontSize="8" level="2" pageId="21" pageNumber="184" reason="4">
+41. 
+<taxonomicName id="4C1A4D2DE95EFFB4FDC085AA961304F0" authority="(Hubner)" baseAuthorityName="Hubner" box="[527,1125,1943,1983]" class="Insecta" family="Crambidae" genus="Pyrausta" kingdom="Animalia" order="Lepidoptera" pageId="21" pageNumber="184" phylum="Arthropoda" rank="species" species="phoenicealis">Pyrausta phoenicealis (Hubner)</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95EFFB4FE3685F494850B15" pageId="21" pageNumber="184" type="reference_group">
+<paragraph id="8BA536AEE95EFFB4FE3685F490E30B69" blockId="21.[443,1844,1943,2543]" pageId="21" pageNumber="184">
+<treatmentCitationGroup id="AB0A1180E95EFFB4FE3685F490E30B69" pageId="21" pageNumber="184">
+<bibCitation id="5E303EC2E95EFFB4FE3685F490E30B69" author="Hiibner" pageId="21" pageNumber="184" pagination="22" refId="ref11916" title="Zutr. Samml. Ex. Schm." type="journal volume" year="1818">
+<treatmentCitation id="0ABB10BFE95EFFB4FE3685F490E60B69" author="Hübner" page="22" pageId="21" pageNumber="184" year="1818">
+<emphasis id="B96EEABCE95EFFB4FE3685F4912C04BC" box="[505,858,1993,2035]" italics="true" pageId="21" pageNumber="184">Pyralis phoenicealis</emphasis>
+<author id="53A7DE4BE95EFFB4FCA685F4918304BC" box="[873,1013,1993,2035]" pageId="21" pageNumber="184">Hiibner</author>
+, 
+<title id="F91EDD98E95EFFB4FBC485F497C804BC" box="[1035,1470,1993,2035]" pageId="21" pageNumber="184">Zutr. Samml. Ex. Schm.</title>
+1: 
+<pagination id="B2D3C85AE95EFFB4FA3185F4945F04BC" box="[1534,1577,1993,2035]" pageId="21" pageNumber="184">22</pagination>
+, figs. 115, 116, 
+<year id="FFB277FDE95EFFB4FDF185C390E60B69" box="[574,656,2046,2086]" pageId="21" pageNumber="184">1818</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE95EFFB4FE348A0D94850B15" blockId="21.[443,1844,1943,2543]" box="[507,1779,2096,2138]" pageId="21" pageNumber="184">
+<bibCitation id="5E303EC2E95EFFB4FE348A0D94850B15" author="Hampson" box="[507,1779,2096,2138]" pageId="21" pageNumber="184" pagination="431" part="4" refId="ref11940" title="Fauna Brit. India, Moths" type="journal article" year="1896">
+<treatmentCitationGroup id="AB0A1180E95EFFB4FE348A0D94980B15" box="[507,1774,2096,2138]" pageId="21" pageNumber="184">
+<treatmentCitation id="0ABB10BFE95EFFB4FE348A0D94980B15" author="Hampson" box="[507,1774,2096,2138]" page="431" pageId="21" pageNumber="184" year="1896">
+<emphasis id="B96EEABCE95EFFB4FE348A0D910C0B15" box="[507,890,2096,2138]" italics="true" pageId="21" pageNumber="184">Pyrausta phoenicealis</emphasis>
+<author id="53A7DE4BE95EFFB4FC488A0D96420B15" box="[903,1076,2096,2138]" pageId="21" pageNumber="184">Hampson</author>
+, 
+<title id="F91EDD98E95EFFB4FB868A0D94700B15" box="[1097,1542,2096,2138]" pageId="21" pageNumber="184">
+Fauna Brit. 
+<collectingCountry id="F30D763EE95EFFB4FAEB8A0D97F50B15" box="[1316,1411,2096,2138]" name="India" pageId="21" pageNumber="184">India</collectingCountry>
+, Moths
+</title>
+<part id="FFBE9C33E95EFFB4F9DD8A0D94460B15" box="[1554,1584,2096,2138]" pageId="21" pageNumber="184" type="volume">4</part>
+: 
+<pagination id="B2D3C85AE95EFFB4F98B8A0D94F20B15" box="[1604,1668,2096,2138]" pageId="21" pageNumber="184" type="pagination">431</pagination>
+, 
+<year id="FFB277FDE95EFFB4F9538A0D94980B15" box="[1692,1774,2096,2138]" pageId="21" pageNumber="184">1896</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95EFFB4FE328A5E90CC0AA0" pageId="21" pageNumber="184" type="description">
+<paragraph id="8BA536AEE95EFFB4FE328A5E96D10A17" blockId="21.[443,1844,1943,2543]" pageId="21" pageNumber="184">
+<materialsCitation id="3B723CF3E95EFFB4FE328A5E90220B8F" ID-GBIF-Occurrence="3332081349" collectedFrom="reared from leafroller on Elephantopus spicatus" collectingDate="1936-06-17" collectorName="O. H. Swezey" country="Guam" location="Talofofo Plateau" pageId="21" pageNumber="184">
+<collectingMunicipality id="6BC1ACD4E95EFFB4FE328A5E90E70BC2" box="[509,657,2147,2189]" pageId="21" pageNumber="184">Talofofo</collectingMunicipality>
+plateau, 
+<date id="FFA4106EE95EFFB4FCF98A5E91B50BC2" box="[822,963,2147,2189]" pageId="21" pageNumber="184" value="2017-06">
+<collectingDate id="EFE0E986E95EFFB4FCF98A5E91B50BC2" box="[822,963,2147,2189]" pageId="21" pageNumber="184" value="2017-06">June 17</collectingDate>
+</date>
+, reared from leafroller on 
+<taxonomicName id="4C1A4D2DE95EFFB4FA508A5E903B0B8F" authority=", Swezey" authorityName="Swezey" class="Magnoliopsida" family="Asteraceae" genus="Elephantopus" kingdom="Plantae" order="Asterales" pageId="21" pageNumber="184" phylum="Tracheophyta" rank="species" species="spicatus">
+<emphasis id="B96EEABCE95EFFB4FA508A5E95440BC2" box="[1439,1842,2147,2189]" italics="true" pageId="21" pageNumber="184">
+<location id="8EC56075E95EFFB4FA508A5E94E60BC2" LSID="urn:lsid:plazi:treatment:03B387B8E95EFFB4FE7485AA90CC0AA0:8EC56075E95EFFB4FA508A5E94E60BC2" box="[1439,1680,2147,2189]" pageId="21" pageNumber="184">Elephantopus</location>
+spicatus,
+</emphasis>
+<collectorName id="26EF5378E95EFFB4FE0F8AAB903B0B8F" box="[448,589,2198,2240]" pageId="21" pageNumber="184">Swezey</collectorName>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FDA18AAB96550B8F" ID-GBIF-Occurrence="3332081321" box="[622,1059,2198,2240]" collectingDate="1936-06-22" collectorName="O. H. Swezey" country="Guam" location="Sasa" pageId="21" pageNumber="184">
+<location id="8EC56075E95EFFB4FDA18AAB90C90B8F" LSID="urn:lsid:plazi:treatment:03B387B8E95EFFB4FE7485AA90CC0AA0:8EC56075E95EFFB4FDA18AAB90C90B8F" box="[622,703,2198,2240]" pageId="21" pageNumber="184">Sasa</location>
+, 
+<date id="FFA4106EE95EFFB4FD128AAB91070B8F" box="[733,881,2198,2240]" pageId="21" pageNumber="184" value="1922-06">
+<collectingDate id="EFE0E986E95EFFB4FD128AAB91070B8F" box="[733,881,2198,2240]" pageId="21" pageNumber="184" value="1922-06">June 22</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E95EFFB4FC5F8AAB966A0B8F" box="[912,1052,2198,2240]" pageId="21" pageNumber="184">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FBF48AAB97590B8F" ID-GBIF-Occurrence="3913652328" box="[1083,1327,2198,2240]" collectingDate="1936-07-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">
+<location id="8EC56075E95EFFB4FBF48AAB960B0B8F" LSID="urn:lsid:plazi:treatment:03B387B8E95EFFB4FE7485AA90CC0AA0:8EC56075E95EFFB4FBF48AAB960B0B8F" box="[1083,1149,2198,2240]" pageId="21" pageNumber="184">
+<collectingMunicipality id="6BC1ACD4E95EFFB4FBF48AAB960B0B8F" box="[1083,1149,2198,2240]" pageId="21" pageNumber="184">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE95EFFB4FB548AAB975E0B8F" box="[1179,1320,2198,2240]" pageId="21" pageNumber="184" value="2013-07">
+<collectingDate id="EFE0E986E95EFFB4FB548AAB975E0B8F" box="[1179,1320,2198,2240]" pageId="21" pageNumber="184" value="2013-07">July 13</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FA898AAB970E0B8F" ID-GBIF-Occurrence="3913652388" box="[1350,1400,2198,2240]" collectingDate="1936-07-28" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">28,</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FA5F8AAB947D0B8F" ID-GBIF-Occurrence="3913652514" box="[1424,1547,2198,2240]" collectingDate="1936-10-06" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">
+<date id="FFA4106EE95EFFB4FA5F8AAB94720B8F" box="[1424,1540,2198,2240]" pageId="21" pageNumber="184">
+<collectingDate id="EFE0E986E95EFFB4FA5F8AAB94720B8F" box="[1424,1540,2198,2240]" pageId="21" pageNumber="184">Oct. 6</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4F9EB8AAB97A90BBA" ID-GBIF-Occurrence="3913652451" collectedFrom="reared from Elephantopus, and two specimens at light" collectingDate="1936-11-04" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184" specimenCount="2">
+<date id="FFA4106EE95EFFB4F9EB8AAB94D30B8F" box="[1572,1701,2198,2240]" pageId="21" pageNumber="184">
+<collectingDate id="EFE0E986E95EFFB4F9EB8AAB94D30B8F" box="[1572,1701,2198,2240]" pageId="21" pageNumber="184">Nov. 4</collectingDate>
+</date>
+, reared from 
+<emphasis id="B96EEABCE95EFFB4FDE98AFC91690BBA" box="[550,799,2241,2293]" italics="true" pageId="21" pageNumber="184">
+<location id="8EC56075E95EFFB4FDE98AFC90F80BBA" LSID="urn:lsid:plazi:treatment:03B387B8E95EFFB4FE7485AA90CC0AA0:8EC56075E95EFFB4FDE98AFC90F80BBA" box="[550,654,2241,2293]" pageId="21" pageNumber="184">Eleph</location>
+~ntopus,
+</emphasis>
+and 
+<specimenCount id="9D1CFD27E95EFFB4FC448AFC96E60BBA" box="[907,1168,2241,2293]" pageId="21" pageNumber="184" type="generic">two specimens</specimenCount>
+at light, 
+<collectorName id="26EF5378E95EFFB4FA828AFC97AE0BBA" box="[1357,1496,2241,2293]" pageId="21" pageNumber="184">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FA398AFC942A0A6A" ID-GBIF-Occurrence="3913652410" collectedFrom="reared from Elephantopus and a weed of the mint family" collectingDate="1936-07-17" collectorName="O. H. Swezey" country="Guam" location="Dandan" pageId="21" pageNumber="184">
+<collectingMunicipality id="6BC1ACD4E95EFFB4FA398AFC94F40BBA" box="[1526,1666,2241,2293]" pageId="21" pageNumber="184">Dandan</collectingMunicipality>
+, 
+<date id="FFA4106EE95EFFB4F9508AFC955D0BBA" box="[1695,1835,2241,2293]" pageId="21" pageNumber="184" value="2017-07">
+<collectingDate id="EFE0E986E95EFFB4F9508AFC955D0BBA" box="[1695,1835,2241,2293]" pageId="21" pageNumber="184" value="2017-07">July 17</collectingDate>
+</date>
+, reared from 
+<taxonomicName id="4C1A4D2DE95EFFB4FD6F8AC691F90A6A" box="[672,911,2299,2341]" class="Magnoliopsida" family="Asteraceae" genus="Elephantopus" kingdom="Plantae" order="Asterales" pageId="21" pageNumber="184" phylum="Tracheophyta" rank="genus">
+<emphasis id="B96EEABCE95EFFB4FD6F8AC691F90A6A" box="[672,911,2299,2341]" italics="true" pageId="21" pageNumber="184">
+<location id="8EC56075E95EFFB4FD6F8AC691F90A6A" LSID="urn:lsid:plazi:treatment:03B387B8E95EFFB4FE7485AA90CC0AA0:8EC56075E95EFFB4FD6F8AC691F90A6A" box="[672,911,2299,2341]" pageId="21" pageNumber="184">Elephantopus</location>
+</emphasis>
+</taxonomicName>
+and a weed of the mint family, 
+<collectorName id="26EF5378E95EFFB4FA1E8AC694210A6A" box="[1489,1623,2299,2341]" pageId="21" pageNumber="184">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4F9B68AC696D10A17" ID-GBIF-Occurrence="3332081478" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Bishop Museum" pageId="21" pageNumber="184" specimenCount="1">
+<collectingMunicipality id="6BC1ACD4E95EFFB4F9B68AC691040A17" pageId="21" pageNumber="184">
+One 
+<specimenCount id="9D1CFD27E95EFFB4F91E8AC690710A17" pageId="21" pageNumber="184" type="generic">specimen</specimenCount>
+in Bishop Museum
+</collectingMunicipality>
+, 
+<location id="8EC56075E95EFFB4FC428B1396440A17" LSID="urn:lsid:plazi:treatment:03B387B8E95EFFB4FE7485AA90CC0AA0:8EC56075E95EFFB4FC428B1396440A17" box="[909,1074,2350,2392]" pageId="21" pageNumber="184">Fullaway</location>
+, 1911.
+</materialsCitation>
+</paragraph>
+<paragraph id="8BA536AEE95EFFB4FE308B6290CC0AA0" blockId="21.[443,1844,1943,2543]" pageId="21" pageNumber="184">
+This moth has a very wide distribution: North and South America, West Indies, Africa, 
+<collectingCountry id="F30D763EE95EFFB4FD128BAE914D0AF2" box="[733,827,2451,2493]" name="India" pageId="21" pageNumber="184">India</collectingCountry>
+, 
+<collectingCountry id="F30D763EE95EFFB4FC968BAE91B40AF2" box="[857,962,2451,2493]" name="China" pageId="21" pageNumber="184">China</collectingCountry>
+, and 
+<collectingCountry id="F30D763EE95EFFB4FBFC8BAE96AD0AF2" box="[1075,1243,2451,2493]" name="Australia" pageId="21" pageNumber="184">Australia</collectingCountry>
+. Now recorded from 
+<collectingCountry id="F30D763EE95EFFB4F94C8BAE949A0AF2" box="[1667,1772,2451,2493]" name="Guam" pageId="21" pageNumber="184">Guam</collectingCountry>
+for the first time.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

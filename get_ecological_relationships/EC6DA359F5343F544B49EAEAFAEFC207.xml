@@ -1,0 +1,89 @@
+<document id="49734848BB87F7522453A6F6531C9BCB" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5343F544B49EAEAFAEFC207" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Deraeocoris guamensis Usinger 1946, new species" docType="treatment" docVersion="16" lastPageNumber="68" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="67" updateTime="1671674318142" updateUser="annettekang">
+<mods:mods id="FD9B47CE55FE74ED92D4FFBA9F580172" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="66963258EB8D3448537F5F4A010EF42C">
+<mods:title id="60172F5011FE98B5D1FBA539FF056E4F">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="2283A3062DBDACDD06242A7D7CBA6180" type="personal">
+<mods:role id="138A0A74674AD54E74EEB3317B371EE0">
+<mods:roleTerm id="36B6E53BE63C1627576BCA3F96A27E87">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="678DC05565F83DBCD11CF0B92D601441">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="601D745BD38FE05D4C1ECEB32CB8BDD5">text</mods:typeOfResource>
+<mods:relatedItem id="500F7271676DB39DA6DD9FEC36605D56" type="host">
+<mods:originInfo id="71988B2198BA81BFDC466AAA3166A041">
+<mods:dateIssued id="9AE1F2C65B9FA02234BF2B7D60494A67">1946</mods:dateIssued>
+<mods:dateOther id="43CA674456D88DE1DB5404DCC54D99EE" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="D9114338203E21ECE7D6ADD5F552FFDC">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="7F44FADB1B287A5D8BEACF2B78B49700">
+<mods:placeTerm id="9919F73946E2B0CE1634BAB881067926">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="7DF90489268C31E9EC32ECE109AC50F1">
+<mods:title id="CEE690B6EF1F787C70631468709F4CC3">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="C111C76E5378D6CF07CAF0FD33E8E58C">
+<mods:extent id="86B331479993EB0A16FE354EC798C26D" unit="page">
+<mods:start id="B80FDBD31F6155CCDC41BD7C67496088">11</mods:start>
+<mods:end id="3FB038A518E84C66815BD72B5D750C68">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="D63FD1A91C91AA4D9D300CA87A2228D0">book chapter</mods:classification>
+<mods:identifier id="8B87A95E05CC37A5A24AE0C559BDB4F7" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="33899DBBD17CF51764DB2D6EAC258263" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="CFB16CDA5AD35F3CF7E2631FE32990F4" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5343F544B49EAEAFAEFC207" ID-DOI="http://doi.org/10.5281/zenodo.5157631" ID-GBIF-Taxon="184601139" ID-Zenodo-Dep="5157631" LSID="urn:lsid:plazi:treatment:EC6DA359F5343F544B49EAEAFAEFC207" httpUri="http://treatment.plazi.org/id/EC6DA359F5343F544B49EAEAFAEFC207" lastPageId="57" lastPageNumber="68" pageId="56" pageNumber="67">
+<subSubSection id="2CDE41C4F5343F554B49EAEAFBFEC4C2" box="[297,1050,1410,1450]" pageId="56" pageNumber="67" type="nomenclature">
+<paragraph id="647B124FF5343F554B49EAEAFBFEC4C2" blockId="56.[292,1695,1410,2498]" box="[297,1050,1410,1450]" pageId="56" pageNumber="67">
+<heading id="3F33A523F5343F554B49EAEAFBFEC4C2" box="[297,1050,1410,1450]" fontSize="8" level="2" pageId="56" pageNumber="67" reason="4">
+<emphasis id="56B0CE5DF5343F554B49EAEAFCC9C4C2" bold="true" box="[297,813,1410,1450]" pageId="56" pageNumber="67">
+64. 
+<taxonomicName id="A3C469CCF5343F554B1CEAEAFCC2C4C2" authority="Usinger, 1946" authorityName="Usinger" authorityYear="1946" box="[380,806,1410,1450]" class="Insecta" family="Miridae" genus="Deraeocoris" kingdom="Animalia" order="Hemiptera" pageId="56" pageNumber="67" phylum="Arthropoda" rank="species" species="guamensis" status="new species">Deraeocoris guamensis</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="4D837326F5343F55495CEAEAFBF1C4C2" box="[828,1045,1410,1450]" pageId="56" pageNumber="67" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5343F544B0AEAD7FAF6C3AA" lastPageId="57" lastPageNumber="68" pageId="56" pageNumber="67" type="description">
+<paragraph id="647B124FF5343F554B0AEAD7FB68C714" blockId="56.[292,1695,1410,2498]" pageId="56" pageNumber="67">Elongate-oval, convex, the upper surface almost entirely naked. Scutellum and head impunctate, the head transversely carinate at hind margin. Pronotum and hemelytra coarsely punctate. Rostrum not reaching hind margins of middle coxae. Color brown, marked with reddish ochraceous on head, pronotum, scutellum, and cuneus and with a pale longitudinal fascia on corium adjacent to claval suture.</paragraph>
+<paragraph id="647B124FF5343F554B0BE9EFFC7DC605" blockId="56.[292,1695,1410,2498]" pageId="56" pageNumber="67">Head a little broader than long, 45: 40, interocular space as wide as an eye; vertex impunctate, distinctly, transversely carinate at base, tylus moderately swollen, feebly impressed at base; juga short, convex, bucullae prominent, flaring. Rostrum reaching onto middle coxae, proportion of segments 25: 22: 20: 28. Antennae less than twice as long as width of pronotum, 152:85; proportion of segments 25:74:29:24, the second segment slightly thickened toward apex.</paragraph>
+<paragraph id="647B124FF5343F554B0CE81FFE39C9ED" blockId="56.[292,1695,1410,2498]" pageId="56" pageNumber="67">Pronotum half again as broad across humeri as long, 85: 57; rather strongly convex, especially posteriorly, the callosities smooth, impunctate, moderately elevated and somewhat confluent at middle, the rest of disk coarsely punctate, the punctures more than one puncture width apart; feebly depressed behind middle. Sides roundly carinate, strongly sinuate at middle, rounded at anterior angles. Collar nearly as wide as thickest portion of second antenna! segment. Hind margin broadly, convexly rounded and a little sinuate sublaterally.</paragraph>
+<paragraph id="647B124FF5343F554B0BE7E4FE5FC995" blockId="56.[292,1695,1410,2498]" pageId="56" pageNumber="67">Scutellum almost half again as broad across base as long, 38:28; strongly convex and impunctate. Clavus and corium distinctly punctate. Cuneus more finely and indistinctly so.</paragraph>
+<paragraph id="647B124FF5343F544B0AE66BFA2CC3F3" blockId="56.[292,1695,1410,2498]" lastBlockId="57.[448,1849,396,879]" lastPageId="57" lastPageNumber="68" pageId="56" pageNumber="67">Color dark brown with reddish ochraceous on basal half of vertex, at insertions of antennae, and laterally and at apex of tylus. Pronotum with three reddish fasciae behind callosities, the longest at middle, tapering posteriorly, and a shorter one on either side sublaterally. Humeral angles reddish ochraceous. Scutellum tinged with red at basal angles and at apex. Hemelytra brown with a partially obscured pale longitudinal line on either side of claval suture. Cuneus reddish at outer basal angle. Membrane entirely clouded, palest apically, brown on and around veins. Under surface brown, the ostiolar area paler. Antennae brownish, the first segment somewhat paler, second segment with a pale ring at base and another at middle, third and fourth narrowly pale basally. Rostrum and legs ochraceous, the femora more or less infuscated with one or two pale rings subapically, tibiae brown, ringed with ochraceous subbasally, at basal fourth, and broadly beyond middle. Tarsi brown basally and apically, pale at middle.</paragraph>
+<paragraph id="647B124FF5353F544867EDF6FAF6C3AA" blockId="57.[448,1849,396,879]" box="[519,1298,670,706]" pageId="57" pageNumber="68">
+Size: length 
+<quantity id="A33CBFAAF5353F5448BAEDF6FCB5C3AA" box="[730,849,670,706]" metricMagnitude="-3" metricUnit="m" metricValue="6.2" pageId="57" pageNumber="68" unit="mm" value="6.2">6.2 mm</quantity>
+., width (hemelytra) 
+<quantity id="A33CBFAAF5353F544EFAEDF6FAEAC3AA" box="[1178,1294,670,706]" metricMagnitude="-3" metricUnit="m" metricValue="2.5" pageId="57" pageNumber="68" unit="mm" value="2.5">2.5 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5353F544B9FEDB4FB6FC262" box="[511,1163,732,778]" pageId="57" pageNumber="68" type="description">
+<paragraph id="647B124FF5353F544B9FEDB4FB6FC262" blockId="57.[448,1849,396,879]" box="[511,1163,732,778]" pageId="57" pageNumber="68">
+<materialsCitation id="D4AC1812F5353F544B9FEDB4FB9CC262" ID-GBIF-Occurrence="3994028440" box="[511,1144,732,778]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="57" pageNumber="68" specimenCount-female="1" typeStatus="holotype">
+<typeStatus id="BB7FACEDF5353F544B9FEDB4FD4CC262" box="[511,680,732,778]" pageId="57" pageNumber="68">Holotype</typeStatus>
+<specimenCount id="72C2D9C6F5353F5448DAEDB4FCD1C262" box="[698,821,732,778]" pageId="57" pageNumber="68" type="female">female</specimenCount>
+, 
+<location id="611B4494F5353F54492CEDB4FC13C262" LSID="urn:lsid:plazi:treatment:EC6DA359F5343F544B49EAEAFAEFC207:611B4494F5353F54492CEDB4FC13C262" box="[844,1015,732,778]" name="Fullaway" pageId="57" pageNumber="68">Fullaway</location>
+(1183
+</materialsCitation>
+).
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5353F544B9FEC7AFAEFC207" pageId="57" pageNumber="68" type="description">
+<paragraph id="647B124FF5353F544B9FEC7AFAEFC207" blockId="57.[448,1849,396,879]" pageId="57" pageNumber="68">
+Allied 
+<emphasis id="56B0CE5DF5353F54481EEC7AFD44C254" box="[638,672,786,828]" italics="true" pageId="57" pageNumber="68">to</emphasis>
+such large species as 
+<emphasis id="56B0CE5DF5353F544E5AEC7AFB01C254" box="[1082,1253,786,828]" italics="true" pageId="57" pageNumber="68">celebensis</emphasis>
+Poppius and 
+<emphasis id="56B0CE5DF5353F544F85EC7AF97EC254" box="[1509,1690,786,828]" italics="true" pageId="57" pageNumber="68">discoidalis</emphasis>
+Poppius but differing in color and antennal proportions.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

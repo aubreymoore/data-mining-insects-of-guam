@@ -1,0 +1,120 @@
+<document id="25816125022C46282C75EAAF63977A27" ID-DOI="http://doi.org/10.5281/zenodo.5159673" ID-GBIF-Dataset="7700299b-eb39-4c24-86fe-2eabb15beda7" ID-Zenodo-Dep="5159673" approvalRequired="1" approvalRequired_for_document="1" checkinTime="1628017110730" checkinUser="carolina" docAuthor="Blair, K. G." docDate="1942" docId="03E387DAFFACFFCA8797F778FBFFF8F1" docLanguage="en" docName="InsectsOfGuamI.172.56-60.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Euglenes guamensis Blair, 1942, new species" docType="treatment" docVersion="10" lastPageNumber="58" masterDocId="FFDAFFA2FFAEFFC88657F353FF92FFF8" masterDocTitle="Coleoptera Heteromera From Guam" masterLastPageNumber="60" masterPageNumber="56" pageNumber="58" updateTime="1659619232536" updateUser="ExternalLinkService">
+<mods:mods id="E38DE98E46E1497BCEA0AD354E974EAB" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="0BB879B6DAB3B70B85FB104A9102776F">
+<mods:title id="C8C771B84F3E759F95FDAF19CCA1F0E0">Coleoptera Heteromera From Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="1267F9711661FE7B40D378F4AD3C8D31" type="personal">
+<mods:role id="B80F9CFECCD039A65DE954E5A5E786AE">
+<mods:roleTerm id="59CDF2FB8D4F54ED08C8CDF32FE7DDFE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2AEA2C4143FDF655B389B86D56A3F6A6">Blair, K. G.</mods:namePart>
+<mods:affiliation id="0ADDF803C33EC7FF5C3DBFC08A6C1571">British Museum \ (Natural History), London</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="F8FFDA6F2E4160A8610D73A26A1B7D98">text</mods:typeOfResource>
+<mods:relatedItem id="27E8EF48272BF95372F4BAA571C9EAB1" type="host">
+<mods:originInfo id="FD7F151D115735CC7355876C43210EE3">
+<mods:dateIssued id="1D0AA906A24B82F79CD24D1B8A0E8DCA">1942</mods:dateIssued>
+<mods:dateOther id="30DB4E15EE413339341CF6C156C8A617" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="8961B6E017668E6421AF14D2247E5CDA">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="CFB60AD7C9387FDF41A48AEAAA2D86EE">
+<mods:placeTerm id="F9FD4C3DB3986B17EB1F4776014C7E13">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="681B170E4B81F35D2CE875FCA46FA893">
+<mods:title id="8FA22C14317831B5814C2C1C46053B8E">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="E5FF7EFAC023E8574752C88685C8C943">
+<mods:extent id="C840E92F6F9FC0C723CD1A7319973DF5" unit="page">
+<mods:start id="F7FC36CDEC7F86DB88F5EF7514C3E740">56</mods:start>
+<mods:end id="E539FDE8FB93A00B077BD49897030300">60</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="655993FC85D4B3DCB848AF2B52A31C18">book chapter</mods:classification>
+<mods:identifier id="A768804E72209756025850AF07A82CC3" type="DOI">http://doi.org/10.5281/zenodo.5159673</mods:identifier>
+<mods:identifier id="2E53FD8444A012BD3C6B50C647E4173C" type="GBIF-Dataset">7700299b-eb39-4c24-86fe-2eabb15beda7</mods:identifier>
+<mods:identifier id="59E877C7D602060E2E70471E964486D9" type="Zenodo-Dep">5159673</mods:identifier>
+</mods:mods>
+<treatment id="03E387DAFFACFFCA8797F778FBFFF8F1" ID-DOI="http://doi.org/10.5281/zenodo.5163532" ID-GBIF-Taxon="183919367" ID-Zenodo-Dep="5163532" LSID="urn:lsid:plazi:treatment:03E387DAFFACFFCA8797F778FBFFF8F1" httpUri="http://treatment.plazi.org/id/03E387DAFFACFFCA8797F778FBFFF8F1" lastPageNumber="58" pageId="2" pageNumber="58">
+<subSubSection id="C3506547FFACFFCA8797F778FBF5FBAC" box="[448,1127,1067,1108]" pageId="2" pageNumber="58" type="nomenclature">
+<paragraph id="8BF536CCFFACFFCA8797F778FBF5FBAC" blockId="2.[448,1844,1067,1801]" box="[448,1127,1067,1108]" pageId="2" pageNumber="58">
+<heading id="D0BD81A0FFACFFCA8797F778FBF5FBAC" box="[448,1127,1067,1108]" fontSize="11" level="2" pageId="2" pageNumber="58" reason="2">
+<emphasis id="B93EEADEFFACFFCA8797F778FCE8FBAC" bold="true" box="[448,890,1067,1108]" pageId="2" pageNumber="58">
+2. 
+<taxonomicName id="4C4A4D4FFFACFFCA87A8F778FCE1FBAC" authority="" authorityName="Blair" box="[511,883,1067,1108]" class="Insecta" family="Euglenidae" genus="Euglenes" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="58" phylum="Arthropoda" rank="species" species="guamensis" status="new species">Euglenes guamensis</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="A20D57A5FFACFFCA85DCF778FBF0FBAC" box="[907,1122,1067,1108]" pageId="2" pageNumber="58" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFACFFCA8452F70DF8A1FA77" pageId="2" pageNumber="58" type="diagnosis">
+<paragraph id="8BF536CCFFACFFCA8452F70DF8A1FA77" blockId="2.[448,1844,1067,1801]" pageId="2" pageNumber="58">
+Similar in form to 
+<emphasis id="B93EEADEFFACFFCA8562F70DFB8CFB79" box="[821,1054,1118,1153]" italics="true" pageId="2" pageNumber="58">
+<taxonomicName id="4C4A4D4FFFACFFCA8562F70DFB8BFB79" authority="Westwood, 1830" authorityName="Westwood" authorityYear="1830" box="[821,1049,1118,1153]" class="Insecta" family="Aderidae" genus="Euglenes" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="58" phylum="Arthropoda" rank="species" species="bifossicollis">E. bifossicollis</taxonomicName>
+,
+</emphasis>
+but thorax smaller and more strongly transverse, without the prebasal foveae; the puncturation is finer, the coarser hairs more decumbent and not conspicuous, the fine decumbent pubescence exhibiting dark markings on a silvery ground as follows: on thorax an elongate median patch and a smaller spot near each angle; on elytra an irregular transverse band (or three spots united) at basal one fourth, a strongly zigzag transverse band just beyond middle, projecting farthest forward on suture and nearly as far in middle of disk. Antennae.stout (female), joints 4 to 11 of equal thickness, 6 to 10 strongly transverse. Hind femora rather strongly incrassate. Length 1.25 mm.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFACFFCA8456F6F8FDDCF995" pageId="2" pageNumber="58" type="materials_examined">
+<paragraph id="8BF536CCFFACFFCA8456F6F8FDDCF995" blockId="2.[448,1844,1067,1801]" pageId="2" pageNumber="58">
+<materialsCitation id="3B223C91FFACFFCA8456F6F8F8A1FA2D" ID-GBIF-Occurrence="3331241328" box="[513,1843,1451,1493]" collectedFrom="swept from unknown tree" collectingDate="1936-08-10" collectorName="O. H. Swezey" country="Guam" location="Libugon Farm" pageId="2" pageNumber="58" specimenCount-female="1" typeStatus="holotype">
+<location id="8E956017FFACFFCA8456F6F8FC83FA2D" LSID="urn:lsid:plazi:treatment:03E387DAFFACFFCA8797F778FBFFF8F1:8E956017FFACFFCA8456F6F8FC83FA2D" box="[513,785,1451,1493]" name="Libugon Farm" pageId="2" pageNumber="58">Libugon Farm</location>
+, 
+<date id="FFF4100CFFACFFCA8564F6F8FC5DFA2D" box="[819,975,1451,1493]" pageId="2" pageNumber="58" value="2010-08">
+<collectingDate id="EFB0E9E4FFACFFCA8564F6F8FC5DFA2D" box="[819,975,1451,1493]" pageId="2" pageNumber="58" value="2010-08">Aug. 10</collectingDate>
+</date>
+, 
+<typeStatus id="54F1886EFFACFFCA85B9F6F8FB11FA2D" box="[1006,1155,1451,1493]" pageId="2" pageNumber="58">holotype</typeStatus>
+<specimenCount id="9D4CFD45FFACFFCA82C8F6F8FA84FA2D" box="[1183,1302,1451,1493]" pageId="2" pageNumber="58" type="female">female</specimenCount>
+, swept from unknown tree;
+</materialsCitation>
+<materialsCitation id="3B223C91FFACFFCA8795F68CFC46F9F0" ID-GBIF-Occurrence="3878849326" box="[450,980,1503,1544]" collectingDate="1936-05-07" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="2" pageNumber="58" specimenCount-female="1">
+<location id="8E956017FFACFFCA8795F68CFDCEF9F0" LSID="urn:lsid:plazi:treatment:03E387DAFFACFFCA8797F778FBFFF8F1:8E956017FFACFFCA8795F68CFDCEF9F0" box="[450,604,1503,1544]" name="Inarajan" pageId="2" pageNumber="58">Inarajan</location>
+, 
+<date id="FFF4100CFFACFFCA8421F68CFD78F9F0" box="[630,746,1503,1544]" pageId="2" pageNumber="58">
+<collectingDate id="EFB0E9E4FFACFFCA8421F68CFD78F9F0" box="[630,746,1503,1544]" pageId="2" pageNumber="58">
+May 
+<emphasis id="B93EEADEFFACFFCA8482F68CFD63F9F0" box="[725,753,1503,1544]" italics="true" pageId="2" pageNumber="58">7,</emphasis>
+</collectingDate>
+</date>
+<specimenCount id="9D4CFD45FFACFFCA8555F68CFC5CF9F0" box="[770,974,1503,1544]" pageId="2" pageNumber="58" type="female">one female</specimenCount>
+;
+</materialsCitation>
+<materialsCitation id="3B223C91FFACFFCA85BFF68CF8A0F9F0" ID-GBIF-Occurrence="3878849309" box="[1000,1842,1503,1544]" collectedFrom="swept from bamboo" collectingDate="1936-10-29" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="58" specimenCount-female="1">
+<collectingMunicipality id="6B91ACB6FFACFFCA85BFF68CFBB8F9F0" box="[1000,1066,1503,1544]" pageId="2" pageNumber="58">Piti</collectingMunicipality>
+, 
+<date id="FFF4100CFFACFFCA8213F68CFB5BF9F0" box="[1092,1225,1503,1544]" pageId="2" pageNumber="58" value="1929-10">
+<collectingDate id="EFB0E9E4FFACFFCA8213F68CFB5BF9F0" box="[1092,1225,1503,1544]" pageId="2" pageNumber="58" value="1929-10">Oct. 29</collectingDate>
+</date>
+, swept from bamboo, 
+<specimenCount id="9D4CFD45FFACFFCA8037F68CF8BEF9F0" box="[1632,1836,1503,1544]" pageId="2" pageNumber="58" type="female">one female</specimenCount>
+;
+</materialsCitation>
+<materialsCitation id="3B223C91FFACFFCA8795F541FDDCF995" ID-GBIF-Occurrence="3331241329" collectingDate="1936-05-15" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="2" pageNumber="58" specimenCount="1">
+<collectingMunicipality id="6B91ACB6FFACFFCA8795F541FDA5F9C3" box="[450,567,1554,1595]" pageId="2" pageNumber="58">Agana</collectingMunicipality>
+, 
+<date id="FFF4100CFFACFFCA8403F541FD73F9C3" box="[596,737,1554,1595]" pageId="2" pageNumber="58" value="2015-05">
+<collectingDate id="EFB0E9E4FFACFFCA8403F541FD73F9C3" box="[596,737,1554,1595]" pageId="2" pageNumber="58" value="2015-05">May 15</collectingDate>
+</date>
+, one example, head and prothorax missing; all collected by 
+<location id="8E956017FFACFFCA8794F515FDDBF995" LSID="urn:lsid:plazi:treatment:03E387DAFFACFFCA8797F778FBFFF8F1:8E956017FFACFFCA8794F515FDDBF995" box="[451,585,1606,1645]" municipality="Agana" name="Swezey" pageId="2" pageNumber="58">Swezey</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFACFFCA87A8F529FBFFF8F1" pageId="2" pageNumber="58" type="discussion">
+<paragraph id="8BF536CCFFACFFCA87A8F529FBFFF8F1" blockId="2.[448,1844,1067,1801]" pageId="2" pageNumber="58">
+Very close to 
+<taxonomicName id="4C4A4D4FFFACFFCA84A2F529FA82F95A" box="[757,1296,1658,1698]" pageId="2" pageNumber="58">
+<emphasis id="B93EEADEFFACFFCA84A2F529FBFEF95A" box="[757,1132,1658,1698]" italics="true" pageId="2" pageNumber="58">Xylophilus marquesa</emphasis>
+.nus Blair
+</taxonomicName>
+(B. P. Bishop Mus., Bull. 98: 290, fig. 1, 1935), but rather smaller with stouter antennae and the dark markings of the elytra differently disposed.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

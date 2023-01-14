@@ -1,0 +1,85 @@
+<document id="43CCECDDB024BCEA8D011DB50AA0FAAB" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E94BFFA1FEEB8B0690D50A82" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Anisodes Guenee 1857" docType="treatment" docVersion="19" lastPageNumber="163" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="163" updateTime="1669490674909" updateUser="annettekang">
+<mods:mods id="491D0F38DC239CADBC76F8D552E264B0" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="FF0289F0D528DFA58413B71B173A9A7F">
+<mods:title id="A93CBF0F5DA2FD80D19D8A0B165EF6CC">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="E37108156B2B53423626DF4C03EC1AE7" type="personal">
+<mods:role id="931B92EB1090AE4D5362007BAF8EC129">
+<mods:roleTerm id="9CE74AD297FFBD2E8A7BE4866E250491">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A794B535959DF656A35D51358F4A5545">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="C26AE1BCC103AE0733DCD6C4D3DBCF00">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="99D36C23F26E262A6645C2C40C6A8B95">text</mods:typeOfResource>
+<mods:relatedItem id="00B1159CB69A5BC95F1DE2AD40B4D915" type="host">
+<mods:originInfo id="F976AAD18A8B3762EA38D1BA0381F03E">
+<mods:dateIssued id="1623C2C2F6CF8E5A4762990AE095E53A">1946</mods:dateIssued>
+<mods:dateOther id="FAA962136FEE1534E7409C34248311E5" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="0956B5921815FB64A92A279C989D2613">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="C54AE5F93C396AD6B32179592F4A5F8E">
+<mods:placeTerm id="43177E41AD338E834D20C874077A28CD">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="1412FD05E39614B4416DA1C3A0038294">
+<mods:title id="74F3F0C7334D5AC523ABECB98E252A00">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="2CC16E1B322D918388D10DE28C7A61B2">
+<mods:extent id="7542C607DB163287AA43E7E54209A21D" unit="page">
+<mods:start id="7A4B221FE54C101D26B4EF4FB3523A21">163</mods:start>
+<mods:end id="79BD13283E24229B93912071E980167D">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="520D2E4B912BF7385A136A19FE167BC9">book chapter</mods:classification>
+<mods:identifier id="59918C2351664DC8EB480AFC63C37BF6" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="AD055C34C45403EDAE9E7301F7395589" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="BFF7C68725C3E59E2ECB74DF1D32B810" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E94BFFA1FEEB8B0690D50A82" ID-DOI="http://doi.org/10.5281/zenodo.5158371" ID-GBIF-Taxon="183926856" ID-Zenodo-Dep="5158371" LSID="urn:lsid:plazi:treatment:03B387B8E94BFFA1FEEB8B0690D50A82" httpUri="http://treatment.plazi.org/id/03B387B8E94BFFA1FEEB8B0690D50A82" lastPageNumber="163" pageId="0" pageNumber="163">
+<subSubSection id="C3006525E94BFFA1FEEB8B0690EF0A2A" box="[292,665,2363,2405]" pageId="0" pageNumber="163" type="nomenclature">
+<paragraph id="8BA536AEE94BFFA1FEEB8B0690EF0A2A" blockId="0.[292,1689,2363,2509]" box="[292,665,2363,2405]" pageId="0" pageNumber="163">
+<heading id="D0ED81C2E94BFFA1FEEB8B0690EF0A2A" box="[292,665,2363,2405]" fontSize="11" level="2" pageId="0" pageNumber="163" reason="2">
+<emphasis id="B96EEABCE94BFFA1FEEB8B0690700A2A" bold="true" box="[292,518,2363,2405]" pageId="0" pageNumber="163">
+6. 
+<taxonomicName id="4C1A4D2DE94BFFA1FEAD8B0690700A2A" authority="Guenée, 1858" authorityName="Guenee" authorityYear="1857" box="[354,518,2363,2405]" class="Insecta" family="Geometridae" genus="Anisodes" kingdom="Animalia" order="Lepidoptera" pageId="0" pageNumber="163" phylum="Arthropoda" rank="genus">Anisodes</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94BFFA1FEAC8B5090D50A82" pageId="0" pageNumber="163" type="materials_examined">
+<paragraph id="8BA536AEE94BFFA1FEAC8B5090D50A82" blockId="0.[292,1689,2363,2509]" pageId="0" pageNumber="163">
+<materialsCitation id="3B723CF3E94BFFA1FEAC8B5097C50AD6" ID-GBIF-Occurrence="3332081382" box="[355,1459,2413,2457]" collectedFrom="from a pupa on leaf" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="0" pageNumber="163" specimenCount="1">
+<collectingMunicipality id="6BC1ACD4E94BFFA1FEAC8B5093DD0AD6" box="[355,427,2413,2457]" pageId="0" pageNumber="163">One</collectingMunicipality>
+<specimenCount id="9D1CFD27E94BFFA1FE768B50902B0AD6" box="[441,605,2413,2457]" pageId="0" pageNumber="163" type="generic">specimen</specimenCount>
+from a 
+<specimenCount id="9D1CFD27E94BFFA1FD218B5091330AD6" box="[750,837,2413,2457]" pageId="0" pageNumber="163" type="pupa">pupa</specimenCount>
+on leaf, 
+<location id="8EC56075E94BFFA1FC2B8B5096130AD6" LSID="urn:lsid:plazi:treatment:03B387B8E94BFFA1FEEB8B0690D50A82:8EC56075E94BFFA1FC2B8B5096130AD6" box="[996,1125,2413,2457]" pageId="0" pageNumber="163">Fadian</location>
+, 
+<date id="FFA4106EE94BFFA1FBB68B50977E0AD6" box="[1145,1288,2413,2457]" pageId="0" pageNumber="163" value="2019-08">
+<collectingDate id="EFE0E986E94BFFA1FBB68B50977E0AD6" box="[1145,1288,2413,2457]" pageId="0" pageNumber="163" value="2019-08">Aug. 19</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E94BFFA1FAD28B5097DA0AD6" box="[1309,1452,2413,2457]" pageId="0" pageNumber="163">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E94BFFA1FA0D8B5090E80A82" ID-GBIF-Occurrence="3332081417" collectedFrom="at light" collectingDate="1936-09-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="163" specimenCount="1">
+one at light, 
+<location id="8EC56075E94BFFA1FEE98B9F931F0A82" LSID="urn:lsid:plazi:treatment:03B387B8E94BFFA1FEEB8B0690D50A82:8EC56075E94BFFA1FEE98B9F931F0A82" box="[294,361,2466,2509]" pageId="0" pageNumber="163">
+<collectingMunicipality id="6BC1ACD4E94BFFA1FEE98B9F931F0A82" box="[294,361,2466,2509]" pageId="0" pageNumber="163">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE94BFFA1FE4D8B9F93890A82" box="[386,511,2466,2509]" pageId="0" pageNumber="163">
+<collectingDate id="EFE0E986E94BFFA1FE4D8B9F93890A82" box="[386,511,2466,2509]" pageId="0" pageNumber="163">
+Sept. 
+<emphasis id="B96EEABCE94BFFA1FE268B9F90700A82" box="[489,518,2466,2509]" italics="true" pageId="0" pageNumber="163">7,</emphasis>
+</collectingDate>
+</date>
+<collectorName id="26EF5378E94BFFA1FDD98B9F90E80A82" box="[534,670,2466,2509]" pageId="0" pageNumber="163">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,114 @@
+<document id="46572553B3EA5969AE0C4127DF34B222" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5193F784BF5EEE2FBE9C25A" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Paromius piratoides" docType="treatment" docVersion="21" lastPageNumber="32" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="32" updateTime="1671564724125" updateUser="annettekang">
+<mods:mods id="1E5F3A4935EF343A435EF0CA1B41A694" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="DA60C9A2664CD48C205135FC82F14E71">
+<mods:title id="9B7CC19EB2693EDFD655675E0C44391B">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="0BD17EC13A5E09EDDBD5FC15786A775F" type="personal">
+<mods:role id="B269F919DE0323CB53EFA92CA8F350D2">
+<mods:roleTerm id="D6AA663820FC567574176C71CF174CCB">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="EDA9F7916BDA9B278623ADFCEC3B0905">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="B602DA4204DF2AE41382B31CF376EAF7">text</mods:typeOfResource>
+<mods:relatedItem id="591182723701C21DDCA596757BBA745E" type="host">
+<mods:originInfo id="22B799D58231BC6DDDD7DA685AD2E69D">
+<mods:dateIssued id="A3099DF55C0184AEC9057426B182EBD4">1946</mods:dateIssued>
+<mods:dateOther id="5782584FFC34550A0A41DF02E9492FF1" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="4BB0DF72ECD869BAA2F460DEE4AB2F05">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="7B65BDA599E39881E60C29D32B16019E">
+<mods:placeTerm id="22E12EBEE883B64165A9625D299B9B0D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="93892436F298531630FC8CBDBA2AC0B0">
+<mods:title id="961EE3A35F011CD7D771D7550318FCCC">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="DD7BA12473B8A6FE844E1F2568F8F276">
+<mods:extent id="8F616C68EAE66E44EC5D6AC2BD26C3A2" unit="page">
+<mods:start id="72CB2450C867AD7AB55897550B92AD59">11</mods:start>
+<mods:end id="E5CFEA71E96C00667518CA946A99999F">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="5713BCDACC34E0B264D1FDB0F80429A2">book chapter</mods:classification>
+<mods:identifier id="A14C71EF1A04C0386ADA9EAFBE79A623" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="515D4F40D1D6E3342BBAD6BA96F6573C" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="91F9D9A68E75241C698B7D3D3A23FFF9" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5193F784BF5EEE2FBE9C25A" ID-DOI="http://doi.org/10.5281/zenodo.5217851" ID-GBIF-Taxon="184601188" ID-Zenodo-Dep="5217851" LSID="urn:lsid:plazi:treatment:EC6DA359F5193F784BF5EEE2FBE9C25A" httpUri="http://treatment.plazi.org/id/EC6DA359F5193F784BF5EEE2FBE9C25A" lastPageNumber="32" pageId="21" pageNumber="32">
+<subSubSection id="2CDE41C4F5193F784BF5EEE2FBE5C0DD" box="[405,1025,394,437]" pageId="21" pageNumber="32" type="nomenclature">
+<paragraph id="647B124FF5193F784BF5EEE2FBE5C0DD" blockId="21.[405,1805,394,818]" box="[405,1025,394,437]" pageId="21" pageNumber="32">
+<heading id="3F33A523F5193F784BF5EEE2FBE5C0DD" box="[405,1025,394,437]" fontSize="8" level="2" pageId="21" pageNumber="32" reason="4">
+<emphasis id="56B0CE5DF5193F784BF5EEE2FE2CC0DD" bold="true" box="[405,456,394,437]" pageId="21" pageNumber="32">28.</emphasis>
+<taxonomicName id="A3C469CCF5193F784B89EEE2FC1FC0DD" authority="(Costa)" box="[489,1019,394,437]" class="Insecta" family="Rhyparochromidae" genus="Paromius" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="21" pageNumber="32" phylum="Arthropoda" rank="species" species="piratoides">
+<emphasis id="56B0CE5DF5193F784B89EEE2FCBEC0DD" bold="true" box="[489,858,394,437]" pageId="21" pageNumber="32">Paromius piratoides</emphasis>
+(
+<collectingRegion id="A600DCADF5193F78491BEEE2FC0AC0DD" box="[891,1006,394,437]" country="New Zealand" name="West Coast" pageId="21" pageNumber="32">Costa</collectingRegion>
+)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5193F784BB5EEAFF977C099" box="[469,1683,455,497]" pageId="21" pageNumber="32">
+<paragraph id="647B124FF5193F784BB5EEAFF977C099" blockId="21.[405,1805,394,818]" box="[469,1683,455,497]" pageId="21" pageNumber="32">
+<bibCitation id="B1EE1A23F5193F784BB5EEAFF977C099" author="Costa" box="[469,1683,455,497]" journalOrPublisher="Mus. Zool. Napoli, Ann." pageId="21" pageNumber="32" pagination="78" part="2" refId="ref10121" type="journal article" year="1864">
+<treatmentCitationGroup id="44D43561F5193F784BB5EEAFF96AC099" box="[469,1678,455,497]" pageId="21" pageNumber="32">
+<treatmentCitation id="E565345EF5193F784BB5EEAFF96AC099" author="Costa" box="[469,1678,455,497]" page="78" pageId="21" pageNumber="32" year="1864">
+<emphasis id="56B0CE5DF5193F784BB5EEAFFC89C099" box="[469,877,455,497]" italics="true" pageId="21" pageNumber="32">Plociomerus piratoides</emphasis>
+<collectingRegion id="A600DCADF5193F78491DEEAFFC05C099" box="[893,993,455,497]" country="New Zealand" name="West Coast" pageId="21" pageNumber="32">
+<author id="BC79FAAAF5193F78491DEEAFFC05C099" box="[893,993,455,497]" pageId="21" pageNumber="32">Costa</author>
+</collectingRegion>
+, 
+<journalOrPublisher id="BE051883F5193F78499AEEAFFA55C099" box="[1018,1457,455,497]" pageId="21" pageNumber="32">Mus. Zool. Napoli, Ann.</journalOrPublisher>
+<emphasis id="56B0CE5DF5193F784FA3EEAFF9C3C099" bold="true" box="[1475,1575,455,497]" pageId="21" pageNumber="32">
+<part id="1060B8D2F5193F784FA3EEAFFA35C099" box="[1475,1489,455,497]" pageId="21" pageNumber="32" type="volume">2</part>
+: 
+<pagination id="5D0DECBBF5193F784F95EEAFF9C4C099" box="[1525,1568,455,497]" pageId="21" pageNumber="32" type="pagination">78</pagination>
+,
+</emphasis>
+<year id="106C531CF5193F784C5AEEAFF96AC099" box="[1594,1678,455,497]" pageId="21" pageNumber="32">1864</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5193F784BB6EE95F9EEC34F" box="[470,1546,509,551]" pageId="21" pageNumber="32">
+<paragraph id="647B124FF5193F784BB6EE95F9EEC34F" blockId="21.[405,1805,394,818]" box="[470,1546,509,551]" pageId="21" pageNumber="32">
+<materialsCitation id="D4AC1812F5193F784BB6EE95F9E1C34F" ID-GBIF-Occurrence="3994028469" box="[470,1541,509,551]" collectedFrom="3 miles south of Piti" collectingDate="1936-05-23" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="21" pageNumber="32" specimenCount="1">
+<collectorName id="C9317799F5193F784BB6EE95FDC4C34F" box="[470,544,509,551]" pageId="21" pageNumber="32">One</collectorName>
+<specimenCount id="72C2D9C6F5193F78484EEE95FD2AC34F" box="[558,718,509,551]" pageId="21" pageNumber="32" type="generic">specimen</specimenCount>
+, 
+<quantity id="A33CBFAAF5193F784885EE95FCBBC34F" box="[741,863,509,551]" metricMagnitude="3" metricUnit="m" metricValue="4.828032" pageId="21" pageNumber="32" unit="mi" value="3.0">
+<locationDeviation id="75C90B6DF5193F784885EE95FCBBC34F" box="[741,863,509,551]" metricMagnitude="3" metricUnit="m" metricValue="4.828032" pageId="21" pageNumber="32" unit="mi" value="3.0">3 miles</locationDeviation>
+</quantity>
+south of 
+<collectingMunicipality id="841F8835F5193F784E70EE95FBB6C34F" box="[1040,1106,509,551]" pageId="21" pageNumber="32">Piti</collectingMunicipality>
+, 
+<date id="107A348FF5193F784E09EE95FABAC34F" box="[1129,1374,509,551]" pageId="21" pageNumber="32" value="1936-05-23">
+<collectingDate id="003ECD67F5193F784E09EE95FABAC34F" box="[1129,1374,509,551]" pageId="21" pageNumber="32" value="1936-05-23">May 23, 1936</collectingDate>
+</date>
+, 
+<location id="611B4494F5193F784F13EE95F9E1C34F" LSID="urn:lsid:plazi:treatment:EC6DA359F5193F784BF5EEE2FBE9C25A:611B4494F5193F784F13EE95F9E1C34F" box="[1395,1541,509,551]" municipality="Piti" name="Usinger" pageId="21" pageNumber="32">Usinger</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5193F784BB6ED50FBE9C25A" pageId="21" pageNumber="32">
+<paragraph id="647B124FF5193F784BB6ED50FBE9C25A" blockId="21.[405,1805,394,818]" pageId="21" pageNumber="32">
+This large species is at once distinguished from 
+<taxonomicName id="A3C469CCF5193F784F7FED50FA42C30B" box="[1311,1446,568,611]" class="Insecta" family="Rhyparochromidae" genus="Plociomerus" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="21" pageNumber="32" phylum="Arthropoda" rank="species" species="pallidus">
+<emphasis id="56B0CE5DF5193F784F7FED50FA42C30B" box="[1311,1446,568,611]" italics="true" pageId="21" pageNumber="32">pallidus</emphasis>
+</taxonomicName>
+by the long rostrum reaching nearly to hind coxae and the longer antennae, with second segment one third longer than fourth segment (the two segments subequal in 
+<emphasis id="56B0CE5DF5193F784C02EDC9F8EFC3A3" box="[1634,1803,673,715]" italics="true" pageId="21" pageNumber="32">
+<taxonomicName id="A3C469CCF5193F784C02EDC9F91DC3A3" box="[1634,1785,673,715]" class="Insecta" family="Rhyparochromidae" genus="Plociomerus" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="21" pageNumber="32" phylum="Arthropoda" rank="species" species="pallidus">pallidus</taxonomicName>
+).
+</emphasis>
+All of the specimens before me from the Carolines belong here. The species was described from the 
+<collectingCountry id="1CD352DFF5193F784920EC61FBECC25A" box="[832,1032,777,818]" name="Philippines" pageId="21" pageNumber="32">Philippines</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

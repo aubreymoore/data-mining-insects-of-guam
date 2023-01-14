@@ -1,0 +1,88 @@
+<document id="2D0D9BE9E0FB807B8B2FFB82A0D44213" ID-DOI="http://doi.org/10.5281/zenodo.5156759" ID-GBIF-Dataset="6e65e7d3-7a72-4da4-9739-5e3814593490" ID-Zenodo-Dep="5156759" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628022238476" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="907B754A855EFFCE23BDF887ECC8FB16" docLanguage="en" docName="InsectsOfGuamII.189.221-227.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Chelonus guamensis Fullaway, 1946, new species" docType="treatment" docVersion="9" lastPageNumber="225" masterDocId="6C420D32855DFFCA221EFFCCE940FF9E" masterDocTitle="Ichneumonidae, Evaniidae, And Braconidae Of Guam" masterLastPageNumber="227" masterPageNumber="221" pageNumber="224" updateTime="1660588485465" updateUser="annettekang">
+<mods:mods id="6CF267F970E5AD784C9DE394A3700D88" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="F3064B0062F1B038BD1B3BE1AD1ECDF4">
+<mods:title id="DF6D11F3F5BB63C5F00D23487B2A4334">Ichneumonidae, Evaniidae, And Braconidae Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="E52C40686EC1F4BB0C99052669E8FFE9" type="personal">
+<mods:role id="487F9E15137B0C7D1012125140C1E8D6">
+<mods:roleTerm id="7A59CC507F5E6983952A54BCA317E2A2">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="CE18EA7B50FF8B6785A8B0C949DFCDD9">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="81E78A7075C87DBACBC3C58D0B055930">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="357D785B110278B5EF5CC3897CFE6272">text</mods:typeOfResource>
+<mods:relatedItem id="F614239F182F03570A9EFF91B613968E" type="host">
+<mods:originInfo id="39CDC8A743E67E85A8DE3DF3404BC1B1">
+<mods:dateIssued id="7FE8D5C7E1AF853CF1B97009DC0EC86E">1946</mods:dateIssued>
+<mods:dateOther id="CE796792689C59E7F9B9E4D614CF934B" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="F186233D6F96AD663115BB51FC684E47">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="32B427FFC9956867B049BB7B9AF43E2B">
+<mods:placeTerm id="3BF34A811947C40F919E9968C24615AD">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="FAD04FCE22D0EB199DDF0BD7FD5B24CE">
+<mods:title id="A552675A7FAE90E651CD0E09455DF4E8">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="7497B60D1DF4682EA91C1ADCFF0AE45A">
+<mods:extent id="44925E612149273E2AFC2D7684AC1CCF" unit="page">
+<mods:start id="0B9414125185D4056B80D9F229E6CF7D">221</mods:start>
+<mods:end id="0793F3E53FBF6646946CDEE23801FAEC">227</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="924E0A78B0296AC78F2D2696DA891E11">book chapter</mods:classification>
+<mods:identifier id="C8BDAF3BA415364619084D7D555724DC" type="DOI">http://doi.org/10.5281/zenodo.5156759</mods:identifier>
+<mods:identifier id="957B9AF694FF638761DA691426668A7E" type="GBIF-Dataset">6e65e7d3-7a72-4da4-9739-5e3814593490</mods:identifier>
+<mods:identifier id="390A6B6F0E6FCBDCD4CEF929E70625FE" type="Zenodo-Dep">5156759</mods:identifier>
+</mods:mods>
+<treatment id="907B754A855EFFCE23BDF887ECC8FB16" ID-DOI="http://doi.org/10.5281/zenodo.5186422" ID-GBIF-Taxon="183969189" ID-Zenodo-Dep="5186422" LSID="urn:lsid:plazi:treatment:907B754A855EFFCE23BDF887ECC8FB16" httpUri="http://treatment.plazi.org/id/907B754A855EFFCE23BDF887ECC8FB16" lastPageId="4" lastPageNumber="225" pageId="3" pageNumber="224">
+<subSubSection id="50C897D7855EFFC923BDF887ED12F8EA" box="[419,1106,1867,1908]" pageId="3" pageNumber="224" type="nomenclature">
+<paragraph id="186DC45C855EFFC923BDF887ED12F8EA" blockId="3.[419,1820,1867,2474]" box="[419,1106,1867,1908]" pageId="3" pageNumber="224">
+<heading id="43257330855EFFC923BDF887ED12F8EA" box="[419,1106,1867,1908]" fontSize="11" level="2" pageId="3" pageNumber="224" reason="2">
+<emphasis id="2AA6184E855EFFC923BDF887EA21F8EA" bold="true" box="[419,865,1867,1908]" pageId="3" pageNumber="224">
+2. 
+<taxonomicName id="DFD2BFDF855EFFC923FDF887EA1AF8EA" authorityName="Fullaway" authorityYear="1946" box="[483,858,1867,1908]" class="Insecta" family="Braconidae" genus="Chelonus" kingdom="Animalia" order="Hymenoptera" pageId="3" pageNumber="224" phylum="Arthropoda" rank="species" species="guamensis" status="new species">Chelonus guamensis</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="3195A535855EFFC9216DF887ED0DF8EA" box="[883,1101,1867,1908]" pageId="3" pageNumber="224" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D7855EFFCE23F7F84AEC28FB91" lastPageId="4" lastPageNumber="225" pageId="3" pageNumber="224" type="description">
+<paragraph id="186DC45C855EFFC923F7F84AEADFF7DB" blockId="3.[419,1820,1867,2474]" pageId="3" pageNumber="224">
+Female 
+<quantity id="DF2A69B9855EFFC92076F84AEB83F837" box="[616,707,1926,1961]" metricMagnitude="-3" metricUnit="m" metricValue="3.0" pageId="3" pageNumber="224" unit="mm" value="3.0">3 mm</quantity>
+. long, shining black, basal third of abdomen, legs, antennae, and mandibles brown, the mandibular teeth black, flagellum of the antennae fuscous, as are also the hind coxae, apical half of hind tibiae, and the tarsi; covered with a close microscopic silky pubescence, although the disk of the scutellum and the mesopleurae are, fo1 ·the most part, bare; variously sculptured.
+</paragraph>
+<paragraph id="186DC45C855EFFCE23F7F79DED79FEE5" blockId="3.[419,1820,1867,2474]" lastBlockId="4.[300,1700,266,1160]" lastPageId="4" lastPageNumber="225" pageId="3" pageNumber="224">
+Head transverse, wide as thorax, about twice as wide as long (as viewed from above), eyes oval, convex, hairy, ocelli on the vertex in the form of an obtuse triangle, lateral members less than one diameter apart but removed from eye margins about four, frontovertex twice as wide as long, convex, finely striate, excavated in front for the antenna! scrobes, face only a little wider than long, also striate, clypeus below indicated by a shallow linear impression with pit on either side, antennae attached at top and at about middle distance of eyes, widely separated and not far from eyes, about two thirds length of body, consisting of 16 segments, the basal segment quite stout, following segments filamentous and decreasing in length outwardly, mandibles fairly stout and toothed apically, 
+<pageTitle id="584D1C3B8559FFCE2332FEC6EFE2FEB0" box="[300,1698,266,302]" pageId="4" pageNumber="225">the width of base much less than that of malar space, genae and postgenae fairly wide,</pageTitle>
+convex, striate, smoothly rounded to occipital margin, which is distinctly carinate, maxillary palpi 5-jointed, labial palpi 3-jointed, white.
+</paragraph>
+<paragraph id="186DC45C8559FFCE236FFEB3EA5FFD12" blockId="4.[300,1700,266,1160]" pageId="4" pageNumber="225">Thorax stout, fairly long and deep, pronotum transverse, collarlike, hardly visible from above, mesonotum wider than long, convex above, declivous in front, finely punctuate and in part striate, scutellum triangular, convex, a transverse row of circular pits along the basal margin; metanotum transverse, the anterior and posterior margins of the apical half carinate with a costate groove between, basal half on either side of the scutellum also costate, propodeum about as long as metanotum, flat on top, declivous behind and on the sides, coarsely rugulose.</paragraph>
+<paragraph id="186DC45C8559FFCE236FFD5CEA8EFCB6" blockId="4.[300,1700,266,1160]" pageId="4" pageNumber="225">Abdomen as long as head and thorax combined, corbiculate, elongate oval, the tergum convex, the ventrites basally collapsed against the tergites leaving a hollow cavity, the tergum without indication of segmentation and generally rugoso-striate, ovipositor exserted and about half the length of the abdomen.</paragraph>
+<paragraph id="186DC45C8559FFCE236CFCE7EFE2FCD0" blockId="4.[300,1700,266,1160]" box="[370,1698,811,846]" pageId="4" pageNumber="225">Legs fairly long and stout, the hind pair much larger than the fore and middle pairs.</paragraph>
+<paragraph id="186DC45C8559FFCE236FFC9DEC28FB91" blockId="4.[300,1700,266,1160]" pageId="4" pageNumber="225">Wings hyaline, stigma large, triangular, more than half as wide as long, with the parastigma, which is quite conspicuous, as long as the metacarp, radial cell not nearly reaching apex of wing, recurrent nervure interstitial with 1st cubital crossvein, 1st cubital and discoidal not separated, subdiscoidal nervure not interstitial but joining the discoidal below the middle of the apical section, nervulus postfurcal.</paragraph>
+</subSubSection>
+<subSubSection id="50C897D78559FFCE2370FBE7ECC8FB16" pageId="4" pageNumber="225" type="materials_examined">
+<paragraph id="186DC45C8559FFCE2370FBE7ECC8FB16" blockId="4.[300,1700,266,1160]" pageId="4" pageNumber="225">
+<materialsCitation id="A8BACE018559FFCE2370FBE7ECC8FB16" ID-GBIF-Occurrence="3332362320" collectingDate="1936-07-15" collectorName="O. H. Swezey" country="Guam" location="Sumay Road" pageId="4" pageNumber="225" specimenCount-female="1" typeStatus="holotype">
+Sumay Road, 
+<date id="6C6CE29C8559FFCE2065FBE7EA48FBCB" box="[635,776,1067,1109]" pageId="4" pageNumber="225" value="2015-07">
+<collectingDate id="7C281B748559FFCE2065FBE7EA48FBCB" box="[635,776,1067,1109]" pageId="4" pageNumber="225" value="2015-07">July 15</collectingDate>
+</date>
+, 
+<typeStatus id="C7697AFE8559FFCE213BFBE7EA80FBCB" box="[805,960,1067,1109]" pageId="4" pageNumber="225">holotype</typeStatus>
+female, Swezey. 
+<typeStatus id="C7697AFE8559FFCE2704FBE7EC37FBCB" box="[1306,1399,1067,1109]" pageId="4" pageNumber="225">Type</typeStatus>
+in collection of 
+<location id="1D0D92878559FFCE2330FB91EBDCFB16" LSID="urn:lsid:plazi:treatment:907B754A855EFFCE23BDF887ECC8FB16:1D0D92878559FFCE2330FB91EBDCFB16" box="[302,668,1117,1160]" municipality="Hawaiian Sugar Planters' Association" name="Experiment Station" pageId="4" pageNumber="225">Experiment Station</location>
+, 
+<collectingMunicipality id="F8095E268559FFCE20A6FB91ECC3FB16" box="[696,1411,1117,1160]" pageId="4" pageNumber="225">Hawaiian Sugar Planters' Association</collectingMunicipality>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

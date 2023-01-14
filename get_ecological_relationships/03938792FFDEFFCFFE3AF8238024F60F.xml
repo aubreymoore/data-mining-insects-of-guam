@@ -1,0 +1,217 @@
+<document id="4B720024606C2902A0B728D38858F686" ID-DOI="http://doi.org/10.5281/zenodo.5164064" ID-GBIF-Dataset="8ddfacbb-c42b-4385-b70b-ea5bd759c377" ID-Zenodo-Dep="5164064" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628020838575" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03938792FFDEFFCFFE3AF8238024F60F" docLanguage="en" docName="InsectsOfGuamII.189.149-156.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Ugyops samoaensis" docType="treatment" docVersion="13" lastPageNumber="154" masterDocId="FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9" masterDocTitle="Notes On Some Fulgoroidea Of Guam" masterLastPageNumber="156" masterPageNumber="149" pageNumber="154" updateTime="1671321319954" updateUser="annettekang">
+<mods:mods id="E9402B207F1CEBD9D178B33D79286775" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CEE1626106EDE2C0FEE514A25ECF3B71">
+<mods:title id="F4309E3BC7C21D1554CBABF66D9DB99C">Notes On Some Fulgoroidea Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="907C7BF9AD431BF7372038CE5BABCF31" type="personal">
+<mods:role id="DC27FD70A348D638ACEF9F97C7C03818">
+<mods:roleTerm id="3E49D2F3ACDFD8CDCF94A54122D2539A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B269A6163BE9DFD06A76C662D72B77E6">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="D4C170EFE371FB637DD1F744F87B824B">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="ADA0EAF0D349B2EF654DAB652078755A">text</mods:typeOfResource>
+<mods:relatedItem id="06CE796A277DA097F963FC4E3BD53149" type="host">
+<mods:originInfo id="D024DF58FAB0ADE720CF28D7F3A1B656">
+<mods:dateIssued id="DAA31D16567A71FBED98EF2F0F6BEC05">1946</mods:dateIssued>
+<mods:dateOther id="FBB48E03914A30BE8F6E754AA4AB9B69" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="7C85574D6576A1FB1B5D8C87285225E0">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="9383A85B116BF64F67141EAD7F9084ED">
+<mods:placeTerm id="887222901D378744FC4D7B98FD154B1B">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="0DB5FB67F5D43F2577121029D073B112">
+<mods:title id="4BA8111A6AE90C4D77D9C865CD663542">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="153B374F4000A303B0C7FFC79913F7E0">
+<mods:extent id="BF18768E6E4968237B966C2E3B9AC804" unit="page">
+<mods:start id="1D16D66E68779E2AD3DCE0F9CC83CA2D">149</mods:start>
+<mods:end id="3BB78FB6AE58D56387B8213670DEBB83">156</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="85F930F8421D2F49EF2E38E92A261886">book chapter</mods:classification>
+<mods:identifier id="29B5554D1D8D3C6480A4FEE40538D918" type="DOI">http://doi.org/10.5281/zenodo.5164064</mods:identifier>
+<mods:identifier id="B7540A3999881B26275671A410F20709" type="GBIF-Dataset">8ddfacbb-c42b-4385-b70b-ea5bd759c377</mods:identifier>
+<mods:identifier id="2B9AE6EED694059E56AE9B36244A2F8A" type="Zenodo-Dep">5164064</mods:identifier>
+</mods:mods>
+<treatment id="03938792FFDEFFCFFE3AF8238024F60F" ID-DOI="http://doi.org/10.5281/zenodo.5167406" ID-GBIF-Taxon="183925043" ID-Zenodo-Dep="5167406" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE3AF8238024F60F" httpUri="http://treatment.plazi.org/id/03938792FFDEFFCFFE3AF8238024F60F" lastPageNumber="154" pageId="5" pageNumber="154">
+<paragraph id="8B853684FFDEFFCFFE3AF8238171F7F3" blockId="5.[450,1848,2030,2534]" box="[452,1792,2030,2074]" pageId="5" pageNumber="154">
+<heading id="D0CD81E8FFDEFFCFFE3AF8238171F7F3" box="[452,1792,2030,2074]" fontSize="8" level="2" pageId="5" pageNumber="154" reason="4">
+<subSubSection id="C320650FFFDEFFCFFE3AF823850AF7F3" box="[452,891,2030,2074]" pageId="5" pageNumber="154" type="nomenclature">
+<emphasis id="B94EEA96FFDEFFCFFE3AF823850AF7F3" bold="true" box="[452,891,2030,2074]" pageId="5" pageNumber="154">
+14. 
+<taxonomicName id="4C3A4D07FFDEFFCFFDEBF823850AF7F3" authority="Muir" box="[533,891,2030,2074]" class="Insecta" family="Delphacidae" genus="Ugyops" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="5" pageNumber="154" phylum="Arthropoda" rank="species" species="samoaensis">Ugyops samoaensis</taxonomicName>
+</emphasis>
+</subSubSection>
+<subSubSection id="C320650FFFDEFFCFFC77F8238171F7F3" box="[905,1792,2030,2074]" pageId="5" pageNumber="154" type="reference_group">
+<treatmentCitation id="0A9B1095FFDEFFCFFC77F8238171F7F3" author="Muir" box="[905,1792,2030,2074]" page="573" pageId="5" pageNumber="154" year="1921">
+<treatmentCitationGroup id="AB2A11AAFFDEFFCFFC77F823808AF7F3" box="[905,1787,2030,2074]" pageId="5" pageNumber="154">
+<bibCitation id="5E103EE8FFDEFFCFFC77F823808AF7F3" box="[905,1787,2030,2074]" pageId="5" pageNumber="154">
+Muir, Haw. Ent. Soc., Proc. 
+<emphasis id="B94EEA96FFDEFFCFFA67F82383CEF7F3" bold="true" box="[1433,1471,2030,2074]" pageId="5" pageNumber="154">4:</emphasis>
+573, fig. 10, 1921
+</bibCitation>
+</treatmentCitationGroup>
+.
+</treatmentCitation>
+</subSubSection>
+</heading>
+</paragraph>
+<subSubSection id="C320650FFFDEFFCFFDFDF7E584B5F75F" pageId="5" pageNumber="154" type="discussion">
+<paragraph id="8B853684FFDEFFCFFDFDF7E584B5F75F" blockId="5.[450,1848,2030,2534]" pageId="5" pageNumber="154">
+Described from 
+<collectingCountry id="F32D7614FFDEFFCFFCC2F7E585C1F7B9" box="[828,944,2088,2128]" name="Samoa" pageId="5" pageNumber="154">Samoa</collectingCountry>
+and 
+<collectingCountry id="F32D7614FFDEFFCFFBDBF7E5820EF7B9" box="[1061,1151,2088,2128]" name="Niue" pageId="5" pageNumber="154">Niue</collectingCountry>
+. Our collections were from general sweeping on trees and shrubs in several regions. Sometimes only young stages were obtained.
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDEFFCFFD1DF7408024F60F" pageId="5" pageNumber="154" type="materials_examined">
+<paragraph id="8B853684FFDEFFCFFD1DF7408024F60F" blockId="5.[450,1848,2030,2534]" pageId="5" pageNumber="154">
+<materialsCitation id="3B523CD9FFDEFFCFFD1DF740806FF75F" ID-GBIF-Occurrence="3331825305" box="[739,1566,2189,2230]" collectedFrom="on Hibiscus tiliaceus" collectingDate="1936-04-30" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="5" pageNumber="154">
+<location id="8EE5605FFFDEFFCFFD1DF7408555F75F" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE3AF8238024F60F:8EE5605FFFDEFFCFFD1DF7408555F75F" box="[739,804,2189,2230]" name="Piti" pageId="5" pageNumber="154">Piti</location>
+, 
+<date id="FF841044FFDEFFCFFCC0F74085A9F75F" box="[830,984,2189,2230]" pageId="5" pageNumber="154" value="1930-04">
+<collectingDate id="EFC0E9ACFFDEFFCFFCC0F74085A9F75F" box="[830,984,2189,2230]" pageId="5" pageNumber="154" value="1930-04">April 30</collectingDate>
+</date>
+, on 
+<emphasis id="B94EEA96FFDEFFCFFBD2F740831EF75F" box="[1068,1391,2189,2230]" italics="true" pageId="5" pageNumber="154">
+<taxonomicName id="4C3A4D07FFDEFFCFFBD2F7408318F75F" authority=", Usinger" authorityName="Usinger" box="[1068,1385,2189,2230]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="5" pageNumber="154" phylum="Tracheophyta" rank="species" species="tiliaceus">
+<location id="8EE5605FFFDEFFCFFBD2F74082B6F75F" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE3AF8238024F60F:8EE5605FFFDEFFCFFBD2F74082B6F75F" box="[1068,1223,2189,2230]" name="Hibiscus" pageId="5" pageNumber="154">Hibiscus</location>
+tiliaceus
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="26CF5352FFDEFFCFFA7EF7408066F75F" box="[1408,1559,2189,2230]" pageId="5" pageNumber="154">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDEFFCFF9CEF7408550F703" ID-GBIF-Occurrence="3331825310" collectingDate="1936-05-05" collectorName="E. H. Bryan and R. L. Usinger" country="Guam" location="Upi Trail" pageId="5" pageNumber="154">
+<location id="8EE5605FFFDEFFCFF9CEF7408003F75F" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE3AF8238024F60F:8EE5605FFFDEFFCFF9CEF7408003F75F" box="[1584,1650,2189,2230]" name="Upi" pageId="5" pageNumber="154">Upi</location>
+trail, 
+<date id="FF841044FFDEFFCFF916F74087A8F703" pageId="5" pageNumber="154">
+<collectingDate id="EFC0E9ACFFDEFFCFF916F74087A8F703" pageId="5" pageNumber="154">
+May 
+<emphasis id="B94EEA96FFDEFFCFFE3AF7728791F703" box="[452,480,2239,2282]" italics="true" pageId="5" pageNumber="154">5,</emphasis>
+</collectingDate>
+</date>
+<location id="8EE5605FFFDEFFCFFE06F7728416F703" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE3AF8238024F60F:8EE5605FFFDEFFCFFE06F7728416F703" box="[504,615,2239,2282]" name="Bryan" pageId="5" pageNumber="154">Bryan</location>
+, 
+<collectorName id="26CF5352FFDEFFCFFD7AF772856BF703" box="[644,794,2239,2282]" pageId="5" pageNumber="154">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDEFFCFFCC7F77280BBF703" ID-GBIF-Occurrence="3331825346" box="[825,1738,2239,2282]" collectedFrom="on Piper guahamense" collectingDate="1936-05-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="5" pageNumber="154">
+<collectingMunicipality id="6BE1ACFEFFDEFFCFFCC7F77285B0F703" box="[825,961,2239,2282]" pageId="5" pageNumber="154">Dededo</collectingMunicipality>
+, 
+<date id="FF841044FFDEFFCFFC20F772821CF703" box="[990,1133,2239,2282]" pageId="5" pageNumber="154" value="2011-05">
+<collectingDate id="EFC0E9ACFFDEFFCFFC20F772821CF703" box="[990,1133,2239,2282]" pageId="5" pageNumber="154" value="2011-05">May 11</collectingDate>
+</date>
+, on 
+<emphasis id="B94EEA96FFDEFFCFFB37F772806EF703" box="[1225,1567,2239,2282]" italics="true" pageId="5" pageNumber="154">
+<taxonomicName id="4C3A4D07FFDEFFCFFB37F7728068F703" authority=", Swezey" authorityName="Swezey" box="[1225,1561,2239,2282]" class="Magnoliopsida" family="Piperaceae" genus="Piper" kingdom="Plantae" order="Piperales" pageId="5" pageNumber="154" phylum="Tracheophyta" rank="species" species="guahamense">
+<location id="8EE5605FFFDEFFCFFB37F772835CF703" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE3AF8238024F60F:8EE5605FFFDEFFCFFB37F772835CF703" box="[1225,1325,2239,2282]" municipality="Dededo" name="Piper" pageId="5" pageNumber="154">Piper</location>
+guahamense
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="26CF5352FFDEFFCFF9C9F77280B2F703" box="[1591,1731,2239,2282]" pageId="5" pageNumber="154">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDEFFCFF91EF7728429F6A6" ID-GBIF-Occurrence="3331825323" collectedFrom="gully, on Cycas circinalis and Discocalyx megacarpa" collectingDate="1936-05-16" collectorName="O. H. Swezey" country="Guam" location="Mount Chachao" pageId="5" pageNumber="154">
+gully near 
+<collectingMunicipality id="6BE1ACFEFFDEFFCFFDDBF73C8561F6F5" box="[549,784,2289,2332]" pageId="5" pageNumber="154">Mt. Chachao</collectingMunicipality>
+, 
+<date id="FF841044FFDEFFCFFCD0F73C85CFF6F5" box="[814,958,2289,2332]" pageId="5" pageNumber="154" value="2016-05">
+<collectingDate id="EFC0E9ACFFDEFFCFFCD0F73C85CFF6F5" box="[814,958,2289,2332]" pageId="5" pageNumber="154" value="2016-05">May 16</collectingDate>
+</date>
+, on 
+<location id="8EE5605FFFDEFFCFFBE3F73C802CF6F5" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE3AF8238024F60F:8EE5605FFFDEFFCFFBE3F73C802CF6F5" box="[1053,1629,2289,2332]" municipality="Mt. Chachao" name="Cycas circinalis and Discocalyx" pageId="5" pageNumber="154">
+<taxonomicName id="4C3A4D07FFDEFFCFFBE3F73C8345F6F5" box="[1053,1332,2289,2332]" class="Cycadopsida" family="Cycadaceae" genus="Cycas" kingdom="Plantae" order="Cycadales" pageId="5" pageNumber="154" phylum="Tracheophyta" rank="species" species="circinalis">
+<emphasis id="B94EEA96FFDEFFCFFBE3F73C8345F6F5" box="[1053,1332,2289,2332]" italics="true" pageId="5" pageNumber="154">Cycas circinalis</emphasis>
+</taxonomicName>
+and 
+<emphasis id="B94EEA96FFDEFFCFFA62F73C8144F6F5" box="[1436,1845,2289,2332]" italics="true" pageId="5" pageNumber="154">
+<taxonomicName id="4C3A4D07FFDEFFCFFA62F73C815EF6F5" authority=", Swezey" authorityName="Swezey" box="[1436,1839,2289,2332]" class="Magnoliopsida" family="Primulaceae" genus="Discocalyx" kingdom="Plantae" order="Ericales" pageId="5" pageNumber="154" phylum="Tracheophyta" rank="species" species="megacarpa">Discocalyx megacarpa</taxonomicName>
+,
+</emphasis>
+</location>
+<collectorName id="26CF5352FFDEFFCFFE3BF6EE8420F6A6" box="[453,593,2339,2383]" pageId="5" pageNumber="154">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDEFFCFFD93F6EE8062F6A6" ID-GBIF-Occurrence="3331825318" box="[621,1555,2339,2383]" collectedFrom="on Thespesia populnea" collectingDate="1936-05-28" collectorName="O. H. Swezey" country="Guam" location="Umatac" pageId="5" pageNumber="154">
+<collectingMunicipality id="6BE1ACFEFFDEFFCFFD93F6EE8488F6A6" box="[621,761,2339,2383]" pageId="5" pageNumber="154">Umatac</collectingMunicipality>
+, 
+<date id="FF841044FFDEFFCFFCEBF6EE85D5F6A6" box="[789,932,2339,2383]" pageId="5" pageNumber="154" value="1928-05">
+<collectingDate id="EFC0E9ACFFDEFFCFFCEBF6EE85D5F6A6" box="[789,932,2339,2383]" pageId="5" pageNumber="154" value="1928-05">May 28</collectingDate>
+</date>
+, on 
+<emphasis id="B94EEA96FFDEFFCFFBFFF6EE831BF6A6" box="[1025,1386,2339,2383]" italics="true" pageId="5" pageNumber="154">
+<taxonomicName id="4C3A4D07FFDEFFCFFBFFF6EE8315F6A6" authority=", Swezey" authorityName="Swezey" box="[1025,1380,2339,2383]" class="Magnoliopsida" family="Malvaceae" genus="Thespesia" kingdom="Plantae" order="Malvales" pageId="5" pageNumber="154" phylum="Tracheophyta" rank="species" species="populnea">
+<location id="8EE5605FFFDEFFCFFBFFF6EE82DFF6A6" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE3AF8238024F60F:8EE5605FFFDEFFCFFBFFF6EE82DFF6A6" box="[1025,1198,2339,2383]" municipality="Umatac" name="Thespesia" pageId="5" pageNumber="154">Thespesia</location>
+populnea
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="26CF5352FFDEFFCFFA7FF6EE807DF6A6" box="[1409,1548,2339,2383]" pageId="5" pageNumber="154">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDEFFCFF9D7F6EE80C9F668" ID-GBIF-Occurrence="3331825355" collectedFrom="on Thespesia populnea and Calophyllum inophyllum" collectingDate="1936-05-31" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Agat" pageId="5" pageNumber="154">
+<location id="8EE5605FFFDEFFCFF9D7F6EE80F3F6A6" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE3AF8238024F60F:8EE5605FFFDEFFCFF9D7F6EE80F3F6A6" box="[1577,1666,2339,2383]" name="Agat" pageId="5" pageNumber="154">Agat</location>
+, 
+<date id="FF841044FFDEFFCFF961F6EE815EF6A6" box="[1695,1839,2339,2383]" pageId="5" pageNumber="154" value="1931-05">
+<collectingDate id="EFC0E9ACFFDEFFCFF961F6EE815EF6A6" box="[1695,1839,2339,2383]" pageId="5" pageNumber="154" value="1931-05">May 31</collectingDate>
+</date>
+, on 
+<taxonomicName id="4C3A4D07FFDEFFCFFE03F69B8527F668" box="[509,854,2390,2433]" class="Magnoliopsida" family="Malvaceae" genus="Thespesia" kingdom="Plantae" order="Malvales" pageId="5" pageNumber="154" phylum="Tracheophyta" rank="species" species="populnea">
+<emphasis id="B94EEA96FFDEFFCFFE03F69B8527F668" box="[509,854,2390,2433]" italics="true" pageId="5" pageNumber="154">
+<location id="8EE5605FFFDEFFCFFE03F69B84DBF668" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE3AF8238024F60F:8EE5605FFFDEFFCFFE03F69B84DBF668" box="[509,682,2390,2433]" name="Thespesia" pageId="5" pageNumber="154">Thespesia</location>
+populnea
+</emphasis>
+</taxonomicName>
+and 
+<emphasis id="B94EEA96FFDEFFCFFC4CF69B831FF668" box="[946,1390,2390,2433]" italics="true" pageId="5" pageNumber="154">
+<taxonomicName id="4C3A4D07FFDEFFCFFC4CF69B8319F668" authority=", Swezey, Usinger" authorityName="Swezey, Usinger" box="[946,1384,2390,2433]" class="Insecta" family="Araeopidae" genus="Calophyllwni" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="5" pageNumber="154" phylum="Arthropoda" rank="species" species="inophyllum">
+<location id="8EE5605FFFDEFFCFFC4CF69B82E1F668" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE3AF8238024F60F:8EE5605FFFDEFFCFFC4CF69B82E1F668" box="[946,1168,2390,2433]" name="Calophyllwni" pageId="5" pageNumber="154">Calophyllwni</location>
+inophyllum
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="26CF5352FFDEFFCFFA81F69B8075F668" box="[1407,1540,2390,2433]" pageId="5" pageNumber="154">Swezey</collectorName>
+, 
+<collectorName id="26CF5352FFDEFFCFF9E4F69B80C0F668" box="[1562,1713,2390,2433]" pageId="5" pageNumber="154">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDEFFCFF937F69B828CF65D" ID-GBIF-Occurrence="3331825358" collectedFrom="on cane" collectingDate="1936-06-08" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="5" pageNumber="154" specimenCount="1">
+<location id="8EE5605FFFDEFFCFF937F69B878FF65D" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE3AF8238024F60F:8EE5605FFFDEFFCFF937F69B878FF65D" name="Inarajan" pageId="5" pageNumber="154">Inarajan</location>
+, 
+<date id="FF841044FFDEFFCFFDE4F64784E9F65D" box="[538,664,2442,2484]" pageId="5" pageNumber="154">
+<collectingDate id="EFC0E9ACFFDEFFCFFDE4F64784E9F65D" box="[538,664,2442,2484]" pageId="5" pageNumber="154">June 8</collectingDate>
+</date>
+, 
+<specimenCount id="9D3CFD0DFFDEFFCFFD48F64785D4F65D" box="[694,933,2442,2484]" pageId="5" pageNumber="154" type="generic">one specimen</specimenCount>
+on cane, 
+<collectorName id="26CF5352FFDEFFCFFB97F6478287F65D" box="[1129,1270,2442,2484]" pageId="5" pageNumber="154">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDEFFCFFAEAF6478024F60F" ID-GBIF-Occurrence="3331825366" collectedFrom="on Pemphis acidula, more numerous than any of the other records" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="5" pageNumber="154">
+<location id="8EE5605FFFDEFFCFFAEAF64783E0F65D" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE3AF8238024F60F:8EE5605FFFDEFFCFFAEAF64783E0F65D" box="[1300,1425,2442,2484]" name="Fadian" pageId="5" pageNumber="154">Fadian</location>
+, 
+<date id="FF841044FFDEFFCFFA52F6478032F65D" box="[1452,1603,2442,2484]" pageId="5" pageNumber="154" value="2019-08">
+<collectingDate id="EFC0E9ACFFDEFFCFFA52F6478032F65D" box="[1452,1603,2442,2484]" pageId="5" pageNumber="154" value="2019-08">Aug. 19</collectingDate>
+</date>
+, on 
+<emphasis id="B94EEA96FFDEFFCFF960F6478436F60F" italics="true" pageId="5" pageNumber="154">
+<taxonomicName id="4C3A4D07FFDEFFCFF960F6478430F60F" class="Magnoliopsida" family="Lythraceae" genus="Pemphis" kingdom="Plantae" order="Myrtales" pageId="5" pageNumber="154" phylum="Tracheophyta" rank="genus">
+<location id="8EE5605FFFDEFFCFF960F6478149F65D" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE3AF8238024F60F:8EE5605FFFDEFFCFF960F6478149F65D" box="[1694,1848,2442,2484]" name="Pemphis" pageId="5" pageNumber="154">Pemphis</location>
+acidttla
+</taxonomicName>
+,
+</emphasis>
+more numerous than any of the other records, 
+<collectorName id="26CF5352FFDEFFCFFA34F6718021F60F" box="[1482,1616,2492,2534]" pageId="5" pageNumber="154">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

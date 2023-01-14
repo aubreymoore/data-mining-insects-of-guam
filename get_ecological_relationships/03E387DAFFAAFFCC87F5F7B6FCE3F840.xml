@@ -1,0 +1,123 @@
+<document id="1B7131915B7A18843D5FE78432F27332" ID-DOI="http://doi.org/10.5281/zenodo.5159673" ID-GBIF-Dataset="7700299b-eb39-4c24-86fe-2eabb15beda7" ID-Zenodo-Dep="5159673" approvalRequired="1" approvalRequired_for_document="1" checkinTime="1628017110730" checkinUser="carolina" docAuthor="Blair, K. G." docDate="1942" docId="03E387DAFFAAFFCC87F5F7B6FCE3F840" docLanguage="en" docName="InsectsOfGuamI.172.56-60.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Dorcatomiella guamensis Blair, 1942, new species" docType="treatment" docVersion="10" lastPageNumber="60" masterDocId="FFDAFFA2FFAEFFC88657F353FF92FFF8" masterDocTitle="Coleoptera Heteromera From Guam" masterLastPageNumber="60" masterPageNumber="56" pageNumber="60" updateTime="1659987656943" updateUser="annettekang">
+<mods:mods id="EF80B65826FB6A832204B0BE756B37AE" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="F6CA6063152315B5DE81A35D9DA8B859">
+<mods:title id="34350DF4E2F7C67908CBDDBAC06BF31D">Coleoptera Heteromera From Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="94463BA6D579CA776E6ECB8AC18C5535" type="personal">
+<mods:role id="F3C9E30F8449F1F58ABC38B13ABF63AD">
+<mods:roleTerm id="4FCD1F4D52D9199EC3381BAF33333B70">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A5DDAAC4187077394C37B7C6C85EF0FF">Blair, K. G.</mods:namePart>
+<mods:affiliation id="53748CD89943D91123E1EE1CEE73011B">British Museum \ (Natural History), London</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="D406B9769D5384FC660C745FFD441519">text</mods:typeOfResource>
+<mods:relatedItem id="9539F7A8A3F8493B579A2EB6D498569D" type="host">
+<mods:originInfo id="390B1F886D2B9EC0EC571A0E01246FE5">
+<mods:dateIssued id="060DA358D3FB717A367D0B0971C81EFF">1942</mods:dateIssued>
+<mods:dateOther id="75F2628ABFD540B3235D0518FAB4F37D" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="CB18F8FF4470CEB424CF14901A886784">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="55C617D3628B8427EB7065BD33AB0652">
+<mods:placeTerm id="9A47F8693DE400F621C6CA3BB25FBB95">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="D926A59C06F6119D2CD8FD306653B826">
+<mods:title id="931FAA46497A652A52D3BE19ACA9920B">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="829CAF81CAB2ED664CBF4945E5CC66D7">
+<mods:extent id="2CCDB84CA4FAC7E13470CC43187FD0BF" unit="page">
+<mods:start id="9CACF381D82BEBD8F41F33CD91F07002">56</mods:start>
+<mods:end id="1281904718C19E32D96E17F6C8D4A379">60</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="72B69C6741E2DA11B1B39AAFC7D1CC73">book chapter</mods:classification>
+<mods:identifier id="070DB72A709C71A8E1CFC3E0E9A5232B" type="DOI">http://doi.org/10.5281/zenodo.5159673</mods:identifier>
+<mods:identifier id="B58F4EB57918A8593FF645ADBFEAB275" type="GBIF-Dataset">7700299b-eb39-4c24-86fe-2eabb15beda7</mods:identifier>
+<mods:identifier id="28C0310518806C4D12209AA3935B8A88" type="Zenodo-Dep">5159673</mods:identifier>
+</mods:mods>
+<treatment id="03E387DAFFAAFFCC87F5F7B6FCE3F840" ID-DOI="http://doi.org/10.5281/zenodo.5157204" ID-GBIF-Taxon="183919373" ID-Zenodo-Dep="5157204" LSID="urn:lsid:plazi:treatment:03E387DAFFAAFFCC87F5F7B6FCE3F840" httpUri="http://treatment.plazi.org/id/03E387DAFFAAFFCC87F5F7B6FCE3F840" lastPageNumber="60" pageId="4" pageNumber="60">
+<subSubSection id="C3506547FFAAFFCC87F5F7B6FBFAFAF6" box="[418,1128,1253,1294]" pageId="4" pageNumber="60" type="nomenclature">
+<paragraph id="8BF536CCFFAAFFCC87F5F7B6FBFAFAF6" blockId="4.[418,1813,1253,1578]" box="[418,1128,1253,1294]" pageId="4" pageNumber="60">
+<emphasis id="B93EEADEFFAAFFCC87F5F7B6FCE8FAF6" bold="true" box="[418,890,1253,1294]" pageId="4" pageNumber="60">
+<taxonomicName id="4C4A4D4FFFAAFFCC87F5F7B6FCE1FAF6" authorityName="Blair" box="[418,883,1253,1294]" class="Insecta" family="Ptinidae" genus="Dorcatomiella" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="4" pageNumber="60" phylum="Arthropoda" rank="species" species="guamensis" status="new species">Dorcatomiella guamensis</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="A20D57A5FFAAFFCC85DCF7B6FBF1FAF6" box="[907,1123,1253,1294]" pageId="4" pageNumber="60" rank="species">new species</taxonomicNameLabel>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAAFFCC87B3F64CF9E1F9D2" pageId="4" pageNumber="60" type="description">
+<paragraph id="8BF536CCFFAAFFCC87B3F64CF9E1F9D2" blockId="4.[418,1813,1253,1578]" pageId="4" pageNumber="60">Unicolorous pitchy brown, with sericeous pubescence forming light and dark patches according to the direction of the hairs. On the thorax this radiates from the mid point of each side of the base forming a basal light patch on each side and a feeble median crest. On the elytra it is directed mainly backwards but with a transverse outward sweep in the middle of the disk and another near the apex. Basal to the first of these, the hairs are mostly dull golden with silvery hairs intermixed, and between the two transverse sweeps entirely dull golden forming vague dark patches on the elytra. Length, 1.5 mm.</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAAFFCC87B4F51DF9E3F918" pageId="4" pageNumber="60" type="materials_examined">
+<paragraph id="8BF536CCFFAAFFCC87B4F51DF9E3F918" blockId="4.[418,1812,1614,1976]" pageId="4" pageNumber="60">
+<materialsCitation id="3B223C91FFAAFFCC87B4F51DF881F981" ID-GBIF-Occurrence="3331241319" box="[483,1811,1614,1657]" collectedFrom="ex Hibiscus tiliaceus (pago)" collectingDate="1936-04-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="60" specimenCount="2">
+<collectingMunicipality id="6B91ACB6FFAAFFCC87B4F51DFDB7F981" box="[483,549,1614,1657]" pageId="4" pageNumber="60">Piti</collectingMunicipality>
+, 
+<date id="FFF4100CFFAAFFCC841DF51DFD62F981" box="[586,752,1614,1657]" pageId="4" pageNumber="60" value="1930-04">
+<collectingDate id="EFB0E9E4FFAAFFCC841DF51DFD62F981" box="[586,752,1614,1657]" pageId="4" pageNumber="60" value="1930-04">April 30</collectingDate>
+</date>
+, 
+<specimenCount id="9D4CFD45FFAAFFCC8542F51DFCADF981" box="[789,831,1614,1657]" pageId="4" pageNumber="60" type="generic">ex</specimenCount>
+<emphasis id="B93EEADEFFAAFFCC850CF51DFAA4F981" box="[859,1334,1614,1657]" italics="true" pageId="4" pageNumber="60">
+<taxonomicName id="4C4A4D4FFFAAFFCC850CF51DFB0DF981" box="[859,1183,1614,1657]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="4" pageNumber="60" phylum="Tracheophyta" rank="species" species="tiliaceus">
+<location id="8E956017FFAAFFCC850CF51DFC67F981" LSID="urn:lsid:plazi:treatment:03E387DAFFAAFFCC87F5F7B6FCE3F840:8E956017FFAAFFCC850CF51DFC67F981" box="[859,1013,1614,1657]" municipality="Piti" name="Hibiscus" pageId="4" pageNumber="60">Hibiscus</location>
+tiliaceus
+</taxonomicName>
+(pago)
+</emphasis>
+<location id="8E956017FFAAFFCC830CF51DFA73F981" LSID="urn:lsid:plazi:treatment:03E387DAFFAAFFCC87F5F7B6FCE3F840:8E956017FFAAFFCC830CF51DFA73F981" box="[1371,1505,1614,1657]" municipality="Piti" name="Swezey" pageId="4" pageNumber="60">Swezey</location>
+, two examples;
+</materialsCitation>
+<materialsCitation id="3B223C91FFAAFFCC87F3F5D2FB12F955" ID-GBIF-Occurrence="3331241321" box="[420,1152,1665,1709]" collectingDate="1936-05-06" collectorName="R. L. Usinger" country="Guam" location="Inarajan" pageId="4" pageNumber="60" specimenCount="1">
+<location id="8E956017FFAAFFCC87F3F5D2FDACF955" LSID="urn:lsid:plazi:treatment:03E387DAFFAAFFCC87F5F7B6FCE3F840:8E956017FFAAFFCC87F3F5D2FDACF955" box="[420,574,1665,1709]" name="Inarajan" pageId="4" pageNumber="60">Inarajan</location>
+, 
+<date id="FFF4100CFFAAFFCC840DF5D2FD42F955" box="[602,720,1665,1709]" pageId="4" pageNumber="60">
+<collectingDate id="EFB0E9E4FFAAFFCC840DF5D2FD42F955" box="[602,720,1665,1709]" pageId="4" pageNumber="60">May 6</collectingDate>
+</date>
+, 
+<location id="8E956017FFAAFFCC84BEF5D2FCEBF955" LSID="urn:lsid:plazi:treatment:03E387DAFFAAFFCC87F5F7B6FCE3F840:8E956017FFAAFFCC84BEF5D2FCEBF955" box="[745,889,1665,1709]" name="Usinger" pageId="4" pageNumber="60">Usinger</location>
+, one example;
+</materialsCitation>
+<materialsCitation id="3B223C91FFAAFFCC82C2F5D2FCA3F918" ID-GBIF-Occurrence="3331241303" collectedFrom="from Cycas" collectingDate="1936-05-16" collectorName="O. H. Swezey" country="Guam" location="Mount Chachao" pageId="4" pageNumber="60" specimenCount="1">
+<collectingMunicipality id="6B91ACB6FFAAFFCC82C2F5D2FAEFF955" box="[1173,1405,1665,1709]" pageId="4" pageNumber="60">Mt. Chachao</collectingMunicipality>
+, 
+<date id="FFF4100CFFAAFFCC83C1F5D2F9B0F955" box="[1430,1570,1665,1709]" pageId="4" pageNumber="60" value="2016-05">
+<collectingDate id="EFB0E9E4FFAAFFCC83C1F5D2F9B0F955" box="[1430,1570,1665,1709]" pageId="4" pageNumber="60" value="2016-05">May 16</collectingDate>
+</date>
+, from 
+<taxonomicName id="4C4A4D4FFFAAFFCC80F1F5D2FDB8F918" authority=", Swezey" authorityName="Swezey" class="Cycadopsida" family="Cycadaceae" genus="Cycas" kingdom="Plantae" order="Cycadales" pageId="4" pageNumber="60" phylum="Tracheophyta" rank="genus">
+<emphasis id="B93EEADEFFAAFFCC80F1F5D2F881F955" box="[1702,1811,1665,1709]" italics="true" pageId="4" pageNumber="60">
+<location id="8E956017FFAAFFCC80F1F5D2F89FF955" LSID="urn:lsid:plazi:treatment:03E387DAFFAAFFCC87F5F7B6FCE3F840:8E956017FFAAFFCC80F1F5D2F89FF955" box="[1702,1805,1665,1709]" municipality="Mt. Chachao" name="Cycas" pageId="4" pageNumber="60">Cycas</location>
+,
+</emphasis>
+<location id="8E956017FFAAFFCC87F2F5E6FDB8F918" LSID="urn:lsid:plazi:treatment:03E387DAFFAAFFCC87F5F7B6FCE3F840:8E956017FFAAFFCC87F2F5E6FDB8F918" box="[421,554,1717,1760]" municipality="Mt. Chachao" name="Swezey" pageId="4" pageNumber="60">Swezey</location>
+</taxonomicName>
+, one example;
+</materialsCitation>
+<materialsCitation id="3B223C91FFAAFFCC8513F5E6F9E3F918" ID-GBIF-Occurrence="3331241310" box="[836,1649,1717,1760]" collectingDate="1936-06-12" collectorName="R. L. Usinger" country="Guam" location="Barrigada" pageId="4" pageNumber="60" specimenCount="8">
+<collectingMunicipality id="6B91ACB6FFAAFFCC8513F5E6FC65F918" box="[836,1015,1717,1760]" pageId="4" pageNumber="60">Barrigada</collectingMunicipality>
+, 
+<date id="FFF4100CFFAAFFCC8258F5E6FB0DF918" box="[1039,1183,1717,1760]" pageId="4" pageNumber="60" value="2012-06">
+<collectingDate id="EFB0E9E4FFAAFFCC8258F5E6FB0DF918" box="[1039,1183,1717,1760]" pageId="4" pageNumber="60" value="2012-06">June 12</collectingDate>
+</date>
+, 
+<location id="8E956017FFAAFFCC82EFF5E6FADAF918" LSID="urn:lsid:plazi:treatment:03E387DAFFAAFFCC87F5F7B6FCE3F840:8E956017FFAAFFCC82EFF5E6FADAF918" box="[1208,1352,1717,1760]" municipality="Barrigada" name="Usinger" pageId="4" pageNumber="60">Usinger</location>
+, eight examples.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAAFFCC87B6F5A2FCE3F840" pageId="4" pageNumber="60" type="discussion">
+<paragraph id="8BF536CCFFAAFFCC87B6F5A2FCE3F840" blockId="4.[418,1812,1614,1976]" pageId="4" pageNumber="60">
+Differs from 
+<taxonomicName id="4C4A4D4FFFAAFFCC84B6F5A2FB3EF8E5" authority="Blair" authorityName="Blair" box="[737,1196,1777,1821]" class="Insecta" family="Ptinidae" genus="Dorcatomiella" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="4" pageNumber="60" phylum="Arthropoda" rank="species" species="sericeovariegata">
+<emphasis id="B93EEADEFFAAFFCC84B6F5A2FBAEF8E5" box="[737,1084,1777,1821]" italics="true" pageId="4" pageNumber="60">D. sericeovariegata</emphasis>
+Blair
+</taxonomicName>
+, from Tahiti, in its considerably smaller size and the different pubescent pattern; the antennae also differ, the first joint of the club being thickened on basal two thirds, thence acuminate to apex in the 
+<collectingCountry id="F35D765CFFAAFFCC842FF4DDFD73F840" box="[632,737,1934,1976]" name="Guam" pageId="4" pageNumber="60">Guam</collectingCountry>
+species.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

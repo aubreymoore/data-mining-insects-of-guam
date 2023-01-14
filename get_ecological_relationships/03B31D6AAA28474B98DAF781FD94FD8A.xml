@@ -1,0 +1,208 @@
+<document id="9772EE3E57048F3A9B44EF7EDDA660F2" ID-DOI="http://doi.org/10.5281/zenodo.5160043" ID-GBIF-Dataset="9298158c-3c02-4ba2-ab8a-87c7f9c8e70b" ID-Zenodo-Dep="5160043" checkinTime="1627487837253" checkinUser="admin" docAuthor="Swezey, O. H." docDate="1942" docId="03B31D6AAA28474B98DAF781FD94FD8A" docLanguage="en" docName="InsectsOfGuamI.172.30-38.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Biship Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Terias hecabe" docType="treatment" docVersion="15" lastPageNumber="36" masterDocId="FF8A6512AA2D474D9945FF80FFCFFFAC" masterDocTitle="Lepidoptera, Butterflies of Guam" masterLastPageNumber="38" masterPageNumber="31" pageNumber="36" updateTime="1664293270315" updateUser="annettekang">
+<mods:mods id="46F34BF34BEE06F5079329B49ECA8252" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="6E964C83BFBC0E5ED7671FC97E5F9B0A">
+<mods:title id="9F3B498BF78C707DDC9CBD3F70E3DB3B">Lepidoptera, Butterflies of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="382FBB97A7005D077EC8F550DC0C566D" type="personal">
+<mods:role id="88DFC0B00F456F21528B2C20252CE390">
+<mods:roleTerm id="6C30BA5D2758F2CAFCC9D68762B3CD34">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3D8CFD930F7AE8FDE213387F600488BC">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="2A1BA44F9E0E81C528B2538532D7165E">Experiment Station Hawaiian Sugar Planters' Associantion, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="0ABD0DD9A848A2D6221E27A779C13F2B">text</mods:typeOfResource>
+<mods:relatedItem id="25A27FDFC564988246F162F3FBBEA184" type="host">
+<mods:originInfo id="70B2A7EDAF603DF18E757C7FC8B65F9D">
+<mods:dateIssued id="301E71F31052C111117A01562B754F08">1942</mods:dateIssued>
+<mods:dateOther id="16B8C5E07FECA5A496128ADFB57ABB68" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="5FFC4374B0C5D24FD84A6FAA6D9D29B3">Bernice P. Biship Museum</mods:publisher>
+<mods:place id="B5E500E4516E419F221AC0AEB2750CB7">
+<mods:placeTerm id="16FAA5EBF16B68660B0F8E50B1F606C7">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5B29FA584EA981DF0673C1E16FB227B3">
+<mods:title id="685A243FCBF6B97EBCF4115133B59187">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="A1D65F647590995D0D06B447E3F011A5">
+<mods:extent id="9FEEEC77E4EC3BA4F3918AF33A988734" unit="page">
+<mods:start id="C7775433892E7C6C8C9C58270400630B">31</mods:start>
+<mods:end id="EB09DF9A55FAD0E5D20089A78EC3287A">38</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="BA1953B49EA177D1BC69CAB6415B99A5">book chapter</mods:classification>
+<mods:identifier id="645994A5EFC86E9AF1164646D85E2555" type="DOI">http://doi.org/10.5281/zenodo.5160043</mods:identifier>
+<mods:identifier id="81F7D0FB0E0DF58935330F61290B3F6C" type="GBIF-Dataset">9298158c-3c02-4ba2-ab8a-87c7f9c8e70b</mods:identifier>
+<mods:identifier id="03A33B8ADC5174ED75BA9FA463F38866" type="Zenodo-Dep">5160043</mods:identifier>
+</mods:mods>
+<subSection id="E295B597AA28474B98DAF781FD94FD8A" lastPageId="6" lastPageNumber="37" pageId="5" pageNumber="36" type="multiple">
+<treatment id="03B31D6AAA28474B98DAF781FD94FD8A" ID-DOI="http://doi.org/10.5281/zenodo.5508234" ID-GBIF-Taxon="187975397" ID-Zenodo-Dep="5508234" LSID="urn:lsid:plazi:treatment:03B31D6AAA28474B98DAF781FD94FD8A" httpUri="http://treatment.plazi.org/id/03B31D6AAA28474B98DAF781FD94FD8A" lastPageId="6" lastPageNumber="36" pageId="5" pageNumber="36">
+<subSubSection id="C300FFF7AA28474898DAF781FC00F78A" box="[415,975,2045,2086]" pageId="5" pageNumber="36" type="nomenclature">
+<paragraph id="8BA5AC7CAA28474898DAF781FC00F78A" blockId="5.[414,1809,2045,2568]" box="[415,975,2045,2086]" pageId="5" pageNumber="36">
+<heading id="D0ED1B10AA28474898DAF781FC00F78A" box="[415,975,2045,2086]" fontSize="8" level="2" pageId="5" pageNumber="36" reason="4">
+12. 
+<taxonomicName id="4C1AD7FFAA28474898B5F87FFC0EF78C" authority="(Linnaeus)" baseAuthorityName="Linnaeus" box="[496,961,2045,2086]" class="Insecta" family="Pieridae" genus="Terias" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="36" phylum="Arthropoda" rank="species" species="hecabe">Terias hecabe (Linnaeus)</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C300FFF7AA284748989EF7B2F8C1F72D" pageId="5" pageNumber="36" type="reference_group">
+<paragraph id="8BA5AC7CAA284748989EF7B2FA59F7E3" blockId="5.[414,1809,2045,2568]" box="[475,1430,2094,2137]" pageId="5" pageNumber="36">
+<treatmentCitationGroup id="AB0A8B52AA284748989EF7B2FA59F7E3" box="[475,1430,2094,2137]" pageId="5" pageNumber="36">
+<treatmentCitation id="0ABB8A6DAA284748989EF7B2FA42F7E3" author="Linnaeus" box="[475,1421,2094,2137]" page="763" pageId="5" pageNumber="36" year="1767">
+<taxonomicName id="4C1AD7FFAA284748989EF7B2FC43F7FE" authority="Linnaeus" authorityName="Linnaeus" box="[475,908,2098,2137]" class="Insecta" family="Pieridae" genus="Papilio" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="36" phylum="Arthropoda" rank="species" species="hecabe">
+Papilio hecabe 
+<bibCitation id="5E30A410AA2847489BA9F7B2FA42F7E3" author="Linnaeus" box="[748,1421,2094,2136]" pageId="5" pageNumber="36" pagination="763" part="2" title="Syst. Nat" type="book" year="1767">
+<author id="53A74499AA2847489BA9F7B2FC43F7FE" box="[748,908,2098,2130]" pageId="5" pageNumber="36">Linnaeus</author>
+, 
+<title id="F91E474AAA2847489AECF7B0FB9DF7FC" box="[937,1106,2096,2136]" pageId="5" pageNumber="36">Syst. Nat</title>
+. 1 (
+<part id="FFBE06E1AA2847489DDCF7B0FB64F7E1" box="[1177,1195,2096,2125]" pageId="5" pageNumber="36">2</part>
+) z 
+<pagination id="B2D35288AA2847489DA7F7AEFAD1F7E3" box="[1250,1310,2094,2127]" pageId="5" pageNumber="36" type="pagination">763</pagination>
+, 
+<year id="FFB2ED2FAA2847489C78F7AEFA42F7E3" box="[1341,1421,2094,2127]" pageId="5" pageNumber="36">1767</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<treatmentCitationGroup id="AB0A8B52AA284748989BF7E5FBE3F745" pageId="5" pageNumber="36">
+<paragraph id="8BA5AC7CAA284748989BF7E5F8C1F72D" blockId="5.[414,1809,2045,2568]" box="[478,1806,2144,2188]" pageId="5" pageNumber="36">
+<treatmentCitation id="0ABB8A6DAA284748989BF7E5F8CBF72D" author="Walker" box="[478,1796,2144,2188]" page="464" pageId="5" pageNumber="36" year="1895">
+<taxonomicName id="4C1AD7FFAA284748989BF7E5FB84F72F" authority="( Linnaeus ) Walker" authorityName="Walker" baseAuthorityName="Linnaeus" box="[478,1099,2148,2188]" class="Insecta" family="Pieridae" genus="Terias" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="36" phylum="Arthropoda" rank="species" species="hecabe">
+Terias hecabe (Linnaeus) 
+<bibCitation id="5E30A410AA2847489A82F7E4F8CBF72D" author="Walker" box="[967,1796,2144,2185]" journalOrPublisher="Ent. Soc. London, Trans" pageId="5" pageNumber="36" pagination="464" type="book" year="1895">
+<author id="53A74499AA2847489A82F7E4FB84F72F" box="[967,1099,2148,2179]" pageId="5" pageNumber="36">Walker</author>
+, 
+<journalOrPublisher id="51DBA6B0AA2847489D2CF7E1F9F9F72D" box="[1129,1590,2145,2183]" pageId="5" pageNumber="36">Ent. Soc. London, Trans</journalOrPublisher>
+., 
+<pagination id="B2D35288AA2847489F1CF7E2F958F72D" box="[1625,1687,2146,2177]" pageId="5" pageNumber="36">464</pagination>
+, 
+<year id="FFB2ED2FAA2847489FF2F7E0F8CBF72D" box="[1719,1796,2144,2177]" pageId="5" pageNumber="36">1895</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</paragraph>
+<subSubSection id="C300FFF7AA2847489B5FF719FBE3F745" pageId="5" pageNumber="36" type="description">
+<treatmentCitation id="0ABB8A6DAA2847489B5FF719FBECF745" author="Kershaw" page="97" pageId="5" pageNumber="36" year="1907">
+<bibCitation id="5E30A410AA2847489B5FF719FBE3F745" author="Kershaw" journalOrPublisher="Butterflies of Hong Kong" pageId="5" pageNumber="36" pagination="97" type="book" year="1907">
+<paragraph id="8BA5AC7CAA2847489B5FF719F8C1F711" blockId="5.[414,1809,2045,2568]" box="[538,1806,2197,2239]" pageId="5" pageNumber="36">
+<author id="53A74499AA2847489B5FF719FD72F714" box="[538,701,2201,2232]" pageId="5" pageNumber="36">Kershaw</author>
+, 
+<journalOrPublisher id="51DBA6B0AA2847489B9BF718FB05F712" box="[734,1226,2199,2239]" pageId="5" pageNumber="36">
+Butterﬂies of 
+<collectingCountry id="F30DECECAA2847489AADF717FB05F712" box="[1000,1226,2199,2239]" name="Hong Kong" pageId="5" pageNumber="36">Hong Kong</collectingCountry>
+</journalOrPublisher>
+, 
+<pagination id="B2D35288AA2847489DADF715FADEF719" box="[1256,1297,2197,2229]" pageId="5" pageNumber="36">97</pagination>
+, pl. 9, ﬁg. 21; pl. 12, ﬁgs.
+</paragraph>
+<paragraph id="8BA5AC7CAA2847489B59F74BFBE3F745" blockId="5.[414,1809,2045,2568]" box="[540,1068,2250,2292]" pageId="5" pageNumber="36">
+7, 8; pl. 3a, ﬁgs. 19, 20, 
+<year id="FFB2ED2FAA2847489A90F74AFBECF745" box="[981,1059,2250,2281]" pageId="5" pageNumber="36">1907</year>
+.
+</paragraph>
+</bibCitation>
+</treatmentCitation>
+</subSubSection>
+</treatmentCitationGroup>
+</subSubSection>
+<subSubSection id="C300FFF7AA284748989BF688FC34F638" pageId="5" pageNumber="36" type="materials_examined">
+<paragraph id="8BA5AC7CAA284748989BF688FC34F638" blockId="5.[414,1809,2045,2568]" pageId="5" pageNumber="36">
+<materialsCitation id="3B72A621AA284748989BF688FC30F682" ID-GBIF-Occurrence="3913379301" box="[478,1023,2311,2351]" collectingDate="1936-04-22" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="5" pageNumber="36">
+<location id="8EC5FAA7AA284748989BF688FD7DF681" LSID="urn:lsid:plazi:treatment:03B31D6AAA28474B98DAF781FD94FD8A:8EC5FAA7AA284748989BF688FD7DF681" box="[478,690,2312,2349]" name="Ritidian Pt." pageId="5" pageNumber="36">Ritidian Pt.</location>
+, 
+<date id="FFA48ABCAA2847489B94F687FCA5F689" box="[721,874,2311,2351]" pageId="5" pageNumber="36" value="1922-04">
+<collectingDate id="EFE07354AA2847489B94F687FCA5F689" box="[721,874,2311,2351]" pageId="5" pageNumber="36" value="1922-04">April 22</collectingDate>
+</date>
+, 
+<collectorName id="26EFC9AAAA2847489ACCF687FC3AF682" box="[905,1013,2311,2350]" pageId="5" pageNumber="36">Bryan</collectorName>
+,
+</materialsCitation>
+<materialsCitation id="3B72A621AA2847489D56F686FA8DF682" ID-GBIF-Occurrence="3913379333" box="[1043,1346,2309,2350]" collectingDate="1936-08-06" collectorName="O. H. Swezey" country="Guam" location="Ritidian Point" pageId="5" pageNumber="36">
+<date id="FFA48ABCAA2847489D56F686FB40F688" box="[1043,1167,2309,2350]" pageId="5" pageNumber="36">
+<collectingDate id="EFE07354AA2847489D56F686FB40F688" box="[1043,1167,2309,2350]" pageId="5" pageNumber="36">Aug. 6</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA2847489DEAF685FAFDF682" LSID="urn:lsid:plazi:treatment:03B31D6AAA28474B98DAF781FD94FD8A:8EC5FAA7AA2847489DEAF685FAFDF682" box="[1199,1330,2309,2350]" name="Swezey" pageId="5" pageNumber="36">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="3B72A621AA2847489C13F685F8C0F680" ID-GBIF-Occurrence="3913379309" box="[1366,1807,2308,2349]" collectingDate="1936-05-04" collectorName="R. L. Usinger" country="Guam" location="Agana" pageId="5" pageNumber="36">
+<collectingMunicipality id="6BC13606AA2847489C13F685FA07F680" box="[1366,1480,2309,2348]" pageId="5" pageNumber="36">Agana</collectingMunicipality>
+, 
+<date id="FFA48ABCAA2847489CA2F685F994F68F" box="[1511,1627,2308,2349]" pageId="5" pageNumber="36">
+<collectingDate id="EFE07354AA2847489CA2F685F994F68F" box="[1511,1627,2308,2349]" pageId="5" pageNumber="36">May 4</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA2847489F3CF685F8C9F680" LSID="urn:lsid:plazi:treatment:03B31D6AAA28474B98DAF781FD94FD8A:8EC5FAA7AA2847489F3CF685F8C9F680" box="[1657,1798,2309,2348]" municipality="Agana" name="Usinger" pageId="5" pageNumber="36">Usinger</location>
+,
+</materialsCitation>
+<materialsCitation id="3B72A621AA28474898E5F6BDFDE0F6CD" ID-GBIF-Occurrence="3913379305" box="[416,559,2362,2404]" collectingDate="1936-05-15" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="5" pageNumber="36">
+<date id="FFA48ABCAA28474898E5F6BDFDEBF6F6" box="[416,548,2362,2404]" pageId="5" pageNumber="36" value="2015-05">
+<collectingDate id="EFE07354AA28474898E5F6BDFDEBF6F6" box="[416,548,2362,2404]" pageId="5" pageNumber="36" value="2015-05">May 15</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B72A621AA2847489B7AF6BAFDBEF6CC" ID-GBIF-Occurrence="3913379336" box="[575,625,2362,2400]" collectingDate="1936-05-25" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="5" pageNumber="36">25,</materialsCitation>
+<materialsCitation id="3B72A621AA2847489BC1F6B9FC0FF6CE" ID-GBIF-Occurrence="3913379332" box="[644,960,2361,2403]" collectingDate="1936-09-11" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="5" pageNumber="36">
+<date id="FFA48ABCAA2847489BC1F6B9FCC1F6F5" box="[644,782,2361,2403]" pageId="5" pageNumber="36" value="2011-09">
+<collectingDate id="EFE07354AA2847489BC1F6B9FCC1F6F5" box="[644,782,2361,2403]" pageId="5" pageNumber="36" value="2011-09">Sept. 11</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA2847489A69F6BAFC7FF6CE" LSID="urn:lsid:plazi:treatment:03B31D6AAA28474B98DAF781FD94FD8A:8EC5FAA7AA2847489A69F6BAFC7FF6CE" box="[812,944,2362,2402]" name="Swezey" pageId="5" pageNumber="36">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="3B72A621AA2847489A97F6B9FA70F6F1" ID-GBIF-Occurrence="3352147357" box="[978,1471,2361,2400]" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="5" pageNumber="36">
+<collectingMunicipality id="6BC13606AA2847489A97F6B9FB4BF6F5" box="[978,1156,2361,2393]" pageId="5" pageNumber="36">Machanao</collectingMunicipality>
+, 
+<date id="FFA48ABCAA2847489DD8F6B9FADEF6F4" box="[1181,1297,2361,2400]" pageId="5" pageNumber="36">
+<collectingDate id="EFE07354AA2847489DD8F6B9FADEF6F4" box="[1181,1297,2361,2400]" pageId="5" pageNumber="36">june 4</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA2847489C68F6B9FA60F6CC" LSID="urn:lsid:plazi:treatment:03B31D6AAA28474B98DAF781FD94FD8A:8EC5FAA7AA2847489C68F6B9FA60F6CC" box="[1325,1455,2361,2400]" municipality="Machanao" name="Swezey" pageId="5" pageNumber="36">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="3B72A621AA2847489C95F6B8FDFCF63A" ID-GBIF-Occurrence="3913379307" collectingDate="1936-07-06" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="5" pageNumber="36">
+<collectingMunicipality id="6BC13606AA2847489C95F6B8F94FF6F3" box="[1488,1664,2360,2399]" pageId="5" pageNumber="36">Barrigada</collectingMunicipality>
+, 
+<date id="FFA48ABCAA2847489FDDF6B8F8CAF6FA" box="[1688,1797,2360,2399]" pageId="5" pageNumber="36">
+<collectingDate id="EFE07354AA2847489FDDF6B8F8CAF6FA" box="[1688,1797,2360,2399]" pageId="5" pageNumber="36">july 6</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA28474898E5F6F0FDEDF63A" LSID="urn:lsid:plazi:treatment:03B31D6AAA28474B98DAF781FD94FD8A:8EC5FAA7AA28474898E5F6F0FDEDF63A" box="[416,546,2416,2454]" municipality="Barrigada" name="Swezey" pageId="5" pageNumber="36">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="3B72A621AA2847489B03F6EFFCD5F63F" ID-GBIF-Occurrence="3913379331" box="[582,794,2414,2452]" collectingDate="1936-10-06" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="36">
+<collectingMunicipality id="6BC13606AA2847489B03F6EFFD49F621" box="[582,646,2415,2445]" pageId="5" pageNumber="36">Piti</collectingMunicipality>
+, 
+<date id="FFA48ABCAA2847489BE7F6EFFCDFF621" box="[674,784,2414,2446]" pageId="5" pageNumber="36">
+<collectingDate id="EFE07354AA2847489BE7F6EFFCDFF621" box="[674,784,2414,2446]" pageId="5" pageNumber="36">Oct. 6</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B72A621AA2847489A6AF6EEFC3DF638" ID-GBIF-Occurrence="3913379341" box="[815,1010,2413,2452]" collectingDate="1936-10-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="36">
+12, 
+<location id="8EC5FAA7AA2847489A35F6EDFC3DF638" LSID="urn:lsid:plazi:treatment:03B31D6AAA28474B98DAF781FD94FD8A:8EC5FAA7AA2847489A35F6EDFC3DF638" box="[880,1010,2413,2452]" name="Swezey" pageId="5" pageNumber="36">Swezey</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C300FFF7AA28474B9898F62BFD94FD8A" lastPageId="6" lastPageNumber="37" pageId="5" pageNumber="36" type="description">
+<paragraph id="8BA5AC7CAA28474B9898F62BFD94FD8A" blockId="5.[414,1809,2045,2568]" lastBlockId="6.[302,1699,356,550]" lastPageId="6" lastPageNumber="37" pageId="5" pageNumber="36">
+This yellow butterﬂy, including its variations, has a wide distribution in the tropics and Paciﬁc islands, from 
+<collectingCountry id="F30DECECAA2847489ABEF65EFB99F651" box="[1019,1110,2526,2557]" name="India" pageId="5" pageNumber="36">India</collectingCountry>
+to japan, and 
+<collectingCountry id="F30DECECAA2847489C2AF65CFA2BF650" box="[1391,1508,2524,2556]" name="Samoa" pageId="5" pageNumber="36">Samoa</collectingCountry>
+to 
+<collectingCountry id="F30DECECAA2847489F6DF65CF903F657" box="[1576,1740,2524,2555]" name="Australia" pageId="5" pageNumber="36">Australia</collectingCountry>
+. It was not previously recorded from 
+<collectingCountry id="F30DECECAA2B474B9AEAFEE4FBD7FE28" box="[943,1048,356,388]" name="Guam" pageId="6" pageNumber="37">Guam</collectingCountry>
+. We reared it from the foliage of Pithecolobium dulce, and not from any other leguminous plant, although in other countries, its larvae feed on various legumes. The butterﬂies were common everywhere.
+</paragraph>
+</subSubSection>
+</treatment>
+</subSection>
+</document>

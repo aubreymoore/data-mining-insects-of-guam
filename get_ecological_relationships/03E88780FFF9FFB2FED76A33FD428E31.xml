@@ -1,0 +1,131 @@
+<document id="2D728C28232ECC8C59F2CF3C556FD15B" ID-DOI="http://doi.org/10.5281/zenodo.5169330" ID-GBIF-Dataset="11d04f7a-e744-4ac9-b0af-3cbf68f8cc92" ID-Zenodo-Dep="5169330" checkinTime="1628021447149" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="03E88780FFF9FFB2FED76A33FD428E31" docLanguage="en" docName="InsectsOfGuamII.189.201-210.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Haltichella swezeyi Fullaway, 1946, new species" docType="treatment" docVersion="8" lastPageNumber="202" masterDocId="FFD1FFF8FFF9FFB3FFC86E5DFFBE8B32" masterDocTitle="Hymenoptera, New Species Of Guam Chalcidoidea" masterLastPageNumber="210" masterPageNumber="201" pageNumber="201" updateTime="1658154551490" updateUser="annettekang">
+<mods:mods id="02A698D46CF67F86E00CE6D511093368" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B9932632D5955CB831320D68F0733A71">
+<mods:title id="D8BF03E81F1FE6BDE234B7B273BD9DA1">Hymenoptera, New Species Of Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="0A99C2EA57667AEFCDC8EFECA3495A03" type="personal">
+<mods:role id="1A06F047066E1B009B61FBB2CB551984">
+<mods:roleTerm id="F27C5C5C833FCEBE471B1792B50A57FA">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4E51A150BF794A921D8670F002A2F163">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="B01FC127B662CE72744F3FFDB47A3FBC">Board of Agriculture and Forestry Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="3E64C0D6D0592068C70784FF0518921B">text</mods:typeOfResource>
+<mods:relatedItem id="1AB79B22F7EA1CE1C592751DBA839204" type="host">
+<mods:originInfo id="D839C332D1F196654FF6146CC37F1F09">
+<mods:dateIssued id="C725B41D867725655192D3FC776C4438">1946</mods:dateIssued>
+<mods:dateOther id="E59EB7EBCC48184FEBFE4C1117F82DF5" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="682525B47567EB07681453DA43D97228">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="F645D3F48EDD8C78F1E8C93FE2378FF0">
+<mods:placeTerm id="EA736130428D3FE53AAD54A4AE8C4744">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="1E2B427B0E03171CB9CC55BAF50C4C24">
+<mods:title id="0DC03C878D71D9C66CA9EFB63FF0E44D">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="696E094A0E44AD6BA2E4DC8AAE293198">
+<mods:extent id="7B9E71645911F8E59B0A47FA6C5D466D" unit="page">
+<mods:start id="267D0DC3A6BECD57720174A2512EA4EE">201</mods:start>
+<mods:end id="9D3E3B4C812495EF2DB05653EE2D74D1">210</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="67B687696391EF0179A29E547EFD8F09">book chapter</mods:classification>
+<mods:identifier id="B12501D44BE84C3702A7EF65008979AA" type="DOI">http://doi.org/10.5281/zenodo.5169330</mods:identifier>
+<mods:identifier id="5D616D00114684F13CB810A4624B91B5" type="GBIF-Dataset">11d04f7a-e744-4ac9-b0af-3cbf68f8cc92</mods:identifier>
+<mods:identifier id="E1B33BEA416A7519C498FFA53405EBB0" type="Zenodo-Dep">5169330</mods:identifier>
+</mods:mods>
+<treatment id="03E88780FFF9FFB2FED76A33FD428E31" ID-DOI="http://doi.org/10.5281/zenodo.5158724" ID-GBIF-Taxon="184009980" ID-Zenodo-Dep="5158724" LSID="urn:lsid:plazi:treatment:03E88780FFF9FFB2FED76A33FD428E31" httpUri="http://treatment.plazi.org/id/03E88780FFF9FFB2FED76A33FD428E31" lastPageId="1" lastPageNumber="202" pageId="0" pageNumber="201">
+<subSubSection id="C35B651DFFF9FFB3FED76A33FC7E8FAB" box="[287,960,1134,1177]" pageId="0" pageNumber="201" type="nomenclature">
+<paragraph id="8BFE3696FFF9FFB3FED76A33FC7E8FAB" blockId="0.[287,1690,1134,2452]" box="[287,960,1134,1177]" pageId="0" pageNumber="201">
+<heading id="D0B681FAFFF9FFB3FED76A33FC7E8FAB" box="[287,960,1134,1177]" fontSize="11" level="2" pageId="0" pageNumber="201" reason="2">
+<emphasis id="B935EA84FFF9FFB3FED76A33FD728FAB" bold="true" box="[287,716,1134,1177]" pageId="0" pageNumber="201">
+1. 
+<taxonomicName id="4C414D15FFF9FFB3FE946A33FD7B8FAB" authorityName="Fullaway" authorityYear="1946" box="[348,709,1134,1177]" class="Insecta" family="Chalcididae" genus="Haltichella" kingdom="Animalia" order="Hymenoptera" pageId="0" pageNumber="201" phylum="Arthropoda" rank="species" species="swezeyi" status="new species">Haltichella swezeyi</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="A20657FFFFF9FFB3FD176A33FC058FAB" box="[735,955,1134,1177]" pageId="0" pageNumber="201" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C35B651DFFF9FFB2FEAC6AF4FB558F2E" lastPageId="1" lastPageNumber="202" pageId="0" pageNumber="201" type="description">
+<paragraph id="8BFE3696FFF9FFB3FEAC6AF4FD5B8D92" blockId="0.[287,1690,1134,2452]" pageId="0" pageNumber="201">
+Female: 
+<quantity id="4CB99B73FFF9FFB3FE346AF4FDCD8FFF" box="[508,627,1193,1229]" metricMagnitude="-3" metricUnit="m" metricValue="2.5" pageId="0" pageNumber="201" unit="mm" value="2.5">2.5 mm</quantity>
+. long, shining black, the abdomen largely polished, antenna! scape, tegulae, and tarsi brown, base and apex of the femora and tibiae, apex of the coxae and the trochanters brownish. Head and thorax (pronotum, mesoscutum, scutellum, and axillae) rather coarsely, closely and shallowly punctuate, the sculpture on the occiput becoming so coarse and that on the front and face so shallow that the punctuations disappear and reticulations take their place; propodeum areolate on the disk, coarsely reticulately sculptured on the lateral wings; mesepisterna for the most part coarsely sculptured but partly smooth and polished or striate, the posterior sclerite somewhat grooved or eroded and the diagonally directed anterior margin marked by a long row of minute shallow foveae. Abdomen smooth above to apical margin of 2d segment although this is finely aciculate on the side, following segments finely sculptured and shining, 1st segment at base fluted, hind coxae and femora finely sculptured also; a silvery pubescence accompanies the punctuation.
+</paragraph>
+<paragraph id="8BFE3696FFF9FFB3FEAD68F6FAD983F5" blockId="0.[287,1690,1134,2452]" pageId="0" pageNumber="201">Head wider than thorax, transverse; as viewed from above, width about three times length, eyes fairly large, short oval, convex, naked, reaching to top of head and to a noint on side which is 0.75 their length removed from base of mandibles; antennae fairly long, slender, cylindrical, attached fairly close together near the mouth opening, 13-segmented, scrobes united' in a deeply eroded smooth groove which reaches to the top of the head, below a short ridge between antenna! sockets; scape reaches top of head and is as long as five following segments, pedicel obconic, 2.5 times as long as wide, following joint the shortest and globular in shape, remaining joints of the flagellum are each a little longer than wide and very gradually increasing in thickness outwardly, the last one pointed apically. Frontovertex and face confluent, both slightly convex, mandibles moderately stout, 1.5 times as long as wide at base, apical margin toothed; malar space four to five times width of mandibles; genae wide below but narrowing above middle of eye; occiput convex but eroded in middle; ocelli in form of obtuse triangle, lateral members one diameter removed from eye margin, two from anterior member.</paragraph>
+<paragraph id="8BFE3696FFF9FFB2FEAE6689FB7F8AD3" blockId="0.[287,1690,1134,2452]" lastBlockId="1.[462,1860,367,1052]" lastPageId="1" lastPageNumber="202" pageId="0" pageNumber="201">Thorax twice as long as wide and as wide as deep; pronotum transverse, convex above and at sides, declivous in front where it narrows into a short neck, mesoscutum twice as wide as long, anterior margin arcuate, the curve outward, posterior margin straight, convex, parapsidal grooves distinct, converging posteriorly but quite far apart at posterior margin, scutellum scutate, rounded behind, the disk convex, posteriorly margined and slightly overhanging, axillae triangular, inner angles meeting at center, metanotum transverse, declivous, propodeum extended in horizontal plane but convex, wide at base narrowing to a fairly broad neck.</paragraph>
+<paragraph id="8BFE3696FFF8FFB2FDDC6FB3F9EE89E1" blockId="1.[462,1860,367,1052]" pageId="1" pageNumber="202">Abdomen about same length as thorax, suboval but apically extended and pointed, convex above, compressed laterally, first segment occupying nearly half the length, following segments 2 to 5 transverse, more or less narrow, ovipositor concealed beneath; front and middle legs slender, hind legs stouter, especially the coxae, femora, and tibiae; the femora flattened, lenticular and with a toothlike projection and a finely denticulate, wide, flat comb on the lower margii:i; tibiae with grooved upper surface.</paragraph>
+<paragraph id="8BFE3696FFF8FFB2FDDA6C89FDE088F4" blockId="1.[462,1860,367,1052]" pageId="1" pageNumber="202">Forewings more or less spatulate, hyaline with brownish suffusions in middle interrupted by an upper and lower round clear area; submarginal vein long, marginal shorter, less than half the length of the submarginal, stigma! short, postmarginal still shorter, the venation not reaching beyond middle of anterior margin of wing; marginal ciliation inconspicuous, discal fine but in the proximal infumate area under the marginal vein it is longer.</paragraph>
+<paragraph id="8BFE3696FFF8FFB2FDDA6D8EFB558F2E" blockId="1.[462,1860,367,1052]" pageId="1" pageNumber="202">In the male, the small third joint of the antennae is transverse instead of globular and the pedicel is less than twice as long as wide.</paragraph>
+</subSubSection>
+<subSubSection id="C35B651DFFF8FFB2FDC66A1DFD428E31" pageId="1" pageNumber="202" type="materials_examined">
+<paragraph id="8BFE3696FFF8FFB2FDC66A1DFD428E31" blockId="1.[460,1859,1088,1283]" pageId="1" pageNumber="202">
+<materialsCitation id="3B293CCBFFF8FFB2FDC66A1DFDDD8FAF" ID-GBIF-Occurrence="3333035322" collectedFrom="ex bean leafminer" collectingDate="1936-11-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="202" specimenCount-female="1" specimenCount-male="1" typeStatus="holotype (female) and paratype (male)">
+<location id="8E9E604DFFF8FFB2FDC66A1DFDEC8F58" LSID="urn:lsid:plazi:treatment:03E88780FFF9FFB2FED76A33FD428E31:8E9E604DFFF8FFB2FDC66A1DFDEC8F58" box="[526,594,1088,1130]" name="Piti" pageId="1" pageNumber="202">Piti</location>
+, 
+<date id="FFFF1056FFF8FFB2FDBA6A1DFD4B8F58" box="[626,757,1088,1130]" pageId="1" pageNumber="202">
+<collectingDate id="EFBBE9BEFFF8FFB2FDBA6A1DFD4B8F58" box="[626,757,1088,1130]" pageId="1" pageNumber="202">
+Nov. 
+<emphasis id="B935EA84FFF8FFB2FD286A1DFD428F58" box="[736,764,1088,1130]" italics="true" pageId="1" pageNumber="202">7,</emphasis>
+</collectingDate>
+</date>
+<collectedFrom id="385D756BFFF8FFB2FCDC6A1DFBD08F58" box="[788,1134,1088,1130]" pageId="1" pageNumber="202">ex bean leafminer</collectedFrom>
+, 
+<specimenCount id="9D47FD1FFFF8FFB2FB446A1DF8828F58" box="[1164,1852,1088,1130]" pageId="1" pageNumber="202" type="male">holotype female, one paratype male</specimenCount>
+, 
+<collectorName id="26B45340FFF8FFB2FE186A29FDE28FAF" box="[464,604,1140,1181]" pageId="1" pageNumber="202">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B293CCBFFF8FFB2FDBD6A29F9E98FAF" ID-GBIF-Occurrence="3333035310" box="[629,1623,1140,1181]" collectedFrom="ex bean leafminer" collectingDate="1936-08-16" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="202" specimenCount-male="1" typeStatus="allotype">
+<location id="8E9E604DFFF8FFB2FDBD6A29FD088FAF" LSID="urn:lsid:plazi:treatment:03E88780FFF9FFB2FED76A33FD428E31:8E9E604DFFF8FFB2FDBD6A29FD088FAF" box="[629,694,1140,1181]" name="Piti" pageId="1" pageNumber="202">Piti</location>
+, 
+<date id="FFFF1056FFF8FFB2FD066A29FCE38FAF" box="[718,861,1140,1181]" pageId="1" pageNumber="202" value="2016-08">
+<collectingDate id="EFBBE9BEFFF8FFB2FD066A29FCE38FAF" box="[718,861,1140,1181]" pageId="1" pageNumber="202" value="2016-08">Aug. 16</collectingDate>
+</date>
+, 
+<collectedFrom id="385D756BFFF8FFB2FCBA6A29FB0D8FAF" box="[882,1203,1140,1181]" pageId="1" pageNumber="202">ex bean leafminer</collectedFrom>
+, 
+<specimenCount id="9D47FD1FFFF8FFB2FB016A29FA0A8FAF" box="[1225,1460,1140,1181]" pageId="1" pageNumber="202" type="male">allotype male</specimenCount>
+, 
+<collectorName id="26B45340FFF8FFB2FA046A29F9EC8FAF" box="[1484,1618,1140,1181]" pageId="1" pageNumber="202">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="3B293CCBFFF8FFB2F9BB6A29FB558FE3" ID-GBIF-Occurrence="3333035323" collectingDate="1936-05-15" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="1" pageNumber="202" specimenCount="3">
+<specimenCount id="9D47FD1FFFF8FFB2F9BB6A29FD468FE3" pageId="1" pageNumber="202" type="generic">Three additional specimens</specimenCount>
+, 
+<location id="8E9E604DFFF8FFB2FCDC6AFAFC348FE3" LSID="urn:lsid:plazi:treatment:03E88780FFF9FFB2FED76A33FD428E31:8E9E604DFFF8FFB2FCDC6AFAFC348FE3" box="[788,906,1191,1233]" name="Agana" pageId="1" pageNumber="202">Agana</location>
+, 
+<date id="FFFF1056FFF8FFB2FC606AFAFB868FE3" box="[936,1080,1191,1233]" pageId="1" pageNumber="202" value="2015-05">
+<collectingDate id="EFBBE9BEFFF8FFB2FC606AFAFB868FE3" box="[936,1080,1191,1233]" pageId="1" pageNumber="202" value="2015-05">May 15</collectingDate>
+</date>
+, 
+<collectorName id="26B45340FFF8FFB2FB906AFAFB5A8FE3" box="[1112,1252,1191,1233]" pageId="1" pageNumber="202">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B293CCBFFF8FFB2FAC96AFAF95F8FE3" ID-GBIF-Occurrence="3333035316" box="[1281,1761,1191,1233]" collectingDate="1936-05-25" collectorName="R. L. Usinger" country="Guam" location="Agana" pageId="1" pageNumber="202">
+<location id="8E9E604DFFF8FFB2FAC96AFAFAC98FE3" LSID="urn:lsid:plazi:treatment:03E88780FFF9FFB2FED76A33FD428E31:8E9E604DFFF8FFB2FAC96AFAFAC98FE3" box="[1281,1399,1191,1233]" name="Agana" pageId="1" pageNumber="202">Agana</location>
+, 
+<date id="FFFF1056FFF8FFB2FA5D6AFAF99B8FE3" box="[1429,1573,1191,1233]" pageId="1" pageNumber="202" value="1925-05">
+<collectingDate id="EFBBE9BEFFF8FFB2FA5D6AFAF99B8FE3" box="[1429,1573,1191,1233]" pageId="1" pageNumber="202" value="1925-05">May 25</collectingDate>
+</date>
+, 
+<collectorName id="26B45340FFF8FFB2F98B6AFAF9648FE3" box="[1603,1754,1191,1233]" pageId="1" pageNumber="202">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B293CCBFFF8FFB2F9306AFAFD428E31" ID-GBIF-Occurrence="3333035317" collectingDate="1936-06-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="202">
+<location id="8E9E604DFFF8FFB2F9306AFAF8848FE3" LSID="urn:lsid:plazi:treatment:03E88780FFF9FFB2FED76A33FD428E31:8E9E604DFFF8FFB2F9306AFAF8848FE3" box="[1784,1850,1191,1233]" name="Piti" pageId="1" pageNumber="202">Piti</location>
+, 
+<date id="FFFF1056FFF8FFB2FE046A86FDE78E31" box="[460,601,1243,1283]" pageId="1" pageNumber="202" value="2013-06">
+<collectingDate id="EFBBE9BEFFF8FFB2FE046A86FDE78E31" box="[460,601,1243,1283]" pageId="1" pageNumber="202" value="2013-06">June 13</collectingDate>
+</date>
+, 
+<collectorName id="26B45340FFF8FFB2FDB96A86FD498E31" box="[625,759,1243,1283]" pageId="1" pageNumber="202">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

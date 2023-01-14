@@ -1,0 +1,176 @@
+<document id="5D563C8F51288200E891357FE77FF6A5" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBF1B08FEF1FA8A028A415B" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Cybister tripunctatus subsp. hamatus Montrouzier" docType="treatment" docVersion="19" lastPageNumber="151" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="151" updateTime="1671494549916" updateUser="aubreymoore">
+<mods:mods id="50549FD2390CCA6B981DCA4194D1181F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="04DA9B8792DE55748E237986C5E81B6D">
+<mods:title id="C8C2521E143B1E25AA07DF867200D311">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="AFA6391CCDF47D4D8CDC3965063E4934" type="personal">
+<mods:role id="A5E7B8618186AACFEC771F2968C9E87F">
+<mods:roleTerm id="4CEC549A95232402E3846B6AB1E40B35">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DBB61E613B4DCE40C9D5E7E54D33EE28">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="C13314BA4F29C3EA86785F4DA55C5089">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="4FE586F19B0279653B51A5DCB4AF7CA4">text</mods:typeOfResource>
+<mods:relatedItem id="4CCC4708BAA54EDEA03C03A1D5A21111" type="host">
+<mods:originInfo id="D5B0AB3B8F9DB2DE61EE2C89F62AA4E5">
+<mods:dateIssued id="B527F24D4964B0FE5F329B8DE14C4CDE">1942</mods:dateIssued>
+<mods:dateOther id="E5069B985814273CAD24B791AA771AB8" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="B211A91C3C3EE3BCE17BA1E3666EEB03">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="AE158F040AD69C074033EF5845EE3937">
+<mods:placeTerm id="5FCEC964A874060C0FF1D682D63C3CE3">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="6A37AE1D334B5A6887158E76A456462B">
+<mods:title id="B7231626CF922ECF794DB317BF762AF2">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="0B4EE6BF0E55E68D2C1384F9A013996A">
+<mods:extent id="4C38583272D2EE767E73C427C89B4FE5" unit="page">
+<mods:start id="AA7715302EDD98C7DEFFB6810D948D1E">150</mods:start>
+<mods:end id="D562F2FC0B06B4CF60D6A372D2D5875B">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="572A0FDB935AED519F12B02AB4095C0E">book chapter</mods:classification>
+<mods:identifier id="3AD89A890E0B900E041290ADFEB4B4F8" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="27BC62A875619FD3786FF3511C5D52CD" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="3041976BAAB1FA077397E58A8BA7C8F5" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBF1B08FEF1FA8A028A415B" ID-DOI="http://doi.org/10.5281/zenodo.5184814" ID-GBIF-Taxon="184415246" ID-Zenodo-Dep="5184814" LSID="urn:lsid:plazi:treatment:376B87E5FFBF1B08FEF1FA8A028A415B" httpUri="http://treatment.plazi.org/id/376B87E5FFBF1B08FEF1FA8A028A415B" lastPageNumber="151" pageId="1" pageNumber="151">
+<subSubSection id="F7D86578FFBF1B08FEF1FA8A03BE435F" box="[299,1208,1343,1385]" pageId="1" pageNumber="151" type="nomenclature">
+<paragraph id="BF7D36F3FFBF1B08FEF1FA8A03BE435F" blockId="1.[299,1692,1343,1901]" box="[299,1208,1343,1385]" pageId="1" pageNumber="151">
+<heading id="E435819FFFBF1B08FEF1FA8A03BE435F" box="[299,1208,1343,1385]" fontSize="8" level="2" pageId="1" pageNumber="151" reason="4">
+1. 
+<taxonomicName id="78C24D70FFBF1B08FEBDFA8A03B5435F" authority=" (Montrouzier)" authorityName="Montrouzier" box="[359,1203,1343,1385]" class="Insecta" family="Dytiscidae" genus="Cybister" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="151" phylum="Arthropoda" rank="subSpecies" species="tripunctatus" subSpecies="hamatus">
+<emphasis id="8DB6EAE1FFBF1B08FEBDFA8A0493435F" bold="true" box="[359,917,1343,1385]" pageId="1" pageNumber="151">Cybister tripunctatus hamatus</emphasis>
+(Montrouzier)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBF1B08FEBDFAC4046D405B" pageId="1" pageNumber="151" type="reference_group">
+<paragraph id="BF7D36F3FFBF1B08FEBDFAC4052B4032" blockId="1.[299,1692,1343,1901]" pageId="1" pageNumber="151">
+<treatmentCitationGroup id="9FD211DDFFBF1B08FEBDFAC4052B4032" pageId="1" pageNumber="151">
+<treatmentCitation id="3E6310E2FFBF1B08FEBDFAC4019043AB" author="Olivier" box="[359,1686,1393,1437]" page="14" pageId="1" pageNumber="151" year="1795">
+<bibCitation id="6AE83E9FFFBF1B08FEBDFAC4019043AB" author="Olivier" box="[359,1686,1393,1437]" journalOrPublisher="Entomologie" pageId="1" pageNumber="151" pagination="14" part="3" refId="ref670" title="Dytiscus tripunctatus" type="book" year="1795">
+<title id="CDC6DDC5FFBF1B08FEBDFAC405E543AB" box="[359,739,1393,1437]" pageId="1" pageNumber="151">
+<emphasis id="8DB6EAE1FFBF1B08FEBDFAC405E543AB" box="[359,739,1393,1437]" italics="true" pageId="1" pageNumber="151">Dytiscus tripunctatus</emphasis>
+</title>
+<author id="677FDE16FFBF1B08FD2EFAC4047443AB" box="[756,882,1393,1437]" pageId="1" pageNumber="151">Olivier</author>
+, 
+<journalOrPublisher id="65033C3FFFBF1B08FC51FAC4036F43AB" box="[907,1129,1393,1437]" pageId="1" pageNumber="151">Entomologie</journalOrPublisher>
+<part id="CB669C6EFFBF1B08FBA0FAC4038843AB" box="[1146,1166,1393,1437]" pageId="1" pageNumber="151" type="volume">3</part>
+(
+<part id="CB669C6EFFBF1B08FB41FAC403CB43AB" box="[1179,1229,1393,1437]" pageId="1" pageNumber="151" type="issue">40</part>
+): 
+<pagination id="860BC807FFBF1B08FADDFAC4022943AB" box="[1287,1327,1393,1437]" pageId="1" pageNumber="151" type="pageRange">14</pagination>
+, pl. 3, fig. 24, 
+<year id="CB6A77A0FFBF1B08F9E5FAC4019743AB" box="[1599,1681,1393,1437]" pageId="1" pageNumber="151">1795</year>
+.
+</bibCitation>
+</treatmentCitation>
+<treatmentCitation id="3E6310E2FFBF1B08FEB2FA11052B4032" author="Montrouzier" page="9" pageId="1" pageNumber="151" year="1857">
+<bibCitation id="6AE83E9FFFBF1B08FEB2FA11052B4032" author="Montrouzier" journalOrPublisher="Soc. Agr. Lyon, Ann." pageId="1" pageNumber="151" pagination="9" part="7" refId="ref670" title="Dytiscus tripimctatus var. harnatus" type="book" year="1857">
+<title id="CDC6DDC5FFBF1B08FEB2FA1104D143F9" box="[360,983,1444,1487]" pageId="1" pageNumber="151">
+<emphasis id="8DB6EAE1FFBF1B08FEB2FA1105E543F9" box="[360,739,1444,1487]" italics="true" pageId="1" pageNumber="151">Dytiscus tripimctatus</emphasis>
+var. 
+<emphasis id="8DB6EAE1FFBF1B08FC9CFA1104D143F9" box="[838,983,1444,1487]" italics="true" pageId="1" pageNumber="151">harnatus</emphasis>
+</title>
+<author id="677FDE16FFBF1B08FC32FA1103CE43F9" box="[1000,1224,1444,1487]" pageId="1" pageNumber="151">Montrouzier</author>
+, 
+<journalOrPublisher id="65033C3FFFBF1B08FB3AFA11016543F9" box="[1248,1635,1444,1487]" pageId="1" pageNumber="151">Soc. Agr. Lyon, Ann.</journalOrPublisher>
+<emphasis id="8DB6EAE1FFBF1B08F9AEFA11019143F9" bold="true" box="[1652,1687,1444,1487]" pageId="1" pageNumber="151">
+<part id="CB669C6EFFBF1B08F9AEFA11018043F9" box="[1652,1670,1444,1487]" pageId="1" pageNumber="151" type="volume">7</part>
+:
+</emphasis>
+<pagination id="860BC807FFBF1B08FE7DFA6F06BB4032" box="[423,445,1498,1540]" pageId="1" pageNumber="151" type="pageRange">9</pagination>
+, 
+<year id="CB6A77A0FFBF1B08FE0FFA6F052E4032" box="[469,552,1498,1540]" pageId="1" pageNumber="151">1857</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFBF1B08FEB3F9A5046D405B" blockId="1.[299,1692,1343,1901]" pageId="1" pageNumber="151">
+<treatmentCitationGroup id="9FD211DDFFBF1B08FEB3F9A5046D405B" pageId="1" pageNumber="151">
+<treatmentCitation id="3E6310E2FFBF1B08FEB3F9A5046D405B" author="Zimmermann" page="266" pageId="1" pageNumber="151" year="1920">
+<bibCitation id="6AE83E9FFFBF1B08FEB3F9A5046D405B" author="Zimmermann" pageId="1" pageNumber="151" pagination="266" part="71" refId="ref713" title="Coleopt. Catalog." type="book" year="1920">
+<emphasis id="8DB6EAE1FFBF1B08FEB3F9A505E6400F" box="[361,736,1552,1593]" italics="true" pageId="1" pageNumber="151">Cybister tripunctatus</emphasis>
+var. 
+<emphasis id="8DB6EAE1FFBF1B08FC9FF9A504D0400F" box="[837,982,1552,1593]" italics="true" pageId="1" pageNumber="151">hamatus</emphasis>
+(Montrouzier) 
+<author id="677FDE16FFBF1B08FADEF9A502F5400F" box="[1284,1523,1552,1593]" pageId="1" pageNumber="151">Zimmermann</author>
+, 
+<title id="CDC6DDC5FFBF1B08F9D6F9A50532405B" pageId="1" pageNumber="151">Coleopt. Catalog.</title>
+(
+<part id="CB669C6EFFBF1B08FD83F9F6058E405B" box="[601,648,1603,1645]" pageId="1" pageNumber="151" type="volume">71</part>
+): 
+<pagination id="860BC807FFBF1B08FD64F9F605FC405B" box="[702,762,1603,1645]" pageId="1" pageNumber="151" type="pageRange">266</pagination>
+, 
+<year id="CB6A77A0FFBF1B08FCC9F9F60460405B" box="[787,870,1603,1645]" pageId="1" pageNumber="151">1920</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBF1B08FEB3F9C3033C410C" pageId="1" pageNumber="151" type="materials_examined">
+<paragraph id="BF7D36F3FFBF1B08FEB3F9C3033C410C" blockId="1.[299,1692,1343,1901]" pageId="1" pageNumber="151">
+<materialsCitation id="0FAA3CAEFFBF1B08FEB3F9C302E14096" ID-GBIF-Occurrence="3334692341" box="[361,1511,1654,1696]" collectedFrom="in concrete reservoir" collectingDate="1936-05-05" collectorName="R. L. Usinger" country="Guam" location="Upi Trail" pageId="1" pageNumber="151" specimenCount="1">
+<location id="BA1D6028FFBF1B08FEB3F9C305114096" LSID="urn:lsid:plazi:treatment:376B87E5FFBF1B08FEF1FA8A028A415B:BA1D6028FFBF1B08FEB3F9C305114096" box="[361,535,1654,1696]" name="Upi Trail" pageId="1" pageNumber="151">Upi Trail</location>
+, 
+<date id="CB7C1033FFBF1B08FDEBF9C305A04096" box="[561,678,1654,1696]" pageId="1" pageNumber="151">
+<collectingDate id="DB38E9DBFFBF1B08FDEBF9C305A04096" box="[561,678,1654,1696]" pageId="1" pageNumber="151">May 5</collectingDate>
+</date>
+, in concrete reservoir, 
+<collectorName id="12375325FFBF1B08FB9CF9C303D04096" box="[1094,1238,1654,1696]" pageId="1" pageNumber="151">Usinger</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFBF1B08FB37F9C302E74096" box="[1261,1505,1654,1696]" pageId="1" pageNumber="151" type="generic">one specimen</specimenCount>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBF1B08FA20F9C3033940E5" ID-GBIF-Occurrence="3334692365" collectedFrom="in rice field" collectingDate="1936-05-14" collectorName="R. L. Usinger" country="Guam" location="Inarajan" pageId="1" pageNumber="151" specimenCount="1">
+<location id="BA1D6028FFBF1B08FA20F9C301924096" LSID="urn:lsid:plazi:treatment:376B87E5FFBF1B08FEF1FA8A028A415B:BA1D6028FFBF1B08FA20F9C301924096" box="[1530,1684,1654,1696]" name="Inarajan" pageId="1" pageNumber="151">Inarajan</location>
+, 
+<date id="CB7C1033FFBF1B08FEF6F91E06B540E5" box="[300,435,1707,1747]" pageId="1" pageNumber="151" value="2014-05">
+<collectingDate id="DB38E9DBFFBF1B08FEF6F91E06B540E5" box="[300,435,1707,1747]" pageId="1" pageNumber="151" value="2014-05">May 14</collectingDate>
+</date>
+, in rice field, 
+<collectorName id="12375325FFBF1B08FD79F91E043540E5" box="[675,819,1707,1747]" pageId="1" pageNumber="151">Usinger</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFBF1B08FC92F91E033F40E5" box="[840,1081,1707,1747]" pageId="1" pageNumber="151" type="generic">one specimen</specimenCount>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBF1B08FB95F91E05CC4131" ID-GBIF-Occurrence="3334692328" collectedFrom="in pail of rain water" collectingDate="1936-08-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="151" specimenCount="1">
+<collectingMunicipality id="5F19AC89FFBF1B08FB95F91E039740E5" box="[1103,1169,1707,1747]" pageId="1" pageNumber="151">Piti</collectingMunicipality>
+, 
+<date id="CB7C1033FFBF1B08FB7CF91E021940E5" box="[1190,1311,1707,1747]" pageId="1" pageNumber="151">
+<collectingDate id="DB38E9DBFFBF1B08FB7CF91E021940E5" box="[1190,1311,1707,1747]" pageId="1" pageNumber="151">Aug. 9</collectingDate>
+</date>
+, in pail of rain water, 
+<collectorName id="12375325FFBF1B08FEF7F96906B54131" box="[301,435,1756,1799]" pageId="1" pageNumber="151">Swezey</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFBF1B08FE16F96905C24131" box="[460,708,1756,1799]" pageId="1" pageNumber="151" type="generic">one specimen</specimenCount>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBF1B08FD05F969033C410C" ID-GBIF-Occurrence="3334692379" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="1" pageNumber="151" specimenCount="1">
+<collectorName id="12375325FFBF1B08FD05F96904834131" box="[735,901,1756,1799]" pageId="1" pageNumber="151">Fullaway</collectorName>
+, 1911. (
+<location id="BA1D6028FFBF1B08FBC5F96903F54131" LSID="urn:lsid:plazi:treatment:376B87E5FFBF1B08FEF1FA8A028A415B:BA1D6028FFBF1B08FBC5F96903F54131" box="[1055,1267,1756,1799]" municipality="One" name="Determined" pageId="1" pageNumber="151">Determined</location>
+by J. Balfour-Browne. 
+<collectingMunicipality id="5F19AC89FFBF1B08FEF1F8A40672410C" box="[299,372,1809,1850]" pageId="1" pageNumber="151">One</collectingMunicipality>
+<specimenCount id="A9C4FD7AFFBF1B08FE5EF8A40524410C" box="[388,546,1809,1850]" pageId="1" pageNumber="151" type="generic">specimen</specimenCount>
+retained at 
+<location id="BA1D6028FFBF1B08FD27F8A4032F410C" LSID="urn:lsid:plazi:treatment:376B87E5FFBF1B08FEF1FA8A028A415B:BA1D6028FFBF1B08FD27F8A4032F410C" box="[765,1065,1809,1850]" municipality="One" name="British Museum" pageId="1" pageNumber="151">British Museum</location>
+.)
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBF1B08FEB0F8F6028A415B" box="[362,1420,1859,1901]" pageId="1" pageNumber="151" type="discussion">
+<paragraph id="BF7D36F3FFBF1B08FEB0F8F6028A415B" blockId="1.[299,1692,1343,1901]" box="[362,1420,1859,1901]" pageId="1" pageNumber="151">
+The variety 
+<emphasis id="8DB6EAE1FFBF1B08FD92F8F605DC415B" box="[584,730,1859,1901]" italics="true" pageId="1" pageNumber="151">hamatus</emphasis>
+was described from Woodlark Island.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

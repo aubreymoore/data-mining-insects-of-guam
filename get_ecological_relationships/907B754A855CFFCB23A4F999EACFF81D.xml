@@ -1,0 +1,116 @@
+<document id="B7EB0D8355C87287B8A946D3E127D993" ID-DOI="http://doi.org/10.5281/zenodo.5156759" ID-GBIF-Dataset="6e65e7d3-7a72-4da4-9739-5e3814593490" ID-Zenodo-Dep="5156759" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628022238476" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="907B754A855CFFCB23A4F999EACFF81D" docLanguage="en" docName="InsectsOfGuamII.189.221-227.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Henicospilus merdarius" docType="treatment" docVersion="11" lastPageNumber="222" masterDocId="6C420D32855DFFCA221EFFCCE940FF9E" masterDocTitle="Ichneumonidae, Evaniidae, And Braconidae Of Guam" masterLastPageNumber="227" masterPageNumber="221" pageNumber="222" updateTime="1660576848444" updateUser="annettekang">
+<mods:mods id="916F4BFDD555BB577DCF2686E0474C02" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="1929DEA98CD60FC658FC670806058947">
+<mods:title id="2856D29C804C47731F76D97DF1923ACD">Ichneumonidae, Evaniidae, And Braconidae Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="EDDBEAAA4281E75DEF03306BC7DD2FB0" type="personal">
+<mods:role id="067B7C5E25F1BBAFB58AE634E40F0B36">
+<mods:roleTerm id="874E86C1DFDE04DA86718668891EB54A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="BD4D3C8BB39E2F76854C4BAECFFB4983">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="18310D994140CA84D49BBA3C2734818E">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="91FD15E1801B742046B41D2EBA3CA008">text</mods:typeOfResource>
+<mods:relatedItem id="E7EDBA2D42F7C0C086109339FF92B122" type="host">
+<mods:originInfo id="24AC254DE0C7B578098CA5707E7A8E95">
+<mods:dateIssued id="4EF44A9C422E49FD706F3937961774C8">1946</mods:dateIssued>
+<mods:dateOther id="8B160D04A1588B49D1360C88B1061F29" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="A0FF2BD0BEC964231D6FD222D9C85217">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="A3ADA1072B32C4EDFC34716015A470ED">
+<mods:placeTerm id="6A462F168B70E07E6412E3AD44D43EF7">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A626F609694C77DFCC56A7E788163272">
+<mods:title id="A4A90A943895BB3B051CCA2C54FAD0DC">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="367F33B5B5AC1A56A4A40CD1738D642E">
+<mods:extent id="C9CD25A3A7A27B5D7FB0D58C1937F8CB" unit="page">
+<mods:start id="7F73CB5D5D79B2DED1FE200B35E2FC41">221</mods:start>
+<mods:end id="E72C720FF32FC43B9327DD7BD1CF0520">227</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="196AF40C889B65F6F367D6CC0BA74482">book chapter</mods:classification>
+<mods:identifier id="191E5338194F8186231C5DA4DFA7E218" type="DOI">http://doi.org/10.5281/zenodo.5156759</mods:identifier>
+<mods:identifier id="C2D48CF991F7EABA570CD64C620A0BC4" type="GBIF-Dataset">6e65e7d3-7a72-4da4-9739-5e3814593490</mods:identifier>
+<mods:identifier id="11CDD41E14F756C772AA6B1A7FF4D220" type="Zenodo-Dep">5156759</mods:identifier>
+</mods:mods>
+<treatment id="907B754A855CFFCB23A4F999EACFF81D" ID-DOI="http://doi.org/10.5281/zenodo.5186462" ID-GBIF-Taxon="183969182" ID-Zenodo-Dep="5186462" LSID="urn:lsid:plazi:treatment:907B754A855CFFCB23A4F999EACFF81D" httpUri="http://treatment.plazi.org/id/907B754A855CFFCB23A4F999EACFF81D" lastPageNumber="222" pageId="1" pageNumber="222">
+<subSubSection id="50C897D7855CFFCB23A4F999ED90F91F" box="[442,1232,1621,1665]" pageId="1" pageNumber="222" type="nomenclature">
+<paragraph id="186DC45C855CFFCB23A4F999ED90F91F" blockId="1.[442,1840,1621,1923]" box="[442,1232,1621,1665]" pageId="1" pageNumber="222">
+<heading id="43257330855CFFCB23A4F999ED90F91F" box="[442,1232,1621,1665]" fontSize="8" level="2" pageId="1" pageNumber="222" reason="4">
+6. 
+<taxonomicName id="DFD2BFDF855CFFCB23E7F999ED8AF91F" authority="(Gravenhorst)" baseAuthorityName="Gravenhorst" box="[505,1226,1621,1665]" class="Insecta" family="Ichneumonidae" genus="Henicospilus" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="222" phylum="Arthropoda" rank="species" species="merdarius">Henicospilus merdarius (Gravenhorst)</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D7855CFFCB23E2F945EF11F979" pageId="1" pageNumber="222" type="reference_group">
+<paragraph id="186DC45C855CFFCB23E2F945EF58F92B" blockId="1.[442,1840,1621,1923]" box="[508,1560,1673,1717]" pageId="1" pageNumber="222">
+<treatmentCitationGroup id="38C2E372855CFFCB23E2F945EF58F92B" box="[508,1560,1673,1717]" pageId="1" pageNumber="222">
+<treatmentCitation id="9973E24D855CFFCB23E2F945EF58F92B" author="Gravenhorst" box="[508,1560,1673,1717]" page="698" pageId="1" pageNumber="222" year="1829">
+<taxonomicName id="DFD2BFDF855CFFCB23E2F945ED6CF92B" authority="Gravenhorst, Ichn. Europ." authorityName="Gravenhorst, Ichn. Europ." box="[508,1068,1673,1717]" class="Insecta" family="Ichneumonidae" genus="Ophion" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="222" phylum="Arthropoda" rank="species" species="merdarius">
+<emphasis id="2AA6184E855CFFCB23E2F945EA7EF92B" box="[508,830,1673,1717]" italics="true" pageId="1" pageNumber="222">Ophion merdarius</emphasis>
+<bibCitation id="CDF8CC30855CFFCB2150F945EF58F92B" author="Gravenhorst" box="[846,1560,1673,1717]" journalOrPublisher="Ichn. Europ." pageId="1" pageNumber="222" pagination="698" part="3" refId="ref731" type="journal article" year="1829">
+<author id="C06F2CB9855CFFCB2150F945ED6CF92B" box="[846,1068,1673,1717]" pageId="1" pageNumber="222">Gravenhorst</author>
+, 
+<journalOrPublisher id="C213CE90855CFFCB265DF945EC63F92B" box="[1091,1315,1673,1717]" pageId="1" pageNumber="222">Ichn. Europ.</journalOrPublisher>
+<part id="6C766EC1855CFFCB272AF945EC10F92B" box="[1332,1360,1673,1717]" pageId="1" pageNumber="222" type="volume">3</part>
+: 
+<pagination id="211B3AA8855CFFCB277DF945ECE5F92B" box="[1379,1445,1673,1717]" pageId="1" pageNumber="222" type="pagination">698</pagination>
+, 
+<year id="6C7A850F855CFFCB27DEF945EF53F92B" box="[1472,1555,1673,1717]" pageId="1" pageNumber="222">1829</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="186DC45C855CFFCB23E4F971EF11F979" blockId="1.[442,1840,1621,1923]" box="[506,1617,1725,1767]" pageId="1" pageNumber="222">
+<treatmentCitationGroup id="38C2E372855CFFCB23E4F971EF11F979" box="[506,1617,1725,1767]" pageId="1" pageNumber="222">
+<treatmentCitation id="9973E24D855CFFCB23E4F971EF11F979" author="Morley" box="[506,1617,1725,1767]" page="46" pageId="1" pageNumber="222" year="1912">
+<taxonomicName id="DFD2BFDF855CFFCB23E4F971ED7AF979" authority=", Morley, Ichn. Brit. Mus." box="[506,1082,1725,1767]" class="Insecta" family="Ichneumonidae" genus="Henicospilus" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="222" phylum="Arthropoda" rank="species" species="merdarius">
+<emphasis id="2AA6184E855CFFCB23E4F971EAE6F979" box="[506,934,1725,1767]" italics="true" pageId="1" pageNumber="222">Henicospilus merdarius,</emphasis>
+<bibCitation id="CDF8CC30855CFFCB21A9F971EF11F979" author="Morley" box="[951,1617,1725,1767]" journalOrPublisher="Ichn. Brit. Mus." pageId="1" pageNumber="222" pagination="46" part="1" refId="ref746" type="journal article" year="1912">
+<author id="C06F2CB9855CFFCB21A9F971ED7AF979" box="[951,1082,1725,1767]" pageId="1" pageNumber="222">Morley</author>
+, 
+<journalOrPublisher id="C213CE90855CFFCB264FF971EC32F979" box="[1105,1394,1725,1767]" pageId="1" pageNumber="222">Ichn. Brit. Mus.</journalOrPublisher>
+<emphasis id="2AA6184E855CFFCB279BF971ECD3F979" bold="true" box="[1413,1427,1725,1767]" pageId="1" pageNumber="222">
+<part id="6C766EC1855CFFCB279BF971ECD3F979" box="[1413,1427,1725,1767]" pageId="1" pageNumber="222" type="volume">1</part>
+</emphasis>
+: 
+<pagination id="211B3AA8855CFFCB27A6F971ECA0F979" box="[1464,1504,1725,1767]" pageId="1" pageNumber="222" type="pagination">46</pagination>
+, 
+<year id="6C7A850F855CFFCB27E6F971EF0CF979" box="[1528,1612,1725,1767]" pageId="1" pageNumber="222">1912</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D7855CFFCB23E2F93CEF7AF884" box="[508,1594,1776,1818]" pageId="1" pageNumber="222" type="materials_examined">
+<paragraph id="186DC45C855CFFCB23E2F93CEF7AF884" blockId="1.[442,1840,1621,1923]" box="[508,1594,1776,1818]" pageId="1" pageNumber="222">
+<materialsCitation id="A8BACE01855CFFCB23E2F93CEF7AF884" ID-GBIF-Occurrence="3332362326" box="[508,1594,1776,1818]" collectedFrom="among ferns" collectingDate="1936-04-15" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="1" pageNumber="222" specimenCount="1">
+<collectingMunicipality id="F8095E26855CFFCB23E2F93CEBBDF884" box="[508,765,1776,1818]" pageId="1" pageNumber="222">Ritidian Point</collectingMunicipality>
+, 
+<date id="6C6CE29C855CFFCB210AF93CEAEDF884" box="[788,941,1776,1818]" pageId="1" pageNumber="222" value="2015-04">
+<collectingDate id="7C281B74855CFFCB210AF93CEAEDF884" box="[788,941,1776,1818]" pageId="1" pageNumber="222" value="2015-04">April 15</collectingDate>
+</date>
+, among ferns, 
+<specimenCount id="0ED40FD5855CFFCB26A0F93CECEDF884" box="[1214,1453,1776,1818]" pageId="1" pageNumber="222" type="generic">one specimen</specimenCount>
+, 
+<collectorName id="B527A18A855CFFCB27DAF93CEF75F884" box="[1476,1589,1776,1818]" pageId="1" pageNumber="222">Bryan</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D7855CFFCB23E7F8E8EACFF81D" pageId="1" pageNumber="222" type="discussion">
+<paragraph id="186DC45C855CFFCB23E7F8E8EACFF81D" blockId="1.[442,1840,1621,1923]" pageId="1" pageNumber="222">
+This is a European species which has been taken rarely in 
+<collectingCountry id="60C584CC855CFFCB2459F8E8EFE5F8D1" box="[1607,1701,1828,1871]" name="India" pageId="1" pageNumber="222">India</collectingCountry>
+, Malay Peninsula, Asiatic Siberia.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

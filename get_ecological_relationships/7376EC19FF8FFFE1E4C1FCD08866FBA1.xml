@@ -1,0 +1,109 @@
+<document id="5B08D13822AC1C26D04C3A8173D3253E" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8FFFE1E4C1FCD08866FBA1" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Aphelinus Dalman 1820" docType="treatment" docVersion="11" lastPageNumber="216" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="216" updateTime="1663769165332" updateUser="annettekang">
+<mods:mods id="88C4E0905A864F0F52478F8353D51B82" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="FCA1668150998AF2538EFC48412454E8">
+<mods:title id="457E700728E0B1635EBD1CE989876770">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="2DA1152E219D65225C7B69C279FE1201" type="personal">
+<mods:role id="240B99E84E737EEDE2D46DB5BE3C68B9">
+<mods:roleTerm id="FDCE621C66EC0449F300B04B1EAABF60">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="99C4B0993EAB7F85B411CD1B243B9BF8">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="1B48A5F151A8777D4752430601A98E8C">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A2D8D970EB3F4CF0E9547F28C1ED86B0">text</mods:typeOfResource>
+<mods:relatedItem id="A5BA33ADD2F7F27130E4889723FA224E" type="host">
+<mods:originInfo id="480D676C162DCB32637F7B49BC237CBA">
+<mods:dateIssued id="66E682CC7A297C4984F2B1B7EBA03831">1946</mods:dateIssued>
+<mods:dateOther id="525D98005E3BA31BFE351625FF23D722" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="91A06A0159DA331C75BB95954D73FE02">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="6D835EFCAEFCB404B9C117CF7F75E17B">
+<mods:placeTerm id="6820B77DBD14B92D6B57B112432AF838">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="3A652E7BFD5EB1C16F26FB458B7302A5">
+<mods:title id="6AC6B3D5B583A0D8073BA5CC26B69E59">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="125FE7F079B063C8DF4F544BE6A6E60C">
+<mods:extent id="F0375C6FCB9EEC314358D602CBD8124D" unit="page">
+<mods:start id="7C7C6345A03A3A8D2E5F9891A7DAAA54">211</mods:start>
+<mods:end id="47E3629159DEF558DDDEFA4370FC97A8">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="9588390CD150300D1C2BC93613015A7C">book chapter</mods:classification>
+<mods:identifier id="C7EF3BF65BF4548582ACCDFDE05DAFE8" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="EC0FBCC359EB28918ADAB998E7D13678" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="6780D202BB0698BE63592FD45A6600A6" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8FFFE1E4C1FCD08866FBA1" ID-DOI="http://doi.org/10.5281/zenodo.5158911" ID-GBIF-Taxon="187737422" ID-Zenodo-Dep="5158911" LSID="urn:lsid:plazi:treatment:7376EC19FF8FFFE1E4C1FCD08866FBA1" httpUri="http://treatment.plazi.org/id/7376EC19FF8FFFE1E4C1FCD08866FBA1" lastPageNumber="216" pageId="5" pageNumber="216">
+<subSubSection id="B3C50E84FF8FFFE1E4C1FCD08C8AFC74" box="[450,980,892,934]" pageId="5" pageNumber="216" type="nomenclature">
+<paragraph id="FB605D0FFF8FFFE1E4C1FCD08C8AFC74" blockId="5.[450,1848,892,1139]" box="[450,980,892,934]" pageId="5" pageNumber="216">
+<heading id="A028EA63FF8FFFE1E4C1FCD08C8AFC74" box="[450,980,892,934]" fontSize="8" level="2" pageId="5" pageNumber="216" reason="4">
+<emphasis id="C9AB811DFF8FFFE1E4C1FCD08DBFFC74" bold="true" box="[450,737,892,934]" pageId="5" pageNumber="216">
+38. 
+<taxonomicName id="3CDF268CFF8FFFE1E716FCD08D8FFC74" authorityName="Dalman" authorityYear="1820" box="[533,721,892,934]" class="Insecta" family="Aphelinidae" genus="Aphelinus" kingdom="Animalia" order="Hymenoptera" pageId="5" pageNumber="216" phylum="Arthropoda" rank="genus">Aphelinus</taxonomicName>
+?
+</emphasis>
+new species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8FFFE1E707FC1C8866FBA1" pageId="5" pageNumber="216" type="materials_examined">
+<paragraph id="FB605D0FFF8FFFE1E707FC1C8D3AFBED" blockId="5.[450,1848,892,1139]" pageId="5" pageNumber="216">
+<materialsCitation id="4BB75752FF8FFFE1E707FC1C891CFC08" ID-GBIF-Occurrence="3901040329" box="[516,1602,944,986]" collectedFrom="ex Aphis gossypii Glover on taro" collectingDate="1936-05-14" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="5" pageNumber="216">
+<collectingMunicipality id="1B04C775FF8FFFE1E707FC1C8DC0FC08" box="[516,670,944,986]" pageId="5" pageNumber="216">Inarajan</collectingMunicipality>
+, 
+<date id="8F617BCFFF8FFFE1E7B7FC1C8C63FC08" box="[692,829,944,986]" pageId="5" pageNumber="216" value="2014-05">
+<collectingDate id="9F258227FF8FFFE1E7B7FC1C8C63FC08" box="[692,829,944,986]" pageId="5" pageNumber="216" value="2014-05">May 14</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8FFFE1E652FC1C8C25FC08" box="[849,891,944,986]" pageId="5" pageNumber="216" type="generic">ex</specimenCount>
+<taxonomicName id="3CDF268CFF8FFFE1E684FC1C8A53FC08" authority="Glover" authorityName="Glover" box="[903,1293,944,986]" class="Insecta" family="Aphididae" genus="Aphis" kingdom="Animalia" order="Aphidomorpha" pageId="5" pageNumber="216" phylum="Arthropoda" rank="species" species="gossypii">
+<location id="FE000BD4FF8FFFE1E684FC1C8A53FC08" LSID="urn:lsid:plazi:treatment:7376EC19FF8FFFE1E4C1FCD08866FBA1:FE000BD4FF8FFFE1E684FC1C8A53FC08" box="[903,1293,944,986]" municipality="Inarajan" name="Aphis gossypii Glover" pageId="5" pageNumber="216">
+<emphasis id="C9AB811DFF8FFFE1E684FC1C8BD5FC08" box="[903,1163,944,986]" italics="true" pageId="5" pageNumber="216">Aphis gossypii</emphasis>
+Glover
+</location>
+</taxonomicName>
+on taro, 
+<collectorName id="562A38D9FF8FFFE1E0ACFC1C8965FC08" box="[1455,1595,944,986]" pageId="5" pageNumber="216">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8FFFE1E352FC1C8D3AFBED" ID-GBIF-Occurrence="3901040319" collectedFrom="ex Aphis gossypii Glover" collectingDate="1936-05-28" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="5" pageNumber="216" specimenCount="1">
+<collectingMunicipality id="1B04C775FF8FFFE1E352FC1C89CDFC08" box="[1617,1683,944,986]" pageId="5" pageNumber="216">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF8FFFE1E3A9FC1C886FFC08" box="[1706,1841,944,986]" pageId="5" pageNumber="216" value="1928-05">
+<collectingDate id="9F258227FF8FFFE1E3A9FC1C886FFC08" box="[1706,1841,944,986]" pageId="5" pageNumber="216" value="1928-05">May 28</collectingDate>
+</date>
+, 
+<emphasis id="C9AB811DFF8FFFE1E4C0FC4F8EB3FBDF" box="[451,493,995,1037]" italics="true" pageId="5" pageNumber="216">
+<specimenCount id="EDD99686FF8FFFE1E4C0FC4F8EB3FBDF" box="[451,493,995,1037]" pageId="5" pageNumber="216" type="generic">ex</specimenCount>
+</emphasis>
+<taxonomicName id="3CDF268CFF8FFFE1E4EEFC4F8C20FBDF" authority="Glover, Usinger. One" authorityName="Glover, Usinger. One" box="[493,894,995,1037]" class="Insecta" family="Aphididae" genus="Aphis" kingdom="Animalia" order="Aphidomorpha" pageId="5" pageNumber="216" phylum="Arthropoda" rank="species" species="gossypii">
+<location id="FE000BD4FF8FFFE1E4EEFC4F8C20FBDF" LSID="urn:lsid:plazi:treatment:7376EC19FF8FFFE1E4C1FCD08866FBA1:FE000BD4FF8FFFE1E4EEFC4F8C20FBDF" box="[493,894,995,1037]" country="United States of America" municipality="Piti" name="Aphis gossypii Glover" pageId="5" pageNumber="216">
+<emphasis id="C9AB811DFF8FFFE1E4EEFC4F8DA4FBDF" box="[493,762,995,1037]" italics="true" pageId="5" pageNumber="216">Aphis gossypii</emphasis>
+Glover
+</location>
+</taxonomicName>
+, 
+<location id="FE000BD4FF8FFFE1E692FC4F8B7DFBDF" LSID="urn:lsid:plazi:treatment:7376EC19FF8FFFE1E4C1FCD08866FBA1:FE000BD4FF8FFFE1E692FC4F8B7DFBDF" box="[913,1059,995,1037]" country="United States of America" municipality="Piti" name="Usinger" pageId="5" pageNumber="216">Usinger</location>
+. 
+<location id="FE000BD4FF8FFFE1E13CFC4F8BD9FBDF" LSID="urn:lsid:plazi:treatment:7376EC19FF8FFFE1E4C1FCD08866FBA1:FE000BD4FF8FFFE1E13CFC4F8BD9FBDF" box="[1087,1159,995,1037]" country="United States of America" municipality="Piti" name="One" pageId="5" pageNumber="216">One</location>
+slide mount, retained in 
+<collectingCountry id="83C81D9FFF8FFFE1E33BFC4F89CCFBDF" box="[1592,1682,995,1037]" name="United States of America" pageId="5" pageNumber="216">U. S.</collectingCountry>
+<location id="FE000BD4FF8FFFE1E3A2FC4F8D01FBED" LSID="urn:lsid:plazi:treatment:7376EC19FF8FFFE1E4C1FCD08866FBA1:FE000BD4FF8FFFE1E3A2FC4F8D01FBED" country="United States of America" municipality="Piti" name="National Museum" pageId="5" pageNumber="216">National Museum</location>
+.
+</materialsCitation>
+</paragraph>
+<paragraph id="FB605D0FFF8FFFE1E701FBE58866FBA1" blockId="5.[450,1848,892,1139]" box="[514,1848,1097,1139]" pageId="5" pageNumber="216">
+Apparently near 
+<taxonomicName id="3CDF268CFF8FFFE1E63BFBE58BFBFBA1" box="[824,1189,1097,1139]" pageId="5" pageNumber="216">
+<emphasis id="C9AB811DFF8FFFE1E63BFBE58C9DFBA1" box="[824,963,1097,1139]" italics="true" pageId="5" pageNumber="216">flavipes</emphasis>
+Kurdjumov
+</taxonomicName>
+(Rev. Russe d'Ent. 
+<emphasis id="C9AB811DFF8FFFE1E328FBE58910FBA1" bold="true" box="[1579,1614,1097,1139]" pageId="5" pageNumber="216">13:</emphasis>
+270, 1913).
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

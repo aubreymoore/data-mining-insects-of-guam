@@ -1,0 +1,94 @@
+<document id="3E339085DACFDAEC95D48BA13133DB17" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBD1B0AFEE0FA6A02164097" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Leptacinus flavipennis Kraatz 1859" docType="treatment" docVersion="14" lastPageNumber="153" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="153" updateTime="1671336034494" updateUser="annettekang">
+<mods:mods id="B50149FE6140BB65CF87D272AC90060A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B4612466354B90AA8F34BE0CC923EAA2">
+<mods:title id="E5E128B4A70DE070C3D82A33F3DE5FB6">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="70C8A261FB762CDD289EC2A762C173D6" type="personal">
+<mods:role id="F1B708285EA23F92A9EF18D0AD637B65">
+<mods:roleTerm id="9E4995A6073DED77C939F24897CFECEB">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1B9D101CB1BDB91DD264740DAFA5C41D">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="C8E27DC4FE48E8AF5435AF8DC381073A">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="81534C80E8957BCD7323DFD06D03159C">text</mods:typeOfResource>
+<mods:relatedItem id="233C81CC851BECCF5C64566ADE0499C7" type="host">
+<mods:originInfo id="7BE913406B5FD046552CB101E1C85436">
+<mods:dateIssued id="92A77408B93934B7A06C71908B4C77B9">1942</mods:dateIssued>
+<mods:dateOther id="AF3EB92267521BE0BB807CB459F1FB2C" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="E26D7345BB49861940A552A4B62217C8">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="497082C0002F4F8E142810AE87C5266F">
+<mods:placeTerm id="BF90B6B752488E635F946A4E507E319B">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="332CFE8E3751380B4468D23DA42BDCDF">
+<mods:title id="5DEC5168F0B0935E1E0CFD171218B622">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="31DD34FDF13F6431A112C06191C49FFA">
+<mods:extent id="E7BFFA45A4B3CC8523FA12204E4BC7DC" unit="page">
+<mods:start id="3CC65BA7C2BE968AE401964A3BC685FC">150</mods:start>
+<mods:end id="188B25B4BC6EFA0D26C6B8AB3A319816">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="85FBF8996E6FF710AFAFCB2CA9A7637B">book chapter</mods:classification>
+<mods:identifier id="A46BFDCB27280E9F1E6A01763C0D4E1C" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="F842A2AA3BE87A2571FB6C69807AC96E" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="4CBE060BDC8D00CC1A1F48ED1CEC5D5C" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBD1B0AFEE0FA6A02164097" ID-DOI="http://doi.org/10.5281/zenodo.5180784" ID-GBIF-Taxon="184415239" ID-Zenodo-Dep="5180784" LSID="urn:lsid:plazi:treatment:376B87E5FFBD1B0AFEE0FA6A02164097" httpUri="http://treatment.plazi.org/id/376B87E5FFBD1B0AFEE0FA6A02164097" lastPageNumber="153" pageId="3" pageNumber="153">
+<subSubSection id="F7D86578FFBD1B0AFEE0FA6A022E4030" box="[314,1320,1502,1542]" pageId="3" pageNumber="153" type="nomenclature">
+<paragraph id="BF7D36F3FFBD1B0AFEE0FA6A022E4030" blockId="3.[314,343,1503,1542]" box="[314,1320,1502,1542]" lastBlockId="3.[377,1705,1502,1697]" pageId="3" pageNumber="153">
+<heading id="E435819FFFBD1B0AFEE0FA6A06514030" box="[314,343,1503,1542]" centered="true" fontSize="11" level="2" pageId="3" pageNumber="153" reason="2">
+<emphasis id="8DB6EAE1FFBD1B0AFEE0FA6A06514030" bold="true" box="[314,343,1503,1542]" pageId="3" pageNumber="153">9.</emphasis>
+</heading>
+<taxonomicName id="78C24D70FFBD1B0AFEA3FA6B04A34030" authority="Kraatz" authorityName="Kraatz" authorityYear="1859" box="[377,933,1502,1542]" class="Insecta" family="Staphylinidae" genus="Leptacinus" kingdom="Animalia" order="Coleoptera" pageId="3" pageNumber="153" phylum="Arthropoda" rank="species" species="flavipennis">
+<emphasis id="8DB6EAE1FFBD1B0AFEA3FA6B04124030" bold="true" box="[377,788,1502,1542]" pageId="3" pageNumber="153">Leptacinus flavipennis</emphasis>
+Kraatz
+</taxonomicName>
+, as now determined.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBD1B0AFEA3F9A504A0405B" pageId="3" pageNumber="153" type="reference_group">
+<paragraph id="BF7D36F3FFBD1B0AFEA3F9A504A0405B" blockId="3.[377,1705,1502,1697]" pageId="3" pageNumber="153">
+<treatmentCitationGroup id="9FD211DDFFBD1B0AFEA3F9A504A0405B" pageId="3" pageNumber="153">
+<treatmentCitation id="3E6310E2FFBD1B0AFEA3F9A504A0405B" author="Scheerpeltz" page="1303" pageId="3" pageNumber="153" year="1933">
+<bibCitation id="6AE83E9FFFBD1B0AFEA3F9A504A0405B" author="Scheerpeltz" pageId="3" pageNumber="153" pagination="1303" part="129" refId="ref1696" title="Coleopt. Catalog." type="book" year="1933">
+<emphasis id="8DB6EAE1FFBD1B0AFEA3F9A50463400C" box="[377,869,1552,1594]" italics="true" pageId="3" pageNumber="153">Leptacinus parunipunctatus</emphasis>
+var. 
+<emphasis id="8DB6EAE1FFBD1B0AFC16F9A50388400C" box="[972,1166,1552,1594]" italics="true" pageId="3" pageNumber="153">flavipennis</emphasis>
+Kraatz, 
+<author id="677FDE16FFBD1B0AFAEDF9A50105400C" box="[1335,1539,1552,1594]" pageId="3" pageNumber="153">Scheerpeltz</author>
+, 
+<title id="CDC6DDC5FFBD1B0AF9C7F9A50543405B" pageId="3" pageNumber="153">Coleopt. Catalog.</title>
+(
+<part id="CB669C6EFFBD1B0AFDBDF9F105AF405B" box="[615,681,1604,1645]" pageId="3" pageNumber="153" type="issue">129</part>
+): 
+<pagination id="860BC807FFBD1B0AFD38F9F10432405B" box="[738,820,1604,1645]" pageId="3" pageNumber="153" type="pageRange">1303</pagination>
+, 
+<year id="CB6A77A0FFBD1B0AFC94F9F104A7405B" box="[846,929,1604,1645]" pageId="3" pageNumber="153">1933</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBD1B0AFEA0F9C202164097" box="[378,1296,1655,1697]" pageId="3" pageNumber="153" type="materials_examined">
+<paragraph id="BF7D36F3FFBD1B0AFEA0F9C202164097" blockId="3.[377,1705,1502,1697]" box="[378,1296,1655,1697]" pageId="3" pageNumber="153">
+<materialsCitation id="0FAA3CAEFFBD1B0AFEA0F9C202164097" ID-GBIF-Occurrence="3334692573" box="[378,1296,1655,1697]" collectedFrom="ex cow dung" collectingDate="1936-09-21" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="3" pageNumber="153" specimenCount="1">
+<location id="BA1D6028FFBD1B0AFEA0F9C206BA4097" LSID="urn:lsid:plazi:treatment:376B87E5FFBD1B0AFEE0FA6A02164097:BA1D6028FFBD1B0AFEA0F9C206BA4097" box="[378,444,1655,1697]" name="Piti" pageId="3" pageNumber="153">Piti</location>
+, 
+<date id="CB7C1033FFBD1B0AFE0CF9C2056E4097" box="[470,616,1655,1697]" pageId="3" pageNumber="153" value="2021-09">
+<collectingDate id="DB38E9DBFFBD1B0AFE0CF9C2056E4097" box="[470,616,1655,1697]" pageId="3" pageNumber="153" value="2021-09">Sept. 21</collectingDate>
+</date>
+, 
+<specimenCount id="A9C4FD7AFFBD1B0AFD5AF9C205AC4097" box="[640,682,1655,1697]" pageId="3" pageNumber="153" type="generic">ex</specimenCount>
+cow dung, 
+<collectorName id="12375325FFBD1B0AFC5AF9C203004097" box="[896,1030,1655,1697]" pageId="3" pageNumber="153">Swezey</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFBD1B0AFBC7F9C2020D4097" box="[1053,1291,1655,1697]" pageId="3" pageNumber="153" type="generic">one specimen</specimenCount>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,161 @@
+<document id="C1E73DE8BB8A636F1B42BA982DFD9108" ID-DOI="http://doi.org/10.5281/zenodo.5160270" ID-GBIF-Dataset="6dc2872d-cbab-4982-baed-c0969e3e3236" ID-Zenodo-Dep="5160270" checkinTime="1628013042203" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="0E4F7F497E655A2EB493FDD615E675B1" docLanguage="en" docName="InsectsOfGuamI.172.175-183.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Ponera punctatissima subsp. schauinslandi Emery" docType="treatment" docVersion="17" lastPageNumber="176" masterDocId="F27607317E645A2FB552FF8416577654" masterDocTitle="Hymenoptera Formicidae of Guam" masterLastPageNumber="183" masterPageNumber="175" pageNumber="176" updateTime="1658169984483" updateUser="annettekang">
+<mods:mods id="0241C867971C352B6849A2A449C4084B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="A8A307B6D6B77622D526A6A218482310">
+<mods:title id="C44BACA3B3A00E6883CDD7D3AC4C3518">Hymenoptera Formicidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="AB82DC30DDC50AD1BAFC71643CFEB743" type="personal">
+<mods:role id="B425FE4A956ED87AEB6D95337A1EE5EA">
+<mods:roleTerm id="15D02DEC8FE6F0E1E3DDB27862FCD9C5">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="89A54DDE22D78D4EE3ED5327E51114C2">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="15B432A4364947A97C190E278F4C7F7E">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="54802736C97785EAEF4645BE7768FF41">text</mods:typeOfResource>
+<mods:relatedItem id="732E4F9D6AE32CCD18B52ABD06D41FAE" type="host">
+<mods:originInfo id="13531193E0695D7FAF4B3658C507C68F">
+<mods:dateIssued id="3771B8AD6039F14D1D84EDB85D4D8B68">1942</mods:dateIssued>
+<mods:dateOther id="639300CB27EDFDB20B7D4BA00E6517B6" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="25A30EC6F32FEA3D26ED9DCB6A7AE80D">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="4B5DA488CF9D8916AAFDFCD1CE4CE172">
+<mods:placeTerm id="26040B260FDE3241A84EC6B03EA471B0">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5E334295AC2118D513A6AD586B535C74">
+<mods:title id="0479840E3269F0B4300AFBD06F5EEA79">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="BD92094A856A829BFF47ADC98623EB17">
+<mods:extent id="237358160CDAFB810231D6C55585DBF0" unit="page">
+<mods:start id="B6730701A66F9BA4B8069F219D7B9591">175</mods:start>
+<mods:end id="04470D0B9B00E8B6FAD8CEA3158B0F48">183</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="FCAD33A5176EAE0C8CE075630101278A">book chapter</mods:classification>
+<mods:identifier id="C5DE2F6B2D56E4C7E90DC5258B04E195" type="DOI">http://doi.org/10.5281/zenodo.5160270</mods:identifier>
+<mods:identifier id="C53D39582BB2154AAF5496894BC73439" type="GBIF-Dataset">6dc2872d-cbab-4982-baed-c0969e3e3236</mods:identifier>
+<mods:identifier id="FAD0BF7233E6E288D37066A0707558F9" type="Zenodo-Dep">5160270</mods:identifier>
+</mods:mods>
+<treatment id="0E4F7F497E655A2EB493FDD615E675B1" ID-DOI="http://doi.org/10.5281/zenodo.5211702" ID-GBIF-Taxon="184416184" ID-Zenodo-Dep="5211702" LSID="urn:lsid:plazi:treatment:0E4F7F497E655A2EB493FDD615E675B1" httpUri="http://treatment.plazi.org/id/0E4F7F497E655A2EB493FDD615E675B1" lastPageNumber="176" pageId="1" pageNumber="176">
+<subSubSection id="CEFC9DD47E655A2EB493FDD613BC7429" box="[449,1515,594,637]" pageId="1" pageNumber="176" type="nomenclature">
+<paragraph id="8659CE5F7E655A2EB493FDD613BC7429" blockId="1.[449,1845,594,997]" box="[449,1515,594,637]" pageId="1" pageNumber="176">
+<heading id="DD1179337E655A2EB493FDD613BC7429" box="[449,1515,594,637]" centered="true" fontSize="8" level="2" pageId="1" pageNumber="176" reason="4">
+2. 
+<taxonomicName id="41E6B5DC7E655A2EB752FDD613B37429" authorityName="Emery" box="[512,1508,594,637]" class="Insecta" family="Formicidae" genus="Ponera" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="176" phylum="Arthropoda" rank="subSpecies" species="punctatissima" subSpecies="schauinslandi">Ponera punctatissima subspecies schauinslandi Emery</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E655A2EB0AFFDD613DD74B1" pageId="1" pageNumber="176" type="reference_group">
+<treatmentCitationGroup id="A6F6E9717E655A2EB0AFFDD613DD74B1" pageId="1" pageNumber="176">
+<paragraph id="8659CE5F7E655A2EB0AFFDD6153074E5" blockId="1.[449,1845,594,997]" pageId="1" pageNumber="176">
+<bibCitation id="53CCC6337E655A2EB0AFFDD6153074E5" author="Emery" journalOrPublisher="Zool. Jahrb. Abt. Syst." pageId="1" pageNumber="176" pagination="438" part="12" refId="ref551" type="journal article" year="1899">
+<treatmentCitation id="0747E84E7E655A2EB0AFFDD6153574E5" author="Emery" page="438" pageId="1" pageNumber="176" year="1899">
+<journalOrPublisher id="5C27C4937E655A2EB0AFFDD6140E74E5" pageId="1" pageNumber="176">
+<author id="5E5B26BA7E655A2EB0AFFDD610067429" box="[1533,1617,594,637]" fns="*" inm="true" npo="*" pageId="1" pageNumber="176">Zool</author>
+. 
+<title id="F4E225697E655A2EB335FDD6140474E5" pageId="1" pageNumber="176">Jahrb. Abt. Syst</title>
+.
+</journalOrPublisher>
+<part id="F24264C27E655A2EB73DFD0314D874E5" box="[623,655,647,689]" pageId="1" pageNumber="176" type="volume">12</part>
+: 
+<pagination id="BF2F30AB7E655A2EB7E1FD0314A374E5" box="[691,756,647,689]" pageId="1" pageNumber="176" type="pagination">438</pagination>
+, 
+<year id="F24E8F0C7E655A2EB642FD03153574E5" box="[784,866,647,689]" pageId="1" pageNumber="176">1899</year>
+</treatmentCitation>
+.
+</bibCitation>
+</paragraph>
+<paragraph id="8659CE5F7E655A2EB6D6FD0313DD74B1" blockId="1.[449,1845,594,997]" pageId="1" pageNumber="176">
+<treatmentCitation id="0747E84E7E655A2EB6D6FD03116274E5" author="Wheeler" box="[900,1845,647,689]" page="44" pageId="1" pageNumber="176" year="1912">
+<bibCitation id="53CCC6337E655A2EB6D6FD03116274E5" author="Wheeler" box="[900,1845,647,689]" journalOrPublisher="New York Ent. Soc., Jour." pageId="1" pageNumber="176" pagination="44" part="20" refId="ref565" type="journal article" year="1912">
+<author id="5E5B26BA7E655A2EB6D6FD03127774E5" box="[900,1056,647,689]" pageId="1" pageNumber="176">Wheeler</author>
+, 
+<journalOrPublisher id="5C27C4937E655A2EB168FD03106474E5" box="[1082,1587,647,689]" pageId="1" pageNumber="176">
+<collectingRegion id="442200BD7E655A2EB168FD0312AB74E5" box="[1082,1276,647,689]" country="United States of America" name="New York" pageId="1" pageNumber="176">New York</collectingRegion>
+Ent. Soc., Jour.
+</journalOrPublisher>
+<part id="F24264C27E655A2EB315FD03103874E5" box="[1607,1647,647,689]" pageId="1" pageNumber="176" type="volume">20</part>
+: 
+<pagination id="BF2F30AB7E655A2EB3DFFD0310EF74E5" box="[1677,1720,647,689]" pageId="1" pageNumber="176" type="pagination">44</pagination>
+, 
+<year id="F24E8F0C7E655A2EB384FD03117974E5" box="[1750,1838,647,689]" pageId="1" pageNumber="176">1912</year>
+;
+</bibCitation>
+</treatmentCitation>
+<treatmentCitation id="0747E84E7E655A2EB750FD3F13DD74B1" author="Wheeler" box="[514,1418,699,741]" page="13" pageId="1" pageNumber="176" year="1935">
+<bibCitation id="53CCC6337E655A2EB750FD3F13DD74B1" author="Wheeler" box="[514,1418,699,741]" journalOrPublisher="B. P. Bishop Mus., 0 cc. Papers" pageId="1" pageNumber="176" pagination="13" part="11" refId="ref565" type="journal article" year="1935">
+<journalOrPublisher id="5C27C4937E655A2EB750FD3F121274B1" box="[514,1093,699,741]" pageId="1" pageNumber="176">B. P. Bishop Mus., 0cc. Papers</journalOrPublisher>
+<part id="F24264C27E655A2EB105FD3F12D674B1" box="[1111,1153,699,741]" pageId="1" pageNumber="176" type="volume">11</part>
+(
+<part id="F24264C27E655A2EB1DCFD3F12EF74B1" box="[1166,1208,699,741]" pageId="1" pageNumber="176" type="issue">11</part>
+): 
+<pagination id="BF2F30AB7E655A2EB1A3FD3F134F74B1" box="[1265,1304,699,741]" pageId="1" pageNumber="176" type="pagination">13</pagination>
+, 
+<year id="F24E8F0C7E655A2EB061FD3F13D274B1" box="[1331,1413,699,741]" pageId="1" pageNumber="176">1935</year>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</treatmentCitationGroup>
+</subSubSection>
+<subSubSection id="CEFC9DD47E655A2EB753FD6B1418752B" pageId="1" pageNumber="176" type="materials_examined">
+<paragraph id="8659CE5F7E655A2EB753FD6B1418752B" blockId="1.[449,1845,594,997]" pageId="1" pageNumber="176">
+<materialsCitation id="368EC4027E655A2EB753FD6B10F7754D" ID-GBIF-Occurrence="3862685344" box="[513,1696,751,793]" collectedFrom="in rotten Pandanus log" collectingDate="1936-05-04" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Agana Swamp" pageId="1" pageNumber="176">
+<location id="833998847E655A2EB753FD6B155D754D" LSID="urn:lsid:plazi:treatment:0E4F7F497E655A2EB493FDD615E675B1:833998847E655A2EB753FD6B155D754D" box="[513,778,751,793]" municipality="Agana Swamp" name="Agana Swamp" pageId="1" pageNumber="176">Agana Swamp</location>
+, 
+<date id="F258E89F7E655A2EB671FD6B15CF754D" box="[803,920,751,793]" pageId="1" pageNumber="176">
+<collectingDate id="E21C11777E655A2EB671FD6B15CF754D" box="[803,920,751,793]" pageId="1" pageNumber="176">May 4</collectingDate>
+</date>
+, 
+<collectedFrom id="35FA8DA27E655A2EB6E3FD6B1306754D" box="[945,1361,751,793]" pageId="1" pageNumber="176">
+in rotten 
+<taxonomicName id="41E6B5DC7E655A2EB10BFD6B135E754D" box="[1113,1289,751,793]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="1" pageNumber="176" phylum="Tracheophyta" rank="genus">
+<emphasis id="B492124D7E655A2EB10BFD6B135E754D" box="[1113,1289,751,793]" italics="true" pageId="1" pageNumber="176">Pandanus</emphasis>
+</taxonomicName>
+log
+</collectedFrom>
+, 
+<collectorName id="2B13AB897E655A2EB039FD6B10F7754D" box="[1387,1696,751,793]" pageId="1" pageNumber="176">Swezey, Usinger</collectorName>
+</materialsCitation>
+<materialsCitation id="368EC4027E655A2EB3F2FD6B126E7518" ID-GBIF-Occurrence="3862685369" collectedFrom="in house and at base of sedges" collectingDate="1936-08-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="176">
+; 
+<collectingMunicipality id="663D54257E655A2EB3EBFD6B10AC754D" box="[1721,1787,751,793]" pageId="1" pageNumber="176">Piti</collectingMunicipality>
+, in house, 
+<date id="F258E89F7E655A2EB71AFCA6149A7518" box="[584,717,802,844]" pageId="1" pageNumber="176">
+<collectingDate id="E21C11777E655A2EB71AFCA6149A7518" box="[584,717,802,844]" pageId="1" pageNumber="176">Aug. 9</collectingDate>
+</date>
+, at base of sedges
+</materialsCitation>
+<materialsCitation id="368EC4027E655A2EB16BFCA610247518" ID-GBIF-Occurrence="3862685337" box="[1081,1651,802,844]" collectedFrom="swept from sedges" collectingDate="1936-08-24" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="176">
+, 
+<date id="F258E89F7E655A2EB104FCA612A77518" box="[1110,1264,802,844]" pageId="1" pageNumber="176" value="1924-08">
+<collectingDate id="E21C11777E655A2EB104FCA612A77518" box="[1110,1264,802,844]" pageId="1" pageNumber="176" value="1924-08">Aug. 24</collectingDate>
+</date>
+, swept from sedges
+</materialsCitation>
+<materialsCitation id="368EC4027E655A2EB321FCA61418752B" ID-GBIF-Occurrence="3862685357" collectingDate="1936-09-21" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="176">
+, 
+<date id="F258E89F7E655A2EB3C1FCA6117A7518" box="[1683,1837,802,844]" pageId="1" pageNumber="176" value="2021-09">
+<collectingDate id="E21C11777E655A2EB3C1FCA6117A7518" box="[1683,1837,802,844]" pageId="1" pageNumber="176" value="2021-09">Sept. 21</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E655A2EB496FCD3141D752B" box="[452,586,855,895]" pageId="1" pageNumber="176">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E655A2EB752FC0315E675B1" pageId="1" pageNumber="176" type="discussion">
+<paragraph id="8659CE5F7E655A2EB752FC0315E675B1" blockId="1.[449,1845,594,997]" pageId="1" pageNumber="176">
+This subspecies was described from Laysan Island. 
+<materialsCitation id="368EC4027E655A2EB0F7FC0315FB75B1" ID-GBIF-Occurrence="3862685335" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="1" pageNumber="176">
+Previously collected in 
+<collectingCountry id="FEF18ECF7E655A2EB490FC3F147D75B1" box="[450,554,955,997]" name="Guam" pageId="1" pageNumber="176">Guam</collectingCountry>
+by 
+<location id="833998847E655A2EB726FC3F154075B1" LSID="urn:lsid:plazi:treatment:0E4F7F497E655A2EB493FDD615E675B1:833998847E655A2EB726FC3F154075B1" box="[628,791,955,997]" country="Guam" name="Fullaway" pageId="1" pageNumber="176">Fullaway</location>
+in 1911
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,106 @@
+<document id="AD451646BC04FE53ADBF3F598759390E" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBA1B0DFE63F99203E34165" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Thamiaraea insigniventris Fauvel 1878" docType="treatment" docVersion="20" lastPageNumber="154" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="154" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="0D2868F0B0168B8A5D3CE5F47405B48F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="07A6A566A296357F27B5252B86B277D9">
+<mods:title id="4A262780BEDDC9DD1286FECE875FE440">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="6E1BA19A8758BC8C91B6CB95D0A286D3" type="personal">
+<mods:role id="EC26F66586FF14C648F33DC5A5BD0B67">
+<mods:roleTerm id="089274B6F7E07A9AEA9D05656E523637">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E62638CD35D955EBD22C5727EBBD9BB4">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="AED1ABD0008C472D9D5DE0552C6C5972">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="8BB4B76C0420417435F6E35979CAC668">text</mods:typeOfResource>
+<mods:relatedItem id="F87F48E9DC653497742951CDBD86EBDC" type="host">
+<mods:originInfo id="D8412C11CA658571BFC2BA15E34F9BB0">
+<mods:dateIssued id="94041BB6A0828996DCBDC7ED8C5423F4">1942</mods:dateIssued>
+<mods:dateOther id="75DD22D3FD9DDAF15DECE8850220F2EF" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="65580E70CBF49F290EC85BF3B696F9FF">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="2451BDD41CADCDCE03979F32C7324102">
+<mods:placeTerm id="2DB293BDE5341794E57DA2EEE9D1E72A">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="61A3288ED7F750307E2FB4C2E196C173">
+<mods:title id="BD1CA2B48E11239A7D4859CB1AC9E215">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="74F8C7C17BF36EBEEF909A8F54B097A6">
+<mods:extent id="EEE6EDEAB729CAECE6A369B650C2DDD8" unit="page">
+<mods:start id="3CE072ED67BFBA875DCFE00D56BDCCF2">150</mods:start>
+<mods:end id="F2064298DBE16CCB7F1601C8FD7D507A">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="6201446198C13DA209A9A209109450B4">book chapter</mods:classification>
+<mods:identifier id="9E523CD76FE2EDE1C153C3129B0585DD" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="CF28CCDE94440F777C9582BA17AE5F55" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="D7A9BDECE71D48479D7F3BF68834C41B" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBA1B0DFE63F99203E34165" ID-DOI="http://doi.org/10.5281/zenodo.5211607" ID-GBIF-Taxon="184415267" ID-Zenodo-Dep="5211607" LSID="urn:lsid:plazi:treatment:376B87E5FFBA1B0DFE63F99203E34165" httpUri="http://treatment.plazi.org/id/376B87E5FFBA1B0DFE63F99203E34165" lastPageNumber="154" pageId="4" pageNumber="154">
+<subSubSection id="F7D86578FFBA1B0DFE63F992037F4064" box="[441,1145,1575,1618]" pageId="4" pageNumber="154" type="nomenclature">
+<paragraph id="BF7D36F3FFBA1B0DFE63F992037F4064" blockId="4.[439,1832,1575,1875]" box="[441,1145,1575,1618]" pageId="4" pageNumber="154">
+16. 
+<taxonomicName id="78C24D70FFBA1B0DFDD2F99203744064" authority="Fauvel" authorityName="Fauvel" authorityYear="1878" box="[520,1138,1575,1618]" class="Insecta" family="Staphylinidae" genus="Thamiaraea" kingdom="Animalia" order="Coleoptera" pageId="4" pageNumber="154" phylum="Arthropoda" rank="species" species="insigniventris">Thamiaraea insigniventris Fauvel</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBA1B0DFB53F9920414408C" pageId="4" pageNumber="154" type="reference_group">
+<paragraph id="BF7D36F3FFBA1B0DFB53F9920414408C" blockId="4.[439,1832,1575,1875]" pageId="4" pageNumber="154">
+<bibCitation id="6AE83E9FFFBA1B0DFB53F9920414408C" author="Fauvel" journalOrPublisher="Mus. civ. stor. nat. Genova" pageId="4" pageNumber="154" pagination="299" part="12" refId="ref2192" title="Coleopt. Catalog" type="journal volume" year="1878">
+<treatmentCitationGroup id="9FD211DDFFBA1B0DFB53F992040B408C" pageId="4" pageNumber="154">
+<treatmentCitation id="3E6310E2FFBA1B0DFB53F99204B740B3" author="Fairmaire" page="299" pageId="4" pageNumber="154" year="1878">
+<journalOrPublisher id="65033C3FFFBA1B0DFB53F99201724064" box="[1161,1652,1575,1618]" pageId="4" pageNumber="154">Mus. civ. stor. nat. Genova</journalOrPublisher>
+, Ann. 
+<part id="CB669C6EFFBA1B0DF92BF99200174064" box="[1777,1809,1575,1618]" pageId="4" pageNumber="154" type="volume">12</part>
+: 
+<pagination id="860BC807FFBA1B0DFE2EF9EF053240B3" box="[500,564,1626,1669]" pageId="4" pageNumber="154" type="pageRange">299</pagination>
+, pl. 2, fig. 36, 
+<year id="CB6A77A0FFBA1B0DFC80F9EF04AA40B3" box="[858,940,1626,1669]" pageId="4" pageNumber="154">1878</year>
+.
+</treatmentCitation>
+<treatmentCitation id="3E6310E2FFBA1B0DFC09F9EF040B408C" author="Bernhauer and Scheerpeltz" page="682" pageId="4" pageNumber="154" year="1926">
+<author id="677FDE16FFBA1B0DFC09F9EF039740B3" box="[979,1169,1626,1669]" pageId="4" pageNumber="154">Bernhauer</author>
+and 
+<author id="677FDE16FFBA1B0DFB26F9EF02C840B3" box="[1276,1486,1626,1669]" pageId="4" pageNumber="154">Scheerpeltz</author>
+, 
+<title id="CDC6DDC5FFBA1B0DFA31F9EF002540B3" box="[1515,1827,1626,1669]" pageId="4" pageNumber="154">Coleopt. Catalog</title>
+. (
+<part id="CB669C6EFFBA1B0DFDDFF9250535408C" box="[517,563,1680,1722]" pageId="4" pageNumber="154" type="issue">82</part>
+): 
+<pagination id="860BC807FFBA1B0DFDBDF92505A4408C" box="[615,674,1680,1722]" pageId="4" pageNumber="154" type="pageRange">682</pagination>
+, 
+<year id="CB6A77A0FFBA1B0DFD61F925040B408C" box="[699,781,1680,1722]" pageId="4" pageNumber="154">1926</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBA1B0DFE2EF977044F4116" pageId="4" pageNumber="154" type="materials_examined">
+<paragraph id="BF7D36F3FFBA1B0DFE2EF977044F4116" blockId="4.[439,1832,1575,1875]" pageId="4" pageNumber="154">
+<materialsCitation id="0FAA3CAEFFBA1B0DFE2EF977040840DA" ID-GBIF-Occurrence="3994027428" box="[500,782,1730,1772]" collectedFrom="all from rotten breadfruit on the ground" collectingDate="1936-08-22" collectorName="O. H. Swezey" country="Guam" location="Asan" pageId="4" pageNumber="154">
+Asan, 
+<date id="CB7C1033FFBA1B0DFDB1F977040040DA" box="[619,774,1730,1772]" pageId="4" pageNumber="154" value="1922-08">Aug. 22</date>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBA1B0DFCFBF977044F4116" ID-GBIF-Occurrence="3994027531" collectedFrom="all from rotten breadfruit on the ground" collectingDate="1936-09-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="154" specimenCount="17">
+Piti, 
+<date id="CB7C1033FFBA1B0DFCA5F977031240DA" box="[895,1044,1730,1772]" pageId="4" pageNumber="154" value="2020-09">Sept. 20</date>
+, all from rotten breadfruit on the ground, Swezey, 
+<specimenCount id="A9C4FD7AFFBA1B0DFD8CF94204424116" box="[598,836,1783,1824]" pageId="4" pageNumber="154" type="generic">17 specimens</specimenCount>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBA1B0DFE2EF89D03E34165" box="[500,1253,1832,1875]" pageId="4" pageNumber="154" type="discussion">
+<paragraph id="BF7D36F3FFBA1B0DFE2EF89D03E34165" blockId="4.[439,1832,1575,1875]" box="[500,1253,1832,1875]" pageId="4" pageNumber="154">
+<location id="BA1D6028FFBA1B0DFE2EF89D05A14165" LSID="urn:lsid:plazi:treatment:376B87E5FFBA1B0DFE63F99203E34165:BA1D6028FFBA1B0DFE2EF89D05A14165" box="[500,679,1832,1875]" country="Guinea-Bissau" county="Celebes" municipality="New" name="Described" pageId="4" pageNumber="154">Described</location>
+from 
+<collectingMunicipality id="5F19AC89FFBA1B0DFCC6F89D04684165" box="[796,878,1832,1875]" pageId="4" pageNumber="154">New</collectingMunicipality>
+<collectingCountry id="C7D57663FFBA1B0DFCA6F89D04FF4165" box="[892,1017,1832,1875]" name="Guinea-Bissau" pageId="4" pageNumber="154">Guinea</collectingCountry>
+and 
+<collectingCounty id="561C4E7FFFBA1B0DFB8DF89D03E64165" box="[1111,1248,1832,1875]" pageId="4" pageNumber="154">Celebes</collectingCounty>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

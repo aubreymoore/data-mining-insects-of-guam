@@ -1,0 +1,162 @@
+<document id="59149BED38DA7D84C473D2C260BD55AC" ID-DOI="http://doi.org/10.5281/zenodo.5160233" ID-GBIF-Dataset="16f6ef92-619b-417b-946c-22d9b1445e7d" ID-Zenodo-Dep="5160233" checkinTime="1628022546680" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="2C76878DFF98FFF1BEE7FBABFDA7F9CF" docLanguage="en" docName="InsectsOfGuamII.189.3-8.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docTitle="Labia curvicauda" docType="treatment" docVersion="18" lastPageNumber="8" masterDocId="D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8" masterDocTitle="Orthoptera And Related Orders Orthoptera And Related Orders Of Guam" masterLastPageNumber="8" masterPageNumber="3" pageNumber="8" updateTime="1657639050607" updateUser="annettekang">
+<mods:mods id="3F7BB51F7452983687BF430FEDBA8486" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CD60942EA05FCB5E3A0BB863A78CDDF9">
+<mods:title id="437DF3C47378A6A9C4BC26C81AF00D7C">Orthoptera And Related Orders Orthoptera And Related Orders Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="609C50A42868863C4123446020794E33" type="personal">
+<mods:role id="1CE22F6461B9268B22BF52E322DF1F6E">
+<mods:roleTerm id="49500615E85A4717A5C986C8FE3DD273">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2B2665BE4AF719B431BF2DC722C9BDCA">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="BCF9C4F5DFAFA314D5FA8F84A5E47D6A">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="D9B77A056E17409B048A447CB48A6A6E">text</mods:typeOfResource>
+<mods:relatedItem id="37DD085DD3CC3ED935DD68966A70604B" type="host">
+<mods:originInfo id="C59EE24449F1CB1F2DF39FED697AF8A2">
+<mods:dateIssued id="A8C6250D8E5B920A321F5DABAD37A21F">1946</mods:dateIssued>
+<mods:dateOther id="DF8CA34417540C039C9D3E0EFE945A0E" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="41A5C587A52AD002E1738E001C0B5B91">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="6B4C6817F9004420466F4BC422DBCA9C">
+<mods:placeTerm id="EE10E03F3489AABD463405A206263C2C">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="FD96C22E6AAADA48D4A8FCAFE9050053">
+<mods:title id="B0ABD4DA3531E4F38131DAF700D73E11">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="D94ADF03B80994DCC19C1DC13D734422">
+<mods:extent id="68769D8256B0E87186950DA454F6ED1D" unit="page">
+<mods:start id="4D0E405B84D8AA1F990EBFABF95D98A5">3</mods:start>
+<mods:end id="BEF741588755D59925FA23C3EE180682">8</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F24A441AAEEEBC304C3796206C5053D7">book chapter</mods:classification>
+<mods:identifier id="4052F4E7929EC11F769BC26FC48D75DA" type="DOI">http://doi.org/10.5281/zenodo.5160233</mods:identifier>
+<mods:identifier id="EE9488A6134F15BECA68E8E674EAD0BD" type="GBIF-Dataset">16f6ef92-619b-417b-946c-22d9b1445e7d</mods:identifier>
+<mods:identifier id="DE3A95BF7F3414F7F8ADBE9FFB1CF4AA" type="Zenodo-Dep">5160233</mods:identifier>
+</mods:mods>
+<treatment id="2C76878DFF98FFF1BEE7FBABFDA7F9CF" ID-DOI="http://doi.org/10.5281/zenodo.5188707" ID-GBIF-Taxon="183924986" ID-Zenodo-Dep="5188707" LSID="urn:lsid:plazi:treatment:2C76878DFF98FFF1BEE7FBABFDA7F9CF" httpUri="http://treatment.plazi.org/id/2C76878DFF98FFF1BEE7FBABFDA7F9CF" lastPageNumber="8" pageId="5" pageNumber="8">
+<subSubSection id="ECC56510FF98FFF1BEE7FBABFB8DFBF3" box="[399,1078,1025,1067]" pageId="5" pageNumber="8" type="nomenclature">
+<paragraph id="A460369BFF98FFF1BEE7FBABFB8DFBF3" blockId="5.[399,1799,1025,1559]" box="[399,1078,1025,1067]" pageId="5" pageNumber="8">
+<heading id="FF2881F7FF98FFF1BEE7FBABFB8DFBF3" box="[399,1078,1025,1067]" fontSize="11" level="2" pageId="5" pageNumber="8" reason="2">
+<emphasis id="96ABEA89FF98FFF1BEE7FBABFE17FBF3" bold="true" box="[399,428,1025,1067]" pageId="5" pageNumber="8">2.</emphasis>
+<taxonomicName id="63DF4D18FF98FFF1BEA6FBABFB8AFBF3" authority="Motschulsky" baseAuthorityName="Motschulsky" box="[462,1073,1025,1067]" class="Insecta" family="Labiidae" genus="Labia" higherTaxonomySource="GBIF" kingdom="Animalia" order="Dermaptera" pageId="5" pageNumber="8" phylum="Arthropoda" rank="species" species="curvicauda">
+<emphasis id="96ABEA89FF98FFF1BEA6FBABFCB7FBF3" bold="true" box="[462,780,1025,1067]" pageId="5" pageNumber="8">Labia curvicauda</emphasis>
+(Motschulsky)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF98FFF1BEA7FB96FA45FB0D" pageId="5" pageNumber="8" type="reference_group">
+<paragraph id="A460369BFF98FFF1BEA7FB96FCF3FB42" blockId="5.[399,1799,1025,1559]" pageId="5" pageNumber="8">
+<treatmentCitationGroup id="84CF11B5FF98FFF1BEA7FB96FCF3FB42" pageId="5" pageNumber="8">
+<treatmentCitation id="257E108AFF98FFF1BEA7FB96FCF3FB42" author="Motschulsky" page="2" pageId="5" pageNumber="8" year="1863">
+<bibCitation id="71F53EF7FF98FFF1BEA7FB96FCF3FB42" author="Motschulsky" journalOrPublisher="Soc. Nat. Moscou, Bull." pageId="5" pageNumber="8" pagination="2" part="36" refId="ref2516" type="journal article" year="1863">
+<emphasis id="96ABEA89FF98FFF1BEA7FB96FCDBFBBE" box="[463,864,1084,1126]" italics="true" pageId="5" pageNumber="8">Forficesila curvicauda</emphasis>
+<author id="7C62DE7EFF98FFF1BC11FB96FBE0FBBE" box="[889,1115,1084,1126]" pageId="5" pageNumber="8">Motschulsky</author>
+, 
+<journalOrPublisher id="7E1E3C57FF98FFF1BB16FB96F9FFFBBE" box="[1150,1604,1084,1126]" pageId="5" pageNumber="8">Soc. Nat. Moscou, Bull.</journalOrPublisher>
+<part id="D07B9C06FF98FFF1B935FB96F935FBBE" box="[1629,1678,1084,1126]" pageId="5" pageNumber="8">36</part>
+(
+<part id="D07B9C06FF98FFF1B9F3FB96F90BFBBE" box="[1691,1712,1084,1126]" pageId="5" pageNumber="8">3</part>
+): 
+<pagination id="9D16C86FFF98FFF1B98FFB96F945FBBE" box="[1767,1790,1084,1126]" pageId="5" pageNumber="8">2</pagination>
+, pl. 2, fig. 1, 
+<year id="D07777C8FF98FFF1BD87FBDAFCF8FB42" box="[751,835,1136,1178]" pageId="5" pageNumber="8">1863</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="A460369BFF98FFF1BEA5FB0BFA45FB0D" blockId="5.[399,1799,1025,1559]" box="[461,1534,1185,1237]" pageId="5" pageNumber="8">
+<treatmentCitationGroup id="84CF11B5FF98FFF1BEA5FB0BFA45FB0D" box="[461,1534,1185,1237]" pageId="5" pageNumber="8">
+<treatmentCitation id="257E108AFF98FFF1BEA5FB0BFA45FB0D" author="Dohrn" box="[461,1534,1185,1237]" page="428" pageId="5" pageNumber="8" year="1864">
+<bibCitation id="71F53EF7FF98FFF1BEA5FB0BFA45FB0D" author="Dohrn" box="[461,1534,1185,1237]" journalOrPublisher="Stett. Ent. Zeitung" pageId="5" pageNumber="8" pagination="428" part="25" refId="ref2545" type="journal article" year="1864">
+<emphasis id="96ABEA89FF98FFF1BEA5FB0BFCB2FB0D" box="[461,777,1185,1237]" italics="true" pageId="5" pageNumber="8">tabia curvicauda,</emphasis>
+<author id="7C62DE7EFF98FFF1BC72FB0BFC35FB0D" box="[794,910,1185,1237]" pageId="5" pageNumber="8">Dohrn</author>
+, 
+<journalOrPublisher id="7E1E3C57FF98FFF1BCCFFB0BFB4DFB0D" box="[935,1270,1185,1237]" pageId="5" pageNumber="8">Stett. Ent. Zeitung</journalOrPublisher>
+<part id="D07B9C06FF98FFF1BA6EFB0BFA96FB0D" box="[1286,1325,1185,1237]" pageId="5" pageNumber="8" type="volume">25</part>
+: 
+<pagination id="9D16C86FFF98FFF1BA39FB0BFA37FB0D" box="[1361,1420,1185,1237]" pageId="5" pageNumber="8" type="pagination">428</pagination>
+, 
+<year id="D07777C8FF98FFF1BACEFB0BFA42FB0D" box="[1446,1529,1185,1237]" pageId="5" pageNumber="8">1864</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF98FFF1BEA6FB49FD32FA71" pageId="5" pageNumber="8" type="materials_examined">
+<paragraph id="A460369BFF98FFF1BEA6FB49FD32FA71" blockId="5.[399,1799,1025,1559]" pageId="5" pageNumber="8">
+<materialsCitation id="14B73CC6FF98FFF1BEA6FB49FC07FAC9" ID-GBIF-Occurrence="3441224403" box="[462,956,1251,1297]" collectingDate="1936-05-05" collectorName="R. L. Usinger" country="Guam" location="Upi Trail" pageId="5" pageNumber="8">
+<location id="A1006040FF98FFF1BEA6FB49FDC6FAC9" LSID="urn:lsid:plazi:treatment:2C76878DFF98FFF1BEE7FBABFDA7F9CF:A1006040FF98FFF1BEA6FB49FDC6FAC9" box="[462,637,1251,1297]" name="Upi Trail" pageId="5" pageNumber="8">Upi Trail</location>
+, 
+<date id="D061105BFF98FFF1BDFFFB49FCB7FAC9" box="[663,780,1251,1297]" pageId="5" pageNumber="8">
+<collectingDate id="C025E9B3FF98FFF1BDFFFB49FCB7FAC9" box="[663,780,1251,1297]" pageId="5" pageNumber="8">May 5</collectingDate>
+</date>
+, 
+<location id="A1006040FF98FFF1BC4DFB49FC07FAC9" LSID="urn:lsid:plazi:treatment:2C76878DFF98FFF1BEE7FBABFDA7F9CF:A1006040FF98FFF1BC4DFB49FC07FAC9" box="[805,956,1251,1297]" name="Usinger" pageId="5" pageNumber="8">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF98FFF1BCBDFB49F945FAC9" ID-GBIF-Occurrence="3441224381" box="[981,1790,1251,1297]" collectedFrom="ex papaya log" collectingDate="1936-05-26" collectorName="R. L. Usinger" country="Guam" location="Mount Alifan" pageId="5" pageNumber="8">
+<collectingMunicipality id="4404ACE1FF98FFF1BCBDFB49FB22FAC9" box="[981,1177,1251,1297]" pageId="5" pageNumber="8">Mt. Alifan</collectingMunicipality>
+, 
+<date id="D061105BFF98FFF1BBDBFB49FA86FAC9" box="[1203,1341,1251,1297]" pageId="5" pageNumber="8" value="1926-05">
+<collectingDate id="C025E9B3FF98FFF1BBDBFB49FA86FAC9" box="[1203,1341,1251,1297]" pageId="5" pageNumber="8" value="1926-05">May 26</collectingDate>
+</date>
+, 
+<specimenCount id="B2D9FD12FF98FFF1BA3DFB49FAC5FAC9" box="[1365,1406,1251,1297]" pageId="5" pageNumber="8" type="generic">ex</specimenCount>
+papaya log, 
+<location id="A1006040FF98FFF1B90FFB49F945FAC9" LSID="urn:lsid:plazi:treatment:2C76878DFF98FFF1BEE7FBABFDA7F9CF:A1006040FF98FFF1B90FFB49F945FAC9" box="[1639,1790,1251,1297]" municipality="Mt. Alifan" name="Usinger" pageId="5" pageNumber="8">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF98FFF1BEE7FABCFA47FA9A" ID-GBIF-Occurrence="3441224363" box="[399,1532,1302,1346]" collectedFrom="in rotten breadfruit on the ground" collectingDate="1936-08-22" collectorName="O. H. Swezey" country="Guam" location="Asan" pageId="5" pageNumber="8">
+<collectingMunicipality id="4404ACE1FF98FFF1BEE7FABCFE54FA9A" box="[399,495,1302,1346]" pageId="5" pageNumber="8">Asan</collectingMunicipality>
+, 
+<date id="D061105BFF98FFF1BD61FABCFD1AFA9A" box="[521,673,1302,1346]" pageId="5" pageNumber="8" value="1922-08">
+<collectingDate id="C025E9B3FF98FFF1BD61FABCFD1AFA9A" box="[521,673,1302,1346]" pageId="5" pageNumber="8" value="1922-08">Aug. 22</collectingDate>
+</date>
+, in rotten breadfruit on the ground, 
+<collectorName id="092A534DFF98FFF1BA04FABCFA47FA9A" box="[1388,1532,1302,1346]" pageId="5" pageNumber="8">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF98FFF1B971FABCFDE3FAAE" ID-GBIF-Occurrence="3441224318" collectedFrom="under bark" collectingDate="1936-09-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="8">
+<collectingMunicipality id="4404ACE1FF98FFF1B971FABCF9E7FA9A" box="[1561,1628,1302,1346]" pageId="5" pageNumber="8">Piti</collectingMunicipality>
+, 
+<date id="D061105BFF98FFF1B913FABCF945FA9A" box="[1659,1790,1302,1346]" pageId="5" pageNumber="8">
+<collectingDate id="C025E9B3FF98FFF1B913FABCF945FA9A" box="[1659,1790,1302,1346]" pageId="5" pageNumber="8">Sept. 9</collectingDate>
+</date>
+, under bark
+</materialsCitation>
+, 
+<materialsCitation id="14B73CC6FF98FFF1BD1AFAE6FB13FAAE" ID-GBIF-Occurrence="3441224326" box="[626,1192,1356,1398]" collectedFrom="in cow dung" collectingDate="1936-09-21" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="8">
+<date id="D061105BFF98FFF1BD1AFAE6FCBDFAAE" box="[626,774,1356,1398]" pageId="5" pageNumber="8" value="2021-09">
+<collectingDate id="C025E9B3FF98FFF1BD1AFAE6FCBDFAAE" box="[626,774,1356,1398]" pageId="5" pageNumber="8" value="2021-09">Sept. 21</collectingDate>
+</date>
+, in cow dung, 
+<collectorName id="092A534DFF98FFF1BB73FAE6FB13FAAE" box="[1051,1192,1356,1398]" pageId="5" pageNumber="8">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF98FFF1BBAAFAE6FD3FFA71" ID-GBIF-Occurrence="3331604376" collectedFrom="in rotten banana stem" collectingDate="1936-11-13" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="5" pageNumber="8">
+<collectingMunicipality id="4404ACE1FF98FFF1BBAAFAE6FAA0FAAE" box="[1218,1307,1356,1398]" pageId="5" pageNumber="8">Yigo</collectingMunicipality>
+, 
+<date id="D061105BFF98FFF1BA5DFAE6FA7DFAAE" box="[1333,1478,1356,1398]" pageId="5" pageNumber="8" value="2013-11">
+<collectingDate id="C025E9B3FF98FFF1BA5DFAE6FA7DFAAE" box="[1333,1478,1356,1398]" pageId="5" pageNumber="8" value="2013-11">Nov. 13</collectingDate>
+</date>
+, in rotten banana stem, 
+<collectorName id="092A534DFF98FFF1BE94FAD5FD3FFA71" box="[508,644,1407,1449]" pageId="5" pageNumber="8">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF98FFF1BEA7FA11FDA7F9CF" pageId="5" pageNumber="8" type="discussion">
+<paragraph id="A460369BFF98FFF1BEA7FA11FDA7F9CF" blockId="5.[399,1799,1025,1559]" pageId="5" pageNumber="8">
+Described from 
+<collectingCountry id="DCC8760BFF98FFF1BD95FA11FCC7FA3D" box="[765,892,1467,1509]" name="Sri Lanka" pageId="5" pageNumber="8">Ceylon</collectingCountry>
+, and widely distributed in the tropics. Occurs in Hawaii.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

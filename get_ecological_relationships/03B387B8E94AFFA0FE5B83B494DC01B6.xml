@@ -1,0 +1,157 @@
+<document id="CB92DB63E4DA59B12B7E29E109E8B6E6" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E94AFFA0FE5B83B494DC01B6" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Timandra aventiaria Guenee" docType="treatment" docVersion="21" lastPageNumber="164" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="164" updateTime="1669490674909" updateUser="annettekang">
+<mods:mods id="B59DBDEE806F4C67106EDD349607301C" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="6022DB9E2469B2DD018B2739BC617E2C">
+<mods:title id="FF507867AB9765913F76E6DE65D3CF97">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="C53A15964DE0CCB1694A7132937F5A22" type="personal">
+<mods:role id="9DC16DC199A36D44BB314C797CCB8DBD">
+<mods:roleTerm id="BD81AFCA22616467922FCF2F22CA7628">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3A3C9391AD77974C20AD1C2FABE5A19C">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="7F63EA103BE2D7CC5FA6306694E9AFEA">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="55C2F9EB6E5A9EA2307919BF86ECE2CC">text</mods:typeOfResource>
+<mods:relatedItem id="617050CE673445AD53BBFA296B8CA564" type="host">
+<mods:originInfo id="6D87B10E7BE8DDDD51932CE92B87061F">
+<mods:dateIssued id="993F6A66BE21D58BB081BFA35DC28B7B">1946</mods:dateIssued>
+<mods:dateOther id="7E78BBD1A2AAA578DF8D73BF0F1BA165" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="B5D0D3D2D2B7A3AD0944A811B5B51A2A">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="B0C3A3B3824CECEC9D04DDFA5498E33D">
+<mods:placeTerm id="BE7C01787CB70E82BC7A0863CEC51B3D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="345F83AC767FBB99E35176376B2A2C03">
+<mods:title id="1F5C192F1A1F62590F78F55B950B68AA">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="97A19EADB378E6896881BE2DF6CBF4CD">
+<mods:extent id="CC3E9A7853E0206BE4F0D31B27396777" unit="page">
+<mods:start id="20C9D6D1C7190008B495C2D643B8B17B">163</mods:start>
+<mods:end id="4319C9F0B7B95E39472E272AFBEB4C35">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F3A09A4AEFB996069F00CD8FC5CD9ADF">book chapter</mods:classification>
+<mods:identifier id="570814F0B832FA3F3F1931EA2B4CB60F" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="0C0F1AFBF9911C596D6CD72464C98DF5" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="ECC8E264E3B8A2FDB0FC1481BE2D6D73" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E94AFFA0FE5B83B494DC01B6" ID-DOI="http://doi.org/10.5281/zenodo.5223373" ID-GBIF-Taxon="183926854" ID-Zenodo-Dep="5223373" LSID="urn:lsid:plazi:treatment:03B387B8E94AFFA0FE5B83B494DC01B6" httpUri="http://treatment.plazi.org/id/03B387B8E94AFFA0FE5B83B494DC01B6" lastPageNumber="164" pageId="1" pageNumber="164">
+<subSubSection id="C3006525E94AFFA0FE5B83B4918202FA" box="[404,1012,393,437]" pageId="1" pageNumber="164" type="nomenclature">
+<paragraph id="8BA536AEE94AFFA0FE5B83B4918202FA" blockId="1.[404,1802,393,761]" box="[404,1012,393,437]" pageId="1" pageNumber="164">
+<heading id="D0ED81C2E94AFFA0FE5B83B4918202FA" box="[404,1012,393,437]" centered="true" fontSize="11" level="2" pageId="1" pageNumber="164" reason="2">
+7. 
+<taxonomicName id="4C1A4D2DE94AFFA0FE1C83B4919802FA" authority="Guenée" box="[467,1006,393,437]" class="Insecta" family="Geometridae" genus="Timandra" higherTaxonomySource="CoL" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="164" phylum="Arthropoda" rank="species" species="aventiaria">
+<emphasis id="B96EEABCE94AFFA0FE1C83B490F002FA" bold="true" box="[467,646,393,437]" pageId="1" pageNumber="164">Timandra</emphasis>
+aventiaria 
+<author id="53A7DE4BE94AFFA0FCA783B4919802FA" box="[872,1006,393,437]" pageId="1" pageNumber="164">Guenee</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94AFFA0FBC483B4963E02A6" pageId="1" pageNumber="164" type="description">
+<paragraph id="8BA536AEE94AFFA0FBC483B4963E02A6" blockId="1.[404,1802,393,761]" pageId="1" pageNumber="164">
+<treatmentCitationGroup id="AB0A1180E94AFFA0FBC483B4963E02A6" pageId="1" pageNumber="164">
+<bibCitation id="5E303EC2E94AFFA0FBC483B4963E02A6" author="Guenee" journalOrPublisher="Phal" pageId="1" pageNumber="164" pagination="3" part="2" refId="ref401" title="Fauna Brit. India, Moths 3" type="journal article" year="1852">
+<heading id="D0ED81C2E94AFFA0FBC483B4957E02FA" box="[1035,1800,393,437]" centered="true" fontSize="11" level="2" pageId="1" pageNumber="164" reason="2">
+<treatmentCitation id="0ABB10BFE94AFFA0FBC483B4973602FA" author="Guenée" box="[1035,1344,393,437]" page="3" pageId="1" pageNumber="164" year="1852">
+<journalOrPublisher id="51DB3C62E94AFFA0FBC483B4961402FA" box="[1035,1122,393,437]" pageId="1" pageNumber="164">Phal</journalOrPublisher>
+. 
+<part id="FFBE9C33E94AFFA0FBB183B496FA02FA" box="[1150,1164,393,437]" pageId="1" pageNumber="164" type="volume">2</part>
+: 
+<pagination id="B2D3C85AE94AFFA0FB7E83B496B002FA" box="[1201,1222,393,437]" pageId="1" pageNumber="164" type="pagination">3</pagination>
+, 
+<year id="FFB277FDE94AFFA0FB2783B4973602FA" box="[1256,1344,393,437]" pageId="1" pageNumber="164">1852</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE94AFFA0FA9183B4957E02FA" author="Hampson" box="[1374,1800,393,437]" page="459" pageId="1" pageNumber="164" year="1895">
+<author id="53A7DE4BE94AFFA0FA9183B4947902FA" box="[1374,1551,393,437]" pageId="1" pageNumber="164">Hampson</author>
+, 
+<title id="F91EDD98E94AFFA0F9E083B4957E02FA" box="[1583,1800,393,437]" pageId="1" pageNumber="164">Fauna Brit.</title>
+</treatmentCitation>
+</heading>
+<collectingCountry id="F30D763EE94AFFA0FE1C8382904202A6" box="[467,564,447,489]" name="India" pageId="1" pageNumber="164">India</collectingCountry>
+, Moths 
+<emphasis id="B96EEABCE94AFFA0FD05838290AA02A6" bold="true" box="[714,732,447,489]" pageId="1" pageNumber="164">3</emphasis>
+: 
+<pagination id="B2D3C85AE94AFFA0FCCF8382914A02A6" box="[768,828,447,489]" pageId="1" pageNumber="164">459</pagination>
+, fig. 206, 
+<year id="FFB277FDE94AFFA0FC3F8382963502A6" box="[1008,1091,447,489]" pageId="1" pageNumber="164">1895</year>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94AFFA0FE1B83C6974801C4" pageId="1" pageNumber="164" type="materials_examined">
+<paragraph id="8BA536AEE94AFFA0FE1B83C6974801C4" blockId="1.[404,1802,393,761]" pageId="1" pageNumber="164">
+<materialsCitation id="3B723CF3E94AFFA0FE1B83C690A4016A" ID-GBIF-Occurrence="3913642316" box="[468,722,507,549]" collectedFrom="slender looping caterpillars on Pithecolobium dulce" collectingDate="1936-06-29" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="164">
+<location id="8EC56075E94AFFA0FE1B83C69060016A" LSID="urn:lsid:plazi:treatment:03B387B8E94AFFA0FE5B83B494DC01B6:8EC56075E94AFFA0FE1B83C69060016A" box="[468,534,507,549]" pageId="1" pageNumber="164">
+<collectingMunicipality id="6BC1ACD4E94AFFA0FE1B83C69060016A" box="[468,534,507,549]" pageId="1" pageNumber="164">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE94AFFA0FDFA83C690BD016A" box="[565,715,507,549]" pageId="1" pageNumber="164" value="1929-06">
+<collectingDate id="EFE0E986E94AFFA0FDFA83C690BD016A" box="[565,715,507,549]" pageId="1" pageNumber="164" value="1929-06">June 29</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E94AFFA0FD2683C69108016A" ID-GBIF-Occurrence="3913642314" box="[745,894,507,549]" collectedFrom="slender looping caterpillars on Pithecolobium dulce" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="164">
+<date id="FFA4106EE94AFFA0FD2683C69101016A" box="[745,887,507,549]" pageId="1" pageNumber="164" value="1922-07">
+<collectingDate id="EFE0E986E94AFFA0FD2683C69101016A" box="[745,887,507,549]" pageId="1" pageNumber="164" value="1922-07">July 22</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E94AFFA0FC5683C6964C016A" ID-GBIF-Occurrence="3913642362" box="[921,1082,507,549]" collectedFrom="slender looping caterpillars on Pithecolobium dulce" collectingDate="1936-09-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="164">
+<date id="FFA4106EE94AFFA0FC5683C69645016A" box="[921,1075,507,549]" pageId="1" pageNumber="164" value="2012-09">
+<collectingDate id="EFE0E986E94AFFA0FC5683C69645016A" box="[921,1075,507,549]" pageId="1" pageNumber="164" value="2012-09">Sept. 12</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E94AFFA0FB9D83C696F2016A" ID-GBIF-Occurrence="3913642342" box="[1106,1156,507,549]" collectedFrom="slender looping caterpillars on Pithecolobium dulce" collectingDate="1936-09-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="164">20,</materialsCitation>
+<materialsCitation id="3B723CF3E94AFFA0FB5283C696B80117" ID-GBIF-Occurrence="3913642341" collectedFrom="slender looping caterpillars on Pithecolobium dulce" collectingDate="1936-10-23" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="164">
+<date id="FFA4106EE94AFFA0FB5283C6975F016A" box="[1181,1321,507,549]" pageId="1" pageNumber="164" value="1923-10">
+<collectingDate id="EFE0E986E94AFFA0FB5283C6975F016A" box="[1181,1321,507,549]" pageId="1" pageNumber="164" value="1923-10">Oct. 23</collectingDate>
+</date>
+, all from slender looping caterpillars on 
+<taxonomicName id="4C1A4D2DE94AFFA0FD64801396B10117" authority=", Swezey" authorityName="Swezey" box="[683,1223,558,600]" class="Magnoliopsida" family="Fabaceae" genus="Pithecolobium" higherTaxonomySource="CoL" kingdom="Plantae" order="Fabales" pageId="1" pageNumber="164" phylum="Tracheophyta" rank="species" species="dulce">
+<emphasis id="B96EEABCE94AFFA0FD64801396540117" box="[683,1058,558,600]" italics="true" pageId="1" pageNumber="164">
+<location id="8EC56075E94AFFA0FD64801391DF0117" LSID="urn:lsid:plazi:treatment:03B387B8E94AFFA0FE5B83B494DC01B6:8EC56075E94AFFA0FD64801391DF0117" box="[683,937,558,600]" pageId="1" pageNumber="164">Pithecolobium</location>
+dulce,
+</emphasis>
+<collectorName id="26EF5378E94AFFA0FBF4801396B10117" box="[1083,1223,558,600]" pageId="1" pageNumber="164">Swezey</collectorName>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E94AFFA0FB288013974801C4" ID-GBIF-Occurrence="3332081366" collectedFrom="reared from caterpillar on rose" collectingDate="1936-05-14" collectorName="O. H. Swezey" country="Guam" location="Merizo" pageId="1" pageNumber="164">
+<collectingMunicipality id="6BC1ACD4E94AFFA0FB28801397110117" box="[1255,1383,558,600]" pageId="1" pageNumber="164">Merizo</collectingMunicipality>
+, 
+<date id="FFA4106EE94AFFA0FA4A801394630117" box="[1413,1557,558,600]" pageId="1" pageNumber="164" value="2014-05">
+<collectingDate id="EFE0E986E94AFFA0FA4A801394630117" box="[1413,1557,558,600]" pageId="1" pageNumber="164" value="2014-05">May 14</collectingDate>
+</date>
+, reared from caterpillar on rose, 
+<collectorName id="26EF5378E94AFFA0FCCA805C91FA01C4" box="[773,908,609,651]" pageId="1" pageNumber="164">Swezey</collectorName>
+. 
+<location id="8EC56075E94AFFA0FC7C805C919C01C4" LSID="urn:lsid:plazi:treatment:03B387B8E94AFFA0FE5B83B494DC01B6:8EC56075E94AFFA0FC7C805C919C01C4" box="[947,1002,609,651]" pageId="1" pageNumber="164">All</location>
+<specimenCount id="9D1CFD27E94AFFA0FBCE805C96D901C4" box="[1025,1199,609,651]" pageId="1" pageNumber="164" type="generic">specimens</specimenCount>
+reared.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94AFFA0FE1C80A194DC01B6" pageId="1" pageNumber="164" type="description">
+<paragraph id="8BA536AEE94AFFA0FE1C80A194DC01B6" blockId="1.[404,1802,393,761]" pageId="1" pageNumber="164">
+This moth occurs throughout 
+<collectingCountry id="F30D763EE94AFFA0FBDE80A196190189" box="[1041,1135,668,710]" name="India" pageId="1" pageNumber="164">India</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94AFFA0FB5E80A1977A0189" box="[1169,1292,668,710]" name="Sri Lanka" pageId="1" pageNumber="164">Ceylon</collectingCountry>
+, and 
+<collectingCountry id="F30D763EE94AFFA0FA4C80A197890189" box="[1411,1535,668,710]" name="Myanmar" pageId="1" pageNumber="164">Burma</collectingCountry>
+, and in Java, 
+<collectingCountry id="F30D763EE94AFFA0FE5A80F2904201B6" box="[405,564,719,761]" name="Taiwan" pageId="1" pageNumber="164">Formosa</collectingCountry>
+, and 
+<collectingCountry id="F30D763EE94AFFA0FD5280F2913301B6" box="[669,837,719,761]" name="Australia" pageId="1" pageNumber="164">Australia</collectingCountry>
+. It is now recorded for the first time in 
+<collectingCountry id="F30D763EE94AFFA0F9F680F294D301B6" box="[1593,1701,719,761]" name="Guam" pageId="1" pageNumber="164">Guam</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,191 @@
+<document id="724B6DF60750955E0C2926880634C733" ID-DOI="http://doi.org/10.5281/zenodo.5164064" ID-GBIF-Dataset="8ddfacbb-c42b-4385-b70b-ea5bd759c377" ID-Zenodo-Dep="5164064" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628020838575" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03938792FFDAFFCBFE3AFBA6828EF84A" docLanguage="en" docName="InsectsOfGuamII.189.149-156.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Perkinsiella thompsoni Muir" docType="treatment" docVersion="14" lastPageNumber="150" masterDocId="FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9" masterDocTitle="Notes On Some Fulgoroidea Of Guam" masterLastPageNumber="156" masterPageNumber="149" pageNumber="150" updateTime="1671318232748" updateUser="annettekang">
+<mods:mods id="953F276AA258068ACB5D88BA1BBF49C6" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B9D5FEE2783581045CCB1FB449D1DD53">
+<mods:title id="BB90BD84C69E921F3F98AD24D65F3739">Notes On Some Fulgoroidea Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="57CDD5FE6D54F71BED6A113EBCE39D59" type="personal">
+<mods:role id="199B3AD7685AE41899329ECBFDB63FC4">
+<mods:roleTerm id="FED4234DAC0005CCD37FCEDF533680D9">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="0A987D4418C92203289040522FCF0667">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="9B8360094955F24552BC985E784359CC">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="064BD0CF50BC331AA9E36AF4C5ACF035">text</mods:typeOfResource>
+<mods:relatedItem id="A7A58F2E1C15E9BB0EE7CAA31B1CAF68" type="host">
+<mods:originInfo id="5A8D6D190E159144B080812AE2EE66C6">
+<mods:dateIssued id="025AEB0D97FE379EACD93B1CB80A3F6B">1946</mods:dateIssued>
+<mods:dateOther id="A23F6E5F074791C1C1CA2217F7BFD999" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="4E156CFF7BB4B603F3A27A7E58FCA8D8">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="1A9C5710FDD87A9150CDDACBCDFB2371">
+<mods:placeTerm id="1586DC24FA216D47BED27BCAC5B48531">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="37F866FFF8EDF98C0B74F2617AA338A0">
+<mods:title id="3864503A485E97DC52E65CBA5CBB7515">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="1AD6551C70CFD22D2A6CADE9CC914349">
+<mods:extent id="611D5586B9277F52E4D54C704E16E563" unit="page">
+<mods:start id="C66F38CEB47FD712B4A1A92911709295">149</mods:start>
+<mods:end id="84691ED5CEC4E79165C8CD8630C191C5">156</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="3993AFD412498435E76A213149F901DD">book chapter</mods:classification>
+<mods:identifier id="ABC07287EC85FD46E3EED06A2BEF09B7" type="DOI">http://doi.org/10.5281/zenodo.5164064</mods:identifier>
+<mods:identifier id="CAF68DC88C5BCECD344A4DC52673BCC7" type="GBIF-Dataset">8ddfacbb-c42b-4385-b70b-ea5bd759c377</mods:identifier>
+<mods:identifier id="8BB63FBD90B9FC87117B63112D0ABCF9" type="Zenodo-Dep">5164064</mods:identifier>
+</mods:mods>
+<treatment id="03938792FFDAFFCBFE3AFBA6828EF84A" ID-DOI="http://doi.org/10.5281/zenodo.5211518" ID-GBIF-Taxon="183925048" ID-Zenodo-Dep="5211518" LSID="urn:lsid:plazi:treatment:03938792FFDAFFCBFE3AFBA6828EF84A" httpUri="http://treatment.plazi.org/id/03938792FFDAFFCBFE3AFBA6828EF84A" lastPageNumber="150" pageId="1" pageNumber="150">
+<subSubSection id="C320650FFFDAFFCBFE3AFBA68268FB7C" box="[452,1049,1131,1173]" pageId="1" pageNumber="150" type="nomenclature">
+<paragraph id="8B853684FFDAFFCBFE3AFBA68268FB7C" blockId="1.[450,1851,1131,1955]" box="[452,1049,1131,1173]" pageId="1" pageNumber="150">
+<heading id="D0CD81E8FFDAFFCBFE3AFBA68268FB7C" box="[452,1049,1131,1173]" fontSize="11" level="2" pageId="1" pageNumber="150" reason="2">
+<emphasis id="B94EEA96FFDAFFCBFE3AFBA685D6FB7C" bold="true" box="[452,935,1131,1173]" pageId="1" pageNumber="150">
+1. 
+<taxonomicName id="4C3A4D07FFDAFFCBFDFFFBA68263FB7C" authority="Muir" box="[513,1042,1131,1173]" class="Insecta" family="Araeopidae" genus="Perkinsiella" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="150" phylum="Arthropoda" rank="species" species="thompsoni">
+Perkinsiella thompsoni 
+<author id="5387DE61FFDAFFCBFC48FBA68263FB7C" box="[950,1042,1131,1173]" pageId="1" pageNumber="150">Muir</author>
+</taxonomicName>
+</emphasis>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDAFFCBFBD5FBA680DFFB7C" box="[1067,1710,1131,1173]" pageId="1" pageNumber="150" type="reference_group">
+<paragraph id="8B853684FFDAFFCBFBD5FBA680DFFB7C" blockId="1.[450,1851,1131,1955]" box="[1067,1710,1131,1173]" pageId="1" pageNumber="150">
+<treatmentCitationGroup id="AB2A11AAFFDAFFCBFBD5FBA680DFFB7C" box="[1067,1710,1131,1173]" pageId="1" pageNumber="150">
+<treatmentCitation id="0A9B1095FFDAFFCBFBD5FBA680DFFB7C" author="Muir" box="[1067,1710,1131,1173]" page="240" pageId="1" pageNumber="150" year="1913">
+<bibCitation id="5E103EE8FFDAFFCBFBD5FBA680D8FB7C" author="Muir" box="[1067,1705,1131,1173]" journalOrPublisher="Haw. Ent. Soc., Proc." pageId="1" pageNumber="150" pagination="240" part="2" type="journal article" year="1913">
+<journalOrPublisher id="51FB3C48FFDAFFCBFBD5FBA683CAFB7C" box="[1067,1467,1131,1173]" pageId="1" pageNumber="150">Haw. Ent. Soc., Proc.</journalOrPublisher>
+<part id="FF9E9C19FFDAFFCBFA35FBA683A8FB7C" box="[1483,1497,1131,1173]" pageId="1" pageNumber="150" type="volume">2</part>
+: 
+<pagination id="B2F3C870FFDAFFCBFA02FBA6804CFB7C" box="[1532,1597,1131,1173]" pageId="1" pageNumber="150" type="pagination">240</pagination>
+, 
+<year id="FF9277D7FFDAFFCBF9A8FBA680D8FB7C" box="[1622,1705,1131,1173]" pageId="1" pageNumber="150">1913</year>
+</bibCitation>
+.
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDAFFCBFDFDFB6B8148FB3B" box="[515,1849,1190,1234]" pageId="1" pageNumber="150" type="materials_examined">
+<paragraph id="8B853684FFDAFFCBFDFDFB6B8148FB3B" blockId="1.[450,1851,1131,1955]" box="[515,1849,1190,1234]" pageId="1" pageNumber="150">
+<materialsCitation id="3B523CD9FFDAFFCBFDFDFB6B849FFB3B" ID-GBIF-Occurrence="3914035328" box="[515,750,1190,1234]" collectingDate="1936-05-02" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="150">
+<collectingMunicipality id="6BE1ACFEFFDAFFCBFDFDFB6B8437FB3B" box="[515,582,1190,1234]" pageId="1" pageNumber="150">Piti</collectingMunicipality>
+, 
+<date id="FF841044FFDAFFCBFD9AFB6B8494FB3B" box="[612,741,1190,1234]" pageId="1" pageNumber="150">
+<collectingDate id="EFC0E9ACFFDAFFCBFD9AFB6B8494FB3B" box="[612,741,1190,1234]" pageId="1" pageNumber="150">May 2</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDAFFCBFCFBFB6B82D4FB3B" ID-GBIF-Occurrence="3914035313" box="[773,1189,1190,1234]" collectingDate="1936-08-07" collectorName="O. H. Swezey" country="Guam" location="Fonte Valley" pageId="1" pageNumber="150">
+<location id="8EE5605FFFDAFFCBFCFBFB6B8589FB3B" LSID="urn:lsid:plazi:treatment:03938792FFDAFFCBFE3AFBA6828EF84A:8EE5605FFFDAFFCBFCFBFB6B8589FB3B" box="[773,1016,1190,1234]" name="Fonte Valley" pageId="1" pageNumber="150">Fonte Valley</location>
+, 
+<date id="FF841044FFDAFFCBFBEAFB6B82EDFB3B" box="[1044,1180,1190,1234]" pageId="1" pageNumber="150">
+<collectingDate id="EFC0E9ACFFDAFFCBFBEAFB6B82EDFB3B" box="[1044,1180,1190,1234]" pageId="1" pageNumber="150">
+Aug. 
+<emphasis id="B94EEA96FFDAFFCBFB7FFB6B82D4FB3B" box="[1153,1189,1190,1234]" italics="true" pageId="1" pageNumber="150">7;</emphasis>
+</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDAFFCBFB42FB6B8148FB3B" ID-GBIF-Occurrence="3331825362" box="[1212,1849,1190,1234]" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="1" pageNumber="150">
+<collectingMunicipality id="6BE1ACFEFFDAFFCBFB42FB6B8335FB3B" box="[1212,1348,1190,1234]" pageId="1" pageNumber="150">Dededo</collectingMunicipality>
+, 
+<date id="FF841044FFDAFFCBFA9FFB6B838EFB3B" box="[1377,1535,1190,1234]" pageId="1" pageNumber="150">
+<collectingDate id="EFC0E9ACFFDAFFCBFA9FFB6B838EFB3B" box="[1377,1535,1190,1234]" pageId="1" pageNumber="150">Aug. 11.</collectingDate>
+</date>
+<location id="8EE5605FFFDAFFCBF9DEFB6B8027FB3B" LSID="urn:lsid:plazi:treatment:03938792FFDAFFCBFE3AFBA6828EF84A:8EE5605FFFDAFFCBF9DEFB6B8027FB3B" box="[1568,1622,1190,1234]" municipality="Dededo" name="All" pageId="1" pageNumber="150">All</location>
+by 
+<collectorName id="26CF5352FFDAFFCBF952FB6B8145FB3B" box="[1708,1844,1190,1234]" pageId="1" pageNumber="150">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDAFFCBFDFCFB17828EF84A" pageId="1" pageNumber="150" type="discussion">
+<paragraph id="8B853684FFDAFFCBFDFCFB178284FA3A" blockId="1.[450,1851,1131,1955]" pageId="1" pageNumber="150">
+<materialsCitation id="3B523CD9FFDAFFCBFDFCFB1785C9FAD2" ID-GBIF-Occurrence="3914035353" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="1" pageNumber="150">
+This sugar cane leafhopper was described from 
+<specimenCount id="9D3CFD0DFFDAFFCBFA5FFB178021FAEF" box="[1441,1616,1242,1286]" pageId="1" pageNumber="150" type="generic">specimens</specimenCount>
+collected in 
+<collectingCountry id="F32D7614FFDAFFCBFE3BFADD845DFAD2" box="[453,556,1296,1339]" name="Guam" pageId="1" pageNumber="150">Guam</collectingCountry>
+by 
+<location id="8EE5605FFFDAFFCBFD84FADD856FFAD2" LSID="urn:lsid:plazi:treatment:03938792FFDAFFCBFE3AFBA6828EF84A:8EE5605FFFDAFFCBFD84FADD856FFAD2" box="[634,798,1296,1339]" country="Guam" name="Fullaway" pageId="1" pageNumber="150">Fullaway</location>
+in 1911
+</materialsCitation>
+. It was later collected more abundantly by Muir in Java, which is more likely its home. Eventually it may be found on intervening islands. We found it scarce in 
+<collectingCountry id="F32D7614FFDAFFCBFB63FABB8379FA76" box="[1181,1288,1398,1439]" name="Guam" pageId="1" pageNumber="150">Guam</collectingCountry>
+. It was never conspicuous or numerous enough to be injurious to the cane.
+</paragraph>
+<paragraph id="8B853684FFDAFFCBFDFCFA29828EF84A" blockId="1.[450,1851,1131,1955]" pageId="1" pageNumber="150">
+Whenever eggs were found, they were heavily parasitized by a mymarid which apparently is the same species which was introduced from 
+<collectingRegion id="49FEF866FFDAFFCBF993F9DB814BF9A9" box="[1645,1850,1558,1600]" country="Australia" name="Queensland" pageId="1" pageNumber="150">Queensland</collectingRegion>
+to 
+<collectingRegion id="49FEF866FFDAFFCBFE06F9848409F99B" box="[504,632,1609,1650]" country="United States of America" name="Hawaii" pageId="1" pageNumber="150">Hawaii</collectingRegion>
+in 1904 
+<emphasis id="B94EEA96FFDAFFCBFCD5F9848546F99B" box="[811,823,1609,1650]" italics="true" pageId="1" pageNumber="150">(</emphasis>
+<taxonomicName id="4C3A4D07FFDAFFCBFCC9F9848329F99B" authority="Perkins" authorityName="Perkins" authorityYear="1905" box="[823,1368,1609,1650]" class="Insecta" family="Mymaridae" genus="Paranagrus" higherTaxonomySource="CoL" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="150" phylum="Arthropoda" rank="species" species="optabilis">
+<emphasis id="B94EEA96FFDAFFCBFCC9F98482DEF99B" box="[823,1199,1609,1650]" italics="true" pageId="1" pageNumber="150">Paranagrus optabilis</emphasis>
+Perkins
+</taxonomicName>
+). 
+<materialsCitation id="3B523CD9FFDAFFCBFA77F984837AF94C" ID-GBIF-Occurrence="3914035325" collectingDate="1936-06-08" collectorName="O. H. Swezey" country="Guam" location="Sinajana" pageId="1" pageNumber="150" specimenCount="43">
+<location id="8EE5605FFFDAFFCBFA77F984801BF99B" LSID="urn:lsid:plazi:treatment:03938792FFDAFFCBFE3AFBA6828EF84A:8EE5605FFFDAFFCBFA77F984801BF99B" box="[1417,1642,1609,1650]" name="At Sinajana" pageId="1" pageNumber="150">At Sinajana</location>
+, 
+<date id="FF841044FFDAFFCBF97DF984808FF99B" box="[1667,1790,1609,1650]" pageId="1" pageNumber="150">
+<collectingDate id="EFC0E9ACFFDAFFCBF97DF984808FF99B" box="[1667,1790,1609,1650]" pageId="1" pageNumber="150">June 8</collectingDate>
+</date>
+, of 
+<specimenCount id="9D3CFD0DFFDAFFCBFE3DF9B68438F94C" box="[451,585,1659,1701]" pageId="1" pageNumber="150" type="egg">43 eggs</specimenCount>
+examined, 80 percent were parasitized
+</materialsCitation>
+. 
+<materialsCitation id="3B523CD9FFDAFFCBFAD0F9B68249F931" ID-GBIF-Occurrence="3914035317" collectingDate="1936-08-07" collectorName="O. H. Swezey" country="Guam" location="Fonte Valley" pageId="1" pageNumber="150">
+<collectingMunicipality id="6BE1ACFEFFDAFFCBFAD0F9B6832CF94C" box="[1326,1373,1659,1701]" pageId="1" pageNumber="150">At</collectingMunicipality>
+<location id="8EE5605FFFDAFFCBFA93F9B68028F94C" LSID="urn:lsid:plazi:treatment:03938792FFDAFFCBFE3AFBA6828EF84A:8EE5605FFFDAFFCBFA93F9B68028F94C" box="[1389,1625,1659,1701]" municipality="At" name="Fonte Valley" pageId="1" pageNumber="150">Fonte Valley</location>
+, 
+<date id="FF841044FFDAFFCBF98EF9B6809CF94C" box="[1648,1773,1659,1701]" pageId="1" pageNumber="150">
+<collectingDate id="EFC0E9ACFFDAFFCBF98EF9B6809CF94C" box="[1648,1773,1659,1701]" pageId="1" pageNumber="150">Aug. 7</collectingDate>
+</date>
+, the few 
+<specimenCount id="9D3CFD0DFFDAFFCBFDEEF963842DF931" box="[528,604,1710,1752]" pageId="1" pageNumber="150" type="egg">eggs</specimenCount>
+found were all parasitized
+</materialsCitation>
+. 
+<materialsCitation id="3B523CD9FFDAFFCBFBA8F9638522F8E3" ID-GBIF-Occurrence="3914035337" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="1" pageNumber="150">
+<collectingMunicipality id="6BE1ACFEFFDAFFCBFBA8F96382F5F931" box="[1110,1156,1710,1752]" pageId="1" pageNumber="150">At</collectingMunicipality>
+<collectingMunicipality id="6BE1ACFEFFDAFFCBFB6CF963836AF931" box="[1170,1307,1710,1752]" pageId="1" pageNumber="150">Dededo</collectingMunicipality>
+, 
+<date id="FF841044FFDAFFCBFACEF96383B1F931" box="[1328,1472,1710,1752]" pageId="1" pageNumber="150" value="2011-08">
+<collectingDate id="EFC0E9ACFFDAFFCBFACEF96383B1F931" box="[1328,1472,1710,1752]" pageId="1" pageNumber="150" value="2011-08">Aug. 11</collectingDate>
+</date>
+, 
+<specimenCount id="9D3CFD0DFFDAFFCBFA29F9638052F931" box="[1495,1571,1710,1752]" pageId="1" pageNumber="150" type="egg">eggs</specimenCount>
+examined were 78 percent parasitized
+</materialsCitation>
+. 
+<materialsCitation id="3B523CD9FFDAFFCBFC8AF92D851AF886" ID-GBIF-Occurrence="3914035352" collectedFrom="at the Agricultural School Farm, one exit hole of Ootetrastichus was seen in a cane leaf, but no other evidence of this parasite was found." collectingDate="1936-04-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="150">
+<collectingMunicipality id="6BE1ACFEFFDAFFCBFC8AF92D85D3F8E3" box="[884,930,1760,1802]" pageId="1" pageNumber="150">At</collectingMunicipality>
+the 
+<location id="8EE5605FFFDAFFCBFC04F92D83A2F8E3" LSID="urn:lsid:plazi:treatment:03938792FFDAFFCBFE3AFBA6828EF84A:8EE5605FFFDAFFCBFC04F92D83A2F8E3" box="[1018,1491,1760,1802]" municipality="At" name="Agricultural School Farm" pageId="1" pageNumber="150">Agricultural School Farm</location>
+, 
+<location id="8EE5605FFFDAFFCBFA10F92D8040F8E3" LSID="urn:lsid:plazi:treatment:03938792FFDAFFCBFE3AFBA6828EF84A:8EE5605FFFDAFFCBFA10F92D8040F8E3" box="[1518,1585,1760,1802]" municipality="At" name="Piti" pageId="1" pageNumber="150">Piti</location>
+, 
+<date id="FF841044FFDAFFCBF9B4F92D8097F8E3" box="[1610,1766,1760,1802]" pageId="1" pageNumber="150" value="1930-04">
+<collectingDate id="EFC0E9ACFFDAFFCBF9B4F92D8097F8E3" box="[1610,1766,1760,1802]" pageId="1" pageNumber="150" value="1930-04">April 30</collectingDate>
+</date>
+, one exit hole of 
+<taxonomicName id="4C3A4D07FFDAFFCBFD55F8DE85DBF8D2" authorityName="Perkins" authorityYear="1906" box="[683,938,1811,1851]" class="Insecta" family="Eulophidae" genus="Ootetrastichus" higherTaxonomySource="CoL" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="150" phylum="Arthropoda" rank="genus">
+<emphasis id="B94EEA96FFDAFFCBFD55F8DE85DBF8D2" box="[683,938,1811,1851]" italics="true" pageId="1" pageNumber="150">
+<location id="8EE5605FFFDAFFCBFD55F8DE85DBF8D2" LSID="urn:lsid:plazi:treatment:03938792FFDAFFCBFE3AFBA6828EF84A:8EE5605FFFDAFFCBFD55F8DE85DBF8D2" box="[683,938,1811,1851]" municipality="At" name="Ootetrastichus" pageId="1" pageNumber="150">Ootetrastichus</location>
+</emphasis>
+</taxonomicName>
+was seen in a cane leaf, but no other evidence of this parasite was found
+</materialsCitation>
+. It is apparent that 
+<taxonomicName id="4C3A4D07FFDAFFCBFB16F88A83C7F886" authorityName="Perkins" authorityYear="1905" box="[1256,1462,1863,1903]" class="Insecta" family="Mymaridae" genus="Paranagrus" higherTaxonomySource="CoL" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="150" phylum="Arthropoda" rank="genus">
+<emphasis id="B94EEA96FFDAFFCBFB16F88A83C7F886" box="[1256,1462,1863,1903]" italics="true" pageId="1" pageNumber="150">Paranagrus</emphasis>
+</taxonomicName>
+has sufficient control of this leafhopper to prevent its being a pest.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

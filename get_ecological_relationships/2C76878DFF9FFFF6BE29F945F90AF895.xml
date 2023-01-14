@@ -1,0 +1,87 @@
+<document id="FA8AAB6111485BA47977926487EE67B3" ID-DOI="http://doi.org/10.5281/zenodo.5160233" ID-GBIF-Dataset="16f6ef92-619b-417b-946c-22d9b1445e7d" ID-Zenodo-Dep="5160233" checkinTime="1628022546680" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="2C76878DFF9FFFF6BE29F945F90AF895" docLanguage="en" docName="InsectsOfGuamII.189.3-8.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docTitle="Gryllus conspersus Schaum, Berlin Akad." docType="treatment" docVersion="16" lastPageNumber="5" masterDocId="D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8" masterDocTitle="Orthoptera And Related Orders Orthoptera And Related Orders Of Guam" masterLastPageNumber="8" masterPageNumber="3" pageNumber="5" updateTime="1657636930491" updateUser="annettekang">
+<mods:mods id="2F3A0C0E567B343EEB6F598ABEF3FAD1" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="82B77134D6BFF75866F2ACD2CEDFC154">
+<mods:title id="0DA43B0B4E46C4F857FC341E9BFBFDBC">Orthoptera And Related Orders Orthoptera And Related Orders Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="FC0E002EDF6AFE439ECC9337E0BFD9DC" type="personal">
+<mods:role id="766D44AC85AF2C15C339831A29061FD0">
+<mods:roleTerm id="33FCCC764814903F491AB32EC9C2F632">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="088B2B970B3A0AB2436556B69E69D049">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="5DC9C3753B26F559F208075D4CDD5781">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="E2144998087568C4F4B226FA58EA96E6">text</mods:typeOfResource>
+<mods:relatedItem id="194849A0C157D2CBE31D53E5A0A65C84" type="host">
+<mods:originInfo id="E613D178E29EE7D4E998D472F34E97DB">
+<mods:dateIssued id="94C79BF1D9B3BE715EC3176F546477CA">1946</mods:dateIssued>
+<mods:dateOther id="6AC49B50144D546825DA88C025302DAC" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="3FD7BA70E728D37016F80279DEE88672">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="313A088A0928AB25952313FA401AFE08">
+<mods:placeTerm id="100748D0DC9CFD0DF0223209D0278C57">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="C75E0C5C8493E6A32E50A3DF63DF2E91">
+<mods:title id="98751223D07BECC16109AAA6DE961ABA">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="B55EA5F05C692AF4B456F1E1C33D9E95">
+<mods:extent id="754A1C9EE0D8F07500F1D0AF4953E654" unit="page">
+<mods:start id="1776590A90B523E3C5D344FE91C34AC6">3</mods:start>
+<mods:end id="CC1D7A7491051DFC14DADAFE480351E2">8</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="852172510977AAE32C3FE47873F83FDA">book chapter</mods:classification>
+<mods:identifier id="E23244C109B988BD2CE57CE68185F226" type="DOI">http://doi.org/10.5281/zenodo.5160233</mods:identifier>
+<mods:identifier id="66B22424836209B19BC2D8548AC6C128" type="GBIF-Dataset">16f6ef92-619b-417b-946c-22d9b1445e7d</mods:identifier>
+<mods:identifier id="09A16D8FE4B4769022DC447FC259505B" type="Zenodo-Dep">5160233</mods:identifier>
+</mods:mods>
+<treatment id="2C76878DFF9FFFF6BE29F945F90AF895" ID-DOI="http://doi.org/10.5281/zenodo.5222352" ID-GBIF-Taxon="183924939" ID-Zenodo-Dep="5222352" LSID="urn:lsid:plazi:treatment:2C76878DFF9FFFF6BE29F945F90AF895" httpUri="http://treatment.plazi.org/id/2C76878DFF9FFFF6BE29F945F90AF895" lastPageNumber="5" pageId="2" pageNumber="5">
+<subSubSection id="ECC56510FF9FFFF6BE29F945FC2CF8C1" box="[321,919,1775,1817]" pageId="2" pageNumber="5" type="nomenclature">
+<paragraph id="A460369BFF9FFFF6BE29F945FC2CF8C1" blockId="2.[321,1713,1775,1869]" box="[321,919,1775,1817]" pageId="2" pageNumber="5">
+<emphasis id="96ABEA89FF9FFFF6BE29F945FECAF8C1" bold="true" box="[321,369,1775,1817]" pageId="2" pageNumber="5">10.</emphasis>
+<taxonomicName id="63DF4D18FF9FFFF6BEFBF945FC2AF8C1" authority="Schaum, Berlin Akad." authorityName="Schaum, Berlin Akad." box="[403,913,1775,1817]" class="Insecta" family="Haglotettigoniidae" genus="Gryllus" kingdom="Animalia" order="Orthoptera" pageId="2" pageNumber="5" phylum="Arthropoda" rank="species" species="conspersus">
+<emphasis id="96ABEA89FF9FFFF6BEFBF945FD56F8C1" bold="true" box="[403,749,1775,1817]" pageId="2" pageNumber="5">Gryllus conspersus</emphasis>
+<author id="7C62DE7EFF9FFFF6BD97F945FC2AF8C1" box="[767,913,1775,1817]" pageId="2" pageNumber="5">Schaum</author>
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9FFFF6BCC0F945FAE4F8C1" box="[936,1375,1775,1817]" pageId="2" pageNumber="5" type="reference_group">
+<paragraph id="A460369BFF9FFFF6BCC0F945FAE4F8C1" blockId="2.[321,1713,1775,1869]" box="[936,1375,1775,1817]" pageId="2" pageNumber="5">
+<treatmentCitationGroup id="84CF11B5FF9FFFF6BCC0F945FAE4F8C1" box="[936,1375,1775,1817]" pageId="2" pageNumber="5">
+<treatmentCitation id="257E108AFF9FFFF6BCC0F945FAE4F8C1" author="Schaum" box="[936,1375,1775,1817]" page="776" pageId="2" pageNumber="5" year="1853">
+<bibCitation id="71F53EF7FF9FFFF6BCC0F945FAE4F8C1" author="Schaum" box="[936,1375,1775,1817]" journalOrPublisher="Berlin Akad." pageId="2" pageNumber="5" pagination="776" refId="ref1320" type="book" year="1853">
+<journalOrPublisher id="7E1E3C57FF9FFFF6BCC0F945FB2CF8C1" box="[936,1175,1775,1817]" pageId="2" pageNumber="5">Berlin Akad.</journalOrPublisher>
+, 
+<emphasis id="96ABEA89FF9FFFF6BBC6F945FB4FF8C1" box="[1198,1268,1775,1817]" italics="true" pageId="2" pageNumber="5">
+<pagination id="9D16C86FFF9FFFF6BBC6F945FB55F8C1" box="[1198,1262,1775,1817]" pageId="2" pageNumber="5">776</pagination>
+,
+</emphasis>
+<year id="D07777C8FF9FFFF6BA60F945FAE1F8C1" box="[1288,1370,1775,1817]" pageId="2" pageNumber="5">1853</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9FFFF6BE16F889F90AF895" box="[382,1713,1827,1869]" pageId="2" pageNumber="5" type="materials_examined">
+<paragraph id="A460369BFF9FFFF6BE16F889F90AF895" blockId="2.[321,1713,1775,1869]" box="[382,1713,1827,1869]" pageId="2" pageNumber="5">
+<materialsCitation id="14B73CC6FF9FFFF6BE16F889FB63F895" ID-GBIF-Occurrence="3331604304" box="[382,1240,1827,1869]" collectedFrom="in house" collectingDate="1936-05-28" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5" specimenCount="1">
+One 
+<specimenCount id="B2D9FD12FF9FFFF6BEBCF889FDCCF895" box="[468,631,1827,1869]" pageId="2" pageNumber="5" type="generic">specimen</specimenCount>
+in house at 
+<collectingMunicipality id="4404ACE1FF9FFFF6BC31F889FC27F895" box="[857,924,1827,1869]" pageId="2" pageNumber="5">Piti</collectingMunicipality>
+, 
+<date id="D061105BFF9FFFF6BCDAF889FB81F895" box="[946,1082,1827,1869]" pageId="2" pageNumber="5" value="1928-05">
+<collectingDate id="C025E9B3FF9FFFF6BCDAF889FB81F895" box="[946,1082,1827,1869]" pageId="2" pageNumber="5" value="1928-05">May 28</collectingDate>
+</date>
+, 
+<collectorName id="092A534DFF9FFFF6BB38F889FB63F895" box="[1104,1240,1827,1869]" pageId="2" pageNumber="5">Swezey</collectorName>
+</materialsCitation>
+. It also oc~urs in 
+<collectingRegion id="661BF879FF9FFFF6B94DF889F917F895" box="[1573,1708,1827,1869]" country="United States of America" name="Hawaii" pageId="2" pageNumber="5">Hawaii</collectingRegion>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

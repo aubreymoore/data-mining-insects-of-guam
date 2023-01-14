@@ -1,0 +1,99 @@
+<document id="12FE591216F96BC5F8740935124FA859" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5553F344BF3E806FCB8C86C" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Saldula balnearum" docType="treatment" docVersion="21" lastPageNumber="100" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="100" updateTime="1671682451356" updateUser="annettekang">
+<mods:mods id="E77EA388DCA505E9B21EF78BB0F6F6EB" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="4E8DE1394D70E9DDBDFC149CC9483B0F">
+<mods:title id="5FDB1BBDA9823AABF4CEB3D74D8D463E">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="E627F25BF5FBC0F0497BC5D2CD6FCE61" type="personal">
+<mods:role id="26D81C5CAAC5DD32D27A378E7CFF10D8">
+<mods:roleTerm id="73EE1E340B0981C7D3AB360793AFA83D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2842841AE32C6CC53D23F0F133CCA28B">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="012FE6F50CA5B6A85AB74D83C4644561">text</mods:typeOfResource>
+<mods:relatedItem id="4422FAC82513EEA15F4E58AE48A5168D" type="host">
+<mods:originInfo id="C1A4E7EF5B5D69C50E472E33C911AF16">
+<mods:dateIssued id="92DC3ADA12C61E84047E785E542C9773">1946</mods:dateIssued>
+<mods:dateOther id="61A8C82A6141622A09B3A264756AEBA7" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="26BBFD461B692245626955B0428BCE6A">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="8C6537D935F3C0385177E09548B4C2A0">
+<mods:placeTerm id="8FF7E8D0C1738965D7E5B32FB3DDDABB">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="8EE979BBAACFE29948D4357404794DD3">
+<mods:title id="A82A25B9B7BEA1B3767FD7B288676A8D">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="3D42394FEC23BCC014A36502958C101C">
+<mods:extent id="6A3D76C9A22C69E56BCD4D6E35ADCDF0" unit="page">
+<mods:start id="7E78AF04247E07EBA065D3D18C658AEC">11</mods:start>
+<mods:end id="DBC7F8CF86DEAB3D9F74C9AAC1531D27">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="24915337CF12F7A73A7CC971A1D18B99">book chapter</mods:classification>
+<mods:identifier id="4CDFE96E3CFF03331ADEAE1E7EDBCB3A" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="F574A120A6285ADEFCA25CFA04F4A96F" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="736416636625E61E0FA8D4EAED2C3DCC" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5553F344BF3E806FCB8C86C" ID-DOI="http://doi.org/10.5281/zenodo.5186628" ID-GBIF-Taxon="184601097" ID-Zenodo-Dep="5186628" LSID="urn:lsid:plazi:treatment:EC6DA359F5553F344BF3E806FCB8C86C" httpUri="http://treatment.plazi.org/id/EC6DA359F5553F344BF3E806FCB8C86C" lastPageNumber="100" pageId="89" pageNumber="100">
+<subSubSection id="2CDE41C4F5553F344BF3E806FBCDC6F1" box="[403,1065,1902,1945]" pageId="89" pageNumber="100" type="nomenclature">
+<paragraph id="647B124FF5553F344BF3E806FBCDC6F1" blockId="89.[403,1801,1902,2308]" box="[403,1065,1902,1945]" pageId="89" pageNumber="100">
+<heading id="3F33A523F5553F344BF3E806FBCDC6F1" box="[403,1065,1902,1945]" fontSize="8" level="2" pageId="89" pageNumber="100" reason="4">
+<emphasis id="56B0CE5DF5553F344BF3E806FE20C6F1" bold="true" box="[403,452,1902,1945]" pageId="89" pageNumber="100">95.</emphasis>
+<taxonomicName id="A3C469CCF5553F344B86E806FBC7C6F1" authority="(Bergroth)" box="[486,1059,1902,1945]" class="Insecta" family="Saldidae" genus="Saldula" kingdom="Animalia" order="Hemiptera" pageId="89" pageNumber="100" phylum="Arthropoda" rank="species" species="balnearum">
+<emphasis id="56B0CE5DF5553F344B86E806FCDBC6F1" bold="true" box="[486,831,1902,1945]" pageId="89" pageNumber="100">Saldula balnearum</emphasis>
+(Bergroth)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5553F344BAFE8C9F975C6A3" box="[463,1681,1953,1995]" pageId="89" pageNumber="100" type="description">
+<paragraph id="647B124FF5553F344BAFE8C9F975C6A3" blockId="89.[403,1801,1902,2308]" box="[463,1681,1953,1995]" pageId="89" pageNumber="100">
+<bibCitation id="B1EE1A23F5553F344BAFE8C9F975C6A3" author="Bergroth" box="[463,1681,1953,1995]" journalOrPublisher="Philippine Jour. Sci." pageId="89" pageNumber="100" pagination="123" part="13" refId="ref48717" type="book" year="1918">
+<treatmentCitationGroup id="44D43561F5553F344BAFE8C9F968C6A3" box="[463,1676,1953,1995]" pageId="89" pageNumber="100">
+<treatmentCitation id="E565345EF5553F344BAFE8C9F968C6A3" author="Bergrouth" box="[463,1676,1953,1995]" page="123" pageId="89" pageNumber="100" year="1918">
+<emphasis id="56B0CE5DF5553F344BAFE8C9FCD0C6A3" box="[463,820,1953,1995]" italics="true" pageId="89" pageNumber="100">Acanthia balnearum</emphasis>
+<author id="BC79FAAAF5553F344924E8C9FC02C6A3" box="[836,998,1953,1995]" pageId="89" pageNumber="100">Bergroth</author>
+, 
+<journalOrPublisher id="BE051883F5553F34499DE8C9FA8CC6A3" box="[1021,1384,1953,1995]" pageId="89" pageNumber="100">Philippine Jour. Sci.</journalOrPublisher>
+<emphasis id="56B0CE5DF5553F344F1BE8C9FA25C6A3" bold="true" box="[1403,1473,1953,1995]" pageId="89" pageNumber="100">
+<part id="1060B8D2F5553F344F1BE8C9FA7BC6A3" box="[1403,1439,1953,1995]" pageId="89" pageNumber="100">13</part>
+D:
+</emphasis>
+<pagination id="5D0DECBBF5553F344F83E8C9F9C5C6A3" box="[1507,1569,1953,1995]" pageId="89" pageNumber="100">123</pagination>
+, 
+<year id="106C531CF5553F344C59E8C9F968C6A3" box="[1593,1676,1953,1995]" pageId="89" pageNumber="100">1918</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5553F344BB2E8BEF9D4C969" box="[466,1584,2006,2049]" pageId="89" pageNumber="100" type="description">
+<paragraph id="647B124FF5553F344BB2E8BEF9D4C969" blockId="89.[403,1801,1902,2308]" box="[466,1584,2006,2049]" pageId="89" pageNumber="100">
+<materialsCitation id="D4AC1812F5553F344BB2E8BEF9CFC969" ID-GBIF-Occurrence="3994028502" box="[466,1579,2006,2049]" collectingDate="1936-05-16" collectorName="R. L. Usinger" country="Guam" location="Mount Chachao" pageId="89" pageNumber="100" specimenCount="5">
+Four 
+<specimenCount id="72C2D9C6F5553F34485BE8BEFD43C969" box="[571,679,2006,2049]" pageId="89" pageNumber="100" type="adult">adults</specimenCount>
+and one nymph, 
+<collectingMunicipality id="841F8835F5553F34498DE8BEFB3FC969" box="[1005,1243,2006,2049]" pageId="89" pageNumber="100">Mt. Chachao</collectingMunicipality>
+, 
+<date id="107A348FF5553F344E90E8BEFA98C969" box="[1264,1404,2006,2049]" pageId="89" pageNumber="100" value="2016-05">
+<collectingDate id="003ECD67F5553F344E90E8BEFA98C969" box="[1264,1404,2006,2049]" pageId="89" pageNumber="100" value="2016-05">May 16</collectingDate>
+</date>
+, 
+<location id="611B4494F5553F344FF4E8BEF9CFC969" LSID="urn:lsid:plazi:treatment:EC6DA359F5553F344BF3E806FCB8C86C:611B4494F5553F344FF4E8BEF9CFC969" box="[1428,1579,2006,2049]" municipality="Mt. Chachao" name="Usinger" pageId="89" pageNumber="100">Usinger</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5553F344BB3E763FCB8C86C" pageId="89" pageNumber="100" type="description">
+<paragraph id="647B124FF5553F344BB3E763FCB8C86C" blockId="89.[403,1801,1902,2308]" pageId="89" pageNumber="100">
+The males are 
+<quantity id="A33CBFAAF5553F344886E763FCB5C95E" box="[742,849,2059,2102]" metricMagnitude="-3" metricUnit="m" metricValue="3.0" pageId="89" pageNumber="100" unit="mm" value="3.0">3 mm</quantity>
+. in length, the females 
+<quantity id="A33CBFAAF5553F344F65E763FA96C95E" box="[1285,1394,2059,2102]" metricMagnitude="-3" metricUnit="m" metricValue="4.0" pageId="89" pageNumber="100" unit="mm" value="4.0">4 mm</quantity>
+. These specimens are similar in color and agree fairly well with the description of Bergroth's species from Los Banos, although he describes the male as larger than the female. A detailed comparison is impossible because I have no specimens of the Philippine species.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

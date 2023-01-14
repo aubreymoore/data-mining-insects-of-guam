@@ -1,0 +1,150 @@
+<document id="CC058D86CF7874FBCB4DC16FEC5B13DD" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF918FFF9FEB2FCEAFB181AA0" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Saissetia nigra" docType="treatment" docVersion="13" lastPageNumber="159" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="159" updateTime="1661283434230" updateUser="ExternalLinkService">
+<mods:mods id="1A5C3BA4F848F5D49BAFADCF7156AC7F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="8B86E32E82DE1CC20D90944CC0F4BBE4">
+<mods:title id="DE728E3587CE9C13B266357CCCFC98C9">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="94E6616F4E13726481AD8E4C1F02F5D9" type="personal">
+<mods:role id="1035785C1E76D686FFD83BC2520A9482">
+<mods:roleTerm id="86B51FFA7BC35E41B835B075CF770870">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1C1DBFE1CEFFF7A88C8267BB580DAC94">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="C2391BEE8424D0EE2C4C00CB632E72B6">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="0A9EFAE6E91316EE7D4D7265C7A986F3">text</mods:typeOfResource>
+<mods:relatedItem id="BD40A8A7DDBD86DCDD6755A772A6D8A9" type="host">
+<mods:originInfo id="DB1E3CD189BB2BCCEDFE9D2F2AA57AB4">
+<mods:dateIssued id="AF6A0904D8C9450307B3EBB57D8E7505">1946</mods:dateIssued>
+<mods:dateOther id="B4D2141B74EC3E468CDE23A8023C11E0" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="5FE012015229D7941039B7970722E962">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="5291DA03A5201602AC97B954A0CAEE0F">
+<mods:placeTerm id="188AF7C14AEB5BAAF9AFA42CCC69858D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="4EA395243E0E10DBC13B64A103C948C9">
+<mods:title id="03A9A5F4B1699D02F7042E7831335F2C">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="337BEFF4CF6B09FB7D90480A6B2688A4">
+<mods:extent id="78F944A6E8F690B8F099103440FFD29E" unit="page">
+<mods:start id="7667041C14C47A7B057C2A4FAAE7A431">157</mods:start>
+<mods:end id="FF33CA6EDD2336061136E9FFE0A44629">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="C13AFBC39F6E3C82EAB9CEDD74254BA1">book chapter</mods:classification>
+<mods:identifier id="0711BD06AD956606AFA71E330DDE4862" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="2FDFC9B0178999EDE8AD6F57125C1235" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="A4C381413F755B7C2A1B4D62499E62DF" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF918FFF9FEB2FCEAFB181AA0" ID-DOI="http://doi.org/10.5281/zenodo.5158033" ID-GBIF-Taxon="183925207" ID-Zenodo-Dep="5158033" LSID="urn:lsid:plazi:treatment:F03E87AAF918FFF9FEB2FCEAFB181AA0" httpUri="http://treatment.plazi.org/id/F03E87AAF918FFF9FEB2FCEAFB181AA0" lastPageNumber="159" pageId="2" pageNumber="159">
+<subSubSection id="308D6537F918FFF9FEB2FCEAFC9A1DA3" box="[304,862,884,925]" pageId="2" pageNumber="159" type="nomenclature">
+<paragraph id="782836BCF918FFF9FEB2FCEAFC9A1DA3" blockId="2.[304,1703,884,1182]" box="[304,862,884,925]" pageId="2" pageNumber="159">
+<heading id="236081D0F918FFF9FEB2FCEAFC9A1DA3" box="[304,862,884,925]" fontSize="8" level="2" pageId="2" pageNumber="159" reason="4">
+<emphasis id="4AE3EAAEF918FFF9FEB2FCEAFEA61DA3" bold="true" box="[304,354,884,925]" pageId="2" pageNumber="159">24.</emphasis>
+<taxonomicName id="BF974D3FF918FFF9FE06FCEAFC9C1DA3" authority="(Nietner)" baseAuthorityName="Nietner" baseAuthorityYear="1861" box="[388,856,884,925]" class="Insecta" family="Coccidae" genus="Saissetia" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="159" phylum="Arthropoda" rank="species" species="nigra">
+<emphasis id="4AE3EAAEF918FFF9FE06FCEAFD501DA3" bold="true" box="[388,660,884,925]" pageId="2" pageNumber="159">Saissetia nigra</emphasis>
+(Nietner)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F918FFF9FEF2FC38FA091DEF" box="[368,1485,934,977]" pageId="2" pageNumber="159" type="description">
+<paragraph id="782836BCF918FFF9FEF2FC38FA091DEF" blockId="2.[304,1703,884,1182]" box="[368,1485,934,977]" pageId="2" pageNumber="159">
+<treatmentCitationGroup id="58871192F918FFF9FEF2FC38FA091DEF" box="[368,1485,934,977]" pageId="2" pageNumber="159">
+<treatmentCitation id="F93610ADF918FFF9FEF2FC38FA0C1DEF" author="Nietner" box="[368,1480,934,977]" pageId="2" pageNumber="159" year="1861">
+<taxonomicName id="BF974D3FF918FFF9FEF2FC38FC801DEF" authority="Nietner, Enemies" authorityName="Nietner, Enemies" authorityYear="1861" box="[368,836,934,977]" class="Insecta" family="Coccidae" genus="Lecanium" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="159" phylum="Arthropoda" rank="species" species="nigrum">
+<emphasis id="4AE3EAAEF918FFF9FEF2FC38FD681DEF" box="[368,684,934,977]" italics="true" pageId="2" pageNumber="159">Lecanium nigrum</emphasis>
+<bibCitation id="ADBD3ED0F918FFF9FD3EFC38FA0C1DEF" author="Nietner" box="[700,1480,934,977]" pageId="2" pageNumber="159" title="Enemies of the coffee tree" type="book" year="1861">
+<author id="A02ADE59F918FFF9FD3EFC38FC801DEF" box="[700,836,934,977]" pageId="2" pageNumber="159">Nietner</author>
+, 
+<title id="0A93DD8AF918FFF9FCD8FC38FAF41DEF" box="[858,1328,934,977]" pageId="2" pageNumber="159">Enemies of the coffee tree</title>
+, 9, 
+<year id="0C3F77EFF918FFF9FAF4FC38FA0C1DEF" box="[1398,1480,934,977]" pageId="2" pageNumber="159">1861</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F918FFF9FEF2FC47FB181AA0" pageId="2" pageNumber="159" type="description">
+<paragraph id="782836BCF918FFF9FEF2FC47FB181AA0" blockId="2.[304,1703,884,1182]" pageId="2" pageNumber="159">
+<materialsCitation id="C8FF3CE1F918FFF9FEF2FC47FAE71A3A" ID-GBIF-Occurrence="3331839332" box="[368,1315,985,1028]" collectedFrom="on cotton, Ceara rubber, kapok" collectingDate="1911-1939" collectorName="D. T. Fullaway and R. G. Oakley" country="Guam" location="Guam" pageId="2" pageNumber="159">
+<collectingMunicipality id="984CACC6F918FFF9FEF2FC47FE631A3A" box="[368,423,985,1028]" pageId="2" pageNumber="159">On</collectingMunicipality>
+cotton, 
+<location id="7D486067F918FFF9FDC4FC47FD6F1A3A" LSID="urn:lsid:plazi:treatment:F03E87AAF918FFF9FEB2FCEAFB181AA0:7D486067F918FFF9FDC4FC47FD6F1A3A" box="[582,683,985,1028]" municipality="On" name="Ceara" pageId="2" pageNumber="159">Ceara</location>
+rubber, kapok, 
+<collectorName id="D562536AF918FFF9FC57FC47FBB81A3A" box="[981,1148,985,1028]" pageId="2" pageNumber="159">Fullaway</collectorName>
+, 
+<collectorName id="D562536AF918FFF9FB14FC47FAD81A3A" box="[1174,1308,985,1028]" pageId="2" pageNumber="159">Oakley</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F918FFF9FAB5FC47FC921A06" ID-GBIF-Occurrence="3331839323" collectedFrom="on Barringtonia speciosa" collectingDate="1936-05-30" collectorName="O. H. Swezey" country="Guam" location="Tumon" pageId="2" pageNumber="159">
+<collectingMunicipality id="984CACC6F918FFF9FAB5FC47FA7E1A3A" box="[1335,1466,985,1028]" pageId="2" pageNumber="159">Tumon</collectingMunicipality>
+, 
+<date id="0C29107CF918FFF9FA57FC47F9A71A3A" box="[1493,1635,985,1028]" pageId="2" pageNumber="159" value="1930-05">
+<collectingDate id="1C6DE994F918FFF9FA57FC47F9A71A3A" box="[1493,1635,985,1028]" pageId="2" pageNumber="159" value="1930-05">May 30</collectingDate>
+</date>
+, on 
+<emphasis id="4AE3EAAEF918FFF9FEB2FB93FD721A06" box="[304,694,1037,1080]" italics="true" pageId="2" pageNumber="159">
+<location id="7D486067F918FFF9FEB2FB93FD741A06" LSID="urn:lsid:plazi:treatment:F03E87AAF918FFF9FEB2FCEAFB181AA0:7D486067F918FFF9FEB2FB93FD741A06" box="[304,688,1037,1080]" municipality="Tumon" name="Barringtoniaspeciosa" pageId="2" pageNumber="159">Barringtoniaspeciosa</location>
+,
+</emphasis>
+<collectorName id="D562536AF918FFF9FD41FB93FC8B1A06" box="[707,847,1037,1080]" pageId="2" pageNumber="159">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F918FFF9FCE7FB93FA6A1A06" ID-GBIF-Occurrence="3331839315" box="[869,1454,1037,1080]" collectedFrom="on corn" collectingDate="1936-08-02" collectorName="O. H. Swezey" country="Guam" location="Sumay" pageId="2" pageNumber="159">
+<collectingMunicipality id="984CACC6F918FFF9FCE7FB93FC241A06" box="[869,992,1037,1080]" pageId="2" pageNumber="159">Sumay</collectingMunicipality>
+, 
+<date id="0C29107CF918FFF9FC71FB93FBAF1A06" box="[1011,1131,1037,1080]" pageId="2" pageNumber="159">
+<collectingDate id="1C6DE994F918FFF9FC71FB93FBAF1A06" box="[1011,1131,1037,1080]" pageId="2" pageNumber="159">Aug. 2</collectingDate>
+</date>
+, on corn, 
+<collectorName id="D562536AF918FFF9FA99FB93FA631A06" box="[1307,1447,1037,1080]" pageId="2" pageNumber="159">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F918FFF9FA3FFB93FB9D1A54" ID-GBIF-Occurrence="3891552324" collectedFrom="on Premna gaudichaudii" collectingDate="1936-06-21" collectorName="O. H. Swezey" country="Guam" location="Sumay Road" pageId="2" pageNumber="159">
+<location id="7D486067F918FFF9FA3FFB93F9F01A06" LSID="urn:lsid:plazi:treatment:F03E87AAF918FFF9FEB2FCEAFB181AA0:7D486067F918FFF9FA3FFB93F9F01A06" box="[1469,1588,1037,1080]" name="Sumay" pageId="2" pageNumber="159">Sumay</location>
+<location id="7D486067F918FFF9F9BDFB93F95B1A06" LSID="urn:lsid:plazi:treatment:F03E87AAF918FFF9FEB2FCEAFB181AA0:7D486067F918FFF9F9BDFB93F95B1A06" box="[1599,1695,1037,1080]" name="Road" pageId="2" pageNumber="159">Road</location>
+, 
+<date id="0C29107CF918FFF9FEB2FBDFFE011A54" box="[304,453,1089,1130]" pageId="2" pageNumber="159" value="2021-06">
+<collectingDate id="1C6DE994F918FFF9FEB2FBDFFE011A54" box="[304,453,1089,1130]" pageId="2" pageNumber="159" value="2021-06">June 21</collectingDate>
+</date>
+, on 
+<emphasis id="4AE3EAAEF918FFF9FDA1FBDFFC681A54" box="[547,940,1089,1130]" italics="true" pageId="2" pageNumber="159">
+<taxonomicName id="BF974D3FF918FFF9FDA1FBDFFC621A54" authority=", Swezey" authorityName="Swezey" box="[547,934,1089,1130]" class="Magnoliopsida" family="Lamiaceae" genus="Premna" kingdom="Plantae" order="Lamiales" pageId="2" pageNumber="159" phylum="Tracheophyta" rank="species" species="gaudichaudii">
+<location id="7D486067F918FFF9FDA1FBDFFD741A54" LSID="urn:lsid:plazi:treatment:F03E87AAF918FFF9FEB2FCEAFB181AA0:7D486067F918FFF9FDA1FBDFFD741A54" box="[547,688,1089,1130]" name="Premna" pageId="2" pageNumber="159">Premna</location>
+gaudichaudii
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="D562536AF918FFF9FC47FBDFFB961A54" box="[965,1106,1089,1130]" pageId="2" pageNumber="159">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F918FFF9FBF2FBDFFB181AA0" ID-GBIF-Occurrence="3891552305" collectedFrom="on Pandanus, corn, Asplenium nidus, parasitized by Tomocera californica" collectingDate="1938-1939" collectorName="R. G. Oakley" country="Guam" location="Guam" pageId="2" pageNumber="159">
+on 
+<emphasis id="4AE3EAAEF918FFF9FB32FBDFFAAC1A54" box="[1200,1384,1089,1130]" italics="true" pageId="2" pageNumber="159">
+<taxonomicName id="BF974D3FF918FFF9FB32FBDFFAA51A54" box="[1200,1377,1089,1130]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="2" pageNumber="159" phylum="Tracheophyta" rank="genus">
+<collectingMunicipality id="984CACC6F918FFF9FB32FBDFFAA51A54" box="[1200,1377,1089,1130]" pageId="2" pageNumber="159">Pandanus</collectingMunicipality>
+</taxonomicName>
+,
+</emphasis>
+corn, 
+<emphasis id="4AE3EAAEF918FFF9FA6BFBDFFE5D1AA0" italics="true" pageId="2" pageNumber="159">
+<location id="7D486067F918FFF9FA6BFBDFF9631A54" LSID="urn:lsid:plazi:treatment:F03E87AAF918FFF9FEB2FCEAFB181AA0:7D486067F918FFF9FA6BFBDFF9631A54" box="[1513,1703,1089,1130]" municipality="Pandanus" name="Asplenium" pageId="2" pageNumber="159">Asplenium</location>
+nidus,
+</emphasis>
+<collectorName id="D562536AF918FFF9FE2BFBEAFDEE1AA0" box="[425,554,1140,1182]" pageId="2" pageNumber="159">Oakley</collectorName>
+. 
+<location id="7D486067F918FFF9FDCEFBEAFBCD1AA0" LSID="urn:lsid:plazi:treatment:F03E87AAF918FFF9FEB2FCEAFB181AA0:7D486067F918FFF9FDCEFBEAFBCD1AA0" box="[588,1033,1140,1182]" municipality="Pandanus" name="Parasitized by Tomocera" pageId="2" pageNumber="159">
+Parasitized by 
+<emphasis id="4AE3EAAEF918FFF9FCDBFBEAFB181AA0" box="[857,1244,1140,1182]" italics="true" pageId="2" pageNumber="159">
+<taxonomicName id="BF974D3FF918FFF9FCDBFBEAFB131AA0" authorityName="Howard" authorityYear="1881" box="[857,1239,1140,1182]" class="Insecta" family="Pteromalidae" genus="Tomocera" higherTaxonomySource="CoL" kingdom="Animalia" order="Hymenoptera" pageId="2" pageNumber="159" phylum="Arthropoda" rank="species" species="californica">Tomocera californica</taxonomicName>
+.
+</emphasis>
+</location>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

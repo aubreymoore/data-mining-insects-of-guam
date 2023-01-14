@@ -1,0 +1,124 @@
+<document id="B171CBA771DDD2E169F5C476E9184C15" ID-DOI="http://doi.org/10.5281/zenodo.5174008" ID-GBIF-Dataset="62345736-dcf6-4c38-a870-36a90992dabb" ID-Zenodo-Dep="5174008" checkinTime="1628020725273" checkinUser="carolina" docAuthor="Metcalf, Z. P." docDate="1946" docId="416187EDEB45FFE3FE9E4A1B8D21F4DC" docLanguage="en" docName="InsectsOfGuamII.189.105-148.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Cicadulina uniformis" docType="treatment" docVersion="13" lastPageNumber="135" masterDocId="BD58FF95EB59FFFFFFB04B578875FD6D" masterDocTitle="Homoptera, Fulgoroidea and Jassoidea of Guam" masterLastPageNumber="148" masterPageNumber="105" pageNumber="135" updateTime="1660230191348" updateUser="annettekang">
+<mods:mods id="224857ED493F72F97016C4FDC926F9F1" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="FE384BB8F850520C513B8A5D4E0A9C14">
+<mods:title id="775137135C509B1C3AD8AAE50F5486FF">Homoptera, Fulgoroidea and Jassoidea of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="58A6A79EEC594D12C73BB1900EFB647B" type="personal">
+<mods:role id="D77DE46821D2B9CD035CFF94E198DBF2">
+<mods:roleTerm id="90BF6F1CF89CEA02CFBFC1E375C95027">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="088B81EF8E8E17B517EFF74B30DEFE4A">Metcalf, Z. P.</mods:namePart>
+<mods:affiliation id="07307DF4910927417575C3ECF236A471">College of Agriculture and Engineering, University of North Carolins</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9C0E41DF76AA4543D46C572191F9B7E5">text</mods:typeOfResource>
+<mods:relatedItem id="640AAD507A6F95D498FA79369B201DE7" type="host">
+<mods:originInfo id="EE9A292DECC42FE996596E6E53E94BC5">
+<mods:dateIssued id="C19EE9ACB65A75CBE1413D32A328AD6B">1946</mods:dateIssued>
+<mods:dateOther id="8983C312D7BE39F628CF8D84041F33C6" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="7865D642480E05D3CA4747EF85C8F6B1">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="B4300EA1D43D461D4540D2A8C5B3E82C">
+<mods:placeTerm id="F8FB66FB87CA16E80F214B91F1ECB126">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="42062F56B6E0E7960605664A208DF21A">
+<mods:title id="613519E9F933352FEC57A592B6EB4C39">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="E9E0A9AF442527EC67CE7F8C2D80C9F2">
+<mods:extent id="B946B93AD9F4F6F0F7989CC639067808" unit="page">
+<mods:start id="B41F34C8F308936A36D9CA014460428E">105</mods:start>
+<mods:end id="05F5CEBBDD9A42B789C4651E324E7370">148</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="4C5269F9CF537D2B050705B791028267">book chapter</mods:classification>
+<mods:identifier id="9CEF31D6CB989D9AF842E236C5094082" type="DOI">http://doi.org/10.5281/zenodo.5174008</mods:identifier>
+<mods:identifier id="4369DB7DD0A0ABD405BFFA86343ACB9A" type="GBIF-Dataset">62345736-dcf6-4c38-a870-36a90992dabb</mods:identifier>
+<mods:identifier id="68295919F48AD29E1AB261A22480205F" type="Zenodo-Dep">5174008</mods:identifier>
+</mods:mods>
+<treatment id="416187EDEB45FFE3FE9E4A1B8D21F4DC" ID-DOI="http://doi.org/10.5281/zenodo.5188169" ID-GBIF-Taxon="184009007" ID-Zenodo-Dep="5188169" LSID="urn:lsid:plazi:treatment:416187EDEB45FFE3FE9E4A1B8D21F4DC" httpUri="http://treatment.plazi.org/id/416187EDEB45FFE3FE9E4A1B8D21F4DC" lastPageNumber="135" pageId="28" pageNumber="135">
+<subSubSection id="81D26570EB45FFE3FE9E4A1B8C80FC1B" box="[302,1269,332,374]" pageId="28" pageNumber="135" type="nomenclature">
+<paragraph id="C97736FBEB45FFE3FE9E4A1B8C80FC1B" blockId="28.[299,1698,332,882]" box="[302,1269,332,374]" pageId="28" pageNumber="135">
+<heading id="923F8197EB45FFE3FE9E4A1B8C80FC1B" box="[302,1269,332,374]" fontSize="8" level="2" pageId="28" pageNumber="135" reason="4">
+<emphasis id="FBBCEAE9EB45FFE3FE9E4A1B8B7DFC1B" bold="true" box="[302,776,332,374]" pageId="28" pageNumber="135">
+12. 
+<taxonomicName id="0EC84D78EB45FFE3FE304A1B8B77FC1B" authority="METCALF" box="[384,770,332,374]" class="Insecta" family="Cicadellidae" genus="Cicadulina" kingdom="Animalia" order="Hemiptera" pageId="28" pageNumber="135" phylum="Arthropoda" rank="species" species="uniformis">Cicadulina uniform.is</taxonomicName>
+,
+</emphasis>
+new species (fig. 20, 
+<emphasis id="FBBCEAE9EB45FFE3FB2E4A1B8C80FC1B" box="[1182,1269,332,374]" italics="true" pageId="28" pageNumber="135">a-d).</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB45FFE3FEC04AC68BB9FE1F" pageId="28" pageNumber="135" type="description">
+<paragraph id="C97736FBEB45FFE3FEC04AC68BF4FF47" blockId="28.[299,1698,332,882]" pageId="28" pageNumber="135">
+<emphasis id="FBBCEAE9EB45FFE3FEC04AC689F9FCD9" bold="true" box="[368,396,401,436]" pageId="28" pageNumber="135">A</emphasis>
+uniform pale testaceous-green species with a very short, broad crown. Crown short, nearly five times as broad as its median length; anterior and posterior border parallel. Pronotum about four times as long as the crown, slightly wider than the eyes. Mesonotum not as long as pronotum.
+</paragraph>
+<paragraph id="C97736FBEB45FFE3FEC049628CC2FE2F" blockId="28.[299,1698,332,882]" pageId="28" pageNumber="135">
+External male genitalia: valve intermediate in size between 
+<taxonomicName id="0EC84D78EB45FFE3FA8D49628DEAFF35" box="[1341,1439,565,600]" class="Insecta" family="Cicadellidae" genus="Cicadulina" kingdom="Animalia" order="Hemiptera" pageId="28" pageNumber="135" phylum="Arthropoda" rank="species" species="viridis">
+<emphasis id="FBBCEAE9EB45FFE3FA8D49628DEAFF35" box="[1341,1439,565,600]" italics="true" pageId="28" pageNumber="135">viridis</emphasis>
+</taxonomicName>
+and 
+<emphasis id="FBBCEAE9EB45FFE3FA4949628ED7FF35" box="[1529,1698,565,600]" italics="true" pageId="28" pageNumber="135">bipunctella,</emphasis>
+posterior border broadly rounded; genital plates exceeding the valve by about half their length, contiguous on the median line; apices rounded; pygofers elongate, about twice as long as the plates; spine of pygofer attenuate, somewhat sinuate, apex acute, simple without lateral spines. Female genitalia: last ventral segment as long as its greatest width; posterior border with a deep V-shaped notch extending about one third of the length of the segment; pygofers elongate, rather slender.
+</paragraph>
+<paragraph id="C97736FBEB45FFE3FEC148188BB9FE1F" blockId="28.[299,1698,332,882]" box="[369,972,847,882]" pageId="28" pageNumber="135">
+Length: to apex of tegmina, 
+<quantity id="0E309B1EEB45FFE3FCE248188BBDFE1F" box="[850,968,847,882]" metricMagnitude="-3" metricUnit="m" metricValue="3.6" pageId="28" pageNumber="135" unit="mm" value="3.6">3.6 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<caption id="9DB76673EB45FFE3FEDF43F78DA9F59E" ID-DOI="http://doi.org/10.5281/zenodo.5174051" ID-Zenodo-Dep="5174051" httpUri="https://zenodo.org/record/5174051/files/figure.png" pageId="28" pageNumber="135" startId="28.[367,457,2208,2244]" targetBox="[477,1536,989,2140]" targetPageId="28">
+<paragraph id="C97736FBEB45FFE3FEDF43F78DA9F59E" blockId="28.[301,1697,2208,2291]" pageId="28" pageNumber="135">
+FIGu~ 
+<emphasis id="FBBCEAE9EB45FFE3FE5943F78B0AF5A9" box="[489,895,2208,2244]" italics="true" pageId="28" pageNumber="135">
+20.- 
+<taxonomicName id="0EC84D78EB45FFE3FD9143F78AA0F5A9" box="[545,725,2208,2244]" class="Insecta" family="Cicadellidae" genus="Cicadulina" kingdom="Animalia" order="Hemiptera" pageId="28" pageNumber="135" phylum="Arthropoda" rank="genus">Cicadulina</taxonomicName>
+imifornus:
+</emphasis>
+<emphasis id="FBBCEAE9EB45FFE3FC2743F78BC7F5A9" bold="true" box="[919,946,2208,2244]" pageId="28" pageNumber="135">a,</emphasis>
+lateral view of male genitalia; b, ventral view of male genitalia; c, ventral view of female genitalia; 
+<emphasis id="FBBCEAE9EB45FFE3FB1A43878CB0F59E" bold="true" box="[1194,1221,2256,2291]" pageId="28" pageNumber="135">d,</emphasis>
+spine of pygofer.
+</paragraph>
+</caption>
+<subSubSection id="81D26570EB45FFE3FEDC42058D21F4DC" pageId="28" pageNumber="135" type="description">
+<paragraph id="C97736FBEB45FFE3FEDC42058D21F4DC" blockId="28.[301,1698,2386,2481]" pageId="28" pageNumber="135">
+<materialsCitation id="79A03CA6EB45FFE3FEDC42058C21F413" ID-GBIF-Occurrence="3332978355" box="[364,1108,2386,2430]" collectingDate="1936-07-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="28" pageNumber="135" specimenCount-male="1" typeStatus="holotype">
+<typeStatus id="16738859EB45FFE3FEDC42058A7AF413" box="[364,527,2386,2430]" pageId="28" pageNumber="135">Holotype</typeStatus>
+male, Piti, 
+<date id="BD76103BEB45FFE3FCB842058BEFF413" box="[776,922,2386,2430]" pageId="28" pageNumber="135" value="1927-07">
+<collectingDate id="AD32E9D3EB45FFE3FCB842058BEFF413" box="[776,922,2386,2430]" pageId="28" pageNumber="135" value="1927-07">July 27</collectingDate>
+</date>
+, Swezey;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB45FFE3FBC2420589B9F4DC" ID-GBIF-Occurrence="3332978315" collectingDate="1936-05-01" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="28" pageNumber="135" specimenCount-female="1" typeStatus="allotype">
+<typeStatus id="16738859EB45FFE3FBC242058C8EF413" box="[1138,1275,2386,2430]" pageId="28" pageNumber="135">allotype</typeStatus>
+female, Piti, 
+<date id="BD76103BEB45FFE3F9A942038EECF4ED" box="[1561,1689,2388,2432]" pageId="28" pageNumber="135">
+<collectingDate id="AD32E9D3EB45FFE3F9A942038EECF4ED" box="[1561,1689,2388,2432]" pageId="28" pageNumber="135">
+May 
+<subSection id="A0472F10EB45FFE3F93742038ED7F4ED" box="[1671,1698,2388,2432]" pageId="28" pageNumber="135" type="multiple">
+<heading id="923F8197EB45FFE3F93742038ED7F4ED" box="[1671,1698,2388,2432]" centered="true" fontSize="8" level="2" pageId="28" pageNumber="135" reason="4">1,</heading>
+</subSection>
+</collectingDate>
+</date>
+Usinger;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB45FFE3FE6B42D28D21F4DC" ID-GBIF-Occurrence="3332978361" box="[475,1364,2437,2481]" collectingDate="1936-05-03" collectorName="O. H. Swezey" country="Guam" location="Mount Tenjo" pageId="28" pageNumber="135" specimenCount-female="1" typeStatus="paratype">
+<typeStatus id="16738859EB45FFE3FE6B42D28A02F4DC" box="[475,631,2437,2481]" pageId="28" pageNumber="135">paratype</typeStatus>
+, 
+<specimenCount id="DFCEFD72EB45FFE3FD3C42D28B24F4DC" box="[652,849,2437,2481]" pageId="28" pageNumber="135" type="female">one female</specimenCount>
+, 
+<location id="CC176020EB45FFE3FCD942D28C56F4DC" LSID="urn:lsid:plazi:treatment:416187EDEB45FFE3FE9E4A1B8D21F4DC:CC176020EB45FFE3FCD942D28C56F4DC" box="[873,1059,2437,2481]" municipality="May" name="Mt. Tenjo" pageId="28" pageNumber="135">Mt. Tenjo</location>
+, 
+<date id="BD76103BEB45FFE3FB8C42D28CDAF4DC" box="[1084,1199,2437,2481]" pageId="28" pageNumber="135">
+<collectingDate id="AD32E9D3EB45FFE3FB8C42D28CDAF4DC" box="[1084,1199,2437,2481]" pageId="28" pageNumber="135">May 3</collectingDate>
+</date>
+, Swezey.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

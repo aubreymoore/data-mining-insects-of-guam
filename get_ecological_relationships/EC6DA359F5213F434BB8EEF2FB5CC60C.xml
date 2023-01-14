@@ -1,0 +1,257 @@
+<document id="D4586CD97B7414649C327F25AD389261" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5213F434BB8EEF2FB5CC60C" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Cardiastethus minutissimus Usinger 1946, new species" docType="treatment" docVersion="18" lastPageNumber="57" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="56" updateTime="1671674318142" updateUser="annettekang">
+<mods:mods id="019A4B358FF87A275CE02C3C6C48CD6C" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="024C91937AC7FC603226C97BDCCED188">
+<mods:title id="1148B11DDED7D814F3FE79232ACD36B6">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="3752A71FCCC1DBCA2A6667269EB7F4D0" type="personal">
+<mods:role id="83C807C33ACDC4EFC2A847EF4DAFAB29">
+<mods:roleTerm id="F2E2A415993152783260802E2728CB8C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3F2B61ECCAA682A0457D236EC0B25AA2">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="35035C81E4C68BEC81A93B53CFEE7601">text</mods:typeOfResource>
+<mods:relatedItem id="6045ACC95ED043C51EE355C57A04D66A" type="host">
+<mods:originInfo id="156D48E4C0D0CF6312392C697F1B12EC">
+<mods:dateIssued id="E8D94237783AADD18CE45429CF9F7FF9">1946</mods:dateIssued>
+<mods:dateOther id="9FFB49F7327C64419F3947AF486223AF" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="8998CC4801225807642ECC1729DE5ECE">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="F3712231967AABDE376AA3305E249826">
+<mods:placeTerm id="24EC53061CE0485EFD1DBB1CC8466E79">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="DF989E10862091BF70198F28A73AB31B">
+<mods:title id="E7A38D84B398AF4CBFE03A198D8BB5C3">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="7FA9A42A82FBB32F85AFCE688E663862">
+<mods:extent id="1461CF2D9EEE636B3CADE50907B9B7F5" unit="page">
+<mods:start id="8E16A5FFEDD8DF38F6CDF7C6E0869594">11</mods:start>
+<mods:end id="DEF62A569CA3DE0DFD09085229A1114D">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="6E9D2A900E40D00B6702498ACE71F675">book chapter</mods:classification>
+<mods:identifier id="F475A11C6C2DB9AA7B2BFC976A724F90" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="2BB36BB52F623EBDD61277E2678C75F6" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="8D2F7D7BBC3FF33EEC685A0A408557C5" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5213F434BB8EEF2FB5CC60C" ID-DOI="http://doi.org/10.5281/zenodo.5188103" ID-GBIF-Taxon="184601165" ID-Zenodo-Dep="5188103" LSID="urn:lsid:zoobank.org:act:C5067E8E-53D9-48BC-A5E1-70D3DE463D1B" httpUri="http://treatment.plazi.org/id/EC6DA359F5213F434BB8EEF2FB5CC60C" lastPageId="46" lastPageNumber="57" pageId="45" pageNumber="56">
+<subSubSection id="2CDE41C4F5213F404BB8EEF2F9C5C0AD" box="[472,1569,410,453]" pageId="45" pageNumber="56" type="nomenclature">
+<paragraph id="647B124FF5213F404BB8EEF2F9C5C0AD" blockId="45.[472,1873,410,1352]" box="[472,1569,410,453]" pageId="45" pageNumber="56">
+<heading id="3F33A523F5213F404BB8EEF2F9C5C0AD" box="[472,1569,410,453]" fontSize="8" level="2" pageId="45" pageNumber="56" reason="4">
+<emphasis id="56B0CE5DF5213F404BB8EEF2FBC9C0AD" bold="true" box="[472,1069,410,453]" pageId="45" pageNumber="56">
+51. 
+<taxonomicName id="A3C469CCF5213F40484CEEF2FBC2C0AD" authority="Usinger, 1946" authorityName="Usinger" authorityYear="1946" box="[556,1062,410,453]" class="Insecta" family="Anthocoridae" genus="Cardiastethus" kingdom="Animalia" order="Hemiptera" pageId="45" pageNumber="56" phylum="Arthropoda" rank="species" species="minutissimus" status="new species">Cardiastethus minutissimus</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="4D837326F5213F404E5DEEF2FAF5C0AD" box="[1085,1297,410,453]" pageId="45" pageNumber="56" rank="species">new species</taxonomicNameLabel>
+(
+<figureCitation id="FCFF0ECAF5213F404F53EEF2FA4FC0AD" box="[1331,1451,410,453]" captionStart="FIGURE 12" captionStartId="45.[543,652,2098,2133]" captionTargetBox="[714,1627,1387,2065]" captionTargetPageId="45" captionText="FIGURE 12.-Cardiastethus minutissimitS: a, dorsal view of male; b, head and antennae of female." figureDoi="http://doi.org/10.5281/zenodo.5173958" httpUri="https://zenodo.org/record/5173958/files/figure.png" pageId="45" pageNumber="56">fig. 12</figureCitation>
+, 
+<emphasis id="56B0CE5DF5213F404FA1EEF2FA39C0AD" box="[1473,1501,410,453]" italics="true" pageId="45" pageNumber="56">a,</emphasis>
+b).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5213F43487DEEA7FBCBC553" lastPageId="46" lastPageNumber="57" pageId="45" pageNumber="56" type="description">
+<paragraph id="647B124FF5213F40487DEEA7FBC8C371" blockId="45.[472,1873,410,1352]" pageId="45" pageNumber="56">Very small, elongate-oval, pale, the eyes and antennae strongly sexually dimorphic, rostrum reaching between front coxae.</paragraph>
+<paragraph id="647B124FF5213F40487EED76FD9BC2F4" blockId="45.[472,1873,410,1352]" pageId="45" pageNumber="56">Male: head distinctly broader across eyes than long, 15:13, the anteocular portion small, only half as long as an eye and about one third as broad as length of an eye. Eyes enormous, almost twice as wide as interocular space, 6.5: 3.5, above and nearly contiguous beneath. The narrow interocular space above with ocelli closely approximate and nearly touching inner margins of eyes, slightly elevated. Rostrum reaching to apices of front coxae, the first segment very short, reaching about to level of bases of antennae; proportion of segments 4: 10: 5. Antennae relatively short, one sixth longer than width of pronotum across humeri, 28: 24, first segment slightly surpassing apex of head, second greatly thickened, as thick apically as width of head apically, proportion of segments one to four as 4:12:5:7.</paragraph>
+<paragraph id="647B124FF5213F40487EECCBFC60C420" blockId="45.[472,1873,410,1352]" pageId="45" pageNumber="56">Pronotum over half again as wide as head including eyes, 24: 15; distinctly shorter on median line than head, 9: 13; the hind margin rather deeply concave. Side margins nearly straight, the edges distinctly carinate, especially anteriorly. Disk abruptly elevated within the sublateral depressed area, shallowly but distinctly punctate, with a distinct subflattened anterior collar and a second, convex collar behind this followed by the relatively smooth callosities. Disk deeply, broadly depressed behind callosities and then subflattened to posterior margin. Rather uniformly clothed with curved, backwardly directed hairs with similar dense hairs along lateral margins and a long, erect hair on either side at antero-lateral angle. Scutellum very superficially punctured, the disk transversely depressed, especially on either side, near the middle and clothed with moderately long, backwardly directed hairs.</paragraph>
+<caption id="30BB42C7F5213F40487FE75AFD8BC914" ID-DOI="http://doi.org/10.5281/zenodo.5173958" ID-Zenodo-Dep="5173958" httpUri="https://zenodo.org/record/5173958/files/figure.png" pageId="45" pageNumber="56" startId="45.[543,652,2098,2133]" targetBox="[714,1627,1387,2065]" targetPageId="45">
+<paragraph id="647B124FF5213F40487FE75AFD8BC914" blockId="45.[475,1874,2098,2172]" pageId="45" pageNumber="56">
+FIGURE 
+<emphasis id="56B0CE5DF5213F4048FAE75AFB74C93D" box="[666,1168,2098,2133]" italics="true" pageId="45" pageNumber="56">
+12.- 
+<taxonomicName id="A3C469CCF5213F4048AEE75AFC57C93D" authorityName="Fieber" authorityYear="1860" box="[718,947,2098,2133]" class="Insecta" family="Anthocoridae" genus="Cardiastethus" kingdom="Animalia" order="Hemiptera" pageId="45" pageNumber="56" phylum="Arthropoda" rank="genus">Cardiastethus</taxonomicName>
+minutissimitS:
+</emphasis>
+a, dorsal view of male; b, head and antennae of female.
+</paragraph>
+</caption>
+<paragraph id="647B124FF5213F404840E7D9FC8AC8D3" blockId="45.[476,1875,2225,2567]" pageId="45" pageNumber="56">Hemelytra broad and long, completely covering the abdomen, clavus, corium, and cuneus, scarcely punctate except for insertions of hairs, evenly and rather densely clothed with backwardly directed hairs as elsewhere, embolium about two thirds as wide near apex as inner corium at same level, costal margins feebly arcuate. Membrane with three very faintly indicated veins, one near inner margin, one near middle and one more distinct than the others at about outer third, all bent outward apically. With a fringe of fine, minute hairs along apical margin.</paragraph>
+<paragraph id="647B124FF5213F434841E6D6FB02C0D9" blockId="45.[476,1875,2225,2567]" lastBlockId="46.[300,1700,321,1083]" lastPageId="46" lastPageNumber="57" pageId="45" pageNumber="56">Under surface glabrous and punctate laterally on thoracic pleura, dull and densely punctate on metapleuron, with curved hairs on sterna and abdominal venter. Ostiolar canal extending outward and joining postero-lateral carina which bends forward to form lateral margin of metapleuron. Legs relatively slender and unarmed, the front femora not thicker than other femora, about one fourth as thick as long.</paragraph>
+<paragraph id="647B124FF5223F434B0FEED5FC8DC36F" blockId="46.[300,1700,321,1083]" pageId="46" pageNumber="57">Genital clasper about four times as long as broad, relatively simple, broadly arcuate, and bent inward as well near the tip.</paragraph>
+<paragraph id="647B124FF5223F434B11ED7AFA05C2E7" blockId="46.[300,1700,321,1083]" pageId="46" pageNumber="57">
+Female: head slightly broader across eyes than long, 12: 11; anteocular portion nearly equal to length of an eye, 4.5: 5, and over half as wide as length of an eye, 3: 5; eyes much smaller than in the male, half as wide as interocular space, this last broadening posteriorly, the ocelli three times as far apart as width of an ocellus (one width of an ocellus apart in male) and the width of an ocellus distant from eyes, disk with some long hairs near ocelli and short erect hairs on eyes. Antennae but little longer than width of pronotum,&quot;25: 23; first segment reaching apex of head, second much shorter than width of head, 9: 12, gradually thickened toward apex and there only two thirds as thick as width of head at apex; proportion of segments one to four as 3: 9: 5: 8. 
+<collectingRegion id="A600DCADF5223F434EBAEC2DFAD6C201" box="[1242,1330,837,873]" country="New Zealand" name="West Coast" pageId="46" pageNumber="57">Costa</collectingRegion>
+! margins a little more strongly arcuate behind middle than in male. Abdomen without an ovipositor.
+</paragraph>
+<paragraph id="647B124FF5223F434B14ECF3FD2CC564" blockId="46.[300,1700,321,1083]" pageId="46" pageNumber="57">Color ochraceous to yellowish testaceous, the hairs very pale, eyes brownish, ocelli tinged with red, membrane uniformly, lightly clouded. Under surface mostly pale fulvous and appendages testaceous.</paragraph>
+<paragraph id="647B124FF5223F434B15EB7DFBCBC553" blockId="46.[300,1700,321,1083]" box="[373,1071,1045,1083]" pageId="46" pageNumber="57">
+Size: length, male, 
+<quantity id="A33CBFAAF5223F4348D0EB7DFCC7C553" box="[688,803,1045,1083]" metricMagnitude="-3" metricUnit="m" metricValue="1.7" pageId="46" pageNumber="57" unit="mm" value="1.7">1.7 mm</quantity>
+., female, 
+<quantity id="A33CBFAAF5223F4349D9EB7DFBCFC553" box="[953,1067,1045,1083]" metricMagnitude="-3" metricUnit="m" metricValue="1.5" pageId="46" pageNumber="57" unit="mm" value="1.5">1.5 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5223F434B0CEB37FA1CC499" pageId="46" pageNumber="57" type="description">
+<paragraph id="647B124FF5223F434B0CEB37FA1CC499" blockId="46.[303,1703,1119,1892]" pageId="46" pageNumber="57">
+<materialsCitation id="D4AC1812F5223F434B0CEB37FB48C5D5" ID-GBIF-Occurrence="3336136416" collectedFrom="beaten from dead leaves of a fallen tree" collectingDate="1936-06-04" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="46" pageNumber="57" specimenCount="8" typeStatus="holotype male, allotype female, paratype (6)">
+<typeStatus id="BB7FACEDF5223F434B0CEB37FDF2C5E2" box="[364,534,1119,1162]" pageId="46" pageNumber="57">Holotype</typeStatus>
+<specimenCount id="72C2D9C6F5223F43484AEB37FD66C5E2" box="[554,642,1119,1162]" pageId="46" pageNumber="57" type="male">male</specimenCount>
+, 
+<typeStatus id="BB7FACEDF5223F4348FEEB37FCC9C5E2" box="[670,813,1119,1162]" pageId="46" pageNumber="57">allotype</typeStatus>
+female, and 
+<specimenCount id="72C2D9C6F5223F434E4FEB37FAC8C5E2" box="[1071,1324,1119,1162]" pageId="46" pageNumber="57" type="generic">six paratypes</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5223F434F27EB37F9E1C5E2" box="[1351,1541,1119,1162]" pageId="46" pageNumber="57">Machanao</collectingMunicipality>
+, 
+<collectingDate id="003ECD67F5223F434C7EEB37F97BC5E2" box="[1566,1695,1119,1162]" pageId="46" pageNumber="57">
+<date id="107A348FF5223F434C7EEB37F97BC5E2" box="[1566,1695,1119,1162]" pageId="46" pageNumber="57">June 4</date>
+</collectingDate>
+, beaten from dead leaves of a fallen tree, 
+<location id="611B4494F5223F434E6EEBFBFB41C5D5" LSID="urn:lsid:plazi:treatment:EC6DA359F5213F434BB8EEF2FB5CC60C:611B4494F5223F434E6EEBFBFB41C5D5" box="[1038,1189,1171,1213]" municipality="Machanao" name="Usinger" pageId="46" pageNumber="57">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5223F434EDCEBFBFB66C598" ID-GBIF-Occurrence="3336136499" collectedFrom="on Calophyllum inophyllum" collectingDate="1936-05-31" collectorName="R. L. Usinger" country="Guam" location="Agat" pageId="46" pageNumber="57" specimenCount="6" typeStatus="paratype">
+other 
+<typeStatus id="BB7FACEDF5223F434F44EBFBFA3DC5D5" box="[1316,1497,1171,1213]" pageId="46" pageNumber="57">paratypes</typeStatus>
+: six, Agat, 
+<date id="107A348FF5223F434B50EBAEFE59C598" box="[304,445,1222,1264]" pageId="46" pageNumber="57" value="1931-05">
+<collectingDate id="003ECD67F5223F434B50EBAEFE59C598" box="[304,445,1222,1264]" pageId="46" pageNumber="57" value="1931-05">May 31</collectingDate>
+</date>
+, on 
+<emphasis id="56B0CE5DF5223F434875EBAEFC35C598" box="[533,977,1222,1264]" italics="true" pageId="46" pageNumber="57">
+<taxonomicName id="A3C469CCF5223F434875EBAEFD17C598" box="[533,755,1222,1264]" class="Magnoliopsida" family="Calophyllaceae" genus="Calophyllum" kingdom="Plantae" order="Malpighiales" pageId="46" pageNumber="57" phylum="Tracheophyta" rank="genus">Calophyllum</taxonomicName>
+inophyllu 
+<specimenCount id="72C2D9C6F5223F4349C9EBAEFC2FC598" box="[937,971,1222,1264]" pageId="46" pageNumber="57" type="nymphe">1n</specimenCount>
+,
+</emphasis>
+<location id="611B4494F5223F434984EBAEFB9FC598" LSID="urn:lsid:plazi:treatment:EC6DA359F5213F434BB8EEF2FB5CC60C:611B4494F5223F434984EBAEFB9FC598" box="[996,1147,1222,1264]" name="Usinger" pageId="46" pageNumber="57">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5223F434EF6EBAEFD75C44C" ID-GBIF-Occurrence="3336136452" collectedFrom="camachile" collectingDate="1936-05-25" collectorName="R. L. Usinger" country="Guam" location="Agana Swamp" pageId="46" pageNumber="57" specimenCount="1">
+one, Agana Swamp, 
+<date id="107A348FF5223F434C73EBAEF97AC598" box="[1555,1694,1222,1264]" pageId="46" pageNumber="57" value="1925-05">
+<collectingDate id="003ECD67F5223F434C73EBAEF97AC598" box="[1555,1694,1222,1264]" pageId="46" pageNumber="57" value="1925-05">May 25</collectingDate>
+</date>
+, 
+<emphasis id="56B0CE5DF5223F434B50EB91FE07C44C" box="[304,483,1273,1316]" italics="true" pageId="46" pageNumber="57">camachil~,</emphasis>
+<location id="611B4494F5223F434B94EB91FD6EC44C" LSID="urn:lsid:plazi:treatment:EC6DA359F5213F434BB8EEF2FB5CC60C:611B4494F5223F434B94EB91FD6EC44C" box="[500,650,1273,1316]" name="Usinger" pageId="46" pageNumber="57">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5223F4348C2EB91FE2BC43F" ID-GBIF-Occurrence="3336136315" collectedFrom="on dead leaf-covered branches" collectingDate="1936-06-27" collectorName="R. L. Usinger" country="Guam" location="Mount Alifan" pageId="46" pageNumber="57" specimenCount="1">
+one, 
+<collectingMunicipality id="841F8835F5223F434899EB91FC5EC44C" box="[761,954,1273,1316]" pageId="46" pageNumber="57">Mt. Alifan</collectingMunicipality>
+, 
+<date id="107A348FF5223F4349B1EB91FBBBC44C" box="[977,1119,1273,1316]" pageId="46" pageNumber="57" value="1927-06">
+<collectingDate id="003ECD67F5223F4349B1EB91FBBBC44C" box="[977,1119,1273,1316]" pageId="46" pageNumber="57" value="1927-06">
+June 
+<emphasis id="56B0CE5DF5223F434E54EB91FB82C44C" box="[1076,1126,1273,1316]" italics="true" pageId="46" pageNumber="57">27,</emphasis>
+</collectingDate>
+</date>
+on dead, leaf-covered branches, 
+<location id="611B4494F5223F434B50EA44FE2CC43F" LSID="urn:lsid:plazi:treatment:EC6DA359F5213F434BB8EEF2FB5CC60C:611B4494F5223F434B50EA44FE2CC43F" box="[304,456,1324,1367]" municipality="Mt. Alifan" name="Usinger" pageId="46" pageNumber="57">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5223F434B84EA44FB48C43F" ID-GBIF-Occurrence="3336136426" box="[484,1196,1324,1367]" collectingDate="1936-06-30" collectorName="R. L. Usinger" country="Guam" location="Ritidian Point" pageId="46" pageNumber="57" specimenCount="1">
+one, 
+<location id="611B4494F5223F43485EEA44FCAFC43F" LSID="urn:lsid:plazi:treatment:EC6DA359F5213F434BB8EEF2FB5CC60C:611B4494F5223F43485EEA44FCAFC43F" box="[574,843,1324,1367]" name="Ritidian Point," pageId="46" pageNumber="57">Ritidian Point,</location>
+<date id="107A348FF5223F43493FEA44FC17C43F" box="[863,1011,1324,1367]" pageId="46" pageNumber="57" value="1930-06">
+<collectingDate id="003ECD67F5223F43493FEA44FC17C43F" box="[863,1011,1324,1367]" pageId="46" pageNumber="57" value="1930-06">June 30</collectingDate>
+</date>
+, 
+<location id="611B4494F5223F434E6EEA44FB41C43F" LSID="urn:lsid:plazi:treatment:EC6DA359F5213F434BB8EEF2FB5CC60C:611B4494F5223F434E6EEA44FB41C43F" box="[1038,1189,1324,1367]" name="Usinger" pageId="46" pageNumber="57">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5223F434EA1EA44FE2BC4E2" ID-GBIF-Occurrence="3336136496" collectingDate="1936-06-30" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="46" pageNumber="57" specimenCount="3">
+three, 
+<collectingMunicipality id="841F8835F5223F434F5AEA44FA15C43F" box="[1338,1521,1324,1367]" pageId="46" pageNumber="57">Machanao</collectingMunicipality>
+, 
+<date id="107A348FF5223F434C6BEA44F97BC43F" box="[1547,1695,1324,1367]" pageId="46" pageNumber="57" value="1930-06">
+<collectingDate id="003ECD67F5223F434C6BEA44F97BC43F" box="[1547,1695,1324,1367]" pageId="46" pageNumber="57" value="1930-06">June 30</collectingDate>
+</date>
+, 
+<location id="611B4494F5223F434B50EA08FE2CC4E2" LSID="urn:lsid:plazi:treatment:EC6DA359F5213F434BB8EEF2FB5CC60C:611B4494F5223F434B50EA08FE2CC4E2" box="[304,456,1376,1418]" municipality="Machanao" name="Usinger" pageId="46" pageNumber="57">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5223F434B82EA08FD49C4D6" ID-GBIF-Occurrence="3336136398" collectedFrom="in leaves of Hibiscus tiliaceus rolled by pyralid caterpillars" collectingDate="1936-04-30" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="46" pageNumber="57" specimenCount="2">
+two, 
+<collectingMunicipality id="841F8835F5223F43485EEA08FD65C4E2" box="[574,641,1376,1418]" pageId="46" pageNumber="57">Piti</collectingMunicipality>
+, 
+<date id="107A348FF5223F4348FBEA08FCD1C4E2" box="[667,821,1376,1418]" pageId="46" pageNumber="57" value="1930-04">
+<collectingDate id="003ECD67F5223F4348FBEA08FCD1C4E2" box="[667,821,1376,1418]" pageId="46" pageNumber="57" value="1930-04">April 30</collectingDate>
+</date>
+, in leaves of 
+<taxonomicName id="A3C469CCF5223F434E50EA08FA8EC4E2" box="[1072,1386,1376,1418]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="46" pageNumber="57" phylum="Tracheophyta" rank="species" species="tiliaceus">
+<emphasis id="56B0CE5DF5223F434E50EA08FA8EC4E2" box="[1072,1386,1376,1418]" italics="true" pageId="46" pageNumber="57">
+<location id="611B4494F5223F434E50EA08FB28C4E2" LSID="urn:lsid:plazi:treatment:EC6DA359F5213F434BB8EEF2FB5CC60C:611B4494F5223F434E50EA08FB28C4E2" box="[1072,1228,1376,1418]" municipality="Piti" name="Hibiscus" pageId="46" pageNumber="57">Hibiscus</location>
+tiliaceus
+</emphasis>
+</taxonomicName>
+rolled by pyralid caterpillars, 
+<location id="611B4494F5223F43486EEAFBFD42C4D6" LSID="urn:lsid:plazi:treatment:EC6DA359F5213F434BB8EEF2FB5CC60C:611B4494F5223F43486EEAFBFD42C4D6" box="[526,678,1427,1470]" municipality="Piti" name="Usinger" pageId="46" pageNumber="57">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5223F4348DFEAFBFA67C4D6" ID-GBIF-Occurrence="3994028421" box="[703,1411,1427,1470]" collectedFrom="on Ficus" collectingDate="1936-05-12" collectorName="R. L. Usinger" country="Guam" location="Yona" pageId="46" pageNumber="57" specimenCount="1">
+one, Yona, 
+<date id="107A348FF5223F4349EEEAFBFBFDC4D6" box="[910,1049,1427,1470]" pageId="46" pageNumber="57" value="2012-05">
+<collectingDate id="003ECD67F5223F4349EEEAFBFBFDC4D6" box="[910,1049,1427,1470]" pageId="46" pageNumber="57" value="2012-05">May 12</collectingDate>
+</date>
+, on 
+<taxonomicName id="A3C469CCF5223F434E0AEAFBFA98C4D6" authority=", Usinger" authorityName="Usinger" box="[1130,1404,1427,1470]" class="Magnoliopsida" family="Moraceae" genus="Ficus" kingdom="Plantae" order="Rosales" pageId="46" pageNumber="57" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5223F434E0AEAFBFB31C4D6" box="[1130,1237,1427,1470]" italics="true" pageId="46" pageNumber="57">Ficus,</emphasis>
+<location id="611B4494F5223F434E85EAFBFA98C4D6" LSID="urn:lsid:plazi:treatment:EC6DA359F5213F434BB8EEF2FB5CC60C:611B4494F5223F434E85EAFBFA98C4D6" box="[1253,1404,1427,1470]" name="Usinger" pageId="46" pageNumber="57">Usinger</location>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5223F434FF5EAFBFCDDC499" ID-GBIF-Occurrence="3994028489" collectedFrom="on Calophyllum" collectingDate="1936-10-17" collectorName="O. H. Swezey" country="Guam" location="Agat" pageId="46" pageNumber="57" specimenCount="1">
+one, 
+<collectingMunicipality id="841F8835F5223F434F8AEAFBF9A0C4D6" box="[1514,1604,1427,1470]" pageId="46" pageNumber="57">Agat</collectingMunicipality>
+, 
+<date id="107A348FF5223F434C3CEAFBFEB8C499" pageId="46" pageNumber="57" value="2017-10">
+<collectingDate id="003ECD67F5223F434C3CEAFBFEB8C499" pageId="46" pageNumber="57" value="2017-10">Oct. 17</collectingDate>
+</date>
+, on 
+<taxonomicName id="A3C469CCF5223F434BCDEAAEFCD6C499" authority=", Swezey" authorityName="Swezey" box="[429,818,1478,1521]" class="Magnoliopsida" family="Calophyllaceae" genus="Calophyllum" kingdom="Plantae" order="Malpighiales" pageId="46" pageNumber="57" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5223F434BCDEAAEFD71C499" box="[429,661,1478,1521]" italics="true" pageId="46" pageNumber="57">
+<location id="611B4494F5223F434BCDEAAEFD6BC499" LSID="urn:lsid:plazi:treatment:EC6DA359F5213F434BB8EEF2FB5CC60C:611B4494F5223F434BCDEAAEFD6BC499" box="[429,655,1478,1521]" municipality="Agat" name="Calophyllum" pageId="46" pageNumber="57">Calophyllum</location>
+,
+</emphasis>
+<collectorName id="C9317799F5223F4348C5EAAEFCD6C499" box="[677,818,1478,1521]" pageId="46" pageNumber="57">Swezey</collectorName>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5223F434927EAAEFA1CC499" ID-GBIF-Occurrence="3994028346" box="[839,1528,1478,1521]" collectedFrom="on bamboo" collectingDate="1936-10-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="46" pageNumber="57" specimenCount="1">
+one, 
+<collectingMunicipality id="841F8835F5223F4349FEEAAEFC04C499" box="[926,992,1478,1521]" pageId="46" pageNumber="57">Piti</collectingMunicipality>
+, 
+<date id="107A348FF5223F434996EAAEFB9EC499" box="[1014,1146,1478,1521]" pageId="46" pageNumber="57" value="1927-10">
+<collectingDate id="003ECD67F5223F434996EAAEFB9EC499" box="[1014,1146,1478,1521]" pageId="46" pageNumber="57" value="1927-10">
+Oct. 
+<emphasis id="56B0CE5DF5223F434E2EEAAEFB65C499" box="[1102,1153,1478,1521]" italics="true" pageId="46" pageNumber="57">27,</emphasis>
+</collectingDate>
+</date>
+on bamboo, 
+<collectorName id="C9317799F5223F434F0CEAAEFA17C499" box="[1388,1523,1478,1521]" pageId="46" pageNumber="57">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5223F434B10E96AFB5CC60C" pageId="46" pageNumber="57" type="description">
+<paragraph id="647B124FF5223F434B10E96AFB5CC60C" blockId="46.[303,1703,1119,1892]" pageId="46" pageNumber="57">
+This is not closely related to any 
+<taxonomicName id="A3C469CCF5223F434981E96AFB36C744" authorityName="Fieber" authorityYear="1860" box="[993,1234,1538,1580]" class="Insecta" family="Anthocoridae" genus="Cardiastethus" kingdom="Animalia" order="Hemiptera" pageId="46" pageNumber="57" phylum="Arthropoda" rank="genus">
+<emphasis id="56B0CE5DF5223F434981E96AFB36C744" box="[993,1234,1538,1580]" italics="true" pageId="46" pageNumber="57">Cardiastethus</emphasis>
+</taxonomicName>
+known to me and should possibly form the 
+<typeStatus id="BB7FACEDF5223F43481DE950FD23C70A" box="[637,711,1592,1634]" pageId="46" pageNumber="57">type</typeStatus>
+of a new genus. However, it has the ostiolar canal of a 
+<emphasis id="56B0CE5DF5223F434B37E905FDB6C7F0" box="[343,594,1645,1688]" italics="true" pageId="46" pageNumber="57">
+<taxonomicName id="A3C469CCF5223F434B37E905FDA8C7F0" authorityName="Fieber" authorityYear="1860" box="[343,588,1645,1688]" class="Insecta" family="Anthocoridae" genus="Cardiastethus" kingdom="Animalia" order="Hemiptera" pageId="46" pageNumber="57" phylum="Arthropoda" rank="genus">Cardiastethus</taxonomicName>
+,
+</emphasis>
+lacks an ovipositor and keys out satisfactorily to this genus. It differs from 
+<emphasis id="56B0CE5DF5223F434826E9CAFCCAC7A2" box="[582,814,1698,1738]" italics="true" pageId="46" pageNumber="57">ophthalmicus</emphasis>
+Reuter in its small size, pale coloration, and short second antenna! segment. It agrees in some respects with 
+<emphasis id="56B0CE5DF5223F434F0EE9BDF9F8C797" box="[1390,1564,1749,1791]" italics="true" pageId="46" pageNumber="57">pergaudei</emphasis>
+Reqter and 
+<taxonomicName id="A3C469CCF5223F434BE1E860FD4BC65A" authority="Poppius" authorityName="Poppius" box="[385,687,1800,1842]" class="Insecta" family="Reduviidae" genus="Empicoris" kingdom="Animalia" order="Hemiptera" pageId="46" pageNumber="57" phylum="Arthropoda" rank="species" species="minutus">
+<emphasis id="56B0CE5DF5223F434BE1E860FDF5C65A" box="[385,529,1800,1842]" italics="true" pageId="46" pageNumber="57">minutus</emphasis>
+Poppius
+</taxonomicName>
+but differs in its shorter second antenna! segment, relatively shorter head, and strong sexual dimorphism.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

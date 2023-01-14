@@ -1,0 +1,85 @@
+<document id="DDC8B29DB68D922FCA3133A6238A2EAB" ID-DOI="http://doi.org/10.5281/zenodo.5159515" ID-GBIF-Dataset="c9232a85-5a09-440a-9ede-102073e7b6f0" ID-Zenodo-Dep="5159515" checkinTime="1627051975127" checkinUser="carolina" docAuthor="SWEZEY, O. H. &amp; WILLIAMS, F. X." docDate="1942" docId="03E68852C57DFFB6FE03B7BDF978FD36" docLanguage="en" docName="InsectsOfGuamI.172.3-6.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 172" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Hemicordulia" docType="treatment" docVersion="12" lastPageNumber="4" masterDocId="FFDFF02AC57CFFB7FF89B354FF83F875" masterDocTitle="ODONATA, DRAGONFLIES OF GUAM" masterLastPageNumber="6" masterPageNumber="3" pageNumber="4" updateTime="1658861037059" updateUser="ExternalLinkService">
+<mods:mods id="DFB48057FAB493E2577EBAEEB6E00760" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="EB9E8CBB8BD74915D9723057336FC4AB">
+<mods:title id="F754BA2F93B9B7876366E150CBD3C3A4">ODONATA, DRAGONFLIES OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="B4CC6E47E7B723E6AEAF5AC9351905DD" type="personal">
+<mods:role id="524F1EDB2AC174E0FC67B7F374B2EDC2">
+<mods:roleTerm id="776177C3E077AEECA8DC740229FF58EF">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A28EA1EC91178DD15E83E0B065CE2B95">SWEZEY, O. H.</mods:namePart>
+<mods:affiliation id="99ACD8B08D5B1F2DF78B0BA04587E268">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:name id="933066B7F889A78426614CECD2E14A99" type="personal">
+<mods:role id="1CAF57BA7E3E098BEECDF1721C5711DB">
+<mods:roleTerm id="87AAA8EA80C25DC0D27473B115BE7A7A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D32C85EF9BE9668954E57E5193A521FF">WILLIAMS, F. X.</mods:namePart>
+<mods:affiliation id="9DF82C9F0FD5135C247F838F9F7572F4">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="AA3865F7061853B6C6D50D45756C0CA9">text</mods:typeOfResource>
+<mods:relatedItem id="E0E61EF4AB0510DE2064093AB8E92626" type="host">
+<mods:originInfo id="9074904CC43B43BB90B63DE7CEA6B3A9">
+<mods:dateIssued id="D764902CC4B6C23BA54BC3F5D7DCE043">1942</mods:dateIssued>
+<mods:dateOther id="C8CB1D7D5DE48E0E96E9D90A7C693F92" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="DDFAF04E349A24BBDE1FA0BB8D6EF5A1">Bernice P. Bishop Museum, Bulletin 172</mods:publisher>
+<mods:place id="B5CCDF6FAFE88F472D2270A98D08F55D">
+<mods:placeTerm id="F745374DCF11B600065A152D5312603B">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="6A94B2A8933FCB1AF83814155A1A03F6">
+<mods:title id="0090A1AFD0B67533402B5347BAF1ED86">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="8E51F0952A88C0F537D9B16A807F0AAA">
+<mods:extent id="777C2ABA9329C75578EA0ED1C8CBDDB7" unit="page">
+<mods:start id="5F534BE1EB4F64421507FD4B1B55597B">3</mods:start>
+<mods:end id="3DBD2D2B400A4FB098E5CDA078411567">6</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E2B69FC1B7FF6950D26FF9D9E6E02C57">book chapter</mods:classification>
+<mods:identifier id="07F0D36477260D727B7CFB92B59D429B" type="DOI">http://doi.org/10.5281/zenodo.5159515</mods:identifier>
+<mods:identifier id="8D997B519F8AD7D7FB8F75FA30666230" type="GBIF-Dataset">c9232a85-5a09-440a-9ede-102073e7b6f0</mods:identifier>
+<mods:identifier id="647C402D1CD84F696C973B4F4E059632" type="Zenodo-Dep">5159515</mods:identifier>
+</mods:mods>
+<treatment id="03E68852C57DFFB6FE03B7BDF978FD36" ID-DOI="http://doi.org/10.5281/zenodo.5163454" ID-GBIF-Taxon="183919258" ID-Zenodo-Dep="5163454" LSID="urn:lsid:plazi:treatment:03E68852C57DFFB6FE03B7BDF978FD36" httpUri="http://treatment.plazi.org/id/03E68852C57DFFB6FE03B7BDF978FD36" lastPageNumber="4" pageId="1" pageNumber="4">
+<subSubSection id="C3556ACFC57DFFB6FE03B7BDFCD2FD7A" box="[394,849,1255,1295]" pageId="1" pageNumber="4" type="nomenclature">
+<paragraph id="8BF03944C57DFFB6FE03B7BDFCD2FD7A" blockId="1.[394,1787,1255,1347]" box="[394,849,1255,1295]" pageId="1" pageNumber="4">
+<heading id="D0B88E28C57DFFB6FE03B7BDFCCFFD7A" box="[394,844,1255,1295]" centered="true" fontSize="11" level="2" pageId="1" pageNumber="4" reason="2">
+<emphasis id="B93BE556C57DFFB6FE03B7BDFE25FD7A" bold="true" box="[394,422,1257,1295]" pageId="1" pageNumber="4">4.</emphasis>
+<taxonomicName id="4C4F42C7C57DFFB6FE4EB7B3FD3EFD7A" authority="Sayles" box="[455,701,1255,1295]" class="Insecta" family="Coenagriidae" genus="Hemicordulia" higherTaxonomySource="CoL" kingdom="Animalia" order="Odonata" pageId="1" pageNumber="4" phylum="Arthropoda" rank="genus">
+<emphasis id="B93BE556C57DFFB6FE4EB7B3FD3EFD7A" bold="true" box="[455,701,1255,1295]" pageId="1" pageNumber="4">Hemicordulia</emphasis>
+</taxonomicName>
+species
+</heading>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3556ACFC57DFFB6FE40B64EF978FD36" box="[457,1787,1306,1347]" pageId="1" pageNumber="4" type="materials_examined">
+<paragraph id="8BF03944C57DFFB6FE40B64EF978FD36" blockId="1.[394,1787,1255,1347]" box="[457,1787,1306,1347]" pageId="1" pageNumber="4">
+<materialsCitation id="3B273319C57DFFB6FE40B64EFB1DFD36" ID-GBIF-Occurrence="3866005321" box="[457,1182,1306,1347]" collectingDate="1936-05-14" collectorName="R. L. Usinger" country="Guam" location="Umatac" pageId="1" pageNumber="4" specimenCount="3">
+<location id="8E906F9FC57DFFB6FE40B64EFDDBFD36" LSID="urn:lsid:plazi:treatment:03E68852C57DFFB6FE03B7BDF978FD36:8E906F9FC57DFFB6FE40B64EFDDBFD36" box="[457,600,1306,1347]" name="Umatac" pageId="1" pageNumber="4">Umatac</location>
+, 
+<date id="FFF11F84C57DFFB6FDE6B64EFD79FD36" box="[623,762,1306,1347]" pageId="1" pageNumber="4" value="2014-05">
+<collectingDate id="EFB5E66CC57DFFB6FDE6B64EFD79FD36" box="[623,762,1306,1347]" pageId="1" pageNumber="4" value="2014-05">May 14</collectingDate>
+</date>
+, 
+<collectorName id="26BA5C92C57DFFB6FC98B64EFC26FD36" box="[785,933,1306,1347]" pageId="1" pageNumber="4">Usinger</collectorName>
+, 
+<specimenCount id="9D49F2CDC57DFFB6FC35B64EFB1DFD36" box="[956,1182,1306,1347]" pageId="1" pageNumber="4" type="generic">3 specimens</specimenCount>
+</materialsCitation>
+; 
+<materialsCitation id="3B273319C57DFFB6FB3EB64EF975FD36" ID-GBIF-Occurrence="3866005347" box="[1207,1782,1306,1347]" collectingDate="1936-06" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="1" pageNumber="4" specimenCount="1">
+<location id="8E906F9FC57DFFB6FB3EB64EFB78FD36" LSID="urn:lsid:plazi:treatment:03E68852C57DFFB6FE03B7BDF978FD36:8E906F9FC57DFFB6FB3EB64EFB78FD36" box="[1207,1275,1306,1347]" name="Piti" pageId="1" pageNumber="4">Piti</location>
+, 
+<location id="8E906F9FC57DFFB6FA9AB64EFAEAFD36" LSID="urn:lsid:plazi:treatment:03E68852C57DFFB6FE03B7BDF978FD36:8E906F9FC57DFFB6FA9AB64EFAEAFD36" box="[1299,1385,1306,1347]" name="June" pageId="1" pageNumber="4">June</location>
+, 
+<collectorName id="26BA5C92C57DFFB6FA08B64EF996FD36" box="[1409,1557,1306,1347]" pageId="1" pageNumber="4">Usinger</collectorName>
+, 
+<specimenCount id="9D49F2CDC57DFFB6F9A6B64EF975FD36" box="[1583,1782,1306,1347]" pageId="1" pageNumber="4" type="generic">1 specimen</specimenCount>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

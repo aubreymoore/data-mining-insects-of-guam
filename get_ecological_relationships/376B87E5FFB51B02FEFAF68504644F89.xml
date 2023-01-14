@@ -1,0 +1,68 @@
+<document id="FCB40FF2CD27D4BEDF0D679DC2740008" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB51B02FEFAF68504644F89" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Apsectus" docType="treatment" docVersion="12" lastPageNumber="161" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="161" updateTime="1671377585779" updateUser="annettekang">
+<mods:mods id="9859428FA588AA89DC85070FFC389229" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="EB7D938B74471605F0C31598D444B976">
+<mods:title id="62A588FBA76DB52414B48A8F87D1BEF4">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="B6031DCE1AA8132DCB5E19FCEAFED60F" type="personal">
+<mods:role id="AA81CA4BC2F71C7CBBAB14596BEBFF30">
+<mods:roleTerm id="24A5373795CCB627B25004214F4DB3D7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3576BE31F5A46198D42A9949DD777AE3">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="EBC4EEF77A4B0B58CF789BEE4746EEED">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="DE70CE90BF2503AB68C8B0E7E26953EC">text</mods:typeOfResource>
+<mods:relatedItem id="969E6A94FE50A6B3D697B408FCE9947F" type="host">
+<mods:originInfo id="3AECA80CA379692FFCD84D28EFFA6292">
+<mods:dateIssued id="1F0FEAA5AD96D619BFF72E5F4A66423B">1942</mods:dateIssued>
+<mods:dateOther id="25874E2EAB1088B655061AF9E32F790A" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="3331B19F57E755D9AB2C700765283727">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="4EF7C01D69EDA66BC88568A96CA9D2EF">
+<mods:placeTerm id="69E779BAE3237C773AFCC164A0A49AFA">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="36627AE856CBBB518BEBAF2048B395B1">
+<mods:title id="E74366E0E9C91298FB6B57AFC1ED80E1">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="2A1966677B4F5B27A6B21AEBDC9886F4">
+<mods:extent id="31DCA1BF4F074C2DA2EB04CE9D076ABA" unit="page">
+<mods:start id="31BEF9AEC62F2E108457B21E123A5DE8">150</mods:start>
+<mods:end id="39FA08E1314997CA3FB2CA7DF50751C4">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="02C2A417886C52E25221F4088AF05492">book chapter</mods:classification>
+<mods:identifier id="D3B0A4E0E44E3935A22ECDCCD7EA79C5" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="6056C7D9E6883F309A8A0FBB82A6DE07" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="24D9CCABDBC4E42B95A567F4EF3F9399" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB51B02FEFAF68504644F89" ID-DOI="http://doi.org/10.5281/zenodo.5206445" ID-GBIF-Taxon="184415312" ID-Zenodo-Dep="5206445" LSID="urn:lsid:plazi:treatment:376B87E5FFB51B02FEFAF68504644F89" httpUri="http://treatment.plazi.org/id/376B87E5FFB51B02FEFAF68504644F89" lastPageNumber="161" pageId="11" pageNumber="161">
+<subSubSection id="F7D86578FFB51B02FEFAF68505504F6F" box="[288,598,2352,2393]" pageId="11" pageNumber="161" type="nomenclature">
+<paragraph id="BF7D36F3FFB51B02FEFAF68505504F6F" blockId="11.[288,1605,2352,2495]" box="[288,598,2352,2393]" pageId="11" pageNumber="161">
+<taxonomicName id="78C24D70FFB51B02FEFAF68506C74F6F" box="[288,449,2352,2393]" class="Insecta" family="Dermestidae" genus="Apsectus" kingdom="Animalia" order="Coleoptera" pageId="11" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="8DB6EAE1FFB51B02FEFAF68506C74F6F" bold="true" box="[288,449,2352,2393]" pageId="11" pageNumber="161">Apsectus</emphasis>
+</taxonomicName>
+species.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB51B02FEBAF6D604644F89" pageId="11" pageNumber="161" type="materials_examined">
+<paragraph id="BF7D36F3FFB51B02FEBAF6D604644F89" blockId="11.[288,1605,2352,2495]" pageId="11" pageNumber="161">
+<materialsCitation id="0FAA3CAEFFB51B02FEBAF6D604644F89" ID-GBIF-Occurrence="3334692413" collectedFrom="small black dermestid" collectingDate="1936-06-11" collectorName="O. H. Swezey" country="Guam" location="Merizo" pageId="11" pageNumber="161" specimenCount="2">
+<location id="BA1D6028FFB51B02FEBAF6D606E64FBA" LSID="urn:lsid:plazi:treatment:376B87E5FFB51B02FEFAF68504644F89:BA1D6028FFB51B02FEBAF6D606E64FBA" box="[352,480,2403,2444]" name="Merizo" pageId="11" pageNumber="161">Merizo</location>
+, 
+<date id="CB7C1033FFB51B02FE2EF6D605864FBA" box="[500,640,2403,2444]" pageId="11" pageNumber="161" value="2011-06">
+<collectingDate id="DB38E9DBFFB51B02FE2EF6D605864FBA" box="[500,640,2403,2444]" pageId="11" pageNumber="161" value="2011-06">June 11</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB51B02FD43F6D604184FBA" box="[665,798,2403,2444]" pageId="11" pageNumber="161">Swezey</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFB51B02FCEEF6D603364FBA" box="[820,1072,2403,2444]" pageId="11" pageNumber="161" type="generic">two specimens</specimenCount>
+of this small black clermestid. 
+<location id="BA1D6028FFB51B02FE84F620052A4F89" LSID="urn:lsid:plazi:treatment:376B87E5FFB51B02FEFAF68504644F89:BA1D6028FFB51B02FE84F620052A4F89" box="[350,556,2453,2495]" name="Determined" pageId="11" pageNumber="161">Determined</location>
+by 
+<collectorName id="12375325FFB51B02FDABF620045B4F89" box="[625,861,2453,2495]" pageId="11" pageNumber="161">E. A. Chapin</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

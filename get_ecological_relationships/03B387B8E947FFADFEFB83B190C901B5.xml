@@ -1,0 +1,126 @@
+<document id="46D615ADB7E9F11277F93B78C2E99984" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E947FFADFEFB83B190C901B5" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Hypena abyssinialis Guenee" docType="treatment" docVersion="22" lastPageNumber="175" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="175" updateTime="1669838197629" updateUser="annettekang">
+<mods:mods id="BA67C9DDC808CD3ECD6D4C793C702408" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="20D7D1E24EA11CAEDC57F405272F1BA6">
+<mods:title id="BEE8EA9D726822A0349A63A7E9F309C4">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="FE22044C808D193E105D3474B054D620" type="personal">
+<mods:role id="BE360F4DCB97B96BA5CC9721437840DC">
+<mods:roleTerm id="5678217DB4C44FD1D86115D46CB978BB">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="8C60BB459B246656ABD1D555CF7FEC3C">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="B04C0A96D202123D4ADB8E9DB1F6D18D">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="45ECC964AE3EE89FACA1ECCFBE85A69F">text</mods:typeOfResource>
+<mods:relatedItem id="1A12BC6630C3740FE3469720622117BD" type="host">
+<mods:originInfo id="6BCEE626D236C780E6FCF1470DE1507C">
+<mods:dateIssued id="DB1639B27A7873CA40BC88694C78B7E2">1946</mods:dateIssued>
+<mods:dateOther id="235DF76ABCAFB672504B35A04E777E13" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="44D5E5BF06E4317609573A964A6D2EF3">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="A34D46F09269DD53EBC1FFD2D05EB27E">
+<mods:placeTerm id="CDD9C402889A2F89AB5CA7A3FA17C0C8">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="16B48489FDB0A14D73C85BD7345FD4E5">
+<mods:title id="DF1D520B19A6DB23F52217A937081733">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="7F08F4FB057ACBA26EADB283A45E8CBD">
+<mods:extent id="FCF1F0A8F94DD89ABCC11B93B28416B0" unit="page">
+<mods:start id="5E29629A16172B44078D094B33A57221">163</mods:start>
+<mods:end id="346511328C01D15F1086DB414C20759D">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="316EA493EC990E3D448D100F28103F37">book chapter</mods:classification>
+<mods:identifier id="F6359C176E6EC034A9277C2A0BC4E314" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="06B0D1EC55CF2FF5735061CA2D256FB1" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="C83A4590ACADF8B796C1A563DE0DCA51" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E947FFADFEFB83B190C901B5" ID-DOI="http://doi.org/10.5281/zenodo.5224133" ID-GBIF-Taxon="183926859" ID-Zenodo-Dep="5224133" LSID="urn:lsid:plazi:treatment:03B387B8E947FFADFEFB83B190C901B5" httpUri="http://treatment.plazi.org/id/03B387B8E947FFADFEFB83B190C901B5" lastPageNumber="175" pageId="12" pageNumber="175">
+<subSubSection id="C3006525E947FFADFEFB83B191E502F7" box="[308,915,396,440]" pageId="12" pageNumber="175" type="nomenclature">
+<paragraph id="8BA536AEE947FFADFEFB83B191E502F7" blockId="12.[308,1707,396,762]" box="[308,915,396,440]" pageId="12" pageNumber="175">
+<heading id="D0ED81C2E947FFADFEFB83B191E502F7" box="[308,915,396,440]" centered="true" fontSize="8" level="2" pageId="12" pageNumber="175" reason="4">
+<emphasis id="B96EEABCE947FFADFEFB83B1931002F7" bold="true" box="[308,358,396,440]" pageId="12" pageNumber="175">32.</emphasis>
+<taxonomicName id="4C1A4D2DE947FFADFE4683B191FB02F7" authority="Guenée" box="[393,909,396,440]" class="Insecta" family="Noctuidae" genus="Hypena" kingdom="Animalia" order="Lepidoptera" pageId="12" pageNumber="175" phylum="Arthropoda" rank="species" species="abyssinialis">
+<emphasis id="B96EEABCE947FFADFE4683B1908002F7" bold="true" box="[393,758,396,440]" pageId="12" pageNumber="175">Hypena abyssinialis</emphasis>
+<author id="53A7DE4BE947FFADFCC883B191FB02F7" box="[775,909,396,440]" pageId="12" pageNumber="175">Guenee</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E947FFADFC6C83B190C901B5" pageId="12" pageNumber="175" type="reference_group">
+<bibCitation id="5E303EC2E947FFADFC6C83B191EB02A4" author="Hampson" pageId="12" pageNumber="175" pagination="86" part="3" refId="ref6631" title="Fauna Brit. India, Moths" type="journal article" year="1895">
+<paragraph id="8BA536AEE947FFADFC6C83B194DD02F7" blockId="12.[308,1707,396,762]" box="[931,1707,396,440]" pageId="12" pageNumber="175">
+<heading id="D0ED81C2E947FFADFC6C83B194DD02F7" box="[931,1707,396,440]" centered="true" fontSize="8" level="2" pageId="12" pageNumber="175" reason="4">
+<treatmentCitationGroup id="AB0A1180E947FFADFC6C83B194DD02F7" box="[931,1707,396,440]" pageId="12" pageNumber="175">
+<bibCitation id="5E303EC2E947FFADFC6C83B194DD02F7" author="Guenee" box="[931,1707,396,440]" pageId="12" pageNumber="175" pagination="39" refId="ref6631" title="Delt. et Pyral." type="book" year="1854">
+<treatmentCitation id="0ABB10BFE947FFADFC6C83B1972C02F7" author="Guenée" box="[931,1370,396,440]" page="39" pageId="12" pageNumber="175" year="1854">
+<title id="F91EDD98E947FFADFC6C83B196D102F7" box="[931,1191,396,440]" pageId="12" pageNumber="175">Delt. et Pyral.</title>
+, 
+<pagination id="B2D3C85AE947FFADFB7283B1969E02F7" box="[1213,1256,396,440]" pageId="12" pageNumber="175">39</pagination>
+, 
+<year id="FFB277FDE947FFADFACE83B1972C02F7" box="[1281,1370,396,440]" pageId="12" pageNumber="175">1854</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE947FFADFABF83B194DD02F7" author="Hampson" box="[1392,1707,396,440]" page="86" pageId="12" pageNumber="175" year="1895">
+<author id="53A7DE4BE947FFADFABF83B1945702F7" box="[1392,1569,396,440]" pageId="12" pageNumber="175">Hampson</author>
+, 
+<title id="F91EDD98E947FFADF9F683B194DD02F7" box="[1593,1707,396,440]" pageId="12" pageNumber="175">Fauna</title>
+</treatmentCitation>
+</bibCitation>
+</treatmentCitationGroup>
+</heading>
+</paragraph>
+<paragraph id="8BA536AEE947FFADFEBC83FD91EB02A4" blockId="12.[308,1707,396,762]" box="[371,925,448,491]" pageId="12" pageNumber="175">
+Brit. 
+<collectingCountry id="F30D763EE947FFADFE1983FD904E02A4" box="[470,568,448,491]" name="India" pageId="12" pageNumber="175">India</collectingCountry>
+, Moths 
+<emphasis id="B96EEABCE947FFADFD0083FD909402A4" bold="true" box="[719,738,448,491]" pageId="12" pageNumber="175">
+<part id="FFBE9C33E947FFADFD0083FD909402A4" box="[719,738,448,491]" pageId="12" pageNumber="175" type="volume">3</part>
+</emphasis>
+: 
+<pagination id="B2D3C85AE947FFADFCC983FD915802A4" box="[774,814,448,491]" pageId="12" pageNumber="175" type="pagination">86</pagination>
+, 
+<year id="FFB277FDE947FFADFC8A83FD91EE02A4" box="[837,920,448,491]" pageId="12" pageNumber="175">1895</year>
+.
+</paragraph>
+</bibCitation>
+<paragraph id="8BA536AEE947FFADFEBA83C1903B01C2" blockId="12.[308,1707,396,762]" pageId="12" pageNumber="175">
+<materialsCitation id="3B723CF3E947FFADFEBA83C190060168" ID-GBIF-Occurrence="3913652446" box="[373,624,508,551]" collectingDate="1936-08-24" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="12" pageNumber="175">
+<location id="8EC56075E947FFADFEBA83C193CE0168" LSID="urn:lsid:plazi:treatment:03B387B8E947FFADFEFB83B190C901B5:8EC56075E947FFADFEBA83C193CE0168" box="[373,440,508,551]" pageId="12" pageNumber="175">
+<collectingMunicipality id="6BC1ACD4E947FFADFEBA83C193CE0168" box="[373,440,508,551]" pageId="12" pageNumber="175">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE947FFADFE1C83C1901F0168" box="[467,617,508,551]" pageId="12" pageNumber="175" value="1924-08">
+<collectingDate id="EFE0E986E947FFADFE1C83C1901F0168" box="[467,617,508,551]" pageId="12" pageNumber="175" value="1924-08">Aug. 24</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E947FFADFD4A83C191B30168" ID-GBIF-Occurrence="3913652496" box="[645,965,508,551]" collectingDate="1936-09-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="12" pageNumber="175">
+<date id="FFA4106EE947FFADFD4A83C1916A0168" box="[645,796,508,551]" pageId="12" pageNumber="175" value="2020-09">
+<collectingDate id="EFE0E986E947FFADFD4A83C1916A0168" box="[645,796,508,551]" pageId="12" pageNumber="175" value="2020-09">Sept. 20</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E947FFADFCF683C191B60168" box="[825,960,508,551]" pageId="12" pageNumber="175">Swezey</collectorName>
+.
+</materialsCitation>
+Three moths were reared from slender green caterpillars on a low weed called 
+<emphasis id="B96EEABCE947FFADFBC9800D969A0116" box="[1030,1260,560,601]" italics="true" pageId="12" pageNumber="175">yerbas babue</emphasis>
+(no botanical name was learned for it).
+</paragraph>
+<paragraph id="8BA536AEE947FFADFEBC80A190C901B5" blockId="12.[308,1707,396,762]" pageId="12" pageNumber="175">
+Widely distributed in Africa, 
+<collectingCountry id="F30D763EE947FFADFC5980A191830188" box="[918,1013,668,711]" name="India" pageId="12" pageNumber="175">India</collectingCountry>
+, 
+<collectingCountry id="F30D763EE947FFADFBDF80A196FA0188" box="[1040,1164,668,711]" name="Sri Lanka" pageId="12" pageNumber="175">Ceylon</collectingCountry>
+, 
+<collectingCountry id="F30D763EE947FFADFB6A80A197570188" box="[1189,1313,668,711]" name="Myanmar" pageId="12" pageNumber="175">Burma</collectingCountry>
+, and 
+<collectingCountry id="F30D763EE947FFADFA4580A194470188" box="[1418,1585,668,711]" name="Australia" pageId="12" pageNumber="175">Australia</collectingCountry>
+. Now recorded from 
+<collectingCountry id="F30D763EE947FFADFD8180ED90CC01B5" box="[590,698,720,762]" name="Guam" pageId="12" pageNumber="175">Guam</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

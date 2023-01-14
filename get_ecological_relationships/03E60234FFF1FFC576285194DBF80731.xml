@@ -1,0 +1,82 @@
+<document id="683D890EFCB42A65450D5C952DDCAF80" ID-DOI="http://doi.org/10.5281/zenodo.3634035" ID-GBIF-Dataset="9c8d5683-76c1-4938-aede-b7ad5391b6b2" ID-Zenodo-Dep="3634035" checkinTime="1580668122796" checkinUser="plazi" docAuthor="Moulton, Dudley" docDate="1942" docId="03E60234FFF1FFC576285194DBF80731" docLanguage="en" docName="InsectsOfGuam.172.7-16.pdf.imf" docOrigin="Insects of Guam I, Bernice P. Bishop Museum Bulletin" docSource="http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Dendrothripoides ipomeae Bagnall 1923" docType="treatment" docVersion="15" lastPageNumber="9" masterDocId="FFDF7A4CFFF3FFC777195003DD64051A" masterDocTitle="Thysanoptera: Thrips of Guam" masterLastPageNumber="16" masterPageNumber="7" pageNumber="9" updateTime="1658840059004" updateUser="annettekang">
+<mods:mods id="9A9273689B95613880C5BDBD0C9D2D73" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="D9B0C75F55B1612D336743AF27035935">
+<mods:title id="9DAD31FDD051A2ADD044E923C4EFA77D">Thysanoptera: Thrips of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="AC49BD11751A98DC6D8F64C847BA99BB" type="personal">
+<mods:role id="8EB047488662AA664C0E627F80522051">
+<mods:roleTerm id="050F5CAE17A28722386D470118B744A6">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="15D1B3B7DF57C71645799357D0BC0DA4">Moulton, Dudley</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="9366275D76D50D8F2FED959FA1408392">text</mods:typeOfResource>
+<mods:relatedItem id="98E0E2E9E3D8C15D759374FA5440B25F" type="host">
+<mods:originInfo id="8AD3986D36E2C972CAF4CEBEC36D8BD0">
+<mods:dateIssued id="9F38071BA0A8A35923D20B2EBA32951E">1942</mods:dateIssued>
+<mods:dateOther id="CC50CAE4A01D975DF41B48506B5A5DFC" type="pubDate">1942-12-31</mods:dateOther>
+<mods:publisher id="43B76B1BD1E3C453A82439B685AFD915">Bernice P. Bishop Museum Bulletin</mods:publisher>
+</mods:originInfo>
+<mods:titleInfo id="4C31E21079303B499448A44F3654D071">
+<mods:title id="61D563BD116A69A2C54A2D87D2A7DA5B">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="01A5FE2317099E5F2C110D4A76F665A9">
+<mods:extent id="6AC3C9D4BD888D9B988FD2CFA24FAE94" unit="page">
+<mods:start id="ECBDC5CD7771536BD900D41EBB36AF75">7</mods:start>
+<mods:end id="0FAC25AE0CC69DBC1BC910BC740E6B07">16</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="001BCDDA7B5E52E6639E480639724024">
+<mods:url id="2DFEF51C03F540E976BBC4062FDF510B">http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf</mods:url>
+</mods:location>
+<mods:classification id="FB2067D895FA1FB4335BE1E4C9616A8E">book chapter</mods:classification>
+<mods:identifier id="AACFB4ED436E76D69CBCB13AA72041E8" type="DOI">http://doi.org/10.5281/zenodo.3634035</mods:identifier>
+<mods:identifier id="81BDA0BC8555C57A45471BD64E0651F6" type="GBIF-Dataset">9c8d5683-76c1-4938-aede-b7ad5391b6b2</mods:identifier>
+<mods:identifier id="2A4F9703E084A194F3C2E7D230DC1B11" type="Zenodo-Dep">3634035</mods:identifier>
+</mods:mods>
+<treatment id="03E60234FFF1FFC576285194DBF80731" ID-DOI="http://doi.org/10.5281/zenodo.5157415" ID-GBIF-Taxon="161938959" ID-Zenodo-Dep="5157415" LSID="urn:lsid:plazi:treatment:03E60234FFF1FFC576285194DBF80731" httpUri="http://treatment.plazi.org/id/03E60234FFF1FFC576285194DBF80731" lastPageNumber="9" pageId="2" pageNumber="9">
+<subSubSection id="C355E0A9FFF1FFC576285194DE9C04A6" box="[305,1016,407,445]" pageId="2" pageNumber="9" type="nomenclature">
+<paragraph id="8BF0B322FFF1FFC576285194DE9604A6" blockId="2.[305,1701,404,556]" box="[305,1010,407,445]" pageId="2" pageNumber="9">
+<emphasis id="B93B6F30FFF1FFC576285194DC3504A7" bold="true" box="[305,337,407,445]" pageId="2" pageNumber="9">5.</emphasis>
+<taxonomicName id="4C4FC8A1FFF1FFC576695194DE9604A6" authority="Bagnall" authorityName="Bagnall" authorityYear="1923" box="[368,1010,407,445]" class="Insecta" family="Thripidae" genus="Dendrothripoides" kingdom="Animalia" order="Thysanoptera" pageId="2" pageNumber="9" phylum="Arthropoda" rank="species" species="ipomeae">
+<emphasis id="B93B6F30FFF1FFC576695194DE3D04A7" bold="true" box="[368,857,407,445]" pageId="2" pageNumber="9">Dendrothripoides ipomeae</emphasis>
+Bagnall
+</taxonomicName>
+</paragraph>
+<paragraph id="8BF0B322FFF1FFC574EB519BDF6904EA" blockId="2.[305,1701,404,556]" pageId="2" pageNumber="9">
+, 
+<subSubSection id="C355E0A9FFF1FFC57300519BDF6904EA" pageId="2" pageNumber="9" type="reference_group">
+<treatmentCitation id="0AEE9533FFF1FFC57300519BDF6904EA" author="Bagnall" page="624" pageId="2" pageNumber="9" year="1923">
+<bibCitation id="5E65BB4EFFF1FFC57300519BDF6904EA" author="Bagnall" journalOrPublisher="Ann. Mag. Nat. Hist." pageId="2" pageNumber="9" pagination="624" part="IX" type="journal article" year="1923">
+<journalOrPublisher id="518EB9EEFFF1FFC57300519BD8C304A6" box="[1049,1447,408,444]" pageId="2" pageNumber="9">Ann. Mag. Nat. Hist.</journalOrPublisher>
+<part id="FFEB19BFFFF1FFC572DF519BD89104A6" box="[1478,1525,408,444]" pageId="2" pageNumber="9">IX</part>
+, 
+<part id="FFEB19BFFFF1FFC571005194DB2C04A7" box="[1561,1608,407,445]" pageId="2" pageNumber="9" type="volume">12</part>
+: 
+<pagination id="B2864DD6FFF1FFC571445194DBFB04A6" box="[1629,1695,407,444]" pageId="2" pageNumber="9" type="pagination">624</pagination>
+, 
+<year id="FFE7F271FFF1FFC576A951C8DF6C04EA" box="[432,520,459,496]" pageId="2" pageNumber="9">1923</year>
+.
+</bibCitation>
+</treatmentCitation>
+</subSubSection>
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFF1FFC576695204DBF80731" box="[368,1692,518,555]" pageId="2" pageNumber="9" type="materials_examined">
+<paragraph id="8BF0B322FFF1FFC576695204DBF80731" blockId="2.[305,1701,404,556]" box="[368,1692,518,555]" pageId="2" pageNumber="9">
+<materialsCitation id="3B27B97FFFF1FFC576695204DBF80731" ID-GBIF-Occurrence="3357451310" box="[368,1692,518,555]" collectedFrom="on morning-glory leaves" collectingDate="1936-05-24" collectorName="O. H. Swezey" country="Guam" location="Orote Point" pageId="2" pageNumber="9" specimenCount-female="3">
+<location id="8E90E5F9FFF1FFC576695204DF770731" LSID="urn:lsid:plazi:treatment:03E60234FFF1FFC576285194DBF80731:8E90E5F9FFF1FFC576695204DF770731" box="[368,531,519,555]" name="Orate Pt." pageId="2" pageNumber="9">Orate Pt.</location>
+, 
+<date id="FFF195E2FFF1FFC575365204DFDC0731" box="[559,696,518,555]" pageId="2" pageNumber="9" value="1924-05">
+<collectingDate id="EFB56C0AFFF1FFC575365204DFDC0731" box="[559,696,518,555]" pageId="2" pageNumber="9" value="1924-05">May 24</collectingDate>
+</date>
+, on morning-glory leaves, 
+<specimenCount id="9D4978ABFFF1FFC573935204D8130731" box="[1162,1399,519,555]" pageId="2" pageNumber="9" type="female">three females</specimenCount>
+, 
+<collectorName id="26BAD6F4FFF1FFC572965204DB6B0731" box="[1423,1551,519,555]" pageId="2" pageNumber="9">Swezey</collectorName>
+(5469).
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

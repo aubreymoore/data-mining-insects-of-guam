@@ -1,0 +1,60 @@
+<document id="25A093D1EC61BA2DB0C580C2908F2AF3" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8EFFE0E427F9BE8C3BF9BD" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pentelicus" docType="treatment" docVersion="12" lastPageNumber="215" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="215" updateTime="1663769165332" updateUser="annettekang">
+<mods:mods id="4C8B4BF38D68F4B3D4A6AC8DA6312973" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="609D4EDB57D52AABFBB33BE14077D261">
+<mods:title id="22B96C22A41B977D125D6ED5535CC27C">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="833D77BEA81D0F3E36EC11FC8229EB8F" type="personal">
+<mods:role id="7BC6C2819FEFDF62BBC142FDD56A46AD">
+<mods:roleTerm id="1653B2CD399A04C8A53A4067A9DB1976">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="39E5D000FDCF4F3D5B8E04F8FF549D11">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="F703A841FBC241BD4EFD979B5F0A40AE">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="38BE75B7D2965DF5DB430ABF68B754D6">text</mods:typeOfResource>
+<mods:relatedItem id="F11E4D604F1810CFCD281EE9B67BA7E5" type="host">
+<mods:originInfo id="1216EEF638AEA5228B8E5D892F8D7F54">
+<mods:dateIssued id="E65E02B794B178BC0B654A7F120164CB">1946</mods:dateIssued>
+<mods:dateOther id="A7E1AEE79BAD2F59645FFBDEF4417118" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="838CF468D82BC659125300C7BF0A1A75">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="94BA2EC86AFC3B2DAD9D017F28F40EDB">
+<mods:placeTerm id="C485698C3D3CEDD62AF4EC118CEA4E2A">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="E3B8F9B5FC7A07F08181D2190D0F8B72">
+<mods:title id="C827EFA719B5F82AEC34D597D3F2D7AE">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="B0AD8309A82A8117D995A3D7EE1ABBAC">
+<mods:extent id="B51D8F34E514F1BE039D06D7A64231FD" unit="page">
+<mods:start id="91C9945165E4DD5E175206BE86D26529">211</mods:start>
+<mods:end id="B095764066920F43CA29EE3A2368B17A">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="EB9B5FD67605869E396D45E695862D23">book chapter</mods:classification>
+<mods:identifier id="27D8C621CABCFDC4F63A841427B9E492" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="907D84B5DE2BDF4F2EBABF8202BA0C2C" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="EDC17134898992E8FBB72CF8D07AA3D3" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8EFFE0E427F9BE8C3BF9BD" ID-DOI="http://doi.org/10.5281/zenodo.5208026" ID-GBIF-Taxon="187737459" ID-Zenodo-Dep="5208026" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E427F9BE8C3BF9BD" httpUri="http://treatment.plazi.org/id/7376EC19FF8EFFE0E427F9BE8C3BF9BD" lastPageNumber="215" pageId="4" pageNumber="215">
+<subSubSection id="B3C50E84FF8EFFE0E427F9BE8D94F9EE" box="[292,714,1554,1596]" pageId="4" pageNumber="215" type="nomenclature">
+<paragraph id="FB605D0FFF8EFFE0E427F9BE8D94F9EE" blockId="4.[292,869,1554,1647]" box="[292,714,1554,1596]" pageId="4" pageNumber="215">
+<heading id="A028EA63FF8EFFE0E427F9BE8D94F9EE" box="[292,714,1554,1596]" fontSize="8" level="2" pageId="4" pageNumber="215" reason="4">
+<emphasis id="C9AB811DFF8EFFE0E427F9BE8E09F9EE" bold="true" box="[292,343,1554,1596]" pageId="4" pageNumber="215">32.</emphasis>
+<taxonomicName id="3CDF268CFF8EFFE0E47BF9BE8D6CF9EE" authority=" Howard, 1895" box="[376,562,1554,1596]" class="Insecta" family="Encyrtidae" genus="Pentelicus" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="215" phylum="Arthropoda" rank="genus">
+<emphasis id="C9AB811DFF8EFFE0E47BF9BE8D6CF9EE" bold="true" box="[376,562,1554,1596]" pageId="4" pageNumber="215">Pentelicus</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8EFFE0E467F9E88C3BF9BD" box="[356,869,1604,1647]" pageId="4" pageNumber="215" type="description">
+<paragraph id="FB605D0FFF8EFFE0E467F9E88C3BF9BD" blockId="4.[292,869,1554,1647]" box="[356,869,1604,1647]" pageId="4" pageNumber="215">
+<materialsCitation id="4BB75752FF8EFFE0E467F9E88C3EF9BD" ID-GBIF-Occurrence="3901040320" box="[356,864,1604,1647]" collectingDate="1913" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="4" pageNumber="215">
+<location id="FE000BD4FF8EFFE0E467F9E88D23F9BD" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E427F9BE8C3BF9BD:FE000BD4FF8EFFE0E467F9E88D23F9BD" box="[356,637,1604,1647]" name="Listed by Fulla" pageId="4" pageNumber="215">Listed by Fulla</location>
+.way in 1913
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

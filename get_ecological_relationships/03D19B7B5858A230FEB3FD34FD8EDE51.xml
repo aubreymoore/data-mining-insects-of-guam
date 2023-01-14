@@ -1,0 +1,83 @@
+<document id="5C08EAC967E1843CCA4C53E32467EDF9" ID-DOI="http://doi.org/10.5281/zenodo.5159791" ID-GBIF-Dataset="7f2d2fe5-8875-4048-9191-b6ef16320fdb" ID-Zenodo-Dep="5159791" checkinTime="1628017542842" checkinUser="carolina" docAuthor="Gressitt, J. Linsley" docDate="1942" docId="03D19B7B5858A230FEB3FD34FD8EDE51" docLanguage="en" docName="InsectsOfGuamI.172.61-64.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Ceresium Newman" docType="treatment" docVersion="13" lastPageNumber="63" masterDocId="FFE8E303585AA232FF96FFDCFFCADD26" masterDocTitle="New Longicorn Beetles From Guam (Cerambycidae)" masterLastPageNumber="64" masterPageNumber="61" pageNumber="63" updateTime="1658332207886" updateUser="ExternalLinkService">
+<mods:mods id="BCC81252D18DED71FA806495093E38FD" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="1562D479B6E2B508B73E71C24CA34CB6">
+<mods:title id="89A06F177197FBCA6836AF5C51DD7C95">New Longicorn Beetles From Guam (Cerambycidae)</mods:title>
+</mods:titleInfo>
+<mods:name id="083835D03BB7D2E0AEED1EE3C2E5D1A0" type="personal">
+<mods:role id="FDDDCE0B208491E791444D2AB78A8738">
+<mods:roleTerm id="FCA99F8776E9AD742E8BA46290C8083F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="077166AE9C4DF829D5DFA8338B40806A">Gressitt, J. Linsley</mods:namePart>
+<mods:affiliation id="D0CB9113E0F185F0B8C9A0EDAA2DF6E2">Lingnan University, Canton, China</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A5E8EFCFD92D1DFC213C121EC244B091">text</mods:typeOfResource>
+<mods:relatedItem id="ED7D5690914C459F067CD8131A4A49AA" type="host">
+<mods:originInfo id="1B6DF19A73BF73241892EF104D648F52">
+<mods:dateIssued id="B9E6781D0BF2E524DE3DB649D95EA376">1942</mods:dateIssued>
+<mods:dateOther id="B118E3863207F0204DA1F7E709675E3C" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="46CDFFB6962B51435C111EA1BC123193">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="677DFB4D145D3A9E5DBBC8B1D9910CCE">
+<mods:placeTerm id="AAA61A74B3CE5A44B21557382D71DF52">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="2C82D1C6B73C13092650304FBD5762CC">
+<mods:title id="C769DA4EADE37AE4AB2E2957A48AC663">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="6F7542BC06F578207801F650F234ADEB">
+<mods:extent id="73301D4343A683E178BA8A4206BBB90C" unit="page">
+<mods:start id="2C6E2CBB86462DB0F1370C00729C6FD0">61</mods:start>
+<mods:end id="3C93DF04E6F37910944C61C96796032E">64</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="C7E9F5C7A8D79351E9375DA9631FC960">book chapter</mods:classification>
+<mods:identifier id="43C87A05250E2D12BE64437CD772BF2A" type="DOI">http://doi.org/10.5281/zenodo.5159791</mods:identifier>
+<mods:identifier id="53AEFA140293F84794C7B90B3EA5A06B" type="GBIF-Dataset">7f2d2fe5-8875-4048-9191-b6ef16320fdb</mods:identifier>
+<mods:identifier id="E1909D0B1CDA6896632F2FA1319C5B89" type="Zenodo-Dep">5159791</mods:identifier>
+</mods:mods>
+<treatment id="03D19B7B5858A230FEB3FD34FD8EDE51" ID-DOI="http://doi.org/10.5281/zenodo.5157210" ID-GBIF-Taxon="184186060" ID-Zenodo-Dep="5157210" LSID="urn:lsid:plazi:treatment:03D19B7B5858A230FEB3FD34FD8EDE51" httpUri="http://treatment.plazi.org/id/03D19B7B5858A230FEB3FD34FD8EDE51" lastPageNumber="63" pageId="2" pageNumber="63">
+<subSubSection id="C36279E65858A230FEB3FD34FD68DE36" box="[293,674,744,784]" pageId="2" pageNumber="63" type="nomenclature">
+<paragraph id="8BC72A6D5858A230FEB3FD34FD68DE36" blockId="2.[292,1687,744,887]" box="[293,674,744,784]" pageId="2" pageNumber="63">
+<heading id="D08F9D015858A230FEB3FD34FD68DE36" box="[293,674,744,784]" fontSize="11" level="2" pageId="2" pageNumber="63" reason="2">
+<emphasis id="B90CF67F5858A230FEB3FD34FE88DE36" bold="true" box="[293,322,744,784]" pageId="2" pageNumber="63">4.</emphasis>
+<taxonomicName id="4C7851EE5858A230FEF3FD34FDC6DE36" authorityName="Newman" box="[357,524,744,784]" class="Insecta" family="Cerambycidae" genus="Ceresium" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="63" phylum="Arthropoda" rank="genus">
+<emphasis id="B90CF67F5858A230FEF3FD34FDC6DE36" bold="true" box="[357,524,744,784]" pageId="2" pageNumber="63">Ceresium</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C36279E65858A230FEF0FCC6FD8EDE51" pageId="2" pageNumber="63" type="materials_examined">
+<paragraph id="8BC72A6D5858A230FEF0FCC6FD8EDE51" blockId="2.[292,1687,744,887]" pageId="2" pageNumber="63">
+<materialsCitation id="3B1020305858A230FEF0FCC6FB4CDE63" ID-GBIF-Occurrence="3334354302" box="[358,1158,794,837]" collectedFrom="in house" collectingDate="1936-05-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="63" specimenCount="1">
+<location id="8EA77CB65858A230FEF0FCC6FE6DDE63" LSID="urn:lsid:plazi:treatment:03D19B7B5858A230FEB3FD34FD8EDE51:8EA77CB65858A230FEF0FCC6FE6DDE63" box="[358,423,794,837]" name="Piti" pageId="2" pageNumber="63">Piti</location>
+, 
+<date id="FFC60CAD5858A230FE29FCC6FDF8DE63" box="[447,562,794,837]" pageId="2" pageNumber="63">
+<collectingDate id="EF82F5455858A230FE29FCC6FDF8DE63" box="[447,562,794,837]" pageId="2" pageNumber="63">
+May 
+<emphasis id="B90CF67F5858A230FD8AFCC6FDF3DE63" bold="true" box="[540,569,794,837]" italics="true" pageId="2" pageNumber="63">7,</emphasis>
+</collectingDate>
+</date>
+<collectorName id="268D4FBB5858A230FDDCFCC6FD05DE63" box="[586,719,794,837]" pageId="2" pageNumber="63">Swezey</collectorName>
+, 
+<collectedFrom id="386469905858A230FD73FCC6FCB3DE63" box="[741,889,794,837]" pageId="2" pageNumber="63">in house</collectedFrom>
+, 
+<specimenCount id="9D7EE1E45858A230FC19FCC6FBBFDE63" box="[911,1141,794,837]" pageId="2" pageNumber="63" type="generic">one specimen</specimenCount>
+;
+</materialsCitation>
+<materialsCitation id="3B1020305858A230FB01FCC6FD8EDE51" ID-GBIF-Occurrence="3334354301" collectingDate="1936-06-30" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="2" pageNumber="63" specimenCount="3">
+<collectingMunicipality id="6BA3B0175858A230FB01FCC6FA87DE63" box="[1175,1357,794,837]" pageId="2" pageNumber="63">Machanao</collectingMunicipality>
+, 
+<date id="FFC60CAD5858A230FAF7FCC6FA27DE63" box="[1377,1517,794,837]" pageId="2" pageNumber="63" value="1930-06">
+<collectingDate id="EF82F5455858A230FAF7FCC6FA27DE63" box="[1377,1517,794,837]" pageId="2" pageNumber="63" value="1930-06">June 30</collectingDate>
+</date>
+, 
+<collectorName id="268D4FBB5858A230F997FCC6F95BDE63" box="[1537,1681,794,837]" pageId="2" pageNumber="63">Usinger</collectorName>
+, 
+<specimenCount id="9D7EE1E45858A230FEB2FC92FDF5DE51" box="[292,575,846,887]" pageId="2" pageNumber="63" type="generic">three specimens</specimenCount>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

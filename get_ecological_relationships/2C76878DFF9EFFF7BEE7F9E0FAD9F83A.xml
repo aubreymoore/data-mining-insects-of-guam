@@ -1,0 +1,147 @@
+<document id="862EDFDBABEEC065440FE053227CBF65" ID-DOI="http://doi.org/10.5281/zenodo.5160233" ID-GBIF-Dataset="16f6ef92-619b-417b-946c-22d9b1445e7d" ID-Zenodo-Dep="5160233" checkinTime="1628022546680" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="2C76878DFF9EFFF7BEE7F9E0FAD9F83A" docLanguage="en" docName="InsectsOfGuamII.189.3-8.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docTitle="Blattella germanica , Hebard, B. P. Bishop Mus." docType="treatment" docVersion="17" lastPageNumber="6" masterDocId="D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8" masterDocTitle="Orthoptera And Related Orders Orthoptera And Related Orders Of Guam" masterLastPageNumber="8" masterPageNumber="3" pageNumber="6" updateTime="1657639241790" updateUser="ExternalLinkService">
+<mods:mods id="31BCD9B417FFF9F5B3501DB5A0F1E3B8" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="D8FF22A5487D90B04168DB6D74D495FD">
+<mods:title id="F991109CAE14A98674CDCB0003856512">Orthoptera And Related Orders Orthoptera And Related Orders Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="6C83FCE94165725C9807D86FAAFE0F68" type="personal">
+<mods:role id="7979DC06A570A3F69C68DCDDDFE295D1">
+<mods:roleTerm id="5FC3D4DB81CDA911ECE02A223826B662">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="23528CBC5A61034FBAF87E2A1134EADC">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="85AC8A8F6E851624CE3B2E3CC8834945">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="354528E4B5D5B6F2E483837D8E171098">text</mods:typeOfResource>
+<mods:relatedItem id="67D60BF0E515C0F83FFA534CB0533EAF" type="host">
+<mods:originInfo id="46A1F5A281D672BC15BFD755E11947E6">
+<mods:dateIssued id="CDB31F556FDF8A222E89AA6F5C22EC0A">1946</mods:dateIssued>
+<mods:dateOther id="0199F5D30F81EB5930AF98A007022F8B" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="A91B31A1F83D1E37B970A1E79B50B318">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="0AE8CADA978D14D1A169289AABDBFF0E">
+<mods:placeTerm id="894A34FC7FA17D4E8689C57FDDE2DB68">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5858A482FE525846FBFDA4F6FFC2780F">
+<mods:title id="F530DD1FA8C1AC398ED9A1C3BE8EFCC7">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="772E2CF6E44AF5E324818B669C77130C">
+<mods:extent id="4E34C63219C16476160F270A72101F9E" unit="page">
+<mods:start id="83759DC72C290809D241836E34B82C9A">3</mods:start>
+<mods:end id="1C5253460061D7C7BDA6295DF4C8F84A">8</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="D1386B0E5F67DCA17F158B920655381B">book chapter</mods:classification>
+<mods:identifier id="E4A151524134DC8EE4ACDA250F8FE264" type="DOI">http://doi.org/10.5281/zenodo.5160233</mods:identifier>
+<mods:identifier id="8892319B9A5999B113D706D248163CDB" type="GBIF-Dataset">16f6ef92-619b-417b-946c-22d9b1445e7d</mods:identifier>
+<mods:identifier id="EB3DABDB1AD417D2C52958BB8CDC80FC" type="Zenodo-Dep">5160233</mods:identifier>
+</mods:mods>
+<treatment id="2C76878DFF9EFFF7BEE7F9E0FAD9F83A" ID-DOI="http://doi.org/10.5281/zenodo.5164268" ID-GBIF-Taxon="183924969" ID-Zenodo-Dep="5164268" LSID="urn:lsid:plazi:treatment:2C76878DFF9EFFF7BEE7F9E0FAD9F83A" httpUri="http://treatment.plazi.org/id/2C76878DFF9EFFF7BEE7F9E0FAD9F83A" lastPageNumber="6" pageId="3" pageNumber="6">
+<subSubSection id="ECC56510FF9EFFF7BEE7F9E0FBA0F9AA" box="[399,1051,1610,1650]" pageId="3" pageNumber="6" type="nomenclature">
+<paragraph id="A460369BFF9EFFF7BEE7F9E0FBA0F9AA" blockId="3.[399,1796,1610,2018]" box="[399,1051,1610,1650]" pageId="3" pageNumber="6">
+<heading id="FF2881F7FF9EFFF7BEE7F9E0FBA0F9AA" box="[399,1051,1610,1650]" fontSize="11" level="2" pageId="3" pageNumber="6" reason="2">
+<emphasis id="96ABEA89FF9EFFF7BEE7F9E0FE16F9AA" bold="true" box="[399,429,1610,1650]" pageId="3" pageNumber="6">4.</emphasis>
+<taxonomicName id="63DF4D18FF9EFFF7BEA6F9E0FBADF9AA" authority="(Linnaeus))" authorityName=", Hebard, B. P. Bishop Mus." baseAuthorityName="Linnaeus" baseAuthorityYear="1767" box="[462,1046,1610,1650]" class="Insecta" family="Ectobiidae" genus="Blattella" kingdom="Animalia" order="Blattodea" pageId="3" pageNumber="6" phylum="Arthropoda" rank="species" species="germanica">
+<emphasis id="96ABEA89FF9EFFF7BEA6F9E0FC88F9AA" bold="true" box="[462,819,1610,1650]" pageId="3" pageNumber="6">Blattella germanica</emphasis>
+(Linnaeus))
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9EFFF7BEA7F9D6FDD3F8D4" pageId="3" pageNumber="6" type="reference_group">
+<paragraph id="A460369BFF9EFFF7BEA7F9D6F99DF97E" blockId="3.[399,1796,1610,2018]" box="[463,1574,1660,1702]" pageId="3" pageNumber="6">
+<treatmentCitationGroup id="84CF11B5FF9EFFF7BEA7F9D6F99DF97E" box="[463,1574,1660,1702]" pageId="3" pageNumber="6">
+<treatmentCitation id="257E108AFF9EFFF7BEA7F9D6F99DF97E" author="Linnaeus" box="[463,1574,1660,1702]" page="668" pageId="3" pageNumber="6" year="1767">
+<bibCitation id="71F53EF7FF9EFFF7BEA7F9D6F99DF97E" author="Linnaeus" box="[463,1574,1660,1702]" pageId="3" pageNumber="6" pagination="668" part="1" refId="ref1753" title="Syst. Nat." type="book" year="1767">
+<emphasis id="96ABEA89FF9EFFF7BEA7F9D6FD45F97E" box="[463,766,1660,1702]" italics="true" pageId="3" pageNumber="6">Blatta germanica</emphasis>
+<author id="7C62DE7EFF9EFFF7BC66F9D6FC09F97E" box="[782,946,1660,1702]" pageId="3" pageNumber="6">Linnaeus</author>
+, 
+<title id="D6DBDDADFF9EFFF7BCA2F9D6FB3BF97E" box="[970,1152,1660,1702]" pageId="3" pageNumber="6">Syst. Nat.</title>
+, 12th ed., 
+<emphasis id="96ABEA89FF9EFFF7BA2AF9D6FAEBF97E" bold="true" box="[1346,1360,1660,1702]" pageId="3" pageNumber="6">
+<part id="D07B9C06FF9EFFF7BA2AF9D6FAF7F97E" box="[1346,1356,1660,1702]" pageId="3" pageNumber="6" type="volume">1</part>
+:
+</emphasis>
+<pagination id="9D16C86FFF9EFFF7BA19F9D6FA09F97E" box="[1393,1458,1660,1702]" pageId="3" pageNumber="6" type="pagination">668</pagination>
+, 
+<year id="D07777C8FF9EFFF7BAA5F9D6F99AF97E" box="[1485,1569,1660,1702]" pageId="3" pageNumber="6">1767</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="A460369BFF9EFFF7BEA5F91AFDD3F8D4" blockId="3.[399,1796,1610,2018]" pageId="3" pageNumber="6">
+<treatmentCitationGroup id="84CF11B5FF9EFFF7BEA5F91AFDD3F8D4" pageId="3" pageNumber="6">
+<treatmentCitation id="257E108AFF9EFFF7BEA5F91AFDD3F8D4" author="Hebard" page="330" pageId="3" pageNumber="6" year="1922">
+<bibCitation id="71F53EF7FF9EFFF7BEA5F91AFDD3F8D4" author="Hebard" journalOrPublisher="B. P. Bishop Mus., 0 cc. Papers" pageId="3" pageNumber="6" pagination="330" part="7" refId="ref1773" type="journal article" year="1922">
+<emphasis id="96ABEA89FF9EFFF7BEA5F91AFC8BF901" box="[461,816,1712,1753]" italics="true" pageId="3" pageNumber="6">Blattella germanica,</emphasis>
+<author id="7C62DE7EFF9EFFF7BC2AF91AFC71F901" box="[834,970,1712,1753]" pageId="3" pageNumber="6">Hebard</author>
+, 
+<journalOrPublisher id="7E1E3C57FF9EFFF7BC8BF91AF992F901" box="[995,1577,1712,1753]" pageId="3" pageNumber="6">B. P. Bishop Mus., 0cc. Papers</journalOrPublisher>
+<part id="D07B9C06FF9EFFF7B953F91AF9EAF901" box="[1595,1617,1712,1753]" pageId="3" pageNumber="6" type="volume">7</part>
+(
+<part id="D07B9C06FF9EFFF7B935F91AF932F901" box="[1629,1673,1712,1753]" pageId="3" pageNumber="6" type="issue">14</part>
+): 
+<pagination id="9D16C86FFF9EFFF7B9D6F91AF946F901" box="[1726,1789,1712,1753]" pageId="3" pageNumber="6" type="pageRange">330</pagination>
+, 
+<year id="D07777C8FF9EFFF7BD78F94EFDD8F8D4" box="[528,611,1764,1804]" pageId="3" pageNumber="6">1922</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9EFFF7BEA7F8BCFCCCF870" pageId="3" pageNumber="6" type="materials_examined">
+<paragraph id="A460369BFF9EFFF7BEA7F8BCFCCCF870" blockId="3.[399,1796,1610,2018]" pageId="3" pageNumber="6">
+<materialsCitation id="14B73CC6FF9EFFF7BEA7F8BCFBC0F898" ID-GBIF-Occurrence="3441224301" box="[463,1147,1814,1856]" collectedFrom="in cornfield" collectingDate="1936-06-11" collectorName="O. H. Swezey" country="Guam" location="Merizo" pageId="3" pageNumber="6">
+<location id="A1006040FF9EFFF7BEA7F8BCFDEBF898" LSID="urn:lsid:plazi:treatment:2C76878DFF9EFFF7BEE7F9E0FAD9F83A:A1006040FF9EFFF7BEA7F8BCFDEBF898" box="[463,592,1814,1856]" name="Merizo" pageId="3" pageNumber="6">Merizo</location>
+, 
+<date id="D061105BFF9EFFF7BD0CF8BCFD49F898" box="[612,754,1814,1856]" pageId="3" pageNumber="6" value="2011-06">
+<collectingDate id="C025E9B3FF9EFFF7BD0CF8BCFD49F898" box="[612,754,1814,1856]" pageId="3" pageNumber="6" value="2011-06">June 11</collectingDate>
+</date>
+, in cornfield, 
+<collectorName id="092A534DFF9EFFF7BC84F8BCFBC0F898" box="[1004,1147,1814,1856]" pageId="3" pageNumber="6">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9EFFF7BBFAF8BCFE6DF8AC" ID-GBIF-Occurrence="3441224387" collectedFrom="on corn" collectingDate="1936-06-27" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="3" pageNumber="6">
+<location id="A1006040FF9EFFF7BBFAF8BCFAE8F898" LSID="urn:lsid:plazi:treatment:2C76878DFF9EFFF7BEE7F9E0FAD9F83A:A1006040FF9EFFF7BBFAF8BCFAE8F898" box="[1170,1363,1814,1856]" name="Mt. Alifan" pageId="3" pageNumber="6" stateProvince="Hawaii">Mt. Alifan</location>
+, 
+<date id="D061105BFF9EFFF7BA01F8BCFA4DF898" box="[1385,1526,1814,1856]" pageId="3" pageNumber="6" value="1927-06">
+<collectingDate id="C025E9B3FF9EFFF7BA01F8BCFA4DF898" box="[1385,1526,1814,1856]" pageId="3" pageNumber="6" value="1927-06">June 27</collectingDate>
+</date>
+, on corn, 
+<collectorName id="092A534DFF9EFFF7B9C5F8BCFE6DF8AC" pageId="3" pageNumber="6">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9EFFF7BE9BF8E0FB59F8AC" ID-GBIF-Occurrence="3441224367" box="[499,1250,1866,1908]" collectedFrom="on pumpkin vine" collectingDate="1936-07-18" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="3" pageNumber="6">
+<collectingMunicipality id="4404ACE1FF9EFFF7BE9BF8E0FD8DF8AC" box="[499,566,1866,1908]" pageId="3" pageNumber="6">Piti</collectingMunicipality>
+, 
+<date id="D061105BFF9EFFF7BD39F8E0FD66F8AC" box="[593,733,1866,1908]" pageId="3" pageNumber="6" value="2018-07">
+<collectingDate id="C025E9B3FF9EFFF7BD39F8E0FD66F8AC" box="[593,733,1866,1908]" pageId="3" pageNumber="6" value="2018-07">July 18</collectingDate>
+</date>
+, on pumpkin vine, 
+<collectorName id="092A534DFF9EFFF7BB3BF8E0FB59F8AC" box="[1107,1250,1866,1908]" pageId="3" pageNumber="6">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9EFFF7BB95F8E0FDA4F870" ID-GBIF-Occurrence="3861809304" collectedFrom="in cornfield" collectingDate="1936-11-18" collectorName="O. H. Swezey" country="Guam" location="Yona" pageId="3" pageNumber="6">
+Yona, 
+<date id="D061105BFF9EFFF7BA13F8E0F9B5F8AC" box="[1403,1550,1866,1908]" pageId="3" pageNumber="6" value="2018-11">
+<collectingDate id="C025E9B3FF9EFFF7BA13F8E0F9B5F8AC" box="[1403,1550,1866,1908]" pageId="3" pageNumber="6" value="2018-11">Nov. 18</collectingDate>
+</date>
+, in cornfield, 
+<collectorName id="092A534DFF9EFFF7BEF9F8D6FDA4F870" box="[401,543,1916,1960]" pageId="3" pageNumber="6">Swezey</collectorName>
+</materialsCitation>
+; 
+<location id="A1006040FF9EFFF7BD51F8D6FD58F870" LSID="urn:lsid:plazi:treatment:2C76878DFF9EFFF7BEE7F9E0FAD9F83A:A1006040FF9EFFF7BD51F8D6FD58F870" box="[569,739,1916,1960]" name="Fullaway" pageId="3" pageNumber="6">Fullaway</location>
+(8001).
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9EFFF7BEA6F812FAD9F83A" box="[462,1378,1976,2018]" pageId="3" pageNumber="6" type="discussion">
+<paragraph id="A460369BFF9EFFF7BEA6F812FAD9F83A" blockId="3.[399,1796,1610,2018]" box="[462,1378,1976,2018]" pageId="3" pageNumber="6">
+This cosmopolitan roach is also found in 
+<collectingRegion id="661BF879FF9EFFF7BBBEF812FAE6F83A" box="[1238,1373,1976,2018]" country="United States of America" name="Hawaii" pageId="3" pageNumber="6">Hawaii</collectingRegion>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

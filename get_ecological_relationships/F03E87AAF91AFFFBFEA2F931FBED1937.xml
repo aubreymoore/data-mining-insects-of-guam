@@ -1,0 +1,68 @@
+<document id="D504B2EF02CBD975253A028591BA17B0" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91AFFFBFEA2F931FBED1937" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pseudococcus" docType="treatment" docVersion="14" lastPageNumber="157" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="157" updateTime="1661283434230" updateUser="ExternalLinkService">
+<mods:mods id="7F593113A68DAB4D481BE56F310050C8" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="54DBE6C66D18E73936C4BF0795816539">
+<mods:title id="12E3ACB4D6030B6655BE10D97C5E3DA4">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="DFBE4615608E3788245036C93982C8D9" type="personal">
+<mods:role id="8B3444A68DB7417A11CAB18A38D98898">
+<mods:roleTerm id="43F0EAC7FE722570B0F5F31B4E51615B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="BC1AE6FE878F06B940A8D87D8BB2FF35">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="DAD746300A02E23B97D162345CB39224">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="63A1842C3B83481B427D2B479AD8DC61">text</mods:typeOfResource>
+<mods:relatedItem id="6F8E348350CCEE4504A394C724078D82" type="host">
+<mods:originInfo id="300557B7A7E2B1CE06C19A213FD8AD79">
+<mods:dateIssued id="357513272627A94DA797C8B9C9086AD3">1946</mods:dateIssued>
+<mods:dateOther id="60122C6DFB333EB64D84E392A1A9F7B0" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="B3A75AF1DEAFE3539950520271DE4164">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="82FC3CF0AC9FD4E10B7096BB124936B4">
+<mods:placeTerm id="CA707F4678E896F18414B2A64C83011B">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="1CAE91A4CFFA380B0573854BCD2D0D96">
+<mods:title id="37B21319DFE73641C73EF2DD3C8201DA">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="3382FD04B257DB21F927D6137383C2F6">
+<mods:extent id="3F3D74D97515333F89DB8A5EAD0382B8" unit="page">
+<mods:start id="0C7B175E0C3559C6E6EA2941634F6174">157</mods:start>
+<mods:end id="5C1B8237CE05ACB7F1786BC4442C91E9">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="9AE9DAEE5642A2E152A97F4146571567">book chapter</mods:classification>
+<mods:identifier id="1FD414D5D35D68ABF22E032374DE167E" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="6887C15F0DA91D2D9062D33A75E3A0D1" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="A4A448DDADD4854C6CD938BD2BB8F4D8" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91AFFFBFEA2F931FBED1937" ID-DOI="http://doi.org/10.5281/zenodo.5157824" ID-GBIF-Taxon="184551867" ID-Zenodo-Dep="5157824" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFEA2F931FBED1937" httpUri="http://treatment.plazi.org/id/F03E87AAF91AFFFBFEA2F931FBED1937" lastPageNumber="157" pageId="0" pageNumber="157">
+<subSubSection id="308D6537F91AFFFBFEA2F931FC3718E9" box="[288,1011,1711,1751]" pageId="0" pageNumber="157" type="nomenclature">
+<paragraph id="782836BCF91AFFFBFEA2F931FC3718E9" blockId="0.[288,1065,1711,1801]" box="[288,1011,1711,1751]" pageId="0" pageNumber="157">
+<heading id="236081D0F91AFFFBFEA2F931FC3718E9" box="[288,1011,1711,1751]" centered="true" fontSize="11" level="2" pageId="0" pageNumber="157" reason="2">
+<emphasis id="4AE3EAAEF91AFFFBFEA2F931FEFA18E9" bold="true" box="[288,318,1711,1751]" pageId="0" pageNumber="157">4.</emphasis>
+<taxonomicName id="BF974D3FF91AFFFBFEDDF931FD9318E9" authority="Oakley" box="[351,599,1711,1751]" class="Insecta" family="Pseudococcidae" genus="Pseudococcus" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="157" phylum="Arthropoda" rank="genus">
+<emphasis id="4AE3EAAEF91AFFFBFEDDF931FD9318E9" bold="true" box="[351,599,1711,1751]" pageId="0" pageNumber="157">Pseudococcus</emphasis>
+</taxonomicName>
+species near 
+<emphasis id="4AE3EAAEF91AFFFBFCD3F931FC3718E9" bold="true" box="[849,1011,1711,1751]" pageId="0" pageNumber="157">brevipes.</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91AFFFBFEDDF97EFBED1937" box="[351,1065,1760,1801]" pageId="0" pageNumber="157" type="description">
+<paragraph id="782836BCF91AFFFBFEDDF97EFBED1937" blockId="0.[288,1065,1711,1801]" box="[351,1065,1760,1801]" pageId="0" pageNumber="157">
+<materialsCitation id="C8FF3CE1F91AFFFBFEDDF97EFBE01937" ID-GBIF-Occurrence="3891552314" box="[351,1060,1760,1801]" collectedFrom="on pineapple and Barringtonia" collectingDate="1938-1939" collectorName="R. G. Oakley" country="Guam" location="Guam" pageId="0" pageNumber="157">
+<collectingMunicipality id="984CACC6F91AFFFBFEDDF97EFE521937" box="[351,406,1760,1801]" pageId="0" pageNumber="157">On</collectingMunicipality>
+pineapple and 
+<emphasis id="4AE3EAAEF91AFFFBFD24F97EFC571937" box="[678,915,1760,1801]" italics="true" pageId="0" pageNumber="157">
+<taxonomicName id="BF974D3FF91AFFFBFD24F97EFC491937" authority=", Oakley." authorityName="Oakley." box="[678,909,1760,1801]" class="Magnoliopsida" family="Lecythidaceae" genus="Barringtonia" kingdom="Plantae" order="Ericales" pageId="0" pageNumber="157" phylum="Tracheophyta" rank="genus">
+<location id="7D486067F91AFFFBFD24F97EFC491937" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFEA2F931FBED1937:7D486067F91AFFFBFD24F97EFC491937" box="[678,909,1760,1801]" municipality="On" name="Barringtonia" pageId="0" pageNumber="157">Barringtonia</location>
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="D562536AF91AFFFBFC26F97EFBE01937" box="[932,1060,1760,1801]" pageId="0" pageNumber="157">Oakley</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

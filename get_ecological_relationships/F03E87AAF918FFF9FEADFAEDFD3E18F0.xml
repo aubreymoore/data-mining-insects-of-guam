@@ -1,0 +1,100 @@
+<document id="731F0F48FF89F4F259C0E3E1FCF1F0D6" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF918FFF9FEADFAEDFD3E18F0" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Saissetia" docType="treatment" docVersion="6" lastPageNumber="159" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="159" updateTime="1663151585441" updateUser="aubreymoore">
+<mods:mods id="2FA41907D8D7ADD35907449342AD9EA9" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="62EA46AC20A658221DDCC862893ED94F">
+<mods:title id="516AB60F4C38B4F73E279FE07B79192F">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="2980AE735B2EB04541D0916E65191FA6" type="personal">
+<mods:role id="E240CD768EC723F579655DB29C6BAE12">
+<mods:roleTerm id="739435ABF4280090AE84C2A67DE641B7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4F97BA93A50CB848C527E986713E82BF">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="359510C7EC83E64459568B2D1DA2C603">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="6F373C97CF99B173A0E83DB0293C9A6E">text</mods:typeOfResource>
+<mods:relatedItem id="48B3D47CD41157665D402D299E1DDC12" type="host">
+<mods:originInfo id="1D093000418EA0DD7545F91F552D3051">
+<mods:dateIssued id="9FB0471883D7BF0DE3FD8EF995D21FAD">1946</mods:dateIssued>
+<mods:dateOther id="252AD908C70535D00481A14F6F5C3B19" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="8C736D4660D30442E838CB292F67DBEC">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="133DE4051C61327B5094856DBECB16C8">
+<mods:placeTerm id="CF5F974B0816486F19B6D40A9CCB6B13">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="C00580C4F780F7155FBCF7B0A68891DE">
+<mods:title id="696C73B6854E6A6E6C91800CD703904C">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="B6443DC903D5500B8894D1EDB223DADB">
+<mods:extent id="6A066C8074AD9B1E1C6893C31B8DE82B" unit="page">
+<mods:start id="C7D58896525F74482EAE7A54F0490B0D">157</mods:start>
+<mods:end id="31B1D3A8B13590992CA09EA5D873CD0E">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="6C19F7D5FE8D608E18AEDD696C874BBA">book chapter</mods:classification>
+<mods:identifier id="E26CA43B706A24F1AEA2BF79F7FA4C4D" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="C097C48108FDFCE5C8ED122CD92CD298" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="F6E1DCD3EC6A6D8F571CA57FBCF8093F" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF918FFF9FEADFAEDFD3E18F0" ID-DOI="http://doi.org/10.5281/zenodo.5158045" ID-GBIF-Taxon="184551883" ID-Zenodo-Dep="5158045" LSID="urn:lsid:plazi:treatment:F03E87AAF918FFF9FEADFAEDFD3E18F0" httpUri="http://treatment.plazi.org/id/F03E87AAF918FFF9FEADFAEDFD3E18F0" lastPageNumber="159" pageId="2" pageNumber="159">
+<subSubSection id="308D6537F918FFF9FEADFAEDFD731BA3" box="[303,695,1395,1437]" pageId="2" pageNumber="159" type="nomenclature">
+<paragraph id="782836BCF918FFF9FEADFAEDFD731BA3" blockId="2.[303,760,1395,1488]" box="[303,695,1395,1437]" pageId="2" pageNumber="159">
+<heading id="236081D0F918FFF9FEADFAEDFD731BA3" box="[303,695,1395,1437]" fontSize="8" level="2" pageId="2" pageNumber="159" reason="4">
+<emphasis id="4AE3EAAEF918FFF9FEADFAEDFEA51BA3" bold="true" box="[303,353,1395,1437]" pageId="2" pageNumber="159">26.</emphasis>
+<taxonomicName id="BF974D3FF918FFF9FE01FAEDFDE61BA3" authority="Deplanche, 1858" box="[387,546,1395,1437]" class="Insecta" family="Coccidae" genus="Saissetia" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="159" phylum="Arthropoda" rank="genus">
+<emphasis id="4AE3EAAEF918FFF9FE01FAEDFDE61BA3" bold="true" box="[387,546,1395,1437]" pageId="2" pageNumber="159">Saissetia</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F918FFF9FEF2FA38FD3C1BEE" box="[368,760,1446,1488]" pageId="2" pageNumber="159" type="materials_examined">
+<paragraph id="782836BCF918FFF9FEF2FA38FD3C1BEE" blockId="2.[303,760,1395,1488]" box="[368,760,1446,1488]" pageId="2" pageNumber="159">
+<materialsCitation id="C8FF3CE1F918FFF9FEF2FA38FD371BEE" ID-GBIF-Occurrence="3334936302" box="[368,755,1446,1488]" collectedFrom="on Morinda" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="2" pageNumber="159">
+<collectingMunicipality id="984CACC6F918FFF9FEF2FA38FE621BEE" box="[368,422,1446,1488]" pageId="2" pageNumber="159">On</collectingMunicipality>
+<emphasis id="4AE3EAAEF918FFF9FE35FA38FD9D1BEE" box="[439,601,1446,1488]" italics="true" pageId="2" pageNumber="159">
+<location id="7D486067F918FFF9FE35FA38FD971BEE" LSID="urn:lsid:plazi:treatment:F03E87AAF918FFF9FEADFAEDFD3E18F0:7D486067F918FFF9FE35FA38FD971BEE" box="[439,595,1446,1488]" municipality="On" name="Marinda" pageId="2" pageNumber="159">Marinda</location>
+,
+</emphasis>
+<collectorName id="D562536AF918FFF9FDEFFA38FD371BEE" box="[621,755,1446,1488]" pageId="2" pageNumber="159">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F918FFF9FEADFA6CFD3E18F0" pageId="2" pageNumber="159" type="discussion">
+<paragraph id="782836BCF918FFF9FEADFA6CFD721822" blockId="2.[303,843,1522,1616]" box="[303,694,1522,1564]" pageId="2" pageNumber="159">
+<heading id="236081D0F918FFF9FEADFA6CFD721822" box="[303,694,1522,1564]" fontSize="8" level="2" pageId="2" pageNumber="159" reason="4">
+<emphasis id="4AE3EAAEF918FFF9FEADFA6CFEA61822" bold="true" box="[303,354,1522,1564]" pageId="2" pageNumber="159">27.</emphasis>
+<taxonomicName id="BF974D3FF918FFF9FE01FA6CFDE61822" authority="Deplanche, 1858" box="[387,546,1522,1564]" class="Insecta" family="Coccidae" genus="Saissetia" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="159" phylum="Arthropoda" rank="genus">
+<emphasis id="4AE3EAAEF918FFF9FE01FA6CFDE61822" bold="true" box="[387,546,1522,1564]" pageId="2" pageNumber="159">Saissetia</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+<paragraph id="782836BCF918FFF9FEEDF9BAFC8F186E" blockId="2.[303,843,1522,1616]" box="[367,843,1572,1616]" pageId="2" pageNumber="159">
+<materialsCitation id="C8FF3CE1F918FFF9FEEDF9BAFC8F186E" ID-GBIF-Occurrence="3334936301" box="[367,843,1572,1616]" collectedFrom="pigeon pea" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="2" pageNumber="159" specimenCount="1">
+<collectingMunicipality id="984CACC6F918FFF9FEEDF9BAFE61186E" box="[367,421,1572,1616]" pageId="2" pageNumber="159">On</collectingMunicipality>
+pigeon pea, 
+<collectorName id="D562536AF918FFF9FD18F9BAFC82186E" box="[666,838,1572,1616]" pageId="2" pageNumber="159">Fullaway</collectorName>
+.
+</materialsCitation>
+</paragraph>
+<paragraph id="782836BCF918FFF9FEB2F9ECFD7318A4" blockId="2.[304,762,1650,1742]" box="[304,695,1650,1690]" pageId="2" pageNumber="159">
+<heading id="236081D0F918FFF9FEB2F9ECFD7318A4" box="[304,695,1650,1690]" fontSize="8" level="2" pageId="2" pageNumber="159" reason="4">
+<emphasis id="4AE3EAAEF918FFF9FEB2F9ECFEA618A4" bold="true" box="[304,354,1650,1690]" pageId="2" pageNumber="159">28.</emphasis>
+<taxonomicName id="BF974D3FF918FFF9FE06F9ECFDE618A4" authority="Deplanche, 1858" box="[388,546,1650,1690]" class="Insecta" family="Coccidae" genus="Saissetia" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="159" phylum="Arthropoda" rank="genus">
+<emphasis id="4AE3EAAEF918FFF9FE06F9ECFDE618A4" bold="true" box="[388,546,1650,1690]" pageId="2" pageNumber="159">Saissetia</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+<paragraph id="782836BCF918FFF9FEEDF93DFD3E18F0" blockId="2.[304,762,1650,1742]" box="[367,762,1699,1742]" pageId="2" pageNumber="159">
+<materialsCitation id="C8FF3CE1F918FFF9FEEDF93DFD3118F0" ID-GBIF-Occurrence="3334936303" box="[367,757,1699,1742]" collectedFrom="peanut" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="2" pageNumber="159" specimenCount="1">
+<collectingMunicipality id="984CACC6F918FFF9FEEDF93DFE6118F0" box="[367,421,1699,1742]" pageId="2" pageNumber="159">On</collectingMunicipality>
+peanut, 
+<collectorName id="D562536AF918FFF9FDCBF93DFD3118F0" box="[585,757,1699,1742]" pageId="2" pageNumber="159">Fullaway</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

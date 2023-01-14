@@ -1,0 +1,132 @@
+<document id="2EE839B728A5EE22457B4A9F9DFEDAE1" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBD1B0AFEE1F81F06BF4EE3" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Philonthus quisquiliarius (Gyllenhall)" docType="treatment" docVersion="20" lastPageNumber="153" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="153" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="F320FC24292A19986674B283E65CE0EB" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="1578646D5F1AA78D901905EEDE718833">
+<mods:title id="E34B1363B399352394ACC7AC88780CE5">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="22BC70E0DA2DE6CFD1C5A3011EA907A6" type="personal">
+<mods:role id="7BB6658C785AEB4197C428F44FA073E0">
+<mods:roleTerm id="DFD568E54E03D158E3C7892B18A47CE3">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A7F132749AE2D9AFAAD14AEB8F6DF920">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="900F827759E7337D4B3E4425CD2875E8">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="34F5036C8F5483EE97A52D96D4E2D93D">text</mods:typeOfResource>
+<mods:relatedItem id="38B23B44D2DE2E1F54D13C67BF96EAC9" type="host">
+<mods:originInfo id="BDC2E03273369162F26E1AD5B08487FE">
+<mods:dateIssued id="7AB3AA4A0CB5DA84BC8572D0148AE2DF">1942</mods:dateIssued>
+<mods:dateOther id="4264E87B311C1424C1FFFE9377B6EE1D" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="7F4CB489CA95D96832B2BCA7CC340465">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="CA5E9F10386A6D8F05B975D4565BEC0C">
+<mods:placeTerm id="787811C8C023023E4F213CED917E9395">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="B3777379D205A578CA1BF18B49B9469E">
+<mods:title id="76524E6ECC15A7A6C34C1805D6F0A635">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="8DE857455B1C491FBCEE8A53DDA262B2">
+<mods:extent id="92553773555C2616DCC19EAB3A5D908E" unit="page">
+<mods:start id="A6F76BE0EEE526D6722261EDC4E274CA">150</mods:start>
+<mods:end id="B1875D6173C1B1BCA8AC6D476851D0E9">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="A2E8160148667B56CA46AF9CA5EC0998">book chapter</mods:classification>
+<mods:identifier id="5E839B64CD18988C49813C90F841FE6F" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="C76203A6E54365CD2BA3D452B4D30C80" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="7C65CF7F4FE56D8B4FCC607EFA878089" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBD1B0AFEE1F81F06BF4EE3" ID-DOI="http://doi.org/10.5281/zenodo.5180786" ID-GBIF-Taxon="184415228" ID-Zenodo-Dep="5180786" LSID="urn:lsid:plazi:treatment:376B87E5FFBD1B0AFEE1F81F06BF4EE3" httpUri="http://treatment.plazi.org/id/376B87E5FFBD1B0AFEE1F81F06BF4EE3" lastPageNumber="153" pageId="3" pageNumber="153">
+<subSubSection id="F7D86578FFBD1B0AFEE1F81F035141E2" box="[315,1111,1962,2004]" pageId="3" pageNumber="153" type="nomenclature">
+<paragraph id="BF7D36F3FFBD1B0AFEE1F81F035141E2" blockId="3.[315,1708,1962,2261]" box="[315,1111,1962,2004]" pageId="3" pageNumber="153">
+<heading id="E435819FFFBD1B0AFEE1F81F035141E2" box="[315,1111,1962,2004]" fontSize="8" level="2" pageId="3" pageNumber="153" reason="4">
+<emphasis id="8DB6EAE1FFBD1B0AFEE1F81F066D41E2" bold="true" box="[315,363,1962,2004]" pageId="3" pageNumber="153">11.</emphasis>
+<taxonomicName id="78C24D70FFBD1B0AFE56F81F035741E2" authority="(Gyllenhall)" authorityName="(Gyllenhall)" baseAuthorityName="Gyllenhall" box="[396,1105,1962,2004]" class="Insecta" family="Staphylinidae" genus="Philonthus" kingdom="Animalia" order="Coleoptera" pageId="3" pageNumber="153" phylum="Arthropoda" rank="species" species="quisquiliarius">
+<emphasis id="8DB6EAE1FFBD1B0AFE56F81F045141E2" bold="true" box="[396,855,1962,2004]" pageId="3" pageNumber="153">Philonthus quisquiliarius</emphasis>
+(Gyllenhall)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBD1B0AFEA5F86901AD4E58" pageId="3" pageNumber="153" type="reference_group">
+<paragraph id="BF7D36F3FFBD1B0AFEA5F869023F4E3E" blockId="3.[315,1708,1962,2261]" box="[383,1337,2012,2056]" pageId="3" pageNumber="153">
+<treatmentCitationGroup id="9FD211DDFFBD1B0AFEA5F869023F4E3E" box="[383,1337,2012,2056]" pageId="3" pageNumber="153">
+<treatmentCitation id="3E6310E2FFBD1B0AFEA5F869023F4E3E" author="Gyllenhall" box="[383,1337,2012,2056]" page="335" pageId="3" pageNumber="153" year="1810">
+<bibCitation id="6AE83E9FFFBD1B0AFEA5F869023F4E3E" author="Gyllenhall" box="[383,1337,2012,2056]" journalOrPublisher="Ins. Suec." pageId="3" pageNumber="153" pagination="335" part="2" refId="ref1780" type="journal article" year="1810">
+(?) 
+<emphasis id="8DB6EAE1FFBD1B0AFE17F86905BE4E3E" box="[461,696,2012,2056]" italics="true" pageId="3" pageNumber="153">quisquiliarius</emphasis>
+<author id="677FDE16FFBD1B0AFD13F86904784E3E" box="[713,894,2012,2056]" pageId="3" pageNumber="153">Gyllenhall</author>
+, 
+<journalOrPublisher id="65033C3FFFBD1B0AFC4DF86903424E3E" box="[919,1092,2012,2056]" pageId="3" pageNumber="153">Ins. Suec.</journalOrPublisher>
+<emphasis id="8DB6EAE1FFBD1B0AFB8FF86903614E3E" bold="true" box="[1109,1127,2012,2056]" pageId="3" pageNumber="153">
+<part id="CB669C6EFFBD1B0AFB8FF86903654E3E" box="[1109,1123,2012,2056]" pageId="3" pageNumber="153" type="volume">2</part>
+:
+</emphasis>
+<pagination id="860BC807FFBD1B0AFB5DF86903CE4E3E" box="[1159,1224,2012,2056]" pageId="3" pageNumber="153" type="pageRange">335</pagination>
+, 
+<year id="CB6A77A0FFBD1B0AFB38F86902324E3E" box="[1250,1332,2012,2056]" pageId="3" pageNumber="153">1810</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFBD1B0AFEA2F7A501AD4E58" blockId="3.[315,1708,1962,2261]" pageId="3" pageNumber="153">
+<treatmentCitationGroup id="9FD211DDFFBD1B0AFEA2F7A501AD4E58" pageId="3" pageNumber="153">
+<bibCitation id="6AE83E9FFFBD1B0AFEA2F7A501AD4E58" author="Erichson" journalOrPublisher="Kaf. Mark. Brandenb." pageId="3" pageNumber="153" pagination="469" part="1" refId="ref1796" title="Coleopt. Catalog." type="journal article" year="1839">
+<treatmentCitation id="3E6310E2FFBD1B0AFEA2F7A5056E4E58" author="Erichson" page="469" pageId="3" pageNumber="153" year="1839">
+<emphasis id="8DB6EAE1FFBD1B0AFEA2F7A504354E0D" box="[376,819,2064,2107]" italics="true" pageId="3" pageNumber="153">Philonthus quisquiliarius</emphasis>
+(Gyllenhall) 
+<author id="677FDE16FFBD1B0AFBEBF7A503D44E0D" box="[1073,1234,2064,2107]" pageId="3" pageNumber="153">Erichson</author>
+, 
+<journalOrPublisher id="65033C3FFFBD1B0AFB33F7A501714E0D" box="[1257,1655,2064,2107]" pageId="3" pageNumber="153">Kaf. Mark. Brandenb.</journalOrPublisher>
+<emphasis id="8DB6EAE1FFBD1B0AF950F7A5019E4E0D" bold="true" box="[1674,1688,2064,2107]" pageId="3" pageNumber="153">
+<part id="CB669C6EFFBD1B0AF950F7A501924E0D" box="[1674,1684,2064,2107]" pageId="3" pageNumber="153" type="volume">1</part>
+:
+</emphasis>
+<pagination id="860BC807FFBD1B0AFE6DF7F106FE4E58" box="[439,504,2116,2158]" pageId="3" pageNumber="153" type="pageRange">469</pagination>
+, 
+<year id="CB6A77A0FFBD1B0AFDCAF7F105654E58" box="[528,611,2116,2158]" pageId="3" pageNumber="153">1839</year>
+.
+</treatmentCitation>
+<treatmentCitation id="3E6310E2FFBD1B0AFD59F7F101AD4E58" author="Bernhauer and Schubert" box="[643,1707,2116,2158]" page="352" pageId="3" pageNumber="153" year="1914">
+<author id="677FDE16FFBD1B0AFD59F7F1043A4E58" box="[643,828,2116,2158]" pageId="3" pageNumber="153">Bernhauer</author>
+and 
+<author id="677FDE16FFBD1B0AFC4DF7F103314E58" box="[919,1079,2116,2158]" pageId="3" pageNumber="153">Schubert</author>
+, 
+<title id="CDC6DDC5FFBD1B0AFB97F7F102714E58" box="[1101,1399,2116,2158]" pageId="3" pageNumber="153">Coleopt. Catalog.</title>
+(
+<part id="CB669C6EFFBD1B0AFA43F7F102C04E58" box="[1433,1478,2116,2158]" pageId="3" pageNumber="153" type="issue">57</part>
+): 
+<pagination id="860BC807FFBD1B0AFA26F7F1013A4E58" box="[1532,1596,2116,2158]" pageId="3" pageNumber="153" type="pageRange">352</pagination>
+, 
+<year id="CB6A77A0FFBD1B0AF98EF7F101A04E58" box="[1620,1702,2116,2158]" pageId="3" pageNumber="153">1914</year>
+.
+</treatmentCitation>
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBD1B0AFEA1F7C206BF4EE3" pageId="3" pageNumber="153" type="materials_examined">
+<paragraph id="BF7D36F3FFBD1B0AFEA1F7C206BF4EE3" blockId="3.[315,1708,1962,2261]" pageId="3" pageNumber="153">
+<materialsCitation id="0FAA3CAEFFBD1B0AFEA1F7C2040B4E94" ID-GBIF-Occurrence="3994027432" box="[379,781,2167,2210]" collectedFrom="at light, a cosmopolitan species" collectingDate="1936-05-14" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="3" pageNumber="153" specimenCount="1">
+<location id="BA1D6028FFBD1B0AFEA1F7C206BA4E94" LSID="urn:lsid:plazi:treatment:376B87E5FFBD1B0AFEE1F81F06BF4EE3:BA1D6028FFBD1B0AFEA1F7C206BA4E94" box="[379,444,2167,2210]" name="Piti" pageId="3" pageNumber="153">Piti</location>
+, 
+<date id="CB7C1033FFBD1B0AFE00F7C205604E94" box="[474,614,2167,2210]" pageId="3" pageNumber="153" value="2014-05">
+<collectingDate id="DB38E9DBFFBD1B0AFE00F7C205604E94" box="[474,614,2167,2210]" pageId="3" pageNumber="153" value="2014-05">May 14</collectingDate>
+</date>
+, at light,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBD1B0AFCFBF7C206BF4EE3" ID-GBIF-Occurrence="3994027465" collectedFrom="a cosmopolitan species" collectingDate="1936-07-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="3" pageNumber="153" specimenCount="1">
+<date id="CB7C1033FFBD1B0AFCFBF7C204AC4E94" box="[801,938,2167,2210]" pageId="3" pageNumber="153" value="1927-07">
+<collectingDate id="DB38E9DBFFBD1B0AFCFBF7C204AC4E94" box="[801,938,2167,2210]" pageId="3" pageNumber="153" value="1927-07">July 27</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFBD1B0AFC12F7C203484E94" box="[968,1102,2167,2210]" pageId="3" pageNumber="153">Swezey</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFBD1B0AFBB3F7C202764E94" box="[1129,1392,2167,2210]" pageId="3" pageNumber="153" type="generic">two specimens</specimenCount>
+. A cosmopolitan species.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

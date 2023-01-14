@@ -1,0 +1,117 @@
+<document id="8B26C91BEC4D60FBC581EF2CC722C012" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBC1B0BFE47FD10018245AB" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Bidessus gentilis Sharp" docType="treatment" docVersion="17" lastPageNumber="152" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="152" updateTime="1671336034494" updateUser="annettekang">
+<mods:mods id="46E24F86CFBAC50C5F9F27BFDF6B2140" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="36FAA474780A792B8AF980D758D1328F">
+<mods:title id="619F5CF54F0DDBD4569F719FD2DB65A0">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="A9E73B5F5F587AA4031B7EFE601453BF" type="personal">
+<mods:role id="0F6D8804B7D6B70F1F9324BC072152D7">
+<mods:roleTerm id="CDD5F160EF62405E6E2456461AC34A47">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B66AE055147124DB29B3912542056029">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="8028821420DEB3988DBCE48159B9C310">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="34DA86C81E6E87414ED5A25970F6A745">text</mods:typeOfResource>
+<mods:relatedItem id="5430B924849BD9CE0900A82D02638A12" type="host">
+<mods:originInfo id="BFE82060FCB9B02386E84E573455F0A6">
+<mods:dateIssued id="06775355A58C83DD2BB5164C5A1C238F">1942</mods:dateIssued>
+<mods:dateOther id="2BC500B423CFD0DEB716217A2916DAEC" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="A1F0759E495D5360119A538D14456AC2">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="BE2A18F8E0EBD299CD8DC4330999C222">
+<mods:placeTerm id="9814675F38840B3A8EE1CDCD5C217B02">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="EC47F8955940AC519AE5978CFECB4BFD">
+<mods:title id="4CD87CA876DD605C66C872EA537A685A">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="A50C6C5F06378B941A30C58BBA8ABE0D">
+<mods:extent id="D7905D8C15C9BFBBA15F81E9BF0A8C94" unit="page">
+<mods:start id="08DD8955F7ADE4F418AE625E344F82E1">150</mods:start>
+<mods:end id="F9AF179708CDBE781166336FD9A16DB6">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="AFA42FF96535C1266E217B62211B8321">book chapter</mods:classification>
+<mods:identifier id="8C71A649A5B829415B59B692871582FB" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="DE4A553C5760DBE136C530FC7FA2379D" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="E661DFB0B94EE7E20E9C3EFD5FF75D34" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBC1B0BFE47FD10018245AB" ID-DOI="http://doi.org/10.5281/zenodo.5211591" ID-GBIF-Taxon="184415252" ID-Zenodo-Dep="5211591" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE47FD10018245AB" httpUri="http://treatment.plazi.org/id/376B87E5FFBC1B0BFE47FD10018245AB" lastPageNumber="152" pageId="2" pageNumber="152">
+<subSubSection id="F7D86578FFBC1B0BFE47FD10049E44E6" box="[413,920,677,720]" pageId="2" pageNumber="152" type="nomenclature">
+<paragraph id="BF7D36F3FFBC1B0BFE47FD10049E44E6" blockId="2.[413,1807,677,930]" box="[413,920,677,720]" pageId="2" pageNumber="152">
+<emphasis id="8DB6EAE1FFBC1B0BFE47FD1006BF44E6" bold="true" box="[413,441,677,720]" pageId="2" pageNumber="152">4.</emphasis>
+<taxonomicName id="78C24D70FFBC1B0BFE06FD10049744E6" authority="Sharp" authorityName="Sharp" box="[476,913,677,720]" class="Insecta" family="Dytiscidae" genus="Bidessus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="152" phylum="Arthropoda" rank="species" species="gentilis">
+<emphasis id="8DB6EAE1FFBC1B0BFE06FD10040944E6" bold="true" box="[476,783,677,720]" pageId="2" pageNumber="152">Bidessus gentilis</emphasis>
+Sharp
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFC76FD1003A44535" pageId="2" pageNumber="152" type="reference_group">
+<paragraph id="BF7D36F3FFBC1B0BFC76FD1003A44535" blockId="2.[413,1807,677,930]" pageId="2" pageNumber="152">
+<treatmentCitationGroup id="9FD211DDFFBC1B0BFC76FD10039B4535" pageId="2" pageNumber="152">
+<bibCitation id="6AE83E9FFFBC1B0BFC76FD10015044E6" author="Sharp, Ent" box="[940,1622,677,720]" journalOrPublisher="Trans" pageId="2" pageNumber="152" pagination="344" refId="ref1015" title="Soc. London" type="book" year="1890">
+<treatmentCitation id="3E6310E2FFBC1B0BFC76FD10015744E6" author="Sharp" box="[940,1617,677,720]" page="344" pageId="2" pageNumber="152" year="1890">
+<author id="677FDE16FFBC1B0BFC76FD1004F744E6" box="[940,1009,677,720]" case="TC" fn="Ent" fnc="TC" fns="N" ln="Sharp" lnc="TC" npo="LnFn" pageId="2" pageNumber="152">Ent</author>
+. 
+<title id="CDC6DDC5FFBC1B0BFBD6FD1003F144E6" box="[1036,1271,677,720]" jopScore="2.7947674" pageId="2" pageNumber="152">Soc. London</title>
+, 
+<journalOrPublisher id="65033C3FFFBC1B0BFAD5FD10028744E6" box="[1295,1409,677,720]" jopScore="1.8461539" pageId="2" pageNumber="152">Trans</journalOrPublisher>
+., 
+<pagination id="860BC807FFBC1B0BFA78FD1002E444E6" box="[1442,1506,677,720]" pageId="2" pageNumber="152" type="pageRange">344</pagination>
+, 
+<year id="CB6A77A0FFBC1B0BFA25FD10015744E6" box="[1535,1617,677,720]" pageId="2" pageNumber="152">1890</year>
+</treatmentCitation>
+.
+</bibCitation>
+<bibCitation id="6AE83E9FFFBC1B0BF9AFFD1003A44535" author="Zimmermann" journalOrPublisher="Coleopt. Catalog." pageId="2" pageNumber="152" pagination="53" part="71" refId="ref1015" type="book" year="1920">
+<treatmentCitation id="3E6310E2FFBC1B0BF9AFFD10039B4535" author="Zimmermann" page="53" pageId="2" pageNumber="152" year="1920">
+<author id="677FDE16FFBC1B0BF9AFFD1005394535" pageId="2" pageNumber="152">Zimmermann</author>
+, 
+<journalOrPublisher id="65033C3FFFBC1B0BFD89FD6C048F4535" box="[595,905,729,771]" pageId="2" pageNumber="152">Coleopt. Catalog.</journalOrPublisher>
+(
+<part id="CB669C6EFFBC1B0BFC73FD6C04D54535" box="[937,979,729,771]" pageId="2" pageNumber="152" type="volume">71</part>
+): 
+<pagination id="860BC807FFBC1B0BFBD3FD6C03354535" box="[1033,1075,729,771]" pageId="2" pageNumber="152" type="pageRange">53</pagination>
+, 
+<year id="CB6A77A0FFBC1B0BFB91FD6C039B4535" box="[1099,1181,729,771]" pageId="2" pageNumber="152">1920</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFE03FCB8016C455C" pageId="2" pageNumber="152" type="materials_examined">
+<paragraph id="BF7D36F3FFBC1B0BFE03FCB8016C455C" blockId="2.[413,1807,677,930]" pageId="2" pageNumber="152">
+<materialsCitation id="0FAA3CAEFFBC1B0BFE03FCB8016C455C" ID-GBIF-Occurrence="3334692477" collectingDate="1936-05-04" collectorName="R. L. Usinger" country="Guam" location="Agana Swamp" pageId="2" pageNumber="152" specimenCount="5">
+Agana Swamp, 
+<date id="CB7C1033FFBC1B0BFCC9FCB80492450E" box="[787,916,781,824]" pageId="2" pageNumber="152">
+<collectingDate id="DB38E9DBFFBC1B0BFCC9FCB80492450E" box="[787,916,781,824]" pageId="2" pageNumber="152">May 4</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFBC1B0BFC6EFCB8034F450E" box="[948,1097,781,824]" pageId="2" pageNumber="152">Usinger</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFBC1B0BFBB6FCB80279450E" box="[1132,1407,781,824]" pageId="2" pageNumber="152" type="generic">five specimens</specimenCount>
+. (
+<location id="BA1D6028FFBC1B0BFA61FCB80194450E" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE47FD10018245AB:BA1D6028FFBC1B0BFA61FCB80194450E" box="[1467,1682,781,824]" municipality="One" name="Determined" pageId="2" pageNumber="152">Determined</location>
+by 
+<collectionCode id="D9D3AE36FFBC1B0BF92BFCB80000450E" box="[1777,1798,781,824]" country="South Africa" lsid="urn:lsid:biocol.org:col:14647" name="University of the Witwatersrand" pageId="2" pageNumber="152" type="Herbarium">J</collectionCode>
+. Balfour-Browne. 
+<collectingMunicipality id="5F19AC89FFBC1B0BFD3DFCF40436455C" box="[743,816,833,874]" pageId="2" pageNumber="152">One</collectingMunicipality>
+<specimenCount id="A9C4FD7AFFBC1B0BFC9BFCF404E2455C" box="[833,996,833,874]" pageId="2" pageNumber="152" type="generic">specimen</specimenCount>
+retained for the 
+<location id="BA1D6028FFBC1B0BFAF3FCF4015F455C" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE47FD10018245AB:BA1D6028FFBC1B0BFAF3FCF4015F455C" box="[1321,1625,833,874]" municipality="One" name="British Museum" pageId="2" pageNumber="152">British Museum</location>
+.)
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFE06FCC6018245AB" box="[476,1668,883,925]" pageId="2" pageNumber="152" type="description">
+<paragraph id="BF7D36F3FFBC1B0BFE06FCC6018245AB" blockId="2.[413,1807,677,930]" box="[476,1668,883,925]" pageId="2" pageNumber="152">
+Described from 
+<collectingCountry id="C7D57663FFBC1B0BFCDFFCC6048245AB" box="[773,900,883,925]" name="Sri Lanka" pageId="2" pageNumber="152">Ceylon</collectingCountry>
+. Collected on only one occasion i!]- 
+<collectingCountry id="C7D57663FFBC1B0BF9C8FCC6017945AB" box="[1554,1663,883,925]" name="Guam" pageId="2" pageNumber="152">Guam</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

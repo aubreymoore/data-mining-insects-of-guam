@@ -1,0 +1,166 @@
+<document id="FA929EBC8CC3E3CC58801484F5EC2D57" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFE8511F5E6BA980FA0DF746" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Athesapeuta ulvae Zimmerman 1942, new species" docType="treatment" docVersion="14" lastPageNumber="98" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="97" updateTime="1671056003387" updateUser="ExternalLinkService">
+<mods:mods id="24704707168626EF43A73BCF5DF5B4C4" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="712E15DE4DE90CA80BCD41A10258217C">
+<mods:title id="346F57416AA7598BB9AD8B9A1265AFBE">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="72A984B2C88FB28BED73BA9D59178C93" type="personal">
+<mods:role id="3C40BCB847BEB842051A33B453E099D3">
+<mods:roleTerm id="11A2F71EEC08B7BF8BFF27516D3EF9B0">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F3E3C70A865B5F17FE5D90C2B21D3983">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="E5B1B76EED54B126CFA156D9774F5514">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="88BAB1600C59A948CED30E1D0A9014A4">text</mods:typeOfResource>
+<mods:relatedItem id="33C9675CDADA9CFE786DDC02B8E57958" type="host">
+<mods:originInfo id="563373901FA76EB68172A1FC2A4F04DF">
+<mods:dateIssued id="3D67B292BE731237EB9DE6705111AA73">1942</mods:dateIssued>
+<mods:dateOther id="59B0673E2FE8B8673EEAE8D1F11D207E" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="EF7CDF98AEED356218DDED74124E1B95">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="BABCA5E19805D9211E4D14DC8691B48D">
+<mods:placeTerm id="6A26C44371E2002D808E019A0B20DCD2">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="007D44CA1895170FB34026F3726B4D53">
+<mods:title id="1A1EE2888EF8A87DA421D9ECB25BCDA1">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="CD6ED4150C355381C2AC2579A9050A1B">
+<mods:extent id="5CFBB2D2F58D340D6961F1DFE8027136" unit="page">
+<mods:start id="3A5BC59896BF5DBCC6F2468FDCEDB954">73</mods:start>
+<mods:end id="E92A60C295B785B239CD4D033BD6C1A5">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="29A2A0BA5060DDE22CA54274A69E7A04">book chapter</mods:classification>
+<mods:identifier id="72B77F698DBA7125E6F9B55B2A845EE2" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="2BB628482D9F04EA70C8431F5365DF8F" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="45CB79EDCCD2A26C9CE4896E4273B692" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFE8511F5E6BA980FA0DF746" ID-DOI="http://doi.org/10.5281/zenodo.5157286" ID-GBIF-Taxon="184097863" ID-Zenodo-Dep="5157286" LSID="urn:lsid:plazi:treatment:D6388709FFE8511F5E6BA980FA0DF746" httpUri="http://treatment.plazi.org/id/D6388709FFE8511F5E6BA980FA0DF746" lastPageId="25" lastPageNumber="98" pageId="24" pageNumber="97">
+<subSubSection id="168B6594FFE8511E5E6BA980FB8CF892" box="[304,1142,1754,1796]" pageId="24" pageNumber="97" type="nomenclature">
+<paragraph id="5E2E361FFFE8511E5E6BA980FB8CF892" blockId="24.[302,1698,1754,2499]" box="[304,1142,1754,1796]" pageId="24" pageNumber="97">
+<heading id="05668173FFE8511E5E6BA980FB8CF892" box="[304,1142,1754,1796]" fontSize="8" level="2" pageId="24" pageNumber="97" reason="4">
+<emphasis id="6CE5EA0DFFE8511E5E6BA980FD22F892" bold="true" box="[304,728,1754,1796]" pageId="24" pageNumber="97">
+13. 
+<taxonomicName id="99914D9CFFE8511E5EDAA980FD2BF892" authority="Zimmerman, 1942" authorityName="Zimmerman" authorityYear="1942" box="[385,721,1754,1796]" class="Insecta" family="Curculionidae" genus="Athesapeuta" kingdom="Animalia" order="Coleoptera" pageId="24" pageNumber="97" phylum="Arthropoda" rank="species" species="ulvae" status="new species">Athesapeuta ulvae</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="77D65776FFE8511E5DBFA980FC4EF892" box="[740,948,1754,1796]" pageId="24" pageNumber="97" rank="species">new species</taxonomicNameLabel>
+(pl. 6, C).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE8511F5E2AA84CF9BCF9C1" lastPageId="25" lastPageNumber="98" pageId="24" pageNumber="97" type="description">
+<paragraph id="5E2E361FFFE8511E5E2AA84CFD1DF721" blockId="24.[302,1698,1754,2499]" pageId="24" pageNumber="97">
+Derm dark reddish brown to black, appendages reddish, pronotum usually quite shiny black on disk, elytra black down middle in non-squamose areas but reddish on squamose sides beyond fourth or fifth intervals at least, sternum usually more reddish than venter; squamae white or pale yellow, forming following dorsal patterns: sides of pronotum densely clothed from base to apex beyond fifth or sixth elytral intervals, usually with a few scales at base of interval 2, a dense patch at base of interval 
+<emphasis id="6CE5EA0DFFE8511E5A56A88FFAE6F86E" box="[1293,1308,2005,2040]" italics="true" pageId="24" pageNumber="97">3</emphasis>
+followed a short distance by loose scaling, a dense conspicuous patch of broader squamae over intervals 2-5 just before apical third, intervals 1-3, and sometimes 
+<quantity id="99699BFAFFE8511E5B41A77BFBA9F7D3" box="[1050,1107,2081,2117]" metricMagnitude="-1" metricUnit="m" metricValue="1.016" pageId="24" pageNumber="97" unit="in" value="4.0">4 in</quantity>
+part, otherwise bare of scales, excepting a few at apex only, outer intervals all with one or two rows of squamae from base to apex, most outstanding marks being patches of scales at bases of third intervals and those on either side behind middle.
+</paragraph>
+<paragraph id="5E2E361FFFE8511F5E2AA7E1F9BCF9C1" blockId="24.[302,1698,1754,2499]" lastBlockId="25.[466,1864,401,2256]" lastPageId="25" lastPageNumber="98" pageId="24" pageNumber="97">
+<emphasis id="6CE5EA0DFFE8511E5E2AA7E1FE3EF748" box="[369,452,2235,2270]" italics="true" pageId="24" pageNumber="97">Head</emphasis>
+with crown with minute, widely spaced punctures bearing minute setae, without scales; line of separation of head and rostrum shallowly impressed and not making an abrupt groove; with a patch of squamae along inner margin of eye. 
+<emphasis id="6CE5EA0DFFE8511E5A24A65DF9F9F6BC" box="[1407,1539,2311,2346]" italics="true" pageId="24" pageNumber="97">Rostrmn</emphasis>
+measured from apex to top of eyes as long as pronotum plus scutellum in male, one fifth longer than pronotum in female, strongly arcuate, almost evenly and slightly expanded on sides from base to apex, laterally compressed at base, but becoming dorso-ventrally depressed beyond antennae; with fine punctures except on sides behind antennae, punctures arranged in three lines above each scrobe. 
+<emphasis id="6CE5EA0DFFE9511F5C01AECBFC13FE21" box="[858,1001,401,439]" italics="true" pageId="25" pageNumber="98">Antennae</emphasis>
+with first funicular segment as long as 2 plus 3 plus 4, almost four times as long as broad, 2 not quite as long as 3 plus 4, 
+<emphasis id="6CE5EA0DFFE9511F595DAEE2F9CEFE48" box="[1542,1588,440,478]" italics="true" pageId="25" pageNumber="98">3-7</emphasis>
+each successively slightly shorter and more transverse; club about as long as preceding five funicular segments. 
+<emphasis id="6CE5EA0DFFE9511F5D08AD5CFD08FDBC" box="[595,754,518,554]" italics="true" pageId="25" pageNumber="98">Prothorax</emphasis>
+slightly broader than long (2.5:2.2), very slightly arcuate, almost straight on sides from base to about apical seventh, thence conspicuously constricted and narrowed to apex, constriction shallowly and broadly interrupting longitudinal dorsal outline which is otherwise gently convex and highest behind middle, apex sinuous, three fifths as broad as base; base rather strongly bisinuate; discal puncturation, on bare area, not at all coarse, punctures small, round, separated by interstices at least as broad as their diameters and bearing minute, hardly discernible punctures; puncturation coarse, dense and rough on squamose areas and laterally; squamae appressed, broad and spatulate. 
+<emphasis id="6CE5EA0DFFE9511F5E8FAC62FD91FCCA" box="[468,619,824,860]" italics="true" pageId="25" pageNumber="98">Scutellmn</emphasis>
+usually triangular behind, bare, variably impressed. 
+<emphasis id="6CE5EA0DFFE9511F5AC2AC62FA01FCCA" box="[1433,1531,824,860]" italics="true" pageId="25" pageNumber="98">Elytra</emphasis>
+about six sevenths as broad as long, one and three fourths as long as prothorax, base strongly bisinuate, broadest at apices of poorly defined humeri, thence very slightly narrowed within apical third, thence broadly rounded to apex, without any subapical constriction or posterior calli; striae about a third as broad as intervals, their punctures indistinct behind middle but slightly indenting margins of intervals near base and on sides; intervals flat, quite shiny, their punctures minute in non-squamose areas and there bearing minute setae, arranged in one or two irregular lines, those bearing squamae coarser; squamae prostrate, spatulate, quite broad. 
+<emphasis id="6CE5EA0DFFE9511F5E8FAB30FDE7FB1B" box="[468,541,1130,1165]" italics="true" pageId="25" pageNumber="98">Legs</emphasis>
+with femora closely set with punctures bearing prostrate, lanceolate, squamiform,setae, edentate; tibiae with finer squamiform setae than femora, all edentate in middle, not carinate; unci strongly developed, teeth at inner apical angles distinct. 
+<emphasis id="6CE5EA0DFFE9511F597CABECF953FB4F" box="[1575,1705,1206,1241]" italics="true" pageId="25" pageNumber="98">Sternum</emphasis>
+with prosternum coarsely and densely punctate, punctures bearing spatulate or subspatulate squamae, anterior transverse impression strong and deep; mesosternum coarsely and densely punctate and squamose, intercoxal process broader than a coxa; metasternum as long between mid and hind coxae as breadth of a mesocoxa, episternum densely squamose, punctures denser outside of coxae, smaller and bearing smaller setae between coxae. 
+<emphasis id="6CE5EA0DFFE9511F59D6AA29F909FA0F" box="[1677,1779,1395,1433]" italics="true" pageId="25" pageNumber="98">Venter</emphasis>
+with first ventrite distinctly flattened and slightly concave in male, tumid in female; entire venter rather densely punctate except along middle where punctures are smaller, fewer and bear finer setae, setae becoming broader and squamiform laterally. 
+<emphasis id="6CE5EA0DFFE9511F5A83AABCF997F99C" box="[1496,1645,1510,1546]" italics="true" pageId="25" pageNumber="98">Pygidimn</emphasis>
+coarsely and densely punctate, densely setose, subhemispherical in ventral outline and one third broader than long in male, longer in female. Length, 
+<quantity id="99699BFAFFE9511F5BCAA969FAF1F9C1" box="[1169,1291,1587,1623]" metricMagnitude="-3" metricUnit="m" metricValue="2.5" metricValueMax="3.0" metricValueMin="2.0" pageId="25" pageNumber="98" unit="mm" value="2.5" valueMax="3.0" valueMin="2.0">2-3 mm</quantity>
+.; breadth, 1-1.6 mm.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE9511F5D49A92EFA22F847" pageId="25" pageNumber="98" type="materials_examined">
+<paragraph id="5E2E361FFFE9511F5D49A92EFA22F847" blockId="25.[466,1864,401,2256]" pageId="25" pageNumber="98">
+<materialsCitation id="EEF93C42FFE9511F5D49A92EF9DBF90A" ID-GBIF-Occurrence="3333874462" box="[530,1569,1652,1692]" collectingDate="1936-05-19" collectorName="R. L. Usinger" country="Guam" location="Santa Rosa Peak" pageId="25" pageNumber="98" specimenCount-male="1" typeStatus="holotype">
+<typeStatus id="812A88BDFFE9511F5D49A92EFD4EF90A" box="[530,692,1652,1692]" pageId="25" pageNumber="98">Holotype</typeStatus>
+male, Santa Rosa Peak, 
+<date id="2A2F10DFFFE9511F5B23A92EFA97F90A" box="[1144,1389,1652,1692]" pageId="25" pageNumber="98" value="1936-05-19">
+<collectingDate id="3A6BE937FFE9511F5B23A92EFA97F90A" box="[1144,1389,1652,1692]" pageId="25" pageNumber="98" value="1936-05-19">May 19, 1936</collectingDate>
+</date>
+, Usinger;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE9511F596AA92EF9DAF959" ID-GBIF-Occurrence="3990703306" collectingDate="1936-05-26" collectorName="R. L. Usinger" country="Guam" location="Mount Alifan" pageId="25" pageNumber="98" specimenCount-female="1" typeStatus="allotype">
+<typeStatus id="812A88BDFFE9511F596AA92EF943F90A" box="[1585,1721,1652,1692]" pageId="25" pageNumber="98">allotype</typeStatus>
+female, 
+<location id="5B4E60C4FFE9511F5E8FA9FDFD61F959" LSID="urn:lsid:plazi:treatment:D6388709FFE8511F5E6BA980FA0DF746:5B4E60C4FFE9511F5E8FA9FDFD61F959" box="[468,667,1703,1743]" country="Island Guam" name="Mt. Alifan" pageId="25" pageNumber="98">Mt. Alifan</location>
+, 
+<date id="2A2F10DFFFE9511F5DECA9FDFCBCF959" box="[695,838,1703,1743]" pageId="25" pageNumber="98" value="1926-05">May 26</date>
+, Usinger; and the following 
+<typeStatus id="812A88BDFFE9511F5A3CA9FDF9E1F959" box="[1383,1563,1703,1743]" pageId="25" pageNumber="98">paratypes</typeStatus>
+:
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE9511F591BA9FDFDAFF895" ID-GBIF-Occurrence="3990703301" collectedFrom="swept from sedges and also found larvae at the bases of sedge plants" collectingDate="1936-05-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="25" pageNumber="98" specimenCount="1" typeStatus="paratype">
+one from Piti, 
+<date id="2A2F10DFFFE9511F5E8EA980FDB7F895" box="[469,589,1754,1795]" pageId="25" pageNumber="98">May 1</date>
+,
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE9511F5D30A980FB59F895" ID-GBIF-Occurrence="3990703311" box="[619,1187,1754,1795]" collectedFrom="from hills and swept from sedges, also found larvae at the bases of sedge plants" collectingDate="1936-06-06" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="25" pageNumber="98" specimenCount="2" typeStatus="paratype">
+two from hills at Piti, 
+<date id="2A2F10DFFFE9511F5B45A980FB66F895" box="[1054,1180,1754,1795]" pageId="25" pageNumber="98">June 6</date>
+,
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE9511F5BE2A980F919F895" ID-GBIF-Occurrence="3990703305" box="[1209,1763,1754,1795]" collectedFrom="from hills and swept from sedges, also found larvae at the bases of sedge plants" collectingDate="1936-07-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="25" pageNumber="98" specimenCount="10" typeStatus="paratype">
+ten from same place, 
+<date id="2A2F10DFFFE9511F5909A980F926F895" box="[1618,1756,1754,1795]" pageId="25" pageNumber="98" value="2013-07">July 13</date>
+,
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE9511F59A0A980FC6EF8A1" ID-GBIF-Occurrence="3990703312" collectedFrom="from hills and swept from sedges, also found larvae at the bases of sedge plants" collectingDate="1936-07-24" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="25" pageNumber="98" specimenCount="4" typeStatus="paratype">
+four from same place, 
+<date id="2A2F10DFFFE9511F5C50A854FC74F8A1" box="[779,910,1806,1847]" pageId="25" pageNumber="98" value="1924-07">July 24</date>
+,
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE9511F5CF8A854FAD1F8A1" ID-GBIF-Occurrence="3990703314" box="[931,1323,1806,1847]" collectedFrom="swept from sedges and also found larvae at the bases of sedge plants" collectingDate="1936-08-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="25" pageNumber="98" specimenCount="5" typeStatus="paratype">
+five from Piti, 
+<date id="2A2F10DFFFE9511F5BF7A854FAD9F8A1" box="[1196,1315,1806,1847]" pageId="25" pageNumber="98">Aug. 1</date>
+,
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE9511F5A61A854FC21F80B" ID-GBIF-Occurrence="3990703309" collectedFrom="swept from sedges and also found larvae at the bases of sedge plants" collectingDate="1936-08-21" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="25" pageNumber="98" specimenCount="10" typeStatus="paratype">
+ten from same place, 
+<date id="2A2F10DFFFE9511F59E9A854F8BCF8A1" box="[1714,1862,1806,1847]" pageId="25" pageNumber="98">Aug. 21.</date>
+All the 
+<typeStatus id="812A88BDFFE9511F5D01A81BFCFBF8FC" box="[602,769,1857,1898]" pageId="25" pageNumber="98">paratypes</typeStatus>
+were swept by Swezey from sedges, and he also found larvae at the bases of sedge plants.
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE9511F5CA7A82EFA22F847" ID-GBIF-Occurrence="3333874366" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="25" pageNumber="98" specimenCount="1" typeStatus="paratype">
+One 
+<typeStatus id="812A88BDFFE9511F5B03A82EFB0AF80B" box="[1112,1264,1908,1949]" pageId="25" pageNumber="98">paratype</typeStatus>
+labeled &quot; 
+<collectingCountry id="2686768FFFE9511F5AC0A82EF96FF80B" box="[1435,1685,1908,1949]" name="Island Guam" pageId="25" pageNumber="98">
+<collectingCountry id="2686768FFFE9511F5AC0A82EF9EAF80B" box="[1435,1552,1908,1949]" name="Iceland" pageId="25" pageNumber="98">Island</collectingCountry>
+<collectingCountry id="2686768FFFE9511F597EA82EF96FF80B" box="[1573,1685,1908,1949]" name="Guam" pageId="25" pageNumber="98">Guam</collectingCountry>
+</collectingCountry>
+&quot; and collected by 
+<collectorName id="F36453C9FFE9511F5D22A8FDFCE6F847" box="[633,796,1959,2001]" pageId="25" pageNumber="98">Fullaway</collectorName>
+is from the 
+<collectorName id="F36453C9FFE9511F5CA2A8FDFACEF847" box="[1017,1332,1959,2001]" pageId="25" pageNumber="98">National Museum</collectorName>
+material.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE9511F5D4AA883FA0DF746" pageId="25" pageNumber="98" type="discussion">
+<paragraph id="5E2E361FFFE9511F5D4AA883FA0DF746" blockId="25.[466,1864,401,2256]" pageId="25" pageNumber="98">
+This species is closely allied to the Philippine 
+<taxonomicName id="99914D9CFFE9511F5A1DA883F8BEF792" authority="Marshall" authorityName="Marshall" authorityYear="1928" box="[1350,1860,2009,2052]" class="Insecta" family="Curculionidae" genus="Athesapeuta" kingdom="Animalia" order="Coleoptera" pageId="25" pageNumber="98" phylum="Arthropoda" rank="species" species="cyperi">
+<emphasis id="6CE5EA0DFFE9511F5A1DA883F961F792" box="[1350,1691,2009,2052]" italics="true" pageId="25" pageNumber="98">Athesapeuta cyperi</emphasis>
+Marshall
+</taxonomicName>
+(Bull. Ent. Research 18:266, 1928), but that species may easily be distinguished from this by its much more coarsely and densely punctate pronotal disk, more coarsely punctate elytral striae and especially by the presence of a large tooth at about the middle of each fore tibia on the male.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

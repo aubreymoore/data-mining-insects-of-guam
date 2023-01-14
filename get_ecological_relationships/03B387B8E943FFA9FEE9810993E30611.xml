@@ -1,0 +1,170 @@
+<document id="B2A03F237A6332480479F89EAA4E2C18" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E943FFA9FEE9810993E30611" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Anua coronata" docType="treatment" docVersion="19" lastPageNumber="171" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="171" updateTime="1669826952250" updateUser="annettekang">
+<mods:mods id="22E7F94DA597A22A85D3E740425B08A2" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="6233B112FD69F462E9EBE9F0757F31BE">
+<mods:title id="4AEEA3B9A6FC6010F4420000E4EA4EB9">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="5297534DDBB1031E250BE5CB46852108" type="personal">
+<mods:role id="7A25C1AB218080A894D07496E1237CDD">
+<mods:roleTerm id="6D9E7E3ED37BF204466A5D5928D3D760">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="210FBDB400FEBBCDAE7C606827FC778D">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="0D6392423849E98A0823B71594173BF9">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="4BB6E224E788ABBFAE981FC6A73734DD">text</mods:typeOfResource>
+<mods:relatedItem id="322AE98A9D8F75961BDDE01C19B9074A" type="host">
+<mods:originInfo id="C168EC1B99C300675CCE1C1BE1BA2B57">
+<mods:dateIssued id="263C39AAC9012CCAC3141478B0439C9E">1946</mods:dateIssued>
+<mods:dateOther id="CEFED0DC836E51F85DEA39857E3F8177" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="18CAB9DA1D8E0DAD4AA4834FDDA4A2B0">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="649CAA43A50A0FD63E692AEE2D704AB5">
+<mods:placeTerm id="78DAA2F4EFF8AEA2C29BB41B415B4867">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="6FFBFF7A7BA248DF7DCC319188615F22">
+<mods:title id="192DDE1C760F9DB28B4ED1C43F86629B">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="9C3DDEE3B3C44A0153AE0CF5C8759AA2">
+<mods:extent id="662FF72041998D3490B140B8CDDACFF6" unit="page">
+<mods:start id="E0347E2DB88A5020279F205F79A090AD">163</mods:start>
+<mods:end id="36EEA79077D32A394CF324F5A371CFE4">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="844155A66FDACA5BF4C112B0881201B1">book chapter</mods:classification>
+<mods:identifier id="020F8F83369FB9DBEB60BD044C8E399A" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="88A8EBB9B4C1E99B122E6DC24A429EFD" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="7FCAF116D84EDA592482B6EEE337C030" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E943FFA9FEE9810993E30611" ID-DOI="http://doi.org/10.5281/zenodo.5171211" ID-GBIF-Taxon="183926962" ID-Zenodo-Dep="5171211" LSID="urn:lsid:plazi:treatment:03B387B8E943FFA9FEE9810993E30611" httpUri="http://treatment.plazi.org/id/03B387B8E943FFA9FEE9810993E30611" lastPageNumber="171" pageId="8" pageNumber="171">
+<subSubSection id="C3006525E943FFA9FEE981099103002F" box="[294,885,820,864]" pageId="8" pageNumber="171" type="nomenclature">
+<paragraph id="8BA536AEE943FFA9FEE981099103002F" blockId="8.[292,1690,820,1374]" box="[294,885,820,864]" pageId="8" pageNumber="171">
+<heading id="D0ED81C2E943FFA9FEE981099103002F" box="[294,885,820,864]" fontSize="8" level="2" pageId="8" pageNumber="171" reason="4">
+<emphasis id="B96EEABCE943FFA9FEE981099322002F" bold="true" box="[294,340,820,864]" pageId="8" pageNumber="171">18.</emphasis>
+<taxonomicName id="4C1A4D2DE943FFA9FEBA81099119002F" authority="(Fabricius)" baseAuthorityName="Fabricius" box="[373,879,820,864]" class="Insecta" family="Noctuidae" genus="Anua" kingdom="Animalia" order="Lepidoptera" pageId="8" pageNumber="171" phylum="Arthropoda" rank="species" species="coronata">
+<emphasis id="B96EEABCE943FFA9FEBA810990F2002F" bold="true" box="[373,644,820,864]" pageId="8" pageNumber="171">Anua coronata</emphasis>
+(Fabricius)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E943FFA9FEAE8155966F00B6" pageId="8" pageNumber="171" type="description">
+<paragraph id="8BA536AEE943FFA9FEAE815596A500DC" blockId="8.[292,1690,820,1374]" box="[353,1235,872,915]" pageId="8" pageNumber="171">
+<treatmentCitationGroup id="AB0A1180E943FFA9FEAE815596A500DC" box="[353,1235,872,915]" pageId="8" pageNumber="171">
+<bibCitation id="5E303EC2E943FFA9FEAE815596A500DC" author="Fabricius" box="[353,1235,872,915]" pageId="8" pageNumber="171" pagination="596" refId="ref4452" title="Syst. Ent." type="book" year="1775">
+<treatmentCitation id="0ABB10BFE943FFA9FEAE815596B800DC" author="Fabricius" box="[353,1230,872,915]" page="596" pageId="8" pageNumber="171" year="1775">
+<emphasis id="B96EEABCE943FFA9FEAE815590FE00DC" box="[353,648,872,915]" italics="true" pageId="8" pageNumber="171">Noctua coronata</emphasis>
+<author id="53A7DE4BE943FFA9FD598155914B00DC" box="[662,829,872,915]" pageId="8" pageNumber="171">Fabricius</author>
+, 
+<title id="F91EDD98E943FFA9FC998155967F00DC" box="[854,1033,872,915]" pageId="8" pageNumber="171">Syst. Ent.</title>
+, 
+<pagination id="B2D3C85AE943FFA9FBEE8155961400DC" box="[1057,1122,872,915]" pageId="8" pageNumber="171">596</pagination>
+, 
+<year id="FFB277FDE943FFA9FBB3815596B800DC" box="[1148,1230,872,915]" pageId="8" pageNumber="171">1775</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE943FFA9FEAF81A194F30089" blockId="8.[292,1690,820,1374]" box="[352,1669,924,966]" pageId="8" pageNumber="171">
+<treatmentCitationGroup id="AB0A1180E943FFA9FEAF81A194F30089" box="[352,1669,924,966]" pageId="8" pageNumber="171">
+<bibCitation id="5E303EC2E943FFA9FEAF81A194F30089" author="Hampson" box="[352,1669,924,966]" pageId="8" pageNumber="171" pagination="427" part="12" refId="ref4465" title="Cat. Lep. Phalaenae" type="journal volume" year="1913">
+<emphasis id="B96EEABCE943FFA9FEAF81A190000089" box="[352,630,924,966]" italics="true" pageId="8" pageNumber="171">Anua coronata,</emphasis>
+<treatmentCitation id="0ABB10BFE943FFA9FD4181A194F60089" author="Hampson" box="[654,1664,924,966]" page="427" pageId="8" pageNumber="171" year="1913">
+<author id="53A7DE4BE943FFA9FD4181A1914C0089" box="[654,826,924,966]" pageId="8" pageNumber="171">Hampson</author>
+, 
+<title id="F91EDD98E943FFA9FC9681A196B80089" box="[857,1230,924,966]" pageId="8" pageNumber="171">Cat. Lep. Phalaenae</title>
+<emphasis id="B96EEABCE943FFA9FB2881A1977D0089" bold="true" box="[1255,1291,924,966]" pageId="8" pageNumber="171">
+<part id="FFBE9C33E943FFA9FB2881A1977D0089" box="[1255,1291,924,966]" pageId="8" pageNumber="171">12</part>
+</emphasis>
+: 
+<pagination id="B2D3C85AE943FFA9FAFF81A1971D0089" box="[1328,1387,924,966]" pageId="8" pageNumber="171">427</pagination>
+, fig. 101, 
+<year id="FFB277FDE943FFA9F9F781A194F60089" box="[1592,1664,924,966]" pageId="8" pageNumber="171">1913</year>
+</treatmentCitation>
+;
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE943FFA9FE5081F2966F00B6" blockId="8.[292,1690,820,1374]" box="[415,1049,975,1017]" pageId="8" pageNumber="171">
+<bibCitation id="5E303EC2E943FFA9FE5081F2966F00B6" author="Tams" box="[415,1049,975,1017]" journalOrPublisher="Ins. Samoa" pageId="8" pageNumber="171" pagination="214" part="3" refId="ref4485" type="journal article" year="1935">
+<treatmentCitation id="0ABB10BFE943FFA9FE5081F2966200B6" author="Tams" box="[415,1044,975,1017]" page="214" pageId="8" pageNumber="171" year="1935">
+<author id="53A7DE4BE943FFA9FE5081F2907000B6" box="[415,518,975,1017]" pageId="8" pageNumber="171">Tams</author>
+, 
+<journalOrPublisher id="51DB3C62E943FFA9FDD181F2909E00B6" box="[542,744,975,1017]" pageId="8" pageNumber="171">
+Ins. 
+<collectingCountry id="F30D763EE943FFA9FDBE81F2909E00B6" box="[625,744,975,1017]" name="Samoa" pageId="8" pageNumber="171">Samoa</collectingCountry>
+</journalOrPublisher>
+<part id="FFBE9C33E943FFA9FD3781F2917A00B6" box="[760,780,975,1017]" pageId="8" pageNumber="171" type="volume">3</part>
+(
+<part id="FFBE9C33E943FFA9FCD581F2914400B6" box="[794,818,975,1017]" pageId="8" pageNumber="171" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE943FFA9FCA981F291DE00B6" box="[870,936,975,1017]" pageId="8" pageNumber="171" type="pagination">214</pagination>
+, 
+<year id="FFB277FDE943FFA9FC0F81F2966200B6" box="[960,1044,975,1017]" pageId="8" pageNumber="171">1935</year>
+</treatmentCitation>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E943FFA9FEAB863E91EB0710" pageId="8" pageNumber="171" type="description">
+<paragraph id="8BA536AEE943FFA9FEAB863E91EB0710" blockId="8.[292,1690,820,1374]" pageId="8" pageNumber="171">
+<materialsCitation id="3B723CF3E943FFA9FEAB863E91410762" ID-GBIF-Occurrence="3332081486" box="[356,823,1027,1069]" collectingDate="1936-04-12" collectorName="E. H. Bryan" country="Guam" location="Agana" pageId="8" pageNumber="171">
+<collectingMunicipality id="6BC1ACD4E943FFA9FEAB863E93AB0762" box="[356,477,1027,1069]" pageId="8" pageNumber="171">Agana</collectingMunicipality>
+, 
+<date id="FFA4106EE943FFA9FE35863E90EC0762" box="[506,666,1027,1069]" pageId="8" pageNumber="171" value="2012-04">
+<collectingDate id="EFE0E986E943FFA9FE35863E90EC0762" box="[506,666,1027,1069]" pageId="8" pageNumber="171" value="2012-04">April 12</collectingDate>
+</date>
+, 
+<location id="8EC56075E943FFA9FD78863E91460762" LSID="urn:lsid:plazi:treatment:03B387B8E943FFA9FEE9810993E30611:8EC56075E943FFA9FD78863E91460762" box="[695,816,1027,1069]" pageId="8" pageNumber="171">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E943FFA9FC81863E97EF0762" ID-GBIF-Occurrence="3332081362" box="[846,1433,1027,1069]" collectedFrom="at light" collectingDate="1936-10-14" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="8" pageNumber="171">
+<location id="8EC56075E943FFA9FC81863E91E40762" LSID="urn:lsid:plazi:treatment:03B387B8E943FFA9FEE9810993E30611:8EC56075E943FFA9FC81863E91E40762" box="[846,914,1027,1069]" pageId="8" pageNumber="171">
+<collectingMunicipality id="6BC1ACD4E943FFA9FC81863E91E40762" box="[846,914,1027,1069]" pageId="8" pageNumber="171">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE943FFA9FC60863E964D0762" box="[943,1083,1027,1069]" pageId="8" pageNumber="171" value="2014-10">
+<collectingDate id="EFE0E986E943FFA9FC60863E964D0762" box="[943,1083,1027,1069]" pageId="8" pageNumber="171" value="2014-10">Oct. 14</collectingDate>
+</date>
+, at light, 
+<collectorName id="26EF5378E943FFA9FACC863E97E40762" box="[1283,1426,1027,1069]" pageId="8" pageNumber="171">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E943FFA9FA60863E91EB0710" ID-GBIF-Occurrence="3332081307" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="8" pageNumber="171" specimenCount="1">
+one in 
+<collectingCountry id="F30D763EE943FFA9F9F9863E94E10762" box="[1590,1687,1027,1069]" name="United States of America" pageId="8" pageNumber="171">U. S.</collectingCountry>
+<collectingMunicipality id="6BC1ACD4E943FFA9FEEB8608901C0710" box="[292,618,1077,1119]" pageId="8" pageNumber="171">National Museum</collectingMunicipality>
+, 
+<location id="8EC56075E943FFA9FD4D8608915A0710" LSID="urn:lsid:plazi:treatment:03B387B8E943FFA9FEE9810993E30611:8EC56075E943FFA9FD4D8608915A0710" box="[642,812,1077,1119]" pageId="8" pageNumber="171">Fullaway</location>
+, 1911.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E943FFA9FEAC865793E30611" pageId="8" pageNumber="171" type="description">
+<paragraph id="8BA536AEE943FFA9FEAC865793E30611" blockId="8.[292,1690,820,1374]" pageId="8" pageNumber="171">
+This large moth has a wide distribution in 
+<collectingCountry id="F30D763EE943FFA9FB97865796C107DB" box="[1112,1207,1130,1172]" name="India" pageId="8" pageNumber="171">India</collectingCountry>
+, 
+<collectingCountry id="F30D763EE943FFA9FB028657973C07DB" box="[1229,1354,1130,1172]" name="Sri Lanka" pageId="8" pageNumber="171">Ceylon</collectingCountry>
+, 
+<collectingCountry id="F30D763EE943FFA9FA91865797AC07DB" box="[1374,1498,1130,1172]" name="Myanmar" pageId="8" pageNumber="171">Burma</collectingCountry>
+, Andaman Islands, Penang, 
+<collectingCountry id="F30D763EE943FFA9FDB686A0915D0789" box="[633,811,1181,1222]" name="Singapore" pageId="8" pageNumber="171">Singapore</collectingCountry>
+, Java, 
+<collectingCountry id="F30D763EE943FFA9FC0786A096E60789" box="[968,1168,1181,1222]" name="Philippines" pageId="8" pageNumber="171">Philippines</collectingCountry>
+, 
+<collectingCountry id="F30D763EE943FFA9FB7986A097840789" box="[1206,1522,1181,1222]" name="Christmas Island" pageId="8" pageNumber="171">Christmas Island</collectingCountry>
+(Indian Ocean), Cocos Keeling, north 
+<collectingCountry id="F30D763EE943FFA9FC9886F2918807B6" box="[855,1022,1231,1273]" name="Australia" pageId="8" pageNumber="171">Australia</collectingCountry>
+, Society Islands, 
+<collectingCountry id="F30D763EE943FFA9FA8686F297CB07B6" box="[1353,1469,1231,1273]" name="Samoa" pageId="8" pageNumber="171">Samoa</collectingCountry>
+and 
+<collectingCountry id="F30D763EE943FFA9F9EF86F293DE0663" name="Kiribati" pageId="8" pageNumber="171">Gilbert Islands</collectingCountry>
+. Two specimens were obtained in 
+<collectingCountry id="F30D763EE943FFA9FBE5873F96E00663" box="[1066,1174,1282,1324]" name="Guam" pageId="8" pageNumber="171">Guam</collectingCountry>
+. Nothing was learned of its habits.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

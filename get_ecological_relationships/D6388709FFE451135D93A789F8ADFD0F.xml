@@ -1,0 +1,77 @@
+<document id="8A6AB9BBFC4B0E8EB5CDA51FE30251F2" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFE451135D93A789F8ADFD0F" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Curculionidae" docType="treatment" docVersion="14" lastPageNumber="94" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="93" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="F6028A1E1D48EBE797688C5E3AB47978" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="0F60163030AE55F9C8F3D230E4220EA3">
+<mods:title id="511DEF66F323FD0FBB442BD9FF9E0C77">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="E403A151CBD0B65962C9CC94D940FA24" type="personal">
+<mods:role id="75C4C6A423072F7A8C28A95CD1081192">
+<mods:roleTerm id="2BFBDEE61808F08BA1CCCCE9AC6FC330">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3D05328C5726D53E526B5A340FCAFBC2">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="0AC73F460180CEEA4D4F337AAA5A2705">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="36E1C0AFC4CB856958783A12611EB231">text</mods:typeOfResource>
+<mods:relatedItem id="EAE90BC0D6E778F5BBD2A1836DC761B0" type="host">
+<mods:originInfo id="7AA51DA386379B7E5C13DEB2F86625A1">
+<mods:dateIssued id="995F70CF74F8F429E70852122BA938EE">1942</mods:dateIssued>
+<mods:dateOther id="96C9658E630FC3E92258EA2E24CA3F0F" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="7B18CD409F0FCE61C50EA2026985C4D1">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="653AF21BD462DE864369ECEABFA9009C">
+<mods:placeTerm id="415A472DF1DE5AB49BCFD8235B30EF2D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="C916C6CF513CC02082D3E82E58DFF1B5">
+<mods:title id="C215E7EC1D2729E043AC7E8264DEE2C6">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="9AE3FCBC30DB9BFA49A5E2623DD92F8C">
+<mods:extent id="D93ABFD35199A72C8E45DDD27E80E340" unit="page">
+<mods:start id="4834CEA7AF641E5A17413DE6B888BAC5">73</mods:start>
+<mods:end id="77F2D2EF0FB602DC46866BFE758146DB">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="EBC52682E23E8119FDD8C399231FDB72">book chapter</mods:classification>
+<mods:identifier id="46DCCF8EC4CFD3207EDE3EDD49CD8AE8" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="E30BCD53A8F923377F9D91FDADA6B44F" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="8030CFBDE31B148922ADD40C2330BC09" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFE451135D93A789F8ADFD0F" ID-DOI="http://doi.org/10.5281/zenodo.5157284" ID-GBIF-Taxon="184097866" ID-Zenodo-Dep="5157284" LSID="urn:lsid:plazi:treatment:D6388709FFE451135D93A789F8ADFD0F" httpUri="http://treatment.plazi.org/id/D6388709FFE451135D93A789F8ADFD0F" lastPageId="21" lastPageNumber="94" pageId="20" pageNumber="93">
+<subSubSection id="168B6594FFE451125D93A789FAFAF768" box="[712,1280,2259,2302]" pageId="20" pageNumber="93" type="nomenclature">
+<paragraph id="5E2E361FFFE451125D93A789FAFAF768" blockId="20.[712,1280,2259,2302]" box="[712,1280,2259,2302]" pageId="20" pageNumber="93">
+<heading id="05668173FFE451125D93A789FAFAF768" box="[712,1280,2259,2302]" centered="true" fontSize="8" level="2" pageId="20" pageNumber="93" reason="3">
+SuB1tAMILY 
+<taxonomicName id="99914D9CFFE451125CF5A789FAFAF768" authority="Schenkling, 1934" box="[942,1280,2259,2302]" family="Curculionidae" kingdom="Animalia" order="Coleoptera" pageId="20" pageNumber="93" rank="subFamily">ANTHONOMINAE</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE451125E3FA644FBE0F639" pageId="20" pageNumber="93" type="discussion">
+<paragraph id="5E2E361FFFE451125E3FA644FBE0F639" blockId="20.[292,1688,2334,2479]" pageId="20" pageNumber="93">
+Two species of Anthonominae were procured on 
+<collectingCountry id="2686768FFFE451125BB8A644FAB4F6DC" box="[1251,1358,2334,2378]" name="Guam" pageId="20" pageNumber="93">Guam</collectingCountry>
+. Each is new and belongs to a different genus. The genera, one of which is new, may be distinguished by the following synoptic table:
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE551135D9CAED7F997FE23" box="[711,1645,397,437]" pageId="21" pageNumber="94" type="key">
+<paragraph id="5E2E361FFFE551135D9CAED7F997FE23" blockId="21.[711,1645,397,437]" box="[711,1645,397,437]" pageId="21" pageNumber="94">
+<heading id="05668173FFE551135D9CAED7F997FE23" box="[711,1645,397,437]" centered="true" fontSize="8" level="2" pageId="21" pageNumber="94" reason="3">KEY To 'l'r-n; GENERA oF ANTHONOMINAE oF GuAl\f</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE551135EBEAE80F8ADFD0F" pageId="21" pageNumber="94" type="key">
+<key id="2A00612EFFE551135EBEAE80F8ADFD0F" pageId="21" pageNumber="94">
+<paragraph id="5E2E361FFFE551135EBEAE80F8ACFDB2" blockId="21.[482,1879,474,665]" pageId="21" pageNumber="94">
+<keyLead id="E560952AFFE551135EBEAE80F8ACFDB2" pageId="21" pageNumber="94">
+1 Scrobes straight and lateral throughout, not at all oblique near the antennae prosternum entire and not canaliculate before the coxae................................ 
+<taxonomicName id="99914D9CFFE5511359EDAD5AF8A8FDB2" box="[1718,1874,512,548]" pageId="21" pageNumber="94">Usingerius</taxonomicName>
+.
+</keyLead>
+</paragraph>
+<paragraph id="5E2E361FFFE551135EB9AD73F8ADFD0F" blockId="21.[482,1879,474,665]" pageId="21" pageNumber="94">
+<keyLead id="E560952AFFE551135EB9AD73F8ADFD0F" pageId="21" pageNumber="94">
+2. Scrobes passing rapidly and obliquely downward to the venter of the rostrum, ventral in the posterior half; prosternum broadly canaliculate before the coxae........ 
+<taxonomicName id="99914D9CFFE551135906AD20F8ADFD0F" box="[1629,1879,634,665]" pageId="21" pageNumber="94">TODO</taxonomicName>
+</keyLead>
+</paragraph>
+</key>
+</subSubSection>
+</treatment>
+</document>

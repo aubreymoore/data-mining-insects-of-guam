@@ -1,0 +1,247 @@
+<document id="012D7877BFF124E5F1B7569E0CEEC3BD" ID-DOI="http://doi.org/10.5281/zenodo.5174008" ID-GBIF-Dataset="62345736-dcf6-4c38-a870-36a90992dabb" ID-Zenodo-Dep="5174008" checkinTime="1628020725273" checkinUser="carolina" docAuthor="Metcalf, Z. P." docDate="1946" docId="416187EDEB78FFDEFE6E4A3E8E29F4BD" docLanguage="en" docName="InsectsOfGuamII.189.105-148.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Empoasca morindae Metcalf, 1946, new species" docType="treatment" docVersion="14" lastPageNumber="140" masterDocId="BD58FF95EB59FFFFFFB04B578875FD6D" masterDocTitle="Homoptera, Fulgoroidea and Jassoidea of Guam" masterLastPageNumber="148" masterPageNumber="105" pageNumber="140" updateTime="1660232239087" updateUser="annettekang">
+<mods:mods id="ABC238A85A91ED8513B219A75AA8A805" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="56560DC3C4DC7CD16B7538BC845AF744">
+<mods:title id="CF5EBCF9D42880C47D26CB2E12694A48">Homoptera, Fulgoroidea and Jassoidea of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="62C9212F183635D01B68CB3088F5AE2A" type="personal">
+<mods:role id="D80839BD980764AF3D0797EB320A7E25">
+<mods:roleTerm id="280465C1B6AFB005EFD059C0A47EAFC3">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B3CD5F3FD868855BC2F59D029A805AEC">Metcalf, Z. P.</mods:namePart>
+<mods:affiliation id="61F5FD7E5F7333203489EFC45DDE19CE">College of Agriculture and Engineering, University of North Carolins</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="0DCF82573F8F5BD1C7048F86EB8BB6A4">text</mods:typeOfResource>
+<mods:relatedItem id="210F3A67B6113C6F64CF3BD2F3017FE2" type="host">
+<mods:originInfo id="0589844FABE802D3A14C132601658544">
+<mods:dateIssued id="59F9E784E611BE9F37DCF7AD7BA6F2B9">1946</mods:dateIssued>
+<mods:dateOther id="7A28BF4B70554DC9E2CE59A485EDB84D" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="F7CB22ED9D410412454D6D7B9A1FB05C">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="16F220388DBBB2D12CA3C4055A427FD0">
+<mods:placeTerm id="3DE411DB71B324EBDE6BF3401F067E36">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="8DC3D73C9AB518F182917E94DDCF0DD1">
+<mods:title id="864FF7BE087541A9F938759544E7EE10">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="ACA247AF4E8ADB7595E0509757D33D0D">
+<mods:extent id="A9C3794E91F9F3794A606AAC68DD0EE6" unit="page">
+<mods:start id="3B642092E4489362C59718D90855BC2B">105</mods:start>
+<mods:end id="9E2E14AF712DA322EAEDC69765224AAA">148</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="CE67C68ACB207820D0F8AFEEA5919E4D">book chapter</mods:classification>
+<mods:identifier id="18DD17882252B79726E0C9C9F29671E5" type="DOI">http://doi.org/10.5281/zenodo.5174008</mods:identifier>
+<mods:identifier id="FB5F786858EC68357964293C4AD77202" type="GBIF-Dataset">62345736-dcf6-4c38-a870-36a90992dabb</mods:identifier>
+<mods:identifier id="41319C2DB679CD2A5190C2EBB63A363F" type="Zenodo-Dep">5174008</mods:identifier>
+</mods:mods>
+<treatment id="416187EDEB78FFDEFE6E4A3E8E29F4BD" ID-DOI="http://doi.org/10.5281/zenodo.5188173" ID-GBIF-Taxon="184009003" ID-Zenodo-Dep="5188173" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD" httpUri="http://treatment.plazi.org/id/416187EDEB78FFDEFE6E4A3E8E29F4BD" lastPageNumber="140" pageId="33" pageNumber="140">
+<subSubSection id="81D26570EB78FFDEFE6E4A3E8DE7FCFE" box="[478,1426,361,403]" pageId="33" pageNumber="140" type="nomenclature">
+<paragraph id="C97736FBEB78FFDEFE6E4A3E8DE7FCFE" blockId="33.[477,1879,361,1028]" box="[478,1426,361,403]" pageId="33" pageNumber="140">
+<heading id="923F8197EB78FFDEFE6E4A3E8DE7FCFE" box="[478,1426,361,403]" fontSize="11" level="2" pageId="33" pageNumber="140" reason="2">
+2. 
+<emphasis id="FBBCEAE9EB78FFDEFDAE4A3E8BEFFCFE" bold="true" box="[542,922,361,403]" pageId="33" pageNumber="140">
+<taxonomicName id="0EC84D78EB78FFDEFDAE4A3E8BE1FCFE" authorityName="Metcalf" authorityYear="1946" box="[542,916,361,403]" class="Insecta" family="Cicadellidae" genus="Empoasca" kingdom="Animalia" order="Hemiptera" pageId="33" pageNumber="140" phylum="Arthropoda" rank="species" species="morindae" status="new species">Empoasca morindae</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="E08F5792EB78FFDEFC1B4A3E8C0AFCFE" box="[939,1151,361,403]" pageId="33" pageNumber="140" rank="species">new species</taxonomicNameLabel>
+(
+<figureCitation id="51F32A7EEB78FFDEFB114A3E8D6CFCFE" box="[1185,1305,361,403]" captionStart="FIGURE 24" captionStartId="33.[543,650,2010,2045]" captionTargetBox="[652,1699,1146,1943]" captionText="FIGURE 24.-Empoasca morindae: a, ventral view of female genitalia; b, ventral view of male genitalia." figureDoi="http://doi.org/10.5281/zenodo.5174059" httpUri="https://zenodo.org/record/5174059/files/figure.png" pageId="33" pageNumber="140">fig. 24</figureCitation>
+, 
+<emphasis id="FBBCEAE9EB78FFDEFA804A3E8DE7FCFE" box="[1328,1426,361,403]" italics="true" pageId="33" pageNumber="140">a, b).</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB78FFDEFD934AF28E29F4BD" pageId="33" pageNumber="140" type="description">
+<paragraph id="C97736FBEB78FFDEFD934AF28EB9FCA6" blockId="33.[477,1879,361,1028]" box="[547,1740,421,459]" pageId="33" pageNumber="140">Golden yellow with reddish-brown eyes but without other color markings.</paragraph>
+<paragraph id="C97736FBEB78FFDEFD934A828ECBFF03" blockId="33.[477,1879,361,1028]" pageId="33" pageNumber="140">Head with the compound eyes wider than the pronotum; crown subangulate, as long as its greatest width and as long as the median length of the pronotum; face above the antennae somewhat protuberant; below the antennae flat. Pronotum with anterior and posterior margins nearly parallel. Mesonotum subequal to pronotum in length.</paragraph>
+<paragraph id="C97736FBEB78FFDEFD92492E8C73FEB8" blockId="33.[477,1879,361,1028]" pageId="33" pageNumber="140">Female genitalia: last ventral segment broader than long; posterior lateral angles roundly produced; the posterior border between the lateral angles almost truncate. External male genitalia: plates very long, almost as long as the apex of the anal style, slender, triangular; apices obtuse; dorsal border of the plate somewhat sinuate. Internal male genitalia: aedeagus simple, somewhat expanded near the apex; short, not more than one third as long as the genital plates; lateral processes short, about half as long as the genital plates; bisinuate with broad bases gradually tapering to slender, outwardly directed apices; genital styles flat, somewhat triangular, with obtuse apices about two thirds as long as the genital plate.</paragraph>
+<paragraph id="C97736FBEB78FFDEFD9148B78E32F969" blockId="33.[477,1879,361,1028]" box="[545,1607,992,1028]" pageId="33" pageNumber="140">
+Length: to apex of tegmina, 
+<quantity id="0E309B1EEB78FFDEFC4748B78C2EF969" box="[1015,1115,992,1028]" metricMagnitude="-3" metricUnit="m" metricValue="3.0" pageId="33" pageNumber="140" unit="mm" value="3.0">3 mm</quantity>
+.; to apex of abdomen, 
+<quantity id="0E309B1EEB78FFDEFA7D48B78E36F969" box="[1485,1603,992,1028]" metricMagnitude="-3" metricUnit="m" metricValue="2.5" pageId="33" pageNumber="140" unit="mm" value="2.5">2.5 mm</quantity>
+.
+</paragraph>
+<caption id="9DB76673EB78FFDEFDAF4C8D8B3CF549" ID-DOI="http://doi.org/10.5281/zenodo.5174059" ID-Zenodo-Dep="5174059" httpUri="https://zenodo.org/record/5174059/files/figure.png" pageId="33" pageNumber="140" startId="33.[543,650,2010,2045]" targetBox="[652,1699,1146,1943]" targetPageId="33">
+<paragraph id="C97736FBEB78FFDEFDAF4C8D8B3CF549" blockId="33.[474,1873,2010,2084]" pageId="33" pageNumber="140">
+<collectionCode id="AFD9AE3EEB78FFDEFDAF4C8D8AFFFA90" box="[543,650,2010,2045]" pageId="33" pageNumber="140">FIGURE</collectionCode>
+<emphasis id="FBBCEAE9EB78FFDEFD284C8D8C51FA90" box="[664,1060,2010,2045]" italics="true" pageId="33" pageNumber="140">
+24.- 
+<taxonomicName id="0EC84D78EB78FFDEFD604C8D8C55FA90" authorityName="Metcalf" authorityYear="1946" box="[720,1056,2010,2045]" class="Insecta" family="Cicadellidae" genus="Empoasca" kingdom="Animalia" order="Hemiptera" pageId="33" pageNumber="140" phylum="Arthropoda" rank="species" species="morindae">Empoasca morindae</taxonomicName>
+:
+</emphasis>
+<emphasis id="FBBCEAE9EB78FFDEFBFD4C8C8C12FA93" bold="true" box="[1101,1127,2011,2046]" pageId="33" pageNumber="140">a,</emphasis>
+ventral view of female genitalia; 
+<emphasis id="FBBCEAE9EB78FFDEF9054C8C8EBBFA93" bold="true" box="[1717,1742,2011,2046]" pageId="33" pageNumber="140">b,</emphasis>
+ventral view of male genitalia.
+</paragraph>
+</caption>
+<paragraph id="C97736FBEB78FFDEFDAA43258E29F4BD" blockId="33.[474,1874,2162,2512]" pageId="33" pageNumber="140">
+<materialsCitation id="79A03CA6EB78FFDEFDAA43258E45F5F0" ID-GBIF-Occurrence="3332978319" box="[538,1584,2162,2205]" collectedFrom="on Morinda sp." collectingDate="1936-07-06" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="33" pageNumber="140" specimenCount-male="1" typeStatus="holotype">
+<typeStatus id="16738859EB78FFDEFDAA43258AC8F5F0" box="[538,701,2162,2205]" pageId="33" pageNumber="140">Holotype</typeStatus>
+<specimenCount id="DFCEFD72EB78FFDEFD7843258B6BF5F0" box="[712,798,2162,2205]" pageId="33" pageNumber="140" type="male">male</specimenCount>
+, 
+<collectingMunicipality id="2913AC81EB78FFDEFC8043258B96F5F0" box="[816,995,2162,2205]" pageId="33" pageNumber="140">Barrigada</collectingMunicipality>
+, 
+<collectingDate id="AD32E9D3EB78FFDEFC4643258C11F5F0" box="[1014,1124,2162,2205]" pageId="33" pageNumber="140">
+<date id="BD76103BEB78FFDEFC4643258C11F5F0" box="[1014,1124,2162,2205]" pageId="33" pageNumber="140">July 6</date>
+</collectingDate>
+, on 
+<taxonomicName id="0EC84D78EB78FFDEFB1E43258DF3F5F0" box="[1198,1414,2162,2205]" class="Insecta" family="Cicadellidae" genus="Morinda" kingdom="Animalia" order="Hemiptera" pageId="33" pageNumber="140" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="FBBCEAE9EB78FFDEFB1E43258D3FF5F0" box="[1198,1354,2162,2205]" italics="true" pageId="33" pageNumber="140">
+<location id="CC176020EB78FFDEFB1E43258D3FF5F0" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFB1E43258D3FF5F0" box="[1198,1354,2162,2205]" municipality="Barrigada" name="Morinda" pageId="33" pageNumber="140">Morinda</location>
+</emphasis>
+<specimenCount id="DFCEFD72EB78FFDEFAE543258DF3F5F0" box="[1365,1414,2162,2205]" pageId="33" pageNumber="140" type="generic">sp.</specimenCount>
+</taxonomicName>
+, 
+<location id="CC176020EB78FFDEFA2D43258E5CF5F0" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFA2D43258E5CF5F0" box="[1437,1577,2162,2205]" municipality="Barrigada" name="Swezey" pageId="33" pageNumber="140">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB78FFDEF98D43258C84F5A2" ID-GBIF-Occurrence="3332978380" collectedFrom="on Morinda sp." collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="33" pageNumber="140" specimenCount-female="1" typeStatus="allotype">
+<typeStatus id="16738859EB78FFDEF98D43258EB2F5F0" box="[1597,1735,2162,2205]" pageId="33" pageNumber="140">allotype</typeStatus>
+<specimenCount id="DFCEFD72EB78FFDEF96343258F3EF5F0" box="[1747,1867,2162,2205]" pageId="33" pageNumber="140" type="female">female</specimenCount>
+, 
+<location id="CC176020EB78FFDEFE6C43F28AFAF5A2" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFE6C43F28AFAF5A2" box="[476,655,2213,2255]" name="Barrigada" pageId="33" pageNumber="140">Barrigada</location>
+, 
+<date id="BD76103BEB78FFDEFD1443F28B5DF5A2" box="[676,808,2213,2255]" pageId="33" pageNumber="140" value="1922-07">
+<collectingDate id="AD32E9D3EB78FFDEFD1443F28B5DF5A2" box="[676,808,2213,2255]" pageId="33" pageNumber="140" value="1922-07">July 22</collectingDate>
+</date>
+, on 
+<taxonomicName id="0EC84D78EB78FFDEFCC443F28C38F5A2" box="[884,1101,2213,2255]" class="Insecta" family="Cicadellidae" genus="Morinda" kingdom="Animalia" order="Hemiptera" pageId="33" pageNumber="140" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="FBBCEAE9EB78FFDEFCC443F28C7AF5A2" box="[884,1039,2213,2255]" italics="true" pageId="33" pageNumber="140">
+<location id="CC176020EB78FFDEFCC443F28C7AF5A2" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFCC443F28C7AF5A2" box="[884,1039,2213,2255]" name="Morinda" pageId="33" pageNumber="140">Morinda</location>
+</emphasis>
+<specimenCount id="DFCEFD72EB78FFDEFBAC43F28C38F5A2" box="[1052,1101,2213,2255]" pageId="33" pageNumber="140" type="generic">sp.</specimenCount>
+</taxonomicName>
+, 
+<location id="CC176020EB78FFDEFBD543F28C99F5A2" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFBD543F28C99F5A2" box="[1125,1260,2213,2255]" name="Swezey" pageId="33" pageNumber="140">Swezey</location>
+.
+</materialsCitation>
+<materialsCitation id="79A03CA6EB78FFDEFAB243F28A23F46E" ID-GBIF-Occurrence="3332978378" collectingDate="1936-07-06" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="33" pageNumber="140" specimenCount-male="5" typeStatus="paratype">
+<typeStatus id="16738859EB78FFDEFAB243F28DC8F5A2" box="[1282,1469,2213,2255]" pageId="33" pageNumber="140">Paratypes</typeStatus>
+: 
+<specimenCount id="DFCEFD72EB78FFDEFA6043F28EF4F5A2" box="[1488,1665,2213,2255]" pageId="33" pageNumber="140" type="male">five males</specimenCount>
+, 
+<location id="CC176020EB78FFDEF92643F28F3CF5A2" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEF92643F28F3CF5A2" box="[1686,1865,2213,2255]" name="Barrigada" pageId="33" pageNumber="140">Barrigada</location>
+, 
+<date id="BD76103BEB78FFDEFE6B438F8A3AF46E" box="[475,591,2264,2307]" pageId="33" pageNumber="140">
+<collectingDate id="AD32E9D3EB78FFDEFE6B438F8A3AF46E" box="[475,591,2264,2307]" pageId="33" pageNumber="140">July 6</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="79A03CA6EB78FFDEFDDA438F8E92F46E" ID-GBIF-Occurrence="3332978371" box="[618,1767,2264,2307]" collectedFrom="on Morinda sp." collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="33" pageNumber="140" specimenCount-male="4">
+<specimenCount id="DFCEFD72EB78FFDEFDDA438F8B59F46E" box="[618,812,2264,2307]" pageId="33" pageNumber="140" type="male">four males</specimenCount>
+, 
+<location id="CC176020EB78FFDEFCF5438F8B8DF46E" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFCF5438F8B8DF46E" box="[837,1016,2264,2307]" name="Barrigada" pageId="33" pageNumber="140">Barrigada</location>
+, 
+<date id="BD76103BEB78FFDEFBA2438F8CEFF46E" box="[1042,1178,2264,2307]" pageId="33" pageNumber="140" value="1922-07">
+<collectingDate id="AD32E9D3EB78FFDEFBA2438F8CEFF46E" box="[1042,1178,2264,2307]" pageId="33" pageNumber="140" value="1922-07">July 22</collectingDate>
+</date>
+, all by 
+<location id="CC176020EB78FFDEFA9B438F8DDBF46E" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFA9B438F8DDBF46E" box="[1323,1454,2264,2307]" name="Swezey" pageId="33" pageNumber="140">Swezey</location>
+on 
+<taxonomicName id="0EC84D78EB78FFDEFA4B438F8EA1F46E" box="[1531,1748,2264,2307]" class="Insecta" family="Cicadellidae" genus="Morinda" kingdom="Animalia" order="Hemiptera" pageId="33" pageNumber="140" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="FBBCEAE9EB78FFDEFA4B438F8EE3F46E" box="[1531,1686,2264,2307]" italics="true" pageId="33" pageNumber="140">
+<location id="CC176020EB78FFDEFA4B438F8EE3F46E" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFA4B438F8EE3F46E" box="[1531,1686,2264,2307]" name="Morinda" pageId="33" pageNumber="140">Morinda</location>
+</emphasis>
+<specimenCount id="DFCEFD72EB78FFDEF916438F8EA1F46E" box="[1702,1748,2264,2307]" pageId="33" pageNumber="140" type="generic">sp.</specimenCount>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB78FFDEF947438F8D63F45B" ID-GBIF-Occurrence="3332978358" collectedFrom="on Morinda sp." collectingDate="1936-05-01" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="33" pageNumber="140" specimenCount-male="3">
+<specimenCount id="DFCEFD72EB78FFDEF947438F8A35F45B" pageId="33" pageNumber="140" type="male">three males</specimenCount>
+, 
+<location id="CC176020EB78FFDEFDE9425B8AEEF45B" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFDE9425B8AEEF45B" box="[601,667,2316,2358]" name="Piti" pageId="33" pageNumber="140">Piti</location>
+, 
+<date id="BD76103BEB78FFDEFD06425B8B5FF45B" box="[694,810,2316,2358]" pageId="33" pageNumber="140">
+<collectingDate id="AD32E9D3EB78FFDEFD06425B8B5FF45B" box="[694,810,2316,2358]" pageId="33" pageNumber="140">May 1</collectingDate>
+</date>
+, on 
+<taxonomicName id="0EC84D78EB78FFDEFCCF425B8C29F45B" box="[895,1116,2316,2358]" class="Insecta" family="Cicadellidae" genus="Morinda" kingdom="Animalia" order="Hemiptera" pageId="33" pageNumber="140" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="FBBCEAE9EB78FFDEFCCF425B8C6FF45B" box="[895,1050,2316,2358]" italics="true" pageId="33" pageNumber="140">
+<location id="CC176020EB78FFDEFCCF425B8C6FF45B" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFCCF425B8C6FF45B" box="[895,1050,2316,2358]" name="Morinda" pageId="33" pageNumber="140">Morinda</location>
+</emphasis>
+<specimenCount id="DFCEFD72EB78FFDEFB9B425B8C29F45B" box="[1067,1116,2316,2358]" pageId="33" pageNumber="140" type="generic">sp.</specimenCount>
+</taxonomicName>
+, 
+<location id="CC176020EB78FFDEFBC7425B8D7AF45B" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFBC7425B8D7AF45B" box="[1143,1295,2316,2358]" name="Usinger" pageId="33" pageNumber="140">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB78FFDEFA97425B8F25F45B" ID-GBIF-Occurrence="3881969313" box="[1319,1872,2316,2358]" collectedFrom="on Morinda sp." collectingDate="1936-07-06" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="33" pageNumber="140" specimenCount-female="6">
+<specimenCount id="DFCEFD72EB78FFDEFA97425B8D81F45B" box="[1319,1524,2316,2358]" pageId="33" pageNumber="140" type="female">six females</specimenCount>
+, 
+<location id="CC176020EB78FFDEF9BC425B8ECAF45B" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEF9BC425B8ECAF45B" box="[1548,1727,2316,2358]" name="Barrigada" pageId="33" pageNumber="140">Barrigada</location>
+, 
+<date id="BD76103BEB78FFDEF966425B8F3CF45B" box="[1750,1865,2316,2358]" pageId="33" pageNumber="140">
+<collectingDate id="AD32E9D3EB78FFDEF966425B8F3CF45B" box="[1750,1865,2316,2358]" pageId="33" pageNumber="140">July 6</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="79A03CA6EB78FFDEFE6A42688E04F404" ID-GBIF-Occurrence="3881969309" box="[474,1649,2367,2409]" collectedFrom="on Morinda sp." collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="33" pageNumber="140" specimenCount-female="2">
+<specimenCount id="DFCEFD72EB78FFDEFE6A42688AC3F404" box="[474,694,2367,2409]" pageId="33" pageNumber="140" type="female">two females</specimenCount>
+, 
+<location id="CC176020EB78FFDEFD7F42688BF7F404" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFD7F42688BF7F404" box="[719,898,2367,2409]" name="Barrigada" pageId="33" pageNumber="140">Barrigada</location>
+, 
+<date id="BD76103BEB78FFDEFC2C42688C50F404" box="[924,1061,2367,2409]" pageId="33" pageNumber="140" value="1922-07">
+<collectingDate id="AD32E9D3EB78FFDEFC2C42688C50F404" box="[924,1061,2367,2409]" pageId="33" pageNumber="140" value="1922-07">July 22</collectingDate>
+</date>
+, all by 
+<location id="CC176020EB78FFDEFB0542688D4CF404" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFB0542688D4CF404" box="[1205,1337,2367,2409]" name="Swezey" pageId="33" pageNumber="140">Swezey</location>
+on 
+<emphasis id="FBBCEAE9EB78FFDEFA3542688E6AF404" box="[1413,1567,2367,2409]" italics="true" pageId="33" pageNumber="140">
+<location id="CC176020EB78FFDEFA3542688E6AF404" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFA3542688E6AF404" box="[1413,1567,2367,2409]" name="Marinda" pageId="33" pageNumber="140">Marinda</location>
+</emphasis>
+<specimenCount id="DFCEFD72EB78FFDEF98142688E2AF404" box="[1585,1631,2367,2409]" pageId="33" pageNumber="140" type="generic">sp.</specimenCount>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB78FFDEF93242688ADBF4F1" ID-GBIF-Occurrence="3332978325" collectedFrom="from Morinda sp." collectingDate="1936-05-01" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="33" pageNumber="140" specimenCount-female="1">
+<specimenCount id="DFCEFD72EB78FFDEF93242688F3FF404" box="[1666,1866,2367,2409]" pageId="33" pageNumber="140" type="female">one female</specimenCount>
+, 
+<location id="CC176020EB78FFDEFE6D42258A6BF4F1" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFE6D42258A6BF4F1" box="[477,542,2418,2460]" name="Piti" pageId="33" pageNumber="140">Piti</location>
+, 
+<date id="BD76103BEB78FFDEFD8542258AD0F4F1" box="[565,677,2418,2460]" pageId="33" pageNumber="140">
+<collectingDate id="AD32E9D3EB78FFDEFD8542258AD0F4F1" box="[565,677,2418,2460]" pageId="33" pageNumber="140">May 1</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="79A03CA6EB78FFDEFD0B42258CD2F4F1" ID-GBIF-Occurrence="3332978339" box="[699,1191,2418,2460]" collectedFrom="from Morinda sp." collectingDate="1936-05-01" collectorName="R. L. Usinger" country="Guam" location="Dededo" pageId="33" pageNumber="140" specimenCount-female="1">
+<specimenCount id="DFCEFD72EB78FFDEFD0B42258B09F4F1" box="[699,892,2418,2460]" pageId="33" pageNumber="140" type="female">one female</specimenCount>
+, 
+<collectingMunicipality id="2913AC81EB78FFDEFC2042258C6DF4F1" box="[912,1048,2418,2460]" pageId="33" pageNumber="140">Dededo</collectingMunicipality>
+, 
+<date id="BD76103BEB78FFDEFB9D42258CEBF4F1" box="[1069,1182,2418,2460]" pageId="33" pageNumber="140">
+<collectingDate id="AD32E9D3EB78FFDEFB9D42258CEBF4F1" box="[1069,1182,2418,2460]" pageId="33" pageNumber="140">May 1</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="79A03CA6EB78FFDEFB0442258F25F4F1" ID-GBIF-Occurrence="3332978376" box="[1204,1872,2418,2460]" collectedFrom="from Morinda sp." collectingDate="1936-05-24" collectorName="R. L. Usinger" country="Guam" location="Orote Peninsula" pageId="33" pageNumber="140" specimenCount-female="1">
+<specimenCount id="DFCEFD72EB78FFDEFB0442258D02F4F1" box="[1204,1399,2418,2460]" pageId="33" pageNumber="140" type="female">one female</specimenCount>
+, 
+<collectingMunicipality id="2913AC81EB78FFDEFA3C42258EDBF4F1" box="[1420,1710,2418,2460]" pageId="33" pageNumber="140">Orote Peninsula</collectingMunicipality>
+, 
+<date id="BD76103BEB78FFDEF97342258F3CF4F1" box="[1731,1865,2418,2460]" pageId="33" pageNumber="140" value="1924-05">
+<collectingDate id="AD32E9D3EB78FFDEF97342258F3CF4F1" box="[1731,1865,2418,2460]" pageId="33" pageNumber="140" value="1924-05">May 24</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="79A03CA6EB78FFDEFE6C42F18E29F4BD" ID-GBIF-Occurrence="3332978336" box="[476,1628,2470,2512]" collectedFrom="from Morinda sp." collectingDate="1936-06-02" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="33" pageNumber="140" specimenCount-female="1">
+<specimenCount id="DFCEFD72EB78FFDEFE6C42F18AEAF4BD" box="[476,671,2470,2512]" pageId="33" pageNumber="140" type="female">one female</specimenCount>
+, 
+<location id="CC176020EB78FFDEFD0542F18B1EF4BD" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFD0542F18B1EF4BD" box="[693,875,2470,2512]" name="Machanao" pageId="33" pageNumber="140">Machanao</location>
+, 
+<date id="BD76103BEB78FFDEFC3042F18B88F4BD" box="[896,1021,2470,2512]" pageId="33" pageNumber="140">
+<collectingDate id="AD32E9D3EB78FFDEFC3042F18B88F4BD" box="[896,1021,2470,2512]" pageId="33" pageNumber="140">June 2</collectingDate>
+</date>
+; all by 
+<location id="CC176020EB78FFDEFB3442F18D64F4BD" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFB3442F18D64F4BD" box="[1156,1297,2470,2512]" name="Usinger" pageId="33" pageNumber="140">Usinger</location>
+from 
+<emphasis id="FBBCEAE9EB78FFDEFA3642F18E54F4BD" box="[1414,1569,2470,2512]" italics="true" pageId="33" pageNumber="140">
+<location id="CC176020EB78FFDEFA3642F18E54F4BD" LSID="urn:lsid:plazi:treatment:416187EDEB78FFDEFE6E4A3E8E29F4BD:CC176020EB78FFDEFA3642F18E54F4BD" box="[1414,1569,2470,2512]" name="Marinda" pageId="33" pageNumber="140">Marinda</location>
+</emphasis>
+<specimenCount id="DFCEFD72EB78FFDEF99E42F18E29F4BD" box="[1582,1628,2470,2512]" pageId="33" pageNumber="140" type="generic">sp.</specimenCount>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

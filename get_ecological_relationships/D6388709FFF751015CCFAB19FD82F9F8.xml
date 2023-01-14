@@ -1,0 +1,66 @@
+<document id="7591A77961979C173FB5BC069C2BCE55" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFF751015CCFAB19FD82F9F8" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Viticis Lea 1930" docType="treatment" docVersion="9" lastPageNumber="80" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="80" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="59E0CD2394905C89071CA4376A08173E" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CF3969A980DC6302C3EDAE4E973D9C64">
+<mods:title id="C968AAE99E5F1F9CADF601A73D51D3C1">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="A37CF566A3E4CBB0195A265E44DAB1A3" type="personal">
+<mods:role id="E1A84DA39CE24A014829675A589A6E91">
+<mods:roleTerm id="4FCA2058CCA3C10EA3B7F5C0B053CB84">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="16902E37A3D3E9F86C38FA950DF9C40B">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="F45C920BF2A92AB47464D98C411B3E1F">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="82521265CF30F66DAE408648658FAFCD">text</mods:typeOfResource>
+<mods:relatedItem id="514332335C599B62253BF38BDBD2E2F4" type="host">
+<mods:originInfo id="B54EBDDBBBE0999381475221AA9BF7BA">
+<mods:dateIssued id="4A72E4CEFA34DA05559B0B7A929B867B">1942</mods:dateIssued>
+<mods:dateOther id="977149A5B0E5A2894D4122439E5F4A4E" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="B7B3D52C7140EE37BEA7E97361CF0D6F">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="A00C830AC62EE7064EC8D09C6DD4A924">
+<mods:placeTerm id="6599D0D6C179994D13B75A75B5FDCAE2">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="E915F2C895F79DFE158930E8C741D8D5">
+<mods:title id="6C5A7362B55F64E423FEB01DB840C012">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="E2E86DB645B6FC54B6603051AC8FAF09">
+<mods:extent id="41AE24258791AFF1F268CC6F9DEFBF06" unit="page">
+<mods:start id="AD724FC6F3AA9C90063561B3DF8A57D8">73</mods:start>
+<mods:end id="2A8E26C76B806356B8A30AD77894A8EB">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="5BD8C273D5F57A93727C678B04E0EB69">book chapter</mods:classification>
+<mods:identifier id="F1FA3FC1E63336FE0A65974043474137" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="A78BAF8798478C544C76EC7FDB04ECD7" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="09A6ADBB2426B07A8DE104552A4F4E8E" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFF751015CCFAB19FD82F9F8" ID-DOI="http://doi.org/10.5281/zenodo.5163911" ID-GBIF-Taxon="184097838" ID-Zenodo-Dep="5163911" LSID="urn:lsid:plazi:treatment:D6388709FFF751015CCFAB19FD82F9F8" httpUri="http://treatment.plazi.org/id/D6388709FFF751015CCFAB19FD82F9F8" lastPageNumber="80" pageId="7" pageNumber="80">
+<subSubSection id="168B6594FFF751015CCFAB19FA7BFBFD" box="[916,1409,1091,1131]" pageId="7" pageNumber="80" type="nomenclature">
+<paragraph id="5E2E361FFFF751015CCFAB19FA7BFBFD" blockId="7.[916,1409,1091,1131]" box="[916,1409,1091,1131]" pageId="7" pageNumber="80">
+<heading id="05668173FFF751015CCFAB19FA7BFBFD" box="[916,1409,1091,1131]" centered="true" fontSize="8" level="2" pageId="7" pageNumber="80" reason="3">
+Genus 
+<taxonomicName id="99914D9CFFF751015B4EAB19FA7BFBFD" authority="Lea, 1930" authorityName="Lea" authorityYear="1930" box="[1045,1409,1091,1131]" class="Insecta" family="Curculionidae" genus="Viticis" kingdom="Animalia" order="Coleoptera" pageId="7" pageNumber="80" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFF751015B4EAB19FB44FBFD" bold="true" box="[1045,1214,1091,1131]" pageId="7" pageNumber="80">VITICIS</emphasis>
+Lea, 1930
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFF751015D4AAB2FFD82F9F8" pageId="7" pageNumber="80" type="discussion">
+<paragraph id="5E2E361FFFF751015D4AAB2FFC59FA08" blockId="7.[463,1860,1141,1646]" pageId="7" pageNumber="80">
+Heretofore, this genus has been known only from the genotype, 
+<taxonomicName id="99914D9CFFF75101598EAB2FFD23FB44" authority="Lea" authorityName="Lea" authorityYear="1930" class="Insecta" family="Curculionidae" genus="Viticis" kingdom="Animalia" order="Coleoptera" pageId="7" pageNumber="80" phylum="Arthropoda" rank="species" species="bidentatus">
+<emphasis id="6CE5EA0DFFF75101598EAB2FFD7FFB44" italics="true" pageId="7" pageNumber="80">Viticis bidentatus</emphasis>
+Lea
+</taxonomicName>
+(Zimmerman, B. P. Bishop Mus., 0cc. Papers 14(15): 306- 308, 1939) from 
+<collectingCountry id="2686768FFFF751015C4AAB86FCAEFA90" box="[785,852,1244,1286]" name="Fiji" pageId="7" pageNumber="80">Viti</collectingCountry>
+Levu, 
+<collectingCountry id="2686768FFFF751015CB9AB86FBDDFA90" box="[994,1063,1244,1286]" name="Fiji" pageId="7" pageNumber="80">Fiji</collectingCountry>
+. It is easily recognized by its 6-segmented antennal funicle and its 3-segmented tarsi (the claw segment is wanting and the third segment is rounded and solid distally) together with its separated coxae and dentate femora.
+</paragraph>
+<paragraph id="5E2E361FFFF751015D54AAF0FD82F9F8" blockId="7.[463,1860,1141,1646]" pageId="7" pageNumber="80">Although the distribution of the genus now seems quite discontinuous, numerous new species undoubtedly will be described from various intervening islands. Since the writing of these notes, I have seen a new species from Amboina.</paragraph>
+</subSubSection>
+</treatment>
+</document>

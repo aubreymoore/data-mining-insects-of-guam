@@ -1,0 +1,114 @@
+<document id="B35483C6DE9CA3D026B22F7700D7A57B" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFF7510E5E88A9CBFD27FB13" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Viticis guamae Zimmerman 1942, new species" docType="treatment" docVersion="12" lastPageNumber="81" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="80" updateTime="1670538526452" updateUser="annettekang">
+<mods:mods id="B0CB262854AA822D74EAB2A5A734B902" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="965FAE9756B6F3BC9653A072C70CC777">
+<mods:title id="0B094FD80D621CB4562AFC82D520299C">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="63BD97D15D323BACBB00A4107AB424A9" type="personal">
+<mods:role id="F974EE353BB76B06E7E029FE23CAA4E7">
+<mods:roleTerm id="B48374AD03330033FDB802F2329F9684">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="813C527A06F60AEDBE0F6239BCE42667">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="2DF8ECEEF0F4DFBC006FD34D2143F1F6">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="470DAD2C3F58EA6D23F16F2E36225208">text</mods:typeOfResource>
+<mods:relatedItem id="E15FBB138F143E4486E687F84CB67A86" type="host">
+<mods:originInfo id="E87384493EB87B11B68CC85AC5D21D66">
+<mods:dateIssued id="7146FDBE5B03A777793B0FE480149D09">1942</mods:dateIssued>
+<mods:dateOther id="C74C4D2AB4FE920B0D8AC84AF94A9F2B" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="6556EF50779B2418F9480B0C973EFEE8">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="D0407F15911FD22A8B58B22C2E3EB183">
+<mods:placeTerm id="55ABF8B3CAD4FFBEC3C159D986082EFE">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="052FB38777C9BCA2AD866C44500054A0">
+<mods:title id="D6AA546039A2BBED56158BF7BBC58507">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="D4B6A92F78B2C5A776671466999AFE55">
+<mods:extent id="4E61B694D2F32D759216F3A3C434FCA3" unit="page">
+<mods:start id="87AA3E9FF38809E3C902D3555DD543C2">73</mods:start>
+<mods:end id="1C68AFBBFAD90133D861626846DC18F0">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="4D9AB9AFDD8981B6D035941D161E8A18">book chapter</mods:classification>
+<mods:identifier id="BD46BE0EE6C8251DD291D456C5BE1DB3" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="B15DF099D8BCCF50CA2E84643951AB6C" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="D25C4364FC0DD2A6662E8EA4BC792B19" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFF7510E5E88A9CBFD27FB13" ID-DOI="http://doi.org/10.5281/zenodo.5157274" ID-GBIF-Taxon="184097839" ID-Zenodo-Dep="5157274" LSID="urn:lsid:plazi:treatment:D6388709FFF7510E5E88A9CBFD27FB13" httpUri="http://treatment.plazi.org/id/D6388709FFF7510E5E88A9CBFD27FB13" lastPageId="8" lastPageNumber="81" pageId="7" pageNumber="80">
+<subSubSection id="168B6594FFF751015E88A9CBFB31F92D" box="[467,1227,1681,1723]" pageId="7" pageNumber="80" type="nomenclature">
+<paragraph id="5E2E361FFFF751015E88A9CBFB31F92D" blockId="7.[465,1863,1681,2571]" box="[467,1227,1681,1723]" pageId="7" pageNumber="80">
+<heading id="05668173FFF751015E88A9CBFB31F92D" box="[467,1227,1681,1723]" fontSize="11" level="2" pageId="7" pageNumber="80" reason="2">
+<emphasis id="6CE5EA0DFFF751015E88A9CBFCD2F92D" bold="true" box="[467,808,1681,1723]" pageId="7" pageNumber="80">
+1. 
+<taxonomicName id="99914D9CFFF751015D54A9CBFCDBF92D" authority="Zimmerman, 1942" authorityName="Zimmerman" authorityYear="1942" box="[527,801,1681,1723]" class="Insecta" family="Curculionidae" genus="Viticis" kingdom="Animalia" order="Coleoptera" pageId="7" pageNumber="80" phylum="Arthropoda" rank="species" species="guamae" status="new species">Viticis guamae</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="77D65776FFF751015C6EA9CBFBFCF92D" box="[821,1030,1681,1723]" pageId="7" pageNumber="80" rank="species">new species</taxonomicNameLabel>
+(pl. 1, 
+<emphasis id="6CE5EA0DFFF751015BD4A9CBFB31F92D" box="[1167,1227,1681,1723]" italics="true" pageId="7" pageNumber="80">B).</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFF7510E5D4EA999FA08FCF7" lastPageId="8" lastPageNumber="81" pageId="7" pageNumber="80" type="description">
+<paragraph id="5E2E361FFFF751015D4EA999FC19F8CC" blockId="7.[465,1863,1681,2571]" pageId="7" pageNumber="80">Derm black, dulled by coarse reticulation, tarsi diluted with red, antennae amber colored (scales moderately dense, somewhat irregularly condensed on some areas, especially at base of pronotum and on sides of elytra near base and beyond middle, the scales oval, convex, solid, with a pearly luster.</paragraph>
+<paragraph id="5E2E361FFFF7510E5D4FA806FA08FCF7" blockId="7.[465,1863,1681,2571]" lastBlockId="8.[299,1698,333,1157]" lastPageId="8" lastPageNumber="81" pageId="7" pageNumber="80">
+<emphasis id="6CE5EA0DFFF751015D4FA806FD9DF816" box="[532,615,1884,1920]" italics="true" pageId="7" pageNumber="80">Head</emphasis>
+with crown finely punctate, setae fine, prostrate near top, becoming broader and more squamiform toward eyes; front broadly, shallowly, slightly or distinctly concave between eyes, the concavity extending well above level of tops of eyes in middle; eyes slightly longer than shortest distance between them, separated from prothorax by a distance about equal to two thirds of their length. 
+<emphasis id="6CE5EA0DFFF751015BB8A8ACFA93F78F" box="[1251,1385,2038,2073]" italics="true" pageId="7" pageNumber="80">Rostrmn</emphasis>
+straightly expanded on sides, sub A-shaped from base to apex, but with the epistome projecting and making middle two thirds of the otherwise truncate apex strongly convex, as broad across broadest apical part as length plus one half length of an eye; squamose on either side of front to antennae, thence coarsely reticulate and with scattered punctures, densely squamose on sides along fore margins of scrobes. 
+<emphasis id="6CE5EA0DFFF751015C2DA7ECFBFFF74F" box="[886,1029,2230,2265]" italics="true" pageId="7" pageNumber="80">Antennae</emphasis>
+with scape as long as funicle excluding club; first funicular segment about as broad as long, as long as 2 plus 3, 2 hardly longer than 3, 4 to 6 successively slightly broader; club but slightly longer than broad, as long as the preceding five funicular segments. 
+<emphasis id="6CE5EA0DFFF751015CA4A673FB65F6DD" box="[1023,1183,2345,2379]" italics="true" pageId="7" pageNumber="80">Prothora:i:</emphasis>
+four fifths as long as broad, apex slightly convex, base concave on either side of middle, but slightly arcuate on sides from base to apex, distance across base one fifth broader than that of apex; coarsely and densely punctate throughout; longitudinal dorsal contour evenly and slightly arcuate. 
+<emphasis id="6CE5EA0DFFF751015967A6C1F965F628" box="[1596,1695,2459,2494]" italics="true" pageId="7" pageNumber="80">Elytra.</emphasis>
+two thirds as broad as long, three times as long as the prothorax; longitudinal dorsal outline rising evenly from base to reach summit at or slightly behind middle; broadest at apical third, almost straightly and slightly expanded on the sides from the obtusely angulate humeri to apical third, lateral outline then constricted, then broadly rounded at apex; base convex on either side of bare scutellum; striae coarse, punctures coarse and as broad or broader than intervals basally, but becoming smaller and narrower than intervals distally, setae borne by punctures minute; in,tervals convex, the tenth costate behind. 
+<emphasis id="6CE5EA0DFFF8510E5AD5AEBDFA2DFD9F" box="[1422,1495,487,521]" italics="true" pageId="8" pageNumber="81">Legs</emphasis>
+with femora and tibiae rather densely clothed with elongate prostrate squamae; fore femora with strongly developed subtriangular tooth at basal fourth, apex of which is slightly bent distad, mid femora with two small tubercle-like teeth at about basal fourth, hind femora not toothed; fore and mid tibiae with a distinct tooth at inner apical angle and some small denticles along lower edge in apical half; third fore tarsal segment as broad as its length plus that of second segment. 
+<emphasis id="6CE5EA0DFFF8510E5C4FAD96FC6CFD79" box="[788,918,716,751]" italics="true" pageId="8" pageNumber="81">Stermmi</emphasis>
+with scattered squamae at sides only, otherwise bare; metasternum coarsely reticulate, almost impunctate except along coxal cavities and at sides. 
+<emphasis id="6CE5EA0DFFF8510E5E91AC42FDCBFCAD" box="[458,561,792,827]" italics="true" pageId="8" pageNumber="81">Venter</emphasis>
+almost entirely bare, with a few scattered setae, almost impunctate in middle; fifth ventrite with a small median fovea. Length, 
+<quantity id="99699BFAFFF8510E5BC7AC65FB08FCF7" box="[1180,1266,831,865]" metricMagnitude="-3" metricUnit="m" metricValue="2.0" pageId="8" pageNumber="81" unit="mm" value="2.0">2 mm</quantity>
+.; breadth, 
+<quantity id="99699BFAFFF8510E5AC2AC65FA14FCF7" box="[1433,1518,831,865]" metricMagnitude="-3" metricUnit="m" metricValue="1.0" pageId="8" pageNumber="81" unit="mm" value="1.0">1 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFF8510E5E37AC24FCF7FC48" pageId="8" pageNumber="81" type="materials_examined">
+<paragraph id="5E2E361FFFF8510E5E37AC24FCF7FC48" blockId="8.[299,1698,333,1157]" pageId="8" pageNumber="81">
+<materialsCitation id="EEF93C42FFF8510E5E37AC24FA5FFC3E" ID-GBIF-Occurrence="3333874351" box="[364,1445,894,936]" collectingDate="1936-08-22" collectorName="O. H. Swezey" country="Guam" location="Asan" pageId="8" pageNumber="81" specimenCount="1" typeStatus="holotype">
+<typeStatus id="812A88BDFFF8510E5E37AC24FDEBFC3E" box="[364,529,894,936]" pageId="8" pageNumber="81">Holotype</typeStatus>
+, sex not determined, 
+<collectingMunicipality id="BE4AAC65FFF8510E5CD4AC24FC16FC3E" box="[911,1004,894,936]" pageId="8" pageNumber="81">Asan</collectingMunicipality>
+, 
+<date id="2A2F10DFFFF8510E5B5AAC24FB01FC3E" box="[1025,1275,894,936]" pageId="8" pageNumber="81" value="1936-08-22">
+<collectingDate id="3A6BE937FFF8510E5B5AAC24FB01FC3E" box="[1025,1275,894,936]" pageId="8" pageNumber="81" value="1936-08-22">Aug. 22, 1936</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFF8510E5A49AC24FA64FC3E" LSID="urn:lsid:plazi:treatment:D6388709FFF7510E5E88A9CBFD27FB13:5B4E60C4FFF8510E5A49AC24FA64FC3E" box="[1298,1438,894,936]" municipality="Asan" name="Swezey" pageId="8" pageNumber="81">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFF8510E5AEFAC24FCF7FC48" ID-GBIF-Occurrence="3333874346" collectingDate="1936-05-05" collectorName="R. L. Usinger" country="Guam" location="Upi Trail" pageId="8" pageNumber="81" specimenCount="1" typeStatus="paratype">
+<specimenCount id="4897FD96FFF8510E5AEFAC24F962FC3E" box="[1460,1688,894,936]" pageId="8" pageNumber="81" type="generic">one paratype</specimenCount>
+, 
+<collectingMunicipality id="BE4AAC65FFF8510E5E77ACE9FE2DFC48" box="[300,471,947,990]" pageId="8" pageNumber="81">Upi Trail</collectingMunicipality>
+, 
+<date id="2A2F10DFFFF8510E5EB5ACE9FD9AFC48" box="[494,608,947,990]" pageId="8" pageNumber="81">
+<collectingDate id="3A6BE937FFF8510E5EB5ACE9FD9AFC48" box="[494,608,947,990]" pageId="8" pageNumber="81">May 5</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFF8510E5D2DACE9FCF2FC48" LSID="urn:lsid:plazi:treatment:D6388709FFF7510E5E88A9CBFD27FB13:5B4E60C4FFF8510E5D2DACE9FCF2FC48" box="[630,776,947,990]" municipality="Upi Trail" name="Usinger" pageId="8" pageNumber="81">Usinger</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFF8510E5E31ACB5FD27FB13" pageId="8" pageNumber="81" type="discussion">
+<paragraph id="5E2E361FFFF8510E5E31ACB5FD27FB13" blockId="8.[299,1698,333,1157]" pageId="8" pageNumber="81">
+This species may perhaps be distinguished from the genotype most readily by its lack of conspicuous asperate callosities above the eyes. It is distinct from any other 
+<collectingCountry id="2686768FFFF8510E5EB6AB07FDAEFB13" box="[493,596,1117,1157]" name="Guam" pageId="8" pageNumber="81">Guam</collectingCountry>
+weevil.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

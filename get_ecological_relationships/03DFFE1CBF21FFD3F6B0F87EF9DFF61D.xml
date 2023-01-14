@@ -1,0 +1,85 @@
+<document id="30F7BA92893E9AFDB9CB2BBD6E5AF2F6" ID-DOI="http://doi.org/10.5281/zenodo.5159783" ID-GBIF-Dataset="204ef7e8-5ba9-4591-8275-598a53611feb" ID-Zenodo-Dep="5159783" checkinTime="1628013562991" checkinUser="carolina" docAuthor="Cadwell, J. S." docDate="1942" docId="03DFFE1CBF21FFD3F6B0F87EF9DFF61D" docLanguage="en" docName="InsectsOfGuamI.172.20-22.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 172" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Trioza guama Cadwell, 1942, new species" docType="treatment" docVersion="8" lastPageNumber="22" masterDocId="FFE68664BF23FFD1F70BFF81FFA1FFE4" masterDocTitle="Psyllidae from Guam" masterLastPageNumber="22" masterPageNumber="20" pageNumber="22" updateTime="1658168962804" updateUser="annettekang">
+<mods:mods id="0EE29C6CC44DD65A1A5E9330938D1F9A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="DD2C6B051C5EEDB98C3E1A52345C3360">
+<mods:title id="8B3BD1F1808ECF4E86967EC26079A941">Psyllidae from Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="9EADF85671B49E8692C1693F80E3FB9B" type="personal">
+<mods:role id="A061CEEE2918442837947105F61242E8">
+<mods:roleTerm id="38C9D7BA83FDDFAC94FE1FBD419C5503">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="6520ED685B67D166D1B5A18027E7CB43">Cadwell, J. S.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="0175959CABD1BC423304E5DF76BC30C3">text</mods:typeOfResource>
+<mods:relatedItem id="BDA8D694F4C82D2AF4E9F7FE25D69D8B" type="host">
+<mods:originInfo id="75AE5DEC84928D49BF113D1E56A72E83">
+<mods:dateIssued id="CFD10378F864A3D4E1701A2C51011D51">1942</mods:dateIssued>
+<mods:dateOther id="F5C6586715CE3300597B3A3DFA64B698" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="37B2003346492B50FF3A50FE6E01103D">Bernice P. Bishop Museum Bulletin 172</mods:publisher>
+<mods:place id="6A95060C6A3087691FC4BD814BD62C97">
+<mods:placeTerm id="DDA43ECD6C79221038E2E2F80D5D2AC1">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="D48A0C95FCF4BF027FCB663C2EB63F68">
+<mods:title id="8EA586A11AFF0EC75B5BC03C434A74C8">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="05A21D07A6D7ACB80025BEA81D4F9BC8">
+<mods:extent id="B8244D570405F5CFEB389D7707A76B4D" unit="page">
+<mods:start id="0745E25CF3931E040E985D20B2048642">20</mods:start>
+<mods:end id="E82D867330F319432099DA9DD74803F1">22</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="ED03253908DFC445A5BDF79FD693219A">book chapter</mods:classification>
+<mods:identifier id="F2F9B67D158A38D4FABCD2786F76F77D" type="DOI">http://doi.org/10.5281/zenodo.5159783</mods:identifier>
+<mods:identifier id="153791C087ED6048DAC4A6A4922466AB" type="GBIF-Dataset">204ef7e8-5ba9-4591-8275-598a53611feb</mods:identifier>
+<mods:identifier id="DEE356B3EA0BA6489C37700DBCC3F85F" type="Zenodo-Dep">5159783</mods:identifier>
+</mods:mods>
+<treatment id="03DFFE1CBF21FFD3F6B0F87EF9DFF61D" ID-DOI="http://doi.org/10.5281/zenodo.5156839" ID-GBIF-Taxon="183919451" ID-Zenodo-Dep="5156839" LSID="urn:lsid:plazi:treatment:03DFFE1CBF21FFD3F6B0F87EF9DFF61D" httpUri="http://treatment.plazi.org/id/03DFFE1CBF21FFD3F6B0F87EF9DFF61D" lastPageNumber="22" pageId="2" pageNumber="22">
+<subSubSection id="C36C1C81BF21FFD3F6B0F87EFC4CF7C3" box="[443,1005,2047,2087]" pageId="2" pageNumber="22" type="nomenclature">
+<paragraph id="8BC94F0ABF21FFD3F6B0F87EFC4CF7C3" blockId="2.[443,1842,1981,2553]" box="[443,1005,2047,2087]" pageId="2" pageNumber="22">
+<heading id="D081F866BF21FFD3F6B0F87EFC4CF7C3" box="[443,1005,2047,2087]" fontSize="11" level="2" pageId="2" pageNumber="22" reason="2">
+<emphasis id="B9029318BF21FFD3F6B0F87EFCA1F7C3" bold="true" box="[443,768,2047,2087]" pageId="2" pageNumber="22">
+6. 
+<taxonomicName id="4C763489BF21FFD3F6F2F87EFD58F7C3" authorityName="Caldwell" authorityYear="1942" box="[505,761,2047,2087]" class="Insecta" family="Triozidae" genus="Trioza" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="22" phylum="Arthropoda" rank="species" species="guama" status="new species">Trioza guama</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="A2312E63BF21FFD3F41BF87EFC49F7C3" box="[784,1000,2047,2087]" pageId="2" pageNumber="22" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C36C1C81BF21FFD3F50BF7B1F88EF663" pageId="2" pageNumber="22" type="description">
+<paragraph id="8BC94F0ABF21FFD3F50BF7B1F88EF663" blockId="2.[443,1842,1981,2553]" pageId="2" pageNumber="22">
+General color; body entirely black except ventral sclerites of abdomen narrowly edged with ivory; antennae light yellow except first and last two segments black; genal cones white; tibiae and tarsi light yellowish. Vertex scarcely deflexed; hind margin not concave. Genal cones about one fourth as long as vertex, blunt, slightly divergent, greatly lowered from but parallel to the plane of the vertex. Antennae longer than width of head. Head almost as broad as thorax; eyes prominent. Thorax not arched. Forewing little over twice as long as broad; veins not setose; radial sector short, curved toward costa; marginal cells subequal. Posterior spurs present on metacoxa; hind tibia with no basal spur but with apical ratio of 2-1. Length to tip of forewing, 2.5 mm.; forewing 
+<quantity id="4C8EE2EFBF21FFD3F1C4F6E2F88AF663" box="[1743,1835,2403,2439]" metricMagnitude="-3" metricUnit="m" metricValue="2.0" pageId="2" pageNumber="22" unit="mm" value="2.0">2 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C36C1C81BF21FFD3F6F5F61DF9DFF61D" pageId="2" pageNumber="22" type="materials_examined">
+<paragraph id="8BC94F0ABF21FFD3F6F5F61DF9DFF61D" blockId="2.[443,1842,1981,2553]" pageId="2" pageNumber="22">
+<materialsCitation id="3B1E4557BF21FFD3F6F5F61DF9D8F61D" ID-GBIF-Occurrence="3331244304" collectedFrom="on Glochidion marianum" collectingDate="1936-08-18" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="22" specimenCount="1" typeStatus="holotype">
+Piti, 
+<date id="FFC869CABF21FFD3F552F61DFD48F622" box="[601,745,2460,2502]" pageId="2" pageNumber="22" value="2018-08">
+<collectingDate id="EF8C9022BF21FFD3F552F61DFD48F622" box="[601,745,2460,2502]" pageId="2" pageNumber="22" value="2018-08">Aug. 18</collectingDate>
+</date>
+, 
+<collectedFrom id="386A0CF7BF21FFD3F40AF61DFC58F622" box="[769,1017,2460,2502]" pageId="2" pageNumber="22">
+on 
+<taxonomicName id="4C763489BF21FFD3F435F61DFC58F622" box="[830,1017,2460,2502]" class="Magnoliopsida" family="Phyllanthaceae" genus="Glochidion" kingdom="Plantae" order="Malpighiales" pageId="2" pageNumber="22" phylum="Tracheophyta" rank="genus">
+<emphasis id="B9029318BF21FFD3F435F61DFC58F622" box="[830,1017,2460,2502]" italics="true" pageId="2" pageNumber="22">Glochidion</emphasis>
+</taxonomicName>
+</collectedFrom>
+marianimi, Swezey, 
+<typeStatus id="54CDF1A8BF21FFD3F278F61DF9A9F622" box="[1395,1544,2460,2502]" pageId="2" pageNumber="22">holotype</typeStatus>
+male. 
+<location id="8EA919D1BF21FFD3F185F61DF915F622" LSID="urn:lsid:plazi:treatment:03DFFE1CBF21FFD3F6B0F87EF9DFF61D:8EA919D1BF21FFD3F185F61DF915F622" box="[1678,1716,2460,2502]" county="Hawaiian Sugar Planters' Association" municipality="Experiment Station" name="In" pageId="2" pageNumber="22">In</location>
+collection of 
+<collectingMunicipality id="6BADD570BF21FFD3F541F64EFC0FF61D" box="[586,942,2511,2553]" pageId="2" pageNumber="22">Experiment Station</collectingMunicipality>
+, 
+<collectingCounty id="62A83786BF21FFD3F4CCF64EF9D8F61D" box="[967,1657,2511,2553]" pageId="2" pageNumber="22">Hawaiian Sugar Planters' Association</collectingCounty>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,220 @@
+<document id="992E0961488F5057871EC64F2D8BF535" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E949FFA3FEF1863197F704CC" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Heliothis armigera" docType="treatment" docVersion="19" lastPageNumber="165" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="165" updateTime="1669841625929" updateUser="ExternalLinkService">
+<mods:mods id="FF81C1D40D85C8CF115EC3B6056FC2D6" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="4A6A6F49A57FABDA846B712395D38CA5">
+<mods:title id="6D8C3699422E97E1E942DA46D5A94B35">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="F33FC3D92C8B5BA1EEE22D8E5B733D85" type="personal">
+<mods:role id="9884B6920CDA4D557AF971C1F4002EF6">
+<mods:roleTerm id="76B383B083BD613EB1B09C6AB3980D8D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="13D4184003B82AAE2ABABAD9E305533C">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="1ED51F3CC08A7BE1F9EDAA7F3415A21A">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="510C0BF7F82ECA54E9FAD0F8BB8038E2">text</mods:typeOfResource>
+<mods:relatedItem id="EAB7F1F0CF88D65CC8195F0E48449213" type="host">
+<mods:originInfo id="8477C2137AF4562BE7B0ED69D2EB9588">
+<mods:dateIssued id="7BE1BCB871448D89155BACDCE9504168">1946</mods:dateIssued>
+<mods:dateOther id="15B3C6E2F5E7CCF808CFF7712DCC94BD" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="8C49D8955D41CBF80580CAA33AE5D320">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="A54CE93D0C72B3A5C20D96677EF2EE35">
+<mods:placeTerm id="15D2967A5C1377F8DEC6D7FFED3DFEFC">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="F05940DC33A3CF492BEC2AB1B49D3E1A">
+<mods:title id="944F815169AAB0F0C064D3CF8598D7B1">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="1B23A958B2DEC5136A0852C5547E4C6B">
+<mods:extent id="0B05773C30B4991050D82906EE12CEB4" unit="page">
+<mods:start id="2BCD46E57E3ABD01BEA3E11327A93073">163</mods:start>
+<mods:end id="B6B9CF06702A2852DCFB56F5EDE48298">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="BDFAE9BB9B7E646CE37F67E5F75F7D56">book chapter</mods:classification>
+<mods:identifier id="9538FECB1C0505D4A0D87A016B012500" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="3884653A02C2ED6A80F2C0375BC4E4A9" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="2B6E78D14A0BA47E3345B9DA9620852C" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E949FFA3FEF1863197F704CC" ID-DOI="http://doi.org/10.5281/zenodo.5222714" ID-GBIF-Taxon="183926954" ID-Zenodo-Dep="5222714" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF1863197F704CC" httpUri="http://treatment.plazi.org/id/03B387B8E949FFA3FEF1863197F704CC" lastPageNumber="165" pageId="2" pageNumber="165">
+<subSubSection id="C3006525E949FFA3FEF1863191DE077A" box="[318,936,1036,1077]" pageId="2" pageNumber="165" type="nomenclature">
+<paragraph id="8BA536AEE949FFA3FEF1863191DE077A" blockId="2.[309,1717,1036,1923]" box="[318,936,1036,1077]" pageId="2" pageNumber="165">
+<heading id="D0ED81C2E949FFA3FEF1863191DE077A" box="[318,936,1036,1077]" fontSize="11" level="2" pageId="2" pageNumber="165" reason="2">
+<emphasis id="B96EEABCE949FFA3FEF18631932F077A" bold="true" box="[318,345,1036,1077]" pageId="2" pageNumber="165">1.</emphasis>
+<taxonomicName id="4C1A4D2DE949FFA3FEB4863191D4077A" authority="(Hubner)" baseAuthorityName="Hubner" baseAuthorityYear="1808" box="[379,930,1036,1077]" class="Insecta" family="Noctuidae" genus="Heliothis" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="2" pageNumber="165" phylum="Arthropoda" rank="species" species="armigera">
+<emphasis id="B96EEABCE949FFA3FEB4863190AF077A" bold="true" box="[379,729,1036,1077]" pageId="2" pageNumber="165">Heliothis armigera</emphasis>
+(Hubner)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E949FFA3FEB4860397230609" pageId="2" pageNumber="165" type="description">
+<paragraph id="8BA536AEE949FFA3FEB48603900E07D2" blockId="2.[309,1717,1036,1923]" pageId="2" pageNumber="165">
+<treatmentCitationGroup id="AB0A1180E949FFA3FEB48603900E07D2" pageId="2" pageNumber="165">
+<bibCitation id="5E303EC2E949FFA3FEB48603900E07D2" author="Hubner" pageId="2" pageNumber="165" refId="ref1097" title="Europ. Schmett." type="book" year="1939">
+<treatmentCitation id="0ABB10BFE949FFA3FEB48603900507D2" author="Hübner" page="79" pageId="2" pageNumber="165" year="1808">
+<emphasis id="B96EEABCE949FFA3FEB4860390DA0726" box="[379,684,1086,1129]" italics="true" pageId="2" pageNumber="165">Noctua armigera</emphasis>
+<author id="53A7DE4BE949FFA3FD728603913F0726" box="[701,841,1086,1129]" pageId="2" pageNumber="165">Hubner</author>
+, 
+<title id="F91EDD98E949FFA3FCAC860396FA0726" box="[867,1164,1086,1129]" pageId="2" pageNumber="165">Europ. Schmett.</title>
+, Tab. Noctua, pl. 79, fig. 
+<emphasis id="B96EEABCE949FFA3F9A3860394C40726" bold="true" box="[1644,1714,1086,1129]" pageId="2" pageNumber="165">370,</emphasis>
+1802-1808
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE949FFA3FEB4869090600645" blockId="2.[309,1717,1036,1923]" pageId="2" pageNumber="165">
+<treatmentCitationGroup id="AB0A1180E949FFA3FEB4869090600645" pageId="2" pageNumber="165">
+<bibCitation id="5E303EC2E949FFA3FEB4869090600645" author="Hampson" pageId="2" pageNumber="165" pagination="174" refId="ref1122" title="Fauna Brit. India, Moths 2" type="journal volume" year="1894">
+<emphasis id="B96EEABCE949FFA3FEB4869090A10798" box="[379,727,1197,1239]" italics="true" pageId="2" pageNumber="165">Heliothis armigera,</emphasis>
+<treatmentCitation id="0ABB10BFE949FFA3FD24869090670645" author="Hampson" page="174" pageId="2" pageNumber="165" year="1894">
+<author id="53A7DE4BE949FFA3FD24869091EE0798" box="[747,920,1197,1239]" pageId="2" pageNumber="165">Hampson</author>
+, 
+<title id="F91EDD98E949FFA3FC7C869097D20798" box="[947,1444,1197,1239]" pageId="2" pageNumber="165">
+Fauna Brit. 
+<collectingCountry id="F30D763EE949FFA3FB558690968E0798" box="[1178,1272,1197,1239]" name="India" pageId="2" pageNumber="165">India</collectingCountry>
+, Moths 2
+</title>
+: 
+<pagination id="B2D3C85AE949FFA3FA048690947F0798" box="[1483,1545,1197,1239]" pageId="2" pageNumber="165">174</pagination>
+, fig. 114, 
+<year id="FFB277FDE949FFA3FE7286DF90670645" box="[445,529,1250,1290]" pageId="2" pageNumber="165">1894</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE949FFA3FEB3872197230609" blockId="2.[309,1717,1036,1923]" box="[380,1365,1308,1350]" pageId="2" pageNumber="165">
+<treatmentCitationGroup id="AB0A1180E949FFA3FEB3872197230609" box="[380,1365,1308,1350]" pageId="2" pageNumber="165">
+<bibCitation id="5E303EC2E949FFA3FEB3872197230609" author="Tams" box="[380,1365,1308,1350]" journalOrPublisher="Ins. Samoa" pageId="2" pageNumber="165" pagination="196" part="3" refId="ref1143" type="journal article" year="1935">
+<emphasis id="B96EEABCE949FFA3FEB3872190A50609" box="[380,723,1308,1350]" italics="true" pageId="2" pageNumber="165">Heliothis armigera,</emphasis>
+<treatmentCitation id="0ABB10BFE949FFA3FD2D872197230609" author="Tams" box="[738,1365,1308,1350]" page="196" pageId="2" pageNumber="165" year="1935">
+<author id="53A7DE4BE949FFA3FD2D8721913F0609" box="[738,841,1308,1350]" pageId="2" pageNumber="165">Tams</author>
+, 
+<journalOrPublisher id="51DB3C62E949FFA3FCAF872196510609" box="[864,1063,1308,1350]" pageId="2" pageNumber="165">
+Ins. 
+<collectingCountry id="F30D763EE949FFA3FC7B872196510609" box="[948,1063,1308,1350]" name="Samoa" pageId="2" pageNumber="165">Samoa</collectingCountry>
+</journalOrPublisher>
+<part id="FFBE9C33E949FFA3FBFA8721963C0609" box="[1077,1098,1308,1350]" pageId="2" pageNumber="165" type="volume">3</part>
+(
+<part id="FFBE9C33E949FFA3FB98872196060609" box="[1111,1136,1308,1350]" pageId="2" pageNumber="165" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE949FFA3FB67872196900609" box="[1192,1254,1308,1350]" pageId="2" pageNumber="165" type="pagination">196</pagination>
+, 
+<year id="FFB277FDE949FFA3FB32872197260609" box="[1277,1360,1308,1350]" pageId="2" pageNumber="165">1935</year>
+.
+</treatmentCitation>
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E949FFA3FEB0876591D50554" pageId="2" pageNumber="165" type="description">
+<paragraph id="8BA536AEE949FFA3FEB0876591D50554" blockId="2.[309,1717,1036,1923]" pageId="2" pageNumber="165">
+<materialsCitation id="3B723CF3E949FFA3FEB08765910A06CC" ID-GBIF-Occurrence="3332081343" box="[383,892,1368,1411]" collectingDate="1936-06-15" collectorName="O. H. Swezey" country="Guam" location="Sinajana" pageId="2" pageNumber="165">
+<location id="8EC56075E949FFA3FEB08765906B06CC" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF1863197F704CC:8EC56075E949FFA3FEB08765906B06CC" box="[383,541,1368,1411]" pageId="2" pageNumber="165">Sinajana</location>
+, 
+<date id="FFA4106EE949FFA3FDF7876590BC06CC" box="[568,714,1368,1411]" pageId="2" pageNumber="165" value="2015-06">
+<collectingDate id="EFE0E986E949FFA3FDF7876590BC06CC" box="[568,714,1368,1411]" pageId="2" pageNumber="165" value="2015-06">June 15</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E949FFA3FD278765910306CC" box="[744,885,1368,1411]" pageId="2" pageNumber="165">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E949FFA3FC5D8765942206CC" ID-GBIF-Occurrence="3332081345" box="[914,1620,1368,1411]" collectingDate="1936-06-30" collectorName="R. L. Usinger and O. H. Swezey" country="Guam" location="Machanao" pageId="2" pageNumber="165">
+<collectingMunicipality id="6BC1ACD4E949FFA3FC5D8765963F06CC" box="[914,1097,1368,1411]" pageId="2" pageNumber="165">Machanao</collectingMunicipality>
+, 
+<date id="FFA4106EE949FFA3FBAA8765968E06CC" box="[1125,1272,1368,1411]" pageId="2" pageNumber="165" value="1930-06">
+<collectingDate id="EFE0E986E949FFA3FBAA8765968E06CC" box="[1125,1272,1368,1411]" pageId="2" pageNumber="165" value="1930-06">June 30</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E949FFA3FADA876597ED06CC" box="[1301,1435,1368,1411]" pageId="2" pageNumber="165">Swezey</collectorName>
+, 
+<location id="8EC56075E949FFA3FA798765943B06CC" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF1863197F704CC:8EC56075E949FFA3FA798765943B06CC" box="[1462,1613,1368,1411]" pageId="2" pageNumber="165">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E949FFA3F9A58765914106F9" ID-GBIF-Occurrence="3332081311" collectedFrom="at light" collectingDate="1936-07-26" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="165">
+<location id="8EC56075E949FFA3F9A5876594DB06CC" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF1863197F704CC:8EC56075E949FFA3F9A5876594DB06CC" box="[1642,1709,1368,1411]" pageId="2" pageNumber="165">
+<collectingMunicipality id="6BC1ACD4E949FFA3F9A5876594DB06CC" box="[1642,1709,1368,1411]" pageId="2" pageNumber="165">Piti</collectingMunicipality>
+</location>
+, at light, 
+<date id="FFA4106EE949FFA3FE2287B7900906F9" box="[493,639,1418,1462]" pageId="2" pageNumber="165" value="1926-07">
+<collectingDate id="EFE0E986E949FFA3FE2287B7900906F9" box="[493,639,1418,1462]" pageId="2" pageNumber="165" value="1926-07">July 26</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E949FFA3FD6C87B7914606F9" box="[675,816,1418,1462]" pageId="2" pageNumber="165">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E949FFA3FC9D87B7972806F9" ID-GBIF-Occurrence="3332081347" box="[850,1374,1418,1462]" collectingDate="1936-08-12" collectorName="O. H. Swezey" country="Guam" location="Libugon" pageId="2" pageNumber="165">
+<location id="8EC56075E949FFA3FC9D87B7919F06F9" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF1863197F704CC:8EC56075E949FFA3FC9D87B7919F06F9" box="[850,1001,1418,1462]" pageId="2" pageNumber="165">Libugon</location>
+, 
+<date id="FFA4106EE949FFA3FBC487B796D106F9" box="[1035,1191,1418,1462]" pageId="2" pageNumber="165" value="2012-08">
+<collectingDate id="EFE0E986E949FFA3FBC487B796D106F9" box="[1035,1191,1418,1462]" pageId="2" pageNumber="165" value="2012-08">Aug. 12</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E949FFA3FB0487B7972106F9" box="[1227,1367,1418,1462]" pageId="2" pageNumber="165">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E949FFA3FAB687B793A306A7" ID-GBIF-Occurrence="3332081388" collectingDate="1936-09-07" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="2" pageNumber="165">
+<location id="8EC56075E949FFA3FAB687B7947406F9" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF1863197F704CC:8EC56075E949FFA3FAB687B7947406F9" box="[1401,1538,1418,1462]" pageId="2" pageNumber="165">
+<collectingMunicipality id="6BC1ACD4E949FFA3FAB687B7947406F9" box="[1401,1538,1418,1462]" pageId="2" pageNumber="165">Dededo</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE949FFA3F9E987B794DA06F9" box="[1574,1708,1418,1462]" pageId="2" pageNumber="165">
+<collectingDate id="EFE0E986E949FFA3F9E987B794DA06F9" box="[1574,1708,1418,1462]" pageId="2" pageNumber="165">Sept. 7</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E949FFA3FE8E878393B806A7" box="[321,462,1470,1512]" pageId="2" pageNumber="165">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E949FFA3FE26878391F206A7" ID-GBIF-Occurrence="3970494305" box="[489,900,1470,1512]" collectingDate="1936-09-14" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="165">
+<location id="8EC56075E949FFA3FE268783905A06A7" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF1863197F704CC:8EC56075E949FFA3FE268783905A06A7" box="[489,556,1470,1512]" pageId="2" pageNumber="165">
+<collectingMunicipality id="6BC1ACD4E949FFA3FE268783905A06A7" box="[489,556,1470,1512]" pageId="2" pageNumber="165">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE949FFA3FD87878390AB06A7" box="[584,733,1470,1512]" pageId="2" pageNumber="165" value="2014-09">
+<collectingDate id="EFE0E986E949FFA3FD87878390AB06A7" box="[584,733,1470,1512]" pageId="2" pageNumber="165" value="2014-09">Sept. 14</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E949FFA3FD378783910906A7" box="[760,895,1470,1512]" pageId="2" pageNumber="165">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="3B723CF3E949FFA3FC6D8783979306A7" ID-GBIF-Occurrence="3970494312" box="[930,1509,1470,1512]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="2" pageNumber="165" specimenCount="1">
+One at 
+<collectingCountry id="F30D763EE949FFA3FBE0878396F906A7" box="[1071,1167,1470,1512]" name="United States of America" pageId="2" pageNumber="165">U. S.</collectingCountry>
+<location id="8EC56075E949FFA3FB6B8783979306A7" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF1863197F704CC:8EC56075E949FFA3FB6B8783979306A7" box="[1188,1509,1470,1512]" pageId="2" pageNumber="165">National Museum</location>
+</materialsCitation>
+<materialsCitation id="3B723CF3E949FFA3FA38878391D50554" ID-GBIF-Occurrence="3913642325" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Bishop Museum" pageId="2" pageNumber="165">
+and one at 
+<collectingMunicipality id="6BC1ACD4E949FFA3FE8F87CD901F0554" box="[320,617,1520,1563]" pageId="2" pageNumber="165">Bishop Museum</collectingMunicipality>
+, 
+<location id="8EC56075E949FFA3FD4887CD915A0554" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF1863197F704CC:8EC56075E949FFA3FD4887CD915A0554" box="[647,812,1520,1563]" pageId="2" pageNumber="165">Fullaway</location>
+, 1911.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E949FFA3FEB1841797F704CC" pageId="2" pageNumber="165" type="description">
+<paragraph id="8BA536AEE949FFA3FEB1841797F704CC" blockId="2.[309,1717,1036,1923]" pageId="2" pageNumber="165">
+<materialsCitation id="3B723CF3E949FFA3FEB184179422051A" ID-GBIF-Occurrence="3913642331" box="[382,1620,1578,1621]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="2" pageNumber="165">
+This cosmopolitan pest was recorded in 
+<collectingCountry id="F30D763EE949FFA3FBAE841796BE051A" box="[1121,1224,1578,1621]" name="Guam" pageId="2" pageNumber="165">Guam</collectingCountry>
+by 
+<location id="8EC56075E949FFA3FAD8841797CC051A" LSID="urn:lsid:plazi:treatment:03B387B8E949FFA3FEF1863197F704CC:8EC56075E949FFA3FAD8841797CC051A" box="[1303,1466,1578,1621]" pageId="2" pageNumber="165">Fullaway</location>
+in 1911
+</materialsCitation>
+. We found it to be the worst pest of corn, many of the ears being attacked by one to three caterpillars. A few caterpillars could always.be found on tobacco, and an occasional one on faro. Most of our specimens were reared. In the 'citation above, Tams gives reasons why the name 
+<taxonomicName id="4C1A4D2DE949FFA3FB1184C894470451" baseAuthorityName="Hubner" baseAuthorityYear="1808" box="[1246,1585,1781,1822]" class="Insecta" family="Noctuidae" genus="Heliothis" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="2" pageNumber="165" phylum="Arthropoda" rank="species" species="armigera">
+<emphasis id="B96EEABCE949FFA3FB1184C894470451" box="[1246,1585,1781,1822]" italics="true" pageId="2" pageNumber="165">Heliothis armigera</emphasis>
+</taxonomicName>
+should be used for this cosmopolitan pest. He says: &quot;It is to be hoped that nothing 
+<emphasis id="B96EEABCE949FFA3FEF08561930904CC" bold="true" box="[319,383,1884,1923]" pageId="2" pageNumber="165">will</emphasis>
+occur to disturb further the name 
+<emphasis id="B96EEABCE949FFA3FBDE856197F704CC" box="[1041,1409,1884,1923]" italics="true" pageId="2" pageNumber="165">
+<taxonomicName id="4C1A4D2DE949FFA3FBDE8561971904CC" baseAuthorityName="Hubner" baseAuthorityYear="1808" box="[1041,1391,1884,1923]" class="Insecta" family="Noctuidae" genus="Heliothis" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="2" pageNumber="165" phylum="Arthropoda" rank="species" species="armigera">Heliothis armigera</taxonomicName>
+.&quot;
+</emphasis>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

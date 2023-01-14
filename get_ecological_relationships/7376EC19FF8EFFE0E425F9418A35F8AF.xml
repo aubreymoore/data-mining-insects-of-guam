@@ -1,0 +1,95 @@
+<document id="66612245367A4C93CCDD67D7C14E2CC6" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8EFFE0E425F9418A35F8AF" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Elasmus philippinensis Ashmead" docType="treatment" docVersion="15" lastPageNumber="215" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="215" updateTime="1663769165332" updateUser="annettekang">
+<mods:mods id="1E3F0A72621AF8802964F454FD171CE9" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="E7DFC2575972A14E190D1BEC8450A63F">
+<mods:title id="15D13069CEBC7D1CE73BF41089F442CA">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="A54D9CB7B01B99BCA4139D73840A0B84" type="personal">
+<mods:role id="F637078006EDAF13ABB3663314DC9307">
+<mods:roleTerm id="F35158D877C9B122CCA3E1E0397BA531">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="50337B5EA69D45382B30EF0B863F7DF9">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="D4F2F93AFE9A651F35C83B2DFA0364D4">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="099B9FD6E1E34A46BC8B570779301D59">text</mods:typeOfResource>
+<mods:relatedItem id="F5DA0414113532338491D6C951F54909" type="host">
+<mods:originInfo id="13777DF82FE9ACD57DB44AB14331A971">
+<mods:dateIssued id="04875803A51BEC6917D615DB5FE72CFC">1946</mods:dateIssued>
+<mods:dateOther id="18787BB1BED4FE0D12E84A7ED14DD439" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="2D54D9DBE870E9448B31BBD7E9C9C865">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="04DE2AFBF9B673FBF19A676B336C6F72">
+<mods:placeTerm id="B771687D204DAFD21609306D24BFE4F9">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="88BA8DA9A98384B267F5A974EEF202AB">
+<mods:title id="04B7C3D0FE98240317D351C468C10E4B">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="F5981AC17A03AF09D2073CDC719F363C">
+<mods:extent id="756653C0585A62256266940E48FD4125" unit="page">
+<mods:start id="188E126CEBD4461EAD8DC34A3DB53841">211</mods:start>
+<mods:end id="F0BFFC5E659FBF9C13816B6FC9FD5F55">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F1A9ED78FC6654827D6B65BAA85E8073">book chapter</mods:classification>
+<mods:identifier id="138E6C0BF3D7A5CD0E6A3D38AE936CE7" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="69C5F5730CFEEC21ADBB8442435A980B" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="458B90B933BC3C3A66BB55741485DBDD" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8EFFE0E425F9418A35F8AF" ID-DOI="http://doi.org/10.5281/zenodo.5212011" ID-GBIF-Taxon="187737404" ID-Zenodo-Dep="5212011" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E425F9418A35F8AF" httpUri="http://treatment.plazi.org/id/7376EC19FF8EFFE0E425F9418A35F8AF" lastPageNumber="215" pageId="4" pageNumber="215">
+<subSubSection id="B3C50E84FF8EFFE0E425F9418CBAF8CA" box="[294,996,1773,1816]" pageId="4" pageNumber="215" type="nomenclature">
+<paragraph id="FB605D0FFF8EFFE0E425F9418CBAF8CA" blockId="4.[294,1691,1706,1917]" box="[294,996,1773,1816]" pageId="4" pageNumber="215">
+<heading id="A028EA63FF8EFFE0E425F9418CBAF8CA" box="[294,996,1773,1816]" centered="true" fontSize="8" level="2" pageId="4" pageNumber="215" reason="4">
+<emphasis id="C9AB811DFF8EFFE0E425F9418E07F8CA" bold="true" box="[294,345,1773,1816]" pageId="4" pageNumber="215">33.</emphasis>
+<taxonomicName id="3CDF268CFF8EFFE0E479F9418C80F8CA" authority="Ashmead" box="[378,990,1773,1816]" class="Insecta" family="Elasmidae" genus="Elasmus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="215" phylum="Arthropoda" rank="species" species="philippinensis">
+<emphasis id="C9AB811DFF8EFFE0E479F9418C7EF8CA" bold="true" box="[378,800,1773,1816]" pageId="4" pageNumber="215">Elasmus philippinensis</emphasis>
+<author id="2362B5EAFF8EFFE0E632F9418C80F8CA" box="[817,990,1773,1816]" pageId="4" pageNumber="215">Ashmead</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8EFFE0E6F7F94189C5F8CA" box="[1012,1691,1773,1816]" pageId="4" pageNumber="215" type="reference_group">
+<paragraph id="FB605D0FFF8EFFE0E6F7F94189C5F8CA" blockId="4.[294,1691,1706,1917]" box="[1012,1691,1773,1816]" pageId="4" pageNumber="215">
+<treatmentCitationGroup id="DBCF7A21FF8EFFE0E6F7F94189C5F8CA" box="[1012,1691,1773,1816]" pageId="4" pageNumber="215">
+<treatmentCitation id="7A7E7B1EFF8EFFE0E6F7F94189C5F8CA" author="Ashmead" box="[1012,1691,1773,1816]" page="138" pageId="4" pageNumber="215" year="1904">
+<bibCitation id="2EF55563FF8EFFE0E6F7F94189C5F8CA" author="Ashmead" box="[1012,1691,1773,1816]" journalOrPublisher="U. S. Nat. Mus., Proc." pageId="4" pageNumber="215" pagination="138" part="28" refId="ref2062" type="journal article" year="1904">
+<journalOrPublisher id="211E57C3FF8EFFE0E6F7F9418ACFF8CA" box="[1012,1425,1773,1816]" pageId="4" pageNumber="215">U. S. Nat. Mus., Proc.</journalOrPublisher>
+<emphasis id="C9AB811DFF8EFFE0E0A1F9418A85F8CA" bold="true" box="[1442,1499,1773,1816]" pageId="4" pageNumber="215">
+<part id="8F7BF792FF8EFFE0E0A1F9418A8BF8CA" box="[1442,1493,1773,1816]" pageId="4" pageNumber="215" type="volume">28</part>
+:
+</emphasis>
+<pagination id="C216A3FBFF8EFFE0E0E8F9418976F8CA" box="[1515,1576,1773,1816]" pageId="4" pageNumber="215" type="pagination">138</pagination>
+, 
+<year id="8F771C5CFF8EFFE0E340F94189C8F8CA" box="[1603,1686,1773,1816]" pageId="4" pageNumber="215">1904</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8EFFE0E466F88D8A35F8AF" pageId="4" pageNumber="215" type="materials_examined">
+<paragraph id="FB605D0FFF8EFFE0E466F88D8A35F8AF" blockId="4.[294,1691,1706,1917]" pageId="4" pageNumber="215">
+<materialsCitation id="4BB75752FF8EFFE0E466F88D8A35F8AF" ID-GBIF-Occurrence="3901040404" collectingDate="1911-07-24" collectorName="D. T. Fullaway" country="Guam" location="Piti" pageId="4" pageNumber="215" specimenCount="1">
+<location id="FE000BD4FF8EFFE0E466F88D8D52F899" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E425F9418A35F8AF:FE000BD4FF8EFFE0E466F88D8D52F899" box="[357,524,1825,1867]" country="Guam" municipality="Piti" name="Recorded" pageId="4" pageNumber="215">Recorded</location>
+by 
+<collectorName id="562A38D9FF8EFFE0E74CF88D8DACF899" box="[591,754,1825,1867]" pageId="4" pageNumber="215">Fullaway</collectorName>
+in his 1911 collection in 
+<collectingCountry id="83C81D9FFF8EFFE0E1A5F88D8A4DF899" box="[1190,1299,1825,1867]" name="Guam" pageId="4" pageNumber="215">Guam</collectingCountry>
+. A 
+<specimenCount id="EDD99686FF8EFFE0E05FF88D8AA4F899" box="[1372,1530,1825,1867]" pageId="4" pageNumber="215" type="generic">specimen</specimenCount>
+collected at 
+<collectingMunicipality id="1B04C775FF8EFFE0E454F8F98EC4F8AF" box="[343,410,1877,1917]" pageId="4" pageNumber="215">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF8EFFE0E4ADF8F98D6BF8AF" box="[430,565,1877,1917]" pageId="4" pageNumber="215" value="1924-07">
+<collectingDate id="9F258227FF8EFFE0E4ADF8F98D6BF8AF" box="[430,565,1877,1917]" pageId="4" pageNumber="215" value="1924-07">July 24</collectingDate>
+</date>
+, is possibly merely a variety of 
+<emphasis id="C9AB811DFF8EFFE0E171F8F98A35F8AF" box="[1138,1387,1877,1917]" italics="true" pageId="4" pageNumber="215">
+<taxonomicName id="3CDF268CFF8EFFE0E171F8F98A38F8AF" box="[1138,1382,1877,1917]" class="Insecta" family="Elasmidae" genus="Elasmus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="215" phylum="Arthropoda" rank="species" species="philippinensis">philippinensis</taxonomicName>
+.
+</emphasis>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,192 @@
+<document id="E5282BBAB2C4126F0BDD055082E6C71B" ID-DOI="http://doi.org/10.5281/zenodo.5160233" ID-GBIF-Dataset="16f6ef92-619b-417b-946c-22d9b1445e7d" ID-Zenodo-Dep="5160233" checkinTime="1628022546680" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="2C76878DFF98FFF1BEF9F9E9FD4AF784" docLanguage="en" docName="InsectsOfGuamII.189.3-8.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Chelisoches morio" docType="treatment" docVersion="17" lastPageNumber="8" masterDocId="D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8" masterDocTitle="Orthoptera And Related Orders Orthoptera And Related Orders Of Guam" masterLastPageNumber="8" masterPageNumber="3" pageNumber="8" updateTime="1657803482812" updateUser="ExternalLinkService">
+<mods:mods id="6E81E97791DD32494D05771F5FFD7B88" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="4207511599508A364DE9F65DA3020F4D">
+<mods:title id="B7685055B7AE9833523A8A1AFEB07817">Orthoptera And Related Orders Orthoptera And Related Orders Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="CD9BA4ABBDD12DA9F921D3EED48D8CEE" type="personal">
+<mods:role id="A2105980C2C3AA0B7672D5EB5C97E75C">
+<mods:roleTerm id="B26FE74E288AD026B74218770D8F9700">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C690446523DE3D0538A6835E0601021C">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="A4B0C75C2701C86D9FBD80DC587962C4">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="3DFCF28596484063324A6C72476ACDBB">text</mods:typeOfResource>
+<mods:relatedItem id="D6021EE1BB0B02492777E2CDAFC89523" type="host">
+<mods:originInfo id="C39B845F0009ED686890430C1B67268F">
+<mods:dateIssued id="CE5B4C7A20790C10C1CD951D367F3923">1946</mods:dateIssued>
+<mods:dateOther id="D7A5337C194E199CB36F1425ADFF3DC0" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="72E3BBE25A6DBCF30BDCCF01CE8D8879">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="4C871EC3EBE4E86D336B2C6A965797C4">
+<mods:placeTerm id="C3D8F335F94B51229B10A34C4E12332A">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="E7A7FDF47BE959160F25A34C27D0D869">
+<mods:title id="1A75B9EB8A5618C2C7F07C9CD48B1341">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="FEABF1552A936DE8F1AE118B7B84E972">
+<mods:extent id="EFDE2E8461EF16C00E393F7D00E17994" unit="page">
+<mods:start id="3A4DE2A1A422E9DF029D382F132348D0">3</mods:start>
+<mods:end id="7611DFE6B1762C6DDB2F777B095B80AB">8</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E7A72C1E69F3E18B50EB9CF8363E8B67">book chapter</mods:classification>
+<mods:identifier id="8BD43F7519D0AEF6E340342EF67912AA" type="DOI">http://doi.org/10.5281/zenodo.5160233</mods:identifier>
+<mods:identifier id="81087AE949B79C52E98D61406AED616A" type="GBIF-Dataset">16f6ef92-619b-417b-946c-22d9b1445e7d</mods:identifier>
+<mods:identifier id="D4B600D72B8E83A957E27B3781AA8F59" type="Zenodo-Dep">5160233</mods:identifier>
+</mods:mods>
+<treatment id="2C76878DFF98FFF1BEF9F9E9FD4AF784" ID-DOI="http://doi.org/10.5281/zenodo.5164272" ID-GBIF-Taxon="183924983" ID-Zenodo-Dep="5164272" LSID="urn:lsid:plazi:treatment:2C76878DFF98FFF1BEF9F9E9FD4AF784" httpUri="http://treatment.plazi.org/id/2C76878DFF98FFF1BEF9F9E9FD4AF784" lastPageNumber="8" pageId="5" pageNumber="8">
+<subSubSection id="ECC56510FF98FFF1BEF9F9E9FBB7F9B6" box="[401,1036,1603,1646]" pageId="5" pageNumber="8" type="nomenclature">
+<paragraph id="A460369BFF98FFF1BEF9F9E9FBB7F9B6" blockId="5.[401,1799,1603,2140]" box="[401,1036,1603,1646]" pageId="5" pageNumber="8">
+<heading id="FF2881F7FF98FFF1BEF9F9E9FBB7F9B6" box="[401,1036,1603,1646]" fontSize="11" level="2" pageId="5" pageNumber="8" reason="2">
+<emphasis id="96ABEA89FF98FFF1BEF9F9E9FE15F9B6" bold="true" box="[401,430,1603,1646]" pageId="5" pageNumber="8">3.</emphasis>
+<taxonomicName id="63DF4D18FF98FFF1BEB9F9E9FBBDF9B6" authority="(Fabricius)" baseAuthorityName="Fabricius" baseAuthorityYear="1775" box="[465,1030,1603,1646]" class="Insecta" family="Chelisochidae" genus="Chelisoches" kingdom="Animalia" order="Dermaptera" pageId="5" pageNumber="8" phylum="Arthropoda" rank="species" species="morio">
+<emphasis id="96ABEA89FF98FFF1BEB9F9E9FCA6F9B6" bold="true" box="[465,797,1603,1646]" pageId="5" pageNumber="8">Chelisoches morio</emphasis>
+(Fabricius)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF98FFF1BEB9F9D5FA3CF93D" pageId="5" pageNumber="8" type="reference_group">
+<paragraph id="A460369BFF98FFF1BEB9F9D5FA87F972" blockId="5.[401,1799,1603,2140]" box="[465,1340,1663,1706]" pageId="5" pageNumber="8">
+<treatmentCitation id="257E108AFF98FFF1BEB9F9D5FA87F972" author="Fabricius" box="[465,1340,1663,1706]" page="270" pageId="5" pageNumber="8" year="1775">
+<bibCitation id="71F53EF7FF98FFF1BEB9F9D5FA87F972" author="Fabricius" box="[465,1340,1663,1706]" pageId="5" pageNumber="8" pagination="270" refId="ref2652" title="Syst. Ent" type="book" year="1775">
+<treatmentCitationGroup id="84CF11B5FF98FFF1BEB9F9D5FA8CF972" box="[465,1335,1663,1706]" pageId="5" pageNumber="8">
+<emphasis id="96ABEA89FF98FFF1BEB9F9D5FD5CF972" box="[465,743,1663,1706]" italics="true" pageId="5" pageNumber="8">Forficula morio</emphasis>
+<author id="7C62DE7EFF98FFF1BD92F9D5FC19F972" box="[762,930,1663,1706]" pageId="5" pageNumber="8">Fabricius</author>
+, 
+<title id="D6DBDDADFF98FFF1BCD3F9D5FBD2F972" box="[955,1129,1663,1706]" pageId="5" pageNumber="8">Syst. Ent</title>
+., 
+<pagination id="9D16C86FFF98FFF1BBEFF9D5FB72F972" box="[1159,1225,1663,1706]" pageId="5" pageNumber="8">270</pagination>
+, 
+<year id="D07777C8FF98FFF1BB8CF9D5FA8CF972" box="[1252,1335,1663,1706]" pageId="5" pageNumber="8">1775</year>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+<paragraph id="A460369BFF98FFF1BEBBF911FA3CF93D" blockId="5.[401,1799,1603,2140]" box="[467,1415,1723,1765]" pageId="5" pageNumber="8">
+<treatmentCitation id="257E108AFF98FFF1BEBBF911FA3CF93D" author="Borm" box="[467,1415,1723,1765]" page="85" pageId="5" pageNumber="8" year="1900">
+<bibCitation id="71F53EF7FF98FFF1BEBBF911FA3CF93D" author="Borm" box="[467,1415,1723,1765]" journalOrPublisher="Tierreich, For £." pageId="5" pageNumber="8" pagination="85" refId="ref2665" type="book" year="1900">
+<treatmentCitationGroup id="84CF11B5FF98FFF1BEBBF911FA39F93D" box="[467,1410,1723,1765]" pageId="5" pageNumber="8">
+<emphasis id="96ABEA89FF98FFF1BEBBF911FCA0F93D" box="[467,795,1723,1765]" italics="true" pageId="5" pageNumber="8">Chelisoches morio,</emphasis>
+<author id="7C62DE7EFF98FFF1BC44F911FC2CF93D" box="[812,919,1723,1765]" pageId="5" pageNumber="8">Borm</author>
+., 
+<journalOrPublisher id="7E1E3C57FF98FFF1BCDAF911FB6AF93D" box="[946,1233,1723,1765]" pageId="5" pageNumber="8">Tierreich, For£.</journalOrPublisher>
+, 
+<pagination id="9D16C86FFF98FFF1BB8FF911FAA8F93D" box="[1255,1299,1723,1765]" pageId="5" pageNumber="8">85</pagination>
+, 
+<year id="D07777C8FF98FFF1BA46F911FA39F93D" box="[1326,1410,1723,1765]" pageId="5" pageNumber="8">1900</year>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF98FFF1BEB9F952FD75F837" pageId="5" pageNumber="8" type="materials_examined">
+<paragraph id="A460369BFF98FFF1BEB9F952FD75F837" blockId="5.[401,1799,1603,2140]" pageId="5" pageNumber="8">
+<materialsCitation id="14B73CC6FF98FFF1BEB9F952FAB2F8FA" ID-GBIF-Occurrence="3441224393" box="[465,1289,1784,1826]" collectedFrom="ex Pandanus log" collectingDate="1936-05-04" collectorName="R. L. Usinger" country="Guam" location="Agana" pageId="5" pageNumber="8">
+<location id="A1006040FF98FFF1BEB9F952FDF7F8FA" LSID="urn:lsid:plazi:treatment:2C76878DFF98FFF1BEF9F9E9FD4AF784:A1006040FF98FFF1BEB9F952FDF7F8FA" box="[465,588,1784,1826]" name="Agana" pageId="5" pageNumber="8">Agana</location>
+, 
+<date id="D061105BFF98FFF1BD04F952FD57F8FA" box="[620,748,1784,1826]" pageId="5" pageNumber="8">
+<collectingDate id="C025E9B3FF98FFF1BD04F952FD57F8FA" box="[620,748,1784,1826]" pageId="5" pageNumber="8">May 4</collectingDate>
+</date>
+, 
+<specimenCount id="B2D9FD12FF98FFF1BC64F952FC8DF8FA" box="[780,822,1784,1826]" pageId="5" pageNumber="8" type="generic">ex</specimenCount>
+<taxonomicName id="63DF4D18FF98FFF1BC23F952FC40F8FA" box="[843,1019,1784,1826]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="5" pageNumber="8" phylum="Tracheophyta" rank="genus">
+<emphasis id="96ABEA89FF98FFF1BC23F952FC40F8FA" box="[843,1019,1784,1826]" italics="true" pageId="5" pageNumber="8">
+<location id="A1006040FF98FFF1BC23F952FC40F8FA" LSID="urn:lsid:plazi:treatment:2C76878DFF98FFF1BEF9F9E9FD4AF784:A1006040FF98FFF1BC23F952FC40F8FA" box="[843,1019,1784,1826]" name="Pandanus" pageId="5" pageNumber="8">Pandanus</location>
+</emphasis>
+</taxonomicName>
+log, 
+<location id="A1006040FF98FFF1BB06F952FAB2F8FA" LSID="urn:lsid:plazi:treatment:2C76878DFF98FFF1BEF9F9E9FD4AF784:A1006040FF98FFF1BB06F952FAB2F8FA" box="[1134,1289,1784,1826]" name="Usinger" pageId="5" pageNumber="8">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF98FFF1BA42F952F944F8FA" ID-GBIF-Occurrence="3441224310" box="[1322,1791,1784,1826]" collectingDate="1936-05-12" collectorName="R. L. Usinger" country="Guam" location="Yona" pageId="5" pageNumber="8">
+<collectingMunicipality id="4404ACE1FF98FFF1BA42F952FA36F8FA" box="[1322,1421,1784,1826]" pageId="5" pageNumber="8">Yona</collectingMunicipality>
+, 
+<date id="D061105BFF98FFF1BAC6F952F9F8F8FA" box="[1454,1603,1784,1826]" pageId="5" pageNumber="8" value="2012-05">
+<collectingDate id="C025E9B3FF98FFF1BAC6F952F9F8F8FA" box="[1454,1603,1784,1826]" pageId="5" pageNumber="8" value="2012-05">May 12</collectingDate>
+</date>
+, 
+<location id="A1006040FF98FFF1B90CF952F944F8FA" LSID="urn:lsid:plazi:treatment:2C76878DFF98FFF1BEF9F9E9FD4AF784:A1006040FF98FFF1B90CF952F944F8FA" box="[1636,1791,1784,1826]" municipality="Yona" name="Usinger" pageId="5" pageNumber="8">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF98FFF1BEFBF880FD65F88D" ID-GBIF-Occurrence="3861811302" box="[403,734,1834,1877]" collectedFrom="under bark" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="5" pageNumber="8">
+<collectingMunicipality id="4404ACE1FF98FFF1BEFBF880FDF7F88D" box="[403,588,1834,1877]" pageId="5" pageNumber="8">Machanao</collectingMunicipality>
+, 
+<date id="D061105BFF98FFF1BD0AF880FC98F88D" box="[610,803,1834,1877]" pageId="5" pageNumber="8" value="1930-06-04">
+<collectingDate id="C025E9B3FF98FFF1BD0AF880FC98F88D" box="[610,803,1834,1877]" pageId="5" pageNumber="8" value="1930-06-04">
+June 4, 
+<materialsCitation id="14B73CC6FF98FFF1BD9FF880FB12F88D" ID-GBIF-Occurrence="3861811303" box="[759,1193,1834,1877]" collectedFrom="under bark" collectingDate="1936-06-30" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="5" pageNumber="8">
+30, u.nder bark, 
+<collectorName id="092A534DFF98FFF1BB74F880FB12F88D" box="[1052,1193,1834,1877]" pageId="5" pageNumber="8">Swezey</collectorName>
+</materialsCitation>
+</collectingDate>
+</date>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF98FFF1BBABF880F8BBF88D" ID-GBIF-Occurrence="3441224366" box="[1219,1792,1834,1877]" collectedFrom="in house" collectingDate="1936-07-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="8">
+<collectingMunicipality id="4404ACE1FF98FFF1BBABF880FABDF88D" box="[1219,1286,1834,1877]" pageId="5" pageNumber="8">Piti</collectingMunicipality>
+, 
+<date id="D061105BFF98FFF1BA77F880FA1CF88D" box="[1311,1447,1834,1877]" pageId="5" pageNumber="8" value="2020-07">
+<collectingDate id="C025E9B3FF98FFF1BA77F880FA1CF88D" box="[1311,1447,1834,1877]" pageId="5" pageNumber="8" value="2020-07">July 20</collectingDate>
+</date>
+, in house, 
+<collectorName id="092A534DFF98FFF1B91BF880F8BBF88D" box="[1651,1792,1834,1877]" pageId="5" pageNumber="8">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF98FFF1BEFAF8F4FBEBF851" ID-GBIF-Occurrence="3441224383" box="[402,1104,1886,1929]" collectedFrom="on royal palm" collectingDate="1936-10-03" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="5" pageNumber="8">
+<location id="A1006040FF98FFF1BEFAF8F4FDB3F851" LSID="urn:lsid:plazi:treatment:2C76878DFF98FFF1BEF9F9E9FD4AF784:A1006040FF98FFF1BEFAF8F4FDB3F851" box="[402,520,1886,1929]" name="Agana" pageId="5" pageNumber="8">Agana</location>
+, 
+<date id="D061105BFF98FFF1BD4AF8F4FD28F851" box="[546,659,1886,1929]" pageId="5" pageNumber="8">
+<collectingDate id="C025E9B3FF98FFF1BD4AF8F4FD28F851" box="[546,659,1886,1929]" pageId="5" pageNumber="8">Oct. 3</collectingDate>
+</date>
+, on royal palm, 
+<collectorName id="092A534DFF98FFF1BCABF8F4FBEBF851" box="[963,1104,1886,1929]" pageId="5" pageNumber="8">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF98FFF1BB02F8F4F934F851" ID-GBIF-Occurrence="3441224340" box="[1130,1679,1886,1929]" collectedFrom="at light" collectingDate="1936-10-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="8">
+<collectingMunicipality id="4404ACE1FF98FFF1BB02F8F4FB16F851" box="[1130,1197,1886,1929]" pageId="5" pageNumber="8">Piti</collectingMunicipality>
+, 
+<date id="D061105BFF98FFF1BBAFF8F4FAF6F851" box="[1223,1357,1886,1929]" pageId="5" pageNumber="8" value="2012-10">
+<collectingDate id="C025E9B3FF98FFF1BBAFF8F4FAF6F851" box="[1223,1357,1886,1929]" pageId="5" pageNumber="8" value="2012-10">Oct. 12</collectingDate>
+</date>
+, at light, 
+<collectorName id="092A534DFF98FFF1B96BF8F4F934F851" box="[1539,1679,1886,1929]" pageId="5" pageNumber="8">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF98FFF1B9C0F8F4FB2CF863" ID-GBIF-Occurrence="3441224322" collectedFrom="in dead coconut petiole" collectingDate="1936-10-21" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="5" pageNumber="8">
+<collectingMunicipality id="4404ACE1FF98FFF1B9C0F8F4F8BAF851" box="[1704,1793,1886,1929]" pageId="5" pageNumber="8">Yigo</collectingMunicipality>
+, 
+<date id="D061105BFF98FFF1BEFCF83BFD9BF863" box="[404,544,1937,1979]" pageId="5" pageNumber="8" value="2021-10">
+<collectingDate id="C025E9B3FF98FFF1BEFCF83BFD9BF863" box="[404,544,1937,1979]" pageId="5" pageNumber="8" value="2021-10">Oct. 21</collectingDate>
+</date>
+, in dead coconut petiole, 
+<collectorName id="092A534DFF98FFF1BB61F83BFB2CF863" box="[1033,1175,1937,1979]" pageId="5" pageNumber="8">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF98FFF1BBDCF83BF8BBF863" ID-GBIF-Occurrence="3855283307" box="[1204,1792,1937,1979]" collectedFrom="on corn" collectingDate="1936-11-08" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="5" pageNumber="8">
+<collectingMunicipality id="4404ACE1FF98FFF1BBDCF83BFAB6F863" box="[1204,1293,1937,1979]" pageId="5" pageNumber="8">
+<location id="A1006040FF98FFF1BBDCF83BFAB6F863" LSID="urn:lsid:plazi:treatment:2C76878DFF98FFF1BEF9F9E9FD4AF784:A1006040FF98FFF1BBDCF83BFAB6F863" box="[1204,1293,1937,1979]" pageId="5" pageNumber="8">Yigo</location>
+</collectingMunicipality>
+, 
+<date id="D061105BFF98FFF1BA43F83BFA12F863" box="[1323,1449,1937,1979]" pageId="5" pageNumber="8">
+<collectingDate id="C025E9B3FF98FFF1BA43F83BFA12F863" box="[1323,1449,1937,1979]" pageId="5" pageNumber="8">Nov. 8</collectingDate>
+</date>
+, on corn, 
+<collectorName id="092A534DFF98FFF1B91CF83BF8BBF863" box="[1652,1792,1937,1979]" pageId="5" pageNumber="8">Swezey</collectorName>
+</materialsCitation>
+; Fullaway (1290).
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF98FFF1BEBAF855FD4AF784" pageId="5" pageNumber="8" type="discussion">
+<paragraph id="A460369BFF98FFF1BEBAF855FD4AF784" blockId="5.[401,1799,1603,2140]" pageId="5" pageNumber="8">
+This large black earwig is widely distributed in the Pacific and to 
+<collectingCountry id="DCC8760BFF98FFF1B9CAF855F8BAF7F2" box="[1698,1793,2047,2090]" name="India" pageId="5" pageNumber="8">India</collectingCountry>
+. It occurs in Hawaii.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

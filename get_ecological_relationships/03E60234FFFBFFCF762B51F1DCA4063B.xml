@@ -1,0 +1,127 @@
+<document id="5901A588F6DF98D39A5F9482E772B1DC" ID-DOI="http://doi.org/10.5281/zenodo.3634035" ID-GBIF-Dataset="9c8d5683-76c1-4938-aede-b7ad5391b6b2" ID-Zenodo-Dep="3634035" checkinTime="1580668122796" checkinUser="plazi" docAuthor="Moulton, Dudley" docDate="1942" docId="03E60234FFFBFFCF762B51F1DCA4063B" docLanguage="en" docName="InsectsOfGuam.172.7-16.pdf.imf" docOrigin="Insects of Guam I, Bernice P. Bishop Museum Bulletin" docSource="http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Machatothrips artocarpi Moulton 1928" docType="treatment" docVersion="16" lastPageNumber="15" masterDocId="FFDF7A4CFFF3FFC777195003DD64051A" masterDocTitle="Thysanoptera: Thrips of Guam" masterLastPageNumber="16" masterPageNumber="7" pageNumber="15" updateTime="1658840059004" updateUser="annettekang">
+<mods:mods id="8F652333708BA69709B7D11266601850" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="0E71A0333F95E32B76771096A26F5284">
+<mods:title id="026409E2046E9FCB2C2E5221992A053E">Thysanoptera: Thrips of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="B8203E8F9A8A19C8A21A384AE1BCCED4" type="personal">
+<mods:role id="A7BDD58A9C4E9A31966389989F2C8FDE">
+<mods:roleTerm id="3915EDC6E0EB4F4168840D0E2156302A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4B05D64DCC8873284D38573B077FE9A2">Moulton, Dudley</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="234FD7E74A2B81E1279394516AB0F4FD">text</mods:typeOfResource>
+<mods:relatedItem id="727423C1EE4AF627EC089C26714D4E5C" type="host">
+<mods:originInfo id="83DCEEE60FE743BA7390A523B0852A42">
+<mods:dateIssued id="88250ED89DB08B878E3ABB7AEB869D73">1942</mods:dateIssued>
+<mods:dateOther id="2481FFA5137DD464F5C7BA2E13ADECB6" type="pubDate">1942-12-31</mods:dateOther>
+<mods:publisher id="176718423C1A69717A25E3D0E806F384">Bernice P. Bishop Museum Bulletin</mods:publisher>
+</mods:originInfo>
+<mods:titleInfo id="D002D5FF5A585D5662F060E535DA1312">
+<mods:title id="4B2E9465EBAC17E88A42DA6F872D255F">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="65EDBAD875F141ED26771EFFFF4E0216">
+<mods:extent id="1A8D65C5B90D590691BE414840F43D73" unit="page">
+<mods:start id="CB08D5322C85B40C9F8BE7317C85EB88">7</mods:start>
+<mods:end id="D0467701E854C64A395190B5306F5C8E">16</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="03493740F77BFE6D0D097634B8D1F90B">
+<mods:url id="DA73DD479A2BB41C11773DF886C09F11">http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf</mods:url>
+</mods:location>
+<mods:classification id="0268A0882C80358985373104BAEE23DD">book chapter</mods:classification>
+<mods:identifier id="0F40CC553E242C6AD6F3C785EA87E780" type="DOI">http://doi.org/10.5281/zenodo.3634035</mods:identifier>
+<mods:identifier id="00043DFCE65A402F96585D6C0884BA7D" type="GBIF-Dataset">9c8d5683-76c1-4938-aede-b7ad5391b6b2</mods:identifier>
+<mods:identifier id="D3B7C4F98744116B26ACA00CC8C0AF73" type="Zenodo-Dep">3634035</mods:identifier>
+</mods:mods>
+<treatment id="03E60234FFFBFFCF762B51F1DCA4063B" ID-DOI="http://doi.org/10.5281/zenodo.5157453" ID-GBIF-Taxon="161938938" ID-Zenodo-Dep="5157453" LSID="urn:lsid:plazi:treatment:03E60234FFFBFFCF762B51F1DCA4063B" httpUri="http://treatment.plazi.org/id/03E60234FFFBFFCF762B51F1DCA4063B" lastPageNumber="15" pageId="8" pageNumber="15">
+<subSubSection id="C355E0A9FFFBFFCF762B51F1DE940702" box="[306,1008,498,536]" pageId="8" pageNumber="15" type="nomenclature">
+<paragraph id="8BF0B322FFFBFFCF762B51F1DE8E0702" blockId="8.[306,1704,495,801]" box="[306,1002,498,536]" pageId="8" pageNumber="15">
+<emphasis id="B93B6F30FFFBFFCF762B51F1DE2D0702" bold="true" box="[306,841,498,536]" pageId="8" pageNumber="15">
+20. 
+<taxonomicName id="4C4FC8A1FFFBFFCF769F51F1DE8E0702" authority="Moulton" authorityName="Moulton" authorityYear="1928" box="[390,1002,498,536]" class="Insecta" family="Phlaeothripidae" genus="Machatothrips" kingdom="Animalia" order="Thysanoptera" pageId="8" pageNumber="14" phylum="Arthropoda" rank="species" species="artocarpi">Machatothrips artocarpi Moulton</taxonomicName>
+</emphasis>
+</paragraph>
+<paragraph id="8BF0B322FFFBFFCF74F351F0DCB50751" blockId="8.[306,1704,495,801]" pageId="8" pageNumber="15">
+, 
+<subSubSection id="C355E0A9FFFBFFCF731251F0DCB50751" pageId="8" pageNumber="15" type="reference_group">
+<treatmentCitation id="0AEE9533FFFBFFCF731251F0DCB50751" author="Moulton" page="322" pageId="8" pageNumber="15" year="1928">
+<bibCitation id="5E65BB4EFFFBFFCF731251F0DCB50751" author="Moulton" journalOrPublisher="Nat. Hist. Formosa, Trans." pageId="8" pageNumber="15" pagination="322" part="18" type="journal article" year="1928">
+<journalOrPublisher id="518EB9EEFFFBFFCF731251F0D8980702" box="[1035,1532,499,536]" pageId="8" pageNumber="15">
+Nat. Hist. 
+<collectingCountry id="F358F3B2FFFBFFCF73CE51F0D8090702" box="[1239,1389,499,536]" name="Taiwan" pageId="8" pageNumber="15">Formosa</collectingCountry>
+, Trans.
+</journalOrPublisher>
+<part id="FFEB19BFFFFBFFCF710551F0DB2F0702" box="[1564,1611,499,536]" pageId="8" pageNumber="15" type="volume">18</part>
+: 
+<pagination id="B2864DD6FFFBFFCF714651F0DBC50702" box="[1631,1697,499,536]" pageId="8" pageNumber="15" type="pagination">322</pagination>
+, 
+<year id="FFE7F271FFFBFFCF766D5225DCA80751" box="[372,460,550,587]" pageId="8" pageNumber="15">1928</year>
+.
+</bibCitation>
+</treatmentCitation>
+</subSubSection>
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFFBFFCF766B5261DCA4063B" pageId="8" pageNumber="15" type="materials_examined">
+<paragraph id="8BF0B322FFFBFFCF766B5261DCA4063B" blockId="8.[306,1704,495,801]" pageId="8" pageNumber="15">
+<materialsCitation id="3B27B97FFFFBFFCF766B5261DB34079D" ID-GBIF-Occurrence="3864798310" box="[370,1616,610,647]" collectedFrom="under bark of Hibiscus tiliaceus" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="8" pageNumber="15" specimenCount="5">
+<collectingMunicipality id="6B942958FFFBFFCF766B5261DCD1079D" box="[370,437,610,647]" pageId="8" pageNumber="15">Upi</collectingMunicipality>
+, 
+<date id="FFF195E2FFFBFFCF76D65261DF22079D" box="[463,582,610,647]" pageId="8" pageNumber="15">
+<collectingDate id="EFB56C0AFFFBFFCF76D65261DF22079D" box="[463,582,610,647]" pageId="8" pageNumber="15">
+May 
+<emphasis id="B93B6F30FFFBFFCF75375260DF29079D" box="[558,589,611,647]" italics="true" pageId="8" pageNumber="15">5,</emphasis>
+</collectingDate>
+</date>
+under bark of 
+<emphasis id="B93B6F30FFFBFFCF74465260D9F9079D" box="[863,1181,611,647]" italics="true" pageId="8" pageNumber="15">
+<taxonomicName id="4C4FC8A1FFFBFFCF74465260D9F3079D" box="[863,1175,611,647]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" higherTaxonomySource="GBIF" kingdom="Plantae" order="Malvaceae" pageId="8" pageNumber="15" phylum="Tracheophyta" rank="species" species="tiliaceus">
+<location id="8E90E5F9FFFBFFCF74465260DE8A079D" LSID="urn:lsid:plazi:treatment:03E60234FFFBFFCF762B51F1DCA4063B:8E90E5F9FFFBFFCF74465260DE8A079D" box="[863,1006,611,647]" municipality="Upi" name="Hibiscus" pageId="8" pageNumber="15">Hibiscus</location>
+tiliaceus
+</taxonomicName>
+,
+</emphasis>
+<specimenCount id="9D4978ABFFFBFFCF73B65261D8CE079D" box="[1199,1450,610,647]" pageId="8" pageNumber="15" type="generic">five specimens</specimenCount>
+(5465);
+</materialsCitation>
+<materialsCitation id="3B27B97FFFFBFFCF71455261D88507A0" ID-GBIF-Occurrence="3864798311" collectedFrom="under bark of Heritiera littoralis" collectingDate="1936-10-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="8" pageNumber="15" specimenCount="8">
+<location id="8E90E5F9FFFBFFCF71455261DBFE079D" LSID="urn:lsid:plazi:treatment:03E60234FFFBFFCF762B51F1DCA4063B:8E90E5F9FFFBFFCF71455261DBFE079D" box="[1628,1690,610,647]" name="Piti" pageId="8" pageNumber="15">Piti</location>
+, 
+<date id="FFF195E2FFFBFFCF762D5296DCCD07A3" box="[308,425,660,698]" pageId="8" pageNumber="15">
+<collectingDate id="EFB56C0AFFFBFFCF762D5296DCCD07A3" box="[308,425,660,698]" pageId="8" pageNumber="15">Oct. 1</collectingDate>
+</date>
+, under bark of 
+<emphasis id="B93B6F30FFFBFFCF75DC5295D97407A0" box="[709,1040,662,698]" italics="true" pageId="8" pageNumber="15">
+<taxonomicName id="4C4FC8A1FFFBFFCF75DC5295D96E07A0" box="[709,1034,662,698]" class="Magnoliopsida" family="Malvaceae" genus="Heritiera" higherTaxonomySource="GBIF" kingdom="Plantae" order="Malvaceae" pageId="8" pageNumber="15" phylum="Tracheophyta" rank="species" species="littoralis">
+<location id="8E90E5F9FFFBFFCF75DC5295DE0207A0" LSID="urn:lsid:plazi:treatment:03E60234FFFBFFCF762B51F1DCA4063B:8E90E5F9FFFBFFCF75DC5295DE0207A0" box="[709,870,662,698]" name="Heritiera" pageId="8" pageNumber="15">Heritiera</location>
+littoralis
+</taxonomicName>
+,
+</emphasis>
+<specimenCount id="9D4978ABFFFBFFCF733C5296D85E07A0" box="[1061,1338,661,698]" pageId="8" pageNumber="15" type="generic">eight specimens</specimenCount>
+(5483);
+</materialsCitation>
+<materialsCitation id="3B27B97FFFFBFFCF72F45296DCA4063B" ID-GBIF-Occurrence="3357451315" collectedFrom="under bark of Elaeocarpus joga" collectingDate="1936-10-18" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="8" pageNumber="15" specimenCount="2">
+<collectingMunicipality id="6B942958FFFBFFCF72F45296DB2007A0" box="[1517,1604,661,698]" pageId="8" pageNumber="15">Yigo</collectingMunicipality>
+, 
+<date id="FFF195E2FFFBFFCF71475296DC0007F4" pageId="8" pageNumber="15" value="2018-10">
+<collectingDate id="EFB56C0AFFFBFFCF71475296DC0007F4" pageId="8" pageNumber="15" value="2018-10">Oct. 18</collectingDate>
+</date>
+, under bark of 
+<emphasis id="B93B6F30FFFBFFCF759552C9DEA307F4" box="[652,967,714,750]" italics="true" pageId="8" pageNumber="15">
+<taxonomicName id="4C4FC8A1FFFBFFCF759552C9DEA507F4" authorityName="Merrill" authorityYear="1914" box="[652,961,714,750]" class="Magnoliopsida" family="Elaeocarpaceae" genus="Elaeocarpus" kingdom="Plantae" order="Oxalidales" pageId="8" pageNumber="15" phylum="Tracheophyta" rank="species" species="joga">
+<location id="8E90E5F9FFFBFFCF759552C9DE3E07F4" LSID="urn:lsid:plazi:treatment:03E60234FFFBFFCF762B51F1DCA4063B:8E90E5F9FFFBFFCF759552C9DE3E07F4" box="[652,858,714,750]" municipality="Yigo" name="Elaeocarpus" pageId="8" pageNumber="15">Elaeocarpus</location>
+joga
+</taxonomicName>
+,
+</emphasis>
+<specimenCount id="9D4978ABFFFBFFCF74C752CAD98507F4" box="[990,1249,713,750]" pageId="8" pageNumber="15" type="generic">two specimens</specimenCount>
+(5485); all collected by 
+<collectorName id="26BAD6F4FFFBFFCF762D52FFDCDF063B" box="[308,443,764,801]" pageId="8" pageNumber="15">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

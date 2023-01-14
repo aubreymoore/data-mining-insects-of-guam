@@ -1,0 +1,186 @@
+<document id="8625CA6952372D79E957D8FE0A2E84EA" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E94EFFA4FE02805F904807F3" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Chasmina sericea" docType="treatment" docVersion="22" lastPageNumber="168" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="168" updateTime="1669841625929" updateUser="ExternalLinkService">
+<mods:mods id="C72482C09B849E9E0A61C984E8E4B3A6" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="476C64B4D4F9B954C38663BA8A21668E">
+<mods:title id="539B79A5A23194316889114741728812">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="9290965DF0B082580C72D50C23A6C8B1" type="personal">
+<mods:role id="ADC2ABFED22B5D16326C021BED0D51F7">
+<mods:roleTerm id="90C066C33A2D1EB91EC2951FDFEFA115">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4FCE50A49D535CBBA5137CEFFB8C9ED8">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="11E1A51F36A018A2210A4A17D65547F1">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="EE59A2BA05B1301FDF2910A1583EDDCE">text</mods:typeOfResource>
+<mods:relatedItem id="8B346E0A6ECB6E5B9B82C2768C39A576" type="host">
+<mods:originInfo id="6CB08934C40FE17BE46AEBFFC25FAF31">
+<mods:dateIssued id="53827A4EE54CA0BC1F7787FD4640FEDF">1946</mods:dateIssued>
+<mods:dateOther id="BB227A189239A0C5A76092BBFF65B255" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="85D1EBDA01158CFCF98B1FF96BFC7019">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="2854EE75C9EADE07325FFA57883A7E5B">
+<mods:placeTerm id="33958DF13D038ECB27AE3E045EF35F01">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="EE97FC0AC94CE28348C2F4003259B31B">
+<mods:title id="CF70BD902D9BA7CB0BE56E3E660C7530">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="0645E9A0CE3145B51974086295C84F18">
+<mods:extent id="F9696EFEADE8A95094CEFBFA8E64ED65" unit="page">
+<mods:start id="8620D31E38DBDB20DBB62A6930FEB792">163</mods:start>
+<mods:end id="15B1059F44809D81D4ED19DAA27B4174">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="1AB8B24C677BF5F46F2CE5FE8BAC1FA5">book chapter</mods:classification>
+<mods:identifier id="56EBF2E811ADECC341B7906598D585DC" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="5DCC61499B421F87582FEFB3D9623B82" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="24ED519AD7B8FC7B1368780D1AF4FFDF" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E94EFFA4FE02805F904807F3" ID-DOI="http://doi.org/10.5281/zenodo.5158401" ID-GBIF-Taxon="183926947" ID-Zenodo-Dep="5158401" LSID="urn:lsid:plazi:treatment:03B387B8E94EFFA4FE02805F904807F3" httpUri="http://treatment.plazi.org/id/03B387B8E94EFFA4FE02805F904807F3" lastPageNumber="168" pageId="5" pageNumber="168">
+<subSubSection id="C3006525E94EFFA4FE02805F964C01C2" box="[461,1082,610,653]" pageId="5" pageNumber="168" type="nomenclature">
+<paragraph id="8BA536AEE94EFFA4FE02805F964C01C2" blockId="5.[461,1861,398,1212]" box="[461,1082,610,653]" pageId="5" pageNumber="168">
+<emphasis id="B96EEABCE94EFFA4FE02805F939C01C2" bold="true" box="[461,490,610,653]" pageId="5" pageNumber="168">7.</emphasis>
+<taxonomicName id="4C1A4D2DE94EFFA4FDC3805F964201C2" authority="(Hampson)" baseAuthorityName="Hampson" baseAuthorityYear="1893" box="[524,1076,610,653]" class="Insecta" family="Noctuidae" genus="Chasmina" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="168" phylum="Arthropoda" rank="species" species="sericea">
+<emphasis id="B96EEABCE94EFFA4FDC3805F913F01C2" bold="true" box="[524,841,610,653]" pageId="5" pageNumber="168">Chasmina sericea</emphasis>
+(Hampson)
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94EFFA4FDC180AA957501BB" pageId="5" pageNumber="168" type="reference_group">
+<paragraph id="8BA536AEE94EFFA4FDC180AA94D4018E" blockId="5.[461,1861,398,1212]" box="[526,1698,663,705]" pageId="5" pageNumber="168">
+<treatmentCitationGroup id="AB0A1180E94EFFA4FDC180AA94D4018E" box="[526,1698,663,705]" pageId="5" pageNumber="168">
+<bibCitation id="5E303EC2E94EFFA4FDC180AA94D4018E" author="Hampson" box="[526,1698,663,705]" journalOrPublisher="Ill. Het." pageId="5" pageNumber="168" pagination="92" part="9" refId="ref2686" type="book" year="1893">
+<treatmentCitation id="0ABB10BFE94EFFA4FDC180AA94EB018E" author="Hampson" box="[526,1693,663,705]" page="92" pageId="5" pageNumber="168" year="1893">
+<emphasis id="B96EEABCE94EFFA4FDC180AA911B018E" box="[526,877,663,705]" italics="true" pageId="5" pageNumber="168">Clinophlebia sericea</emphasis>
+<author id="53A7DE4BE94EFFA4FCB680AA9650018E" box="[889,1062,663,705]" pageId="5" pageNumber="168">Hampson</author>
+, 
+<journalOrPublisher id="51DB3C62E94EFFA4FBF380AA96B1018E" box="[1084,1223,663,705]" pageId="5" pageNumber="168">Ill. Het.</journalOrPublisher>
+<emphasis id="B96EEABCE94EFFA4FB1980AA968C018E" bold="true" box="[1238,1274,663,705]" pageId="5" pageNumber="168">
+<part id="FFBE9C33E94EFFA4FB1980AA969F018E" box="[1238,1257,663,705]" pageId="5" pageNumber="168">9</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE94EFFA4FAC880AA9745018E" box="[1287,1331,663,705]" pageId="5" pageNumber="168">92</pagination>
+, pl. 161, fig. 
+<emphasis id="B96EEABCE94EFFA4F9D480AA9441018E" bold="true" box="[1563,1591,663,705]" italics="true" pageId="5" pageNumber="168">7,</emphasis>
+<year id="FFB277FDE94EFFA4F98580AA94EB018E" box="[1610,1693,663,705]" pageId="5" pageNumber="168">1893</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE94EFFA4FDC280F6957501BB" blockId="5.[461,1861,398,1212]" box="[525,1795,715,756]" pageId="5" pageNumber="168">
+<treatmentCitationGroup id="AB0A1180E94EFFA4FDC280F6957501BB" box="[525,1795,715,756]" pageId="5" pageNumber="168">
+<bibCitation id="5E303EC2E94EFFA4FDC280F6957501BB" author="Hampson" box="[525,1795,715,756]" pageId="5" pageNumber="168" pagination="322" part="9" refId="ref2708" title="Cat. Lep. Phalaenae" type="journal volume" year="1910">
+<emphasis id="B96EEABCE94EFFA4FDC280F6913001BB" box="[525,838,715,756]" italics="true" pageId="5" pageNumber="168">Chasmina sericea,</emphasis>
+<treatmentCitation id="0ABB10BFE94EFFA4FC9A80F6948801BB" author="Hampson" box="[853,1790,715,756]" page="322" pageId="5" pageNumber="168" year="1910">
+<author id="53A7DE4BE94EFFA4FC9A80F6967401BB" box="[853,1026,715,756]" pageId="5" pageNumber="168">Hampson</author>
+, 
+<title id="F91EDD98E94EFFA4FBD680F6970D01BB" box="[1049,1403,715,756]" pageId="5" pageNumber="168">Cat. Lep. Phalaenae</title>
+<emphasis id="B96EEABCE94EFFA4FA4780F697DA01BB" bold="true" box="[1416,1452,715,756]" pageId="5" pageNumber="168">
+<part id="FFBE9C33E94EFFA4FA4780F697ED01BB" box="[1416,1435,715,756]" pageId="5" pageNumber="168">9</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE94EFFA4FA7580F6978C01BB" box="[1466,1530,715,756]" pageId="5" pageNumber="168">322</pagination>
+, fig. 161, 
+<year id="FFB277FDE94EFFA4F96380F6948801BB" box="[1708,1790,715,756]" pageId="5" pageNumber="168">1910</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94EFFA4FDC180C3904807F3" pageId="5" pageNumber="168" type="multiple">
+<paragraph id="8BA536AEE94EFFA4FDC180C3904807F3" blockId="5.[461,1861,398,1212]" pageId="5" pageNumber="168">
+This pure white moth is known from 
+<collectingCountry id="F30D763EE94EFFA4FB3080C3970C0066" box="[1279,1402,766,809]" name="Sri Lanka" pageId="5" pageNumber="168">Ceylon</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94EFFA4FA5380C3946E0066" box="[1436,1560,766,809]" name="Myanmar" pageId="5" pageNumber="168">Burma</collectingCountry>
+, Cocos Keeling Island, 
+<collectingCountry id="F30D763EE94EFFA4FD92810C91E70014" box="[605,913,817,859]" name="Christmas Island" pageId="5" pageNumber="168">Christmas Island</collectingCountry>
+(Indian Ocean), and 
+<collectingCountry id="F30D763EE94EFFA4FA8D810C942C0014" box="[1346,1626,817,859]" name="New Caledonia" pageId="5" pageNumber="168">New Caledonia</collectingCountry>
+. It was not previously recorded in 
+<collectingCountry id="F30D763EE94EFFA4FCA8815991A700C1" box="[871,977,868,910]" name="Guam" pageId="5" pageNumber="168">Guam</collectingCountry>
+, 
+<materialsCitation id="3B723CF3E94EFFA4FC28815996CC008E" ID-GBIF-Occurrence="3970494301" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="5" pageNumber="168" specimenCount="1">
+although there is 
+<specimenCount id="9D1CFD27E94EFFA4FAD48159947500C1" box="[1307,1539,868,910]" pageId="5" pageNumber="168" type="generic">one specimen</specimenCount>
+in 
+<collectingCountry id="F30D763EE94EFFA4F98F815994ED00C1" box="[1600,1691,868,910]" name="United States of America" pageId="5" pageNumber="168">U. S.</collectingCountry>
+National Museum, collected by Fullaway in 1911
+</materialsCitation>
+. 
+<materialsCitation id="3B723CF3E94EFFA4FB2C81AA973A00BB" ID-GBIF-Occurrence="3913652473" collectedFrom="our screen at night" collectingDate="1936-08-18" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="168">
+It came commonly to our screen at night at 
+<location id="8EC56075E94EFFA4FD6981F7909F00BB" LSID="urn:lsid:plazi:treatment:03B387B8E94EFFA4FE02805F904807F3:8EC56075E94EFFA4FD6981F7909F00BB" box="[678,745,970,1012]" pageId="5" pageNumber="168">
+<collectingMunicipality id="6BC1ACD4E94EFFA4FD6981F7909F00BB" box="[678,745,970,1012]" pageId="5" pageNumber="168">Piti</collectingMunicipality>
+</location>
+. 
+<specimenCount id="9D1CFD27E94EFFA4FCDD81F791BE00BB" box="[786,968,970,1012]" pageId="5" pageNumber="168" type="generic">
+<location id="8EC56075E94EFFA4FCDD81F791BE00BB" LSID="urn:lsid:plazi:treatment:03B387B8E94EFFA4FE02805F904807F3:8EC56075E94EFFA4FCDD81F791BE00BB" box="[786,968,970,1012]" pageId="5" pageNumber="168">Specimens</location>
+</specimenCount>
+were taken 
+<date id="FFA4106EE94EFFA4FB7781F7973A00BB" box="[1208,1356,970,1012]" pageId="5" pageNumber="168" value="2018-08">
+<collectingDate id="EFE0E986E94EFFA4FB7781F7973A00BB" box="[1208,1356,970,1012]" pageId="5" pageNumber="168" value="2018-08">Aug. 18</collectingDate>
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E94EFFA4FAA381F797E200BB" ID-GBIF-Occurrence="3913652311" box="[1388,1428,970,1012]" collectedFrom="our screen at night" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="168">19</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E94EFFA4FA6081F797AD00BB" ID-GBIF-Occurrence="3913652504" box="[1455,1499,970,1012]" collectedFrom="our screen at night" collectingDate="1936-08-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="168">20</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E94EFFA4FA3781F7940C00BB" ID-GBIF-Occurrence="3913652404" box="[1528,1658,970,1012]" collectedFrom="our screen at night" collectingDate="1936-09-04" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="168">
+<date id="FFA4106EE94EFFA4FA3781F7940C00BB" box="[1528,1658,970,1012]" pageId="5" pageNumber="168">
+<collectingDate id="EFE0E986E94EFFA4FA3781F7940C00BB" box="[1528,1658,970,1012]" pageId="5" pageNumber="168">Sept. 4</collectingDate>
+</date>
+</materialsCitation>
+, 
+<emphasis id="B96EEABCE94EFFA4F95981F794C500BB" box="[1686,1715,970,1012]" italics="true" pageId="5" pageNumber="168">
+<materialsCitation id="3B723CF3E94EFFA4F95981F794DA00BB" ID-GBIF-Occurrence="3913652453" box="[1686,1708,970,1012]" collectedFrom="our screen at night" collectingDate="1936-09-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="168">7</materialsCitation>
+,
+</emphasis>
+<materialsCitation id="3B723CF3E94EFFA4F90481F7948200BB" ID-GBIF-Occurrence="3913652301" box="[1739,1780,970,1012]" collectedFrom="our screen at night" collectingDate="1936-09-11" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="168">11</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E94EFFA4F8DC81F7954D00BB" ID-GBIF-Occurrence="3913652455" box="[1811,1851,970,1012]" collectedFrom="our screen at night" collectingDate="1936-09-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="168">12</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E94EFFA4FE1C81C0938D0768" ID-GBIF-Occurrence="3913652435" box="[467,507,1021,1063]" collectedFrom="our screen at night" collectingDate="1936-09-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="168">13</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E94EFFA4FDDC81C090F20768" ID-GBIF-Occurrence="3913652350" box="[531,644,1021,1063]" collectedFrom="our screen at night" collectingDate="1936-10-02" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="168">
+<date id="FFA4106EE94EFFA4FDDC81C090F20768" box="[531,644,1021,1063]" pageId="5" pageNumber="168">
+<collectingDate id="EFE0E986E94EFFA4FDDC81C090F20768" box="[531,644,1021,1063]" pageId="5" pageNumber="168">Oct. 2</collectingDate>
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E94EFFA4FD6F81C090BF0768" ID-GBIF-Occurrence="3913652366" box="[672,713,1021,1063]" collectedFrom="our screen at night" collectingDate="1936-10-10" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="168">10</materialsCitation>
+. We collected it in the open only twice; 
+<materialsCitation id="3B723CF3E94EFFA4FA7481C096580716" ID-GBIF-Occurrence="3913652470" collectedFrom="in mangrove swamp" collectingDate="1936-05-23" collectorName="R. L. Usinger" country="Guam" location="Sumay Road" pageId="5" pageNumber="168">
+<collectingMunicipality id="6BC1ACD4E94EFFA4FA7481C094D50768" box="[1467,1699,1021,1063]" pageId="5" pageNumber="168">Sumay Road</collectingMunicipality>
+, in mangrove swamp, 
+<date id="FFA4106EE94EFFA4FD2A860D91000716" box="[741,886,1072,1113]" pageId="5" pageNumber="168" value="1923-05">
+<collectingDate id="EFE0E986E94EFFA4FD2A860D91000716" box="[741,886,1072,1113]" pageId="5" pageNumber="168" value="1923-05">May 23</collectingDate>
+</date>
+, 
+<location id="8EC56075E94EFFA4FC58860D96580716" LSID="urn:lsid:plazi:treatment:03B387B8E94EFFA4FE02805F904807F3:8EC56075E94EFFA4FC58860D96580716" box="[919,1070,1072,1113]" pageId="5" pageNumber="168">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="3B723CF3E94EFFA4FB80860D917207C4" ID-GBIF-Occurrence="3913652364" collectedFrom="swept from Thespesia populnea" collectingDate="1936-05-30" collectorName="O. H. Swezey" country="Guam" location="Tumon" pageId="5" pageNumber="168">
+<collectingMunicipality id="6BC1ACD4E94EFFA4FB80860D96A40716" box="[1103,1234,1072,1113]" pageId="5" pageNumber="168">Tumon</collectingMunicipality>
+, swept from 
+<emphasis id="B96EEABCE94EFFA4FA16860D95320716" box="[1497,1860,1072,1113]" italics="true" pageId="5" pageNumber="168">
+<taxonomicName id="4C1A4D2DE94EFFA4FA16860D95480716" box="[1497,1854,1072,1113]" class="Magnoliopsida" family="Malvaceae" genus="Thespesia" kingdom="Plantae" order="Malvales" pageId="5" pageNumber="168" phylum="Tracheophyta" rank="species" species="populnea">
+<location id="8EC56075E94EFFA4FA16860D94F00716" LSID="urn:lsid:plazi:treatment:03B387B8E94EFFA4FE02805F904807F3:8EC56075E94EFFA4FA16860D94F00716" box="[1497,1670,1072,1113]" pageId="5" pageNumber="168">Thespesia</location>
+populnea
+</taxonomicName>
+,
+</emphasis>
+<date id="FFA4106EE94EFFA4FE00865C901607C4" box="[463,608,1121,1163]" pageId="5" pageNumber="168" value="1930-05">
+<collectingDate id="EFE0E986E94EFFA4FE00865C901607C4" box="[463,608,1121,1163]" pageId="5" pageNumber="168" value="1930-05">May 30</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E94EFFA4FDB1865C917207C4" box="[638,772,1121,1163]" pageId="5" pageNumber="168">Swezey</collectorName>
+</materialsCitation>
+. We did not find its caterpillar, so learned nothing of its habits.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

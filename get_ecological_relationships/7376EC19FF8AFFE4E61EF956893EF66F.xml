@@ -1,0 +1,202 @@
+<document id="7F7AACEA2D59B1828ECD80BC01D08A0B" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8AFFE4E61EF956893EF66F" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Torymidae Walker 1833" docType="treatment" docVersion="8" lastPageNumber="211" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="211" updateTime="1663098421291" updateUser="ExternalLinkService">
+<mods:mods id="65F120E558B2B66ADC77C23BC2D58035" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="A7E6FDD9D2D588CBE58FC6621AD455D0">
+<mods:title id="E4CA90B49436398C47DB7CD99ECAF34C">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="DE0CE3DB343D49C4729F4E11C0705DB6" type="personal">
+<mods:role id="BA63FF75A9D3DB3A58F773433C33ED5B">
+<mods:roleTerm id="F7BDF925C6D5A72BAF254B9B22BAC8A0">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A77C3C77F145818D359340540CF552EC">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="B0CAB0485770FC49786178C02802A0C2">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="BD1BC0EF9E50F32A96C6F6A66C634B62">text</mods:typeOfResource>
+<mods:relatedItem id="2327E200D3E4667519AFB25A82452F89" type="host">
+<mods:originInfo id="9CF8CDDC414B0F6E9D4EF57C8AE2BC33">
+<mods:dateIssued id="D5D7A47292DC873015898247453D7766">1946</mods:dateIssued>
+<mods:dateOther id="E52A0DE1AE81ADB0C17D0CDECAB1487B" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="9B9BB0DF7B123BC8768E2AFD6E23E863">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="2014A014CD7F1096C7A225F01ED391DA">
+<mods:placeTerm id="BA64DCCEAAEFD7A1B19109D60E08AC91">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="D19FB0BD11421A81E1EFE4723D23B7B0">
+<mods:title id="148A6BA28186AE0461A2651707D8294A">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="7AAB050D9A4DB00968F7F681B48651A1">
+<mods:extent id="4CC53DAE2A00F888672AFA9A93009245" unit="page">
+<mods:start id="ABD51EC6439AF58DD397077F3840627C">211</mods:start>
+<mods:end id="1DED21B80A5E670C32F9E440F3BBAB7E">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="806FDCD91B7A54DED7798B3BB1760067">book chapter</mods:classification>
+<mods:identifier id="5F7FCDECB6ADE64B466CA70619FB16F3" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="1AC9BDF7095577F4DB0CD643E7CAAF68" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="6FDD454E499269FB318281DA17FECB37" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8AFFE4E61EF956893EF66F" ID-DOI="http://doi.org/10.5281/zenodo.5208022" ID-GBIF-Taxon="187737449" ID-Zenodo-Dep="5208022" LSID="urn:lsid:plazi:treatment:7376EC19FF8AFFE4E61EF956893EF66F" httpUri="http://treatment.plazi.org/id/7376EC19FF8AFFE4E61EF956893EF66F" lastPageNumber="211" pageId="0" pageNumber="211">
+<subSubSection id="B3C50E84FF8AFFE4E61EF9568BECF8F0" box="[797,1202,1786,1826]" pageId="0" pageNumber="211" type="nomenclature">
+<paragraph id="FB605D0FFF8AFFE4E61EF9568BECF8F0" blockId="0.[797,1202,1786,1826]" box="[797,1202,1786,1826]" pageId="0" pageNumber="211">
+<heading id="A028EA63FF8AFFE4E61EF9568BECF8F0" box="[797,1202,1786,1826]" centered="true" fontSize="8" level="2" pageId="0" pageNumber="211" reason="3">
+<emphasis id="C9AB811DFF8AFFE4E61EF9568CF3F8F0" bold="true" box="[797,941,1786,1826]" pageId="0" pageNumber="211">FAMILY</emphasis>
+<taxonomicName id="3CDF268CFF8AFFE4E6BCF9568BECF8F0" authorityName="Walker" authorityYear="1833" box="[959,1202,1786,1826]" class="Insecta" family="Torymidae" kingdom="Animalia" order="Hymenoptera" pageId="0" pageNumber="211" phylum="Arthropoda" rank="family">TORYMIDAE</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8AFFE4E42AF8EA8C1FF8BD" box="[297,833,1862,1903]" pageId="0" pageNumber="211" type="discussion">
+<paragraph id="FB605D0FFF8AFFE4E42AF8EA8C1FF8BD" blockId="0.[297,1697,1862,2005]" box="[297,833,1862,1903]" pageId="0" pageNumber="211">
+<heading id="A028EA63FF8AFFE4E42AF8EA8C1FF8BD" box="[297,833,1862,1903]" fontSize="11" level="2" pageId="0" pageNumber="211" reason="2">
+<emphasis id="C9AB811DFF8AFFE4E42AF8EA8DF5F8BD" bold="true" box="[297,683,1862,1903]" pageId="0" pageNumber="211">
+3. 
+<taxonomicName id="3CDF268CFF8AFFE4E46AF8EA8DF5F8BD" box="[361,683,1862,1903]" kingdom="Animalia" pageId="0" pageNumber="211" rank="genus">Odontofroggattia</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8AFFE4E469F8D58C99F807" pageId="0" pageNumber="211" type="materials_examined">
+<paragraph id="FB605D0FFF8AFFE4E469F8D58C99F807" blockId="0.[297,1697,1862,2005]" pageId="0" pageNumber="211">
+<materialsCitation id="4BB75752FF8AFFE4E469F8D58C9CF807" ID-GBIF-Occurrence="3345364361" collectedFrom="ex fruits of small-leaved Ficus" collectingDate="1936-06-14" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="0" pageNumber="211">
+<collectingMunicipality id="1B04C775FF8AFFE4E469F8D58D7BF871" box="[362,549,1913,1955]" pageId="0" pageNumber="211">Barrigada</collectingMunicipality>
+, 
+<date id="8F617BCFFF8AFFE4E73CF8D58D8CF871" box="[575,722,1913,1955]" pageId="0" pageNumber="211" value="2014-06">
+<collectingDate id="9F258227FF8AFFE4E73CF8D58D8CF871" box="[575,722,1913,1955]" pageId="0" pageNumber="211" value="2014-06">June 14</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8AFFE4E7EEF8D58C48F871" box="[749,790,1913,1955]" pageId="0" pageNumber="211" type="generic">ex</specimenCount>
+fruits of small-leaved 
+<taxonomicName id="3CDF268CFF8AFFE4E1CEF8D58A8DF871" authority=", Swezey." authorityName="Swezey." box="[1229,1491,1913,1955]" class="Gastropoda" family="Ficidae" genus="Ficus" kingdom="Animalia" order="Littorinimorpha" pageId="0" pageNumber="211" phylum="Mollusca" rank="genus">
+<emphasis id="C9AB811DFF8AFFE4E1CEF8D58A69F871" box="[1229,1335,1913,1955]" italics="true" pageId="0" pageNumber="211">
+<location id="FE000BD4FF8AFFE4E1CEF8D58A6EF871" LSID="urn:lsid:plazi:treatment:7376EC19FF8AFFE4E61EF956893EF66F:FE000BD4FF8AFFE4E1CEF8D58A6EF871" box="[1229,1328,1913,1955]" municipality="Barrigada" name="Ficus" pageId="0" pageNumber="211">Ficus</location>
+,
+</emphasis>
+<collectorName id="562A38D9FF8AFFE4E04FF8D58A8DF871" box="[1356,1491,1913,1955]" pageId="0" pageNumber="211">Swezey</collectorName>
+</taxonomicName>
+. 
+<location id="FE000BD4FF8AFFE4E0F5F8D58961F871" LSID="urn:lsid:plazi:treatment:7376EC19FF8AFFE4E61EF956893EF66F:FE000BD4FF8AFFE4E0F5F8D58961F871" box="[1526,1599,1913,1955]" municipality="Barrigada" name="One" pageId="0" pageNumber="211">One</location>
+slide mount, retained at 
+<location id="FE000BD4FF8AFFE4E783F8018C9CF807" LSID="urn:lsid:plazi:treatment:7376EC19FF8AFFE4E61EF956893EF66F:FE000BD4FF8AFFE4E783F8018C9CF807" box="[640,962,1965,2005]" municipality="Barrigada" name="National Museum" pageId="0" pageNumber="211">National Museum</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8AFFE4E42AF8558D65F7F1" box="[297,571,2041,2083]" pageId="0" pageNumber="211" type="discussion">
+<paragraph id="FB605D0FFF8AFFE4E42AF8558D65F7F1" blockId="0.[297,1695,2041,2186]" box="[297,571,2041,2083]" pageId="0" pageNumber="211">
+<heading id="A028EA63FF8AFFE4E42AF8558D65F7F1" box="[297,571,2041,2083]" fontSize="11" level="2" pageId="0" pageNumber="211" reason="2">
+<emphasis id="C9AB811DFF8AFFE4E42AF8558E19F7F1" bold="true" box="[297,327,2041,2083]" pageId="0" pageNumber="211">4.</emphasis>
+New genus.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8AFFE4E46FF7808EE4F758" pageId="0" pageNumber="211" type="materials_examined">
+<paragraph id="FB605D0FFF8AFFE4E46FF7808EE4F758" blockId="0.[297,1695,2041,2186]" pageId="0" pageNumber="211">
+<materialsCitation id="4BB75752FF8AFFE4E46FF7808EEBF758" ID-GBIF-Occurrence="3901040304" collectedFrom="ex fruits of a large-leaved Ficus" collectingDate="1936-09-22" collectorName="O. H. Swezey" country="Guam" location="Mount Chachao" pageId="0" pageNumber="211" specimenCount="10">
+<collectingMunicipality id="1B04C775FF8AFFE4E46FF7808DEBF784" box="[364,693,2092,2134]" pageId="0" pageNumber="211">Near Mt. Chachao</collectingMunicipality>
+, 
+<date id="8F617BCFFF8AFFE4E7C9F7808CC7F784" box="[714,921,2092,2134]" pageId="0" pageNumber="211" value="2010-09-22">
+<collectingDate id="9F258227FF8AFFE4E7C9F7808CC7F784" box="[714,921,2092,2134]" pageId="0" pageNumber="211" value="2010-09-22">Sept. 22, 10</collectingDate>
+</date>
+specimens 
+<specimenCount id="EDD99686FF8AFFE4E162F7808BD4F784" box="[1121,1162,2092,2134]" pageId="0" pageNumber="211" type="generic">ex</specimenCount>
+fruits of a large-leaved 
+<taxonomicName id="3CDF268CFF8AFFE4E336F7808EE4F758" authority=", Swezey." authorityName="Swezey." class="Gastropoda" family="Ficidae" genus="Ficus" kingdom="Animalia" order="Littorinimorpha" pageId="0" pageNumber="211" phylum="Mollusca" rank="genus">
+<emphasis id="C9AB811DFF8AFFE4E336F78089C1F784" box="[1589,1695,2092,2134]" italics="true" pageId="0" pageNumber="211">
+<location id="FE000BD4FF8AFFE4E336F78089C6F784" LSID="urn:lsid:plazi:treatment:7376EC19FF8AFFE4E61EF956893EF66F:FE000BD4FF8AFFE4E336F78089C6F784" box="[1589,1688,2092,2134]" municipality="Near Mt. Chachao" name="Ficus" pageId="0" pageNumber="211">Ficus</location>
+,
+</emphasis>
+<collectorName id="562A38D9FF8AFFE4E42EF7F38EEBF758" box="[301,437,2143,2186]" pageId="0" pageNumber="211">Swezey</collectorName>
+.
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8AFFE4E428F7078EB3F704" box="[299,493,2219,2262]" pageId="0" pageNumber="211" type="discussion">
+<paragraph id="FB605D0FFF8AFFE4E428F7078EB3F704" blockId="0.[299,1694,2219,2365]" box="[299,493,2219,2262]" pageId="0" pageNumber="211">
+<heading id="A028EA63FF8AFFE4E428F7078EB3F704" box="[299,493,2219,2262]" fontSize="11" level="2" pageId="0" pageNumber="211" reason="2">
+<emphasis id="C9AB811DFF8AFFE4E428F7078E17F704" bold="true" box="[299,329,2219,2262]" pageId="0" pageNumber="211">5.</emphasis>
+Genus?
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8AFFE4E469F7718AC0F6EF" pageId="0" pageNumber="211" type="materials_examined">
+<paragraph id="FB605D0FFF8AFFE4E469F7718AC0F6EF" blockId="0.[299,1694,2219,2365]" pageId="0" pageNumber="211">
+<materialsCitation id="4BB75752FF8AFFE4E469F77189C8F6DB" ID-GBIF-Occurrence="3901040356" box="[362,1686,2269,2313]" collectedFrom="ex fruits of small-leaved Ficus" collectingDate="1936-06-14" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="0" pageNumber="211" specimenCount="39">
+Thirty-riine 
+<specimenCount id="EDD99686FF8AFFE4E740F7718DA8F6DB" box="[579,758,2269,2313]" pageId="0" pageNumber="211" type="generic">specimens</specimenCount>
+, 
+<specimenCount id="EDD99686FF8AFFE4E60AF7718C6DF6DB" box="[777,819,2269,2313]" pageId="0" pageNumber="211" type="generic">ex</specimenCount>
+fruits of small-leaved 
+<emphasis id="C9AB811DFF8AFFE4E1C1F7718A6CF6DB" box="[1218,1330,2269,2313]" italics="true" pageId="0" pageNumber="211">
+<taxonomicName id="3CDF268CFF8AFFE4E1C1F7718A72F6DB" authority=": Barrigada" authorityName="Barrigada" box="[1218,1324,2269,2313]" class="Gastropoda" family="Ficidae" genus="Ficus" kingdom="Animalia" order="Littorinimorpha" pageId="0" pageNumber="211" phylum="Mollusca" rank="genus">
+<location id="FE000BD4FF8AFFE4E1C1F7718A72F6DB" LSID="urn:lsid:plazi:treatment:7376EC19FF8AFFE4E61EF956893EF66F:FE000BD4FF8AFFE4E1C1F7718A72F6DB" box="[1218,1324,2269,2313]" municipality="Barrigada" name="Ficus" pageId="0" pageNumber="211">Ficus</location>
+</taxonomicName>
+:
+</emphasis>
+<collectingMunicipality id="1B04C775FF8AFFE4E042F7718AAAF6DB" box="[1345,1524,2269,2313]" pageId="0" pageNumber="211">Barrigada</collectingMunicipality>
+, 
+<date id="8F617BCFFF8AFFE4E305F77189C8F6DB" box="[1542,1686,2269,2313]" pageId="0" pageNumber="211" value="2014-06">
+<collectingDate id="9F258227FF8AFFE4E305F77189C8F6DB" box="[1542,1686,2269,2313]" pageId="0" pageNumber="211" value="2014-06">June 14</collectingDate>
+</date>
+</materialsCitation>
+; 
+<materialsCitation id="4BB75752FF8AFFE4E42FF6BE8C48F6EF" ID-GBIF-Occurrence="3901040374" box="[300,790,2322,2365]" collectingDate="1936-06-16" collectorName="O. H. Swezey" country="Guam" location="Mount Chachao" pageId="0" pageNumber="211">
+near 
+<location id="FE000BD4FF8AFFE4E48BF6BE8D30F6EF" LSID="urn:lsid:plazi:treatment:7376EC19FF8AFFE4E61EF956893EF66F:FE000BD4FF8AFFE4E48BF6BE8D30F6EF" box="[392,622,2322,2365]" name="Mt. Chachao" pageId="0" pageNumber="211">Mt. Chachao</location>
+, 
+<date id="8F617BCFFF8AFFE4E781F6BE8C48F6EF" box="[642,790,2322,2365]" pageId="0" pageNumber="211" value="2016-06">
+<collectingDate id="9F258227FF8AFFE4E781F6BE8C48F6EF" box="[642,790,2322,2365]" pageId="0" pageNumber="211" value="2016-06">June 16</collectingDate>
+</date>
+</materialsCitation>
+; 
+<materialsCitation id="4BB75752FF8AFFE4E62EF6BE8B42F6EF" ID-GBIF-Occurrence="3901040354" box="[813,1052,2322,2365]" collectingDate="1936-10-21" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="0" pageNumber="211">
+<collectingMunicipality id="1B04C775FF8AFFE4E62EF6BE8CD8F6EF" box="[813,902,2322,2365]" pageId="0" pageNumber="211">Yigo</collectingMunicipality>
+, 
+<date id="8F617BCFFF8AFFE4E69DF6BE8B42F6EF" box="[926,1052,2322,2365]" pageId="0" pageNumber="211" value="2021-10">
+<collectingDate id="9F258227FF8AFFE4E69DF6BE8B42F6EF" box="[926,1052,2322,2365]" pageId="0" pageNumber="211" value="2021-10">Oct. 21</collectingDate>
+</date>
+</materialsCitation>
+and 
+<materialsCitation id="4BB75752FF8AFFE4E17DF6BE8AC7F6EF" ID-GBIF-Occurrence="3901040396" box="[1150,1433,2322,2365]" collectingDate="1936-11-08" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="0" pageNumber="211">
+<date id="8F617BCFFF8AFFE4E17DF6BE8BA6F6EF" box="[1150,1272,2322,2365]" pageId="0" pageNumber="211">
+<collectingDate id="9F258227FF8AFFE4E17DF6BE8BA6F6EF" box="[1150,1272,2322,2365]" pageId="0" pageNumber="211">Nov. 8</collectingDate>
+</date>
+, 
+<collectorName id="562A38D9FF8AFFE4E011F6BE8AC7F6EF" box="[1298,1433,2322,2365]" pageId="0" pageNumber="211">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8AFFE4E428F6CC8EB0F65B" box="[299,494,2399,2442]" pageId="0" pageNumber="211" type="discussion">
+<paragraph id="FB605D0FFF8AFFE4E428F6CC8EB0F65B" blockId="0.[299,1632,2399,2493]" box="[299,494,2399,2442]" pageId="0" pageNumber="211">
+<heading id="A028EA63FF8AFFE4E428F6CC8E17F658" box="[299,329,2400,2442]" centered="true" fontSize="11" level="2" pageId="0" pageNumber="211" reason="2">
+<emphasis id="C9AB811DFF8AFFE4E428F6CC8E17F658" bold="true" box="[299,329,2400,2442]" pageId="0" pageNumber="211">6.</emphasis>
+</heading>
+Genus?
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8AFFE4E468F63E893EF66F" box="[363,1632,2450,2493]" pageId="0" pageNumber="211" type="materials_examined">
+<paragraph id="FB605D0FFF8AFFE4E468F63E893EF66F" blockId="0.[299,1632,2399,2493]" box="[363,1632,2450,2493]" pageId="0" pageNumber="211">
+<materialsCitation id="4BB75752FF8AFFE4E468F63E8905F66F" ID-GBIF-Occurrence="3901040384" box="[363,1627,2450,2493]" collectedFrom="ex fruit of small-leaved Ficus" collectingDate="1936-10-21" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="0" pageNumber="211" specimenCount="1">
+<location id="FE000BD4FF8AFFE4E468F63E8E9DF66F" LSID="urn:lsid:plazi:treatment:7376EC19FF8AFFE4E61EF956893EF66F:FE000BD4FF8AFFE4E468F63E8E9DF66F" box="[363,451,2450,2493]" name="Yigo" pageId="0" pageNumber="211">Yigo</location>
+, 
+<date id="8F617BCFFF8AFFE4E4DBF63E8D05F66F" box="[472,603,2450,2493]" pageId="0" pageNumber="211" value="2021-10">
+<collectingDate id="9F258227FF8AFFE4E4DBF63E8D05F66F" box="[472,603,2450,2493]" pageId="0" pageNumber="211" value="2021-10">Oct. 21</collectingDate>
+</date>
+, a single 
+<specimenCount id="EDD99686FF8AFFE4E602F63E8CC1F66F" box="[769,927,2450,2493]" pageId="0" pageNumber="211" type="generic">specimen</specimenCount>
+<specimenCount id="EDD99686FF8AFFE4E6AEF63E8C89F66F" box="[941,983,2450,2493]" pageId="0" pageNumber="211" type="generic">ex</specimenCount>
+fruit of small-leaved 
+<taxonomicName id="3CDF268CFF8AFFE4E058F63E893EF66F" authority=", Swezey." authorityName="Swezey." box="[1371,1632,2450,2493]" class="Gastropoda" family="Ficidae" genus="Ficus" kingdom="Animalia" order="Littorinimorpha" pageId="0" pageNumber="211" phylum="Mollusca" rank="genus">
+<emphasis id="C9AB811DFF8AFFE4E058F63E8A9BF66F" box="[1371,1477,2450,2493]" italics="true" pageId="0" pageNumber="211">
+<location id="FE000BD4FF8AFFE4E058F63E8AE0F66F" LSID="urn:lsid:plazi:treatment:7376EC19FF8AFFE4E61EF956893EF66F:FE000BD4FF8AFFE4E058F63E8AE0F66F" box="[1371,1470,2450,2493]" name="Ficus" pageId="0" pageNumber="211">Ficus</location>
+,
+</emphasis>
+<collectorName id="562A38D9FF8AFFE4E0D7F63E8905F66F" box="[1492,1627,2450,2493]" pageId="0" pageNumber="211">Swezey</collectorName>
+.
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

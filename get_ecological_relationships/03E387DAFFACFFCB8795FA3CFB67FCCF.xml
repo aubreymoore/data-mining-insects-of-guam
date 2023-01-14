@@ -1,0 +1,84 @@
+<document id="8618F7FE7E3CCD30C273645CF834F758" ID-DOI="http://doi.org/10.5281/zenodo.5159673" ID-GBIF-Dataset="7700299b-eb39-4c24-86fe-2eabb15beda7" ID-Zenodo-Dep="5159673" approvalRequired="1" approvalRequired_for_document="1" checkinTime="1628017110730" checkinUser="carolina" docAuthor="Blair, K. G." docDate="1942" docId="03E387DAFFACFFCB8795FA3CFB67FCCF" docLanguage="en" docName="InsectsOfGuamI.172.56-60.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Glipa guamensis Blair, 1942, new species" docType="treatment" docVersion="10" lastPageNumber="59" masterDocId="FFDAFFA2FFAEFFC88657F353FF92FFF8" masterDocTitle="Coleoptera Heteromera From Guam" masterLastPageNumber="60" masterPageNumber="56" pageNumber="58" updateTime="1660277432610" updateUser="aubreymoore">
+<mods:mods id="44A3E33A03772EC1D463BC4062DEB879" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="FBD9BD793A3BD38D5E971A087521341F">
+<mods:title id="262DDE36B9DB668035B9DA987BA39C66">Coleoptera Heteromera From Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="3638509F4316220F9D29CD219402E846" type="personal">
+<mods:role id="73E196417A514988D8A1811E78FDADAA">
+<mods:roleTerm id="40AC4DCA84768F2E4D4234F6C100E9C4">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="41F1CEF8C4D1688EA24A178A28060F40">Blair, K. G.</mods:namePart>
+<mods:affiliation id="4CE50147B95840DD432CC73DF0F0442B">British Museum \ (Natural History), London</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="B5C62EF25A4DEF5E7DC4F95405BE53C1">text</mods:typeOfResource>
+<mods:relatedItem id="D0905A4C7121D60D38DAFCB0415F7A7E" type="host">
+<mods:originInfo id="06F7A79C11FC9318E8405B4A38ECDD08">
+<mods:dateIssued id="E4B6C1EEC2663DDEF52C35EBED8F2CED">1942</mods:dateIssued>
+<mods:dateOther id="E049BD8FDEDDBE874AA215FE0B73B83E" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="73ACDF1E8068ED65170FD995BD67E377">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="4DCBDA6E7A6CCDA71D680DE2A823D751">
+<mods:placeTerm id="029690A508486525216C84C55359FE67">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A5051148698F694213E3323821F4C8C2">
+<mods:title id="237BA62CFAE33721A4EE66AFFE3C0DBF">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="143AFE7D50B253BECBC94BC009BB4EE3">
+<mods:extent id="DCF821447873FE98A49A2099F4181085" unit="page">
+<mods:start id="C5BAAC2BCC1A3807BE18142A174F7773">56</mods:start>
+<mods:end id="947B076BB2D8FA63923DC3061AE95CED">60</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="C452A415416C4B9D6E474F4DAB29149D">book chapter</mods:classification>
+<mods:identifier id="48180E24EB963AF37FACC13AC452326E" type="DOI">http://doi.org/10.5281/zenodo.5159673</mods:identifier>
+<mods:identifier id="0DC398195F67D4CC14D9DF202D6FB860" type="GBIF-Dataset">7700299b-eb39-4c24-86fe-2eabb15beda7</mods:identifier>
+<mods:identifier id="24F0AA02328C94FE61D8F3ED014836BC" type="Zenodo-Dep">5159673</mods:identifier>
+</mods:mods>
+<treatment id="03E387DAFFACFFCB8795FA3CFB67FCCF" ID-DOI="http://doi.org/10.5281/zenodo.5163534" ID-GBIF-Taxon="183919363" ID-Zenodo-Dep="5163534" LSID="urn:lsid:plazi:treatment:03E387DAFFACFFCB8795FA3CFB67FCCF" httpUri="http://treatment.plazi.org/id/03E387DAFFACFFCB8795FA3CFB67FCCF" lastPageId="3" lastPageNumber="59" pageId="2" pageNumber="58">
+<subSubSection id="C3506547FFACFFCA8795FA3CFBB7F66E" box="[450,1061,2415,2454]" pageId="2" pageNumber="58" type="nomenclature">
+<paragraph id="8BF536CCFFACFFCA8795FA3CFBB7F66E" blockId="2.[450,1842,2415,2538]" box="[450,1061,2415,2454]" pageId="2" pageNumber="58">
+<heading id="D0BD81A0FFACFFCA8795FA3CFBB7F66E" box="[450,1061,2415,2454]" fontSize="8" level="2" pageId="2" pageNumber="58" reason="4">
+1. 
+<taxonomicName id="4C4A4D4FFFACFFCA87A8FA3CFCA2F66E" authorityName="Blair" authorityYear="1942" box="[511,816,2415,2454]" class="Insecta" family="Mordellidae" genus="Glipa" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="58" phylum="Arthropoda" rank="species" species="guamensis" status="new species">Glipa guamensis</taxonomicName>
+, 
+<taxonomicNameLabel id="A20D57A5FFACFFCA8510FA3CFBB2F66E" box="[839,1056,2415,2454]" pageId="2" pageNumber="58" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFACFFCB8452FAF3F9CDFDAC" lastPageId="3" lastPageNumber="59" pageId="2" pageNumber="58" type="description">
+<paragraph id="8BF536CCFFACFFCB8452FAF3F9CDFDAC" blockId="2.[450,1842,2415,2538]" lastBlockId="3.[281,1677,367,823]" lastPageId="3" lastPageNumber="59" pageId="2" pageNumber="58">
+Black, with markings of white pubescence. Scutellum clothed with white pubescence. Elytra each with four transverse white bands, one near base broadly interrupted on 
+<pageTitle id="CBD5EEABFFADFFCB874EF21BF919FE94" box="[281,1675,328,364]" pageId="3" pageNumber="59">shoulder, the second narrower, chevron-like, with point directed forward just before the middle,</pageTitle>
+3d similar, midway between this and apex, 4th crescentic, subapical, none of them encroaching upon sutural margin or epipleura, apex of each rounded, minutely denticulate. Anal style more than twice as long as hypopygium, with patch of white pubescence on each side near base. Underside and legs black with a patch of white pubescence on each side of first four segments of abdomen; posterior margin of these segments shining, glabrous; metasternum and posterior legs shining with thin black pubescence. Length of elytron 
+<quantity id="4CB29B29FFADFFCB8053F162F9C9FDAC" box="[1540,1627,561,596]" metricMagnitude="-3" metricUnit="m" metricValue="6.0" pageId="3" pageNumber="59" unit="mm" value="6.0">6 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFADFFCB870DF122FB7AFD61" box="[346,1256,625,665]" pageId="3" pageNumber="59" type="materials_examined">
+<paragraph id="8BF536CCFFADFFCB870DF122FB7AFD61" blockId="3.[281,1677,367,823]" box="[346,1256,625,665]" pageId="3" pageNumber="59">
+<materialsCitation id="3B223C91FFADFFCB870DF122FB7AFD61" ID-GBIF-Occurrence="3331241315" box="[346,1256,625,665]" collectingDate="1936-04-08" collectorName="E. H. Bryan" country="Guam" location="Canada" pageId="3" pageNumber="59" specimenCount="1">
+<collectingCountry id="F35D765CFFADFFCB870DF122FE4CFD61" box="[346,478,625,665]" name="Canada" pageId="3" pageNumber="59">Canada</collectingCountry>
+, 
+<date id="FFF4100CFFADFFCB87A2F122FDE5FD61" box="[501,631,625,665]" pageId="3" pageNumber="59">
+<collectingDate id="EFB0E9E4FFADFFCB87A2F122FDE5FD61" box="[501,631,625,665]" pageId="3" pageNumber="59">April 8</collectingDate>
+</date>
+, 
+<location id="8E956017FFADFFCB84C6F122FD6DFD61" LSID="urn:lsid:plazi:treatment:03E387DAFFACFFCB8795FA3CFB67FCCF:8E956017FFADFFCB84C6F122FD6DFD61" box="[657,767,625,665]" country="Canada" name="Bryan" pageId="3" pageNumber="59">Bryan</location>
+, one fragmentary example.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFADFFCB870FF1F4FB67FCCF" pageId="3" pageNumber="59" type="discussion">
+<paragraph id="8BF536CCFFADFFCB870FF1F4FB67FCCF" blockId="3.[281,1677,367,823]" pageId="3" pageNumber="59">
+Allied to the common and widely distributed 
+<taxonomicName id="4C4A4D4FFFADFFCB82E6F1F4F91EFD37" authority="Wiedemann" authorityName="Wiedemann" box="[1201,1676,679,719]" class="Insecta" family="Mordellidae" genus="Glipa" kingdom="Animalia" order="Coleoptera" pageId="3" pageNumber="59" phylum="Arthropoda" rank="species" species="tricolor">
+<emphasis id="B93EEADEFFADFFCB82E6F1F4FA36FD37" box="[1201,1444,679,719]" italics="true" pageId="3" pageNumber="59">Glipa tricolor</emphasis>
+Wiedemann
+</taxonomicName>
+but differs in the form of the elytral markings and the more thinly pubescent and shining underside with but little white pubescence.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

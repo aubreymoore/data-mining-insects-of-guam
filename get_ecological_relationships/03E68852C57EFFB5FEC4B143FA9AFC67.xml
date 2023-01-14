@@ -1,0 +1,212 @@
+<document id="6087C262E8DE8806C68939B888B9A8D0" ID-DOI="http://doi.org/10.5281/zenodo.5159515" ID-GBIF-Dataset="c9232a85-5a09-440a-9ede-102073e7b6f0" ID-Zenodo-Dep="5159515" checkinTime="1627051975127" checkinUser="carolina" docAuthor="SWEZEY, O. H. &amp; WILLIAMS, F. X." docDate="1942" docId="03E68852C57EFFB5FEC4B143FA9AFC67" docLanguage="en" docName="InsectsOfGuamI.172.3-6.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 172" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pantala flavescens" docType="treatment" docVersion="13" lastPageNumber="5" masterDocId="FFDFF02AC57CFFB7FF89B354FF83F875" masterDocTitle="ODONATA, DRAGONFLIES OF GUAM" masterLastPageNumber="6" masterPageNumber="3" pageNumber="5" updateTime="1658861037059" updateUser="ExternalLinkService">
+<mods:mods id="97AAAC8E76A2649B34992275192D327B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="00D4FFAB1C29954CDF83D066903DFB4C">
+<mods:title id="C0CC036C2A170D63F7CE549F0C90D159">ODONATA, DRAGONFLIES OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="1E4985200E922CC804E74EA883BFD5E6" type="personal">
+<mods:role id="4A74EEE90D17B9887B08669CE8119D1F">
+<mods:roleTerm id="27038A4E168CF60FEA3C418EC370E84A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="633007FF9E4F523A3942B2F8E7041697">SWEZEY, O. H.</mods:namePart>
+<mods:affiliation id="75FC2A9E58683364207FB652921C0AF4">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:name id="917C7ED08405D605C2484C1B5E4BEF88" type="personal">
+<mods:role id="A82C5F0AC4E2599ECF2BADF051EDF1AA">
+<mods:roleTerm id="02811DBC95609DED1E076D6FB570CB88">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B03114DD0A54B6BA0116FA13AB19B2D5">WILLIAMS, F. X.</mods:namePart>
+<mods:affiliation id="55F18602F8DA61AFEA37BA44142A0E24">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="759AAA6F8DB0180B22225C3A018924CB">text</mods:typeOfResource>
+<mods:relatedItem id="53F80EDE0CEE0C246F51437EC963D77E" type="host">
+<mods:originInfo id="0CBA5AE6C01EA10E8AC10024DE6E51F3">
+<mods:dateIssued id="3A38F0330FF6B0CB29E18D01B0A99041">1942</mods:dateIssued>
+<mods:dateOther id="D4146205665743E9364EAA8132D684CF" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="8CE2A1AFBC3A3373852B0BE21B12A600">Bernice P. Bishop Museum, Bulletin 172</mods:publisher>
+<mods:place id="045FE0F2A6B18C86013D34E89827ACF0">
+<mods:placeTerm id="98E2977F4D39730BC41CD662009C58F6">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="8014CD05F2E0AF540C15300DF3951DC0">
+<mods:title id="1417C57BA323089955997EA67EFBBC2C">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="EF9B71A022680CAE204CC541218FE845">
+<mods:extent id="88AA91DE7986EB4F111D5134EADA4902" unit="page">
+<mods:start id="77054E0352C699E833EB302E8E1850B0">3</mods:start>
+<mods:end id="78722080E6358AC718AB703AF896A71B">6</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="925858286250E0F9690D69E0DF1C20E6">book chapter</mods:classification>
+<mods:identifier id="656E1F93955630655D168490C16689AE" type="DOI">http://doi.org/10.5281/zenodo.5159515</mods:identifier>
+<mods:identifier id="E57AEDA51ABF87CF2630DE0B15B3D8DB" type="GBIF-Dataset">c9232a85-5a09-440a-9ede-102073e7b6f0</mods:identifier>
+<mods:identifier id="2C527EE477B3B8DA019CFD84A9FBC33E" type="Zenodo-Dep">5159515</mods:identifier>
+</mods:mods>
+<treatment id="03E68852C57EFFB5FEC4B143FA9AFC67" ID-DOI="http://doi.org/10.5281/zenodo.5129027" ID-GBIF-Taxon="183919247" ID-Zenodo-Dep="5129027" LSID="urn:lsid:plazi:treatment:03E68852C57EFFB5FEC4B143FA9AFC67" httpUri="http://treatment.plazi.org/id/03E68852C57EFFB5FEC4B143FA9AFC67" lastPageNumber="5" pageId="2" pageNumber="5">
+<subSubSection id="C3556ACFC57EFFB5FEC4B143FC4AFA34" box="[333,969,535,577]" pageId="2" pageNumber="5" type="nomenclature">
+<paragraph id="8BF03944C57EFFB5FEC4B143FC4AFA34" blockId="2.[333,1727,535,1042]" box="[333,969,535,577]" pageId="2" pageNumber="5">
+<heading id="D0B88E28C57EFFB5FEC4B143FC4AFA34" box="[333,969,535,577]" fontSize="11" level="2" pageId="2" pageNumber="5" reason="2">
+<emphasis id="B93BE556C57EFFB5FEC4B143FEEAFA34" bold="true" box="[333,361,535,577]" pageId="2" pageNumber="5">7.</emphasis>
+<taxonomicName id="4C4F42C7C57EFFB5FE02B143FC40FA34" authority="(Fabricius)" baseAuthorityName="Fabricius" box="[395,963,535,577]" class="Insecta" family="Libellulidae" genus="Pantala" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="5" phylum="Arthropoda" rank="species" species="flavescens">
+<emphasis id="B93BE556C57EFFB5FE02B143FD5AFA34" bold="true" box="[395,729,535,577]" pageId="2" pageNumber="5">Pantala flavescens</emphasis>
+(Fabricius)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3556ACFC57EFFB5FE04B11EFA8AFB7A" pageId="2" pageNumber="5" type="reference_group">
+<paragraph id="8BF03944C57EFFB5FE04B11EF985FA00" blockId="2.[333,1727,535,1042]" box="[397,1542,586,629]" pageId="2" pageNumber="5">
+<treatmentCitationGroup id="AB5F1E6AC57EFFB5FE04B11EF985FA00" box="[397,1542,586,629]" pageId="2" pageNumber="5">
+<treatmentCitation id="0AEE1F55C57EFFB5FE04B11EF982FA00" box="[397,1537,586,629]" pageId="2" pageNumber="5">
+<taxonomicName id="4C4F42C7C57EFFB5FE04B11EFC56FA00" authority="(Fabricius)" baseAuthorityName="Fabricius" box="[397,981,586,629]" class="Insecta" family="Libellulidae" genus="Libellula" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="5" phylum="Arthropoda" rank="species" species="flavescens">
+<emphasis id="B93BE556C57EFFB5FE04B11EFD6DFA00" box="[397,750,586,629]" italics="true" pageId="2" pageNumber="5">Libellula flavescens</emphasis>
+<bibCitation id="5E653128C57EFFB5FC8DB11EF982FA00" author="Fabricius" box="[772,1537,586,629]" journalOrPublisher="Ent. Syst., Suppl." pageId="2" pageNumber="5" part="285" refId="ref963" type="journal volume" year="1798">
+(
+<author id="53F2D1A1C57EFFB5FC98B11EFC4BFA00" box="[785,968,586,629]" fns="*" inm="true" npo="*" pageId="2" pageNumber="5">Fabricius</author>
+), 
+<journalOrPublisher id="518E3388C57EFFB5FC79B11EFAB6FA00" box="[1008,1333,586,629]" pageId="2" pageNumber="5">Ent. Syst., Suppl.</journalOrPublisher>
+, 
+<part id="FFEB93D9C57EFFB5FAD8B11EFA12FA00" box="[1361,1425,586,629]" pageId="2" pageNumber="5" type="volume">285</part>
+, 
+<year id="FFE77817C57EFFB5FA27B11EF982FA00" box="[1454,1537,586,629]" pageId="2" pageNumber="5">1798</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BF03944C57EFFB5FE02B12BFA8AFB7A" blockId="2.[333,1727,535,1042]" pageId="2" pageNumber="5">
+<treatmentCitationGroup id="AB5F1E6AC57EFFB5FE02B12BFA87FB7A" pageId="2" pageNumber="5">
+<treatmentCitation id="0AEE1F55C57EFFB5FE02B12BF9D8FADD" box="[395,1627,639,680]" pageId="2" pageNumber="5">
+<taxonomicName id="4C4F42C7C57EFFB5FE02B12BFC30FADD" authority="(Fabricius) Hagen, Neur." authorityName="Hagen, Neur." baseAuthorityName="Fabricius" box="[395,947,639,680]" class="Insecta" family="Libellulidae" genus="Pantala" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="5" phylum="Arthropoda" rank="species" species="flavescens">
+<emphasis id="B93BE556C57EFFB5FE02B12BFD55FADD" box="[395,726,639,680]" italics="true" pageId="2" pageNumber="5">Pantala flavescens</emphasis>
+(
+<bibCitation id="5E653128C57EFFB5FD7FB12BF9E3FADD" author="Fabricius &amp; Hagen, Neur" box="[758,1632,639,680]" journalOrPublisher="Perkins, Fauna Haw." pageId="2" pageNumber="5" pagination="62" part="2" refId="ref982" title="North Am" type="journal article" year="1861">
+<author id="53F2D1A1C57EFFB5FD7FB12BFC24FADD" box="[758,935,639,680]" fns="*" inm="true" npo="*" pageId="2" pageNumber="5">Fabricius</author>
+) 
+<author id="53F2D1A1C57EFFB5FC40B12BFB3BFADD" box="[969,1208,639,680]" case="TC" fn="Neur" fnc="TC" fns="N" ln="Hagen" lnc="TC" npo="LnFn" pageId="2" pageNumber="5">Hagen, Neur</author>
+. 
+<title id="F94BD272C57EFFB5FB46B12BFA12FADD" box="[1231,1425,639,680]" jopScore="0.1266604" pageId="2" pageNumber="5" type="_" typeScore="29">North Am</title>
+., 142, 
+<year id="FFE77817C57EFFB5F980B12BF9D8FADD" box="[1545,1627,639,680]" pageId="2" pageNumber="5">1861</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+<treatmentCitation id="0AEE1F55C57EFFB5F9FAB12BFB9CFAAE" pageId="2" pageNumber="5">
+<bibCitation id="5E653128C57EFFB5F9FAB12BFB9CFAAE" author="Fabricius &amp; Hagen, Neur" journalOrPublisher="Perkins, Fauna Haw." pageId="2" pageNumber="5" pagination="62" part="2" refId="ref996" title="North Am" type="journal article" year="1861">
+<journalOrPublisher id="518E3388C57EFFB5F9FAB12BFC8BFAAE" jopScore="0.42130637" pageId="2" pageNumber="5">Perkins, Fauna Haw.</journalOrPublisher>
+<part id="FFEB93D9C57EFFB5FC90B1E5FCB3FAAE" box="[793,816,689,731]" pageId="2" pageNumber="5" type="volume">2</part>
+(
+<part id="FFEB93D9C57EFFB5FCB4B1E5FCD0FAAE" box="[829,851,689,731]" pageId="2" pageNumber="5" type="issue">2</part>
+): 
+<pagination id="B286C7B0C57EFFB5FC00B1E5FC37FAAE" box="[905,948,689,731]" pageId="2" pageNumber="5" type="pagination">62</pagination>
+, 1899
+</bibCitation>
+</treatmentCitation>
+. 
+<bibCitation id="5E653128C57EFFB5FBC8B1E5F92EFAAE" author="Fraser" box="[1089,1709,689,731]" journalOrPublisher="Ins. Samoa" pageId="2" pageNumber="5" pagination="41" part="7" refId="ref1010" type="journal article" year="1927">
+<treatmentCitation id="0AEE1F55C57EFFB5FBC8B1E5F92BFAAE" box="[1089,1704,689,731]" pageId="2" pageNumber="5">
+<author id="53F2D1A1C57EFFB5FBC8B1E5FB3AFAAE" box="[1089,1209,689,731]" pageId="2" pageNumber="5">Fraser</author>
+, 
+<journalOrPublisher id="518E3388C57EFFB5FB5BB1E5FA1EFAAE" box="[1234,1437,689,731]" pageId="2" pageNumber="5">
+Ins. 
+<collectingCountry id="F35879D4C57EFFB5FAACB1E5FA1EFAAE" box="[1317,1437,689,731]" name="Samoa" pageId="2" pageNumber="5">Samoa</collectingCountry>
+</journalOrPublisher>
+<part id="FFEB93D9C57EFFB5FA25B1E5FA46FAAE" box="[1452,1477,689,731]" pageId="2" pageNumber="5" type="volume">7</part>
+(
+<part id="FFEB93D9C57EFFB5FA5DB1E5FA67FAAE" box="[1492,1508,689,731]" pageId="2" pageNumber="5" type="issue">1</part>
+): 
+<pagination id="B286C7B0C57EFFB5F992B1E5F9C5FAAE" box="[1563,1606,689,731]" pageId="2" pageNumber="5" type="pagination">41</pagination>
+, 
+<year id="FFE77817C57EFFB5F9D6B1E5F92BFAAE" box="[1631,1704,689,731]" pageId="2" pageNumber="5">1927</year>
+</treatmentCitation>
+;
+</bibCitation>
+<bibCitation id="5E653128C57EFFB5FE44B1B1FA8AFB7A" author="Fauna Brit" box="[461,1289,741,783]" journalOrPublisher="Ind., Odon." pageId="2" pageNumber="5" part="414" refId="ref1024" type="journal volume" year="1936">
+<treatmentCitation id="0AEE1F55C57EFFB5FE44B1B1FA87FB7A" box="[461,1284,741,783]" pageId="2" pageNumber="5">
+<author id="53F2D1A1C57EFFB5FE44B1B1FD15FB7A" box="[461,662,741,783]" case="TC" fns="*" inm="true" npo="*" pageId="2" pageNumber="5">Fauna Brit</author>
+. 
+<journalOrPublisher id="518E3388C57EFFB5FD27B1B1FCF4FB7A" box="[686,887,741,783]" pageId="2" pageNumber="5">Ind., Odon.</journalOrPublisher>
+3: 
+<part id="FFEB93D9C57EFFB5FC30B1B1FC79FB7A" box="[953,1018,741,783]" pageId="2" pageNumber="5" type="volume">414</part>
+, fig. 115, 
+<year id="FFE77817C57EFFB5FB38B1B1FA87FB7A" box="[1201,1284,741,783]" pageId="2" pageNumber="5">1936</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3556ACFC57EFFB5FE04B04DFBE6FB03" pageId="2" pageNumber="5" type="materials_examined">
+<paragraph id="8BF03944C57EFFB5FE04B04DFBE6FB03" blockId="2.[333,1727,535,1042]" pageId="2" pageNumber="5">
+<materialsCitation id="3B273319C57EFFB5FE04B04DFCFFFB36" ID-GBIF-Occurrence="3331219332" box="[397,892,793,835]" collectingDate="1936-05-14" collectorName="R. L. Usinger" country="Guam" location="Umatac" pageId="2" pageNumber="5">
+<location id="8E906F9FC57EFFB5FE04B04DFD9AFB36" LSID="urn:lsid:plazi:treatment:03E68852C57EFFB5FEC4B143FA9AFC67:8E906F9FC57EFFB5FE04B04DFD9AFB36" box="[397,537,793,835]" name="Umatac" pageId="2" pageNumber="5">Umatac</location>
+, 
+<date id="FFF11F84C57EFFB5FDBFB04DFD47FB36" box="[566,708,793,835]" pageId="2" pageNumber="5" value="2014-05">
+<collectingDate id="EFB5E66CC57EFFB5FDBFB04DFD47FB36" box="[566,708,793,835]" pageId="2" pageNumber="5" value="2014-05">May 14</collectingDate>
+</date>
+, 
+<collectorName id="26BA5C92C57EFFB5FD57B04DFCF6FB36" box="[734,885,793,835]" pageId="2" pageNumber="5">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B273319C57EFFB5FC1AB04DFB0FFB36" ID-GBIF-Occurrence="3866005309" box="[915,1164,793,835]" collectingDate="1936-08-16" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5">
+<location id="8E906F9FC57EFFB5FC1AB04DFC56FB36" LSID="urn:lsid:plazi:treatment:03E68852C57EFFB5FEC4B143FA9AFC67:8E906F9FC57EFFB5FC1AB04DFC56FB36" box="[915,981,793,835]" name="Piti" pageId="2" pageNumber="5">Piti</location>
+, 
+<date id="FFF11F84C57EFFB5FC79B04DFB06FB36" box="[1008,1157,793,835]" pageId="2" pageNumber="5" value="2016-08">
+<collectingDate id="EFB5E66CC57EFFB5FC79B04DFB06FB36" box="[1008,1157,793,835]" pageId="2" pageNumber="5" value="2016-08">Aug. 16</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B273319C57EFFB5FB28B04DFB51FB36" ID-GBIF-Occurrence="3866005346" box="[1185,1234,793,835]" collectingDate="1936-08-23" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5">23,</materialsCitation>
+<materialsCitation id="3B273319C57EFFB5FB60B04DFAF3FB36" ID-GBIF-Occurrence="3866005317" box="[1257,1392,793,835]" collectingDate="1936-09-04" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5">
+<date id="FFF11F84C57EFFB5FB60B04DFAEAFB36" box="[1257,1385,793,835]" pageId="2" pageNumber="5">
+<collectingDate id="EFB5E66CC57EFFB5FB60B04DFAEAFB36" box="[1257,1385,793,835]" pageId="2" pageNumber="5">Sept. 4</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B273319C57EFFB5FA0FB04DFA34FB36" ID-GBIF-Occurrence="3866005342" box="[1414,1463,793,835]" collectingDate="1936-09-26" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5">26,</materialsCitation>
+<materialsCitation id="3B273319C57EFFB5FA44B04DF9C4FB36" ID-GBIF-Occurrence="3866005330" box="[1485,1607,793,835]" collectingDate="1936-10-08" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5">
+<date id="FFF11F84C57EFFB5FA44B04DF9BCFB36" box="[1485,1599,793,835]" pageId="2" pageNumber="5">
+<collectingDate id="EFB5E66CC57EFFB5FA44B04DF9BCFB36" box="[1485,1599,793,835]" pageId="2" pageNumber="5">Oct. 8</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B273319C57EFFB5F9D2B04DF9FBFB36" ID-GBIF-Occurrence="3866005336" box="[1627,1656,793,835]" collectingDate="1936-10-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5">9,</materialsCitation>
+<materialsCitation id="3B273319C57EFFB5F907B04DFE60FB03" ID-GBIF-Occurrence="3866005327" collectingDate="1936-10-25" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5">
+25, 
+<collectorName id="26BA5C92C57EFFB5FED9B018FE5FFB03" box="[336,476,844,886]" pageId="2" pageNumber="5">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B273319C57EFFB5FE7FB018FBE3FB03" ID-GBIF-Occurrence="3331219333" box="[502,1120,844,886]" collectingDate="1936-09-27" collectorName="O. H. Swezey" country="Guam" location="Orote Peninsula" pageId="2" pageNumber="5">
+<location id="8E906F9FC57EFFB5FE7FB018FDD8FB03" LSID="urn:lsid:plazi:treatment:03E68852C57EFFB5FEC4B143FA9AFC67:8E906F9FC57EFFB5FE7FB018FDD8FB03" box="[502,603,844,886]" name="Orote" pageId="2" pageNumber="5">Orote</location>
+peninsula, 
+<date id="FFF11F84C57EFFB5FCA4B018FC43FB03" box="[813,960,844,886]" pageId="2" pageNumber="5" value="1927-09">
+<collectingDate id="EFB5E66CC57EFFB5FCA4B018FC43FB03" box="[813,960,844,886]" pageId="2" pageNumber="5" value="1927-09">Sept. 27</collectingDate>
+</date>
+, 
+<collectorName id="26BA5C92C57EFFB5FC50B018FBE3FB03" box="[985,1120,844,886]" pageId="2" pageNumber="5">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3556ACFC57EFFB5FE05B0D6FA9AFC67" pageId="2" pageNumber="5" type="distribution">
+<paragraph id="8BF03944C57EFFB5FE05B0D6FA9AFC67" blockId="2.[333,1727,535,1042]" pageId="2" pageNumber="5">
+A cosmopolitan dragonfly. 
+<materialsCitation id="3B273319C57EFFB5FCF5B0D6FDF4FBAB" ID-GBIF-Occurrence="3866005305" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="2" pageNumber="5">
+It was collected in 
+<collectingCountry id="F35879D4C57EFFB5FB58B0D6FABBFBDE" box="[1233,1336,898,939]" name="Guam" pageId="2" pageNumber="5">Guam</collectingCountry>
+by 
+<location id="8E906F9FC57EFFB5FA08B0D6F9A0FBDE" LSID="urn:lsid:plazi:treatment:03E68852C57EFFB5FEC4B143FA9AFC67:8E906F9FC57EFFB5FA08B0D6F9A0FBDE" box="[1409,1571,898,939]" country="Guam" name="Fullaway" pageId="2" pageNumber="5">Fullaway</location>
+in 1911, but not recorded
+</materialsCitation>
+. It is probably the most abundant dragonfly in 
+<collectingCountry id="F35879D4C57EFFB5FA5FB0E2F9C2FBAB" box="[1494,1601,950,990]" name="Guam" pageId="2" pageNumber="5">Guam</collectingCountry>
+, and is the only 
+<collectingCountry id="F35879D4C57EFFB5FE67B0BCFDD5FC67" box="[494,598,1000,1042]" name="Guam" pageId="2" pageNumber="5">Guam</collectingCountry>
+species which is also found in Hawaii.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

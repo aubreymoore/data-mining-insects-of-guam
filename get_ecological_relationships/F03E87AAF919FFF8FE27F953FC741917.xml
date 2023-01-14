@@ -1,0 +1,60 @@
+<document id="F6958B6F9FF8C6B38DAC435E9651FF05" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF919FFF8FE27F953FC741917" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Lepidosaphes" docType="treatment" docVersion="10" lastPageNumber="160" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="160" updateTime="1663083075184" updateUser="annettekang">
+<mods:mods id="7B55F089F99C40F3AEB02FDE7BCFEBE1" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="006DC18F53F106B0BE147F8D219DEAE1">
+<mods:title id="603BF500CF2EC2490EC084D96215B469">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="C225D0ED048F046CB72D06B0C91E2C14" type="personal">
+<mods:role id="E1B0EDFD68DF982AB1D218C8207A893D">
+<mods:roleTerm id="F3709B108E418D1DB70AF0642D376BC5">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F5FE8B1F7E8A72442D864FF0CBC50972">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="2D38825A71DE19A542DE62FC066E117B">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="3E5CAA8D376681E039D4CB5AB8323D1F">text</mods:typeOfResource>
+<mods:relatedItem id="E3DB525AC048303740522F70CC54C56B" type="host">
+<mods:originInfo id="77E91DD95F3E5AB8AB47D10431061F73">
+<mods:dateIssued id="A5261A8E7975BF964ADC930A220E71AA">1946</mods:dateIssued>
+<mods:dateOther id="64EDBBE4978CEBD8A5B35C44864E2E2D" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="131A8097FFDF00E44E1BF3BDB9841F1E">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="C75FE4AC4578BD9B30754B5E41BCFB61">
+<mods:placeTerm id="54734EEC8150AD03AE35AC3B9E334B5B">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="45AEDC0F3DB9E1B695345F4E93B2FE93">
+<mods:title id="F3EF44F0761B9291873E3CB618A2943F">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="52CAA0896F60425D322302C5495F2226">
+<mods:extent id="67616D8E97B4D971CC9B75599B7ED66E" unit="page">
+<mods:start id="727722DF0E7F3D77A8D10D5EDD17CA21">157</mods:start>
+<mods:end id="B7828139EFAD80EB51706F736B541BA0">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="72E303C1FFBBB8E89271F80371B95140">book chapter</mods:classification>
+<mods:identifier id="0186186DE017E56203126A5AF1F9F5C0" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="747D3C5D85BF1CEE22B03786CA4B3965" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="CB76B39B46465A9ADE74E0FEEE8C23E1" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF919FFF8FE27F953FC741917" ID-DOI="http://doi.org/10.5281/zenodo.5158130" ID-GBIF-Taxon="183925152" ID-Zenodo-Dep="5158130" LSID="urn:lsid:plazi:treatment:F03E87AAF919FFF8FE27F953FC741917" httpUri="http://treatment.plazi.org/id/F03E87AAF919FFF8FE27F953FC741917" lastPageNumber="160" pageId="3" pageNumber="160">
+<subSubSection id="308D6537F919FFF8FE27F953FB7018C9" box="[421,1204,1741,1783]" pageId="3" pageNumber="160" type="nomenclature">
+<paragraph id="782836BCF919FFF8FE27F953FB7018C9" blockId="3.[421,1204,1741,1833]" box="[421,1204,1741,1783]" pageId="3" pageNumber="160">
+<emphasis id="4AE3EAAEF919FFF8FE27F953FD2A18C9" bold="true" box="[421,750,1741,1783]" pageId="3" pageNumber="160">
+40. 
+<taxonomicName id="BF974D3FF919FFF8FE7BF953FD2A18C9" box="[505,750,1741,1783]" class="Insecta" family="Coccidae" genus="Lepidosaphes" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="3" pageNumber="160" phylum="Arthropoda" rank="genus">Lepidosaphes</taxonomicName>
+</emphasis>
+species near 
+<emphasis id="4AE3EAAEF919FFF8FC69F953FB7018C9" bold="true" box="[1003,1204,1741,1783]" pageId="3" pageNumber="160">tubulorum.</emphasis>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F919FFF8FE66F89FFC741917" box="[484,944,1793,1833]" pageId="3" pageNumber="160" type="materials_examined">
+<paragraph id="782836BCF919FFF8FE66F89FFC741917" blockId="3.[421,1204,1741,1833]" box="[484,944,1793,1833]" pageId="3" pageNumber="160">
+<materialsCitation id="C8FF3CE1F919FFF8FE66F89FFC6F1917" ID-GBIF-Occurrence="3331839301" box="[484,939,1793,1833]" collectedFrom="On mango fruit" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="3" pageNumber="160">
+<collectingMunicipality id="984CACC6F919FFF8FE66F89FFDDE1917" box="[484,538,1793,1833]" pageId="3" pageNumber="160">On</collectingMunicipality>
+mango fruit, 
+<collectorName id="D562536AF919FFF8FCA0F89FFC6F1917" box="[802,939,1793,1833]" pageId="3" pageNumber="160">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

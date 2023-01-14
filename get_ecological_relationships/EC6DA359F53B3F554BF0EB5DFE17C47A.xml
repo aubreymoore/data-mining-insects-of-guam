@@ -1,0 +1,130 @@
+<document id="3A059338A4967DBFF0E8910E1D3F9A31" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F53B3F554BF0EB5DFE17C47A" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Nesodaphne marianensis Usinger 1946, new species" docType="treatment" docVersion="17" lastPageNumber="67" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="66" updateTime="1671674318142" updateUser="annettekang">
+<mods:mods id="254BC4401123EAC02735F47A2F9B9AC5" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="FDA10D9310F2C5A8B37EF6DABA2562FC">
+<mods:title id="4113F279570E333B5C8CBB1663866EE0">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="FB0BC5ADBF2105D2A16564750328D75F" type="personal">
+<mods:role id="724A2D3B8B977636A3A166AD90A0ADB6">
+<mods:roleTerm id="387E4C863A8620FA648B66D903F96EA0">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4B1EB4F7FB815850244D04FD69C2792C">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="8E5FFE302BB3345F9F996A0A3CD5339A">text</mods:typeOfResource>
+<mods:relatedItem id="6C5F6ED2C10A2E983D8C42978F2ACEA5" type="host">
+<mods:originInfo id="CBE36F2438397E96FCC6E2C2AA426615">
+<mods:dateIssued id="E33797376CD6E17913F1ABE596EB938A">1946</mods:dateIssued>
+<mods:dateOther id="A5180A4FBDF1EED0C73071196B7566C5" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="A6B779A904D0A089E93183B656931CFD">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="673898ED2EBA3D73DBD845391C79DEEC">
+<mods:placeTerm id="D23B06DEBDFF683DA9C49854230743AE">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="B057AD2111A3AF21FF224F0C38FC54A0">
+<mods:title id="799A621B16529A7F5D8EC017FB8F54CF">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="A7602854EE94E326E3F501F91CDF9CB3">
+<mods:extent id="3432BED2335A2B2668B1E67FD51E7135" unit="page">
+<mods:start id="71685659A9604E3E7169B59C776DDB48">11</mods:start>
+<mods:end id="BBC5278BAAFD215DC95BD2CF7ABF2B94">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E1545651115642CA140FEC86464A03FA">book chapter</mods:classification>
+<mods:identifier id="3C2707081B1B6EDDBFBB1134B84976E5" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="9ED5CA57AA39A76527C10A04AD200ABD" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="30C68CB535285E1D8D03A766C43535EF" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F53B3F554BF0EB5DFE17C47A" ID-DOI="http://doi.org/10.5281/zenodo.5213823" ID-GBIF-Taxon="184601064" ID-Zenodo-Dep="5213823" LSID="urn:lsid:plazi:treatment:EC6DA359F53B3F554BF0EB5DFE17C47A" httpUri="http://treatment.plazi.org/id/EC6DA359F53B3F554BF0EB5DFE17C47A" lastPageId="56" lastPageNumber="67" pageId="55" pageNumber="66">
+<subSubSection id="2CDE41C4F53B3F5A4BF0EB5DFB41C536" box="[400,1189,1077,1118]" pageId="55" pageNumber="66" type="nomenclature">
+<paragraph id="647B124FF53B3F5A4BF0EB5DFB41C536" blockId="55.[400,1800,1077,2557]" box="[400,1189,1077,1118]" pageId="55" pageNumber="66">
+<heading id="3F33A523F53B3F5A4BF0EB5DFB41C536" box="[400,1189,1077,1118]" fontSize="8" level="2" pageId="55" pageNumber="66" reason="4">
+<emphasis id="56B0CE5DF53B3F5A4BF0EB5DFC50C536" bold="true" box="[400,948,1077,1118]" pageId="55" pageNumber="66">
+63. 
+<taxonomicName id="A3C469CCF53B3F5A4B83EB5DFC49C536" authority="Usinger, 1946" authorityName="Usinger" authorityYear="1946" box="[483,941,1077,1118]" class="Magnoliopsida" family="Miridae" genus="Nesodaphne" kingdom="Plantae" order="Hemiptera" pageId="55" pageNumber="66" phylum="Arthropoda" rank="species" species="marianensis" status="new species">Nesodaphne marianensis</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="4D837326F53B3F5A49A5EB5DFB44C536" box="[965,1184,1077,1118]" pageId="55" pageNumber="66" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F53B3F554BB4EB18FA7BC376" lastPageId="56" lastPageNumber="67" pageId="55" pageNumber="66" type="description">
+<paragraph id="647B124FF53B3F5A4BB4EB18FD6CC5D4" blockId="55.[400,1800,1077,2557]" pageId="55" pageNumber="66">Elongate-oval, densely pubescent, the second antenna! segment with two white rings on basal fourth.</paragraph>
+<paragraph id="647B124FF53B3F5A4BB5EBABFB91C49E" blockId="55.[400,1800,1077,2557]" pageId="55" pageNumber="66">Head three fourths as long as broad, 23: 31; abruptly narrowed in front of the eyes, the width of head at this point, one third of total head width, 10.5: 31 interocular space about one third as wide as head, 10: 31; inner margins of eyes deeply concave anteriorly. Clypeus strongly convex, widened apically, beset with numerous long hairs, depressed at base. Juga.strongly convex. Vertex carinate posteriorly. Rostrum reaching a little beyond middle of mesosternum, the first segment reaching about to base of head; proportion of segments, 14: 11: 9: 14. Antennae over twice as long as head and pronotum together, 119: 54; proportion of segments, 27: 52: 23: 17.</paragraph>
+<paragraph id="647B124FF53B3F5A4BB6E969FA09C666" blockId="55.[400,1800,1077,2557]" pageId="55" pageNumber="66">Pronotum half again as long as head, 32: 23; two thirds as long as broad, 32: 45; strongly and regularly narrowed anteriorly, the width at anterior collar one third as great as across humeri, 16: 45. Collar one fourth as long as wide, 4: 16, feebly convex and briefly emarginate at middle. Pronotal disk moderately convex, slightly depressed behind poorly defined callosities, and beset with ill-defined punctures and long, erect hairs. Disk with 10 clumps of stiffer, black hairs regularly placed, two near middle, six across posterior disk at and between humeri and two behind this near middle.</paragraph>
+<paragraph id="647B124FF53B3F5A4BB6E872FD5AC6E2" blockId="55.[400,1800,1077,2557]" pageId="55" pageNumber="66">Scutellum scarcely broader than long, 23: 21; convex with a broad depression at middle of base, the disk with poorly defined punctures, long pale hairs, and two clumps of long black hairs.</paragraph>
+<paragraph id="647B124FF53B3F5A4BB4E8F9FD8BC9F4" blockId="55.[400,1800,1077,2557]" pageId="55" pageNumber="66">Hemelytra over twice as long as width of pronotum, 100: 45, impunctate, sparsely clothed with erect pale hairs and more densely clothed with appressed white hairs, the actual surface covered with a soft tomentum. Commissure of clavus longer than scutellum, 24:21, the clavus moderately convex. Cerium subflattened, the embolar region depressed and costal margin a little reflexed, moderately arcuate. Cerium less than three times as long as its greatest width, 62: 23. Cuneus twice as long as wide, 21:10, its outer margin feebly arcuate.</paragraph>
+<paragraph id="647B124FF53B3F554BB5E7CAFA6BC087" blockId="55.[400,1800,1077,2557]" lastBlockId="56.[303,1701,343,542]" lastPageId="56" lastPageNumber="67" pageId="55" pageNumber="66">Color pale testaceous and brownish, the head pale with fulvous on vertex. Rostrum brown at apex. Antennae pale with an oblique brown fascia at base and a broad fulvous area at apex of first segment. Second segment brown with short white pubescence and with two pale rings on basal fourth, one at middle, and one at apex; third segment dark brown except for pale ring at apex, and fourth segment entirely brown. Pronotum fulvous with paler anterior margin of collar, disks of callosities, humeri, and narrow hind margin. Scutellum brownish with a white tomentum, the apex white. Clavus brown with white tomentose spots basally and apically. Cerium with numerous pale spots occupying most of basal half, the costal area interrupted with only two brown areas. Apical half more broadly brown. Cuneus brown at middle and at apex. Membrane dark brown at base, infumate apically, with white on apical angle of areole. Under surface largely pale. Legs pale with median and subapical brown rings on femora, two brown rings on anterior tibiae, three on middle tibiae, and four on posterior tibiae. Tarsi brown.</paragraph>
+<paragraph id="647B124FF5343F554B12EE93FA7BC376" blockId="56.[303,1701,343,542]" box="[370,1439,507,542]" pageId="56" pageNumber="67">
+Length 
+<quantity id="A33CBFAAF5343F554B8BEE93FD93C376" box="[491,631,507,542]" metricMagnitude="-3" metricUnit="m" metricValue="4.83" pageId="56" pageNumber="67" unit="mm" value="4.83">4.83 mm</quantity>
+.; width (pronotum) 
+<quantity id="A33CBFAAF5343F5549A0EE93FBD7C376" box="[960,1075,507,542]" metricMagnitude="-3" metricUnit="m" metricValue="1.5" pageId="56" pageNumber="67" unit="mm" value="1.5">1.5 mm</quantity>
+., (hemelytra) 
+<quantity id="A33CBFAAF5343F554F7AEE93FA7FC376" box="[1306,1435,507,542]" metricMagnitude="-3" metricUnit="m" metricValue="1.76" pageId="56" pageNumber="67" unit="mm" value="1.76">1.76 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5343F554B0EED2AFE49C26F" pageId="56" pageNumber="67" type="description">
+<paragraph id="647B124FF5343F554B0EED2AFE49C26F" blockId="56.[298,1700,578,1298]" pageId="56" pageNumber="67">
+<materialsCitation id="D4AC1812F5343F554B0EED2AFC29C305" ID-GBIF-Occurrence="3994028413" box="[366,973,578,621]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="56" pageNumber="67" specimenCount-male="1" typeStatus="holotype">
+<typeStatus id="BB7FACEDF5343F554B0EED2AFDF5C305" box="[366,529,578,621]" pageId="56" pageNumber="67">Holotype</typeStatus>
+male, Fullaway (1200).
+</materialsCitation>
+This specimen was kindly loaned from the 
+<collectingCountry id="1CD352DFF5343F554B12ED1FFE34C3C9" box="[370,464,631,673]" name="United States of America" pageId="56" pageNumber="67">U. S.</collectingCountry>
+National Museum by 
+<collectorName id="C9317799F5343F55490CED1FFB98C3C9" box="[876,1148,631,673]" pageId="56" pageNumber="67">R. I. Sailer. It</collectorName>
+was discovered among miscellaneous Oriental mirids by 
+<collectorName id="C9317799F5343F55496EEDC2FC04C3BC" box="[782,992,682,724]" pageId="56" pageNumber="67">T. Y. Hsiao</collectorName>
+who referred it to me as an undescribed species.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5343F554B0AEC7CFE17C47A" pageId="56" pageNumber="67" type="description">
+<paragraph id="647B124FF5343F554B0AEC7CF9CCC555" blockId="56.[298,1700,578,1298]" pageId="56" pageNumber="67">
+<taxonomicName id="A3C469CCF5343F554B0AEC7CFD99C254" authorityName="Usinger" authorityYear="1946" box="[362,637,788,828]" class="Magnoliopsida" family="Lauraceae" genus="Nesodaphne" kingdom="Plantae" order="Laurales" pageId="56" pageNumber="67" phylum="Tracheophyta" rank="species" species="marianensis">
+<emphasis id="56B0CE5DF5343F554B0AEC7CFD99C254" box="[362,637,788,828]" italics="true" pageId="56" pageNumber="67">N. marianensis</emphasis>
+</taxonomicName>
+is closely allied to 
+<taxonomicName id="A3C469CCF5343F55498EEC7CFADFC254" authority="Kirkaldy" authorityName="Kirkaldy" authorityYear="1908" box="[1006,1339,788,828]" class="Magnoliopsida" family="Lauraceae" genus="Nesodaphne" kingdom="Plantae" order="Laurales" pageId="56" pageNumber="67" phylum="Tracheophyta" rank="species" species="knowlesi">
+<emphasis id="56B0CE5DF5343F55498EEC7CFB63C254" box="[1006,1159,788,828]" italics="true" pageId="56" pageNumber="67">knowlesi</emphasis>
+Kirkaldy
+</taxonomicName>
+, which I have seen from 
+<collectingCountry id="1CD352DFF5343F554BF6EC2EFE3CC219" box="[406,472,838,881]" name="Fiji" pageId="56" pageNumber="67">Fiji</collectingCountry>
+(Kirkaldy's 
+<typeStatus id="BB7FACEDF5343F5548B3EC2EFCCDC219" box="[723,809,838,881]" pageId="56" pageNumber="67">type</typeStatus>
+), 
+<collectingCountry id="1CD352DFF5343F554936EC2EFC28C219" box="[854,972,838,881]" name="Samoa" pageId="56" pageNumber="67">Samoa</collectingCountry>
+(
+<collectorName id="C9317799F5343F554990EC2EFB98C219" box="[1008,1148,838,881]" pageId="56" pageNumber="67">Swezey</collectorName>
+and 
+<collectorName id="C9317799F5343F554E82EC2EFA5BC219" box="[1250,1471,838,881]" pageId="56" pageNumber="67">Zimmerman</collectorName>
+) and 
+<collectorName id="C9317799F5343F554C56EC2EF947C219" box="[1590,1699,838,881]" pageId="56" pageNumber="67">Tahiti</collectorName>
+(
+<collectorName id="C9317799F5343F554B22EC11FD88C2CB" box="[322,620,889,931]" pageId="56" pageNumber="67">J. M. Clements</collectorName>
+). 
+<taxonomicName id="A3C469CCF5343F5548FCEC11FC9CC2CB" authorityName="Kirkaldy" authorityYear="1908" box="[668,888,889,931]" class="Magnoliopsida" family="Lauraceae" genus="Nesodaphne" kingdom="Plantae" order="Laurales" pageId="56" pageNumber="67" phylum="Tracheophyta" rank="species" species="knowlesi">
+<emphasis id="56B0CE5DF5343F5548FCEC11FC9CC2CB" box="[668,888,889,931]" italics="true" pageId="56" pageNumber="67">N. knowlesi</emphasis>
+</taxonomicName>
+has a smoother head which is less abruptly narrowed in front of the eyes; the rostrum is slightly longer, reaching beyond the middle of the mesosternum; the second antenna! segment has only a single basal pale ring; and the hemelytra are more extensively brown basally.
+</paragraph>
+<paragraph id="647B124FF5343F554B0AEB25FE17C47A" blockId="56.[298,1700,578,1298]" pageId="56" pageNumber="67">
+It will be necessary to use the name 
+<taxonomicName id="A3C469CCF5343F554996EB25FA97C511" authority="Kirkaldy" authorityName="Kirkaldy" authorityYear="1902" box="[1014,1395,1101,1145]" class="Insecta" family="Miridae" genus="Tinginotum" kingdom="Animalia" order="Hemiptera" pageId="56" pageNumber="67" phylum="Arthropoda" rank="genus">
+<emphasis id="56B0CE5DF5343F554996EB25FB22C511" box="[1014,1222,1101,1145]" italics="true" pageId="56" pageNumber="67">Tinginotum</emphasis>
+Kirkaldy
+</taxonomicName>
+(Ent. Soc. London, Trans., 263, 1902) in place of 
+<taxonomicName id="A3C469CCF5343F5549A1EBEAFAADC5C4" authority="Kirkaldy" authorityName="Kirkaldy" authorityYear="1908" box="[961,1353,1154,1196]" class="Magnoliopsida" family="Lauraceae" genus="Nesodaphne" kingdom="Plantae" order="Laurales" pageId="56" pageNumber="67" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5343F5549A1EBEAFB7DC5C4" box="[961,1177,1154,1196]" italics="true" pageId="56" pageNumber="67">Nesodaphne</emphasis>
+Kirkaldy
+</taxonomicName>
+(Linn. Soc. N. S. 
+<collectingCountry id="1CD352DFF5343F554B4AEBDDFE7FC5B7" box="[298,411,1205,1247]" name="United Kingdom" pageId="56" pageNumber="67">Wales</collectingCountry>
+, Proc. 33: 380, 1908) if a study of the genotypes shows the two to be congeneric.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

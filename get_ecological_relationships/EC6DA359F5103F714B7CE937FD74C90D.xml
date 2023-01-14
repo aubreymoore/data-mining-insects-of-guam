@@ -1,0 +1,120 @@
+<document id="EEBC16A186640AC360850280D1206AA8" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5103F714B7CE937FD74C90D" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Tingis guamensis Drake" docType="treatment" docVersion="20" lastPageNumber="39" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="39" updateTime="1671571822877" updateUser="annettekang">
+<mods:mods id="FF04D6B25DDC57310F9F06892E144245" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="AB11931A6F7A8C0709436580EA0DAB1D">
+<mods:title id="22289F739EE0A62B006329A6244E0C20">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="DF3745C64845B878B58FD9F5D16C2D83" type="personal">
+<mods:role id="F5D09285982DD0B2C3F0ED78E171B729">
+<mods:roleTerm id="8B1A37B7EA92426BF0B07696F8759138">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="8527FF0C47B2B7270B4BFF94C119F0C9">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="A552BFDAE8ED4243FB8AA2F0B8646DD7">text</mods:typeOfResource>
+<mods:relatedItem id="747BB32ECC763E67B02C6378F2D53ADE" type="host">
+<mods:originInfo id="A2504D85C2B6E9963F88A922C2C679CB">
+<mods:dateIssued id="BAFE7AC60C9A8C1EB1959114586BB52E">1946</mods:dateIssued>
+<mods:dateOther id="60EE369A964675F79932706D6BFCB7D6" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="8A6D003815D34554D89C82A2C2E65840">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="9D679642DA10B87DAB613D9BE9095087">
+<mods:placeTerm id="A591BC50E177C42B56502ED7C762E6B4">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="4BAB8936E5CAC6FDAC1C9639D9A4FCAB">
+<mods:title id="A6AFE238650479CEEBC92C63A4A01A08">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="7A2154A05498ABF15C11A39FB78A25AB">
+<mods:extent id="F6D27481182BF19E6D527BCCF25ECFD2" unit="page">
+<mods:start id="9DC4448C893B2A1F19BBB2D4041920E4">11</mods:start>
+<mods:end id="7705F04459662A84B1C3B495136D3C72">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="68AD4EF7DD44E8E64128AE444D2B2AEF">book chapter</mods:classification>
+<mods:identifier id="1C623B505A083B863EF512BEA3936835" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="8BF7C861444F9E4E495FAE44623707DC" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="0015C2727ADE7886446121985A2E7BEA" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5103F714B7CE937FD74C90D" ID-DOI="http://doi.org/10.5281/zenodo.5213803" ID-GBIF-Taxon="187719861" ID-Zenodo-Dep="5213803" LSID="urn:lsid:plazi:treatment:EC6DA359F5103F714B7CE937FD74C90D" httpUri="http://treatment.plazi.org/id/EC6DA359F5103F714B7CE937FD74C90D" lastPageNumber="39" pageId="28" pageNumber="39">
+<heading id="3F33A523F5103F714B7CE937F976C7E1" box="[284,1682,1631,1673]" centered="true" fontSize="8" level="2" pageId="28" pageNumber="39" reason="4">
+<subSubSection id="2CDE41C4F5103F714B7CE937FCA7C7E1" box="[284,835,1631,1673]" pageId="28" pageNumber="39" type="nomenclature">
+<paragraph id="647B124FF5103F714B7CE937FCD8C7E1" blockId="28.[281,1683,1631,2149]" box="[284,828,1631,1673]" pageId="28" pageNumber="39">
+<emphasis id="56B0CE5DF5103F714B7CE937FEAAC7E1" bold="true" box="[284,334,1631,1673]" pageId="28" pageNumber="39">33.</emphasis>
+<taxonomicName id="A3C469CCF5103F714B10E937FCD8C7E1" authority="Drake" authorityName="Drake" box="[368,828,1631,1673]" class="Insecta" family="Tingidae" genus="Tingis" kingdom="Animalia" order="Hemiptera" pageId="28" pageNumber="39" phylum="Arthropoda" rank="species" species="guamensis" status="new species">
+<emphasis id="56B0CE5DF5103F714B10E937FDBFC7E1" bold="true" box="[368,603,1631,1673]" pageId="28" pageNumber="39">Tingis guamensis</emphasis>
+Drake
+</taxonomicName>
+</paragraph>
+<paragraph id="647B124FF5103F71495CE937FCA7C7E1" blockId="28.[281,1683,1631,2149]" box="[828,835,1631,1673]" pageId="28" pageNumber="39">,</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5103F714937E937F976C7E1" box="[855,1682,1631,1673]" pageId="28" pageNumber="39" type="reference_group">
+<treatmentCitation id="E565345EF5103F714937E937F976C7E1" author="Drake" box="[855,1682,1631,1673]" page="142" pageId="28" pageNumber="39" year="1941">
+<bibCitation id="B1EE1A23F5103F714937E937F976C7E1" author="Drake" box="[855,1682,1631,1673]" journalOrPublisher="Washington Acad. Sci., Jour." pageId="28" pageNumber="39" pagination="142" part="31" refId="ref13718" type="book" year="1941">
+<paragraph id="647B124FF5103F714937E937F969C7E1" blockId="28.[281,1683,1631,2149]" box="[855,1677,1631,1673]" pageId="28" pageNumber="39">
+<treatmentCitationGroup id="44D43561F5103F714937E937F969C7E1" box="[855,1677,1631,1673]" pageId="28" pageNumber="39">
+<journalOrPublisher id="BE051883F5103F714937E937FA65C7E1" box="[855,1409,1631,1673]" pageId="28" pageNumber="39">
+<collectingRegion id="A600DCADF5103F714937E937FBD2C7E1" box="[855,1078,1631,1673]" country="United States of America" name="Washington" pageId="28" pageNumber="39">Washington</collectingRegion>
+Acad. Sci., Jour.
+</journalOrPublisher>
+<emphasis id="56B0CE5DF5103F714FF7E937FA5FC7E1" bold="true" box="[1431,1467,1631,1673]" pageId="28" pageNumber="39">
+<part id="1060B8D2F5103F714FF7E937FA53C7E1" box="[1431,1463,1631,1673]" pageId="28" pageNumber="39" type="volume">31</part>
+:
+</emphasis>
+<pagination id="5D0DECBBF5103F714F80E937F9F8C7E1" box="[1504,1564,1631,1673]" pageId="28" pageNumber="39" type="pageRange">142</pagination>
+, 
+<year id="106C531CF5103F714C5CE937F969C7E1" box="[1596,1677,1631,1673]" pageId="28" pageNumber="39">1941</year>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="647B124FF5103F714CEDE937F976C7E1" blockId="28.[281,1683,1631,2149]" box="[1677,1682,1631,1673]" pageId="28" pageNumber="39">.</paragraph>
+</bibCitation>
+</treatmentCitation>
+</subSubSection>
+</heading>
+<subSubSection id="2CDE41C4F5103F714B3DE9F1FBC5C79F" pageId="28" pageNumber="39" type="materials_examined">
+<paragraph id="647B124FF5103F714B3DE9F1FBC5C79F" blockId="28.[281,1683,1631,2149]" pageId="28" pageNumber="39">
+<materialsCitation id="D4AC1812F5103F714B3DE9F1F9C7C7AC" ID-GBIF-Occurrence="3994028375" box="[349,1571,1689,1732]" collectedFrom="on Premna gaudichaudii" collectingDate="1936-05-17" collectorName="R. L. Usinger" country="Guam" location="Tarague" pageId="28" pageNumber="39" specimenCount="6">
+Six 
+<specimenCount id="72C2D9C6F5103F714BC8E9F1FDBFC7AC" box="[424,603,1689,1732]" pageId="28" pageNumber="39" type="generic">specimens</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5103F714812E9F1FCE3C7AC" box="[626,775,1689,1732]" pageId="28" pageNumber="39">Tarague</collectingMunicipality>
+, 
+<date id="107A348FF5103F714940E9F1FC4DC7AC" box="[800,937,1689,1732]" pageId="28" pageNumber="39" value="2017-05">
+<collectingDate id="003ECD67F5103F714940E9F1FC4DC7AC" box="[800,937,1689,1732]" pageId="28" pageNumber="39" value="2017-05">May 17</collectingDate>
+</date>
+, on 
+<taxonomicName id="A3C469CCF5103F714998E9F1F9C7C7AC" authority=", Usinger" authorityName="Usinger" box="[1016,1571,1689,1732]" class="Magnoliopsida" family="Lamiaceae" genus="Premna" kingdom="Plantae" order="Lamiales" pageId="28" pageNumber="39" phylum="Tracheophyta" rank="species" species="gaudichaudii">
+<emphasis id="56B0CE5DF5103F714998E9F1FA98C7AC" box="[1016,1404,1689,1732]" italics="true" pageId="28" pageNumber="39">
+<location id="611B4494F5103F714998E9F1FB61C7AC" LSID="urn:lsid:plazi:treatment:EC6DA359F5103F714B7CE937FD74C90D:611B4494F5103F714998E9F1FB61C7AC" box="[1016,1157,1689,1732]" municipality="Tarague" name="Premna" pageId="28" pageNumber="39">Premna</location>
+gaudichaudii,
+</emphasis>
+<location id="611B4494F5103F714FEDE9F1F9C7C7AC" LSID="urn:lsid:plazi:treatment:EC6DA359F5103F714B7CE937FD74C90D:611B4494F5103F714FEDE9F1F9C7C7AC" box="[1421,1571,1689,1732]" municipality="Tarague" name="Usinger" pageId="28" pageNumber="39">Usinger</location>
+</taxonomicName>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5103F714C5AE9F1FBF8C79F" ID-GBIF-Occurrence="3994028378" collectingDate="1936-06-02" collectorName="R. L. Usinger" country="Guam" location="Ritidian Point" pageId="28" pageNumber="39" specimenCount="3">
+<specimenCount id="72C2D9C6F5103F714C5AE9F1FE2AC79F" pageId="28" pageNumber="39" type="generic">three specimens</specimenCount>
+, 
+<location id="611B4494F5103F714B84E9A6FD09C79F" LSID="urn:lsid:plazi:treatment:EC6DA359F5103F714B7CE937FD74C90D:611B4494F5103F714B84E9A6FD09C79F" box="[484,749,1742,1783]" name="Ritidian Point," pageId="28" pageNumber="39">Ritidian Point,</location>
+<date id="107A348FF5103F71489BE9A6FC97C79F" box="[763,883,1742,1783]" pageId="28" pageNumber="39">
+<collectingDate id="003ECD67F5103F71489BE9A6FC97C79F" box="[763,883,1742,1783]" pageId="28" pageNumber="39">June 2</collectingDate>
+</date>
+, 
+<location id="611B4494F5103F7149ECE9A6FBF8C79F" LSID="urn:lsid:plazi:treatment:EC6DA359F5103F714B7CE937FD74C90D:611B4494F5103F7149ECE9A6FBF8C79F" box="[908,1052,1742,1783]" name="Usinger" pageId="28" pageNumber="39">Usinger</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5103F714B39E861FD74C90D" pageId="28" pageNumber="39" type="description">
+<paragraph id="647B124FF5103F714B39E861FD74C90D" blockId="28.[281,1683,1631,2149]" pageId="28" pageNumber="39">
+Agrees fairly well with the original description except that the third antennal segment is nearly three times as long as fourth, 40: 14, the costal area is triseriate rather than mostly biseriate, the subcostal area four- or five-seriate rather than &quot;six areolae deep in widest part.&quot; The lateral pronotal carinae are very indistinct in this species. Size in the present series is as follows: male, length 
+<quantity id="A33CBFAAF5103F714BFAE761FDCEC95C" box="[410,554,2057,2100]" metricMagnitude="-3" metricUnit="m" metricValue="2.9" pageId="28" pageNumber="39" unit="mm" value="2.9">2.9 mm</quantity>
+., width (hemelytra) 
+<quantity id="A33CBFAAF5103F7149D9E761FB85C95C" box="[953,1121,2057,2100]" metricMagnitude="-3" metricUnit="m" metricValue="1.35" pageId="28" pageNumber="39" unit="mm" value="1.35">1.35 mm</quantity>
+.; female, length 
+<quantity id="A33CBFAAF5103F714FFBE761F9E8C95C" box="[1435,1548,2057,2100]" metricMagnitude="-3" metricUnit="m" metricValue="3.0" pageId="28" pageNumber="39" unit="mm" value="3.0">3 mm</quantity>
+., width (hemelytra) 
+<quantity id="A33CBFAAF5103F714869E753FD6FC90D" box="[521,651,2107,2149]" metricMagnitude="-3" metricUnit="m" metricValue="1.5" pageId="28" pageNumber="39" unit="mm" value="1.5">1.5 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

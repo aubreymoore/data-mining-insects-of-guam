@@ -1,0 +1,114 @@
+<document id="48B4011A6247428FAFA9C4FA20A62135" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E95FFFB5FEE08062964500C8" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Margaronia species." docType="treatment" docVersion="11" lastPageNumber="183" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="183" updateTime="1670267219364" updateUser="annettekang">
+<mods:mods id="1C4739AC868E02499F5558E6A21D8778" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="0C552D12C1AF80C717DDA4482A2F966C">
+<mods:title id="B8E3ECB74C7DA27691EAC81CD2911FBD">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="6E6888B05C87651EB47AE476DB46C43C" type="personal">
+<mods:role id="4685A34757B0AB8974EFBBB1FCA28904">
+<mods:roleTerm id="D10D89D12609DF72787BED2569801FF1">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="978FBE264C7CCF19BA45DD5D1268044B">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="21DC3B3988F8BD06D1D774E56C75F202">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="BE2AC69F3F3C11E955A01A2FB9210AD3">text</mods:typeOfResource>
+<mods:relatedItem id="33E05012236481A1BDA5AE248E623228" type="host">
+<mods:originInfo id="B421B73335D0BDCEDAAFDE5928A7C5A3">
+<mods:dateIssued id="CF994F1B522101806E86D310E2ADDD8B">1946</mods:dateIssued>
+<mods:dateOther id="F5411E834944DAE9B20B1A6B093FADA1" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="01FA2A8BBCDE99199E4FB57823487407">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="B543116FB891AD369DE1570DB0D8A13F">
+<mods:placeTerm id="7376D9AB53DB1FB4E3FF37905600897D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9A3321687D93F37107675C2060A5FCB8">
+<mods:title id="D007C923704BF1D8A6EBD2BB9AAA9842">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="245CCBF73510E44ACE0F305E641D81E3">
+<mods:extent id="894336F60853B08C884091392337819A" unit="page">
+<mods:start id="2CBC18766AF326F19188766732641C9F">163</mods:start>
+<mods:end id="7B6BCF3D27B3926E5BB91FD596A96948">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="22F958FF9B9E43F4AF766C44F30FD0CD">book chapter</mods:classification>
+<mods:identifier id="3E841E891E0E639808A0DC835FF1D938" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="F3DA438F7B6B4B756DF8126007555EDE" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="2C71AF0413D7915DEC1606EBA9AD5A37" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E95FFFB5FEE08062964500C8" ID-DOI="http://doi.org/10.5281/zenodo.5500640" ID-GBIF-Taxon="187739330" ID-Zenodo-Dep="5500640" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB5FEE08062964500C8" httpUri="http://treatment.plazi.org/id/03B387B8E95FFFB5FEE08062964500C8" lastPageNumber="183" pageId="20" pageNumber="183">
+<subSubSection id="C3006525E95FFFB5FEE08062909901C8" box="[303,751,607,647]" pageId="20" pageNumber="183" type="nomenclature">
+<paragraph id="8BA536AEE95FFFB5FEE08062909901C8" blockId="20.[303,1700,607,903]" box="[303,751,607,647]" pageId="20" pageNumber="183">
+<heading id="D0ED81C2E95FFFB5FEE08062909901C8" box="[303,751,607,647]" fontSize="8" level="2" pageId="20" pageNumber="183" reason="4">
+<emphasis id="B96EEABCE95FFFB5FEE08062931401C8" bold="true" box="[303,354,607,647]" pageId="20" pageNumber="183">34.</emphasis>
+<taxonomicName id="4C1A4D2DE95FFFB5FE4D8062909901C8" box="[386,751,607,647]" class="Insecta" family="Crambidae" genus="Margaronia" kingdom="Animalia" order="Lepidoptera" pageId="20" pageNumber="183" phylum="Arthropoda" rank="genus">
+<emphasis id="B96EEABCE95FFFB5FE4D8062902F01C8" bold="true" box="[386,601,607,647]" pageId="20" pageNumber="183">Margaronia</emphasis>
+species.
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95FFFB5FEBF80AC964500C8" pageId="20" pageNumber="183" type="description">
+<paragraph id="8BA536AEE95FFFB5FEBF80AC9026006E" blockId="20.[303,1700,607,903]" pageId="20" pageNumber="183">
+<materialsCitation id="3B723CF3E95FFFB5FEBF80AC912A01F2" ID-GBIF-Occurrence="3913652466" box="[368,860,657,701]" collectingDate="1936-04-28" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="20" pageNumber="183">
+<location id="8EC56075E95FFFB5FEBF80AC939301F2" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB5FEE08062964500C8:8EC56075E95FFFB5FEBF80AC939301F2" box="[368,485,657,701]" pageId="20" pageNumber="183">Agana</location>
+, 
+<date id="FFA4106EE95FFFB5FDCA80AC90D001F2" box="[517,678,657,701]" pageId="20" pageNumber="183" value="1928-04">
+<collectingDate id="EFE0E986E95FFFB5FDCA80AC90D001F2" box="[517,678,657,701]" pageId="20" pageNumber="183" value="1928-04">April 28</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E95FFFB5FD0780AC912301F2" box="[712,853,657,701]" pageId="20" pageNumber="183">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95FFFB5FCB980AC97E201F2" ID-GBIF-Occurrence="3913652515" box="[886,1428,657,701]" collectingDate="1936-06-24" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="20" pageNumber="183">
+<location id="8EC56075E95FFFB5FCB980AC965F01F2" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB5FEE08062964500C8:8EC56075E95FFFB5FCB980AC965F01F2" box="[886,1065,657,701]" pageId="20" pageNumber="183">Barrigada</location>
+, 
+<date id="FFA4106EE95FFFB5FB8680AC96A901F2" box="[1097,1247,657,701]" pageId="20" pageNumber="183" value="1924-06">
+<collectingDate id="EFE0E986E95FFFB5FB8680AC96A901F2" box="[1097,1247,657,701]" pageId="20" pageNumber="183" value="1924-06">June 24</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E95FFFB5FACE80AC97FB01F2" box="[1281,1421,657,701]" pageId="20" pageNumber="183">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95FFFB5FA6180AC94D201F2" ID-GBIF-Occurrence="3913652407" box="[1454,1700,657,701]" collectingDate="1936-07-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="20" pageNumber="183">
+<location id="8EC56075E95FFFB5FA6180AC978601F2" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB5FEE08062964500C8:8EC56075E95FFFB5FA6180AC978601F2" box="[1454,1520,657,701]" pageId="20" pageNumber="183">
+<collectingMunicipality id="6BC1ACD4E95FFFB5FA6180AC978601F2" box="[1454,1520,657,701]" pageId="20" pageNumber="183">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE95FFFB5F9C080AC94EB01F2" box="[1551,1693,657,701]" pageId="20" pageNumber="183" value="2013-07">
+<collectingDate id="EFE0E986E95FFFB5F9C080AC94EB01F2" box="[1551,1693,657,701]" pageId="20" pageNumber="183" value="2013-07">July 13</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E95FFFB5FEFE80FB93C101A1" ID-GBIF-Occurrence="3913652367" box="[305,439,710,750]" collectingDate="1936-08-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="20" pageNumber="183">
+<date id="FFA4106EE95FFFB5FEFE80FB93C601A1" box="[305,432,710,750]" pageId="20" pageNumber="183">
+<collectingDate id="EFE0E986E95FFFB5FEFE80FB93C601A1" box="[305,432,710,750]" pageId="20" pageNumber="183">Aug. 9</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E95FFFB5FE0080FB938801A1" ID-GBIF-Occurrence="3913652307" box="[463,510,710,750]" collectingDate="1936-08-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="20" pageNumber="183">12,</materialsCitation>
+<materialsCitation id="3B723CF3E95FFFB5FDD980FB903301A1" ID-GBIF-Occurrence="3913652382" box="[534,581,710,750]" collectingDate="1936-08-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="20" pageNumber="183">13,</materialsCitation>
+<materialsCitation id="3B723CF3E95FFFB5FD9280FB90FA01A1" ID-GBIF-Occurrence="3913652339" box="[605,652,710,750]" collectingDate="1936-08-18" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="20" pageNumber="183">18,</materialsCitation>
+<materialsCitation id="3B723CF3E95FFFB5FD6F80FB90A501A1" ID-GBIF-Occurrence="3913652384" box="[672,723,710,750]" collectingDate="1936-08-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="20" pageNumber="183">20,</materialsCitation>
+<materialsCitation id="3B723CF3E95FFFB5FD2580FB966501A1" ID-GBIF-Occurrence="3913652406" box="[746,1043,710,750]" collectingDate="1936-09-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="20" pageNumber="183">
+<date id="FFA4106EE95FFFB5FD2580FB911E01A1" box="[746,872,710,750]" pageId="20" pageNumber="183">
+<collectingDate id="EFE0E986E95FFFB5FD2580FB911E01A1" box="[746,872,710,750]" pageId="20" pageNumber="183">Sept. 1</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E95FFFB5FC4780FB967801A1" box="[904,1038,710,750]" pageId="20" pageNumber="183">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="3B723CF3E95FFFB5FBFB80FB9026006E" ID-GBIF-Occurrence="3913652509" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Bishop Museum" pageId="20" pageNumber="183">
+<collectingMunicipality id="6BC1ACD4E95FFFB5FBFB80FB94EB01A1" box="[1076,1693,710,750]" pageId="20" pageNumber="183">
+One 
+<specimenCount id="9D1CFD27E95FFFB5FB5E80FB975901A1" box="[1169,1327,710,750]" pageId="20" pageNumber="183" type="generic">specimen</specimenCount>
+in Bishop Museum
+</collectingMunicipality>
+, 
+<location id="8EC56075E95FFFB5FEFD80CA93A1006E" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB5FEE08062964500C8:8EC56075E95FFFB5FEFD80CA93A1006E" box="[306,471,759,801]" pageId="20" pageNumber="183">Fullaway</location>
+, 1911.
+</materialsCitation>
+</paragraph>
+<paragraph id="8BA536AEE95FFFB5FEA08110964500C8" blockId="20.[303,1700,607,903]" pageId="20" pageNumber="183">An ochreous species which came frequently to light at Piti. Its caterpillars were not found nor its host plant learned.</paragraph>
+</subSubSection>
+</treatment>
+</document>

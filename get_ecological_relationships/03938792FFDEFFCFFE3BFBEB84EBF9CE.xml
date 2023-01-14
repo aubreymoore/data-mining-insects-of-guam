@@ -1,0 +1,157 @@
+<document id="9B941656320172CD92C153C430B21D34" ID-DOI="http://doi.org/10.5281/zenodo.5164064" ID-GBIF-Dataset="8ddfacbb-c42b-4385-b70b-ea5bd759c377" ID-Zenodo-Dep="5164064" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628020838575" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03938792FFDEFFCFFE3BFBEB84EBF9CE" docLanguage="en" docName="InsectsOfGuamII.189.149-156.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Dicranotropis nigropunctata" docType="treatment" docVersion="12" lastPageNumber="154" masterDocId="FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9" masterDocTitle="Notes On Some Fulgoroidea Of Guam" masterLastPageNumber="156" masterPageNumber="149" pageNumber="154" updateTime="1671318232748" updateUser="annettekang">
+<mods:mods id="CE3986D89589E24B4E3A7FEF5931E01B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C8BA59FD5CB6266C28DCB447B3CCE0D0">
+<mods:title id="F7692CBF9D22ED0E55F42ADB7A471E96">Notes On Some Fulgoroidea Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="55DC1512155460A5CB6582CE1F70938F" type="personal">
+<mods:role id="DDCBA7468C3DCD45F5A4E85D43D52D3B">
+<mods:roleTerm id="E5A284915B54C7133CD115B56336098F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3F1B386D6F892F5F8F6A5400D7F3A08C">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="D09867D0A18114EF7556752E6A1FD597">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="560AFA6E21C0B34C04547873FFE866E0">text</mods:typeOfResource>
+<mods:relatedItem id="F090F385D9C9C4196D092C6E2D90D493" type="host">
+<mods:originInfo id="2E3424E90F51ECBABE2DAB7C5320A4BF">
+<mods:dateIssued id="3D5FC4544B0851DAE9A3FFACAE89DC0A">1946</mods:dateIssued>
+<mods:dateOther id="11EE3020809841960D71954548E99EB5" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="5C04DDFDB9E0745A80E663F6EE203087">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="52FE8349138D9BB82C65DFF96DEEF591">
+<mods:placeTerm id="812F0412AD8CD5C640A5D5DC3E43A8F8">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="EF389AF34E0122C678534CB7367CBA20">
+<mods:title id="4832F94BD9BD2A2CAD736BEC83BBA3FD">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="D1FBD483715B7347B1E92ADA26891D54">
+<mods:extent id="5F507267F67DB50E08F9420142773430" unit="page">
+<mods:start id="B3954BBEF8D907F255C06E93487BC1E7">149</mods:start>
+<mods:end id="2A6EC9A78F0C93A410E59A6A8D18285D">156</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="D789776D6B58CA2C5E01E3D92BBAF46D">book chapter</mods:classification>
+<mods:identifier id="BD35BFD490CF60D4A789D1E130BED4AC" type="DOI">http://doi.org/10.5281/zenodo.5164064</mods:identifier>
+<mods:identifier id="2ABC72116998FEB4FE333AA9E4044EDC" type="GBIF-Dataset">8ddfacbb-c42b-4385-b70b-ea5bd759c377</mods:identifier>
+<mods:identifier id="CD87D7E7A33607E017198359B622C1CA" type="Zenodo-Dep">5164064</mods:identifier>
+</mods:mods>
+<treatment id="03938792FFDEFFCFFE3BFBEB84EBF9CE" ID-DOI="http://doi.org/10.5281/zenodo.5167454" ID-GBIF-Taxon="183925078" ID-Zenodo-Dep="5167454" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE3BFBEB84EBF9CE" httpUri="http://treatment.plazi.org/id/03938792FFDEFFCFFE3BFBEB84EBF9CE" lastPageNumber="154" pageId="5" pageNumber="154">
+<subSubSection id="C320650FFFDEFFCFFE3BFBEB8321FBB9" box="[453,1360,1062,1104]" pageId="5" pageNumber="154" type="nomenclature">
+<paragraph id="8B853684FFDEFFCFFE3BFBEB8321FBB9" blockId="5.[450,1849,1062,1575]" box="[453,1360,1062,1104]" pageId="5" pageNumber="154">
+<heading id="D0CD81E8FFDEFFCFFE3BFBEB8321FBB9" box="[453,1360,1062,1104]" fontSize="8" level="2" pageId="5" pageNumber="154" reason="4">
+<emphasis id="B94EEA96FFDEFFCFFE3BFBEB8785FBB9" bold="true" box="[453,500,1062,1104]" pageId="5" pageNumber="154">12.</emphasis>
+<taxonomicName id="4C3A4D07FFDEFFCFFDE8FBEB833AFBB9" authority="(Motschulsky)" baseAuthorityName="Motschulsky" box="[534,1355,1062,1104]" class="Insecta" family="Delphacidae" genus="Dicranotropis" kingdom="Animalia" order="Hemiptera" pageId="5" pageNumber="154" phylum="Arthropoda" rank="species" species="nigropunctata">
+<emphasis id="B94EEA96FFDEFFCFFDE8FBEB8255FBB9" bold="true" box="[534,1060,1062,1104]" pageId="5" pageNumber="154">Dicranotropis nigropunctata</emphasis>
+(Motschulsky)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDEFFCFFDFFFB9184EAFA62" pageId="5" pageNumber="154" type="description">
+<paragraph id="8B853684FFDEFFCFFDFFFB9184EDFB50" blockId="5.[450,1849,1062,1575]" pageId="5" pageNumber="154">
+<treatmentCitationGroup id="AB2A11AAFFDEFFCFFDFFFB9184EDFB50" pageId="5" pageNumber="154">
+<treatmentCitation id="0A9B1095FFDEFFCFFDFFFB9184E6FB50" author="Motschulsky" page="112" pageId="5" pageNumber="154" year="1863">
+<taxonomicName id="4C3A4D07FFDEFFCFFDFFFB9182D5FB6F" authority="Motschulsky, Soc. Nat. Moscou, Bull." authorityName="Motschoulsky" authorityYear="1863" box="[513,1188,1116,1158]" class="Insecta" family="Delphacidae" genus="Mestus" kingdom="Animalia" order="Hemiptera" pageId="5" pageNumber="154" phylum="Arthropoda" rank="genus">
+<emphasis id="B94EEA96FFDEFFCFFDFFFB9184F3FB6F" box="[513,642,1116,1158]" italics="true" pageId="5" pageNumber="154">Mestus?</emphasis>
+<emphasis id="B94EEA96FFDEFFCFFD6AFB9185C7FB6F" box="[660,950,1116,1158]" italics="true" pageId="5" pageNumber="154">nigropunctatus</emphasis>
+<bibCitation id="5E103EE8FFDEFFCFFC3CFB9184E6FB50" author="Motschulsky" journalOrPublisher="Soc. Nat. Moscou, Bull." pageId="5" pageNumber="154" pagination="112" part="36" type="journal article" year="1863">
+<author id="5387DE61FFDEFFCFFC3CFB9182D5FB6F" box="[962,1188,1116,1158]" pageId="5" pageNumber="154">Motschulsky</author>
+, 
+<journalOrPublisher id="51FB3C48FFDEFFCFFB44FB91802AFB6F" box="[1210,1627,1116,1158]" pageId="5" pageNumber="154">Soc. Nat. Moscou, Bull.</journalOrPublisher>
+<emphasis id="B94EEA96FFDEFFCFF999FB9180BEFB6F" bold="true" box="[1639,1743,1116,1158]" pageId="5" pageNumber="154">
+<part id="FF9E9C19FFDEFFCFF999FB9180E8FB6F" box="[1639,1689,1116,1158]" pageId="5" pageNumber="154" type="volume">36</part>
+(
+<part id="FF9E9C19FFDEFFCFF958FB9180CAFB6F" box="[1702,1723,1116,1158]" pageId="5" pageNumber="154" type="issue">3</part>
+):
+</emphasis>
+<pagination id="B2F3C870FFDEFFCFF90BFB918143FB6F" box="[1781,1842,1116,1158]" pageId="5" pageNumber="154" type="pagination">112</pagination>
+, 
+<year id="FF9277D7FFDEFFCFFDBDFB4284E6FB50" box="[579,663,1167,1209]" pageId="5" pageNumber="154">1863</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8B853684FFDEFFCFFDFFFB098547FACB" blockId="5.[450,1849,1062,1575]" pageId="5" pageNumber="154">
+<treatmentCitationGroup id="AB2A11AAFFDEFFCFFDFFFB098547FACB" pageId="5" pageNumber="154">
+<treatmentCitation id="0A9B1095FFDEFFCFFDFFFB098547FACB" author="Melichar" page="160" pageId="5" pageNumber="154" year="1903">
+<taxonomicName id="4C3A4D07FFDEFFCFFDFFFB0982BEFB07" authority=", Melichar, Hom. Fauna" authorityName="Melichar, Hom. Fauna" box="[513,1231,1220,1262]" class="Insecta" family="Delphacidae" genus="Dicranotropis" kingdom="Animalia" order="Hemiptera" pageId="5" pageNumber="154" phylum="Arthropoda" rank="species" species="nigropunctatus">
+<emphasis id="B94EEA96FFDEFFCFFDFFFB09826BFB07" box="[513,1050,1220,1262]" italics="true" pageId="5" pageNumber="154">Dicranotropis nigropunctatus,</emphasis>
+<bibCitation id="5E103EE8FFDEFFCFFBCEFB098547FACB" author="Melichar" pageId="5" pageNumber="154" pagination="160" title="Hom. Fauna Ceylon" type="book" year="1903">
+<author id="5387DE61FFDEFFCFFBCEFB0982BEFB07" box="[1072,1231,1220,1262]" pageId="5" pageNumber="154">Melichar</author>
+, 
+<title id="F93EDDB2FFDEFFCFFB15FB098015FB07" box="[1259,1636,1220,1262]" pageId="5" pageNumber="154">
+Hom. Fauna 
+<collectingCountry id="F32D7614FFDEFFCFFA16FB098015FB07" box="[1512,1636,1220,1262]" name="Sri Lanka" pageId="5" pageNumber="154">Ceylon</collectingCountry>
+</title>
+, 
+<pagination id="B2F3C870FFDEFFCFF97DFB0980B0FB07" box="[1667,1729,1220,1262]" pageId="5" pageNumber="154">160</pagination>
+; pl. 3, fig. 12a, 
+<year id="FF9277D7FFDEFFCFFD23FB358540FACB" box="[733,817,1272,1314]" pageId="5" pageNumber="154">1903</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8B853684FFDEFFCFFDFEFAE384EAFA62" blockId="5.[450,1849,1062,1575]" pageId="5" pageNumber="154">
+<treatmentCitationGroup id="AB2A11AAFFDEFFCFFDFEFAE384EAFA62" pageId="5" pageNumber="154">
+<treatmentCitation id="0A9B1095FFDEFFCFFDFEFAE384EAFA62" author="Metcalf" page="240" pageId="5" pageNumber="154" year="1943">
+<taxonomicName id="4C3A4D07FFDEFFCFFDFEFAE382EEFABE" authority=", Metcalf, Cat. Hemip., Fulgoroidea" authorityName="Metcalf, Cat. Hemip., Fulgoroidea" box="[512,1183,1326,1367]" class="Insecta" family="Delphacidae" genus="Dicranotropis" kingdom="Animalia" order="Hemiptera" pageId="5" pageNumber="154" phylum="Arthropoda" rank="species" species="nigropunctata">
+<emphasis id="B94EEA96FFDEFFCFFDFEFAE38270FABE" box="[512,1025,1326,1367]" italics="true" pageId="5" pageNumber="154">Dicranotropis nigropunctata,</emphasis>
+<bibCitation id="5E103EE8FFDEFFCFFBEDFAE384EAFA62" author="Metcalf" pageId="5" pageNumber="154" pagination="240" part="3" title="Cat. Hemip., Fulgoroidea" type="book" year="1943">
+<author id="5387DE61FFDEFFCFFBEDFAE382EEFABE" box="[1043,1183,1326,1367]" pageId="5" pageNumber="154">Metcalf</author>
+, 
+<title id="F93EDDB2FFDEFFCFFB49FAE380F1FABE" box="[1207,1664,1326,1367]" pageId="5" pageNumber="154">Cat. Hemip., Fulgoroidea</title>
+(
+<part id="FF9E9C19FFDEFFCFF95DFAE380C8FABE" box="[1699,1721,1326,1367]" pageId="5" pageNumber="154" type="issue">3</part>
+): 
+<pagination id="B2F3C870FFDEFFCFF90EFAE38140FABE" box="[1776,1841,1326,1367]" pageId="5" pageNumber="154" type="pagination">240</pagination>
+, 
+<year id="FF9277D7FFDEFFCFFDBCFAAC84E7FA62" box="[578,662,1377,1419]" pageId="5" pageNumber="154">1943</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDEFFCFFDFDFA5B85D4FA1D" pageId="5" pageNumber="154" type="distribution">
+<paragraph id="8B853684FFDEFFCFFDFDFA5B85D4FA1D" blockId="5.[450,1849,1062,1575]" pageId="5" pageNumber="154">
+This grass leafhopper was previously known in 
+<collectingCountry id="F32D7614FFDEFFCFFA7BFA5B838FFA28" box="[1413,1534,1430,1473]" name="Sri Lanka" pageId="5" pageNumber="154">Ceylon</collectingCountry>
+and Java and is now recorded from 
+<collectingCountry id="F32D7614FFDEFFCFFCCBFA0485D1FA1D" box="[821,928,1481,1524]" name="Guam" pageId="5" pageNumber="154">Guam</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDEFFCFFC38FA0484EBF9CE" pageId="5" pageNumber="154" type="materials_examined">
+<paragraph id="8B853684FFDEFFCFFC38FA0484EBF9CE" blockId="5.[450,1849,1062,1575]" pageId="5" pageNumber="154">
+<materialsCitation id="3B523CD9FFDEFFCFFC38FA04802CFA1D" ID-GBIF-Occurrence="3914035360" box="[966,1629,1481,1524]" collectingDate="1936-05-05" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Upi Trail" pageId="5" pageNumber="154">
+<collectingMunicipality id="6BE1ACFEFFDEFFCFFC38FA048278FA1D" box="[966,1033,1481,1524]" pageId="5" pageNumber="154">Upi</collectingMunicipality>
+trail, 
+<date id="FF841044FFDEFFCFFB7AFA04828EFA1D" box="[1156,1279,1481,1524]" pageId="5" pageNumber="154">
+<collectingDate id="EFC0E9ACFFDEFFCFFB7AFA04828EFA1D" box="[1156,1279,1481,1524]" pageId="5" pageNumber="154">May 5</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDEFFCFFAE0FA0483D2FA1D" box="[1310,1443,1481,1524]" pageId="5" pageNumber="154">Swezey</collectorName>
+, 
+<collectorName id="26CF5352FFDEFFCFFA41FA048027FA1D" box="[1471,1622,1481,1524]" pageId="5" pageNumber="154">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDEFFCFF98CFA0484EBF9CE" ID-GBIF-Occurrence="3914035323" collectingDate="1936-05-20" collectorName="O. H. Swezey" country="Guam" location="Agat" pageId="5" pageNumber="154">
+<location id="8EE5605FFFDEFFCFF98CFA0480BAFA1D" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE3BFBEB84EBF9CE:8EE5605FFFDEFFCFF98CFA0480BAFA1D" box="[1650,1739,1481,1524]" name="Agat" pageId="5" pageNumber="154">Agat</location>
+, 
+<date id="FF841044FFDEFFCFF917FA04879EF9CE" pageId="5" pageNumber="154" value="2020-05">
+<collectingDate id="EFC0E9ACFFDEFFCFF917FA04879EF9CE" pageId="5" pageNumber="154" value="2020-05">May 20</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDEFFCFFDF1FA3184E4F9CE" box="[527,661,1532,1575]" pageId="5" pageNumber="154">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

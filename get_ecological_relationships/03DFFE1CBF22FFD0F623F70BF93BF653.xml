@@ -1,0 +1,120 @@
+<document id="580AB9ED98BACA72D90BC0B186AE122D" ID-DOI="http://doi.org/10.5281/zenodo.5159783" ID-GBIF-Dataset="204ef7e8-5ba9-4591-8275-598a53611feb" ID-Zenodo-Dep="5159783" checkinTime="1628013562991" checkinUser="carolina" docAuthor="Cadwell, J. S." docDate="1942" docId="03DFFE1CBF22FFD0F623F70BF93BF653" docLanguage="en" docName="InsectsOfGuamI.172.20-22.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 172" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Arytaina iolani Crawford" docType="treatment" docVersion="15" lastPageNumber="21" masterDocId="FFE68664BF23FFD1F70BFF81FFA1FFE4" masterDocTitle="Psyllidae from Guam" masterLastPageNumber="22" masterPageNumber="20" pageNumber="21" updateTime="1658323775286" updateUser="ExternalLinkService">
+<mods:mods id="5E24B7AB75EF16D7C80B55A1973225CF" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="7882337F5F2DF70CEC1E87E4B602881A">
+<mods:title id="D5EE99B2AF2BEFD0BD80BFF26835A27C">Psyllidae from Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="6A1E1E14E40A4710E1A5802198CF71A9" type="personal">
+<mods:role id="35838D6490DAEAEBD22AB12EFAFE4864">
+<mods:roleTerm id="145083827D1A7CC7E040863D9BF0414F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3262C98EC70F30B9B95E8418A54E99A4">Cadwell, J. S.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="A1CE1A69D8073EB0B61126B6AF8DCFE9">text</mods:typeOfResource>
+<mods:relatedItem id="BA242F35FC061827A82F3756E9B0EAFA" type="host">
+<mods:originInfo id="D6CAC0CB785D725391D324B5CA1FBF03">
+<mods:dateIssued id="C2ED1E480F2F7A00AADE962DF2AF5F4E">1942</mods:dateIssued>
+<mods:dateOther id="A1EA141DF7EB33AB5EE601C270112CE8" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="6B31224D772B1F7A79CD446C83281B94">Bernice P. Bishop Museum Bulletin 172</mods:publisher>
+<mods:place id="21096BC86A94B6208D6C1B29B111D78D">
+<mods:placeTerm id="C1AF5BFD4FA338DEB700E293ECCF6FFF">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="92B8BB2486769C194F61321B4BF80B4E">
+<mods:title id="CEB6CCD5D40A0944BD13BF23DDC6F383">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="ED841FE1717D921B93BF737DEA62FA7D">
+<mods:extent id="B7B1E99A483F345D68BECA2F1667CEB7" unit="page">
+<mods:start id="160221E755563A88489C546BA4DD5ACB">20</mods:start>
+<mods:end id="15F018D790115B5585DCC017582AB2FE">22</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="EC9DE9A71ACCB6E3AD56D86F40C9657A">book chapter</mods:classification>
+<mods:identifier id="D9B90245F6B0F5CEC8F4C07A1EB23B0B" type="DOI">http://doi.org/10.5281/zenodo.5159783</mods:identifier>
+<mods:identifier id="AC2AF1E6ED835BB6BDBB1672D8D29772" type="GBIF-Dataset">204ef7e8-5ba9-4591-8275-598a53611feb</mods:identifier>
+<mods:identifier id="529ED42FE6F993E27E46C65CF3FAB1BA" type="Zenodo-Dep">5159783</mods:identifier>
+</mods:mods>
+<treatment id="03DFFE1CBF22FFD0F623F70BF93BF653" ID-DOI="http://doi.org/10.5281/zenodo.5207990" ID-GBIF-Taxon="183919445" ID-Zenodo-Dep="5207990" LSID="urn:lsid:plazi:treatment:03DFFE1CBF22FFD0F623F70BF93BF653" httpUri="http://treatment.plazi.org/id/03DFFE1CBF22FFD0F623F70BF93BF653" lastPageNumber="21" pageId="1" pageNumber="21">
+<heading id="D081F866BF22FFD0F623F70BF93BF750" box="[296,1690,2186,2228]" centered="true" fontSize="11" level="2" pageId="1" pageNumber="21" reason="2">
+<subSubSection id="C36C1C81BF22FFD0F623F70BFC9FF750" box="[296,830,2186,2228]" pageId="1" pageNumber="21" type="nomenclature">
+<paragraph id="8BC94F0ABF22FFD0F623F70BFC9FF750" blockId="1.[296,1691,2186,2487]" box="[296,830,2186,2228]" pageId="1" pageNumber="21">
+4. 
+<taxonomicName id="4C763489BF22FFD0F66CF70BFC99F750" authority="Crawford, Philip. Jour. Sci." box="[359,824,2186,2228]" class="Insecta" family="Psyllidae" genus="Arytaina" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="21" phylum="Arthropoda" rank="species" species="iolani">
+Arytaina iolani 
+<author id="53CBA7EFBF22FFD0F583F70BFC99F750" box="[648,824,2186,2228]" pageId="1" pageNumber="21">Crawford</author>
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="C36C1C81BF22FFD0F446F70BFEDDF6AB" pageId="1" pageNumber="21" type="reference_group">
+<paragraph id="8BC94F0ABF22FFD0F446F70BF93BF750" blockId="1.[296,1691,2186,2487]" box="[845,1690,2186,2228]" pageId="1" pageNumber="21">
+<treatmentCitationGroup id="AB666824BF22FFD0F446F70BF93BF750" box="[845,1690,2186,2228]" pageId="1" pageNumber="21">
+<treatmentCitation id="0AD7691BBF22FFD0F446F70BF934F750" box="[845,1685,2186,2228]" pageId="1" pageNumber="21">
+<bibCitation id="5E5C4766BF22FFD0F446F70BF934F750" author="Crawford" box="[845,1685,2186,2228]" journalOrPublisher="Philip. Jour. Sci." pageId="1" pageNumber="21" pagination="174" part="15" type="journal volume" year="1919">
+<journalOrPublisher id="51B745C6BF22FFD0F446F70BFBD8F750" box="[845,1145,2186,2228]" pageId="1" pageNumber="21">Philip. Jour. Sci.</journalOrPublisher>
+<part id="FFD2E597BF22FFD0F382F70BFB13F750" box="[1161,1202,2186,2228]" pageId="1" pageNumber="21">15</part>
+(2): 
+<pagination id="B2BFB1FEBF22FFD0F205F70BFAEAF750" box="[1294,1355,2186,2228]" pageId="1" pageNumber="21">174</pagination>
+, pl. 2, fig. 11, 
+<year id="FFDE0E59BF22FFD0F14FF70BF934F750" box="[1604,1685,2186,2228]" pageId="1" pageNumber="21">1919</year>
+</bibCitation>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BC94F0ABF22FFD0F66CF73CFEDDF6AB" blockId="1.[296,1691,2186,2487]" pageId="1" pageNumber="21">
+<materialsCitation id="3B1E4557BF22FFD0F66CF73CFC2FF70D" ID-GBIF-Occurrence="3863915306" box="[359,910,2237,2281]" collectingDate="1936-06-02" collectorName="R. L. Usinger" country="Guam" location="Ritidian Point" pageId="1" pageNumber="21">
+<collectingMunicipality id="6BADD570BF22FFD0F66CF73CFD9EF70D" box="[359,575,2237,2281]" pageId="1" pageNumber="21">Ritidian Pt.</collectingMunicipality>
+, 
+<date id="FFC869CABF22FFD0F551F73CFD77F70D" box="[602,726,2237,2281]" pageId="1" pageNumber="21">
+<collectingDate id="EF8C9022BF22FFD0F551F73CFD77F70D" box="[602,726,2237,2281]" pageId="1" pageNumber="21">June 2</collectingDate>
+</date>
+, 
+<location id="8EA919D1BF22FFD0F5FAF73CFC26F70D" LSID="urn:lsid:plazi:treatment:03DFFE1CBF22FFD0F623F70BF93BF653:8EA919D1BF22FFD0F5FAF73CFC26F70D" box="[753,903,2237,2281]" municipality="Ritidian Pt." name="Usinger" pageId="1" pageNumber="21">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="3B1E4557BF22FFD0F4A8F73CFADBF70D" ID-GBIF-Occurrence="3863915308" box="[931,1402,2237,2281]" collectingDate="1936-06-26" collectorName="R. L. Usinger" country="Guam" location="Agana" pageId="1" pageNumber="21">
+<collectingMunicipality id="6BADD570BF22FFD0F4A8F73CFBB8F70D" box="[931,1049,2237,2281]" pageId="1" pageNumber="21">Agana</collectingMunicipality>
+, 
+<date id="FFC869CABF22FFD0F338F73CFB62F70D" box="[1075,1219,2237,2281]" pageId="1" pageNumber="21" value="1926-06">
+<collectingDate id="EF8C9022BF22FFD0F338F73CFB62F70D" box="[1075,1219,2237,2281]" pageId="1" pageNumber="21" value="1926-06">June 26</collectingDate>
+</date>
+, 
+<location id="8EA919D1BF22FFD0F3D7F73CFAD2F70D" LSID="urn:lsid:plazi:treatment:03DFFE1CBF22FFD0F623F70BF93BF653:8EA919D1BF22FFD0F3D7F73CFAD2F70D" box="[1244,1395,2237,2281]" municipality="Agana" name="Usinger" pageId="1" pageNumber="21">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="3B1E4557BF22FFD0F285F73CFEC3F6F8" ID-GBIF-Occurrence="3331244320" collectedFrom="swept from morning-glory vines" collectingDate="1936-06-19" collectorName="O. H. Swezey" country="Guam" location="Talofofo" pageId="1" pageNumber="21" specimenCount="1">
+Talofofo, 
+<date id="FFC869CABF22FFD0F142F73CFEFBF6F8" pageId="1" pageNumber="21" value="2019-06">
+<collectingDate id="EF8C9022BF22FFD0F142F73CFEFBF6F8" pageId="1" pageNumber="21" value="2019-06">June 19</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B1E4557BF22FFD0F671F773FED6F6AB" ID-GBIF-Occurrence="3331244320" collectedFrom="swept from morning-glory vines" collectingDate="1936-09-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="21" specimenCount="1">
+<collectingMunicipality id="6BADD570BF22FFD0F671F773FE1DF6F8" box="[378,444,2290,2332]" pageId="1" pageNumber="21">Piti</collectingMunicipality>
+, 
+<date id="FFC869CABF22FFD0F6D7F773FDFFF6F8" box="[476,606,2290,2332]" pageId="1" pageNumber="21">
+<collectingDate id="EF8C9022BF22FFD0F6D7F773FDFFF6F8" box="[476,606,2290,2332]" pageId="1" pageNumber="21">Sept. 1</collectingDate>
+</date>
+, swept from morning-glory vines, 
+<location id="8EA919D1BF22FFD0F3F9F773FAD9F6F8" LSID="urn:lsid:plazi:treatment:03DFFE1CBF22FFD0F623F70BF93BF653:8EA919D1BF22FFD0F3F9F773FAD9F6F8" box="[1266,1400,2290,2332]" municipality="Piti" name="Swezey" pageId="1" pageNumber="21">Swezey</location>
+. 
+<location id="8EA919D1BF22FFD0F2ABF773FA49F6F8" LSID="urn:lsid:plazi:treatment:03DFFE1CBF22FFD0F623F70BF93BF653:8EA919D1BF22FFD0F2ABF773FA49F6F8" box="[1440,1512,2290,2332]" municipality="Piti" name="One" pageId="1" pageNumber="21">One</location>
+<specimenCount id="9D708483BF22FFD0F2F5F773F93AF6F8" box="[1534,1691,2290,2332]" pageId="1" pageNumber="21" type="generic">specimen</specimenCount>
+each
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</heading>
+<subSubSection id="C36C1C81BF22FFD0F663F6DBF93BF653" pageId="1" pageNumber="21" type="description">
+<paragraph id="8BC94F0ABF22FFD0F663F6DBF93BF653" blockId="1.[296,1691,2186,2487]" pageId="1" pageNumber="21">
+Described from Los Banos, 
+<collectingCountry id="F3610F9ABF22FFD0F477F6DBFBE2F667" box="[892,1091,2394,2435]" name="Philippines" pageId="1" pageNumber="21">Philippines</collectingCountry>
+, without mention of food plant. The single host plant record from 
+<collectingCountry id="F3610F9ABF22FFD0F4BCF60CFBBEF653" box="[951,1055,2445,2487]" name="Guam" pageId="1" pageNumber="21">Guam</collectingCountry>
+is not sufficient to be dependable.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

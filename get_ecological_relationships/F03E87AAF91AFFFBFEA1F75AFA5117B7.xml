@@ -1,0 +1,105 @@
+<document id="F13ADFFB99675AA9F7676EF13DCF34C4" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91AFFFBFEA1F75AFA5117B7" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pseudococcus lilacinus Cockerell" docType="treatment" docVersion="15" lastPageNumber="157" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="157" updateTime="1661283434230" updateUser="ExternalLinkService">
+<mods:mods id="C696CD4743816F67E721C6CB981238E6" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="332AD0DA7FFA99479D3CC26A84BD0339">
+<mods:title id="03FD8DB26944A7C80436994CB342246C">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="0BFFC39894A29C3017CC3596E79ACBF8" type="personal">
+<mods:role id="CFB3E46828610B2377E4D08B9A36CDE9">
+<mods:roleTerm id="CE09B1EB1F1E49756D9A2E725C387363">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="520BF78E04EB2B671EAE21741E52DE4E">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="C44ABDAC983611C42AD8A92A29ECC0B5">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A639A6453DBA3C8715E03ADF3560E895">text</mods:typeOfResource>
+<mods:relatedItem id="BCD67D4423F6DF0DB0687CD37D6FA953" type="host">
+<mods:originInfo id="735168B447CF3DF528CD04F137427C0C">
+<mods:dateIssued id="29A48F8D497A33288C9579C5FF9A485C">1946</mods:dateIssued>
+<mods:dateOther id="F6307FF325C3D0B44A41CAAF24F8A771" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="5CDB180D754B7F7FB2831297CBF21B7A">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="A15C36D8C859E2E18F2A1EA6F5F0A5C0">
+<mods:placeTerm id="A58704931356FEC2A54B80C064085DFF">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="B7DF34AAE51599C55F6F8BC628B7ADD1">
+<mods:title id="51CA3D404D719996EBD195E27CAE9B3D">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="880D22BAEFF2236CD1FE635813F41DB7">
+<mods:extent id="DB841FF0BB799F50624DAAAEC202D12C" unit="page">
+<mods:start id="2B3F25DF252758BE69123918B4BB7AE1">157</mods:start>
+<mods:end id="C463E80792015BAE3E845C79EF47BC48">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="EF89ECD0CFFF591CA3A6DE78F7380003">book chapter</mods:classification>
+<mods:identifier id="E674E39F1C93D299DBBF0A67D79825C2" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="D05B546D3BC988821923EE01B6A4B1BD" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="3E1F9720908F2AE5A36743443C6D4CE4" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91AFFFBFEA1F75AFA5117B7" ID-DOI="http://doi.org/10.5281/zenodo.5196720" ID-GBIF-Taxon="183925168" ID-Zenodo-Dep="5196720" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFEA1F75AFA5117B7" httpUri="http://treatment.plazi.org/id/F03E87AAF91AFFFBFEA1F75AFA5117B7" lastPageNumber="157" pageId="0" pageNumber="157">
+<paragraph id="782836BCF91AFFFBFEA1F75AFDD6171C" blockId="0.[290,1686,2244,2441]" pageId="0" pageNumber="157">
+<heading id="236081D0F91AFFFBFEA1F75AF95216D0" box="[291,1686,2244,2286]" centered="true" fontSize="11" level="2" pageId="0" pageNumber="157" reason="2">
+<subSubSection id="308D6537F91AFFFBFEA1F75AFC0E16D0" box="[291,970,2244,2286]" pageId="0" pageNumber="157" type="nomenclature">
+<emphasis id="4AE3EAAEF91AFFFBFEA1F75AFE8516D0" bold="true" box="[291,321,2244,2286]" pageId="0" pageNumber="157">7.</emphasis>
+<taxonomicName id="BF974D3FF91AFFFBFEE0F75AFC0016D0" authority="Cockerell, Davenport Acad. Nat. Sci., Proc." box="[354,964,2244,2286]" class="Insecta" family="Pseudococcidae" genus="Pseudococcus" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="157" phylum="Arthropoda" rank="species" species="lilacinus">
+<emphasis id="4AE3EAAEF91AFFFBFEE0F75AFCC616D0" bold="true" box="[354,770,2244,2286]" pageId="0" pageNumber="157">Pseudococcus lilacinus</emphasis>
+<author id="A02ADE59F91AFFFBFC95F75AFC0016D0" box="[791,964,2244,2286]" pageId="0" pageNumber="157">Cockerell</author>
+</taxonomicName>
+,
+</subSubSection>
+<subSubSection id="308D6537F91AFFFBFC5DF75AFDD6171C" pageId="0" pageNumber="157" type="reference_group">
+<treatmentCitationGroup id="58871192F91AFFFBFC5DF75AFDD6171C" pageId="0" pageNumber="157">
+<treatmentCitation id="F93610ADF91AFFFBFC5DF75AFDC9171C" author="Cockerell" page="128" pageId="0" pageNumber="157" year="1905">
+<bibCitation id="ADBD3ED0F91AFFFBFC5DF75AFDC9171C" author="Cockerell" journalOrPublisher="Davenport Acad. Nat. Sci., Proc" pageId="0" pageNumber="157" pagination="128" part="10" type="journal article" year="1905">
+<journalOrPublisher id="A2563C70F91AFFFBFC5DF75AF98016D0" box="[991,1604,2244,2286]" pageId="0" pageNumber="157">Davenport Acad. Nat. Sci., Proc</journalOrPublisher>
+. 
+<emphasis id="4AE3EAAEF91AFFFBF9DDF75AF95216D0" bold="true" box="[1631,1686,2244,2286]" pageId="0" pageNumber="157">
+<part id="0C339C21F91AFFFBF9DDF75AF95416D0" box="[1631,1680,2244,2286]" pageId="0" pageNumber="157" type="volume">10</part>
+:
+</emphasis>
+<pagination id="415EC848F91AFFFBFEE6F766FE64171C" box="[356,416,2296,2338]" pageId="0" pageNumber="157" type="pagination">128</pagination>
+, 
+<year id="0C3F77EFF91AFFFBFE38F766FDC9171C" box="[442,525,2296,2338]" pageId="0" pageNumber="157">1905</year>
+</bibCitation>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</subSubSection>
+</heading>
+</paragraph>
+<subSubSection id="308D6537F91AFFFBFEE0F6B2FA5117B7" pageId="0" pageNumber="157" type="description">
+<paragraph id="782836BCF91AFFFBFEE0F6B2FA5117B7" blockId="0.[290,1686,2244,2441]" pageId="0" pageNumber="157">
+<materialsCitation id="C8FF3CE1F91AFFFBFEE0F6B2FC9C17B7" ID-GBIF-Occurrence="3891552323" collectedFrom="on male inflorescence of seeded variety of breadfruit, Artocarpus communis" collectingDate="1936-05-21" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="0" pageNumber="157">
+<collectingMunicipality id="984CACC6F91AFFFBFEE0F6B2FDE7176B" box="[354,547,2348,2389]" pageId="0" pageNumber="157">Mt. Alifan</collectingMunicipality>
+, 
+<date id="0C29107CF91AFFFBFDBAF6B2FD7B176B" box="[568,703,2348,2389]" pageId="0" pageNumber="157" value="2021-05">
+<collectingDate id="1C6DE994F91AFFFBFDBAF6B2FD7B176B" box="[568,703,2348,2389]" pageId="0" pageNumber="157" value="2021-05">May 21</collectingDate>
+</date>
+, on 
+<specimenCount id="6E91FD35F91AFFFBFC8EF6B2FCA5176B" box="[780,865,2348,2389]" pageId="0" pageNumber="157" type="male">male</specimenCount>
+inflorescence of seeded variety of breadfruit, 
+<emphasis id="4AE3EAAEF91AFFFBFEA0F6C0FD7717B7" box="[290,691,2398,2441]" italics="true" pageId="0" pageNumber="157">
+<taxonomicName id="BF974D3FF91AFFFBFEA0F6C0FD6917B7" authority=", Swezey" authorityName="Swezey" box="[290,685,2398,2441]" class="Magnoliopsida" family="Moraceae" genus="Artocarpus" kingdom="Plantae" order="Rosales" pageId="0" pageNumber="157" phylum="Tracheophyta" rank="species" species="communis">
+<location id="7D486067F91AFFFBFEA0F6C0FE2F17B7" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFEA1F75AFA5117B7:7D486067F91AFFFBFEA0F6C0FE2F17B7" box="[290,491,2398,2441]" municipality="Mt. Alifan" name="Artocarpus" pageId="0" pageNumber="157">Artocarpus</location>
+communis
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="D562536AF91AFFFBFD46F6C0FC9517B7" box="[708,849,2398,2441]" pageId="0" pageNumber="157">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F91AFFFBFCEAF6C0FA5417B7" ID-GBIF-Occurrence="3891552304" box="[872,1424,2398,2441]" collectedFrom="on Terminalia catappa" collectingDate="1938-1939" collectorName="R. G. Oakley" country="Guam" location="Guam" pageId="0" pageNumber="157">
+on 
+<emphasis id="4AE3EAAEF91AFFFBFC21F6C0FAC417B7" box="[931,1280,2398,2441]" italics="true" pageId="0" pageNumber="157">
+<taxonomicName id="BF974D3FF91AFFFBFC21F6C0FB3E17B7" authority=", Oakley." authorityName="Oakley." box="[931,1274,2398,2441]" class="Magnoliopsida" family="Combretaceae" genus="Terminalia" kingdom="Plantae" order="Myrtales" pageId="0" pageNumber="157" phylum="Tracheophyta" rank="species" species="catappa">
+<location id="7D486067F91AFFFBFC21F6C0FBA017B7" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFEA1F75AFA5117B7:7D486067F91AFFFBFC21F6C0FBA017B7" box="[931,1124,2398,2441]" name="Terminalia" pageId="0" pageNumber="157">Terminalia</location>
+catappa
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="D562536AF91AFFFBFA93F6C0FA5417B7" box="[1297,1424,2398,2441]" pageId="0" pageNumber="157">Oakley</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

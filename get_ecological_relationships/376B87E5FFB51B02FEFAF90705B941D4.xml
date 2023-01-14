@@ -1,0 +1,113 @@
+<document id="6B17E5918D5D64E487C9D832FA36F8BD" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB51B02FEFAF90705B941D4" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Stethorus" docType="treatment" docVersion="16" lastPageNumber="161" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="161" updateTime="1671494549916" updateUser="aubreymoore">
+<mods:mods id="BBEE6D25C63068397354A7865FB2D207" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="7486437E4A82B7D3A2A64A09FFEE2034">
+<mods:title id="A2BC24967F226A455E0DC3544C5756F3">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="F3975E11413DD8DF212F9E7F1FB4BB2C" type="personal">
+<mods:role id="FB4B291DF4E99037CF71A0FAAF3BBEB7">
+<mods:roleTerm id="CACE5F3BC0C50528DAFD3332B36DB3F3">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C495F802660EEDEA8811928F7D37E765">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="745CC2FCE0E5C5F82CABF9BDEC3F08CF">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="08263E2D00BE52DC8ACCED354359D061">text</mods:typeOfResource>
+<mods:relatedItem id="EAC43EE9751BF72229D7C389A886F7F5" type="host">
+<mods:originInfo id="EA98600F5F124004E1C951EFB60FF376">
+<mods:dateIssued id="4968CDBF54486192A1545EEEE2804EEF">1942</mods:dateIssued>
+<mods:dateOther id="0C6C1427E4594461D6151E51ADA33BD1" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="E5F60C0C1DD95F13C47682A970C8A276">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="1C51DD114467D5378AE7A20368ECFFF7">
+<mods:placeTerm id="E3C152F1E57B3C4E828BC4AA118F73C4">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="BBC27030BDEAF7082D83F60F2F50A3B1">
+<mods:title id="81ED3DF06E4E4DF3E96D192EF99B8854">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="171655EBD0C14C382AC6930FAB01C6E8">
+<mods:extent id="A59788D2DEA3EE1E1C4297376008F91C" unit="page">
+<mods:start id="D1E6507A79595E6C1B52032994852676">150</mods:start>
+<mods:end id="60CA72A41536D6ECB15C7F4FBFD3BE38">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="28E5564B3A08379957664CDF887B93EC">book chapter</mods:classification>
+<mods:identifier id="776712C008EF8F47883BC1A5C81EBC07" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="6A102CFC7B779FC8634AF3B520AAA94A" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="22E94CF4DC2ADEE268B8807A344396C3" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB51B02FEFAF90705B941D4" ID-DOI="http://doi.org/10.5281/zenodo.5206443" ID-GBIF-Taxon="184415318" ID-Zenodo-Dep="5206443" LSID="urn:lsid:plazi:treatment:376B87E5FFB51B02FEFAF90705B941D4" httpUri="http://treatment.plazi.org/id/376B87E5FFB51B02FEFAF90705B941D4" lastPageNumber="161" pageId="11" pageNumber="161">
+<subSubSection id="F7D86578FFB51B02FEFAF90705B340EC" box="[288,693,1714,1754]" pageId="11" pageNumber="161" type="nomenclature">
+<paragraph id="BF7D36F3FFB51B02FEFAF90705B340EC" blockId="11.[286,1681,1714,2018]" box="[288,693,1714,1754]" pageId="11" pageNumber="161">
+<heading id="E435819FFFB51B02FEFAF90705B340EC" box="[288,693,1714,1754]" fontSize="8" level="2" pageId="11" pageNumber="161" reason="4">
+<emphasis id="8DB6EAE1FFB51B02FEFAF907064940EC" bold="true" box="[288,335,1714,1754]" pageId="11" pageNumber="161">12.</emphasis>
+<taxonomicName id="78C24D70FFB51B02FEABF907051940EC" box="[369,543,1714,1754]" class="Insecta" family="Coccinellidae" genus="Stethorus" kingdom="Animalia" order="Coleoptera" pageId="11" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="8DB6EAE1FFB51B02FEABF907051940EC" bold="true" box="[369,543,1714,1754]" pageId="11" pageNumber="161">Stethorus</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB51B02FE85F95706AC4145" pageId="11" pageNumber="161" type="materials_examined">
+<paragraph id="BF7D36F3FFB51B02FE85F95706AC4145" blockId="11.[286,1681,1714,2018]" pageId="11" pageNumber="161">
+<materialsCitation id="0FAA3CAEFFB51B02FE85F957049C4138" ID-GBIF-Occurrence="3994027430" box="[351,922,1762,1806]" collectedFrom="on mango" collectingDate="1936-05-02" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="11" pageNumber="161">
+<location id="BA1D6028FFB51B02FE85F95706A64138" LSID="urn:lsid:plazi:treatment:376B87E5FFB51B02FEFAF90705B941D4:BA1D6028FFB51B02FE85F95706A64138" box="[351,416,1762,1806]" name="Piti" pageId="11" pageNumber="161">Piti</location>
+, 
+<date id="CB7C1033FFB51B02FE60F95705284138" box="[442,558,1762,1806]" pageId="11" pageNumber="161">
+<collectingDate id="DB38E9DBFFB51B02FE60F95705284138" box="[442,558,1762,1806]" pageId="11" pageNumber="161">May 2</collectingDate>
+</date>
+, on mango, 
+<collectorName id="12375325FFB51B02FCD5F957049C4138" box="[783,922,1762,1806]" pageId="11" pageNumber="161">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="0FAA3CAEFFB51B02FC69F95702964138" ID-GBIF-Occurrence="3994027458" box="[947,1424,1762,1806]" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="11" pageNumber="161">
+<location id="BA1D6028FFB51B02FC69F95703664138" LSID="urn:lsid:plazi:treatment:376B87E5FFB51B02FEFAF90705B941D4:BA1D6028FFB51B02FC69F95703664138" box="[947,1120,1762,1806]" name="Upi Trail" pageId="11" pageNumber="161">Upi Trail</location>
+, 
+<date id="CB7C1033FFB51B02FBA3F95703EB4138" box="[1145,1261,1762,1806]" pageId="11" pageNumber="161">
+<collectingDate id="DB38E9DBFFB51B02FBA3F95703EB4138" box="[1145,1261,1762,1806]" pageId="11" pageNumber="161">May 5</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB51B02FADFF95702964138" box="[1285,1424,1762,1806]" pageId="11" pageNumber="161">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="0FAA3CAEFFB51B02FA72F957041D4109" ID-GBIF-Occurrence="3994027420" collectedFrom="on Barringtonia" collectingDate="1936-05-30" collectorName="O. H. Swezey" country="Guam" location="Tumon" pageId="11" pageNumber="161">
+<location id="BA1D6028FFB51B02FA72F957012D4138" LSID="urn:lsid:plazi:treatment:376B87E5FFB51B02FEFAF90705B941D4:BA1D6028FFB51B02FA72F957012D4138" box="[1448,1579,1762,1806]" name="Tumon" pageId="11" pageNumber="161">Tumon</location>
+, 
+<date id="CB7C1033FFB51B02F999F957064C4109" pageId="11" pageNumber="161" value="1930-05">
+<collectingDate id="DB38E9DBFFB51B02F999F957064C4109" pageId="11" pageNumber="161" value="1930-05">May 30</collectingDate>
+</date>
+, on 
+<emphasis id="8DB6EAE1FFB51B02FE4EF8A205864109" box="[404,640,1815,1855]" italics="true" pageId="11" pageNumber="161">Ba.rringtonia,</emphasis>
+<collectorName id="12375325FFB51B02FD55F8A2041D4109" box="[655,795,1815,1855]" pageId="11" pageNumber="161">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="0FAA3CAEFFB51B02FCEBF8A202234109" ID-GBIF-Occurrence="3994027461" box="[817,1317,1815,1855]" collectingDate="1936-06-12" collectorName="R. L. Usinger" country="Guam" location="Barrigada" pageId="11" pageNumber="161">
+<location id="BA1D6028FFB51B02FCEBF8A204E24109" LSID="urn:lsid:plazi:treatment:376B87E5FFB51B02FEFAF90705B941D4:BA1D6028FFB51B02FCEBF8A204E24109" box="[817,996,1815,1855]" name="Barrigacla" pageId="11" pageNumber="161">Barrigacla</location>
+, 
+<date id="CB7C1033FFB51B02FC2DF8A203844109" box="[1015,1154,1815,1855]" pageId="11" pageNumber="161" value="2012-06">
+<collectingDate id="DB38E9DBFFB51B02FC2DF8A203844109" box="[1015,1154,1815,1855]" pageId="11" pageNumber="161" value="2012-06">June 12</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB51B02FB4FF8A202234109" box="[1173,1317,1815,1855]" pageId="11" pageNumber="161">Usinger</collectorName>
+</materialsCitation>
+, 
+<materialsCitation id="0FAA3CAEFFB51B02FAE2F8A206A34145" ID-GBIF-Occurrence="3994027522" collectedFrom="on Morinda" collectingDate="1936-07-06" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="11" pageNumber="161">
+<date id="CB7C1033FFB51B02FAE2F8A202A34109" box="[1336,1445,1815,1855]" pageId="11" pageNumber="161">
+<collectingDate id="DB38E9DBFFB51B02FAE2F8A202A34109" box="[1336,1445,1815,1855]" pageId="11" pageNumber="161">July 6</collectingDate>
+</date>
+, on 
+<taxonomicName id="78C24D70FFB51B02FA34F8A206AC4145" authority=", Swezey." authorityName=", Swezey." class="Insecta" family="Cicadellidae" genus="Morinda" kingdom="Animalia" order="Hemiptera" pageId="11" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="8DB6EAE1FFB51B02FA34F8A201974109" box="[1518,1681,1815,1855]" italics="true" pageId="11" pageNumber="161">
+<location id="BA1D6028FFB51B02FA34F8A2018D4109" LSID="urn:lsid:plazi:treatment:376B87E5FFB51B02FEFAF90705B941D4:BA1D6028FFB51B02FA34F8A2018D4109" box="[1518,1675,1815,1855]" name="Morinda" pageId="11" pageNumber="161">Morinda</location>
+,
+</emphasis>
+<collectorName id="12375325FFB51B02FEC5F8FE06A34145" box="[287,421,1867,1907]" pageId="11" pageNumber="161">Swezey</collectorName>
+.
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB51B02FE84F83005B941D4" pageId="11" pageNumber="161" type="discussion">
+<paragraph id="BF7D36F3FFB51B02FE84F83005B941D4" blockId="11.[286,1681,1714,2018]" pageId="11" pageNumber="161">A still smaller black species which was collected at several places. Determined by E. A. Chapin.</paragraph>
+</subSubSection>
+</treatment>
+</document>

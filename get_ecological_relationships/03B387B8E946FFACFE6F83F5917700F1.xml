@@ -1,0 +1,174 @@
+<document id="CEE89116DB1EB04A129D7EC9C2EEE53E" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E946FFACFE6F83F5917700F1" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Crambus malacellus" docType="treatment" docVersion="23" lastPageNumber="176" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="176" updateTime="1669841625929" updateUser="ExternalLinkService">
+<mods:mods id="2A65CAC17F0FB04F6C6CE2F8B2CEDD12" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="F6B38AD7EEA3E5D4A8722BD27CA00F15">
+<mods:title id="53E7C294C63A4C02000A11408A6E9A0A">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="B3AC593D661DAA42A118E7F48CA27BC0" type="personal">
+<mods:role id="566279BC6A2C6C788C0DCF215673833B">
+<mods:roleTerm id="451AB3327379A68DB1AB37C66B26C694">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="EC48A6897623F5788196D64210821658">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="4774725203E859146B1BB9FD2510A55A">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A2442D79DA33735AE9991A726B184131">text</mods:typeOfResource>
+<mods:relatedItem id="4FAC889850ADD2E4968363F0737204E6" type="host">
+<mods:originInfo id="5C1E1CEE23870FCF62F531C1D594647A">
+<mods:dateIssued id="2BFB074D7B0D8B4B8B392E9CEC74CD52">1946</mods:dateIssued>
+<mods:dateOther id="2BB22C85003D93880ECB479BE22FDCB0" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="3337EC18446286C677AD390B6E8E5AC4">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="02DD1533BFF551AA841D3FCE4ECCBE03">
+<mods:placeTerm id="4BA1A95533524E3CD605A539273BF7C7">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="097A570741F11A1223ACEE8931BAB063">
+<mods:title id="92469E93B73073968583B46FD602E63E">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="A05A41A801EC8F76651E8A4C0B501893">
+<mods:extent id="CBD8F64A1A74A0A041A8E80C2CE6C3E6" unit="page">
+<mods:start id="5A44548734867E56F666BCCEBD6FFB5C">163</mods:start>
+<mods:end id="08109DC955686D4970202BC16F3D5771">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="73FB4BC3245D11BEC672F7D8A9EB47CD">book chapter</mods:classification>
+<mods:identifier id="20974C4F11EA7A2E7E704E4CAFE8132C" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="94426EBE40C502E25418F30F78D77590" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="FC6BCE6371588C7F486C4D984FF0DA43" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E946FFACFE6F83F5917700F1" ID-DOI="http://doi.org/10.5281/zenodo.5158504" ID-GBIF-Taxon="183926862" ID-Zenodo-Dep="5158504" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE6F83F5917700F1" httpUri="http://treatment.plazi.org/id/03B387B8E946FFACFE6F83F5917700F1" lastPageNumber="176" pageId="13" pageNumber="176">
+<subSubSection id="C3006525E946FFACFE6F83F5965A02BE" box="[416,1068,456,497]" pageId="13" pageNumber="176" type="nomenclature">
+<paragraph id="8BA536AEE946FFACFE6F83F5965A02BE" blockId="13.[416,1815,456,958]" box="[416,1068,456,497]" pageId="13" pageNumber="176">
+<emphasis id="B96EEABCE946FFACFE6F83F593B302BE" bold="true" box="[416,453,456,497]" pageId="13" pageNumber="176">L:</emphasis>
+<taxonomicName id="4C1A4D2DE946FFACFE1083F5965102BE" authority="Duponchel" box="[479,1063,456,497]" class="Insecta" family="Pyralidae" genus="Crambus" higherTaxonomySource="CoL" kingdom="Animalia" order="Lepidoptera" pageId="13" pageNumber="176" phylum="Arthropoda" rank="species" species="malacellus">
+<emphasis id="B96EEABCE946FFACFE1083F5913802BE" bold="true" box="[479,846,456,497]" pageId="13" pageNumber="176">Cram. busmalacellus</emphasis>
+Duponchel
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E946FFACFE2E83C694BE0116" pageId="13" pageNumber="176" type="reference_group">
+<paragraph id="8BA536AEE946FFACFE2E83C694D60169" blockId="13.[416,1815,456,958]" box="[481,1696,507,550]" pageId="13" pageNumber="176">
+<treatmentCitationGroup id="AB0A1180E946FFACFE2E83C694D60169" box="[481,1696,507,550]" pageId="13" pageNumber="176">
+<bibCitation id="5E303EC2E946FFACFE2E83C694D60169" author="Duponchel" box="[481,1696,507,550]" pageId="13" pageNumber="176" pagination="61" refId="ref7121" title="Lep. Fr." type="book" year="1827">
+<treatmentCitation id="0ABB10BFE946FFACFE2E83C694ED0169" author="Duponchel" box="[481,1691,507,550]" page="61" pageId="13" pageNumber="176" year="1827">
+<emphasis id="B96EEABCE946FFACFE2E83C691360169" box="[481,832,507,550]" italics="true" pageId="13" pageNumber="176">Crambus malacellus</emphasis>
+<author id="53A7DE4BE946FFACFC9E83C696660169" box="[849,1040,507,550]" pageId="13" pageNumber="176">Duponchel</author>
+, 
+<title id="F91EDD98E946FFACFBE883C696CC0169" box="[1063,1210,507,550]" pageId="13" pageNumber="176">Lep. Fr.</title>
+<emphasis id="B96EEABCE946FFACFB0483C696990169" bold="true" box="[1227,1263,507,550]" pageId="13" pageNumber="176">8:</emphasis>
+<pagination id="B2D3C85AE946FFACFB3383C697500169" box="[1276,1318,507,550]" pageId="13" pageNumber="176">61</pagination>
+, pl. 
+<emphasis id="B96EEABCE946FFACFAB683C697B60169" box="[1401,1472,507,550]" italics="true" pageId="13" pageNumber="176">270,</emphasis>
+fig. 5, 
+<year id="FFB277FDE946FFACF98683C694ED0169" box="[1609,1691,507,550]" pageId="13" pageNumber="176">1827</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE946FFACFE2E801394BE0116" blockId="13.[416,1815,456,958]" box="[481,1736,558,601]" pageId="13" pageNumber="176">
+<treatmentCitationGroup id="AB0A1180E946FFACFE2E801394BE0116" box="[481,1736,558,601]" pageId="13" pageNumber="176">
+<treatmentCitation id="0ABB10BFE946FFACFE2E801394BE0116" author="Hampson" box="[481,1736,558,601]" page="17" pageId="13" pageNumber="176" year="1896">
+<bibCitation id="5E303EC2E946FFACFE2E801394BE0116" author="Hampson" box="[481,1736,558,601]" pageId="13" pageNumber="176" pagination="17" part="4" refId="ref7143" title="Fauna Brit. India, Moths" type="journal article" year="1896">
+<emphasis id="B96EEABCE946FFACFE2E8013913C0116" box="[481,842,558,601]" italics="true" pageId="13" pageNumber="176">Crambus malacellus,</emphasis>
+<author id="53A7DE4BE946FFACFC938013967F0116" box="[860,1033,558,601]" pageId="13" pageNumber="176">Hampson</author>
+, 
+<title id="F91EDD98E946FFACFBEE8013979F0116" box="[1057,1513,558,601]" pageId="13" pageNumber="176">
+Fauna Brit. 
+<collectingCountry id="F30D763EE946FFACFACC801397170116" box="[1283,1377,558,601]" name="India" pageId="13" pageNumber="176">India</collectingCountry>
+, Moths
+</title>
+<emphasis id="B96EEABCE946FFACFA36801394680116" bold="true" box="[1529,1566,558,601]" pageId="13" pageNumber="176">
+<part id="FFBE9C33E946FFACFA368013947B0116" box="[1529,1549,558,601]" pageId="13" pageNumber="176" type="volume">4</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE946FFACF9E0801394200116" box="[1583,1622,558,601]" pageId="13" pageNumber="176" type="pagination">17</pagination>
+, 
+<year id="FFB277FDE946FFACF9BF801394B50116" box="[1648,1731,558,601]" pageId="13" pageNumber="176">1896</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E946FFACFE2D805E9034006B" pageId="13" pageNumber="176" type="materials_examined">
+<paragraph id="8BA536AEE946FFACFE2D805E9034006B" blockId="13.[416,1815,456,958]" pageId="13" pageNumber="176">
+. 
+<materialsCitation id="3B723CF3E946FFACFE28805E91B501C1" ID-GBIF-Occurrence="3332081325" box="[487,963,611,654]" collectingDate="1936-05-01" collectorName="R. L. Usinger" country="Guam" location="Piti hills" pageId="13" pageNumber="176">
+<location id="8EC56075E946FFACFE28805E905701C1" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE6F83F5917700F1:8EC56075E946FFACFE28805E905701C1" box="[487,545,611,654]" pageId="13" pageNumber="176">
+<collectingMunicipality id="6BC1ACD4E946FFACFE28805E905701C1" box="[487,545,611,654]" pageId="13" pageNumber="176">Piti</collectingMunicipality>
+</location>
+hills, 
+<date id="FFA4106EE946FFACFD59805E917C01C1" box="[662,778,611,654]" pageId="13" pageNumber="176">
+<collectingDate id="EFE0E986E946FFACFD59805E917C01C1" box="[662,778,611,654]" pageId="13" pageNumber="176">May 1</collectingDate>
+</date>
+, 
+<location id="8EC56075E946FFACFCE9805E91CA01C1" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE6F83F5917700F1:8EC56075E946FFACFCE9805E91CA01C1" box="[806,956,611,654]" pageId="13" pageNumber="176">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFC18805E956301C1" ID-GBIF-Occurrence="3332081491" box="[983,1813,611,654]" collectedFrom="swept from sedges" collectingDate="1936-06-03" collectorName="O. H. Swezey" country="Guam" location="Piti hills" pageId="13" pageNumber="176">
+<location id="8EC56075E946FFACFC18805E966001C1" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE6F83F5917700F1:8EC56075E946FFACFC18805E966001C1" box="[983,1046,611,654]" pageId="13" pageNumber="176">
+<collectingMunicipality id="6BC1ACD4E946FFACFC18805E966001C1" box="[983,1046,611,654]" pageId="13" pageNumber="176">Piti</collectingMunicipality>
+</location>
+hills, 
+<date id="FFA4106EE946FFACFB45805E977501C1" box="[1162,1283,611,654]" pageId="13" pageNumber="176">
+<collectingDate id="EFE0E986E946FFACFB45805E977501C1" box="[1162,1283,611,654]" pageId="13" pageNumber="176">June 3</collectingDate>
+</date>
+, swept from sedges, 
+<collectorName id="26EF5378E946FFACF94D805E957801C1" box="[1666,1806,611,654]" pageId="13" pageNumber="176">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFE6D80AB91DB018F" ID-GBIF-Occurrence="3332081472" box="[418,941,662,704]" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="13" pageNumber="176">
+<location id="8EC56075E946FFACFE6D80AB9023018F" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE6F83F5917700F1:8EC56075E946FFACFE6D80AB9023018F" box="[418,597,662,704]" pageId="13" pageNumber="176">Barrigada</location>
+, 
+<date id="FFA4106EE946FFACFDBE80AB908A018F" box="[625,764,662,704]" pageId="13" pageNumber="176" value="1922-07">
+<collectingDate id="EFE0E986E946FFACFDBE80AB908A018F" box="[625,764,662,704]" pageId="13" pageNumber="176" value="1922-07">July 22</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E946FFACFCD480AB91D0018F" box="[795,934,662,704]" pageId="13" pageNumber="176">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFC0B80AB96C2018F" ID-GBIF-Occurrence="3913652461" box="[964,1204,662,704]" collectedFrom="at light" collectingDate="1936-07-26" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">
+<location id="8EC56075E946FFACFC0B80AB9670018F" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE6F83F5917700F1:8EC56075E946FFACFC0B80AB9670018F" box="[964,1030,662,704]" pageId="13" pageNumber="176">
+<collectingMunicipality id="6BC1ACD4E946FFACFC0B80AB9670018F" box="[964,1030,662,704]" pageId="13" pageNumber="176">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE946FFACFBEC80AB96D8018F" box="[1059,1198,662,704]" pageId="13" pageNumber="176" value="1926-07">
+<collectingDate id="EFE0E986E946FFACFBEC80AB96D8018F" box="[1059,1198,662,704]" pageId="13" pageNumber="176" value="1926-07">July 26</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFB0680AB94DA018F" ID-GBIF-Occurrence="3913652345" box="[1225,1708,662,704]" collectedFrom="at light" collectingDate="1936-08-18" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">
+<date id="FFA4106EE946FFACFB0680AB9729018F" box="[1225,1375,662,704]" pageId="13" pageNumber="176" value="2018-08">
+<collectingDate id="EFE0E986E946FFACFB0680AB9729018F" box="[1225,1375,662,704]" pageId="13" pageNumber="176" value="2018-08">Aug. 18</collectingDate>
+</date>
+, at light, 
+<collectorName id="26EF5378E946FFACF9EF80AB94D1018F" box="[1568,1703,662,704]" pageId="13" pageNumber="176">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACF90380AB97EF01BC" ID-GBIF-Occurrence="3978866302" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="13" pageNumber="176" specimenCount="1">
+One 
+<specimenCount id="9D1CFD27E946FFACFE6D80F5903601BC" box="[418,576,712,755]" pageId="13" pageNumber="176" type="generic">specimen</specimenCount>
+in 
+<collectingCountry id="F30D763EE946FFACFD5C80F5908C01BC" box="[659,762,712,755]" name="United States of America" pageId="13" pageNumber="176">U. S.</collectingCountry>
+<collectingMunicipality id="6BC1ACD4E946FFACFCD980F5961501BC" box="[790,1123,712,755]" pageId="13" pageNumber="176">National Museum</collectingMunicipality>
+, 
+<location id="8EC56075E946FFACFB4B80F5975F01BC" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE6F83F5917700F1:8EC56075E946FFACFB4B80F5975F01BC" box="[1156,1321,712,755]" pageId="13" pageNumber="176">Fullaway</location>
+, 1911
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFA7A80F59034006B" ID-GBIF-Occurrence="3978866304" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Bishop Museum" pageId="13" pageNumber="176" specimenCount="1">
+and one in 
+<location id="8EC56075E946FFACF95280F5904B006B" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE6F83F5917700F1:8EC56075E946FFACF95280F5904B006B" pageId="13" pageNumber="176">Bishop Museum</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E946FFACFE108112917700F1" pageId="13" pageNumber="176" type="description">
+<paragraph id="8BA536AEE946FFACFE108112917700F1" blockId="13.[416,1815,456,958]" pageId="13" pageNumber="176">
+A widely distributed species, occurring in Palaearctic, Ethiopian, 
+<collectingRegion id="49DEF84CE946FFACF9B6811295790017" box="[1657,1807,815,856]" country="Egypt" name="Ash Sharqiyah" pageId="13" pageNumber="176">Oriental</collectingRegion>
+, and Australian regions. It is very common in grasslands, the moths flying up when disturbed.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,138 @@
+<document id="E408810E0EBD466557130E6E264082E1" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBB1B0FFEE7F6B50207440A" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Haptoncus ocularis Grouvelle, Coleopt." docType="treatment" docVersion="19" lastPageNumber="156" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="155" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="073CE3365ED3E1C0A089C854A75F8087" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="231BDF0CE15455841C56A2A2A25E5EFA">
+<mods:title id="E2B28F6EE3099349E4914C83C3A1234B">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="DAAA94ECC1974F50533BC9EFB1DF23CF" type="personal">
+<mods:role id="7F474F232D1B8B9EBC85638B685B9655">
+<mods:roleTerm id="F793BE7895CEE0E28905847F3B94385E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="96D03DA698A6C237A91EF353587DD4DE">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="0793F7E9EA1DD00481149C38BE9B767D">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="7E291DAA32A0CD8D1B9ED450AD834888">text</mods:typeOfResource>
+<mods:relatedItem id="9A2C5EFA8C44F3FBA6E696D33EAC83F3" type="host">
+<mods:originInfo id="F9682045D5C22CE0FE47BE276C804915">
+<mods:dateIssued id="E06E3307DAE735894941A44C1824F212">1942</mods:dateIssued>
+<mods:dateOther id="C77B997166E9CBA98670E72AB76D3D12" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="0C9C0141B156CB1B2F7D46A734DDA8B9">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="861F2F383A8893CF014CB39D33C2807D">
+<mods:placeTerm id="32C389FE18DC263059F6B0005ABE61D4">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="CF44505CEC13237F8C4211DE7F4B7656">
+<mods:title id="AB26CC0F289046F6FEA114008D193A47">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="B0D6FFA73072FBC4E9FB6059CC456A2A">
+<mods:extent id="379AE338BCA86B1712BF6992B9CB9D53" unit="page">
+<mods:start id="DFDC40C56C7FBCD3E507FA4DFDBF2692">150</mods:start>
+<mods:end id="6CBEA6B3EE584CB8F2C159FC2B1C0F71">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="4812B3B0187944FEF130C86BDD4065A2">book chapter</mods:classification>
+<mods:identifier id="201D34CA752966B4F9405A4477669D95" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="D8CD2BB9398AC76EFC66724742AD804E" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="DC2DD8855AE1F30616252BE9E780F5F6" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBB1B0FFEE7F6B50207440A" ID-DOI="http://doi.org/10.5281/zenodo.5183002" ID-GBIF-Taxon="184415280" ID-Zenodo-Dep="5183002" LSID="urn:lsid:plazi:treatment:376B87E5FFBB1B0FFEE7F6B50207440A" httpUri="http://treatment.plazi.org/id/376B87E5FFBB1B0FFEE7F6B50207440A" lastPageId="6" lastPageNumber="156" pageId="5" pageNumber="155">
+<subSubSection id="F7D86578FFBB1B0CFEE7F6B504D34F1E" box="[317,981,2301,2344]" pageId="5" pageNumber="155" type="nomenclature">
+<paragraph id="BF7D36F3FFBB1B0CFEE7F6B504D34F1E" blockId="5.[317,345,2304,2344]" box="[317,981,2301,2344]" lastBlockId="5.[380,1520,2301,2500]" pageId="5" pageNumber="155">
+<heading id="E435819FFFBB1B0CFEE7F6B504C94F1E" box="[317,975,2301,2344]" centered="true" fontSize="11" level="2" pageId="5" pageNumber="155" reason="2">
+<emphasis id="8DB6EAE1FFBB1B0CFEE7F6B5065F4F1E" bold="true" box="[317,345,2304,2344]" pageId="5" pageNumber="155">4.</emphasis>
+<taxonomicName id="78C24D70FFBB1B0CFEA6F74804C94F1E" authority="(Fairmaire)" authorityName="Grouvelle, Coleopt." baseAuthorityName="Fairmaire" baseAuthorityYear="1849" box="[380,975,2301,2344]" class="Insecta" family="Nitidulidae" genus="Haptoncus" kingdom="Animalia" order="Coleoptera" pageId="5" pageNumber="155" phylum="Arthropoda" rank="species" species="ocularis">
+<emphasis id="8DB6EAE1FFBB1B0CFEA6F74805DA4F1E" bold="true" box="[380,732,2301,2344]" pageId="5" pageNumber="155">Haptoncus ocularis</emphasis>
+(Fairmaire)
+</taxonomicName>
+</heading>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBB1B0CFEA7F687051E4FF2" pageId="5" pageNumber="155" type="reference_group">
+<paragraph id="BF7D36F3FFBB1B0CFEA7F68702E24F6A" blockId="5.[380,1520,2301,2500]" box="[381,1508,2354,2396]" pageId="5" pageNumber="155">
+<treatmentCitationGroup id="9FD211DDFFBB1B0CFEA7F68702E24F6A" box="[381,1508,2354,2396]" pageId="5" pageNumber="155">
+<bibCitation id="6AE83E9FFFBB1B0CFEA7F68702E24F6A" author="Fairmaire" box="[381,1508,2354,2396]" journalOrPublisher="Rev. Mag. Zoo" pageId="5" pageNumber="155" pagination="363" part="1" refId="ref2904" type="journal article" year="1849">
+<treatmentCitation id="3E6310E2FFBB1B0CFEA7F68702D94F6A" author="Fairmaire" box="[381,1503,2354,2396]" page="363" pageId="5" pageNumber="155" year="1849">
+<emphasis id="8DB6EAE1FFBB1B0CFEA7F68705AA4F6A" box="[381,684,2354,2396]" italics="true" pageId="5" pageNumber="155">Epuraea ocularis</emphasis>
+<author id="677FDE16FFBB1B0CFD64F68704764F6A" box="[702,880,2354,2396]" pageId="5" pageNumber="155">Fairmaire</author>
+, 
+<journalOrPublisher id="65033C3FFFBB1B0CFC53F68703A74F6A" box="[905,1185,2354,2396]" pageId="5" pageNumber="155">Rev. Mag. Zoo</journalOrPublisher>
+!. II, 
+<emphasis id="8DB6EAE1FFBB1B0CFADBF68702094F6A" bold="true" box="[1281,1295,2354,2396]" pageId="5" pageNumber="155">
+<part id="CB669C6EFFBB1B0CFADBF687020D4F6A" box="[1281,1291,2354,2396]" pageId="5" pageNumber="155" type="volume">1</part>
+:
+</emphasis>
+<pagination id="860BC807FFBB1B0CFAEBF68702764F6A" box="[1329,1392,2354,2396]" pageId="5" pageNumber="155" type="pageRange">363</pagination>
+, 
+<year id="CB6A77A0FFBB1B0CFA57F68702D94F6A" box="[1421,1503,2354,2396]" pageId="5" pageNumber="155">1849</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFBB1B0CFEA4F6D3051E4FF2" blockId="5.[380,1520,2301,2500]" pageId="5" pageNumber="155">
+<bibCitation id="6AE83E9FFFBB1B0CFEA4F6D3051E4FF2" author="Grouvelle" pageId="5" pageNumber="155" refId="ref2923" title="Coleopt. Catalog" type="book" year="1913">
+<treatmentCitationGroup id="9FD211DDFFBB1B0CFEA4F6D305154FF2" pageId="5" pageNumber="155">
+<treatmentCitation id="3E6310E2FFBB1B0CFEA4F6D305154FF2" author="Grouvelle" page="97" pageId="5" pageNumber="155" year="1913">
+<emphasis id="8DB6EAE1FFBB1B0CFEA4F6D305DA4FA7" box="[382,732,2406,2449]" italics="true" pageId="5" pageNumber="155">Haptoncus ocularis</emphasis>
+(Fairmaire) 
+<author id="677FDE16FFBB1B0CFC37F6D3039F4FA7" box="[1005,1177,2406,2449]" pageId="5" pageNumber="155">Grouvelle</author>
+, 
+<title id="CDC6DDC5FFBB1B0CFB61F6D302ED4FA7" box="[1211,1515,2406,2449]" pageId="5" pageNumber="155">Coleopt. Catalog</title>
+. 
+<year id="CB6A77A0FFBB1B0CFE65F62F05154FF2" box="[447,531,2458,2500]" pageId="5" pageNumber="155">1913</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<paragraph id="BF7D36F3FFB81B0FFE20FEC30207440A" blockId="6.[442,1837,374,572]" pageId="6" pageNumber="156">
+<subSubSection id="F7D86578FFB81B0FFE20FEC3002A47E0" pageId="6" pageNumber="156" type="materials_examined">
+<materialsCitation id="0FAA3CAEFFB81B0FFE20FEC303F44797" ID-GBIF-Occurrence="3334692447" box="[506,1266,374,417]" collectedFrom="ex wild papaya" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="6" pageNumber="156">
+<location id="BA1D6028FFB81B0FFE20FEC305844797" LSID="urn:lsid:plazi:treatment:376B87E5FFBB1B0FFEE7F6B50207440A:BA1D6028FFB81B0FFE20FEC305844797" box="[506,642,374,417]" name="Dededo" pageId="6" pageNumber="156">Dededo</location>
+, 
+<date id="CB7C1033FFB81B0FFD4DFEC304204797" box="[663,806,374,417]" pageId="6" pageNumber="156" value="2011-08">
+<collectingDate id="DB38E9DBFFB81B0FFD4DFEC304204797" box="[663,806,374,417]" pageId="6" pageNumber="156" value="2011-08">Aug. 11</collectingDate>
+</date>
+, 
+<specimenCount id="A9C4FD7AFFB81B0FFCE1FEC304634797" box="[827,869,374,417]" pageId="6" pageNumber="156" type="generic">ex</specimenCount>
+wild papaya, 
+<collectorName id="12375325FFB81B0FFB85FEC303ED4797" box="[1119,1259,374,417]" pageId="6" pageNumber="156">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB81B0FFAD8FEC3031547E0" ID-GBIF-Occurrence="3334692362" collectedFrom="ex rotten seed of Ochrocarpus obovalis" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="6" pageNumber="156">
+<collectingMunicipality id="5F19AC89FFB81B0FFAD8FEC302784797" box="[1282,1406,374,417]" pageId="6" pageNumber="156">Fadian</collectingMunicipality>
+, 
+<date id="CB7C1033FFB81B0FFA49FEC301254797" box="[1427,1571,374,417]" pageId="6" pageNumber="156" value="2019-08">
+<collectingDate id="DB38E9DBFFB81B0FFA49FEC301254797" box="[1427,1571,374,417]" pageId="6" pageNumber="156" value="2019-08">Aug. 19</collectingDate>
+</date>
+, 
+<specimenCount id="A9C4FD7AFFB81B0FF9E3FEC301674797" box="[1593,1633,374,417]" pageId="6" pageNumber="156" type="generic">ex</specimenCount>
+rotten seed of 
+<emphasis id="8DB6EAE1FFB81B0FFE34FE1F047747E0" box="[494,881,426,470]" italics="true" pageId="6" pageNumber="156">
+<location id="BA1D6028FFB81B0FFE34FE1F05CB47E0" LSID="urn:lsid:plazi:treatment:376B87E5FFBB1B0FFEE7F6B50207440A:BA1D6028FFB81B0FFE34FE1F05CB47E0" box="[494,717,426,470]" municipality="Fadian" name="Ochrocarpits" pageId="6" pageNumber="156">Ochrocarpits</location>
+obovalis,
+</emphasis>
+<collectorName id="12375325FFB81B0FFC5AFE1F030A47E0" box="[896,1036,426,470]" pageId="6" pageNumber="156">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB81B0FFBFBFE1F002A47E0" ID-GBIF-Occurrence="3334692312" box="[1057,1836,426,470]" collectedFrom="in rotten breadfruit" collectingDate="1936-08-22" collectorName="O. H. Swezey" country="Guam" location="Asan" pageId="6" pageNumber="156">
+<location id="BA1D6028FFB81B0FFBFBFE1F037847E0" LSID="urn:lsid:plazi:treatment:376B87E5FFBB1B0FFEE7F6B50207440A:BA1D6028FFB81B0FFBFBFE1F037847E0" box="[1057,1150,426,470]" name="Asan" pageId="6" pageNumber="156">Asan</location>
+, 
+<date id="CB7C1033FFB81B0FFB48FE1F022647E0" box="[1170,1312,426,470]" pageId="6" pageNumber="156" value="1922-08">
+<collectingDate id="DB38E9DBFFB81B0FFB48FE1F022647E0" box="[1170,1312,426,470]" pageId="6" pageNumber="156" value="1922-08">Aug. 22</collectingDate>
+</date>
+, in rotten breadfruit, 
+<collectorName id="12375325FFB81B0FF97BFE1F002147E0" box="[1697,1831,426,470]" pageId="6" pageNumber="156">Swezey</collectorName>
+.
+</materialsCitation>
+</subSubSection>
+<subSubSection id="F7D86578FFB81B0FFE23FE6B0207440A" pageId="6" pageNumber="156" type="distribution">
+Distributed in Asia and the East Indies. Not abundantly collected in 
+<collectingCountry id="C7D57663FFB81B0FF961FE6B0021443F" box="[1723,1831,478,521]" name="Guam" pageId="6" pageNumber="156">Guam</collectingCountry>
+. Determined by G. E. Bryant, British Museum.
+</subSubSection>
+</paragraph>
+</treatment>
+</document>

@@ -1,0 +1,97 @@
+<document id="C68FF36B250945C7A871AE425C8BE5A5" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8CFFE3E40DF6968D04FE28" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Elachertus" docType="treatment" docVersion="7" lastPageNumber="218" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="217" updateTime="1664203411617" updateUser="annettekang">
+<mods:mods id="1EAC302258AD9A811D164318899CD35F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="97BD1BEC4C97A26C8141C539F7F9B1B7">
+<mods:title id="15E5B6F1D02FB5DFED42A220CE23B6FA">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="3781283E93C15A63E5962AEDF7AB7C8D" type="personal">
+<mods:role id="5806E0C13195C70683D6402865F6A05F">
+<mods:roleTerm id="636C46C35D7C687A7F9E6BC0E38AAF5E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="86923B9923222E3647ECDC8F73522CCE">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="332E8A8F2F78892E2BBD08154D475DB2">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="6035753F7DFCCBEEE6EDF02D6A727AB7">text</mods:typeOfResource>
+<mods:relatedItem id="69D91ECC66CC0B17C68C2BE13A390E3E" type="host">
+<mods:originInfo id="76898CC5F6B5B493FE44DBB58B678F77">
+<mods:dateIssued id="D07D51A6AEA9D306B678A307EB6DBEBC">1946</mods:dateIssued>
+<mods:dateOther id="35D1BA2544625A45D12F9957BEB1E285" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="BB3183DBC20AE8DD620AE7921D08C7B5">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="7F8EB8F16F2F21F35BBB6EC30D9F5316">
+<mods:placeTerm id="197749D2416B221203D466B815E9853C">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="58F5631B2F74989953DC5C7C2F6F0D34">
+<mods:title id="B30F4B4AA587BEF18CF959BD2085E9A4">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="6E57C8D0865BBDBAE9AD477DE439234D">
+<mods:extent id="7225AEA298190F8A8763CF9F461A5F1D" unit="page">
+<mods:start id="6C5D3262F8FB180657D81A351696E12C">211</mods:start>
+<mods:end id="DBE51CAE3B9975552899C49E65149D57">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="7030B94C16FE893F951C59D6FD0E1D6F">book chapter</mods:classification>
+<mods:identifier id="1876AA242B0B568806376490FBC25809" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="0F88654A35CF1642B7F7ECF5B44E0E73" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="2B5733983AC7D8291D0FD5174047EB72" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8CFFE3E40DF6968D04FE28" ID-DOI="http://doi.org/10.5281/zenodo.5208070" ID-GBIF-Taxon="187737414" ID-Zenodo-Dep="5208070" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE3E40DF6968D04FE28" httpUri="http://treatment.plazi.org/id/7376EC19FF8CFFE3E40DF6968D04FE28" lastPageId="7" lastPageNumber="218" pageId="6" pageNumber="217">
+<subSubSection id="B3C50E84FF8CFFE2E40DF6968DE4F6B6" box="[270,698,2362,2404]" pageId="6" pageNumber="217" type="nomenclature">
+<paragraph id="FB605D0FFF8CFFE2E40DF6968DE4F6B6" blockId="6.[270,1127,2362,2455]" box="[270,698,2362,2404]" pageId="6" pageNumber="217">
+<heading id="A028EA63FF8CFFE2E40DF6968DE4F6B6" box="[270,698,2362,2404]" fontSize="8" level="2" pageId="6" pageNumber="217" reason="4">
+51. 
+<taxonomicName id="3CDF268CFF8CFFE2E462F6968D7DF6B6" authority="Spinola, 1811" box="[353,547,2362,2404]" class="Insecta" family="Eulophidae" genus="Elachertus" higherTaxonomySource="CoL" kingdom="Animalia" order="Hymenoptera" pageId="6" pageNumber="217" phylum="Arthropoda" rank="genus">Elachertus</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8CFFE3E44CF6C28C24FE43" lastPageId="7" lastPageNumber="218" pageId="6" pageNumber="217" type="materials_examined">
+<paragraph id="FB605D0FFF8CFFE2E44CF6C28B39F645" blockId="6.[270,1127,2362,2455]" box="[335,1127,2414,2455]" pageId="6" pageNumber="217">
+<materialsCitation id="4BB75752FF8CFFE2E44CF6C28B39F645" ID-GBIF-Occurrence="3345364320" box="[335,1127,2414,2455]" collectedFrom="at light" collectingDate="1936-05-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="217" specimenCount="1">
+<collectingMunicipality id="1B04C775FF8CFFE2E44CF6C28ECDF645" box="[335,403,2414,2455]" pageId="6" pageNumber="217">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF8CFFE2E4AAF6C28D41F645" box="[425,543,2414,2455]" pageId="6" pageNumber="217">
+<collectingDate id="9F258227FF8CFFE2E4AAF6C28D41F645" box="[425,543,2414,2455]" pageId="6" pageNumber="217">May 9</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8CFFE2E73BF6C28C76F645" box="[568,808,2414,2455]" pageId="6" pageNumber="217" type="generic">one specimen</specimenCount>
+at light, 
+<collectorName id="562A38D9FF8CFFE2E6D9F6C28B3CF645" box="[986,1122,2414,2455]" pageId="6" pageNumber="217">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+<paragraph id="FB605D0FFF8DFFE3E4CEFECB8C24FE43" blockId="7.[461,1858,359,506]" box="[461,890,359,401]" pageId="7" pageNumber="218">
+<heading id="A028EA63FF8DFFE3E4CEFECB8C24FE43" box="[461,890,359,401]" fontSize="8" level="2" pageId="7" pageNumber="218" reason="4">
+<emphasis id="C9AB811DFF8DFFE3E4CEFECB8DBDFE43" bold="true" box="[461,739,359,401]" pageId="7" pageNumber="218">
+52. 
+<taxonomicName id="3CDF268CFF8DFFE3E722FECB8DBDFE43" box="[545,739,359,401]" kingdom="Animalia" pageId="7" pageNumber="218" rank="genus">Elachertus</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8DFFE3E70EFE368D04FE28" pageId="7" pageNumber="218" type="materials_examined">
+<paragraph id="FB605D0FFF8DFFE3E70EFE368D04FE28" blockId="7.[461,1858,359,506]" pageId="7" pageNumber="218">
+<materialsCitation id="4BB75752FF8DFFE3E70EFE368D04FE28" ID-GBIF-Occurrence="3345364335" collectedFrom="ex fruit of small-leaved Ficus" collectingDate="1936-06-12" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="7" pageNumber="218" specimenCount="1">
+<collectingMunicipality id="1B04C775FF8DFFE3E70EFE368D99FE17" box="[525,711,410,453]" pageId="7" pageNumber="218">Barrigada</collectingMunicipality>
+, 
+<date id="8F617BCFFF8DFFE3E7E7FE368C27FE17" box="[740,889,410,453]" pageId="7" pageNumber="218" value="2012-06">
+<collectingDate id="9F258227FF8DFFE3E7E7FE368C27FE17" box="[740,889,410,453]" pageId="7" pageNumber="218" value="2012-06">June 12</collectingDate>
+</date>
+, a single 
+<specimenCount id="EDD99686FF8DFFE3E141FE368BBBFE17" box="[1090,1253,410,453]" pageId="7" pageNumber="218" type="generic">specimen</specimenCount>
+<specimenCount id="EDD99686FF8DFFE3E1FFFE368A7BFE17" box="[1276,1317,410,453]" pageId="7" pageNumber="218" type="generic">ex</specimenCount>
+fruit of small-leaved 
+<taxonomicName id="3CDF268CFF8DFFE3E3DBFE368D04FE28" authority=", Swezey." authorityName="Swezey." class="Gastropoda" family="Ficidae" genus="Ficus" kingdom="Animalia" order="Littorinimorpha" pageId="7" pageNumber="218" phylum="Mollusca" rank="genus">
+<emphasis id="C9AB811DFF8DFFE3E3DBFE36881CFE17" box="[1752,1858,410,453]" italics="true" pageId="7" pageNumber="218">
+<location id="FE000BD4FF8DFFE3E3DBFE368865FE17" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE3E40DF6968D04FE28:FE000BD4FF8DFFE3E3DBFE368865FE17" box="[1752,1851,410,453]" municipality="Barrigada" name="Ficus" pageId="7" pageNumber="218">Ficus</location>
+,
+</emphasis>
+<collectorName id="562A38D9FF8DFFE3E4CCFE7C8D0BFE28" box="[463,597,464,506]" pageId="7" pageNumber="218">Swezey</collectorName>
+.
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

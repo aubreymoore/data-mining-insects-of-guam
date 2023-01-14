@@ -1,0 +1,185 @@
+<document id="2933CF787C90564990B3048FCD1897A3" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFD451225E4CAAAEFB6AF62C" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Euscepes postfasciatus" docType="treatment" docVersion="20" lastPageNumber="109" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="109" updateTime="1671148716309" updateUser="annettekang">
+<mods:mods id="B6E9A7B8CED7B4AD06CD91219B0DE65B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="EEFF6E7225194B758353A86E2056DC25">
+<mods:title id="FA0E85316051530B84BA7737AAF2E28D">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="B396DD1B342446AE4C37EC25A2DF1E53" type="personal">
+<mods:role id="12ED1F3D6F3191E357BCBA8ED88F1ADF">
+<mods:roleTerm id="6BAF72752E8A8AC617C17E43AB5F6612">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F49FCD7C62C71BBD1F51746B6F7F49BD">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="53D2F3DE7217F4A760BFC33DEB3E9B06">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="304084F6060A3DF31EC6D6F2FB1D9E32">text</mods:typeOfResource>
+<mods:relatedItem id="F21594427EE1F233B7102E404B1D8B9E" type="host">
+<mods:originInfo id="EC591A9A19B73518505A0D209B2458E6">
+<mods:dateIssued id="23CE302091BD38F6C3B1F0D03373077E">1942</mods:dateIssued>
+<mods:dateOther id="C8196701E8618630CD7F4C430586E03B" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="3D98CF4A0B28C231B065086774DBB195">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="476C2477417765D4F9208003EA755C96">
+<mods:placeTerm id="7AB06576A7AC2D54FFE63315251BBAD1">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A4D8A04A803B6E3A190839E2AFA42DC3">
+<mods:title id="38A30A8ACEADE9D323B9942D05D9F67B">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="263C985983B425224B56CD49B7B6CA81">
+<mods:extent id="BC5223AC7CB7C9665C8611ED4A0CF934" unit="page">
+<mods:start id="515BDDE5BC8A129F0508C111AAE6DB35">73</mods:start>
+<mods:end id="7D45361E8E32DBA8B213B52DCF183394">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="9D3C96B2B5E069D38696FF9D75E2A0BD">book chapter</mods:classification>
+<mods:identifier id="345A5CD66F96B4200FC494161EA23977" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="7D5F355ABE18847DF3A76E65F3D9F866" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="2AC399D9780F7BA2D2BF10D7CE1FA6DF" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFD451225E4CAAAEFB6AF62C" ID-DOI="http://doi.org/10.5281/zenodo.5195108" ID-GBIF-Taxon="184097889" ID-Zenodo-Dep="5195108" LSID="urn:lsid:plazi:treatment:D6388709FFD451225E4CAAAEFB6AF62C" httpUri="http://treatment.plazi.org/id/D6388709FFD451225E4CAAAEFB6AF62C" lastPageNumber="109" pageId="36" pageNumber="109">
+<subSubSection id="168B6594FFD451225E4CAAAEFB39F989" box="[279,1219,1524,1567]" pageId="36" pageNumber="109" type="nomenclature">
+<paragraph id="5E2E361FFFD451225E4CAAAEFB39F989" blockId="36.[278,1676,1524,2490]" box="[279,1219,1524,1567]" pageId="36" pageNumber="109">
+<heading id="05668173FFD451225E4CAAAEFB39F989" box="[279,1219,1524,1567]" fontSize="8" level="2" pageId="36" pageNumber="109" reason="4">
+<emphasis id="6CE5EA0DFFD451225E4CAAAEFEB3F989" bold="true" box="[279,329,1524,1567]" pageId="36" pageNumber="109">21.</emphasis>
+<taxonomicName id="99914D9CFFD451225E30AAAEFC0DF989" authority="(Fairmaire)" baseAuthorityName="Fairmaire" box="[363,1015,1524,1567]" class="Insecta" family="Curculionidae" genus="Euscepes" kingdom="Animalia" order="Coleoptera" pageId="36" pageNumber="109" phylum="Arthropoda" rank="species" species="postfasciatus">
+<emphasis id="6CE5EA0DFFD451225E30AAAEFCF6F989" bold="true" box="[363,780,1524,1567]" pageId="36" pageNumber="109">Euscepes postfasciatus</emphasis>
+(Fairmaire)
+</taxonomicName>
+(pl. 2, C).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFD451225E02A973FC7DF87D" pageId="36" pageNumber="109" type="reference_group">
+<paragraph id="5E2E361FFFD451225E02A973F9D3F9C5" blockId="36.[278,1676,1524,2490]" box="[345,1577,1577,1619]" pageId="36" pageNumber="109">
+<treatmentCitationGroup id="7E811131FFD451225E02A973F9D3F9C5" box="[345,1577,1577,1619]" pageId="36" pageNumber="109">
+<bibCitation id="8BBB3E73FFD451225E02A973F9D3F9C5" author="Fairmaire" box="[345,1577,1577,1619]" journalOrPublisher="Rev. Mag. Zool." pageId="36" pageNumber="109" pagination="513" refId="ref24388" type="journal article" year="1849">
+<treatmentCitation id="DF30100EFFD451225E02A973F9DEF9C5" author="Fairmaire" box="[345,1572,1577,1619]" page="513" pageId="36" pageNumber="109" year="1849">
+<taxonomicName id="99914D9CFFD451225E02A973FBD2F9C5" box="[345,1064,1577,1619]" pageId="36" pageNumber="109">
+<emphasis id="6CE5EA0DFFD451225E02A973FC9DF9C5" box="[345,871,1577,1619]" italics="true" pageId="36" pageNumber="109">Cryptorhynchus postfasciatus</emphasis>
+<author id="862CDEFAFFD451225C2DA973FBD2F9C5" box="[886,1064,1577,1619]" pageId="36" pageNumber="109">Fairmaire</author>
+</taxonomicName>
+, 
+<journalOrPublisher id="84503CD3FFD451225B65A973FA98F9C5" box="[1086,1378,1577,1619]" pageId="36" pageNumber="109">Rev. Mag. Zool.</journalOrPublisher>
+, 
+<pagination id="6758C8EBFFD451225A22A973FA42F9C5" box="[1401,1464,1577,1619]" pageId="36" pageNumber="109" type="pageRange">513</pagination>
+, 
+<year id="2A39774CFFD451225A89A973F9DEF9C5" box="[1490,1572,1577,1619]" pageId="36" pageNumber="109">1849</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFD451225E03A906FDDAF92B" blockId="36.[278,1676,1524,2490]" pageId="36" pageNumber="109">
+<treatmentCitationGroup id="7E811131FFD451225E03A906FDDAF92B" pageId="36" pageNumber="109">
+<treatmentCitation id="DF30100EFFD451225E03A906FDDAF92B" author="Waterhouse" pageId="36" pageNumber="109" year="1849">
+<bibCitation id="8BBB3E73FFD451225E03A906FDDAF92B" author="Waterhouse" journalOrPublisher="Ent. Soc. London, Proc." pageId="36" pageNumber="109" pagination="lxix" refId="ref24403" type="journal article" year="1849">
+<taxonomicName id="99914D9CFFD451225E03A906FC13F910" box="[344,1001,1628,1670]" pageId="36" pageNumber="109">
+<emphasis id="6CE5EA0DFFD451225E03A906FCFAF910" box="[344,768,1628,1670]" italics="true" pageId="36" pageNumber="109">Cryptorhynchus batatae</emphasis>
+<author id="862CDEFAFFD451225C4AA906FC13F910" box="[785,1001,1628,1670]" pageId="36" pageNumber="109">Waterhouse</author>
+</taxonomicName>
+, 
+<journalOrPublisher id="84503CD3FFD451225B58A906FA3AF910" box="[1027,1472,1628,1670]" pageId="36" pageNumber="109">Ent. Soc. London, Proc.</journalOrPublisher>
+, 
+<pagination id="6758C8EBFFD451225A82A906F9DBF910" box="[1497,1569,1628,1670]" pageId="36" pageNumber="109" type="pageRange">lxix</pagination>
+, 
+<year id="2A39774CFFD451225965A906F976F910" box="[1598,1676,1628,1670]" pageId="36" pageNumber="109">1849</year>
+(1850).
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFD451225E0DA999FDBDF8B6" blockId="36.[278,1676,1524,2490]" pageId="36" pageNumber="109">
+<treatmentCitationGroup id="7E811131FFD451225E0DA999FDBDF8B6" pageId="36" pageNumber="109">
+<treatmentCitation id="DF30100EFFD451225E0DA999FDBDF8B6" author="Blackburn" page="182-183" pageId="36" pageNumber="109" year="1885">
+<taxonomicName id="99914D9CFFD451225E0DA999FC1AF97B" box="[342,992,1731,1773]" pageId="36" pageNumber="109">
+<emphasis id="6CE5EA0DFFD451225E0DA999FCE0F97B" box="[342,794,1731,1773]" italics="true" pageId="36" pageNumber="109">Hyperoniorpha squamosa</emphasis>
+<author id="862CDEFAFFD451225C7CA999FC1AF97B" box="[807,992,1731,1773]" pageId="36" pageNumber="109">Blackburn</author>
+</taxonomicName>
+, 
+<journalOrPublisher id="84503CD3FFD451225CAFA999FA3AF97B" box="[1012,1472,1731,1773]" pageId="36" pageNumber="109">Roy. Soc. London, Trans.</journalOrPublisher>
+, II, 
+<part id="2A359C82FFD451225955A999F9E6F97B" box="[1550,1564,1731,1773]" pageId="36" pageNumber="109">3</part>
+: 
+<pagination id="6758C8EBFFD451225918A999F97AF97B" box="[1603,1664,1731,1773]" pageId="36" pageNumber="109">182</pagination>
+- TODO TODO
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFD451225E0CA873FD49F813" blockId="36.[278,1676,1524,2490]" pageId="36" pageNumber="109">
+<treatmentCitationGroup id="7E811131FFD451225E0CA873FD49F813" pageId="36" pageNumber="109">
+<treatmentCitation id="DF30100EFFD451225E0CA873FD49F813" pageId="36" pageNumber="109">
+<bibCitation id="8BBB3E73FFD451225E0CA873FD49F813" author="Champion" journalOrPublisher="Biol. Centr. Am. Coleopt." pageId="36" pageNumber="109" pagination="497" part="4" refId="ref24444" type="journal article" year="1905">
+<taxonomicName id="99914D9CFFD451225E0CA873FC52F8C0" box="[343,936,1833,1878]" pageId="36" pageNumber="109">
+<emphasis id="6CE5EA0DFFD451225E0CA873FD75F8C0" box="[343,655,1833,1878]" italics="true" pageId="36" pageNumber="109">Euscepes batatae</emphasis>
+(Waterhouse)
+</taxonomicName>
+<author id="862CDEFAFFD451225C91A873FB85F8C0" box="[970,1151,1833,1878]" pageId="36" pageNumber="109">Champion</author>
+, 
+<journalOrPublisher id="84503CD3FFD451225BF9A873F973F8C0" box="[1186,1673,1833,1878]" pageId="36" pageNumber="109">Biol. Centr. Am. Coleopt.</journalOrPublisher>
+<part id="2A359C82FFD451225EC8A801FE56F813" box="[403,428,1883,1925]" pageId="36" pageNumber="109" type="volume">4</part>
+(
+<part id="2A359C82FFD451225EE1A801FE28F813" box="[442,466,1883,1925]" pageId="36" pageNumber="109" type="issue">4</part>
+): 
+<emphasis id="6CE5EA0DFFD451225D5CA801FDB3F813" box="[519,585,1883,1925]" italics="true" pageId="36" pageNumber="109">
+<pagination id="6758C8EBFFD451225D5CA801FDB9F813" box="[519,579,1883,1925]" pageId="36" pageNumber="109" type="pageRange">497</pagination>
+,
+</emphasis>
+<year id="2A39774CFFD451225D07A801FD54F813" box="[604,686,1883,1925]" pageId="36" pageNumber="109">1905</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFD451225E0CA8D7FC7DF87D" blockId="36.[278,1676,1524,2490]" pageId="36" pageNumber="109">
+<treatmentCitationGroup id="7E811131FFD451225E0CA8D7FC7DF87D" pageId="36" pageNumber="109">
+<treatmentCitation id="DF30100EFFD451225E0CA8D7FC7DF87D" author="Zimmerman" page="14-16" pageId="36" pageNumber="109" year="1936">
+<bibCitation id="8BBB3E73FFD451225E0CA8D7FC7DF87D" author="Zimmerman" journalOrPublisher="B. P. Bishop Mus., 0 cc. Papers" pageId="36" pageNumber="109" pagination="14 - 16" part="12" refId="ref24468" type="journal article" year="1936">
+<taxonomicName id="99914D9CFFD451225E0CA8D7FC29F82F" box="[343,979,1933,1977]" pageId="36" pageNumber="109">
+<emphasis id="6CE5EA0DFFD451225E0CA8D7FD11F82F" box="[343,747,1933,1977]" italics="true" pageId="36" pageNumber="109">Euscepes postfasciatus</emphasis>
+(Fairmaire)
+</taxonomicName>
+<author id="862CDEFAFFD451225CB2A8D7FB3AF82F" box="[1001,1216,1933,1977]" pageId="36" pageNumber="109">Zimmerman</author>
+, 
+<journalOrPublisher id="84503CD3FFD451225B83A8D7FDF4F87D" pageId="36" pageNumber="109">B. P. Bishop Mus., 0cc. Papers</journalOrPublisher>
+<part id="2A359C82FFD451225D7BA898FDB0F87D" box="[544,586,1986,2027]" pageId="36" pageNumber="109" type="volume">12</part>
+(
+<part id="2A359C82FFD451225D0DA898FD7BF87D" box="[598,641,1986,2027]" pageId="36" pageNumber="109" type="issue">23</part>
+): 
+<pagination id="6758C8EBFFD451225DE2A898FCE2F87D" box="[697,792,1986,2027]" pageId="36" pageNumber="109" type="pageRange">14-16</pagination>
+, 
+<year id="2A39774CFFD451225C6AA898FC78F87D" box="[817,898,1986,2027]" pageId="36" pageNumber="109">1936</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFD451225E0DA8AEFDA4F689" pageId="36" pageNumber="109" type="diagnosis">
+<paragraph id="5E2E361FFFD451225E0DA8AEFDA4F689" blockId="36.[278,1676,1524,2490]" pageId="36" pageNumber="109">This almost cosmopolitan sweet-potato pest (commonly called the West Indian sweet-potato weevil) is easily recognized by its subparallel-sided, densely squamose elytra which have a common, transverse, pale fascia at the top of the declivity. The pronotum bristles with erect, spatulate setae, borne from rather large, close punctures; the interstices between the punctures are coarsely reticulate.</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFD451225E0CA672FB6AF62C" pageId="36" pageNumber="109" type="materials_examined">
+<paragraph id="5E2E361FFFD451225E0CA672FB6AF62C" blockId="36.[278,1676,1524,2490]" pageId="36" pageNumber="109">
+The following specimens from 
+<collectingCountry id="2686768FFFD451225CF1A672FBEBF6C2" box="[938,1041,2344,2388]" name="Guam" pageId="36" pageNumber="109">Guam</collectingCountry>
+<materialsCitation id="EEF93C42FFD451225B73A672FBD9F61C" ID-GBIF-Occurrence="3333874433" collectedFrom="from sweet-potato vine" collectingDate="1936-11-17" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="36" pageNumber="109" specimenCount="3">
+are before me: three, Piti, from sweet-potato vine, 
+<date id="2A2F10DFFFD451225D2BA604FC89F61C" box="[624,883,2398,2442]" pageId="36" pageNumber="109" value="1936-11-17">
+<collectingDate id="3A6BE937FFD451225D2BA604FC89F61C" box="[624,883,2398,2442]" pageId="36" pageNumber="109" value="1936-11-17">Nov. 17, 1936</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFD451225CCAA604FBE6F61C" LSID="urn:lsid:plazi:treatment:D6388709FFD451225E4CAAAEFB6AF62C:5B4E60C4FFD451225CCAA604FBE6F61C" box="[913,1052,2398,2442]" country="Island Guam" municipality="Fullaway" name="Swezey" pageId="36" pageNumber="109">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFD451225B63A604FB6AF62C" ID-GBIF-Occurrence="3333874405" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="36" pageNumber="109" specimenCount="2">
+two were taken by 
+<collectingMunicipality id="BE4AAC65FFD451225AC5A604F9BAF61C" box="[1438,1600,2398,2442]" pageId="36" pageNumber="109">Fullaway</collectingMunicipality>
+but have no specific locality other than &quot; 
+<collectingCountry id="2686768FFFD451225CD2A6C8FB84F62C" box="[905,1150,2450,2490]" name="Island Guam" pageId="36" pageNumber="109">
+<collectingCountry id="2686768FFFD451225CD2A6C8FC04F62C" box="[905,1022,2450,2490]" name="Iceland" pageId="36" pageNumber="109">Island</collectingCountry>
+<collectingCountry id="2686768FFFD451225B51A6C8FB84F62C" box="[1034,1150,2450,2490]" name="Guam" pageId="36" pageNumber="109">Guam</collectingCountry>
+</collectingCountry>
+.&quot;
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

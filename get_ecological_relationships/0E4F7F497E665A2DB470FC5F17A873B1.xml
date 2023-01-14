@@ -1,0 +1,183 @@
+<document id="B1CD5CDC015486FB72F1293F360E89AB" ID-DOI="http://doi.org/10.5281/zenodo.5160270" ID-GBIF-Dataset="6dc2872d-cbab-4982-baed-c0969e3e3236" ID-Zenodo-Dep="5160270" checkinTime="1628013042203" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="0E4F7F497E665A2DB470FC5F17A873B1" docLanguage="en" docName="InsectsOfGuamI.172.175-183.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Monomorium (Parholcomyrmex) destructor ." docType="treatment" docVersion="12" lastPageNumber="177" masterDocId="F27607317E645A2FB552FF8416577654" masterDocTitle="Hymenoptera Formicidae of Guam" masterLastPageNumber="183" masterPageNumber="175" pageNumber="177" updateTime="1657826854609" updateUser="ExternalLinkService">
+<mods:mods id="86CE69D65B089A7CEE1C7E658A43C56D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="83E8BF7D8BB579F5CF06DE47B208C8CD">
+<mods:title id="B68F29B0FD3E52DC21CCFD6F18BF9467">Hymenoptera Formicidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="75BBE010FCD78BCD2D42FCF720F9B6F0" type="personal">
+<mods:role id="0129ECBD4A162F6A4AAA8CF3419CC8F9">
+<mods:roleTerm id="52C2DFABB451906CF1D31DF64E86C91C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="5AD9DE4DFB2C84ADCB9824132FC37A12">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="84398EAE05ADB65944A29102CCC1D970">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="49277440E956938F8AEAF64E7B1A22F6">text</mods:typeOfResource>
+<mods:relatedItem id="D6D413DE29025618186F33CCD2E099C0" type="host">
+<mods:originInfo id="38F69BE0097F7606EE0031A664867DC0">
+<mods:dateIssued id="4B6ADC3AD8429B5C692CE8BF6ECF2944">1942</mods:dateIssued>
+<mods:dateOther id="BC1E11F28696CC1230A2E7495D594F82" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="BBB268860A2125140A9D92BE8AB2BA5F">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="97811AF389B1E6129126A3A67B19B2F4">
+<mods:placeTerm id="5BFECD837BA1F944A041BAD2873D757D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="CAAA1092814A696B0A577AF8B8B6AEBA">
+<mods:title id="62F9FBE6F94A69BC977444D66BFC05F8">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="F9F2795BF8A4AC80941C8F49261D2435">
+<mods:extent id="606B24F498F8C6933CE0D809EE787E22" unit="page">
+<mods:start id="E41E9F915052470323EA54E0673363F7">175</mods:start>
+<mods:end id="0C00D0E0555BFB89462CE0A0D1437F58">183</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="CC91DC46E8E59398E5F21A2B232DF4BE">book chapter</mods:classification>
+<mods:identifier id="95177BD6BC15753168F14F465BE4D329" type="DOI">http://doi.org/10.5281/zenodo.5160270</mods:identifier>
+<mods:identifier id="02F30B9C90B91FCA6820981B45585A09" type="GBIF-Dataset">6dc2872d-cbab-4982-baed-c0969e3e3236</mods:identifier>
+<mods:identifier id="BC8BCEBC9F77EAEDD7F37B92ECAFE29A" type="Zenodo-Dep">5160270</mods:identifier>
+</mods:mods>
+<treatment id="0E4F7F497E665A2DB470FC5F17A873B1" ID-DOI="http://doi.org/10.5281/zenodo.5164281" ID-GBIF-Taxon="184601759" ID-Zenodo-Dep="5164281" LSID="urn:lsid:plazi:treatment:0E4F7F497E665A2DB470FC5F17A873B1" httpUri="http://treatment.plazi.org/id/0E4F7F497E665A2DB470FC5F17A873B1" lastPageNumber="177" pageId="2" pageNumber="177">
+<subSubSection id="CEFC9DD47E665A2DB470FC5F133D7251" box="[290,1386,987,1029]" pageId="2" pageNumber="177" type="nomenclature">
+<paragraph id="8659CE5F7E665A2DB470FC5F133D7251" blockId="2.[289,1683,987,1509]" box="[290,1386,987,1029]" pageId="2" pageNumber="177">
+*7. 
+<taxonomicName id="41E6B5DC7E665A2DB426FC5F133D7251" authority="(Jerdon)" box="[372,1386,987,1029]" class="Insecta" family="Formicidae" genus="Monomorium" kingdom="Animalia" order="Hymenoptera" pageId="2" pageNumber="177" phylum="Arthropoda" rank="species" species="destructor" subGenus="Parholcomyrmex">Monomorium (Parholcomyrmex) destructor (Jerdon).</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E665A2DB432FB951295735D" pageId="2" pageNumber="177" type="reference_group">
+<paragraph id="8659CE5F7E665A2DB432FB9513EC726F" blockId="2.[289,1683,987,1509]" box="[352,1467,1041,1083]" pageId="2" pageNumber="177">
+<treatmentCitationGroup id="A6F6E9717E665A2DB432FB9513EC726F" box="[352,1467,1041,1083]" pageId="2" pageNumber="177">
+<treatmentCitation id="0747E84E7E665A2DB432FB9513EC726F" LSID="urn:lsid:zoobank.org:act:BD1D41DC-78F3-4AB1-8340-88A25CBF56B1" author="Jerdon" box="[352,1467,1041,1083]" httpUri="http://treatment.plazi.org/id/4EA81C1C17CB66B893B1BF5D40345DA2" page="105" pageId="2" pageNumber="177" year="1851">
+<bibCitation id="53CCC6337E665A2DB432FB9513EC726F" author="Jerdon" box="[352,1467,1041,1083]" journalOrPublisher="Madras Lit. Sci., Jour." pageId="2" pageNumber="177" pagination="105" part="17" refId="ref1256" type="journal article" year="1851">
+<emphasis id="B492124D7E665A2DB432FB951424726F" box="[352,627,1041,1083]" italics="true" pageId="2" pageNumber="177">Atta destructor</emphasis>
+<author id="5E5B26BA7E665A2DB7D0FB9514AA726F" box="[642,765,1041,1083]" pageId="2" pageNumber="177">Jerdon</author>
+, 
+<journalOrPublisher id="5C27C4937E665A2DB644FB9512E7726F" box="[790,1200,1041,1083]" pageId="2" pageNumber="177">Madras Lit. Sci., Jour.</journalOrPublisher>
+<part id="F24264C27E665A2DB197FB9512A3726F" box="[1221,1268,1041,1083]" pageId="2" pageNumber="177" type="volume">17</part>
+: 
+<pagination id="BF2F30AB7E665A2DB05EFB95131E726F" box="[1292,1353,1041,1083]" pageId="2" pageNumber="177" type="pagination">105</pagination>
+, 
+<year id="F24E8F0C7E665A2DB036FB9513E1726F" box="[1380,1462,1041,1083]" pageId="2" pageNumber="177">1851</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8659CE5F7E665A2DB432FBC0106772F6" blockId="2.[289,1683,987,1509]" pageId="2" pageNumber="177">
+<treatmentCitationGroup id="A6F6E9717E665A2DB432FBC0106772F6" pageId="2" pageNumber="177">
+<bibCitation id="53CCC6337E665A2DB432FBC014D372F6" author="Bingham" journalOrPublisher="Fauna Brit. India, Hymenopt." pageId="2" pageNumber="177" pagination="209" part="2" refId="ref1274" type="journal article" year="1903">
+<treatmentCitation id="0747E84E7E665A2DB432FBC0142872F6" author="Bingham" page="209" pageId="2" pageNumber="177" year="1903">
+<emphasis id="B492124D7E665A2DB432FBC01545723B" box="[352,786,1092,1135]" italics="true" pageId="2" pageNumber="177">Monomorium destructor</emphasis>
+(Jerdon) 
+<author id="5E5B26BA7E665A2DB69FFBC01238723B" box="[973,1135,1092,1135]" pageId="2" pageNumber="177">Bingham</author>
+, 
+<journalOrPublisher id="5C27C4937E665A2DB1D6FBC010C4723B" box="[1156,1683,1092,1135]" pageId="2" pageNumber="177">Fauna Brit. India, Hymenopt.</journalOrPublisher>
+<part id="F24264C27E665A2DB4CDFBF317FA72F6" box="[415,429,1143,1186]" pageId="2" pageNumber="177" type="volume">2</part>
+: 
+<pagination id="BF2F30AB7E665A2DB482FBF3144672F6" box="[464,529,1143,1186]" pageId="2" pageNumber="177" type="pagination">209</pagination>
+, 
+<year id="F24E8F0C7E665A2DB77FFBF3142872F6" box="[557,639,1143,1186]" pageId="2" pageNumber="177">1903</year>
+</treatmentCitation>
+.
+</bibCitation>
+<treatmentCitation id="0747E84E7E665A2DB7F3FBF3106772F6" author="Wheeler" box="[673,1584,1143,1186]" page="45" pageId="2" pageNumber="177" year="1912">
+<bibCitation id="53CCC6337E665A2DB7F3FBF3106772F6" author="Wheeler" box="[673,1584,1143,1186]" journalOrPublisher="New York Ent. Soc., Jour." pageId="2" pageNumber="177" pagination="45" part="20" refId="ref1274" type="journal article" year="1912">
+<author id="5E5B26BA7E665A2DB7F3FBF3156E72F6" box="[673,825,1143,1186]" pageId="2" pageNumber="177">Wheeler</author>
+, 
+<journalOrPublisher id="5C27C4937E665A2DB601FBF3136D72F6" box="[851,1338,1143,1186]" pageId="2" pageNumber="177">New York Ent. Soc., Jour.</journalOrPublisher>
+<part id="F24264C27E665A2DB01EFBF3133872F6" box="[1356,1391,1143,1186]" pageId="2" pageNumber="177" type="volume">20</part>
+: 
+<pagination id="BF2F30AB7E665A2DB0C3FBF313EB72F6" box="[1425,1468,1143,1186]" pageId="2" pageNumber="177" type="pageRange">45</pagination>
+, 
+<year id="F24E8F0C7E665A2DB08BFBF3107C72F6" box="[1497,1579,1143,1186]" pageId="2" pageNumber="177">1912</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8659CE5F7E665A2DB432FB281295735D" blockId="2.[289,1683,987,1509]" pageId="2" pageNumber="177">
+<treatmentCitationGroup id="A6F6E9717E665A2DB432FB281295735D" pageId="2" pageNumber="177">
+<treatmentCitation id="0747E84E7E665A2DB432FB281295735D" author="Wheeler" page="25" pageId="2" pageNumber="177" year="1935">
+<bibCitation id="53CCC6337E665A2DB432FB281295735D" author="Wheeler" journalOrPublisher="B. P. Bishop Mus., 0 cc. Papers" pageId="2" pageNumber="177" pagination="25" part="11" refId="ref1311" type="journal article" year="1935">
+<emphasis id="B492124D7E665A2DB432FB2812CF7280" box="[352,1176,1196,1236]" italics="true" pageId="2" pageNumber="177">Monomorium (Parholcomyrmex) destructor</emphasis>
+(Jerdon) 
+<author id="5E5B26BA7E665A2DB021FB28105C7280" box="[1395,1547,1196,1236]" pageId="2" pageNumber="177">Wheeler</author>
+, 
+<journalOrPublisher id="5C27C4937E665A2DB37CFB281523735D" pageId="2" pageNumber="177">B. P. Bishop Mus., 0cc. Papers</journalOrPublisher>
+<part id="F24264C27E665A2DB6DAFB5B15E2735D" box="[904,949,1247,1289]" pageId="2" pageNumber="177" type="volume">11</part>
+(
+<part id="F24264C27E665A2DB696FB5B15A6735D" box="[964,1009,1247,1289]" pageId="2" pageNumber="177" type="issue">11</part>
+): 
+<pagination id="BF2F30AB7E665A2DB17AFB5B1218735D" box="[1064,1103,1247,1289]" pageId="2" pageNumber="177" type="pagination">25</pagination>
+, 
+<year id="F24E8F0C7E665A2DB139FB5B12EA735D" box="[1131,1213,1247,1289]" pageId="2" pageNumber="177">1935</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E665A2DB432FA9E12BD732C" pageId="2" pageNumber="177" type="materials_examined">
+<paragraph id="8659CE5F7E665A2DB432FA9E12BD732C" blockId="2.[289,1683,987,1509]" pageId="2" pageNumber="177">
+<materialsCitation id="368EC4027E665A2DB432FA9E14A47311" ID-GBIF-Occurrence="3862685347" box="[352,755,1306,1349]" collectingDate="1936-04-02" collectorName="E. H. Bryan" country="Guam" location="Tiyan" pageId="2" pageNumber="177">
+<collectingMunicipality id="663D54257E665A2DB432FA9E179D7311" box="[352,458,1306,1349]" pageId="2" pageNumber="177">Tiyan</collectingMunicipality>
+, 
+<date id="F258E89F7E665A2DB48DFA9E14377311" box="[479,608,1306,1349]" pageId="2" pageNumber="177">
+<collectingDate id="E21C11777E665A2DB48DFA9E14377311" box="[479,608,1306,1349]" pageId="2" pageNumber="177">April 2</collectingDate>
+</date>
+, 
+<location id="833998847E665A2DB725FA9E14BB7311" LSID="urn:lsid:plazi:treatment:0E4F7F497E665A2DB470FC5F17A873B1:833998847E665A2DB725FA9E14BB7311" box="[631,748,1306,1349]" municipality="Tiyan" name="Bryan" pageId="2" pageNumber="177">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E665A2DB651FA9E131A7311" ID-GBIF-Occurrence="3862685324" box="[771,1357,1306,1349]" collectingDate="1936-04-09" collectorName="E. H. Bryan" country="Guam" location="Orote Peninsula" pageId="2" pageNumber="177">
+<collectingMunicipality id="663D54257E665A2DB651FA9E12727311" box="[771,1061,1306,1349]" pageId="2" pageNumber="177">Orote Peninsula</collectingMunicipality>
+, 
+<date id="F258E89F7E665A2DB168FA9E12EC7311" box="[1082,1211,1306,1349]" pageId="2" pageNumber="177">
+<collectingDate id="E21C11777E665A2DB168FA9E12EC7311" box="[1082,1211,1306,1349]" pageId="2" pageNumber="177">April 9</collectingDate>
+</date>
+, 
+<location id="833998847E665A2DB182FA9E13117311" LSID="urn:lsid:plazi:treatment:0E4F7F497E665A2DB470FC5F17A873B1:833998847E665A2DB182FA9E13117311" box="[1232,1350,1306,1349]" municipality="Orote Peninsula" name="Bryan" pageId="2" pageNumber="177">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E665A2DB00FFA9E17E8732C" ID-GBIF-Occurrence="3862685390" collectingDate="1936-05-01" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="2" pageNumber="177">
+<location id="833998847E665A2DB00FFA9E13CB7311" LSID="urn:lsid:plazi:treatment:0E4F7F497E665A2DB470FC5F17A873B1:833998847E665A2DB00FFA9E13CB7311" box="[1373,1436,1306,1349]" name="Piti" pageId="2" pageNumber="177">Piti</location>
+<location id="833998847E665A2DB0F8FA9E10547311" LSID="urn:lsid:plazi:treatment:0E4F7F497E665A2DB470FC5F17A873B1:833998847E665A2DB0F8FA9E10547311" box="[1450,1539,1306,1349]" name="Hills" pageId="2" pageNumber="177">Hills</location>
+, 
+<date id="F258E89F7E665A2DB34AFA9E10DF7311" box="[1560,1672,1306,1349]" pageId="2" pageNumber="177">
+<collectingDate id="E21C11777E665A2DB34AFA9E10DF7311" box="[1560,1672,1306,1349]" pageId="2" pageNumber="177">May 1</collectingDate>
+</date>
+, 
+<location id="833998847E665A2DB470FACA17EF732C" LSID="urn:lsid:plazi:treatment:0E4F7F497E665A2DB470FC5F17A873B1:833998847E665A2DB470FACA17EF732C" box="[290,440,1358,1400]" name="Usinger" pageId="2" pageNumber="177">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E665A2DB49CFACA154B732C" ID-GBIF-Occurrence="3862685333" box="[462,796,1358,1400]" collectingDate="1936-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="177">
+<location id="833998847E665A2DB49CFACA1447732C" LSID="urn:lsid:plazi:treatment:0E4F7F497E665A2DB470FC5F17A873B1:833998847E665A2DB49CFACA1447732C" box="[462,528,1358,1400]" name="Piti" pageId="2" pageNumber="177">Piti</location>
+, 
+<location id="833998847E665A2DB777FACA1425732C" LSID="urn:lsid:plazi:treatment:0E4F7F497E665A2DB470FC5F17A873B1:833998847E665A2DB777FACA1425732C" box="[549,626,1358,1400]" name="July" pageId="2" pageNumber="177">July</location>
+, 
+<collectorName id="2B13AB897E665A2DB7DBFACA1542732C" box="[649,789,1358,1400]" pageId="2" pageNumber="177">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E665A2DB678FACA12BD732C" ID-GBIF-Occurrence="3862685391" box="[810,1258,1358,1400]" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="2" pageNumber="177">
+<location id="833998847E665A2DB678FACA15F0732C" LSID="urn:lsid:plazi:treatment:0E4F7F497E665A2DB470FC5F17A873B1:833998847E665A2DB678FACA15F0732C" box="[810,935,1358,1400]" name="Fadian" pageId="2" pageNumber="177">Fadian</location>
+, 
+<date id="F258E89F7E665A2DB6E8FACA121E732C" box="[954,1097,1358,1400]" pageId="2" pageNumber="177" value="2019-08">
+<collectingDate id="E21C11777E665A2DB6E8FACA121E732C" box="[954,1097,1358,1400]" pageId="2" pageNumber="177" value="2019-08">Aug. 19</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E665A2DB10CFACA12B2732C" box="[1118,1253,1358,1400]" pageId="2" pageNumber="177">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E665A2DB432FA0C17A873B1" pageId="2" pageNumber="177" type="discussion">
+<paragraph id="8659CE5F7E665A2DB432FA0C17A873B1" blockId="2.[289,1683,987,1509]" pageId="2" pageNumber="177">
+A yellowish-brown, pantropical ant with dark abdomen. 
+<materialsCitation id="368EC4027E665A2DB014FA0C17AD73B1" ID-GBIF-Occurrence="3862685329" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="2" pageNumber="177">
+Collected by 
+<location id="833998847E665A2DB378FA0C173F73B1" LSID="urn:lsid:plazi:treatment:0E4F7F497E665A2DB470FC5F17A873B1:833998847E665A2DB378FA0C173F73B1" name="Fullaway" pageId="2" pageNumber="177">Fullaway</location>
+in 1911
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

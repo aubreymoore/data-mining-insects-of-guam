@@ -1,0 +1,153 @@
+<document id="65E750423DCF67319261274A0CA3D32F" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E944FFB1FE778B39963B0102" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Hymenia recurvalis" docType="treatment" docVersion="22" lastPageNumber="179" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="178" updateTime="1670269774864" updateUser="ExternalLinkService">
+<mods:mods id="3EF6C86C78EE014790780EE004A86E29" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C45DF332F54096B081DCE80FE83FC2F3">
+<mods:title id="06C6CFFD2F612A0D92F4329BEBB714F5">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="F0EF28D0FA4EC3AE0DB5630F2C8D25AA" type="personal">
+<mods:role id="B078B33129C22536064A5765884C5B7E">
+<mods:roleTerm id="98F18CBCE17898CAABE588E6B6262FAF">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E319336C299763E18CD2D204C5AD92CF">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="367E50D56EC88F1A2D280A064F5A74E7">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="BFF88EEC22BBC5A5279A4BB4D5AE8382">text</mods:typeOfResource>
+<mods:relatedItem id="B3AA341AC813081FB042777310207D0B" type="host">
+<mods:originInfo id="7D7D73A5530FD006B97664771B342E3B">
+<mods:dateIssued id="8F4536C2EE570A062AFF3FEDD35F4B95">1946</mods:dateIssued>
+<mods:dateOther id="B009A1D0E1CBFED0943DCC5CF296DE30" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="EC18C0888F3EDB4882058E8CE2ADE831">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="C9DD933337730A30295F78B898E63AD0">
+<mods:placeTerm id="33AF2E257FC9FA96685E4FD9395D34C9">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9AFFBC147F713FB736B2DA53B31A4579">
+<mods:title id="35A1FB067118301D7FC9E25000089E2A">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="DA243AEB04564B210883398A361C703D">
+<mods:extent id="EC5CFC30B05EB51E72D6375F21637432" unit="page">
+<mods:start id="FFA40BBF57B70BF9A9F59D63B0BE3AC4">163</mods:start>
+<mods:end id="5078615B02F4AED501BE69D4198CF69B">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="FB68143A76B9550B1C99E298388E023F">book chapter</mods:classification>
+<mods:identifier id="E38B7143EF8E79BD3B000EBF60AF6357" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="8EE89D715C37B2AEF052E7937A95F167" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="DB873624059D821E58C4C5CB1215937E" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E944FFB1FE778B39963B0102" ID-DOI="http://doi.org/10.5281/zenodo.5222726" ID-GBIF-Taxon="183926874" ID-Zenodo-Dep="5222726" LSID="urn:lsid:plazi:treatment:03B387B8E944FFB1FE778B39963B0102" httpUri="http://treatment.plazi.org/id/03B387B8E944FFB1FE778B39963B0102" lastPageId="16" lastPageNumber="179" pageId="15" pageNumber="178">
+<subSubSection id="C3006525E944FFAEFE778B3997F40A78" box="[440,1410,2308,2359]" pageId="15" pageNumber="178" type="nomenclature">
+<paragraph id="8BA536AEE944FFAEFE778B3997F40A78" blockId="15.[440,1842,1245,2562]" box="[440,1410,2308,2359]" pageId="15" pageNumber="178">
+<emphasis id="B96EEABCE944FFAEFE778B3996100A78" bold="true" box="[440,1126,2308,2359]" pageId="15" pageNumber="178">
+20. 
+<taxonomicName id="4C1A4D2DE944FFAEFE3E8B3996160A78" authority="(Fabricius)" box="[497,1120,2308,2359]" class="Insecta" family="Geometridae" genus="Hymenia" kingdom="Animalia" order="Lepidoptera" pageId="15" pageNumber="178" phylum="Arthropoda" rank="species" species="recurvalis">Hymeniarecurvalis(Fabricius)</taxonomicName>
+.
+</emphasis>
+TODO
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E944FFAEFE398B0097860AD4" pageId="15" pageNumber="178" type="reference_group">
+<paragraph id="8BA536AEE944FFAEFE398B0097EE0A27" blockId="15.[440,1842,1245,2562]" box="[502,1432,2365,2408]" pageId="15" pageNumber="178">
+<treatmentCitationGroup id="AB0A1180E944FFAEFE398B0097EE0A27" box="[502,1432,2365,2408]" pageId="15" pageNumber="178">
+<treatmentCitation id="0ABB10BFE944FFAEFE398B0097EE0A27" author="Fabricius" box="[502,1432,2365,2408]" page="644" pageId="15" pageNumber="178" year="1775">
+<bibCitation id="5E303EC2E944FFAEFE398B0097EE0A27" author="Fabricius" box="[502,1432,2365,2408]" pageId="15" pageNumber="178" pagination="644" refId="ref8589" title="Ent. Syst." type="book" year="1775">
+<emphasis id="B96EEABCE944FFAEFE398B0091250A27" box="[502,851,2365,2408]" italics="true" pageId="15" pageNumber="178">Phalaena recurvalis</emphasis>
+<author id="53A7DE4BE944FFAEFCAF8B00967F0A27" box="[864,1033,2365,2408]" pageId="15" pageNumber="178">Fabricius</author>
+, 
+<title id="F91EDD98E944FFAEFBD18B0096A40A27" box="[1054,1234,2365,2408]" pageId="15" pageNumber="178">Ent. Syst.</title>
+, 
+<pagination id="B2D3C85AE944FFAEFB288B00975F0A27" box="[1255,1321,2365,2408]" pageId="15" pageNumber="178">644</pagination>
+, 
+<year id="FFB277FDE944FFAEFA8F8B0097E50A27" box="[1344,1427,2365,2408]" pageId="15" pageNumber="178">1775</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE944FFAEFE3C8B4D97860AD4" blockId="15.[440,1842,1245,2562]" box="[499,1520,2416,2459]" pageId="15" pageNumber="178">
+<bibCitation id="5E303EC2E944FFAEFE3C8B4D97860AD4" author="Tams" box="[499,1520,2416,2459]" pageId="15" pageNumber="178" pagination="274" part="3" refId="ref8602" title="Ins. Samoa" type="journal article" year="1935">
+<emphasis id="B96EEABCE944FFAEFE3C8B4D93810AD4" box="[499,503,2416,2459]" italics="true" pageId="15" pageNumber="178">'</emphasis>
+<emphasis id="B96EEABCE944FFAEFE388B4D91160AD4" box="[503,864,2416,2459]" italics="true" pageId="15" pageNumber="178">
+<treatmentCitationGroup id="AB0A1180E944FFAEFE388B4D90EC0AD4" box="[503,666,2416,2459]" pageId="15" pageNumber="178">Hymenia</treatmentCitationGroup>
+recurvalis,
+</emphasis>
+<treatmentCitation id="0ABB10BFE944FFAEFCBD8B4D979D0AD4" author="Tams" box="[882,1515,2416,2459]" page="274" pageId="15" pageNumber="178" year="1935">
+<author id="53A7DE4BE944FFAEFCBD8B4D91AE0AD4" box="[882,984,2416,2459]" pageId="15" pageNumber="178">Tams</author>
+, 
+<title id="F91EDD98E944FFAEFC3C8B4D96CB0AD4" box="[1011,1213,2416,2459]" pageId="15" pageNumber="178">
+Ins. 
+<collectingCountry id="F30D763EE944FFAEFB878B4D96CB0AD4" box="[1096,1213,2416,2459]" name="Samoa" pageId="15" pageNumber="178">Samoa</collectingCountry>
+</title>
+<part id="FFBE9C33E944FFAEFB018B4D96940AD4" box="[1230,1250,2416,2459]" pageId="15" pageNumber="178" type="volume">3</part>
+(
+<part id="FFBE9C33E944FFAEFB3F8B4D977E0AD4" box="[1264,1288,2416,2459]" pageId="15" pageNumber="178" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE944FFAEFAF18B4D97080AD4" box="[1342,1406,2416,2459]" pageId="15" pageNumber="178" type="pagination">274</pagination>
+, 
+<year id="FFB277FDE944FFAEFA568B4D979D0AD4" box="[1433,1515,2416,2459]" pageId="15" pageNumber="178">1935</year>
+</treatmentCitation>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E944FFAEFE368B999615094D" pageId="15" pageNumber="178" type="reference_group">
+<paragraph id="8BA536AEE944FFAEFE368B999615094D" blockId="15.[440,1842,1245,2562]" pageId="15" pageNumber="178">
+<materialsCitation id="3B723CF3E944FFAEFE368B9991E90A9F" ID-GBIF-Occurrence="3332081354" box="[505,927,2468,2512]" collectingDate="1936-06-22" collectorName="O. H. Swezey" country="Guam" location="Sasa" pageId="15" pageNumber="178">
+<location id="8EC56075E944FFAEFE368B99903C0A9F" LSID="urn:lsid:plazi:treatment:03B387B8E944FFB1FE778B39963B0102:8EC56075E944FFAEFE368B99903C0A9F" box="[505,586,2468,2512]" pageId="15" pageNumber="178">Sasa</location>
+, 
+<date id="FFA4106EE944FFAEFDAC8B9990870A9F" box="[611,753,2468,2512]" pageId="15" pageNumber="178" value="1922-06">
+<collectingDate id="EFE0E986E944FFAEFDAC8B9990870A9F" box="[611,753,2468,2512]" pageId="15" pageNumber="178" value="1922-06">June 22</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E944FFAEFCC48B9991EE0A9F" box="[779,920,2468,2512]" pageId="15" pageNumber="178">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E944FFAEFC7F8B9997A50A9F" ID-GBIF-Occurrence="3332081422" box="[944,1491,2468,2512]" collectedFrom="at light" collectingDate="1936-09-03" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="178">
+<location id="8EC56075E944FFAEFC7F8B9991850A9F" LSID="urn:lsid:plazi:treatment:03B387B8E944FFB1FE778B39963B0102:8EC56075E944FFAEFC7F8B9991850A9F" box="[944,1011,2468,2512]" pageId="15" pageNumber="178">
+<collectingMunicipality id="6BC1ACD4E944FFAEFC7F8B9991850A9F" box="[944,1011,2468,2512]" pageId="15" pageNumber="178">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE944FFAEFBC18B9996FD0A9F" box="[1038,1163,2468,2512]" pageId="15" pageNumber="178">
+<collectingDate id="EFE0E986E944FFAEFBC18B9996FD0A9F" box="[1038,1163,2468,2512]" pageId="15" pageNumber="178">Sept. 3</collectingDate>
+</date>
+, at light, 
+<collectorName id="26EF5378E944FFAEFA8E8B9997BA0A9F" box="[1345,1484,2468,2512]" pageId="15" pageNumber="178">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E944FFAEFA2B8B999615094D" ID-GBIF-Occurrence="3332081470" collectedFrom="reared from spiny amaranth" collectingDate="1936-11-18" collectorName="O. H. Swezey" country="Guam" location="Talofofo" pageId="15" pageNumber="178">
+<location id="8EC56075E944FFAEFA2B8B99940B0A9F" LSID="urn:lsid:plazi:treatment:03B387B8E944FFB1FE778B39963B0102:8EC56075E944FFAEFA2B8B99940B0A9F" box="[1508,1661,2468,2512]" pageId="15" pageNumber="178">Talofofo</location>
+, 
+<date id="FFA4106EE944FFAEF95A8B9995530A9F" box="[1685,1829,2468,2512]" pageId="15" pageNumber="178" value="2018-11">
+<collectingDate id="EFE0E986E944FFAEF95A8B9995530A9F" box="[1685,1829,2468,2512]" pageId="15" pageNumber="178" value="2018-11">Nov. 18</collectingDate>
+</date>
+, reared from spiny amaranth, 
+<collectorName id="26EF5378E944FFAEFC188BE59628094D" box="[983,1118,2520,2562]" pageId="15" pageNumber="178">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95BFFB1FEBF8367963B0102" pageId="16" pageNumber="179" type="distribution">
+<paragraph id="8BA536AEE95BFFB1FEBF8367963B0102" blockId="16.[304,1703,346,589]" pageId="16" pageNumber="179">
+Very widely distributed in southern Asia to 
+<collectingCountry id="F30D763EE95BFFB1FB1E8367974D02CB" box="[1233,1339,346,388]" name="Japan" pageId="16" pageNumber="179">Japan</collectingCountry>
+, and to Australian regions, 
+<collectingCountry id="F30D763EE95BFFB1FE1E83B1903E02F9" box="[465,584,396,438]" name="Samoa" pageId="16" pageNumber="179">Samoa</collectingCountry>
+, 
+<collectingCountry id="F30D763EE95BFFB1FDAA83B190DF02F9" box="[613,681,396,438]" name="Fiji" pageId="16" pageNumber="179">Fiji</collectingCountry>
+, Marquesas, and Hawaii. 
+<materialsCitation id="3B723CF3E95BFFB1FB5283B1963E0102" ID-GBIF-Occurrence="3986697306" collectedFrom="recorded as a beet pest. We found its caterpillars abundant on spiny amaranth, Apanteles guamensis var. was reared from some of the larvae. Only a few moths were collected or reared." collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="16" pageNumber="179">
+Recorded in 
+<collectingCountry id="F30D763EE95BFFB1FA4483B1978502F9" box="[1419,1523,396,438]" name="Guam" pageId="16" pageNumber="179">Guam</collectingCountry>
+as a beet pest by 
+<location id="8EC56075E95BFFB1FE188383900C02A6" LSID="urn:lsid:plazi:treatment:03B387B8E944FFB1FE778B39963B0102:8EC56075E95BFFB1FE188383900C02A6" box="[471,634,446,489]" pageId="16" pageNumber="179">Fullaway</location>
+in 1911. We found its caterpillars abundant on spiny amaranth. 
+<taxonomicName id="4C1A4D2DE95BFFB1FDCC83CF91F60155" box="[515,896,498,538]" class="Insecta" family="Braconidae" genus="Apanteles" kingdom="Animalia" order="Hymenoptera" pageId="16" pageNumber="179" phylum="Arthropoda" rank="species" species="gumnensis">
+<emphasis id="B96EEABCE95BFFB1FDCC83CF91F60155" box="[515,896,498,538]" italics="true" pageId="16" pageNumber="179">Apanteles gumnensis</emphasis>
+</taxonomicName>
+var. was reared from some of the larvae. Only a few moths were collected or reared
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

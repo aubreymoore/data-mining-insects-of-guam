@@ -1,0 +1,107 @@
+<document id="17766C8D6A3D746BFBC789A794617770" ID-DOI="http://doi.org/10.5281/zenodo.5160233" ID-GBIF-Dataset="16f6ef92-619b-417b-946c-22d9b1445e7d" ID-Zenodo-Dep="5160233" checkinTime="1628022546680" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="2C76878DFF99FFF0BE56FE94FA05FD5A" docLanguage="en" docName="InsectsOfGuamII.189.3-8.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docTitle="Neostylopyga rhombifolia" docType="treatment" docVersion="16" lastPageNumber="7" masterDocId="D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8" masterDocTitle="Orthoptera And Related Orders Orthoptera And Related Orders Of Guam" masterLastPageNumber="8" masterPageNumber="3" pageNumber="7" updateTime="1657639050607" updateUser="annettekang">
+<mods:mods id="3F65F466831D6CA9224D5D60640F1D25" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="9CD0D79DC38995EE49C1BEFA634C24E5">
+<mods:title id="0E937172931358EF556782C05E7E6DE0">Orthoptera And Related Orders Orthoptera And Related Orders Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="F58B5CA4BE23988F23736F61F8810E6E" type="personal">
+<mods:role id="55038327500DDCB63703CD634D67593D">
+<mods:roleTerm id="0848E1667C4F497CBBE8BC1967CD9E5C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="98432B3E61BD9C93FB37E3EB0C7A7496">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="F6344E35568C19DD75EF7F024878BAC0">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="230301A0985DA7898132FACADDDD0BEA">text</mods:typeOfResource>
+<mods:relatedItem id="94B132B8AFD459416DCDA5CB23ED1495" type="host">
+<mods:originInfo id="FDDE1FD49355512CFB1DF6BD2F551260">
+<mods:dateIssued id="F576634198E42CCA138DFAFA1FA3CAD6">1946</mods:dateIssued>
+<mods:dateOther id="DEFB037C935F2B07972563973F367138" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="5DFDDBB80B7BD7FB470279C73B53468C">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="91A054F46133522BBAA4FC671A153A33">
+<mods:placeTerm id="4F69751FC6AD2C4FA66089C2BC6874D3">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9698BEF471B185F4A074C1EFAA40826D">
+<mods:title id="7FC23A9F15313470007FBF5C9FBBC3C9">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="FE8C444FB094BD066B61DC6DD1F3EAAE">
+<mods:extent id="E59D6B3906B070321BC2FE362A8D877D" unit="page">
+<mods:start id="BF3BC0C99AA92D79FDC3C5BCC9611A2F">3</mods:start>
+<mods:end id="372374F7E523363742A01A4CF3C9ABC9">8</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="048F81F79086FD3E273978C4396BB0CB">book chapter</mods:classification>
+<mods:identifier id="7D7C76C5EF2B104E46D354F0FE88D823" type="DOI">http://doi.org/10.5281/zenodo.5160233</mods:identifier>
+<mods:identifier id="3EA125408ACA0FB2F988A344CC2E75B1" type="GBIF-Dataset">16f6ef92-619b-417b-946c-22d9b1445e7d</mods:identifier>
+<mods:identifier id="9DA815D1A0702783EC2A529FBED96A66" type="Zenodo-Dep">5160233</mods:identifier>
+</mods:mods>
+<treatment id="2C76878DFF99FFF0BE56FE94FA05FD5A" ID-DOI="http://doi.org/10.5281/zenodo.5164270" ID-GBIF-Taxon="183924974" ID-Zenodo-Dep="5164270" LSID="urn:lsid:plazi:treatment:2C76878DFF99FFF0BE56FE94FA05FD5A" httpUri="http://treatment.plazi.org/id/2C76878DFF99FFF0BE56FE94FA05FD5A" lastPageNumber="7" pageId="4" pageNumber="7">
+<subSubSection id="ECC56510FF99FFF0BE56FE94FC4FFEB1" box="[318,1012,318,361]" pageId="4" pageNumber="7" type="nomenclature">
+<paragraph id="A460369BFF99FFF0BE56FE94FC4FFEB1" blockId="4.[318,1713,318,642]" box="[318,1012,318,361]" pageId="4" pageNumber="7">
+<heading id="FF2881F7FF99FFF0BE56FE94FC4FFEB1" box="[318,1012,318,361]" fontSize="8" level="2" pageId="4" pageNumber="7" reason="4">
+7. 
+<taxonomicName id="63DF4D18FF99FFF0BE14FE94FC55FEB1" authority="(Stoll)" baseAuthorityName="Stoll" baseAuthorityYear="1813" box="[380,1006,318,361]" class="Insecta" family="Blattidae" genus="Neostylopyga" kingdom="Animalia" order="Blattodea" pageId="4" pageNumber="7" phylum="Arthropoda" rank="species" species="rhombifolia">Neostylopyga rhombifolia (Stoll)</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF99FFF0BE14FED0FDD2FDCA" pageId="4" pageNumber="7" type="reference_group">
+<paragraph id="A460369BFF99FFF0BE14FED0FA74FE7C" blockId="4.[318,1713,318,642]" box="[380,1487,378,420]" pageId="4" pageNumber="7">
+<treatmentCitationGroup id="84CF11B5FF99FFF0BE14FED0FA74FE7C" box="[380,1487,378,420]" pageId="4" pageNumber="7">
+<bibCitation id="71F53EF7FF99FFF0BE14FED0FA74FE7C" author="Stoll" box="[380,1487,378,420]" journalOrPublisher="Spectres Blatt." pageId="4" pageNumber="7" pagination="5" refId="ref1991" type="book" year="1813">
+<treatmentCitation id="257E108AFF99FFF0BE14FED0FA71FE7C" author="Stoll" box="[380,1482,378,420]" page="13" pageId="4" pageNumber="7" year="1813">
+<emphasis id="96ABEA89FF99FFF0BE14FED0FD7EFE7C" box="[380,709,378,420]" italics="true" pageId="4" pageNumber="7">Blatta rhombifolia</emphasis>
+<author id="7C62DE7EFF99FFF0BDBDFED0FC93FE7C" box="[725,808,378,420]" pageId="4" pageNumber="7">Stoll</author>
+, 
+<journalOrPublisher id="7E1E3C57FF99FFF0BC28FED0FBFEFE7C" box="[832,1093,378,420]" pageId="4" pageNumber="7">Spectres Blatt.</journalOrPublisher>
+, 
+<pagination id="9D16C86FFF99FFF0BB35FED0FBC9FE7C" box="[1117,1138,378,420]" pageId="4" pageNumber="7">5</pagination>
+, pl. 3, fig. 13, 
+<year id="D07777C8FF99FFF0BA1EFED0FA71FE7C" box="[1398,1482,378,420]" pageId="4" pageNumber="7">1813</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="A460369BFF99FFF0BE14FE1FFDD2FDCA" blockId="4.[318,1713,318,642]" pageId="4" pageNumber="7">
+<treatmentCitationGroup id="84CF11B5FF99FFF0BE14FE1FFDD2FDCA" pageId="4" pageNumber="7">
+<treatmentCitation id="257E108AFF99FFF0BE14FE1FFDD2FDCA" author="Hebard" page="333" pageId="4" pageNumber="7" year="1922">
+<bibCitation id="71F53EF7FF99FFF0BE14FE1FFDD2FDCA" author="Hebard" journalOrPublisher="B. P. Bishop Mus., 0 cc. Papers" pageId="4" pageNumber="7" pagination="333" part="7" refId="ref2011" type="journal article" year="1922">
+<emphasis id="96ABEA89FF99FFF0BE14FE1FFCE9FE38" box="[380,850,437,480]" italics="true" pageId="4" pageNumber="7">Neostylopyga rhombifolia,</emphasis>
+<author id="7C62DE7EFF99FFF0BC08FE1FFC53FE38" box="[864,1000,437,480]" pageId="4" pageNumber="7">Hebard</author>
+, 
+<journalOrPublisher id="7E1E3C57FF99FFF0BC95FE1FF995FE38" box="[1021,1582,437,480]" pageId="4" pageNumber="7">B. P. Bishop Mus., 0cc. Papers</journalOrPublisher>
+<part id="D07B9C06FF99FFF0B954FE1FF9E9FE38" box="[1596,1618,437,480]" pageId="4" pageNumber="7" type="volume">7</part>
+(
+<part id="D07B9C06FF99FFF0B936FE1FF931FE38" box="[1630,1674,437,480]" pageId="4" pageNumber="7" type="issue">14</part>
+): 
+<pagination id="9D16C86FFF99FFF0BED2FE40FE41FDCA" box="[442,506,490,530]" pageId="4" pageNumber="7" type="pagination">333</pagination>
+, 
+<year id="D07777C8FF99FFF0BD79FE40FDDFFDCA" box="[529,612,490,530]" pageId="4" pageNumber="7">1922</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF99FFF0BE13FD8FFA05FD5A" pageId="4" pageNumber="7" type="materials_examined">
+<paragraph id="A460369BFF99FFF0BE13FD8FFA05FD5A" blockId="4.[318,1713,318,642]" pageId="4" pageNumber="7">
+<materialsCitation id="14B73CC6FF99FFF0BE13FD8FFCB9FD5A" ID-GBIF-Occurrence="3855283308" collectedFrom="taken in the kitchen" collectingDate="1936-11-22" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="7" specimenCount="1">
+A single 
+<specimenCount id="B2D9FD12FF99FFF0BD4EFD8FFD72FD97" box="[550,713,549,591]" pageId="4" pageNumber="7" type="generic">specimen</specimenCount>
+of this large wingless roach was taken in the kitchen at 
+<collectingMunicipality id="4404ACE1FF99FFF0BE19FDFDFE0FFD5A" box="[369,436,599,642]" pageId="4" pageNumber="7">Piti</collectingMunicipality>
+, 
+<date id="D061105BFF99FFF0BEA3FDFDFDE6FD5A" box="[459,605,599,642]" pageId="4" pageNumber="7" value="1922-11">
+<collectingDate id="C025E9B3FF99FFF0BEA3FDFDFDE6FD5A" box="[459,605,599,642]" pageId="4" pageNumber="7" value="1922-11">Nov. 22</collectingDate>
+</date>
+, 
+<collectorName id="092A534DFF99FFF0BD1CFDFDFCB9FD5A" box="[628,770,599,642]" pageId="4" pageNumber="7">Swezey</collectorName>
+</materialsCitation>
+; Fullaway (1219). Occurs in 
+<collectingRegion id="661BF879FF99FFF0BA58FDFDFA02FD5A" box="[1328,1465,599,642]" country="United States of America" name="Hawaii" pageId="4" pageNumber="7">Hawaii</collectingRegion>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

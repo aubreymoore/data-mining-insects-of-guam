@@ -1,0 +1,177 @@
+<document id="7CAD64D15B35778E316C267E61D88A8E" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFEC511A5DC2AE06F962F86A" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Curculionidae" docType="key" docVersion="13" lastPageNumber="101" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="101" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="6A7E71C78DD3A67DBBBF348502F9BBE9" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="AD61933802B08A0D0F37DCDED6ADEA7A">
+<mods:title id="0C38143C8A8D2E89B8F5D1AFB85FC4E3">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="CFF12C132C70FFD5ECD024133E5F9D76" type="personal">
+<mods:role id="C66964DB6D0EF45E07AE1E43A29FBBB8">
+<mods:roleTerm id="8A8BF953E9B4E789E65C469FC79122D2">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B80940D4AC43F48973EFB2D95C447AFC">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="545742EE12E60ED169F9B8BDAC1EBC32">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="81D99637038EC9967C1A786717BFF0CC">text</mods:typeOfResource>
+<mods:relatedItem id="856EC03668583C0D0FB8B1D68DF0E6C7" type="host">
+<mods:originInfo id="41B3669B9F7034622FE6D62D9CC0EECC">
+<mods:dateIssued id="8EC3C4099E167789A4CB4B1CDC14D851">1942</mods:dateIssued>
+<mods:dateOther id="4048FD2C03C7A072F5056539845D3262" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="3F0524F23FCC4D389EE6B443FD3578DD">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="D65EF90F3899AD520680DA9811113E40">
+<mods:placeTerm id="3967A22499C22FF06CD84F613C5C924F">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="4E780D390A7B05F0C3C919293F8ADE2C">
+<mods:title id="036EC66013E3672D5955C4F5B5112EAC">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="C7F696A56B880F0324819C10ED4F6E08">
+<mods:extent id="4EA589BAABE93055F4F2610EBBC65E27" unit="page">
+<mods:start id="60A769E941ED3570E5EAAAD3323A3D29">73</mods:start>
+<mods:end id="634D33467B88FC863C584A937F9BDDF5">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="29D179343107E5B8471A081649C3A6E6">book chapter</mods:classification>
+<mods:identifier id="D0FF3BA577C0F3DBEFAC65B9E27458E3" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="ADAF33B32A1C756668D70BFEA921B975" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="CA3C317AD6392747D027F295C4653AB1" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFEC511A5DC2AE06F962F86A" ID-DOI="http://doi.org/10.5281/zenodo.5157294" ID-GBIF-Taxon="184097848" ID-Zenodo-Dep="5157294" LSID="urn:lsid:plazi:treatment:D6388709FFEC511A5DC2AE06F962F86A" httpUri="http://treatment.plazi.org/id/D6388709FFEC511A5DC2AE06F962F86A" lastPageNumber="101" pageId="28" pageNumber="101">
+<subSubSection id="168B6594FFEC511A5DC2AE06FB1BFE58" pageId="28" pageNumber="101" type="nomenclature">
+<paragraph id="5E2E361FFFEC511A5DC2AE06FB1BFE58" blockId="28.[665,1323,348,462]" pageId="28" pageNumber="101">
+<heading id="05668173FFEC511A5DC2AE06FB1BFE58" centered="true" fontSize="8" level="2" pageId="28" pageNumber="101" reason="3">
+SUBFAMILY 
+<taxonomicName id="99914D9CFFEC511A5CDBAE06FAD1FE1D" authority="Schoenherr, 1825" box="[896,1323,348,395]" class="Insecta" family="Curculionidae" kingdom="Animalia" order="Coleoptera" pageId="28" pageNumber="101" rank="subFamily">CRYPTORHYNCHINAE</taxonomicName>
+KEY 'I'O 'fHE 
+<collectingCountry id="2686768FFFEC511A5C8BAEFEFBC6FE58" box="[976,1084,420,462]" name="Guam" pageId="28" pageNumber="101">GUAM</collectingCountry>
+GENERA
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFEC511A5E72AEB5F962F86A" pageId="28" pageNumber="101" type="key">
+<keyStep id="E5652EBAFFEC511A5E72AEB5F960FDF6" pageId="28" pageNumber="101">
+<paragraph id="5E2E361FFFEC511A5E72AEB5F961FD82" blockId="28.[297,1691,495,608]" box="[297,1691,495,532]" pageId="28" pageNumber="101">
+<key id="2A00612EFFEC511A5E72AEB5F961FD82" box="[297,1691,495,532]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5E72AEB5F961FD82" box="[297,1691,495,532]" pageId="28" pageNumber="101">1. Scutellum visible; metepisternum distinct throughout its length.................... 2</keyLead>
+</key>
+</paragraph>
+<paragraph id="5E2E361FFFEC511A5ED0AD4FF960FDF6" blockId="28.[297,1691,495,608]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5ED0AD4FF960FDF6" pageId="28" pageNumber="101">Scutellum hidden; metepisternum partially or entirely hidden, never distinctly visible and broadly exposed throughout its length................................ 6</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E5652EBAFFEC511A5E7CAD30F963FCB0" pageId="28" pageNumber="101">
+<paragraph id="5E2E361FFFEC511A5E7CAD30F963FD23" blockId="28.[295,1689,618,806]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5E7CAD30F963FD23" pageId="28" pageNumber="101">
+2(1). Pectoral canal without any side walls, ending in the metasternum, mesosternal receptacle open or nearly so and densely squamose................ 
+<taxonomicName id="99914D9CFFEC511A5AAFADCBF96FFD23" authorityName="Pascoe" authorityYear="1871" box="[1524,1685,657,693]" class="Insecta" family="Curculionidae" genus="Deretiosus" kingdom="Animalia" order="Coleoptera" pageId="28" pageNumber="101" phylum="Arthropoda" rank="genus">Deretiosus</taxonomicName>
+.
+</keyLead>
+</paragraph>
+<paragraph id="5E2E361FFFEC511A5ED0ADEDF963FCB0" blockId="28.[295,1689,618,806]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5ED0ADEDF963FCB0" pageId="28" pageNumber="101">Pectoral canal ending in the mesosternum or prosternum, the mesosternal (or prosternal) receptacle usually distinctly cavernous and with distinct elevated side walls............................................................................................................ 3</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E5652EBAFFEC511A5E7DAC6BF962FCEC" pageId="28" pageNumber="101">
+<paragraph id="5E2E361FFFEC511A5E7DAC6BF963FCC3" blockId="28.[294,1689,817,890]" box="[294,1689,817,853]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5E7DAC6BF963FCC3" box="[294,1689,817,853]" pageId="28" pageNumber="101">3(2). Femora armed with a small or large tooth below................................................ 4</keyLead>
+</paragraph>
+<paragraph id="5E2E361FFFEC511A5ED1AC0DF962FCEC" blockId="28.[294,1689,817,890]" box="[394,1688,855,890]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5ED1AC0DF962FCEC" box="[394,1688,855,890]" pageId="28" pageNumber="101">Femoraedentate..........................</keyLead>
+.
+</paragraph>
+</keyStep>
+<keyStep id="E5652EBAFFEC511A5E7DACDFF963FBD4" pageId="28" pageNumber="101">
+<paragraph id="5E2E361FFFEC511A5E7DACDFF960FC60" blockId="28.[294,1690,901,1090]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5E7DACDFF960FC60" pageId="28" pageNumber="101">
+4(3). Pectoral canal ending in the prosternum, densely squamose throughout; prosternal receptacle with the high side walls contiguous to the coxae; eyes closely approximated below...................................................................... 
+<taxonomicName id="99914D9CFFEC511A5A8AAC88F96CFC60" authorityName="Schoenherr" authorityYear="1826" box="[1489,1686,978,1014]" class="Insecta" family="Curculionidae" genus="Camptorhinus" kingdom="Animalia" order="Coleoptera" pageId="28" pageNumber="101" phylum="Arthropoda" rank="genus">Camptorhinus</taxonomicName>
+.
+</keyLead>
+</paragraph>
+<paragraph id="5E2E361FFFEC511A5ED0ACA3F963FBD4" blockId="28.[294,1690,901,1090]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5ED0ACA3F963FBD4" pageId="28" pageNumber="101">
+Pectoral canal ending in the mesosternum, not squamose between the coxae; eyes very widely separated below.......................................................................... 
+<taxonomicName id="99914D9CFFEC511A591AAB44F96FFBD4" authorityName="White" authorityYear="1846" box="[1601,1685,1054,1090]" class="Insecta" family="Curculionidae" genus="Oreda" kingdom="Animalia" order="Coleoptera" pageId="28" pageNumber="101" phylum="Arthropoda" rank="genus">Oreda</taxonomicName>
+.
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E5652EBAFFEC511A5E7CAB16F960FAED" pageId="28" pageNumber="101">
+<paragraph id="5E2E361FFFEC511A5E7CAB16F960FB75" blockId="28.[295,1690,1100,1403]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5E7CAB16F960FB75" pageId="28" pageNumber="101">
+5(3). Metasternum between the mid and hind coxae about twice as long as the breadth of a mesocoxa; femora not grooved for the reception of the tibiae; dorsum with fascicles and spongy scaling; body subparallelsided 
+<taxonomicName id="99914D9CFFEC511A5ACEAB9AF96CFB75" authorityName="Faust" authorityYear="1894" box="[1429,1686,1216,1251]" class="Insecta" family="Curculionidae" genus="Menectetorus" kingdom="Animalia" order="Coleoptera" pageId="28" pageNumber="101" phylum="Arthropoda" rank="genus">..................................................................................................................Menectetorus</taxonomicName>
+.
+</keyLead>
+</paragraph>
+<paragraph id="5E2E361FFFEC511A5ED0ABBCF960FAED" blockId="28.[295,1690,1100,1403]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5ED0ABBCF960FAED" pageId="28" pageNumber="101">
+Metasternum between the mid and hind coxae not as long as the breadth of a mesocoxa; femora shallowly grooved for the reception of the tibiae; dorsal scaling smooth, not at all fasciculate or spongy; body subrhomboidal 
+<taxonomicName id="99914D9CFFEC511A5AEEAA03F960FAED" box="[1461,1690,1369,1403]" pageId="28" pageNumber="101">TODO</taxonomicName>
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E5652EBAFFEC511A5E7FAADCF963FA63" pageId="28" pageNumber="101">
+<paragraph id="5E2E361FFFEC511A5E7FAADCF963FA59" blockId="28.[292,1689,1414,1525]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5E7FAADCF963FA59" pageId="28" pageNumber="101">
+6(1). Femora minutely or distinctly toothed (examine fore pair carefully); pectoral canal in part or entirely squamose......................................................... 
+<emphasis id="6CE5EA0DFFEC511A59D1AAF7F963FA59" bold="true" box="[1674,1689,1453,1487]" italics="true" pageId="28" pageNumber="101">7</emphasis>
+</keyLead>
+</paragraph>
+<paragraph id="5E2E361FFFEC511A5ED2AA89F963FA63" blockId="28.[292,1689,1414,1525]" box="[393,1689,1491,1525]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5ED2AA89F963FA63" box="[393,1689,1491,1525]" pageId="28" pageNumber="101">Femora edentate; pectoral canal bare.......................................................................... 8</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E5652EBAFFEC511A5E7EA958F962F975" pageId="28" pageNumber="101">
+<paragraph id="5E2E361FFFEC511A5E7EA958F963F9E6" blockId="28.[293,1689,1538,1763]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5E7EA958F963F9E6" pageId="28" pageNumber="101">
+7(6). Form subquadrate; pectoral canal squamose throughout; mesocoxae separated by the breadth of a coxa; metasternum shorter between mid and hind coxae than the breadth of the base of the femora.......................... 
+<taxonomicName id="99914D9CFFEC511A595FA917F96FF9E6" authorityName="Blanchard" authorityYear="1851" box="[1540,1685,1613,1648]" class="Insecta" family="Curculionidae" genus="Anaballus" kingdom="Animalia" order="Coleoptera" pageId="28" pageNumber="101" phylum="Arthropoda" rank="genus">Anaballus</taxonomicName>
+.
+</keyLead>
+</paragraph>
+<paragraph id="5E2E361FFFEC511A5ED1A92EF962F975" blockId="28.[293,1689,1538,1763]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5ED1A92EF962F975" pageId="28" pageNumber="101">
+Form elongate; pectoral canal squamose only in front of the coxae; mesocoxae separated by only about half the breadth of a coxa; metasternum longer between the mid and hind coxae than the base of the femora.... 
+<taxonomicName id="99914D9CFFEC511A595FA99AF96EF975" authorityName="Schoenherr" authorityYear="1844" box="[1540,1684,1728,1763]" class="Insecta" family="Curculionidae" genus="Euscepes" kingdom="Animalia" order="Coleoptera" pageId="28" pageNumber="101" phylum="Arthropoda" rank="genus">Euscepes</taxonomicName>
+.
+</keyLead>
+</paragraph>
+</keyStep>
+<keyStep id="E5652EBAFFEC511A5E7FA9B4F96DF815" pageId="28" pageNumber="101">
+<paragraph id="5E2E361FFFEC511A5E7FA9B4F96DF8A1" blockId="28.[292,1687,1774,1923]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5E7FA9B4F96DF8A1" pageId="28" pageNumber="101">
+8(6). Pectoral canal terminating between the fore and mid coxae, always before? the mesocoxae .......................................................................................................... 
+<taxonomicName id="99914D9CFFEC511A5969A84FF969F8A1" authorityName="Schoenherr" authorityYear="1826" box="[1586,1683,1813,1847]" class="Insecta" family="Curculionidae" genus="Acalles" kingdom="Animalia" order="Coleoptera" pageId="28" pageNumber="101" phylum="Arthropoda" rank="genus">Acalles</taxonomicName>
+.
+</keyLead>
+</paragraph>
+<paragraph id="5E2E361FFFEC511A5ED1A860F96DF815" blockId="28.[292,1687,1774,1923]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5ED1A860F96DF815" pageId="28" pageNumber="101">Pectoral canal terminating between the mesocoxae, distinctly behind their foremargins..............................</keyLead>
+.
+</paragraph>
+</keyStep>
+<keyStep id="E5652EBAFFEC511A5E78A8D4F962F86A" pageId="28" pageNumber="101">
+<paragraph id="5E2E361FFFEC511A5E78A8D4F96DF827" blockId="28.[291,1688,1934,2044]" box="[291,1687,1934,1969]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5E78A8D4F96DF827" box="[291,1687,1934,1969]" pageId="28" pageNumber="101">
+9(8). Dorsum conspicuously multituberculate.............................................................. 
+<taxonomicName id="99914D9CFFEC511A5979A8D4F969F827" authorityName="Zimmerman" authorityYear="1942" box="[1570,1683,1934,1969]" class="Insecta" family="Curculionidae" genus="Daealus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="28" pageNumber="101" phylum="Arthropoda" rank="genus">Daealus</taxonomicName>
+.
+</keyLead>
+</paragraph>
+<paragraph id="5E2E361FFFEC511A5ED2A8EEF962F86A" blockId="28.[291,1688,1934,2044]" pageId="28" pageNumber="101">
+<keyLead id="E560952AFFEC511A5ED2A8EEF962F86A" pageId="28" pageNumber="101">
+Dorsum not tuberculate; minute species, 
+<collectingCountry id="2686768FFFEC511A5B17A8EEFB5DF841" box="[1100,1191,1972,2007]" name="Guam" pageId="28" pageNumber="101">Guam</collectingCountry>
+species less than 
+<quantity id="99699BFAFFEC511A5AB7A8EEF9B5F841" box="[1516,1615,1972,2007]" metricMagnitude="-3" metricUnit="m" metricValue="2.0" pageId="28" pageNumber="101" unit="mm" value="2.0">2 mm</quantity>
+. long 
+<emphasis id="6CE5EA0DFFEC511A5A7FA886F962F86A" bold="true" box="[1316,1688,2012,2044]" pageId="28" pageNumber="101">
+<taxonomicName id="99914D9CFFEC511A5A7FA886F96EF86A" authorityName="Lea" authorityYear="1908" box="[1316,1684,2012,2044]" class="Insecta" family="Curculionidae" genus="Microcryptorhynchus" kingdom="Animalia" order="Coleoptera" pageId="28" pageNumber="101" phylum="Arthropoda" rank="genus">....................................................................................................Microcryptorhynchus</taxonomicName>
+.
+</emphasis>
+</keyLead>
+</paragraph>
+</keyStep>
+</subSubSection>
+</treatment>
+</document>

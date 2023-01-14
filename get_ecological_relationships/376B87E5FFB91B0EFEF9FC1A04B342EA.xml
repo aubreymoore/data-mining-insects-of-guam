@@ -1,0 +1,160 @@
+<document id="F4D6068213E642C95DE0DFB63594DCAE" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB91B0EFEF9FC1A04B342EA" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Colobicus parilis Pascoe 1860" docType="treatment" docVersion="19" lastPageNumber="157" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="157" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="C5EDCAB5750D2E1FABF62ABFE0A58320" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="7405ABA3FE2A4D2FF4B59D53990CAA3F">
+<mods:title id="DC6C7D1216B85C97164AF17A5C52FE9F">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="4934912FEB710AB3287379A7751B7F67" type="personal">
+<mods:role id="DFDC2160AFC8FB9B1B1DA04EB6CF5615">
+<mods:roleTerm id="533A67BEDB4F19E96484A93159124EA7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4CC2679458EA58491316E06796210AD1">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="A38EF8AAAA06BF311DB00C88BF5FF62B">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="21D1A657544A0131DAD48A95D3B1147F">text</mods:typeOfResource>
+<mods:relatedItem id="4B8258918C66D7BA1DFDF36AC36AFEA6" type="host">
+<mods:originInfo id="537C8A71F50C1958983D8BEA75ECC597">
+<mods:dateIssued id="2E6106F27526D1B5BFAC0A26553CFE9A">1942</mods:dateIssued>
+<mods:dateOther id="7CE6C1D19CD0A2E4AF716B2D9C30EEC0" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="D97467DCCCC65EC4285CAE56E3EFA716">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="EF34AF20582D1684185F4C1B75F6E62D">
+<mods:placeTerm id="A2EB44AC24F7D593D55627ECB7D4BEEF">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="804B72F0E343DC8485FE8D809E4457E8">
+<mods:title id="90A040E4D08277AF09F68397756D9162">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="B9E9D77B1F3D7C9F102F5F2974600414">
+<mods:extent id="C7D1701888B8108BF13A0B7A82209531" unit="page">
+<mods:start id="4A27EBFA41E799795139EC9C4ACAD022">150</mods:start>
+<mods:end id="86AA79E78960A2B9837B9B3643B15133">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="D6605C8448400CD927F7F9B78578CFFC">book chapter</mods:classification>
+<mods:identifier id="E8C1F912CC321857813F4C477384C357" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="9177D3957511B98D8F980E1000562C20" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="F76F029C4CCB2BB6143C37BAFE9BCF1A" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB91B0EFEF9FC1A04B342EA" ID-DOI="http://doi.org/10.5281/zenodo.5211617" ID-GBIF-Taxon="184415284" ID-Zenodo-Dep="5211617" LSID="urn:lsid:plazi:treatment:376B87E5FFB91B0EFEF9FC1A04B342EA" httpUri="http://treatment.plazi.org/id/376B87E5FFB91B0EFEF9FC1A04B342EA" lastPageNumber="157" pageId="7" pageNumber="157">
+<subSubSection id="F7D86578FFB91B0EFEF9FC1A042C45ED" box="[291,810,943,987]" pageId="7" pageNumber="157" type="nomenclature">
+<paragraph id="BF7D36F3FFB91B0EFEF9FC1A042C45ED" blockId="7.[288,1683,878,1244]" box="[291,810,943,987]" pageId="7" pageNumber="157">
+<heading id="E435819FFFB91B0EFEF9FC1A042C45ED" box="[291,810,943,987]" centered="true" fontSize="8" level="2" pageId="7" pageNumber="157" reason="4">
+<emphasis id="8DB6EAE1FFB91B0EFEF9FC1A063B45ED" bold="true" box="[291,317,943,987]" pageId="7" pageNumber="157">1.</emphasis>
+<taxonomicName id="78C24D70FFB91B0EFEBBFC1A042245ED" authority="Pascoe" authorityName="Pascoe" authorityYear="1860" box="[353,804,943,987]" class="Insecta" family="Zopheridae" genus="Colobicus" kingdom="Animalia" order="Coleoptera" pageId="7" pageNumber="157" phylum="Arthropoda" rank="species" species="parilis">
+<emphasis id="8DB6EAE1FFB91B0EFEBBFC1A059445ED" bold="true" box="[353,658,943,987]" pageId="7" pageNumber="157">Colobicus parilis</emphasis>
+Pascoe
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB91B0EFCE7FC1A05384239" pageId="7" pageNumber="157" type="reference_group">
+<paragraph id="BF7D36F3FFB91B0EFCE7FC1A03E845ED" blockId="7.[288,1683,878,1244]" box="[829,1262,943,987]" pageId="7" pageNumber="157">
+<heading id="E435819FFFB91B0EFCE7FC1A03E845ED" box="[829,1262,943,987]" centered="true" fontSize="8" level="2" pageId="7" pageNumber="157" reason="4">
+<treatmentCitationGroup id="9FD211DDFFB91B0EFCE7FC1A03E845ED" box="[829,1262,943,987]" pageId="7" pageNumber="157">
+<bibCitation id="6AE83E9FFFB91B0EFCE7FC1A03E845ED" author="Pascoe" box="[829,1262,943,987]" journalOrPublisher="Jour. Ent." pageId="7" pageNumber="157" pagination="202" part="1" refId="ref3581" type="journal article" year="1860">
+<treatmentCitation id="3E6310E2FFB91B0EFCE7FC1A03EF45ED" author="Pascoe" box="[829,1257,943,987]" page="202" pageId="7" pageNumber="157" year="1860">
+<journalOrPublisher id="65033C3FFFB91B0EFCE7FC1A04F045ED" box="[829,1014,943,987]" pageId="7" pageNumber="157">
+<author id="677FDE16FFB91B0EFCE7FC1A049445ED" box="[829,914,943,987]" fns="*" inm="true" npo="*" pageId="7" pageNumber="157">Jour</author>
+. 
+<title id="CDC6DDC5FFB91B0EFC71FC1A04F645ED" box="[939,1008,943,987]" pageId="7" pageNumber="157">Ent</title>
+.
+</journalOrPublisher>
+<emphasis id="8DB6EAE1FFB91B0EFBD1FC1A031F45ED" bold="true" box="[1035,1049,943,987]" pageId="7" pageNumber="157">
+<part id="CB669C6EFFB91B0EFBD1FC1A031F45ED" box="[1035,1049,943,987]" pageId="7" pageNumber="157" type="volume">1</part>
+</emphasis>
+: 
+<pagination id="860BC807FFB91B0EFBE5FC1A037D45ED" box="[1087,1147,943,987]" pageId="7" pageNumber="157" type="pagination">202</pagination>
+, 
+<year id="CB6A77A0FFB91B0EFB4CFC1A03EF45ED" box="[1174,1257,943,987]" pageId="7" pageNumber="157">1860</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</heading>
+</paragraph>
+<paragraph id="BF7D36F3FFB91B0EFAD6FC1A05384239" blockId="7.[288,1683,878,1244]" pageId="7" pageNumber="157">
+<bibCitation id="6AE83E9FFFB91B0EFAD6FC1A05384239" author="Scott" journalOrPublisher="Fauna Hawaii" pageId="7" pageNumber="157" pagination="430" part="3" refId="ref3591" type="journal article" year="1908">
+<treatmentCitation id="3E6310E2FFB91B0EFAD6FC1A053F4239" author="Scott" page="430" pageId="7" pageNumber="157" year="1908">
+<heading id="E435819FFFB91B0EFAD6FC1A019445ED" box="[1292,1682,943,987]" centered="true" fontSize="8" level="2" pageId="7" pageNumber="157" reason="4">
+<author id="677FDE16FFB91B0EFAD6FC1A026D45ED" box="[1292,1387,943,987]" pageId="7" pageNumber="157">Scott</author>
+, 
+<journalOrPublisher id="65033C3FFFB91B0EFA5FFC1A018B45ED" box="[1413,1677,943,987]" pageId="7" pageNumber="157">
+Fauna 
+<collectingRegion id="7D06F811FFB91B0EF9DDFC1A018B45ED" box="[1543,1677,943,987]" country="United States of America" name="Hawaii" pageId="7" pageNumber="157">Hawaii</collectingRegion>
+</journalOrPublisher>
+.
+</heading>
+<emphasis id="8DB6EAE1FFB91B0EFE84FC5206764239" bold="true" box="[350,368,999,1039]" pageId="7" pageNumber="157">
+<part id="CB669C6EFFB91B0EFE84FC5206764239" box="[350,368,999,1039]" pageId="7" pageNumber="157" type="volume">3</part>
+</emphasis>
+: 
+<pagination id="860BC807FFB91B0EFE49FC5206CF4239" box="[403,457,999,1039]" pageId="7" pageNumber="157" type="pageRange">430</pagination>
+, 
+<year id="CB6A77A0FFB91B0EFE3DFC52053F4239" box="[487,569,999,1039]" pageId="7" pageNumber="157">1908</year>
+</treatmentCitation>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB91B0EFEBBFBAD011C4240" pageId="7" pageNumber="157" type="materials_examined">
+<paragraph id="BF7D36F3FFB91B0EFEBBFBAD011C4240" blockId="7.[288,1683,878,1244]" pageId="7" pageNumber="157">
+<materialsCitation id="0FAA3CAEFFB91B0EFEBBFBAD03274274" ID-GBIF-Occurrence="3334692449" box="[353,1057,1048,1090]" collectedFrom="under bark" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="7" pageNumber="157">
+<location id="BA1D6028FFB91B0EFEBBFBAD05114274" LSID="urn:lsid:plazi:treatment:376B87E5FFB91B0EFEF9FC1A04B342EA:BA1D6028FFB91B0EFEBBFBAD05114274" box="[353,535,1048,1090]" name="Machanao" pageId="7" pageNumber="157">Machanao</location>
+, 
+<date id="CB7C1033FFB91B0EFDF0FBAD05A64274" box="[554,672,1048,1090]" pageId="7" pageNumber="157">
+<collectingDate id="DB38E9DBFFB91B0EFDF0FBAD05A64274" box="[554,672,1048,1090]" pageId="7" pageNumber="157">June 4</collectingDate>
+</date>
+, under bark, 
+<collectorName id="12375325FFB91B0EFC57FBAD031C4274" box="[909,1050,1048,1090]" pageId="7" pageNumber="157">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB91B0EFBF5FBAD06B34240" ID-GBIF-Occurrence="3334692526" collectedFrom="ex Intsia bijuga" collectingDate="1936-07-06" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="7" pageNumber="157">
+<location id="BA1D6028FFB91B0EFBF5FBAD03E44274" LSID="urn:lsid:plazi:treatment:376B87E5FFB91B0EFEF9FC1A04B342EA:BA1D6028FFB91B0EFBF5FBAD03E44274" box="[1071,1250,1048,1090]" name="Barrigada" pageId="7" pageNumber="157">Barrigada</location>
+, 
+<date id="CB7C1033FFB91B0EFB2FFBAD02654274" box="[1269,1379,1048,1090]" pageId="7" pageNumber="157">
+<collectingDate id="DB38E9DBFFB91B0EFB2FFBAD02654274" box="[1269,1379,1048,1090]" pageId="7" pageNumber="157">July 6</collectingDate>
+</date>
+, 
+<emphasis id="8DB6EAE1FFB91B0EFAADFBAD01174274" box="[1399,1553,1048,1090]" italics="true" pageId="7" pageNumber="157">exIntsia</emphasis>
+<taxonomicName id="78C24D70FFB91B0EF9C7FBAD01954274" authority="," authorityName=", Swezey. E. C." box="[1565,1683,1048,1090]" class="Magnoliopsida" family="Fabaceae" genus="Intsia" kingdom="Plantae" order="Fabales" pageId="7" pageNumber="157" phylum="Tracheophyta" rank="species" species="bijuga">
+<emphasis id="8DB6EAE1FFB91B0EF9C7FBAD01954274" box="[1565,1683,1048,1090]" italics="true" pageId="7" pageNumber="157">bijuga,</emphasis>
+</taxonomicName>
+<collectorName id="12375325FFB91B0EFEF8FBFE06A84240" box="[290,430,1099,1142]" pageId="7" pageNumber="157">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB91B0EFE1DFBFE011C4240" ID-GBIF-Occurrence="3334692320" box="[455,1562,1099,1142]" collectedFrom="ex dead branch of small-leaved Ficus" collectingDate="1936-10-18" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="7" pageNumber="157">
+<location id="BA1D6028FFB91B0EFE1DFBFE05264240" LSID="urn:lsid:plazi:treatment:376B87E5FFB91B0EFEF9FC1A04B342EA:BA1D6028FFB91B0EFE1DFBFE05264240" box="[455,544,1099,1142]" name="Yigo" pageId="7" pageNumber="157">Yigo</location>
+, 
+<date id="CB7C1033FFB91B0EFDE2FBFE05BB4240" box="[568,701,1099,1142]" pageId="7" pageNumber="157" value="2018-10">
+<collectingDate id="DB38E9DBFFB91B0EFDE2FBFE05BB4240" box="[568,701,1099,1142]" pageId="7" pageNumber="157" value="2018-10">Oct. 18</collectingDate>
+</date>
+, 
+<specimenCount id="A9C4FD7AFFB91B0EFD0FFBFE05F94240" box="[725,767,1099,1142]" pageId="7" pageNumber="157" type="generic">ex</specimenCount>
+dead branch of small-leaved 
+<taxonomicName id="78C24D70FFB91B0EFAC9FBFE027B4240" authority="," box="[1299,1405,1099,1142]" class="Gastropoda" family="Ficidae" genus="Ficus" kingdom="Animalia" order="Littorinimorpha" pageId="7" pageNumber="157" phylum="Mollusca" rank="genus">
+<emphasis id="8DB6EAE1FFB91B0EFAC9FBFE027B4240" box="[1299,1405,1099,1142]" italics="true" pageId="7" pageNumber="157">
+<location id="BA1D6028FFB91B0EFAC9FBFE02704240" LSID="urn:lsid:plazi:treatment:376B87E5FFB91B0EFEF9FC1A04B342EA:BA1D6028FFB91B0EFAC9FBFE02704240" box="[1299,1398,1099,1142]" name="Ficus" pageId="7" pageNumber="157">Ficus</location>
+,
+</emphasis>
+</taxonomicName>
+<collectorName id="12375325FFB91B0EFA55FBFE01134240" box="[1423,1557,1099,1142]" pageId="7" pageNumber="157">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB91B0EFE85FBCA04B342EA" pageId="7" pageNumber="157" type="discussion">
+<paragraph id="BF7D36F3FFB91B0EFE85FBCA04B342EA" blockId="7.[288,1683,878,1244]" pageId="7" pageNumber="157">
+Widely distributed in East Indies, 
+<collectingCountry id="C7D57663FFB91B0EFC02FBCA0386429F" box="[984,1152,1151,1193]" name="Indonesia" pageId="7" pageNumber="157">Moluccas</collectingCountry>
+, Borneo, 
+<collectingCountry id="C7D57663FFB91B0EFAEEFBCA02FD429F" box="[1332,1531,1151,1193]" name="Philippines" pageId="7" pageNumber="157">Philippines</collectingCountry>
+, Assam, 
+<collectingCountry id="C7D57663FFB91B0EFEFAFB0106DB42EA" box="[288,477,1204,1244]" name="Hong Kong" pageId="7" pageNumber="157">Hongkong</collectingCountry>
+, Hawaii, North 
+<collectingCountry id="C7D57663FFB91B0EFCD3FB0104B642EA" box="[777,944,1204,1244]" name="Australia" pageId="7" pageNumber="157">Australia</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

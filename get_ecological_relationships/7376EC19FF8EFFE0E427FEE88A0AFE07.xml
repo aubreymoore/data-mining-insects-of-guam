@@ -1,0 +1,90 @@
+<document id="24F901C65F08DC72634365C397EAAA0B" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8EFFE0E427FEE88A0AFE07" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Adelencyrtus chionaspidis" docType="treatment" docVersion="14" lastPageNumber="215" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="215" updateTime="1663769165332" updateUser="annettekang">
+<mods:mods id="085BB9206EBEDA872D4DF74F5C4CE23D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="00C4C96CA0BCE90F6384CB56EBB1439C">
+<mods:title id="8D09CECFC4EEA8FD36AC42206192224E">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="C08E039FD345FF3DE6033B4845B81079" type="personal">
+<mods:role id="D928F3E8285C4D7BD543D7F40E1159E7">
+<mods:roleTerm id="5F7EB808DF5B06FAE41FFB62DD499289">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2553431D50449DD3EEA8E81686856EB2">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="BF646F42AE1B441B0C710953D6CF4F3F">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="6AAAF6CDFCA823C75A6191A2E4FB4714">text</mods:typeOfResource>
+<mods:relatedItem id="A72E771419AB7F4DD982189AB128E294" type="host">
+<mods:originInfo id="34D7EE6661D6A44C334BCB33AD1FA501">
+<mods:dateIssued id="88BEE43D8DDFB8D10223133DDF3102F2">1946</mods:dateIssued>
+<mods:dateOther id="44008FDAC07232F49328D3E731529C3E" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="AF28DED061E939E4F46E7A55269E9B16">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="BF8F32295303469D894E2AB7A17D6923">
+<mods:placeTerm id="B657062D340719E44C67436F9D105EE8">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="FAEA7DFEFA0684455D7C4920BCABACC3">
+<mods:title id="6D0EF984D0348C2177420FC35C72803F">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="0D0771624F7F351B6FD19E205E6B5397">
+<mods:extent id="825151F46AE38B65F44DDA3A479B68A4" unit="page">
+<mods:start id="BBE8F3840B1A9CC146E9869060F2AB8F">211</mods:start>
+<mods:end id="9F339B3C38B8B833E47C794D78319CFF">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="7CFB258DDFC1A4C29D1D3FC08CFF6EA2">book chapter</mods:classification>
+<mods:identifier id="CE0A17FAAC497EB6D9A191B32ED33040" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="8B5CDD923BC2923D7DE6117C9085C6C9" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="4FFE5E85E2E3D963163BD6E95E8569F5" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8EFFE0E427FEE88A0AFE07" ID-DOI="http://doi.org/10.5281/zenodo.5188083" ID-GBIF-Taxon="187737458" ID-Zenodo-Dep="5188083" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E427FEE88A0AFE07" httpUri="http://treatment.plazi.org/id/7376EC19FF8EFFE0E427FEE88A0AFE07" lastPageNumber="215" pageId="4" pageNumber="215">
+<subSubSection id="B3C50E84FF8EFFE0E427FEE88B6CFEBC" box="[292,1074,324,366]" pageId="4" pageNumber="215" type="nomenclature">
+<paragraph id="FB605D0FFF8EFFE0E427FEE88B6CFEBC" blockId="4.[292,1586,324,469]" box="[292,1074,324,366]" pageId="4" pageNumber="215">
+<heading id="A028EA63FF8EFFE0E427FEE88B6CFEBC" box="[292,1074,324,366]" fontSize="8" level="2" pageId="4" pageNumber="215" reason="4">
+<emphasis id="C9AB811DFF8EFFE0E427FEE88E09FEBC" bold="true" box="[292,343,324,366]" pageId="4" pageNumber="215">28.</emphasis>
+<taxonomicName id="3CDF268CFF8EFFE0E474FEE88B72FEBC" authority="(Howard)" baseAuthorityName="Howard" baseAuthorityYear="1896" box="[375,1068,324,366]" class="Insecta" family="Encyrtidae" genus="Adelencyrtus" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="215" phylum="Arthropoda" rank="species" species="chionaspidis">
+<emphasis id="C9AB811DFF8EFFE0E474FEE88C06FEBC" bold="true" box="[375,856,324,366]" pageId="4" pageNumber="215">Adelencyrtus chionaspidis</emphasis>
+(Howard)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8EFFE0E467FEDA896CFE73" box="[356,1586,374,417]" pageId="4" pageNumber="215" type="description">
+<paragraph id="FB605D0FFF8EFFE0E467FEDA896CFE73" blockId="4.[292,1586,324,469]" box="[356,1586,374,417]" pageId="4" pageNumber="215">
+<treatmentCitationGroup id="DBCF7A21FF8EFFE0E467FEDA896CFE73" box="[356,1586,374,417]" pageId="4" pageNumber="215">
+<bibCitation id="2EF55563FF8EFFE0E467FEDA896CFE73" author="Howard" box="[356,1586,374,417]" journalOrPublisher="U. S. Nat. Mus., Proc." pageId="4" pageNumber="215" pagination="637" part="18" refId="ref1728" type="journal article" year="1896">
+<treatmentCitation id="7A7E7B1EFF8EFFE0E467FEDA8973FE73" author="Howard" box="[356,1581,374,417]" page="637" pageId="4" pageNumber="215" year="1896">
+<emphasis id="C9AB811DFF8EFFE0E467FEDA8DB6FE73" box="[356,744,374,417]" italics="true" pageId="4" pageNumber="215">Encyrtus chionaspidis</emphasis>
+<author id="2362B5EAFF8EFFE0E7F7FEDA8CD7FE73" box="[756,905,374,417]" pageId="4" pageNumber="215">Howard</author>
+, 
+<journalOrPublisher id="211E57C3FF8EFFE0E69EFEDA8A71FE73" box="[925,1327,374,417]" pageId="4" pageNumber="215">U. S. Nat. Mus., Proc.</journalOrPublisher>
+<emphasis id="C9AB811DFF8EFFE0E043FEDA8A29FE73" bold="true" box="[1344,1399,374,417]" pageId="4" pageNumber="215">
+<part id="8F7BF792FF8EFFE0E043FEDA8A38FE73" box="[1344,1382,374,417]" pageId="4" pageNumber="215" type="volume">18</part>
+:
+</emphasis>
+<pagination id="C216A3FBFF8EFFE0E087FEDA8A9BFE73" box="[1412,1477,374,417]" pageId="4" pageNumber="215" type="pagination">637</pagination>
+, 
+<year id="8F771C5CFF8EFFE0E0D8FEDA8973FE73" box="[1499,1581,374,417]" pageId="4" pageNumber="215">1896</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8EFFE0E466FE078A0AFE07" box="[357,1364,427,469]" pageId="4" pageNumber="215" type="description">
+<paragraph id="FB605D0FFF8EFFE0E466FE078A0AFE07" blockId="4.[292,1586,324,469]" box="[357,1364,427,469]" pageId="4" pageNumber="215">
+<materialsCitation id="4BB75752FF8EFFE0E466FE078A11FE07" ID-GBIF-Occurrence="3901040330" box="[357,1359,427,469]" collectedFrom="swept from grass" collectingDate="1936-05-23" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="215" specimenCount="2">
+<collectingMunicipality id="1B04C775FF8EFFE0E466FE078EF4FE07" box="[357,426,427,469]" pageId="4" pageNumber="215">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF8EFFE0E4C3FE078D16FE07" box="[448,584,427,469]" pageId="4" pageNumber="215" value="1923-05">
+<collectingDate id="9F258227FF8EFFE0E4C3FE078D16FE07" box="[448,584,427,469]" pageId="4" pageNumber="215" value="1923-05">May 23</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8EFFE0E75DFE078C3CFE07" box="[606,866,427,469]" pageId="4" pageNumber="215" type="generic">two specimens</specimenCount>
+swept from grass, 
+<collectorName id="562A38D9FF8EFFE0E1C5FE078A11FE07" box="[1222,1359,427,469]" pageId="4" pageNumber="215">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

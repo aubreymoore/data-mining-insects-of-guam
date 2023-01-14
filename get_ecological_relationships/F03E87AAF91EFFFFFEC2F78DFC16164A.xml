@@ -1,0 +1,67 @@
+<document id="61347EFE89FC32261E713FDAAB48A556" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91EFFFFFEC2F78DFC16164A" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Aonidiella" docType="treatment" docVersion="14" lastPageNumber="161" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="161" updateTime="1663083075184" updateUser="annettekang">
+<mods:mods id="414A2C804CE7303F102113E274A76C89" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="E1EDECBB11B89C437C9E333EC1DCBA6C">
+<mods:title id="E71899AFF472B7DCE91A3A335BC78804">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="18CF2831E0EA9977104215C1F2B967AB" type="personal">
+<mods:role id="C53EA8C0B8A6FB1357DA72E77AD1FC3C">
+<mods:roleTerm id="57EF5B9725D2DAA11BE4B072C733EA61">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="6BE83E52F26D116C601F76484B5F0723">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="C6C91CDBBD0E7D41E52BAC91D0311010">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9B2DFA87EEE9335B52BDCC365840AA8D">text</mods:typeOfResource>
+<mods:relatedItem id="28F99B90E8EC7A38248B698965A2C13C" type="host">
+<mods:originInfo id="524B124E781EF4ED4BF3691D51629781">
+<mods:dateIssued id="043976E0C3A17F99047E861D6B131489">1946</mods:dateIssued>
+<mods:dateOther id="62A25B2C10F7BA032DC0B09E255DD868" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="7EA02062ED672290993B51CDAA6DA72E">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="FF7D0E6D85B5F11C1F40B2E8D19F9705">
+<mods:placeTerm id="8E28F0F037779659F9F89B6895D337BA">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="039308D3B1C0E1C2DA0CB9CBDA3E9B46">
+<mods:title id="5274546A4CF0555164A491DD81A9C031">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="E5538BB79BDC1B794E9B7A7C9A6F5FEC">
+<mods:extent id="B1DFB16E9A9E69161534AC31A7B78C7A" unit="page">
+<mods:start id="92F4C49749C2D25368AC810DDEA1DA01">157</mods:start>
+<mods:end id="92CDF20AF6A13EBEB969CDB9847C0A21">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="AF48A022EC1CB607FCB2AA9979375026">book chapter</mods:classification>
+<mods:identifier id="4A3DD259C903341EAA1F1B7A5F974E70" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="E84DADB243E710AD2740C325C2EFDEB3" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="18A45A1BB6224B2C531C37CA10628FD9" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91EFFFFFEC2F78DFC16164A" ID-DOI="http://doi.org/10.5281/zenodo.5158186" ID-GBIF-Taxon="183925143" ID-Zenodo-Dep="5158186" LSID="urn:lsid:plazi:treatment:F03E87AAF91EFFFFFEC2F78DFC16164A" httpUri="http://treatment.plazi.org/id/F03E87AAF91EFFFFFEC2F78DFC16164A" lastPageNumber="161" pageId="4" pageNumber="161">
+<subSubSection id="308D6537F91EFFFFFEC2F78DFD271600" box="[320,739,2067,2110]" pageId="4" pageNumber="161" type="nomenclature">
+<paragraph id="782836BCF91EFFFFFEC2F78DFD271600" blockId="4.[320,978,2067,2164]" box="[320,739,2067,2110]" pageId="4" pageNumber="161">
+<heading id="236081D0F91EFFFFFEC2F78DFD271600" box="[320,739,2067,2110]" fontSize="8" level="2" pageId="4" pageNumber="161" reason="4">
+<emphasis id="4AE3EAAEF91EFFFFFEC2F78DFD891600" bold="true" box="[320,589,2067,2110]" pageId="4" pageNumber="161">
+52. 
+<taxonomicName id="BF974D3FF91EFFFFFE10F78DFD891600" box="[402,589,2067,2110]" family="Aonidiella" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="161" rank="family">Aonidiella</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91EFFFFFE02F7D4FC16164A" box="[384,978,2122,2164]" pageId="4" pageNumber="161" type="materials_examined">
+<paragraph id="782836BCF91EFFFFFE02F7D4FC16164A" blockId="4.[320,978,2067,2164]" box="[384,978,2122,2164]" pageId="4" pageNumber="161">
+<materialsCitation id="C8FF3CE1F91EFFFFFE02F7D4FC09164A" ID-GBIF-Occurrence="3331839331" box="[384,973,2122,2164]" collectedFrom="On orange and Ochrosia" collectingDate="1938-1939" collectorName="R. G. Oakley" country="Guam" location="Guam" pageId="4" pageNumber="161">
+<collectingMunicipality id="984CACC6F91EFFFFFE02F7D4FE71164A" box="[384,437,2122,2164]" pageId="4" pageNumber="161">On</collectingMunicipality>
+orange and 
+<emphasis id="4AE3EAAEF91EFFFFFD1BF7D4FCFA164A" box="[665,830,2122,2164]" italics="true" pageId="4" pageNumber="161">
+<taxonomicName id="BF974D3FF91EFFFFFD1BF7D4FCFC164A" authority=", Oakley." authorityName="Oakley." box="[665,824,2122,2164]" class="Magnoliopsida" family="Apocynaceae" genus="Ochrosia" kingdom="Plantae" order="Gentianales" pageId="4" pageNumber="161" phylum="Tracheophyta" rank="genus">
+<location id="7D486067F91EFFFFFD1BF7D4FCFC164A" LSID="urn:lsid:plazi:treatment:F03E87AAF91EFFFFFEC2F78DFC16164A:7D486067F91EFFFFFD1BF7D4FCFC164A" box="[665,824,2122,2164]" municipality="On" name="Ochrosia" pageId="4" pageNumber="161">Ochrosia</location>
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="D562536AF91EFFFFFCCFF7D4FC09164A" box="[845,973,2122,2164]" pageId="4" pageNumber="161">Oakley</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

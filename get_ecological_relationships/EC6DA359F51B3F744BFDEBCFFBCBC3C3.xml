@@ -1,0 +1,148 @@
+<document id="131A75743A3BBE1B4C1DCA82C172CB51" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F51B3F744BFDEBCFFBCBC3C3" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Mezira marianensis Usinger 1946, new species" docType="treatment" docVersion="17" lastPageNumber="35" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="34" updateTime="1671571822877" updateUser="annettekang">
+<mods:mods id="5F1714FB9C0568C92CAC792A9DD98EED" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="906551A9889D90F7622C4915EC47AB95">
+<mods:title id="EFA70E7EED0BD8CAAA2F18EF245557A2">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="1C7161931D42B20F835D7BBD8B275736" type="personal">
+<mods:role id="E37BB389F5C8F4D44BD0A86F63CAA185">
+<mods:roleTerm id="74F54E117C5123C8BBB30C0AA55360D6">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="ECD362D008F56B1DAA29A140E98B1CA9">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="B93CC107C5FA75FC08BBF1850F43A0AB">text</mods:typeOfResource>
+<mods:relatedItem id="0D7905D86062EDD187D24D0E9B971E64" type="host">
+<mods:originInfo id="3A0B0FF917AED60164F9583D3DC01ABF">
+<mods:dateIssued id="74BFE53BF78CFDCD79F7866EF939F3E8">1946</mods:dateIssued>
+<mods:dateOther id="55F3053AEA597168C1EF7B2262502F1B" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="125C5A047FBA2A9B301B940109754950">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="42FD94B1B6A3406BE1D60F33A9D978F4">
+<mods:placeTerm id="DF2DC91AD6A17C9C6BFE5AF6F02CAA19">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="E6C3893268348D1241F11C8AB69101BD">
+<mods:title id="1CE095C1A88AFE62FAA065D06311601E">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="1DE5776768FACC0C8685622CAE2DAD3B">
+<mods:extent id="0D7FF83526F89A463F707C90775535F7" unit="page">
+<mods:start id="13EC83504D759C3B197CA1BE7556037F">11</mods:start>
+<mods:end id="E3DBE54FFCD9C12F229FCB288121E1DB">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="8C84C55B6B0901F3ECA46FFFF162BDE3">book chapter</mods:classification>
+<mods:identifier id="EDE17444E9348F88738CD349FDD21DEB" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="3F265C06E14C32EF90936722694DBBED" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="39D66F77A96365741065A67DC1F4B2F7" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F51B3F744BFDEBCFFBCBC3C3" ID-DOI="http://doi.org/10.5281/zenodo.5213796" ID-GBIF-Taxon="184601191" ID-Zenodo-Dep="5213796" LSID="urn:lsid:plazi:treatment:EC6DA359F51B3F744BFDEBCFFBCBC3C3" httpUri="http://treatment.plazi.org/id/EC6DA359F51B3F744BFDEBCFFBCBC3C3" lastPageId="25" lastPageNumber="35" pageId="23" pageNumber="34">
+<subSubSection id="2CDE41C4F51B3F7A4BFDEBCFFADFC5B8" box="[413,1339,1191,1232]" pageId="23" pageNumber="34" type="nomenclature">
+<paragraph id="647B124FF51B3F7A4BFDEBCFFADFC5B8" blockId="23.[411,1811,1191,2542]" box="[413,1339,1191,1232]" pageId="23" pageNumber="34">
+<heading id="3F33A523F51B3F7A4BFDEBCFFADFC5B8" box="[413,1339,1191,1232]" fontSize="8" level="2" pageId="23" pageNumber="34" reason="4">
+<emphasis id="56B0CE5DF51B3F7A4BFDEBCFFCBAC5B8" bold="true" box="[413,862,1191,1232]" pageId="23" pageNumber="34">
+30. 
+<taxonomicName id="A3C469CCF51B3F7A4B91EBCFFCB3C5B8" authority="Usinger, 1946" authorityName="Usinger" authorityYear="1946" box="[497,855,1191,1232]" class="Insecta" family="Aradidae" genus="Mezira" kingdom="Animalia" order="Hemiptera" pageId="23" pageNumber="34" phylum="Arthropoda" rank="species" species="marianensis" status="new species">Mezira marianensis</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="4D837326F51B3F7A490EEBCFFBA5C5B8" box="[878,1089,1191,1232]" pageId="23" pageNumber="34" rank="species">new species</taxonomicNameLabel>
+(fig. 3, 
+<emphasis id="56B0CE5DF51B3F7A4EBBEBCFFADFC5B8" box="[1243,1339,1191,1232]" italics="true" pageId="23" pageNumber="34">a, b).</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F51B3F754B82EB88FDA2C536" lastPageId="24" lastPageNumber="35" pageId="23" pageNumber="34" type="description">
+<paragraph id="647B124FF51B3F7A4B82EB88FAEEC43A" blockId="23.[411,1811,1191,2542]" pageId="23" pageNumber="34">Suboval, second antenna! segment much shorter than third, antero-lateral angles of pronotum distinctly lobulate, surface of body only sparsely granular, the granules similar in color to the body surface. Color predominantly black.</paragraph>
+<paragraph id="647B124FF51B3F7A4B81EA35FCD2C641" blockId="23.[411,1811,1191,2542]" pageId="23" pageNumber="34">Head.almost as long as wide across postocular spines, the anterior process relatively slender and scarcely widened anteriorly, reaching two thirds of length of first antenna! segment, antenniferous tubercles reaching scarcely more than one third of length of first antenna! segment, distinctly divergent and subacute at apices; eyes small, one fifth the width of interocular space; postocular spines straight, cylindrical, exceeding level of lateral margins of eyes by one half the width of an eye; surface with relatively small granules confined to anterior process, except apex of tylus, lateral margins and bases of antenniferous tubercles, and four longitudinal rows at middle of vertex and along lateral margins extending along inner margins of eyes. Antennae a little shorter than length of head and pronotum together, SO:54, proportion of segments one to four as 15: 9: 18: 8; minutely granulate except at base of first segment. Rostrum reaching to hind margin of head, the buccal groove open behind.</paragraph>
+<paragraph id="647B124FF51B3F7A4B81E85DF8EBC9B1" blockId="23.[411,1811,1191,2542]" pageId="23" pageNumber="34">Pronotum about two thirds as long as head on median line, 22:. 30; about 2.5 times as broad across humeri as long, 57: 22, the width across anterior lobes about one fifth less than that across humeri, 48: 57. Anterolateral angles broadly and finely granular laterally, concave and smooth sublaterally on anterior margin and then coarsely granular and produced just behind eyes; collar smooth, concave and distinct. Posterior lobe distinctly delimited by deep lateral constrictions and median transverse impression, its lateral margins with relatively large, erect, blunt, spinelike granules. Disk of pronotum smooth except for four longitudinal rows of granules on anterior lobe and sparsely scattered granules on posterior lobe becoming denser on humeri. Hind margin scarcely concave, almost straight. Scutellum transversely rugose, laterally, basally and medially carinate, and sparsely granulate except finely along carinae and densely and coarsely in clusters sublaterally at base.</paragraph>
+<paragraph id="647B124FF51B3F754B81E78DFE76C084" blockId="23.[411,1811,1191,2542]" lastBlockId="24.[308,1707,341,1118]" lastPageId="24" lastPageNumber="35" pageId="23" pageNumber="34">Coria moderately dilated basally, only one twelfth wider across basal lobes than across humeri, with two distinct veins on basal two thirds terminating in a prominent cross vein, this entire area sparsely, inconspicuously granulate. Apical third of corium similar to membrane in texture, vaguely delimited by an ill-defined apical ridge. Membrane with ill-defined, reticulate veins at middle. Abdomen moderately, evenly rounded, almost one third broader across middle than width across humeri. Connexival angles prominent, rounded at apices, the surface of connexivum relatively smooth, only sparsely beset with short, round granules. Subconnexival area with a small cluster of granules on edge of carina on second visible segment and a circumgranular cup-shaped elevation on third and fourth visible segments. Spiracles of sixth visible abdominal segment just visible from above.</paragraph>
+<paragraph id="647B124FF5143F754B1BEE99FBE4C3EF" blockId="24.[308,1707,341,1118]" pageId="24" pageNumber="35">Male apical genital segment granular and convex above with a faint median longitudinal ridge, the apex rounded except for feebly, roundly projecting portion of this ridge. Lateral lobes of basal genital segment broadest subapically, projecting two ninths of their length beyond apex of second genital segment.</paragraph>
+<paragraph id="647B124FF5143F754B19EDE5FE72C24D" blockId="24.[308,1707,341,1118]" pageId="24" pageNumber="35">Female genital segments distinctive, the median lobe roundly or obtusely subtriangular, small, the lateral lobes reaching just to level of its apex, the lobes straight except for spiracular interruptions on outer sides and tapering on inner sides to obtusely angular apices.</paragraph>
+<paragraph id="647B124FF5143F754B19EC40FB6AC21A" blockId="24.[308,1707,341,1118]" pageId="24" pageNumber="35">Under surface very sparsely, inconspicuously granulate except laterally on head and thoracic pleura and on sixth visible abdominal segment.</paragraph>
+<paragraph id="647B124FF5143F754B19EC1FFC61C566" blockId="24.[308,1707,341,1118]" pageId="24" pageNumber="35">Color dark brown to black with middle of third antenna! segment sometimes paler, the clusters of granules and granular elevations at basal angles of scutellum and on subconnexival area of abdominal disk, subconnexival carina posteriorly, connexival angles, and spiracles pale ochraceous to white.</paragraph>
+<paragraph id="647B124FF5143F754B17EB7AFDA2C536" blockId="24.[308,1707,341,1118]" pageId="24" pageNumber="35">
+Size: male, length 
+<quantity id="A33CBFAAF5143F7548C7EB7AFCFFC550" box="[679,795,1042,1080]" metricMagnitude="-3" metricUnit="m" metricValue="7.5" pageId="24" pageNumber="35" unit="mm" value="7.5">7.5 mm</quantity>
+., width (abdomen) 
+<quantity id="A33CBFAAF5143F754E34EB7AFB33C550" box="[1108,1239,1042,1080]" metricMagnitude="-3" metricUnit="m" metricValue="3.75" pageId="24" pageNumber="35" unit="mm" value="3.75">3.75 mm</quantity>
+.; female, length 
+<quantity id="A33CBFAAF5143F754F80EB7AF9DFC550" box="[1504,1595,1042,1080]" metricMagnitude="-3" metricUnit="m" metricValue="8.0" pageId="24" pageNumber="35" unit="mm" value="8.0">8 mm</quantity>
+., width (abdomen) 
+<quantity id="A33CBFAAF5143F754B8AEB53FDA6C536" box="[490,578,1083,1118]" metricMagnitude="-3" metricUnit="m" metricValue="4.0" pageId="24" pageNumber="35" unit="mm" value="4.0">4 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<caption id="30BB42C7F5143F754B13E83CFD03C6F5" ID-DOI="http://doi.org/10.5281/zenodo.5173940" ID-Zenodo-Dep="5173940" httpUri="https://zenodo.org/record/5173940/files/figure.png" pageId="24" pageNumber="35" startId="24.[371,457,1876,1911]" targetBox="[553,1451,1156,1829]" targetPageId="24">
+<paragraph id="647B124FF5143F754B13E83CFD03C6F5" blockId="24.[302,1702,1876,1949]" pageId="24" pageNumber="35">
+Ficu~ 3.- 
+<taxonomicName id="A3C469CCF5143F75486FE83CFD77C61F" authorityName="Amyot &amp; Audinet-Serville" authorityYear="1843" box="[527,659,1876,1911]" class="Insecta" family="Aradidae" genus="Mezira" kingdom="Animalia" order="Hemiptera" pageId="24" pageNumber="35" phylum="Arthropoda" rank="genus">Mezira</taxonomicName>
+marimiensis a, dorsal view of female; b, dorsal view of posterior abdominal segments of male.
+</paragraph>
+</caption>
+<subSubSection id="2CDE41C4F5143F754B0FE884FDA0C917" pageId="24" pageNumber="35" type="description">
+<paragraph id="647B124FF5143F754B0FE884FDA0C917" blockId="24.[303,1703,2028,2490]" pageId="24" pageNumber="35">
+<materialsCitation id="D4AC1812F5143F754B0FE884FD50C921" ID-GBIF-Occurrence="3336136489" collectingDate="1936-06-30" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Machanao" pageId="24" pageNumber="35" specimenCount="11" typeStatus="holotype male, allotype female, and paratype (9)">
+<typeStatus id="BB7FACEDF5143F754B0FE884FDF7C97E" box="[367,531,2028,2070]" pageId="24" pageNumber="35">Holotype</typeStatus>
+<specimenCount id="72C2D9C6F5143F754845E884FD9FC97E" box="[549,635,2028,2070]" pageId="24" pageNumber="35" type="male">male</specimenCount>
+, 
+<typeStatus id="BB7FACEDF5143F7548F5E884FCF9C97E" box="[661,797,2028,2070]" pageId="24" pageNumber="35">allotype</typeStatus>
+female, and 
+<specimenCount id="72C2D9C6F5143F754E77E884FAC5C97E" box="[1047,1313,2028,2070]" pageId="24" pageNumber="35" type="generic">nine paratypes</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5143F754F5BE884FA17C97E" box="[1339,1523,2028,2070]" pageId="24" pageNumber="35">Machanao</collectingMunicipality>
+, 
+<collectingDate id="003ECD67F5143F754C6CE884F97AC97E" box="[1548,1694,2028,2070]" pageId="24" pageNumber="35" value="1930-06">
+<date id="107A348FF5143F754C6CE884F97AC97E" box="[1548,1694,2028,2070]" pageId="24" pageNumber="35" value="1930-06">June 30</date>
+</collectingDate>
+, 
+<location id="611B4494F5143F754B52E777FD49C921" LSID="urn:lsid:plazi:treatment:EC6DA359F51B3F744BFDEBCFFBCBC3C3:611B4494F5143F754B52E777FD49C921" box="[306,685,2079,2121]" municipality="Machanao" name="Swezey and Usinger" pageId="24" pageNumber="35">Swezey and Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5143F7548A8E777FDA0C917" ID-GBIF-Occurrence="3336136371" collectedFrom="under bark of Intsia bijuga" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="24" pageNumber="35" specimenCount="1" typeStatus="paratype">
+<specimenCount id="72C2D9C6F5143F7548A8E777FCE0C921" box="[712,772,2079,2121]" pageId="24" pageNumber="35" type="generic">one</specimenCount>
+<typeStatus id="BB7FACEDF5143F754974E777FC54C921" box="[788,944,2079,2121]" pageId="24" pageNumber="35">paratype</typeStatus>
+, 
+<location id="611B4494F5143F7549A8E777FB9FC921" LSID="urn:lsid:plazi:treatment:EC6DA359F51B3F744BFDEBCFFBCBC3C3:611B4494F5143F7549A8E777FB9FC921" box="[968,1147,2079,2121]" name="Barrigada" pageId="24" pageNumber="35">Barrigada</location>
+, 
+<date id="107A348FF5143F754EF3E777FAFFC921" box="[1171,1307,2079,2121]" pageId="24" pageNumber="35" value="1922-07">
+<collectingDate id="003ECD67F5143F754EF3E777FAFFC921" box="[1171,1307,2079,2121]" pageId="24" pageNumber="35" value="1922-07">July 22</collectingDate>
+</date>
+, under bark of 
+<taxonomicName id="A3C469CCF5143F754C20E777FDA0C917" authority=", Swezey." class="Magnoliopsida" family="Fabaceae" genus="Intsia" kingdom="Plantae" order="Fabales" pageId="24" pageNumber="35" phylum="Tracheophyta" rank="species" species="bijuga">
+<emphasis id="56B0CE5DF5143F754C20E777FE43C917" italics="true" pageId="24" pageNumber="35">
+<location id="611B4494F5143F754C20E777F942C921" LSID="urn:lsid:plazi:treatment:EC6DA359F51B3F744BFDEBCFFBCBC3C3:611B4494F5143F754C20E777F942C921" box="[1600,1702,2079,2121]" name="Intsia" pageId="24" pageNumber="35">Intsia</location>
+bijuga,
+</emphasis>
+<collectorName id="C9317799F5143F754BD8E73BFDDBC917" box="[440,575,2131,2175]" pageId="24" pageNumber="35">Swezey</collectorName>
+.
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5143F744B10E7E7FBCBC3C3" lastPageId="25" lastPageNumber="36" pageId="24" pageNumber="35" type="description">
+<paragraph id="647B124FF5143F744B10E7E7FBCBC3C3" blockId="24.[303,1703,2028,2490]" lastBlockId="25.[412,1811,383,683]" lastPageId="25" lastPageNumber="36" pageId="24" pageNumber="35">
+Closely related to the Philippine 
+<taxonomicName id="A3C469CCF5143F7549CEE7E7FB73C9D0" authority="Stal" authorityName="Stal" box="[942,1175,2191,2232]" class="Insecta" family="Aradidae" genus="Mezira" kingdom="Animalia" order="Hemiptera" pageId="24" pageNumber="35" phylum="Arthropoda" rank="species" species="tagalicus">
+<emphasis id="56B0CE5DF5143F7549CEE7E7FBA1C9D0" box="[942,1093,2191,2232]" italics="true" pageId="24" pageNumber="35">tagalicus</emphasis>
+Stal
+</taxonomicName>
+and to an undescribed species from the 
+<collectingCountry id="1CD352DFF5143F754B87E7ABFCF4C983" box="[487,784,2243,2283]" name="Micronesia" pageId="24" pageNumber="35">Caroline Islands</collectingCountry>
+, both of which have the spiracles of sixth visible abdominal segment very near lateral margins. However, both the Philippine and the Caroline species are lighter brownish in color and much more densely covered with conspicuous pale granules. 
+<taxonomicName id="A3C469CCF5143F754E7BE635FB1EC8EF" box="[1051,1274,2397,2439]" class="Insecta" family="Aradidae" genus="Mezira" kingdom="Animalia" order="Hemiptera" pageId="24" pageNumber="35" phylum="Arthropoda" rank="species" species="tagalicus">
+<emphasis id="56B0CE5DF5143F754E7BE635FB1EC8EF" box="[1051,1274,2397,2439]" italics="true" pageId="24" pageNumber="35">M. tagalicus</emphasis>
+</taxonomicName>
+is a little larger, 
+<quantity id="A33CBFAAF5143F754C5FE635FE59C8D2" metricMagnitude="-3" metricUnit="m" metricValue="9.0" metricValueMax="9.5" metricValueMin="8.5" pageId="24" pageNumber="35" unit="mm" value="9.0" valueMax="9.5" valueMin="8.5">8.5 to 9.5 mm</quantity>
+., with lateral lobes of first male genital segment shorter, not reaching apex of second segment, and with lateral lobes of female genital segment much shorter, not reaching apex of large, rounded, median lobe. 
+<taxonomicName id="A3C469CCF5153F744FAFEEDAF99DC0B5" box="[1487,1657,434,477]" class="Insecta" family="Aradidae" genus="Mezira" kingdom="Animalia" order="Hemiptera" pageId="25" pageNumber="69" phylum="Arthropoda" rank="species" species="tagalicus">
+<emphasis id="56B0CE5DF5153F744FAFEEDAF99DC0B5" box="[1487,1657,434,477]" italics="true" pageId="25" pageNumber="36">Tagalicus</emphasis>
+</taxonomicName>
+<emphasis id="56B0CE5DF5153F744CE7EEDAF8F7C0B5" bold="true" box="[1671,1811,434,477]" pageId="25" pageNumber="36">likewise</emphasis>
+has a shorter rostrum with the buccal cavity closed behind. Superficially similar Fijian and Samoan species are at hand. They resemble 
+<taxonomicName id="A3C469CCF5153F744FF4ED71F9C8C32C" box="[1428,1580,537,580]" class="Insecta" family="Aradidae" genus="Mezira" kingdom="Animalia" order="Hemiptera" pageId="25" pageNumber="36" phylum="Arthropoda" rank="species" species="tagalicus">
+<emphasis id="56B0CE5DF5153F744FF4ED71F9C8C32C" box="[1428,1580,537,580]" italics="true" pageId="25" pageNumber="36">tagalicus</emphasis>
+</taxonomicName>
+in color and in degree of granulation but the spiracles of the sixth visibleabdominal segment are remote from the lateral margins.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

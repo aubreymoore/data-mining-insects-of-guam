@@ -1,0 +1,56 @@
+<document id="715D5538C451066A115B7DFC3EAFE69B" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB51B02FEC5F7B802D64E91" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Lindorus lophanthae Casey 1899" docType="treatment" docVersion="10" lastPageNumber="161" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="161" updateTime="1651296258617" updateUser="GgImagineBatch">
+<mods:mods id="6B09F63A9F39A471694B07C0C6C34CEC" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="84CBE57B868AEDA751458B1EFE895968">
+<mods:title id="6A57DD24CFBCB35008F3EC29C162D137">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="90CC6E750817DAC01C1872DD7B74BCCE" type="personal">
+<mods:role id="774A4FA7F16519FA2758E2758F062520">
+<mods:roleTerm id="46A7528FED0D3510105CD8525A6A1C34">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="6AC4327AA26036E040D8BFA975485B55">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="DC20EF20C30918FC1451625CF6710E66">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="34A899AF6EFA2FE710A602A7D59C18F9">text</mods:typeOfResource>
+<mods:relatedItem id="56F85038DF4679F5B1B8F48EC6AF3F3F" type="host">
+<mods:originInfo id="6374A308ADAFA07188CCE1343E7521F6">
+<mods:dateIssued id="F2F1C6B544EC13D63059398AAAE1E9DB">1942</mods:dateIssued>
+<mods:dateOther id="12E6C4F6C3E62D481D80E0F34B49D459" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="4B4D5579E471A893A855C3D97F2F9065">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="0AA7275744441B56BCAFE150D4817FCE">
+<mods:placeTerm id="30E02AE1C528473885374A31986F7E76">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="15F3DADD97B146300AD5BB633041C627">
+<mods:title id="55959B6AE9F0994732CCC42E09C0E30C">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="DD47043021F41375BE13DCC6852271F9">
+<mods:extent id="3687528A0209735AECBD6C83D4938F0B" unit="page">
+<mods:start id="CB1A4FC613004009308B825B6FC5704E">150</mods:start>
+<mods:end id="ED91AEC1370A262AE9ECED9E6416A562">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="C48F436655D6A4198306780D7C4FDA6D">book chapter</mods:classification>
+<mods:identifier id="D36C7DDAA9014CDA5C993DBFF4F9C9B3" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="BF3742664E194AF8E8CF827F34C93CB1" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="1B478E5F69AF15A70046EF82CAA99A99" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB51B02FEC5F7B802D64E91" ID-DOI="http://doi.org/10.5281/zenodo.5156763" ID-GBIF-Taxon="184415325" ID-Zenodo-Dep="5156763" LSID="urn:lsid:plazi:treatment:376B87E5FFB51B02FEC5F7B802D64E91" httpUri="http://treatment.plazi.org/id/376B87E5FFB51B02FEC5F7B802D64E91" lastPageNumber="161" pageId="11" pageNumber="161">
+<subSubSection id="F7D86578FFB51B02FEC5F7B8047A4E0E" box="[287,892,2061,2104]" pageId="11" pageNumber="161" type="nomenclature">
+<paragraph id="BF7D36F3FFB51B02FEC5F7B8047A4E0E" blockId="11.[287,1682,2061,2215]" box="[287,892,2061,2104]" pageId="11" pageNumber="161">
+<taxonomicName id="78C24D70FFB51B02FEC5F7B804704E0E" authority="(Blaisdell)" authorityName="Casey" authorityYear="1899" baseAuthorityName="Blaisdell" baseAuthorityYear="1892" box="[287,886,2061,2104]" class="Insecta" family="Coccinellidae" genus="Lindorus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="11" pageNumber="161" phylum="Arthropoda" rank="species" species="lophanthae">
+<emphasis id="8DB6EAE1FFB51B02FEC5F7B8059A4E0E" bold="true" box="[287,668,2061,2104]" pageId="11" pageNumber="161">Lindorus lophanthae</emphasis>
+(Blaisdell)
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB51B02FE87F7F202D64E91" pageId="11" pageNumber="161" type="discussion">
+<paragraph id="BF7D36F3FFB51B02FE87F7F202D64E91" blockId="11.[287,1682,2061,2215]" pageId="11" pageNumber="161">
+Two attempts to introduce this ladybeetle into 
+<collectingCountry id="C7D57663FFB51B02FB01F7F202434E44" box="[1243,1349,2119,2162]" name="Guam" pageId="11" pageNumber="161">Guam</collectingCountry>
+in 1925 and 1926 apparently failed to establish it, for we saw nothing of it in 1936.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

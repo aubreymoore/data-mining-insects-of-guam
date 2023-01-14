@@ -1,0 +1,168 @@
+<document id="65DFCCA67E2E3349B03C94F1744F0D6F" ID-DOI="http://doi.org/10.5281/zenodo.5160270" ID-GBIF-Dataset="6dc2872d-cbab-4982-baed-c0969e3e3236" ID-Zenodo-Dep="5160270" checkinTime="1628013042203" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="0E4F7F497E635A28B4F4FAC510EF7120" docLanguage="en" docName="InsectsOfGuamI.172.175-183.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Paratrechina longicornis" docType="treatment" docVersion="16" lastPageNumber="182" masterDocId="F27607317E645A2FB552FF8416577654" masterDocTitle="Hymenoptera Formicidae of Guam" masterLastPageNumber="183" masterPageNumber="175" pageNumber="182" updateTime="1657826854609" updateUser="ExternalLinkService">
+<mods:mods id="E050C3E9307C6C21C1C1EBBC4CBF2BBF" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="92EE87A8F6D4E8FF56DE2E0AE67E25D3">
+<mods:title id="6C27D2F014E74AC74BA44E560B68C21A">Hymenoptera Formicidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="0C1AF990B082DD2CFA2209F26BF712EC" type="personal">
+<mods:role id="3A5139AA450BC81086926F7659FAE565">
+<mods:roleTerm id="EB86F88B3C6F46A03F9AD1AF7DC399EC">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="6F93A40C0E15C776BBF5EAF22C63E57F">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="74151103127F2A6C770BC80477E31FE2">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="E458F69990B989EF8E5C0CFE8C895039">text</mods:typeOfResource>
+<mods:relatedItem id="5398958968BF1EF0E9BF49D170A21EC7" type="host">
+<mods:originInfo id="8ABEB1872464D7C888D15F66C6642FC6">
+<mods:dateIssued id="0700C27726872BB8E8226968C1C83098">1942</mods:dateIssued>
+<mods:dateOther id="B32EAA1726888DC870F53C401E8B0DC6" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="E98B4A452444A336AE9D49D784AE5D8B">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="D86A0F23871F0AB894DBAB10741707E2">
+<mods:placeTerm id="B802DF9028DC13467AB51F26823C9A54">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="DC2AEDE4A33E3A2C8DB00D5A6EF382FA">
+<mods:title id="90F191D455BFA98F6970F88957C9A37C">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="DD3DABE53ED939B4301B5FB31B8B49EB">
+<mods:extent id="BAEA11E2F29CA8B0F800B981D1D9A2D3" unit="page">
+<mods:start id="10222B31AEA8D54DA36D143F14E424E2">175</mods:start>
+<mods:end id="B9C43300C9B2CB473FACE6FBBDC94BEF">183</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="43358DAA832E5838D88ECBA39E133651">book chapter</mods:classification>
+<mods:identifier id="7BE53DC285CDB1CB46042D5AB35A5CC5" type="DOI">http://doi.org/10.5281/zenodo.5160270</mods:identifier>
+<mods:identifier id="F756CCA645E26F17D9AD716A4C1AAA63" type="GBIF-Dataset">6dc2872d-cbab-4982-baed-c0969e3e3236</mods:identifier>
+<mods:identifier id="A88DE997C2E2B834FA52C478971DAF4D" type="Zenodo-Dep">5160270</mods:identifier>
+</mods:mods>
+<treatment id="0E4F7F497E635A28B4F4FAC510EF7120" ID-DOI="http://doi.org/10.5281/zenodo.5164310" ID-GBIF-Taxon="184416197" ID-Zenodo-Dep="5164310" LSID="urn:lsid:plazi:treatment:0E4F7F497E635A28B4F4FAC510EF7120" httpUri="http://treatment.plazi.org/id/0E4F7F497E635A28B4F4FAC510EF7120" lastPageNumber="182" pageId="7" pageNumber="182">
+<subSubSection id="CEFC9DD47E635A28B4F4FAC512E6733E" box="[422,1201,1345,1386]" pageId="7" pageNumber="182" type="nomenclature">
+<paragraph id="8659CE5F7E635A28B4F4FAC512E6733E" blockId="7.[422,1818,1345,1908]" box="[422,1201,1345,1386]" pageId="7" pageNumber="182">
+<emphasis id="B492124D7E635A28B4F4FAC517BB733E" bold="true" box="[422,492,1345,1386]" pageId="7" pageNumber="182">*27.</emphasis>
+<taxonomicName id="41E6B5DC7E635A28B75CFAC512FC733E" authority="(Latreille)" box="[526,1195,1345,1386]" class="Insecta" family="Formicidae" genus="Paratrechina" kingdom="Animalia" order="Hymenoptera" pageId="7" pageNumber="182" phylum="Arthropoda" rank="species" species="longicornis">
+<emphasis id="B492124D7E635A28B75CFAC51584733E" bold="true" box="[526,979,1345,1386]" pageId="7" pageNumber="182">Paratrechina longicornis</emphasis>
+(Latreille)
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E635A28B4B7FAF713C77038" pageId="7" pageNumber="182" type="reference_group">
+<paragraph id="8659CE5F7E635A28B4B7FAF7107773CA" blockId="7.[422,1818,1345,1908]" box="[485,1568,1395,1438]" pageId="7" pageNumber="182">
+<treatmentCitationGroup id="A6F6E9717E635A28B4B7FAF7107773CA" box="[485,1568,1395,1438]" pageId="7" pageNumber="182">
+<treatmentCitation id="0747E84E7E635A28B4B7FAF7107773CA" author="Latreille" box="[485,1568,1395,1438]" page="113" pageId="7" pageNumber="182" year="1802">
+<bibCitation id="53CCC6337E635A28B4B7FAF7107773CA" author="Latreille" box="[485,1568,1395,1438]" journalOrPublisher="Hist. nat. Fourmis" pageId="7" pageNumber="182" part="113" refId="ref4284" type="book" year="1802">
+<emphasis id="B492124D7E635A28B4B7FAF7151E73CA" box="[485,841,1395,1438]" italics="true" pageId="7" pageNumber="182">Forntica longicornis</emphasis>
+<author id="5E5B26BA7E635A28B60BFAF715A673CA" box="[857,1009,1395,1438]" pageId="7" pageNumber="182">Latreille</author>
+, 
+<journalOrPublisher id="5C27C4937E635A28B155FAF7120A73CA" box="[1031,1117,1395,1438]" pageId="7" pageNumber="182">Hist.</journalOrPublisher>
+nat. Fourmis, 
+<part id="F24264C27E635A28B023FAF713F973CA" box="[1393,1454,1395,1438]" pageId="7" pageNumber="182">113</part>
+, 
+<year id="F24E8F0C7E635A28B09BFAF7104C73CA" box="[1481,1563,1395,1438]" pageId="7" pageNumber="182">1802</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8659CE5F7E635A28B4B6FA2215537050" blockId="7.[422,1818,1345,1908]" pageId="7" pageNumber="182">
+<treatmentCitationGroup id="A6F6E9717E635A28B4B6FA2215537050" pageId="7" pageNumber="182">
+<treatmentCitation id="0747E84E7E635A28B4B6FA2215537050" author="Bingham" page="326" pageId="7" pageNumber="182" year="1903">
+<bibCitation id="53CCC6337E635A28B4B6FA2215537050" author="Bingham" journalOrPublisher="Fauna Brit. India, Hymenopt." pageId="7" pageNumber="182" pagination="326" part="2" refId="ref4298" type="journal article" year="1903">
+<emphasis id="B492124D7E635A28B4B6FA22153A7385" box="[484,877,1446,1489]" italics="true" pageId="7" pageNumber="182">Prenolepis longicornis</emphasis>
+(Latreille) 
+<author id="5E5B26BA7E635A28B11FFA2212B97385" box="[1101,1262,1446,1489]" pageId="7" pageNumber="182">Bingham</author>
+, 
+<journalOrPublisher id="5C27C4937E635A28B057FA22114F7385" box="[1285,1816,1446,1489]" pageId="7" pageNumber="182">
+Fauna Brit. 
+<collectingCountry id="FEF18ECF7E635A28B0B3FA2210687385" box="[1505,1599,1446,1489]" name="India" pageId="7" pageNumber="182">India</collectingCountry>
+, Hymenopt.
+</journalOrPublisher>
+<emphasis id="B492124D7E635A28B771FA5914627050" bold="true" box="[547,565,1501,1540]" pageId="7" pageNumber="182">
+<part id="F24264C27E635A28B771FA5914627050" box="[547,565,1501,1540]" pageId="7" pageNumber="182" type="volume">2</part>
+</emphasis>
+: 
+<pagination id="BF2F30AB7E635A28B709FA5914C17050" box="[603,662,1501,1540]" pageId="7" pageNumber="182" type="pagination">326</pagination>
+, 
+<year id="F24E8F0C7E635A28B7FEFA5914A87050" box="[684,767,1501,1540]" pageId="7" pageNumber="182">1903</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8659CE5F7E635A28B4B7F98B13C77038" blockId="7.[422,1818,1345,1908]" pageId="7" pageNumber="182">
+<treatmentCitationGroup id="A6F6E9717E635A28B4B7F98B13C77038" pageId="7" pageNumber="182">
+<bibCitation id="53CCC6337E635A28B4B7F98B13C77038" author="Wheeler" journalOrPublisher="B. P. Bishop Mus., 0 cc. Papers" pageId="7" pageNumber="182" pagination="17" part="10" refId="ref4318" type="journal article" year="1934">
+<treatmentCitation id="0747E84E7E635A28B4B7F98B15B87038" author="Wheeler" page="17" pageId="7" pageNumber="182" year="1934">
+<emphasis id="B492124D7E635A28B4B7F98B15F67063" box="[485,929,1551,1591]" italics="true" pageId="7" pageNumber="182">Paratrechina longicornis</emphasis>
+(Latreille) 
+<author id="5E5B26BA7E635A28B1C0F98B137D7063" box="[1170,1322,1551,1591]" pageId="7" pageNumber="182">Wheeler</author>
+, 
+<journalOrPublisher id="5C27C4937E635A28B018F98B14C97038" pageId="7" pageNumber="182">B. P. Bishop Mus., 0cc. Papers</journalOrPublisher>
+<part id="F24264C27E635A28B7E1F9C514B67038" box="[691,737,1601,1644]" pageId="7" pageNumber="182" type="volume">10</part>
+(
+<part id="F24264C27E635A28B7BDF9C5154A7038" box="[751,797,1601,1644]" pageId="7" pageNumber="182" type="issue">21</part>
+): 
+<pagination id="BF2F30AB7E635A28B605F9C5152C7038" box="[855,891,1601,1644]" pageId="7" pageNumber="182" type="pagination">17</pagination>
+, 
+<year id="F24E8F0C7E635A28B6C4F9C515BE7038" box="[918,1001,1601,1644]" pageId="7" pageNumber="182">1934</year>
+,
+</treatmentCitation>
+<treatmentCitation id="0747E84E7E635A28B153F9C513C77038" author="Wheeler" box="[1025,1424,1601,1644]" page="48" pageId="7" pageNumber="182" year="1935">
+and 
+<part id="F24264C27E635A28B106F9C512D57038" box="[1108,1154,1601,1644]" pageId="7" pageNumber="182">11</part>
+(
+<part id="F24264C27E635A28B1C3F9C512E97038" box="[1169,1214,1601,1644]" pageId="7" pageNumber="182">11</part>
+): 
+<pagination id="BF2F30AB7E635A28B1A6F9C5134B7038" box="[1268,1308,1601,1644]" pageId="7" pageNumber="182">48</pagination>
+, 
+<year id="F24E8F0C7E635A28B06AF9C513DC7038" box="[1336,1419,1601,1644]" pageId="7" pageNumber="182">1935</year>
+.
+</treatmentCitation>
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E635A28B4B5F9F1100F70F4" box="[487,1624,1653,1696]" pageId="7" pageNumber="182" type="reference_group">
+<paragraph id="8659CE5F7E635A28B4B5F9F1100F70F4" blockId="7.[422,1818,1345,1908]" box="[487,1624,1653,1696]" pageId="7" pageNumber="182">
+<materialsCitation id="368EC4027E635A28B4B5F9F1158970F4" ID-GBIF-Occurrence="3334693359" box="[487,990,1653,1696]" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="7" pageNumber="182">
+<location id="833998847E635A28B4B5F9F114CD70F4" LSID="urn:lsid:plazi:treatment:0E4F7F497E635A28B4F4FAC510EF7120:833998847E635A28B4B5F9F114CD70F4" box="[487,666,1653,1696]" name="Barrigada" pageId="7" pageNumber="182">Barrigada</location>
+, 
+<date id="F258E89F7E635A28B7FCF9F1156470F4" box="[686,819,1653,1696]" pageId="7" pageNumber="182" value="1922-07">
+<collectingDate id="E21C11777E635A28B7FCF9F1156470F4" box="[686,819,1653,1696]" pageId="7" pageNumber="182" value="1922-07">July 22</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E635A28B619F9F1158070F4" box="[843,983,1653,1696]" pageId="7" pageNumber="182">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E635A28B6BCF9F1100F70F4" ID-GBIF-Occurrence="3334693374" box="[1006,1624,1653,1696]" collectedFrom="in cane field" collectingDate="1936-10-23" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="182">
+<location id="833998847E635A28B6BCF9F1126770F4" LSID="urn:lsid:plazi:treatment:0E4F7F497E635A28B4F4FAC510EF7120:833998847E635A28B6BCF9F1126770F4" box="[1006,1072,1653,1696]" name="Piti" pageId="7" pageNumber="182">Piti</location>
+, 
+<date id="F258E89F7E635A28B115F9F1129E70F4" box="[1095,1225,1653,1696]" pageId="7" pageNumber="182" value="1923-10">
+<collectingDate id="E21C11777E635A28B115F9F1129E70F4" box="[1095,1225,1653,1696]" pageId="7" pageNumber="182" value="1923-10">Oct. 23</collectingDate>
+</date>
+, in cane field, 
+<collectorName id="2B13AB897E635A28B09FF9F1100470F4" box="[1485,1619,1653,1696]" pageId="7" pageNumber="182">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E635A28B4B4F93510EF7120" pageId="7" pageNumber="182" type="materials_examined">
+<paragraph id="8659CE5F7E635A28B4B4F93510EF7120" blockId="7.[422,1818,1345,1908]" pageId="7" pageNumber="182">
+A dark brown ant the size of 
+<emphasis id="B492124D7E635A28B6AEF93513CC708D" box="[1020,1435,1713,1753]" italics="true" pageId="7" pageNumber="182">
+<taxonomicName id="41E6B5DC7E635A28B6AEF93513C2708D" baseAuthorityName="Forel" baseAuthorityYear="1886" box="[1020,1429,1713,1753]" class="Insecta" family="Formicidae" genus="Nylanderia" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hymenoptera" pageId="7" pageNumber="182" phylum="Arthropoda" rank="species" species="bourbonica">Nylanderia bourbonica</taxonomicName>
+,
+</emphasis>
+with very long scape to the antennae. It is a tropicopolitan ant, known in some places as the &quot;crazy ant&quot; because of its rapid movements. 
+<materialsCitation id="368EC4027E635A28B10AF89114D77120" ID-GBIF-Occurrence="3862685338" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="7" pageNumber="182">
+Previously collected in 
+<collectingCountry id="FEF18ECF7E635A28B0ACF89110317115" box="[1534,1638,1813,1857]" name="Guam" pageId="7" pageNumber="182">Guam</collectingCountry>
+by 
+<location id="833998847E635A28B3E2F89117BA7120" LSID="urn:lsid:plazi:treatment:0E4F7F497E635A28B4F4FAC510EF7120:833998847E635A28B3E2F89117BA7120" country="Guam" name="Fullaway" pageId="7" pageNumber="182">Fullaway</location>
+in 1911
+</materialsCitation>
+. Apparently it is rare, as we have it from only two localities.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

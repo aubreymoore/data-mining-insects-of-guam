@@ -1,0 +1,110 @@
+<document id="828749D801945FBF5C00875CA20E4FC4" ID-DOI="http://doi.org/10.5281/zenodo.3634035" ID-GBIF-Dataset="9c8d5683-76c1-4938-aede-b7ad5391b6b2" ID-Zenodo-Dep="3634035" checkinTime="1580668122796" checkinUser="plazi" docAuthor="Moulton, Dudley" docDate="1942" docId="03E60234FFF0FFC376E65961DEEE0732" docLanguage="en" docName="InsectsOfGuam.172.7-16.pdf.imf" docOrigin="Insects of Guam I, Bernice P. Bishop Museum Bulletin" docSource="http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Gynaikothrips uzeli Karny" docType="treatment" docVersion="16" lastPageNumber="11" masterDocId="FFDF7A4CFFF3FFC777195003DD64051A" masterDocTitle="Thysanoptera: Thrips of Guam" masterLastPageNumber="16" masterPageNumber="7" pageNumber="10" updateTime="1658840059004" updateUser="annettekang">
+<mods:mods id="8D49EF1E727A48ACADB69AFBA38A783F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B3C2447521741DE22DA1BC14F34AF126">
+<mods:title id="EBC2E3F717B4AD6A9ACA783418C11E3E">Thysanoptera: Thrips of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="BB14AB1E05F9C8E693EE2A91A063F8C0" type="personal">
+<mods:role id="8CA3BA27074E756BAF6C64F791701434">
+<mods:roleTerm id="C6C5DCA11B9820B65E69EADA902FDD6F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2324AB22D00B19F3694D5B933949B429">Moulton, Dudley</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="9E04024A82C452A6BCF0792D6E2869C4">text</mods:typeOfResource>
+<mods:relatedItem id="8FDCFF8F4E1DBA6E1111913D9D92A228" type="host">
+<mods:originInfo id="297C9086EF7C5EA1A9E8EDB08ED08DDA">
+<mods:dateIssued id="9841C58DECAED51518035B87D92B76AB">1942</mods:dateIssued>
+<mods:dateOther id="8D008516D2135F7B62AEC5EAFC8DA29D" type="pubDate">1942-12-31</mods:dateOther>
+<mods:publisher id="BDBDF104A325A32E7A949C16038122F2">Bernice P. Bishop Museum Bulletin</mods:publisher>
+</mods:originInfo>
+<mods:titleInfo id="3F47CBBD7E2CC7602B6538FBB1F73F6C">
+<mods:title id="41546EFB031949F004ABCBA28776503A">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="CCBC727644E7E16FDB134F9E46A00322">
+<mods:extent id="A0E0F4EDEBF7510F94D6FD3247423AD5" unit="page">
+<mods:start id="326A9631B743297AED1438E59345F184">7</mods:start>
+<mods:end id="1AE49528B9610FE9BB3F72A6B241CA29">16</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="FDED310A85B44ADD14E494C9127F4611">
+<mods:url id="05EA6128013E025A51829B7A31B9E699">http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf</mods:url>
+</mods:location>
+<mods:classification id="9F893312B1F1D78B9134AD6C02DDDD3A">book chapter</mods:classification>
+<mods:identifier id="0880A2FC367D362FE85196D891964E45" type="DOI">http://doi.org/10.5281/zenodo.3634035</mods:identifier>
+<mods:identifier id="9B468E9007EB0831BB5ED82B8F7B94F7" type="GBIF-Dataset">9c8d5683-76c1-4938-aede-b7ad5391b6b2</mods:identifier>
+<mods:identifier id="7EC176B0C58C424427E991E34A1369B9" type="Zenodo-Dep">3634035</mods:identifier>
+</mods:mods>
+<treatment id="03E60234FFF0FFC376E65961DEEE0732" ID-DOI="http://doi.org/10.5281/zenodo.5157429" ID-GBIF-Taxon="161938958" ID-Zenodo-Dep="5157429" LSID="urn:lsid:plazi:treatment:03E60234FFF0FFC376E65961DEEE0732" httpUri="http://treatment.plazi.org/id/03E60234FFF0FFC376E65961DEEE0732" lastPageId="4" lastPageNumber="11" pageId="3" pageNumber="10">
+<subSubSection id="C355E0A9FFF0FFC476E65961D9B50C9C" box="[511,1233,2402,2438]" pageId="3" pageNumber="10" type="nomenclature">
+<paragraph id="8BF0B322FFF0FFC476E65961D9B50C9C" blockId="3.[511,1909,2399,2560]" box="[511,1233,2402,2438]" pageId="3" pageNumber="10">
+<heading id="D0B8044EFFF0FFC476E65961D9B50C9C" box="[511,1233,2402,2438]" fontSize="11" level="5" pageId="3" pageNumber="10" reason="1">
+<emphasis id="B93B6F30FFF0FFC476E65961DF540C9F" bold="true" box="[511,560,2402,2437]" pageId="3" pageNumber="10">10.</emphasis>
+<taxonomicName id="4C4FC8A1FFF0FFC475485961D9AF0C9C" authority="(Zimmermann)" authorityName="Karny" baseAuthorityName="Zimmermann" baseAuthorityYear="1900" box="[593,1227,2402,2438]" class="Insecta" family="Phlaeothripidae" genus="Gynaikothrips" kingdom="Animalia" order="Thysanoptera" pageId="3" pageNumber="10" phylum="Arthropoda" rank="species" species="uzeli">
+<emphasis id="B93B6F30FFF0FFC475485961DED00C9C" bold="true" box="[593,948,2402,2438]" pageId="3" pageNumber="10">Gynaikothrips uzeli</emphasis>
+(Zimmermann)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFF0FFC47524599DDBB80CE4" pageId="3" pageNumber="10" type="reference_group">
+<treatmentCitationGroup id="AB5F940CFFF0FFC47524599DDBB80CE4" pageId="3" pageNumber="10">
+<paragraph id="8BF0B322FFF0FFC47524599DDA110CD8" blockId="3.[511,1909,2399,2560]" box="[573,1909,2457,2499]" pageId="3" pageNumber="10">
+<treatmentCitation id="0AEE9533FFF0FFC47524599DDA140CD8" author="Zimmermann" box="[573,1904,2457,2499]" page="12" pageId="3" pageNumber="10" year="1900">
+<taxonomicName id="4C4FC8A1FFF0FFC47524599DD9050CD8" authority="Zimmermann" authorityName="Zimmermann" box="[573,1121,2462,2499]" class="Insecta" family="Phlaeothripidae" genus="Mesothrips" kingdom="Animalia" order="Thysanoptera" pageId="3" pageNumber="10" phylum="Arthropoda" rank="species" species="uzeli">
+<emphasis id="B93B6F30FFF0FFC47524599DDE020CD9" box="[573,870,2462,2499]" italics="true" pageId="3" pageNumber="10">Mesothrips uzeli</emphasis>
+<bibCitation id="5E65BB4EFFF0FFC47465599DDA110CD8" box="[892,1909,2457,2499]" pageId="3" pageNumber="10">Zimmermann, Inst. Bot., Buitenzorg, Bull. 7: 12, 1900.</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</paragraph>
+<paragraph id="8BF0B322FFF0FFC4752659D9DBB80CE4" blockId="3.[511,1909,2399,2560]" box="[575,1756,2522,2559]" pageId="3" pageNumber="10">
+<treatmentCitation id="0AEE9533FFF0FFC4752659D9DBB80CE4" author="Karny" box="[575,1756,2522,2559]" page="325" pageId="3" pageNumber="10" year="1923">
+<taxonomicName id="4C4FC8A1FFF0FFC4752659D9D8580CE4" authority="(Zimmermann) Karny" authorityName="Karny" baseAuthorityName="Zimmermann" baseAuthorityYear="1900" box="[575,1340,2522,2559]" class="Insecta" family="Phlaeothripidae" genus="Gynaikothrips" kingdom="Animalia" order="Thysanoptera" pageId="3" pageNumber="10" phylum="Arthropoda" rank="species" species="uzeli">
+<emphasis id="B93B6F30FFF0FFC4752659D9DEF10CE5" box="[575,917,2522,2559]" italics="true" pageId="3" pageNumber="10">Gynaikothrips uzeli</emphasis>
+(Zimmermann) 
+<bibCitation id="5E65BB4EFFF0FFC473C859D9DBB30CE4" box="[1233,1751,2522,2558]" pageId="3" pageNumber="10">
+Karny, Treubia 
+<emphasis id="B93B6F30FFF0FFC472EF59D9DB730CE4" bold="true" box="[1526,1559,2522,2558]" pageId="3" pageNumber="10">3:</emphasis>
+325, 1923
+</bibCitation>
+</taxonomicName>
+.
+</treatmentCitation>
+</paragraph>
+</treatmentCitationGroup>
+</subSubSection>
+<materialsCitation id="3B27B97FFFF7FFC37657516AD88E04EF" ID-GBIF-Occurrence="3865849301" collectedFrom="on leaves of Ficus species and abundant in rolled and crumpled new leaves" collectingDate="1936-05-24" collectorName="O. H. Swezey" country="Guam" location="Orote Point" pageId="4" pageNumber="11" specimenCount="19" specimenCount-female="13" specimenCount-male="6">
+<subSubSection id="C355E0A9FFF7FFC37657516ADF4004D8" pageId="4" pageNumber="11" type="materials_examined">
+<paragraph id="8BF0B322FFF7FFC37657516ADF4004D8" blockId="4.[272,1664,357,553]" pageId="4" pageNumber="11">
+<collectingMunicipality id="6B942958FFF7FFC37657516ADC920494" box="[334,502,361,398]" pageId="4" pageNumber="11">Orote Pt.</collectingMunicipality>
+, 
+<date id="FFF195E2FFF7FFC3750D516ADFFB0494" box="[532,671,361,398]" pageId="4" pageNumber="11" value="1924-05">
+<collectingDate id="EFB56C0AFFF7FFC3750D516ADFFB0494" box="[532,671,361,398]" pageId="4" pageNumber="11" value="1924-05">May 24</collectingDate>
+</date>
+, on leaves of 
+<taxonomicName id="4C4FC8A1FFF7FFC374805169DE920494" box="[921,1014,362,398]" class="Magnoliopsida" family="Moraceae" genus="Ficus" higherTaxonomySource="GBIF" kingdom="Plantae" order="Rosales" pageId="4" pageNumber="11" phylum="Magnoliopsida" rank="genus">
+<emphasis id="B93B6F30FFF7FFC374805169DE920494" box="[921,1014,362,398]" italics="true" pageId="4" pageNumber="11">
+<location id="8E90E5F9FFF7FFC374805169DE920494" LSID="urn:lsid:plazi:treatment:03E60234FFF0FFC376E65961DEEE0732:8E90E5F9FFF7FFC374805169DE920494" box="[921,1014,362,398]" municipality="Orote Pt." name="Ficus" pageId="4" pageNumber="11">Ficus</location>
+</emphasis>
+</taxonomicName>
+species, thirteen 
+<specimenCount id="9D4978ABFFF7FFC3722C516AD8DF0494" box="[1333,1467,361,398]" pageId="4" pageNumber="11" type="female">females</specimenCount>
+, 
+<specimenCount id="9D4978ABFFF7FFC372CA516ADB1E0494" box="[1491,1658,361,398]" pageId="4" pageNumber="11" type="male">six males</specimenCount>
+, 
+<collectorName id="26BAD6F4FFF7FFC37609519EDCF604D8" box="[272,402,413,450]" pageId="4" pageNumber="11">Swezey</collectorName>
+(5470).
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFF7FFC3765451D3DEEE0732" pageId="4" pageNumber="11" type="biology_ecology">
+<paragraph id="8BF0B322FFF7FFC3765451D3DEEE0732" blockId="4.[272,1664,357,553]" pageId="4" pageNumber="11">
+The 
+<taxonomicName id="4C4FC8A1FFF7FFC376BB51D3DF6504EF" authorityName="Linnaeus" authorityYear="1758" box="[418,513,464,501]" class="Insecta" family="Thripidae" genus="Thrips" kingdom="Animalia" order="Thysanoptera" pageId="4" pageNumber="9" phylum="Arthropoda" rank="genus">
+<emphasis id="B93B6F30FFF7FFC376BB51D3DF6504EF" box="[418,513,464,501]" italics="true" pageId="4" pageNumber="11">thrips</emphasis>
+</taxonomicName>
+were very abundant in rolled and crumpled new leaves, causing an abnormal growth, or even death.
+</paragraph>
+</subSubSection>
+</materialsCitation>
+</treatment>
+</document>

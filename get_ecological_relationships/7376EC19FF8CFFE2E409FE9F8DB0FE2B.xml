@@ -1,0 +1,109 @@
+<document id="8B3F2A18F86F5BEEE0A373E4EFFC2835" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8CFFE2E409FE9F8DB0FE2B" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Asympiesiella india Girault" docType="treatment" docVersion="17" lastPageNumber="217" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="217" updateTime="1663770129699" updateUser="annettekang">
+<mods:mods id="7E95C500E09DAEC0D2F5BE798714A2D2" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="F7B3434A173335D7F3C770C462B143E8">
+<mods:title id="24CA5E5B7E001314750B5BEAEAB29724">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="B8A4ED3CED83492307AF2C8932C9DEE4" type="personal">
+<mods:role id="9F8FB1C99B135305165AD296DAFCB41B">
+<mods:roleTerm id="F52B93DD29A5898AFE061C66305868E2">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="FA80D32FB85DAF1F57DF9F3DA21D80B2">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="95FF55DFB656F955963E390217FA445E">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="B95B3EE1FF689710ECBF8FECF6295348">text</mods:typeOfResource>
+<mods:relatedItem id="E34264D5C9C40148B9A1F640A4811670" type="host">
+<mods:originInfo id="D57116E838A85BC36D12018B3DCA254F">
+<mods:dateIssued id="81BDDADBFC9ECA38390BF5D5A4E7FF9B">1946</mods:dateIssued>
+<mods:dateOther id="22EA745045E6E5B7AACEDEC29DB0FA75" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="708092D9721B6D58AD4AD1B2AF7EE28C">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="DEF7F9994A28E47F59D75D2E87CBA03F">
+<mods:placeTerm id="E7DFD0535A0D10386B219B4D4B6E1DD0">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="67E41335E8282C811C32B5E9C546CB1A">
+<mods:title id="3AD7C3D455EF417DBBEBECADA96E5D7E">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="60109312404937E5435F566F3440D5DC">
+<mods:extent id="1BDC38E78A042B43CBE5A85944C569D5" unit="page">
+<mods:start id="BCC99448970EFFB3D7D246CDB256A8BA">211</mods:start>
+<mods:end id="E601FAAA636B7040FF22C511059017CA">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="8207D3D1CD18A22BB798C226ECE28CB7">book chapter</mods:classification>
+<mods:identifier id="CB89BBF05C45C8929E14C260BD49C091" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="2C15EB5211AA8B54DD173E94100EF084" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="0AE28FF946D4B33E0AC9A3031696E516" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8CFFE2E409FE9F8DB0FE2B" ID-DOI="http://doi.org/10.5281/zenodo.5212023" ID-GBIF-Taxon="187737440" ID-Zenodo-Dep="5212023" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E409FE9F8DB0FE2B" httpUri="http://treatment.plazi.org/id/7376EC19FF8CFFE2E409FE9F8DB0FE2B" lastPageNumber="217" pageId="6" pageNumber="217">
+<subSubSection id="B3C50E84FF8CFFE2E409FE9F8C01FE8C" box="[266,863,307,350]" pageId="6" pageNumber="217" type="nomenclature">
+<paragraph id="FB605D0FFF8CFFE2E409FE9F8C01FE8C" blockId="6.[266,1664,307,505]" box="[266,863,307,350]" pageId="6" pageNumber="217">
+<heading id="A028EA63FF8CFFE2E409FE9F8C01FE8C" box="[266,863,307,350]" fontSize="8" level="2" pageId="6" pageNumber="217" reason="4">
+<emphasis id="C9AB811DFF8CFFE2E409FE9F8E62FE8C" bold="true" box="[266,316,307,350]" pageId="6" pageNumber="217">43.</emphasis>
+<taxonomicName id="3CDF268CFF8CFFE2E45CFE9F8C06FE8C" authority="Girault" box="[351,856,307,350]" class="Insecta" family="Aphelinidae" genus="Asympiesiella" kingdom="Animalia" order="Hymenoptera" pageId="6" pageNumber="217" phylum="Arthropoda" rank="species" species="india">
+<emphasis id="C9AB811DFF8CFFE2E45CFE9F8D9AFE8C" bold="true" box="[351,708,307,350]" pageId="6" pageNumber="217">Asympiesiella india</emphasis>
+<author id="2362B5EAFF8CFFE2E7D6FE9F8C06FE8C" box="[725,856,307,350]" pageId="6" pageNumber="217">Girault</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8CFFE2E671FE9F8A0AFE8C" box="[882,1364,307,350]" pageId="6" pageNumber="217" type="reference_group">
+<paragraph id="FB605D0FFF8CFFE2E671FE9F8A0AFE8C" blockId="6.[266,1664,307,505]" box="[882,1364,307,350]" pageId="6" pageNumber="217">
+<treatmentCitationGroup id="DBCF7A21FF8CFFE2E671FE9F8A0AFE8C" box="[882,1364,307,350]" pageId="6" pageNumber="217">
+<treatmentCitation id="7A7E7B1EFF8CFFE2E671FE9F8A0AFE8C" author="Girault" box="[882,1364,307,350]" page="341" pageId="6" pageNumber="217" year="1916">
+<bibCitation id="2EF55563FF8CFFE2E671FE9F8A0AFE8C" author="Girault" box="[882,1364,307,350]" journalOrPublisher="Canad. Ent." pageId="6" pageNumber="217" pagination="341" part="48" refId="ref2682" type="journal article" year="1916">
+<journalOrPublisher id="211E57C3FF8CFFE2E671FE9F8B17FE8C" box="[882,1097,307,350]" pageId="6" pageNumber="217">Canad. Ent.</journalOrPublisher>
+<part id="8F7BF792FF8CFFE2E158FE9F8B21FE8C" box="[1115,1151,307,350]" pageId="6" pageNumber="217" type="volume">48</part>
+: 
+<pagination id="C216A3FBFF8CFFE2E1A1FE9F8BBFFE8C" box="[1186,1249,307,350]" pageId="6" pageNumber="217" type="pagination">341</pagination>
+, 
+<year id="8F771C5CFF8CFFE2E1FFFE9F8A11FE8C" box="[1276,1359,307,350]" pageId="6" pageNumber="217">1916</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8CFFE2E448FEC48DB0FE2B" pageId="6" pageNumber="217" type="materials_examined">
+<paragraph id="FB605D0FFF8CFFE2E448FEC48DB0FE2B" blockId="6.[266,1664,307,505]" pageId="6" pageNumber="217">
+<materialsCitation id="4BB75752FF8CFFE2E448FEC48A28FE43" ID-GBIF-Occurrence="3901040371" box="[331,1398,360,401]" collectedFrom="ex leafminer in Intsia bijuga" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="6" pageNumber="217">
+<collectingMunicipality id="1B04C775FF8CFFE2E448FEC48EA0FE43" box="[331,510,360,401]" pageId="6" pageNumber="217">Barrigada</collectingMunicipality>
+, 
+<date id="8F617BCFFF8CFFE2E714FEC48DC1FE43" box="[535,671,360,401]" pageId="6" pageNumber="217" value="1922-07">
+<collectingDate id="9F258227FF8CFFE2E714FEC48DC1FE43" box="[535,671,360,401]" pageId="6" pageNumber="217" value="1922-07">July 22</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8CFFE2E7BBFEC48DBFFE43" box="[696,737,360,401]" pageId="6" pageNumber="217" type="generic">ex</specimenCount>
+leafminer in 
+<taxonomicName id="3CDF268CFF8CFFE2E6DCFEC48A31FE43" authority=", Swezey" authorityName="Swezey" box="[991,1391,360,401]" class="Insecta" family="Aphelinidae" genus="Jntsia" kingdom="Animalia" order="Hymenoptera" pageId="6" pageNumber="217" phylum="Arthropoda" rank="species" species="bijuga">
+<emphasis id="C9AB811DFF8CFFE2E6DCFEC48B90FE43" box="[991,1230,360,401]" italics="true" pageId="6" pageNumber="217">
+<location id="FE000BD4FF8CFFE2E6DCFEC48B18FE43" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E409FE9F8DB0FE2B:FE000BD4FF8CFFE2E6DCFEC48B18FE43" box="[991,1094,360,401]" municipality="Barrigada" name="Jntsia" pageId="6" pageNumber="217">Jntsia</location>
+bijuga,
+</emphasis>
+<collectorName id="562A38D9FF8CFFE2E1E0FEC48A31FE43" box="[1251,1391,360,401]" pageId="6" pageNumber="217">Swezey</collectorName>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8CFFE2E089FEC48DB0FE2B" ID-GBIF-Occurrence="3901040380" collectedFrom="ex leafroller on undetermined tree" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="6" pageNumber="217" specimenCount="2">
+<collectingMunicipality id="1B04C775FF8CFFE2E089FEC4894CFE43" box="[1418,1554,360,401]" pageId="6" pageNumber="217">Dededo</collectingMunicipality>
+, 
+<date id="8F617BCFFF8CFFE2E328FEC48E69FE17" pageId="6" pageNumber="217" value="2011-08">
+<collectingDate id="9F258227FF8CFFE2E328FEC48E69FE17" pageId="6" pageNumber="217" value="2011-08">Aug. 11</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8CFFE2E453FE368E27FE17" box="[336,377,410,453]" pageId="6" pageNumber="217" type="generic">ex</specimenCount>
+leafroller on undetermined tree, 
+<collectorName id="562A38D9FF8CFFE2E6D7FE368B05FE17" box="[980,1115,410,453]" pageId="6" pageNumber="217">Swezey</collectorName>
+. 
+<location id="FE000BD4FF8CFFE2E17FFE368B92FE17" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E409FE9F8DB0FE2B:FE000BD4FF8CFFE2E17FFE368B92FE17" box="[1148,1228,410,453]" country="United States of America" municipality="Dededo" name="Two" pageId="6" pageNumber="217">Two</location>
+<specimenCount id="EDD99686FF8CFFE2E1DDFE368ACEFE17" box="[1246,1424,410,453]" pageId="6" pageNumber="217" type="generic">specimens</specimenCount>
+, one retained in 
+<collectingCountry id="83C81D9FFF8CFFE2E438FE638EC9FE2B" box="[315,407,463,505]" name="United States of America" pageId="6" pageNumber="217">U. S.</collectingCountry>
+<location id="FE000BD4FF8CFFE2E4ABFE638DB7FE2B" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E409FE9F8DB0FE2B:FE000BD4FF8CFFE2E4ABFE638DB7FE2B" box="[424,745,463,505]" country="United States of America" municipality="Dededo" name="National Museum" pageId="6" pageNumber="217">National Museum</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

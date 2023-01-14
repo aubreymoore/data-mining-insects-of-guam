@@ -1,0 +1,82 @@
+<document id="72C22F4197D7A230BAF9602AE325FAF0" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFD051265E77A739FDD3F761" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Menectetorus tutuilae Zimmerman 1942, new combination" docType="treatment" docVersion="15" lastPageNumber="105" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="105" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="DC5360F531A4AE73E63B7538780FAE20" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="6AC6F0EBC07F4BDCEF814AAE5AC2C4AB">
+<mods:title id="8877A2A7CBF34CB4B192CE8EC1A7D49C">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="F1FF6308CBC8F1D3887D59013E01B829" type="personal">
+<mods:role id="9A515D32B3DB200CDF6F7F153A5D016A">
+<mods:roleTerm id="015B6515DCAB34473DDEDC6617B10DB9">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F6A02594B8FCF63EBA1CC1CCA75805BC">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="C46E62CB9E577616AE8C7DB3A933E779">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="EB9F8B00236435302E1140C4C6A35001">text</mods:typeOfResource>
+<mods:relatedItem id="EB04C32D3C46D6FDFB7D77F83C171A85" type="host">
+<mods:originInfo id="08F496404A8EBAB8B701D33F045E12DE">
+<mods:dateIssued id="B89C7075CB654B3C8BFA1654E215E9EF">1942</mods:dateIssued>
+<mods:dateOther id="00031A6F2BF6866BE8943F6F14BA525C" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="36E179E7915339CFB01785E5E059AC79">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="91C3F8230E41B674E7E330E34FD0F071">
+<mods:placeTerm id="30131089D6B64A2116654CE3C3209614">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="CF00B3F67DF8A0686A99D487EC4A11B8">
+<mods:title id="D6645FBD319B4A4249D0F7DDD6AC1E22">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="3013016F30D80F2110D7CB5D75DF7376">
+<mods:extent id="3D4902C374F556ADACBACE13028ABB7E" unit="page">
+<mods:start id="490B23579CB8EEA22EBD64C51CA68BE9">73</mods:start>
+<mods:end id="09BF1816B227AC80A6419E02442DEF45">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="1F4D426E4EFDEEF65AB4517BBA368DCD">book chapter</mods:classification>
+<mods:identifier id="FE8633BBF9A8CF48F6C2F30645DFD763" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="65AB1B8251A9E7185563402CA9A5A832" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="494CB165C7B8EB4868854529CEFFC1EA" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFD051265E77A739FDD3F761" ID-DOI="http://doi.org/10.5281/zenodo.5157308" ID-GBIF-Taxon="184097891" ID-Zenodo-Dep="5157308" LSID="urn:lsid:plazi:treatment:D6388709FFD051265E77A739FDD3F761" httpUri="http://treatment.plazi.org/id/D6388709FFD051265E77A739FDD3F761" lastPageNumber="105" pageId="32" pageNumber="105">
+<subSubSection id="168B6594FFD051265E77A739FB1BF71B" box="[300,1249,2147,2189]" pageId="32" pageNumber="105" type="nomenclature">
+<paragraph id="5E2E361FFFD051265E77A739FB1BF71B" blockId="32.[300,1693,2147,2295]" box="[300,1249,2147,2189]" pageId="32" pageNumber="105">
+<taxonomicName id="99914D9CFFD051265E77A739FC6AF71B" authority="(Marshall)" authorityName="Zimmerman" authorityYear="1942" baseAuthorityName="Marshall" box="[300,912,2147,2189]" class="Insecta" family="Curculionidae" genus="Menectetorus" kingdom="Animalia" order="Coleoptera" pageId="32" pageNumber="105" phylum="Arthropoda" rank="species" species="tutuilae" status="new combination">
+<emphasis id="6CE5EA0DFFD051265E77A739FD4CF71B" bold="true" box="[300,694,2147,2189]" pageId="32" pageNumber="105">Menectetorus tutuilae</emphasis>
+(Marshall)
+</taxonomicName>
+, 
+<taxonomicNameLabel id="77D65776FFD051265CFEA739FB26F71B" box="[933,1244,2147,2189]" pageId="32" pageNumber="105" rank="species">new combination</taxonomicNameLabel>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFD051265E37A7C3FDD3F761" pageId="32" pageNumber="105" type="reference_group">
+<paragraph id="5E2E361FFFD051265E37A7C3FDD3F761" blockId="32.[300,1693,2147,2295]" pageId="32" pageNumber="105">
+<bibCitation id="8BBB3E73FFD051265E37A7C3FDD3F761" author="Marshall" pageId="32" pageNumber="105" pagination="296" part="4" refId="ref21841" title="Insects of Samoa" type="book" year="1931">
+<treatmentCitationGroup id="7E811131FFD051265E37A7C3FDDEF761" pageId="32" pageNumber="105">
+<treatmentCitation id="DF30100EFFD051265E37A7C3FDDEF761" author="Marshall" page="296" pageId="32" pageNumber="105" year="1931">
+<taxonomicName id="99914D9CFFD051265E37A7C3FC57F755" box="[364,941,2201,2243]" pageId="32" pageNumber="105">
+<emphasis id="6CE5EA0DFFD051265E37A7C3FD04F755" box="[364,766,2201,2243]" italics="true" pageId="32" pageNumber="105">Chaetectetorus tutuilae</emphasis>
+<author id="862CDEFAFFD051265C55A7C3FC57F755" box="[782,941,2201,2243]" pageId="32" pageNumber="105">Marshall</author>
+</taxonomicName>
+, 
+<title id="2C95DD29FFD051265C98A7C3FB08F755" box="[963,1266,2201,2243]" pageId="32" pageNumber="105">
+Insects of 
+<collectingCountry id="2686768FFFD051265B25A7C3FB08F755" box="[1150,1266,2201,2243]" name="Samoa" pageId="32" pageNumber="105">Samoa</collectingCountry>
+</title>
+<part id="2A359C82FFD051265BA4A7C3FAEDF755" box="[1279,1303,2201,2243]" pageId="32" pageNumber="105" type="volume">4</part>
+(
+<part id="2A359C82FFD051265A7FA7C3FAC2F755" box="[1316,1336,2201,2243]" pageId="32" pageNumber="105" type="issue">5</part>
+): 
+<heading id="05668173FFD051265A36A7C3F967F755" box="[1389,1693,2201,2243]" centered="true" fontSize="8" level="2" pageId="32" pageNumber="105" reason="4">
+<pagination id="6758C8EBFFD051265A36A7C3FA54F755" box="[1389,1454,2201,2243]" pageId="32" pageNumber="105" type="pageRange">296</pagination>
+, fig. 15, 
+<year id="2A39774CFFD05126591DA7C3F962F755" box="[1606,1688,2201,2243]" pageId="32" pageNumber="105">1931</year>
+.
+</heading>
+<collectingCountry id="2686768FFFD051265EF7A796FDDEF761" box="[428,548,2252,2295]" name="Samoa" pageId="32" pageNumber="105">Samoa</collectingCountry>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

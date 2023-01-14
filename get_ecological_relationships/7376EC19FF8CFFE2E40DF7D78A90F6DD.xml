@@ -1,0 +1,81 @@
+<document id="D9A51A8F2B5EA9D1E575233B46233B88" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8CFFE2E40DF7D78A90F6DD" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Euderus" docType="treatment" docVersion="14" lastPageNumber="217" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="217" updateTime="1664203411617" updateUser="annettekang">
+<mods:mods id="B0A496539B0DA47C2872E860E86B9A1B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="391FFA5E116DCD94096529F69866D140">
+<mods:title id="15AD4A8DDF5C03668BACA8F6841530A6">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="90C3F488102D1DAD45D060276CDECC63" type="personal">
+<mods:role id="ECD2E1F148D8DBE37DB91A121D494753">
+<mods:roleTerm id="CA61DDC23A5B6D598428843B3ADD4BE0">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A2650D45373C4940CDD9CDB1D1347FEF">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="3525126BC85B03D70EB2C845C392EBD1">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="B84FAA75B1966D44E9DD5512EA911F67">text</mods:typeOfResource>
+<mods:relatedItem id="81294129B2D98DFE9FB39E2503BDDBE1" type="host">
+<mods:originInfo id="E1F1FE16769C03B380CC4061C11FABC7">
+<mods:dateIssued id="F3DF46918AFED902D3BC11FE37259E28">1946</mods:dateIssued>
+<mods:dateOther id="115F8C78F6F13197491FA3359F594D31" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="D66586E4F91C0B6B1024EFFCE6D57379">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="970A9F4EC27FE5331BAAFAE6C77496C5">
+<mods:placeTerm id="5EBF72E08AE7514A2E9C327C3B19BA23">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="B4CAC4E831CE5BA7D42693BAF09E9C80">
+<mods:title id="94EB24A8BA2D30947EEB75760A3EC42F">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="4544D605545DA14FA85DC9DBD5837B0A">
+<mods:extent id="F4EA41BD5513FABEEFD16C485D1CEA06" unit="page">
+<mods:start id="58C54F376D0521D6E701C32FAD16B67F">211</mods:start>
+<mods:end id="CE9B8F0CB0D91082700896D16261DE90">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E86E0AD9855A9CF64F1A7EF4A69E1529">book chapter</mods:classification>
+<mods:identifier id="A485E40D501DECE3D86DB2DF099C89CD" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="00D1A89EE11214F171295844C203DB26" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="0A8269FEE5A62C5CF04DA6F0BF12EED3" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8CFFE2E40DF7D78A90F6DD" ID-DOI="http://doi.org/10.5281/zenodo.5208040" ID-GBIF-Taxon="187737415" ID-Zenodo-Dep="5208040" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40DF7D78A90F6DD" httpUri="http://treatment.plazi.org/id/7376EC19FF8CFFE2E40DF7D78A90F6DD" lastPageNumber="217" pageId="6" pageNumber="217">
+<subSubSection id="B3C50E84FF8CFFE2E40DF7D78DD3F774" box="[270,653,2171,2214]" pageId="6" pageNumber="217" type="nomenclature">
+<paragraph id="FB605D0FFF8CFFE2E40DF7D78DD3F774" blockId="6.[270,1667,2171,2319]" box="[270,653,2171,2214]" pageId="6" pageNumber="217">
+<heading id="A028EA63FF8CFFE2E40DF7D78DD3F774" box="[270,653,2171,2214]" fontSize="8" level="2" pageId="6" pageNumber="217" reason="4">
+<emphasis id="C9AB811DFF8CFFE2E40DF7D78EA6F774" bold="true" box="[270,504,2171,2214]" pageId="6" pageNumber="217">
+50. 
+<taxonomicName id="3CDF268CFF8CFFE2E462F7D78EA6F774" authority="Haliday, 1844" box="[353,504,2171,2214]" class="Insecta" family="Eulophidae" genus="Euderus" kingdom="Animalia" order="Hymenoptera" pageId="6" pageNumber="217" phylum="Arthropoda" rank="genus">Euderus</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8CFFE2E44EF7038A90F6DD" pageId="6" pageNumber="217" type="materials_examined">
+<paragraph id="FB605D0FFF8CFFE2E44EF7038A90F6DD" blockId="6.[270,1667,2171,2319]" pageId="6" pageNumber="217">
+<materialsCitation id="4BB75752FF8CFFE2E44EF7038B9CF70B" ID-GBIF-Occurrence="3901040359" box="[333,1218,2223,2265]" collectedFrom="swept from ferns" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="6" pageNumber="217">
+<location id="FE000BD4FF8CFFE2E44EF7038D59F70B" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40DF7D78A90F6DD:FE000BD4FF8CFFE2E44EF7038D59F70B" box="[333,519,2223,2265]" name="Upi Trail" pageId="6" pageNumber="217">Upi Trail</location>
+, 
+<date id="8F617BCFFF8CFFE2E725F7038DFDF70B" box="[550,675,2223,2265]" pageId="6" pageNumber="217">
+<collectingDate id="9F258227FF8CFFE2E725F7038DFDF70B" box="[550,675,2223,2265]" pageId="6" pageNumber="217">May 5</collectingDate>
+</date>
+, swept from ferns, 
+<collectorName id="562A38D9FF8CFFE2E12EF7038BE5F70B" box="[1069,1211,2223,2265]" pageId="6" pageNumber="217">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8CFFE2E1D8F7038A97F6DD" ID-GBIF-Occurrence="3901040348" collectingDate="1936-07-15" collectorName="O. H. Swezey" country="Guam" location="Sumay Road" pageId="6" pageNumber="217" specimenCount="3">
+<collectingMunicipality id="1B04C775FF8CFFE2E1D8F7038A91F70B" box="[1243,1487,2223,2265]" pageId="6" pageNumber="217">Sumay Road</collectingMunicipality>
+, 
+<date id="8F617BCFFF8CFFE2E0EEF7038922F70B" box="[1517,1660,2223,2265]" pageId="6" pageNumber="217" value="2015-07">
+<collectingDate id="9F258227FF8CFFE2E0EEF7038922F70B" box="[1517,1660,2223,2265]" pageId="6" pageNumber="217" value="2015-07">July 15</collectingDate>
+</date>
+, 
+<collectorName id="562A38D9FF8CFFE2E412F7488EC7F6DD" box="[273,409,2276,2319]" pageId="6" pageNumber="217">Swezey</collectorName>
+. 
+<location id="FE000BD4FF8CFFE2E4B8F7488D55F6DD" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40DF7D78A90F6DD:FE000BD4FF8CFFE2E4B8F7488D55F6DD" box="[443,523,2276,2319]" country="United States of America" municipality="Sumay Road" name="Two" pageId="6" pageNumber="217">Two</location>
+<specimenCount id="EDD99686FF8CFFE2E71EF7488D88F6DD" box="[541,726,2276,2319]" pageId="6" pageNumber="217" type="generic">specimens</specimenCount>
+, one retained in 
+<collectingCountry id="83C81D9FFF8CFFE2E113F7488B30F6DD" box="[1040,1134,2276,2319]" name="United States of America" pageId="6" pageNumber="217">U. S.</collectingCountry>
+<location id="FE000BD4FF8CFFE2E183F7488A97F6DD" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40DF7D78A90F6DD:FE000BD4FF8CFFE2E183F7488A97F6DD" box="[1152,1481,2276,2319]" country="United States of America" municipality="Sumay Road" name="National Museum" pageId="6" pageNumber="217">National Museum</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

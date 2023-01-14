@@ -1,0 +1,125 @@
+<document id="29B08B10A6A69830234B7311809B281A" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFAF1B18FEFDF8DD04614EFF" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Figulus lilliputanus Westwood 1855" docType="treatment" docVersion="19" lastPageNumber="167" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="167" updateTime="1671385820913" updateUser="annettekang">
+<mods:mods id="35D1A8E999D1EE5F1D480FDE0F7BE6D4" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="954A4FA8C777A0499F7BEFAC7E0DCA07">
+<mods:title id="6FC55D2C19237BD3BB6439CC92054286">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="FF9CB2153B65047AE3B7EB42BE3013A1" type="personal">
+<mods:role id="B2AA9A5558BFA70C815264FAB99A154E">
+<mods:roleTerm id="88C3F4E8FD3094CC874368CEAD6FC0ED">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="404BA0672E986335FA636CBE56E1F09A">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="CB76EF685A622CFDAF5EFCF5129B8C2A">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="7B238CF89521380D580A9E6627AB5A4A">text</mods:typeOfResource>
+<mods:relatedItem id="466B4690CD1F138A57634537CFDCCF59" type="host">
+<mods:originInfo id="984DA658FCFFB82CB9AFFB316BE57F05">
+<mods:dateIssued id="171225A21FF474731C81C3F109EFC8AC">1942</mods:dateIssued>
+<mods:dateOther id="EB5404D6A536558248A42599E5557210" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="26BE835564A84CACBE2EFE2ECE9F26F1">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="0CF14708A2E288FE793D76F07B173F87">
+<mods:placeTerm id="2B2D408987155B48C425F8529386C2F2">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5D9E3E39816F82780208FA58F9E25620">
+<mods:title id="1B73AD9D8503ED51FB1E6E962614AAC3">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="A51ABFDFA456D5C15A334A03AA0C0D4C">
+<mods:extent id="FA4E434E940B9961B918665AE5D3E408" unit="page">
+<mods:start id="CFCB092AD362D9F2D00B8BD2B4544CDB">150</mods:start>
+<mods:end id="16DA9C32BE763FDA1A55F54A61F98A30">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="0B0561A69A70AFE788A80A458E739B13">book chapter</mods:classification>
+<mods:identifier id="24A9FBC3C024E4EAA7F25B54B3342DA1" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="C134E9EE65BE24F3F9B726BAE870162E" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="CC41EFFF2C7E39301923CC772AC198D8" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFAF1B18FEFDF8DD04614EFF" ID-DOI="http://doi.org/10.5281/zenodo.5211648" ID-GBIF-Taxon="184415369" ID-Zenodo-Dep="5211648" LSID="urn:lsid:plazi:treatment:376B87E5FFAF1B18FEFDF8DD04614EFF" httpUri="http://treatment.plazi.org/id/376B87E5FFAF1B18FEFDF8DD04614EFF" lastPageNumber="167" pageId="17" pageNumber="167">
+<subSubSection id="F7D86578FFAF1B18FEFDF8DD04B641A2" box="[295,944,1896,1940]" pageId="17" pageNumber="167" type="nomenclature">
+<paragraph id="BF7D36F3FFAF1B18FEFDF8DD04B641A2" blockId="17.[295,1690,1896,2249]" box="[295,944,1896,1940]" pageId="17" pageNumber="167">
+<heading id="E435819FFFAF1B18FEFDF8DD04B641A2" box="[295,944,1896,1940]" centered="true" fontSize="8" level="2" pageId="17" pageNumber="167" reason="4">
+2. 
+<taxonomicName id="78C24D70FFAF1B18FEBFF8DD04AC41A2" authority="Westwood" authorityName="Westwood" authorityYear="1855" box="[357,938,1896,1940]" class="Insecta" family="Lucanidae" genus="Figulus" kingdom="Animalia" order="Coleoptera" pageId="17" pageNumber="167" phylum="Arthropoda" rank="species" species="lilliputanus">Figulus lilliputanus Westwood</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAF1B18FC1DF8DD025B41FE" pageId="17" pageNumber="167" type="reference_group">
+<paragraph id="BF7D36F3FFAF1B18FC1DF8DD025B41FE" blockId="17.[295,1690,1896,2249]" pageId="17" pageNumber="167">
+<bibCitation id="6AE83E9FFFAF1B18FC1DF8DD025B41FE" author="Westwood" journalOrPublisher="Ent. Soc. London, Trans." pageId="17" pageNumber="167" pagination="219" part="8" refId="ref9206" title="Coleopt. Catalog" type="book" year="1855">
+<treatmentCitationGroup id="9FD211DDFFAF1B18FC1DF8DD025E41FE" pageId="17" pageNumber="167">
+<treatmentCitation id="3E6310E2FFAF1B18FC1DF8DD052A41FE" author="Westwood" page="219" pageId="17" pageNumber="167" year="1855">
+<heading id="E435819FFFAF1B18FC1DF8DD019F41A2" box="[967,1689,1896,1940]" centered="true" fontSize="8" level="2" pageId="17" pageNumber="167" reason="4">
+<journalOrPublisher id="65033C3FFFAF1B18FC1DF8DD02AA41A2" box="[967,1452,1896,1940]" pageId="17" pageNumber="167">Ent. Soc. London, Trans.</journalOrPublisher>
+, 
+<pagination id="860BC807FFAF1B18FA13F8DD010F41A2" box="[1481,1545,1896,1940]" pageId="17" pageNumber="167" type="pageRange">219</pagination>
+, pl. 12,
+</heading>
+fig. 5, 
+<year id="CB6A77A0FFAF1B18FE01F829052A41FE" box="[475,556,1948,1992]" pageId="17" pageNumber="167">1855</year>
+</treatmentCitation>
+. 
+<treatmentCitation id="3E6310E2FFAF1B18FD96F829025E41FE" author="Van Roon" box="[588,1368,1948,1992]" page="52" pageId="17" pageNumber="167" year="1910">
+<author id="677FDE16FFAF1B18FD96F829040F41FE" box="[588,777,1948,1992]" pageId="17" pageNumber="167">Van Roon</author>
+, 
+<title id="CDC6DDC5FFAF1B18FCC5F829035741FE" box="[799,1105,1948,1992]" pageId="17" pageNumber="167">Coleopt. Catalog</title>
+. (
+<part id="CB669C6EFFAF1B18FBA2F829038A41FE" box="[1144,1164,1948,1992]" pageId="17" pageNumber="167" type="volume">8</part>
+): 
+<pagination id="860BC807FFAF1B18FB19F82903EB41FE" box="[1219,1261,1948,1992]" pageId="17" pageNumber="167" type="pageRange">52</pagination>
+, 
+<year id="CB6A77A0FFAF1B18FADFF829025E41FE" box="[1285,1368,1948,1992]" pageId="17" pageNumber="167">1910</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAF1B18FEBFF86703F24E18" pageId="17" pageNumber="167" type="materials_examined">
+<paragraph id="BF7D36F3FFAF1B18FEBFF86703F24E18" blockId="17.[295,1690,1896,2249]" pageId="17" pageNumber="167">
+<materialsCitation id="0FAA3CAEFFAF1B18FEBFF867028341CA" ID-GBIF-Occurrence="3994027560" box="[357,1413,2002,2044]" collectedFrom="in rotten Pandanus trunk" collectingDate="1936-05-04" collectorName="O. H. Swezey" country="Guam" location="Agana Swamp" pageId="17" pageNumber="167">
+<collectingMunicipality id="5F19AC89FFAF1B18FEBFF86706DF41CA" box="[357,473,2002,2044]" pageId="17" pageNumber="167">Agana</collectingMunicipality>
+<location id="BA1D6028FFAF1B18FE30F867056841CA" LSID="urn:lsid:plazi:treatment:376B87E5FFAF1B18FEFDF8DD04614EFF:BA1D6028FFAF1B18FE30F867056841CA" box="[490,622,2002,2044]" municipality="Agana" name="Swamp" pageId="17" pageNumber="167">Swamp</location>
+, 
+<date id="CB7C1033FFAF1B18FD52F86705FA41CA" box="[648,764,2002,2044]" pageId="17" pageNumber="167">
+<collectingDate id="DB38E9DBFFAF1B18FD52F86705FA41CA" box="[648,764,2002,2044]" pageId="17" pageNumber="167">May 4</collectingDate>
+</date>
+, in rotten 
+<taxonomicName id="78C24D70FFAF1B18FC64F867036A41CA" authorityName=", Swezey" box="[958,1132,2002,2044]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="17" pageNumber="167" phylum="Tracheophyta" rank="genus">
+<emphasis id="8DB6EAE1FFAF1B18FC64F867036A41CA" box="[958,1132,2002,2044]" italics="true" pageId="17" pageNumber="167">
+<location id="BA1D6028FFAF1B18FC64F867036A41CA" LSID="urn:lsid:plazi:treatment:376B87E5FFAF1B18FEFDF8DD04614EFF:BA1D6028FFAF1B18FC64F867036A41CA" box="[958,1132,2002,2044]" municipality="Agana" name="Pandanus" pageId="17" pageNumber="167">Pandanus</location>
+</emphasis>
+</taxonomicName>
+trunk, 
+<collectorName id="12375325FFAF1B18FB23F867028341CA" box="[1273,1413,2002,2044]" pageId="17" pageNumber="167">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="0FAA3CAEFFAF1B18FA47F86703E94E18" ID-GBIF-Occurrence="3994027540" collectedFrom="in rotten breadfruit trunk" collectingDate="1936-10-18" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="17" pageNumber="167" specimenCount="3">
+<location id="BA1D6028FFAF1B18FA47F86702F041CA" LSID="urn:lsid:plazi:treatment:376B87E5FFAF1B18FEFDF8DD04614EFF:BA1D6028FFAF1B18FA47F86702F041CA" box="[1437,1526,2002,2044]" name="Yigo" pageId="17" pageNumber="167">Yigo</location>
+, 
+<date id="CB7C1033FFAF1B18F9D4F867019441CA" box="[1550,1682,2002,2044]" pageId="17" pageNumber="167" value="2018-10">
+<collectingDate id="DB38E9DBFFAF1B18F9D4F867019441CA" box="[1550,1682,2002,2044]" pageId="17" pageNumber="167" value="2018-10">Oct. 18</collectingDate>
+</date>
+, in rotten breadfruit trunk, 
+<collectorName id="12375325FFAF1B18FCC3F7B704994E18" box="[793,927,2050,2094]" pageId="17" pageNumber="167">Swezey</collectorName>
+. 
+<location id="BA1D6028FFAF1B18FC18F7B7032D4E18" LSID="urn:lsid:plazi:treatment:376B87E5FFAF1B18FEFDF8DD04614EFF:BA1D6028FFAF1B18FC18F7B7032D4E18" box="[962,1067,2050,2094]" name="Three" pageId="17" pageNumber="167">Three</location>
+<specimenCount id="A9C4FD7AFFAF1B18FBE6F7B703E94E18" box="[1084,1263,2050,2094]" pageId="17" pageNumber="167" type="generic">specimens</specimenCount>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAF1B18FEBCF78204614EFF" pageId="17" pageNumber="167" type="discussion">
+<paragraph id="BF7D36F3FFAF1B18FEBCF78204614EFF" blockId="17.[295,1690,1896,2249]" pageId="17" pageNumber="167">
+This very small species was described from 
+<collectingCountry id="C7D57663FFAF1B18FB4FF782023B4E54" box="[1173,1341,2103,2146]" name="Australia" pageId="17" pageNumber="167">Australia</collectingCountry>
+. Our 
+<collectingCountry id="C7D57663FFAF1B18FA66F78201224E54" box="[1468,1572,2103,2146]" name="Guam" pageId="17" pageNumber="167">Guam</collectingCountry>
+specimens were taken in similar locations to 
+<emphasis id="8DB6EAE1FFAF1B18FC2BF7DC03F24EA3" box="[1009,1268,2153,2197]" italics="true" pageId="17" pageNumber="167">F. integricoll-is</emphasis>
+Thomson. Determined by E. C. Zimmerman, Honolulu.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

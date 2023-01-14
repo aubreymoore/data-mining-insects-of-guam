@@ -1,0 +1,310 @@
+<document id="CBC100DF344E7361280FDFDC02B5C1FD" ID-DOI="http://doi.org/10.5281/zenodo.5164064" ID-GBIF-Dataset="8ddfacbb-c42b-4385-b70b-ea5bd759c377" ID-Zenodo-Dep="5164064" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628020838575" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03938792FFDDFFCCFED7FAE282AFF798" docLanguage="en" docName="InsectsOfGuamII.189.149-156.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Lamenia caliginea" docType="treatment" docVersion="12" lastPageNumber="155" masterDocId="FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9" masterDocTitle="Notes On Some Fulgoroidea Of Guam" masterLastPageNumber="156" masterPageNumber="149" pageNumber="155" updateTime="1671321319954" updateUser="annettekang">
+<mods:mods id="3CA2256FFFC9F4ADE6010E427F2C42B9" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="5F087F37B776D1C9C2AFDFE36146FA2A">
+<mods:title id="E66A9EBD5FA407498159B4F084C20C3E">Notes On Some Fulgoroidea Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="D084AB8C930FBFB1C914DC4930EBD2D4" type="personal">
+<mods:role id="599B2B6B397D7C2088C716B33F3F4B10">
+<mods:roleTerm id="5CD554EB115215D53A1C1B07039767A3">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C9ED7CD3BF303584DC9CE867A5E16BA6">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="1B7AE31DC2B1B4D0A87F7CDECDA67CFB">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="0399417FA3D0DD7526F138027810D04A">text</mods:typeOfResource>
+<mods:relatedItem id="D6B102B9E895A0E293CECA6E91262C24" type="host">
+<mods:originInfo id="9692F726E70CB2602B171436716403D1">
+<mods:dateIssued id="E241B04353A9E4F44A9FBDA6B0ED15D8">1946</mods:dateIssued>
+<mods:dateOther id="79196A3180984DA01EB6A6ECD9FD4D4A" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="72238F5F9EA071C4E6D584876462A04F">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="C2C16FE1F49438A2BD861F8F0C0EC99C">
+<mods:placeTerm id="3214BB22EE816E543514BA39051A05B4">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="60C7A8001A0165C808B70A2DC7C07022">
+<mods:title id="1F047C6BA17CAE7A9853137C2F31381C">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="E4DF53299C30E201E2F2F06D6E46A72E">
+<mods:extent id="E3709354954044B83A953B5CED68DFE1" unit="page">
+<mods:start id="CF5C8AA5003D540CFA0661587D434D86">149</mods:start>
+<mods:end id="379C00BAEDD064371BC39D4F6A09F982">156</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F5B666D837881E76AF34BCF3E36B5DDC">book chapter</mods:classification>
+<mods:identifier id="06B27CD985E60801CFB01996DD89D7E6" type="DOI">http://doi.org/10.5281/zenodo.5164064</mods:identifier>
+<mods:identifier id="E685E14A0836394EEF2260B4076F912C" type="GBIF-Dataset">8ddfacbb-c42b-4385-b70b-ea5bd759c377</mods:identifier>
+<mods:identifier id="59C607F371CF146CFC39E0F6B3FA9020" type="Zenodo-Dep">5164064</mods:identifier>
+</mods:mods>
+<treatment id="03938792FFDDFFCCFED7FAE282AFF798" ID-DOI="http://doi.org/10.5281/zenodo.5167472" ID-GBIF-Taxon="183925060" ID-Zenodo-Dep="5167472" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798" httpUri="http://treatment.plazi.org/id/03938792FFDDFFCCFED7FAE282AFF798" lastPageNumber="155" pageId="6" pageNumber="155">
+<subSubSection id="C320650FFFDDFFCCFED7FAE28530FAB1" box="[297,833,1327,1368]" pageId="6" pageNumber="155" type="nomenclature">
+<paragraph id="8B853684FFDDFFCCFED7FAE28530FAB1" blockId="6.[296,1694,1327,2161]" box="[297,833,1327,1368]" pageId="6" pageNumber="155">
+<heading id="D0CD81E8FFDDFFCCFED7FAE28530FAB1" box="[297,833,1327,1368]" fontSize="8" level="2" pageId="6" pageNumber="155" reason="4">
+1. 
+<taxonomicName id="4C3A4D07FFDDFFCCFE9BFAE2854AFAB1" authority="(Stal)" baseAuthorityName="Stal" baseAuthorityYear="1854" box="[357,827,1327,1368]" class="Insecta" family="Derbidae" genus="Lamenia" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="155" phylum="Arthropoda" rank="species" species="caliginea">Lamenia caliginea (Stal)</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDDFFCCFE9BFAA5802CFA26" pageId="6" pageNumber="155" type="reference_group">
+<paragraph id="8B853684FFDDFFCCFE9BFAA583DEFA7D" blockId="6.[296,1694,1327,2161]" box="[357,1455,1384,1428]" pageId="6" pageNumber="155">
+<treatmentCitationGroup id="AB2A11AAFFDDFFCCFE9BFAA583DBFA7D" box="[357,1450,1384,1428]" pageId="6" pageNumber="155">
+<treatmentCitation id="0A9B1095FFDDFFCCFE9BFAA583DEFA7D" author="Stal" box="[357,1455,1384,1428]" page="246" pageId="6" pageNumber="155" year="1854">
+<taxonomicName id="4C3A4D07FFDDFFCCFE9BFAA5848AFA7D" authority="Stal" authorityName="Stal" authorityYear="1854" box="[357,763,1384,1428]" class="Insecta" family="Delphacidae" genus="Delphax" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="155" phylum="Arthropoda" rank="species" species="caliginea">
+<emphasis id="B94EEA96FFDDFFCCFE9BFAA584D2FA7D" box="[357,675,1384,1428]" italics="true" pageId="6" pageNumber="155">Delphax caliginea</emphasis>
+<bibCitation id="5E103EE8FFDDFFCCFD4DFAA583DEFA7D" author="Stal" box="[691,1455,1384,1428]" pageId="6" pageNumber="155" pagination="246" title="{} fv. K. Vet. - Akad. Forh." type="book" year="1854">
+<author id="5387DE61FFDDFFCCFD4DFAA5848AFA7D" box="[691,763,1384,1428]" pageId="6" pageNumber="155">Stal</author>
+, 
+<title id="F93EDDB2FFDDFFCCFCEAFAA58295FA7D" box="[788,1252,1384,1428]" pageId="6" pageNumber="155">{}fv. K. Vet.-Akad. Forh.</title>
+, 
+<pagination id="B2F3C870FFDDFFCCFB04FAA5834DFA7D" box="[1274,1340,1384,1428]" pageId="6" pageNumber="155">246</pagination>
+, 
+<year id="FF9277D7FFDDFFCCFAA9FAA583DBFA7D" box="[1367,1450,1384,1428]" pageId="6" pageNumber="155">1854</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8B853684FFDDFFCCFE98FA68802CFA26" blockId="6.[296,1694,1327,2161]" box="[358,1629,1445,1487]" pageId="6" pageNumber="155">
+<treatmentCitationGroup id="AB2A11AAFFDDFFCCFE98FA68802CFA26" box="[358,1629,1445,1487]" pageId="6" pageNumber="155">
+<treatmentCitation id="0A9B1095FFDDFFCCFE98FA688029FA26" author="Stal" box="[358,1624,1445,1487]" page="277" pageId="6" pageNumber="155" year="1859">
+<taxonomicName id="4C3A4D07FFDDFFCCFE98FA688572FA26" authority="Stal, Freg. Eugenies Resa, Ins., Hem." authorityName="Stal, Freg. Eugenies Resa, Ins., Hem." box="[358,771,1445,1487]" class="Insecta" family="Derbidae" genus="Lamenia" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="155" phylum="Arthropoda" rank="species" species="caliginea">
+<emphasis id="B94EEA96FFDDFFCCFE98FA6884D8FA26" box="[358,681,1445,1487]" italics="true" pageId="6" pageNumber="155">Lamenia caliginea</emphasis>
+<bibCitation id="5E103EE8FFDDFFCCFD45FA688029FA26" author="Stal" box="[699,1624,1445,1487]" journalOrPublisher="Freg. Eugenies Resa, Ins., Hem." pageId="6" pageNumber="155" pagination="277" part="4" type="journal article" year="1859">
+<author id="5387DE61FFDDFFCCFD45FA688572FA26" box="[699,771,1445,1487]" pageId="6" pageNumber="155">Stal</author>
+, 
+<journalOrPublisher id="51FB3C48FFDDFFCCFCE2FA688318FA26" box="[796,1385,1445,1487]" pageId="6" pageNumber="155">Freg. Eugenies Resa, Ins., Hem.</journalOrPublisher>
+<part id="FF9E9C19FFDDFFCCFA84FA6883E9FA26" box="[1402,1432,1445,1487]" pageId="6" pageNumber="155" type="volume">4</part>
+: 
+<emphasis id="B94EEA96FFDDFFCCFA55FA688383FA26" box="[1451,1522,1445,1487]" italics="true" pageId="6" pageNumber="155">
+<pagination id="B2F3C870FFDDFFCCFA55FA68839DFA26" box="[1451,1516,1445,1487]" pageId="6" pageNumber="155" type="pagination">277</pagination>
+,
+</emphasis>
+<year id="FF9277D7FFDDFFCCF9F9FA688029FA26" box="[1543,1624,1445,1487]" pageId="6" pageNumber="155">1859</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDDFFCCFE99FA2C838CF884" pageId="6" pageNumber="155" type="description">
+<paragraph id="8B853684FFDDFFCCFE99FA2C838CF884" blockId="6.[296,1694,1327,2161]" pageId="6" pageNumber="155">
+<materialsCitation id="3B523CD9FFDDFFCCFE99FA2C8542F9E5" ID-GBIF-Occurrence="3914035304" box="[359,819,1505,1548]" collectingDate="1936-04-15" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="6" pageNumber="155">
+<location id="8EE5605FFFDDFFCCFE99FA2C8401F9E5" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCFE99FA2C8401F9E5" box="[359,624,1505,1548]" name="Ritidian Point" pageId="6" pageNumber="155">Ritidian Point</location>
+, 
+<date id="FF841044FFDDFFCCFD73FA2C855DF9E5" box="[653,812,1505,1548]" pageId="6" pageNumber="155" value="2015-04">
+<collectingDate id="EFC0E9ACFFDDFFCCFD73FA2C855DF9E5" box="[653,812,1505,1548]" pageId="6" pageNumber="155" value="2015-04">April 15</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFCB3FA2C8261F9E5" ID-GBIF-Occurrence="3914035363" box="[845,1040,1505,1548]" collectingDate="1936-04-16" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="6" pageNumber="155">
+16, 
+<collectingMunicipality id="6BE1ACFEFFDDFFCCFC6DFA2C8278F9E5" box="[915,1033,1505,1548]" pageId="6" pageNumber="155">Bryan</collectingMunicipality>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFBD6FA2C8033F9E5" ID-GBIF-Occurrence="3331825330" box="[1064,1602,1505,1548]" collectingDate="1936-04-20" collectorName="E. H. Bryan" country="Guam" location="Mount Alifan" pageId="6" pageNumber="155">
+Mt. Alifan, 
+<date id="FF841044FFDDFFCCFAF7FA2C83D9F9E5" box="[1289,1448,1505,1548]" pageId="6" pageNumber="155" value="2020-04">
+<collectingDate id="EFC0E9ACFFDDFFCCFAF7FA2C83D9F9E5" box="[1289,1448,1505,1548]" pageId="6" pageNumber="155" value="2020-04">April 20</collectingDate>
+</date>
+, 
+<location id="8EE5605FFFDDFFCCFA3BFA2C804AF9E5" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCFA3BFA2C804AF9E5" box="[1477,1595,1505,1548]" name="Bryan" pageId="6" pageNumber="155">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCF9A7FA2C84AEF9D6" ID-GBIF-Occurrence="3331825343" collectingDate="1936-05-05" collectorName="R. L. Usinger" country="Guam" location="Upi Trail" pageId="6" pageNumber="155">
+<location id="8EE5605FFFDDFFCCF9A7FA2C80EDF9E5" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCF9A7FA2C80EDF9E5" box="[1625,1692,1505,1548]" name="Upi" pageId="6" pageNumber="155">Upi</location>
+<location id="8EE5605FFFDDFFCCFED7F9D987F5F9D6" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCFED7F9D987F5F9D6" box="[297,388,1556,1599]" name="Trail" pageId="6" pageNumber="155">Trail</location>
+, 
+<date id="FF841044FFDDFFCCFE5BF9D98453F9D6" box="[421,546,1556,1599]" pageId="6" pageNumber="155">
+<collectingDate id="EFC0E9ACFFDDFFCCFE5BF9D98453F9D6" box="[421,546,1556,1599]" pageId="6" pageNumber="155">May 5</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDDFFCCFDBFF9D984A9F9D6" box="[577,728,1556,1599]" pageId="6" pageNumber="155">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFD09F9D980EAF9D6" ID-GBIF-Occurrence="3331825302" box="[759,1691,1556,1599]" collectedFrom="on Hernandia and grass" collectingDate="1936-05-20" collectorName="O. H. Swezey" country="Guam" location="Agat" pageId="6" pageNumber="155">
+<location id="8EE5605FFFDDFFCCFD09F9D98521F9D6" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCFD09F9D98521F9D6" box="[759,848,1556,1599]" name="Agat" pageId="6" pageNumber="155">Agat</location>
+, 
+<date id="FF841044FFDDFFCCFC8EF9D98273F9D6" box="[880,1026,1556,1599]" pageId="6" pageNumber="155" value="2020-05">
+<collectingDate id="EFC0E9ACFFDDFFCCFC8EF9D98273F9D6" box="[880,1026,1556,1599]" pageId="6" pageNumber="155" value="2020-05">May 20</collectingDate>
+</date>
+, on 
+<taxonomicName id="4C3A4D07FFDDFFCCFB9EF9D9836CF9D6" box="[1120,1309,1556,1599]" class="Magnoliopsida" family="Hernandiaceae" genus="Hernandia" kingdom="Plantae" order="Laurales" pageId="6" pageNumber="155" phylum="Tracheophyta" rank="genus">
+<emphasis id="B94EEA96FFDDFFCCFB9EF9D9836CF9D6" box="[1120,1309,1556,1599]" italics="true" pageId="6" pageNumber="155">
+<location id="8EE5605FFFDDFFCCFB9EF9D9836CF9D6" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCFB9EF9D9836CF9D6" box="[1120,1309,1556,1599]" name="Hernandia" pageId="6" pageNumber="155">Hernandia</location>
+</emphasis>
+</taxonomicName>
+and grass, 
+<collectorName id="26CF5352FFDDFFCCF9F9F9D980E5F9D6" box="[1543,1684,1556,1599]" pageId="6" pageNumber="155">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFED6F98A824DF998" ID-GBIF-Occurrence="3331825370" box="[296,1084,1607,1649]" collectedFrom="on Calophyllum" collectingDate="1936-05-31" collectorName="R. L. Usinger" country="Guam" location="Agat" pageId="6" pageNumber="155">
+<location id="8EE5605FFFDDFFCCFED6F98A87F0F998" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCFED6F98A87F0F998" box="[296,385,1607,1649]" name="Agat" pageId="6" pageNumber="155">Agat</location>
+, 
+<date id="FF841044FFDDFFCCFE5AF98A8446F998" box="[420,567,1607,1649]" pageId="6" pageNumber="155" value="1931-05">
+<collectingDate id="EFC0E9ACFFDDFFCCFE5AF98A8446F998" box="[420,567,1607,1649]" pageId="6" pageNumber="155" value="1931-05">May 31</collectingDate>
+</date>
+, on 
+<emphasis id="B94EEA96FFDDFFCCFD63F98A85F5F998" box="[669,900,1607,1649]" italics="true" pageId="6" pageNumber="155">
+<taxonomicName id="4C3A4D07FFDDFFCCFD63F98A850FF998" authority=", Usinger" authorityName="Usinger" box="[669,894,1607,1649]" class="Magnoliopsida" family="Calophyllaceae" genus="Calophyllum" kingdom="Plantae" order="Malpighiales" pageId="6" pageNumber="155" phylum="Tracheophyta" rank="genus">
+<location id="8EE5605FFFDDFFCCFD63F98A850FF998" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCFD63F98A850FF998" box="[669,894,1607,1649]" name="Calophyllum" pageId="6" pageNumber="155">Calophyllum</location>
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="26CF5352FFDDFFCCFC63F98A8244F998" box="[925,1077,1607,1649]" pageId="6" pageNumber="155">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFBA6F98A8420F94D" ID-GBIF-Occurrence="3331825312" collectedFrom="on mango" collectingDate="1936-05-19" collectorName="O. H. Swezey" country="Guam" location="Santa Rosa Peak" pageId="6" pageNumber="155">
+<location id="8EE5605FFFDDFFCCFBA6F98A83EEF998" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCFBA6F98A83EEF998" box="[1112,1439,1607,1649]" name="Santa Rosa Peak" pageId="6" pageNumber="155">Santa Rosa Peak</location>
+, 
+<date id="FF841044FFDDFFCCFA40F98A8023F998" box="[1470,1618,1607,1649]" pageId="6" pageNumber="155" value="2019-05">
+<collectingDate id="EFC0E9ACFFDDFFCCFA40F98A8023F998" box="[1470,1618,1607,1649]" pageId="6" pageNumber="155" value="2019-05">May 19</collectingDate>
+</date>
+, on mango, 
+<collectorName id="26CF5352FFDDFFCCFE43F9B4843BF94D" box="[445,586,1657,1700]" pageId="6" pageNumber="155">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFD99F9B48200F94D" ID-GBIF-Occurrence="3331825364" box="[615,1137,1657,1700]" collectingDate="1936-06-04" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="6" pageNumber="155">
+<location id="8EE5605FFFDDFFCCFD99F9B4856FF94D" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCFD99F9B4856FF94D" box="[615,798,1657,1700]" name="Machanao" pageId="6" pageNumber="155">Machanao</location>
+, 
+<date id="FF841044FFDDFFCCFCC7F9B485C7F94D" box="[825,950,1657,1700]" pageId="6" pageNumber="155">
+<collectingDate id="EFC0E9ACFFDDFFCCFCC7F9B485C7F94D" box="[825,950,1657,1700]" pageId="6" pageNumber="155">June 4</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDDFFCCFC2DF9B4821BF94D" box="[979,1130,1657,1700]" pageId="6" pageNumber="155">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFB79F9B480EAF94D" ID-GBIF-Occurrence="3331825345" box="[1159,1691,1657,1700]" collectingDate="1936-06-30" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="6" pageNumber="155">
+<location id="8EE5605FFFDDFFCCFB79F9B4834CF94D" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCFB79F9B4834CF94D" box="[1159,1341,1657,1700]" name="Machanao" pageId="6" pageNumber="155">Machanao</location>
+, 
+<date id="FF841044FFDDFFCCFAA6F9B4839AF94D" box="[1368,1515,1657,1700]" pageId="6" pageNumber="155" value="1930-06">
+<collectingDate id="EFC0E9ACFFDDFFCCFAA6F9B4839AF94D" box="[1368,1515,1657,1700]" pageId="6" pageNumber="155" value="1930-06">June 30</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDDFFCCF9F7F9B480E5F94D" box="[1545,1684,1657,1700]" pageId="6" pageNumber="155">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFED7F9668551F93E" ID-GBIF-Occurrence="3331825314" box="[297,800,1707,1751]" collectingDate="1936-06-17" collectorName="O. H. Swezey" country="Guam" location="Talofofo" pageId="6" pageNumber="155">
+<collectingMunicipality id="6BE1ACFEFFDDFFCCFED7F96687B0F93E" box="[297,449,1707,1751]" pageId="6" pageNumber="155">Talofofo</collectingMunicipality>
+, 
+<date id="FF841044FFDDFFCCFE22F966841EF93E" box="[476,623,1707,1751]" pageId="6" pageNumber="155" value="2017-06">
+<collectingDate id="EFC0E9ACFFDDFFCCFE22F966841EF93E" box="[476,623,1707,1751]" pageId="6" pageNumber="155" value="2017-06">June 17</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDDFFCCFD73F9668568F93E" box="[653,793,1707,1751]" pageId="6" pageNumber="155">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFCC8F9668331F93E" ID-GBIF-Occurrence="3331825375" box="[822,1344,1707,1751]" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="6" pageNumber="155">
+<location id="8EE5605FFFDDFFCCFCC8F9668598F93E" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCFCC8F9668598F93E" box="[822,1001,1707,1751]" name="Barrigada" pageId="6" pageNumber="155">Barrigada</location>
+, 
+<date id="FF841044FFDDFFCCFBFAF96682FEF93E" box="[1028,1167,1707,1751]" pageId="6" pageNumber="155" value="1922-07">
+<collectingDate id="EFC0E9ACFFDDFFCCFBFAF96682FEF93E" box="[1028,1167,1707,1751]" pageId="6" pageNumber="155" value="1922-07">July 22</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDDFFCCFB52F9668348F93E" box="[1196,1337,1707,1751]" pageId="6" pageNumber="155">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFAA8F96685DCF8E1" ID-GBIF-Occurrence="3331825357" collectedFrom="on Barringtonia racemosa" collectingDate="1936-07-25" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="6" pageNumber="155">
+<location id="8EE5605FFFDDFFCCFAA8F9668381F93E" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCFAA8F9668381F93E" box="[1366,1520,1707,1751]" name="Inarajan" pageId="6" pageNumber="155">Inarajan</location>
+, 
+<date id="FF841044FFDDFFCCF9F2F96680E4F93E" box="[1548,1685,1707,1751]" pageId="6" pageNumber="155" value="1925-07">
+<collectingDate id="EFC0E9ACFFDDFFCCF9F2F96680E4F93E" box="[1548,1685,1707,1751]" pageId="6" pageNumber="155" value="1925-07">July 25</collectingDate>
+</date>
+, on 
+<emphasis id="B94EEA96FFDDFFCCFE9AF9138575F8E1" box="[356,772,1758,1800]" italics="true" pageId="6" pageNumber="155">
+<taxonomicName id="4C3A4D07FFDDFFCCFE9AF913848FF8E1" authority=", Swezey" authorityName="Swezey" box="[356,766,1758,1800]" class="Magnoliopsida" family="Lecythidaceae" genus="Barringtonia" kingdom="Plantae" order="Ericales" pageId="6" pageNumber="155" phylum="Tracheophyta" rank="species" species="racemosa">
+<location id="8EE5605FFFDDFFCCFE9AF9138439F8E1" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCFE9AF9138439F8E1" box="[356,584,1758,1800]" name="Barringtonia" pageId="6" pageNumber="155">Barringtonia</location>
+racemosa
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="26CF5352FFDDFFCCFCE4F91385D7F8E1" box="[794,934,1758,1800]" pageId="6" pageNumber="155">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFC3FF9138331F8E1" ID-GBIF-Occurrence="3914035347" box="[961,1344,1758,1800]" collectingDate="1936-08-06" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="6" pageNumber="155">
+<location id="8EE5605FFFDDFFCCFC3FF9138209F8E1" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCFC3FF9138209F8E1" box="[961,1144,1758,1800]" name="Machanao" pageId="6" pageNumber="155">Machanao</location>
+, 
+<date id="FF841044FFDDFFCCFB6EF9138348F8E1" box="[1168,1337,1758,1800]" pageId="6" pageNumber="155">
+<collectingDate id="EFC0E9ACFFDDFFCCFB6EF9138348F8E1" box="[1168,1337,1758,1800]" pageId="6" pageNumber="155">August 6</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFAABF913839EF8E1" ID-GBIF-Occurrence="3914035305" box="[1365,1519,1758,1800]" collectingDate="1936-09-22" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="6" pageNumber="155">
+<date id="FF841044FFDDFFCCFAABF9138398F8E1" box="[1365,1513,1758,1800]" pageId="6" pageNumber="155" value="1922-09">
+<collectingDate id="EFC0E9ACFFDDFFCCFAABF9138398F8E1" box="[1365,1513,1758,1800]" pageId="6" pageNumber="155" value="1922-09">Sept. 22</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCF9FDF91387CFF8D2" ID-GBIF-Occurrence="3914035308" collectingDate="1936-11-25" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="6" pageNumber="155">
+Nov. 
+<emphasis id="B94EEA96FFDDFFCCF997F91380EDF8E1" box="[1641,1692,1758,1800]" italics="true" pageId="6" pageNumber="155">225,</emphasis>
+<collectorName id="26CF5352FFDDFFCCFED5F8DC87C6F8D2" box="[299,439,1809,1851]" pageId="6" pageNumber="155">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFE31F8DC85C1F8D2" ID-GBIF-Occurrence="3331825349" box="[463,944,1809,1851]" collectingDate="1936-08-22" collectorName="O. H. Swezey" country="Guam" location="Asan" pageId="6" pageNumber="155">
+<collectingMunicipality id="6BE1ACFEFFDDFFCCFE31F8DC845CF8D2" box="[463,557,1809,1851]" pageId="6" pageNumber="155">Asan</collectingMunicipality>
+, 
+<date id="FF841044FFDDFFCCFDBBF8DC8573F8D2" box="[581,770,1809,1851]" pageId="6" pageNumber="155" value="1922-08">
+<collectingDate id="EFC0E9ACFFDDFFCCFDBBF8DC8573F8D2" box="[581,770,1809,1851]" pageId="6" pageNumber="155" value="1922-08">August 22</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDDFFCCFCE3F8DC85D8F8D2" box="[797,937,1809,1851]" pageId="6" pageNumber="155">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFC3CF8DC8057F8D2" ID-GBIF-Occurrence="3331825322" box="[962,1574,1809,1851]" collectedFrom="on taro" collectingDate="1936-11-08" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="6" pageNumber="155">
+<collectingMunicipality id="6BE1ACFEFFDDFFCCFC3CF8DC8238F8D2" box="[962,1097,1809,1851]" pageId="6" pageNumber="155">Dededo</collectingMunicipality>
+, 
+<date id="FF841044FFDDFFCCFB9DF8DC82ACF8D2" box="[1123,1245,1809,1851]" pageId="6" pageNumber="155">
+<collectingDate id="EFC0E9ACFFDDFFCCFB9DF8DC82ACF8D2" box="[1123,1245,1809,1851]" pageId="6" pageNumber="155">Nov. 8</collectingDate>
+</date>
+, on taro, 
+<collectorName id="26CF5352FFDDFFCCFA6CF8DC806EF8D2" box="[1426,1567,1809,1851]" pageId="6" pageNumber="155">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCF9C6F8DC8533F884" ID-GBIF-Occurrence="3331825348" collectedFrom="on banana" collectingDate="1936-11-11" collectorName="O. H. Swezey" country="Guam" location="Mata" pageId="6" pageNumber="155">
+<location id="8EE5605FFFDDFFCCF9C6F8DC80E7F8D2" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCF9C6F8DC80E7F8D2" box="[1592,1686,1809,1851]" name="Mata" pageId="6" pageNumber="155">Mata</location>
+, 
+<date id="FF841044FFDDFFCCFED4F88F87CDF884" box="[298,444,1858,1901]" pageId="6" pageNumber="155" value="2011-11">
+<collectingDate id="EFC0E9ACFFDDFFCCFED4F88F87CDF884" box="[298,444,1858,1901]" pageId="6" pageNumber="155" value="2011-11">Nov. 11</collectingDate>
+</date>
+, on banana, 
+<collectorName id="26CF5352FFDDFFCCFD51F88F854AF884" box="[687,827,1858,1901]" pageId="6" pageNumber="155">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFCA8F88F838CF884" ID-GBIF-Occurrence="3331825303" box="[854,1533,1858,1901]" collectedFrom="on mango" collectingDate="1936-11-13" collectorName="O. H. Swezey" country="Guam" location="Tumon" pageId="6" pageNumber="155">
+<location id="8EE5605FFFDDFFCCFCA8F88F85A8F884" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCFCA8F88F85A8F884" box="[854,985,1858,1901]" name="Tumon" pageId="6" pageNumber="155">Tumon</location>
+, 
+<date id="FF841044FFDDFFCCFC0AF88F82F9F884" box="[1012,1160,1858,1901]" pageId="6" pageNumber="155" value="2013-11">
+<collectingDate id="EFC0E9ACFFDDFFCCFC0AF88F82F9F884" box="[1012,1160,1858,1901]" pageId="6" pageNumber="155" value="2013-11">Nov. 13</collectingDate>
+</date>
+, on mango, 
+<collectorName id="26CF5352FFDDFFCCFA8FF88F8389F884" box="[1393,1528,1858,1901]" pageId="6" pageNumber="155">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDDFFCCFE99F8B182AFF798" pageId="6" pageNumber="155" type="discussion">
+<paragraph id="8B853684FFDDFFCCFE99F8B182AFF798" blockId="6.[296,1694,1327,2161]" pageId="6" pageNumber="155">
+This species was described from Tahiti. It also occurs in others of the Society Islands, 
+<collectingCountry id="F32D7614FFDDFFCCFDAAF87D84BAF833" box="[596,715,1968,2010]" name="Samoa" pageId="6" pageNumber="155">Samoa</collectingCountry>
+, 
+<collectingCountry id="F32D7614FFDDFFCCFD1DF87D85A7F833" box="[739,982,1968,2010]" name="Tuvalu" pageId="6" pageNumber="155">Ellice Islands</collectingCountry>
+, 
+<collectingCountry id="F32D7614FFDDFFCCFC10F87D8210F833" box="[1006,1121,1968,2010]" name="Tonga" pageId="6" pageNumber="155">Tonga</collectingCountry>
+, and Funafuti. 
+<materialsCitation id="3B523CD9FFDDFFCCFA76F87D8548F7E4" ID-GBIF-Occurrence="3914035354" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="6" pageNumber="155">
+<collectingMunicipality id="6BE1ACFEFFDDFFCCFA76F87D83D6F833" box="[1416,1447,1968,2010]" pageId="6" pageNumber="155">It</collectingMunicipality>
+was collected in 
+<collectingCountry id="F32D7614FFDDFFCCFEA6F82F87CEF7E4" box="[344,447,2018,2061]" name="Guam" pageId="6" pageNumber="155">Guam</collectingCountry>
+by 
+<location id="8EE5605FFFDDFFCCFDFAF82F84D9F7E4" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED7FAE282AFF798:8EE5605FFFDDFFCCFDFAF82F84D9F7E4" box="[516,680,2018,2061]" country="Guam" municipality="It" name="Fullaway" pageId="6" pageNumber="155">Fullaway</location>
+in 1911
+</materialsCitation>
+. Described by Muir as 
+<emphasis id="B94EEA96FFDDFFCCFB1BF82F80EDF7E4" box="[1253,1692,2018,2061]" italics="true" pageId="6" pageNumber="155">Thyrocephalusfullawayi,</emphasis>
+it was later synonymized by him with Stal's species. We collected it on quite a variety of trees and plants, but never abundantly.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

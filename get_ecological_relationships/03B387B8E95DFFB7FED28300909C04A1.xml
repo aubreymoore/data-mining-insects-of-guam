@@ -1,0 +1,309 @@
+<document id="6DFA68E740555CF9AA5087C8C5EADEC6" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E95DFFB7FED28300909C04A1" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pyrausta nubilalis C.Linnaeus 1758" docType="treatment" docVersion="26" lastPageNumber="185" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="185" updateTime="1670715196007" updateUser="aubreymoore">
+<mods:mods id="C8A6FB6488CB79A41A89A2E84485ABB6" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CFAA3871469A9303BA0878CBDE0B7A00">
+<mods:title id="E2F5F4C211FC527B3F9292CCC48E3E59">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="02709F2D7AC800C495C9F63E0235D0FD" type="personal">
+<mods:role id="1A1B078936F2EB5C40898C0A03D399D9">
+<mods:roleTerm id="AB0C25A8FFF78DCA56C344BE93EDE4B7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="6AB9A1E782E2445A8F80093AE4242297">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="6E43C82ABD03A71E60D3A3575D230AC6">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="BBB11D469D80ED5877CB0D490F63A34F">text</mods:typeOfResource>
+<mods:relatedItem id="A7540627CA63E2A2E0BF018AC97FB5E0" type="host">
+<mods:originInfo id="37BBCF37F5C308700F7F38960AE41B40">
+<mods:dateIssued id="E6F2E9DD462877C3973B7CC3440C94E7">1946</mods:dateIssued>
+<mods:dateOther id="7BFD6509F358F82FCA3AA00017A6A162" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="63BE7D2E5F198A80A9AB6A439A45D589">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="E4B49F1F9FAE56A98628CAEFE07DC9B5">
+<mods:placeTerm id="C55060AAA7FB85C771B4F2838592977D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="80CCC0F0F7B3125C2C537D4C371639A6">
+<mods:title id="F2B379CA03F6021E84848302BC1CDD4E">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="75914AC1572BCDE83D31326E60E05881">
+<mods:extent id="CD78ED66BD21F5AF6AEA9B932A0887B7" unit="page">
+<mods:start id="DB56D212AEAADF9DE2796DFAB4DD48FA">163</mods:start>
+<mods:end id="023DDB5A96382A96C328BC10341F289C">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="5C240DBE753F8DDC5F3D47BB8B5798D0">book chapter</mods:classification>
+<mods:identifier id="57C09060E8653891C590779324CCBA8D" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="1D716ACD86B1654BF743D76BC073537B" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="2577231E1E457EFC64E5F211248A89E6" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E95DFFB7FED28300909C04A1" ID-DOI="http://doi.org/10.5281/zenodo.5519591" ID-GBIF-Taxon="183926849" ID-Zenodo-Dep="5519591" LSID="urn:lsid:plazi:treatment:03B387B8E95DFFB7FED28300909C04A1" httpUri="http://treatment.plazi.org/id/03B387B8E95DFFB7FED28300909C04A1" lastPageNumber="185" pageId="22" pageNumber="185">
+<subSubSection id="C3006525E95DFFB7FED2830091FF0228" box="[285,905,317,359]" pageId="22" pageNumber="185" type="nomenclature">
+<paragraph id="8BA536AEE95DFFB7FED2830091FF0228" blockId="22.[285,1690,317,2030]" box="[285,905,317,359]" pageId="22" pageNumber="185">
+<heading id="D0ED81C2E95DFFB7FED2830091FF0228" box="[285,905,317,359]" fontSize="8" level="2" pageId="22" pageNumber="185" reason="4">
+<emphasis id="B96EEABCE95DFFB7FED2830093380228" bold="true" box="[285,334,317,359]" pageId="22" pageNumber="185">42.</emphasis>
+<taxonomicName id="4C1A4D2DE95DFFB7FEA0830091F50228" authority="(Hiibner)" authorityName="C.Linnaeus" authorityYear="1758" baseAuthorityName="Hubner" box="[367,899,317,359]" class="Insecta" family="Crambidae" genus="Pyrausta" kingdom="Animalia" order="Lepidoptera" pageId="22" pageNumber="185" phylum="Arthropoda" rank="genus">
+<emphasis id="B96EEABCE95DFFB7FEA0830090CA0228" bold="true" box="[367,700,317,359]" pageId="22" pageNumber="185">Pyraustanubilalis</emphasis>
+(Hiibner)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95DFFB7FE94835291670183" pageId="22" pageNumber="185" type="reference_group">
+<paragraph id="8BA536AEE95DFFB7FE94835291F40280" blockId="22.[285,1690,317,2030]" pageId="22" pageNumber="185">
+<treatmentCitationGroup id="AB0A1180E95DFFB7FE94835291F40280" pageId="22" pageNumber="185">
+<bibCitation id="5E303EC2E95DFFB7FE94835291F40280" author="Hubner" pageId="22" pageNumber="185" pagination="24" refId="ref12076" title="Zutr. Samml. Eur. Schm., Pyr." type="book" year="1796">
+<treatmentCitation id="0ABB10BFE95DFFB7FE948352910B0280" author="Hübner" page="24" pageId="22" pageNumber="185" year="1796">
+<emphasis id="B96EEABCE95DFFB7FE94835290F302D5" box="[347,645,367,410]" italics="true" pageId="22" pageNumber="185">Pyralis nubilalis</emphasis>
+<author id="53A7DE4BE95DFFB7FD528352915D02D5" box="[669,811,367,410]" pageId="22" pageNumber="185">Hubner</author>
+, 
+<title id="F91EDD98E95DFFB7FC83835297D602D5" box="[844,1440,367,410]" pageId="22" pageNumber="185">Zutr. Samml. Eur. Schm., Pyr.</title>
+<emphasis id="B96EEABCE95DFFB7FA748352978402D5" bold="true" box="[1467,1522,367,410]" pageId="22" pageNumber="185">14:</emphasis>
+Sechste Horde, 
+<pagination id="B2D3C85AE95DFFB7FDEC839E90390280" box="[547,591,419,463]" pageId="22" pageNumber="185">24</pagination>
+, 14, fig. 94, 
+<year id="FFB277FDE95DFFB7FCE4839E910B0280" box="[811,893,419,463]" pageId="22" pageNumber="185">1796</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE95DFFB7FE9583EA91670183" blockId="22.[285,1690,317,2030]" pageId="22" pageNumber="185">
+<treatmentCitationGroup id="AB0A1180E95DFFB7FE9583EA91670183" pageId="22" pageNumber="185">
+<bibCitation id="5E303EC2E95DFFB7FE9583EA91670183" author="Meyrick" journalOrPublisher="U. S. Dept. Agric., Bull." pageId="22" pageNumber="185" pagination="416" part="4" refId="ref12106" title="Handbook Brit. Lep" type="book" year="1895">
+<emphasis id="B96EEABCE95DFFB7FE9583EA90DF014F" box="[346,681,471,512]" italics="true" pageId="22" pageNumber="185">Pyrausta nubilalis,</emphasis>
+<treatmentCitation id="0ABB10BFE95DFFB7FD0F83EA97B5014F" box="[704,1475,471,512]" pageId="22" pageNumber="185">
+<author id="53A7DE4BE95DFFB7FD0F83EA9123014F" box="[704,853,471,512]" pageId="22" pageNumber="185">Meyrick</author>
+, 
+<title id="F91EDD98E95DFFB7FCBF83EA969D014F" box="[880,1259,471,512]" pageId="22" pageNumber="185">Handbook Brit. Lep</title>
+., 
+<pagination id="B2D3C85AE95DFFB7FAC483EA973B014F" box="[1291,1357,471,512]" pageId="22" pageNumber="185">416</pagination>
+, 
+<year id="FFB277FDE95DFFB7FAA483EA97B5014F" box="[1387,1475,471,512]" pageId="22" pageNumber="185">1895</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE95DFFB7FA2F83EA9613017B" pageId="22" pageNumber="185">
+<author id="53A7DE4BE95DFFB7FA2F83EA94FA014F" box="[1504,1676,471,512]" pageId="22" pageNumber="185">Hampson</author>
+, 
+<title id="F91EDD98E95DFFB7FE528037911B017B" box="[413,877,522,564]" pageId="22" pageNumber="185">
+Fauna Brit. 
+<collectingCountry id="F30D763EE95DFFB7FD4C80379094017B" box="[643,738,522,564]" name="India" pageId="22" pageNumber="185">India</collectingCountry>
+, Moths
+</title>
+<emphasis id="B96EEABCE95DFFB7FC4F803791D2017B" bold="true" box="[896,932,522,564]" pageId="22" pageNumber="185">
+<part id="FFBE9C33E95DFFB7FC4F803791E5017B" box="[896,915,522,564]" pageId="22" pageNumber="185" type="volume">4</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE95DFFB7FC7E80379184017B" box="[945,1010,522,564]" pageId="22" pageNumber="185" type="pagination">435</pagination>
+, 
+<year id="FFB277FDE95DFFB7FBC280379613017B" box="[1037,1125,522,564]" pageId="22" pageNumber="185">1896</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE95DFFB7FB4E8037963B0127" pageId="22" pageNumber="185">
+<author id="53A7DE4BE95DFFB7FB4E80379773017B" box="[1153,1285,522,564]" pageId="22" pageNumber="185">Caffrey</author>
+and 
+<author id="53A7DE4BE95DFFB7FAA68037946C017B" box="[1385,1562,522,564]" pageId="22" pageNumber="185">Worthley</author>
+, 
+<journalOrPublisher id="51DB3C62E95DFFB7F9FC803790990127" pageId="22" pageNumber="185">
+<collectingCountry id="F30D763EE95DFFB7F9FC803794E5017B" box="[1587,1683,522,564]" name="United States of America" pageId="22" pageNumber="185">U. S.</collectingCountry>
+Dept. Agric., Bull.
+</journalOrPublisher>
+<emphasis id="B96EEABCE95DFFB7FCCA800091120127" bold="true" box="[773,868,573,616]" pageId="22" pageNumber="185">
+<part id="FFBE9C33E95DFFB7FCCA800091250127" box="[773,851,573,616]" pageId="22" pageNumber="185" type="volume">1476</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE95DFFB7FCB9800091A30127" box="[886,981,573,616]" pageId="22" pageNumber="185" type="pagination">1-154</pagination>
+, 1,927
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE95DFFB7FBA68000913A01D4" pageId="22" pageNumber="185">
+<author id="53A7DE4BE95DFFB7FBA6800096A90127" box="[1129,1247,573,616]" pageId="22" pageNumber="185">Briggs</author>
+, 
+<journalOrPublisher id="51DB3C62E95DFFB7FB348000938C01D4" pageId="22" pageNumber="185">
+<collectingCountry id="F30D763EE95DFFB7FB34800097140127" box="[1275,1378,573,616]" name="Guam" pageId="22" pageNumber="185">Guam</collectingCountry>
+Agr. Expt. Sta. Rept.
+</journalOrPublisher>
+(1920), 
+<pagination id="B2D3C85AE95DFFB7FD778052909501D4" box="[696,739,623,667]" pageId="22" pageNumber="185" type="pagination">39</pagination>
+, 
+<year id="FFB277FDE95DFFB7FCC98052913A01D4" box="[774,844,623,667]" pageId="22" pageNumber="185">1921</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE95DFFB7FCB18052917A0183" pageId="22" pageNumber="185">
+<author id="53A7DE4BE95DFFB7FCB18052962E01D4" box="[894,1112,623,667]" pageId="22" pageNumber="185">Vandenberg</author>
+, 
+<journalOrPublisher id="51DB3C62E95DFFB7FBB7805294E501D4" box="[1144,1683,623,667]" pageId="22" pageNumber="185">
+<collectingCountry id="F30D763EE95DFFB7FBB7805296A901D4" box="[1144,1247,623,667]" name="Guam" pageId="22" pageNumber="185">Guam</collectingCountry>
+Agr. Expt. Sta. Rept.
+</journalOrPublisher>
+(1930-32), 
+<pagination id="B2D3C85AE95DFFB7FDBE809990EB0183" box="[625,669,676,716]" pageId="22" pageNumber="185" type="pageRange">20</pagination>
+, 
+<year id="FFB277FDE95DFFB7FD788099917A0183" box="[695,780,676,716]" pageId="22" pageNumber="185">1933</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95DFFB7FEAF80E891FF00D8" pageId="22" pageNumber="185" type="materials_examined">
+<paragraph id="8BA536AEE95DFFB7FEAF80E891FF00D8" blockId="22.[285,1690,317,2030]" pageId="22" pageNumber="185">
+<materialsCitation id="3B723CF3E95DFFB7FEAF80E890EF004F" ID-GBIF-Occurrence="3332081412" box="[352,665,725,768]" collectingDate="1936-05-30" collectorName="O. H. Swezey" country="Guam" location="Tumon" pageId="22" pageNumber="185">
+<location id="8EC56075E95DFFB7FEAF80E89395004F" LSID="urn:lsid:plazi:treatment:03B387B8E95DFFB7FED28300909C04A1:8EC56075E95DFFB7FEAF80E89395004F" box="[352,483,725,768]" pageId="22" pageNumber="185">Tumon</location>
+, 
+<date id="FFA4106EE95DFFB7FE3180E890E4004F" box="[510,658,725,768]" pageId="22" pageNumber="185" value="1930-05">
+<collectingDate id="EFE0E986E95DFFB7FE3180E890E4004F" box="[510,658,725,768]" pageId="22" pageNumber="185" value="1930-05">May 30</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95DFFB7FD6180E891C2004F" ID-GBIF-Occurrence="3332081418" box="[686,948,725,768]" collectingDate="1936-06-08" collectorName="O. H. Swezey" country="Guam" location="Ypan" pageId="22" pageNumber="185">
+<location id="8EC56075E95DFFB7FD6180E89166004F" LSID="urn:lsid:plazi:treatment:03B387B8E95DFFB7FED28300909C04A1:8EC56075E95DFFB7FD6180E89166004F" box="[686,784,725,768]" pageId="22" pageNumber="185">Ypan</location>
+, 
+<date id="FFA4106EE95DFFB7FCE580E891DD004F" box="[810,939,725,768]" pageId="22" pageNumber="185">
+<collectingDate id="EFE0E986E95DFFB7FCE580E891DD004F" box="[810,939,725,768]" pageId="22" pageNumber="185">June 8</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95DFFB7FC0580E89761004F" ID-GBIF-Occurrence="3332081456" box="[970,1303,725,768]" collectingDate="1936-06-24" collectorName="O. H. Swezey" country="Guam" location="Libugon" pageId="22" pageNumber="185">
+<location id="8EC56075E95DFFB7FC0580E89629004F" LSID="urn:lsid:plazi:treatment:03B387B8E95DFFB7FED28300909C04A1:8EC56075E95DFFB7FC0580E89629004F" box="[970,1119,725,768]" pageId="22" pageNumber="185">Libugon</location>
+, 
+<date id="FFA4106EE95DFFB7FBB680E89766004F" box="[1145,1296,725,768]" pageId="22" pageNumber="185" value="1924-06">
+<collectingDate id="EFE0E986E95DFFB7FBB680E89766004F" box="[1145,1296,725,768]" pageId="22" pageNumber="185" value="1924-06">June 24</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95DFFB7FAE280E894E2004F" ID-GBIF-Occurrence="3913652462" box="[1325,1684,725,768]" collectingDate="1936-06-30" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="22" pageNumber="185">
+<location id="8EC56075E95DFFB7FAE280E89795004F" LSID="urn:lsid:plazi:treatment:03B387B8E95DFFB7FED28300909C04A1:8EC56075E95DFFB7FAE280E89795004F" box="[1325,1507,725,768]" pageId="22" pageNumber="185">Machanao</location>
+, 
+<date id="FFA4106EE95DFFB7FA3280E894F8004F" box="[1533,1678,725,768]" pageId="22" pageNumber="185" value="1930-06">
+<collectingDate id="EFE0E986E95DFFB7FA3280E894F8004F" box="[1533,1678,725,768]" pageId="22" pageNumber="185" value="1930-06">June 30</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E95DFFB7FEEE813A93C5007D" ID-GBIF-Occurrence="3913652323" box="[289,435,775,818]" collectingDate="1936-08-06" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="22" pageNumber="185">
+<date id="FFA4106EE95DFFB7FEEE813A93DC007D" box="[289,426,775,818]" pageId="22" pageNumber="185">
+<collectingDate id="EFE0E986E95DFFB7FEEE813A93DC007D" box="[289,426,775,818]" pageId="22" pageNumber="185">Aug. 6</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95DFFB7FE03813A90B8007D" ID-GBIF-Occurrence="3913652512" box="[460,718,775,818]" collectingDate="1936-08-26" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="22" pageNumber="185">
+<location id="8EC56075E95DFFB7FE03813A9078007D" LSID="urn:lsid:plazi:treatment:03B387B8E95DFFB7FED28300909C04A1:8EC56075E95DFFB7FE03813A9078007D" box="[460,526,775,818]" pageId="22" pageNumber="185">
+<collectingMunicipality id="6BC1ACD4E95DFFB7FE03813A9078007D" box="[460,526,775,818]" pageId="22" pageNumber="185">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE95DFFB7FDE1813A90BE007D" box="[558,712,775,818]" pageId="22" pageNumber="185" value="1926-08">
+<collectingDate id="EFE0E986E95DFFB7FDE1813A90BE007D" box="[558,712,775,818]" pageId="22" pageNumber="185" value="1926-08">Aug. 26</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E95DFFB7FD25813A9103007D" ID-GBIF-Occurrence="3913652450" box="[746,885,775,818]" collectingDate="1936-09-04" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="22" pageNumber="185">
+<date id="FFA4106EE95DFFB7FD25813A9118007D" box="[746,878,775,818]" pageId="22" pageNumber="185">
+<collectingDate id="EFE0E986E95DFFB7FD25813A9118007D" box="[746,878,775,818]" pageId="22" pageNumber="185">Sept. 4</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E95DFFB7FC5D813A91C2007D" ID-GBIF-Occurrence="3913652320" box="[914,948,775,818]" collectingDate="1936-09-15" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="22" pageNumber="185">15;</materialsCitation>
+<materialsCitation id="3B723CF3E95DFFB7FC2D813A9018002B" ID-GBIF-Occurrence="3332081323" collectingDate="1936-08-28" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="22" pageNumber="185">
+<collectingMunicipality id="6BC1ACD4E95DFFB7FC2D813A96E3007D" box="[994,1173,775,818]" pageId="22" pageNumber="185">Barrigada</collectingMunicipality>
+, 
+<date id="FFA4106EE95DFFB7FB7B813A9725007D" box="[1204,1363,775,818]" pageId="22" pageNumber="185">
+<collectingDate id="EFE0E986E95DFFB7FB7B813A9725007D" box="[1204,1363,775,818]" pageId="22" pageNumber="185">Aug. 28.</collectingDate>
+</date>
+<location id="8EC56075E95DFFB7FAB8813A97DA007D" LSID="urn:lsid:plazi:treatment:03B387B8E95DFFB7FED28300909C04A1:8EC56075E95DFFB7FAB8813A97DA007D" box="[1399,1452,775,818]" pageId="22" pageNumber="185">All</location>
+collected or reared by 
+<collectorName id="26EF5378E95DFFB7FE2C8107901F002B" box="[483,617,826,868]" pageId="22" pageNumber="185">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="3B723CF3E95DFFB7FD40810797C9002B" ID-GBIF-Occurrence="3988005302" box="[655,1471,826,868]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="22" pageNumber="185" specimenCount="3">
+Three 
+<specimenCount id="9D1CFD27E95DFFB7FCC2810791CD002B" box="[781,955,826,868]" pageId="22" pageNumber="185" type="generic">specimens</specimenCount>
+in 
+<collectingCountry id="F30D763EE95DFFB7FBCB81079610002B" box="[1028,1126,826,868]" name="United States of America" pageId="22" pageNumber="185">U. S.</collectingCountry>
+<collectingMunicipality id="6BC1ACD4E95DFFB7FBB2810797C9002B" box="[1149,1471,826,868]" pageId="22" pageNumber="185">National Museum</collectingMunicipality>
+</materialsCitation>
+<materialsCitation id="3B723CF3E95DFFB7FA1D810791FF00D8" ID-GBIF-Occurrence="3988005301" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Bishop Museum" pageId="22" pageNumber="185" specimenCount="1">
+and one in 
+<location id="8EC56075E95DFFB7FEEC8150903B00D8" LSID="urn:lsid:plazi:treatment:03B387B8E95DFFB7FED28300909C04A1:8EC56075E95DFFB7FEEC8150903B00D8" box="[291,589,877,919]" pageId="22" pageNumber="185">Bishop Museum</location>
+, 
+<location id="8EC56075E95DFFB7FDA48150916700D8" LSID="urn:lsid:plazi:treatment:03B387B8E95DFFB7FED28300909C04A1:8EC56075E95DFFB7FDA48150916700D8" box="[619,785,877,919]" pageId="22" pageNumber="185">Fullaway</location>
+, 1911.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95DFFB7FEAF81A3909C04A1" pageId="22" pageNumber="185" type="discussion">
+<paragraph id="8BA536AEE95DFFB7FEAF81A3909C04A1" blockId="22.[285,1690,317,2030]" pageId="22" pageNumber="185">
+This moth is the notorious European corn borer, which has become widespread in the 
+<collectingCountry id="F30D763EE95DFFB7FDFA81EF914400B3" box="[565,818,978,1020]" name="United States of America" pageId="22" pageNumber="185">United States</collectingCountry>
+during the past 20 years. Its distribution is throughout central and southern Europe, 
+<collectingCountry id="F30D763EE95DFFB7FBFD863996E90761" box="[1074,1183,1028,1070]" name="Egypt" pageId="22" pageNumber="185">Egypt</collectingCountry>
+, west-central and northern Asia, northern 
+<collectingCountry id="F30D763EE95DFFB7FDFA860B90E5072E" box="[565,659,1078,1121]" name="India" pageId="22" pageNumber="185">India</collectingCountry>
+, Siberia, 
+<collectingCountry id="F30D763EE95DFFB7FC8E860B91DF072E" box="[833,937,1078,1121]" name="Japan" pageId="22" pageNumber="185">Japan</collectingCountry>
+, 
+<collectingCountry id="F30D763EE95DFFB7FC0C860B96FC072E" box="[963,1162,1078,1121]" name="Philippines" pageId="22" pageNumber="185">Philippines</collectingCountry>
+, and 
+<collectingCountry id="F30D763EE95DFFB7FB3F860B972A072E" box="[1264,1372,1078,1121]" name="Guam" pageId="22" pageNumber="185">Guam</collectingCountry>
+. 
+<materialsCitation id="3B723CF3E95DFFB7FAB3860B919C07B6" ID-GBIF-Occurrence="3913652438" collectedFrom="first record of it was under the name Pyrausta vastatrix, given by Schultze in Manila, a name wihich was later recognized as a synonym. It became a very serioudu pest in Guam." collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="22" pageNumber="185">
+The first record of it in 
+<collectingCountry id="F30D763EE95DFFB7FE788654906807DB" box="[439,542,1129,1172]" name="Guam" pageId="22" pageNumber="185">Guam</collectingCountry>
+was by 
+<collectingMunicipality id="6BC1ACD4E95DFFB7FD0C8654911007DB" box="[707,870,1129,1172]" pageId="22" pageNumber="185">Fullaway</collectingMunicipality>
+in 1911 under the name 
+<emphasis id="B96EEABCE95DFFB7FAF0865494E007DB" box="[1343,1686,1129,1172]" italics="true" pageId="22" pageNumber="185">
+<taxonomicName id="4C1A4D2DE95DFFB7FAF0865494F907DB" authorityName="Schultze" authorityYear="1908" box="[1343,1679,1129,1172]" class="Insecta" family="Crambidae" genus="Pyrausta" kingdom="Animalia" order="Lepidoptera" pageId="22" pageNumber="185" phylum="Arthropoda" rank="species" species="vastatrix">
+<location id="8EC56075E95DFFB7FAF08654979607DB" LSID="urn:lsid:plazi:treatment:03B387B8E95DFFB7FED28300909C04A1:8EC56075E95DFFB7FAF08654979607DB" box="[1343,1504,1129,1172]" country="Guam" municipality="Fullaway" name="Pyrausta" pageId="22" pageNumber="185">Pyrausta</location>
+vastatrix
+</taxonomicName>
+,
+</emphasis>
+given by 
+<location id="8EC56075E95DFFB7FE0886A091600789" LSID="urn:lsid:plazi:treatment:03B387B8E95DFFB7FED28300909C04A1:8EC56075E95DFFB7FE0886A091600789" box="[455,790,1181,1222]" country="Guam" municipality="Fullaway" name="Schultze in Manila" pageId="22" pageNumber="185">Schultze in Manila</location>
+, a name which was later recognized as a synonym. 
+<location id="8EC56075E95DFFB7FEEB86F2933407B6" LSID="urn:lsid:plazi:treatment:03B387B8E95DFFB7FED28300909C04A1:8EC56075E95DFFB7FEEB86F2933407B6" box="[292,322,1231,1273]" country="Guam" municipality="Fullaway" name="It" pageId="22" pageNumber="185">It</location>
+became a very serious pest in 
+<collectingCountry id="F30D763EE95DFFB7FCB086F2919C07B6" box="[895,1002,1231,1273]" name="Guam" pageId="22" pageNumber="185">Guam</collectingCountry>
+</materialsCitation>
+, and by 1920 was reported damaging SO percent of the corn crop in some regions. Parasite introduction was attempted in 1926 to 1931. Several kinds of parasites were imported. In 1936 we found that a tachinid, 
+<taxonomicName id="4C1A4D2DE95DFFB7FCB9875A97BB06C0" box="[886,1485,1383,1423]" class="Insecta" family="Tachinidae" genus="Lydella" kingdom="Animalia" order="Diptera" pageId="22" pageNumber="185" phylum="Arthropoda" rank="variety" species="stabulans" variety="grisescens">
+<emphasis id="B96EEABCE95DFFB7FCB9875A96C406C0" box="[886,1202,1383,1423]" italics="true" pageId="22" pageNumber="185">Lydella stabulans</emphasis>
+var. 
+<emphasis id="B96EEABCE95DFFB7FAD3875A97BB06C0" box="[1308,1485,1383,1423]" italics="true" pageId="22" pageNumber="185">grisescens</emphasis>
+</taxonomicName>
+Robineau­ Desvoidy, was established and so efficient that very little damage was done to the corn crop by the European corn borer. Whenever we found corn borer larvae in corn stalks, usually SO to 100 percent of them were parasitized. Often in examining the corn borer burrows in corn stalks, the puparia of the parasite would be found, usually one or two and occasionally three per burrow. This tachinid was introduced from 
+<collectingCountry id="F30D763EE95DFFB7FC7884AB966B058E" box="[951,1053,1686,1729]" name="Japan" pageId="22" pageNumber="185">Japan</collectingCountry>
+by Vandenberg in 1931. At first it was known in 
+<collectingCountry id="F30D763EE95DFFB7FD9584F490B705BC" box="[602,705,1737,1779]" name="Guam" pageId="22" pageNumber="185">Guam</collectingCountry>
+reports as 
+<emphasis id="B96EEABCE95DFFB7FC5D84F496CE05BC" box="[914,1208,1737,1779]" italics="true" pageId="22" pageNumber="185">
+<taxonomicName id="4C1A4D2DE95DFFB7FC5D84F496C405BC" authorityName="Rondani" authorityYear="1861" box="[914,1202,1737,1779]" class="Insecta" family="Tachinidae" genus="Masicera" kingdom="Animalia" order="Diptera" pageId="22" pageNumber="185" phylum="Arthropoda" rank="species" species="senilis">Masicera senilis</taxonomicName>
+,
+</emphasis>
+later as 
+<emphasis id="B96EEABCE95DFFB7FAAF84F494EE05BC" box="[1376,1688,1737,1779]" italics="true" pageId="22" pageNumber="185">
+<taxonomicName id="4C1A4D2DE95DFFB7FAAF84F494E505BC" box="[1376,1683,1737,1779]" class="Insecta" family="Pyralidae" genus="Ceronwsia" kingdom="Animalia" order="Lepidoptera" pageId="22" pageNumber="185" phylum="Arthropoda" rank="species" species="lepida">Ceronwsia lepida</taxonomicName>
+.
+</emphasis>
+In subsequent studies of it, experts in the 
+<taxonomicName id="4C1A4D2DE95DFFB7FB9C84C697630469" authorityName="Fleming" authorityYear="1821" box="[1107,1301,1787,1830]" class="Insecta" family="Tachinidae" kingdom="Animalia" order="Diptera" pageId="22" pageNumber="185" phylum="Arthropoda" rank="family">Tachinidae</taxonomicName>
+settled on the n~me 
+<taxonomicName id="4C1A4D2DE95DFFB7FEE9851291EA0416" box="[294,924,1839,1881]" class="Insecta" family="Tachinidae" genus="Lydella" kingdom="Animalia" order="Diptera" pageId="22" pageNumber="185" phylum="Arthropoda" rank="variety" species="stabulans" variety="grisescens">
+<emphasis id="B96EEABCE95DFFB7FEE98512901C0416" box="[294,618,1839,1881]" italics="true" pageId="22" pageNumber="185">Lydella stabulans</emphasis>
+var. 
+<emphasis id="B96EEABCE95DFFB7FD27851291EA0416" box="[744,924,1839,1881]" italics="true" pageId="22" pageNumber="185">grisescens</emphasis>
+</taxonomicName>
+<emphasis id="B96EEABCE95DFFB7FC53851291D70416" box="[924,929,1839,1881]" italics="true" pageId="22" pageNumber="185">.</emphasis>
+One other parasite, 
+<taxonomicName id="4C1A4D2DE95DFFB7FAAF851290E004C5" authority="(Cameron))" authorityName="" baseAuthorityName="Cameron" baseAuthorityYear="1907" class="Insecta" family="Ichneumonidae" genus="Cremastus" kingdom="Animalia" order="Hymenoptera" pageId="22" pageNumber="185" phylum="Arthropoda" rank="species" species="flavoorbitalis">
+<emphasis id="B96EEABCE95DFFB7FAAF851293C204C5" italics="true" pageId="22" pageNumber="185">Cremastus flavoorbitalis</emphasis>
+(Cameron))
+</taxonomicName>
+, introduced from 
+<collectingCountry id="F30D763EE95DFFB7FC2C855C963C04C5" box="[995,1098,1889,1930]" name="Japan" pageId="22" pageNumber="185">Japan</collectingCountry>
+by Vandenberg in 1931 became established in 
+<collectingCountry id="F30D763EE95DFFB7FDE685AE90E504F2" box="[553,659,1939,1981]" name="Guam" pageId="22" pageNumber="185">Guam</collectingCountry>
+. I reared it from several species of leafroller moths, but not from the corn borer.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

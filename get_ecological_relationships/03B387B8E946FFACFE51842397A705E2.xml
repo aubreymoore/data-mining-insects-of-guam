@@ -1,0 +1,93 @@
+<document id="CA1652BF45C9860AA1C440F0D81F267C" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E946FFACFE51842397A705E2" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Euzophera" docType="treatment" docVersion="12" lastPageNumber="176" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="176" updateTime="1669841621050" updateUser="annettekang">
+<mods:mods id="8BBBED1301B27AA4EA35F134E9CC350A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="5C1F7357F897A14CA91E959A89E8B45A">
+<mods:title id="ED596F90F8FF8B72D4312868F2BBB060">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="3F5214D9A6E31C446EFA15CD16C2A454" type="personal">
+<mods:role id="ACEA94E0E612E7A72D7B4CEE64B0F6E0">
+<mods:roleTerm id="A662EEAD12F157F2586AB6AB59061E4F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="95BA3A5C22940C5948D44877446AE247">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="8DFE64DE217F830CF9398CF9B00CA5CB">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="D2A8E6196E83AB6F1A7B475FD3CB8176">text</mods:typeOfResource>
+<mods:relatedItem id="F89A3AD67D856E06D325C98BA3FD3B25" type="host">
+<mods:originInfo id="5E51D361E42790E9CFE8B07D16F1D5A2">
+<mods:dateIssued id="FD48B6D5F09CA0E2945AFDB5648F87E5">1946</mods:dateIssued>
+<mods:dateOther id="22CA52611127B0840B48EF632CC7690C" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="728CCB18E106CFDD2E348CA2A39A0324">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="B1DAB00AC5C918A53BC496171BF14C52">
+<mods:placeTerm id="3E3819B7A65F0BE85D446EAB8C9A3B09">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="BEB31B2A6B4FC7A8CB829B40F5184750">
+<mods:title id="934DE835A5ED4BF97B97AB97DA13B051">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="C2393BB4F27DA0771C74B9C26BA74A9D">
+<mods:extent id="A6DD57C267972C33B64230D949D6F0F9" unit="page">
+<mods:start id="72C27141AB40FB768CE536D445DD6E92">163</mods:start>
+<mods:end id="A4F37736147FFFDDFF36E8B9F12DDEEB">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F867EDBF967990CCFCCB9385454D0CEB">book chapter</mods:classification>
+<mods:identifier id="EE8103BB1040932E5452377A31EA4FCF" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="06C8215A02F0B8F68CE0EEBC68C2C1FD" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="E94BED319DCE39EE34BB436B515972E6" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E946FFACFE51842397A705E2" ID-DOI="http://doi.org/10.5281/zenodo.5158522" ID-GBIF-Taxon="187739309" ID-Zenodo-Dep="5158522" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE51842397A705E2" httpUri="http://treatment.plazi.org/id/03B387B8E946FFACFE51842397A705E2" lastPageNumber="176" pageId="13" pageNumber="176">
+<subSubSection id="C3006525E946FFACFE51842391430509" box="[414,821,1566,1606]" pageId="13" pageNumber="176" type="nomenclature">
+<paragraph id="8BA536AEE946FFACFE51842391430509" blockId="13.[414,1814,1566,1709]" box="[414,821,1566,1606]" pageId="13" pageNumber="176">
+<heading id="D0ED81C2E946FFACFE51842391430509" box="[414,821,1566,1606]" fontSize="11" level="2" pageId="13" pageNumber="176" reason="2">
+<emphasis id="B96EEABCE946FFACFE51842390D70509" bold="true" box="[414,673,1566,1606]" pageId="13" pageNumber="176">
+4. 
+<taxonomicName id="4C1A4D2DE946FFACFE11842390D70509" authority="Zeller" box="[478,673,1566,1606]" class="Insecta" family="Pyralidae" genus="Euzophera" higherTaxonomySource="CoL" kingdom="Animalia" order="Lepidoptera" pageId="13" pageNumber="176" phylum="Arthropoda" rank="genus">Euzophera</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E946FFACFE2E846C97A705E2" pageId="13" pageNumber="176" type="materials_examined">
+<paragraph id="8BA536AEE946FFACFE2E846C97A705E2" blockId="13.[414,1814,1566,1709]" pageId="13" pageNumber="176">
+<materialsCitation id="3B723CF3E946FFACFE2E846C91010534" ID-GBIF-Occurrence="3913652486" box="[481,887,1617,1659]" collectedFrom="on screen" collectingDate="1936-06-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">
+<location id="8EC56075E946FFACFE2E846C90540534" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE51842397A705E2:8EC56075E946FFACFE2E846C90540534" box="[481,546,1617,1659]" pageId="13" pageNumber="176">
+<collectingMunicipality id="6BC1ACD4E946FFACFE2E846C90540534" box="[481,546,1617,1659]" pageId="13" pageNumber="176">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE946FFACFDF5846C90D90534" box="[570,687,1617,1659]" pageId="13" pageNumber="176">
+<collectingDate id="EFE0E986E946FFACFDF5846C90D90534" box="[570,687,1617,1659]" pageId="13" pageNumber="176">June 1</collectingDate>
+</date>
+, on screen,
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFC48846C972A0534" ID-GBIF-Occurrence="3913652492" box="[903,1372,1617,1659]" collectedFrom="at light" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">
+<date id="FFA4106EE946FFACFC48846C966E0534" box="[903,1048,1617,1659]" pageId="13" pageNumber="176" value="2011-08">
+<collectingDate id="EFE0E986E946FFACFC48846C966E0534" box="[903,1048,1617,1659]" pageId="13" pageNumber="176" value="2011-08">Aug. 11</collectingDate>
+</date>
+, at light, 
+<collectorName id="26EF5378E946FFACFB07846C97230534" box="[1224,1365,1617,1659]" pageId="13" pageNumber="176">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFAA2846C97BA05E2" ID-GBIF-Occurrence="3332081398" collectedFrom="reared from larvae in old seeds of Ochrocarpus obovalis" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="13" pageNumber="176">
+<collectingMunicipality id="6BC1ACD4E946FFACFAA2846C979C0534" box="[1389,1514,1617,1659]" pageId="13" pageNumber="176">
+<location id="8EC56075E946FFACFAA2846C979C0534" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE51842397A705E2:8EC56075E946FFACFAA2846C979C0534" box="[1389,1514,1617,1659]" pageId="13" pageNumber="176">Fadian</location>
+</collectingMunicipality>
+, 
+<date id="FFA4106EE946FFACFA30846C94E00534" box="[1535,1686,1617,1659]" pageId="13" pageNumber="176" value="2019-08">
+<collectingDate id="EFE0E986E946FFACFA30846C94E00534" box="[1535,1686,1617,1659]" pageId="13" pageNumber="176" value="2019-08">Aug. 19</collectingDate>
+</date>
+,reared from 
+<specimenCount id="9D1CFD27E946FFACFDC884B9900405E2" box="[519,626,1668,1709]" pageId="13" pageNumber="176" type="larva">larvae</specimenCount>
+in old seeds of 
+<taxonomicName id="4C1A4D2DE946FFACFC6984B997BA05E2" authority=", Swezey." authorityName="Swezey." box="[934,1484,1668,1709]" class="Magnoliopsida" family="Calophyllaceae" genus="Ochrocarpus" higherTaxonomySource="CoL" kingdom="Plantae" order="Malpighiales" pageId="13" pageNumber="176" phylum="Tracheophyta" rank="species" species="obovalis">
+<emphasis id="B96EEABCE946FFACFC6984B9974605E2" box="[934,1328,1668,1709]" italics="true" pageId="13" pageNumber="176">
+<location id="8EC56075E946FFACFC6984B996F005E2" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE51842397A705E2:8EC56075E946FFACFC6984B996F005E2" box="[934,1158,1668,1709]" pageId="13" pageNumber="176">Ochrocarpus</location>
+obovalis,
+</emphasis>
+<collectorName id="26EF5378E946FFACFA8984B997BA05E2" box="[1350,1484,1668,1709]" pageId="13" pageNumber="176">Swezey</collectorName>
+</taxonomicName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

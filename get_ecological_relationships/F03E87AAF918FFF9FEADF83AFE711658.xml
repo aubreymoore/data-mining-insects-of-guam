@@ -1,0 +1,106 @@
+<document id="CFA5BED7DBCD5EAD49B603B86E775204" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF918FFF9FEADF83AFE711658" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Coccus elongatus" docType="treatment" docVersion="11" lastPageNumber="159" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="159" updateTime="1663083075184" updateUser="annettekang">
+<mods:mods id="EACF769A2441B2F9878CF8BC55C1484D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="E2328B16276EB63CE3E878B845605E34">
+<mods:title id="7A61A0853F37F6C03BC1D031B2D6E714">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="F71AAE7896DD58CA07E54246FE8F00BC" type="personal">
+<mods:role id="8E5A83B3AB1EB2AB49DBD15A17A85B8F">
+<mods:roleTerm id="75D393AC78804187B115B034592BBF86">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="23B8CB2E39EECB6A0C66459A4301B01A">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="E3C6ACA9FC049850E7E323BFF721FA8C">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="3200A034B3B129234BB573FD31BE4B0A">text</mods:typeOfResource>
+<mods:relatedItem id="649E3660F90BB8E8EC7F1EB9C96C1E9C" type="host">
+<mods:originInfo id="0F071840017F2192C2496663A28F88F3">
+<mods:dateIssued id="2FE1825EF6B7B33CE730C3F467864E68">1946</mods:dateIssued>
+<mods:dateOther id="AC93738051DEE9BBD33F9262455CC3D0" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="D4C52B5E7520B1C787277DDD62FEBEF9">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="A8AE30CA57891C36FBCABADBC743A3F2">
+<mods:placeTerm id="654CD9D6B9AAF2FE38CEC045E82E446A">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="69C83BFE0398A104C8A39F412C4BD7CE">
+<mods:title id="E1A87D709F3F42DADCAB1A6B3D15CBF9">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="BF99BBDC5C0C840758894D9327AC8F93">
+<mods:extent id="7CDE20802B71217027B30E2CEF5DC072" unit="page">
+<mods:start id="C1C6444F4FC386FFB4C22C1363C359A3">157</mods:start>
+<mods:end id="93ABBA65E97A039F1636616DC27A95E7">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E550722DA8CB7C2688990FA2EAAB3CCF">book chapter</mods:classification>
+<mods:identifier id="6EB8A5E64C255AD11A3BDEC2AEF5F9BF" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="81BD356D7E1AB65900EBF3E120722D7A" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="2903A07E979950D3EE72BA3483D66419" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF918FFF9FEADF83AFE711658" ID-DOI="http://doi.org/10.5281/zenodo.5158077" ID-GBIF-Taxon="183925211" ID-Zenodo-Dep="5158077" LSID="urn:lsid:plazi:treatment:F03E87AAF918FFF9FEADF83AFE711658" httpUri="http://treatment.plazi.org/id/F03E87AAF918FFF9FEADF83AFE711658" lastPageNumber="159" pageId="2" pageNumber="159">
+<subSubSection id="308D6537F918FFF9FEADF83AFC5F19F0" box="[303,923,1956,1998]" pageId="2" pageNumber="159" type="nomenclature">
+<paragraph id="782836BCF918FFF9FEADF83AFC5F19F0" blockId="2.[303,1702,1956,2150]" box="[303,923,1956,1998]" pageId="2" pageNumber="159">
+<heading id="236081D0F918FFF9FEADF83AFC5F19F0" box="[303,923,1956,1998]" fontSize="8" level="2" pageId="2" pageNumber="159" reason="4">
+<emphasis id="4AE3EAAEF918FFF9FEADF83AFEA519F0" bold="true" box="[303,353,1956,1998]" pageId="2" pageNumber="159">30.</emphasis>
+<taxonomicName id="BF974D3FF918FFF9FE01F83AFC5119F0" authority="(Signoret)" baseAuthorityName="Signoret" box="[387,917,1956,1998]" class="Insecta" family="Coccidae" genus="Coccus" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="159" phylum="Arthropoda" rank="species" species="elongatus">
+<emphasis id="4AE3EAAEF918FFF9FE01F83AFD7819F0" bold="true" box="[387,700,1956,1998]" pageId="2" pageNumber="159">Coccus elongatus</emphasis>
+(Signoret)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F918FFF9FEEFF849F99D163A" box="[365,1625,2007,2052]" pageId="2" pageNumber="159" type="description">
+<paragraph id="782836BCF918FFF9FEEFF849F99D163A" blockId="2.[303,1702,1956,2150]" box="[365,1625,2007,2052]" pageId="2" pageNumber="159">
+<treatmentCitationGroup id="58871192F918FFF9FEEFF849F990163A" box="[365,1620,2007,2052]" pageId="2" pageNumber="159">
+<treatmentCitation id="F93610ADF918FFF9FEEFF849F990163A" author="Signoret" box="[365,1620,2007,2052]" page="404" pageId="2" pageNumber="159" year="1873">
+<taxonomicName id="BF974D3FF918FFF9FEEFF849FC47163A" box="[365,899,2007,2052]" pageId="2" pageNumber="159">
+<emphasis id="4AE3EAAEF918FFF9FEEFF849FD1A163A" box="[365,734,2007,2052]" italics="true" pageId="2" pageNumber="159">Lecaniu1n elongatttm</emphasis>
+<bibCitation id="ADBD3ED0F918FFF9FD6EF849F990163A" author="Signoret" box="[748,1620,2007,2052]" journalOrPublisher="Soc. ent. France, Ann." pageId="2" pageNumber="159" pagination="404" part="5" type="journal article" year="1873">
+<author id="A02ADE59F918FFF9FD6EF849FC47163A" box="[748,899,2007,2052]" pageId="2" pageNumber="159">Signoret</author>
+, 
+<journalOrPublisher id="A2563C70F918FFF9FC1BF849FAE1163A" box="[921,1317,2007,2052]" pageId="2" pageNumber="159">
+Soc. ent. 
+<collectingCountry id="0080762CF918FFF9FBBEF849FB7E163A" box="[1084,1210,2007,2052]" name="France" pageId="2" pageNumber="159">France</collectingCountry>
+, Ann.
+</journalOrPublisher>
+<emphasis id="4AE3EAAEF918FFF9FAB6F849FA41163A" bold="true" box="[1332,1413,2007,2052]" pageId="2" pageNumber="159">
+<part id="0C339C21F918FFF9FAB6F849FA8F163A" box="[1332,1355,2007,2052]" pageId="2" pageNumber="159" type="volume">5</part>
+(
+<part id="0C339C21F918FFF9FAD8F849FAB4163A" box="[1370,1392,2007,2052]" pageId="2" pageNumber="159" type="issue">3</part>
+):
+</emphasis>
+<pagination id="415EC848F918FFF9FA2AF849FA2D163A" box="[1448,1513,2007,2052]" pageId="2" pageNumber="159" type="pagination">404</pagination>
+, 
+<year id="0C3F77EFF918FFF9F983F849F990163A" box="[1537,1620,2007,2052]" pageId="2" pageNumber="159">1873</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F918FFF9FEF3F792FE711658" pageId="2" pageNumber="159" type="description">
+<paragraph id="782836BCF918FFF9FEF3F792FE711658" blockId="2.[303,1702,1956,2150]" pageId="2" pageNumber="159">
+<materialsCitation id="C8FF3CE1F918FFF9FEF3F792FE741658" ID-GBIF-Occurrence="3331839320" collectedFrom="On Hibiscus, croton, Pithecolobium dulce, Psophocarpus tetragonolobus" collectingDate="1938-1939" collectorName="R. G. Oakley" country="Guam" location="Guam" pageId="2" pageNumber="159">
+<collectingMunicipality id="984CACC6F918FFF9FEF3F792FE631606" box="[369,423,2060,2104]" pageId="2" pageNumber="159">On</collectingMunicipality>
+<emphasis id="4AE3EAAEF918FFF9FE3EF792FD9A1606" box="[444,606,2060,2104]" italics="true" pageId="2" pageNumber="159">
+<taxonomicName id="BF974D3FF918FFF9FE3EF792FD9C1606" box="[444,600,2060,2104]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="2" pageNumber="159" phylum="Tracheophyta" rank="genus">
+<location id="7D486067F918FFF9FE3EF792FD9C1606" LSID="urn:lsid:plazi:treatment:F03E87AAF918FFF9FEADF83AFE711658:7D486067F918FFF9FE3EF792FD9C1606" box="[444,600,2060,2104]" municipality="On" name="Hibiscus" pageId="2" pageNumber="159">Hibiscus</location>
+</taxonomicName>
+,
+</emphasis>
+croton, 
+<emphasis id="4AE3EAAEF918FFF9FC80F792F9621606" box="[770,1702,2060,2104]" italics="true" pageId="2" pageNumber="159">
+<taxonomicName id="BF974D3FF918FFF9FC80F792FC3B1606" box="[770,1023,2060,2104]" class="Magnoliopsida" family="Fabaceae" genus="Pithecolobium" higherTaxonomySource="CoL" kingdom="Plantae" order="Fabales" pageId="2" pageNumber="159" phylum="Tracheophyta" rank="genus">
+<location id="7D486067F918FFF9FC80F792FC3B1606" LSID="urn:lsid:plazi:treatment:F03E87AAF918FFF9FEADF83AFE711658:7D486067F918FFF9FC80F792FC3B1606" box="[770,1023,2060,2104]" municipality="On" name="Pithecolobium" pageId="2" pageNumber="159">Pithecolobium</location>
+</taxonomicName>
+dulce, · 
+<location id="7D486067F918FFF9FB10F792FA421606" LSID="urn:lsid:plazi:treatment:F03E87AAF918FFF9FEADF83AFE711658:7D486067F918FFF9FB10F792FA421606" box="[1170,1414,2060,2104]" municipality="On" name="Psophocarpus" pageId="2" pageNumber="159">Psophocarpus</location>
+tetragonolobus,
+</emphasis>
+<collectorName id="D562536AF918FFF9FEB2F7A0FE741658" box="[304,432,2110,2150]" pageId="2" pageNumber="159">Oakley</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

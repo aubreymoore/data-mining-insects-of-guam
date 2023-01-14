@@ -1,0 +1,180 @@
+<document id="5992F71C032A6BA2CC478AD8FE18A98D" ID-DOI="http://doi.org/10.5281/zenodo.5159515" ID-GBIF-Dataset="c9232a85-5a09-440a-9ede-102073e7b6f0" ID-Zenodo-Dep="5159515" checkinTime="1627051975127" checkinUser="carolina" docAuthor="SWEZEY, O. H. &amp; WILLIAMS, F. X." docDate="1942" docId="03E68852C57DFFB6FE00B1D0FA40FC3F" docLanguage="en" docName="InsectsOfGuamI.172.3-6.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 172" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Anaciaeschna jaspidea" docType="treatment" docVersion="13" lastPageNumber="4" masterDocId="FFDFF02AC57CFFB7FF89B354FF83F875" masterDocTitle="ODONATA, DRAGONFLIES OF GUAM" masterLastPageNumber="6" masterPageNumber="3" pageNumber="4" updateTime="1658861037059" updateUser="ExternalLinkService">
+<mods:mods id="5C2DDFC5C871001AF524D072342F4DD3" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="1AF9420FDD2AC31BDC059EF95100B1F9">
+<mods:title id="395D2C2937B9592A1129684BFE4ADD81">ODONATA, DRAGONFLIES OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="53069716080791AE689E6B02FF1DCA7E" type="personal">
+<mods:role id="23571ED8BDD13B3C9C48F7B96D7E44F3">
+<mods:roleTerm id="8A9B13E8C46CBA5CFFC81A99DC31736E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E58419F27E0B25054853EA2F3D346D63">SWEZEY, O. H.</mods:namePart>
+<mods:affiliation id="809754027FD8EB50D3DD0CED18E8ADD1">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:name id="AE97329D2F53E4312C291EE57505A322" type="personal">
+<mods:role id="2E13546CA8DCEB24BB9E8184C5D91761">
+<mods:roleTerm id="17AC8E73465F1A23CAFCC7736757AE27">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="83A91D0734781159E8465ED7670A3FEA">WILLIAMS, F. X.</mods:namePart>
+<mods:affiliation id="72FC32EE438EAC5AC87954A3DAF46C81">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="4CD0986189BBFAE58EF90BA79CD95910">text</mods:typeOfResource>
+<mods:relatedItem id="6F28CFE0797F516F26B78A9304932FB0" type="host">
+<mods:originInfo id="E6524309C890CBF0028194212761A17B">
+<mods:dateIssued id="5C0F4DE8E154ABC82B03151135565DE0">1942</mods:dateIssued>
+<mods:dateOther id="B4CD9B69A0BF8FACFA6193BBC9522C5D" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="9E4329EED1B5A2E1467C354463391805">Bernice P. Bishop Museum, Bulletin 172</mods:publisher>
+<mods:place id="88527B242E258755043D9CDFCF3DE66A">
+<mods:placeTerm id="1E08E6A3AD7AEC3E9F84618FF07CE5E2">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5A0DC2F58F1C795A5C9217544050F92A">
+<mods:title id="BEF11D03DF14F5041904F0C356F8A8EE">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="110E02182A1C51A0ABC7CE6CFD8DEDB2">
+<mods:extent id="2D09F4E1B5A29D2FF486298D9C6B571F" unit="page">
+<mods:start id="3B170232D78CA3F0648FA7F854702FC0">3</mods:start>
+<mods:end id="8C920E6BF8C175756C214F2BB4C13E9A">6</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E68C60BE64C8E187C0A23CFDCA08D240">book chapter</mods:classification>
+<mods:identifier id="D95C25C1480770C3E13A84643740D346" type="DOI">http://doi.org/10.5281/zenodo.5159515</mods:identifier>
+<mods:identifier id="0A6C9F00255D52C998C34D2F238CB62E" type="GBIF-Dataset">c9232a85-5a09-440a-9ede-102073e7b6f0</mods:identifier>
+<mods:identifier id="02A8F9849B3C3A677D189DC40BB84741" type="Zenodo-Dep">5159515</mods:identifier>
+</mods:mods>
+<treatment id="03E68852C57DFFB6FE00B1D0FA40FC3F" ID-DOI="http://doi.org/10.5281/zenodo.5163513" ID-GBIF-Taxon="183919241" ID-Zenodo-Dep="5163513" LSID="urn:lsid:plazi:treatment:03E68852C57DFFB6FE00B1D0FA40FC3F" httpUri="http://treatment.plazi.org/id/03E68852C57DFFB6FE00B1D0FA40FC3F" lastPageNumber="4" pageId="1" pageNumber="4">
+<subSubSection id="C3556ACFC57DFFB6FE00B1D0FBF2FADB" box="[393,1137,644,686]" pageId="1" pageNumber="4" type="nomenclature">
+<paragraph id="8BF03944C57DFFB6FE00B1D0FBF2FADB" blockId="1.[393,1788,644,1098]" box="[393,1137,644,686]" pageId="1" pageNumber="4">
+<heading id="D0B88E28C57DFFB6FE00B1D0FBF2FADB" box="[393,1137,644,686]" fontSize="11" level="2" pageId="1" pageNumber="4" reason="2">
+<emphasis id="B93BE556C57DFFB6FE00B1D0FE26FADB" bold="true" box="[393,421,644,686]" pageId="1" pageNumber="4">3.</emphasis>
+<taxonomicName id="4C4F42C7C57DFFB6FE4FB1D0FBEFFADB" authority="(Burmeister)" baseAuthorityName="Burmeister" box="[454,1132,644,686]" class="Insecta" family="Aeshnidae" genus="Anaciaeschna" kingdom="Animalia" order="Odonata" pageId="1" pageNumber="4" phylum="Arthropoda" rank="species" species="jaspidea">
+<emphasis id="B93BE556C57DFFB6FE4FB1D0FCE7FADB" bold="true" box="[454,868,644,686]" pageId="1" pageNumber="4">Anaciaeschna jaspidea</emphasis>
+(Burmeister)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3556ACFC57DFFB6FE4EB1ECFB1CFBDB" pageId="1" pageNumber="4" type="reference_group">
+<paragraph id="8BF03944C57DFFB6FE4EB1ECFA3EFA95" blockId="1.[393,1788,644,1098]" box="[455,1469,696,736]" pageId="1" pageNumber="4">
+<treatmentCitationGroup id="AB5F1E6AC57DFFB6FE4EB1ECFA3EFA95" box="[455,1469,696,736]" pageId="1" pageNumber="4">
+<treatmentCitation id="0AEE1F55C57DFFB6FE4EB1ECFA3BFA95" box="[455,1464,696,736]" pageId="1" pageNumber="4">
+<taxonomicName id="4C4F42C7C57DFFB6FE4EB1ECFB4BFA95" authority="Burmeister, Handb. Ent." authorityName="Burmeister, Handb. Ent." box="[455,1224,696,736]" class="Insecta" family="Aeshnidae" genus="Aeschna" kingdom="Animalia" order="Odonata" pageId="1" pageNumber="4" phylum="Arthropoda" rank="species" species="jaspidea">
+<emphasis id="B93BE556C57DFFB6FE4EB1ECFD7FFA95" box="[455,764,696,736]" italics="true" pageId="1" pageNumber="4">Aeschna jaspidea</emphasis>
+Burmeister, 
+<bibCitation id="5E653128C57DFFB6FC65B1ECFA3BFA95" author="Handb" box="[1004,1464,696,736]" pageId="1" pageNumber="4" pagination="840" part="2" refId="ref436" title="Ent" type="journal article" year="1839">
+<author id="53F2D1A1C57DFFB6FC65B1ECFBE4FA95" box="[1004,1127,696,736]" fns="*" inm="true" npo="*" pageId="1" pageNumber="4">Handb</author>
+. 
+<title id="F94BD272C57DFFB6FBF7B1ECFB41FA95" box="[1150,1218,696,736]" pageId="1" pageNumber="4">Ent</title>
+. 
+<emphasis id="B93BE556C57DFFB6FB50B1ECFB68FA95" bold="true" box="[1241,1259,696,736]" pageId="1" pageNumber="4">
+<part id="FFEB93D9C57DFFB6FB50B1ECFB64FA95" box="[1241,1255,696,736]" pageId="1" pageNumber="4" type="volume">2</part>
+:
+</emphasis>
+<pagination id="B286C7B0C57DFFB6FA82B1ECFACFFA95" box="[1291,1356,696,736]" pageId="1" pageNumber="4" type="pagination">840</pagination>
+, 
+<year id="FFE77817C57DFFB6FAECB1ECFA3BFA95" box="[1381,1464,696,736]" pageId="1" pageNumber="4">1839</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BF03944C57DFFB6FE41B1BFFD61FB3D" blockId="1.[393,1788,644,1098]" pageId="1" pageNumber="4">
+<treatmentCitationGroup id="AB5F1E6AC57DFFB6FE41B1BFFD61FB3D" pageId="1" pageNumber="4">
+<treatmentCitation id="0AEE1F55C57DFFB6FE41B1BFFD5EFB3D" pageId="1" pageNumber="4">
+<taxonomicName id="4C4F42C7C57DFFB6FE41B1BFFB79FB60" authority="(Burmeister) Hagen, Zool." authorityName="Hagen, Zool." baseAuthorityName="Burmeister" box="[456,1274,747,789]" class="Insecta" family="Aeshnidae" genus="Anaciaeschna" kingdom="Animalia" order="Odonata" pageId="1" pageNumber="4" phylum="Arthropoda" rank="species" species="jaspideus">
+<emphasis id="B93BE556C57DFFB6FE41B1BFFCE8FB60" box="[456,875,747,789]" italics="true" pageId="1" pageNumber="4">Anaciaeschna jaspideus</emphasis>
+(Burmeister) 
+<bibCitation id="5E653128C57DFFB6FBF5B1BFFD5EFB3D" author="Hagen" journalOrPublisher="Zool. - bot. Ges. Wien, Verh." pageId="1" pageNumber="4" pagination="32" part="17" refId="ref451" type="journal article" year="1867">
+<author id="53F2D1A1C57DFFB6FBF5B1BFFB70FB60" box="[1148,1267,747,789]" pageId="1" pageNumber="4">Hagen</author>
+, 
+<journalOrPublisher id="518E3388C57DFFB6FA85B1BFF979FB60" box="[1292,1786,747,789]" pageId="1" pageNumber="4">Zool.-bot. Ges. Wien, Verh.</journalOrPublisher>
+<emphasis id="B93BE556C57DFFB6FD8EB049FDBEFB3D" bold="true" box="[519,573,797,840]" pageId="1" pageNumber="4">
+<part id="FFEB93D9C57DFFB6FD8EB049FDAFFB3D" box="[519,556,797,840]" pageId="1" pageNumber="4" type="volume">17</part>
+:
+</emphasis>
+<pagination id="B286C7B0C57DFFB6FDC2B049FDF6FB3D" box="[587,629,797,840]" pageId="1" pageNumber="4" type="pagination">32</pagination>
+, 
+<year id="FFE77817C57DFFB6FD02B049FD5EFB3D" box="[651,733,797,840]" pageId="1" pageNumber="4">1867</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BF03944C57DFFB6FE40B006FB1CFBDB" blockId="1.[393,1788,644,1098]" pageId="1" pageNumber="4">
+<treatmentCitationGroup id="AB5F1E6AC57DFFB6FE40B006FB1CFBDB" pageId="1" pageNumber="4">
+<treatmentCitation id="0AEE1F55C57DFFB6FE40B006F977FB08" box="[457,1780,850,893]" pageId="1" pageNumber="4">
+<taxonomicName id="4C4F42C7C57DFFB6FE40B006FB6DFB08" authority="(Burmeister) Fraser, Ins." authorityName="Fraser, Ins." baseAuthorityName="Burmeister" box="[457,1262,850,893]" class="Insecta" family="Aeshnidae" genus="Anaciaeschna" kingdom="Animalia" order="Odonata" pageId="1" pageNumber="4" phylum="Arthropoda" rank="species" species="jaspidea">
+<emphasis id="B93BE556C57DFFB6FE40B006FCD9FB08" box="[457,858,850,893]" italics="true" pageId="1" pageNumber="4">Anaciaeschna jaspidea</emphasis>
+(Burmeister) 
+<bibCitation id="5E653128C57DFFB6FBF8B006F978FB08" author="Fraser" box="[1137,1787,850,893]" journalOrPublisher="Odon." pageId="1" pageNumber="4" pagination="152" part="3" refId="ref475" type="journal article" year="1936">
+<author id="53F2D1A1C57DFFB6FBF8B006FB64FB08" box="[1137,1255,850,893]" pageId="1" pageNumber="4">Fraser</author>
+, Ins. 
+<collectingCountry id="F35879D4C57DFFB6FAD1B006FA4EFB08" box="[1368,1485,850,893]" name="Samoa" pageId="1" pageNumber="4">Samoa</collectingCountry>
+7(1):34, 1927;
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+<bibCitation id="5E653128C57DFFB6FD81B0D0FB1CFBDB" author="Fraser" box="[520,1183,900,942]" journalOrPublisher="Odon." pageId="1" pageNumber="4" pagination="152" part="3" refId="ref489" type="journal article" year="1936">
+<treatmentCitation id="0AEE1F55C57DFFB6FD81B0D0FB19FBDB" box="[520,1178,900,942]" pageId="1" pageNumber="4">
+Fauna Brit. Ind., 
+<journalOrPublisher id="518E3388C57DFFB6FCCDB0D0FC2EFBDB" box="[836,941,900,942]" jopScore="0.08966217" pageId="1" pageNumber="4">Odon.</journalOrPublisher>
+<part id="FFEB93D9C57DFFB6FC35B0D0FC4AFBDB" box="[956,969,900,942]" pageId="1" pageNumber="4" type="volume">3</part>
+: 
+<pagination id="B286C7B0C57DFFB6FC78B0D0FBACFBDB" box="[1009,1071,900,942]" pageId="1" pageNumber="4" type="pagination">152</pagination>
+, 
+<year id="FFE77817C57DFFB6FBCFB0D0FB19FBDB" box="[1094,1178,900,942]" pageId="1" pageNumber="4">1936</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3556ACFC57DFFB6FE40B0ECF979FB91" box="[457,1786,952,996]" pageId="1" pageNumber="4" type="materials_examined">
+<paragraph id="8BF03944C57DFFB6FE40B0ECF979FB91" blockId="1.[393,1788,644,1098]" box="[457,1786,952,996]" pageId="1" pageNumber="4">
+<materialsCitation id="3B273319C57DFFB6FE40B0ECFCDFFB91" ID-GBIF-Occurrence="3866005318" box="[457,860,952,996]" collectingDate="1936-05-09" collectorName="E. H. Bryan" country="Guam" location="Agana" pageId="1" pageNumber="4">
+<collectingMunicipality id="6B94A33EC57DFFB6FE40B0ECFDBDFB91" box="[457,574,952,996]" pageId="1" pageNumber="4">Agana</collectingMunicipality>
+, 
+<date id="FFF11F84C57DFFB6FDDFB0ECFD4BFB91" box="[598,712,952,996]" pageId="1" pageNumber="4">
+<collectingDate id="EFB5E66CC57DFFB6FDDFB0ECFD4BFB91" box="[598,712,952,996]" pageId="1" pageNumber="4">May 9</collectingDate>
+</date>
+, 
+<location id="8E906F9FC57DFFB6FD69B0ECFCD6FB91" LSID="urn:lsid:plazi:treatment:03E68852C57DFFB6FE00B1D0FA40FC3F:8E906F9FC57DFFB6FD69B0ECFCD6FB91" box="[736,853,952,996]" municipality="Agana" name="Bryan" pageId="1" pageNumber="4">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="3B273319C57DFFB6FCE4B0ECFBD3FB91" ID-GBIF-Occurrence="3866005311" box="[877,1104,952,996]" collectingDate="1936-10-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="4">
+<location id="8E906F9FC57DFFB6FCE4B0ECFC2CFB91" LSID="urn:lsid:plazi:treatment:03E68852C57DFFB6FE00B1D0FA40FC3F:8E906F9FC57DFFB6FCE4B0ECFC2CFB91" box="[877,943,952,996]" name="Piti" pageId="1" pageNumber="4">Piti</location>
+, 
+<date id="FFF11F84C57DFFB6FC4EB0ECFBC9FB91" box="[967,1098,952,996]" pageId="1" pageNumber="4" value="2012-10">
+<collectingDate id="EFB5E66CC57DFFB6FC4EB0ECFBC9FB91" box="[967,1098,952,996]" pageId="1" pageNumber="4" value="2012-10">Oct. 12</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B273319C57DFFB6FBE9B0ECF976FB91" ID-GBIF-Occurrence="3866005315" box="[1120,1781,952,996]" collectedFrom="at light" collectingDate="1936-11-03" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="4" specimenCount="4">
+<date id="FFF11F84C57DFFB6FBE9B0ECFB59FB91" box="[1120,1242,952,996]" pageId="1" pageNumber="4">
+<collectingDate id="EFB5E66CC57DFFB6FBE9B0ECFB59FB91" box="[1120,1242,952,996]" pageId="1" pageNumber="4">Nov. 3</collectingDate>
+</date>
+, 
+<collectorName id="26BA5C92C57DFFB6FB7AB0ECFAFDFB91" box="[1267,1406,952,996]" pageId="1" pageNumber="4">Swezey</collectorName>
+; 
+<specimenCount id="9D49F2CDC57DFFB6FA1CB0ECF9E5FB91" box="[1429,1638,952,996]" pageId="1" pageNumber="4" type="generic">4 specimens</specimenCount>
+at light
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3556ACFC57DFFB6FE40B0B8FA40FC3F" pageId="1" pageNumber="4" type="description">
+<paragraph id="8BF03944C57DFFB6FE40B0B8FA40FC3F" blockId="1.[393,1788,644,1098]" pageId="1" pageNumber="4">
+The first record of its occurrence in 
+<collectingCountry id="F35879D4C57DFFB6FB09B0B8FB6FFC6F" box="[1152,1260,1004,1050]" name="Guam" pageId="1" pageNumber="4">Guam</collectingCountry>
+. A species with wide range from 
+<collectingCountry id="F35879D4C57DFFB6FE7AB776FDD2FC3F" box="[499,593,1058,1098]" name="India" pageId="1" pageNumber="4">India</collectingCountry>
+, extending to the Pacific islands as far as 
+<collectingCountry id="F35879D4C57DFFB6FACFB776FA3DFC3F" box="[1350,1470,1058,1098]" name="Samoa" pageId="1" pageNumber="4">Samoa</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

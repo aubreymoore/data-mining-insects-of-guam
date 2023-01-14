@@ -1,0 +1,108 @@
+<document id="960DD33AA7174039AC6BF594ABD1D74D" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E945FFAFFEF38AC3901A0A8C" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Aulacodes plicatalis Walker" docType="treatment" docVersion="20" lastPageNumber="177" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="177" updateTime="1670251363624" updateUser="annettekang">
+<mods:mods id="4E52D541B638F6A0E34FC8734A0072DD" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="5292C82ACC562A135F203B364A6EAB49">
+<mods:title id="AD0327E098BE5F82D4F984B8D1AD0A59">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="A12444450330790A4B7F3FD0B2D801D4" type="personal">
+<mods:role id="F323F273152FDC390F5F5A3C5A470220">
+<mods:roleTerm id="4C4C98C81C3DEB4F53448A7AC7881DBE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="AF7172D21E4BDE7E6B5FB02EC204BE58">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="9C77C155DFD7D3A0C4C08E16BDE70D54">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="768F1A0869829BE6B1287F963944373A">text</mods:typeOfResource>
+<mods:relatedItem id="FCB131BF311B6864E01C276DB37A9E51" type="host">
+<mods:originInfo id="28624B1BC864F790E6439811C3566637">
+<mods:dateIssued id="92ECEB063A0F4F17847121C63A807F72">1946</mods:dateIssued>
+<mods:dateOther id="957A93800BBE5E9577E6C57BB7257F29" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="B4CE0C8D31F421117D9346EA7EEF1C8E">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="8D7F324A2158F45ADA85FB9600C522A0">
+<mods:placeTerm id="61F7567B8EAEE6992BABBFA1E4D30250">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9F9D030A5D58ABB177AFEC9924E7F63E">
+<mods:title id="2CDB525AB260C5527D8FC9A24115D67C">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="15FC2161204629CA0328AFBC47305029">
+<mods:extent id="3B0F16E3661F5EFA76E507F30DA031C8" unit="page">
+<mods:start id="F536DA4C4AB8900190495CB8B477E295">163</mods:start>
+<mods:end id="462ADC01B2CF9D7BBB01F2C539F6E854">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="08D0C0202F9C897400A9C134B1DC9456">book chapter</mods:classification>
+<mods:identifier id="C61ED408E926E954D58E2BBB79198DA5" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="45BDF634F632397BA4FD952C91D4F396" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="AE1BFF1EE9CA075139F7BBAC2DE44141" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E945FFAFFEF38AC3901A0A8C" ID-DOI="http://doi.org/10.5281/zenodo.5498513" ID-GBIF-Taxon="183926871" ID-Zenodo-Dep="5498513" LSID="urn:lsid:plazi:treatment:03B387B8E945FFAFFEF38AC3901A0A8C" httpUri="http://treatment.plazi.org/id/03B387B8E945FFAFFEF38AC3901A0A8C" lastPageNumber="177" pageId="14" pageNumber="177">
+<subSubSection id="C3006525E945FFAFFEF38AC391E50A66" box="[316,915,2302,2345]" pageId="14" pageNumber="177" type="nomenclature">
+<paragraph id="8BA536AEE945FFAFFEF38AC391E50A66" blockId="14.[313,1710,1687,2499]" box="[316,915,2302,2345]" pageId="14" pageNumber="177">
+<emphasis id="B96EEABCE945FFAFFEF38AC3931A0A66" bold="true" box="[316,364,2302,2345]" pageId="14" pageNumber="177">15.</emphasis>
+<taxonomicName id="4C1A4D2DE945FFAFFE438AC391FA0A66" authority="Walker" box="[396,908,2302,2345]" class="Insecta" family="Pyralidae" genus="Aulacodes" kingdom="Animalia" order="Lepidoptera" pageId="14" pageNumber="177" phylum="Arthropoda" rank="species" species="plicatalis">
+<emphasis id="B96EEABCE945FFAFFE438AC390830A66" bold="true" box="[396,757,2302,2345]" pageId="14" pageNumber="177">Aulacodes plicatalis</emphasis>
+Walker
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E945FFAFFC6C8AC391200A14" pageId="14" pageNumber="177" type="description">
+<paragraph id="8BA536AEE945FFAFFC6C8AC391200A14" blockId="14.[313,1710,1687,2499]" pageId="14" pageNumber="177">
+<treatmentCitationGroup id="AB0A1180E945FFAFFC6C8AC391200A14" pageId="14" pageNumber="177">
+<bibCitation id="5E303EC2E945FFAFFC6C8AC391200A14" author="Walker" pageId="14" pageNumber="177" pagination="1332" part="34" refId="ref8046" title="Fauna Brit. India, Moths" type="journal article" year="1865">
+<treatmentCitation id="0ABB10BFE945FFAFFC6C8AC397770A66" author="Walker" box="[931,1281,2302,2345]" page="1332" pageId="14" pageNumber="177" year="1865">
+Cat. 
+<emphasis id="B96EEABCE945FFAFFC398AC396590A66" bold="true" box="[1014,1071,2302,2345]" pageId="14" pageNumber="177">
+<part id="FFBE9C33E945FFAFFC398AC396680A66" box="[1014,1054,2302,2345]" pageId="14" pageNumber="177" type="volume">34</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE945FFAFFB8F8AC396E70A66" box="[1088,1169,2302,2345]" pageId="14" pageNumber="177" type="pagination">1332</pagination>
+, 
+<year id="FFB277FDE945FFAFFB668AC397770A66" box="[1193,1281,2302,2345]" pageId="14" pageNumber="177">1865</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE945FFAFFAD88AC391270A14" author="Hampson" page="214" pageId="14" pageNumber="177" year="1896">
+<author id="53A7DE4BE945FFAFFAD88AC397BE0A66" box="[1303,1480,2302,2345]" pageId="14" pageNumber="177">Hampson</author>
+, 
+<title id="F91EDD98E945FFAFFA118AC390140A14" pageId="14" pageNumber="177">
+Fauna Brit. 
+<collectingCountry id="F30D763EE945FFAFFEB78B0E93AF0A14" box="[376,473,2355,2395]" name="India" pageId="14" pageNumber="177">India</collectingCountry>
+, Moths
+</title>
+<emphasis id="B96EEABCE945FFAFFDBC8B0E90EE0A14" bold="true" box="[627,664,2355,2395]" pageId="14" pageNumber="177">
+<part id="FFBE9C33E945FFAFFDBC8B0E90E70A14" box="[627,657,2355,2395]" pageId="14" pageNumber="177" type="volume">4</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE945FFAFFD6A8B0E90920A14" box="[677,740,2355,2395]" pageId="14" pageNumber="177" type="pagination">214</pagination>
+, 
+<year id="FFB277FDE945FFAFFD308B0E91270A14" box="[767,849,2355,2395]" pageId="14" pageNumber="177">1896</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E945FFAFFEB48B5B901A0A8C" pageId="14" pageNumber="177" type="materials_examined">
+<paragraph id="8BA536AEE945FFAFFEB48B5B901A0A8C" blockId="14.[313,1710,1687,2499]" pageId="14" pageNumber="177">
+Occurs in 
+<collectingCountry id="F30D763EE945FFAFFD898B5B90D30ADF" box="[582,677,2406,2448]" name="India" pageId="14" pageNumber="177">India</collectingCountry>
+, Java and Celebes. 
+<materialsCitation id="3B723CF3E945FFAFFBFF8B5B90110A8C" ID-GBIF-Occurrence="3332081319" collectedFrom="at light" collectingDate="1936-09-04" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="14" pageNumber="177" specimenCount="1">
+One 
+<specimenCount id="9D1CFD27E945FFAFFB5D8B5B97460ADF" box="[1170,1328,2406,2448]" pageId="14" pageNumber="177" type="generic">specimen</specimenCount>
+taken at light, 
+<location id="8EC56075E945FFAFF9AA8B5B94D10ADF" LSID="urn:lsid:plazi:treatment:03B387B8E945FFAFFEF38AC3901A0A8C:8EC56075E945FFAFF9AA8B5B94D10ADF" box="[1637,1703,2406,2448]" pageId="14" pageNumber="177">
+<collectingMunicipality id="6BC1ACD4E945FFAFF9AA8B5B94D10ADF" box="[1637,1703,2406,2448]" pageId="14" pageNumber="177">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE945FFAFFEF28BA493B60A8C" box="[317,448,2457,2499]" pageId="14" pageNumber="177">
+<collectingDate id="EFE0E986E945FFAFFEF28BA493B60A8C" box="[317,448,2457,2499]" pageId="14" pageNumber="177">Sept. 4</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E945FFAFFE2E8BA490110A8C" box="[481,615,2457,2499]" pageId="14" pageNumber="177">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

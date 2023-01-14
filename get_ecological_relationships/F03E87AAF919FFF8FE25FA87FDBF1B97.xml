@@ -1,0 +1,87 @@
+<document id="ADA44663FBD21D7AE975B30A5A4F9E5B" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF919FFF8FE25FA87FDBF1B97" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Lepidosaphes duponti Green" docType="treatment" docVersion="14" lastPageNumber="160" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="160" updateTime="1663151585441" updateUser="aubreymoore">
+<mods:mods id="2CEEFD94F927E7E57E1563099EE4D91C" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="96708F0407A91EA1FB1260588B71A03A">
+<mods:title id="445C41758B91F36ED4C7A3A656ED3C7A">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="6A698AB62A4377E7A10A19A12534B39C" type="personal">
+<mods:role id="3ACD0B5B6FE7EBD9B7D23C9135E0C7FF">
+<mods:roleTerm id="CA315EDF83B661E0AF5C8B4CDCD639D8">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="92AE53DB867AEF2442F6C1C9F400D04C">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="A62C2B4280DEB81F27F236E92400620C">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="98A7B0BD1960B1A59060EA2F97D5AE50">text</mods:typeOfResource>
+<mods:relatedItem id="EB4559A4A41ADAB19F8C9B796DBC5842" type="host">
+<mods:originInfo id="49291B3180BC08ADE073BE0A7DCDC03B">
+<mods:dateIssued id="378253DB255B1D27E29E3762DD0FC768">1946</mods:dateIssued>
+<mods:dateOther id="F23FF701A6ECA13F7E10A1B8DA0FC3B7" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="0F5625550AA85035E345391E0E370B1B">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="2AA37FAB2D950FDA8865B19485658689">
+<mods:placeTerm id="4CB3CD1699FE32E63930F39BEB8CAE4B">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="F71400803497A6550B3E240F26532A76">
+<mods:title id="C0EA45274592D864BC986B4EBF0613AD">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="36F67CA503E4BCD00ED8A700074D7982">
+<mods:extent id="42468474737D4F56053590FDF16C6508" unit="page">
+<mods:start id="B132AC13193B5ABE8840ED272B180786">157</mods:start>
+<mods:end id="9E71002DC1C917CDD638FF3A2819264C">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="5A59728A5AC86CFA532AE0E070421E15">book chapter</mods:classification>
+<mods:identifier id="2A997189A7E134C7C04F4F93B2780987" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="AD0B35756FA6F5FB9E593112D4D0AFB5" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="EA5AE5079664E64A82A55C7B7810E0A9" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF919FFF8FE25FA87FDBF1B97" ID-DOI="http://doi.org/10.5281/zenodo.5211575" ID-GBIF-Taxon="183925157" ID-Zenodo-Dep="5211575" LSID="urn:lsid:plazi:treatment:F03E87AAF919FFF8FE25FA87FDBF1B97" httpUri="http://treatment.plazi.org/id/F03E87AAF919FFF8FE25FA87FDBF1B97" lastPageNumber="160" pageId="3" pageNumber="160">
+<heading id="236081D0F919FFF8FE25FA87F9181B7B" box="[423,1756,1305,1349]" fontSize="8" level="2" pageId="3" pageNumber="160" reason="4">
+<subSubSection id="308D6537F919FFF8FE25FA87FBC91B7B" box="[423,1037,1305,1349]" pageId="3" pageNumber="160" type="nomenclature">
+<paragraph id="782836BCF919FFF8FE25FA87FBC91B7B" blockId="3.[423,1822,1305,1449]" box="[423,1037,1305,1349]" pageId="3" pageNumber="160">
+<emphasis id="4AE3EAAEF919FFF8FE25FA87FC4D1B7B" bold="true" box="[423,905,1305,1349]" pageId="3" pageNumber="160">
+<emphasis id="4AE3EAAEF919FFF8FE25FA87FE1E1B7B" bold="true" box="[423,474,1305,1349]" italics="true" pageId="3" pageNumber="160">37.</emphasis>
+<taxonomicName id="BF974D3FF919FFF8FE79FA87FBC31B7B" authority="Green" box="[507,1031,1305,1349]" class="Insecta" family="Coccidae" genus="Lepidosaphes" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="3" pageNumber="160" phylum="Arthropoda" rank="species" species="duponti">
+Lepidosaphes duponti 
+<author id="A02ADE59F919FFF8FC1BFA87FBC31B7B" box="[921,1031,1305,1349]" pageId="3" pageNumber="160">Green</author>
+</taxonomicName>
+</emphasis>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F919FFF8FB9EFA87F9181B7B" box="[1052,1756,1305,1349]" pageId="3" pageNumber="160" type="description">
+<paragraph id="782836BCF919FFF8FB9EFA87F9181B7B" blockId="3.[423,1822,1305,1449]" box="[1052,1756,1305,1349]" pageId="3" pageNumber="160">
+<treatmentCitationGroup id="58871192F919FFF8FB9EFA87F9181B7B" box="[1052,1756,1305,1349]" pageId="3" pageNumber="160">
+<treatmentCitation id="F93610ADF919FFF8FB9EFA87F9131B7B" author="Green" box="[1052,1751,1305,1349]" page="195" pageId="3" pageNumber="160" year="1916">
+<bibCitation id="ADBD3ED0F919FFF8FB9EFA87F9131B7B" author="Green" box="[1052,1751,1305,1349]" journalOrPublisher="Bull. Ent. Research" pageId="3" pageNumber="160" pagination="195" part="7" type="journal volume" year="1916">
+<journalOrPublisher id="A2563C70F919FFF8FB9EFA87FAB91B7B" box="[1052,1405,1305,1349]" pageId="3" pageNumber="160">Bull. Ent. Research</journalOrPublisher>
+<emphasis id="4AE3EAAEF919FFF8FA09FA87FA6B1B7B" bold="true" box="[1419,1455,1305,1349]" pageId="3" pageNumber="160">
+<part id="0C339C21F919FFF8FA09FA87FA6C1B7B" box="[1419,1448,1305,1349]" pageId="3" pageNumber="160" type="volume">7</part>
+:
+</emphasis>
+<pagination id="415EC848F919FFF8FA42FA87F9C61B7B" box="[1472,1538,1305,1349]" pageId="3" pageNumber="160">195</pagination>
+,fig. 3, 
+<year id="0C3F77EFF919FFF8F907FA87F9131B7B" box="[1669,1751,1305,1349]" pageId="3" pageNumber="160">1916</year>
+</bibCitation>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+</heading>
+<subSubSection id="308D6537F919FFF8FE64FAD3FDBF1B97" pageId="3" pageNumber="160" type="materials_examined">
+<paragraph id="782836BCF919FFF8FE64FAD3FDBF1B97" blockId="3.[423,1822,1305,1449]" pageId="3" pageNumber="160">
+<materialsCitation id="C8FF3CE1F919FFF8FE64FAD3FDBF1B97" ID-GBIF-Occurrence="3331839353" collectedFrom="On coconut trunk" collectingDate="1936" collectorName="Bureau of Entomology and Plant Quarantine" country="Guam" location="Guam" pageId="3" pageNumber="160">
+<collectingMunicipality id="984CACC6F919FFF8FE64FAD3FDD81B46" box="[486,540,1357,1400]" pageId="3" pageNumber="160">On</collectingMunicipality>
+coconut trunk, 
+<collectorName id="D562536AF919FFF8FCC8FAD3FC321B46" box="[842,1014,1357,1400]" pageId="3" pageNumber="160">Fullaway</collectorName>
+, 
+<collectorName id="D562536AF919FFF8FB92FAD3FB571B46" box="[1040,1171,1357,1400]" pageId="3" pageNumber="160">Oakley</collectorName>
+, 
+<location id="7D486067F919FFF8FB2CFAD3FDB21B97" LSID="urn:lsid:plazi:treatment:F03E87AAF919FFF8FE25FA87FDBF1B97:7D486067F919FFF8FB2CFAD3FDB21B97" municipality="On" name="Bureau of Entomology and Plant Quarantine" pageId="3" pageNumber="160">Bureau of Entomology and Plant Quarantine</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

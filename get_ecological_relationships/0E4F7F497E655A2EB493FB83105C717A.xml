@@ -1,0 +1,261 @@
+<document id="BB811CDF0F93935864ACCC8405DE7553" ID-DOI="http://doi.org/10.5281/zenodo.5160270" ID-GBIF-Dataset="6dc2872d-cbab-4982-baed-c0969e3e3236" ID-Zenodo-Dep="5160270" checkinTime="1628013042203" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="0E4F7F497E655A2EB493FB83105C717A" docLanguage="en" docName="InsectsOfGuamI.172.175-183.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Odontomachus haematoda (Linnaeus)" docType="treatment" docVersion="18" lastPageNumber="176" masterDocId="F27607317E645A2FB552FF8416577654" masterDocTitle="Hymenoptera Formicidae of Guam" masterLastPageNumber="183" masterPageNumber="175" pageNumber="176" updateTime="1657826854609" updateUser="ExternalLinkService">
+<mods:mods id="9CD721622303EC3D574170238B5ECCB9" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="4C143F941107384B393FEB3C31DFC404">
+<mods:title id="9D42E29E6810DCF350B6F8072F8BF831">Hymenoptera Formicidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="2F634829A1E367B612D654587F3BD460" type="personal">
+<mods:role id="82BD6C222D74C9AF03382307102F2E5F">
+<mods:roleTerm id="E2E76B5C6B11471BF233DBAB364E1B80">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="FF3566EA41D502B42E04652930054921">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="F085A12B13BB6DF522E65AB6593B59A6">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9794E4E17BB030AE9661063E6CE563E3">text</mods:typeOfResource>
+<mods:relatedItem id="B35245CA6F874B6E22714E4C0930B829" type="host">
+<mods:originInfo id="CAE5F19615BF51B0D545B0EB84587B76">
+<mods:dateIssued id="0B521742DD6299DDE2B76829028D7E7C">1942</mods:dateIssued>
+<mods:dateOther id="84F5E2142C802A7B24C80017A792F37E" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="C94324D14802FD25C0AEF986B0ED4B3E">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="C58098F5EDE3E929A6568FD53FCF8E6F">
+<mods:placeTerm id="DB6784EE790228DFC8525B919C18FE69">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A4DF33AC4C19F61EDAA356BCC412A521">
+<mods:title id="8454E70FAFA02B5A1ED9BAEC2ED2C18B">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="1F37D5FB4487305544684CB9C14DAAFA">
+<mods:extent id="24C8561CAC2ABA71AC3BEB0E1898DB1C" unit="page">
+<mods:start id="4F2F88A40BE012016EE2A45575E84BA8">175</mods:start>
+<mods:end id="617FC094A1039F355CE526A6CB3539E1">183</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="012C6049B05E7A7BD1101B65A1ADAF73">book chapter</mods:classification>
+<mods:identifier id="AE101B6EBA529D6794C8E1EAD545E567" type="DOI">http://doi.org/10.5281/zenodo.5160270</mods:identifier>
+<mods:identifier id="C80C618503271A8C46C1283A6B1FB31D" type="GBIF-Dataset">6dc2872d-cbab-4982-baed-c0969e3e3236</mods:identifier>
+<mods:identifier id="85CD34A72D5673CBAC9D13DB1A97C091" type="Zenodo-Dep">5160270</mods:identifier>
+</mods:mods>
+<treatment id="0E4F7F497E655A2EB493FB83105C717A" ID-DOI="http://doi.org/10.5281/zenodo.5164274" ID-GBIF-Taxon="184416185" ID-Zenodo-Dep="5164274" LSID="urn:lsid:plazi:treatment:0E4F7F497E655A2EB493FB83105C717A" httpUri="http://treatment.plazi.org/id/0E4F7F497E655A2EB493FB83105C717A" lastPageNumber="176" pageId="1" pageNumber="176">
+<subSubSection id="CEFC9DD47E655A2EB493FB8312877265" box="[449,1232,1031,1073]" pageId="1" pageNumber="176" type="nomenclature">
+<paragraph id="8659CE5F7E655A2EB493FB8312877265" blockId="1.[449,1846,1031,1838]" box="[449,1232,1031,1073]" pageId="1" pageNumber="176">
+<heading id="DD1179337E655A2EB493FB8312877265" box="[449,1232,1031,1073]" fontSize="11" level="2" pageId="1" pageNumber="176" reason="2">
+3. 
+<taxonomicName id="41E6B5DC7E655A2EB752FB83129D7265" authorityName="(Linnaeus)" box="[512,1226,1031,1073]" class="Insecta" family="Formicidae" genus="Odontomachus" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="176" phylum="Arthropoda" rank="species" species="haematoda">
+<emphasis id="B492124D7E655A2EB752FB8315B17265" bold="true" box="[512,998,1031,1073]" pageId="1" pageNumber="176">Odontomachus haematoda</emphasis>
+(Linnaeus)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E655A2EB753FBBD11627366" pageId="1" pageNumber="176" type="reference_group">
+<paragraph id="8659CE5F7E655A2EB753FBBD10D27230" blockId="1.[449,1846,1031,1838]" box="[513,1669,1081,1124]" pageId="1" pageNumber="176">
+<bibCitation id="53CCC6337E655A2EB753FBBD10D27230" author="Linnaeus" box="[513,1669,1081,1124]" pageId="1" pageNumber="176" pagination="582" part="1" refId="ref671" title="Syst. Nat." type="book" year="1758">
+<treatmentCitationGroup id="A6F6E9717E655A2EB753FBBD10D77230" box="[513,1664,1081,1124]" pageId="1" pageNumber="176">
+<treatmentCitation id="0747E84E7E655A2EB753FBBD10D77230" ID-DOI="http://doi.org/10.5281/zenodo.3919521" ID-Zenodo-Dep="3919521" LSID="urn:lsid:zoobank.org:act:769F84E9-865C-44A8-8B26-15AF8E82D71B" author="Linnaeus" box="[513,1664,1081,1124]" httpUri="http://treatment.plazi.org/id/665267F464FCBF702DB1FB0201637A63" page="582" pageId="1" pageNumber="176" year="1758">
+<emphasis id="B492124D7E655A2EB753FBBD15367230" box="[513,865,1081,1124]" italics="true" pageId="1" pageNumber="176">Formica haematoda</emphasis>
+<author id="5E5B26BA7E655A2EB623FBBD12417230" box="[881,1046,1081,1124]" pageId="1" pageNumber="176">Linnaeus</author>
+, 
+<title id="F4E225697E655A2EB162FBBD12BF7230" box="[1072,1256,1081,1124]" pageId="1" pageNumber="176">Syst. Nat.</title>
+, 10th ed. 
+<emphasis id="B492124D7E655A2EB0F1FBBD13E77230" bold="true" box="[1443,1456,1081,1124]" pageId="1" pageNumber="176">
+<part id="F24264C27E655A2EB0F1FBBD13FB7230" box="[1443,1452,1081,1124]" pageId="1" pageNumber="176" type="volume">1</part>
+:
+</emphasis>
+<pagination id="BF2F30AB7E655A2EB081FBBD10447230" box="[1491,1555,1081,1124]" pageId="1" pageNumber="176" type="pageRange">582</pagination>
+, 
+<year id="F24E8F0C7E655A2EB37FFBBD10D77230" box="[1581,1664,1081,1124]" pageId="1" pageNumber="176">1758</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+<paragraph id="8659CE5F7E655A2EB750FBE915B3729F" blockId="1.[449,1846,1031,1838]" pageId="1" pageNumber="176">
+<bibCitation id="53CCC6337E655A2EB750FBE915B3729F" author="Bingham" journalOrPublisher="Fauna Brit. India, TODO Hymenopt." pageId="1" pageNumber="176" pagination="47" part="2" refId="ref690" type="journal article" year="1903">
+<treatmentCitationGroup id="A6F6E9717E655A2EB750FBE91588729F" pageId="1" pageNumber="176">
+<treatmentCitation id="0747E84E7E655A2EB750FBE91588729F" author="Bingham" page="47" pageId="1" pageNumber="176" year="1903">
+<emphasis id="B492124D7E655A2EB750FBE915A372C3" box="[514,1012,1133,1175]" italics="true" pageId="1" pageNumber="176">Odontomachus haematodes</emphasis>
+(Linnaeus) 
+<author id="5E5B26BA7E655A2EB054FBE913F072C3" box="[1286,1447,1133,1175]" pageId="1" pageNumber="176">Bingham</author>
+, 
+<journalOrPublisher id="5C27C4937E655A2EB09DFBE91551729F" pageId="1" pageNumber="176">
+Fauna Brit. 
+<collectingCountry id="FEF18ECF7E655A2EB382FBE9117972C3" box="[1744,1838,1133,1175]" name="India" pageId="1" pageNumber="176">India</collectingCountry>
+, TODO Hymenopt.
+</journalOrPublisher>
+<emphasis id="B492124D7E655A2EB647FB25157F729F" bold="true" box="[789,808,1185,1227]" pageId="1" pageNumber="176">
+<part id="F24264C27E655A2EB647FB251573729F" box="[789,804,1185,1227]" pageId="1" pageNumber="176" type="volume">2</part>
+:
+</emphasis>
+<emphasis id="B492124D7E655A2EB614FB25152E729F" box="[838,889,1185,1227]" italics="true" pageId="1" pageNumber="176">
+<pagination id="BF2F30AB7E655A2EB614FB251525729F" box="[838,882,1185,1227]" pageId="1" pageNumber="176" type="pagination">47</pagination>
+,
+</emphasis>
+<year id="F24E8F0C7E655A2EB6DEFB251588729F" box="[908,991,1185,1227]" pageId="1" pageNumber="176">1903</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+<paragraph id="8659CE5F7E655A2EB751FB5711627366" blockId="1.[449,1846,1031,1838]" pageId="1" pageNumber="176">
+<treatmentCitationGroup id="A6F6E9717E655A2EB751FB5711627366" pageId="1" pageNumber="176">
+<treatmentCitation id="0747E84E7E655A2EB751FB5715C37366" author="Wheeler" page="45" pageId="1" pageNumber="176" year="1912">
+<bibCitation id="53CCC6337E655A2EB751FB5715C37366" author="Wheeler" journalOrPublisher="New York Ent. Soc., Jour." pageId="1" pageNumber="176" pagination="45" part="20" refId="ref711" title="Odontomachus haematoda" type="journal article" year="1912">
+<title id="F4E225697E655A2EB751FB57158872AA" box="[515,991,1235,1278]" pageId="1" pageNumber="176">
+<emphasis id="B492124D7E655A2EB751FB57158872AA" box="[515,991,1235,1278]" italics="true" pageId="1" pageNumber="176">Odontomachus haematoda</emphasis>
+</title>
+(Linnaeus) 
+<author id="5E5B26BA7E655A2EB1B3FB57132D72AA" box="[1249,1402,1235,1278]" pageId="1" pageNumber="176">Wheeler</author>
+, 
+<journalOrPublisher id="5C27C4937E655A2EB0CFFB5714CF7366" pageId="1" pageNumber="176">
+<collectingRegion id="442200BD7E655A2EB0CFFB57103372AA" box="[1437,1636,1235,1278]" country="United States of America" name="New York" pageId="1" pageNumber="176">New York</collectingRegion>
+Ent. Soc., Jour.
+</journalOrPublisher>
+<part id="F24264C27E655A2EB7FBFA8314867366" box="[681,721,1287,1330]" pageId="1" pageNumber="176" type="volume">20</part>
+: 
+<pagination id="BF2F30AB7E655A2EB7A2FA83154C7366" box="[752,795,1287,1330]" pageId="1" pageNumber="176" type="pageRange">45</pagination>
+, 
+<year id="F24E8F0C7E655A2EB667FA8315DA7366" box="[821,909,1287,1330]" pageId="1" pageNumber="176">1912</year>
+;
+</bibCitation>
+</treatmentCitation>
+<treatmentCitation id="0747E84E7E655A2EB6F4FA8311627366" author="Wheeler" box="[934,1845,1287,1330]" page="15" pageId="1" pageNumber="176" year="1935">
+<bibCitation id="53CCC6337E655A2EB6F4FA8311627366" author="Wheeler" box="[934,1845,1287,1330]" journalOrPublisher="B. P. Bishop Mus., 0 cc. Papers" pageId="1" pageNumber="176" pagination="15" part="11" refId="ref711" type="journal article" year="1935">
+<journalOrPublisher id="5C27C4937E655A2EB6F4FA8313B87366" box="[934,1519,1287,1330]" pageId="1" pageNumber="176">B. P. Bishop Mus., 0cc. Papers</journalOrPublisher>
+<emphasis id="B492124D7E655A2EB350FA8310737366" bold="true" box="[1538,1572,1287,1330]" pageId="1" pageNumber="176">
+<part id="F24264C27E655A2EB350FA8310737366" box="[1538,1572,1287,1330]" pageId="1" pageNumber="176" type="volume">11</part>
+</emphasis>
+(
+<part id="F24264C27E655A2EB369FA8310347366" box="[1595,1635,1287,1330]" pageId="1" pageNumber="176" type="issue">11</part>
+): 
+<pagination id="BF2F30AB7E655A2EB3CEFA8310947366" box="[1692,1731,1287,1330]" pageId="1" pageNumber="176" type="pageRange">15</pagination>
+, 
+<year id="F24E8F0C7E655A2EB38DFA8311677366" box="[1759,1840,1287,1330]" pageId="1" pageNumber="176">1935</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E655A2EB752FAB814A17054" pageId="1" pageNumber="176" type="materials_examined">
+<paragraph id="8659CE5F7E655A2EB752FAB814A17054" blockId="1.[449,1846,1031,1838]" pageId="1" pageNumber="176">
+<materialsCitation id="368EC4027E655A2EB752FAB815C87332" ID-GBIF-Occurrence="3862685348" box="[512,927,1340,1382]" collectingDate="1936-03-28" collectorName="E. H. Bryan" country="Guam" location="Yona" pageId="1" pageNumber="176">
+<collectingMunicipality id="663D54257E655A2EB752FAB814357332" box="[512,610,1340,1382]" pageId="1" pageNumber="176">Yona</collectingMunicipality>
+, 
+<date id="F258E89F7E655A2EB72EFAB815587332" box="[636,783,1340,1382]" pageId="1" pageNumber="176" value="1928-03">
+<collectingDate id="E21C11777E655A2EB72EFAB815587332" box="[636,783,1340,1382]" pageId="1" pageNumber="176" value="1928-03">Mar. 28</collectingDate>
+</date>
+, 
+<location id="833998847E655A2EB67BFAB815C87332" LSID="urn:lsid:plazi:treatment:0E4F7F497E655A2EB493FB83105C717A:833998847E655A2EB67BFAB815C87332" box="[809,927,1340,1382]" municipality="Yona" name="Bryan" pageId="1" pageNumber="176">Bryan</location>
+</materialsCitation>
+<materialsCitation id="368EC4027E655A2EB6CDFAB812A37332" ID-GBIF-Occurrence="3862685325" box="[927,1268,1340,1382]" collectingDate="1936-11-18" collectorName="O. H. Swezey" country="Guam" location="Yona" pageId="1" pageNumber="176">
+; 
+<date id="F258E89F7E655A2EB6E9FAB8121A7332" box="[955,1101,1340,1382]" pageId="1" pageNumber="176" value="2018-11">
+<collectingDate id="E21C11777E655A2EB6E9FAB8121A7332" box="[955,1101,1340,1382]" pageId="1" pageNumber="176" value="2018-11">Nov. 18</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E655A2EB13AFAB812A37332" box="[1128,1268,1340,1382]" pageId="1" pageNumber="176">Swezey</collectorName>
+</materialsCitation>
+<materialsCitation id="368EC4027E655A2EB1A6FAB8117A7332" ID-GBIF-Occurrence="3862685371" box="[1268,1837,1340,1382]" collectingDate="1936-04-16" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="1" pageNumber="176">
+; 
+<collectingMunicipality id="663D54257E655A2EB05DFAB813B17332" box="[1295,1510,1340,1382]" pageId="1" pageNumber="176">Ritidian Pt.</collectingMunicipality>
+, 
+<date id="F258E89F7E655A2EB353FAB810CA7332" box="[1537,1693,1340,1382]" pageId="1" pageNumber="176" value="2016-04">
+<collectingDate id="E21C11777E655A2EB353FAB810CA7332" box="[1537,1693,1340,1382]" pageId="1" pageNumber="176" value="2016-04">April 16</collectingDate>
+</date>
+, 
+<location id="833998847E655A2EB3E5FAB8117A7332" LSID="urn:lsid:plazi:treatment:0E4F7F497E655A2EB493FB83105C717A:833998847E655A2EB3E5FAB8117A7332" box="[1719,1837,1340,1382]" municipality="Ritidian Pt." name="Bryan" pageId="1" pageNumber="176">Bryan</location>
+</materialsCitation>
+<materialsCitation id="368EC4027E655A2EB27FFAB815E573CD" ID-GBIF-Occurrence="3862685322" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="1" pageNumber="176">
+; 
+<location id="833998847E655A2EB496FAE9142373CD" LSID="urn:lsid:plazi:treatment:0E4F7F497E655A2EB493FB83105C717A:833998847E655A2EB496FAE9142373CD" box="[452,628,1389,1433]" name="Upi Ttail" pageId="1" pageNumber="176">Upi Ttail</location>
+, 
+<date id="F258E89F7E655A2EB7C3FAE9155E73CD" box="[657,777,1389,1433]" pageId="1" pageNumber="176">
+<collectingDate id="E21C11777E655A2EB7C3FAE9155E73CD" box="[657,777,1389,1433]" pageId="1" pageNumber="176">May 5</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E655A2EB677FAE915E573CD" box="[805,946,1389,1433]" pageId="1" pageNumber="176">Swezey</collectorName>
+</materialsCitation>
+<materialsCitation id="368EC4027E655A2EB6E0FAE9139373CD" ID-GBIF-Occurrence="3862685320" box="[946,1476,1389,1433]" collectingDate="1936-06-02" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="1" pageNumber="176">
+; 
+<location id="833998847E655A2EB69CFAE912D273CD" LSID="urn:lsid:plazi:treatment:0E4F7F497E655A2EB493FB83105C717A:833998847E655A2EB69CFAE912D273CD" box="[974,1157,1389,1433]" name="Machanao" pageId="1" pageNumber="176">Machanao</location>
+, 
+<date id="F258E89F7E655A2EB1CDFAE9134D73CD" box="[1183,1306,1389,1433]" pageId="1" pageNumber="176">
+<collectingDate id="E21C11777E655A2EB1CDFAE9134D73CD" box="[1183,1306,1389,1433]" pageId="1" pageNumber="176">June 2</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E655A2EB06AFAE9139373CD" box="[1336,1476,1389,1433]" pageId="1" pageNumber="176">Swezey</collectorName>
+</materialsCitation>
+<materialsCitation id="368EC4027E655A2EB096FAE910DC73CD" ID-GBIF-Occurrence="3862685403" box="[1476,1675,1389,1433]" collectingDate="1936-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="176">
+; 
+<location id="833998847E655A2EB0B2FAE9107573CD" LSID="urn:lsid:plazi:treatment:0E4F7F497E655A2EB493FB83105C717A:833998847E655A2EB0B2FAE9107573CD" box="[1504,1570,1389,1433]" name="Piti" pageId="1" pageNumber="176">Piti</location>
+, 
+<location id="833998847E655A2EB36FFAE910DC73CD" LSID="urn:lsid:plazi:treatment:0E4F7F497E655A2EB493FB83105C717A:833998847E655A2EB36FFAE910DC73CD" box="[1597,1675,1389,1433]" name="July" pageId="1" pageNumber="176">July</location>
+</materialsCitation>
+<materialsCitation id="368EC4027E655A2EB3D9FAE914007398" ID-GBIF-Occurrence="3862685388" collectingDate="1936-10-11" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="176">
+, 
+<date id="F258E89F7E655A2EB3F4FAE9117A73CD" box="[1702,1837,1389,1433]" pageId="1" pageNumber="176" value="2011-10">
+<collectingDate id="E21C11777E655A2EB3F4FAE9117A73CD" box="[1702,1837,1389,1433]" pageId="1" pageNumber="176" value="2011-10">Oct. 11</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E655A2EB491FA2414077398" box="[451,592,1440,1484]" pageId="1" pageNumber="176">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E655A2EB73FFA24120F7398" ID-GBIF-Occurrence="3334693316" box="[621,1112,1440,1484]" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="1" pageNumber="176">
+<location id="833998847E655A2EB73FFA2414A27398" LSID="urn:lsid:plazi:treatment:0E4F7F497E655A2EB493FB83105C717A:833998847E655A2EB73FFA2414A27398" box="[621,757,1440,1484]" name="Dededo" pageId="1" pageNumber="176">Dededo</location>
+, 
+<date id="F258E89F7E655A2EB643FA2415F17398" box="[785,934,1440,1484]" pageId="1" pageNumber="176" value="2011-08">
+<collectingDate id="E21C11777E655A2EB643FA2415F17398" box="[785,934,1440,1484]" pageId="1" pageNumber="176" value="2011-08">Aug. 11</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E655A2EB697FA2412067398" box="[965,1105,1440,1484]" pageId="1" pageNumber="176">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E655A2EB13DFA2410327398" ID-GBIF-Occurrence="3334693392" box="[1135,1637,1440,1484]" collectingDate="1936-05-17" collectorName="O. H. Swezey" country="Guam" location="Tarague" pageId="1" pageNumber="176">
+<location id="833998847E655A2EB13DFA2413527398" LSID="urn:lsid:plazi:treatment:0E4F7F497E655A2EB493FB83105C717A:833998847E655A2EB13DFA2413527398" box="[1135,1285,1440,1484]" name="Tarague" pageId="1" pageNumber="176">Tarague</location>
+, 
+<date id="F258E89F7E655A2EB076FA2413E47398" box="[1316,1459,1440,1484]" pageId="1" pageNumber="176" value="2017-05">
+<collectingDate id="E21C11777E655A2EB076FA2413E47398" box="[1316,1459,1440,1484]" pageId="1" pageNumber="176" value="2017-05">May 17</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E655A2EB080FA2410097398" box="[1490,1630,1440,1484]" pageId="1" pageNumber="176">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E655A2EB32EFA2414A17054" ID-GBIF-Occurrence="3334693340" collectingDate="1936-08-28" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="1" pageNumber="176">
+<location id="833998847E655A2EB32EFA2411787398" LSID="urn:lsid:plazi:treatment:0E4F7F497E655A2EB493FB83105C717A:833998847E655A2EB32EFA2411787398" box="[1660,1839,1440,1484]" name="Barrigada" pageId="1" pageNumber="176">Barrigada</location>
+, 
+<date id="F258E89F7E655A2EB490FA5214067054" box="[450,593,1494,1536]" pageId="1" pageNumber="176" value="1928-08">
+<collectingDate id="E21C11777E655A2EB490FA5214067054" box="[450,593,1494,1536]" pageId="1" pageNumber="176" value="1928-08">Aug. 28</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E655A2EB739FA5214A67054" box="[619,753,1494,1536]" pageId="1" pageNumber="176">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E655A2EB750F983105C717A" pageId="1" pageNumber="176" type="discussion">
+<paragraph id="8659CE5F7E655A2EB750F983105C717A" blockId="1.[449,1846,1031,1838]" pageId="1" pageNumber="176">
+This tropicopolitan ant has a wide distribution, occurring in tropics of America, Africa, Asia, and the various groups of islands in the Pacific. 
+<materialsCitation id="368EC4027E655A2EB3BBF9BF13AF709E" ID-GBIF-Occurrence="3862688302" collectedFrom="in house" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="1" pageNumber="176" specimenCount-male="1">
+Previously collected in 
+<collectingCountry id="FEF18ECF7E655A2EB64CF9E915D170C3" box="[798,902,1645,1687]" name="Guam" pageId="1" pageNumber="176">Guam</collectingCountry>
+by 
+<collectingMunicipality id="663D54257E655A2EB699F9E9123870C3" box="[971,1135,1645,1687]" pageId="1" pageNumber="176">Fullaway</collectingMunicipality>
+in 1911. 
+<location id="833998847E655A2EB070F9E9131770C3" LSID="urn:lsid:plazi:treatment:0E4F7F497E655A2EB493FB83105C717A:833998847E655A2EB070F9E9131770C3" box="[1314,1344,1645,1687]" country="Guam" municipality="Fullaway" name="It" pageId="1" pageNumber="176">It</location>
+is a large black species with long mandibles. 
+<location id="833998847E655A2EB7AEF9241512709E" LSID="urn:lsid:plazi:treatment:0E4F7F497E655A2EB493FB83105C717A:833998847E655A2EB7AEF9241512709E" box="[764,837,1696,1738]" country="Guam" municipality="Fullaway" name="One" pageId="1" pageNumber="176">One</location>
+winged 
+<specimenCount id="90E005D67E655A2EB6BEF9241268709E" box="[1004,1087,1696,1738]" pageId="1" pageNumber="176" type="male">male</specimenCount>
+was collected in house,
+</materialsCitation>
+<materialsCitation id="368EC4027E655A2EB35CF924116270A9" ID-GBIF-Occurrence="3862688303" collectedFrom="among leaves and trash on the ground in the forest areas" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="1" pageNumber="176">but we collected most of the others among leaves and trash on the ground in the forest areas.</materialsCitation>
+<materialsCitation id="368EC4027E655A2EB496F8821051717A" ID-GBIF-Occurrence="3862688301" box="[452,1542,1798,1838]" collectedFrom="at the base of a rotten banana stem" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="1" pageNumber="176">
+<location id="833998847E655A2EB496F8821449717A" LSID="urn:lsid:plazi:treatment:0E4F7F497E655A2EB493FB83105C717A:833998847E655A2EB496F8821449717A" box="[452,542,1798,1838]" country="Guam" municipality="Fullaway" name="Once" pageId="1" pageNumber="176">Once</location>
+a colony was found at the base of a rotten banana stem
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

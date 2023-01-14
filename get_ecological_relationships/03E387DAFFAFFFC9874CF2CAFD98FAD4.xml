@@ -1,0 +1,222 @@
+<document id="030253EE006B24D65EF08B82B3DD106A" ID-DOI="http://doi.org/10.5281/zenodo.5159673" ID-GBIF-Dataset="7700299b-eb39-4c24-86fe-2eabb15beda7" ID-Zenodo-Dep="5159673" approvalRequired="1" approvalRequired_for_document="1" checkinTime="1628017110730" checkinUser="carolina" docAuthor="Blair, K. G." docDate="1942" docId="03E387DAFFAFFFC9874CF2CAFD98FAD4" docLanguage="en" docName="InsectsOfGuamI.172.56-60.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Formicomus (Anthelephilus) imperator" docType="treatment" docVersion="13" lastPageNumber="57" masterDocId="FFDAFFA2FFAEFFC88657F353FF92FFF8" masterDocTitle="Coleoptera Heteromera From Guam" masterLastPageNumber="60" masterPageNumber="56" pageNumber="57" updateTime="1659619232536" updateUser="ExternalLinkService">
+<mods:mods id="277231596EEDF00A471357B1DBB71204" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="A9C8FC999A5DAEA6D16FD83B4D7667B0">
+<mods:title id="CF5D2ED086F002CD60C7121E8F54E7E3">Coleoptera Heteromera From Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="36F8A6F7C71DA42986DF5247BEA4B8C7" type="personal">
+<mods:role id="0E719A03A7EA144E4D456FFAEBFD9AF8">
+<mods:roleTerm id="B97B227A0E623FBA063E601FA1FE2897">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E69C5C2586A8C13621FEE6B47B2B2011">Blair, K. G.</mods:namePart>
+<mods:affiliation id="DFAC23C6EF2FBA8218B4D2F9F9A5A329">British Museum \ (Natural History), London</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="7B6EE60C1D15DA9756027A16A9C80C2B">text</mods:typeOfResource>
+<mods:relatedItem id="760C6411D0AE36F236E3134FF6E09C57" type="host">
+<mods:originInfo id="1E91F73153A91296972F3009FF84CFE8">
+<mods:dateIssued id="37B5A90124758ADC202EC925255C954B">1942</mods:dateIssued>
+<mods:dateOther id="A27D67A924BD672885E442910A43FE5D" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="E999B9FDDB2BF619251654F82B1843D5">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="0C7A9A087AC3F7E2003204FC4EBA1C2B">
+<mods:placeTerm id="F98187ED8C8D12C4ED8BAE698DEA7895">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="FEDA7A464A5C33E6E59BB142CF27B3FB">
+<mods:title id="19C90C74F3DF8C0AC4487D9B2FAE20F6">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="74852E87A95E8CD27C4B929FF936AD3B">
+<mods:extent id="92EEA59BA1BD688EB038843F721901FF" unit="page">
+<mods:start id="A6BADEEBE3B31BD7E0DB42580BFE223E">56</mods:start>
+<mods:end id="43D5F2EF044DF563E4D2AB5B332F08F7">60</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="3622393ECF20E5D8299AEBBE473332AC">book chapter</mods:classification>
+<mods:identifier id="89D8791526D99E9352864AC3135D4EE0" type="DOI">http://doi.org/10.5281/zenodo.5159673</mods:identifier>
+<mods:identifier id="F01C95ACDEF2AB9C2650CC5F74668F41" type="GBIF-Dataset">7700299b-eb39-4c24-86fe-2eabb15beda7</mods:identifier>
+<mods:identifier id="899D90D0C9D0424460287F44B6372BC3" type="Zenodo-Dep">5159673</mods:identifier>
+</mods:mods>
+<treatment id="03E387DAFFAFFFC9874CF2CAFD98FAD4" ID-DOI="http://doi.org/10.5281/zenodo.5195100" ID-GBIF-Taxon="183919345" ID-Zenodo-Dep="5195100" LSID="urn:lsid:plazi:treatment:03E387DAFFAFFFC9874CF2CAFD98FAD4" httpUri="http://treatment.plazi.org/id/03E387DAFFAFFFC9874CF2CAFD98FAD4" lastPageNumber="57" pageId="1" pageNumber="57">
+<subSubSection id="C3506547FFAFFFC9874CF2CAFB6BFE3B" box="[283,1273,409,451]" pageId="1" pageNumber="57" type="nomenclature">
+<paragraph id="8BF536CCFFAFFFC9874CF2CAFB6BFE3B" blockId="1.[283,1680,409,1324]" box="[283,1273,409,451]" pageId="1" pageNumber="57">
+<heading id="D0BD81A0FFAFFFC9874CF2CAFB6BFE3B" box="[283,1273,409,451]" fontSize="8" level="2" pageId="1" pageNumber="57" reason="4">
+<emphasis id="B93EEADEFFAFFFC9874CF2CAFEA7FE3B" bold="true" box="[283,309,409,451]" pageId="1" pageNumber="57">1.</emphasis>
+<taxonomicName id="4C4A4D4FFFAFFFC98700F2CAFB61FE3B" authority="(Laferte)" authorityName="Ferté-Senectère" authorityYear="1849" baseAuthorityName="Laferte" box="[343,1267,409,451]" class="Insecta" family="Anthicidae" genus="Formicomus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="57" phylum="Arthropoda" rank="species" species="imperator" subGenus="Anthelephilus">
+<emphasis id="B93EEADEFFAFFFC98700F2CAFBA0FE3B" bold="true" box="[343,1074,409,451]" pageId="1" pageNumber="57">Formicomus (Anthelephilus) imperator</emphasis>
+(Laferte)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAFFFC9870FF29EF91EFDD2" pageId="1" pageNumber="57" type="reference_group">
+<paragraph id="8BF536CCFFAFFFC9870FF29EFA7FFE0F" blockId="1.[283,1680,409,1324]" box="[344,1517,461,503]" pageId="1" pageNumber="57">
+<treatmentCitationGroup id="AB5A11E2FFAFFFC9870FF29EFA7AFE0F" box="[344,1512,461,503]" pageId="1" pageNumber="57">
+<treatmentCitation id="0AEB10DDFFAFFFC9870FF29EFA7AFE0F" author="Laferte" box="[344,1512,461,503]" page="66" pageId="1" pageNumber="57" year="1848">
+<taxonomicName id="4C4A4D4FFFAFFFC9870FF29EFBDCFE0F" authority="Laferte, Monogr." authorityName="Laferte, Monogr." authorityYear="1840" box="[344,1102,461,503]" class="Insecta" family="Anthicidae" genus="Anthelephilus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="57" phylum="Arthropoda" rank="species" species="imperator">
+<emphasis id="B93EEADEFFAFFFC9870FF29EFC95FE0F" box="[344,775,461,503]" italics="true" pageId="1" pageNumber="57">Anthelephilus imperator</emphasis>
+<bibCitation id="5E603EA0FFAFFFC98541F29EFA7AFE0F" author="Laferte" box="[790,1512,461,503]" journalOrPublisher="Monogr." pageId="1" pageNumber="57" pagination="66" type="book" year="1848">
+<author id="53F7DE29FFAFFFC98541F29EFC0FFE0F" box="[790,925,461,503]" pageId="1" pageNumber="57">Laferte</author>
+, 
+<journalOrPublisher id="518B3C00FFAFFFC985E1F29EFBDCFE0F" box="[950,1102,461,503]" pageId="1" pageNumber="57">Monogr.</journalOrPublisher>
+, 
+<pagination id="B283C838FFAFFFC98232F29EFB03FE0F" box="[1125,1169,461,503]" pageId="1" pageNumber="57">66</pagination>
+, pl. 24, fig. 2, 
+<year id="FFE2779FFFAFFFC983C2F29EFA7AFE0F" box="[1429,1512,461,503]" pageId="1" pageNumber="57">1848</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</paragraph>
+<paragraph id="8BF536CCFFAFFFC9870EF2ACF91EFDD2" blockId="1.[283,1680,409,1324]" box="[345,1676,511,554]" pageId="1" pageNumber="57">
+<treatmentCitation id="0AEB10DDFFAFFFC9870EF2ACF91EFDD2" author="Pic" box="[345,1676,511,554]" page="18" pageId="1" pageNumber="57" year="1911">
+<treatmentCitationGroup id="AB5A11E2FFAFFFC9870EF2ACF915FDD2" box="[345,1671,511,554]" pageId="1" pageNumber="57">
+<taxonomicName id="4C4A4D4FFFAFFFC9870EF2ACFB2EFDD2" authority="(Laferte) Pie, Coleopt." authorityName="Pie, Coleopt." authorityYear="1849" baseAuthorityName="Laferte" box="[345,1212,511,554]" class="Insecta" family="Anthicidae" genus="Formicomus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="57" phylum="Arthropoda" rank="species" species="imperator">
+<emphasis id="B93EEADEFFAFFFC9870EF2ACFD6AFDD2" box="[345,760,511,554]" italics="true" pageId="1" pageNumber="57">Formicomus imperator</emphasis>
+(Laferte) 
+<bibCitation id="5E603EA0FFAFFFC98581F2ACF915FDD2" author="Pie" box="[982,1671,511,554]" pageId="1" pageNumber="57" pagination="18" part="36" title="Coleopt. Catalog." type="book" year="1911">
+<author id="53F7DE29FFAFFFC98581F2ACFB83FDD2" box="[982,1041,511,554]" pageId="1" pageNumber="57">Pie</author>
+, 
+<title id="F94EDDFAFFAFFFC98279F2ACFACDFDD2" box="[1070,1375,511,554]" pageId="1" pageNumber="57">Coleopt. Catalog.</title>
+(
+<part id="FFEE9C51FFAFFFC983DFF2ACFA27FDD2" box="[1416,1461,511,554]" pageId="1" pageNumber="57" type="issue">36</part>
+): 
+<pagination id="B283C838FFAFFFC983B9F2ACF987FDD2" box="[1518,1557,511,554]" pageId="1" pageNumber="57" type="pageRange">18</pagination>
+, 
+<year id="FFE2779FFFAFFFC98062F2ACF915FDD2" box="[1589,1671,511,554]" pageId="1" pageNumber="57">1911</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitationGroup>
+.
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAFFFC9870CF161FCCAFCA6" pageId="1" pageNumber="57" type="materials_examined">
+<paragraph id="8BF536CCFFAFFFC9870CF161FCCAFCA6" blockId="1.[283,1680,409,1324]" pageId="1" pageNumber="57">
+<materialsCitation id="3B223C91FFAFFFC9870CF161F914FDA5" ID-GBIF-Occurrence="3331241320" box="[347,1670,562,605]" collectedFrom="pumpkin leaves having mildew" collectingDate="1936-07-18" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="57" specimenCount="28">
+<collectingMunicipality id="6B91ACB6FFAFFFC9870CF161FE0FFDA5" box="[347,413,562,605]" pageId="1" pageNumber="57">Piti</collectingMunicipality>
+, 
+<date id="FFF4100CFFAFFFC987E1F161FDAEFDA5" box="[438,572,562,605]" pageId="1" pageNumber="57" value="2018-07">
+<collectingDate id="EFB0E9E4FFAFFFC987E1F161FDAEFDA5" box="[438,572,562,605]" pageId="1" pageNumber="57" value="2018-07">July 18</collectingDate>
+</date>
+, from pumpkin leaves having mildew, 28 examples, 
+<location id="8E956017FFAFFFC983AEF161F914FDA5" LSID="urn:lsid:plazi:treatment:03E387DAFFAFFFC9874CF2CAFD98FAD4:8E956017FFAFFFC983AEF161F914FDA5" box="[1529,1670,562,605]" municipality="Piti" name="Swezey" pageId="1" pageNumber="57">Swezey</location>
+</materialsCitation>
+; 
+<materialsCitation id="3B223C91FFAFFFC9874AF135FBEEFD69" ID-GBIF-Occurrence="3331241341" box="[285,1148,614,657]" collectingDate="1936-06/11" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="57" specimenCount="14">
+<collectingMunicipality id="6B91ACB6FFAFFFC9874AF135FECCFD69" box="[285,350,614,657]" pageId="1" pageNumber="57">Piti</collectingMunicipality>
+, 
+<location id="8E956017FFAFFFC9872CF135FD46FD69" LSID="urn:lsid:plazi:treatment:03E387DAFFAFFFC9874CF2CAFD98FAD4:8E956017FFAFFFC9872CF135FD46FD69" box="[379,724,614,657]" municipality="Piti" name="June to November" pageId="1" pageNumber="57">June to November</location>
+, 14 examples, 
+<location id="8E956017FFAFFFC985B8F135FBEEFD69" LSID="urn:lsid:plazi:treatment:03E387DAFFAFFFC9874CF2CAFD98FAD4:8E956017FFAFFFC985B8F135FBEEFD69" box="[1007,1148,614,657]" municipality="Piti" name="Swezey" pageId="1" pageNumber="57">Swezey</location>
+</materialsCitation>
+; 
+<materialsCitation id="3B223C91FFAFFFC982CEF135FA2EFD69" ID-GBIF-Occurrence="3878849316" box="[1177,1468,614,657]" collectingDate="1936-04-27" collectorName="E. H. Bryan" country="Guam" location="Yona" pageId="1" pageNumber="57">
+<location id="8E956017FFAFFFC982CEF135FB69FD69" LSID="urn:lsid:plazi:treatment:03E387DAFFAFFFC9874CF2CAFD98FAD4:8E956017FFAFFFC982CEF135FB69FD69" box="[1177,1275,614,657]" name="Yona" pageId="1" pageNumber="57">Yona</location>
+, 
+<date id="FFF4100CFFAFFFC98340F135FA27FD69" box="[1303,1461,614,657]" pageId="1" pageNumber="57" value="1927-04">
+<collectingDate id="EFB0E9E4FFAFFFC98340F135FA27FD69" box="[1303,1461,614,657]" pageId="1" pageNumber="57" value="1927-04">
+April 
+<emphasis id="B93EEADEFFAFFFC983DDF135FA2EFD69" box="[1418,1468,614,657]" italics="true" pageId="1" pageNumber="57">27,</emphasis>
+</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="3B223C91FFAFFFC98385F135FC0AFD3C" ID-GBIF-Occurrence="3878849313" collectedFrom="among dead leaves" collectingDate="1936-04-29" collectorName="E. H. Bryan" country="Guam" location="Yona" pageId="1" pageNumber="57" specimenCount="3">
+29, among dead leaves, three examples, 
+<collectingMunicipality id="6B91ACB6FFAFFFC98574F1C9FC0AFD3C" box="[803,920,666,708]" pageId="1" pageNumber="57">Bryan</collectingMunicipality>
+</materialsCitation>
+; 
+<materialsCitation id="3B223C91FFAFFFC985E4F1C9FB63FD3C" ID-GBIF-Occurrence="3878849304" box="[947,1265,666,708]" collectingDate="1936-07-25" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="1" pageNumber="57">
+<location id="8E956017FFAFFFC985E4F1C9FBDFFD3C" LSID="urn:lsid:plazi:treatment:03E387DAFFAFFFC9874CF2CAFD98FAD4:8E956017FFAFFFC985E4F1C9FBDFFD3C" box="[947,1101,666,708]" name="Inarajan" pageId="1" pageNumber="57">Inarajan</location>
+, 
+<date id="FFF4100CFFAFFFC98232F1C9FB78FD3C" box="[1125,1258,666,708]" pageId="1" pageNumber="57" value="1925-07">
+<collectingDate id="EFB0E9E4FFAFFFC98232F1C9FB78FD3C" box="[1125,1258,666,708]" pageId="1" pageNumber="57" value="1925-07">July 25</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B223C91FFAFFFC98353F1C9FDF8FD00" ID-GBIF-Occurrence="3878849318" collectedFrom="on rice" collectingDate="1936-09-30" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="1" pageNumber="57" specimenCount="4">
+<date id="FFF4100CFFAFFFC98353F1C9FA05FD3C" box="[1284,1431,666,708]" pageId="1" pageNumber="57" value="1930-09">
+<collectingDate id="EFB0E9E4FFAFFFC98353F1C9FA05FD3C" box="[1284,1431,666,708]" pageId="1" pageNumber="57" value="1930-09">Sept. 30</collectingDate>
+</date>
+, on rice, four examples, 
+<location id="8E956017FFAFFFC98780F19FFDF1FD00" LSID="urn:lsid:plazi:treatment:03E387DAFFAFFFC9874CF2CAFD98FAD4:8E956017FFAFFFC98780F19FFDF1FD00" box="[471,611,716,760]" name="Swezey" pageId="1" pageNumber="57">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="3B223C91FFAFFFC9842DF19FF91FFD00" ID-GBIF-Occurrence="3331241309" box="[634,1677,716,760]" collectedFrom="on sugar cane" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="1" pageNumber="57" specimenCount="2">
+<collectingMunicipality id="6B91ACB6FFAFFFC9842DF19FFCA3FD00" box="[634,817,716,760]" pageId="1" pageNumber="57">Machanao</collectingMunicipality>
+, 
+<date id="FFF4100CFFAFFFC98512F19FFC41FD00" box="[837,979,716,760]" pageId="1" pageNumber="57" value="2011-08">
+<collectingDate id="EFB0E9E4FFAFFFC98512F19FFC41FD00" box="[837,979,716,760]" pageId="1" pageNumber="57" value="2011-08">Aug. 11</collectingDate>
+</date>
+, on sugar cane, two examples, 
+<location id="8E956017FFAFFFC983ADF19FF914FD00" LSID="urn:lsid:plazi:treatment:03E387DAFFAFFFC9874CF2CAFD98FAD4:8E956017FFAFFFC983ADF19FF914FD00" box="[1530,1670,716,760]" municipality="Machanao" name="Swezey" pageId="1" pageNumber="57">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="3B223C91FFAFFFC9874BF052FAD8FCD3" ID-GBIF-Occurrence="3331241332" box="[284,1354,769,811]" collectedFrom="from weeds" collectingDate="1936-08-07" collectorName="O. H. Swezey" country="Guam" location="Fonte Valley" pageId="1" pageNumber="57" specimenCount="5">
+<collectingMunicipality id="6B91ACB6FFAFFFC9874BF052FD9BFCD3" box="[284,521,769,811]" pageId="1" pageNumber="57">Fonte Valley</collectingMunicipality>
+, 
+<date id="FFF4100CFFAFFFC98475F052FD32FCD3" box="[546,672,769,811]" pageId="1" pageNumber="57">
+<collectingDate id="EFB0E9E4FFAFFFC98475F052FD32FCD3" box="[546,672,769,811]" pageId="1" pageNumber="57">
+Aug. 
+<emphasis id="B93EEADEFFAFFFC984DBF052FD35FCD3" box="[652,679,769,811]" italics="true" pageId="1" pageNumber="57">7,</emphasis>
+</collectingDate>
+</date>
+from weeds, five examples, 
+<location id="8E956017FFAFFFC982E0F052FAD1FCD3" LSID="urn:lsid:plazi:treatment:03E387DAFFAFFFC9874CF2CAFD98FAD4:8E956017FFAFFFC982E0F052FAD1FCD3" box="[1207,1347,769,811]" municipality="Fonte Valley" name="Swezey" pageId="1" pageNumber="57">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="3B223C91FFAFFFC98308F052FCCAFCA6" ID-GBIF-Occurrence="3331241317" collectedFrom="on Sida" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="1" pageNumber="57" specimenCount="2">
+<collectingMunicipality id="6B91ACB6FFAFFFC98308F052FA4EFCD3" box="[1375,1500,769,811]" pageId="1" pageNumber="57">Fadian</collectingMunicipality>
+, 
+<date id="FFF4100CFFAFFFC983A3F052F915FCD3" box="[1524,1671,769,811]" pageId="1" pageNumber="57" value="2019-08">
+<collectingDate id="EFB0E9E4FFAFFFC983A3F052F915FCD3" box="[1524,1671,769,811]" pageId="1" pageNumber="57" value="2019-08">Aug. 19</collectingDate>
+</date>
+, on 
+<emphasis id="B93EEADEFFAFFFC98701F065FE3CFCA6" box="[342,430,822,862]" italics="true" pageId="1" pageNumber="57">
+<taxonomicName id="4C4A4D4FFFAFFFC98701F065FE35FCA6" box="[342,423,822,862]" class="Branchiopoda" family="Malvaceae" genus="Sida" kingdom="Animalia" order="Diplostraca" pageId="1" pageNumber="57" phylum="Arthropoda" rank="genus">
+<location id="8E956017FFAFFFC98701F065FE35FCA6" LSID="urn:lsid:plazi:treatment:03E387DAFFAFFFC9874CF2CAFD98FAD4:8E956017FFAFFFC98701F065FE35FCA6" box="[342,423,822,862]" municipality="Fadian" name="Sida" pageId="1" pageNumber="57">Sida</location>
+</taxonomicName>
+,
+</emphasis>
+two examples, 
+<location id="8E956017FFAFFFC9849AF065FCC1FCA6" LSID="urn:lsid:plazi:treatment:03E387DAFFAFFFC9874CF2CAFD98FAD4:8E956017FFAFFFC9849AF065FCC1FCA6" box="[717,851,822,862]" municipality="Fadian" name="Swezey" pageId="1" pageNumber="57">Swezey</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAFFFC9870BF03BFDB6FBA7" pageId="1" pageNumber="57" type="distribution">
+<paragraph id="8BF536CCFFAFFFC9870BF03BFDB6FBA7" blockId="1.[283,1680,409,1324]" pageId="1" pageNumber="57">
+First described from Linga, Sunda Islands, the species is widely distributed, being known from 
+<collectingCountry id="F35D765CFFAFFFC9848EF0C9FCC3FC3D" box="[729,849,922,965]" name="Sri Lanka" pageId="1" pageNumber="57">Ceylon</collectingCountry>
+<emphasis id="B93EEADEFFAFFFC98531F0C9FCE7FC3D" box="[870,885,922,965]" italics="true" pageId="1" pageNumber="57">(</emphasis>
+<taxonomicName id="4C4A4D4FFFAFFFC98522F0C9FAAFFC3D" authority="Nietner" authorityName="Nietner" authorityYear="1849" box="[885,1341,922,965]" class="Insecta" family="Anthicidae" genus="Formicomus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="57" phylum="Arthropoda" rank="species" species="quisquiliarius">
+<emphasis id="B93EEADEFFAFFFC98522F0C9FB0BFC3D" box="[885,1177,922,965]" italics="true" pageId="1" pageNumber="57">F. quisquiliarius</emphasis>
+Nietner
+</taxonomicName>
+), 
+<collectingCountry id="F35D765CFFAFFFC98337F0C9FA57FC3D" box="[1376,1477,922,965]" name="Japan" pageId="1" pageNumber="57">Japan</collectingCountry>
+<emphasis id="B93EEADEFFAFFFC9838CF0C9FA78FC3D" box="[1499,1514,922,965]" italics="true" pageId="1" pageNumber="57">(</emphasis>
+<taxonomicName id="4C4A4D4FFFAFFFC983BDF0C9FD81FC00" authority="Marseul" authorityName="Marseul" authorityYear="1849" class="Insecta" family="Anthicidae" genus="Formicomus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="57" phylum="Arthropoda" rank="species" species="cribriceps">
+<emphasis id="B93EEADEFFAFFFC983BDF0C9FEF7FC00" italics="true" pageId="1" pageNumber="57">F. cribriceps</emphasis>
+Marseul
+</taxonomicName>
+) and the Chusan Archipelago (coll. J. J. Walker in British Museum). For synonymy see Krekich von Strassoldo (Wien. ent. Zeitung 
+<emphasis id="B93EEADEFFAFFFC9874BF766FED0FBA7" bold="true" box="[284,322,1077,1119]" pageId="1" pageNumber="57">32:</emphasis>
+231, 1913).
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAFFFC9870BF73AFD98FAD4" pageId="1" pageNumber="57" type="discussion">
+<paragraph id="8BF536CCFFAFFFC9870BF73AFD98FAD4" blockId="1.[283,1680,409,1324]" pageId="1" pageNumber="57">
+A striking character in the female of this species that does not appear to be mentioned in any of the descriptions, is the high pointed crest on the pygidium. This is perhaps less developed in 
+<taxonomicName id="4C4A4D4FFFAFFFC985FFF783FBC3FB02" authority="Ferté-Senectère, 1849" authorityName="Ferté-Senectère" authorityYear="1849" box="[936,1105,1232,1274]" class="Insecta" family="Anthicidae" genus="Formicomus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="57" phylum="Arthropoda" rank="species" species="cribriceps">
+<emphasis id="B93EEADEFFAFFFC985FFF783FBC3FB02" box="[936,1105,1232,1274]" italics="true" pageId="1" pageNumber="57">cribriceps</emphasis>
+</taxonomicName>
+than in 
+<taxonomicName id="4C4A4D4FFFAFFFC98354F783FA7DFB02" authority="Ferté-Senectère, 1849" authorityName="Ferté-Senectère" authorityYear="1849" box="[1283,1519,1232,1274]" class="Insecta" family="Anthicidae" genus="Formicomus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="57" phylum="Arthropoda" rank="species" species="quisquiliarius">
+<emphasis id="B93EEADEFFAFFFC98354F783FA7DFB02" box="[1283,1519,1232,1274]" italics="true" pageId="1" pageNumber="57">quisquiliarius</emphasis>
+</taxonomicName>
+and the present form.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

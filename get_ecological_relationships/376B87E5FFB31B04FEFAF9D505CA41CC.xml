@@ -1,0 +1,157 @@
+<document id="0759ACC6DBD8AA36B90B3A4F1963C136" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB31B04FEFAF9D505CA41CC" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Necrobia rufipes Howard and Marlatt, U. S. Dept. Agric." docType="treatment" docVersion="18" lastPageNumber="163" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="163" updateTime="1671396144017" updateUser="ExternalLinkService">
+<mods:mods id="6C1DA96E0EFEAEEBF90855BBDA831320" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="D97B713C2BB5EC8D13ECF5DBD45EFAB3">
+<mods:title id="5AB80968498B26857F22C0DE190060B1">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="9909ABAD41977D2F07D1D53514C3224D" type="personal">
+<mods:role id="0A6F7F0807310CC651B552E05EDF0E43">
+<mods:roleTerm id="FB841D03820716A89545C80C5466CE74">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="7A7CA7535BAE403267A58646A0EB7405">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="D40D2EAF872AD1C0651C76EC307A6F17">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="0524912DE527E79F2D237EB326A5F68F">text</mods:typeOfResource>
+<mods:relatedItem id="3E71C3974BBB35F63D3DE1575EB94796" type="host">
+<mods:originInfo id="5954AE6E650957F0DE275FD2A973AFB0">
+<mods:dateIssued id="E79A649D4C0DA1B48518FCB974C707A9">1942</mods:dateIssued>
+<mods:dateOther id="5A247F138B6913F9C1196B8DCA8220AC" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="9464D5B8260B5F310AB8312A9AE4A83A">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="253FA3809DE9DBA59293649E187C32EE">
+<mods:placeTerm id="47D760988145FB087981D10B82DB712D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="C12D42D3E323FF42B356F2711DF40C33">
+<mods:title id="A9C261F047F5B187338DE86E3C324D28">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="3483F251FB946C07E950035C31A17B22">
+<mods:extent id="8EC0E6427A1407AE7EAB015ABEACD044" unit="page">
+<mods:start id="06F58AE1911026D6C4D96A280158015D">150</mods:start>
+<mods:end id="C299634B236CE4E33609B9DF43FB96B8">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="6D4D99A105B82A20FB0333F110C9C003">book chapter</mods:classification>
+<mods:identifier id="760CDAFE3DADC25A717D48FEC9C9E076" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="A14758870B6FDC10461D735AA502CBA9" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="F0FFF512878CC534D3714F6754F68EBC" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB31B04FEFAF9D505CA41CC" ID-DOI="http://doi.org/10.5281/zenodo.5183010" ID-GBIF-Taxon="184415330" ID-Zenodo-Dep="5183010" LSID="urn:lsid:plazi:treatment:376B87E5FFB31B04FEFAF9D505CA41CC" httpUri="http://treatment.plazi.org/id/376B87E5FFB31B04FEFAF9D505CA41CC" lastPageNumber="163" pageId="13" pageNumber="163">
+<subSubSection id="F7D86578FFB31B04FEFAF9D5046640BE" box="[288,864,1632,1672]" pageId="13" pageNumber="163" type="nomenclature">
+<paragraph id="BF7D36F3FFB31B04FEFAF9D5046640BE" blockId="13.[285,1681,1632,2042]" box="[288,864,1632,1672]" pageId="13" pageNumber="163">
+<heading id="E435819FFFB31B04FEFAF9D5046640BE" box="[288,864,1632,1672]" fontSize="8" level="2" pageId="13" pageNumber="163" reason="4">
+<emphasis id="8DB6EAE1FFB31B04FEFAF9D5063C40BE" bold="true" box="[288,314,1632,1672]" pageId="13" pageNumber="163">1.</emphasis>
+<taxonomicName id="78C24D70FFB31B04FE86F9D5045D40BE" authority="(De Geer)" authorityName="Howard and Marlatt, U. S. Dept. Agric." baseAuthorityName="De Geer" baseAuthorityYear="1775" box="[348,859,1632,1672]" class="Insecta" family="Cleridae" genus="Necrobia" kingdom="Animalia" order="Coleoptera" pageId="13" pageNumber="163" phylum="Arthropoda" rank="species" species="rufipes">
+<emphasis id="8DB6EAE1FFB31B04FE86F9D5058E40BE" bold="true" box="[348,648,1632,1672]" pageId="13" pageNumber="163">Necrobia rufipes</emphasis>
+(De Geer)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB31B04FE85F927037B4115" pageId="13" pageNumber="163" type="reference_group">
+<paragraph id="BF7D36F3FFB31B04FE85F92703C0408A" blockId="13.[285,1681,1632,2042]" box="[351,1222,1682,1724]" pageId="13" pageNumber="163">
+<treatmentCitationGroup id="9FD211DDFFB31B04FE85F92703C0408A" box="[351,1222,1682,1724]" pageId="13" pageNumber="163">
+<bibCitation id="6AE83E9FFFB31B04FE85F92703C0408A" author="De Geer" box="[351,1222,1682,1724]" journalOrPublisher="Mem. Ins." pageId="13" pageNumber="163" pagination="165" part="5" refId="ref6947" type="journal article" year="1775">
+<treatmentCitation id="3E6310E2FFB31B04FE85F92703C7408A" author="De Geer" box="[351,1217,1682,1724]" page="165" pageId="13" pageNumber="163" year="1775">
+<emphasis id="8DB6EAE1FFB31B04FE85F9270551408A" box="[351,599,1682,1724]" italics="true" pageId="13" pageNumber="163">Clerus rufipes</emphasis>
+<author id="677FDE16FFB31B04FDB2F9270406408A" box="[616,768,1682,1724]" pageId="13" pageNumber="163">De Geer</author>
+, 
+<journalOrPublisher id="65033C3FFFB31B04FCC3F92704C8408A" box="[793,974,1682,1724]" pageId="13" pageNumber="163">Mem. Ins.</journalOrPublisher>
+<emphasis id="8DB6EAE1FFB31B04FC3BF92704F5408A" bold="true" box="[993,1011,1682,1724]" pageId="13" pageNumber="163">
+<part id="CB669C6EFFB31B04FC3BF92704E9408A" box="[993,1007,1682,1724]" pageId="13" pageNumber="163" type="volume">5</part>
+:
+</emphasis>
+<pagination id="860BC807FFB31B04FBCFF9270355408A" box="[1045,1107,1682,1724]" pageId="13" pageNumber="163" type="pageRange">165</pagination>
+, 
+<year id="CB6A77A0FFB31B04FBB4F92703C7408A" box="[1134,1217,1682,1724]" pageId="13" pageNumber="163">1775</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFB31B04FE86F973037B4115" blockId="13.[285,1681,1632,2042]" pageId="13" pageNumber="163">
+<bibCitation id="6AE83E9FFFB31B04FE86F973037B4115" author="Howard &amp; Marlatt" journalOrPublisher="U. S. Dept. Agric." pageId="13" pageNumber="163" pagination="105" refId="ref6962" type="book" year="1902">
+<treatmentCitationGroup id="9FD211DDFFB31B04FE86F973037E4115" pageId="13" pageNumber="163">
+<treatmentCitation id="3E6310E2FFB31B04FE86F973037E4115" author="Howard &amp; Marlatt" page="105" pageId="13" pageNumber="163" year="1902">
+<emphasis id="8DB6EAE1FFB31B04FE86F973058540C6" box="[348,643,1734,1776]" italics="true" pageId="13" pageNumber="163">Necrobia rufipes</emphasis>
+(De Geer) 
+<author id="677FDE16FFB31B04FC85F97304F640C6" box="[863,1008,1734,1776]" pageId="13" pageNumber="163">Howard</author>
+and 
+<author id="677FDE16FFB31B04FB90F97303D440C6" box="[1098,1234,1734,1776]" pageId="13" pageNumber="163">Marlatt</author>
+, 
+<journalOrPublisher id="65033C3FFFB31B04FB3DF973012840C6" box="[1255,1582,1734,1776]" pageId="13" pageNumber="163">U. S. Dept. Agric.</journalOrPublisher>
+, ~ur. Ent. Bull. 
+<emphasis id="8DB6EAE1FFB31B04FD86F94C057C4115" bold="true" box="[604,634,1785,1827]" pageId="13" pageNumber="163">4,</emphasis>
+new ser.: 
+<pagination id="860BC807FFB31B04FC9FF94C04844115" box="[837,898,1785,1827]" pageId="13" pageNumber="163" type="pageRange">105</pagination>
+, fig. 49, 
+<year id="CB6A77A0FFB31B04FBFCF94C037E4115" box="[1062,1144,1785,1827]" pageId="13" pageNumber="163">1902</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB31B04FE85F88102F641A4" pageId="13" pageNumber="163" type="materials_examined">
+<paragraph id="BF7D36F3FFB31B04FE85F88102F641A4" blockId="13.[285,1681,1632,2042]" pageId="13" pageNumber="163">
+<materialsCitation id="0FAA3CAEFFB31B04FE85F88104064156" ID-GBIF-Occurrence="3334692380" box="[351,768,1844,1888]" collectingDate="1936-04-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="163">
+<location id="BA1D6028FFB31B04FE85F88106A74156" LSID="urn:lsid:plazi:treatment:376B87E5FFB31B04FEFAF9D505CA41CC:BA1D6028FFB31B04FE85F88106A74156" box="[351,417,1844,1888]" name="Piti" pageId="13" pageNumber="163">Piti</location>
+, 
+<date id="CB7C1033FFB31B04FE61F88105514156" box="[443,599,1844,1888]" pageId="13" pageNumber="163" value="1930-04">
+<collectingDate id="DB38E9DBFFB31B04FE61F88105514156" box="[443,599,1844,1888]" pageId="13" pageNumber="163" value="1930-04">April 30</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB31B04FDA8F88104064156" box="[626,768,1844,1888]" pageId="13" pageNumber="163">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="0FAA3CAEFFB31B04FCC0F88102034156" ID-GBIF-Occurrence="3334692458" box="[794,1285,1844,1888]" collectingDate="1936-05-17" collectorName="O. H. Swezey" country="Guam" location="Tarague" pageId="13" pageNumber="163">
+<location id="BA1D6028FFB31B04FCC0F88104B64156" LSID="urn:lsid:plazi:treatment:376B87E5FFB31B04FEFAF9D505CA41CC:BA1D6028FFB31B04FCC0F88104B64156" box="[794,944,1844,1888]" name="Tarague" pageId="13" pageNumber="163">Tarague</location>
+, 
+<date id="CB7C1033FFB31B04FC11F88103514156" box="[971,1111,1844,1888]" pageId="13" pageNumber="163" value="2017-05">
+<collectingDate id="DB38E9DBFFB31B04FC11F88103514156" box="[971,1111,1844,1888]" pageId="13" pageNumber="163" value="2017-05">May 17</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB31B04FBA8F88103F84156" box="[1138,1278,1844,1888]" pageId="13" pageNumber="163">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB31B04FAC0F88102F04156" ID-GBIF-Occurrence="3994027302" box="[1306,1526,1844,1888]" collectingDate="1936-06-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="163">
+<location id="BA1D6028FFB31B04FAC0F881025A4156" LSID="urn:lsid:plazi:treatment:376B87E5FFB31B04FEFAF9D505CA41CC:BA1D6028FFB31B04FAC0F881025A4156" box="[1306,1372,1844,1888]" name="Piti" pageId="13" pageNumber="163">Piti</location>
+, 
+<date id="CB7C1033FFB31B04FAAFF88102E84156" box="[1397,1518,1844,1888]" pageId="13" pageNumber="163">
+<collectingDate id="DB38E9DBFFB31B04FAAFF88102E84156" box="[1397,1518,1844,1888]" pageId="13" pageNumber="163">June 1</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB31B04F9D6F88101974156" ID-GBIF-Occurrence="3994027371" box="[1548,1681,1844,1888]" collectingDate="1936-09-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="163">
+<date id="CB7C1033FFB31B04F9D6F881018C4156" box="[1548,1674,1844,1888]" pageId="13" pageNumber="163">
+<collectingDate id="DB38E9DBFFB31B04F9D6F881018C4156" box="[1548,1674,1844,1888]" pageId="13" pageNumber="163">Sept. 9</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB31B04FEC4F8D2065741A4" ID-GBIF-Occurrence="3994027528" box="[286,337,1895,1938]" collectingDate="1936-09-21" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="163">21,</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB31B04FEBBF8D2053841A4" ID-GBIF-Occurrence="3994733305" box="[353,574,1895,1938]" collectingDate="1936-09-26" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="163">26, in house,</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB31B04FD8BF8D205EC41A4" ID-GBIF-Occurrence="3994733302" box="[593,746,1895,1938]" collectingDate="1936-09-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="163">
+<date id="CB7C1033FFB31B04FD8BF8D205E541A4" box="[593,739,1895,1938]" pageId="13" pageNumber="163" value="1930-09">
+<collectingDate id="DB38E9DBFFB31B04FD8BF8D205E541A4" box="[593,739,1895,1938]" pageId="13" pageNumber="163" value="1930-09">Sept. 30</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB31B04FD21F8D203BA41A4" ID-GBIF-Occurrence="3994027445" box="[763,1212,1895,1938]" collectingDate="1936-10-10" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="163">
+<date id="CB7C1033FFB31B04FD21F8D2047941A4" box="[763,895,1895,1938]" pageId="13" pageNumber="163" value="2010-10">
+<collectingDate id="DB38E9DBFFB31B04FD21F8D2047941A4" box="[763,895,1895,1938]" pageId="13" pageNumber="163" value="2010-10">Oct. 10</collectingDate>
+</date>
+, at light, 
+<collectorName id="12375325FFB31B04FBEAF8D203B141A4" box="[1072,1207,1895,1938]" pageId="13" pageNumber="163">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB31B04FB03F8D202F641A4" ID-GBIF-Occurrence="3994027350" box="[1241,1520,1895,1938]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="13" pageNumber="163">
+<collectorName id="12375325FFB31B04FB03F8D2027941A4" box="[1241,1407,1895,1938]" pageId="13" pageNumber="163">Fullaway</collectorName>
+, 1911.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB31B04FE84F82805CA41CC" pageId="13" pageNumber="163" type="discussion">
+<paragraph id="BF7D36F3FFB31B04FE84F82805CA41CC" blockId="13.[285,1681,1632,2042]" pageId="13" pageNumber="163">This cosmopolitan beetle was present in great numbers in warehouse where copra was stored at Piti.</paragraph>
+</subSubSection>
+</treatment>
+</document>

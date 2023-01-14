@@ -1,0 +1,177 @@
+<document id="82B707F728B72D8ED2471CAB68756B5D" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E941FFABFEFC84D793B00AC4" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Polydesma umbricola Boisduval 1833" docType="treatment" docVersion="24" lastPageNumber="173" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="173" updateTime="1669838197629" updateUser="annettekang">
+<mods:mods id="4A39E3336288E87261618D7B6903E6FC" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="66C474307F6C21283CB2F76D0676215A">
+<mods:title id="27F7356B74FA4F5503DCEBFC52E3AB44">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="CE26443A241123574DFD7517090C485F" type="personal">
+<mods:role id="E15110D4586BCA7A0EF39DD93F95D5F6">
+<mods:roleTerm id="EB726C57E30DF3464541C2B96F5D1821">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C4D0C29DEAB0DDC4186E49A656235CC9">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="05517CF22B56A4D0F7F345BF80C9993D">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="D9F061DE0490B6CB7AFC958392F6C451">text</mods:typeOfResource>
+<mods:relatedItem id="71DF45AEE4412558B9A93DB1B3CDB447" type="host">
+<mods:originInfo id="72E48664D1CA0CF0987C1E3BE20CB4F7">
+<mods:dateIssued id="69119D2D9BFCD669072AA1F153CA5FEE">1946</mods:dateIssued>
+<mods:dateOther id="F1D986AB723B7DD1840AB4DC7091FD88" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="771BE2847FA55B2F4DBB206566AEDB30">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="AAC07219752E23098CD667BAD6D89051">
+<mods:placeTerm id="97DD0D68CE08F5C567B76219938920A3">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="0A9D3C59FFC55E4762B81BEBFBC047D6">
+<mods:title id="44506211B6021157A765FAD60AF8FFD6">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="6D59CF01AF9618BBCD8ABC38D27B8018">
+<mods:extent id="FAFA1DCED189D6138916A8A9B28289BD" unit="page">
+<mods:start id="4B14F6568A5CF2D23046427E53AFD16F">163</mods:start>
+<mods:end id="0C69B14CAE52E3F56584C86313D1BD3E">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="A6015E548BD5214A50ED2089530D79FD">book chapter</mods:classification>
+<mods:identifier id="B4AA5D8F15219165BD792407D0D1A0C6" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="E1C514E6A2C5F49B1E28CD5A123942B3" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="CACD48AB00BC4AA2F7B580329DB435F9" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E941FFABFEFC84D793B00AC4" ID-DOI="http://doi.org/10.5281/zenodo.5211904" ID-GBIF-Taxon="183926970" ID-Zenodo-Dep="5211904" LSID="urn:lsid:plazi:treatment:03B387B8E941FFABFEFC84D793B00AC4" httpUri="http://treatment.plazi.org/id/03B387B8E941FFABFEFC84D793B00AC4" lastPageNumber="173" pageId="10" pageNumber="173">
+<subSubSection id="C3006525E941FFABFEFC84D79193045B" box="[307,997,1770,1812]" pageId="10" pageNumber="173" type="nomenclature">
+<paragraph id="8BA536AEE941FFABFEFC84D79193045B" blockId="10.[305,1705,1770,2443]" box="[307,997,1770,1812]" pageId="10" pageNumber="173">
+<heading id="D0ED81C2E941FFABFEFC84D79193045B" box="[307,997,1770,1812]" centered="true" fontSize="8" level="2" pageId="10" pageNumber="173" reason="4">
+<emphasis id="B96EEABCE941FFABFEFC84D79312045B" bold="true" box="[307,356,1770,1812]" pageId="10" pageNumber="173">27.</emphasis>
+<taxonomicName id="4C1A4D2DE941FFABFE4984D791A8045B" authority="Boisduval" authorityName="Boisduval" authorityYear="1833" box="[390,990,1770,1812]" class="Insecta" family="Noctuidae" genus="Polydesma" kingdom="Animalia" order="Lepidoptera" pageId="10" pageNumber="173" phylum="Arthropoda" rank="species" species="umbricola">
+<emphasis id="B96EEABCE941FFABFE4984D79165045B" bold="true" box="[390,787,1770,1812]" pageId="10" pageNumber="173">Polydesma umbricola</emphasis>
+<author id="53A7DE4BE941FFABFCE984D791A8045B" box="[806,990,1770,1812]" pageId="10" pageNumber="173">Boisduval</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E941FFABFC3684D797960406" pageId="10" pageNumber="173" type="reference_group">
+<paragraph id="8BA536AEE941FFABFC3684D797960406" blockId="10.[305,1705,1770,2443]" pageId="10" pageNumber="173">
+<treatmentCitationGroup id="AB0A1180E941FFABFC3684D797960406" pageId="10" pageNumber="173">
+<bibCitation id="5E303EC2E941FFABFC3684D797960406" author="Hampson" journalOrPublisher="Faun. Ent. Madag." pageId="10" pageNumber="173" pagination="108" part="2" refId="ref5839" title="Lep." type="book" year="1833">
+<treatmentCitation id="0ABB10BFE941FFABFC3684D790400406" author="Boisduval" page="108" pageId="10" pageNumber="173" year="1833">
+<heading id="D0ED81C2E941FFABFC3684D794D1045B" box="[1017,1703,1770,1812]" centered="true" fontSize="8" level="2" pageId="10" pageNumber="173" reason="4">
+<journalOrPublisher id="51DB3C62E941FFABFC3684D7972D045B" box="[1017,1371,1770,1812]" pageId="10" pageNumber="173">Faun. Ent. Madag.</journalOrPublisher>
+, 
+<title id="F91EDD98E941FFABFABA84D797B1045B" box="[1397,1479,1770,1812]" pageId="10" pageNumber="173">Lep.</title>
+, 
+<pagination id="B2D3C85AE941FFABFA2D84D79456045B" box="[1506,1568,1770,1812]" pageId="10" pageNumber="173">108</pagination>
+, pf. 13,
+</heading>
+fig. 5, 
+<year id="FFB277FDE941FFABFE26852390400406" box="[489,566,1822,1865]" pageId="10" pageNumber="173">1833</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE941FFABFD95852397AD0406" author="Hampson" box="[602,1499,1822,1865]" page="468" pageId="10" pageNumber="173" year="1894">
+<author id="53A7DE4BE941FFABFD958523917C0406" box="[602,778,1822,1865]" pageId="10" pageNumber="173">Hampson</author>
+, 
+<title id="F91EDD98E941FFABFCED852396860406" box="[802,1264,1822,1865]" pageId="10" pageNumber="173">
+Fauna Brit. 
+<collectingCountry id="F30D763EE941FFABFBC88523961E0406" box="[1031,1128,1822,1865]" name="India" pageId="10" pageNumber="173">India</collectingCountry>
+, Moths
+</title>
+<emphasis id="B96EEABCE941FFABFACF852397640406" bold="true" box="[1280,1298,1822,1865]" pageId="10" pageNumber="173">
+<part id="FFBE9C33E941FFABFACF852397780406" box="[1280,1294,1822,1865]" pageId="10" pageNumber="173" type="volume">2</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE941FFABFAFE852397070406" box="[1329,1393,1822,1865]" pageId="10" pageNumber="173" type="pagination">468</pagination>
+, 
+<year id="FFB277FDE941FFABFA46852397AD0406" box="[1417,1499,1822,1865]" pageId="10" pageNumber="173">1894</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E941FFABFEBC856A90250B52" pageId="10" pageNumber="173" type="materials_examined">
+<paragraph id="8BA536AEE941FFABFEBC856A90250B52" blockId="10.[305,1705,1770,2443]" pageId="10" pageNumber="173">
+<materialsCitation id="3B723CF3E941FFABFEBC856A91900430" ID-GBIF-Occurrence="3332081383" box="[371,998,1879,1919]" collectingDate="1936-04-22" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="10" pageNumber="173">
+<collectingMunicipality id="6BC1ACD4E941FFABFEBC856A90090430" box="[371,639,1879,1919]" pageId="10" pageNumber="173">Ritidian Point</collectingMunicipality>
+, 
+<date id="FFA4106EE941FFABFD6D856A91300430" box="[674,838,1879,1919]" pageId="10" pageNumber="173" value="1922-04">
+<collectingDate id="EFE0E986E941FFABFD6D856A91300430" box="[674,838,1879,1919]" pageId="10" pageNumber="173" value="1922-04">April 22</collectingDate>
+</date>
+, 
+<location id="8EC56075E941FFABFCA6856A91A90430" LSID="urn:lsid:plazi:treatment:03B387B8E941FFABFEFC84D793B00AC4:8EC56075E941FFABFCA6856A91A90430" box="[873,991,1879,1919]" pageId="10" pageNumber="173">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E941FFABFBCC856A979104FA" ID-GBIF-Occurrence="3332081378" collectedFrom="issued from numerous pupae under bark of dead Pithecolobium dulce" collectingDate="1936-05-02" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="10" pageNumber="173" specimenCount="10">
+<location id="8EC56075E941FFABFBCC856A96330430" LSID="urn:lsid:plazi:treatment:03B387B8E941FFABFEFC84D793B00AC4:8EC56075E941FFABFBCC856A96330430" box="[1027,1093,1879,1919]" pageId="10" pageNumber="173">
+<collectingMunicipality id="6BC1ACD4E941FFABFBCC856A96330430" box="[1027,1093,1879,1919]" pageId="10" pageNumber="173">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE941FFABFBA7856A97420430" box="[1128,1332,1879,1919]" pageId="10" pageNumber="173" value="2010-05-02">
+<collectingDate id="EFE0E986E941FFABFBA7856A97420430" box="[1128,1332,1879,1919]" pageId="10" pageNumber="173" value="2010-05-02">May 2, 10</collectingDate>
+</date>
+moths issued from 'numerous 
+<specimenCount id="9D1CFD27E941FFABFE2085B6902004FA" box="[495,598,1931,1973]" pageId="10" pageNumber="173" type="pupa">pupae</specimenCount>
+under bark of dead 
+<taxonomicName id="4C1A4D2DE941FFABFC0785B6979604FA" authority=", Usinger" authorityName="Usinger" box="[968,1504,1931,1973]" class="Magnoliopsida" family="Fabaceae" genus="Pithecolobium" higherTaxonomySource="CoL" kingdom="Plantae" order="Fabales" pageId="10" pageNumber="173" phylum="Tracheophyta" rank="species" species="dulce">
+<emphasis id="B96EEABCE941FFABFC0785B6974F04FA" box="[968,1337,1931,1973]" italics="true" pageId="10" pageNumber="173">
+<location id="8EC56075E941FFABFC0785B696B004FA" LSID="urn:lsid:plazi:treatment:03B387B8E941FFABFEFC84D793B00AC4:8EC56075E941FFABFC0785B696B004FA" box="[968,1222,1931,1973]" pageId="10" pageNumber="173">Pithecolobium</location>
+dulce,
+</emphasis>
+<location id="8EC56075E941FFABFA8585B6979604FA" LSID="urn:lsid:plazi:treatment:03B387B8E941FFABFEFC84D793B00AC4:8EC56075E941FFABFA8585B6979604FA" box="[1354,1504,1931,1973]" pageId="10" pageNumber="173">Usinger</location>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E941FFABFA3685B6931104A5" ID-GBIF-Occurrence="3913652341" collectedFrom="at light" collectingDate="1936-08-26" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="10" pageNumber="173">
+<location id="8EC56075E941FFABFA3685B6944D04FA" LSID="urn:lsid:plazi:treatment:03B387B8E941FFABFEFC84D793B00AC4:8EC56075E941FFABFA3685B6944D04FA" box="[1529,1595,1931,1973]" pageId="10" pageNumber="173">
+<collectingMunicipality id="6BC1ACD4E941FFABFA3685B6944D04FA" box="[1529,1595,1931,1973]" pageId="10" pageNumber="173">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE941FFABF99D85B6931704A5" pageId="10" pageNumber="173" value="1926-08">
+<collectingDate id="EFE0E986E941FFABF99D85B6931704A5" pageId="10" pageNumber="173" value="1926-08">Aug. 26</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E941FFABFE4D85FD906004A5" ID-GBIF-Occurrence="3913652436" box="[386,534,1984,2026]" collectedFrom="at light" collectingDate="1936-10-24" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="10" pageNumber="173">
+<date id="FFA4106EE941FFABFE4D85FD906604A5" box="[386,528,1984,2026]" pageId="10" pageNumber="173" value="1924-10">
+<collectingDate id="EFE0E986E941FFABFE4D85FD906604A5" box="[386,528,1984,2026]" pageId="10" pageNumber="173" value="1924-10">Oct. 24</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E941FFABFDFD85FD966704A5" ID-GBIF-Occurrence="3913652493" box="[562,1041,1984,2026]" collectedFrom="at light" collectingDate="1936-11-05" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="10" pageNumber="173">
+<date id="FFA4106EE941FFABFDFD85FD90C004A5" box="[562,694,1984,2026]" pageId="10" pageNumber="173">
+<collectingDate id="EFE0E986E941FFABFDFD85FD90C004A5" box="[562,694,1984,2026]" pageId="10" pageNumber="173">Nov. 5</collectingDate>
+</date>
+, at light, 
+<collectorName id="26EF5378E941FFABFC4985FD967A04A5" box="[902,1036,1984,2026]" pageId="10" pageNumber="173">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="3B723CF3E941FFABFBF885FD90250B52" ID-GBIF-Occurrence="3332081379" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="10" pageNumber="173" specimenCount="1">
+One in 
+<collectingCountry id="F30D763EE941FFABFB1C85FD974C04A5" box="[1235,1338,1984,2026]" name="United States of America" pageId="10" pageNumber="173">U. S.</collectingCountry>
+<collectingMunicipality id="6BC1ACD4E941FFABFA9985FD94D704A5" box="[1366,1697,1984,2026]" pageId="10" pageNumber="173">National Museum</collectingMunicipality>
+, 
+<location id="8EC56075E941FFABFEFA85CE93AC0B52" LSID="urn:lsid:plazi:treatment:03B387B8E941FFABFEFC84D793B00AC4:8EC56075E941FFABFEFA85CE93AC0B52" box="[309,474,2035,2077]" pageId="10" pageNumber="173">Fullaway</location>
+, 1911.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E941FFABFEBB8A1293B00AC4" pageId="10" pageNumber="173" type="distribution">
+<paragraph id="8BA536AEE941FFABFEBB8A1293B00AC4" blockId="10.[305,1705,1770,2443]" pageId="10" pageNumber="173">
+Widely distributed in west and 
+<collectingCountry id="F30D763EE941FFABFC718A1296D70B17" box="[958,1185,2095,2136]" name="South Africa" pageId="10" pageNumber="173">south Africa</collectingCountry>
+, 
+<collectingCountry id="F30D763EE941FFABFB738A1297E50B17" box="[1212,1427,2095,2136]" name="Madagascar" pageId="10" pageNumber="173">Madagascar</collectingCountry>
+, 
+<collectingCountry id="F30D763EE941FFABFA628A12947D0B17" box="[1453,1547,2095,2136]" name="India" pageId="10" pageNumber="173">India</collectingCountry>
+, 
+<collectingCountry id="F30D763EE941FFABF9E88A1294D40B17" box="[1575,1698,2095,2136]" name="Sri Lanka" pageId="10" pageNumber="173">Ceylon</collectingCountry>
+, 
+<collectingCountry id="F30D763EE941FFABFEF98A5993C70BC3" box="[310,433,2148,2188]" name="Myanmar" pageId="10" pageNumber="173">Burma</collectingCountry>
+, Andaman Islands, and Society Islands. Now recorded for the first time in 
+<collectingCountry id="F30D763EE941FFABFE0D8AA4905B0B8C" box="[450,557,2201,2243]" name="Guam" pageId="10" pageNumber="173">Guam</collectingCountry>
+, where it is now quite common. We never found its caterpillar, so did not learn of its food plant. The finding of pupae under bark of 
+<taxonomicName id="4C1A4D2DE941FFABF9F38AF693A50A67" authorityName="Martius" authorityYear="1837" class="Magnoliopsida" family="Fabaceae" genus="Pithecolobium" higherTaxonomySource="CoL" kingdom="Plantae" order="Fabales" pageId="10" pageNumber="173" phylum="Tracheophyta" rank="genus">
+<emphasis id="B96EEABCE941FFABF9F38AF693A50A67" italics="true" pageId="10" pageNumber="173">Pithecolobium</emphasis>
+</taxonomicName>
+would seem to indicate that the caterpillars had fed on that tree, yet they may have sought that. location only as a safe place for making their cocoons.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

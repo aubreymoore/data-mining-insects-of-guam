@@ -1,0 +1,133 @@
+<document id="0E9B95FE89A251A6448D5314AD0463E7" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5383F594B49EE88FD42C5C6" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Proboscidocoris malayus Reuter" docType="treatment" docVersion="23" lastPageNumber="63" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="63" updateTime="1671674318142" updateUser="annettekang">
+<mods:mods id="049538D35AAA0D79CB1B62977BD01E84" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="0D1B9625657DB0102CDD2D13B8D95A48">
+<mods:title id="6CBBCE5CA594CF392C7F0678C0603C69">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="5E160D4EECE827B90FAD6331CB919EBD" type="personal">
+<mods:role id="6D97A8F4F2D6A4BCCA01BF4331A8D9AF">
+<mods:roleTerm id="35B3DEF696F485E78024D398E1991875">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2057A2B5DEF4ECD6775AD21CA425EC81">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="0B55CDA13200953012F905A72553B37C">text</mods:typeOfResource>
+<mods:relatedItem id="CEF4ABE37740FCBC76861EE2DB95C934" type="host">
+<mods:originInfo id="AEF04FB7086FCB10C064AB9EA2396D61">
+<mods:dateIssued id="AF944E0ADCAADAB59667B24243CFBB1E">1946</mods:dateIssued>
+<mods:dateOther id="A1B5871CEADFDFF8EAA92F5640B00E7C" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="79BD6657868E4BB074753F4AD4D3BA8F">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="2F0F948C64C4B2B2563012F69F9000D5">
+<mods:placeTerm id="F262703D0A70B4C2CE826984570CD0E8">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="02F8BFC1A0881830A0382EAFA060F5B7">
+<mods:title id="CBBAF9538DAA9181119608947CC5FBE1">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="3A9F2D59C00F78BB011A147BBB484ADB">
+<mods:extent id="75F517824617804A92DECE5885D7A0ED" unit="page">
+<mods:start id="2C621B7FAEBA5B8A672122E36FB26047">11</mods:start>
+<mods:end id="BDBFFA71AEA725691FA8F88F6282E1BA">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="641EDE5CB1DA41BA36F30FC266A74FBF">book chapter</mods:classification>
+<mods:identifier id="559BF13154F0661FD180F7038A8562E8" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="90D115453C9571AB3E96F4161BD8B6EB" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="A70D7D3864AFBC9953562F34FD5E55D2" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5383F594B49EE88FD42C5C6" ID-DOI="http://doi.org/10.5281/zenodo.5245300" ID-GBIF-Taxon="184601132" ID-Zenodo-Dep="5245300" LSID="urn:lsid:plazi:treatment:EC6DA359F5383F594B49EE88FD42C5C6" httpUri="http://treatment.plazi.org/id/EC6DA359F5383F594B49EE88FD42C5C6" lastPageNumber="63" pageId="52" pageNumber="63">
+<subSubSection id="2CDE41C4F5383F594B49EE88FC05C363" box="[297,993,480,523]" pageId="52" pageNumber="63" type="nomenclature">
+<paragraph id="647B124FF5383F594B49EE88FC05C363" blockId="52.[294,1694,480,1198]" box="[297,993,480,523]" pageId="52" pageNumber="63">
+<heading id="3F33A523F5383F594B49EE88FC05C363" box="[297,993,480,523]" centered="true" fontSize="8" level="2" pageId="52" pageNumber="63" reason="4">
+<emphasis id="56B0CE5DF5383F594B49EE88FEBEC363" bold="true" box="[297,346,480,523]" pageId="52" pageNumber="63">58.</emphasis>
+<taxonomicName id="A3C469CCF5383F594B1BEE88FC05C363" authority="Reuter" box="[379,993,480,523]" class="Insecta" family="Miridae" genus="Proboscidocoris" kingdom="Animalia" order="Hemiptera" pageId="52" pageNumber="63" phylum="Arthropoda" rank="species" species="malayus">
+<emphasis id="56B0CE5DF5383F594B1BEE88FCAEC363" bold="true" box="[379,842,480,523]" pageId="52" pageNumber="63">Proboscidocoris malayus</emphasis>
+<author id="BC79FAAAF5383F59493EEE88FC3EC363" box="[862,986,480,523]" pageId="52" pageNumber="63">Reuter</author>
+,
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5383F594999EE88FDF2C356" pageId="52" pageNumber="63" type="reference_group">
+<paragraph id="647B124FF5383F594999EE88FDF2C356" blockId="52.[294,1694,480,1198]" pageId="52" pageNumber="63">
+<bibCitation id="B1EE1A23F5383F594999EE88FDF2C356" author="Reuter" journalOrPublisher="Naturhist. Hofmus. Wien, Ann." pageId="52" pageNumber="63" pagination="188" part="22" refId="ref26880" type="journal article" year="1907">
+<treatmentCitationGroup id="44D43561F5383F594999EE88FDF5C356" pageId="52" pageNumber="63">
+<treatmentCitation id="E565345EF5383F594999EE88FDF5C356" author="Reuter" page="188" pageId="52" pageNumber="63" year="1907">
+<heading id="3F33A523F5383F594999EE88F96EC363" box="[1017,1674,480,523]" centered="true" fontSize="8" level="2" pageId="52" pageNumber="63" reason="4">
+<journalOrPublisher id="BE051883F5383F594999EE88F9A9C363" box="[1017,1613,480,523]" pageId="52" pageNumber="63">Naturhist. Hofmus. Wien, Ann.</journalOrPublisher>
+<emphasis id="56B0CE5DF5383F594C04EE88F96EC363" bold="true" box="[1636,1674,480,523]" pageId="52" pageNumber="63">
+<part id="1060B8D2F5383F594C04EE88F962C363" box="[1636,1670,480,523]" pageId="52" pageNumber="63" type="volume">22</part>
+:
+</emphasis>
+</heading>
+<pagination id="5D0DECBBF5383F594B09ED7CFE42C356" box="[361,422,532,574]" pageId="52" pageNumber="63" type="pageRange">188</pagination>
+, 
+<year id="106C531CF5383F594BDEED7CFDF5C356" box="[446,529,532,574]" pageId="52" pageNumber="63">1907</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5383F594B08ED39FB5BC3C6" pageId="52" pageNumber="63">
+<paragraph id="647B124FF5383F594B08ED39FB5BC3C6" blockId="52.[294,1694,480,1198]" pageId="52" pageNumber="63">
+<materialsCitation id="D4AC1812F5383F594B08ED39F972C313" ID-GBIF-Occurrence="3994028304" box="[360,1686,593,635]" collectedFrom="sweeping grasses and Jussiaea" collectingDate="1936-06-26" collectorName="R. L. Usinger" country="Guam" location="Agana Swamp" pageId="52" pageNumber="63" specimenCount-male="1">
+<collectorName id="C9317799F5383F594B08ED39FE55C313" box="[360,433,593,635]" pageId="52" pageNumber="63">One</collectorName>
+<specimenCount id="72C2D9C6F5383F594BDDED39FDF5C313" box="[445,529,593,635]" pageId="52" pageNumber="63" type="male">male</specimenCount>
+, Agana Swamp, 
+<date id="107A348FF5383F59495BED39FC23C313" box="[827,967,593,635]" pageId="52" pageNumber="63" value="1926-06">
+<collectingDate id="003ECD67F5383F59495BED39FC23C313" box="[827,967,593,635]" pageId="52" pageNumber="63" value="1926-06">June 26</collectingDate>
+</date>
+, sweeping grasses and 
+<taxonomicName id="A3C469CCF5383F594F38ED39F972C313" authority=", Usinger" authorityName="Usinger" box="[1368,1686,593,635]" class="Magnoliopsida" family="Onagraceae" genus="Jussiaea" higherTaxonomySource="GBIF" kingdom="Plantae" order="Myrtales" pageId="52" pageNumber="63" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5383F594F38ED39FA16C313" box="[1368,1522,593,635]" italics="true" pageId="52" pageNumber="63">Jussiaea,</emphasis>
+<location id="611B4494F5383F594F9FED39F972C313" LSID="urn:lsid:plazi:treatment:EC6DA359F5383F594B49EE88FD42C5C6:611B4494F5383F594F9FED39F972C313" box="[1535,1686,593,635]" name="Usinger" pageId="52" pageNumber="63">Usinger</location>
+</taxonomicName>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5383F594B48EDECFB5EC3C6" ID-GBIF-Occurrence="3994028499" box="[296,1210,644,686]" collectedFrom="rice seedling plot" collectingDate="1936-09-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="52" pageNumber="63" specimenCount-female="1">
+<specimenCount id="72C2D9C6F5383F594B48EDECFE0FC3C6" box="[296,491,644,686]" pageId="52" pageNumber="63" type="female">one female</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5383F594862EDECFDA7C3C6" box="[514,579,644,686]" pageId="52" pageNumber="63">Piti</collectingMunicipality>
+, 
+<date id="107A348FF5383F59483BEDECFD31C3C6" box="[603,725,644,686]" pageId="52" pageNumber="63">
+<collectingDate id="003ECD67F5383F59483BEDECFD31C3C6" box="[603,725,644,686]" pageId="52" pageNumber="63">Sept. 1</collectingDate>
+</date>
+, rice seedling plot, 
+<collectorName id="C9317799F5383F594E54EDECFB5EC3C6" box="[1076,1210,644,686]" pageId="52" pageNumber="63">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5383F594B07EDDEFD42C5C6" pageId="52" pageNumber="63">
+<paragraph id="647B124FF5383F594B07EDDEFC7CC288" blockId="52.[294,1694,480,1198]" pageId="52" pageNumber="63">
+These differ slightly from Reuter's description, the apex of the scutellum and the lateral margins of the coria being narrowly pale. In this they agree with the nearly allied African 
+<emphasis id="56B0CE5DF5383F59492DEC76FBD1C22F" box="[845,1077,798,839]" italics="true" pageId="52" pageNumber="63">punctaticollis</emphasis>
+Reuter but the golden pubescence mentioned for 
+<taxonomicName id="A3C469CCF5383F594856EC39FD23C211" box="[566,711,849,889]" class="Insecta" family="Miridae" genus="Proboscidocoris" kingdom="Animalia" order="Hemiptera" pageId="52" pageNumber="63" phylum="Arthropoda" rank="species" species="malayus">
+<emphasis id="56B0CE5DF5383F594856EC39FD23C211" box="[566,711,849,889]" italics="true" pageId="52" pageNumber="63">malayus</emphasis>
+</taxonomicName>
+is very conspicuous and is not present in the African species or in any of the Oriental species before me, including specimens from Java, Larat, 
+<taxonomicName id="A3C469CCF5383F59486AECD0FD4AC288" authorityName="Kirkaldy" authorityYear="1913" box="[522,686,952,992]" class="Insecta" family="Dictyopharidae" genus="Amboina" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="52" pageNumber="63" phylum="Arthropoda" rank="genus">Amboina</taxonomicName>
+, and Borneo.
+</paragraph>
+<paragraph id="647B124FF5383F594B04EC83FD42C5C6" blockId="52.[294,1694,480,1198]" pageId="52" pageNumber="63">
+<taxonomicName id="A3C469CCF5383F594B04EC83FDC8C57B" box="[356,556,1003,1043]" class="Insecta" family="Miridae" genus="Proboscidocoris" kingdom="Animalia" order="Hemiptera" pageId="52" pageNumber="63" phylum="Arthropoda" rank="species" species="malayus">
+<emphasis id="56B0CE5DF5383F594B04EC83FDC8C57B" box="[356,556,1003,1043]" italics="true" pageId="52" pageNumber="63">P. malayus</emphasis>
+</taxonomicName>
+is widespread in the Austro-Oriental region. Poppius (Archiv fiir Naturgesch. 
+<emphasis id="56B0CE5DF5383F594808EB76FD4BC52F" bold="true" box="[616,687,1054,1095]" pageId="52" pageNumber="63">80A</emphasis>
+:42, 1914) mentions the following localities: Java, Lombok, 
+<collectingCountry id="1CD352DFF5383F594BBEEB38FD92C512" box="[478,630,1104,1146]" name="Malaysia" pageId="52" pageNumber="63">Malacca</collectingCountry>
+, Sumatra, Mentawei, Celebes, New 
+<collectingCountry id="1CD352DFF5383F594F49EB38FA4EC512" box="[1321,1450,1104,1146]" name="Guinea-Bissau" pageId="52" pageNumber="63">Guinea</collectingCountry>
+, 
+<collectingCountry id="1CD352DFF5383F594FA8EB38F972C512" box="[1480,1686,1104,1146]" name="Philippines" pageId="52" pageNumber="63">Philippines</collectingCountry>
+, 
+<collectingCountry id="1CD352DFF5383F594B46EBEBFE2DC5C6" box="[294,457,1155,1198]" name="Taiwan" pageId="52" pageNumber="63">Formosa</collectingCountry>
+, and 
+<collectingCountry id="1CD352DFF5383F594853EBEBFD45C5C6" box="[563,673,1155,1198]" name="Japan" pageId="52" pageNumber="63">Japan</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

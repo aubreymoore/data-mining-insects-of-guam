@@ -1,0 +1,112 @@
+<document id="3F266F55D3865E719B929BD5A533E2F0" ID-DOI="http://doi.org/10.5281/zenodo.5160233" ID-GBIF-Dataset="16f6ef92-619b-417b-946c-22d9b1445e7d" ID-Zenodo-Dep="5160233" checkinTime="1628022546680" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="2C76878DFF98FFF1BEF8FDF5F936FCB7" docLanguage="en" docName="InsectsOfGuamII.189.3-8.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docTitle="Euborellia annulipes" docType="treatment" docVersion="21" lastPageNumber="8" masterDocId="D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8" masterDocTitle="Orthoptera And Related Orders Orthoptera And Related Orders Of Guam" masterLastPageNumber="8" masterPageNumber="3" pageNumber="8" updateTime="1657639050607" updateUser="annettekang">
+<mods:mods id="03FED687200D4E5E3A9C14BE17014D0B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="77AB381A0B4CFA2120E2545F3E87A39E">
+<mods:title id="F13AAB38776837EA38AEACD81E2110B6">Orthoptera And Related Orders Orthoptera And Related Orders Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="0EABD8A145246B8147D48186C61E7D28" type="personal">
+<mods:role id="F9D2F4837D3E83177D53151C0E738D32">
+<mods:roleTerm id="7890519D760A76123A818892E774D00C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E24E9F0666DA9AA2ADBBB5B7DC62B9DF">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="AED40EFD9F483627D2DA51922ACDC2CF">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="F4E13A85A47E63B6F3FB6BD7623DF0F3">text</mods:typeOfResource>
+<mods:relatedItem id="D92B92C9CAEFCB35D34DF221D7952679" type="host">
+<mods:originInfo id="A09F96757F42AAF83CEE56B85816C84F">
+<mods:dateIssued id="D30FCE93555064C8DE1CDC057009B504">1946</mods:dateIssued>
+<mods:dateOther id="9DA0CB91206E16B7E5324F10496A0ECB" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="6EB0F879CC7BC73A1C452C9E9F1D0EC4">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="97001F8B6B59535BE64C45C8818BF2F9">
+<mods:placeTerm id="964DE8BDEEC79D11C523FA2BB1A81BBE">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9BC76FCE52D56EFDD4F0070827CD9853">
+<mods:title id="ACE94CF491562A1DF79DBBE5F3D6B5FA">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="D7B710529313994141701E9E047C9FE7">
+<mods:extent id="CF683DBE77A13542960C29E98BDCC1BD" unit="page">
+<mods:start id="54F54B85F914BC554B49DAB4A791696E">3</mods:start>
+<mods:end id="D714042565063DF515BA31F9AAEE18C4">8</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="C7A1F04CA098A43278D7A9D8EA2911DF">book chapter</mods:classification>
+<mods:identifier id="3E7D1B7AF16252777309DE162D82ED6C" type="DOI">http://doi.org/10.5281/zenodo.5160233</mods:identifier>
+<mods:identifier id="A44E9B14D195A905242E515F03CA7470" type="GBIF-Dataset">16f6ef92-619b-417b-946c-22d9b1445e7d</mods:identifier>
+<mods:identifier id="49C8BCD8E9A11BB7BB3C49E003CA8AD0" type="Zenodo-Dep">5160233</mods:identifier>
+</mods:mods>
+<treatment id="2C76878DFF98FFF1BEF8FDF5F936FCB7" ID-DOI="http://doi.org/10.5281/zenodo.5188705" ID-GBIF-Taxon="183924928" ID-Zenodo-Dep="5188705" LSID="urn:lsid:plazi:treatment:2C76878DFF98FFF1BEF8FDF5F936FCB7" httpUri="http://treatment.plazi.org/id/2C76878DFF98FFF1BEF8FDF5F936FCB7" lastPageNumber="8" pageId="5" pageNumber="8">
+<subSubSection id="ECC56510FF98FFF1BEF8FDF5FC48FD51" box="[400,1011,607,649]" pageId="5" pageNumber="8" type="nomenclature">
+<paragraph id="A460369BFF98FFF1BEF8FDF5FC48FD51" blockId="5.[400,1796,607,879]" box="[400,1011,607,649]" pageId="5" pageNumber="8">
+<heading id="FF2881F7FF98FFF1BEF8FDF5FC56FD51" box="[400,1005,607,649]" centered="true" fontSize="11" level="2" pageId="5" pageNumber="8" reason="2">
+<emphasis id="96ABEA89FF98FFF1BEF8FDF5FCFEFD51" bold="true" box="[400,837,607,649]" pageId="5" pageNumber="8">
+1. 
+<taxonomicName id="63DF4D18FF98FFF1BEA4FDF5FCFEFD51" authority="(Lucas)" box="[460,837,607,649]" class="Insecta" family="Labiduridae" genus="Euborellia" higherTaxonomySource="CoL" kingdom="Animalia" order="Dermaptera" pageId="5" pageNumber="8" phylum="Arthropoda" rank="species" species="annulipes">Euborellia annulipes</taxonomicName>
+</emphasis>
+(Lucas)
+</heading>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF98FFF1BEA4FD33FDDCFCEC" pageId="5" pageNumber="8" type="reference_group">
+<paragraph id="A460369BFF98FFF1BEA4FD33F9C3FD1C" blockId="5.[400,1796,607,879]" box="[460,1656,665,708]" pageId="5" pageNumber="8">
+<treatmentCitationGroup id="84CF11B5FF98FFF1BEA4FD33F9C3FD1C" box="[460,1656,665,708]" pageId="5" pageNumber="8">
+<treatmentCitation id="257E108AFF98FFF1BEA4FD33F9C3FD1C" author="Lucas" box="[460,1656,665,708]" page="84" pageId="5" pageNumber="8" year="1847">
+<bibCitation id="71F53EF7FF98FFF1BEA4FD33F9C3FD1C" author="Lucas" box="[460,1656,665,708]" journalOrPublisher="Soc. ent. France, Ann." pageId="5" pageNumber="8" pagination="84" part="2" refId="ref2444" type="journal article" year="1847">
+<emphasis id="96ABEA89FF98FFF1BEA4FD33FC81FD1C" box="[460,826,665,708]" italics="true" pageId="5" pageNumber="8">Forficesila annulipes</emphasis>
+<author id="7C62DE7EFF98FFF1BC2FFD33FC09FD1C" box="[839,946,665,708]" pageId="5" pageNumber="8">Lucas</author>
+, 
+<journalOrPublisher id="7E1E3C57FF98FFF1BCA2FD33FAEDFD1C" box="[970,1366,665,708]" pageId="5" pageNumber="8">
+Soc. ent. 
+<collectingCountry id="DCC8760BFF98FFF1BB07FD33FB57FD1C" box="[1135,1260,665,708]" name="France" pageId="5" pageNumber="8">France</collectingCountry>
+, Ann.
+</journalOrPublisher>
+<part id="D07B9C06FF98FFF1BA0EFD33FAC4FD1C" box="[1382,1407,665,708]" pageId="5" pageNumber="8" type="volume">2</part>
+(
+<part id="D07B9C06FF98FFF1BAE5FD33FA1FFD1C" box="[1421,1444,665,708]" pageId="5" pageNumber="8" type="issue">5</part>
+): 
+<pagination id="9D16C86FFF98FFF1BAB3FD33F9BDFD1C" box="[1499,1542,665,708]" pageId="5" pageNumber="8" type="pagination">84</pagination>
+, 
+<year id="D07777C8FF98FFF1B977FD33F9C8FD1C" box="[1567,1651,665,708]" pageId="5" pageNumber="8">1847</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="A460369BFF98FFF1BEA4FD7FFDDCFCEC" blockId="5.[400,1796,607,879]" pageId="5" pageNumber="8">
+<treatmentCitationGroup id="84CF11B5FF98FFF1BEA4FD7FFDDCFCEC" pageId="5" pageNumber="8">
+<treatmentCitation id="257E108AFF98FFF1BEA4FD7FFDDCFCEC" author="Hebard" page="312" pageId="5" pageNumber="8" year="1922">
+<bibCitation id="71F53EF7FF98FFF1BEA4FD7FFDDCFCEC" author="Hebard" journalOrPublisher="B. P. Bishop Mus., 0 cc. Papers" pageId="5" pageNumber="8" pagination="312" part="7" refId="ref2465" type="journal article" year="1922">
+<emphasis id="96ABEA89FF98FFF1BEA4FD7FFCFAFCD8" box="[460,833,725,768]" italics="true" pageId="5" pageNumber="8">Euborellia annulipes,</emphasis>
+<author id="7C62DE7EFF98FFF1BC39FD7FFC62FCD8" box="[849,985,725,768]" pageId="5" pageNumber="8">Hebard</author>
+, 
+<journalOrPublisher id="7E1E3C57FF98FFF1BC98FD7FF990FCD8" box="[1008,1579,725,768]" pageId="5" pageNumber="8">B. P. Bishop Mus., 0cc. Papers</journalOrPublisher>
+<part id="D07B9C06FF98FFF1B952FD7FF9EBFCD8" box="[1594,1616,725,768]" pageId="5" pageNumber="8" type="volume">7</part>
+(
+<part id="D07B9C06FF98FFF1B935FD7FF933FCD8" box="[1629,1672,725,768]" pageId="5" pageNumber="8" type="issue">14</part>
+): 
+<subSection id="CD502F70FF98FFF1B9D6FD7FF8BFFCD8" box="[1726,1796,725,768]" pageId="5" pageNumber="8" type="multiple">
+<pagination id="9D16C86FFF98FFF1B9D6FD7FF945FCD8" box="[1726,1790,725,768]" pageId="5" pageNumber="8" type="pagination">312</pagination>
+,
+</subSection>
+<year id="D07777C8FF98FFF1BD67FCA0FDD9FCEC" box="[527,610,778,820]" pageId="5" pageNumber="8">1922</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF98FFF1BEB8FCEFF936FCB7" box="[464,1677,837,879]" pageId="5" pageNumber="8" type="materials_examined">
+<paragraph id="A460369BFF98FFF1BEB8FCEFF936FCB7" blockId="5.[400,1796,607,879]" box="[464,1677,837,879]" pageId="5" pageNumber="8">
+<materialsCitation id="14B73CC6FF98FFF1BEB8FCEFFA96FCB7" ID-GBIF-Occurrence="3331604347" box="[464,1325,837,879]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="5" pageNumber="8">
+Collected in 
+<collectingCountry id="DCC8760BFF98FFF1BDC6FCEFFCACFCB7" box="[686,791,837,879]" name="Guam" pageId="5" pageNumber="8">Guam</collectingCountry>
+by 
+<location id="A1006040FF98FFF1BC37FCEFFBBAFCB7" LSID="urn:lsid:plazi:treatment:2C76878DFF98FFF1BEF8FDF5F936FCB7:A1006040FF98FFF1BC37FCEFFBBAFCB7" box="[863,1025,837,879]" country="Guam" name="Fullaway" pageId="5" pageNumber="8">Fullaway</location>
+in 1911 (4001).
+</materialsCitation>
+Occurs in Hawaii.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,53 @@
+<document id="A3E2ED2446DE067D0BE6824BCA4E7050" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB61B01FC56FA1403654040" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Coccinellidae Latreille 1807" docType="treatment" docVersion="8" lastPageNumber="158" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="158" updateTime="1651296258617" updateUser="GgImagineBatch">
+<mods:mods id="7E27704E4D14BD357FEAEB21EE8BC24B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="566A7B7EB6ED6D7D5067BF63AE7F5481">
+<mods:title id="0AF8D56954133C0473010917E42DACE0">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="8EF57A7055E11614575F9EF63464807C" type="personal">
+<mods:role id="1439EE30CAA67E13E1C4D1EA532B972D">
+<mods:roleTerm id="755202C5D043EDD5C9F8FF20C1AB5F8C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9A1AE4546B00E9360E17F3DCBC861D8E">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="AD96BEA50387D4F1C91BCB794BB4EB38">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="600D81D42D5986C42533D341A7417829">text</mods:typeOfResource>
+<mods:relatedItem id="1C9322697D294D3852330B006EA591E7" type="host">
+<mods:originInfo id="0D663054E4FCDEAC60B40C86827D043D">
+<mods:dateIssued id="06E2C7A941EF387BA2B87F78AADB4E14">1942</mods:dateIssued>
+<mods:dateOther id="F4FBAD1A8602F856BADFC2269685FC85" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="3361DF782E552332D3801B3E29C63B21">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="4CD206CD84A99E5B8F399B9D85B84DAB">
+<mods:placeTerm id="FA40F0D48118D88924CCD290AB2434B0">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="DEC5B9DBFF534218C0549A461E59B3D2">
+<mods:title id="698E585360E23CAFB4268D477BA34D9A">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="7B3900A1A4271C053BF1292F7E3E8E36">
+<mods:extent id="E84D3DF66E26AA8494F43E0595E72B76" unit="page">
+<mods:start id="B6CCAC37835965F5F6530CE6C96F15DE">150</mods:start>
+<mods:end id="0102F63DB20F519584DE63DE4EF393B6">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="BC0F1AFE3F13CC15B5E71833F498E45E">book chapter</mods:classification>
+<mods:identifier id="3CD403647BA55176B4EB7B6A2EF1B755" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="3A4021DA4A0271CF4826CACD646DF7B4" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="38262BDFFC048F5F60692450D76D0A1B" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB61B01FC56FA1403654040" ID-DOI="http://doi.org/10.5281/zenodo.5156761" ID-GBIF-Taxon="184415300" ID-Zenodo-Dep="5156761" LSID="urn:lsid:plazi:treatment:376B87E5FFB61B01FC56FA1403654040" httpUri="http://treatment.plazi.org/id/376B87E5FFB61B01FC56FA1403654040" lastPageNumber="158" pageId="8" pageNumber="158">
+<subSubSection id="F7D86578FFB61B01FC56FA14027743FD" box="[908,1393,1441,1483]" pageId="8" pageNumber="158" type="nomenclature">
+<paragraph id="BF7D36F3FFB61B01FC56FA14027743FD" blockId="8.[450,1847,803,1654]" box="[908,1393,1441,1483]" pageId="8" pageNumber="158">
+FAMILY 
+<taxonomicName id="78C24D70FFB61B01FBF4FA14027743FD" authorityName="Latreille" authorityYear="1807" box="[1070,1393,1441,1483]" class="Insecta" family="Coccinellidae" kingdom="Animalia" order="Coleoptera" pageId="8" pageNumber="158" phylum="Arthropoda" rank="family">COCCINELLIDAE</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB61B01FDD9FA5303654040" pageId="8" pageNumber="158" type="discussion">
+<paragraph id="BF7D36F3FFB61B01FDD9FA5303654040" blockId="8.[450,1847,803,1654]" pageId="8" pageNumber="158">
+The ladybeetles now occurring in 
+<collectingCountry id="C7D57663FFB61B01FB84FA5303C04038" box="[1118,1222,1510,1550]" name="Guam" pageId="8" pageNumber="158">Guam</collectingCountry>
+have apparently all been purposely introduced, though I have not found records of introduction for all of them. The following were collected in 1936.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

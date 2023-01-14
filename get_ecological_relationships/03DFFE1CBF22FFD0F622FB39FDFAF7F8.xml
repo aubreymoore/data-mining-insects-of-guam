@@ -1,0 +1,230 @@
+<document id="1C5E5BEDEBA4AE8CDEA9A877F1C4A5AC" ID-DOI="http://doi.org/10.5281/zenodo.5159783" ID-GBIF-Dataset="204ef7e8-5ba9-4591-8275-598a53611feb" ID-Zenodo-Dep="5159783" checkinTime="1628013562991" checkinUser="carolina" docAuthor="Cadwell, J. S." docDate="1942" docId="03DFFE1CBF22FFD0F622FB39FDFAF7F8" docLanguage="en" docName="InsectsOfGuamI.172.20-22.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 172" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Mesohomotoma hibisci" docType="treatment" docVersion="15" lastPageNumber="21" masterDocId="FFE68664BF23FFD1F70BFF81FFA1FFE4" masterDocTitle="Psyllidae from Guam" masterLastPageNumber="22" masterPageNumber="20" pageNumber="21" updateTime="1658167367266" updateUser="annettekang">
+<mods:mods id="7E52562933E64D1048583ED9A17162AF" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C9A21D1F23AEFA46627648FF22846E33">
+<mods:title id="DDDC2FA5F877C6C80A7F7FE2076EE01D">Psyllidae from Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="DAF6C31B8D6207DF08D58DC8D6A54BE1" type="personal">
+<mods:role id="023657FB10665D60DB7DB7ABE07B9851">
+<mods:roleTerm id="8864486A64A02FE816F2402E328EB5FB">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="866A143E08C8989FFA40C544BCE5EBB7">Cadwell, J. S.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="F7AF633884ECFAB579F622DA6D08FC57">text</mods:typeOfResource>
+<mods:relatedItem id="7FF05368D6E9962F33AE962B7BA91BA8" type="host">
+<mods:originInfo id="8457AEFC115702CB7227F68169AA8418">
+<mods:dateIssued id="FE0711EC64D2D102A83DD999319E81CA">1942</mods:dateIssued>
+<mods:dateOther id="4E80DD3F17E0867A8F3562EF0306F2E5" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="486912E885D0CA67632C4E9774EA905B">Bernice P. Bishop Museum Bulletin 172</mods:publisher>
+<mods:place id="91BEDA6F1960DDB18EA181717D9CCD8D">
+<mods:placeTerm id="7E6B7BE25BFF69DB746109E9A5B1C070">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="84C513CA9EF64905ED540582DC904F26">
+<mods:title id="777E201B77D928867DED50D50D13D32E">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="C2F74B5B45F9CEEC3D4A40DF11277D9A">
+<mods:extent id="061388783ACB5D72E62EE5B1EB650AF1" unit="page">
+<mods:start id="80E3A70CEB6F1C2990737FDF3E03C0AB">20</mods:start>
+<mods:end id="FDE404FF45CE3F6F1F9EE34ECEB1416B">22</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="0C98E7CDE0039C6D89AA7B2B87268069">book chapter</mods:classification>
+<mods:identifier id="9EA554E2FCFD71B4B73D8438CA7FFFB1" type="DOI">http://doi.org/10.5281/zenodo.5159783</mods:identifier>
+<mods:identifier id="5AE9F5CB4D884034E4D4DBBF27B8901F" type="GBIF-Dataset">204ef7e8-5ba9-4591-8275-598a53611feb</mods:identifier>
+<mods:identifier id="440DB22B693C302D1AA472C269D8FD47" type="Zenodo-Dep">5159783</mods:identifier>
+</mods:mods>
+<subSection id="E2F956E1BF22FFD0F622FB39FDFAF7F8" pageId="1" pageNumber="21" type="multiple">
+<treatment id="03DFFE1CBF22FFD0F622FB39FDFAF7F8" ID-DOI="http://doi.org/10.5281/zenodo.5156834" ID-GBIF-Taxon="183919436" ID-Zenodo-Dep="5156834" LSID="urn:lsid:plazi:treatment:03DFFE1CBF22FFD0F622FB39FDFAF7F8" httpUri="http://treatment.plazi.org/id/03DFFE1CBF22FFD0F622FB39FDFAF7F8" lastPageNumber="21" pageId="1" pageNumber="21">
+<subSubSection id="C36C1C81BF22FFD0F622FB39FC4FFB07" box="[297,1006,1208,1251]" pageId="1" pageNumber="21" type="nomenclature">
+<paragraph id="8BC94F0ABF22FFD0F622FB39FC4FFB07" blockId="1.[297,1692,1208,2076]" box="[297,1006,1208,1251]" pageId="1" pageNumber="21">
+<heading id="D081F866BF22FFD0F622FB39FC4FFB07" box="[297,1006,1208,1251]" fontSize="11" level="2" pageId="1" pageNumber="21" reason="2">
+<emphasis id="B9029318BF22FFD0F622FB39FCA8FB07" bold="true" box="[297,777,1208,1251]" pageId="1" pageNumber="21">
+3. 
+<taxonomicName id="4C763489BF22FFD0F66CFB39FCA8FB07" authority="(Froggatt)" box="[359,777,1208,1251]" class="Insecta" family="Carsidaridae" genus="Mesohomotoma" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="21" phylum="Arthropoda" rank="species" species="hibisci">Mesohomotomahibisci</taxonomicName>
+</emphasis>
+(Froggatt).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C36C1C81BF22FFD0F662FB6AF93AFA99" pageId="1" pageNumber="21" type="reference_group">
+<paragraph id="8BC94F0ABF22FFD0F662FB6AFC8DFAAF" blockId="1.[297,1692,1208,2076]" pageId="1" pageNumber="21">
+<treatmentCitationGroup id="AB666824BF22FFD0F662FB6AFC8DFAAF" pageId="1" pageNumber="21">
+<treatmentCitation id="0AD7691BBF22FFD0F662FB6AFC86FAAF" author="Crawford" page="30" pageId="1" pageNumber="21" year="1927">
+<taxonomicName id="4C763489BF22FFD0F662FB6AFCA1FAF3" authority="Froggatt, Linn. Soc. N. S." authorityName="Froggatt, Linn. Soc. N. S." box="[361,768,1259,1303]" class="Insecta" family="Carsidaridae" genus="Tyora" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="21" phylum="Arthropoda" rank="species" species="hibisci">
+<emphasis id="B9029318BF22FFD0F662FB6AFDF2FAF3" box="[361,595,1259,1303]" italics="true" pageId="1" pageNumber="21">Tyora hibisci</emphasis>
+<bibCitation id="5E5C4766BF22FFD0F56FFB6AFC86FAAF" author="Froggatt" journalOrPublisher="Linn. Soc. N. S. Wales, Proc." pageId="1" pageNumber="21" pagination="287" part="26" type="journal volume" year="1902">
+<author id="53CBA7EFBF22FFD0F56FFB6AFCA1FAF3" box="[612,768,1259,1303]" pageId="1" pageNumber="21">Froggatt</author>
+, 
+<journalOrPublisher id="51B745C6BF22FFD0F412FB6AFA96FAF3" box="[793,1335,1259,1303]" pageId="1" pageNumber="21">
+Linn. Soc. N. S. 
+<collectingCountry id="F3610F9ABF22FFD0F35FFB6AFB65FAF3" box="[1108,1220,1259,1303]" name="United Kingdom" pageId="1" pageNumber="21">Wales</collectingCountry>
+, Proc.
+</journalOrPublisher>
+<emphasis id="B9029318BF22FFD0F242FB6AFA23FAF3" bold="true" box="[1353,1410,1259,1303]" pageId="1" pageNumber="21">
+<part id="FFD2E597BF22FFD0F242FB6AFADDFAF3" box="[1353,1404,1259,1303]" pageId="1" pageNumber="21">26</part>
+:
+</emphasis>
+<pagination id="B2BFB1FEBF22FFD0F285FB6AFA6EFAF3" box="[1422,1487,1259,1303]" pageId="1" pageNumber="21">287</pagination>
+, pl. 15, fig. 8, pl. 
+<part id="FFD2E597BF22FFD0F504FAA0FD96FAAF" box="[527,567,1313,1355]" pageId="1" pageNumber="21" type="volume">16</part>
+, fig. 18, 
+<year id="FFDE0E59BF22FFD0F5DEFAA0FC86FAAF" box="[725,807,1313,1355]" pageId="1" pageNumber="21">1902</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BC94F0ABF22FFD0F663FAD3F93AFA99" blockId="1.[297,1692,1208,2076]" box="[360,1691,1362,1405]" pageId="1" pageNumber="21">
+<treatmentCitationGroup id="AB666824BF22FFD0F663FAD3F93AFA99" box="[360,1691,1362,1405]" pageId="1" pageNumber="21">
+<treatmentCitation id="0AD7691BBF22FFD0F663FAD3F937FA99" author="Crawford" box="[360,1686,1362,1405]" page="174" pageId="1" pageNumber="21" year="1919">
+<taxonomicName id="4C763489BF22FFD0F663FAD3FB3DFA99" authority="(Froggatt) Crawford, Ins." authorityName="Crawford, Ins." baseAuthorityName="Froggatt" box="[360,1180,1362,1405]" class="Insecta" family="Carsidaridae" genus="Tyora" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="21" phylum="Arthropoda" rank="species" species="hibisci">
+<emphasis id="B9029318BF22FFD0F663FAD3FD20FA99" box="[360,641,1362,1405]" italics="true" pageId="1" pageNumber="21">Mesohomotonia</emphasis>
+<emphasis id="B9029318BF22FFD0F59AFAD3FCA1FA99" box="[657,768,1362,1405]" italics="true" pageId="1" pageNumber="21">hibisci</emphasis>
+(Froggatt) 
+<bibCitation id="5E5C4766BF22FFD0F4E6FAD3F93AFA99" author="Crawford" box="[1005,1691,1362,1405]" journalOrPublisher="Ins. Samoa" pageId="1" pageNumber="21" pagination="30" part="2" type="journal article" year="1927">
+<author id="53CBA7EFBF22FFD0F4E6FAD3FB3DFA99" box="[1005,1180,1362,1405]" pageId="1" pageNumber="21">Crawford</author>
+, 
+<journalOrPublisher id="51B745C6BF22FFD0F3BDFAD3FADEFA99" box="[1206,1407,1362,1405]" pageId="1" pageNumber="21">
+Ins. 
+<collectingCountry id="F3610F9ABF22FFD0F202FAD3FADEFA99" box="[1289,1407,1362,1405]" name="Samoa" pageId="1" pageNumber="21">Samoa</collectingCountry>
+</journalOrPublisher>
+<part id="FFD2E597BF22FFD0F285FAD3FA06FA99" box="[1422,1447,1362,1405]" pageId="1" pageNumber="21" type="volume">2</part>
+(
+<part id="FFD2E597BF22FFD0F2BDFAD3FA67FA99" box="[1462,1478,1362,1405]" pageId="1" pageNumber="21" type="issue">1</part>
+): 
+<pagination id="B2BFB1FEBF22FFD0F2F5FAD3F98BFA99" box="[1534,1578,1362,1405]" pageId="1" pageNumber="21" type="pagination">30</pagination>
+, 
+<year id="FFDE0E59BF22FFD0F14EFAD3F937FA99" box="[1605,1686,1362,1405]" pageId="1" pageNumber="21">1927</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C36C1C81BF22FFD0F662FA06FBCBF99A" pageId="1" pageNumber="21" type="materials_examined">
+<paragraph id="8BC94F0ABF22FFD0F662FA06FBCBF99A" blockId="1.[297,1692,1208,2076]" pageId="1" pageNumber="21">
+<materialsCitation id="3B1E4557BF22FFD0F662FA06FBB5FA55" ID-GBIF-Occurrence="3331244316" box="[361,1044,1415,1457]" collectingDate="1936-04-30" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="1" pageNumber="21">
+<collectingMunicipality id="6BADD570BF22FFD0F662FA06FE0AFA55" box="[361,427,1415,1457]" pageId="1" pageNumber="21">Piti</collectingMunicipality>
+, 
+<date id="FFC869CABF22FFD0F6C2FA06FDCBFA55" box="[457,618,1415,1457]" pageId="1" pageNumber="21" value="1930-04">
+<collectingDate id="EF8C9022BF22FFD0F6C2FA06FDCBFA55" box="[457,618,1415,1457]" pageId="1" pageNumber="21" value="1930-04">April 30</collectingDate>
+</date>
+, 
+<location id="8EA919D1BF22FFD0F582FA06FCADFA55" LSID="urn:lsid:plazi:treatment:03DFFE1CBF22FFD0F622FB39FDFAF7F8:8EA919D1BF22FFD0F582FA06FCADFA55" box="[649,780,1415,1457]" municipality="Piti" name="Swezey" pageId="1" pageNumber="21">Swezey</location>
+and 
+<location id="8EA919D1BF22FFD0F47CFA06FBACFA55" LSID="urn:lsid:plazi:treatment:03DFFE1CBF22FFD0F622FB39FDFAF7F8:8EA919D1BF22FFD0F47CFA06FBACFA55" box="[887,1037,1415,1457]" municipality="Piti" name="Usinger" pageId="1" pageNumber="21">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="3B1E4557BF22FFD0F325FA06FE66FA01" ID-GBIF-Occurrence="3331244319" collectingDate="1936-05-21" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Mount Alifan" pageId="1" pageNumber="21">
+<collectingMunicipality id="6BADD570BF22FFD0F325FA06FB59FA55" box="[1070,1272,1415,1457]" pageId="1" pageNumber="21">Mt. Alifan</collectingMunicipality>
+, 
+<date id="FFC869CABF22FFD0F21DFA06FA07FA55" box="[1302,1446,1415,1457]" pageId="1" pageNumber="21" value="2021-05">
+<collectingDate id="EF8C9022BF22FFD0F21DFA06FA07FA55" box="[1302,1446,1415,1457]" pageId="1" pageNumber="21" value="2021-05">May 21</collectingDate>
+</date>
+, 
+<location id="8EA919D1BF22FFD0F2CDFA06F9E8FA55" LSID="urn:lsid:plazi:treatment:03DFFE1CBF22FFD0F622FB39FDFAF7F8:8EA919D1BF22FFD0F2CDFA06F9E8FA55" box="[1478,1609,1415,1457]" municipality="Mt. Alifan" name="Swezey" pageId="1" pageNumber="21">Swezey</location>
+and 
+<location id="8EA919D1BF22FFD0F621FA38FE61FA01" LSID="urn:lsid:plazi:treatment:03DFFE1CBF22FFD0F622FB39FDFAF7F8:8EA919D1BF22FFD0F621FA38FE61FA01" box="[298,448,1465,1509]" municipality="Mt. Alifan" name="Usinger" pageId="1" pageNumber="21">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="3B1E4557BF22FFD0F6D7FA38FCE5FA01" ID-GBIF-Occurrence="3331244321" box="[476,836,1465,1509]" collectingDate="1936-06-30" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="1" pageNumber="21">
+<collectingMunicipality id="6BADD570BF22FFD0F6D7FA38FD32FA01" box="[476,659,1465,1509]" pageId="1" pageNumber="21">Machanao</collectingMunicipality>
+, 
+<date id="FFC869CABF22FFD0F5A7FA38FC9FFA01" box="[684,830,1465,1509]" pageId="1" pageNumber="21" value="1930-06">
+<collectingDate id="EF8C9022BF22FFD0F5A7FA38FC9FFA01" box="[684,830,1465,1509]" pageId="1" pageNumber="21" value="1930-06">June 30</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B1E4557BF22FFD0F45DFA38FB24FA01" ID-GBIF-Occurrence="3331244321" box="[854,1157,1465,1509]" collectingDate="1936-08-06" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="1" pageNumber="21">
+Aug. 6, 
+<location id="8EA919D1BF22FFD0F4FAFA38FBDFFA01" LSID="urn:lsid:plazi:treatment:03DFFE1CBF22FFD0F622FB39FDFAF7F8:8EA919D1BF22FFD0F4FAFA38FBDFFA01" box="[1009,1150,1465,1509]" municipality="Machanao" name="Swezey" pageId="1" pageNumber="21">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="3B1E4557BF22FFD0F392FA38F93AFA01" ID-GBIF-Occurrence="3331244311" box="[1177,1691,1465,1509]" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="1" pageNumber="21">
+<collectingMunicipality id="6BADD570BF22FFD0F392FA38FAEDFA01" box="[1177,1356,1465,1509]" pageId="1" pageNumber="21">Barrigada</collectingMunicipality>
+, 
+<date id="FFC869CABF22FFD0F26DFA38FA4CFA01" box="[1382,1517,1465,1509]" pageId="1" pageNumber="21" value="1922-07">
+<collectingDate id="EF8C9022BF22FFD0F26DFA38FA4CFA01" box="[1382,1517,1465,1509]" pageId="1" pageNumber="21" value="1922-07">July 22</collectingDate>
+</date>
+, 
+<location id="8EA919D1BF22FFD0F102FA38F935FA01" LSID="urn:lsid:plazi:treatment:03DFFE1CBF22FFD0F622FB39FDFAF7F8:8EA919D1BF22FFD0F102FA38F935FA01" box="[1545,1684,1465,1509]" municipality="Barrigada" name="Swezey" pageId="1" pageNumber="21">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="3B1E4557BF22FFD0F621FA6FF9B7F9F3" ID-GBIF-Occurrence="3331244317" box="[298,1558,1518,1559]" collectedFrom="collected on Hibiscus tiliaceus leaves" collectingDate="1936-08-06" collectorName="O. H. Swezey" country="Guam" location="Ritidian Point" pageId="1" pageNumber="21">
+<collectingMunicipality id="6BADD570BF22FFD0F621FA6FFE5FF9F3" box="[298,510,1518,1559]" pageId="1" pageNumber="21">Ritidian Pt.</collectingMunicipality>
+, 
+<date id="FFC869CABF22FFD0F51CFA6FFD33F9F3" box="[535,658,1518,1559]" pageId="1" pageNumber="21">
+<collectingDate id="EF8C9022BF22FFD0F51CFA6FFD33F9F3" box="[535,658,1518,1559]" pageId="1" pageNumber="21">Aug. 6</collectingDate>
+</date>
+, 
+<location id="8EA919D1BF22FFD0F5A7FA6FFC93F9F3" LSID="urn:lsid:plazi:treatment:03DFFE1CBF22FFD0F622FB39FDFAF7F8:8EA919D1BF22FFD0F5A7FA6FFC93F9F3" box="[684,818,1518,1559]" municipality="Ritidian Pt." name="Swezey" pageId="1" pageNumber="21">Swezey</location>
+, all collected on 
+<taxonomicName id="4C763489BF22FFD0F36BFA6FFA36F9F3" box="[1120,1431,1518,1559]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="1" pageNumber="21" phylum="Tracheophyta" rank="species" species="tiliaceus">
+<emphasis id="B9029318BF22FFD0F36BFA6FFA36F9F3" box="[1120,1431,1518,1559]" italics="true" pageId="1" pageNumber="21">
+<location id="8EA919D1BF22FFD0F36BFA6FFB5BF9F3" LSID="urn:lsid:plazi:treatment:03DFFE1CBF22FFD0F622FB39FDFAF7F8:8EA919D1BF22FFD0F36BFA6FFB5BF9F3" box="[1120,1274,1518,1559]" municipality="Ritidian Pt." name="Hibiscus" pageId="1" pageNumber="21">Hibiscus</location>
+tiliaceus
+</emphasis>
+</taxonomicName>
+leaves.
+</materialsCitation>
+<materialsCitation id="3B1E4557BF22FFD0F139FA6FFAC0F9AF" ID-GBIF-Occurrence="3331244322" collectedFrom="psyllid infestations noted on same tree (Hibiscus tiliaceus)" collectingDate="1936-06-08" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="1" pageNumber="21">
+<collectingMunicipality id="6BADD570BF22FFD0F139FA6FFE3CF9AF" pageId="1" pageNumber="21">Infestations</collectingMunicipality>
+by this psyllid noted on same tree at 
+<location id="8EA919D1BF22FFD0F325F9A0FB69F9AF" LSID="urn:lsid:plazi:treatment:03DFFE1CBF22FFD0F622FB39FDFAF7F8:8EA919D1BF22FFD0F325F9A0FB69F9AF" box="[1070,1224,1569,1611]" municipality="Infestations" name="Inarajan" pageId="1" pageNumber="21">Inarajan</location>
+, 
+<date id="FFC869CABF22FFD0F3D5F9A0FAF9F9AF" box="[1246,1368,1569,1611]" pageId="1" pageNumber="21">
+<collectingDate id="EF8C9022BF22FFD0F3D5F9A0FAF9F9AF" box="[1246,1368,1569,1611]" pageId="1" pageNumber="21">June 8</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B1E4557BF22FFD0F27AF9A0F93AF9AF" ID-GBIF-Occurrence="3331244309" box="[1393,1691,1569,1611]" collectingDate="1911-08-19" collectorName="D. T. Fullaway" country="Guam" location="Fadian" pageId="1" pageNumber="21">
+Fadian, 
+<date id="FFC869CABF22FFD0F10BF9A0F935F9AF" box="[1536,1684,1569,1611]" pageId="1" pageNumber="21" value="2019-08">
+<collectingDate id="EF8C9022BF22FFD0F10BF9A0F935F9AF" box="[1536,1684,1569,1611]" pageId="1" pageNumber="21" value="2019-08">Aug. 19</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B1E4557BF22FFD0F622F9D5FBC4F99A" ID-GBIF-Occurrence="3331244309" box="[297,1125,1620,1662]" collectingDate="1911-10-21" collectorName="D. T. Fullaway" country="Guam" location="Yigo" pageId="1" pageNumber="21">
+<collectingMunicipality id="6BADD570BF22FFD0F622F9D5FE23F99A" box="[297,386,1620,1662]" pageId="1" pageNumber="21">Yigo</collectingMunicipality>
+, 
+<date id="FFC869CABF22FFD0F692F9D5FD84F99A" box="[409,549,1620,1662]" pageId="1" pageNumber="21">
+<collectingDate id="EF8C9022BF22FFD0F692F9D5FD84F99A" box="[409,549,1620,1662]" pageId="1" pageNumber="21">Oct. 21.</collectingDate>
+</date>
+<location id="8EA919D1BF22FFD0F548F9D5FC6EF99A" LSID="urn:lsid:plazi:treatment:03DFFE1CBF22FFD0F622FB39FDFAF7F8:8EA919D1BF22FFD0F548F9D5FC6EF99A" box="[579,975,1620,1662]" municipality="Yigo" name="Collected by Fullaway" pageId="1" pageNumber="21">Collected by Fullaway</location>
+in 1911
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C36C1C81BF22FFD0F662F908FDFAF7F8" pageId="1" pageNumber="21" type="discussion">
+<paragraph id="8BC94F0ABF22FFD0F662F908FDFAF7F8" blockId="1.[297,1692,1208,2076]" pageId="1" pageNumber="21">
+Described from Brisbane, 
+<collectingCountry id="F3610F9ABF22FFD0F45DF908FC5CF955" box="[854,1021,1673,1713]" name="Australia" pageId="1" pageNumber="21">Australia</collectingCountry>
+, where it occurred on 
+<emphasis id="B9029318BF22FFD0F2B9F908FE2EF901" italics="true" pageId="1" pageNumber="21">
+<taxonomicName id="4C763489BF22FFD0F2B9F908FE28F901" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="1" pageNumber="21" phylum="Tracheophyta" rank="species" species="tiliaceus">Hibiscus tiliaceus</taxonomicName>
+,
+</emphasis>
+collected by Tryon. In the collection of the Hawaiian Sugar Planters' Association are some specimens collected on 
+<taxonomicName id="4C763489BF22FFD0F357F96FFB54F8FC" box="[1116,1269,1774,1816]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="1" pageNumber="21" phylum="Tracheophyta" rank="genus">
+<emphasis id="B9029318BF22FFD0F357F96FFB54F8FC" box="[1116,1269,1774,1816]" italics="true" pageId="1" pageNumber="21">Hibiscus</emphasis>
+</taxonomicName>
+at Suva, 
+<collectingCountry id="F3610F9ABF22FFD0F2A6F96FFA50F8FC" box="[1453,1521,1774,1816]" name="Fiji" pageId="1" pageNumber="21">Fiji</collectingCountry>
+, Dec: 12, 1904, probably by Perkins. The species is also recorded from 
+<collectingCountry id="F3610F9ABF22FFD0F29BF8A3F93DF8A8" box="[1424,1692,1826,1868]" name="New Caledonia" pageId="1" pageNumber="21">New Caledonia</collectingCountry>
+and Tahiti. In 
+<collectingCountry id="F3610F9ABF22FFD0F543F8D7FD12F89B" box="[584,691,1878,1919]" name="Guam" pageId="1" pageNumber="21">Guam</collectingCountry>
+, growing leaves of 
+<taxonomicName id="4C763489BF22FFD0F329F8D7FAFDF89B" box="[1058,1372,1878,1919]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="1" pageNumber="21" phylum="Tracheophyta" rank="species" species="tiliaceus">
+<emphasis id="B9029318BF22FFD0F329F8D7FAFDF89B" box="[1058,1372,1878,1919]" italics="true" pageId="1" pageNumber="21">Hibiscus tiliaceus</emphasis>
+</taxonomicName>
+are infested, and the young insects are hidden by considerable white flocculent waxy material. Commonly found in all places. They are preyed on by larvae of a lacewing fly and a syrphid fly.
+</paragraph>
+</subSubSection>
+</treatment>
+</subSection>
+</document>

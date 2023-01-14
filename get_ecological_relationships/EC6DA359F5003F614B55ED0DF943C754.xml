@@ -1,0 +1,230 @@
+<document id="30C4BAC912F9FCD8BBB54530A11A8B60" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5003F614B55ED0DF943C754" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Parealda chrysoptera" docType="treatment" docVersion="23" lastPageNumber="23" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="23" updateTime="1671507890132" updateUser="annettekang">
+<mods:mods id="840B52703C04E74316CBC7C41967320C" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="280982A52070C0DCCDD8B99CCD97F21D">
+<mods:title id="13B8769DE52BECE9442337B1F163E884">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="1002CD4FBB041F99B10FB33A9D5CFB29" type="personal">
+<mods:role id="8E9E7EC2BBE1CBF379DF44BDB14CC9A2">
+<mods:roleTerm id="9A268FE989CF2C89D10B3EBF7C586C47">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1390539B65E7CAFDAF57EC460E10DC58">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="13658C4B813421A6C1341070A3AECB1D">text</mods:typeOfResource>
+<mods:relatedItem id="EF64BF8C9E1451D0F1344DC9FD1AC124" type="host">
+<mods:originInfo id="1760718EB4B9F074CE84153385929A0F">
+<mods:dateIssued id="B68BCC1531D09A612CBF1D7B23F0D48E">1946</mods:dateIssued>
+<mods:dateOther id="C88C69A29265582F008BADF636F5B988" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="1BFB9ACE9494D97DAAD237BCBA221081">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="8E3280FEF0A0363E9A8FD268CFECF2BB">
+<mods:placeTerm id="A687C707926E34336B6F325DF67151B0">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="99599560979905C86DD7980BFBE0F0D6">
+<mods:title id="A5969CEFEA8616E7D2F808B46045E5D9">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="B18EB8A32F32C38E8E14DA96327D2DA8">
+<mods:extent id="0644B355DAADC3255A0F3F919E5E880E" unit="page">
+<mods:start id="0A9534ACBA6AAAEF38F502AA527196BC">11</mods:start>
+<mods:end id="E9DEB4FDE4E9291731161DF79BCD2FE6">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="23FB9D630951812001D727DE96DDEFEC">book chapter</mods:classification>
+<mods:identifier id="1ECB6686580D61C5085AD7B31C3058A8" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="F38F9DC9CA7D639C92A10B1D20993860" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="DCD335E6644B5EF56DD5C6CA1837A569" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5003F614B55ED0DF943C754" ID-DOI="http://doi.org/10.5281/zenodo.5222166" ID-GBIF-Taxon="184601247" ID-Zenodo-Dep="5222166" LSID="urn:lsid:plazi:treatment:EC6DA359F5003F614B55ED0DF943C754" httpUri="http://treatment.plazi.org/id/EC6DA359F5003F614B55ED0DF943C754" lastPageNumber="23" pageId="12" pageNumber="23">
+<subSubSection id="2CDE41C4F5003F614B55ED0DFB73C3E7" box="[309,1175,613,655]" pageId="12" pageNumber="23" type="nomenclature">
+<paragraph id="647B124FF5003F614B55ED0DFB73C3E7" blockId="12.[306,1705,613,1596]" box="[309,1175,613,655]" pageId="12" pageNumber="23">
+<heading id="3F33A523F5003F614B55ED0DFB73C3E7" box="[309,1175,613,655]" fontSize="8" level="2" pageId="12" pageNumber="23" reason="4">
+<emphasis id="56B0CE5DF5003F614B55ED0DFE80C3E7" bold="true" box="[309,356,613,655]" pageId="12" pageNumber="23">10.</emphasis>
+<taxonomicName id="A3C469CCF5003F614BE6ED0DFB62C3E7" authority="(Herrich-Schaeffer)" box="[390,1158,613,655]" class="Insecta" family="Pentatomidae" genus="Parealda" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="12" pageNumber="23" phylum="Arthropoda" rank="species" species="chrysoptera">
+<emphasis id="56B0CE5DF5003F614BE6ED0DFCEAC3E7" bold="true" box="[390,782,613,655]" pageId="12" pageNumber="23">Parealda chrysoptera</emphasis>
+(Herrich-Schaeffer
+</taxonomicName>
+).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5003F614B11EDFFF94DC29E" pageId="12" pageNumber="23" type="description">
+<paragraph id="647B124FF5003F614B11EDFFFD86C39E" blockId="12.[306,1705,613,1596]" pageId="12" pageNumber="23">
+<treatmentCitationGroup id="44D43561F5003F614B11EDFFFD86C39E" pageId="12" pageNumber="23">
+<treatmentCitation id="E565345EF5003F614B11EDFFFD86C39E" author="Herrich-Schaeffer" page="114" pageId="12" pageNumber="23" year="1844">
+<bibCitation id="B1EE1A23F5003F614B11EDFFFD86C39E" author="Herrich-Schaeffer" journalOrPublisher="Wanz. Insekt" pageId="12" pageNumber="23" pagination="114" part="7" refId="ref5229" type="book" year="1844">
+<emphasis id="56B0CE5DF5003F614B11EDFFFD0EC3AA" box="[369,746,663,706]" italics="true" pageId="12" pageNumber="23">Asopus chrysopterus</emphasis>
+<author id="BC79FAAAF5003F614960EDFFFBA2C3AA" box="[768,1094,663,706]" pageId="12" pageNumber="23">Herrich-Schaeffer</author>
+, 
+<journalOrPublisher id="BE051883F5003F614E01EDFFFABEC3AA" box="[1121,1370,663,706]" pageId="12" pageNumber="23">Wanz. Insekt</journalOrPublisher>
+. 
+<emphasis id="56B0CE5DF5003F614F16EDFFFA7EC3AA" bold="true" box="[1398,1434,663,706]" pageId="12" pageNumber="23">
+<part id="1060B8D2F5003F614F16EDFFFA77C3AA" box="[1398,1427,663,706]" pageId="12" pageNumber="23" type="volume">7</part>
+:
+</emphasis>
+<pagination id="5D0DECBBF5003F614FCAEDFFFA0DC3AA" box="[1450,1513,663,706]" pageId="12" pageNumber="23" type="pageRange">114</pagination>
+a, 115, fig. 781, 
+<year id="106C531CF5003F61486BEDA4FDB9C39E" box="[523,605,716,758]" pageId="12" pageNumber="23">1844</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="647B124FF5003F614B13ED96F9E3C241" blockId="12.[306,1705,613,1596]" box="[371,1543,766,809]" pageId="12" pageNumber="23">
+<bibCitation id="B1EE1A23F5003F614B13ED96F9E3C241" author="Schouteden" box="[371,1543,766,809]" journalOrPublisher="Gen. Insect." pageId="12" pageNumber="23" pagination="44" part="52" refId="ref5250" type="journal article" year="1907">
+<treatmentCitationGroup id="44D43561F5003F614B13ED96F9E6C241" box="[371,1538,766,809]" pageId="12" pageNumber="23">
+<treatmentCitation id="E565345EF5003F614B13ED96F9E6C241" author="Schouteden" box="[371,1538,766,809]" page="44" pageId="12" pageNumber="23" year="1907">
+<emphasis id="56B0CE5DF5003F614B13ED96FCAAC241" box="[371,846,766,809]" italics="true" pageId="12" pageNumber="23">Cantheconidea chrysoptera</emphasis>
+<author id="BC79FAAAF5003F61493EED96FBCEC241" box="[862,1066,766,809]" pageId="12" pageNumber="23">Schouteden</author>
+, 
+<journalOrPublisher id="BE051883F5003F614E21ED96FAF7C241" box="[1089,1299,766,809]" pageId="12" pageNumber="23">Gen. Insect.</journalOrPublisher>
+<emphasis id="56B0CE5DF5003F614F44ED96FAAEC241" bold="true" box="[1316,1354,766,809]" pageId="12" pageNumber="23">
+<part id="1060B8D2F5003F614F44ED96FAA2C241" box="[1316,1350,766,809]" pageId="12" pageNumber="23" type="volume">52</part>
+:
+</emphasis>
+<pagination id="5D0DECBBF5003F614F09ED96FA71C241" box="[1385,1429,766,809]" pageId="12" pageNumber="23" type="pagination">44</pagination>
+, 
+<year id="106C531CF5003F614FCEED96F9E6C241" box="[1454,1538,766,809]" pageId="12" pageNumber="23">1907</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+<paragraph id="647B124FF5003F614B11EC59FD88C2F8" blockId="12.[306,1705,613,1596]" pageId="12" pageNumber="23">
+<treatmentCitationGroup id="44D43561F5003F614B11EC59FD88C2F8" pageId="12" pageNumber="23">
+<bibCitation id="B1EE1A23F5003F614B11EC59FD88C2F8" author="Schouteden" journalOrPublisher="Soc. ent. Belg., Ann." pageId="12" pageNumber="23" pagination="47" part="51" refId="ref5264" type="journal article" year="1907">
+<treatmentCitation id="E565345EF5003F614B11EC59F9D5C234" author="Schouteden" box="[369,1585,817,860]" page="47" pageId="12" pageNumber="23" year="1907">
+<emphasis id="56B0CE5DF5003F614B11EC59FD57C234" box="[369,691,817,860]" italics="true" pageId="12" pageNumber="23">Parealda bouvieri</emphasis>
+<author id="BC79FAAAF5003F6148A9EC59FC72C234" box="[713,918,817,860]" pageId="12" pageNumber="23">Schouteden</author>
+, 
+<journalOrPublisher id="BE051883F5003F6149D5EC59FAD2C234" box="[949,1334,817,860]" pageId="12" pageNumber="23">Soc. ent. Belg., Ann.</journalOrPublisher>
+<emphasis id="56B0CE5DF5003F614F2DEC59FA96C234" bold="true" box="[1357,1394,817,860]" pageId="12" pageNumber="23">
+<part id="1060B8D2F5003F614F2DEC59FA8AC234" box="[1357,1390,817,860]" pageId="12" pageNumber="23" type="volume">51</part>
+:
+</emphasis>
+<pagination id="5D0DECBBF5003F614FF1EC59FA59C234" box="[1425,1469,817,860]" pageId="12" pageNumber="23" type="pagination">47</pagination>
+, 
+<year id="106C531CF5003F614FBDEC59F9D5C234" box="[1501,1585,817,860]" pageId="12" pageNumber="23">1907</year>
+</treatmentCitation>
+. New synonymy.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="647B124FF5003F614B10ECFFF9A5C2AB" blockId="12.[306,1705,613,1596]" box="[368,1601,919,963]" pageId="12" pageNumber="23">
+<bibCitation id="B1EE1A23F5003F614B10ECFFF9A5C2AB" author="Schouteden" box="[368,1601,919,963]" journalOrPublisher="Gen. Insect." pageId="12" pageNumber="23" pagination="65" part="52" refId="ref5286" type="book" year="1907">
+<treatmentCitationGroup id="44D43561F5003F614B10ECFFF9D8C2AB" box="[368,1596,919,963]" pageId="12" pageNumber="23">
+<treatmentCitation id="E565345EF5003F614B10ECFFF9D8C2AB" author="Schouteden" box="[368,1596,919,963]" page="65" pageId="12" pageNumber="23" year="1907">
+<emphasis id="56B0CE5DF5003F614B10ECFFFD48C2AB" box="[368,684,919,963]" italics="true" pageId="12" pageNumber="23">Parealda bouvieri</emphasis>
+<author id="BC79FAAAF5003F6148DCECFFFC6DC2AB" box="[700,905,919,963]" pageId="12" pageNumber="23">Schouteden</author>
+, 
+<journalOrPublisher id="BE051883F5003F6149FFECFFFB96C2AB" box="[927,1138,919,963]" pageId="12" pageNumber="23">Gen. Insect.</journalOrPublisher>
+<emphasis id="56B0CE5DF5003F614EE3ECFFFB4DC2AB" bold="true" box="[1155,1193,919,963]" pageId="12" pageNumber="23">
+<part id="1060B8D2F5003F614EE3ECFFFB41C2AB" box="[1155,1189,919,963]" pageId="12" pageNumber="23">52</part>
+:
+</emphasis>
+<pagination id="5D0DECBBF5003F614EA9ECFFFB10C2AB" box="[1225,1268,919,963]" pageId="12" pageNumber="23">65</pagination>
+, pl. 5, fig. 3, 
+<year id="106C531CF5003F614F8AECFFF9D8C2AB" box="[1514,1596,919,963]" pageId="12" pageNumber="23">1907</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+<paragraph id="647B124FF5003F614B11ECA3F94DC29E" blockId="12.[306,1705,613,1596]" box="[369,1705,971,1014]" pageId="12" pageNumber="23">
+<bibCitation id="B1EE1A23F5003F614B11ECA3F94DC29E" author="Bergroth" box="[369,1705,971,1014]" journalOrPublisher="Ann. Mag. Nat. Hist." pageId="12" pageNumber="23" pagination="484" part="15" refId="ref5309" type="journal article" year="1915">
+<treatmentCitationGroup id="44D43561F5003F614B11ECA3F940C29E" box="[369,1700,971,1014]" pageId="12" pageNumber="23">
+<treatmentCitation id="E565345EF5003F614B11ECA3F940C29E" author="Bergrouth" box="[369,1700,971,1014]" page="484" pageId="12" pageNumber="23" year="1851">
+<emphasis id="56B0CE5DF5003F614B11ECA3FE11C29E" box="[369,501,971,1014]" italics="true" pageId="12" pageNumber="23">Asopus</emphasis>
+? 
+<emphasis id="56B0CE5DF5003F614841ECA3FCE5C29E" box="[545,769,971,1014]" italics="true" pageId="12" pageNumber="23">chrysopterus</emphasis>
+<author id="BC79FAAAF5003F61496CECA3FC4AC29E" box="[780,942,971,1014]" pageId="12" pageNumber="23">Bergroth</author>
+, 
+<journalOrPublisher id="BE051883F5003F6149A1ECA3FADEC29E" box="[961,1338,971,1014]" pageId="12" pageNumber="23">Ann. Mag. Nat. Hist.</journalOrPublisher>
+VIII, 
+<emphasis id="56B0CE5DF5003F614FD8ECA3FA0BC29E" bold="true" box="[1464,1519,971,1014]" pageId="12" pageNumber="23">
+<part id="1060B8D2F5003F614FD8ECA3FA39C29E" box="[1464,1501,971,1014]" pageId="12" pageNumber="23" type="volume">15</part>
+:
+</emphasis>
+<pagination id="5D0DECBBF5003F614F9AECA3F9DFC29E" box="[1530,1595,971,1014]" pageId="12" pageNumber="23" type="pagination">484</pagination>
+, 
+<year id="106C531CF5003F614C31ECA3F940C29E" box="[1617,1700,971,1014]" pageId="12" pageNumber="23">1915</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5003F614B11EB6FFAF7C5F1" pageId="12" pageNumber="23" type="description">
+<paragraph id="647B124FF5003F614B11EB6FFAF7C5F1" blockId="12.[306,1705,613,1596]" pageId="12" pageNumber="23">
+<materialsCitation id="D4AC1812F5003F614B11EB6FFBACC55A" ID-GBIF-Occurrence="3994028401" box="[369,1096,1031,1074]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="12" pageNumber="23" specimenCount="2">
+Two 
+<specimenCount id="72C2D9C6F5003F614BB1EB6FFD60C55A" box="[465,644,1031,1074]" pageId="12" pageNumber="23" type="generic">specimens</specimenCount>
+, 
+<collectingCountry id="1CD352DFF5003F6148FAEB6FFCE2C55A" box="[666,774,1031,1074]" name="Guam" pageId="12" pageNumber="23">Guam</collectingCountry>
+, 
+<location id="611B4494F5003F61497BEB6FFC5AC55A" LSID="urn:lsid:plazi:treatment:EC6DA359F5003F614B55ED0DF943C754:611B4494F5003F61497BEB6FFC5AC55A" box="[795,958,1031,1074]" country="Guam" name="Fullaway" pageId="12" pageNumber="23">Fullaway</location>
+(1418);
+</materialsCitation>
+TODO 
+<materialsCitation id="D4AC1812F5003F614E0DEB6FFD58C50D" ID-GBIF-Occurrence="3336136459" collectedFrom="edge of forest" collectingDate="1923" collectorName="H. G. Hornbostel" country="Guam" location="Guam" pageId="12" pageNumber="23" specimenCount="1">
+<specimenCount id="72C2D9C6F5003F614E0DEB6FFABEC55A" box="[1133,1370,1031,1074]" pageId="12" pageNumber="23" type="generic">one specimen</specimenCount>
+, 
+<collectingCountry id="1CD352DFF5003F614F0FEB6FFA3FC55A" box="[1391,1499,1031,1074]" name="Guam" pageId="12" pageNumber="23">Guam</collectingCountry>
+, 1923, edge of forest, Hornbostel
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5003F6148B5EB52F973C50D" ID-GBIF-Occurrence="3336136502" box="[725,1687,1082,1125]" collectingDate="1936-04-21" collectorName="E. H. Bryan" country="Guam" location="Mount Alifan" pageId="12" pageNumber="23" specimenCount="1">
+<specimenCount id="72C2D9C6F5003F6148B5EB52FC20C50D" box="[725,964,1082,1125]" pageId="12" pageNumber="23" type="generic">one specimen</specimenCount>
+, 
+<location id="611B4494F5003F6149BDEB52FB45C50D" LSID="urn:lsid:plazi:treatment:EC6DA359F5003F614B55ED0DF943C754:611B4494F5003F6149BDEB52FB45C50D" box="[989,1185,1082,1125]" country="Guam" name="Mt. Alifan" pageId="12" pageNumber="23">Mt. Alifan</location>
+, 
+<date id="107A348FF5003F614ED9EB52FAB7C50D" box="[1209,1363,1082,1125]" pageId="12" pageNumber="23" value="2021-04">April 21</date>
+, 
+<collectorName id="C9317799F5003F614F0CEB52F9B4C50D" box="[1388,1616,1082,1125]" pageId="12" pageNumber="23">E. H. Bryan</collectorName>
+, Jr
+</materialsCitation>
+.; 
+<materialsCitation id="D4AC1812F5003F614B53EB06FAEAC5F1" ID-GBIF-Occurrence="3994028428" box="[307,1294,1134,1177]" collectedFrom="on Triphasia" collectingDate="1936-07-25" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="12" pageNumber="23" specimenCount="1">
+<specimenCount id="72C2D9C6F5003F614B53EB06FDC5C5F1" box="[307,545,1134,1177]" pageId="12" pageNumber="23" type="generic">one specimen</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5003F614859EB06FD37C5F1" box="[569,723,1134,1177]" pageId="12" pageNumber="23">Inarajan</collectingMunicipality>
+, 
+<date id="107A348FF5003F614889EB06FC94C5F1" box="[745,880,1134,1177]" pageId="12" pageNumber="23" value="1925-07">
+<collectingDate id="003ECD67F5003F614889EB06FC94C5F1" box="[745,880,1134,1177]" pageId="12" pageNumber="23" value="1925-07">July 25</collectingDate>
+</date>
+, on 
+<taxonomicName id="A3C469CCF5003F6149A3EB06FAF7C5F1" authority=", Swezey." box="[963,1299,1134,1177]" class="Magnoliopsida" family="Rutaceae" genus="Triphasia" kingdom="Plantae" order="Sapindales" pageId="12" pageNumber="23" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5003F6149A3EB06FB90C5F1" box="[963,1140,1134,1177]" italics="true" pageId="12" pageNumber="23">
+<location id="611B4494F5003F6149A3EB06FB8AC5F1" LSID="urn:lsid:plazi:treatment:EC6DA359F5003F614B55ED0DF943C754:611B4494F5003F6149A3EB06FB8AC5F1" box="[963,1134,1134,1177]" municipality="Inarajan" name="Triphasia" pageId="12" pageNumber="23">Triphasia</location>
+,
+</emphasis>
+<collectorName id="C9317799F5003F614EE6EB06FAEAC5F1" box="[1158,1294,1134,1177]" pageId="12" pageNumber="23">Swezey</collectorName>
+.
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5003F614B11EBC3F943C754" pageId="12" pageNumber="23" type="description">
+<paragraph id="647B124FF5003F614B11EBC3F943C754" blockId="12.[306,1705,613,1596]" pageId="12" pageNumber="23">
+This species was originally described from 
+<collectingCountry id="1CD352DFF5003F614E0FEBC3FB33C5BD" box="[1135,1239,1195,1237]" name="Guam" pageId="12" pageNumber="23">Guam</collectingCountry>
+by Herrich-Schaeffer and is easily recognizable from his colored illustration. As pointed out by Bergroth, Schouteden erroneously placed this in 
+<emphasis id="56B0CE5DF5003F614985EA7AFB08C454" box="[997,1260,1298,1340]" italics="true" pageId="12" pageNumber="23">
+<taxonomicName id="A3C469CCF5003F614985EA7AFB03C454" authorityName="Schouteden" authorityYear="1907" box="[997,1255,1298,1340]" class="Insecta" family="Pentatomidae" genus="Cantheconidea" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="12" pageNumber="23" phylum="Arthropoda" rank="genus">Cantheconidea</taxonomicName>
+.
+</emphasis>
+Bergroth, in suggesting that 
+<emphasis id="56B0CE5DF5003F614BE9EA2EFD8DC418" box="[393,617,1350,1392]" italics="true" pageId="12" pageNumber="23">chrysopterus</emphasis>
+&quot;belongs to an undescribed genus,&quot; overlooked the fact that Schouteden had already described a new genus and species, 
+<emphasis id="56B0CE5DF5003F614F04EA11F94CC4C9" box="[1380,1704,1401,1441]" italics="true" pageId="12" pageNumber="23">
+<taxonomicName id="A3C469CCF5003F614F04EA11F946C4C9" box="[1380,1698,1401,1441]" class="Insecta" genus="Parealda" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="12" pageNumber="23" phylum="Arthropoda" rank="species" species="bouvieri">Parealda bouvieri</taxonomicName>
+,
+</emphasis>
+for this same insect and keyed it out in its proper place in his Genera Insectorum. Thus the specific name of Herrich-Schaeffer and the generic name of Schouteden stand, while Schouteden's specific name 
+<taxonomicName id="A3C469CCF5003F614EA6E97BFAB1C754" box="[1222,1365,1555,1596]" class="Insecta" genus="Parealda" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="12" pageNumber="23" phylum="Arthropoda" rank="species" species="bouvieri">
+<emphasis id="56B0CE5DF5003F614EA6E97BFAB1C754" box="[1222,1365,1555,1596]" italics="true" pageId="12" pageNumber="23">bouvieri</emphasis>
+</taxonomicName>
+falls as a synonym.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

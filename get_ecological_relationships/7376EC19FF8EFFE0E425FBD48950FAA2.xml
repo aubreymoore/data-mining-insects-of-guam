@@ -1,0 +1,115 @@
+<document id="B65405EA361FFAACB0C12DCEC201BD05" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8EFFE0E425FBD48950FAA2" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Ooencyrtus pacificus Waterston" docType="treatment" docVersion="16" lastPageNumber="215" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="215" updateTime="1663769165332" updateUser="annettekang">
+<mods:mods id="8552BB3A152926F4C86C8442FA982024" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="02802D2E680717FCB51841296396F18B">
+<mods:title id="46C0C6568137713EEDB85B00943E4EC6">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="8EA1D8BA7BDF98679ED42E821D483CDD" type="personal">
+<mods:role id="DB6A5983BFA6758BDD036E402E053E9D">
+<mods:roleTerm id="AEA5A6D59CF6D611EAB5A00C365357BD">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F553E36F00946B4A968AB151418DBC6A">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="FA2BA8B569C5B51A5DBE74AE76A3F842">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="00816D23C27428242C690C79A2130AC9">text</mods:typeOfResource>
+<mods:relatedItem id="FBC202717507864C4B955EF8EE7BD2DE" type="host">
+<mods:originInfo id="B194FBD01FD3AFA44B6FB274F8DD25C8">
+<mods:dateIssued id="7714A201926728F57E0D78753DEB19CD">1946</mods:dateIssued>
+<mods:dateOther id="A3BF5845551D348CE59A20D075E95F77" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="C6F1FA54D7A4A0FB4ED4864ED4FAFFFE">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="A723C8E7876E60E5AF35281B4DE37A69">
+<mods:placeTerm id="1439EF787B429622C43DEC40E5A3046E">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A0938B49155AF9BA5F9998DFDE5FA725">
+<mods:title id="66B660DAF9BA7189C23B8AE7008C0AFA">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="1BB71A53FAC63392E693727C91520996">
+<mods:extent id="D0CCFE982A2F0E53A075065B9587879B" unit="page">
+<mods:start id="F0968DFE10BF4C95076EB0CFD8D6AB62">211</mods:start>
+<mods:end id="371B56E52BA93290B6833227D0D34126">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="9D81A1A3325441680AA415ADDC2C0041">book chapter</mods:classification>
+<mods:identifier id="74F8488553D2454CAF4E9F8D8E237071" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="36692DDE8F76B1BF772A8B36AF07613E" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="DED647588837F6DFB4958B1F5A6640F7" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8EFFE0E425FBD48950FAA2" ID-DOI="http://doi.org/10.5281/zenodo.5212005" ID-GBIF-Taxon="187737461" ID-Zenodo-Dep="5212005" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E425FBD48950FAA2" httpUri="http://treatment.plazi.org/id/7376EC19FF8EFFE0E425FBD48950FAA2" lastPageNumber="215" pageId="4" pageNumber="215">
+<subSubSection id="B3C50E84FF8EFFE0E425FBD48C96FB71" box="[294,968,1144,1187]" pageId="4" pageNumber="215" type="nomenclature">
+<paragraph id="FB605D0FFF8EFFE0E425FBD48C96FB71" blockId="4.[293,1692,1144,1392]" box="[294,968,1144,1187]" pageId="4" pageNumber="215">
+<emphasis id="C9AB811DFF8EFFE0E425FBD48E06FB71" bold="true" box="[294,344,1144,1187]" pageId="4" pageNumber="215">30.</emphasis>
+<taxonomicName id="3CDF268CFF8EFFE0E47AFBD48C9FFB71" authority="Waterston" authorityName="Waterston" box="[377,961,1144,1187]" class="Insecta" family="Encyrtidae" genus="Ooencyrtus" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="215" phylum="Arthropoda" rank="species" species="pacificus">
+<emphasis id="C9AB811DFF8EFFE0E47AFBD48DACFB71" bold="true" box="[377,754,1144,1187]" pageId="4" pageNumber="215">Ooencyrtus pacificus</emphasis>
+<author id="2362B5EAFF8EFFE0E603FBD48C9FFB71" box="[768,961,1144,1187]" pageId="4" pageNumber="215">Waterston</author>
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8EFFE0E6DBFBD489C5FB71" box="[984,1691,1144,1187]" pageId="4" pageNumber="215" type="reference_group">
+<paragraph id="FB605D0FFF8EFFE0E6DBFBD489C5FB71" blockId="4.[293,1692,1144,1392]" box="[984,1691,1144,1187]" pageId="4" pageNumber="215">
+<treatmentCitationGroup id="DBCF7A21FF8EFFE0E6DBFBD489C5FB71" box="[984,1691,1144,1187]" pageId="4" pageNumber="215">
+<treatmentCitation id="7A7E7B1EFF8EFFE0E6DBFBD489C5FB71" author="Waterston" box="[984,1691,1144,1187]" page="307" pageId="4" pageNumber="215" year="1915">
+<bibCitation id="2EF55563FF8EFFE0E6DBFBD489C5FB71" author="Waterston" box="[984,1691,1144,1187]" journalOrPublisher="Bull. Ent. Research" pageId="4" pageNumber="215" pagination="307" part="6" refId="ref1950" type="journal volume" year="1915">
+<journalOrPublisher id="211E57C3FF8EFFE0E6DBFBD48A63FB71" box="[984,1341,1144,1187]" pageId="4" pageNumber="215">Bull. Ent. Research</journalOrPublisher>
+<emphasis id="C9AB811DFF8EFFE0E04AFBD48A30FB71" bold="true" box="[1353,1390,1144,1187]" pageId="4" pageNumber="215">
+<part id="8F7BF792FF8EFFE0E04AFBD48A38FB71" box="[1353,1382,1144,1187]" pageId="4" pageNumber="215">6</part>
+:
+</emphasis>
+<pagination id="C216A3FBFF8EFFE0E078FBD48AE5FB71" box="[1403,1467,1144,1187]" pageId="4" pageNumber="215">307</pagination>
+, fig. 1, 
+<year id="8F771C5CFF8EFFE0E340FBD489C8FB71" box="[1603,1686,1144,1187]" pageId="4" pageNumber="215">1915</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8EFFE0E467FB078D83FAEF" pageId="4" pageNumber="215" type="materials_examined">
+<paragraph id="FB605D0FFF8EFFE0E467FB078D83FAEF" blockId="4.[293,1692,1144,1392]" pageId="4" pageNumber="215">
+<materialsCitation id="4BB75752FF8EFFE0E467FB078EE2FAD8" ID-GBIF-Occurrence="3901040386" collectedFrom="ex eggs of the bug Brachyplatys pacificus (Dallas)" collectingDate="1936-06-30" collectorName="O. H. Swezey" country="Guam" location="Ritidian Point" pageId="4" pageNumber="215">
+<collectingMunicipality id="1B04C775FF8EFFE0E467FB078D36FB04" box="[356,616,1195,1238]" pageId="4" pageNumber="215">Ritidian Point</collectingMunicipality>
+, 
+<date id="8F617BCFFF8EFFE0E783FB078C51FB04" box="[640,783,1195,1238]" pageId="4" pageNumber="215" value="1930-06">
+<collectingDate id="9F258227FF8EFFE0E783FB078C51FB04" box="[640,783,1195,1238]" pageId="4" pageNumber="215" value="1930-06">June 30</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8EFFE0E624FB078C0EFB04" box="[807,848,1195,1238]" pageId="4" pageNumber="215" type="generic">ex</specimenCount>
+<specimenCount id="EDD99686FF8EFFE0E663FB078CF2FB04" box="[864,940,1195,1238]" pageId="4" pageNumber="215" type="egg">eggs</specimenCount>
+of the bug 
+<taxonomicName id="3CDF268CFF8EFFE0E185FB0789CBFB04" authority="Dallas, Swezey" authorityName="Dallas, Swezey" box="[1158,1685,1195,1238]" class="Insecta" family="Plataspidae" genus="Brachyplatys" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="215" phylum="Arthropoda" rank="species" species="pacificus">
+<location id="FE000BD4FF8EFFE0E185FB0789CBFB04" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E425FBD48950FAA2:FE000BD4FF8EFFE0E185FB0789CBFB04" box="[1158,1685,1195,1238]" municipality="Ritidian Point" name="Brachyplatys pacificus Dallas" pageId="4" pageNumber="215">
+<emphasis id="C9AB811DFF8EFFE0E185FB07894BFB04" box="[1158,1557,1195,1238]" italics="true" pageId="4" pageNumber="215">Brachyplatys pacificus</emphasis>
+Dallas
+</location>
+</taxonomicName>
+, 
+<collectorName id="562A38D9FF8EFFE0E424FB728EEBFAD8" box="[295,437,1246,1290]" pageId="4" pageNumber="215">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8EFFE0E4D7FB728D83FAEF" ID-GBIF-Occurrence="3901040352" collectingDate="1936-06-12" collectorName="R. L. Usinger" country="Guam" location="Barrigada" pageId="4" pageNumber="215" specimenCount="3">
+<collectingMunicipality id="1B04C775FF8EFFE0E4D7FB728DD9FAD8" box="[468,647,1246,1290]" pageId="4" pageNumber="215">Barrigada</collectingMunicipality>
+, 
+<date id="8F617BCFFF8EFFE0E7A7FB728C64FAD8" box="[676,826,1246,1290]" pageId="4" pageNumber="215" value="2012-06">
+<collectingDate id="9F258227FF8EFFE0E7A7FB728C64FAD8" box="[676,826,1246,1290]" pageId="4" pageNumber="215" value="2012-06">June 12</collectingDate>
+</date>
+, 
+<location id="FE000BD4FF8EFFE0E65AFB728CB4FAD8" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E425FBD48950FAA2:FE000BD4FF8EFFE0E65AFB728CB4FAD8" box="[857,1002,1246,1290]" country="United States of America" municipality="Barrigada" name="Usinger" pageId="4" pageNumber="215">Usinger</location>
+. 
+<location id="FE000BD4FF8EFFE0E113FB728B3FFAD8" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E425FBD48950FAA2:FE000BD4FF8EFFE0E113FB728B3FFAD8" box="[1040,1121,1246,1290]" country="United States of America" municipality="Barrigada" name="Two" pageId="4" pageNumber="215">Two</location>
+slide mounts; one retained at 
+<collectingCountry id="83C81D9FFF8EFFE0E426FABE8EDDFAEF" box="[293,387,1298,1341]" name="United States of America" pageId="4" pageNumber="215">U. S.</collectingCountry>
+<location id="FE000BD4FF8EFFE0E496FABE8D86FAEF" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E425FBD48950FAA2:FE000BD4FF8EFFE0E496FABE8D86FAEF" box="[405,728,1298,1341]" country="United States of America" municipality="Barrigada" name="National Museum" pageId="4" pageNumber="215">National Museum</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8EFFE0E465FAE98950FAA2" box="[358,1550,1349,1392]" pageId="4" pageNumber="215" type="discussion">
+<paragraph id="FB605D0FFF8EFFE0E465FAE98950FAA2" blockId="4.[293,1692,1144,1392]" box="[358,1550,1349,1392]" pageId="4" pageNumber="215">
+Described from 
+<collectingCountry id="83C81D9FFF8EFFE0E78AFAE98D94FAA2" box="[649,714,1349,1392]" name="Fiji" pageId="4" pageNumber="215">Fiji</collectingCountry>
+on same host. Determined by D. T. Fullaway.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

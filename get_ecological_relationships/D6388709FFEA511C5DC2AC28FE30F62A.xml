@@ -1,0 +1,110 @@
+<document id="FEE782541603504880CE25CDA87A6986" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFEA511C5DC2AC28FE30F62A" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Swezeyella Zimmerman 1942, new genus" docType="treatment" docVersion="11" lastPageNumber="99" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="99" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="C7AC2D26BF441CB89D33566DE9D7A936" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="885EE32BFFB107C956AB498531EF4891">
+<mods:title id="0AF1197DB38570AC3A0A1794173559AE">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="8A0587A45E6D7BD01BA473D11E1C3285" type="personal">
+<mods:role id="92CBF607DAF26E14A004A500A762E4A2">
+<mods:roleTerm id="F769DA914F827519967795DABBA75807">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DE6BE3E53ED5F8E712D48195EBBD7691">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="274C7DC4C6A8275DD2E20F454E3B6D78">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="AF284B8CC5034610C34F851E5C376AB3">text</mods:typeOfResource>
+<mods:relatedItem id="7C0A8FEDA9897BA0672B1AD310396461" type="host">
+<mods:originInfo id="78827B352D892D9D7C2E589C33CC6870">
+<mods:dateIssued id="346E63DB0AD0C4827566DE9F3938AB33">1942</mods:dateIssued>
+<mods:dateOther id="1316FF290E68A36E4D06E6BC584E0B9A" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="6A0DCA1F91D3658EBD655107E6560C3C">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="5786F5007A66FF6C287C116C0A80506A">
+<mods:placeTerm id="81FD4E195BD0369554636339016784F0">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="865BDAB73FF7FE43AAA43D9D1B8E3C48">
+<mods:title id="95150760E3B9AC08D75E225883EBAE65">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="A1D19AB2ED34A39E7C95861AA4D07C4A">
+<mods:extent id="9496E097BD9E0D5A2D28C058B2E49022" unit="page">
+<mods:start id="1E9FD59C05E866EA0A3BA6967EE8F286">73</mods:start>
+<mods:end id="304774A1329D425F2D2CB56E307AF629">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="90AFAB3218B7539B7F4AEFCCF52C6B1A">book chapter</mods:classification>
+<mods:identifier id="C30EE33A0A7300B8BFE66B2C0073A348" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="38CF82EAA04C05F6407DD5D0726EF204" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="CAF23DF40F9C623D4E10223EDC7CF8AC" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFEA511C5DC2AC28FE30F62A" ID-DOI="http://doi.org/10.5281/zenodo.5157290" ID-GBIF-Taxon="184097860" ID-Zenodo-Dep="5157290" LSID="urn:lsid:plazi:treatment:D6388709FFEA511C5DC2AC28FE30F62A" httpUri="http://treatment.plazi.org/id/D6388709FFEA511C5DC2AC28FE30F62A" lastPageNumber="99" pageId="26" pageNumber="99">
+<subSubSection id="168B6594FFEA511C5DC2AC28FAC9FC0C" box="[665,1331,882,922]" pageId="26" pageNumber="99" type="nomenclature">
+<paragraph id="5E2E361FFFEA511C5DC2AC28FAC9FC0C" blockId="26.[298,1695,617,922]" box="[665,1331,882,922]" pageId="26" pageNumber="99">
+Genus 
+<emphasis id="6CE5EA0DFFEA511C5C47AC28FBA7FC0C" bold="true" box="[796,1117,882,922]" pageId="26" pageNumber="99">
+<taxonomicName id="99914D9CFFEA511C5C47AC28FBACFC0C" authority="Zimmerman, 1942" authorityName="Zimmerman" authorityYear="1942" box="[796,1110,882,922]" class="Insecta" family="Curculionidae" genus="Swezeyella" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="26" pageNumber="99" phylum="Arthropoda" rank="genus" status="new genus">SWEZEYELLA</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="77D65776FFEA511C5B2BAC28FAC9FC0C" box="[1136,1331,882,922]" pageId="26" pageNumber="99" rank="genus">new genus</taxonomicNameLabel>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFEA511C5E36ACE2F990F8F9" pageId="26" pageNumber="99" type="description">
+<paragraph id="5E2E361FFFEA511C5E36ACE2F990F8F9" blockId="26.[297,1696,952,2492]" pageId="26" pageNumber="99">
+<emphasis id="6CE5EA0DFFEA511C5E36ACE2FE3AFC4D" box="[365,448,952,987]" italics="true" pageId="26" pageNumber="99">Head</emphasis>
+globular, immersed in prothorax, narrowly exposed from above; eyes oval, separated by breadth of rostrum above and below. 
+<emphasis id="6CE5EA0DFFEA511C5B1EAC84FB33FB97" box="[1093,1225,990,1025]" italics="true" pageId="26" pageNumber="99">Rostrum</emphasis>
+almost straight, about as long as pronotum in male, about one third longer in female; antennae inserted at about the apical third in female, slightly beyond in male; scrobes passing rapidly ventrally, entirely ventral behind half distance between eyes and their origin, not coalescing at base of rostrum and there shallow; mandibles decussate, strongly toothed. 
+<emphasis id="6CE5EA0DFFEA511C5B8EAB2DFA9FFB0C" box="[1237,1381,1143,1178]" italics="true" pageId="26" pageNumber="99">Antennae</emphasis>
+with scape slender, almost reaching eye, about as long as funicle plus club; funicle only 5-segmented, first segment longer than second, second longer than third; club evidently 3-segmented, basal segment making up at least half its mass. 
+<emphasis id="6CE5EA0DFFEA511C5C8FABB0FB89FA9A" box="[980,1139,1258,1292]" italics="true" pageId="26" pageNumber="99">Prothorax</emphasis>
+transverse; postocular lobes feebly developed and with short vibrissae. 
+<emphasis id="6CE5EA0DFFEA511C5C35AA55FBFCFAA5" box="[878,1030,1295,1331]" italics="true" pageId="26" pageNumber="99">Scittellmn</emphasis>
+not visible. 
+<emphasis id="6CE5EA0DFFEA511C5B81AA55FAC7FAA5" box="[1242,1341,1295,1331]" italics="true" pageId="26" pageNumber="99">Elytra</emphasis>
+short and rather subquadrate, conspicuously broader across humeri than base of prothorax; without posterior calli; with ten striae, the tenth abbreviated. 
+<emphasis id="6CE5EA0DFFEA511C5CA5AA06FB9AFAE9" box="[1022,1120,1372,1407]" italics="true" pageId="26" pageNumber="99">Wings</emphasis>
+functional. 
+<emphasis id="6CE5EA0DFFEA511C5A72AA06FA88FAE9" box="[1321,1394,1372,1407]" italics="true" pageId="26" pageNumber="99">Legs</emphasis>
+with femora moderately clavate, edentate, hind pair reaching beyond apex of fourth ventrite; tibiae compressed, stout, not carinate, strongly uncinate at apex; tarsi with third segment much longer and broader than transverse second segment, deeply and broadly bilobed; fourth segment extencling only to apices of setae on segment 3 and bearing only a single claw. 
+<emphasis id="6CE5EA0DFFEA511C5E71A941FE57F9A8" box="[298,429,1563,1598]" italics="true" pageId="26" pageNumber="99">Sternum</emphasis>
+with prosternum with its apical margin deeply, roundly emarginate, ·broadly and shallowly concave in front of contiguous coxae; mesosternum with intercoxal process sloping cephalo-dorsad, plain, about half as broad as a coxa, mesepimeron only a fraction as large as mesepisternum; metasternum about as long between mid and hind coxae as breadth of a metacoxa, metepisternal suture usually partly or completely obliterated, reaching first ventrite above coxal cavity. 
+<emphasis id="6CE5EA0DFFEA511C5C38A983FC33F96B" box="[867,969,1753,1789]" italics="true" pageId="26" pageNumber="99">Venter</emphasis>
+with intercoxal process of first ventrite br9adly rounded; ventrite fully as long along median line as segments 2 plus 3 plus 4, truncate behind, ventrite 2 somewhat longer than 3, 3 and 4 subsequal, 5 about as long as 3 plus 4, sutures between segments deep and straight. 
+<emphasis id="6CE5EA0DFFEA511C5CB0A816FB85F8F9" box="[1003,1151,1868,1903]" italics="true" pageId="26" pageNumber="99">Pygidiitm</emphasis>
+with apex exposed from above.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFEA511C5E31A8D6FB68F820" box="[362,1170,1932,1974]" pageId="26" pageNumber="99" type="type_taxon">
+<paragraph id="5E2E361FFFEA511C5E31A8D6FB68F820" blockId="26.[297,1696,952,2492]" box="[362,1170,1932,1974]" pageId="26" pageNumber="99">
+Genotype: 
+<emphasis id="6CE5EA0DFFEA511C5D1BA8D6FC51F820" box="[576,939,1932,1974]" italics="true" pageId="26" pageNumber="99">
+<taxonomicName id="99914D9CFFEA511C5D1BA8D6FC5FF820" authority="Zimmerman, 1942" authorityName="Zimmerman" authorityYear="1942" box="[576,933,1932,1974]" class="Insecta" family="Curculionidae" genus="Swezeyella" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="26" pageNumber="99" phylum="Arthropoda" rank="species" species="muscosa" status="new species">Swezeyella muscosa</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="77D65776FFEA511C5CE7A8D6FB77F820" box="[956,1165,1932,1974]" pageId="26" pageNumber="99" rank="species">new species</taxonomicNameLabel>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFEA511C5E31A8E4FE30F62A" pageId="26" pageNumber="99" type="discussion">
+<paragraph id="5E2E361FFFEA511C5E31A8E4FB01F689" blockId="26.[297,1696,952,2492]" pageId="26" pageNumber="99">
+This genus is most closely allied to 
+<taxonomicName id="99914D9CFFEA511C5B71A8E4FA42F87E" authority="Marshall" authorityName="Marshall and Fergttsoniella" box="[1066,1464,1982,2024]" class="Insecta" family="Curculionidae" genus="Spanochelus" kingdom="Animalia" order="Coleoptera" pageId="26" pageNumber="99" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFEA511C5B71A8E4FAFEF87E" box="[1066,1284,1982,2024]" italics="true" pageId="26" pageNumber="99">Spanochelus</emphasis>
+Marshall
+</taxonomicName>
+[Insects of 
+<collectingCountry id="2686768FFFEA511C5E77A8A8FE58F78A" box="[300,418,2034,2076]" name="Samoa" pageId="26" pageNumber="99">Samoa</collectingCountry>
+4(5): 278, fig. 10, 1931]. It differs from that genus, however, in its unusual 5-segmented antenna] funicle. Its 5-segmented funicle and single tarsal claws constitute a pair of characters rarely found among weevils of this and allied subfamilies. 
+<taxonomicName id="99914D9CFFEA511C5DD8A7D6FAA1F720" authority="Marshall and Fergttsoniella" authorityName="Marshall and Fergttsoniella" box="[643,1371,2188,2230]" class="Insecta" family="Curculionidae" genus="Spanochelus" kingdom="Animalia" order="Coleoptera" pageId="26" pageNumber="99" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFEA511C5DD8A7D6FCA5F720" box="[643,863,2188,2230]" italics="true" pageId="26" pageNumber="99">Spanochelus</emphasis>
+Marshall and 
+<emphasis id="6CE5EA0DFFEA511C5B31A7D6FAA1F720" box="[1130,1371,2188,2230]" italics="true" pageId="26" pageNumber="99">Fergttsoniella</emphasis>
+</taxonomicName>
+have single tarsal claws, but their 7- and 6-segmented funicles, respectively, in addition to other characters, will readily separate them from this genus.
+</paragraph>
+<paragraph id="5E2E361FFFEA511C5E30A673FE30F62A" blockId="26.[297,1696,952,2492]" pageId="26" pageNumber="99">
+I take much pleasure in naming this genus for Mr. 0. H. Swezey as a token of friendship and appreciation and in recognition of his careful work in 
+<collectingCountry id="2686768FFFEA511C5E02A6C8FE3FF62A" box="[345,453,2450,2492]" name="Guam" pageId="26" pageNumber="99">Guam</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

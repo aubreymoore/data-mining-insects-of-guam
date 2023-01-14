@@ -1,0 +1,130 @@
+<document id="93AD02F39B76FDACCC2B32AD5B3C1422" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F55A3F3B4B4FEA04FB86C70F" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Halobates mariannarum Esaki" docType="treatment" docVersion="21" lastPageNumber="97" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="97" updateTime="1671682451356" updateUser="annettekang">
+<mods:mods id="1F61ECAE42A8C4E5642E20D6773281AA" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="DCB95419F1315845D08198AA44862596">
+<mods:title id="C01427E45D0E78544DBD1DCFF7BD6D41">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="E80463077D6B67B5089D0C376BDC2844" type="personal">
+<mods:role id="C83A5057521544FCE43086D1479ACA77">
+<mods:roleTerm id="999D5E91C005F7BFDA270DB54EDAC0C3">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="FB36985BCFC37811B17F633EFEC7A104">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="BAE31DCAB78C2BE1471815D6443EF5A9">text</mods:typeOfResource>
+<mods:relatedItem id="EFEA4F5CA08551E3CB0C3A81B54825C9" type="host">
+<mods:originInfo id="ECE9B479036DF5FC24B9A25437CE82D3">
+<mods:dateIssued id="11B909EFCE8BB76726E11B7568DCD520">1946</mods:dateIssued>
+<mods:dateOther id="31454EF643C7BCF85C5C1C4A690CD8F9" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="126C19B7A342903FFD228DF1EBFAFDEC">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="8E5CF66043C63C700ACA493389C8627C">
+<mods:placeTerm id="F21B1636AFE0FA48AAB13F7A5B2C7674">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="94181E44BB98E6649363378CD97EE687">
+<mods:title id="01FD77824BFABBAECA0B7C12D5BA73F7">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="C61C1CA2B6F64FEAFBF2D81C1A8A2365">
+<mods:extent id="873383D837409C7B7758C438F6A5BE12" unit="page">
+<mods:start id="3063ED4FED4071E72635B4D77E33F926">11</mods:start>
+<mods:end id="E28711194B3990B9F4A710FBCAFCB6DB">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="AB5CE1CD982AC6CABC197677E488BD81">book chapter</mods:classification>
+<mods:identifier id="621ADB2B6A23DC09236B97424285F0CF" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="94711E7296038E4BE3AB29A40D0F91FB" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="220C703917E097C788211B2C57B34B76" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F55A3F3B4B4FEA04FB86C70F" ID-DOI="http://doi.org/10.5281/zenodo.5186624" ID-GBIF-Taxon="184601082" ID-Zenodo-Dep="5186624" LSID="urn:lsid:plazi:treatment:EC6DA359F55A3F3B4B4FEA04FB86C70F" httpUri="http://treatment.plazi.org/id/EC6DA359F55A3F3B4B4FEA04FB86C70F" lastPageNumber="97" pageId="86" pageNumber="97">
+<subSubSection id="2CDE41C4F55A3F3B4B4FEA04FC5AC4F0" box="[303,958,1388,1432]" pageId="86" pageNumber="97" type="nomenclature">
+<paragraph id="647B124FF55A3F3B4B4FEA04FC5AC4F0" blockId="86.[303,1699,1388,1639]" box="[303,958,1388,1432]" pageId="86" pageNumber="97">
+<heading id="3F33A523F55A3F3B4B4FEA04FC5AC4F0" box="[303,958,1388,1432]" fontSize="8" level="2" pageId="86" pageNumber="97" reason="4">
+<emphasis id="56B0CE5DF55A3F3B4B4FEA04FE86C4F0" bold="true" box="[303,354,1388,1432]" pageId="86" pageNumber="97">91.</emphasis>
+<taxonomicName id="A3C469CCF55A3F3B4BE4EA04FC53C4F0" authority="Esaki" box="[388,951,1388,1432]" class="Insecta" family="Gerridae" genus="Halobates" kingdom="Animalia" order="Hemiptera" pageId="86" pageNumber="97" phylum="Arthropoda" rank="species" species="mariannarum">
+<emphasis id="56B0CE5DF55A3F3B4BE4EA04FCD9C4F0" bold="true" box="[388,829,1388,1432]" pageId="86" pageNumber="97">Halobates mariannarum</emphasis>
+<author id="BC79FAAAF55A3F3B492DEA04FC53C4F0" box="[845,951,1388,1432]" pageId="86" pageNumber="97">Esaki</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F55A3F3B49ADEA04FA9FC4F0" box="[973,1403,1388,1432]" pageId="86" pageNumber="97" type="reference_group">
+<paragraph id="647B124FF55A3F3B49ADEA04FA9FC4F0" blockId="86.[303,1699,1388,1639]" box="[973,1403,1388,1432]" pageId="86" pageNumber="97">
+<heading id="3F33A523F55A3F3B49ADEA04FA9FC4F0" box="[973,1403,1388,1432]" fontSize="8" level="2" pageId="86" pageNumber="97" reason="4">
+<treatmentCitationGroup id="44D43561F55A3F3B49ADEA04FA9FC4F0" box="[973,1403,1388,1432]" pageId="86" pageNumber="97">
+<bibCitation id="B1EE1A23F55A3F3B49ADEA04FA9FC4F0" author="Esaki" box="[973,1403,1388,1432]" journalOrPublisher="Tenthredo" pageId="86" pageNumber="97" pagination="357" part="1" refId="ref47002" type="journal article" year="1937">
+<treatmentCitation id="E565345EF55A3F3B49ADEA04FA92C4F0" author="Esaki" box="[973,1398,1388,1432]" page="357" pageId="86" pageNumber="97" year="1937">
+<journalOrPublisher id="BE051883F55A3F3B49ADEA04FB6EC4F0" box="[973,1162,1388,1432]" pageId="86" pageNumber="97">Tenthredo</journalOrPublisher>
+<part id="1060B8D2F55A3F3B4EFBEA04FB42C4F0" box="[1179,1190,1388,1432]" pageId="86" pageNumber="97" type="volume">1</part>
+: 
+<pagination id="5D0DECBBF55A3F3B4EABEA04FAEFC4F0" box="[1227,1291,1388,1432]" pageId="86" pageNumber="97" type="pagination">357</pagination>
+, 
+<year id="106C531CF55A3F3B4F44EA04FA92C4F0" box="[1316,1398,1388,1432]" pageId="86" pageNumber="97">1937</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F55A3F3B4B0EEACAFD15C75C" pageId="86" pageNumber="97" type="description">
+<paragraph id="647B124FF55A3F3B4B0EEACAFD15C75C" blockId="86.[303,1699,1388,1639]" pageId="86" pageNumber="97">
+<materialsCitation id="D4AC1812F55A3F3B4B0EEACAFB6EC4A5" ID-GBIF-Occurrence="3994028370" box="[366,1162,1442,1485]" collectingDate="1936-05-12" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="86" pageNumber="97" specimenCount="13">
+Thirteen 
+<specimenCount id="72C2D9C6F55A3F3B487AEACAFD29C4A5" box="[538,717,1442,1485]" pageId="86" pageNumber="97" type="generic">specimens</specimenCount>
+, 
+<collectingMunicipality id="841F8835F55A3F3B4888EACAFCC8C4A5" box="[744,812,1442,1485]" pageId="86" pageNumber="97">Piti</collectingMunicipality>
+, 
+<date id="107A348FF55A3F3B4928EACAFC33C4A5" box="[840,983,1442,1485]" pageId="86" pageNumber="97" value="2012-05">
+<collectingDate id="003ECD67F55A3F3B4928EACAFC33C4A5" box="[840,983,1442,1485]" pageId="86" pageNumber="97" value="2012-05">May 12</collectingDate>
+</date>
+, 
+<location id="611B4494F55A3F3B4992EACAFB6EC4A5" LSID="urn:lsid:plazi:treatment:EC6DA359F55A3F3B4B4FEA04FB86C70F:611B4494F55A3F3B4992EACAFB6EC4A5" box="[1010,1162,1442,1485]" municipality="Piti" name="Usinger" pageId="86" pageNumber="97">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F55A3F3B4EC7EACAFE23C769" ID-GBIF-Occurrence="3994028302" collectingDate="1936-05-22" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="86" pageNumber="97" specimenCount="50">
+<specimenCount id="72C2D9C6F55A3F3B4EC7EACAFA71C4A5" box="[1191,1429,1442,1485]" pageId="86" pageNumber="97" type="generic">50 specimens</specimenCount>
+, 
+<collectingMunicipality id="841F8835F55A3F3B4FD0EACAFA17C4A5" box="[1456,1523,1442,1485]" pageId="86" pageNumber="97">Piti</collectingMunicipality>
+, 
+<date id="107A348FF55A3F3B4C6FEACAF978C4A5" box="[1551,1692,1442,1485]" pageId="86" pageNumber="97" value="1922-05">
+<collectingDate id="003ECD67F55A3F3B4C6FEACAF978C4A5" box="[1551,1692,1442,1485]" pageId="86" pageNumber="97" value="1922-05">May 22</collectingDate>
+</date>
+, 
+<location id="611B4494F55A3F3B4B4FEABDFE23C769" LSID="urn:lsid:plazi:treatment:EC6DA359F55A3F3B4B4FEA04FB86C70F:611B4494F55A3F3B4B4FEABDFE23C769" box="[303,455,1493,1537]" municipality="Piti" name="Usinger" pageId="86" pageNumber="97">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F55A3F3B4B87EABDFA6CC769" ID-GBIF-Occurrence="3994028508" box="[487,1416,1493,1537]" collectingDate="1936-05-30" collectorName="R. L. Usinger" country="Guam" location="Tumon Beach" pageId="86" pageNumber="97" specimenCount="4">
+<specimenCount id="72C2D9C6F55A3F3B4B87EABDFD1AC769" box="[487,766,1493,1537]" pageId="86" pageNumber="97" type="generic">four specimens</specimenCount>
+, 
+<collectingMunicipality id="841F8835F55A3F3B497DEABDFBC5C769" box="[797,1057,1493,1537]" pageId="86" pageNumber="97">Tumon Beach</collectingMunicipality>
+, 
+<date id="107A348FF55A3F3B4E20EABDFB37C769" box="[1088,1235,1493,1537]" pageId="86" pageNumber="97" value="1930-05">
+<collectingDate id="003ECD67F55A3F3B4E20EABDFB37C769" box="[1088,1235,1493,1537]" pageId="86" pageNumber="97" value="1930-05">May 30</collectingDate>
+</date>
+, 
+<location id="611B4494F55A3F3B4E91EABDFA6CC769" LSID="urn:lsid:plazi:treatment:EC6DA359F55A3F3B4B4FEA04FB86C70F:611B4494F55A3F3B4E91EABDFA6CC769" box="[1265,1416,1493,1537]" municipality="Tumon Beach" name="Usinger" pageId="86" pageNumber="97">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F55A3F3B4FC7EABDFD08C75C" ID-GBIF-Occurrence="3994028466" collectingDate="1936-04-22" collectorName="E. H. Bryan" country="Guam" location="Tumon" pageId="86" pageNumber="97" specimenCount="1">
+<specimenCount id="72C2D9C6F55A3F3B4FC7EABDF979C769" box="[1447,1693,1493,1537]" pageId="86" pageNumber="97" type="generic">one specimen</specimenCount>
+, 
+<collectingMunicipality id="841F8835F55A3F3B4B4FE961FE57C75C" box="[303,435,1545,1588]" pageId="86" pageNumber="97">Tumon</collectingMunicipality>
+, 
+<date id="107A348FF55A3F3B4BA9E961FD80C75C" box="[457,612,1545,1588]" pageId="86" pageNumber="97" value="1922-04">
+<collectingDate id="003ECD67F55A3F3B4BA9E961FD80C75C" box="[457,612,1545,1588]" pageId="86" pageNumber="97" value="1922-04">April 22</collectingDate>
+</date>
+, 
+<location id="611B4494F55A3F3B481BE961FD08C75C" LSID="urn:lsid:plazi:treatment:EC6DA359F55A3F3B4B4FEA04FB86C70F:611B4494F55A3F3B481BE961FD08C75C" box="[635,748,1545,1588]" municipality="Tumon" name="Bryan" pageId="86" pageNumber="97">Bryan</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F55A3F3B4B10E955FB86C70F" box="[368,1122,1597,1639]" pageId="86" pageNumber="97" type="description">
+<paragraph id="647B124FF55A3F3B4B10E955FB86C70F" blockId="86.[303,1699,1388,1639]" box="[368,1122,1597,1639]" pageId="86" pageNumber="97">
+Described from the nearby island of 
+<collectingRegion id="A600DCADF55A3F3B4E65E955FBB9C70F" box="[1029,1117,1597,1639]" country="Northern Mariana Islands" name="Rota" pageId="86" pageNumber="97">Rota</collectingRegion>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

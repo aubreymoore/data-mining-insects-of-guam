@@ -1,0 +1,146 @@
+<document id="6D7AEEAD37C9529F7E75181194BBBCFB" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8BFFE6E4DAF6878AB1FE03" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Tomocera californica Howard 1880" docType="treatment" docVersion="18" lastPageNumber="212" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="212" updateTime="1663098943822" updateUser="ExternalLinkService">
+<mods:mods id="6922B404631105035A374BDCA33F416D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="2D4B5B90E3C0CE6E5749D2E9E7BAD565">
+<mods:title id="94DFA2C6E4F1EF8AE196D576911B2C26">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="3E02C3AC6ABB218D2AB1D821C6CD1040" type="personal">
+<mods:role id="89FB6DB55CD1FDCCA95D8607DC531AD1">
+<mods:roleTerm id="5B5EF46BBC4BAA8469A9A9F203F0F287">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DC3ECE4C7FCAC64302966DBB4B84E987">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="3E73A19E135D80B9F27D0E1E1537DA85">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="D859680403BA2CE057A1F0802B9D16AF">text</mods:typeOfResource>
+<mods:relatedItem id="3881A514EEB35DC5769F6F8D07690F46" type="host">
+<mods:originInfo id="CB3F474D6D12CC5044B0C297DAE426F6">
+<mods:dateIssued id="75118E1F4C33D9EB37F71B1B7DB1C055">1946</mods:dateIssued>
+<mods:dateOther id="15443AE817FD80DAF43872E2619E3016" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="3C586614A828E89F06C38C994F80B2CE">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="82018CC51DE9A1CDC87157DDC962E770">
+<mods:placeTerm id="CED6CEBB8160C218A8F04107958898C3">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9DF8DF4CF87EB6859AD1F44E2406D184">
+<mods:title id="B348DFB6632EA70913FDC2F736E64FFB">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="0301341B02F0B4031A9528AB73376F2F">
+<mods:extent id="8FC867DAB64F2B582260E633476584FE" unit="page">
+<mods:start id="D477613A3AB810181344C631E1B785C8">211</mods:start>
+<mods:end id="E74A777AD9BAF4FCAD71678CC7EB7777">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E42C79C6E0B03725A43E58B0FF31DF08">book chapter</mods:classification>
+<mods:identifier id="544758AB444C1BE234D765DE9A0BDCEC" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="391CEF05DB98316EB2483C0FEFC81DD3" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="19BC5A78B05A97EC7C78694FB7B71ECC" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8BFFE6E4DAF6878AB1FE03" ID-DOI="http://doi.org/10.5281/zenodo.5211991" ID-GBIF-Taxon="187737445" ID-Zenodo-Dep="5211991" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE6E4DAF6878AB1FE03" httpUri="http://treatment.plazi.org/id/7376EC19FF8BFFE6E4DAF6878AB1FE03" lastPageId="2" lastPageNumber="212" pageId="1" pageNumber="212">
+<subSubSection id="B3C50E84FF8BFFE5E4DAF6878B07F687" box="[473,1113,2347,2389]" pageId="1" pageNumber="212" type="nomenclature">
+<paragraph id="FB605D0FFF8BFFE5E4DAF6878B07F687" blockId="1.[471,1868,2278,2543]" box="[473,1113,2347,2389]" pageId="1" pageNumber="212">
+<emphasis id="C9AB811DFF8BFFE5E4DAF6878D70F687" bold="true" box="[473,558,2347,2389]" pageId="1" pageNumber="212">13. ·</emphasis>
+<taxonomicName id="3CDF268CFF8BFFE5E72DF6878B0CF687" authority="Howard" authorityYear="1880" box="[558,1106,2347,2389]" class="Insecta" family="Pteromalidae" genus="Tomocera" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="212" phylum="Arthropoda" rank="species" species="californica">
+<emphasis id="C9AB811DFF8BFFE5E72DF6878CF0F687" bold="true" box="[558,942,2347,2389]" pageId="1" pageNumber="212">Tomocera californica</emphasis>
+<author id="2362B5EAFF8BFFE5E6B8F6878B0CF687" box="[955,1106,2347,2389]" pageId="1" pageNumber="212">Howard</author>
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8BFFE5E166F6878C3FF659" pageId="1" pageNumber="212" type="reference_group">
+<paragraph id="FB605D0FFF8BFFE5E166F6878C3FF659" blockId="1.[471,1868,2278,2543]" pageId="1" pageNumber="212">
+<treatmentCitationGroup id="DBCF7A21FF8BFFE5E166F6878C3FF659" pageId="1" pageNumber="212">
+<bibCitation id="2EF55563FF8BFFE5E166F6878C3FF659" author="Howard" journalOrPublisher="U. S. Dept. Agric., Div. Ent., Ann. Rept." pageId="1" pageNumber="212" pagination="1881" part="368" refId="ref767" type="journal article" year="1880">
+<treatmentCitation id="7A7E7B1EFF8BFFE5E166F6878C02F659" author="Howard" page="286" pageId="1" pageNumber="212" year="1913">
+<journalOrPublisher id="211E57C3FF8BFFE5E166F6878815F687" box="[1125,1867,2347,2389]" pageId="1" pageNumber="212">U. S. Dept. Agric., Div. Ent., Ann. Rept.</journalOrPublisher>
+(
+<year id="8F771C5CFF8BFFE5E72BF6F78DD5F659" box="[552,651,2395,2443]" pageId="1" pageNumber="212">1880</year>
+), 
+<part id="8F7BF792FF8BFFE5E7B3F6F78DAFF659" box="[688,753,2395,2443]" pageId="1" pageNumber="212" type="volume">368</part>
+, 
+<pagination id="C216A3FBFF8BFFE5E609F6F78C02F659" box="[778,860,2395,2443]" pageId="1" pageNumber="212" type="pagination">1881</pagination>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8BFFE6E716F63D8AB1FE03" lastPageId="2" lastPageNumber="213" pageId="1" pageNumber="212" type="materials_examined">
+<paragraph id="FB605D0FFF8BFFE6E716F63D8AB1FE03" blockId="1.[471,1868,2278,2543]" lastBlockId="2.[284,1681,320,465]" lastPageId="2" lastPageNumber="213" pageId="1" pageNumber="212">
+<materialsCitation id="4BB75752FF8BFFE5E716F63D8C12F66F" ID-GBIF-Occurrence="3901040337" box="[533,844,2449,2493]" collectingDate="1936-05-14" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Umatac" pageId="1" pageNumber="212">
+<location id="FE000BD4FF8BFFE5E716F63D8DFCF66F" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE6E4DAF6878AB1FE03:FE000BD4FF8BFFE5E716F63D8DFCF66F" box="[533,674,2449,2493]" name="Umatac" pageId="1" pageNumber="212">Umatac</location>
+, 
+<date id="8F617BCFFF8BFFE5E7B5F63D8C1AF66F" box="[694,836,2449,2493]" pageId="1" pageNumber="212" value="2014-05">
+<collectingDate id="9F258227FF8BFFE5E7B5F63D8C1AF66F" box="[694,836,2449,2493]" pageId="1" pageNumber="212" value="2014-05">May 14</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8BFFE5E65FF63D8B2EF66F" ID-GBIF-Occurrence="3901040318" box="[860,1136,2449,2493]" collectingDate="1936-05-24" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Orote Point" pageId="1" pageNumber="212">
+<location id="FE000BD4FF8BFFE5E65FF63D8C9AF66F" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE6E4DAF6878AB1FE03:FE000BD4FF8BFFE5E65FF63D8C9AF66F" box="[860,964,2449,2493]" name="Orote" pageId="1" pageNumber="212">Orote</location>
+, 
+<date id="8F617BCFFF8BFFE5E6D9F63D8B37F66F" box="[986,1129,2449,2493]" pageId="1" pageNumber="212" value="1924-05">
+<collectingDate id="9F258227FF8BFFE5E6D9F63D8B37F66F" box="[986,1129,2449,2493]" pageId="1" pageNumber="212" value="1924-05">May 24</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8BFFE5E181F63D8904F66F" ID-GBIF-Occurrence="3901040339" box="[1154,1626,2449,2493]" collectingDate="1936-05-19" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Santa Rosa Peak" pageId="1" pageNumber="212">
+<location id="FE000BD4FF8BFFE5E181F63D8AEEF66F" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE6E4DAF6878AB1FE03:FE000BD4FF8BFFE5E181F63D8AEEF66F" box="[1154,1456,2449,2493]" name="Santa Rosa Peak" pageId="1" pageNumber="212">Santa Rosa Peak</location>
+, 
+<date id="8F617BCFFF8BFFE5E0C6F63D890CF66F" box="[1477,1618,2449,2493]" pageId="1" pageNumber="212" value="2019-05">
+<collectingDate id="9F258227FF8BFFE5E0C6F63D890CF66F" box="[1477,1618,2449,2493]" pageId="1" pageNumber="212" value="2019-05">May 19</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8BFFE5E369F63D8EB5F63D" ID-GBIF-Occurrence="3901040341" collectingDate="1936-06-06" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Sumay" pageId="1" pageNumber="212">
+<location id="FE000BD4FF8BFFE5E369F63D89B8F66F" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE6E4DAF6878AB1FE03:FE000BD4FF8BFFE5E369F63D89B8F66F" box="[1642,1766,2449,2493]" name="Sumay" pageId="1" pageNumber="212">Sumay</location>
+, 
+<date id="8F617BCFFF8BFFE5E3FAF63D8EB5F63D" pageId="1" pageNumber="212">
+<collectingDate id="9F258227FF8BFFE5E3FAF63D8EB5F63D" pageId="1" pageNumber="212">June 6</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="4BB75752FF8BFFE5E4FBF6688B49F63D" ID-GBIF-Occurrence="3901040385" box="[504,1047,2500,2543]" collectedFrom="ex hemispherical scale" collectingDate="1936-06-21" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Sumay" pageId="1" pageNumber="212">
+and 21, 
+<specimenCount id="EDD99686FF8BFFE5E780F6688DF2F63D" box="[643,684,2500,2543]" pageId="1" pageNumber="212" type="generic">ex</specimenCount>
+hemispherical scale;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8BFFE5E125F6688ACCF63D" ID-GBIF-Occurrence="3901040392" box="[1062,1426,2500,2543]" collectingDate="1936-06-19" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Mount Alifan" pageId="1" pageNumber="212">
+<collectingMunicipality id="1B04C775FF8BFFE5E125F6688BB9F63D" box="[1062,1255,2500,2543]" pageId="1" pageNumber="212">Mt. Alifan</collectingMunicipality>
+, 
+<date id="8F617BCFFF8BFFE5E1F9F6688AD4F63D" box="[1274,1418,2500,2543]" pageId="1" pageNumber="212" value="2019-06">
+<collectingDate id="9F258227FF8BFFE5E1F9F6688AD4F63D" box="[1274,1418,2500,2543]" pageId="1" pageNumber="212" value="2019-06">June 19</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8BFFE5E0A2F66889AAF63D" ID-GBIF-Occurrence="3901040383" box="[1441,1780,2500,2543]" collectingDate="1936-06-15" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Sinajana" pageId="1" pageNumber="212">
+<location id="FE000BD4FF8BFFE5E0A2F6688963F63D" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE6E4DAF6878AB1FE03:FE000BD4FF8BFFE5E0A2F6688963F63D" box="[1441,1597,2500,2543]" name="Sinajana" pageId="1" pageNumber="212">Sinajana</location>
+,, 
+<date id="8F617BCFFF8BFFE5E35FF66889B2F63D" box="[1628,1772,2500,2543]" pageId="1" pageNumber="212" value="2015-06">
+<collectingDate id="9F258227FF8BFFE5E35FF66889B2F63D" box="[1628,1772,2500,2543]" pageId="1" pageNumber="212" value="2015-06">June 15</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8BFFE6E201F6688EC3FEB9" ID-GBIF-Occurrence="3901040309" collectingDate="1936-10-27" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" lastPageId="2" lastPageNumber="213" location="Piti" pageId="1" pageNumber="212">
+Piti, 
+<date id="8F617BCFFF88FFE6E41EFEEC8EC3FEB9" box="[285,413,320,363]" pageId="2" pageNumber="213" value="1927-10">Oct. 27</date>
+</materialsCitation>
+<materialsCitation id="4BB75752FF88FFE6E4AAFEEC8D7AFEB9" ID-GBIF-Occurrence="3901040324" box="[425,548,320,363]" collectingDate="1936-10-29" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="2" pageNumber="213">and 29,</materialsCitation>
+<materialsCitation id="4BB75752FF88FFE6E736FEEC8BEFFE4C" ID-GBIF-Occurrence="3901262301" collectedFrom="nearly all by sweeping" collectingDate="1936-11-15" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="2" pageNumber="213" specimenCount="14">
+<date id="8F617BCFFF88FFE6E736FEEC8D9FFEB9" box="[565,705,320,363]" pageId="2" pageNumber="213" value="2015-11">Nov. 15</date>
+, nearly all by sweeping, 
+<location id="FE000BD4FF88FFE6E177FEEC8BA9FEB9" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE6E4DAF6878AB1FE03:FE000BD4FF88FFE6E177FEEC8BA9FEB9" box="[1140,1271,320,363]" country="United States of America" name="Swezey" pageId="2" pageNumber="213">Swezey</location>
+and Usinger. Fourteen specimens, five retained in 
+<collectingCountry id="83C81D9FFF88FFE6E7FEFED88C07FE4C" box="[765,857,372,414]" name="United States of America" pageId="2" pageNumber="213">U. S.</collectingCountry>
+National Museum.
+</materialsCitation>
+<materialsCitation id="4BB75752FF88FFE6E1C8FED88AB1FE03" ID-GBIF-Occurrence="3901262303" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="2" pageNumber="213" specimenCount="4">
+There are 
+<specimenCount id="EDD99686FF88FFE6E08BFED889CEFE4C" box="[1416,1680,372,414]" pageId="2" pageNumber="213" type="generic">four specimens</specimenCount>
+in 
+<collectorName id="562A38D9FF88FFE6E44DFE0B8D2DFE03" box="[334,627,423,465]" pageId="2" pageNumber="213">Bishop Museum</collectorName>
+, collected by 
+<collectorName id="562A38D9FF88FFE6E66FFE0B8B51FE03" box="[876,1039,423,465]" pageId="2" pageNumber="213">Fullaway</collectorName>
+in 1911. A scale parasite.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

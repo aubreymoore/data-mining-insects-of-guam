@@ -1,0 +1,117 @@
+<document id="4528C9921480E845C6A4C9D9D166DE47" ID-DOI="http://doi.org/10.5281/zenodo.5174008" ID-GBIF-Dataset="62345736-dcf6-4c38-a870-36a90992dabb" ID-Zenodo-Dep="5174008" checkinTime="1628020725273" checkinUser="carolina" docAuthor="Metcalf, Z. P." docDate="1946" docId="416187EDEB44FFE2FE034E5B8E52F465" docLanguage="en" docName="InsectsOfGuamII.189.105-148.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Bythoscopus viridofiavidus, new species" docType="treatment" docVersion="12" lastPageNumber="136" masterDocId="BD58FF95EB59FFFFFFB04B578875FD6D" masterDocTitle="Homoptera, Fulgoroidea and Jassoidea of Guam" masterLastPageNumber="148" masterPageNumber="105" pageNumber="136" updateTime="1660230191348" updateUser="annettekang">
+<mods:mods id="BA9440841B279A8A489C2274373EAA5E" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="2D03781B785A1365F88850CCCE25FC72">
+<mods:title id="DE373C85964EA5F7BD3B173610C156E0">Homoptera, Fulgoroidea and Jassoidea of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="F7381BA2967E4C32FC2E674871C19500" type="personal">
+<mods:role id="87C05058DE6D0733B317AABD66193EDE">
+<mods:roleTerm id="E6EE9E220AE55F5AA47F44A6CAFB35A9">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1EEB7D1B2AFE6C97E29D3C431376E773">Metcalf, Z. P.</mods:namePart>
+<mods:affiliation id="CA8E0AE943819DB255261B127CE2AB28">College of Agriculture and Engineering, University of North Carolins</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="F1259143E263CB9C0FD8E7E884945FDA">text</mods:typeOfResource>
+<mods:relatedItem id="F9EA1702F96B03F170E3D122FC6CECCA" type="host">
+<mods:originInfo id="C5DB5CEC4E4DDC4C078F88486738C9CB">
+<mods:dateIssued id="5BECDBAB8DC00E1334A989ABB91149E1">1946</mods:dateIssued>
+<mods:dateOther id="58D3D4A9765890D24FAA8AD6331AFC43" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="80E04BBF9F38675DDC9412E1D5501A1B">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="67A1CBDC15D6DA3707F7CFFACC4DA1AC">
+<mods:placeTerm id="1E4E2D356D6CE80D2FAF95B5543071BD">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="3F2A2F8BE1D34B3AB8340FF4C513726B">
+<mods:title id="796B9F99DED591A1CF951E7CE0B09AC3">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="F641EAC3944B6A52087E7D84042C6CCE">
+<mods:extent id="8D1E788C3E7A7ACDE8DFD7D6942A53E1" unit="page">
+<mods:start id="C252DD757195C3D2A1099F50D4912B66">105</mods:start>
+<mods:end id="F895FF460655DC10216A10D860B0166D">148</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="13248EDF3D010D2FAE2D9917A3ABBABC">book chapter</mods:classification>
+<mods:identifier id="0374D01F4B6BADEFE16F67840458E427" type="DOI">http://doi.org/10.5281/zenodo.5174008</mods:identifier>
+<mods:identifier id="62B28474D1AAEA70C5CB5DA2F2F98F6F" type="GBIF-Dataset">62345736-dcf6-4c38-a870-36a90992dabb</mods:identifier>
+<mods:identifier id="4491F11CA09B89D25470B074AA7C5DEA" type="Zenodo-Dep">5174008</mods:identifier>
+</mods:mods>
+<treatment id="416187EDEB44FFE2FE034E5B8E52F465" ID-DOI="http://doi.org/10.5281/zenodo.5186818" ID-GBIF-Taxon="184009009" ID-Zenodo-Dep="5186818" LSID="urn:lsid:plazi:treatment:416187EDEB44FFE2FE034E5B8E52F465" httpUri="http://treatment.plazi.org/id/416187EDEB44FFE2FE034E5B8E52F465" lastPageNumber="136" pageId="29" pageNumber="136">
+<subSubSection id="81D26570EB44FFE2FE034E5B8DB2F85B" box="[435,1479,1292,1334]" pageId="29" pageNumber="136" type="nomenclature">
+<paragraph id="C97736FBEB44FFE2FE034E5B8DB2F85B" blockId="29.[434,1836,1292,2114]" box="[435,1479,1292,1334]" pageId="29" pageNumber="136">
+<heading id="923F8197EB44FFE2FE034E5B8DB2F85B" box="[435,1479,1292,1334]" fontSize="11" level="2" pageId="29" pageNumber="136" reason="2">
+<emphasis id="FBBCEAE9EB44FFE2FE034E5B8B9EF85B" bold="true" box="[435,1003,1292,1334]" pageId="29" pageNumber="136">
+1. 
+<taxonomicName id="0EC84D78EB44FFE2FE404E5B8B90F85B" authority="METCALF" box="[496,997,1292,1334]" class="Insecta" family="Bythoscopidae" genus="Bythoscopus" higherTaxonomySource="CoL" kingdom="Animalia" order="Lepidoptera" pageId="29" pageNumber="136" phylum="Arthropoda" rank="species" species="viridofiavidus" status="new species">Bythoscopus viridofiavidus</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="E08F5792EB44FFE2FC484E5B8CBFF85B" box="[1016,1226,1292,1334]" pageId="29" pageNumber="136" rank="species">new species</taxonomicNameLabel>
+(fig. 21, 
+<emphasis id="FBBCEAE9EB44FFE2FAC34E5B8DB2F85B" box="[1395,1479,1292,1334]" italics="true" pageId="29" pageNumber="136">a-c).</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB44FFE2FE474E108D96F52F" pageId="29" pageNumber="136" type="description">
+<paragraph id="C97736FBEB44FFE2FE474E108A28F8D2" blockId="29.[434,1836,1292,2114]" pageId="29" pageNumber="136">General color olive-yellow fading to ochraceous buff. Head including eyes broader than pronotum. Female genital segment broadly excavated. Male plate broadly produced posteriorly.</paragraph>
+<paragraph id="C97736FBEB44FFE2FE474E9E8DABFB8A" blockId="29.[434,1836,1292,2114]" pageId="29" pageNumber="136">Crown of head very short, nearly eight times as broad as long; face including anteclypeus about as long as broad; juga narrow, elongate reaching to the base of the antennae; genae broad, the outer margins broadly curved; anteclypeus short and broad, about twice as long as its greatest width. Pronotum twice as broad as its median length; the whole surface finely rugulose; anterior margin broadly curved projecting only slightly in front of the posterior-interior angle of the compound eyes, curving imperceptibly into the anterior-lateral margin; posterior margin very shallowly excavated.</paragraph>
+<paragraph id="C97736FBEB44FFE2FE484DA68B1BFAD6" blockId="29.[434,1836,1292,2114]" pageId="29" pageNumber="136">Female genitalia: last ventral segment with the median length nearly twice as long as the median length of the penultimate segment; the posterior margin broadly excavated; pygofer elongate, robust, not exceeded by the ovipositor or the ovipositor sheath, exceeded, however, by the conical anal spines. Male genitalia: plates strongly produced, more than half as long as the pygofer.</paragraph>
+<paragraph id="C97736FBEB44FFE2FE474C918E5DF57E" blockId="29.[434,1836,1292,2114]" pageId="29" pageNumber="136">General color olive-yellow; ~ompound eyes brown; tegmina translucent, almost transparent; the claval suture and the commisural margin embrowned.</paragraph>
+<paragraph id="C97736FBEB44FFE2FE4A43498D96F52F" blockId="29.[434,1836,1292,2114]" box="[506,1507,2078,2114]" pageId="29" pageNumber="136">
+Length: to apex of tegmina, female 
+<quantity id="0E309B1EEB44FFE2FBE043498CA4F52F" box="[1104,1233,2078,2114]" metricMagnitude="-3" metricUnit="m" metricValue="4.5" pageId="29" pageNumber="136" unit="mm" value="4.5">4.5 mm</quantity>
+.; male, 
+<quantity id="0E309B1EEB44FFE2FAE643498DAAF52F" box="[1366,1503,2078,2114]" metricMagnitude="-3" metricUnit="m" metricValue="3.45" pageId="29" pageNumber="136" unit="mm" value="3.45">3.45 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB44FFE2FE4443208E52F465" pageId="29" pageNumber="136" type="description">
+<paragraph id="C97736FBEB44FFE2FE4443208E52F465" blockId="29.[437,1835,2167,2312]" pageId="29" pageNumber="136">
+<materialsCitation id="79A03CA6EB44FFE2FE4443208D47F5CC" ID-GBIF-Occurrence="3332978343" box="[500,1330,2167,2209]" collectingDate="1936-05-21" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="29" pageNumber="136" specimenCount-male="1" typeStatus="holotype">
+<typeStatus id="16738859EB44FFE2FE4443208AECF5CC" box="[500,665,2167,2209]" pageId="29" pageNumber="136">Holotype</typeStatus>
+male, 
+<location id="CC176020EB44FFE2FCA743208BA9F5CC" LSID="urn:lsid:plazi:treatment:416187EDEB44FFE2FE034E5B8E52F465:CC176020EB44FFE2FCA743208BA9F5CC" box="[791,988,2167,2209]" name="Mt. Alifan" pageId="29" pageNumber="136">Mt. Alifan</location>
+, 
+<date id="BD76103BEB44FFE2FC4743208CF7F5CC" box="[1015,1154,2167,2209]" pageId="29" pageNumber="136" value="2021-05">
+<collectingDate id="AD32E9D3EB44FFE2FC4743208CF7F5CC" box="[1015,1154,2167,2209]" pageId="29" pageNumber="136" value="2021-05">May 21</collectingDate>
+</date>
+, Swezey;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB44FFE2FAF443208AA7F5B9" ID-GBIF-Occurrence="3881969305" collectingDate="1936-08-06" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="29" pageNumber="136" specimenCount-female="1" typeStatus="allotype">
+<typeStatus id="16738859EB44FFE2FAF443208DBBF5CC" box="[1348,1486,2167,2209]" pageId="29" pageNumber="136">allotype</typeStatus>
+female, Machanao, 
+<date id="BD76103BEB44FFE2FE0543FC8A5AF5B9" box="[437,559,2219,2260]" pageId="29" pageNumber="136">
+<collectingDate id="AD32E9D3EB44FFE2FE0543FC8A5AF5B9" box="[437,559,2219,2260]" pageId="29" pageNumber="136">Aug. 6</collectingDate>
+</date>
+, Swezey.
+</materialsCitation>
+<materialsCitation id="79A03CA6EB44FFE2FD5243FC8AC5F465" ID-GBIF-Occurrence="3881969328" collectedFrom="from Piper guahamense" collectingDate="1936-05-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="29" pageNumber="136" specimenCount-female="1" typeStatus="paratype">
+<typeStatus id="16738859EB44FFE2FD5243FC8BEEF5B9" box="[738,923,2219,2260]" pageId="29" pageNumber="136">Paratypes</typeStatus>
+: 
+<specimenCount id="DFCEFD72EB44FFE2FC1F43FC8C07F5B9" box="[943,1138,2219,2260]" pageId="29" pageNumber="136" type="female">one female</specimenCount>
+, Dededo, 
+<date id="BD76103BEB44FFE2FA9443FC8DDEF5B9" box="[1316,1451,2219,2260]" pageId="29" pageNumber="136" value="2011-05">
+<collectingDate id="AD32E9D3EB44FFE2FA9443FC8DDEF5B9" box="[1316,1451,2219,2260]" pageId="29" pageNumber="136" value="2011-05">May 11</collectingDate>
+</date>
+, from 
+<emphasis id="FBBCEAE9EB44FFE2F99543FC8A7FF465" italics="true" pageId="29" pageNumber="136">
+<taxonomicName id="0EC84D78EB44FFE2F99543FC8A71F465" authority=", Swezey" authorityName="Swezey" class="Magnoliopsida" family="Piperaceae" genus="Piper" kingdom="Plantae" order="Piperales" pageId="29" pageNumber="136" phylum="Tracheophyta" rank="species" species="guahamense">Piper guahamense</taxonomicName>
+,
+</emphasis>
+Swezey;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB44FFE2FD71438A8E54F465" ID-GBIF-Occurrence="3332978392" box="[705,1569,2269,2312]" collectingDate="1936-04-20" collectorName="E. H. Bryan, Jr." country="Guam" location="Mount Alifan" pageId="29" pageNumber="136" specimenCount-male="1">
+<specimenCount id="DFCEFD72EB44FFE2FD71438A8B15F465" box="[705,864,2269,2312]" pageId="29" pageNumber="136" type="male">one male</specimenCount>
+, 
+<location id="CC176020EB44FFE2FCC6438A8C4FF465" LSID="urn:lsid:plazi:treatment:416187EDEB44FFE2FE034E5B8E52F465:CC176020EB44FFE2FCC6438A8C4FF465" box="[886,1082,2269,2312]" name="Mt. Alifan" pageId="29" pageNumber="136">Mt. Alifan</location>
+, 
+<date id="BD76103BEB44FFE2FBE0438A8C9DF465" box="[1104,1256,2269,2312]" pageId="29" pageNumber="136" value="2020-04">
+<collectingDate id="AD32E9D3EB44FFE2FBE0438A8C9DF465" box="[1104,1256,2269,2312]" pageId="29" pageNumber="136" value="2020-04">April 20</collectingDate>
+</date>
+, 
+<collectorName id="643D532DEB44FFE2FB4F438A8D96F465" box="[1279,1507,2269,2312]" pageId="29" pageNumber="136">E. H. Bryan</collectorName>
+, Jr
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

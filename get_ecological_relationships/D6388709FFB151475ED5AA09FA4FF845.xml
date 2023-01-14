@@ -1,0 +1,147 @@
+<document id="7E3BE052CBA74D9C40E146BE1F7D735A" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFB151475ED5AA09FA4FF845" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Oxydema fusiforme Wollaston." docType="treatment" docVersion="20" lastPageNumber="138" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="138" updateTime="1671248003764" updateUser="annettekang">
+<mods:mods id="840BC3E9B6EC65AAA98CBF6D1340D815" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="19AE085565405778B1D72FD9F6DC75B1">
+<mods:title id="99D7FD0EE0C0DE04F028F3B652D17203">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="1B6D41EAA4B9A01A3CE50060237D9CF5" type="personal">
+<mods:role id="5D6030604590897872263505AF293E76">
+<mods:roleTerm id="4A0A1B418847FFEA320B11FFD3EFA98D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9DB431832FC990211EFD9B1E0C2ECC70">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="550D10F4A16D888B5E4E2CE1B7A23404">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="89C21DD58559DA7012F958B22E6CBF2C">text</mods:typeOfResource>
+<mods:relatedItem id="4C7F84C0B2A7840CBB6770B8C2818CBE" type="host">
+<mods:originInfo id="DCF564640A81B877029947D11B69850D">
+<mods:dateIssued id="59D0FCED6096F48AA201CEC6473A3E5B">1942</mods:dateIssued>
+<mods:dateOther id="A39DEB213295321A66F4A3D1732AE1AA" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="B710658EBB9A75304B8B5DF07D4223B4">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="34342A58E3B1011FD83A59C377EF5C05">
+<mods:placeTerm id="21734C74A6E19D99B0A311CDC78B4284">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="3A70576CD262762743439868B91EE1E1">
+<mods:title id="443650F261EC48A011129DC250E6DBB2">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="F12CF7DC5A46C98AE73688AB9669313F">
+<mods:extent id="D8CF405CB9845F84B2598D1AD325623F" unit="page">
+<mods:start id="E8277580F89999134843579C1022D901">73</mods:start>
+<mods:end id="7974984FA5270A80A1D5D9289DEA49D6">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F2928D18CDBD93A58471FAF699C5E1A7">book chapter</mods:classification>
+<mods:identifier id="62F867BD55E567BF877A86693229DE06" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="1B76B016CAB493C2B77E5920E3BA6F3E" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="A2F5C7B7FBB929B2D61C11AF07629318" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFB151475ED5AA09FA4FF845" ID-DOI="http://doi.org/10.5281/zenodo.5169647" ID-GBIF-Taxon="184097923" ID-Zenodo-Dep="5169647" LSID="urn:lsid:plazi:treatment:D6388709FFB151475ED5AA09FA4FF845" httpUri="http://treatment.plazi.org/id/D6388709FFB151475ED5AA09FA4FF845" lastPageNumber="138" pageId="65" pageNumber="138">
+<subSubSection id="168B6594FFB151475ED5AA09FB2DFAEC" box="[398,1239,1363,1402]" pageId="65" pageNumber="138" type="nomenclature">
+<paragraph id="5E2E361FFFB151475ED5AA09FB2DFAEC" blockId="65.[397,1792,1363,2003]" box="[398,1239,1363,1402]" pageId="65" pageNumber="138">
+<heading id="05668173FFB151475ED5AA09FB2DFAEC" box="[398,1239,1363,1402]" fontSize="8" level="2" pageId="65" pageNumber="138" reason="4">
+39. 
+<taxonomicName id="99914D9CFFB151475EBAAA09FBEEFAEC" authority="Wollaston" authorityName="Wollaston." box="[481,1044,1363,1402]" class="Insecta" family="Curculionidae" genus="Oxydema" kingdom="Animalia" order="Coleoptera" pageId="65" pageNumber="138" phylum="Arthropoda" rank="species" species="fusiforme">
+<emphasis id="6CE5EA0DFFB151475EBAAA09FCB6FAEC" bold="true" box="[481,844,1363,1402]" pageId="65" pageNumber="138">Oxydema fusiforme</emphasis>
+Wollaston
+</taxonomicName>
+(pl. 4, B).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB151475E94AAD6FA79F9FC" pageId="65" pageNumber="138" type="reference_group">
+<paragraph id="5E2E361FFFB151475E94AAD6F93AFA21" blockId="65.[397,1792,1363,2003]" box="[463,1728,1420,1463]" pageId="65" pageNumber="138">
+<treatmentCitationGroup id="7E811131FFB151475E94AAD6F93AFA21" box="[463,1728,1420,1463]" pageId="65" pageNumber="138">
+<treatmentCitation id="DF30100EFFB151475E94AAD6F93AFA21" author="Wollaston" box="[463,1728,1420,1463]" page="632" pageId="65" pageNumber="138" year="1873">
+<bibCitation id="8BBB3E73FFB151475E94AAD6F93AFA21" author="Wollaston" box="[463,1728,1420,1463]" journalOrPublisher="Ent. Soc. London, Trans" pageId="65" pageNumber="138" pagination="632" refId="ref45037" type="journal article" year="1873">
+<taxonomicName id="99914D9CFFB151475E94AAD6FBF3FA21" box="[463,1033,1420,1463]" pageId="65" pageNumber="138">
+<emphasis id="6CE5EA0DFFB151475E94AAD6FCBBFA21" box="[463,833,1420,1463]" italics="true" pageId="65" pageNumber="138">0xydema fusiformis</emphasis>
+<author id="862CDEFAFFB151475C09AAD6FBF3FA21" box="[850,1033,1420,1463]" pageId="65" pageNumber="138">Wollaston</author>
+</taxonomicName>
+, 
+<journalOrPublisher id="84503CD3FFB151475B79AAD6FA14FA21" box="[1058,1518,1420,1463]" pageId="65" pageNumber="138">Ent. Soc. London, Trans</journalOrPublisher>
+., 
+<pagination id="6758C8EBFFB151475957AAD6F9B7FA21" box="[1548,1613,1420,1463]" pageId="65" pageNumber="138" type="pageRange">632</pagination>
+, 
+<year id="2A39774CFFB151475932AAD6F941FA21" box="[1641,1723,1420,1463]" pageId="65" pageNumber="138">1873</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFB151475E94AA92FD04F98D" blockId="65.[397,1792,1363,2003]" pageId="65" pageNumber="138">
+<treatmentCitationGroup id="7E811131FFB151475E94AA92FD04F98D" pageId="65" pageNumber="138">
+<treatmentCitation id="DF30100EFFB151475E94AA92FD04F98D" author="Wollaston" page="484" pageId="65" pageNumber="138" year="1914">
+<bibCitation id="8BBB3E73FFB151475E94AA92FD04F98D" author="Wollaston" journalOrPublisher="Champion, Linn. Soc. London, Trans." pageId="65" pageNumber="138" pagination="484" part="16" refId="ref45055" type="journal article" year="1914">
+<emphasis id="6CE5EA0DFFB151475E94AA92FCCFFA64" box="[463,821,1480,1522]" italics="true" pageId="65" pageNumber="138">
+0 
+<taxonomicName id="99914D9CFFB151475EBFAA92FC04FA64" box="[484,1022,1480,1522]" pageId="65" pageNumber="138">
+xydema fusifortne 
+<author id="862CDEFAFFB151475C1CAA92FC04FA64" box="[839,1022,1480,1522]" pageId="65" pageNumber="138">Wollaston</author>
+</taxonomicName>
+</emphasis>
+, 
+<journalOrPublisher id="84503CD3FFB151475B4CAA92F93BFA64" box="[1047,1729,1480,1522]" pageId="65" pageNumber="138">Champion, Linn. Soc. London, Trans.</journalOrPublisher>
+II, 
+<emphasis id="6CE5EA0DFFB151475D50AAA7FDBBF98D" bold="true" box="[523,577,1533,1563]" pageId="65" pageNumber="138">
+<part id="2A359C82FFB151475D50AAA7FDCAF98D" box="[523,560,1533,1563]" pageId="65" pageNumber="138" type="volume">16</part>
+:
+</emphasis>
+<pagination id="6758C8EBFFB151475D15AAA7FD7DF98D" box="[590,647,1533,1563]" pageId="65" pageNumber="138" type="pageRange">484</pagination>
+, 
+<year id="2A39774CFFB151475DFCAAA7FD03F98D" box="[679,761,1533,1563]" pageId="65" pageNumber="138">1914</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFB151475E90A946FA79F9FC" blockId="65.[397,1792,1363,2003]" box="[459,1411,1564,1642]" pageId="65" pageNumber="138">
+<treatmentCitationGroup id="7E811131FFB151475E90A946FA79F9FC" box="[459,1411,1564,1642]" pageId="65" pageNumber="138">
+<treatmentCitation id="DF30100EFFB151475E90A946FA79F9FC" author="Perkins" box="[459,1411,1564,1642]" page="149" pageId="65" pageNumber="138" year="1900">
+Pseudolits hospes 
+<author id="862CDEFAFFB151475C44A946FC4EF9FC" box="[799,948,1564,1642]" pageId="65" pageNumber="138">Perkins</author>
+, 
+<journalOrPublisher id="84503CD3FFB151475CE0A946FB6AF9FC" box="[955,1168,1564,1642]" pageId="65" pageNumber="138">Fauna Haw</journalOrPublisher>
+. 
+<part id="2A359C82FFB151475BCDA946FB56F9FC" box="[1174,1196,1564,1642]" pageId="65" pageNumber="138" type="volume">2</part>
+: 
+<pagination id="6758C8EBFFB151475B8DA946FADFF9FC" box="[1238,1317,1564,1642]" pageId="65" pageNumber="138" type="pageRange">149,</pagination>
+<year id="2A39774CFFB151475A7EA946FA84F9FC" box="[1317,1406,1564,1642]" pageId="65" pageNumber="138">190 0</year>
+.
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB151475E97A929FDBEF8A5" pageId="65" pageNumber="138" type="distribution">
+<paragraph id="5E2E361FFFB151475E97A929FDBEF8A5" blockId="65.[397,1792,1363,2003]" pageId="65" pageNumber="138">
+This species is recorded from the 
+<collectingCountry id="2686768FFFB151475B74A929FB1BF90B" box="[1071,1249,1651,1693]" name="Seychelles" pageId="65" pageNumber="138">Seychelles</collectingCountry>
+and 
+<collectingCountry id="2686768FFFB151475A1AA929FA46F90B" box="[1345,1468,1651,1693]" name="Sri Lanka" pageId="65" pageNumber="138">Ceylon</collectingCountry>
+, and it has a wide distribution in the Pacific. It is probably found on most of the islands of Polynesia. Its dissemination has been accomplished mostly by the aid of commerce.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB151475E97A819FA4FF845" pageId="65" pageNumber="138" type="materials_examined">
+<paragraph id="5E2E361FFFB151475E97A819FA4FF845" blockId="65.[397,1792,1363,2003]" pageId="65" pageNumber="138">
+<materialsCitation id="EEF93C42FFB151475E97A819FAD4F80B" ID-GBIF-Occurrence="3333874421" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="65" pageNumber="138" specimenCount="1">
+<location id="5B4E60C4FFB151475E97A819FDEBF8FD" LSID="urn:lsid:plazi:treatment:D6388709FFB151475ED5AA09FA4FF845:5B4E60C4FFB151475E97A819FDEBF8FD" box="[460,529,1859,1899]" country="Guam" municipality="Fullaway" name="The" pageId="65" pageNumber="138">The</location>
+following specimens are in the 
+<collectingCountry id="2686768FFFB151475BDCA819FB15F8FD" box="[1159,1263,1859,1899]" name="Guam" pageId="65" pageNumber="138">Guam</collectingCountry>
+collections before me: one labeled &quot;Island of 
+<collectingCountry id="2686768FFFB151475DA9A82FFCA6F80B" box="[754,860,1909,1949]" name="Guam" pageId="65" pageNumber="138">Guam</collectingCountry>
+&quot;, no. &quot;1373&quot;, 
+<collectingMunicipality id="BE4AAC65FFB151475B27A82FFADDF80B" box="[1148,1319,1909,1949]" pageId="65" pageNumber="138">Fullaway</collectingMunicipality>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFB151475A1CA82FFA4FF845" ID-GBIF-Occurrence="3333874315" collectedFrom="from diseased papaya stalk" collectingDate="1937-06-24" collectorName="R. G. Oakley" country="Guam" location="Guam" pageId="65" pageNumber="138" specimenCount="20">
+and 
+<specimenCount id="4897FD96FFB151475AC6A82FF970F80B" box="[1437,1674,1909,1949]" pageId="65" pageNumber="138" type="generic">20 specimens</specimenCount>
+taken from diseased papaya stalk, 
+<date id="2A2F10DFFFB151475CDEA8F3FB84F845" box="[901,1150,1961,2003]" pageId="65" pageNumber="138" value="1937-06-24">
+<collectingDate id="3A6BE937FFB151475CDEA8F3FB84F845" box="[901,1150,1961,2003]" pageId="65" pageNumber="138" value="1937-06-24">June 24, 1937</collectingDate>
+</date>
+, Oakley, no. 841.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

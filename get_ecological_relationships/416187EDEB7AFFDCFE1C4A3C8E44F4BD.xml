@@ -1,0 +1,123 @@
+<document id="5BF75417151BBF4FFA3FE0223259E9F0" ID-DOI="http://doi.org/10.5281/zenodo.5174008" ID-GBIF-Dataset="62345736-dcf6-4c38-a870-36a90992dabb" ID-Zenodo-Dep="5174008" checkinTime="1628020725273" checkinUser="carolina" docAuthor="Metcalf, Z. P." docDate="1946" docId="416187EDEB7AFFDCFE1C4A3C8E44F4BD" docLanguage="en" docName="InsectsOfGuamII.189.105-148.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Empoasca macarangae Metcalf, 1946, new species" docType="treatment" docVersion="12" lastPageNumber="142" masterDocId="BD58FF95EB59FFFFFFB04B578875FD6D" masterDocTitle="Homoptera, Fulgoroidea and Jassoidea of Guam" masterLastPageNumber="148" masterPageNumber="105" pageNumber="142" updateTime="1660233399945" updateUser="annettekang">
+<mods:mods id="0839302346AF5DFFB4612B23D7DE4C4F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="1DE90EAAE571BD71953758DEAFBBB724">
+<mods:title id="AE0806292AB8BF35175C3BF938E41440">Homoptera, Fulgoroidea and Jassoidea of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="B854CAB24ADECC508B384E88A3E45F09" type="personal">
+<mods:role id="ED5E6DDE408DBC24856194075F96D8C9">
+<mods:roleTerm id="B64425989392E5C4A6961F7962E217A9">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D44338691902E6B3B930558A03EDE969">Metcalf, Z. P.</mods:namePart>
+<mods:affiliation id="37A99249D9B74856011C6AAF1052454A">College of Agriculture and Engineering, University of North Carolins</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="62D23111236B539964C1CDB2E567D2BE">text</mods:typeOfResource>
+<mods:relatedItem id="CB378C1548081088C661271B7AA4DCCB" type="host">
+<mods:originInfo id="2FC15682B5E6A5E17EDC566EABA3E437">
+<mods:dateIssued id="C8DB808FE3120AD66BE85E2B925864ED">1946</mods:dateIssued>
+<mods:dateOther id="8C052790FCD943966D0E7FFC6D77CD2E" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="79CE397B6C2C2F477C1FE2996228177D">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="128BEC8106A3448AC6E3FB366377F263">
+<mods:placeTerm id="9B2ECFB2332677B251289C84AD2BE366">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="D0FE25DC6088EC4AAF86FDAE8AED5CE2">
+<mods:title id="08337019EBA501995C7943C597E950A0">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="76A489BBF9C3C02F02A418873E4E6344">
+<mods:extent id="98FD7B8EDB3EACB7D855A18A0166870A" unit="page">
+<mods:start id="3653389C41DB8A99D1B1BB1308196E59">105</mods:start>
+<mods:end id="82E7CAE4F535A7240010B23D711EF924">148</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="487712C0B721DC48EE75DA36352F7A34">book chapter</mods:classification>
+<mods:identifier id="C77D1FDDB90398242C2E40A3BEF773B0" type="DOI">http://doi.org/10.5281/zenodo.5174008</mods:identifier>
+<mods:identifier id="3A2857075A6CDCDF7FFA758BEB9F349F" type="GBIF-Dataset">62345736-dcf6-4c38-a870-36a90992dabb</mods:identifier>
+<mods:identifier id="7EFC0C2BE8805A9D6F56D345DA25932F" type="Zenodo-Dep">5174008</mods:identifier>
+</mods:mods>
+<treatment id="416187EDEB7AFFDCFE1C4A3C8E44F4BD" ID-DOI="http://doi.org/10.5281/zenodo.5157565" ID-GBIF-Taxon="184008998" ID-Zenodo-Dep="5157565" LSID="urn:lsid:plazi:treatment:416187EDEB7AFFDCFE1C4A3C8E44F4BD" httpUri="http://treatment.plazi.org/id/416187EDEB7AFFDCFE1C4A3C8E44F4BD" lastPageNumber="142" pageId="35" pageNumber="142">
+<subSubSection id="81D26570EB7AFFDCFE1C4A3C8DF4FCFB" box="[428,1409,363,406]" pageId="35" pageNumber="142" type="nomenclature">
+<paragraph id="C97736FBEB7AFFDCFE1C4A3C8DF4FCFB" blockId="35.[428,1827,363,905]" box="[428,1409,363,406]" pageId="35" pageNumber="142">
+<heading id="923F8197EB7AFFDCFE1C4A3C8DF4FCFB" box="[428,1409,363,406]" fontSize="11" level="2" pageId="35" pageNumber="142" reason="2">
+<emphasis id="FBBCEAE9EB7AFFDCFE1C4A3C8BE0FCFB" bold="true" box="[428,917,363,406]" pageId="35" pageNumber="142">
+4. 
+<taxonomicName id="0EC84D78EB7AFFDCFE5B4A3C8BFBFCFB" authorityName="Metcalf" authorityYear="1946" box="[491,910,363,406]" class="Insecta" family="Cicadellidae" genus="Empoasca" kingdom="Animalia" order="Hemiptera" pageId="35" pageNumber="142" phylum="Arthropoda" rank="species" species="macarangae" status="new species">Empoasca macarangae</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="E08F5792EB7AFFDCFC144A3C8C03FCFB" box="[932,1142,363,406]" pageId="35" pageNumber="142" rank="species">new species</taxonomicNameLabel>
+(fig. 26, 
+<emphasis id="FBBCEAE9EB7AFFDCFA924A3C8D4BFCFB" box="[1314,1342,363,406]" italics="true" pageId="35" pageNumber="142">a,</emphasis>
+b).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB7AFFDCFE404AF08E5DFEE4" pageId="35" pageNumber="142" type="description">
+<paragraph id="C97736FBEB7AFFDCFE404AF08E3DFC9F" blockId="35.[428,1827,363,905]" pageId="35" pageNumber="142">A pale greenish-yellow species with an obtuse, slightly subangulate vertex which is not quite as long as the pronotum; mesonotum longer than the pronotum.</paragraph>
+<paragraph id="C97736FBEB7AFFDCFE414AA88C9EFE37" blockId="35.[428,1827,363,905]" pageId="35" pageNumber="142">Female genitalia: last ventral segment elongate, longer than broad; the posterior margin produced at the median half, nearly straight. External male genitalia: plates very long, longer than the anal spine, gradually divergent; inner margin nearly straight, the outer margin and dorsal margin slightly sinuate; apices obtuse, with a number of stout spines; tenth segment with a short, recurved spine. Internal male genitalia: aedeagus very short, only about a fourth as long as the genital plates; genital style elongate, narrow, about half as long as the genital plates; apex deflected to a short acute spine which is directed laterad; lateral processes about as long as the genital style, converging, slender, the tips produced into a slender acute spine.</paragraph>
+<paragraph id="C97736FBEB7AFFDCFE4148318E5DFEE4" blockId="35.[428,1827,363,905]" box="[497,1576,870,905]" pageId="35" pageNumber="142">
+Length: to apex of tegmina, 
+<quantity id="0E309B1EEB7AFFDCFC7348318C25FEE4" box="[963,1104,870,905]" metricMagnitude="-3" metricUnit="m" metricValue="3.25" pageId="35" pageNumber="142" unit="mm" value="3.25">3.25 mm</quantity>
+.; to tip of abdomen, 
+<quantity id="0E309B1EEB7AFFDCFA2E48318E51FEE4" box="[1438,1572,870,905]" metricMagnitude="-3" metricUnit="m" metricValue="2.75" pageId="35" pageNumber="142" unit="mm" value="2.75">2.75 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<caption id="9DB76673EB7AFFDCFE4243F08B69F59C" ID-DOI="http://doi.org/10.5281/zenodo.5174063" ID-Zenodo-Dep="5174063" httpUri="https://zenodo.org/record/5174063/files/figure.png" pageId="35" pageNumber="142" startId="35.[498,522,2215,2250]" targetBox="[732,1515,986,2182]" targetPageId="35">
+<paragraph id="C97736FBEB7AFFDCFE4243F08B69F59C" blockId="35.[429,1826,2215,2289]" pageId="35" pageNumber="142">
+F1cuat 
+<emphasis id="FBBCEAE9EB7AFFDCFDC243F08B23F5A7" box="[626,854,2215,2250]" italics="true" pageId="35" pageNumber="142">26.-Empoasm</emphasis>
+TODO 
+<emphasis id="FBBCEAE9EB7AFFDCFBF643F08CAEF5AE" box="[1094,1243,2215,2243]" italics="true" pageId="35" pageNumber="142">macarangae:</emphasis>
+a,lateral TODO viewof malegenitalia; b, ventral TODO TODO view of male genitalia.
+</paragraph>
+</caption>
+<subSubSection id="81D26570EB7AFFDCFE5D42688E44F4BD" pageId="35" pageNumber="142" type="materials_examined">
+<paragraph id="C97736FBEB7AFFDCFE5D42688E44F4BD" blockId="35.[429,1827,2367,2512]" pageId="35" pageNumber="142">
+<materialsCitation id="79A03CA6EB7AFFDCFE5D42688EB6F404" ID-GBIF-Occurrence="3332978373" box="[493,1731,2367,2409]" collectedFrom="from Macaranga sp." collectingDate="1936-05-21" collectorName="R. L. Usinger" country="Guam" location="Mount Alifan" pageId="35" pageNumber="142" specimenCount-male="1" typeStatus="holotype">
+<typeStatus id="16738859EB7AFFDCFE5D42688AE5F404" box="[493,656,2367,2409]" pageId="35" pageNumber="142">Holotype</typeStatus>
+male, 
+<location id="CC176020EB7AFFDCFCA042688BA2F404" LSID="urn:lsid:plazi:treatment:416187EDEB7AFFDCFE1C4A3C8E44F4BD:CC176020EB7AFFDCFCA042688BA2F404" box="[784,983,2367,2409]" county="Mt. Alifan" municipality="Usinger" name="Mt. Alifan" pageId="35" pageNumber="142">Mt. Alifan</location>
+, 
+<date id="BD76103BEB7AFFDCFC4142688C0BF404" box="[1009,1150,2367,2409]" pageId="35" pageNumber="142" value="2021-05">
+<collectingDate id="AD32E9D3EB7AFFDCFC4142688C0BF404" box="[1009,1150,2367,2409]" pageId="35" pageNumber="142" value="2021-05">May 21</collectingDate>
+</date>
+, from 
+<taxonomicName id="0EC84D78EB7AFFDCFAB242688E7FF404" box="[1282,1546,2367,2409]" class="Magnoliopsida" family="Euphorbiaceae" genus="Macaranga" kingdom="Plantae" order="Malpighiales" pageId="35" pageNumber="142" phylum="Tracheophyta" rank="species" species="undetermined">
+<emphasis id="FBBCEAE9EB7AFFDCFAB242688DBDF404" box="[1282,1480,2367,2409]" italics="true" pageId="35" pageNumber="142">Macaranga</emphasis>
+sp.
+</taxonomicName>
+, 
+<location id="CC176020EB7AFFDCF99642688EC9F404" LSID="urn:lsid:plazi:treatment:416187EDEB7AFFDCFE1C4A3C8E44F4BD:CC176020EB7AFFDCF99642688EC9F404" box="[1574,1724,2367,2409]" county="Mt. Alifan" municipality="Usinger" name="Usinger" pageId="35" pageNumber="142">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB7AFFDCF96742688CABF4F0" ID-GBIF-Occurrence="3332978359" collectingDate="1936-05-21" collectorName="R. L. Usinger" country="Guam" location="Mount Alifan" pageId="35" pageNumber="142" specimenCount-female="1" typeStatus="allotype">
+<typeStatus id="16738859EB7AFFDCF96742688982F4F0" pageId="35" pageNumber="142">allotype</typeStatus>
+female, 
+<location id="CC176020EB7AFFDCFD1642258B04F4F0" LSID="urn:lsid:plazi:treatment:416187EDEB7AFFDCFE1C4A3C8E44F4BD:CC176020EB7AFFDCFD1642258B04F4F0" box="[678,881,2418,2461]" county="Mt. Alifan" municipality="Usinger" name="Mt. Alifan" pageId="35" pageNumber="142">Mt. Alifan</location>
+, 
+<date id="BD76103BEB7AFFDCFC2142258C54F4F0" box="[913,1057,2418,2461]" pageId="35" pageNumber="142" value="2021-05">
+<collectingDate id="AD32E9D3EB7AFFDCFC2142258C54F4F0" box="[913,1057,2418,2461]" pageId="35" pageNumber="142" value="2021-05">May 21</collectingDate>
+</date>
+, 
+<collectingMunicipality id="2913AC81EB7AFFDCFB8F42258CA2F4F0" box="[1087,1239,2418,2461]" pageId="35" pageNumber="142">Usinger</collectingMunicipality>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB7AFFDCFB4642258E44F4BD" ID-GBIF-Occurrence="3332978389" collectedFrom="from Macaranga sp." collectingDate="1936" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Mount Alifan" pageId="35" pageNumber="142" specimenCount="10" specimenCount-female="6" specimenCount-male="4" typeStatus="paratypes">
+<typeStatus id="16738859EB7AFFDCFB4642258DD4F4F0" box="[1270,1441,2418,2461]" pageId="35" pageNumber="142">paratypes</typeStatus>
+, 
+<specimenCount id="DFCEFD72EB7AFFDCFA7042258EF6F4F0" box="[1472,1667,2418,2461]" pageId="35" pageNumber="142" type="male">four males</specimenCount>
+and 
+<specimenCount id="DFCEFD72EB7AFFDCF94142258A42F4BD" pageId="35" pageNumber="142" type="female">six females</specimenCount>
+, 
+<collectingCounty id="20164E77EB7AFFDCFDE142F28B63F4BD" box="[593,790,2469,2512]" pageId="35" pageNumber="142">Mt. Alifan</collectingCounty>
+, from 
+<taxonomicName id="0EC84D78EB7AFFDCFC2642F28CEBF4BD" box="[918,1182,2469,2512]" class="Magnoliopsida" family="Euphorbiaceae" genus="Macaranga" kingdom="Plantae" order="Malpighiales" pageId="35" pageNumber="142" phylum="Tracheophyta" rank="species" species="undetermined">
+<emphasis id="FBBCEAE9EB7AFFDCFC2642F28C29F4BD" box="[918,1116,2469,2512]" italics="true" pageId="35" pageNumber="142">Macaranga</emphasis>
+sp.
+</taxonomicName>
+, Swezey and Usinger.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,102 @@
+<document id="6B7F7F709B5ADAE4903B0D2730249300" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91EFFFFFEBCFBC9FA241AD2" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Aspidiella (Targionia) sacchari" docType="treatment" docVersion="11" lastPageNumber="161" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="161" updateTime="1663083075184" updateUser="annettekang">
+<mods:mods id="4C989C87F2DD29C71D61ABC5CA01200A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="1959E38E2A22375FCE1F9B23AB39254F">
+<mods:title id="715249FB88612F66126A39B81E600DB2">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="DF3A08EACE40C053E9CB2CC60CEE36BB" type="personal">
+<mods:role id="E28628D0A9AC59C8599AA6CEA15D6DD6">
+<mods:roleTerm id="CE9FAA48FE9FDCB3D9BF70F1046E625C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4E8207620CD9BFA061E17F3C5DD77C80">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="A3F00C239CFCBEFC4D3D0F3146DBB279">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C966701D89B4AE2F1F8F2F1A6B8E0688">text</mods:typeOfResource>
+<mods:relatedItem id="76842E472BBAE3E251C513E12DC951B2" type="host">
+<mods:originInfo id="A6A9537E69E608D3B16FD288BB0EE048">
+<mods:dateIssued id="A9E0DF6570A6C6038A13E9812CDE2E8F">1946</mods:dateIssued>
+<mods:dateOther id="F8605E7A5E84EC2BC3E88574F944C534" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="F945179A859833B95F9D943E2F96CE54">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="AD46025C3C08A1CF3B1F8828BBB27D3C">
+<mods:placeTerm id="B67A3EE397FCF3FBD79D24B5302DCC36">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="868C731BDDA7319EED21CD7C66496505">
+<mods:title id="94DC448DD83DA74FF49896E298A6C1DA">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="5E6E2121D10E1D98750BC7C37BEBB5F4">
+<mods:extent id="99B4AC985A0F11DCCD6C92463F00962B" unit="page">
+<mods:start id="78847384AB851559683C89704A852B12">157</mods:start>
+<mods:end id="0ACEF80AE6AA3B7FC2E2C0430D8A6F87">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="D4E1C7B92974AE1A76888E6423DEDFC1">book chapter</mods:classification>
+<mods:identifier id="74570D3A01DB13027CC4ADA8A858C640" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="BEF2FBB379496C523E70C2FB93FB853E" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="1EFF850CA303816097736C78A0DF5468" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91EFFFFFEBCFBC9FA241AD2" ID-DOI="http://doi.org/10.5281/zenodo.5158164" ID-GBIF-Taxon="183925185" ID-Zenodo-Dep="5158164" LSID="urn:lsid:plazi:treatment:F03E87AAF91EFFFFFEBCFBC9FA241AD2" httpUri="http://treatment.plazi.org/id/F03E87AAF91EFFFFFEBCFBC9FA241AD2" lastPageNumber="161" pageId="4" pageNumber="161">
+<subSubSection id="308D6537F91EFFFFFEBCFBC9FB081ABD" box="[318,1228,1111,1155]" pageId="4" pageNumber="161" type="nomenclature">
+<paragraph id="782836BCF91EFFFFFEBCFBC9FB081ABD" blockId="4.[318,1534,1111,1260]" box="[318,1228,1111,1155]" pageId="4" pageNumber="161">
+<heading id="236081D0F91EFFFFFEBCFBC9FB081ABD" box="[318,1228,1111,1155]" fontSize="8" level="2" pageId="4" pageNumber="161" reason="4">
+<emphasis id="4AE3EAAEF91EFFFFFEBCFBC9FEB41ABD" bold="true" box="[318,368,1111,1155]" pageId="4" pageNumber="161">47.</emphasis>
+<taxonomicName id="BF974D3FF91EFFFFFE13FBC9FB031ABD" authority="(Cockerell)" baseAuthorityName="Cockerell" baseAuthorityYear="1893" box="[401,1223,1111,1155]" class="Insecta" family="Coccidae" genus="Aspidiella" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="161" phylum="Arthropoda" rank="species" species="sacchari" subGenus="Targionia">
+<emphasis id="4AE3EAAEF91EFFFFFE13FBC9FC191ABD" bold="true" box="[401,989,1111,1155]" pageId="4" pageNumber="161">Aspidiella (Targionia) sacchari</emphasis>
+(Cockerell)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91EFFFFFEFFFB11FA3A1A87" box="[381,1534,1167,1209]" pageId="4" pageNumber="161" type="description">
+<paragraph id="782836BCF91EFFFFFEFFFB11FA3A1A87" blockId="4.[318,1534,1111,1260]" box="[381,1534,1167,1209]" pageId="4" pageNumber="161">
+<treatmentCitationGroup id="58871192F91EFFFFFEFFFB11FA3D1A87" box="[381,1529,1167,1209]" pageId="4" pageNumber="161">
+<treatmentCitation id="F93610ADF91EFFFFFEFFFB11FA3D1A87" author="Cockerell" box="[381,1529,1167,1209]" page="255" pageId="4" pageNumber="161" year="1893">
+<taxonomicName id="BF974D3FF91EFFFFFEFFFB11FC541A87" authority="Cockerell, Inst." authorityName="Cockerell, Inst." box="[381,912,1167,1209]" class="Insecta" family="Diaspididae" genus="Aspidiotus" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="161" phylum="Arthropoda" rank="species" species="sacchari">
+<emphasis id="4AE3EAAEF91EFFFFFEFFFB11FD1E1A87" box="[381,730,1167,1209]" italics="true" pageId="4" pageNumber="161">Aspidiotus sacchari</emphasis>
+<bibCitation id="ADBD3ED0F91EFFFFFD68FB11FA3D1A87" author="Cockerell" box="[746,1529,1167,1209]" journalOrPublisher="Inst. Jamaica, Jour." pageId="4" pageNumber="161" pagination="255" part="1" type="journal article" year="1893">
+<author id="A02ADE59F91EFFFFFD68FB11FC541A87" box="[746,912,1167,1209]" pageId="4" pageNumber="161">Cockerell</author>
+, 
+<journalOrPublisher id="A2563C70F91EFFFFFC2AFB11FACD1A87" box="[936,1289,1167,1209]" pageId="4" pageNumber="161">
+Inst. 
+<collectingCountry id="0080762CF91EFFFFFB8AFB11FB5D1A87" box="[1032,1177,1167,1209]" name="Jamaica" pageId="4" pageNumber="161">Jamaica</collectingCountry>
+, Jour.
+</journalOrPublisher>
+<emphasis id="4AE3EAAEF91EFFFFFA9EFB11FAEF1A87" bold="true" box="[1308,1323,1167,1209]" pageId="4" pageNumber="161">
+<part id="0C339C21F91EFFFFFA9EFB11FAE31A87" box="[1308,1319,1167,1209]" pageId="4" pageNumber="161" type="volume">1</part>
+:
+</emphasis>
+<pagination id="415EC848F91EFFFFFACEFB11FA491A87" box="[1356,1421,1167,1209]" pageId="4" pageNumber="161" type="pagination">255</pagination>
+, 
+<year id="0C3F77EFF91EFFFFFA24FB11FA3D1A87" box="[1446,1529,1167,1209]" pageId="4" pageNumber="161">1893</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91EFFFFFEFDFB5CFA241AD2" box="[383,1504,1218,1260]" pageId="4" pageNumber="161" type="description">
+<paragraph id="782836BCF91EFFFFFEFDFB5CFA241AD2" blockId="4.[318,1534,1111,1260]" box="[383,1504,1218,1260]" pageId="4" pageNumber="161">
+<materialsCitation id="C8FF3CE1F91EFFFFFEFDFB5CFB801AD2" ID-GBIF-Occurrence="3891552307" box="[383,1092,1218,1260]" collectedFrom="On Sporobolus grass" collectingDate="1936" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Guam" pageId="4" pageNumber="161">
+<collectingMunicipality id="984CACC6F91EFFFFFEFDFB5CFE711AD2" box="[383,437,1218,1260]" pageId="4" pageNumber="161">On</collectingMunicipality>
+<taxonomicName id="BF974D3FF91EFFFFFE40FB5CFD4D1AD2" box="[450,649,1218,1260]" class="Liliopsida" family="Poaceae" genus="Sporobolus" kingdom="Plantae" order="Poales" pageId="4" pageNumber="161" phylum="Tracheophyta" rank="genus">
+<emphasis id="4AE3EAAEF91EFFFFFE40FB5CFD4D1AD2" box="[450,649,1218,1260]" italics="true" pageId="4" pageNumber="161">
+<location id="7D486067F91EFFFFFE40FB5CFD4D1AD2" LSID="urn:lsid:plazi:treatment:F03E87AAF91EFFFFFEBCFBC9FA241AD2:7D486067F91EFFFFFE40FB5CFD4D1AD2" box="[450,649,1218,1260]" municipality="On" name="Sporobolus" pageId="4" pageNumber="161">Sporobolus</location>
+</emphasis>
+</taxonomicName>
+grass, 
+<collectorName id="D562536AF91EFFFFFC88FB5CFC551AD2" box="[778,913,1218,1260]" pageId="4" pageNumber="161">Swezey</collectorName>
+, 
+<location id="7D486067F91EFFFFFC27FB5CFBF91AD2" LSID="urn:lsid:plazi:treatment:F03E87AAF91EFFFFFEBCFBC9FA241AD2:7D486067F91EFFFFFC27FB5CFBF91AD2" box="[933,1085,1218,1260]" municipality="On" name="Usinger" pageId="4" pageNumber="161">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F91EFFFFFBD0FB5CFA1F1AD2" ID-GBIF-Occurrence="3891552301" box="[1106,1499,1218,1260]" collectedFrom="on sugar cane" collectingDate="1938-1939" collectorName="R. G. Oakley" country="Guam" location="Guam" pageId="4" pageNumber="161">
+on sugar cane, 
+<collectorName id="D562536AF91EFFFFFAD9FB5CFA1F1AD2" box="[1371,1499,1218,1260]" pageId="4" pageNumber="161">Oakley</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

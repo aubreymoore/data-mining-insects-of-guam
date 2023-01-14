@@ -1,0 +1,81 @@
+<document id="06DAD9204A04183F1DAC78D08AE1D58E" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5473F214956E74AFD08C407" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Psallops Usinger 1946, new genus" docType="treatment" docVersion="15" lastPageNumber="87" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="86" updateTime="1671328415344" updateUser="annettekang">
+<mods:mods id="239EA5218BBA0BECF02F0633D6D43BE1" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="997C2407D5761375D972AA0150824B42">
+<mods:title id="56051B602336A34E2092EE1FA9052DB7">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="A1A5087C230F8A83E5B42CD32476F9CD" type="personal">
+<mods:role id="DF926CDB72EFCF839C31D188A235A8F9">
+<mods:roleTerm id="9B86DD9CBA790813F9BBDF242B239D34">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DD296D3E20AF7734AE6F4CA98EA5A315">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="1346F41621670B14F82A4A551F6DE13F">text</mods:typeOfResource>
+<mods:relatedItem id="4B36114892AACC426991EA91F16ED0E3" type="host">
+<mods:originInfo id="D31B7B33BE7E6EB70B97FB43128B2EA5">
+<mods:dateIssued id="D7D45B82D1CB7C815688156A17C7CE2D">1946</mods:dateIssued>
+<mods:dateOther id="09C70078854001155DC80A14011A5E2C" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="D5E12207D181B396EFE4DD0AE62575A8">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="4A7856DAB3F95D945A976ED51676B6C2">
+<mods:placeTerm id="51E91A648612A318F8E6D0E2580F6E66">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="8710F2862CB95FFBAF76FFF6B757DB82">
+<mods:title id="8A07D886726E85DB01B86A3AEBC133B9">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="65CA063B3244C53678993789ACB28EB5">
+<mods:extent id="4999ADC5968A5372A9C9C3C6728C1C88" unit="page">
+<mods:start id="934BEF3A9212CED94CC81C6807DA6EC1">11</mods:start>
+<mods:end id="E9E194FCE73E98E671509B8BFEFE271E">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F210BCCC8450FE4C18CCEC2098ED120E">book chapter</mods:classification>
+<mods:identifier id="F88998B4B8A62BA32AEBDC1CE9CB8E64" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="C844E059CADE3CAEFB8862B8107E26E4" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="C5096068C407AB905E6B2A26267F6D9C" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5473F214956E74AFD08C407" ID-DOI="http://doi.org/10.5281/zenodo.5208331" ID-GBIF-Taxon="184601125" ID-Zenodo-Dep="5208331" LSID="urn:lsid:zoobank.org:act:3C54F044-FF9E-44F7-8B78-5D9330802DEF" httpUri="http://treatment.plazi.org/id/EC6DA359F5473F214956E74AFD08C407" lastPageId="76" lastPageNumber="87" pageId="75" pageNumber="86">
+<subSubSection id="2CDE41C4F5473F264956E74AFA98C923" box="[822,1404,2082,2123]" pageId="75" pageNumber="86" type="nomenclature">
+<paragraph id="647B124FF5473F264956E74AFA98C923" blockId="75.[822,1404,2082,2123]" box="[822,1404,2082,2123]" pageId="75" pageNumber="86">
+<heading id="3F33A523F5473F264956E74AFA98C923" box="[822,1404,2082,2123]" centered="true" fontSize="8" level="2" pageId="75" pageNumber="86" reason="3">
+Genus 
+<emphasis id="56B0CE5DF5473F2649D7E74AFB4CC923" bold="true" box="[951,1192,2082,2123]" pageId="75" pageNumber="86">
+<taxonomicName id="A3C469CCF5473F2649D7E74AFB45C923" authority="Usinger, 1946" authorityName="Usinger" authorityYear="1946" box="[951,1185,2082,2123]" class="Insecta" family="Miridae" genus="Psallops" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="75" pageNumber="86" phylum="Arthropoda" rank="genus" status="new genus">PSALLOPS</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="4D837326F5473F264EDAE74AFA98C923" box="[1210,1404,2082,2123]" pageId="75" pageNumber="86" rank="genus">new genus</taxonomicNameLabel>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5473F214B82E705FD08C407" lastPageId="76" lastPageNumber="87" pageId="75" pageNumber="86" type="description">
+<paragraph id="647B124FF5473F264B82E705FC34C886" blockId="75.[414,1813,2157,2542]" pageId="75" pageNumber="86">Elongate-oval, densely clothed with long, posteriorly directed, stiff hairs. Head almost entirely deflected, nearly vertical, eyes large, the interocular space narrower than width of an eye, surface of eyes subflattened, hind margins touching anterior margin of pronotum and extending ventrally where they practically touch front coxae. Vertex sharply margined posteriorly. Tylus scarcely evelated, not separated from frons. Rostrum very long, reaching to apical third of abdomen. Antennae inserted a little before inner apices of eyes, over half again as long as width of pronotum, the first segment half as long as head but exceeding apex of head, second three times as long as first, slightly and gradually increasing in thickness toward apex, third and fourth segments subequal, together a little shorter than second.</paragraph>
+<paragraph id="647B124FF5403F214B11EE56FDB5C0BF" blockId="76.[300,1700,318,1391]" pageId="76" pageNumber="87">Pronotum a little shorter than head and over twice as broad as long, subflattened posteriorly with nearly straight hind margin, roundly deflected anterolaterally beneath the subflattened lobelike eyes, the front margin with a transverse, flattened fold at middle simulating a collar.</paragraph>
+<paragraph id="647B124FF5403F214B11EEB4FC93C34F" blockId="76.[300,1700,318,1391]" pageId="76" pageNumber="87">Mesoscutum broadly exposed, the width at base one third greater than combined lengths of mesoscutum and scutellum.</paragraph>
+<paragraph id="647B124FF5403F214B11ED45FBD9C2EF" blockId="76.[300,1700,318,1391]" pageId="76" pageNumber="87">Hemelytra broad and long, completely covering the abdomen, the apex of cuneus exceeding tip of abdomen by half the length of cuneus. Clavus broad, subflattened, the commissure one third longer than combined lengths of mesoscutum and scutellum. Corium slightly less than half again as long as width of pronotum, the disk moderately convex, depressed along costal margin, the flattened area thus formed slightly widened posteriorly but only one sixth the total width of corium at posterior margin. Cuneus one third as long as corium. Membrane exceeding apices of cunei by less than the length of cuneus, broadly rounded posteriorly, the cells short, the inner apical angles rounded and the vein joining inner margin of cuneus just beyond middle.</paragraph>
+<paragraph id="647B124FF5403F214B11ECE5FE88C524" blockId="76.[300,1700,318,1391]" pageId="76" pageNumber="87">Under surface smooth, nearly naked anteriorly, clothed with fine hairs on abdomen. Legs moderately pubescent, the tibiae with fine erect spines. Femora partially collapsed in the only available specimen, but incrassate, the hind femora twice as long as greatest width near middle. Claws uncleft, pseudarolia absent, arolia short, inconspicuous·, bristlelike.</paragraph>
+<paragraph id="647B124FF5403F214B0CEB00FBBAC5FA" blockId="76.[300,1700,318,1391]" box="[364,1118,1128,1170]" pageId="76" pageNumber="87">
+Genotype: 
+<emphasis id="56B0CE5DF5403F21485CEB00FC93C5FA" box="[572,887,1128,1170]" italics="true" pageId="76" pageNumber="87">
+<taxonomicName id="A3C469CCF5403F21485CEB00FC95C5FA" authority="Usinger, 1946" authorityName="Usinger" authorityYear="1946" box="[572,881,1128,1170]" class="Insecta" family="Miridae" genus="Psallops" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="76" pageNumber="87" phylum="Arthropoda" rank="species" species="oculatus" status="new species">Psallops oculatus</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="4D837326F5403F2149E6EB00FBBDC5FA" box="[902,1113,1128,1170]" pageId="76" pageNumber="87" rank="species">new species</taxonomicNameLabel>
+.
+</paragraph>
+<paragraph id="647B124FF5403F214B0BEBCCFD08C407" blockId="76.[300,1700,318,1391]" pageId="76" pageNumber="87">
+<taxonomicName id="A3C469CCF5403F214B0BEBCCFDE4C5A5" authorityName="Usinger" authorityYear="1946" box="[363,512,1188,1229]" class="Insecta" family="Miridae" genus="Psallops" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="76" pageNumber="87" phylum="Arthropoda" rank="genus">
+<emphasis id="56B0CE5DF5403F214B0BEBCCFDE4C5A5" box="[363,512,1188,1229]" italics="true" pageId="76" pageNumber="87">Psallops</emphasis>
+</taxonomicName>
+is allied to 
+<taxonomicName id="A3C469CCF5403F2148AAEBCCFCAEC5A5" authorityName="Fieber" authorityYear="1858" box="[714,842,1188,1229]" class="Insecta" family="Miridae" genus="Psallus" kingdom="Animalia" order="Hemiptera" pageId="76" pageNumber="87" phylum="Arthropoda" rank="genus">
+<emphasis id="56B0CE5DF5403F2148AAEBCCFCAEC5A5" box="[714,842,1188,1229]" italics="true" pageId="76" pageNumber="87">Psallus</emphasis>
+</taxonomicName>
+and 
+<taxonomicName id="A3C469CCF5403F2149C2EBCCFBB2C5A5" authorityName="Fieber" authorityYear="1858" box="[930,1110,1188,1229]" class="Insecta" family="Miridae" genus="Sthenarus" kingdom="Animalia" order="Hemiptera" pageId="76" pageNumber="87" phylum="Arthropoda" rank="genus">
+<emphasis id="56B0CE5DF5403F2149C2EBCCFBB2C5A5" box="[930,1110,1188,1229]" italics="true" pageId="76" pageNumber="87">Sthenarus</emphasis>
+</taxonomicName>
+but is unique in possessing large, subflattened eyes, a strongly declivous head, sharply margined vertex posteriorly, a very long rostrum, and a vestiture of long, stiff, posteriorly directed and slightly curved hairs.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

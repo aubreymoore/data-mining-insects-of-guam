@@ -1,0 +1,109 @@
+<document id="8F63FA0FF2F68374C1F57686C0D8A0C6" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB31B04FEC5FD060312422F" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Dinoderus minutus Lesne, Soc. Ent." docType="treatment" docVersion="16" lastPageNumber="163" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="163" updateTime="1671377585779" updateUser="annettekang">
+<mods:mods id="7D118D05D37901BD833C8F136E52C6BA" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="E74AA154B709BC99F260E97A0F2DA692">
+<mods:title id="09856CA28608FE72961717D1BADB7FAE">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="56A12DB271AE1284B036A8E567D8D40C" type="personal">
+<mods:role id="BD791DF32D463D9FF6C87519FD5B3CB3">
+<mods:roleTerm id="900CEF3E999543709B646476D97C8D3C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D6246A061B218838D5C00BB89DA948D0">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="4E874D6C78304DE004C59F79BB748E47">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="E42D87FC07D6A2C3DFA9C5D9AC0CEC65">text</mods:typeOfResource>
+<mods:relatedItem id="E70B3D012F6457BC1EC7C033F4F60242" type="host">
+<mods:originInfo id="EA5DCFAEA7FDBA2E7A423FB81CD76B5C">
+<mods:dateIssued id="C4925A9ECA3DDE29DAAFF91D7B6639FA">1942</mods:dateIssued>
+<mods:dateOther id="CF368F572A21FBE01E4DB4995FC92DC4" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="2F82F6D821A8C30DE38428E96100E7B7">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="A26EF16084D88DFB5FB6691FCC2A97F1">
+<mods:placeTerm id="0174A0ED9E280D50679E0E610CB204E7">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="774F1F35BE635CD374C98FF19AB95703">
+<mods:title id="266EFD021F9D70C7A1D76D16744FC6C7">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="D4F70E3896CB72964D9EE5B9665126E7">
+<mods:extent id="0C70F2FE9403F2DE5360FFE571F546FC" unit="page">
+<mods:start id="FD84A3BE3D8DCE2D8C9C816B6C5B56C7">150</mods:start>
+<mods:end id="627282F7063C40EB9F3D56538DBDC51E">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="8D1A1D27FBBEEE4CF12795EF05FE90F7">book chapter</mods:classification>
+<mods:identifier id="C7BECC2E2DD78D3FF863F9B3D4B7A63C" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="31D8E907FBBA85BB057122161316AB4B" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="4CB513A7C8E807E11379773096189751" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB31B04FEC5FD060312422F" ID-DOI="http://doi.org/10.5281/zenodo.5184832" ID-GBIF-Taxon="184415342" ID-Zenodo-Dep="5184832" LSID="urn:lsid:plazi:treatment:376B87E5FFB31B04FEC5FD060312422F" httpUri="http://treatment.plazi.org/id/376B87E5FFB31B04FEC5FD060312422F" lastPageNumber="163" pageId="13" pageNumber="163">
+<subSubSection id="F7D86578FFB31B04FEC5FD0604AA44E8" box="[287,940,691,734]" pageId="13" pageNumber="163" type="nomenclature">
+<paragraph id="BF7D36F3FFB31B04FEC5FD0604AA44E8" blockId="13.[286,1682,691,1049]" box="[287,940,691,734]" pageId="13" pageNumber="163">
+<heading id="E435819FFFB31B04FEC5FD0604AA44E8" box="[287,940,691,734]" fontSize="8" level="2" pageId="13" pageNumber="163" reason="4">
+3. 
+<taxonomicName id="78C24D70FFB31B04FE84FD0604A044E8" authority="(Fabricius)" authorityName="Lesne, Soc. Ent." baseAuthorityName="Fabricius" baseAuthorityYear="1775" box="[350,934,691,734]" class="Insecta" family="Bostrichidae" genus="Dinoderus" kingdom="Animalia" order="Coleoptera" pageId="13" pageNumber="163" phylum="Arthropoda" rank="species" species="minutus">Dinoderus minutus (Fabricius)</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB31B04FE85FD530352454F" pageId="13" pageNumber="163" type="reference_group">
+<paragraph id="BF7D36F3FFB31B04FE85FD5303F54527" blockId="13.[286,1682,691,1049]" box="[351,1267,742,785]" pageId="13" pageNumber="163">
+<treatmentCitationGroup id="9FD211DDFFB31B04FE85FD5303F54527" box="[351,1267,742,785]" pageId="13" pageNumber="163">
+<bibCitation id="6AE83E9FFFB31B04FE85FD5303F54527" author="Fabricius" box="[351,1267,742,785]" journalOrPublisher="Syst. Ent." pageId="13" pageNumber="163" pagination="54" refId="ref6770" type="book" year="1775">
+<treatmentCitation id="3E6310E2FFB31B04FE85FD5303E84527" author="Fabricius" box="[351,1262,742,785]" page="54" pageId="13" pageNumber="163" year="1775">
+<emphasis id="8DB6EAE1FFB31B04FE85FD5305BE4527" box="[351,696,742,785]" italics="true" pageId="13" pageNumber="163">Bostrichus minutus</emphasis>
+<author id="677FDE16FFB31B04FD13FD5304774527" box="[713,881,742,785]" pageId="13" pageNumber="163">Fabricius</author>
+, 
+<journalOrPublisher id="65033C3FFFB31B04FC53FD5303384527" box="[905,1086,742,785]" pageId="13" pageNumber="163">Syst. Ent.</journalOrPublisher>
+, 
+<pagination id="860BC807FFB31B04FB8DFD5303874527" box="[1111,1153,742,785]" pageId="13" pageNumber="163" type="pageRange">54</pagination>
+, 
+<year id="CB6A77A0FFB31B04FB46FD5303E84527" box="[1180,1262,742,785]" pageId="13" pageNumber="163">1775</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFB31B04FE84FCAF0352454F" blockId="13.[286,1682,691,1049]" pageId="13" pageNumber="163">
+<bibCitation id="6AE83E9FFFB31B04FE84FCAF0352454F" author="Lesne" journalOrPublisher="Soc. Ent. France, Ann" pageId="13" pageNumber="163" pagination="323" part="66" refId="ref6783" type="journal article" year="1897">
+<treatmentCitationGroup id="9FD211DDFFB31B04FE84FCAF0349454F" pageId="13" pageNumber="163">
+<treatmentCitation id="3E6310E2FFB31B04FE84FCAF0349454F" author="Lesne" page="323" pageId="13" pageNumber="163" year="1897">
+<emphasis id="8DB6EAE1FFB31B04FE84FCAF05BE4572" box="[350,696,794,836]" italics="true" pageId="13" pageNumber="163">Dinoderus minutus</emphasis>
+(Fabricius) 
+<author id="677FDE16FFB31B04FC62FCAF03244572" box="[952,1058,794,836]" pageId="13" pageNumber="163">Lesne</author>
+, 
+<journalOrPublisher id="65033C3FFFB31B04FB9AFCAF02EC4572" box="[1088,1514,794,836]" pageId="13" pageNumber="163">
+Soc. Ent. 
+<collectingCountry id="C7D57663FFB31B04FADBFCAF027B4572" box="[1281,1405,794,836]" name="France" pageId="13" pageNumber="163">France</collectingCountry>
+, Ann
+</journalOrPublisher>
+. 
+<part id="CB669C6EFFB31B04F9DCFCAF013E4572" box="[1542,1592,794,836]" pageId="13" pageNumber="163" type="volume">66</part>
+: 
+<pagination id="860BC807FFB31B04F996FCAF018A4572" box="[1612,1676,794,836]" pageId="13" pageNumber="163" type="pageRange">323</pagination>
+, 329, figs. 12, 17, 18,20,23,24,27, 
+<year id="CB6A77A0FFB31B04FC27FCF80349454F" box="[1021,1103,845,889]" pageId="13" pageNumber="163">1897</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB31B04FE84FC3C0312422F" pageId="13" pageNumber="163" type="discussion">
+<paragraph id="BF7D36F3FFB31B04FE84FC3C0312422F" blockId="13.[286,1682,691,1049]" pageId="13" pageNumber="163">
+<materialsCitation id="0FAA3CAEFFB31B04FE84FC3C03EA45D0" ID-GBIF-Occurrence="3994027429" collectedFrom="found infesting the bamboo shades on the porch of our residence" collectingDate="1936-06-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="163">
+This cosmopolitan beetle was found infesting the bamboo shades on the porch of our residence at 
+<location id="BA1D6028FFB31B04FD39FC09042345D0" LSID="urn:lsid:plazi:treatment:376B87E5FFB31B04FEC5FD060312422F:BA1D6028FFB31B04FD39FC09042345D0" box="[739,805,956,998]" name="Piti" pageId="13" pageNumber="163">Piti</location>
+, collected 
+<date id="CB7C1033FFB31B04FC00FC09034845D0" box="[986,1102,956,998]" pageId="13" pageNumber="163">
+<collectingDate id="DB38E9DBFFB31B04FC00FC09034845D0" box="[986,1102,956,998]" pageId="13" pageNumber="163">June 1</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB31B04FBBCFC0903EA45D0" box="[1126,1260,956,998]" pageId="13" pageNumber="163">Swezey</collectorName>
+</materialsCitation>
+. Specimens determined by W. S. Fisher, 
+<collectingCountry id="C7D57663FFB31B04FD86FC4505BC422F" box="[604,698,1008,1049]" name="United States of America" pageId="13" pageNumber="163">U. S.</collectingCountry>
+National Museum.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

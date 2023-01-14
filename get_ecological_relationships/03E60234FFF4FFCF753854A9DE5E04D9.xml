@@ -1,0 +1,155 @@
+<document id="9A1B291656D0271D37CFE501F7787D95" ID-DOI="http://doi.org/10.5281/zenodo.3634035" ID-GBIF-Dataset="9c8d5683-76c1-4938-aede-b7ad5391b6b2" ID-Zenodo-Dep="3634035" checkinTime="1580668122796" checkinUser="plazi" docAuthor="Moulton, Dudley" docDate="1942" docId="03E60234FFF4FFCF753854A9DE5E04D9" docLanguage="en" docName="InsectsOfGuam.172.7-16.pdf.imf" docOrigin="Insects of Guam I, Bernice P. Bishop Museum Bulletin" docSource="http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Bolothrips artocarpi Moulton 1942, new species" docType="treatment" docVersion="15" lastPageNumber="15" masterDocId="FFDF7A4CFFF3FFC777195003DD64051A" masterDocTitle="Thysanoptera: Thrips of Guam" masterLastPageNumber="16" masterPageNumber="7" pageNumber="14" updateTime="1658840059004" updateUser="annettekang">
+<mods:mods id="5E491F4E5D553DF05195AE068C94EDB9" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="9186DAD6107E0B44717503B37A604D65">
+<mods:title id="27C53D4A0A514DA15FC172E725C4747D">Thysanoptera: Thrips of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="ADCDD2169A2EA8EEA99ACFCBC78C8BD8" type="personal">
+<mods:role id="B9C70DCEA5B3B55EB106A97353FD65D0">
+<mods:roleTerm id="7BE89CDB23A4B542191F722025E97600">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9177702D7EA38CD35A3804068DA97140">Moulton, Dudley</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="89B79AEE5CBE35242B0A929247B1E157">text</mods:typeOfResource>
+<mods:relatedItem id="4155C05C202309CE354E4894E9AB41EA" type="host">
+<mods:originInfo id="566BC53EF480FF093D53CBD5882B8EA6">
+<mods:dateIssued id="7C49B4B563D904447D789EF0328784AE">1942</mods:dateIssued>
+<mods:dateOther id="637B4C3F3CDD956D778EE27C65643BC7" type="pubDate">1942-12-31</mods:dateOther>
+<mods:publisher id="3FC76F3E0C0DC37AE79546DC3FEF25C9">Bernice P. Bishop Museum Bulletin</mods:publisher>
+</mods:originInfo>
+<mods:titleInfo id="B32DD657882CCAECD45E18481AE1F555">
+<mods:title id="0A00AB7319DBA550F3EF2EDC1BCC66D3">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="41BB67451554E102BAC634C3823D6938">
+<mods:extent id="492D318F549C70B1765524CDB7BCAE1E" unit="page">
+<mods:start id="460439939FB0126AC44A1C0E9EBE3B1B">7</mods:start>
+<mods:end id="70F1F864B77C64279187993E37FD307C">16</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="46D5130AE79FBA298CDF0D0878DE9BBD">
+<mods:url id="62C49EAABA4C5196A2F12E8E18D1D668">http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf</mods:url>
+</mods:location>
+<mods:classification id="51C2DD26C8CF8831A9BBDFA92ECCA435">book chapter</mods:classification>
+<mods:identifier id="168124DFAA825813DBC38CD1B35AFD95" type="DOI">http://doi.org/10.5281/zenodo.3634035</mods:identifier>
+<mods:identifier id="E09A8A97B33874B823EBDCA65ED93608" type="GBIF-Dataset">9c8d5683-76c1-4938-aede-b7ad5391b6b2</mods:identifier>
+<mods:identifier id="AFF7109E89710CE684513377E6DFF7DB" type="Zenodo-Dep">3634035</mods:identifier>
+</mods:mods>
+<treatment id="03E60234FFF4FFCF753854A9DE5E04D9" ID-DOI="http://doi.org/10.5281/zenodo.5157451" ID-GBIF-Taxon="161938956" ID-Zenodo-Dep="5157451" LSID="urn:lsid:plazi:treatment:03E60234FFF4FFCF753854A9DE5E04D9" httpUri="http://treatment.plazi.org/id/03E60234FFF4FFCF753854A9DE5E04D9" lastPageId="8" lastPageNumber="15" pageId="7" pageNumber="14">
+<subSubSection id="C355E0A9FFF4FFC0753854A9D9BE01D5" box="[545,1242,1194,1231]" pageId="7" pageNumber="14" type="nomenclature">
+<paragraph id="8BF0B322FFF4FFC0753854A9D9BE01D5" blockId="7.[525,1953,1191,2030]" box="[545,1242,1194,1231]" pageId="7" pageNumber="14">
+19. 
+<taxonomicName id="4C4FC8A1FFF4FFC0756B54A9DE8201D4" authority="Moulton, 1942" authorityName="Moulton" authorityYear="1942" box="[626,998,1194,1230]" class="Insecta" family="Phlaeothripidae" genus="Bolothrips" kingdom="Animalia" order="Thysanoptera" pageId="7" pageNumber="14" phylum="Arthropoda" rank="species" species="artocarpi" status="new species">
+Bolothrips 
+<emphasis id="B93B6F30FFF4FFC0745954A9DE8A01D4" bold="true" box="[832,1006,1194,1230]" pageId="7" pageNumber="14">artocarpi,</emphasis>
+</taxonomicName>
+<taxonomicNameLabel id="A208D24BFFF4FFC074E654A9D9B101D5" box="[1023,1237,1194,1231]" pageId="7" pageNumber="14">new species</taxonomicNameLabel>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFF4FFC0757B54DCD9DB02F4" pageId="7" pageNumber="14" type="description">
+<paragraph id="8BF0B322FFF4FFC0757B54DCDBC200DA" blockId="7.[525,1953,1191,2030]" pageId="7" pageNumber="14">
+Female 
+<typeStatus id="54F40D80FFF4FFC075C654DCDE0501E4" box="[735,865,1247,1278]" pageId="7" pageNumber="14">holotype</typeStatus>
+: head and abdominal segments 5 to 9 black, 
+<emphasis id="B93B6F30FFF4FFC0712454DCDBF301E4" box="[1597,1687,1247,1278]" italics="true" pageId="7" pageNumber="14">thorax</emphasis>
+and abdominal segments 1 to 4 deep golden brown and blackened at the sides. Antenna! segments 1 to 4 mostly golden brown with distal half of 3 and much of 4 mottled with gray; 5 to 8 uniformly deep brown. Legs blackish brown with inner distal ends of all femora whitish to golden yellow; fore tibiae golden brown, middle and hind tibiae blackish brown. 
+<emphasis id="B93B6F30FFF4FFC070365579DAEF0083" box="[1839,1931,1402,1433]" italics="true" pageId="7" pageNumber="14">Wings</emphasis>
+washed with brown, 
+<emphasis id="B93B6F30FFF4FFC0747155A2DE8E00DA" box="[872,1002,1441,1472]" italics="true" pageId="7" pageNumber="14">darkened</emphasis>
+at bases. Prominent spines blackish brown.
+</paragraph>
+<paragraph id="8BF0B322FFF4FFC0757B55D3DAEA03CD" blockId="7.[525,1953,1191,2030]" pageId="7" pageNumber="14">
+<emphasis id="B93B6F30FFF4FFC0757B55D3DFC900F5" box="[610,685,1488,1519]" italics="true" pageId="7" pageNumber="14">Head</emphasis>
+only slightly longer than wide, cheeks broadly rounded and evenly narrowed to base; eyes fairly small and flattened on outer margin. Antennae one and one third longer than head, segments 
+<emphasis id="B93B6F30FFF4FFC074F9561DDE950326" box="[992,1009,1566,1596]" italics="true" pageId="7" pageNumber="14">3</emphasis>
+to 7 pedicellate, 3 and 4 oblong conical, 5 and 6 broadly clavate, 8 clearly separated but broadly joined with 7. Postocular spines placed close behind eyes, pointed. 
+<emphasis id="B93B6F30FFF4FFC0746A5669DE9B0393" box="[883,1023,1642,1673]" italics="true" pageId="7" pageNumber="14">Prothorax</emphasis>
+with a median, full length 
+<emphasis id="B93B6F30FFF4FFC072A55669DB5A0393" box="[1468,1598,1642,1673]" italics="true" pageId="7" pageNumber="14">darkened</emphasis>
+line; with all normal spines present, pair at posterior angles long, pointed, others very short. Fore tarsi unarmed. Forewings with eight double fringe hairs. Tube two 
+<emphasis id="B93B6F30FFF4FFC0713C56BBDB1203CD" box="[1573,1654,1720,1751]" italics="true" pageId="7" pageNumber="14">thirds</emphasis>
+as long as head.
+</paragraph>
+<paragraph id="8BF0B322FFF4FFC0757856E5D9DB02F4" blockId="7.[525,1953,1191,2030]" pageId="7" pageNumber="14">
+Total body length 
+<quantity id="4CB71EC7FFF4FFC0748156E5D940021F" box="[920,1060,1766,1797]" metricMagnitude="-3" metricUnit="m" metricValue="1.96" pageId="7" pageNumber="14" unit="mm" value="1.96">1.96 mm</quantity>
+.; head length 
+<quantity id="4CB71EC7FFF4FFC0720F56E5D8C7021F" box="[1302,1443,1766,1797]" metricMagnitude="-4" metricUnit="m" metricValue="2.5" pageId="7" pageNumber="14" unit="mm" value="0.25">0.25 mm</quantity>
+., width behind eyes 
+<quantity id="4CB71EC7FFF4FFC071EA56E5DAE4021F" box="[1779,1920,1766,1797]" metricMagnitude="-4" metricUnit="m" metricValue="2.2" pageId="7" pageNumber="14" unit="mm" value="0.22">0.22 mm</quantity>
+.; prothorax length 
+<quantity id="4CB71EC7FFF4FFC07421570EDEB10236" box="[824,981,1805,1836]" metricMagnitude="-4" metricUnit="m" metricValue="1.17" pageId="7" pageNumber="14" unit="mm" value="0.117">0.117 mm</quantity>
+., width excluding coxae 
+<quantity id="4CB71EC7FFF4FFC07270570EDB620236" box="[1385,1542,1805,1836]" metricMagnitude="-4" metricUnit="m" metricValue="2.79" pageId="7" pageNumber="14" unit="mm" value="0.279">0.279 mm</quantity>
+.; tube length 0.176 
+<date id="FFF195E2FFF4FFC070525717DAFE0230" box="[1867,1946,1812,1834]" pageId="7" pageNumber="14" value="11-11-11">111111</date>
+., width at base 0.073 
+<date id="FFF195E2FFF4FFC0744C5738DEC6024B" box="[853,930,1851,1873]" pageId="7" pageNumber="14" value="11-11-11">111111</date>
+. Antenna! segments length (width): III, 66 (31); IV, 60 (33); 
+<collectionCode id="ED5E2BE7FFF4FFC075075759DF5F0263" box="[542,571,1882,1913]" country="Canada" lsid="urn:lsid:biocol.org:col:13946" name="Royal British Columbia Museum - Herbarium" pageId="7" pageNumber="14" type="Museum">V</collectionCode>
+, 56 (31); 
+<collectionCode id="ED5E2BE7FFF4FFC075F55759DE710263" box="[748,789,1882,1913]" country="Norway" name="Mykotektet, National Veterinary Institute" pageId="7" pageNumber="14">VI</collectionCode>
+, 56 (31); VII, 36 (26); 
+<emphasis id="B93B6F30FFF4FFC073A05759D99D0263" box="[1209,1273,1882,1913]" italics="true" pageId="7" pageNumber="14">VIII</emphasis>
+, 23; total 330 microns. Length of spines, - postoculars 60 microns, 011 prothorax, midlaterals and those on anterior angles about equal, 26 microns; outer on posterior angles 76 inner 46 microns; 011 ninth abdominal segment 100 and at tip of tube 140 microns.
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFF4FFC07545581BD82F0D6B" pageId="7" pageNumber="14" type="materials_examined">
+<paragraph id="8BF0B322FFF4FFC07545581BD82F0D6B" blockId="7.[543,1947,2070,2576]" pageId="7" pageNumber="14">
+<materialsCitation id="3B27B97FFFF4FFC07545581BD82F0D6B" ID-GBIF-Occurrence="3864798313" collectedFrom="on dead twigs of Artocarpus communis" collectingDate="1936-05-21" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="7" pageNumber="14" specimenCount="2" specimenCount-female="2" typeStatus="holotype and paratype">
+<collectingMunicipality id="6B942958FFF4FFC07545581BDE7B0D27" box="[604,799,2072,2109]" pageId="7" pageNumber="14">Mt. Alifan</collectingMunicipality>
+, 
+<date id="FFF195E2FFF4FFC0745A581BDEB30D27" box="[835,983,2072,2109]" pageId="7" pageNumber="14" value="1921-05">
+<collectingDate id="EFB56C0AFFF4FFC0745A581BDEB30D27" box="[835,983,2072,2109]" pageId="7" pageNumber="14" value="1921-05">May 21</collectingDate>
+</date>
+, 
+<collectedFrom id="3853F0DFFFF4FFC074EA581BDBBC0D27" box="[1011,1752,2072,2109]" pageId="7" pageNumber="14">
+on dead twigs of Artocarpus 
+<emphasis id="B93B6F30FFF4FFC07134581ADBBA0D27" box="[1581,1758,2073,2109]" italics="true" pageId="7" pageNumber="14">communis,</emphasis>
+</collectedFrom>
+<typeStatus id="54F40D80FFF4FFC071E5581BDAEA0D27" box="[1788,1934,2072,2109]" pageId="7" pageNumber="14">holotype</typeStatus>
+<specimenCount id="9D4978ABFFF4FFC07539584FDFF20D6B" box="[544,662,2124,2161]" pageId="7" pageNumber="14" type="female">female</specimenCount>
+, 
+<specimenCount id="9D4978ABFFF4FFC075B6584FD9780D6B" box="[687,1052,2124,2161]" pageId="7" pageNumber="14" type="female">one paratype female</specimenCount>
+, Swezey (5468).
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFF4FFCF75455882DE5E04D9" lastPageId="8" lastPageNumber="15" pageId="7" pageNumber="14" type="discussion">
+<paragraph id="8BF0B322FFF4FFC075455882DAF70F15" blockId="7.[543,1947,2070,2576]" pageId="7" pageNumber="14">
+<emphasis id="B93B6F30FFF4FFC075455882DFC20DBC" box="[604,678,2177,2214]" italics="true" pageId="7" pageNumber="14">This</emphasis>
+species has the general appearance of 
+<taxonomicName id="4C4FC8A1FFF4FFC072605881DA3C0DBC" authority="Morgan" authorityName="Morgan" box="[1401,1880,2177,2214]" class="Magnoliopsida" family="Malvaceae" genus="Hoplothrips" higherTaxonomySource="GBIF" kingdom="Plantae" order="Malvaceae" pageId="7" pageNumber="14" phylum="Tracheophyta" rank="species" species="hoodi">
+<emphasis id="B93B6F30FFF4FFC072605881DBA40DBC" box="[1401,1728,2178,2214]" italics="true" pageId="7" pageNumber="14">Hoplothrips hoodi</emphasis>
+Morgan
+</taxonomicName>
+in color and general appearance, according to Morgan's description, especially in the lighter colored proximal antenna! segments which become gradually darker and also because of the light color of inner distal tips of all femora. It appears however that the species should more properly be placed in the genus 
+<emphasis id="B93B6F30FFF4FFC070285952DFEF0CB2" italics="true" pageId="7" pageNumber="14">
+<taxonomicName id="4C4FC8A1FFF4FFC070285952DFE00CB2" authorityName="Priesner" authorityYear="1926" class="Insecta" family="Phlaeothripidae" genus="Bolothrips" kingdom="Animalia" order="Thysanoptera" pageId="7" pageNumber="14" phylum="Arthropoda" rank="genus">Bolothrips</taxonomicName>
+,
+</emphasis>
+and close to 
+<taxonomicName id="4C4FC8A1FFF4FFC074615987D86C0CB2" authority="Moulton" authorityName="Moulton" authorityYear="1939" box="[888,1288,2435,2472]" class="Insecta" family="Phlaeothripidae" genus="Bolothrips" kingdom="Animalia" order="Thysanoptera" pageId="7" pageNumber="14" phylum="Arthropoda" rank="species" species="semiflavus">
+<emphasis id="B93B6F30FFF4FFC074615987D93F0CB2" box="[888,1115,2436,2472]" italics="true" pageId="7" pageNumber="14">B. semiflavus</emphasis>
+Moulton
+</taxonomicName>
+[B. P. Bishop Mus. 0cc. Papers 
+<emphasis id="B93B6F30FFF4FFC070745983DAFF0CB3" bold="true" box="[1901,1947,2432,2473]" pageId="7" pageNumber="14">15</emphasis>
+(12): 147, 1939], which name refers to the color of the antennae. The species 
+<emphasis id="B93B6F30FFF4FFC0753959E8DFD80F15" box="[544,700,2539,2575]" italics="true" pageId="7" pageNumber="14">artocarpi</emphasis>
+may be 
+<emphasis id="B93B6F30FFF4FFC0744559E9DE9D0F15" box="[860,1017,2538,2575]" italics="true" pageId="7" pageNumber="14">separated</emphasis>
+from 
+<taxonomicName id="4C4FC8A1FFF4FFC0736E59E8D8410F15" authorityName="Moulton" authorityYear="1939" box="[1143,1317,2539,2575]" class="Insecta" family="Phlaeothripidae" genus="Bolothrips" kingdom="Animalia" order="Thysanoptera" pageId="7" pageNumber="14" phylum="Arthropoda" rank="species" species="semiflavus">
+<emphasis id="B93B6F30FFF4FFC0736E59E8D8410F15" box="[1143,1317,2539,2575]" italics="true" pageId="7" pageNumber="14">semiflavus</emphasis>
+</taxonomicName>
+by the rounded shape of the eyes
+</paragraph>
+<paragraph id="8BF0B322FFFBFFCF762A5169DE5E04D9" blockId="8.[306,1700,360,451]" pageId="8" pageNumber="15">
+on the underside of the head, in 
+<emphasis id="B93B6F30FFFBFFCF74605168D9560495" box="[889,1074,363,399]" italics="true" pageId="8" pageNumber="15">se111iflavus</emphasis>
+the eyes are prolonged and extend backward on the ventral side.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

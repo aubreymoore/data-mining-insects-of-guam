@@ -1,0 +1,139 @@
+<document id="1BCD18143128B9E85D44DE106AAC7823" ID-DOI="http://doi.org/10.5281/zenodo.5160297" ID-GBIF-Dataset="1df399c6-c920-4862-81a3-dd51f0a28471" ID-Zenodo-Dep="5160297" checkinTime="1628013120545" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="491C80214A7852476CF5FA700D7AF7D0" docLanguage="en" docName="InsectsOfGuamI.172.184-187.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Liris aurata (Fabricius)" docType="treatment" docVersion="16" lastPageNumber="184" masterDocId="B525F8594A7852476D53FFF00A6FFFD2" masterDocTitle="Wasps of Guam" masterLastPageNumber="187" masterPageNumber="184" pageNumber="184" updateTime="1658435472816" updateUser="aubreymoore">
+<mods:mods id="2945DAA45BC58EC2A18AEE9700418AE4" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="22C14BFF386014FC3575100B8570E5F8">
+<mods:title id="23ADBC2E0864B9D37C34BFA3C5D275D1">Wasps of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="07077CA1213A9636380D4907DB1368B1" type="personal">
+<mods:role id="EC16F4E82A37B3C228DC029E84126AA0">
+<mods:roleTerm id="00D357F27FB38EFE806A2EEBD8DFA827">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="60AC1B06C9916856ED034563C4937F60">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="33A983F292C6E39CEBD79D382116594B">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="FF29200C16A5EC13EE0874FCEC55BF7B">text</mods:typeOfResource>
+<mods:relatedItem id="46A7BA1987FFD13B9C7F1A23D17B6486" type="host">
+<mods:originInfo id="30507123CD5816F02FE183BE2C2A7FE0">
+<mods:dateIssued id="DE5EE6D50CC5819063370BF8BECF8FEE">1942</mods:dateIssued>
+<mods:dateOther id="936C17F3693C7D3401331431908B4F91" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="854655FB02551D306D1947BFCA446E68">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="76ED05009ED19775D1B6E1B1F5E66592">
+<mods:placeTerm id="CFC0355269734D78D1F5D220B5DF94AB">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="EB15EC8DCEE62ABDAFF1DFDCE65CAD42">
+<mods:title id="C8ABF60EDACD5F2DE099EB951CD65523">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="1BBA5EFE693B41D2EB4849C0A5F5D20E">
+<mods:extent id="F395565D211876AC45E5C0D974D883C4" unit="page">
+<mods:start id="DE1C05C8735348A2976119CCF245EB93">184</mods:start>
+<mods:end id="71761BEEC9D486D36BBB58993D5302B2">187</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="9FCE2DD7A87D1AD1EDD7A3883A8CAB1E">book chapter</mods:classification>
+<mods:identifier id="1508C884C1D4FB79ACC19773C1A618D6" type="DOI">http://doi.org/10.5281/zenodo.5160297</mods:identifier>
+<mods:identifier id="23B50885E8091672CB48480F553F2B91" type="GBIF-Dataset">1df399c6-c920-4862-81a3-dd51f0a28471</mods:identifier>
+<mods:identifier id="73ACD18A5270489B39F1732B134CD358" type="Zenodo-Dep">5160297</mods:identifier>
+</mods:mods>
+<treatment id="491C80214A7852476CF5FA700D7AF7D0" ID-DOI="http://doi.org/10.5281/zenodo.5156773" ID-GBIF-Taxon="184130515" ID-Zenodo-Dep="5156773" LSID="urn:lsid:plazi:treatment:491C80214A7852476CF5FA700D7AF7D0" httpUri="http://treatment.plazi.org/id/491C80214A7852476CF5FA700D7AF7D0" lastPageNumber="184" pageId="0" pageNumber="184">
+<subSubSection id="89AF62BC4A7852476CF5FA7009C2FA78" box="[422,941,1408,1450]" pageId="0" pageNumber="184" type="nomenclature">
+<paragraph id="C10A31374A7852476CF5FA7009C2FA78" blockId="0.[420,1817,1340,2050]" box="[422,941,1408,1450]" pageId="0" pageNumber="184">
+<heading id="9A42865B4A7852476CF5FA7009C2FA78" box="[422,941,1408,1450]" fontSize="11" level="2" pageId="0" pageNumber="184" reason="2">
+<emphasis id="F3C1ED254A7852476CF5FA7008D1FA78" bold="true" box="[422,702,1408,1450]" pageId="0" pageNumber="184">
+1. 
+<taxonomicName id="06B54AB44A7852476CB1FA7009C8FA78" authorityName="(Fabricius)" box="[482,935,1408,1450]" class="Insecta" family="Crabronidae" genus="Liris" kingdom="Animalia" order="Hymenoptera" pageId="0" pageNumber="184" phylum="Arthropoda" rank="species" species="aurata">Liris aurata (Fabricius)</taxonomicName>
+</emphasis>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="89AF62BC4A7852476CB0FA4C0F3CF987" pageId="0" pageNumber="184" type="reference_group">
+<paragraph id="C10A31374A7852476CB0FA4C0F23FA34" blockId="0.[420,1817,1340,2050]" box="[483,1356,1468,1510]" pageId="0" pageNumber="184">
+<treatmentCitation id="401417264A7852476CB0FA4C0F23FA34" author="Fabricius" box="[483,1356,1468,1510]" page="213" pageId="0" pageNumber="184" year="1793">
+<treatmentCitationGroup id="E1A516194A7852476CB0FA4C0F28FA34" box="[483,1351,1468,1510]" pageId="0" pageNumber="184">
+<taxonomicName id="06B54AB44A7852476CB0FA4C09E4FA34" authorityName="Linnaeus" authorityYear="1758" box="[483,907,1468,1510]" class="Insecta" family="Pompilidae" genus="Sphex" kingdom="Animalia" order="Hymenoptera" pageId="0" pageNumber="184" phylum="Arthropoda" rank="genus">
+<emphasis id="F3C1ED254A7852476CB0FA4C08BDFA34" box="[483,722,1468,1510]" italics="true" pageId="0" pageNumber="184">Sphex aurata</emphasis>
+<bibCitation id="149F395B4A7852476FB0FA4C0F28FA34" author="Fabricius" box="[739,1351,1468,1510]" journalOrPublisher="Ent. Syst." pageId="0" pageNumber="184" pagination="213" part="2" type="journal article" year="1793">
+<author id="1908D9D24A7852476FB0FA4C09E4FA34" box="[739,907,1468,1510]" pageId="0" pageNumber="184">Fabricius</author>
+, 
+<journalOrPublisher id="1B743BFB4A7852476EF1FA4C0E3BFA34" box="[930,1108,1468,1510]" pageId="0" pageNumber="184">Ent. Syst.</journalOrPublisher>
+<part id="B5119BAA4A7852476935FA4C0E1BFA34" box="[1126,1140,1468,1510]" pageId="0" pageNumber="184" type="volume">2</part>
+: 
+<pagination id="F87CCFC34A78524769C4FA4C0EB7FA34" box="[1175,1240,1468,1510]" pageId="0" pageNumber="184" type="pagination">213</pagination>
+, 
+<year id="B51D70644A78524769A7FA4C0F28FA34" box="[1268,1351,1468,1510]" pageId="0" pageNumber="184">1793</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitationGroup>
+.
+</treatmentCitation>
+</paragraph>
+<paragraph id="C10A31374A7852476CB0FA070F3CF987" blockId="0.[420,1817,1340,2050]" pageId="0" pageNumber="184">
+<treatmentCitationGroup id="E1A516194A7852476CB0FA070F3CF987" pageId="0" pageNumber="184">
+<treatmentCitation id="401417264A7852476CB0FA070FDCF9F0" author="Fabricius" box="[483,1459,1527,1570]" page="228" pageId="0" pageNumber="184" year="1804">
+<taxonomicName id="06B54AB44A7852476CB0FA0709F7F9F0" authority="(Fabricius)" box="[483,920,1527,1570]" class="Insecta" family="Crabronidae" genus="Liris" kingdom="Animalia" order="Hymenoptera" pageId="0" pageNumber="184" phylum="Arthropoda" rank="genus">
+<emphasis id="F3C1ED254A7852476CB0FA0708D6F9F0" box="[483,697,1527,1570]" italics="true" pageId="0" pageNumber="184">Liris aurata</emphasis>
+<bibCitation id="149F395B4A7852476F83FA070FC1F9F0" author="Fabricius" box="[720,1454,1527,1570]" journalOrPublisher="Syst. Piezatorum" pageId="0" pageNumber="184" pagination="228" type="book" year="1804">
+(
+<author id="1908D9D24A7852476F8FFA0709E3F9F0" box="[732,908,1527,1570]" fns="*" inm="true" npo="*" pageId="0" pageNumber="184">Fabricius</author>
+) 
+<journalOrPublisher id="1B743BFB4A7852476EE1FA070E88F9F0" box="[946,1255,1527,1570]" pageId="0" pageNumber="184">Syst. Piezatorum</journalOrPublisher>
+, 
+<pagination id="F87CCFC34A7852476853FA070F2FF9F0" box="[1280,1344,1527,1570]" pageId="0" pageNumber="184">228</pagination>
+, 
+<year id="B51D70644A785247680FFA070FC1F9F0" box="[1372,1454,1527,1570]" pageId="0" pageNumber="184">1804</year>
+</bibCitation>
+</taxonomicName>
+.
+</treatmentCitation>
+<treatmentCitation id="401417264A7852476881FA070F3CF987" author="Williams" page="138" pageId="0" pageNumber="184" year="1919">
+<bibCitation id="149F395B4A7852476881FA070F3CF987" author="Williams" journalOrPublisher="Hawaii. Sugar Plant. Assoc., Ent. Bull." pageId="0" pageNumber="184" pagination="138" part="14" type="journal article" year="1919">
+<author id="1908D9D24A7852476881FA070C1AF9F0" box="[1490,1653,1527,1570]" pageId="0" pageNumber="184">Williams</author>
+, 
+<journalOrPublisher id="1B743BFB4A7852476BDDFA070E23F987" pageId="0" pageNumber="184">
+<collectingRegion id="0371FFD54A7852476BDDFA070D7EF9F0" box="[1678,1809,1527,1570]" country="United States of America" name="Hawaii" pageId="0" pageNumber="184">Hawaii</collectingRegion>
+. Sugar Plant. Assoc., Ent. Bull.
+</journalOrPublisher>
+<emphasis id="F3C1ED254A785247690CF9DB0EFBF987" bold="true" box="[1119,1172,1579,1621]" pageId="0" pageNumber="184">
+<part id="B5119BAA4A785247690CF9DB0EE1F987" box="[1119,1166,1579,1621]" pageId="0" pageNumber="184" type="volume">14</part>
+:
+</emphasis>
+<pagination id="F87CCFC34A78524769F6F9DB0E8DF987" box="[1189,1250,1579,1621]" pageId="0" pageNumber="184" type="pagination">138</pagination>
+, 
+<year id="B51D70644A78524769AFF9DB0F21F987" box="[1276,1358,1579,1621]" pageId="0" pageNumber="184">1919</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="89AF62BC4A7852476CB7F9970C0AF940" box="[484,1637,1639,1682]" pageId="0" pageNumber="184" type="materials_examined">
+<paragraph id="C10A31374A7852476CB7F9970C0AF940" blockId="0.[420,1817,1340,2050]" box="[484,1637,1639,1682]" pageId="0" pageNumber="184">
+<materialsCitation id="71DD3B6A4A7852476CB7F99708BDF940" ID-GBIF-Occurrence="3864422320" box="[484,722,1639,1682]" collectingDate="1936-05-13" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="0" pageNumber="184">Piti, May 13,</materialsCitation>
+<materialsCitation id="71DD3B6A4A7852476FB7F9970912F940" ID-GBIF-Occurrence="3864422313" box="[740,893,1639,1682]" collectingDate="1936-08-20" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="0" pageNumber="184">Aug. 20,</materialsCitation>
+<materialsCitation id="71DD3B6A4A7852476EDDF99709AFF940" ID-GBIF-Occurrence="3864422329" box="[910,960,1639,1682]" collectingDate="1936-08-25" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="0" pageNumber="184">25,</materialsCitation>
+<materialsCitation id="71DD3B6A4A7852476E80F9970E35F940" ID-GBIF-Occurrence="3864422323" box="[979,1114,1639,1682]" collectingDate="1936-09-01" collectionDate="1936-09-01" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="0" pageNumber="184">Sept. 1,</materialsCitation>
+<materialsCitation id="71DD3B6A4A7852476939F9970EE1F940" ID-GBIF-Occurrence="3864422324" box="[1130,1166,1639,1682]" collectingDate="1936-09-06" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="0" pageNumber="184">6;</materialsCitation>
+<materialsCitation id="71DD3B6A4A78524769F2F9970C0AF940" ID-GBIF-Occurrence="3333898320" box="[1185,1637,1639,1682]" collectingDate="1936-08-20" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="0" pageNumber="184">Agana, Aug. 20, Swezey.</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="89AF62BC4A7852476CB7F9540D7AF7D0" pageId="0" pageNumber="184" type="discussion">
+<paragraph id="C10A31374A7852476CB7F9540D7AF7D0" blockId="0.[420,1817,1340,2050]" pageId="0" pageNumber="184">
+This beautiful golden-marked, cricket-hunting wasp was not previously recorded in 
+<collectingCountry id="B9A271A74A7852476F2DF9270886F8D3" box="[638,745,1751,1793]" name="Guam" pageId="0" pageNumber="184">Guam</collectingCountry>
+, but F. X. Williams gives an account of observations on its habits in the 
+<collectingCountry id="B9A271A74A7852476FDEF8FA093AF8E6" box="[653,853,1802,1844]" name="Philippines" pageId="0" pageNumber="184">Philippines</collectingCountry>
+. The half dozen specimens which I obtained in 
+<collectingCountry id="B9A271A74A7852476BE2F8FA0D77F8E6" box="[1713,1816,1802,1844]" name="Guam" pageId="0" pageNumber="184">Guam</collectingCountry>
+were mostly in the vicinity of buildings. Several times I saw a female hunting among boxes at the back of our residence where a common cricket (
+<emphasis id="F3C1ED254A7852476B21F882083EF81D" italics="true" pageId="0" pageNumber="184">
+<taxonomicName id="06B54AB44A7852476B21F882082AF81D" baseAuthorityName="F.Walker" baseAuthorityYear="1869" class="Insecta" family="Haglotettigoniidae" genus="Gryllodes" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="184" phylum="Arthropoda" rank="species" species="sigillatus">Gryllodes sigillatus</taxonomicName>
+)
+</emphasis>
+was abundant. One was captured on a cement walk; another flew into the automobile. The 
+<collectingCountry id="B9A271A74A7852476E24F82709B0F7D0" box="[887,991,2007,2050]" name="Guam" pageId="0" pageNumber="184">Guam</collectingCountry>
+specimens were identified by F. X. Williams.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,256 @@
+<document id="33FE26ECE7F189EB875A41BCD2E891DF" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8BFFE5E4D6FE7B8BA6FB4D" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Brachymeria hammari" docType="treatment" docVersion="15" lastPageNumber="212" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="212" updateTime="1663769165332" updateUser="annettekang">
+<mods:mods id="3DB64D86DABDDE1919C70F98DD2E048A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="7FBACA3630F727EFC8169F76FFBAE627">
+<mods:title id="AE02B34E3A15422870CCCE24FDBF00D5">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="CD268105A3E3CC268E113B8C102263E8" type="personal">
+<mods:role id="AA05BE887237ED4A9CCCCF6BB61D8629">
+<mods:roleTerm id="8449CBEDD49E05E6EBDE950A18C1E655">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C1C3699401DDBBCEA9B5740176722E75">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="632E9A948D91C7CDCCB5357ADBA109FA">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="DCD9A9434053889CC141166E066231D4">text</mods:typeOfResource>
+<mods:relatedItem id="E82DBE0E570CA70B9E60E0CBB2A9ACE0" type="host">
+<mods:originInfo id="DD2286133281067C004A269CB53FE654">
+<mods:dateIssued id="251ADC44EC31D3EC8E4BC3813BD0072D">1946</mods:dateIssued>
+<mods:dateOther id="62AD4503FA00C5199FD63A1C4083F2A4" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="FC595172066A80916AB7DC48C01C6133">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="D22BACFC6725B6B3A2B5EE36898CD8C2">
+<mods:placeTerm id="08D4ACBB285EAAE279151DCB8E61ABEF">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="FEB4B5CF771ECB8A78D2B8D4739BBD96">
+<mods:title id="B1D7B4CB51677EA9D27E05EEC2BC8105">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="17F42DBFC71077F84919053F831D9285">
+<mods:extent id="2BD02192C292C4F11756A75033E54F27" unit="page">
+<mods:start id="BDBC22AA452E3A45D31339AF172F05F6">211</mods:start>
+<mods:end id="66EF78163E2315898B0F62267F2FB7FB">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="59FA1BBFA8E77524191282AF566BDFC9">book chapter</mods:classification>
+<mods:identifier id="2CAFB54E6A95BFC6E911C96D6C5C6465" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="220F70CA7B0333F44412815827FDAEC7" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="ED41B51E42299F7683C871692230D456" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8BFFE5E4D6FE7B8BA6FB4D" ID-DOI="http://doi.org/10.5281/zenodo.5158796" ID-GBIF-Taxon="187737448" ID-Zenodo-Dep="5158796" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE5E4D6FE7B8BA6FB4D" httpUri="http://treatment.plazi.org/id/7376EC19FF8BFFE5E4D6FE7B8BA6FB4D" lastPageNumber="212" pageId="1" pageNumber="212">
+<subSubSection id="B3C50E84FF8BFFE5E4D6FE7B8BF8FDD0" box="[469,1190,471,514]" pageId="1" pageNumber="212" type="nomenclature">
+<paragraph id="FB605D0FFF8BFFE5E4D6FE7B8BF8FDD0" blockId="1.[468,1868,471,1183]" box="[469,1190,471,514]" pageId="1" pageNumber="212">
+<heading id="A028EA63FF8BFFE5E4D6FE7B8BF8FDD0" box="[469,1190,471,514]" fontSize="11" level="2" pageId="1" pageNumber="212" reason="2">
+<emphasis id="C9AB811DFF8BFFE5E4D6FE7B8EAFFDD0" bold="true" box="[469,497,471,514]" pageId="1" pageNumber="212">7.</emphasis>
+<taxonomicName id="3CDF268CFF8BFFE5E710FE7B8BFEFDD0" authority="(Crawford)" baseAuthorityName="Crawford" baseAuthorityYear="1915" box="[531,1184,471,514]" class="Insecta" family="Chalcididae" genus="Brachymeria" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="212" phylum="Arthropoda" rank="species" species="hammari">
+<emphasis id="C9AB811DFF8BFFE5E710FE7B8CEDFDD0" bold="true" box="[531,947,471,514]" pageId="1" pageNumber="212">Brachymeria hammari</emphasis>
+(Crawford)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8BFFE5E716FDA78979FDB8" pageId="1" pageNumber="212" type="reference_group">
+<paragraph id="FB605D0FFF8BFFE5E716FDA78976FDE4" blockId="1.[468,1868,471,1183]" box="[533,1576,523,566]" pageId="1" pageNumber="212">
+<treatmentCitationGroup id="DBCF7A21FF8BFFE5E716FDA78976FDE4" box="[533,1576,523,566]" pageId="1" pageNumber="212">
+<treatmentCitation id="7A7E7B1EFF8BFFE5E716FDA78976FDE4" author="Crawford" box="[533,1576,523,566]" page="89" pageId="1" pageNumber="212" year="1915">
+<bibCitation id="2EF55563FF8BFFE5E716FDA78976FDE4" author="Crawford" box="[533,1576,523,566]" journalOrPublisher="Ins. Inscit. Mens." pageId="1" pageNumber="212" pagination="89" part="3" refId="ref385" type="journal article" year="1915">
+<emphasis id="C9AB811DFF8BFFE5E716FDA78C62FDE4" box="[533,828,523,566]" italics="true" pageId="1" pageNumber="212">ChaJ,cishammari</emphasis>
+<author id="2362B5EAFF8BFFE5E64FFDA78CA5FDE4" box="[844,1019,523,566]" pageId="1" pageNumber="212">Crawford</author>
+, 
+<journalOrPublisher id="211E57C3FF8BFFE5E110FDA78A14FDE4" box="[1043,1354,523,566]" pageId="1" pageNumber="212">Ins. Inscit. Mens.</journalOrPublisher>
+<part id="8F7BF792FF8BFFE5E058FDA78A36FDE4" box="[1371,1384,523,566]" pageId="1" pageNumber="212" type="volume">3</part>
+: 
+<pagination id="C216A3FBFF8BFFE5E08FFDA78AE9FDE4" box="[1420,1463,523,566]" pageId="1" pageNumber="212" type="pagination">89</pagination>
+, 
+<year id="8F771C5CFF8BFFE5E0D2FDA7897DFDE4" box="[1489,1571,523,566]" pageId="1" pageNumber="212">1915</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="FB605D0FFF8BFFE5E715FD938979FDB8" blockId="1.[468,1868,471,1183]" box="[534,1575,575,618]" pageId="1" pageNumber="212">
+<treatmentCitation id="7A7E7B1EFF8BFFE5E715FD938979FDB8" author="Fullaway" box="[534,1575,575,618]" page="285" pageId="1" pageNumber="212" year="1913">
+<bibCitation id="2EF55563FF8BFFE5E715FD938979FDB8" author="Fullaway" box="[534,1575,575,618]" journalOrPublisher="Haw. Ent. Soc., Proc." pageId="1" pageNumber="212" pagination="285" part="2" refId="ref402" type="journal article" year="1913">
+<treatmentCitationGroup id="DBCF7A21FF8BFFE5E715FD93897CFDB8" box="[534,1570,575,618]" pageId="1" pageNumber="212">
+<emphasis id="C9AB811DFF8BFFE5E715FD938DCDFDB8" box="[534,659,575,618]" italics="true" pageId="1" pageNumber="212">Chalcis</emphasis>
+sp., 
+<author id="2362B5EAFF8BFFE5E7EFFD938CCDFDB8" box="[748,915,575,618]" pageId="1" pageNumber="212">Fullaway</author>
+, 
+<journalOrPublisher id="211E57C3FF8BFFE5E6A9FD938A6AFDB8" box="[938,1332,575,618]" pageId="1" pageNumber="212">Haw. Ent. Soc., Proc.</journalOrPublisher>
+<part id="8F7BF792FF8BFFE5E047FD938A0CFDB8" box="[1348,1362,575,618]" pageId="1" pageNumber="212" type="volume">2</part>
+: 
+<pagination id="C216A3FBFF8BFFE5E075FD938AE8FDB8" box="[1398,1462,575,618]" pageId="1" pageNumber="212" type="pagination">285</pagination>
+, 
+<year id="8F771C5CFF8BFFE5E0CCFD93897CFDB8" box="[1487,1570,575,618]" pageId="1" pageNumber="212">1913</year>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8BFFE5E717FDDF8DD1FBBE" pageId="1" pageNumber="212" type="materials_examined">
+<paragraph id="FB605D0FFF8BFFE5E717FDDF8DD1FBBE" blockId="1.[468,1868,471,1183]" pageId="1" pageNumber="212">
+<materialsCitation id="4BB75752FF8BFFE5E717FDDF89C3FD4F" ID-GBIF-Occurrence="3901040327" box="[532,1693,627,669]" collectedFrom="ex pupa on leaf of Guettarda speciosa" collectingDate="1936-05-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="1" pageNumber="212">
+<collectingMunicipality id="1B04C775FF8BFFE5E717FDDF8DC4FD4F" box="[532,666,627,669]" pageId="1" pageNumber="212">Dededo</collectingMunicipality>
+, 
+<date id="8F617BCFFF8BFFE5E7B2FDDF8C66FD4F" box="[689,824,627,669]" pageId="1" pageNumber="212" value="2011-05">
+<collectingDate id="9F258227FF8BFFE5E7B2FDDF8C66FD4F" box="[689,824,627,669]" pageId="1" pageNumber="212" value="2011-05">May 11</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8BFFE5E64DFDDF8C29FD4F" box="[846,887,627,669]" pageId="1" pageNumber="212" type="generic">ex</specimenCount>
+<specimenCount id="EDD99686FF8BFFE5E687FDDF8C87FD4F" box="[900,985,627,669]" pageId="1" pageNumber="212" type="pupa">pupa</specimenCount>
+on leaf of 
+<taxonomicName id="3CDF268CFF8BFFE5E1A6FDDF89C8FD4F" authority=", Swezey" authorityName="Swezey" box="[1189,1686,627,669]" class="Magnoliopsida" family="Rubiaceae" genus="Guettarda" kingdom="Plantae" order="Gentianales" pageId="1" pageNumber="212" phylum="Tracheophyta" rank="species" species="speciosa">
+<emphasis id="C9AB811DFF8BFFE5E1A6FDDF8AA6FD4F" box="[1189,1528,627,669]" italics="true" pageId="1" pageNumber="212">
+<location id="FE000BD4FF8BFFE5E1A6FDDF8A0AFD4F" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE5E4D6FE7B8BA6FB4D:FE000BD4FF8BFFE5E1A6FDDF8A0AFD4F" box="[1189,1364,627,669]" municipality="Dededo" name="Guettarda" pageId="1" pageNumber="212">Guettarda</location>
+speciosa,
+</emphasis>
+<collectorName id="562A38D9FF8BFFE5E30AFDDF89C8FD4F" box="[1545,1686,627,669]" pageId="1" pageNumber="212">Swezey</collectorName>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8BFFE5E3AFFDDF8C53FD03" ID-GBIF-Occurrence="3901040362" collectingDate="1936-05-17" collectorName="O. H. Swezey" country="Guam" location="Tarague" pageId="1" pageNumber="212">
+<location id="FE000BD4FF8BFFE5E3AFFDDF881CFD4F" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE5E4D6FE7B8BA6FB4D:FE000BD4FF8BFFE5E3AFFDDF881CFD4F" box="[1708,1858,627,669]" name="Tarague" pageId="1" pageNumber="212">Tarague</location>
+, 
+<date id="8F617BCFFF8BFFE5E4D6FD0A8D3EFD03" box="[469,608,678,721]" pageId="1" pageNumber="212" value="2017-05">
+<collectingDate id="9F258227FF8BFFE5E4D6FD0A8D3EFD03" box="[469,608,678,721]" pageId="1" pageNumber="212" value="2017-05">May 17</collectingDate>
+</date>
+, 
+<collectorName id="562A38D9FF8BFFE5E77AFD0A8C58FD03" box="[633,774,678,721]" pageId="1" pageNumber="212">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8BFFE5E61CFD0A8A61FD03" ID-GBIF-Occurrence="3901040400" box="[799,1343,678,721]" collectingDate="1936-05-21" collectorName="R. L. Usinger" country="Guam" location="Mount Alifan" pageId="1" pageNumber="212">
+<collectingMunicipality id="1B04C775FF8BFFE5E61CFD0A8CBBFD03" box="[799,997,678,721]" pageId="1" pageNumber="212">Mt. Alifan</collectingMunicipality>
+, 
+<date id="8F617BCFFF8BFFE5E6FDFD0A8BD7FD03" box="[1022,1161,678,721]" pageId="1" pageNumber="212" value="2021-05">
+<collectingDate id="9F258227FF8BFFE5E6FDFD0A8BD7FD03" box="[1022,1161,678,721]" pageId="1" pageNumber="212" value="2021-05">May 21</collectingDate>
+</date>
+, 
+<location id="FE000BD4FF8BFFE5E1A2FD0A8A66FD03" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE5E4D6FE7B8BA6FB4D:FE000BD4FF8BFFE5E1A2FD0A8A66FD03" box="[1185,1336,678,721]" municipality="Mt. Alifan" name="Usinger" pageId="1" pageNumber="212">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8BFFE5E04CFD0A8AA7FCD7" ID-GBIF-Occurrence="3901040345" collectedFrom="ex cocoon of coconut moth, Agonoxena pyrogramma Meyrick" collectingDate="1936-05-31" collectorName="O. H. Swezey" country="Guam" location="Agat" pageId="1" pageNumber="212">
+<collectingMunicipality id="1B04C775FF8BFFE5E04CFD0A8AF6FD03" box="[1359,1448,678,721]" pageId="1" pageNumber="212">Agat</collectingMunicipality>
+, 
+<date id="8F617BCFFF8BFFE5E0C3FD0A8915FD03" box="[1472,1611,678,721]" pageId="1" pageNumber="212" value="1931-05">
+<collectingDate id="9F258227FF8BFFE5E0C3FD0A8915FD03" box="[1472,1611,678,721]" pageId="1" pageNumber="212" value="1931-05">May 31</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8BFFE5E366FD0A89D0FD03" box="[1637,1678,678,721]" pageId="1" pageNumber="212" type="generic">ex</specimenCount>
+cocoon of coconut moth, 
+<location id="FE000BD4FF8BFFE5E7E1FD778A14FCD7" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE5E4D6FE7B8BA6FB4D:FE000BD4FF8BFFE5E7E1FD778A14FCD7" box="[738,1354,731,773]" municipality="Agat" name="Agonozena pyrogramma Meyrick" pageId="1" pageNumber="212">
+<emphasis id="C9AB811DFF8BFFE5E7E1FD778BFCFCD7" box="[738,1186,731,773]" italics="true" pageId="1" pageNumber="212">Agonozena pyrogramma</emphasis>
+Meyrick
+</location>
+, 
+<collectorName id="562A38D9FF8BFFE5E065FD778AACFCD7" box="[1382,1522,731,773]" pageId="1" pageNumber="212">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8BFFE5E30EFD7789CDFCEA" ID-GBIF-Occurrence="3901040360" collectedFrom="ex pupa of European corn borer, Pyrausta nubilalis (Hubner)" collectingDate="1936-06-08" collectorName="O. H. Swezey" country="Guam" location="Ipan" pageId="1" pageNumber="212">
+<collectingMunicipality id="1B04C775FF8BFFE5E30EFD77892EFCD7" box="[1549,1648,731,773]" pageId="1" pageNumber="212">Ypan</collectingMunicipality>
+, 
+<date id="8F617BCFFF8BFFE5E388FD778858FCD7" box="[1675,1798,731,773]" pageId="1" pageNumber="212">
+<collectingDate id="9F258227FF8BFFE5E388FD778858FCD7" box="[1675,1798,731,773]" pageId="1" pageNumber="212">June 8</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8BFFE5E221FD778815FCD7" box="[1826,1867,731,773]" pageId="1" pageNumber="212" type="generic">ex</specimenCount>
+<specimenCount id="EDD99686FF8BFFE5E4D7FCA08D77FCEA" box="[468,553,780,824]" pageId="1" pageNumber="212" type="pupa">pupa</specimenCount>
+of 
+<location id="FE000BD4FF8BFFE5E764FCA08C4CFCEA" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE5E4D6FE7B8BA6FB4D:FE000BD4FF8BFFE5E764FCA08C4CFCEA" box="[615,786,780,824]" municipality="Ypan" name="European" pageId="1" pageNumber="212">European</location>
+corn borer, 
+<taxonomicName id="3CDF268CFF8BFFE5E6EEFCA08AB5FCEA" box="[1005,1515,780,824]" class="Insecta" family="Crambidae" genus="Pyrausta" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="212" phylum="Arthropoda" rank="genus">
+<emphasis id="C9AB811DFF8BFFE5E6EEFCA08A72FCEA" box="[1005,1324,780,824]" italics="true" pageId="1" pageNumber="212">
+<location id="FE000BD4FF8BFFE5E6EEFCA08BD0FCEA" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE5E4D6FE7B8BA6FB4D:FE000BD4FF8BFFE5E6EEFCA08BD0FCEA" box="[1005,1166,780,824]" municipality="Ypan" name="Pyrausta" pageId="1" pageNumber="212">Pyrausta</location>
+nubilalis
+</emphasis>
+(
+<location id="FE000BD4FF8BFFE5E048FCA08A81FCEA" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE5E4D6FE7B8BA6FB4D:FE000BD4FF8BFFE5E048FCA08A81FCEA" box="[1355,1503,780,824]" municipality="Ypan" name="Hiibner" pageId="1" pageNumber="212">Hiibner</location>
+)
+</taxonomicName>
+<collectorName id="562A38D9FF8BFFE5E0FCFCA089D2FCEA" box="[1535,1676,780,824]" pageId="1" pageNumber="212">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8BFFE5E3A3FCA089B2FCB9" ID-GBIF-Occurrence="3901040367" collectedFrom="ex pupa of Timandra aventiaria Guenee on Pithecolobium" collectingDate="1936-06-29" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="212">
+<collectingMunicipality id="1B04C775FF8BFFE5E3A3FCA089BDFCEA" box="[1696,1763,780,824]" pageId="1" pageNumber="212">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF8BFFE5E3FBFCA08D5EFCB9" pageId="1" pageNumber="212" value="1929-06">
+<collectingDate id="9F258227FF8BFFE5E3FBFCA08D5EFCB9" pageId="1" pageNumber="212" value="1929-06">June 29</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8BFFE5E719FCED8D1DFCB9" box="[538,579,833,875]" pageId="1" pageNumber="212" type="generic">ex</specimenCount>
+<specimenCount id="EDD99686FF8BFFE5E757FCED8DF7FCB9" box="[596,681,833,875]" pageId="1" pageNumber="212" type="pupa">pupa</specimenCount>
+of 
+<location id="FE000BD4FF8BFFE5E7F0FCED8960FCB9" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE5E4D6FE7B8BA6FB4D:FE000BD4FF8BFFE5E7F0FCED8960FCB9" box="[755,1598,833,875]" municipality="Piti" name="Timandra aventiaria Guenee on Pithecolobium" pageId="1" pageNumber="212">
+<taxonomicName id="3CDF268CFF8BFFE5E7F0FCED8BAFFCB9" box="[755,1265,833,875]" class="Insecta" family="Geometridae" genus="Timandra" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="212" phylum="Arthropoda" rank="genus">
+<emphasis id="C9AB811DFF8BFFE5E7F0FCED8B3EFCB9" box="[755,1120,833,875]" italics="true" pageId="1" pageNumber="212">Timandra aventiaria</emphasis>
+Guenee
+</taxonomicName>
+on 
+<taxonomicName id="3CDF268CFF8BFFE5E03EFCED89BBFCB9" authority=", Swezey" authorityName="Swezey" box="[1341,1765,833,875]" class="Magnoliopsida" family="Fabaceae" genus="Pithecolobium" higherTaxonomySource="CoL" kingdom="Plantae" order="Fabales" pageId="1" pageNumber="212" phylum="Tracheophyta" rank="genus">
+<emphasis id="C9AB811DFF8BFFE5E03EFCED891AFCB9" box="[1341,1604,833,875]" italics="true" pageId="1" pageNumber="212">Pithecolobium,</emphasis>
+<collectorName id="562A38D9FF8BFFE5E35BFCED89BBFCB9" box="[1624,1765,833,875]" pageId="1" pageNumber="212">Swezey</collectorName>
+</taxonomicName>
+</location>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8BFFE5E203FCED8A55FC4D" ID-GBIF-Occurrence="3901040325" collectedFrom="swept from Pithecolobium" collectingDate="1936-09-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="212">
+<collectingMunicipality id="1B04C775FF8BFFE5E203FCED881DFCB9" box="[1792,1859,833,875]" pageId="1" pageNumber="212">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF8BFFE5E4D5FCD98D37FC4D" box="[470,617,885,927]" pageId="1" pageNumber="212" value="2012-09">
+<collectingDate id="9F258227FF8BFFE5E4D5FCD98D37FC4D" box="[470,617,885,927]" pageId="1" pageNumber="212" value="2012-09">Sept. 12</collectingDate>
+</date>
+, swept from 
+<taxonomicName id="3CDF268CFF8BFFE5E65DFCD98A5AFC4D" authority=", Swezey" authorityName="Swezey" box="[862,1284,885,927]" class="Magnoliopsida" family="Fabaceae" genus="Pithecolobium" higherTaxonomySource="CoL" kingdom="Plantae" order="Fabales" pageId="1" pageNumber="212" phylum="Tracheophyta" rank="genus">
+<emphasis id="C9AB811DFF8BFFE5E65DFCD98B3AFC4D" box="[862,1124,885,927]" italics="true" pageId="1" pageNumber="212">
+<location id="FE000BD4FF8BFFE5E65DFCD98B00FC4D" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE5E4D6FE7B8BA6FB4D:FE000BD4FF8BFFE5E65DFCD98B00FC4D" box="[862,1118,885,927]" municipality="Piti" name="Pithecolobium" pageId="1" pageNumber="212">Pithecolobium</location>
+,
+</emphasis>
+<collectorName id="562A38D9FF8BFFE5E17AFCD98A5AFC4D" box="[1145,1284,885,927]" pageId="1" pageNumber="212">Swezey</collectorName>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8BFFE5E01FFCD989ECFBD7" ID-GBIF-Occurrence="3901040307" collectedFrom="ex pupa of rice leafroller, Susumia exigua (Butler)" collectingDate="1936-09-20" collectorName="O. H. Swezey" country="Guam" location="Agat" pageId="1" pageNumber="212" specimenCount="9">
+<collectingMunicipality id="1B04C775FF8BFFE5E01FFCD98A2AFC4D" box="[1308,1396,885,927]" pageId="1" pageNumber="212">Agat</collectingMunicipality>
+, 
+<date id="8F617BCFFF8BFFE5E08DFCD9897EFC4D" box="[1422,1568,885,927]" pageId="1" pageNumber="212" value="2020-09">
+<collectingDate id="9F258227FF8BFFE5E08DFCD9897EFC4D" box="[1422,1568,885,927]" pageId="1" pageNumber="212" value="2020-09">Sept. 20</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8BFFE5E33BFCD9893FFC4D" box="[1592,1633,885,927]" pageId="1" pageNumber="212" type="generic">ex</specimenCount>
+<specimenCount id="EDD99686FF8BFFE5E36CFCD98998FC4D" box="[1647,1734,885,927]" pageId="1" pageNumber="212" type="pupa">pupa</specimenCount>
+of rice leafroller, 
+<taxonomicName id="3CDF268CFF8BFFE5E797FC048B3AFC03" authorityName="Marumo" authorityYear="1930" box="[660,1124,936,977]" class="Insecta" family="Crambidae" genus="Susumia" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="1" pageNumber="212" phylum="Arthropoda" rank="genus">
+<emphasis id="C9AB811DFF8BFFE5E797FC048CEDFC03" box="[660,947,936,977]" italics="true" pageId="1" pageNumber="212">Susumia ezigua</emphasis>
+(Butler))
+</taxonomicName>
+, 
+<collectorName id="562A38D9FF8BFFE5E183FC048A5BFC03" box="[1152,1285,936,977]" pageId="1" pageNumber="212">Swezey</collectorName>
+. Nine 
+<specimenCount id="EDD99686FF8BFFE5E091FC04891AFC03" box="[1426,1604,936,977]" pageId="1" pageNumber="212" type="generic">specimens</specimenCount>
+, five of which are retained in 
+<collectingCountry id="83C81D9FFF8BFFE5E7FAFC778C02FBD7" box="[761,860,987,1029]" name="United States of America" pageId="1" pageNumber="212">U. S.</collectingCountry>
+<location id="FE000BD4FF8BFFE5E676FC778BE0FBD7" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE5E4D6FE7B8BA6FB4D:FE000BD4FF8BFFE5E676FC778BE0FBD7" box="[885,1214,987,1029]" country="United States of America" municipality="Agat" name="National Museum" pageId="1" pageNumber="212">National Museum</location>
+. 
+<location id="FE000BD4FF8BFFE5E1E5FC778A3EFBD7" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE5E4D6FE7B8BA6FB4D:FE000BD4FF8BFFE5E1E5FC778A3EFBD7" box="[1254,1376,987,1029]" country="United States of America" municipality="Agat" name="Mostly" pageId="1" pageNumber="212">Mostly</location>
+reared 
+<specimenCount id="EDD99686FF8BFFE5E0F9FC7789F3FBD7" box="[1530,1709,987,1029]" pageId="1" pageNumber="212" type="generic">specimens</specimenCount>
+.
+</materialsCitation>
+<materialsCitation id="4BB75752FF8BFFE5E3D0FC778DD1FBBE" ID-GBIF-Occurrence="3901040403" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="1" pageNumber="212" specimenCount="11">
+<collectingMunicipality id="1B04C775FF8BFFE5E3D0FC778CB1FBE5" pageId="1" pageNumber="212">Eleven specimens in Bishop Museum</collectingMunicipality>
+collected by 
+<collectorName id="562A38D9FF8BFFE5E1E0FBA38ADBFBE5" box="[1251,1413,1039,1079]" pageId="1" pageNumber="212">Fullaway</collectorName>
+in 1911 and recorded as 
+<taxonomicName id="3CDF268CFF8BFFE5E4D4FBEE8DD1FBBE" box="[471,655,1090,1132]" class="Insecta" family="Chalcididae" genus="Chalcis" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="212" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="C9AB811DFF8BFFE5E4D4FBEE8D0AFBBE" box="[471,596,1090,1132]" italics="true" pageId="1" pageNumber="212">
+<location id="FE000BD4FF8BFFE5E4D4FBEE8D0AFBBE" LSID="urn:lsid:plazi:treatment:7376EC19FF8BFFE5E4D6FE7B8BA6FB4D:FE000BD4FF8BFFE5E4D4FBEE8D0AFBBE" box="[471,596,1090,1132]" municipality="Eleven specimens in Bishop Museum" name="Chalcis" pageId="1" pageNumber="212">Chalcis</location>
+</emphasis>
+<specimenCount id="EDD99686FF8BFFE5E761FBEE8DD1FBBE" box="[610,655,1090,1132]" pageId="1" pageNumber="212" type="generic">sp.</specimenCount>
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8BFFE5E710FBD98BA6FB4D" box="[531,1272,1141,1183]" pageId="1" pageNumber="212" type="discussion">
+<paragraph id="FB605D0FFF8BFFE5E710FBD98BA6FB4D" blockId="1.[468,1868,471,1183]" box="[531,1272,1141,1183]" pageId="1" pageNumber="212">This is a parasite oh lepidopterous pupae.</paragraph>
+</subSubSection>
+</treatment>
+</document>

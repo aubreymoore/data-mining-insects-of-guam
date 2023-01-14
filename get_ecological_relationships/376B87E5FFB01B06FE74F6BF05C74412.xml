@@ -1,0 +1,95 @@
+<document id="F9D609FF000709669ECEEEBF34954427" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB01B06FE74F6BF05C74412" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Buprestis aurulenta Linnaeus 1767" docType="treatment" docVersion="20" lastPageNumber="164" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="164" updateTime="1671396144017" updateUser="ExternalLinkService">
+<mods:mods id="2FD663AAFFF73176AA406EB2732DF7C0" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="74362896DAAFD2138A382DAEB29FF0CC">
+<mods:title id="2B4FAA37303B1B9A9DFBD1F3FE00D7F3">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="2797499ED191827D0E495EBD3F447C7F" type="personal">
+<mods:role id="053B3C48D430078FA1D58A9B442B1C6B">
+<mods:roleTerm id="0153DB94DA69DD9A0E96C27F58C7D671">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="7AC0AF5BD0501263762C57AC84C002AC">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="2D1A395FA97CD85081E13FC9489059C9">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="2055C4934012AD47E1099FC6506425E6">text</mods:typeOfResource>
+<mods:relatedItem id="39FB206B51C1E289C2BD135DF25C338E" type="host">
+<mods:originInfo id="571B3DB9BBB4F89B423C44557649DC79">
+<mods:dateIssued id="D85517CE828FD97BA365EDDA15395100">1942</mods:dateIssued>
+<mods:dateOther id="939F31D0E80C3AB4AB21D98C57613866" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="31AA358CCBCC581E55ABBD0DF73ADB69">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="1702EE39D95DC749AB032042B8DE4FBC">
+<mods:placeTerm id="1B56EEE291A85AE178119D8AB4FC865F">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="7B7DB174122DECA04129DE936EF2B1F4">
+<mods:title id="A528E0B098D16B84D90AB1A3ADE3357F">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="B552CC6D271EBB69A582746578D22F42">
+<mods:extent id="C4E4BCF25433CA37C151DAACC623BE92" unit="page">
+<mods:start id="691CF75E50D2BE4ED8F6C8AF670056DA">150</mods:start>
+<mods:end id="1FA5CA4E5D3B48DCD676919B778BCD30">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="B882E74C74CEF6392E606CA724D8512A">book chapter</mods:classification>
+<mods:identifier id="3223A2B4BF9BCD8CE6825BEEEA142CD6" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="E654710F6E5EB0493D2511B57E60FB09" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="58DF1E170190B1462DC199F58D32FE67" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB01B06FE74F6BF05C74412" ID-DOI="http://doi.org/10.5281/zenodo.5211639" ID-GBIF-Taxon="184415366" ID-Zenodo-Dep="5211639" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B06FE74F6BF05C74412" httpUri="http://treatment.plazi.org/id/376B87E5FFB01B06FE74F6BF05C74412" lastPageId="15" lastPageNumber="164" pageId="14" pageNumber="164">
+<subSubSection id="F7D86578FFB01B07FE74F6BF03014F03" box="[430,1031,2314,2357]" pageId="14" pageNumber="164" type="nomenclature">
+<paragraph id="BF7D36F3FFB01B07FE74F6BF03014F03" blockId="14.[429,1824,1303,2561]" box="[430,1031,2314,2357]" pageId="14" pageNumber="164">
+<emphasis id="8DB6EAE1FFB01B07FE74F6BF06CC4F03" bold="true" box="[430,458,2314,2357]" pageId="14" pageNumber="164">5.</emphasis>
+<taxonomicName id="78C24D70FFB01B07FE37F6BF03074F03" authority="Linnaeus" authorityName="Linnaeus" authorityYear="1767" box="[493,1025,2314,2357]" class="Insecta" family="Buprestidae" genus="Buprestis" kingdom="Animalia" order="Coleoptera" pageId="14" pageNumber="164" phylum="Arthropoda" rank="species" species="aurulenta">
+<emphasis id="8DB6EAE1FFB01B07FE37F6BF04564F03" bold="true" box="[493,848,2314,2357]" pageId="14" pageNumber="164">Buprestis aurulenta</emphasis>
+Linnaeus
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB01B07FBCDF6BF03A04F5E" pageId="14" pageNumber="164" type="reference_group">
+<paragraph id="BF7D36F3FFB01B07FBCDF6BF03A04F5E" blockId="14.[429,1824,1303,2561]" pageId="14" pageNumber="164">
+<bibCitation id="6AE83E9FFFB01B07FBCDF6BF03A04F5E" author="Linnaeus" pageId="14" pageNumber="164" pagination="661" part="111" refId="ref7696" title="Coleopt. Catalog." type="journal volume" year="1767">
+<treatmentCitationGroup id="9FD211DDFFB01B07FBCDF6BF03A74F5E" pageId="14" pageNumber="164">
+<treatmentCitation id="3E6310E2FFB01B07FBCDF6BF012F4F03" author="Linnaeus" box="[1047,1577,2314,2357]" page="561" pageId="14" pageNumber="164" year="1767">
+Syst. Nat., 12th eel., 
+<pagination id="860BC807FFB01B07FA59F6BF02B84F03" box="[1411,1470,2314,2357]" pageId="14" pageNumber="164" type="pageRange">661</pagination>
+, 
+<year id="CB6A77A0FFB01B07FA0CF6BF012F4F03" box="[1494,1577,2314,2357]" pageId="14" pageNumber="164">1767</year>
+</treatmentCitation>
+. 
+<treatmentCitation id="3E6310E2FFB01B07F992F6BF03A74F5E" author="Obenberger" page="407" pageId="14" pageNumber="164" year="1930">
+<author id="677FDE16FFB01B07F992F6BF001C4F03" box="[1608,1818,2314,2357]" pageId="14" pageNumber="164">Obenberger</author>
+, 
+<title id="CDC6DDC5FFB01B07FDF6F68B045E4F5E" box="[556,856,2366,2408]" pageId="14" pageNumber="164">Coleopt. Catalog.</title>
+(
+<part id="CB669C6EFFB01B07FCA7F68B04C44F5E" box="[893,962,2366,2408]" pageId="14" pageNumber="164" type="volume">111</part>
+): 
+<pagination id="860BC807FFB01B07FC22F68B03324F5E" box="[1016,1076,2366,2408]" pageId="14" pageNumber="164" type="pageRange">407</pagination>
+, 
+<year id="CB6A77A0FFB01B07FB95F68B03A74F5E" box="[1103,1185,2366,2408]" pageId="14" pageNumber="164">1930</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB01B06FE34F6C705C74412" lastPageId="15" lastPageNumber="165" pageId="14" pageNumber="164" type="discussion">
+<paragraph id="BF7D36F3FFB01B06FE34F6C705C74412" blockId="14.[429,1824,1303,2561]" lastBlockId="15.[318,1715,352,548]" lastPageId="15" lastPageNumber="165" pageId="14" pageNumber="164">
+<materialsCitation id="0FAA3CAEFFB01B07FE34F6C703504C37" ID-GBIF-Occurrence="3994733301" collectedFrom="obtained in residence apparently from a porch floor board as there was an exit hole which appeared fairly fresh." collectingDate="1936-07-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="14" pageNumber="164" specimenCount="1">
+<collectingMunicipality id="5F19AC89FFB01B07FE34F6C705304FAD" box="[494,566,2418,2459]" pageId="14" pageNumber="164">One</collectingMunicipality>
+<specimenCount id="A9C4FD7AFFB01B07FD90F6C705EE4FAD" box="[586,744,2418,2459]" pageId="14" pageNumber="164" type="generic">specimen</specimenCount>
+of this 
+<location id="BA1D6028FFB01B07FC5FF6C703364FAD" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B06FE74F6BF05C74412:BA1D6028FFB01B07FC5FF6C703364FAD" box="[901,1072,2418,2459]" municipality="One" name="American" pageId="14" pageNumber="164">American</location>
+species was obtained in our residence at 
+<location id="BA1D6028FFB01B07FE75F61006F74FF9" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B06FE74F6BF05C74412:BA1D6028FFB01B07FE75F61006F74FF9" box="[431,497,2469,2511]" municipality="One" name="Piti" pageId="14" pageNumber="164">Piti</location>
+, 
+<date id="CB7C1033FFB01B07FDDCF61005734FF9" box="[518,629,2469,2511]" pageId="14" pageNumber="164">
+<collectingDate id="DB38E9DBFFB01B07FDDCF61005734FF9" box="[518,629,2469,2511]" pageId="14" pageNumber="164">July 9</collectingDate>
+</date>
+. It had apparently issued from a porch floor board as there was an exit hole which appeared fairly fresh
+</materialsCitation>
+. Two other similar holes had an older appearance. The boards were of Douglas fir which had been shipped from the Puget Sound region. The house was constructed prior to 1915. It does not seem probable that the larva of this beetle could have existed for that length of time before maturing.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

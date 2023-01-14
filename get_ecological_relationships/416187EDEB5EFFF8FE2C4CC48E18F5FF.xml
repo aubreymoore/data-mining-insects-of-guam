@@ -1,0 +1,77 @@
+<document id="24253A5288D6B20BE21C214B366266A2" ID-DOI="http://doi.org/10.5281/zenodo.5174008" ID-GBIF-Dataset="62345736-dcf6-4c38-a870-36a90992dabb" ID-Zenodo-Dep="5174008" checkinTime="1628020725273" checkinUser="carolina" docAuthor="Metcalf, Z. P." docDate="1946" docId="416187EDEB5EFFF8FE2C4CC48E18F5FF" docLanguage="en" docName="InsectsOfGuamII.189.105-148.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Proutista moesta" docType="treatment" docVersion="8" lastPageNumber="112" masterDocId="BD58FF95EB59FFFFFFB04B578875FD6D" masterDocTitle="Homoptera, Fulgoroidea and Jassoidea of Guam" masterLastPageNumber="148" masterPageNumber="105" pageNumber="112" updateTime="1659988635587" updateUser="annettekang">
+<mods:mods id="A1C060DCB0DD0417500F5D7758AF63DB" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="EED9DD77C883596356F29CA65B88C140">
+<mods:title id="279807D2790786EDE3FEC6CBA1AB8638">Homoptera, Fulgoroidea and Jassoidea of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="8EA76372B0ACD79895F193FB85771F69" type="personal">
+<mods:role id="A5A978F63B4FB4CB3B6F73F3FA36CE88">
+<mods:roleTerm id="7F0F44F0317D9878710A7AF1FE98F383">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="98D2497E94F052C0D580C990835462DE">Metcalf, Z. P.</mods:namePart>
+<mods:affiliation id="2FE10B1BAB8FFAB0AF4414C6074ADE5D">College of Agriculture and Engineering, University of North Carolins</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="6460A433EC5B96CC8A65CA3C50838E55">text</mods:typeOfResource>
+<mods:relatedItem id="B703268A9BECA76F4A5BCC9C57F80B41" type="host">
+<mods:originInfo id="6014B47B885342296765EA90B402206A">
+<mods:dateIssued id="C0FE979BAE905AA2936402818BCCF1D4">1946</mods:dateIssued>
+<mods:dateOther id="B96C1D4FF5F92AB2CE693C65643798A9" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="F94AAD4D983968B90772E221E5079AD6">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="813C612D3EB92055C1F926460B3EDBAF">
+<mods:placeTerm id="63625F7E58AB8F0EDD49983A1C06C4A7">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="7E785FF4AF105B9D86D61C1511976E86">
+<mods:title id="5D9A09B0C64DDBD39502FBB729DE84AE">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="9F554FBD2F4BE25304010DE7B4F8754B">
+<mods:extent id="46BA8B33842EBA9F12CAFF853FA44289" unit="page">
+<mods:start id="21A2D5A36F148F2D8A588211BC4BF22D">105</mods:start>
+<mods:end id="FF5C11C7C37172840D92821E5B552A1B">148</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="CB6A238164F4A993ECAC8F6C59C501C2">book chapter</mods:classification>
+<mods:identifier id="C00F13B87116A2C4DACF4FC32B6B7164" type="DOI">http://doi.org/10.5281/zenodo.5174008</mods:identifier>
+<mods:identifier id="CCD43FA1E2AD3A7D11602CC90C2811AF" type="GBIF-Dataset">62345736-dcf6-4c38-a870-36a90992dabb</mods:identifier>
+<mods:identifier id="FD3D3E67B12E8B12E0356C6C32050F34" type="Zenodo-Dep">5174008</mods:identifier>
+</mods:mods>
+<treatment id="416187EDEB5EFFF8FE2C4CC48E18F5FF" ID-DOI="http://doi.org/10.5281/zenodo.5157479" ID-GBIF-Taxon="184008979" ID-Zenodo-Dep="5157479" LSID="urn:lsid:plazi:treatment:416187EDEB5EFFF8FE2C4CC48E18F5FF" httpUri="http://treatment.plazi.org/id/416187EDEB5EFFF8FE2C4CC48E18F5FF" lastPageNumber="112" pageId="7" pageNumber="112">
+<subSubSection id="81D26570EB5EFFF8FE2C4CC48C65FAD6" box="[412,1040,1939,1979]" pageId="7" pageNumber="112" type="nomenclature">
+<paragraph id="C97736FBEB5EFFF8FE2C4CC48C65FAD6" blockId="7.[411,1808,1939,2194]" box="[412,1040,1939,1979]" pageId="7" pageNumber="112">
+<heading id="923F8197EB5EFFF8FE2C4CC48C65FAD6" box="[412,1040,1939,1979]" fontSize="11" level="2" pageId="7" pageNumber="112" reason="2">
+<emphasis id="FBBCEAE9EB5EFFF8FE2C4CC489CDFAD6" bold="true" box="[412,440,1939,1979]" pageId="7" pageNumber="112">1.</emphasis>
+<taxonomicName id="0EC84D78EB5EFFF8FE674CC48C7EFAD6" authority="(Westwood)" baseAuthorityName="Westwood" baseAuthorityYear="1851" box="[471,1035,1939,1979]" class="Insecta" family="Derbidae" genus="Proutista" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="112" phylum="Arthropoda" rank="species" species="moesta">
+<emphasis id="FBBCEAE9EB5EFFF8FE674CC48B65FAD6" bold="true" box="[471,784,1939,1979]" pageId="7" pageNumber="112">Proutista moesta</emphasis>
+(Westwood)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB5EFFF8FE684C998E18F5FF" pageId="7" pageNumber="112" type="description">
+<paragraph id="C97736FBEB5EFFF8FE684C998E18F5FF" blockId="7.[411,1808,1939,2194]" pageId="7" pageNumber="112">
+A pest of sugar cane in various parts of the world, having been reported previously from 
+<collectingCountry id="B1DF766BEB5EFFF8FD564CA88B32F546" box="[742,839,2047,2091]" name="India" pageId="7" pageNumber="112">India</collectingCountry>
+, 
+<collectingCountry id="B1DF766BEB5EFFF8FCD94CA88CB4F546" box="[873,1217,2047,2091]" name="Philippines" pageId="7" pageNumber="112">Philippine Islands</collectingCountry>
+, 
+<collectingCountry id="B1DF766BEB5EFFF8FB524CA88D22F546" box="[1250,1367,2047,2091]" name="Indonesia" pageId="7" pageNumber="112">Flores</collectingCountry>
+, Assam, 
+<collectingRegion id="0B0CF819EB5EFFF8F9A24CA88E1CF546" box="[1554,1641,2047,2091]" country="Indonesia" name="Jawa Timur" pageId="7" pageNumber="112">Java</collectingRegion>
+, 
+<collectingCountry id="B1DF766BEB5EFFF8F93B4CA88F7FF546" box="[1675,1802,2047,2091]" name="Sri Lanka" pageId="7" pageNumber="112">Ceylon</collectingCountry>
+, 
+<collectingCountry id="B1DF766BEB5EFFF8FE2C43648A40F533" box="[412,565,2099,2142]" name="India" pageId="7" pageNumber="112">Bombay</collectingCountry>
+, Palawan, 
+<collectingCountry id="B1DF766BEB5EFFF8FCA143648BC6F533" box="[785,947,2099,2142]" name="Taiwan" pageId="7" pageNumber="112">Formosa</collectingCountry>
+, 
+<collectingCountry id="B1DF766BEB5EFFF8FC6443648C34F533" box="[980,1089,2099,2142]" name="China" pageId="7" pageNumber="112">China</collectingCountry>
+, Borneo, 
+<taxonomicName id="0EC84D78EB5EFFF8FAB343648DD8F533" authority="Kirkaldy, 1913" authorityName="Kirkaldy" authorityYear="1913" box="[1283,1453,2099,2142]" class="Insecta" family="Dictyopharidae" genus="Amboina" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="7" pageNumber="112" phylum="Arthropoda" rank="genus">Amboina</taxonomicName>
+, Sumatra, Bengal, Luzon, Siberut, Sipora, Negros, 
+<collectingCountry id="B1DF766BEB5EFFF8FC40433F8CD3F5FF" box="[1008,1190,2152,2194]" name="Seychelles" pageId="7" pageNumber="112">Seychelles</collectingCountry>
+, Lombok, and Sumbawa.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

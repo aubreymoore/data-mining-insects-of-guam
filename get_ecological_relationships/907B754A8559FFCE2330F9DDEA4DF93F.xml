@@ -1,0 +1,70 @@
+<document id="B5C77B3560EE34CB3058E90C352E0375" ID-DOI="http://doi.org/10.5281/zenodo.5156759" ID-GBIF-Dataset="6e65e7d3-7a72-4da4-9739-5e3814593490" ID-Zenodo-Dep="5156759" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628022238476" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="907B754A8559FFCE2330F9DDEA4DF93F" docLanguage="en" docName="InsectsOfGuamII.189.221-227.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Phanerotoma" docType="treatment" docVersion="11" lastPageNumber="225" masterDocId="6C420D32855DFFCA221EFFCCE940FF9E" masterDocTitle="Ichneumonidae, Evaniidae, And Braconidae Of Guam" masterLastPageNumber="227" masterPageNumber="221" pageNumber="225" updateTime="1660588485465" updateUser="annettekang">
+<mods:mods id="0A4842C85AFB3A6FBBF65F4C075689AB" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="016F7CA659DBD5BA64F85EF5D29C5AEA">
+<mods:title id="9A7C35919E1C3475B3915E6052E47F54">Ichneumonidae, Evaniidae, And Braconidae Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="A876A7CF46FF6A6AFE792E9D14E9C4E5" type="personal">
+<mods:role id="FB25C81994B0CBEC4C3F59E9E0336AB4">
+<mods:roleTerm id="02B6F7ACAE04E7A050F7EBF8B6892EC6">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="7F4F666617F6EA24C222BB0700BA422E">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="08E56A00DA5F1A9BE9C46700E1CE8FA5">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9F0BD1E0829B4B3AB908EA32F30070D6">text</mods:typeOfResource>
+<mods:relatedItem id="FBA10909D21D8D5999E1C560DC1D66FD" type="host">
+<mods:originInfo id="168EAA1CEC2B34B5E694871D5516ABA4">
+<mods:dateIssued id="23EC0393433539D43D17ACCE1EF17698">1946</mods:dateIssued>
+<mods:dateOther id="5951EC7B5B8F57B3DB9EA1BC6B64A65D" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="F2243474B674D54ED2DCEF06FBB710BF">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="3E1CEBB9DDA5C78B21C48573F8D02147">
+<mods:placeTerm id="0066BA679501BC9DBDD36864277693AF">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="0905805CACEB2DFE222EE765A52F08A0">
+<mods:title id="BD6C814FCD6BCA773F16022ACB51EB50">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="386A7307D73BA5E98A8D88E82F169ED6">
+<mods:extent id="C4DCDDD72555A0C882250963F6DF3236" unit="page">
+<mods:start id="B9D461B00E9BE57925489F1BE5F2EA8C">221</mods:start>
+<mods:end id="2A0A9C8184B12E08CE8F4B709151CADC">227</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="6BDBA0BA9228A0E559DB90A82983E156">book chapter</mods:classification>
+<mods:identifier id="3A2F2512C78F779AB450A933266F8A2B" type="DOI">http://doi.org/10.5281/zenodo.5156759</mods:identifier>
+<mods:identifier id="11F3D8F95C0B4EAECA70DA9BEB9B0840" type="GBIF-Dataset">6e65e7d3-7a72-4da4-9739-5e3814593490</mods:identifier>
+<mods:identifier id="7B17935EE382F22747E011E52C6ACC45" type="Zenodo-Dep">5156759</mods:identifier>
+</mods:mods>
+<treatment id="907B754A8559FFCE2330F9DDEA4DF93F" ID-DOI="http://doi.org/10.5281/zenodo.5186437" ID-GBIF-Taxon="183969186" ID-Zenodo-Dep="5186437" LSID="urn:lsid:plazi:treatment:907B754A8559FFCE2330F9DDEA4DF93F" httpUri="http://treatment.plazi.org/id/907B754A8559FFCE2330F9DDEA4DF93F" lastPageNumber="225" pageId="4" pageNumber="225">
+<subSubSection id="50C897D78559FFCE2330F9DDEBB5F9A4" box="[302,757,1553,1594]" pageId="4" pageNumber="225" type="nomenclature">
+<paragraph id="186DC45C8559FFCE2330F9DDEBB5F9A4" blockId="4.[301,1699,1553,1697]" box="[302,757,1553,1594]" pageId="4" pageNumber="225">
+<heading id="432573308559FFCE2330F9DDEBB5F9A4" box="[302,757,1553,1594]" fontSize="11" level="2" pageId="4" pageNumber="225" reason="2">
+<emphasis id="2AA6184E8559FFCE2330F9DDE80BF9A4" bold="true" box="[302,331,1553,1594]" pageId="4" pageNumber="225">5.</emphasis>
+<taxonomicName id="DFD2BFDF8559FFCE2372F9DDEB20F9A4" box="[364,608,1553,1594]" class="Insecta" family="Ichneumonidae" genus="Phanerotoma" higherTaxonomySource="CoL" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="225" phylum="Arthropoda" rank="genus">
+<emphasis id="2AA6184E8559FFCE2372F9DDEB20F9A4" bold="true" box="[364,608,1553,1594]" pageId="4" pageNumber="225">Phanerotoma</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D78559FFCE2373F988EA4DF93F" pageId="4" pageNumber="225" type="materials_examined">
+<paragraph id="186DC45C8559FFCE2373F988EA4DF93F" blockId="4.[301,1699,1553,1697]" pageId="4" pageNumber="225">
+<materialsCitation id="A8BACE018559FFCE2373F988EA48F93F" ID-GBIF-Occurrence="3332362350" collectedFrom="reared from leafroller on Gymnosporia thompsonii" collectingDate="1936-06-16" collectorName="O. H. Swezey" country="Guam" location="Mount Chachao" pageId="4" pageNumber="225" specimenCount="1">
+<location id="1D0D92878559FFCE2373F988EB1DF9F0" LSID="urn:lsid:plazi:treatment:907B754A8559FFCE2330F9DDEA4DF93F:1D0D92878559FFCE2373F988EB1DF9F0" box="[365,605,1604,1646]" municipality="June" name="Mt. Chachao" pageId="4" pageNumber="225">Mt. Chachao</location>
+, 
+<date id="6C6CE29C8559FFCE206BF988EA47F9F0" box="[629,775,1604,1646]" pageId="4" pageNumber="225" value="2016-06">
+<collectingDate id="7C281B748559FFCE206BF988EA47F9F0" box="[629,775,1604,1646]" pageId="4" pageNumber="225" value="2016-06">June 16</collectingDate>
+</date>
+, 
+<specimenCount id="0ED40FD58559FFCE213FF988ED57F9F0" box="[801,1047,1604,1646]" pageId="4" pageNumber="225" type="generic">one specimen</specimenCount>
+, reared from leafroller on 
+<taxonomicName id="DFD2BFDF8559FFCE2409F988EA48F93F" authority=", Swezey." authorityName="Swezey." class="Magnoliopsida" family="Celastraceae" genus="Gymnosporia" kingdom="Plantae" order="Celastrales" pageId="4" pageNumber="225" phylum="Tracheophyta" rank="species" species="thompsonii">
+<emphasis id="2AA6184E8559FFCE2409F988EB32F93F" italics="true" pageId="4" pageNumber="225">Gymnosporia thompsonii,</emphasis>
+Swezey
+</taxonomicName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

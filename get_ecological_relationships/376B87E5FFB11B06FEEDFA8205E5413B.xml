@@ -1,0 +1,178 @@
+<document id="52A46404B69182F5FE0B2973FF3297D2" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB11B06FEEDFA8205E5413B" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Bradymerus acuticostis Gebien 1864" docType="treatment" docVersion="19" lastPageNumber="165" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="165" updateTime="1671377585779" updateUser="annettekang">
+<mods:mods id="74D9AB71EE3C5D473DACD44427BA6123" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="7DACD3407F5341627C96D7F12805AAC4">
+<mods:title id="948AFE39C5413EC3EDD29097C3AAD644">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="1DB76475524FF7EC0BA069606265BD82" type="personal">
+<mods:role id="D0519E9F7C9F1F8ED3B6C933C0CB1637">
+<mods:roleTerm id="D838A462CAA041DCE5BAA17246209FED">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C41135A2C26AE880734DD8DF5C247A7E">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="79FA31977C5095CA04840B4D7E822044">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="5FD203EC35725ADCE9A8CFF6179EFA63">text</mods:typeOfResource>
+<mods:relatedItem id="DE3D5D704338BBE391AF598A68E928DD" type="host">
+<mods:originInfo id="67B7E2FE34EA2C98E2C4CC5AACF7E351">
+<mods:dateIssued id="37745AABA4D2AEAE20BF183259FDCA98">1942</mods:dateIssued>
+<mods:dateOther id="0DCC246836A202D5E37F7CBFEB7B9EA4" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="4A6E788F850B6C801D6F2099E22C0F4B">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="E6BCFC204CB83F9238B14C4DB988C9EE">
+<mods:placeTerm id="FCDBB7A5F71C4EA4DFBDEC026A6E791D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="BA7462E7C3D1D7891C67F38FB2CB26AC">
+<mods:title id="D83A450D3364BB37169A221FC24453D9">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="F1999DBF02D9A549E2436BBC1C492674">
+<mods:extent id="622DA95EFB4746B77A36005D78073D31" unit="page">
+<mods:start id="A0EED77D1543EE7D3BFF8150272C1890">150</mods:start>
+<mods:end id="6B28B820F4149A4AF6FB7711146F88FB">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="73A0796B88D01070E71882FEBB4B3E16">book chapter</mods:classification>
+<mods:identifier id="B4938CD5C1EBB3B5C22619679266665A" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="F5692FFA87D688B85497C9EF4285496D" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="8F3D229EEBAA540709063D38AC1DEAE3" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB11B06FEEDFA8205E5413B" ID-DOI="http://doi.org/10.5281/zenodo.5211641" ID-GBIF-Taxon="184415349" ID-Zenodo-Dep="5211641" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEEDFA8205E5413B" httpUri="http://treatment.plazi.org/id/376B87E5FFB11B06FEEDFA8205E5413B" lastPageNumber="165" pageId="15" pageNumber="165">
+<subSection id="D64D2F18FFB11B06FEEDFA82030F4355" box="[311,1033,1335,1379]" pageId="15" pageNumber="165" type="multiple">
+<subSubSection id="F7D86578FFB11B06FEEDFA82030F4355" box="[311,1033,1335,1379]" pageId="15" pageNumber="165" type="nomenclature">
+<paragraph id="BF7D36F3FFB11B06FEEDFA82030F4355" blockId="15.[306,1703,1335,1805]" box="[311,1033,1335,1379]" pageId="15" pageNumber="165">
+<heading id="E435819FFFB11B06FEEDFA82030F4355" box="[311,1033,1335,1379]" fontSize="11" level="2" pageId="15" pageNumber="165" reason="2">
+<emphasis id="8DB6EAE1FFB11B06FEEDFA8206524355" bold="true" box="[311,340,1335,1379]" pageId="15" pageNumber="165">2.</emphasis>
+<taxonomicName id="78C24D70FFB11B06FEACFA8204A84355" authority="Gebien" authorityName="Gebien" authorityYear="1864" box="[374,942,1335,1379]" class="Insecta" family="Tenebrionidae" genus="Bradymerus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="15" pageNumber="165" phylum="Arthropoda" rank="species" species="acuticostis">
+<emphasis id="8DB6EAE1FFB11B06FEACFA8204244355" bold="true" box="[374,802,1335,1379]" pageId="15" pageNumber="165">Bradymerus acuticostis</emphasis>
+Gebien
+</taxonomicName>
+(?),
+</heading>
+</paragraph>
+</subSubSection>
+</subSection>
+<subSubSection id="F7D86578FFB11B06FBC6FA82015C4355" box="[1052,1626,1335,1379]" pageId="15" pageNumber="165" type="reference_group">
+<paragraph id="BF7D36F3FFB11B06FBC6FA82015C4355" blockId="15.[306,1703,1335,1805]" box="[1052,1626,1335,1379]" pageId="15" pageNumber="165">
+<heading id="E435819FFFB11B06FBC6FA82015C4355" box="[1052,1626,1335,1379]" fontSize="11" level="2" pageId="15" pageNumber="165" reason="2">
+<bibCitation id="6AE83E9FFFB11B06FBC6FA82015C4355" author="Gebien" box="[1052,1626,1335,1379]" journalOrPublisher="Philip. Jour. Sci." pageId="15" pageNumber="165" pagination="563" part="26" refId="ref7979" type="journal article" year="1925">
+<treatmentCitationGroup id="9FD211DDFFB11B06FBC6FA8201534355" box="[1052,1621,1335,1379]" pageId="15" pageNumber="165">
+<treatmentCitation id="3E6310E2FFB11B06FBC6FA8201534355" author="Gebien" box="[1052,1621,1335,1379]" page="563" pageId="15" pageNumber="165" year="1925">
+<journalOrPublisher id="65033C3FFFB11B06FBC6FA8202574355" box="[1052,1361,1335,1379]" pageId="15" pageNumber="165">
+<author id="677FDE16FFB11B06FBC6FA82038B4355" box="[1052,1165,1335,1379]" fns="*" inm="true" npo="*" pageId="15" pageNumber="165">Philip</author>
+. 
+<title id="CDC6DDC5FFB11B06FB79FA82024A4355" box="[1187,1356,1335,1379]" pageId="15" pageNumber="165">Jour. Sci</title>
+.
+</journalOrPublisher>
+<emphasis id="8DB6EAE1FFB11B06FAB9FA82029D4355" bold="true" box="[1379,1435,1335,1379]" pageId="15" pageNumber="165">
+<part id="CB669C6EFFB11B06FAB9FA8202934355" box="[1379,1429,1335,1379]" pageId="15" pageNumber="165" type="volume">26</part>
+:
+</emphasis>
+<pagination id="860BC807FFB11B06FA70FA8202EF4355" box="[1450,1513,1335,1379]" pageId="15" pageNumber="165" type="pagination">563</pagination>
+, 
+<year id="CB6A77A0FFB11B06F9D9FA8201534355" box="[1539,1621,1335,1379]" pageId="15" pageNumber="165">1925</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB11B06FEAFFAC102C84001" pageId="15" pageNumber="165" type="materials_examined">
+<paragraph id="BF7D36F3FFB11B06FEAFFAC102C84001" blockId="15.[306,1703,1335,1805]" pageId="15" pageNumber="165">
+<materialsCitation id="0FAA3CAEFFB11B06FEAFFAC1038743A8" ID-GBIF-Occurrence="3334692462" box="[373,1153,1396,1438]" collectedFrom="among dead leaves" collectingDate="1936-04-27" collectorName="E. H. Bryan" country="Guam" location="Yona" pageId="15" pageNumber="165">
+<location id="BA1D6028FFB11B06FEAFFAC106D043A8" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEEDFA8205E5413B:BA1D6028FFB11B06FEAFFAC106D043A8" box="[373,470,1396,1438]" name="Yona" pageId="15" pageNumber="165">Yona</location>
+, 
+<date id="CB7C1033FFB11B06FE34FAC1058043A8" box="[494,646,1396,1438]" pageId="15" pageNumber="165" value="1927-04">
+<collectingDate id="DB38E9DBFFB11B06FE34FAC1058043A8" box="[494,646,1396,1438]" pageId="15" pageNumber="165" value="1927-04">
+April 
+<emphasis id="8DB6EAE1FFB11B06FD81FAC1058B43A8" box="[603,653,1396,1438]" italics="true" pageId="15" pageNumber="165">27,</emphasis>
+</collectingDate>
+</date>
+among dead leaves, 
+<location id="BA1D6028FFB11B06FBDEFAC1037C43A8" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEEDFA8205E5413B:BA1D6028FFB11B06FBDEFAC1037C43A8" box="[1028,1146,1396,1438]" name="Bryan" pageId="15" pageNumber="165">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FB48FAC1058C43E7" ID-GBIF-Occurrence="3334692564" collectedFrom="in rotten Pandanus log" collectingDate="1936-05-04" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="15" pageNumber="165">
+<collectingMunicipality id="5F19AC89FFB11B06FB48FAC1020143A8" box="[1170,1287,1396,1438]" pageId="15" pageNumber="165">Agana</collectingMunicipality>
+, 
+<date id="CB7C1033FFB11B06FAC4FAC1029543A8" box="[1310,1427,1396,1438]" pageId="15" pageNumber="165">
+<collectingDate id="DB38E9DBFFB11B06FAC4FAC1029543A8" box="[1310,1427,1396,1438]" pageId="15" pageNumber="165">May 4</collectingDate>
+</date>
+, in rotten 
+<taxonomicName id="78C24D70FFB11B06F988FAC1069D43E7" authorityName=", Swezey" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="15" pageNumber="165" phylum="Tracheophyta" rank="genus">
+<emphasis id="8DB6EAE1FFB11B06F988FAC1069D43E7" italics="true" pageId="15" pageNumber="165">
+<location id="BA1D6028FFB11B06F988FAC1069D43E7" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEEDFA8205E5413B:BA1D6028FFB11B06F988FAC1069D43E7" municipality="Agana" name="Pandanus" pageId="15" pageNumber="165">Pandanus</location>
+</emphasis>
+</taxonomicName>
+log, 
+<collectorName id="12375325FFB11B06FE2DFA12058543E7" box="[503,643,1447,1489]" pageId="15" pageNumber="165">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FD40FA12025E43E7" ID-GBIF-Occurrence="3334692522" box="[666,1368,1447,1489]" collectedFrom="under cow dung" collectingDate="1936-05-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<location id="BA1D6028FFB11B06FD40FA1205DA43E7" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEEDFA8205E5413B:BA1D6028FFB11B06FD40FA1205DA43E7" box="[666,732,1447,1489]" name="Piti" pageId="15" pageNumber="165">Piti</location>
+, 
+<date id="CB7C1033FFB11B06FD28FA12047D43E7" box="[754,891,1447,1489]" pageId="15" pageNumber="165" value="1930-05">
+<collectingDate id="DB38E9DBFFB11B06FD28FA12047D43E7" box="[754,891,1447,1489]" pageId="15" pageNumber="165" value="1930-05">May 30</collectingDate>
+</date>
+, under cow clung, 
+<collectorName id="12375325FFB11B06FB1CFA12024143E7" box="[1222,1351,1447,1489]" pageId="15" pageNumber="165">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FAB2FA12013943E7" ID-GBIF-Occurrence="3994027487" box="[1384,1599,1447,1489]" collectingDate="1936-08-04" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<location id="BA1D6028FFB11B06FAB2FA1202AF43E7" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEEDFA8205E5413B:BA1D6028FFB11B06FAB2FA1202AF43E7" box="[1384,1449,1447,1489]" name="Piti" pageId="15" pageNumber="165">Piti</location>
+, 
+<date id="CB7C1033FFB11B06FA1AFA12013E43E7" box="[1472,1592,1447,1489]" pageId="15" pageNumber="165">
+<collectingDate id="DB38E9DBFFB11B06FA1AFA12013E43E7" box="[1472,1592,1447,1489]" pageId="15" pageNumber="165">Aug. 4</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06F98AFA12049C4032" ID-GBIF-Occurrence="3994027356" collectedFrom="under rotten board" collectingDate="1936-09-16" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<date id="CB7C1033FFB11B06F98AFA1206644032" pageId="15" pageNumber="165" value="2016-09">
+<collectingDate id="DB38E9DBFFB11B06F98AFA1206644032" pageId="15" pageNumber="165" value="2016-09">Sept. 16</collectingDate>
+</date>
+, under rotten board, 
+<collectorName id="12375325FFB11B06FCD2FA6C04954032" box="[776,915,1497,1540]" pageId="15" pageNumber="165">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FC6FFA6C05624001" ID-GBIF-Occurrence="3334692401" collectedFrom="in dead stem of Barleria cristata" collectingDate="1936-09-15" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<location id="BA1D6028FFB11B06FC6FFA6C04F14032" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEEDFA8205E5413B:BA1D6028FFB11B06FC6FFA6C04F14032" box="[949,1015,1497,1540]" name="Piti" pageId="15" pageNumber="165">Piti</location>
+, 
+<date id="CB7C1033FFB11B06FBC3FA6C03B54032" box="[1049,1203,1497,1540]" pageId="15" pageNumber="165" value="2015-09">
+<collectingDate id="DB38E9DBFFB11B06FBC3FA6C03B54032" box="[1049,1203,1497,1540]" pageId="15" pageNumber="165" value="2015-09">Sept. 15</collectingDate>
+</date>
+, in dead stem of 
+<taxonomicName id="78C24D70FFB11B06F9C2FA6C06B84001" authority="," authorityName="Swezey" class="Magnoliopsida" family="Acanthaceae" genus="Barleria" kingdom="Plantae" order="Lamiales" pageId="15" pageNumber="165" phylum="Tracheophyta" rank="species" species="cristata">
+<emphasis id="8DB6EAE1FFB11B06F9C2FA6C06B84001" italics="true" pageId="15" pageNumber="165">
+<location id="BA1D6028FFB11B06F9C2FA6C01A14032" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEEDFA8205E5413B:BA1D6028FFB11B06F9C2FA6C01A14032" box="[1560,1703,1497,1540]" name="Barleria" pageId="15" pageNumber="165">Barleria</location>
+cristata,
+</emphasis>
+</taxonomicName>
+<collectorName id="12375325FFB11B06FE0BF9B8055B4001" box="[465,605,1549,1591]" pageId="15" pageNumber="165">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FDADF9B802C84001" ID-GBIF-Occurrence="3334692608" box="[631,1486,1549,1591]" collectedFrom="in rotten bamboo stumps" collectingDate="1936-10-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<location id="BA1D6028FFB11B06FDADF9B805BF4001" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEEDFA8205E5413B:BA1D6028FFB11B06FDADF9B805BF4001" box="[631,697,1549,1591]" name="Piti" pageId="15" pageNumber="165">Piti</location>
+, 
+<date id="CB7C1033FFB11B06FD08F9B804504001" box="[722,854,1549,1591]" pageId="15" pageNumber="165" value="1927-10">
+<collectingDate id="DB38E9DBFFB11B06FD08F9B804504001" box="[722,854,1549,1591]" pageId="15" pageNumber="165" value="1927-10">Oct. 27</collectingDate>
+</date>
+, in rotten bamboo stumps, 
+<collectorName id="12375325FFB11B06FA99F9B802CF4001" box="[1347,1481,1549,1591]" pageId="15" pageNumber="165">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB11B06FEA9F9FC05E5413B" pageId="15" pageNumber="165" type="distribution">
+<paragraph id="BF7D36F3FFB11B06FEA9F9FC05E5413B" blockId="15.[306,1703,1335,1805]" pageId="15" pageNumber="165">
+Described from the 
+<collectingCountry id="C7D57663FFB11B06FD03F9FC04A64047" box="[729,928,1609,1649]" name="Philippines" pageId="15" pageNumber="165">Philippines</collectingCountry>
+. I have found no other record. Very abundant in 
+<collectingCountry id="C7D57663FFB11B06FE1EF9CE052B4090" box="[452,557,1659,1702]" name="Guam" pageId="15" pageNumber="165">Guam</collectingCountry>
+under rotten boards, etc. The 
+<collectingCountry id="C7D57663FFB11B06FBB3F9CE03D44090" box="[1129,1234,1659,1702]" name="Guam" pageId="15" pageNumber="165">Guam</collectingCountry>
+material appears to agree more nearly with this species than with the more abundant Philippine species, 
+<emphasis id="8DB6EAE1FFB11B06FEE8F9560513413B" box="[306,533,1763,1805]" italics="true" pageId="15" pageNumber="165">B. clathratus</emphasis>
+Schaufuss.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

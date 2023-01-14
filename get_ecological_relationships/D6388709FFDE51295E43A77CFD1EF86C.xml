@@ -1,0 +1,181 @@
+<document id="0CC9C37A1E2A22B1EADE7C066E2BD8FE" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFDE51295E43A77CFD1EF86C" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Cylindrotrypetes suffusus Zimmerman 1942, new species" docType="treatment" docVersion="15" lastPageNumber="120" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="119" updateTime="1671243089236" updateUser="annettekang">
+<mods:mods id="292FF726DFA1A904D44D034928DDCD4C" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="EF939A15A207B95758C0200B9FEFE86B">
+<mods:title id="28D5DB7D8FCCE0515620459433CC6299">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="670744668FEBF26C653F89525BE3DEFB" type="personal">
+<mods:role id="F2FBC507FA6BED7EF035CB680DC57F4B">
+<mods:roleTerm id="3D512014D7498C227B26602D2BEB2753">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9F4C6E94774E4BDE7B712B00DC8E9B88">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="E866944627AB20ED5DA9C2EAFD409801">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="57BF368FB430D6CDBAFFB053C2CDB77F">text</mods:typeOfResource>
+<mods:relatedItem id="690B20983BC34E94BA7FD0ED9C56AD4E" type="host">
+<mods:originInfo id="21A5AFA33A95BFCF039D318EB25E07E0">
+<mods:dateIssued id="089E323E2E4194AE6F0F0F962DEA4924">1942</mods:dateIssued>
+<mods:dateOther id="D58BB060B212811DC9BA2EA7AD7CAF48" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="64237D817C6C58F00EFED4AA60025FD6">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="DD20F6D100DDD2D3D40AF4D7954431D9">
+<mods:placeTerm id="A6E9151E6D662E19B8A31F9A3DA0B71C">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="D1E585DE87577CBAA2BBFE4FF2F4B9A9">
+<mods:title id="CEFF030A7547055126F7CC06565163EA">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="9B136967F34DC408184D7219A833667B">
+<mods:extent id="8302ACFF29E44B88863E5379B0590CF3" unit="page">
+<mods:start id="859A33EE4323894D265E7DE6E17D5913">73</mods:start>
+<mods:end id="21A34FC5E53A3B10432EEC89247CEA38">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="0FB08620EC543513CF76C396DDAEACF9">book chapter</mods:classification>
+<mods:identifier id="0083193C194EF38A2AA6F0FB8E880D42" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="FA36C9A0EDEE536777EB6A3AECBEAB68" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="57601A2A9A7FB94526FB53EC678862F9" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFDE51295E43A77CFD1EF86C" ID-DOI="http://doi.org/10.5281/zenodo.5157345" ID-GBIF-Taxon="184097873" ID-Zenodo-Dep="5157345" LSID="urn:lsid:plazi:treatment:D6388709FFDE51295E43A77CFD1EF86C" httpUri="http://treatment.plazi.org/id/D6388709FFDE51295E43A77CFD1EF86C" lastPageId="47" lastPageNumber="120" pageId="46" pageNumber="119">
+<subSubSection id="168B6594FFDE51285E43A77CFB11F7C6" box="[280,1259,2086,2128]" pageId="46" pageNumber="119" type="nomenclature">
+<paragraph id="5E2E361FFFDE51285E43A77CFB11F7C6" blockId="46.[280,1675,2086,2491]" box="[280,1259,2086,2128]" pageId="46" pageNumber="119">
+<heading id="05668173FFDE51285E43A77CFB11F7C6" box="[280,1259,2086,2128]" fontSize="8" level="2" pageId="46" pageNumber="119" reason="4">
+<emphasis id="6CE5EA0DFFDE51285E43A77CFCBCF7C6" bold="true" box="[280,838,2086,2128]" pageId="46" pageNumber="119">
+29. 
+<taxonomicName id="99914D9CFFDE51285E37A77CFCBAF7C6" authority="Zimmerman, 1942" authorityName="Zimmerman" authorityYear="1942" box="[364,832,2086,2128]" class="Insecta" family="Curculionidae" genus="Cylindrotrypetes" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="46" pageNumber="119" phylum="Arthropoda" rank="species" species="suffusus" status="new species">Cylindrotrypetes suffusus</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="77D65776FFDE51285C08A77CFBD9F7C6" box="[851,1059,2086,2128]" pageId="46" pageNumber="119" rank="species">new species</taxonomicNameLabel>
+(pl. 4, H).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFDE51295E06A73BFBD1FA2C" lastPageId="47" lastPageNumber="120" pageId="46" pageNumber="119" type="description">
+<paragraph id="5E2E361FFFDE51285E06A73BFE90F6D3" blockId="46.[280,1675,2086,2491]" pageId="46" pageNumber="119">Derm usually basically piceous black, coxae, trochanters, three apical ventrites, at least part of rostrum, scape and funicle of antennae, and often base of head yellowish brown; prothorax either almost entirely black or, more usually, with disk yellowish brown either at apex, apical half, apical two thirds or entirely from base to apex; elytra yellowish brown on disk from base to declivity, black along sides and apex; body with only minute setae.</paragraph>
+<paragraph id="5E2E361FFFDE51295E07A611FBD1FA2C" blockId="46.[280,1675,2086,2491]" lastBlockId="47.[414,1812,395,2042]" lastPageId="47" lastPageNumber="120" pageId="46" pageNumber="119">
+<emphasis id="6CE5EA0DFFDE51285E07A611FE55F6F8" box="[348,431,2379,2414]" italics="true" pageId="46" pageNumber="119">Head</emphasis>
+with an asperate callus extending upon crown from along inner margin of each eye that gives head appearance of having a transverse, dorsal impression across crown when viewed from side; greatest interocular breadth almost twice as broad as an eye in dorsal view. 
+<emphasis id="6CE5EA0DFFDF51295D2EAED1FD02FE3B" box="[629,760,395,429]" italics="true" pageId="47" pageNumber="120">Rostru.m</emphasis>
+three fourths as long as prothorax in both sexes, gently arcuate longitudinally, distinctly bent to left near apex in both sexes, coarsely reticulate almost to apex and with a fine median carina in male, coarsely reticulate only near base in female, and not or but very feebly, carinate, antennae inserted at slightly beyond basal third in male, slightly in back of basal third in female. 
+<emphasis id="6CE5EA0DFFDF51295BEEAD7CFABEFDDF" box="[1205,1348,550,585]" italics="true" pageId="47" pageNumber="120">Antennae</emphasis>
+with scape sinuous, slightly longer than the five funicular segments, filiform in basal two thirds, thence clavate; first funicular segment somewhat more than two thirds as long as second and about twice as thick at apex, 2 as long as 3 plus 4, which are subequal, 5 slightly shorter than 4, club elongate oval, slightly longer than funicular segments 3-5 inclusive. 
+<emphasis id="6CE5EA0DFFDF51295A9DADE5F99CFD74" box="[1478,1638,703,738]" italics="true" pageId="47" pageNumber="120">Prothora:&gt;</emphasis>
+:one fourth longer than broad, base subtruncate, arcuate on sides from base to near apex and there sharply and narrowly constricted, apical margin somewhat raised and collar-like; coarsely, densely, asperately punctate throughout, the punctures individually rather indistinct because of their density and narrow interstices. 
+<emphasis id="6CE5EA0DFFDF51295B5DAC03FB92FCEA" box="[1030,1128,857,892]" italics="true" pageId="47" pageNumber="120">Elytra</emphasis>
+fused, two and two thirds times longer than broad, two and one fourth times longer than prothorax, narrower at base than greatest breadth of prothorax and usually at no place broader than prothorax, base subtruncate, humeri obsolete, subparallel-sided and subtubular in about basal three fourths, thence roundly narrowed at apex which is usually slightly produced; striae well developed, closely and coarsely punctate, broader than intervals, with eight striae in basal half and nine in caudal half; intervals very narrow, each bearing a row of microscopical flecklike setae. 
+<emphasis id="6CE5EA0DFFDF51295EFBAB39FE12FB1F" box="[416,488,1123,1161]" italics="true" pageId="47" pageNumber="120">Legs</emphasis>
+with femora and tibiae coarsely reticulate, minutely setose, femoral clava at least thre,e fourths as long as femora; tibiae with terminal setae but without a trace of teeth or unci; tarsi densely setose, third segment of fore pair two thirds as broad as length of a tibia. 
+<emphasis id="6CE5EA0DFFDF51295D5EAB8CFD7DFB6A" box="[517,647,1238,1276]" italics="true" pageId="47" pageNumber="120">Stenz.um</emphasis>
+with prosternum densely and rather coarsely punctured, concave behind each coxa; mesosternum on same plane as metasternum; metasternum densely punctate as prosternum, metepisternal suture appearing as a narrow band of closely placed transverse lines. 
+<emphasis id="6CE5EA0DFFDF51295D58AA12FD90FAF8" box="[515,618,1352,1390]" italics="true" pageId="47" pageNumber="120">Venter</emphasis>
+with first two ventrites densely, but not so coarsely punctate as metasternum; ventrites 2 and 3 minutely and indistinctly punctate, or impunctate; ventrite 5 pilose. Length, 1.25-1.6 mm.; breadth, 0.3-0.4 mm.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFDF51295E85AA95FD2EF950" pageId="47" pageNumber="120" type="materials_examined">
+<paragraph id="5E2E361FFFDF51295E85AA95FD2EF950" blockId="47.[414,1812,395,2042]" pageId="47" pageNumber="120">
+<materialsCitation id="EEF93C42FFDF51295E85AA95F982FA6F" ID-GBIF-Occurrence="3333874410" box="[478,1656,1487,1529]" collectedFrom="from Pandanus" collectingDate="1936-06-15" collectorName="O. H. Swezey" country="Guam" location="Passan" pageId="47" pageNumber="120" specimenCount-male="1" typeStatus="holotype">
+<typeStatus id="812A88BDFFDF51295E85AA95FD7BFA6F" box="[478,641,1487,1529]" pageId="47" pageNumber="120">Holotype</typeStatus>
+<specimenCount id="4897FD96FFDF51295DC9AA95FD1CFA6F" box="[658,742,1487,1529]" pageId="47" pageNumber="120" type="male">male</specimenCount>
+, 
+<collectingMunicipality id="BE4AAC65FFDF51295C5AAA95FC87FA6F" box="[769,893,1487,1529]" pageId="47" pageNumber="120">Passan</collectingMunicipality>
+, from 
+<emphasis id="6CE5EA0DFFDF51295B5BAA95FB42FA6F" box="[1024,1208,1487,1529]" italics="true" pageId="47" pageNumber="120">
+<taxonomicName id="99914D9CFFDF51295B5BAA95FB4BFA6F" authorityName="Section Pandanustectorius Parkinson" authorityYear="1773" box="[1024,1201,1487,1529]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="47" pageNumber="120" phylum="Tracheophyta" rank="genus">
+<location id="5B4E60C4FFDF51295B5BAA95FB4BFA6F" LSID="urn:lsid:plazi:treatment:D6388709FFDE51295E43A77CFD1EF86C:5B4E60C4FFDF51295B5BAA95FB4BFA6F" box="[1024,1201,1487,1529]" municipality="Passan" name="Pandanus" pageId="47" pageNumber="120">Pandanus</location>
+</taxonomicName>
+,
+</emphasis>
+<date id="2A2F10DFFFDF51295B91AA95FA33FA6F" box="[1226,1481,1487,1529]" pageId="47" pageNumber="120" value="1936-06-15">
+<collectingDate id="3A6BE937FFDF51295B91AA95FA33FA6F" box="[1226,1481,1487,1529]" pageId="47" pageNumber="120" value="1936-06-15">June 15, 1936</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFDF51295ABEAA95F98BFA6F" LSID="urn:lsid:plazi:treatment:D6388709FFDE51295E43A77CFD1EF86C:5B4E60C4FFDF51295ABEAA95F98BFA6F" box="[1509,1649,1487,1529]" municipality="Passan" name="Swezey" pageId="47" pageNumber="120">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFDF512959D0AA95FBC9F9BA" ID-GBIF-Occurrence="3333874470" collectingDate="1936-06-04" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="47" pageNumber="120" specimenCount-female="1" typeStatus="allotype">
+<typeStatus id="812A88BDFFDF512959D0AA95F8E9FA6F" box="[1675,1811,1487,1529]" pageId="47" pageNumber="120">allotype</typeStatus>
+<specimenCount id="4897FD96FFDF51295EFAA959FDE2F9BA" box="[417,536,1539,1580]" pageId="47" pageNumber="120" type="female">female</specimenCount>
+, 
+<location id="5B4E60C4FFDF51295D68A959FD12F9BA" LSID="urn:lsid:plazi:treatment:D6388709FFDE51295E43A77CFD1EF86C:5B4E60C4FFDF51295D68A959FD12F9BA" box="[563,744,1539,1580]" municipality="Passan" name="Machanao" pageId="47" pageNumber="120">Machanao</location>
+, 
+<date id="2A2F10DFFFDF51295C5AA959FC86F9BA" box="[769,892,1539,1580]" pageId="47" pageNumber="120">
+<collectingDate id="3A6BE937FFDF51295C5AA959FC86F9BA" box="[769,892,1539,1580]" pageId="47" pageNumber="120">June 4</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFDF51295CCDA959FBD6F9BA" LSID="urn:lsid:plazi:treatment:D6388709FFDE51295E43A77CFD1EF86C:5B4E60C4FFDF51295CCDA959FBD6F9BA" box="[918,1068,1539,1580]" municipality="Passan" name="Usinger" pageId="47" pageNumber="120">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFDF51295B10A959FBC2F9F6" ID-GBIF-Occurrence="3333874378" collectedFrom="from Asplenium nidus" collectingDate="1936-05-26" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="47" pageNumber="120" specimenCount="12" typeStatus="paratype">
+12 
+<typeStatus id="812A88BDFFDF51295BDAA959FAD0F9BA" box="[1153,1322,1539,1580]" pageId="47" pageNumber="120">paratypes</typeStatus>
+taken on 
+<location id="5B4E60C4FFDF51295AB2A959FDA6F9F6" LSID="urn:lsid:plazi:treatment:D6388709FFDE51295E43A77CFD1EF86C:5B4E60C4FFDF51295AB2A959FDA6F9F6" municipality="Passan" name="Mt. Alifan from Asplenium" pageId="47" pageNumber="120">
+Mt. Alifan from 
+<emphasis id="6CE5EA0DFFDF51295EC4A96CFD21F9F6" box="[415,731,1590,1632]" italics="true" pageId="47" pageNumber="120">
+<taxonomicName id="99914D9CFFDF51295EC4A96CFD2FF9F6" box="[415,725,1590,1632]" class="Polypodiopsida" family="Aspleniaceae" genus="Asplenium" kingdom="Plantae" order="Polypodiales" pageId="47" pageNumber="120" phylum="Tracheophyta" rank="species" species="nidus">Asplenium nidus</taxonomicName>
+,
+</emphasis>
+</location>
+<date id="2A2F10DFFFDF51295DA8A96CFC7EF9F6" box="[755,900,1590,1632]" pageId="47" pageNumber="120" value="1926-05">
+<collectingDate id="3A6BE937FFDF51295DA8A96CFC7EF9F6" box="[755,900,1590,1632]" pageId="47" pageNumber="120" value="1926-05">May 26</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFDF51295CFEA96CFBCBF9F6" LSID="urn:lsid:plazi:treatment:D6388709FFDE51295E43A77CFD1EF86C:5B4E60C4FFDF51295CFEA96CFBCBF9F6" box="[933,1073,1590,1632]" municipality="Passan" name="Swezey" pageId="47" pageNumber="120">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFDF51295B0AA96CFC7DF905" ID-GBIF-Occurrence="3333874478" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="47" pageNumber="120" specimenCount="2" typeStatus="paratype">
+two 
+<typeStatus id="812A88BDFFDF51295BFCA96CFAA9F9F6" box="[1191,1363,1590,1632]" pageId="47" pageNumber="120">paratypes</typeStatus>
+, 
+<location id="5B4E60C4FFDF51295A28A96CF9D3F9F6" LSID="urn:lsid:plazi:treatment:D6388709FFDE51295E43A77CFD1EF86C:5B4E60C4FFDF51295A28A96CF9D3F9F6" box="[1395,1577,1590,1632]" municipality="Passan" name="Machanao" pageId="47" pageNumber="120">Machanao</location>
+, taken from 
+<emphasis id="6CE5EA0DFFDF51295EFAA933FDACF905" box="[417,598,1641,1683]" italics="true" pageId="47" pageNumber="120">
+<taxonomicName id="99914D9CFFDF51295EFAA933FDB5F905" authorityName="Section Pandanustectorius Parkinson" authorityYear="1773" box="[417,591,1641,1683]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="47" pageNumber="120" phylum="Tracheophyta" rank="genus">
+<location id="5B4E60C4FFDF51295EFAA933FDB5F905" LSID="urn:lsid:plazi:treatment:D6388709FFDE51295E43A77CFD1EF86C:5B4E60C4FFDF51295EFAA933FDB5F905" box="[417,591,1641,1683]" municipality="Passan" name="Pandanus" pageId="47" pageNumber="120">Pandanus</location>
+</taxonomicName>
+,
+</emphasis>
+<date id="2A2F10DFFFDF51295D3FA933FD21F905" box="[612,731,1641,1683]" pageId="47" pageNumber="120">
+<collectingDate id="3A6BE937FFDF51295D3FA933FD21F905" box="[612,731,1641,1683]" pageId="47" pageNumber="120">June 4</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFDF51295DAEA933FC7AF905" LSID="urn:lsid:plazi:treatment:D6388709FFDE51295E43A77CFD1EF86C:5B4E60C4FFDF51295DAEA933FC7AF905" box="[757,896,1641,1683]" municipality="Passan" name="Swezey" pageId="47" pageNumber="120">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFDF51295CCCA933FD2EF950" ID-GBIF-Occurrence="3333874393" collectedFrom="taken from Pandanus fruit" collectingDate="1939-06-08" collectorName="R. G. Oakley" country="Guam" location="Machanao" pageId="47" pageNumber="120" specimenCount="1">
+and one taken from 
+<taxonomicName id="99914D9CFFDF51295A59A933FA4AF905" authority=". nus" box="[1282,1456,1641,1683]" class="Magnoliopsida" family="Pandaceae" genus="Panda" kingdom="Animalia" order="Malpighiales" pageId="47" pageNumber="120" phylum="Tracheophyta" rank="genus">
+<emphasis id="6CE5EA0DFFDF51295A59A933FA4AF905" box="[1282,1456,1641,1683]" italics="true" pageId="47" pageNumber="120">
+<location id="5B4E60C4FFDF51295A59A933FA8AF905" LSID="urn:lsid:plazi:treatment:D6388709FFDE51295E43A77CFD1EF86C:5B4E60C4FFDF51295A59A933FA8AF905" box="[1282,1392,1641,1683]" municipality="Passan" name="Panda" pageId="47" pageNumber="120">Panda</location>
+.nus
+</emphasis>
+</taxonomicName>
+fruit, 
+<date id="2A2F10DFFFDF51295973A933F8F7F905" box="[1576,1805,1641,1683]" pageId="47" pageNumber="120" value="1939-06-08">
+<collectingDate id="3A6BE937FFDF51295973A933F8F7F905" box="[1576,1805,1641,1683]" pageId="47" pageNumber="120" value="1939-06-08">June 8, 1939</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFDF51295EFBA9C4FDE4F950" LSID="urn:lsid:plazi:treatment:D6388709FFDE51295E43A77CFD1EF86C:5B4E60C4FFDF51295EFBA9C4FDE4F950" box="[416,542,1694,1734]" municipality="Passan" name="Oakley" pageId="47" pageNumber="120">Oakley</location>
+, no. 2269.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFDF51295EBBA98AFA38F804" pageId="47" pageNumber="120" type="discussion">
+<paragraph id="5E2E361FFFDF51295EBBA98AFA38F804" blockId="47.[414,1812,395,2042]" pageId="47" pageNumber="120">
+This tiny, subcylindrical species has so many peculiar characters. and such a distinctive facies that it cannot be confused with any other 
+<collectingCountry id="2686768FFFDF5129597AA859F972F8BB" box="[1569,1672,1795,1837]" name="Guam" pageId="47" pageNumber="120">Guam</collectingCountry>
+weevil. The peculiar, laterally bent rostrum seems almost to be an abnormality, but all of the 
+<specimenCount id="4897FD96FFDF51295D4EA830FD0FF804" box="[533,757,1898,1938]" pageId="47" pageNumber="120" type="generic">
+<emphasis id="6CE5EA0DFFDF51295D4EA830FDC1F804" bold="true" box="[533,571,1898,1938]" pageId="47" pageNumber="120">17</emphasis>
+specimens
+</specimenCount>
+at hand have it distinctly bent to the left.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFDF51295EBAA8C7FD1EF86C" pageId="47" pageNumber="120" type="discussion">
+<paragraph id="5E2E361FFFDF51295EBAA8C7FD1EF86C" blockId="47.[414,1812,395,2042]" pageId="47" pageNumber="120">
+<emphasis id="6CE5EA0DFFDF51295EBAA8C7FDDAF850" box="[481,544,1949,1990]" italics="true" pageId="47" pageNumber="120">Mi.</emphasis>
+Swezey says that he recalls that individuals of this species ran about rapidly on foliage.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

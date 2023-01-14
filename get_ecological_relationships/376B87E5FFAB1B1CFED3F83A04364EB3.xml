@@ -1,0 +1,115 @@
+<document id="0AB1D980B9C49C3AF4F36E4F9992E157" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFAB1B1CFED3F83A04364EB3" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Aphthona" docType="treatment" docVersion="15" lastPageNumber="171" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="171" updateTime="1671478919668" updateUser="annettekang">
+<mods:mods id="FBBB21CC8F11A9FA8033B89090D88B53" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C4DB7BF2BF4734C591BC683CE15C2A62">
+<mods:title id="9F3EF4130CBAA110819005718223C672">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="9C4ACAFE63322E3F405F314E3EB8A118" type="personal">
+<mods:role id="5F66603BD3031527FD00FE31A0AE5A55">
+<mods:roleTerm id="A43E238591BE99CDF11EBF4EA8078628">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A86E57E03723463BB80B438102563B40">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="C9B7BFC0D155B36331095063D8AC0690">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="EC1BFF0A17781C751489FC117CA4BA99">text</mods:typeOfResource>
+<mods:relatedItem id="85859CE1F62B7811121335283517C4A2" type="host">
+<mods:originInfo id="7EE01473ED92FA3B82F061EA2B5C0D46">
+<mods:dateIssued id="74BC514E3CE6B10A7BC5808B0210ECFC">1942</mods:dateIssued>
+<mods:dateOther id="43E548EBA3B465664DB19C1CEECA6885" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="388E206D95450859559CBA8D4846BC75">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="A8F272CF16DEBCBC4ECDA1C35AD43A2E">
+<mods:placeTerm id="3E89D90025C9FC513C01F2C6FD279C03">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="B33DCA936E5C6E90607F235DCFD14170">
+<mods:title id="52354B1D5169C6ABB0F4CFCD49F83789">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="1E1F9D5DB1D765A19A14B774B6258D05">
+<mods:extent id="191D62B6C8418C5BF949786D0A2E34A6" unit="page">
+<mods:start id="CCAB22B946E8A127A9E1C79B159DA3CC">150</mods:start>
+<mods:end id="DA3533AF6C4C6B17179773A5DA136E71">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="0F2662613F382D13DD5FFAC701935CEA">book chapter</mods:classification>
+<mods:identifier id="31A884971320399795C7DC914EA8DB28" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="7D695710A014EF88A86C19EF92D52C4E" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="920BA4E16DAA0F820E4187112FCD80D9" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFAB1B1CFED3F83A04364EB3" ID-DOI="http://doi.org/10.5281/zenodo.5184840" ID-GBIF-Taxon="187974343" ID-Zenodo-Dep="5184840" LSID="urn:lsid:plazi:treatment:376B87E5FFAB1B1CFED3F83A04364EB3" httpUri="http://treatment.plazi.org/id/376B87E5FFAB1B1CFED3F83A04364EB3" lastPageNumber="171" pageId="21" pageNumber="171">
+<subSubSection id="F7D86578FFAB1B1CFED3F83A03314181" box="[265,1079,1935,1975]" pageId="21" pageNumber="171" type="nomenclature">
+<paragraph id="BF7D36F3FFAB1B1CFED3F83A03314181" blockId="21.[265,1661,1935,2181]" box="[265,1079,1935,1975]" pageId="21" pageNumber="171">
+<heading id="E435819FFFAB1B1CFED3F83A03314181" box="[265,1079,1935,1975]" fontSize="11" level="2" pageId="21" pageNumber="171" reason="2">
+<emphasis id="8DB6EAE1FFAB1B1CFED3F83A06234181" bold="true" box="[265,293,1935,1975]" pageId="21" pageNumber="171">2.</emphasis>
+<taxonomicName id="78C24D70FFAB1B1CFE92F83A06FD4181" box="[328,507,1935,1975]" class="Insecta" family="Chrysomelidae" genus="Aphthona" kingdom="Animalia" order="Coleoptera" pageId="21" pageNumber="171" phylum="Arthropoda" rank="genus">
+<emphasis id="8DB6EAE1FFAB1B1CFE92F83A06FD4181" bold="true" box="[328,507,1935,1975]" pageId="21" pageNumber="171">Aphthona</emphasis>
+</taxonomicName>
+species near 
+<emphasis id="8DB6EAE1FFAB1B1CFD36F83A04A54181" bold="true" box="[748,931,1935,1975]" pageId="21" pageNumber="171">bicolorata</emphasis>
+Jacoby.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAB1B1CFE90F87503F04E29" pageId="21" pageNumber="171" type="materials_examined">
+<paragraph id="BF7D36F3FFAB1B1CFE90F87503F04E29" blockId="21.[265,1661,1935,2181]" pageId="21" pageNumber="171">
+<materialsCitation id="0FAA3CAEFFAB1B1CFE90F875054241DD" ID-GBIF-Occurrence="3994027427" box="[330,580,1984,2027]" collectingDate="1936-05-26" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="21" pageNumber="171">
+<location id="BA1D6028FFAB1B1CFE90F875068D41DD" LSID="urn:lsid:plazi:treatment:376B87E5FFAB1B1CFED3F83A04364EB3:BA1D6028FFAB1B1CFE90F875068D41DD" box="[330,395,1984,2027]" name="Piti" pageId="21" pageNumber="171">Piti</location>
+, 
+<date id="CB7C1033FFAB1B1CFE77F875053841DD" box="[429,574,1984,2027]" pageId="21" pageNumber="171" value="1926-05">
+<collectingDate id="DB38E9DBFFAB1B1CFE77F875053841DD" box="[429,574,1984,2027]" pageId="21" pageNumber="171" value="1926-05">May 26</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAB1B1CFD86F875022641DD" ID-GBIF-Occurrence="3994027334" box="[604,1312,1984,2027]" collectedFrom="on Euphorbia hirta" collectingDate="1936-06-02" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="21" pageNumber="171">
+<date id="CB7C1033FFAB1B1CFD86F87505DB41DD" box="[604,733,1984,2027]" pageId="21" pageNumber="171">
+<collectingDate id="DB38E9DBFFAB1B1CFD86F87505DB41DD" box="[604,733,1984,2027]" pageId="21" pageNumber="171">June 2</collectingDate>
+</date>
+, on 
+<taxonomicName id="78C24D70FFAB1B1CFCE6F875036C41DD" authority="," authorityName="Usinger" box="[828,1130,1984,2027]" class="Magnoliopsida" family="Euphorbiaceae" genus="Euphorbia" kingdom="Plantae" order="Malpighiales" pageId="21" pageNumber="171" phylum="Tracheophyta" rank="species" species="hirta">
+<emphasis id="8DB6EAE1FFAB1B1CFCE6F875036C41DD" box="[828,1130,1984,2027]" italics="true" pageId="21" pageNumber="171">
+<location id="BA1D6028FFAB1B1CFCE6F87504F141DD" LSID="urn:lsid:plazi:treatment:376B87E5FFAB1B1CFED3F83A04364EB3:BA1D6028FFAB1B1CFCE6F87504F141DD" box="[828,1015,1984,2027]" name="Euphorbia" pageId="21" pageNumber="171">Euphorbia</location>
+hirta,
+</emphasis>
+</taxonomicName>
+<collectorName id="12375325FFAB1B1CFB59F875021F41DD" box="[1155,1305,1984,2027]" pageId="21" pageNumber="171">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAB1B1CFAE3F87506AE4E29" ID-GBIF-Occurrence="3994027561" collectingDate="1936-05-28" collectorName="R. L. Usinger" country="Guam" location="Umatac" pageId="21" pageNumber="171">
+<location id="BA1D6028FFAB1B1CFAE3F87502C341DD" LSID="urn:lsid:plazi:treatment:376B87E5FFAB1B1CFED3F83A04364EB3:BA1D6028FFAB1B1CFAE3F87502C341DD" box="[1337,1477,1984,2027]" name="Umatac" pageId="21" pageNumber="171">Umatac</location>
+, 
+<date id="CB7C1033FFAB1B1CFA3FF875017341DD" box="[1509,1653,1984,2027]" pageId="21" pageNumber="171" value="1928-05">
+<collectingDate id="DB38E9DBFFAB1B1CFA3FF875017341DD" box="[1509,1653,1984,2027]" pageId="21" pageNumber="171" value="1928-05">May 28</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFAB1B1CFED1F84106A74E29" box="[267,417,2036,2079]" pageId="21" pageNumber="171">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAB1B1CFE61F84103F04E29" ID-GBIF-Occurrence="3994027327" box="[443,1270,2036,2079]" collectedFrom="on Euphorbia atoto" collectingDate="1936-08-17" collectorName="O. H. Swezey" country="Guam" location="Sumay" pageId="21" pageNumber="171">
+<collectingMunicipality id="5F19AC89FFAB1B1CFE61F84105304E29" box="[443,566,2036,2079]" pageId="21" pageNumber="171">Sumay</collectingMunicipality>
+, 
+<date id="CB7C1033FFAB1B1CFD96F84105DA4E29" box="[588,732,2036,2079]" pageId="21" pageNumber="171" value="2017-08">
+<collectingDate id="DB38E9DBFFAB1B1CFD96F84105DA4E29" box="[588,732,2036,2079]" pageId="21" pageNumber="171" value="2017-08">Aug. 17</collectingDate>
+</date>
+, on 
+<taxonomicName id="78C24D70FFAB1B1CFCF7F84103514E29" authority="," box="[813,1111,2036,2079]" class="Magnoliopsida" family="Euphorbiaceae" genus="Euphorbia" kingdom="Plantae" order="Malpighiales" pageId="21" pageNumber="171" phylum="Tracheophyta" rank="species" species="atoto">
+<emphasis id="8DB6EAE1FFAB1B1CFCF7F84103514E29" box="[813,1111,2036,2079]" italics="true" pageId="21" pageNumber="171">
+<location id="BA1D6028FFAB1B1CFCF7F84104EF4E29" LSID="urn:lsid:plazi:treatment:376B87E5FFAB1B1CFED3F83A04364EB3:BA1D6028FFAB1B1CFCF7F84104EF4E29" box="[813,1001,2036,2079]" municipality="Sumay" name="Euphorbia" pageId="21" pageNumber="171">Euphorbia</location>
+atoto,
+</emphasis>
+</taxonomicName>
+<collectorName id="12375325FFAB1B1CFBB3F84103F74E29" box="[1129,1265,2036,2079]" pageId="21" pageNumber="171">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAB1B1CFE93F79D04364EB3" pageId="21" pageNumber="171" type="discussion">
+<paragraph id="BF7D36F3FFAB1B1CFE93F79D04364EB3" blockId="21.[265,1661,1935,2181]" pageId="21" pageNumber="171">
+A small species collected only a few times on 
+<emphasis id="8DB6EAE1FFAB1B1CFB4FF79D02514E64" box="[1173,1367,2088,2130]" italics="true" pageId="21" pageNumber="171">
+<taxonomicName id="78C24D70FFAB1B1CFB4FF79D02544E64" authorityName="C.Linnaeus" authorityYear="1753" box="[1173,1362,2088,2130]" class="Magnoliopsida" family="Euphorbiaceae" genus="Euphorbia" kingdom="Plantae" order="Malpighiales" pageId="21" pageNumber="171" phylum="Tracheophyta" rank="genus">Euphorbia</taxonomicName>
+.
+</emphasis>
+Determined by G. E. Bryant, British Museum.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

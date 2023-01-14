@@ -1,0 +1,144 @@
+<document id="6765F7F219B92A9C764D03D4EC3B1227" ID-DOI="http://doi.org/10.5281/zenodo.5127686" ID-GBIF-Dataset="7b960500-f4a3-4b8f-8b56-440fdc9431c9" ID-Zenodo-Dep="5127686" checkinTime="1626977897655" checkinUser="carolina" docAuthor="O. H. Swezey" docDate="1946" docId="484B8797FFABFFB7A5BEFE03A709FC0E" docLanguage="en" docName="InsectsOfGuamII.189.195-200.pdf.imf" docOrigin="Insects of Guam-II, Hawaii, Honolulu: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Phytomyza Fallen 1810" docType="treatment" docVersion="16" lastPageNumber="200" masterDocId="B472FFEFFFAEFFB2A40BFFD9A227FFD1" masterDocTitle="SOME MISCELLANEOUS DIPTERA OF GUAM" masterLastPageNumber="200" masterPageNumber="195" pageNumber="200" updateTime="1659465586346" updateUser="ExternalLinkService">
+<mods:mods id="F3431683B9218EF85AFA6218B3093FF7" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="4C15945227977400ACC6C6D814A8EF09">
+<mods:title id="0023B649B8666A5E7FD06C66CFAD0AE2">SOME MISCELLANEOUS DIPTERA OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="77725C52F7703C0607AF4E780329CDF3" type="personal">
+<mods:role id="796691AFD8E2F0F2A49B79CD4AA371FC">
+<mods:roleTerm id="4473D62781AF2C8DE82A660C7222E6FC">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="327E6312C961204D5474926037BFCBD3">O. H. Swezey</mods:namePart>
+<mods:affiliation id="D6D4546771D197566E8C56BBF0B05EFA">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="7CE3AB5835D78E191B9E7CDC0FBFC107">text</mods:typeOfResource>
+<mods:relatedItem id="F0FC95343C10604F2631BD667B9CADDD" type="host">
+<mods:originInfo id="86DE3E7E2F31D6CF3746AEAB5B83C4B9">
+<mods:dateIssued id="63D6BF7D399B4608856C0BFE8119927E">1946</mods:dateIssued>
+<mods:dateOther id="2CA75CC166267D30F9E97DB5DE8BD4F7" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="59886B4A74457D6792A2331B8840D8E4">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="9CF2A55C0210CF68555FB10B99B56819">
+<mods:placeTerm id="FC0BA2280AC3D5833F8730F2F55277FA">Hawaii, Honolulu</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="71DB6FD71CC9A6F03B88CD643F45AC13">
+<mods:title id="38AC049E5666D8C44B77829BA3C2CBB7">Insects of Guam-II</mods:title>
+</mods:titleInfo>
+<mods:part id="1F3458E82C881819C69FBA6EF12B7CB9">
+<mods:extent id="A16F81BD3B61A024BE05B4AE4EFCF0C7" unit="page">
+<mods:start id="D7410FEFE4C766535A2F9DF1628EB5F9">195</mods:start>
+<mods:end id="AD564DC14C894DB34A99902E02F68692">200</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="46C9B1FF5728D2272DAF09C8B5A3C707">book chapter</mods:classification>
+<mods:identifier id="D88C04C8ABA563472E42A0D00D815CCC" type="DOI">http://doi.org/10.5281/zenodo.5127686</mods:identifier>
+<mods:identifier id="C99A3F7E5D6115DEF1BED9B0AEBAAB81" type="GBIF-Dataset">7b960500-f4a3-4b8f-8b56-440fdc9431c9</mods:identifier>
+<mods:identifier id="6573269ACF346A6358A5118C2960D16F" type="Zenodo-Dep">5127686</mods:identifier>
+</mods:mods>
+<treatment id="484B8797FFABFFB7A5BEFE03A709FC0E" ID-DOI="http://doi.org/10.5281/zenodo.5211922" ID-GBIF-Taxon="184459687" ID-Zenodo-Dep="5211922" LSID="urn:lsid:plazi:treatment:484B8797FFABFFB7A5BEFE03A709FC0E" httpUri="http://treatment.plazi.org/id/484B8797FFABFFB7A5BEFE03A709FC0E" lastPageNumber="200" pageId="5" pageNumber="200">
+<subSubSection id="88F8650AFFABFFB7A5BEFE03A632FDD2" box="[437,1045,474,515]" pageId="5" pageNumber="200" type="nomenclature">
+<heading id="9B1581EDFFABFFB7A5BEFE03A50CFDD2" box="[437,1835,474,515]" centered="true" fontSize="8" level="2" pageId="5" pageNumber="200" reason="4">
+<paragraph id="C05D3681FFABFFB7A5BEFE03A628FDD2" blockId="5.[437,1839,474,991]" box="[437,1039,474,515]" pageId="5" pageNumber="200">
+<emphasis id="F296EA93FFABFFB7A5BEFE03A152FDD2" bold="true" box="[437,885,474,515]" pageId="5" pageNumber="200">
+22. * 
+<taxonomicName id="07E24D02FFABFFB7A612FE03A628FDD2" authorityName="Fallen" authorityYear="1810" box="[537,1039,474,515]" class="Insecta" family="Agromyzidae" genus="Phytomyza" kingdom="Animalia" order="Diptera" pageId="5" pageNumber="200" phylum="Arthropoda" rank="genus">
+Phytomyza spicata 
+<author id="185FDE64FFABFFB7A774FE03A628FDD2" box="[895,1039,474,515]" pageId="5" pageNumber="200">Malloch</author>
+</taxonomicName>
+</emphasis>
+</paragraph>
+<paragraph id="C05D3681FFABFFB7A004FE03A50CFDD2" blockId="5.[437,1839,474,991]" box="[1039,1835,474,515]" pageId="5" pageNumber="200">
+, 
+<subSubSection id="88F8650AFFABFFB7A028FE03A50CFDD2" box="[1059,1835,474,515]" pageId="5" pageNumber="200" type="reference_group">
+<treatmentCitationGroup id="E0F211AFFFABFFB7A028FE03A501FDD2" box="[1059,1830,474,515]" pageId="5" pageNumber="200">
+<bibCitation id="15C83EEDFFABFFB7A028FE03A501FDD2" author="Malloch" box="[1059,1830,474,515]" journalOrPublisher="Hist. - Nat. Mus. Nat. Hung., Ann." pageId="5" pageNumber="200" part="12" refId="ref2293" type="book" year="1914">
+<treatmentCitation id="41431090FFABFFB7A028FE03A48BFDD2" box="[1059,1708,474,515]" pageId="5" pageNumber="200">
+<journalOrPublisher id="1A233C4DFFABFFB7A028FE03A45BFDD2" box="[1059,1660,474,515]" pageId="5" pageNumber="200">Hist.-Nat. Mus. Nat. Hung., Ann.</journalOrPublisher>
+<emphasis id="F296EA93FFABFFB7A287FE03A497FDD2" bold="true" box="[1676,1712,474,515]" pageId="5" pageNumber="200">
+<part id="B4469C1CFFABFFB7A287FE03A48BFDD2" box="[1676,1708,474,515]" pageId="5" pageNumber="200">12</part>
+:
+</emphasis>
+</treatmentCitation>
+<year id="B44A77D2FFABFFB7A2DFFE03A501FDD2" box="[1748,1830,474,515]" pageId="5" pageNumber="200">1914</year>
+</bibCitation>
+</treatmentCitationGroup>
+.
+</subSubSection>
+</paragraph>
+</heading>
+</subSubSection>
+<subSubSection id="88F8650AFFABFFB7A5FCFDCFA46DFDA2" pageId="5" pageNumber="200" type="reference_group">
+<paragraph id="C05D3681FFABFFB7A5FCFDCFA46DFDA2" blockId="5.[437,1839,474,991]" pageId="5" pageNumber="200">
+<materialsCitation id="708A3CDCFFABFFB7A5FCFDCFA692FDEE" ID-GBIF-Occurrence="3874685309" box="[503,1205,534,575]" collectingDate="1936-05-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="5" pageNumber="200">
+<location id="C53D605AFFABFFB7A5FCFDCFA059FDEE" LSID="urn:lsid:plazi:treatment:484B8797FFABFFB7A5BEFE03A709FC0E:C53D605AFFABFFB7A5FCFDCFA059FDEE" box="[503,638,534,575]" name="Dededo" pageId="5" pageNumber="200">Dededo</location>
+, 
+<date id="B45C1041FFABFFB7A690FDCFA10CFDEE" box="[667,811,534,575]" pageId="5" pageNumber="200" value="2011-05">
+<collectingDate id="A418E9A9FFABFFB7A690FDCFA10CFDEE" box="[667,811,534,575]" pageId="5" pageNumber="200" value="2011-05">May 11</collectingDate>
+</date>
+, especially abundant;
+</materialsCitation>
+<materialsCitation id="708A3CDCFFABFFB7A0C0FDCFA407FDEE" ID-GBIF-Occurrence="3874685326" box="[1227,1568,534,575]" collectingDate="1936-05-19" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="5" pageNumber="200">
+<location id="C53D605AFFABFFB7A0C0FDCFA704FDEE" LSID="urn:lsid:plazi:treatment:484B8797FFABFFB7A5BEFE03A709FC0E:C53D605AFFABFFB7A0C0FDCFA704FDEE" box="[1227,1315,534,575]" name="Yigo" pageId="5" pageNumber="200">Yigo</location>
+,. 
+<date id="B45C1041FFABFFB7A14BFDCFA7EAFDEE" box="[1344,1485,534,575]" pageId="5" pageNumber="200" value="2019-05">
+<collectingDate id="A418E9A9FFABFFB7A14BFDCFA7EAFDEE" box="[1344,1485,534,575]" pageId="5" pageNumber="200" value="2019-05">May 19</collectingDate>
+</date>
+and
+</materialsCitation>
+<materialsCitation id="708A3CDCFFABFFB7A23EFDCFA4FFFDEE" ID-GBIF-Occurrence="3874685314" box="[1589,1752,534,575]" collectingDate="1936-11-13" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="5" pageNumber="200">
+<date id="B45C1041FFABFFB7A23EFDCFA4F7FDEE" box="[1589,1744,534,575]" pageId="5" pageNumber="200" value="2013-11">
+<collectingDate id="A418E9A9FFABFFB7A23EFDCFA4F7FDEE" box="[1589,1744,534,575]" pageId="5" pageNumber="200" value="2013-11">Nov. 13</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="708A3CDCFFABFFB7A2E5FDCFA0C6FDA2" ID-GBIF-Occurrence="3874685303" collectingDate="1936-05-26" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="5" pageNumber="200">
+<collectingMunicipality id="2039ACFBFFABFFB7A2E5FDCFA00FFDA2" pageId="5" pageNumber="200">Mt. Alifan</collectingMunicipality>
+, 
+<date id="B45C1041FFABFFB7A64FFD90A0FEFDA2" box="[580,729,585,627]" pageId="5" pageNumber="200" value="1926-05">
+<collectingDate id="A418E9A9FFABFFB7A64FFD90A0FEFDA2" box="[580,729,585,627]" pageId="5" pageNumber="200" value="1926-05">May 26</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="708A3CDCFFABFFB7A6FDFD90A642FDA2" ID-GBIF-Occurrence="3874685331" box="[758,1125,585,627]" collectingDate="1936-06-24" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="5" pageNumber="200">
+<location id="C53D605AFFABFFB7A6FDFD90A18EFDA2" LSID="urn:lsid:plazi:treatment:484B8797FFABFFB7A5BEFE03A709FC0E:C53D605AFFABFFB7A6FDFD90A18EFDA2" box="[758,937,585,627]" name="Barrigada" pageId="5" pageNumber="200">Barrigada</location>
+, 
+<date id="B45C1041FFABFFB7A7CFFD90A679FDA2" box="[964,1118,585,627]" pageId="5" pageNumber="200" value="1924-06">
+<collectingDate id="A418E9A9FFABFFB7A7CFFD90A679FDA2" box="[964,1118,585,627]" pageId="5" pageNumber="200" value="1924-06">June 24</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="708A3CDCFFABFFB7A071FD90A796FDA2" ID-GBIF-Occurrence="3874685304" box="[1146,1457,585,627]" collectingDate="1936-07-31" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="200">
+<location id="C53D605AFFABFFB7A071FD90A69AFDA2" LSID="urn:lsid:plazi:treatment:484B8797FFABFFB7A5BEFE03A709FC0E:C53D605AFFABFFB7A071FD90A69AFDA2" box="[1146,1213,585,627]" name="Piti" pageId="5" pageNumber="200">Piti</location>
+, 
+<date id="B45C1041FFABFFB7A0DCFD90A77CFDA2" box="[1239,1371,585,627]" pageId="5" pageNumber="200" value="1931-07">
+<collectingDate id="A418E9A9FFABFFB7A0DCFD90A77CFDA2" box="[1239,1371,585,627]" pageId="5" pageNumber="200" value="1931-07">July 31</collectingDate>
+</date>
+and
+</materialsCitation>
+<materialsCitation id="708A3CDCFFABFFB7A1CFFD90A46DFDA2" ID-GBIF-Occurrence="3874685318" box="[1476,1610,585,627]" collectingDate="1936-08-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="200">
+<date id="B45C1041FFABFFB7A1CFFD90A46DFDA2" box="[1476,1610,585,627]" pageId="5" pageNumber="200">
+<collectingDate id="A418E9A9FFABFFB7A1CFFD90A46DFDA2" box="[1476,1610,585,627]" pageId="5" pageNumber="200">Aug. 9.</collectingDate>
+</date>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFABFFB7A5F3FD5BA709FC0E" pageId="5" pageNumber="200" type="discussion">
+<paragraph id="C05D3681FFABFFB7A5F3FD5BA709FC0E" blockId="5.[437,1839,474,991]" pageId="5" pageNumber="200">
+Described from· 
+<collectingCountry id="B8F57611FFABFFB7A72AFD5BA19BFD7F" box="[801,956,642,686]" name="Taiwan" pageId="5" pageNumber="200">Formosa</collectingCountry>
+and occurs in 
+<collectingCountry id="B8F57611FFABFFB7A0D1FD5BA73CFD7F" box="[1242,1307,642,686]" name="Fiji" pageId="5" pageNumber="200">Fiji</collectingCountry>
+and 
+<collectingCountry id="B8F57611FFABFFB7A18FFD5BA7DBFD7F" box="[1412,1532,642,686]" name="Samoa" pageId="5" pageNumber="200">Samoa</collectingCountry>
+. Not previously recorded in 
+<collectingCountry id="B8F57611FFABFFB7A696FD6FA12FFD30" box="[669,776,694,737]" name="Guam" pageId="5" pageNumber="200">Guam</collectingCountry>
+, where we found it very abundant. The larvae are leafminers in young corn plants, producing narrow, longitudinal, parallel mines and often as many as 100 per leaf. Very injurious to the early growth of corn plants. Apparently well controlled later by the eulophid parasite, 
+<taxonomicName id="07E24D02FFABFFB7A27FFC89A1C4FC7D" authority="Girault" authorityName="Girault" authorityYear="1916" class="Insecta" family="Eulophidae" genus="Hemiptarsenoideus" higherTaxonomySource="CoL" kingdom="Animalia" order="Hymenoptera" pageId="5" pageNumber="200" phylum="Arthropoda" rank="species" species="semialbiclava">
+<emphasis id="F296EA93FFABFFB7A27FFC89A171FC7D" italics="true" pageId="5" pageNumber="200">Hemiptarsenoideus semialbiclava</emphasis>
+Girault
+</taxonomicName>
+, which reared out abundantly. Leafminer work was observed nearly everywhere on young corn.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

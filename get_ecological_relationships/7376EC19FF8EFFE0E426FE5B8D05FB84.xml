@@ -1,0 +1,160 @@
+<document id="27D28E4BECEF7427CE5DEB639D793B23" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8EFFE0E426FE5B8D05FB84" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Echthrogonatopus exitious" docType="treatment" docVersion="18" lastPageNumber="215" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="215" updateTime="1663769165332" updateUser="annettekang">
+<mods:mods id="CFD98D3D3AD0C2F5D3375803019F3111" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="428AF42D0117BB2706E94265D486BF0E">
+<mods:title id="FD1C39AEFFD5725B090AB44727AA1396">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="A17E64A9F531A73E09EE2B9BC5F6C9F7" type="personal">
+<mods:role id="D69FE7B75DC8B6374F1A3F333BC63217">
+<mods:roleTerm id="759DD39648991079F6535563AAC55B35">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B8D970E04328215BD8510695C7717FF6">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="1BF25E9286C97CF9CA4966D3865E1585">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9E25C819FC4BCA6663E2FAA9EF808A9F">text</mods:typeOfResource>
+<mods:relatedItem id="22A422CE5F6D1AF9DD4B8CFA461AB6B9" type="host">
+<mods:originInfo id="BCCE283AC7D347848F7874A1341A14A3">
+<mods:dateIssued id="D0606F7A21747B7B1EC819F4EFFA2766">1946</mods:dateIssued>
+<mods:dateOther id="100D1D96AAA24D565E92B5876476D32F" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="8F1BA1BD622CA2B58A6852D039A60780">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="4CDF579C6C51261987FB1A6F3F5BD30D">
+<mods:placeTerm id="DB45374BD959432C82FEC95220B5DCEC">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="03C56F96E53275FA5A6E02FB796B4A0A">
+<mods:title id="9858E484BB5638850519DE825D324903">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="F069117306CF01A24956A73C222CD9D5">
+<mods:extent id="EBCBBB2B1A389707E2384B0EC76BEA0D" unit="page">
+<mods:start id="B82433AC47F06BF272BA59D9A0D48958">211</mods:start>
+<mods:end id="FF6EAEB616F8E4D675A7CA850A01CDAF">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="98684B375D241FF7AF46F398C1E0F977">book chapter</mods:classification>
+<mods:identifier id="4C26032BEB9C51DF83FD4665393C994B" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="C611A89366D0DC11FD7E65348E669A52" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="4E0D739517670376363A1DFA28A4CD56" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8EFFE0E426FE5B8D05FB84" ID-DOI="http://doi.org/10.5281/zenodo.5212003" ID-GBIF-Taxon="187737393" ID-Zenodo-Dep="5212003" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E426FE5B8D05FB84" httpUri="http://treatment.plazi.org/id/7376EC19FF8EFFE0E426FE5B8D05FB84" lastPageNumber="215" pageId="4" pageNumber="215">
+<subSubSection id="B3C50E84FF8EFFE0E426FE5B8B7BFDF3" box="[293,1061,503,545]" pageId="4" pageNumber="215" type="nomenclature">
+<paragraph id="FB605D0FFF8EFFE0E426FE5B8B7BFDF3" blockId="4.[292,1692,503,1110]" box="[293,1061,503,545]" pageId="4" pageNumber="215">
+<heading id="A028EA63FF8EFFE0E426FE5B8B7BFDF3" box="[293,1061,503,545]" centered="true" fontSize="8" level="2" pageId="4" pageNumber="215" reason="4">
+<taxonomicName id="3CDF268CFF8EFFE0E426FE5B8C25FDF3" authority="Perkins" box="[293,891,503,545]" class="Insecta" family="Encyrtidae" genus="Echthrogonatopus" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="215" phylum="Arthropoda" rank="species" species="exitious">
+<emphasis id="C9AB811DFF8EFFE0E426FE5B8C25FDF3" bold="true" box="[293,891,503,545]" pageId="4" pageNumber="215">29. Echthrogonatopus exitiosus</emphasis>
+</taxonomicName>
+<author id="2362B5EAFF8EFFE0E68CFE5B8B40FDF3" box="[911,1054,503,545]" pageId="4" pageNumber="215">Perkins</author>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8EFFE0E139FE5B8CEEFD87" pageId="4" pageNumber="215" type="reference_group">
+<paragraph id="FB605D0FFF8EFFE0E139FE5B8CEEFD87" blockId="4.[292,1692,503,1110]" pageId="4" pageNumber="215">
+<treatmentCitationGroup id="DBCF7A21FF8EFFE0E139FE5B8CEEFD87" pageId="4" pageNumber="215">
+<bibCitation id="2EF55563FF8EFFE0E139FE5B8CEEFD87" author="Perkins" journalOrPublisher="Haw. Sugar Plant. Assoc. Expt. Sta., Ent. Bull." pageId="4" pageNumber="215" pagination="256" part="1" refId="ref1768" type="journal article" year="1906">
+<treatmentCitation id="7A7E7B1EFF8EFFE0E139FE5B8CF5FD87" author="Perkins" page="256" pageId="4" pageNumber="215" year="1906">
+<journalOrPublisher id="211E57C3FF8EFFE0E139FE5B8D2BFD87" pageId="4" pageNumber="215">Haw. Sugar Plant. Assoc. Expt. Sta., Ent. Bull.</journalOrPublisher>
+<part id="8F7BF792FF8EFFE0E78AFD878DC2FD87" box="[649,668,555,597]" pageId="4" pageNumber="215" type="volume">1</part>
+(
+<part id="8F7BF792FF8EFFE0E7AEFD878D99FD87" box="[685,711,555,597]" pageId="4" pageNumber="215" type="issue">8</part>
+): 
+<pagination id="C216A3FBFF8EFFE0E603FD878C63FD87" box="[768,829,555,597]" pageId="4" pageNumber="215" type="pagination">256</pagination>
+, 
+<year id="8F771C5CFF8EFFE0E654FD878CF5FD87" box="[855,939,555,597]" pageId="4" pageNumber="215">1906</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8EFFE0E467FDF28C51FC3C" pageId="4" pageNumber="215" type="materials_examined">
+<paragraph id="FB605D0FFF8EFFE0E467FDF28C51FC3C" blockId="4.[292,1692,503,1110]" pageId="4" pageNumber="215">
+<materialsCitation id="4BB75752FF8EFFE0E467FDF289C4FD5A" ID-GBIF-Occurrence="3901040382" box="[356,1690,606,648]" collectedFrom="swept from mango leaves, near a taro patch" collectingDate="1936-05-04" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="4" pageNumber="215" specimenCount="1">
+<collectingMunicipality id="1B04C775FF8EFFE0E467FDF28E84FD5A" box="[356,474,606,648]" pageId="4" pageNumber="215">Agana</collectingMunicipality>
+, 
+<date id="8F617BCFFF8EFFE0E4F0FDF28D34FD5A" box="[499,618,606,648]" pageId="4" pageNumber="215">
+<collectingDate id="9F258227FF8EFFE0E4F0FDF28D34FD5A" box="[499,618,606,648]" pageId="4" pageNumber="215">May 4</collectingDate>
+</date>
+, one swept from mango leaves, near a taro patch, 
+<collectorName id="562A38D9FF8EFFE0E304FDF289CDFD5A" box="[1543,1683,606,648]" pageId="4" pageNumber="215">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8EFFE0E424FD3D8C4EFD3C" ID-GBIF-Occurrence="3901040395" collectedFrom="reared from dryinid cocoon from a delphacid leafhopper on Sporobolus grass" collectingDate="1936-05-07" collectorName="R. L. Usinger" country="Guam" location="Inarajan" pageId="4" pageNumber="215" specimenCount="1">
+<collectingMunicipality id="1B04C775FF8EFFE0E424FD3D8E9CFD69" box="[295,450,657,699]" pageId="4" pageNumber="215">Inarajan</collectingMunicipality>
+, 
+<date id="8F617BCFFF8EFFE0E4D8FD3D8D0CFD69" box="[475,594,657,699]" pageId="4" pageNumber="215">
+<collectingDate id="9F258227FF8EFFE0E4D8FD3D8D0CFD69" box="[475,594,657,699]" pageId="4" pageNumber="215">May 7</collectingDate>
+</date>
+, reared from dryinid cocoon from a delphacid leafhopper on 
+<taxonomicName id="3CDF268CFF8EFFE0E425FD698EB3FD3C" box="[294,493,709,750]" class="Liliopsida" family="Poaceae" genus="Sporobolus" kingdom="Plantae" order="Poales" pageId="4" pageNumber="215" phylum="Tracheophyta" rank="genus">
+<emphasis id="C9AB811DFF8EFFE0E425FD698EB3FD3C" box="[294,493,709,750]" italics="true" pageId="4" pageNumber="215">
+<location id="FE000BD4FF8EFFE0E425FD698EB3FD3C" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E426FE5B8D05FB84:FE000BD4FF8EFFE0E425FD698EB3FD3C" box="[294,493,709,750]" municipality="Inarajan" name="Sporobolus" pageId="4" pageNumber="215">Sporobolus</location>
+</emphasis>
+</taxonomicName>
+grass, 
+<location id="FE000BD4FF8EFFE0E772FD698C57FD3C" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E426FE5B8D05FB84:FE000BD4FF8EFFE0E772FD698C57FD3C" box="[625,777,709,750]" municipality="Inarajan" name="Usinger" pageId="4" pageNumber="215">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8EFFE0E621FD698D47FCF0" ID-GBIF-Occurrence="3901040373" collectedFrom="reared from dryinid cocoon on taro leaf" collectingDate="1936-05-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="215">
+<collectingMunicipality id="1B04C775FF8EFFE0E621FD698C3BFD3C" box="[802,869,709,750]" pageId="4" pageNumber="215">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF8EFFE0E67DFD698B56FD3C" box="[894,1032,709,750]" pageId="4" pageNumber="215" value="2012-05">
+<collectingDate id="9F258227FF8EFFE0E67DFD698B56FD3C" box="[894,1032,709,750]" pageId="4" pageNumber="215" value="2012-05">May 12</collectingDate>
+</date>
+, reared from dryinid cocoon on taro leaf, 
+<collectorName id="562A38D9FF8EFFE0E486FD548D4CFCF0" box="[389,530,760,802]" pageId="4" pageNumber="215">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8EFFE0E72FFD548A29FCF0" ID-GBIF-Occurrence="3901040370" box="[556,1399,760,802]" collectedFrom="swept from lawn grass" collectingDate="1936-05-23" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="215">
+<collectingMunicipality id="1B04C775FF8EFFE0E72FFD548D2EFCF0" box="[556,624,760,802]" pageId="4" pageNumber="215">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF8EFFE0E78BFD548C4DFCF0" box="[648,787,760,802]" pageId="4" pageNumber="215" value="1923-05">
+<collectingDate id="9F258227FF8EFFE0E78BFD548C4DFCF0" box="[648,787,760,802]" pageId="4" pageNumber="215" value="1923-05">May 23</collectingDate>
+</date>
+, swept from lawn grass, 
+<collectorName id="562A38D9FF8EFFE0E1E7FD548A2EFCF0" box="[1252,1392,760,802]" pageId="4" pageNumber="215">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8EFFE0E088FD548B99FC87" ID-GBIF-Occurrence="3901040350" collectedFrom="reared from dryinid cocoon on taro" collectingDate="1936-10-02" collectorName="O. H. Swezey" country="Guam" location="Merizo" pageId="4" pageNumber="215" specimenCount="4">
+<location id="FE000BD4FF8EFFE0E088FD548955FCF0" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E426FE5B8D05FB84:FE000BD4FF8EFFE0E088FD548955FCF0" box="[1419,1547,760,802]" name="Merizo" pageId="4" pageNumber="215">Merizo</location>
+, 
+<date id="8F617BCFFF8EFFE0E320FD5489CAFCF0" box="[1571,1684,760,802]" pageId="4" pageNumber="215">
+<collectingDate id="9F258227FF8EFFE0E320FD5489CAFCF0" box="[1571,1684,760,802]" pageId="4" pageNumber="215">Oct. 2</collectingDate>
+</date>
+, four reared from dryinid cocoon on taro, 
+<collectorName id="562A38D9FF8EFFE0E131FC868B9EFC87" box="[1074,1216,810,853]" pageId="4" pageNumber="215">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8EFFE0E1D9FC868C51FC3C" ID-GBIF-Occurrence="3901040353" collectedFrom="reared from dryinid cocoon on taro leaves" collectingDate="1936-11-10" collectorName="O. H. Swezey" country="Guam" location="Libugon Farm" pageId="4" pageNumber="215" specimenCount="8">
+Libugon Farm, 
+<date id="8F617BCFFF8EFFE0E301FC8689CAFC87" box="[1538,1684,810,853]" pageId="4" pageNumber="215" value="2010-11">
+<collectingDate id="9F258227FF8EFFE0E301FC8689CAFC87" box="[1538,1684,810,853]" pageId="4" pageNumber="215" value="2010-11">Nov. 10</collectingDate>
+</date>
+, eight reared from dryinid cocoons on taro leaves, 
+<collectorName id="562A38D9FF8EFFE0E1AFFCF08A6DFC5A" box="[1196,1331,860,904]" pageId="4" pageNumber="215">Swezey</collectorName>
+. 
+<location id="FE000BD4FF8EFFE0E050FCF08AFAFC5A" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E426FE5B8D05FB84:FE000BD4FF8EFFE0E050FCF08AFAFC5A" box="[1363,1444,860,904]" country="United States of America" name="Two" pageId="4" pageNumber="215">Two</location>
+slide mounts, one retained at 
+<collectingCountry id="83C81D9FFF8EFFE0E739FC3D8DC9FC69" box="[570,663,913,955]" name="United States of America" pageId="4" pageNumber="215">U. S.</collectingCountry>
+<location id="FE000BD4FF8EFFE0E7A4FC3D8CB1FC69" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E426FE5B8D05FB84:FE000BD4FF8EFFE0E7A4FC3D8CB1FC69" box="[679,1007,913,955]" country="United States of America" name="National Museum" pageId="4" pageNumber="215">National Museum</location>
+; 
+<specimenCount id="EDD99686FF8EFFE0E10AFC3D8BB2FC69" box="[1033,1260,913,955]" pageId="4" pageNumber="215" type="generic">13 specimens</specimenCount>
+on points, four retained at 
+<collectingCountry id="83C81D9FFF8EFFE0E455FC6F8EEBFC3C" box="[342,437,963,1006]" name="United States of America" pageId="4" pageNumber="215">U. S.</collectingCountry>
+<location id="FE000BD4FF8EFFE0E4C4FC6F8C54FC3C" LSID="urn:lsid:plazi:treatment:7376EC19FF8EFFE0E426FE5B8D05FB84:FE000BD4FF8EFFE0E4C4FC6F8C54FC3C" box="[455,778,963,1006]" country="United States of America" name="National Museum" pageId="4" pageNumber="215">National Museum</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8EFFE0E62AFC6F8D05FB84" pageId="4" pageNumber="215" type="discussion">
+<paragraph id="FB605D0FFF8EFFE0E62AFC6F8D05FB84" blockId="4.[292,1692,503,1110]" pageId="4" pageNumber="215">
+A parasite of 
+<taxonomicName id="3CDF268CFF8EFFE0E126FC6F8B87FC3C" box="[1061,1241,963,1006]" class="Insecta" family="Dryinidae" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="215" phylum="Arthropoda" rank="family">Dryinidae</taxonomicName>
+. The host of the dryinid whose cocoons were on taro leaves was the taro leafhopper 
+<taxonomicName id="3CDF268CFF8EFFE0E074FC548D05FB84" authority="Kirkaldy." authorityName="Kirkaldy." class="Insecta" family="Delphacidae" genus="Megamelus" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="215" phylum="Arthropoda" rank="species" species="proserpina">
+<emphasis id="C9AB811DFF8EFFE0E074FC548EFAFB84" italics="true" pageId="4" pageNumber="215">Megamelus proserpina</emphasis>
+Kirkaldy.
+</taxonomicName>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

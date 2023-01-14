@@ -1,0 +1,159 @@
+<document id="1E2B3485F9D4DEB7BC81ED78A2FEDEB7" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E959FFB2FEF68A3991040130" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Margaronia indica" docType="treatment" docVersion="20" lastPageNumber="181" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="181" updateTime="1670265188883" updateUser="annettekang">
+<mods:mods id="DBC80CAD376595F59D98216BE044CA8D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="644DEE55208718D72452A9642E17CAB1">
+<mods:title id="3653A0FF535C22DC65EF68BE82123CB3">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="A75FA0F12DC89097FB6695AE84849B9F" type="personal">
+<mods:role id="670B346DBDB927125D33C50FACE21EDC">
+<mods:roleTerm id="A6C2F4062468C6F15B21CA673888BBBF">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3B065D20B7DB6277223B29D1793BF877">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="F7791CDF942816C1B31F24B783015C57">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="BB0781153C41B9CCE35ADD85D33F0EBA">text</mods:typeOfResource>
+<mods:relatedItem id="1DFDE3F960440833048EA9C5252C62F7" type="host">
+<mods:originInfo id="77ECF6ABDD925EA4147D6D3F4A0DA516">
+<mods:dateIssued id="FF8F85D693349482E94DC41D85D0785A">1946</mods:dateIssued>
+<mods:dateOther id="1B2BB2F3B3471E32258BD526A2F47DB9" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="9413A3FED07F170ADFD0E08BAACBC5D5">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="444A5AA604F533E1D20A02E6F196C728">
+<mods:placeTerm id="016EBB3635C4E8AE94C62F5FF0012E57">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="FC60CAD9A5453CC7E306171235EDE3F0">
+<mods:title id="8965D3E8BBD7E29623808F319CB21006">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="48986E602D8628EA7C410A80C12BB966">
+<mods:extent id="F30661C3690B45388626E617B835DB66" unit="page">
+<mods:start id="A4BAF4E78AE847594D9F9C97E28C727B">163</mods:start>
+<mods:end id="5891878EE5A2C0C0AEA36E43BF120D1D">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="6EB240BD8E5CCA1841DDAF8E9D01E3A9">book chapter</mods:classification>
+<mods:identifier id="82E2342C43569BC70162BB2919865744" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="8C27A05470115EDF838B77A266C7FCF0" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="3B68CDDA091535582AC27C0874650751" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E959FFB2FEF68A3991040130" ID-DOI="http://doi.org/10.5281/zenodo.5171095" ID-GBIF-Taxon="183926927" ID-Zenodo-Dep="5171095" LSID="urn:lsid:plazi:treatment:03B387B8E959FFB2FEF68A3991040130" httpUri="http://treatment.plazi.org/id/03B387B8E959FFB2FEF68A3991040130" lastPageId="19" lastPageNumber="181" pageId="18" pageNumber="181">
+<subSubSection id="C3006525E959FFB3FEF68A3991B00B62" box="[313,966,2052,2093]" pageId="18" pageNumber="181" type="nomenclature">
+<paragraph id="8BA536AEE959FFB3FEF68A3991B00B62" blockId="18.[313,1713,2052,2461]" box="[313,966,2052,2093]" pageId="18" pageNumber="181">
+<heading id="D0ED81C2E959FFB3FEF68A3991B00B62" box="[313,966,2052,2093]" fontSize="8" level="2" pageId="18" pageNumber="181" reason="4">
+<emphasis id="B96EEABCE959FFB3FEF68A39931D0B62" bold="true" box="[313,363,2052,2093]" pageId="18" pageNumber="181">29.</emphasis>
+<taxonomicName id="4C1A4D2DE959FFB3FE438A3991B60B62" authority="(Saunders)" baseAuthorityName="Saunders" box="[396,960,2052,2093]" class="Insecta" family="Crambidae" genus="Margaronia" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="18" pageNumber="181" phylum="Arthropoda" rank="species" species="indica">
+<emphasis id="B96EEABCE959FFB3FE438A3990A90B62" bold="true" box="[396,735,2052,2093]" pageId="18" pageNumber="181">Margaronia indica</emphasis>
+(Saunders)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E959FFB3FEB68A0B97260BB4" pageId="18" pageNumber="181" type="description">
+<paragraph id="8BA536AEE959FFB3FEB68A0B90C00BDB" blockId="18.[313,1713,2052,2461]" pageId="18" pageNumber="181">
+<treatmentCitationGroup id="AB0A1180E959FFB3FEB68A0B90C00BDB" pageId="18" pageNumber="181">
+<bibCitation id="5E303EC2E959FFB3FEB68A0B90C00BDB" author="Saunders" journalOrPublisher="Ent. Soc. London, Trans" pageId="18" pageNumber="181" pagination="163" part="2" refId="ref10242" type="journal article" year="1851">
+<treatmentCitation id="0ABB10BFE959FFB3FEB68A0B90C70BDB" author="Saunders" page="163" pageId="18" pageNumber="181" year="1851">
+<emphasis id="B96EEABCE959FFB3FEB68A0B90D10B2E" box="[377,679,2102,2145]" italics="true" pageId="18" pageNumber="181">Eudioptes indica</emphasis>
+<author id="53A7DE4BE959FFB3FD728A0B91140B2E" box="[701,866,2102,2145]" pageId="18" pageNumber="181">Saunders</author>
+, 
+<journalOrPublisher id="51DB3C62E959FFB3FCB18A0B97240B2E" box="[894,1362,2102,2145]" pageId="18" pageNumber="181">Ent. Soc. London, Trans</journalOrPublisher>
+. 
+<part id="FFBE9C33E959FFB3FAA28A0B97FC0B2E" box="[1389,1418,2102,2145]" pageId="18" pageNumber="181" type="volume">2</part>
+(
+<part id="FFBE9C33E959FFB3FA548A0B97DB0B2E" box="[1435,1453,2102,2145]" pageId="18" pageNumber="181" type="issue">1</part>
+): 
+<pagination id="B2D3C85AE959FFB3FA258A0B94550B2E" box="[1514,1571,2102,2145]" pageId="18" pageNumber="181" type="pageRange">163</pagination>
+, pl. 12, figs. 
+<emphasis id="B96EEABCE959FFB3FDC28A54903A0BDB" box="[525,588,2153,2196]" italics="true" pageId="18" pageNumber="181">5-7</emphasis>
+, 
+<year id="FFB277FDE959FFB3FDAB8A5490C70BDB" box="[612,689,2153,2196]" pageId="18" pageNumber="181">1851</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE959FFB3FEB58AA0944C0B88" blockId="18.[313,1713,2052,2461]" box="[378,1594,2205,2247]" pageId="18" pageNumber="181">
+<treatmentCitationGroup id="AB0A1180E959FFB3FEB58AA0944C0B88" box="[378,1594,2205,2247]" pageId="18" pageNumber="181">
+<bibCitation id="5E303EC2E959FFB3FEB58AA0944C0B88" author="Hampson" box="[378,1594,2205,2247]" pageId="18" pageNumber="181" pagination="360" part="4" refId="ref10273" title="Fauna Brit. India, Moths" type="journal article" year="1896">
+<emphasis id="B96EEABCE959FFB3FEB58AA090C70B88" box="[378,689,2205,2247]" italics="true" pageId="18" pageNumber="181">Glyphodes indica,</emphasis>
+<treatmentCitation id="0ABB10BFE959FFB3FD0D8AA094430B88" author="Hampson" box="[706,1589,2205,2247]" page="360" pageId="18" pageNumber="181" year="1869">
+<author id="53A7DE4BE959FFB3FD0D8AA091180B88" box="[706,878,2205,2247]" pageId="18" pageNumber="181">Hampson</author>
+, 
+<title id="F91EDD98E959FFB3FC488AA0973D0B88" box="[903,1355,2205,2247]" pageId="18" pageNumber="181">
+Fauna Brit. 
+<collectingCountry id="F30D763EE959FFB3FBAA8AA096B50B88" box="[1125,1219,2205,2247]" name="India" pageId="18" pageNumber="181">India</collectingCountry>
+, Moths
+</title>
+<part id="FFBE9C33E959FFB3FA968AA097010B88" box="[1369,1399,2205,2247]" pageId="18" pageNumber="181" type="volume">4</part>
+: 
+<pagination id="B2D3C85AE959FFB3FA438AA097BC0B88" box="[1420,1482,2205,2247]" pageId="18" pageNumber="181" type="pagination">360</pagination>
+, 
+<year id="FFB277FDE959FFB3FA2C8AA094430B88" box="[1507,1589,2205,2247]" pageId="18" pageNumber="181">1896</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE959FFB3FEB78AED97260BB4" blockId="18.[313,1713,2052,2461]" box="[376,1360,2256,2299]" pageId="18" pageNumber="181">
+<treatmentCitationGroup id="AB0A1180E959FFB3FEB78AED97260BB4" box="[376,1360,2256,2299]" pageId="18" pageNumber="181">
+<bibCitation id="5E303EC2E959FFB3FEB78AED97260BB4" author="Tams" box="[376,1360,2256,2299]" pageId="18" pageNumber="181" pagination="282" part="3" refId="ref10290" title="Ins. Samoa" type="journal article" year="1935">
+<emphasis id="B96EEABCE959FFB3FEB78AED90BC0BB4" box="[376,714,2256,2299]" italics="true" pageId="18" pageNumber="181">Margaronia indica,</emphasis>
+<treatmentCitation id="0ABB10BFE959FFB3FD148AED973D0BB4" author="Tams" box="[731,1355,2256,2299]" page="282" pageId="18" pageNumber="181" year="1935">
+<author id="53A7DE4BE959FFB3FD148AED91360BB4" box="[731,832,2256,2299]" pageId="18" pageNumber="181">Tams</author>
+, 
+<title id="F91EDD98E959FFB3FC968AED96690BB4" box="[857,1055,2256,2299]" pageId="18" pageNumber="181">
+Ins. 
+<collectingCountry id="F30D763EE959FFB3FC638AED96690BB4" box="[940,1055,2256,2299]" name="Samoa" pageId="18" pageNumber="181">Samoa</collectingCountry>
+</title>
+<part id="FFBE9C33E959FFB3FBE08AED96350BB4" box="[1071,1091,2256,2299]" pageId="18" pageNumber="181" type="volume">3</part>
+(
+<part id="FFBE9C33E959FFB3FB9E8AED961F0BB4" box="[1105,1129,2256,2299]" pageId="18" pageNumber="181" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE959FFB3FB518AED96A90BB4" box="[1182,1247,2256,2299]" pageId="18" pageNumber="181" type="pagination">282</pagination>
+, 
+<year id="FFB277FDE959FFB3FB378AED973D0BB4" box="[1272,1355,2256,2299]" pageId="18" pageNumber="181">1935</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E959FFB2FEB58B3091040130" lastPageId="19" lastPageNumber="182" pageId="18" pageNumber="181" type="description">
+<paragraph id="8BA536AEE959FFB2FEB58B3091040130" blockId="18.[313,1713,2052,2461]" lastBlockId="19.[434,1833,392,639]" lastPageId="19" lastPageNumber="182" pageId="18" pageNumber="181">
+This cucumber and melon pest occurs throughout Ethiopian, Oriental, and Australian regions, 
+<collectingCountry id="F30D763EE959FFB3FD648B7D90980A25" box="[683,750,2368,2410]" name="Fiji" pageId="18" pageNumber="181">Fiji</collectingCountry>
+, 
+<collectingCountry id="F30D763EE959FFB3FCC08B7D91F30A25" box="[783,901,2368,2410]" name="Samoa" pageId="18" pageNumber="181">Samoa</collectingCountry>
+, and Marquesas. It was not previously re­ ported from 
+<collectingCountry id="F30D763EE959FFB3FDEC8B4990F90AD2" box="[547,655,2420,2461]" name="Guam" pageId="18" pageNumber="181">Guam</collectingCountry>
+, and we found only an occasional caterpillar on cucumber, melon, and pumpkin leaves. The only two reared were from 
+<materialsCitation id="3B723CF3E958FFB2F9EF83B5915E02A8" ID-GBIF-Occurrence="3913652484" collectedFrom="on honeydew melon" collectingDate="1936-05-19" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="19" pageNumber="182">
+<location id="8EC56075E958FFB2F9EF83B5940E02FB" LSID="urn:lsid:plazi:treatment:03B387B8E959FFB2FEF68A3991040130:8EC56075E958FFB2F9EF83B5940E02FB" box="[1568,1656,392,436]" pageId="19" pageNumber="182">Yigo</location>
+, 
+<date id="FFA4106EE958FFB2F95C83B5955702FB" box="[1683,1825,392,436]" pageId="19" pageNumber="182" value="2019-05">
+<collectingDate id="EFE0E986E958FFB2F95C83B5955702FB" box="[1683,1825,392,436]" pageId="19" pageNumber="182" value="2019-05">May 19</collectingDate>
+</date>
+, on honeydew melon
+</materialsCitation>
+; 
+<materialsCitation id="3B723CF3E958FFB2FC888381944102A8" ID-GBIF-Occurrence="3913652322" box="[839,1591,444,487]" collectedFrom="on pepino melon" collectingDate="1936-09-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="19" pageNumber="182">
+<location id="8EC56075E958FFB2FC88838191FF02A8" LSID="urn:lsid:plazi:treatment:03B387B8E959FFB2FEF68A3991040130:8EC56075E958FFB2FC88838191FF02A8" box="[839,905,444,487]" pageId="19" pageNumber="182">
+<collectingMunicipality id="6BC1ACD4E958FFB2FC88838191FF02A8" box="[839,905,444,487]" pageId="19" pageNumber="182">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE958FFB2FC668381963402A8" box="[937,1090,444,487]" pageId="19" pageNumber="182" value="1930-09">
+<collectingDate id="EFE0E986E958FFB2FC668381963402A8" box="[937,1090,444,487]" pageId="19" pageNumber="182" value="1930-09">Sept. 30</collectingDate>
+</date>
+, on pepino melon, 
+<collectorName id="26EF5378E958FFB2FA7E8381944102A8" box="[1457,1591,444,487]" pageId="19" pageNumber="182">Swezey</collectorName>
+</materialsCitation>
+. Two caterpillars on cucumber leaves at Agana swamp were parasitized, probably by 
+<emphasis id="B96EEABCE958FFB2FE7B801F91080102" box="[436,894,546,589]" italics="true" pageId="19" pageNumber="182">
+<taxonomicName id="4C1A4D2DE958FFB2FE7B801F910E0102" baseAuthorityName="Cameron" baseAuthorityYear="1907" box="[436,888,546,589]" class="Insecta" family="Ichneumonidae" genus="Cremastus" kingdom="Animalia" order="Hymenoptera" pageId="19" pageNumber="182" phylum="Arthropoda" rank="species" species="flavo-orbitalis">Cremastus flavo-orbitalis</taxonomicName>
+,
+</emphasis>
+but as the parasites died in cocoons, I cannot be positive of their identity.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

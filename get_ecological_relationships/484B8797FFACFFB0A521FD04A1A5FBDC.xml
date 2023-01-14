@@ -1,0 +1,130 @@
+<document id="7EAA66CCDC07B56488AD186127DDBB69" ID-DOI="http://doi.org/10.5281/zenodo.5127686" ID-GBIF-Dataset="7b960500-f4a3-4b8f-8b56-440fdc9431c9" ID-Zenodo-Dep="5127686" checkinTime="1626977897655" checkinUser="carolina" docAuthor="O. H. Swezey" docDate="1946" docId="484B8797FFACFFB0A521FD04A1A5FBDC" docLanguage="en" docName="InsectsOfGuamII.189.195-200.pdf.imf" docOrigin="Insects of Guam-II, Hawaii, Honolulu: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Chrysomyia rufifacies" docType="treatment" docVersion="16" lastPageNumber="197" masterDocId="B472FFEFFFAEFFB2A40BFFD9A227FFD1" masterDocTitle="SOME MISCELLANEOUS DIPTERA OF GUAM" masterLastPageNumber="200" masterPageNumber="195" pageNumber="197" updateTime="1659465586346" updateUser="ExternalLinkService">
+<mods:mods id="FA30FD7950E93809363E953AD911753F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="51B0AAF0B65A4CFCA5E5B56998FB3A81">
+<mods:title id="BE7376555470B14CCB705C61A60455E8">SOME MISCELLANEOUS DIPTERA OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="7F08DEC1237F728F73470DB12A4DC82D" type="personal">
+<mods:role id="0E1F66F506AB8BA4E46DB002140989F3">
+<mods:roleTerm id="0AD90F7667579BD1ABC8D50F4A1E7D41">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D5AEA095CE64F74D63E2C5CC7720F40D">O. H. Swezey</mods:namePart>
+<mods:affiliation id="67519B170462677CB2B29AF21501FCE4">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="712C037C7635B065A5269BA69BF519CA">text</mods:typeOfResource>
+<mods:relatedItem id="6959011717D858300677F50DB76FA0B9" type="host">
+<mods:originInfo id="BE3E7780C3343CB94F809EDE2C3EC873">
+<mods:dateIssued id="102956061D3A3A7950A8EA58AB214F87">1946</mods:dateIssued>
+<mods:dateOther id="F98C562A5FB08754C710CA33235DBEBF" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="A0C74758026C6B18A4145B5F4935834E">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="088ED35B22E6AEB6EC5F97B4EC438085">
+<mods:placeTerm id="D663DC3EB5557278BA0864EB6A1543D3">Hawaii, Honolulu</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="10B9319CFEC91ACA1B9063720199B963">
+<mods:title id="289E609593FDAA573FAEFA000C231A9E">Insects of Guam-II</mods:title>
+</mods:titleInfo>
+<mods:part id="7D1BCEEA1CC02F859C371BFF292ED357">
+<mods:extent id="68AA26E66838E2A3849D32243A214571" unit="page">
+<mods:start id="D34F572AF26D3141F2D15DCDA3A6A64A">195</mods:start>
+<mods:end id="365C0E7DD7C73A911B7D0908AA6DAC2B">200</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F8DBA927577C2FC9C4E35656E96D6594">book chapter</mods:classification>
+<mods:identifier id="0E1AFA927210A2DE3DDC8C80CFEE5F25" type="DOI">http://doi.org/10.5281/zenodo.5127686</mods:identifier>
+<mods:identifier id="C9F23B22E5710D1840BE0C22CDF43070" type="GBIF-Dataset">7b960500-f4a3-4b8f-8b56-440fdc9431c9</mods:identifier>
+<mods:identifier id="F0A9A788C446BE4D0424B5C555D8A303" type="Zenodo-Dep">5127686</mods:identifier>
+</mods:mods>
+<treatment id="484B8797FFACFFB0A521FD04A1A5FBDC" ID-DOI="http://doi.org/10.5281/zenodo.5207851" ID-GBIF-Taxon="184459680" ID-Zenodo-Dep="5207851" LSID="urn:lsid:plazi:treatment:484B8797FFACFFB0A521FD04A1A5FBDC" httpUri="http://treatment.plazi.org/id/484B8797FFACFFB0A521FD04A1A5FBDC" lastPageNumber="197" pageId="2" pageNumber="197">
+<subSubSection id="88F8650AFFACFFB0A521FD04A1CAFCD6" box="[298,1005,733,775]" pageId="2" pageNumber="197" type="nomenclature">
+<paragraph id="C05D3681FFACFFB0A521FD04A1CAFCD6" blockId="2.[298,1695,733,1037]" box="[298,1005,733,775]" pageId="2" pageNumber="197">
+<heading id="9B1581EDFFACFFB0A521FD04A1CAFCD6" box="[298,1005,733,775]" fontSize="11" level="2" pageId="2" pageNumber="197" reason="2">
+<emphasis id="F296EA93FFACFFB0A521FD04A360FCD6" bold="true" box="[298,327,733,775]" pageId="2" pageNumber="197">7.</emphasis>
+<taxonomicName id="07E24D02FFACFFB0A561FD04A1C0FCD6" authority="(Macquart)" baseAuthorityName="Macquart" baseAuthorityYear="1843" box="[362,999,733,775]" class="Insecta" family="Calliphoridae" genus="Chrysomyia" higherTaxonomySource="CoL" kingdom="Animalia" order="Diptera" pageId="2" pageNumber="197" phylum="Arthropoda" rank="species" species="rufifacies">
+<emphasis id="F296EA93FFACFFB0A561FD04A0DCFCD6" bold="true" box="[362,763,733,775]" pageId="2" pageNumber="197">Chrysomyia rufifacies</emphasis>
+(Macquart)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFACFFB0A561FCC9A7CFFCBD" pageId="2" pageNumber="197" type="reference_group">
+<paragraph id="C05D3681FFACFFB0A561FCC9A44EFCEB" blockId="2.[298,1695,733,1037]" box="[362,1641,784,826]" pageId="2" pageNumber="197">
+<treatmentCitationGroup id="E0F211AFFFACFFB0A561FCC9A44EFCEB" box="[362,1641,784,826]" pageId="2" pageNumber="197">
+<treatmentCitation id="41431090FFACFFB0A561FCC9A7DFFCEB" box="[362,1528,784,826]" pageId="2" pageNumber="197">
+<taxonomicName id="07E24D02FFACFFB0A561FCC9A169FCEB" authority="Macquart" authorityName="Macquart" box="[362,846,784,826]" class="Insecta" family="Calliphoridae" genus="Lucilia" kingdom="Animalia" order="Diptera" pageId="2" pageNumber="197" phylum="Arthropoda" rank="species" species="rufifacies">
+<emphasis id="F296EA93FFACFFB0A561FCC9A0B5FCEB" box="[362,658,784,826]" italics="true" pageId="2" pageNumber="197">Lucilia rufifacies</emphasis>
+<bibCitation id="15C83EEDFFACFFB0A6ABFCC9A443FCEB" author="Macquart" box="[672,1636,784,826]" journalOrPublisher="Diptera Exotiques" pageId="2" pageNumber="197" pagination="303" part="2" refId="ref978" type="journal article" year="1843">
+<author id="185FDE64FFACFFB0A6ABFCC9A169FCEB" box="[672,846,784,826]" pageId="2" pageNumber="197">Macquart</author>
+, 
+<journalOrPublisher id="1A233C4DFFACFFB0A76FFCC9A689FCEB" box="[868,1198,784,826]" pageId="2" pageNumber="197">Diptera Exotiques</journalOrPublisher>
+, Suppl. 
+<part id="B4469C1CFFACFFB0A14AFCC9A77BFCEB" box="[1345,1372,784,826]" pageId="2" pageNumber="197" type="volume">2</part>
+(
+<part id="B4469C1CFFACFFB0A167FCC9A7A4FCEB" box="[1388,1411,784,826]" pageId="2" pageNumber="197" type="issue">3</part>
+): 
+<pagination id="F92BC875FFACFFB0A1B6FCC9A7DFFCEB" box="[1469,1528,784,826]" pageId="2" pageNumber="197" type="pagination">303</pagination>
+, 
+<year id="B44A77D2FFACFFB0A21BFCC9A443FCEB" box="[1552,1636,784,826]" pageId="2" pageNumber="197">1843</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="C05D3681FFACFFB0A560FC9BA7CFFCBD" blockId="2.[298,1695,733,1037]" box="[363,1512,834,876]" pageId="2" pageNumber="197">
+<treatmentCitationGroup id="E0F211AFFFACFFB0A560FC9BA7CFFCBD" box="[363,1512,834,876]" pageId="2" pageNumber="197">
+<treatmentCitation id="41431090FFACFFB0A560FC9BA750FCBD" box="[363,1399,834,876]" pageId="2" pageNumber="197">
+<taxonomicName id="07E24D02FFACFFB0A560FC9BA14BFCBD" authority=", Bezzi" authorityName="Bezzi" box="[363,876,834,876]" class="Insecta" family="Calliphoridae" genus="Chrysomyia" higherTaxonomySource="CoL" kingdom="Animalia" order="Diptera" pageId="2" pageNumber="197" phylum="Arthropoda" rank="species" species="rufifacies">
+<emphasis id="F296EA93FFACFFB0A560FC9BA0DFFCBD" box="[363,760,834,876]" italics="true" pageId="2" pageNumber="197">Chrysomyia rufifacies,</emphasis>
+<bibCitation id="15C83EEDFFACFFB0A701FC9BA7C4FCBD" author="Bezzi" box="[778,1507,834,876]" journalOrPublisher="Diptera of Fiji Islands" pageId="2" pageNumber="197" part="187" refId="ref997" type="book" year="1928">
+<author id="185FDE64FFACFFB0A701FC9BA14BFCBD" box="[778,876,834,876]" pageId="2" pageNumber="197">Bezzi</author>
+, 
+<journalOrPublisher id="1A233C4DFFACFFB0A78FFC9BA738FCBD" box="[900,1311,834,876]" pageId="2" pageNumber="197">
+Diptera of 
+<collectingCountry id="B8F57611FFACFFB0A045FC9BA738FCBD" box="[1102,1311,834,876]" name="Fiji" pageId="2" pageNumber="197">Fiji Islands</collectingCountry>
+</journalOrPublisher>
+, 
+<part id="B4469C1CFFACFFB0A131FC9BA750FCBD" box="[1338,1399,834,876]" pageId="2" pageNumber="197">187</part>
+, 
+<year id="B44A77D2FFACFFB0A19AFC9BA7C4FCBD" box="[1425,1507,834,876]" pageId="2" pageNumber="197">1928</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFACFFB0A561FCA0A1A5FBDC" pageId="2" pageNumber="197" type="reference_group">
+<paragraph id="C05D3681FFACFFB0A561FCA0A1A5FBDC" blockId="2.[298,1695,733,1037]" pageId="2" pageNumber="197">
+This Australian species is also known in 
+<collectingCountry id="B8F57611FFACFFB0A055FCA0A769FC73" box="[1118,1358,889,930]" name="New Zealand" pageId="2" pageNumber="197">New Zealand</collectingCountry>
+, 
+<collectingCountry id="B8F57611FFACFFB0A163FCA0A78BFC73" box="[1384,1452,889,930]" name="Fiji" pageId="2" pageNumber="197">Fiji</collectingCountry>
+, and Hawaii. 
+<materialsCitation id="708A3CDCFFACFFB0A520FC77A716FC09" ID-GBIF-Occurrence="3874685305" box="[299,1329,942,984]" collectedFrom="at light" collectingDate="1936-07-26" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="197">
+We found it in 
+<collectingCountry id="B8F57611FFACFFB0A657FC77A0F7FC09" box="[604,720,942,984]" name="Guam" pageId="2" pageNumber="197">Guam</collectingCountry>
+: 
+<location id="C53D605AFFACFFB0A6FCFC77A11DFC09" LSID="urn:lsid:plazi:treatment:484B8797FFACFFB0A521FD04A1A5FBDC:C53D605AFFACFFB0A6FCFC77A11DFC09" box="[759,826,942,984]" country="Guam" name="Piti" pageId="2" pageNumber="197">Piti</location>
+, 
+<date id="B45C1041FFACFFB0A75DFC77A1C5FC09" box="[854,994,942,984]" pageId="2" pageNumber="197" value="1926-07">
+<collectingDate id="A418E9A9FFACFFB0A75DFC77A1C5FC09" box="[854,994,942,984]" pageId="2" pageNumber="197" value="1926-07">July 26</collectingDate>
+</date>
+, at light, 
+<location id="C53D605AFFACFFB0A0AFFC77A716FC09" LSID="urn:lsid:plazi:treatment:484B8797FFACFFB0A521FD04A1A5FBDC:C53D605AFFACFFB0A0AFFC77A716FC09" box="[1188,1329,942,984]" country="Guam" name="Swezey" pageId="2" pageNumber="197">Swezey</location>
+</materialsCitation>
+; 
+<materialsCitation id="708A3CDCFFACFFB0A144FC77A15AFBDC" ID-GBIF-Occurrence="3874685311" collectedFrom="attracted to dead slugs" collectingDate="1936-11-10" collectorName="O. H. Swezey" country="Guam" location="Libugon" pageId="2" pageNumber="197">
+Libugon, 
+<date id="B45C1041FFACFFB0A208FC77A4BFFC09" box="[1539,1688,942,984]" pageId="2" pageNumber="197" value="2010-11">
+<collectingDate id="A418E9A9FFACFFB0A208FC77A4BFFC09" box="[1539,1688,942,984]" pageId="2" pageNumber="197" value="2010-11">Nov. 10</collectingDate>
+</date>
+, attracted to dead slugs, 
+<location id="C53D605AFFACFFB0A6FCFC3AA15AFBDC" LSID="urn:lsid:plazi:treatment:484B8797FFACFFB0A521FD04A1A5FBDC:C53D605AFFACFFB0A6FCFC3AA15AFBDC" box="[759,893,995,1037]" name="Swezey" pageId="2" pageNumber="197">Swezey</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

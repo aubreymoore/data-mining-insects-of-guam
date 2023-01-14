@@ -1,0 +1,152 @@
+<document id="6645C1852283394317A0FB1320D5B12C" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E94FFFA4FED18B37940F011C" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Perigea illecta" docType="treatment" docVersion="22" lastPageNumber="168" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="167" updateTime="1669650926905" updateUser="annettekang">
+<mods:mods id="5203F2608EB7B175FF9AE97933DFAECE" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="F4F3BFA8C0AAA167F6A776F100CF09E6">
+<mods:title id="784C9A3913DA3C35A86620CAE17E1895">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="1CAF2E8EBDAA13EB53CB1D1C3E6DA01F" type="personal">
+<mods:role id="6A527FF902114DCDF8C8F95E90F7D6D9">
+<mods:roleTerm id="83174BBA8AA62EC52097EA44F29B975E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C20B9F8525F5FF91712AA6FDD92AE44C">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="0FE4B63E6AF9E18BFCA20550FA09C903">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="D890FCF87B17AE2EC5DB0F2FB0E6F91B">text</mods:typeOfResource>
+<mods:relatedItem id="59F0997A6319649F4357F5B3B07F4D93" type="host">
+<mods:originInfo id="183DEADF69D6F9E9C22318AE365C63E6">
+<mods:dateIssued id="A0C2440DF1AA99B56A88553274A23096">1946</mods:dateIssued>
+<mods:dateOther id="67E28F206FDF86A75093F0C467664BC9" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="7B999FFB63A7D2AA6ACAC21ED5101C0F">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="F7EEBBA1244F18D281A2ABA5CBC2C879">
+<mods:placeTerm id="A700410AD4BD3BAB2A88170887E30880">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="FAA96F96C879EC08A987E4B052227D78">
+<mods:title id="99E2FE4E2CBD65B724E82CDF8DA23E87">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="10639690D65160AAEE5943B7E12CA559">
+<mods:extent id="CB234BEBAB3AAE73C56AAC8A2085370E" unit="page">
+<mods:start id="70B7DA313D775D33DF760C265D55BA1A">163</mods:start>
+<mods:end id="D0BECA0DD24C824B314EB4F4512D270F">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="19C79BA53FED006FEF291B2F24A92793">book chapter</mods:classification>
+<mods:identifier id="C169BE12C170B5F577C15A8871B543EC" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="8E8069BF1F6A817BE799F9E3416EB4F4" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="81B76AE75193743961CC4529B02D0D58" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E94FFFA4FED18B37940F011C" ID-DOI="http://doi.org/10.5281/zenodo.5171048" ID-GBIF-Taxon="183926941" ID-Zenodo-Dep="5171048" LSID="urn:lsid:plazi:treatment:03B387B8E94FFFA4FED18B37940F011C" httpUri="http://treatment.plazi.org/id/03B387B8E94FFFA4FED18B37940F011C" lastPageId="5" lastPageNumber="168" pageId="4" pageNumber="167">
+<subSubSection id="C3006525E94FFFA5FED18B3790030A7B" box="[286,629,2314,2356]" pageId="4" pageNumber="167" type="nomenclature">
+<paragraph id="8BA536AEE94FFFA5FED18B3790030A7B" blockId="4.[286,1680,2314,2470]" box="[286,629,2314,2356]" pageId="4" pageNumber="167">
+<heading id="D0ED81C2E94FFFA5FED18B37934C0A7B" box="[286,314,2314,2356]" centered="true" fontSize="8" level="2" pageId="4" pageNumber="167" reason="4">6.</heading>
+* 
+<taxonomicName id="4C1A4D2DE94FFFA5FEA28B3790030A7B" authority="(Walker)" box="[365,629,2314,2356]" class="Insecta" family="Noctuidae" genus="Perigea" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="168" phylum="Arthropoda" rank="species" species="illecta">Perigea illecta</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94FFFA5FD478B3797DF0A3F" pageId="4" pageNumber="167" type="reference_group">
+<paragraph id="8BA536AEE94FFFA5FD478B3797DF0A3F" blockId="4.[286,1680,2314,2470]" pageId="4" pageNumber="167">
+<treatmentCitationGroup id="AB0A1180E94FFFA5FD478B3797DF0A3F" pageId="4" pageNumber="167">
+<bibCitation id="5E303EC2E94FFFA5FD478B3797DF0A3F" author="Walker" journalOrPublisher="Ins. Brit. Mus." pageId="4" pageNumber="167" pagination="684" part="32" refId="ref2545" type="journal article" year="1865">
+<treatmentCitation id="0ABB10BFE94FFFA5FD478B3794770A7B" author="Walker" box="[648,1537,2314,2356]" page="684" pageId="4" pageNumber="167" year="1865">
+(
+<author id="53A7DE4BE94FFFA5FD5A8B37915F0A7B" box="[661,809,2314,2356]" fns="*" inm="true" npo="*" pageId="4" pageNumber="167">Walker</author>
+), List Lep. 
+<journalOrPublisher id="51DB3C62E94FFFA5FC308B3797710A7B" box="[1023,1287,2314,2356]" pageId="4" pageNumber="167">Ins. Brit. Mus.</journalOrPublisher>
+<part id="FFBE9C33E94FFFA5FAD98B37974A0A7B" box="[1302,1340,2314,2356]" pageId="4" pageNumber="167" type="volume">32</part>
+: 
+<pagination id="B2D3C85AE94FFFA5FAAE8B3797EB0A7B" box="[1377,1437,2314,2356]" pageId="4" pageNumber="167" type="pagination">684</pagination>
+, 
+<year id="FFB277FDE94FFFA5FA7A8B3794770A7B" box="[1461,1537,2314,2356]" pageId="4" pageNumber="167">1865</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE94FFFA5F9EC8B3797D20A3F" author="Tams" page="201" pageId="4" pageNumber="167" year="1935">
+<author id="53A7DE4BE94FFFA5F9EC8B3794FF0A7B" box="[1571,1673,2314,2356]" pageId="4" pageNumber="167">Tams</author>
+, 
+<journalOrPublisher id="51DB3C62E94FFFA5FE938B7990510A3F" box="[348,551,2372,2416]" pageId="4" pageNumber="167">
+Ins. 
+<collectingCountry id="F30D763EE94FFFA5FE608B7990510A3F" box="[431,551,2372,2416]" name="Samoa" pageId="4" pageNumber="167">Samoa</collectingCountry>
+</journalOrPublisher>
+<part id="FFBE9C33E94FFFA5FDFA8B79903F0A3F" box="[565,585,2372,2416]" pageId="4" pageNumber="167">3</part>
+(4): 
+<pagination id="B2D3C85AE94FFFA5FD6B8B7990920A3F" box="[676,740,2372,2416]" pageId="4" pageNumber="167">201</pagination>
+, pl. 7, figs. 10, 11, pl. 8, figs. 6, 
+<part id="FFBE9C33E94FFFA5FAEB8B79974E0A3F" box="[1316,1336,2372,2416]" pageId="4" pageNumber="167" type="volume">7</part>
+, 
+<year id="FFB277FDE94FFFA5FA9D8B7997D20A3F" box="[1362,1444,2372,2416]" pageId="4" pageNumber="167">1935</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94FFFA5FE958B4196D40AE9" box="[346,1186,2428,2470]" pageId="4" pageNumber="167" type="synonymic_list">
+<paragraph id="8BA536AEE94FFFA5FE958B4196D40AE9" blockId="4.[286,1680,2314,2470]" box="[346,1186,2428,2470]" pageId="4" pageNumber="167">
+<treatmentCitationGroup id="AB0A1180E94FFFA5FE958B4196D40AE9" box="[346,1186,2428,2470]" pageId="4" pageNumber="167">
+<treatmentCitation id="0ABB10BFE94FFFA5FE958B4196D40AE9" author="Walker" box="[346,1186,2428,2470]" page="296" pageId="4" pageNumber="167" year="1856">
+<bibCitation id="5E303EC2E94FFFA5FE958B4196D40AE9" author="Walker" box="[346,1186,2428,2470]" pageId="4" pageNumber="167" pagination="296" part="10" refId="ref2598" type="journal article" year="1856">
+<emphasis id="B96EEABCE94FFFA5FE958B4190D20AE9" box="[346,676,2428,2470]" italics="true" pageId="4" pageNumber="167">Euple.xia conducta</emphasis>
+<author id="53A7DE4BE94FFFA5FD7B8B41914D0AE9" box="[692,827,2428,2470]" pageId="4" pageNumber="167">Walker</author>
+, Cat. 
+<emphasis id="B96EEABCE94FFFA5FC628B4191A40AE9" bold="true" box="[941,978,2428,2470]" pageId="4" pageNumber="167">
+<part id="FFBE9C33E94FFFA5FC628B4191B80AE9" box="[941,974,2428,2470]" pageId="4" pageNumber="167" type="volume">10</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE94FFFA5FC3E8B4196470AE9" box="[1009,1073,2428,2470]" pageId="4" pageNumber="167" type="pagination">296</pagination>
+, 
+<year id="FFB277FDE94FFFA5FB848B4196EB0AE9" box="[1099,1181,2428,2470]" pageId="4" pageNumber="167">1856</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94EFFA4FDC283B3940F011C" pageId="5" pageNumber="168" type="description">
+<paragraph id="8BA536AEE94EFFA4FDC283B3940F011C" blockId="5.[461,1861,398,1212]" pageId="5" pageNumber="168">
+This moth occurs throughout 
+<collectingCountry id="F30D763EE94EFFA4FB8A83B396D202F6" box="[1093,1188,398,441]" name="India" pageId="5" pageNumber="168">India</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94EFFA4FB0C83B3973602F6" box="[1219,1344,398,441]" name="Sri Lanka" pageId="5" pageNumber="168">Ceylon</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94EFFA4FA9183B397AC02F6" box="[1374,1498,398,441]" name="Myanmar" pageId="5" pageNumber="168">Burma</collectingCountry>
+, Andaman Islands, 
+<collectingCountry id="F30D763EE94EFFA4FE0083FC906502A2" box="[463,531,449,493]" name="Fiji" pageId="5" pageNumber="168">Fiji</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94EFFA4FDFF83FC90D102A2" box="[560,679,449,493]" name="Samoa" pageId="5" pageNumber="168">Samoa</collectingCountry>
+, and no doubt other Pacific Islands. Now recorded for the first time from 
+<collectingCountry id="F30D763EE94EFFA4FD4183C8908C016F" box="[654,762,501,544]" name="Guam" pageId="5" pageNumber="168">Guam</collectingCountry>
+. 
+<materialsCitation id="3B723CF3E94EFFA4FCD483C894E9016F" ID-GBIF-Occurrence="3913642333" box="[795,1695,501,544]" collectedFrom="at light" collectingDate="1936-09-24" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="168" specimenCount="2">
+Four 
+<specimenCount id="9D1CFD27E94EFFA4FC4A83C89645016F" box="[901,1075,501,544]" pageId="5" pageNumber="168" type="generic">specimens</specimenCount>
+were taken at light, 
+<location id="8EC56075E94EFFA4FA6083C89787016F" LSID="urn:lsid:plazi:treatment:03B387B8E94FFFA4FED18B37940F011C:8EC56075E94EFFA4FA6083C89787016F" box="[1455,1521,501,544]" pageId="5" pageNumber="168">
+<collectingMunicipality id="6BC1ACD4E94EFFA4FA6083C89787016F" box="[1455,1521,501,544]" pageId="5" pageNumber="168">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE94EFFA4F9C483C894E9016F" box="[1547,1695,501,544]" pageId="5" pageNumber="168" value="1924-09">
+<collectingDate id="EFE0E986E94EFFA4F9C483C894E9016F" box="[1547,1695,501,544]" pageId="5" pageNumber="168" value="1924-09">Sept. 24</collectingDate>
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E94EFFA4F97883C8902A011C" ID-GBIF-Occurrence="3913642326" collectedFrom="at light" collectingDate="1936-10-14" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="168" specimenCount="2">
+<date id="FFA4106EE94EFFA4F97883C8954A016F" box="[1719,1852,501,544]" pageId="5" pageNumber="168" value="2014-10">
+<collectingDate id="EFE0E986E94EFFA4F97883C8954A016F" box="[1719,1852,501,544]" pageId="5" pageNumber="168" value="2014-10">Oct. 14</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E94EFFA4FE1E8015902A011C" box="[465,604,552,595]" pageId="5" pageNumber="168">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="3B723CF3E94EFFA4FDB780159402011C" ID-GBIF-Occurrence="3913642324" box="[632,1652,552,595]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="5" pageNumber="168" specimenCount="1">
+<specimenCount id="9D1CFD27E94EFFA4FDB78015911E011C" box="[632,872,552,595]" pageId="5" pageNumber="168" type="generic">one specimen</specimenCount>
+, 
+<collectingCountry id="F30D763EE94EFFA4FC4C80159193011C" box="[899,997,552,595]" name="United States of America" pageId="5" pageNumber="168">U. S.</collectingCountry>
+<collectingMunicipality id="6BC1ACD4E94EFFA4FC3480159734011C" box="[1019,1346,552,595]" pageId="5" pageNumber="168">National Museum</collectingMunicipality>
+, 
+<location id="8EC56075E94EFFA4FA9380159475011C" LSID="urn:lsid:plazi:treatment:03B387B8E94FFFA4FED18B37940F011C:8EC56075E94EFFA4FA9380159475011C" box="[1372,1539,552,595]" pageId="5" pageNumber="168">Fullaway</location>
+, 1911
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

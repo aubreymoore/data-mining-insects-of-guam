@@ -1,0 +1,116 @@
+<document id="1E9CFD24D17A405F8DEFFFDE93B84EE8" ID-DOI="http://doi.org/10.5281/zenodo.5156759" ID-GBIF-Dataset="6e65e7d3-7a72-4da4-9739-5e3814593490" ID-Zenodo-Dep="5156759" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628022238476" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="907B754A855CFFCB23A5FACCEC20F9B2" docLanguage="en" docName="InsectsOfGuamII.189.221-227.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Allocamptus giganteus" docType="treatment" docVersion="13" lastPageNumber="222" masterDocId="6C420D32855DFFCA221EFFCCE940FF9E" masterDocTitle="Ichneumonidae, Evaniidae, And Braconidae Of Guam" masterLastPageNumber="227" masterPageNumber="221" pageNumber="222" updateTime="1660576848444" updateUser="annettekang">
+<mods:mods id="7A3D8925800A3623E7BB098C34B9CE42" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="EE913F58093201730CE211EF1842B3FA">
+<mods:title id="415DE30D8D3C2B0E621002DB74EE3AC5">Ichneumonidae, Evaniidae, And Braconidae Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="66BA9F8FC524F881690658E815BEF948" type="personal">
+<mods:role id="72FFF66FFA6F0EFB4BB4E2A2759D5408">
+<mods:roleTerm id="F71567AE58473816AF7C0A48E2034099">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="907336A8BC19AB4BC2641910B4C6F5F0">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="B12A68EAF92522FA233C014816010DD7">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="079BDE59B7C730459D0CE2BD00904BE4">text</mods:typeOfResource>
+<mods:relatedItem id="78D92C34B665B528AD49AB4374AEB67B" type="host">
+<mods:originInfo id="53CFB6F2374B287973AAEB4CDD83EEB5">
+<mods:dateIssued id="3E97610DD3E14BD8F99234D6AFD2BC37">1946</mods:dateIssued>
+<mods:dateOther id="62B80714C2FE47A4B66F213A3113924E" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="8820EBC4DD4FB582D58A689227976BE6">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="221B28DE5011FE1809124BC2ED8BBC26">
+<mods:placeTerm id="CCA0340FFB8692EDA577F05F01FE59C5">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5BA0891BEFFEF9AE575433F4BC3C3B75">
+<mods:title id="69509510594D523C0573EA7A371A93E5">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="437F10546E01FD3657BE71E4E30C5C34">
+<mods:extent id="33800FB4A4C54D01EB1B03226F26A3ED" unit="page">
+<mods:start id="5F3136CC87ACB769718A2F05E2540DD4">221</mods:start>
+<mods:end id="ED23A082FA65D25ADCFE83D9CF71B919">227</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="A9064455AD8A82673ACC6EA3881276C7">book chapter</mods:classification>
+<mods:identifier id="20BBD9C5C689260414B209581318937C" type="DOI">http://doi.org/10.5281/zenodo.5156759</mods:identifier>
+<mods:identifier id="15BE7D1378DD34B203C1AD847570ADC1" type="GBIF-Dataset">6e65e7d3-7a72-4da4-9739-5e3814593490</mods:identifier>
+<mods:identifier id="29D0A31E6A97BD83A0ADD1228C95098D" type="Zenodo-Dep">5156759</mods:identifier>
+</mods:mods>
+<treatment id="907B754A855CFFCB23A5FACCEC20F9B2" ID-DOI="http://doi.org/10.5281/zenodo.5498996" ID-GBIF-Taxon="183969180" ID-Zenodo-Dep="5498996" LSID="urn:lsid:plazi:treatment:907B754A855CFFCB23A5FACCEC20F9B2" httpUri="http://treatment.plazi.org/id/907B754A855CFFCB23A5FACCEC20F9B2" lastPageNumber="222" pageId="1" pageNumber="222">
+<subSubSection id="50C897D7855CFFCB23A5FACCEDD3FAB2" box="[443,1171,1280,1324]" pageId="1" pageNumber="222" type="nomenclature">
+<paragraph id="186DC45C855CFFCB23A5FACCEDD3FAB2" blockId="1.[442,1840,1280,1580]" box="[443,1171,1280,1324]" pageId="1" pageNumber="222">
+<heading id="43257330855CFFCB23A5FACCEDD3FAB2" box="[443,1171,1280,1324]" fontSize="8" level="2" pageId="1" pageNumber="222" reason="4">
+5. 
+<taxonomicName id="DFD2BFDF855CFFCB23E6FACCEDCDFAB2" authority="(Szepligeti)" baseAuthorityName="Szepligeti" box="[504,1165,1280,1324]" class="Insecta" family="Ichneumonidae" genus="Allocamptus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="222" phylum="Arthropoda" rank="species" species="giganteus">Allocamptus giganteus (Szepligeti)</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D7855CFFCB23E7FAF8EF02FA0C" pageId="1" pageNumber="222" type="reference_group">
+<paragraph id="186DC45C855CFFCB23E7FAF8EF0FFAC1" blockId="1.[442,1840,1280,1580]" box="[505,1615,1332,1375]" pageId="1" pageNumber="222">
+<treatmentCitationGroup id="38C2E372855CFFCB23E7FAF8EF0FFAC1" box="[505,1615,1332,1375]" pageId="1" pageNumber="222">
+<treatmentCitation id="9973E24D855CFFCB23E7FAF8EF0FFAC1" author="Szepligeti" box="[505,1615,1332,1375]" page="28" pageId="1" pageNumber="222" year="1905">
+<taxonomicName id="DFD2BFDF855CFFCB23E7FAF8ED6CFAC1" authority="Szepligeti" authorityName="Szepligeti" box="[505,1068,1332,1375]" class="Insecta" family="Ichneumonidae" genus="Dicamptus" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="222" phylum="Arthropoda" rank="species" species="giganteus">
+<emphasis id="2AA6184E855CFFCB23E7FAF8EA2DFAC1" box="[505,877,1332,1375]" italics="true" pageId="1" pageNumber="222">Dicamptus giganteus</emphasis>
+<bibCitation id="CDF8CC30855CFFCB2160FAF8EF0FFAC1" author="Szepligeti" box="[894,1615,1332,1375]" journalOrPublisher="Gen. Ins., Fasc." pageId="1" pageNumber="222" pagination="28" part="34" refId="ref667" type="journal article" year="1905">
+<author id="C06F2CB9855CFFCB2160FAF8ED6CFAC1" box="[894,1068,1332,1375]" pageId="1" pageNumber="222">Szepligeti</author>
+, 
+<journalOrPublisher id="C213CE90855CFFCB265AFAF8EC1AFAC1" box="[1092,1370,1332,1375]" pageId="1" pageNumber="222">Gen. Ins., Fasc.</journalOrPublisher>
+<emphasis id="2AA6184E855CFFCB2775FAF8ECE4FAC1" bold="true" box="[1387,1444,1332,1375]" pageId="1" pageNumber="222">
+<part id="6C766EC1855CFFCB2775FAF8ECDEFAC1" box="[1387,1438,1332,1375]" pageId="1" pageNumber="222">34</part>
+:
+</emphasis>
+<pagination id="211B3AA8855CFFCB27AEFAF8EC9CFAC1" box="[1456,1500,1332,1375]" pageId="1" pageNumber="222" type="pagination">28</pagination>
+, 
+<year id="6C7A850F855CFFCB27E9FAF8EF0AFAC1" box="[1527,1610,1332,1375]" pageId="1" pageNumber="222">1905</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="186DC45C855CFFCB23E7FAA4EF02FA0C" blockId="1.[442,1840,1280,1580]" box="[505,1602,1384,1426]" pageId="1" pageNumber="222">
+<treatmentCitationGroup id="38C2E372855CFFCB23E7FAA4EF02FA0C" box="[505,1602,1384,1426]" pageId="1" pageNumber="222">
+<treatmentCitation id="9973E24D855CFFCB23E7FAA4EF02FA0C" author="Morley" box="[505,1602,1384,1426]" page="26" pageId="1" pageNumber="222" year="1912">
+<taxonomicName id="DFD2BFDF855CFFCB23E7FAA4ED6AFA0C" authority="Morley" authorityName="Morley" box="[505,1066,1384,1426]" class="Insecta" family="Ichneumonidae" genus="Allocamptus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hymenoptera" pageId="1" pageNumber="222" phylum="Arthropoda" rank="species" species="giganteus">
+<emphasis id="2AA6184E855CFFCB23E7FAA4EAD5FA0C" box="[505,917,1384,1426]" italics="true" pageId="1" pageNumber="222">Allocamptus giganteus,</emphasis>
+<bibCitation id="CDF8CC30855CFFCB21B9FAA4EF02FA0C" author="Morley" box="[935,1602,1384,1426]" journalOrPublisher="Ichn. Brit. Mus." pageId="1" pageNumber="222" pagination="26" part="1" refId="ref685" type="journal article" year="1912">
+<author id="C06F2CB9855CFFCB21B9FAA4ED6AFA0C" box="[935,1066,1384,1426]" pageId="1" pageNumber="222">Morley</author>
+, 
+<journalOrPublisher id="C213CE90855CFFCB265FFAA4EC22FA0C" box="[1089,1378,1384,1426]" pageId="1" pageNumber="222">Ichn. Brit. Mus.</journalOrPublisher>
+<emphasis id="2AA6184E855CFFCB276BFAA4ECC4FA0C" bold="true" box="[1397,1412,1384,1426]" pageId="1" pageNumber="222">
+<part id="6C766EC1855CFFCB276BFAA4ECC0FA0C" box="[1397,1408,1384,1426]" pageId="1" pageNumber="222" type="volume">1</part>
+:
+</emphasis>
+<pagination id="211B3AA8855CFFCB27BAFAA4EC90FA0C" box="[1444,1488,1384,1426]" pageId="1" pageNumber="222" type="pagination">26</pagination>
+, 
+<year id="6C7A850F855CFFCB27F4FAA4EF7DFA0C" box="[1514,1597,1384,1426]" pageId="1" pageNumber="222">1912</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D7855CFFCB23E7FA57ED11FA59" box="[505,1105,1435,1479]" pageId="1" pageNumber="222" type="materials_examined">
+<paragraph id="186DC45C855CFFCB23E7FA57ED11FA59" blockId="1.[442,1840,1280,1580]" box="[505,1105,1435,1479]" pageId="1" pageNumber="222">
+<materialsCitation id="A8BACE01855CFFCB23E7FA57ED11FA59" ID-GBIF-Occurrence="3332362321" box="[505,1105,1435,1479]" collectingDate="1936-05-25" collectorName="R. L. Usinger" country="Guam" location="Agana Swamp" pageId="1" pageNumber="222">
+<collectingMunicipality id="F8095E26855CFFCB23E7FA57EA41FA59" box="[505,769,1435,1479]" pageId="1" pageNumber="222">Agana Swamp</collectingMunicipality>
+, 
+<date id="6C6CE29C855CFFCB2107FA57EAE3FA59" box="[793,931,1435,1479]" pageId="1" pageNumber="222" value="1925-05">
+<collectingDate id="7C281B74855CFFCB2107FA57EAE3FA59" box="[793,931,1435,1479]" pageId="1" pageNumber="222" value="1925-05">May 25</collectingDate>
+</date>
+, 
+<location id="1D0D9287855CFFCB21A4FA57ED0CFA59" LSID="urn:lsid:plazi:treatment:907B754A855CFFCB23A5FACCEC20F9B2:1D0D9287855CFFCB21A4FA57ED0CFA59" box="[954,1100,1435,1479]" municipality="Agana Swamp" name="Usinger" pageId="1" pageNumber="222">Usinger</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D7855CFFCB23E4FA01EC20F9B2" pageId="1" pageNumber="222" type="discussion">
+<paragraph id="186DC45C855CFFCB23E4FA01EC20F9B2" blockId="1.[442,1840,1280,1580]" pageId="1" pageNumber="222">
+Thislargeophionidisknownin JavaandtheEastIndies. Thesinglespecimen collected by Usinger is its first record in 
+<collectingCountry id="60C584CC855CFFCB26F0F9CDEC1BF9B2" box="[1262,1371,1537,1580]" name="Guam" pageId="1" pageNumber="222">Guam</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

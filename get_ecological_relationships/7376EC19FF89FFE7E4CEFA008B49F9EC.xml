@@ -1,0 +1,104 @@
+<document id="09AE8A250D5F21181FCC53A48A1EAEC6" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF89FFE7E4CEFA008B49F9EC" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Encyrtus barbatus Timberlake" docType="treatment" docVersion="16" lastPageNumber="214" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="214" updateTime="1663769165332" updateUser="annettekang">
+<mods:mods id="8BDE9899BE9F86DD107207651F447B86" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="67A9B69D65D7CA4844605DF48AE8E277">
+<mods:title id="093054285406149D4527D1B276FD5305">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="840D70EFC46056613B8ED943D3FD1C49" type="personal">
+<mods:role id="896E97FF280716C4E7FE198008E8FFFD">
+<mods:roleTerm id="EF008BBA9F3F0A650698D2FE3453B787">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A1FB16DA6F4A95BC0E855179CED549FC">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="2BFB9486386CDEA8EA33D4C1F7614557">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="418A46B4EBAF38007C9003FF72644838">text</mods:typeOfResource>
+<mods:relatedItem id="2C797F3A047B8117857B7D78ECB1CCEF" type="host">
+<mods:originInfo id="4666F56E56138A97BDE87E176397D1A0">
+<mods:dateIssued id="22185F28D181B12AD290ED5FABADCCC5">1946</mods:dateIssued>
+<mods:dateOther id="749789810499A5C53A1053ADF0245865" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="4910BAB0B700CA99C1D361C8ACB821B0">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="8CF91BCCF679A2F61339BA30148AF5F3">
+<mods:placeTerm id="8C14466F17D693B360C79DBF108138FB">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="8628D769AE5098D2E157F673FFEEAC65">
+<mods:title id="229D150A3F31A47BBD99FC7E2EA53272">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="285C4CAB83F812909A575AF583B82262">
+<mods:extent id="8A8D888A6186FB69F8494AB8448BD75D" unit="page">
+<mods:start id="8D21A41956DE3777387A936FE7F55E7A">211</mods:start>
+<mods:end id="7E3E924B0A8F94EB3277C3B2DD8E8B70">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="43F8DE8FC9E11794EFD73ABBDD7F46ED">book chapter</mods:classification>
+<mods:identifier id="C7F40E7E41461A944ED6CF37CD5D9CB4" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="1CD88F6871B5D2A50401F81186E7EAEF" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="13B04844EAEEFF00B1445D5AD5B2975E" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF89FFE7E4CEFA008B49F9EC" ID-DOI="http://doi.org/10.5281/zenodo.5211999" ID-GBIF-Taxon="187737465" ID-Zenodo-Dep="5211999" LSID="urn:lsid:plazi:treatment:7376EC19FF89FFE7E4CEFA008B49F9EC" httpUri="http://treatment.plazi.org/id/7376EC19FF89FFE7E4CEFA008B49F9EC" lastPageNumber="214" pageId="3" pageNumber="214">
+<subSubSection id="B3C50E84FF89FFE7E4CEFA008B00FA05" box="[461,1118,1452,1495]" pageId="3" pageNumber="214" type="nomenclature">
+<paragraph id="FB605D0FFF89FFE7E4CEFA008B00FA05" blockId="3.[461,1861,1452,1598]" box="[461,1118,1452,1495]" pageId="3" pageNumber="214">
+<heading id="A028EA63FF89FFE7E4CEFA008B00FA05" box="[461,1118,1452,1495]" fontSize="8" level="2" pageId="3" pageNumber="214" reason="4">
+<emphasis id="C9AB811DFF89FFE7E4CEFA008EA1FA05" bold="true" box="[461,511,1452,1495]" pageId="3" pageNumber="214">25.</emphasis>
+<taxonomicName id="3CDF268CFF89FFE7E722FA008B09FA05" authority="Timberlake" box="[545,1111,1452,1495]" class="Insecta" family="Encyrtidae" genus="Encyrtus" kingdom="Animalia" order="Hymenoptera" pageId="3" pageNumber="214" phylum="Arthropoda" rank="species" species="barbatus">
+<emphasis id="C9AB811DFF89FFE7E722FA008C2AFA05" bold="true" box="[545,884,1452,1495]" pageId="3" pageNumber="214">Encyrtus barbatus</emphasis>
+<author id="2362B5EAFF89FFE7E681FA008B09FA05" box="[898,1111,1452,1495]" pageId="3" pageNumber="214">Timberlake</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF89FFE7E16DFA0089B0FA05" box="[1134,1774,1452,1495]" pageId="3" pageNumber="214" type="reference_group">
+<paragraph id="FB605D0FFF89FFE7E16DFA0089B0FA05" blockId="3.[461,1861,1452,1598]" box="[1134,1774,1452,1495]" pageId="3" pageNumber="214">
+<treatmentCitationGroup id="DBCF7A21FF89FFE7E16DFA0089B0FA05" box="[1134,1774,1452,1495]" pageId="3" pageNumber="214">
+<treatmentCitation id="7A7E7B1EFF89FFE7E16DFA0089B0FA05" author="Timberlake" box="[1134,1774,1452,1495]" page="209" pageId="3" pageNumber="214" year="1919">
+<bibCitation id="2EF55563FF89FFE7E16DFA0089B0FA05" author="Timberlake" box="[1134,1774,1452,1495]" journalOrPublisher="Haw. Ent. Soc., Proc." pageId="3" pageNumber="214" pagination="209" part="4" refId="ref1463" type="journal article" year="1919">
+<journalOrPublisher id="211E57C3FF89FFE7E16DFA008AA2FA05" box="[1134,1532,1452,1495]" pageId="3" pageNumber="214">Haw. Ent. Soc., Proc.</journalOrPublisher>
+<emphasis id="C9AB811DFF89FFE7E308FA00896EFA05" bold="true" box="[1547,1584,1452,1495]" pageId="3" pageNumber="214">
+<part id="8F7BF792FF89FFE7E308FA008977FA05" box="[1547,1577,1452,1495]" pageId="3" pageNumber="214" type="volume">4</part>
+:
+</emphasis>
+<pagination id="C216A3FBFF89FFE7E33EFA008920FA05" box="[1597,1662,1452,1495]" pageId="3" pageNumber="214" type="pagination">209</pagination>
+, 
+<year id="8F771C5CFF89FFE7E395FA0089B7FA05" box="[1686,1769,1452,1495]" pageId="3" pageNumber="214">1919</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF89FFE7E70FFA738B49F9EC" pageId="3" pageNumber="214" type="materials_examined">
+<paragraph id="FB605D0FFF89FFE7E70FFA738B49F9EC" blockId="3.[461,1861,1452,1598]" pageId="3" pageNumber="214">
+<materialsCitation id="4BB75752FF89FFE7E70FFA738B2DF9D8" ID-GBIF-Occurrence="3901040301" box="[524,1139,1503,1546]" collectingDate="1936-06-02" collectorName="R. L. Usinger" country="Guam" location="Ritidian Point" pageId="3" pageNumber="214">
+<collectingMunicipality id="1B04C775FF89FFE7E70FFA738C4BF9D8" box="[524,789,1503,1546]" pageId="3" pageNumber="214">Ritidian Point</collectingMunicipality>
+, 
+<date id="8F617BCFFF89FFE7E637FA738CEBF9D8" box="[820,949,1503,1546]" pageId="3" pageNumber="214">
+<collectingDate id="9F258227FF89FFE7E637FA738CEBF9D8" box="[820,949,1503,1546]" pageId="3" pageNumber="214">June 2</collectingDate>
+</date>
+, 
+<location id="FE000BD4FF89FFE7E6D7FA738B32F9D8" LSID="urn:lsid:plazi:treatment:7376EC19FF89FFE7E4CEFA008B49F9EC:FE000BD4FF89FFE7E6D7FA738B32F9D8" box="[980,1132,1503,1546]" municipality="Ritidian Point" name="Usinger" pageId="3" pageNumber="214">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF89FFE7E18FFA738B49F9EC" ID-GBIF-Occurrence="3901040381" collectedFrom="swept from Intsia bijuga" collectingDate="1936-07-06" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="3" pageNumber="214" specimenCount="2">
+<collectingMunicipality id="1B04C775FF89FFE7E18FFA738A61F9D8" box="[1164,1343,1503,1546]" pageId="3" pageNumber="214">Barrigada</collectingMunicipality>
+, 
+<date id="8F617BCFFF89FFE7E05DFA738A88F9D8" box="[1374,1494,1503,1546]" pageId="3" pageNumber="214">
+<collectingDate id="9F258227FF89FFE7E05DFA738A88F9D8" box="[1374,1494,1503,1546]" pageId="3" pageNumber="214">July 6</collectingDate>
+</date>
+, swept from 
+<taxonomicName id="3CDF268CFF89FFE7E3DDFA738C11F9EC" authority=", Swezey. Two" authorityName="Swezey. Two" class="Magnoliopsida" family="Fabaceae" genus="Intsia" kingdom="Plantae" order="Fabales" pageId="3" pageNumber="214" phylum="Tracheophyta" rank="species" species="bijuga">
+<emphasis id="C9AB811DFF89FFE7E3DDFA738D1BF9EC" italics="true" pageId="3" pageNumber="214">
+<location id="FE000BD4FF89FFE7E3DDFA73881BF9D8" LSID="urn:lsid:plazi:treatment:7376EC19FF89FFE7E4CEFA008B49F9EC:FE000BD4FF89FFE7E3DDFA73881BF9D8" box="[1758,1861,1503,1546]" municipality="Barrigada" name="Intsia" pageId="3" pageNumber="214">Intsia</location>
+bijuga,
+</emphasis>
+<collectorName id="562A38D9FF89FFE7E754F9BE8D80F9EC" box="[599,734,1554,1598]" pageId="3" pageNumber="214">Swezey</collectorName>
+. 
+<location id="FE000BD4FF89FFE7E7FDF9BE8C11F9EC" LSID="urn:lsid:plazi:treatment:7376EC19FF89FFE7E4CEFA008B49F9EC:FE000BD4FF89FFE7E7FDF9BE8C11F9EC" box="[766,847,1554,1598]" municipality="Barrigada" name="Two" pageId="3" pageNumber="214">Two</location>
+</taxonomicName>
+<specimenCount id="EDD99686FF89FFE7E65DF9BE8B4CF9EC" box="[862,1042,1554,1598]" pageId="3" pageNumber="214" type="generic">specimens</specimenCount>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

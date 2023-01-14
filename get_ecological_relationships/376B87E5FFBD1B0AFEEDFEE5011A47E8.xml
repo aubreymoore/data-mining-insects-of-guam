@@ -1,0 +1,100 @@
+<document id="5994DCC9019045503FE1BC23336C5A79" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBD1B0AFEEDFEE5011A47E8" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Trogophloeus exiguus Erichson 1839" docType="treatment" docVersion="17" lastPageNumber="153" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="153" updateTime="1671336034494" updateUser="annettekang">
+<mods:mods id="54DF6F6951419C8EE686194297E20BE1" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="AB1B1CBE1AC389AAAAA4EBAC09C9A7FE">
+<mods:title id="AFC09F7521F6D26A2A9E9A11479E3A93">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="E8ED8C2338C4C2F4AE35CF5DF703B77B" type="personal">
+<mods:role id="B3501E2E868BB74967A37CBAFB5A2F94">
+<mods:roleTerm id="A61D20685B330CCF78855C337259683E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="AFF5F59A76957BBE1F74C1E5D86CC7D7">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="5FF152795137477251A9AAC47EEBACDD">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="501A2FB5DF78CBF66A21015BEE839098">text</mods:typeOfResource>
+<mods:relatedItem id="3103D8327CB2AE4685FF02210857C98E" type="host">
+<mods:originInfo id="8860BC8A27FB5C199C42822FB8BE5D06">
+<mods:dateIssued id="CEBFE2690074973F5CF39C8AD694126E">1942</mods:dateIssued>
+<mods:dateOther id="3AB95B6BFB607FD56A6DF33E5A8FE668" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="32552C862270EFE28D6742F972110EC1">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="0D61743044F702201AD280FE1158FBB5">
+<mods:placeTerm id="8E016AB7EAF94D00E0C51C7B911A2621">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="36BD0D978543B23095FD45AD93D6059F">
+<mods:title id="6FBEE3B04A03A22BF5B04E63E7823CA4">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="3F1D4DAEE9945AA467B750C25849E413">
+<mods:extent id="325A43064B64F5D253564A50718FE2F4" unit="page">
+<mods:start id="F9673156CF3417E30112C2C2FA656A2A">150</mods:start>
+<mods:end id="1DEDF117231DA7253E70E7029329FF60">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="339D67DA9B0C42AFCC8FBA633A01FD92">book chapter</mods:classification>
+<mods:identifier id="D8BD7D8F1AA71A9400DEA10CA45314DA" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="E0507F950ED263E8E57710004B911E6B" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="0977E978A83EE21C94E4A050C3DD8CEC" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<subSection id="D64D2F18FFBD1B0AFEEDFEE5011A47E8" pageId="3" pageNumber="153" type="multiple">
+<treatment id="376B87E5FFBD1B0AFEEDFEE5011A47E8" ID-DOI="http://doi.org/10.5281/zenodo.5211597" ID-GBIF-Taxon="184415233" ID-Zenodo-Dep="5211597" LSID="urn:lsid:plazi:treatment:376B87E5FFBD1B0AFEEDFEE5011A47E8" httpUri="http://treatment.plazi.org/id/376B87E5FFBD1B0AFEEDFEE5011A47E8" lastPageNumber="153" pageId="3" pageNumber="153">
+<subSubSection id="F7D86578FFBD1B0AFEEDFEE504CC474F" box="[311,970,334,378]" pageId="3" pageNumber="153" type="nomenclature">
+<paragraph id="BF7D36F3FFBD1B0AFEEDFEE504CC474F" blockId="3.[311,339,336,378]" box="[311,970,334,378]" lastBlockId="3.[374,1705,334,377]" pageId="3" pageNumber="153">
+<heading id="E435819FFFBD1B0AFEEDFEE504C5474F" box="[311,963,334,378]" centered="true" fontSize="11" level="2" pageId="3" pageNumber="153" reason="2">
+<emphasis id="8DB6EAE1FFBD1B0AFEEDFEE50655474C" bold="true" box="[311,339,336,378]" pageId="3" pageNumber="153">5.</emphasis>
+<taxonomicName id="78C24D70FFBD1B0AFEACFEFB04C5474F" authority="Erichson" authorityName="Erichson" authorityYear="1839" box="[374,963,334,377]" class="Insecta" family="Staphylinidae" genus="Trogophloeus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="3" pageNumber="153" phylum="Arthropoda" rank="species" species="exiguus">
+<emphasis id="8DB6EAE1FFBD1B0AFEACFEFB040B474F" bold="true" box="[374,781,334,377]" pageId="3" pageNumber="153">Trogophloeus exiguus</emphasis>
+Erichson
+</taxonomicName>
+</heading>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBD1B0AFC01FEFB0248479A" pageId="3" pageNumber="153" type="reference_group">
+<paragraph id="BF7D36F3FFBD1B0AFC01FEFB0248479A" blockId="3.[374,1705,334,377]" lastBlockId="3.[373,1564,386,478]" pageId="3" pageNumber="153">
+<treatmentCitationGroup id="9FD211DDFFBD1B0AFC01FEFB0248479A" pageId="3" pageNumber="153">
+<bibCitation id="6AE83E9FFFBD1B0AFC01FEFB0248479A" author="Erichson" journalOrPublisher="Kaf. Mark Brandenb." pageId="3" pageNumber="153" pagination="604" part="29" refId="ref1437" title="Coleopt. Catalog." type="book" year="1839">
+<treatmentCitation id="3E6310E2FFBD1B0AFC01FEFB012B474F" author="Erichson" box="[987,1581,334,377]" page="604" pageId="3" pageNumber="153" year="1839">
+<journalOrPublisher id="65033C3FFFBD1B0AFC01FEFB026C474F" box="[987,1386,334,377]" pageId="3" pageNumber="153">Kaf. Mark Brandenb.</journalOrPublisher>
+, 
+<pagination id="860BC807FFBD1B0AFA5BFEFB02C7474F" box="[1409,1473,334,377]" pageId="3" pageNumber="153" type="pageRange">604</pagination>
+, 
+<year id="CB6A77A0FFBD1B0AFA01FEFB012B474F" box="[1499,1581,334,377]" pageId="3" pageNumber="153">1839</year>
+</treatmentCitation>
+. 
+<treatmentCitation id="3E6310E2FFBD1B0AF99EFEFB0248479A" author="Bernhauer and Schubert" page="105" pageId="3" pageNumber="153" year="1911">
+<author id="677FDE16FFBD1B0AF99EFEFB05DF479A" pageId="3" pageNumber="153">Bernhauer and Schubert</author>
+, 
+<title id="CDC6DDC5FFBD1B0AFD34FE370325479A" box="[750,1059,386,428]" pageId="3" pageNumber="153">Coleopt. Catalog.</title>
+(
+<part id="CB669C6EFFBD1B0AFB99FE370376479A" box="[1091,1136,386,428]" pageId="3" pageNumber="153" type="issue">29</part>
+): 
+<pagination id="860BC807FFBD1B0AFB73FE3703E6479A" box="[1193,1248,386,428]" pageId="3" pageNumber="153" type="pageRange">105</pagination>
+, 
+<year id="CB6A77A0FFBD1B0AFB2DFE37024F479A" box="[1271,1353,386,428]" pageId="3" pageNumber="153">1911</year>
+.
+</treatmentCitation>
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBD1B0AFEACFE03011A47E8" box="[374,1564,438,478]" pageId="3" pageNumber="153" type="materials_examined">
+<paragraph id="BF7D36F3FFBD1B0AFEACFE03011A47E8" blockId="3.[373,1564,386,478]" box="[374,1564,438,478]" pageId="3" pageNumber="153">
+<materialsCitation id="0FAA3CAEFFBD1B0AFEACFE03011A47E8" ID-GBIF-Occurrence="3334692450" box="[374,1564,438,478]" collectedFrom="a cosmopolitan species" collectingDate="1936-05-28" collectorName="R. L. Usinger" country="Guam" location="Umatac" pageId="3" pageNumber="153" specimenCount="1">
+<location id="BA1D6028FFBD1B0AFEACFE03050447E8" LSID="urn:lsid:plazi:treatment:376B87E5FFBD1B0AFEEDFEE5011A47E8:BA1D6028FFBD1B0AFEACFE03050447E8" box="[374,514,438,478]" name="Umatac" pageId="3" pageNumber="153">Umatac</location>
+, 
+<date id="CB7C1033FFBD1B0AFDC1FE0305A047E8" box="[539,678,438,478]" pageId="3" pageNumber="153" value="1928-05">
+<collectingDate id="DB38E9DBFFBD1B0AFDC1FE0305A047E8" box="[539,678,438,478]" pageId="3" pageNumber="153" value="1928-05">May 28</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFBD1B0AFD65FE03044947E8" box="[703,847,438,478]" pageId="3" pageNumber="153">Usinger</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFBD1B0AFCBDFE03035047E8" box="[871,1110,438,478]" pageId="3" pageNumber="153" type="generic">one specimen</specimenCount>
+. 
+<collectionCode id="D9D3AE36FFBD1B0AFBADFE03039147E8" box="[1143,1175,438,478]" country="USA" lsid="urn:lsid:biocol.org:col:15406" name="Harvard University - Arnold Arboretum" pageId="3" pageNumber="153" type="Herbarium">A</collectionCode>
+cosmopolitan species.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</subSection>
+</document>

@@ -1,0 +1,155 @@
+<document id="11608AAFDEB9B9939F9E92A862A250E8" ID-DOI="http://doi.org/10.5281/zenodo.5127686" ID-GBIF-Dataset="7b960500-f4a3-4b8f-8b56-440fdc9431c9" ID-Zenodo-Dep="5127686" checkinTime="1626977897655" checkinUser="carolina" docAuthor="O. H. Swezey" docDate="1946" docId="484B8797FFADFFB1A5E8F990A16FF7C7" docLanguage="en" docName="InsectsOfGuamII.189.195-200.pdf.imf" docOrigin="Insects of Guam-II, Hawaii, Honolulu: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Milichiella lacteipennis" docType="treatment" docVersion="19" lastPageNumber="198" masterDocId="B472FFEFFFAEFFB2A40BFFD9A227FFD1" masterDocTitle="SOME MISCELLANEOUS DIPTERA OF GUAM" masterLastPageNumber="200" masterPageNumber="195" pageNumber="198" updateTime="1659465586346" updateUser="ExternalLinkService">
+<mods:mods id="51615967B9CC9609CB30D0CEC9965809" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="2A68DFB48EE8629F5EDF00585B173057">
+<mods:title id="8F2C6225C8C4A2FFE54DC31E2A71CD8B">SOME MISCELLANEOUS DIPTERA OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="12CE428EAC93FA6333B2ECAAC43C2D8A" type="personal">
+<mods:role id="F7C4A27AB5E48268898B545575DB3CAB">
+<mods:roleTerm id="12A8A44311BFF1B0ED65E28A700447C4">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1CDEB610FCB6D11AFEBF7E05D1311D71">O. H. Swezey</mods:namePart>
+<mods:affiliation id="ED22BF3CCBD04D98B3437F25ACFD032E">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="EE68DDCBB4942BF33BD938A9F5CCCE45">text</mods:typeOfResource>
+<mods:relatedItem id="17B79EF9FC8F03059C57F682C644C3A2" type="host">
+<mods:originInfo id="99CF431D1515282C56CF8C7CE8765D10">
+<mods:dateIssued id="71D0AA494C34A90AE9C12FEFA0BAB56E">1946</mods:dateIssued>
+<mods:dateOther id="1232FC7527F744D9C6ABE0BCB2A028DE" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="5DC2FD22357D96DCD4BF17454E7AA907">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="42743FB611928AAD89C3C62B165C60E4">
+<mods:placeTerm id="5C371F07B4B8C28D2151FFF5B19886B5">Hawaii, Honolulu</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="2A306FCF98CFCEDF810DB9F2761BA60E">
+<mods:title id="8AF1630622E0F571E67F36F987203F2C">Insects of Guam-II</mods:title>
+</mods:titleInfo>
+<mods:part id="669AF25CD7A0CE52919F9DD6693153EE">
+<mods:extent id="A7FE7E4645BA2B3C3D4F208D735C5E25" unit="page">
+<mods:start id="E838FA633CFD95EA5D4CE2BBB61A362B">195</mods:start>
+<mods:end id="7A442229DDEF30D1C7507EC0E85AA3DA">200</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="D689B51F4968ED16A36AA27FAB89AF5F">book chapter</mods:classification>
+<mods:identifier id="C077A70A3C35D7C43DD3BDD8FFBB4A86" type="DOI">http://doi.org/10.5281/zenodo.5127686</mods:identifier>
+<mods:identifier id="E28C85E5AEEFB78C9AB8262C112D966E" type="GBIF-Dataset">7b960500-f4a3-4b8f-8b56-440fdc9431c9</mods:identifier>
+<mods:identifier id="07761481A67353997AC4638FA0C4DCD1" type="Zenodo-Dep">5127686</mods:identifier>
+</mods:mods>
+<treatment id="484B8797FFADFFB1A5E8F990A16FF7C7" ID-DOI="http://doi.org/10.5281/zenodo.5207710" ID-GBIF-Taxon="184459670" ID-Zenodo-Dep="5207710" LSID="urn:lsid:plazi:treatment:484B8797FFADFFB1A5E8F990A16FF7C7" httpUri="http://treatment.plazi.org/id/484B8797FFADFFB1A5E8F990A16FF7C7" lastPageNumber="198" pageId="3" pageNumber="198">
+<subSubSection id="88F8650AFFADFFB1A5E8F990A6A4F9A4" box="[483,1155,1609,1653]" pageId="3" pageNumber="198" type="nomenclature">
+<paragraph id="C05D3681FFADFFB1A5E8F990A6A4F9A4" blockId="3.[483,1880,1609,2070]" box="[483,1155,1609,1653]" pageId="3" pageNumber="198">
+<heading id="9B1581EDFFADFFB1A5E8F990A6A4F9A4" box="[483,1155,1609,1653]" fontSize="8" level="2" pageId="3" pageNumber="198" reason="4">
+<emphasis id="F296EA93FFADFFB1A5E8F990A035F9A4" bold="true" box="[483,530,1609,1653]" pageId="3" pageNumber="198">15.</emphasis>
+<taxonomicName id="07E24D02FFADFFB1A63FF990A65AF9A4" authority="(Loew)" baseAuthorityName="Loew" baseAuthorityYear="1866" box="[564,1149,1609,1653]" class="Insecta" family="Milichiidae" genus="Milichiella" kingdom="Animalia" order="Diptera" pageId="3" pageNumber="198" phylum="Arthropoda" rank="species" species="lacteipennis">
+<emphasis id="F296EA93FFADFFB1A63FF990A1FCF9A4" bold="true" box="[564,987,1609,1653]" pageId="3" pageNumber="198">Milichiella lacteipennis</emphasis>
+(Loew)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFADFFB1A614F9A7A7C5F8A5" pageId="3" pageNumber="198" type="reference_group">
+<paragraph id="C05D3681FFADFFB1A614F9A7A491F979" blockId="3.[483,1880,1609,2070]" box="[543,1718,1662,1704]" pageId="3" pageNumber="198">
+<treatmentCitationGroup id="E0F211AFFFADFFB1A614F9A7A491F979" box="[543,1718,1662,1704]" pageId="3" pageNumber="198">
+<treatmentCitation id="41431090FFADFFB1A614F9A7A463F979" box="[543,1604,1662,1704]" pageId="3" pageNumber="198">
+<taxonomicName id="07E24D02FFADFFB1A614F9A7A608F979" authority="Loew, Berlin. Ent. Zeitschr." box="[543,1071,1662,1704]" class="Insecta" family="Milichiidae" genus="Lobioptera" higherTaxonomySource="CoL" kingdom="Animalia" order="Diptera" pageId="3" pageNumber="198" phylum="Arthropoda" rank="species" species="lacteipennis">
+<emphasis id="F296EA93FFADFFB1A614F9A7A19BF979" box="[543,956,1662,1704]" italics="true" pageId="3" pageNumber="198">Lobioptera lacteipennis</emphasis>
+<bibCitation id="15C83EEDFFADFFB1A7C2F9A7A496F979" author="Loew" box="[969,1713,1662,1704]" journalOrPublisher="Berlin. Ent. Zeitschr" pageId="3" pageNumber="198" pagination="185" part="9" refId="ref1601" type="journal article" year="1865">
+<author id="185FDE64FFADFFB1A7C2F9A7A608F979" box="[969,1071,1662,1704]" pageId="3" pageNumber="198">Loew</author>
+, 
+<journalOrPublisher id="1A233C4DFFADFFB1A04DF9A7A79BF979" box="[1094,1468,1662,1704]" pageId="3" pageNumber="198">Berlin. Ent. Zeitschr</journalOrPublisher>
+. 
+<emphasis id="F296EA93FFADFFB1A1DAF9A7A7D2F979" bold="true" box="[1489,1525,1662,1704]" pageId="3" pageNumber="198">
+<part id="B4469C1CFFADFFB1A1DAF9A7A7C3F979" box="[1489,1508,1662,1704]" pageId="3" pageNumber="198" type="volume">9</part>
+:
+</emphasis>
+<pagination id="F92BC875FFADFFB1A20DF9A7A463F979" box="[1542,1604,1662,1704]" pageId="3" pageNumber="198" type="pagination">185</pagination>
+, 
+<year id="B44A77D2FFADFFB1A256F9A7A496F979" box="[1629,1713,1662,1704]" pageId="3" pageNumber="198">1865</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="C05D3681FFADFFB1A628F968A09DF8DC" blockId="3.[483,1880,1609,2070]" pageId="3" pageNumber="198">
+<treatmentCitationGroup id="E0F211AFFFADFFB1A628F968A09DF8DC" pageId="3" pageNumber="198">
+<treatmentCitation id="41431090FFADFFB1A628F968A576F90A" box="[547,1873,1713,1755]" pageId="3" pageNumber="198">
+<taxonomicName id="07E24D02FFADFFB1A628F968A4D7F90A" authority=", Williston, Ent. Soc. London, Trans." box="[547,1776,1713,1755]" class="Insecta" family="Milichiidae" genus="Ophthalmomyia" higherTaxonomySource="GBIF" kingdom="Animalia" order="Diptera" pageId="3" pageNumber="198" phylum="Arthropoda" rank="species" species="lacteipennis">
+<emphasis id="F296EA93FFADFFB1A628F968A60FF90A" box="[547,1064,1713,1755]" italics="true" pageId="3" pageNumber="198">Ophthalmomyia lacteipennis,</emphasis>
+<bibCitation id="15C83EEDFFADFFB1A049F968A092F8DC" author="Williston" journalOrPublisher="Ent. Soc. London, Trans" pageId="3" pageNumber="198" part="427" refId="ref1618" type="journal volume" year="1896">
+<author id="185FDE64FFADFFB1A049F968A6CEF90A" box="[1090,1257,1713,1755]" pageId="3" pageNumber="198">Williston</author>
+, 
+<journalOrPublisher id="1A233C4DFFADFFB1A102F968A4CDF90A" box="[1289,1770,1713,1755]" pageId="3" pageNumber="198">Ent. Soc. London, Trans</journalOrPublisher>
+., 
+<part id="B4469C1CFFADFFB1A304F968A576F90A" box="[1807,1873,1713,1755]" pageId="3" pageNumber="198" type="volume">427</part>
+, 
+<year id="B44A77D2FFADFFB1A669F93CA092F8DC" box="[610,693,1765,1805]" pageId="3" pageNumber="198">1896</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="C05D3681FFADFFB1A62BF8CEA7C5F8A5" blockId="3.[483,1880,1609,2070]" pageId="3" pageNumber="198">
+<treatmentCitationGroup id="E0F211AFFFADFFB1A62BF8CEA7C5F8A5" pageId="3" pageNumber="198">
+<treatmentCitation id="41431090FFADFFB1A62BF8CEA452F890" box="[544,1653,1815,1857]" pageId="3" pageNumber="198">
+<taxonomicName id="07E24D02FFADFFB1A62BF8CEA690F890" authority=", Bryan, Haw. Ent. Soc., Proc." box="[544,1207,1815,1857]" class="Insecta" family="Milichiidae" genus="Milichiella" kingdom="Animalia" order="Diptera" pageId="3" pageNumber="198" phylum="Arthropoda" rank="species" species="lacteipennis">
+<emphasis id="F296EA93FFADFFB1A62BF8CEA1E6F890" box="[544,961,1815,1857]" italics="true" pageId="3" pageNumber="198">Milichiella lacteipennis,</emphasis>
+<bibCitation id="15C83EEDFFADFFB1A7DEF8CEA4FAF890" author="Bryan" box="[981,1757,1815,1857]" journalOrPublisher="Haw. Ent. Soc., Proc." pageId="3" pageNumber="198" pagination="292" part="5" refId="ref1636" type="journal article" year="1923">
+<author id="185FDE64FFADFFB1A7DEF8CEA663F890" box="[981,1092,1815,1857]" pageId="3" pageNumber="198">Bryan</author>
+, 
+<journalOrPublisher id="1A233C4DFFADFFB1A055F8CEA7D7F890" box="[1118,1520,1815,1857]" pageId="3" pageNumber="198">Haw. Ent. Soc., Proc.</journalOrPublisher>
+<emphasis id="F296EA93FFADFFB1A20FF8CEA40FF890" bold="true" box="[1540,1576,1815,1857]" pageId="3" pageNumber="198">
+&quot; 
+<part id="B4469C1CFFADFFB1A219F8CEA40FF890" box="[1554,1576,1815,1857]" pageId="3" pageNumber="198" type="volume">5</part>
+</emphasis>
+: 
+<pagination id="F92BC875FFADFFB1A231F8CEA452F890" box="[1594,1653,1815,1857]" pageId="3" pageNumber="198" type="pagination">292</pagination>
+, 
+<year id="B44A77D2FFADFFB1A29AF8CEA4FAF890" box="[1681,1757,1815,1857]" pageId="3" pageNumber="198">1923</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+(teste Kn~b); 
+<bibCitation id="15C83EEDFFADFFB1A6F3F890A7FAF8A5" author="Bezzi" box="[760,1501,1865,1908]" journalOrPublisher="Diptera of Fiji Islands" pageId="3" pageNumber="198" part="162" refId="ref1660" type="book" year="1928">
+<author id="185FDE64FFADFFB1A6F3F890A17BF8A5" box="[760,860,1865,1908]" pageId="3" pageNumber="198">Bezzi</author>
+, 
+<journalOrPublisher id="1A233C4DFFADFFB1A778F890A73DF8A5" box="[883,1306,1865,1908]" pageId="3" pageNumber="198">
+<taxonomicName id="07E24D02FFADFFB1A778F890A1DAF8A5" authority="of" authorityName="OF" box="[883,1021,1865,1908]" kingdom="Animalia" order="Diptera" pageId="3" pageNumber="195" rank="order">Diptera</taxonomicName>
+of 
+<collectingCountry id="B8F57611FFADFFB1A049F890A73DF8A5" box="[1090,1306,1865,1908]" name="Fiji" pageId="3" pageNumber="198">Fiji Islands</collectingCountry>
+</journalOrPublisher>
+, 
+<part id="B4469C1CFFADFFB1A13FF890A755F8A5" box="[1332,1394,1865,1908]" pageId="3" pageNumber="198">162</part>
+, 
+<year id="B44A77D2FFADFFB1A181F890A7FAF8A5" box="[1418,1501,1865,1908]" pageId="3" pageNumber="198">1928</year>
+</bibCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFADFFB1A62AF85EA16FF7C7" pageId="3" pageNumber="198" type="reference_group">
+<paragraph id="C05D3681FFADFFB1A62AF85EA16FF7C7" blockId="3.[483,1880,1609,2070]" pageId="3" pageNumber="198">
+Described from 
+<collectingCountry id="B8F57611FFADFFB1A748F85EA187F87E" box="[835,928,1927,1967]" name="Cuba" pageId="3" pageNumber="198">Cuba</collectingCountry>
+. Widely distributed in America and the Old World, and occurs in 
+<collectingCountry id="B8F57611FFADFFB1A6D5F860A1A2F832" box="[734,901,1977,2019]" name="Australia" pageId="3" pageNumber="198">Australia</collectingCountry>
+, 
+<collectingCountry id="B8F57611FFADFFB1A797F860A1C7F832" box="[924,992,1977,2019]" name="Fiji" pageId="3" pageNumber="198">Fiji</collectingCountry>
+, 
+<collectingCountry id="B8F57611FFADFFB1A7F2F860A656F832" box="[1017,1137,1977,2019]" name="Samoa" pageId="3" pageNumber="198">Samoa</collectingCountry>
+, and Hawaii. 
+<materialsCitation id="708A3CDCFFADFFB1A173F860A164F7C7" ID-GBIF-Occurrence="3874685302" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="3" pageNumber="198" specimenCount="3">
+Three 
+<specimenCount id="D6E4FD08FFADFFB1A1FAF860A487F832" box="[1521,1696,1977,2019]" pageId="3" pageNumber="198" type="generic">specimens</specimenCount>
+in 
+<collectingMunicipality id="2039ACFBFFADFFB1A2D4F860A059F7C7" pageId="3" pageNumber="198">Bishop Museum</collectingMunicipality>
+, 
+<location id="C53D605AFFADFFB1A696F835A164F7C7" LSID="urn:lsid:plazi:treatment:484B8797FFADFFB1A5E8F990A16FF7C7:C53D605AFFADFFB1A696F835A164F7C7" box="[669,835,2028,2070]" municipality="Bishop Museum" name="Fullaway" pageId="3" pageNumber="198">Fullaway</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

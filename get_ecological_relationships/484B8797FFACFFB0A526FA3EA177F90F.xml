@@ -1,0 +1,83 @@
+<document id="8D87FBD7A12CC852AB4BE3EE29BBD0A1" ID-DOI="http://doi.org/10.5281/zenodo.5127686" ID-GBIF-Dataset="7b960500-f4a3-4b8f-8b56-440fdc9431c9" ID-Zenodo-Dep="5127686" checkinTime="1626977897655" checkinUser="carolina" docAuthor="O. H. Swezey" docDate="1946" docId="484B8797FFACFFB0A526FA3EA177F90F" docLanguage="en" docName="InsectsOfGuamII.189.195-200.pdf.imf" docOrigin="Insects of Guam-II, Hawaii, Honolulu: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Musca domestica Linnaeus, Syst. Nat." docType="treatment" docVersion="15" lastPageNumber="197" masterDocId="B472FFEFFFAEFFB2A40BFFD9A227FFD1" masterDocTitle="SOME MISCELLANEOUS DIPTERA OF GUAM" masterLastPageNumber="200" masterPageNumber="195" pageNumber="197" updateTime="1659465586346" updateUser="ExternalLinkService">
+<mods:mods id="2E05D5075C0DC4214A24D74BD9EAD333" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="E7FD61C4D6FD20EF4F747FBF0DF099BA">
+<mods:title id="E9C8D14C0052EAF6FF83120B4679E540">SOME MISCELLANEOUS DIPTERA OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="4F8D02DF1B1A703D99405EAD472B0ECA" type="personal">
+<mods:role id="B082F5334260B392CE2FC25FEB4CF41B">
+<mods:roleTerm id="8B5051F114281A28388D7F7236C8F475">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="17478742A782D767CD70D7BE4C20EF7F">O. H. Swezey</mods:namePart>
+<mods:affiliation id="523B66A32D70C1A77ECCD7D8B02393C5">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="7D392D78208B09FBFFC645CFCC71CD74">text</mods:typeOfResource>
+<mods:relatedItem id="9C64311BB3A2C839E3AC8EABF227D139" type="host">
+<mods:originInfo id="F8A9255D43B96BE01E7DDF5F3646127C">
+<mods:dateIssued id="142C19B7EE22E99743E4CEF9619B6F4D">1946</mods:dateIssued>
+<mods:dateOther id="FC8BD6A10FA4EC5CBFF22131D64AFFB9" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="685439D15DD5689DAB2531AEBD3E4175">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="97618D4F802CAED1C96C899D0622CBFB">
+<mods:placeTerm id="7FE99AA38A6F825FBA2FFA78C4A1548E">Hawaii, Honolulu</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="6C7768957E6FC8C95DA95A063E0D8CCF">
+<mods:title id="D11E2733074E1C7DFA05A50B8AC151C1">Insects of Guam-II</mods:title>
+</mods:titleInfo>
+<mods:part id="C893CB20F4BAEDC4B908DF2206BFB479">
+<mods:extent id="5C0A3E5D98CFE3A3AD4E7FB3ED70A0D6" unit="page">
+<mods:start id="72FEDA0C0F8FDDB3AC529D15648A49EA">195</mods:start>
+<mods:end id="0A4111EAA32E4F3DF0D05037EA760F08">200</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="1BF6D76AF499AB25A731FC6794C53F9E">book chapter</mods:classification>
+<mods:identifier id="745C3FC14BE83F663C18401ACB81FF3C" type="DOI">http://doi.org/10.5281/zenodo.5127686</mods:identifier>
+<mods:identifier id="8985655178BA2E33834354C336798E7C" type="GBIF-Dataset">7b960500-f4a3-4b8f-8b56-440fdc9431c9</mods:identifier>
+<mods:identifier id="4E5E5226F69E2A0393438D2361CD68B7" type="Zenodo-Dep">5127686</mods:identifier>
+</mods:mods>
+<treatment id="484B8797FFACFFB0A526FA3EA177F90F" ID-DOI="http://doi.org/10.5281/zenodo.5123246" ID-GBIF-Taxon="184459683" ID-Zenodo-Dep="5123246" LSID="urn:lsid:plazi:treatment:484B8797FFACFFB0A526FA3EA177F90F" httpUri="http://treatment.plazi.org/id/484B8797FFACFFB0A526FA3EA177F90F" lastPageNumber="197" pageId="2" pageNumber="197">
+<subSubSection id="88F8650AFFACFFB0A526FA3EA146F9C2" box="[301,865,1511,1555]" pageId="2" pageNumber="197" type="nomenclature">
+<paragraph id="C05D3681FFACFFB0A526FA3EA146F9C2" blockId="2.[301,1699,1511,1758]" box="[301,865,1511,1555]" pageId="2" pageNumber="197">
+<heading id="9B1581EDFFACFFB0A526FA3EA7B4F9C2" box="[301,1427,1511,1555]" fontSize="11" level="2" pageId="2" pageNumber="197" reason="2">
+<emphasis id="F296EA93FFACFFB0A526FA3EA36EF9C2" bold="true" box="[301,329,1511,1555]" pageId="2" pageNumber="197">9.</emphasis>
+<taxonomicName id="07E24D02FFACFFB0A567FA3EA17DF9C2" authority="Linnaeus, Syst. Nat." authorityName="Linnaeus, Syst. Nat." box="[364,858,1511,1555]" class="Insecta" family="Anthomyiidae" genus="Musca" kingdom="Animalia" order="Diptera" pageId="2" pageNumber="197" phylum="Arthropoda" rank="species" species="domestica">
+<emphasis id="F296EA93FFACFFB0A567FA3EA082F9C2" bold="true" box="[364,677,1511,1555]" pageId="2" pageNumber="197">Musca domestica</emphasis>
+<bibCitation id="15C83EEDFFACFFB0A6B8FA3EA7A9F9C2" author="Linnaeus" box="[691,1422,1511,1555]" journalOrPublisher="Syst. Nat." pageId="2" pageNumber="197" part="596" refId="ref1151" type="book" year="1758">
+<author id="185FDE64FFACFFB0A6B8FA3EA17DF9C2" box="[691,858,1511,1555]" pageId="2" pageNumber="197">Linnaeus</author>
+, 
+<subSubSection id="88F8650AFFACFFB0A77FFA3EA7B4F9C2" box="[884,1427,1511,1555]" pageId="2" pageNumber="197" type="reference_group">
+<paragraph id="C05D3681FFACFFB0A77FFA3EA7B4F9C2" blockId="2.[301,1699,1511,1758]" box="[884,1427,1511,1555]" pageId="2" pageNumber="197">
+<journalOrPublisher id="1A233C4DFFACFFB0A77FFA3EA60FF9C2" box="[884,1064,1511,1555]" pageId="2" pageNumber="197">Syst. Nat.</journalOrPublisher>
+10th ed., 
+<part id="B4469C1CFFACFFB0A0EFFA3EA705F9C2" box="[1252,1314,1511,1555]" pageId="2" pageNumber="197">596</part>
+, 
+<year id="B44A77D2FFACFFB0A130FA3EA7A9F9C2" box="[1339,1422,1511,1555]" pageId="2" pageNumber="197">1758</year>
+.
+</paragraph>
+</subSubSection>
+</bibCitation>
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFACFFB0A567F9C2A177F90F" pageId="2" pageNumber="197" type="discussion">
+<paragraph id="C05D3681FFACFFB0A567F9C2A177F90F" blockId="2.[301,1699,1511,1758]" pageId="2" pageNumber="197">
+This cosmopolitan fly was extremely abundant everywhere in 
+<collectingCountry id="B8F57611FFACFFB0A1C5F9C2A41CF997" box="[1486,1595,1563,1606]" name="Guam" pageId="2" pageNumber="197">Guam</collectingCountry>
+. 
+<materialsCitation id="708A3CDCFFACFFB0A257F9C2A16CF90F" ID-GBIF-Occurrence="3874685317" collectedFrom="maggots feeding in cow and carabao dung" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="2" pageNumber="197" specimenCount="5">
+<collectedFrom id="73FE757CFFACFFB0A257F9C2A0B5F97A" pageId="2" pageNumber="197">The maggots fed abundantly in cow dung and carabao dung, the latter of which was plentiful for the</collectedFrom>
+purpose. Many 
+<specimenCount id="D6E4FD08FFACFFB0A7CAF959A657F97A" box="[961,1136,1664,1707]" pageId="2" pageNumber="197" type="generic">specimens</specimenCount>
+were collected. Five 
+<specimenCount id="D6E4FD08FFACFFB0A1FEF959A484F97A" box="[1525,1699,1664,1707]" pageId="2" pageNumber="197" type="generic">specimens</specimenCount>
+in 
+<collectingMunicipality id="2039ACFBFFACFFB0A569F96DA0AEF90F" box="[354,649,1716,1758]" pageId="2" pageNumber="197">Bishop Museum</collectingMunicipality>
+, 
+<location id="C53D605AFFACFFB0A6A8F96DA16CF90F" LSID="urn:lsid:plazi:treatment:484B8797FFACFFB0A526FA3EA177F90F:C53D605AFFACFFB0A6A8F96DA16CF90F" box="[675,843,1716,1758]" municipality="Bishop Museum" name="Fullaway" pageId="2" pageNumber="197">Fullaway</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

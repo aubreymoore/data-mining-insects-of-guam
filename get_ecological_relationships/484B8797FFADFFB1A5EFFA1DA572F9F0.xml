@@ -1,0 +1,80 @@
+<document id="FC7736F069267444E92982B317448DDA" ID-DOI="http://doi.org/10.5281/zenodo.5127686" ID-GBIF-Dataset="7b960500-f4a3-4b8f-8b56-440fdc9431c9" ID-Zenodo-Dep="5127686" checkinTime="1626977897655" checkinUser="carolina" docAuthor="O. H. Swezey" docDate="1946" docId="484B8797FFADFFB1A5EFFA1DA572F9F0" docLanguage="en" docName="InsectsOfGuamII.189.195-200.pdf.imf" docOrigin="Insects of Guam-II, Hawaii, Honolulu: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Milichia orientalis Malloch, Ins. Inscit. Mens. 1: 109 1913" docType="treatment" docVersion="15" lastPageNumber="198" masterDocId="B472FFEFFFAEFFB2A40BFFD9A227FFD1" masterDocTitle="SOME MISCELLANEOUS DIPTERA OF GUAM" masterLastPageNumber="200" masterPageNumber="195" pageNumber="198" updateTime="1659456610334" updateUser="annettekang">
+<mods:mods id="94F2F7F69C46DBC1B8CFC2D5BDB0D763" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="34138A6D2296E41DDCD94EE98CC41CE0">
+<mods:title id="04A195E4CE9C9307506356D394902F54">SOME MISCELLANEOUS DIPTERA OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="5207A76E7D33CE3321E95C300DA67F00" type="personal">
+<mods:role id="C3D878D8B580B2138A2FC8E735E3FDF6">
+<mods:roleTerm id="AD677E0F870C50DE95588BD577106B5B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A51D40CE27656374E9D58926BDDA5F80">O. H. Swezey</mods:namePart>
+<mods:affiliation id="A96E57BFCD085CE82F45053B67FB8C43">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="338C73898971E0C21574723378ACE85B">text</mods:typeOfResource>
+<mods:relatedItem id="BA3B118F709DD332020A3176D2A9E77D" type="host">
+<mods:originInfo id="5169E14F305519CEF9A9EBDB0F5A7483">
+<mods:dateIssued id="456ACE9D560BAA9C6F731C3E2AF41DFD">1946</mods:dateIssued>
+<mods:dateOther id="CB03F03DE62AB6794445499FA5AEC8D9" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="1F924F8A9417931A65243736EA49480D">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="BF0C9B29DE4D8846269B01FAC28A6B64">
+<mods:placeTerm id="A7A75C078E4CCAFDB118BC89627972EC">Hawaii, Honolulu</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="FD4C3115A046C0A190769B8B1B6F578F">
+<mods:title id="C146EB7A62C31B72BF4C2DD6184704E6">Insects of Guam-II</mods:title>
+</mods:titleInfo>
+<mods:part id="BCB92242B2AE80D354B46D0D9C507351">
+<mods:extent id="2EDAF9B2946E3137518CAC731EB98CD6" unit="page">
+<mods:start id="49F567CC0F1A98B1E8838D2544A7EA56">195</mods:start>
+<mods:end id="0CB134B11ADFC67D025E28062C2EC225">200</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="8F3052DFA80F88FCAE468F00B2CDD40B">book chapter</mods:classification>
+<mods:identifier id="6DE9F08940A05303A41CA06D623BBA37" type="DOI">http://doi.org/10.5281/zenodo.5127686</mods:identifier>
+<mods:identifier id="966AD07C89ED1E73FD17E8C97696C9B1" type="GBIF-Dataset">7b960500-f4a3-4b8f-8b56-440fdc9431c9</mods:identifier>
+<mods:identifier id="5C4D0E50F906376ACD29F80001489850" type="Zenodo-Dep">5127686</mods:identifier>
+</mods:mods>
+<treatment id="484B8797FFADFFB1A5EFFA1DA572F9F0" ID-DOI="http://doi.org/10.5281/zenodo.5128317" ID-GBIF-Taxon="184459668" ID-Zenodo-Dep="5128317" LSID="urn:lsid:plazi:treatment:484B8797FFADFFB1A5EFFA1DA572F9F0" httpUri="http://treatment.plazi.org/id/484B8797FFADFFB1A5EFFA1DA572F9F0" lastPageNumber="198" pageId="3" pageNumber="198">
+<subSubSection id="88F8650AFFADFFB1A5EFFA1DA4A7FA3D" box="[484,1664,1476,1516]" pageId="3" pageNumber="198" type="nomenclature">
+<paragraph id="C05D3681FFADFFB1A5EFFA1DA4A7FA3D" blockId="3.[484,1877,1476,1569]" box="[484,1664,1476,1516]" pageId="3" pageNumber="198">
+<emphasis id="F296EA93FFADFFB1A5EFFA1DA060FA3D" bold="true" box="[484,583,1476,1516]" pageId="3" pageNumber="198">14. *</emphasis>
+<treatmentCitationGroup id="E0F211AFFFADFFB1A64CFA1DA45CFA3D" box="[583,1659,1476,1516]" pageId="3" pageNumber="198">
+<treatmentCitation id="41431090FFADFFB1A64CFA1DA437FA3D" box="[583,1552,1476,1516]" pageId="3" pageNumber="198">
+<taxonomicName id="07E24D02FFADFFB1A64CFA1DA61BFA3D" authority="Malloch, Ins. Inscit. Mens." box="[583,1084,1476,1516]" class="Insecta" family="Milichiidae" genus="Milichia" kingdom="Animalia" order="Diptera" pageId="3" pageNumber="198" phylum="Arthropoda" rank="species" species="orientalis">
+<emphasis id="F296EA93FFADFFB1A64CFA1DA1B1FA3D" bold="true" box="[583,918,1476,1516]" pageId="3" pageNumber="198">Milichia orientalis</emphasis>
+<bibCitation id="15C83EEDFFADFFB1A7ADFA1DA45CFA3D" author="Malloch" box="[934,1659,1476,1516]" journalOrPublisher="Ins. Inscit. Mens" pageId="3" pageNumber="198" pagination="109" part="1" refId="ref1563" type="journal article" year="1913">
+<author id="185FDE64FFADFFB1A7ADFA1DA61BFA3D" box="[934,1084,1476,1516]" pageId="3" pageNumber="198">Malloch</author>
+, 
+<journalOrPublisher id="1A233C4DFFADFFB1A05FFA1DA7ADFA3D" box="[1108,1418,1476,1516]" pageId="3" pageNumber="198">Ins. Inscit. Mens</journalOrPublisher>
+. 
+<emphasis id="F296EA93FFADFFB1A1AAFA1DA788FA3D" bold="true" box="[1441,1455,1476,1516]" pageId="3" pageNumber="198">
+<part id="B4469C1CFFADFFB1A1AAFA1DA78CFA3D" box="[1441,1451,1476,1516]" pageId="3" pageNumber="198" type="volume">1</part>
+:
+</emphasis>
+<pagination id="F92BC875FFADFFB1A1DFFA1DA437FA3D" box="[1492,1552,1476,1516]" pageId="3" pageNumber="198" type="pagination">109</pagination>
+, 
+<year id="B44A77D2FFADFFB1A222FA1DA45CFA3D" box="[1577,1659,1476,1516]" pageId="3" pageNumber="198">1913</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFADFFB1A62AFA2EA572F9F0" box="[545,1877,1527,1569]" pageId="3" pageNumber="198" type="materials_examined">
+<paragraph id="C05D3681FFADFFB1A62AFA2EA572F9F0" blockId="3.[484,1877,1476,1569]" box="[545,1877,1527,1569]" pageId="3" pageNumber="198">
+<materialsCitation id="708A3CDCFFADFFB1A62AFA2EA577F9F0" ID-GBIF-Occurrence="3334698321" box="[545,1872,1527,1569]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="3" pageNumber="198" specimenCount="7">
+Described from 
+<specimenCount id="D6E4FD08FFADFFB1A75BFA2EA653F9F0" box="[848,1140,1527,1569]" pageId="3" pageNumber="198" type="generic">seven specimens</specimenCount>
+in 
+<collectingCountry id="B8F57611FFADFFB1A0C8FA2EA70FF9F0" box="[1219,1320,1527,1569]" name="United States of America" pageId="3" pageNumber="198">U. S.</collectingCountry>
+<location id="C53D605AFFADFFB1A149FA2EA4ACF9F0" LSID="urn:lsid:plazi:treatment:484B8797FFADFFB1A5EFFA1DA572F9F0:C53D605AFFADFFB1A149FA2EA4ACF9F0" box="[1346,1675,1527,1569]" country="United States of America" municipality="Fullaway" name="National Museum" pageId="3" pageNumber="198">National Museum</location>
+, 
+<collectingMunicipality id="2039ACFBFFADFFB1A2A1FA2EA577F9F0" box="[1706,1872,1527,1569]" pageId="3" pageNumber="198">Fullaway</collectingMunicipality>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

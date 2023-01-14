@@ -1,0 +1,125 @@
+<document id="77A5A8B57D351A31F038E0A8E17798CC" ID-DOI="http://doi.org/10.5281/zenodo.5127686" ID-GBIF-Dataset="7b960500-f4a3-4b8f-8b56-440fdc9431c9" ID-Zenodo-Dep="5127686" checkinTime="1626977897655" checkinUser="carolina" docAuthor="O. H. Swezey" docDate="1946" docId="484B8797FFAAFFB6A528FE45A073FD19" docLanguage="en" docName="InsectsOfGuamII.189.195-200.pdf.imf" docOrigin="Insects of Guam-II, Hawaii, Honolulu: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Notogramma stigma Loew 1867" docType="treatment" docVersion="17" lastPageNumber="199" masterDocId="B472FFEFFFAEFFB2A40BFFD9A227FFD1" masterDocTitle="SOME MISCELLANEOUS DIPTERA OF GUAM" masterLastPageNumber="200" masterPageNumber="195" pageNumber="199" updateTime="1659539279702" updateUser="annettekang">
+<mods:mods id="14216509030B7A6B5811A33680E6D74B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B6493502B853B31BCC3310BB99B9856C">
+<mods:title id="A98E6E68431AA7B0136F8887E5C9BCC7">SOME MISCELLANEOUS DIPTERA OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="4A2B648F3163223C465B952020144E77" type="personal">
+<mods:role id="04EA2876C9FF6C09016576CFF3C6807E">
+<mods:roleTerm id="13AD1D9D8597C6FDBC3230C24656B8BA">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="732E09DCC84238CFC5015227BBF00373">O. H. Swezey</mods:namePart>
+<mods:affiliation id="23911500119872DF1AD532ACCA2ED3EE">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="89D73C3AD79662E2298F1D104F9CF2D7">text</mods:typeOfResource>
+<mods:relatedItem id="D44874A4C6C8A1A1FB32CDA3509B8B68" type="host">
+<mods:originInfo id="985C177330828675C9F7BDF22C90AD8E">
+<mods:dateIssued id="7CC8398E06231F59FEF2F1FA5873688C">1946</mods:dateIssued>
+<mods:dateOther id="A6A73FA9DEB0AEA791665E8E6E2BD6C8" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="CCED57162A3B98DB6B198BE32A5910CD">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="49997AEDE4E0DDF8EE31CA60C46702AD">
+<mods:placeTerm id="3C58544AD15D536DF9772B27E7128C47">Hawaii, Honolulu</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="D68993A3817CD488D00970FA71BC2A24">
+<mods:title id="34D6589438DD88DE19D359631539A1EC">Insects of Guam-II</mods:title>
+</mods:titleInfo>
+<mods:part id="BED0DC9904D53138CA63F155D0EDD2A4">
+<mods:extent id="E149DC883A7A24E51BDD23A54F62D63F" unit="page">
+<mods:start id="1C522BD7E9FE4A8EF433530B23B91720">195</mods:start>
+<mods:end id="CA1773EDBCF8E0D8FAE69C8FF397D9AD">200</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="B80B611B23505C7D5DE35294AB6DFF04">book chapter</mods:classification>
+<mods:identifier id="A81665F3A8CCFAB5C45B5BE3F5407373" type="DOI">http://doi.org/10.5281/zenodo.5127686</mods:identifier>
+<mods:identifier id="13AACD12CB8EE7F6368F65684C58D048" type="GBIF-Dataset">7b960500-f4a3-4b8f-8b56-440fdc9431c9</mods:identifier>
+<mods:identifier id="170B08A6B1F70485D201408432693618" type="Zenodo-Dep">5127686</mods:identifier>
+</mods:mods>
+<treatment id="484B8797FFAAFFB6A528FE45A073FD19" ID-DOI="http://doi.org/10.5281/zenodo.5123274" ID-GBIF-Taxon="184459699" ID-Zenodo-Dep="5123274" LSID="urn:lsid:plazi:treatment:484B8797FFAAFFB6A528FE45A073FD19" httpUri="http://treatment.plazi.org/id/484B8797FFAAFFB6A528FE45A073FD19" lastPageNumber="199" pageId="4" pageNumber="199">
+<subSubSection id="88F8650AFFAAFFB6A528FE45A1C5FE16" box="[291,994,412,455]" pageId="4" pageNumber="199" type="nomenclature">
+<paragraph id="C05D3681FFAAFFB6A528FE45A1C5FE16" blockId="4.[291,1686,412,712]" box="[291,994,412,455]" pageId="4" pageNumber="199">
+<heading id="9B1581EDFFAAFFB6A528FE45A1C5FE16" box="[291,994,412,455]" fontSize="8" level="2" pageId="4" pageNumber="199" reason="4">
+17. 
+<taxonomicName id="07E24D02FFAAFFB6A57FFE45A1FBFE16" authority="(Fabricius)" authorityName="Loew" authorityYear="1867" baseAuthorityName="Fabricius" baseAuthorityYear="1798" box="[372,988,412,455]" class="Insecta" family="Ulidiidae" genus="Notogramma" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="199" phylum="Arthropoda" rank="genus">
+<emphasis id="F296EA93FFAAFFB6A57FFE45A044FE16" bold="true" box="[372,611,412,455]" pageId="4" pageNumber="199">Notogramma</emphasis>
+stigma (Fabricius)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFAAFFB6A56BFE09A4B1FDFF" pageId="4" pageNumber="199" type="reference_group">
+<paragraph id="C05D3681FFAAFFB6A56BFE09A70FFE2A" blockId="4.[291,1686,412,712]" box="[352,1320,464,507]" pageId="4" pageNumber="199">
+<treatmentCitationGroup id="E0F211AFFFAAFFB6A56BFE09A70FFE2A" box="[352,1320,464,507]" pageId="4" pageNumber="199">
+<treatmentCitation id="41431090FFAAFFB6A56BFE09A690FE2A" box="[352,1207,464,507]" pageId="4" pageNumber="199">
+<taxonomicName id="07E24D02FFAAFFB6A56BFE09A12BFE2A" authority="Fabricius, Ent. Syst., Suppl." authorityName="Fabricius, Ent. Syst., Suppl." box="[352,780,464,507]" class="Insecta" family="Anthomyiidae" genus="Musca" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="199" phylum="Arthropoda" rank="species" species="stigma">
+<emphasis id="F296EA93FFAAFFB6A56BFE09A071FE2A" box="[352,598,464,507]" italics="true" pageId="4" pageNumber="199">Musca stigma</emphasis>
+<bibCitation id="15C83EEDFFAAFFB6A66FFE09A70FFE2A" author="Fabricius" box="[612,1320,464,507]" journalOrPublisher="Ent. Syst." pageId="4" pageNumber="199" part="563" refId="ref1817" type="journal volume" year="1798">
+<author id="185FDE64FFAAFFB6A66FFE09A12BFE2A" box="[612,780,464,507]" pageId="4" pageNumber="199">Fabricius</author>
+, 
+<journalOrPublisher id="1A233C4DFFAAFFB6A729FE09A1F1FE2A" box="[802,982,464,507]" pageId="4" pageNumber="199">Ent. Syst.</journalOrPublisher>
+, Suppl., 
+<part id="B4469C1CFFAAFFB6A073FE09A690FE2A" box="[1144,1207,464,507]" pageId="4" pageNumber="199" type="volume">563</part>
+, 
+<year id="B44A77D2FFAAFFB6A0C4FE09A704FE2A" box="[1231,1315,464,507]" pageId="4" pageNumber="199">1798</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="C05D3681FFAAFFB6A56BFDDAA4B1FDFF" blockId="4.[291,1686,412,712]" box="[352,1686,515,558]" pageId="4" pageNumber="199">
+<treatmentCitationGroup id="E0F211AFFFAAFFB6A56BFDDAA4B1FDFF" box="[352,1686,515,558]" pageId="4" pageNumber="199">
+<treatmentCitation id="41431090FFAAFFB6A56BFDDAA402FDFF" box="[352,1573,515,558]" pageId="4" pageNumber="199">
+<taxonomicName id="07E24D02FFAAFFB6A56BFDDAA169FDFF" authority=", Loew, Smithsonian Misc. Coll." authorityName="Loew, Smithsonian Misc. Coll." box="[352,846,515,558]" class="Insecta" family="Ulidiidae" genus="Notogramma" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="199" phylum="Arthropoda" rank="species" species="stigma">
+<emphasis id="F296EA93FFAAFFB6A56BFDDAA0F0FDFF" box="[352,727,515,558]" italics="true" pageId="4" pageNumber="199">Notogramma stigma,</emphasis>
+<bibCitation id="15C83EEDFFAAFFB6A6E2FDDAA4B6FDFF" author="Loew" box="[745,1681,515,558]" journalOrPublisher="Smithsonian Misc. Coll." pageId="4" pageNumber="199" pagination="148" part="11" refId="ref1834" type="journal article" year="1873">
+<author id="185FDE64FFAAFFB6A6E2FDDAA169FDFF" box="[745,846,515,558]" pageId="4" pageNumber="199">Loew</author>
+, 
+<journalOrPublisher id="1A233C4DFFAAFFB6A76CFDDAA737FDFF" box="[871,1296,515,558]" pageId="4" pageNumber="199">Smithsonian Misc. Coll.</journalOrPublisher>
+<emphasis id="F296EA93FFAAFFB6A12FFDDAA773FDFF" bold="true" box="[1316,1364,515,558]" pageId="4" pageNumber="199">
+<part id="B4469C1CFFAAFFB6A12FFDDAA76AFDFF" box="[1316,1357,515,558]" pageId="4" pageNumber="199" type="volume">11</part>
+,
+</emphasis>
+art. 3: 
+<pagination id="F92BC875FFAAFFB6A1ECFDDAA402FDFF" box="[1511,1573,515,558]" pageId="4" pageNumber="199" type="pagination">148</pagination>
+, 
+<year id="B44A77D2FFAAFFB6A235FDDAA4B6FDFF" box="[1598,1681,515,558]" pageId="4" pageNumber="199">1873</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFAAFFB6A569FDEEA470FDB0" box="[354,1623,567,609]" pageId="4" pageNumber="199" type="reference_group">
+<paragraph id="C05D3681FFAAFFB6A569FDEEA470FDB0" blockId="4.[291,1686,412,712]" box="[354,1623,567,609]" pageId="4" pageNumber="199">
+<materialsCitation id="708A3CDCFFAAFFB6A569FDEEA470FDB0" ID-GBIF-Occurrence="3334698330" box="[354,1623,567,609]" collectedFrom="swept from Glochidion marianum" collectingDate="1936-08-18" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="199" specimenCount="1">
+<location id="C53D605AFFAAFFB6A569FDEEA383FDB0" LSID="urn:lsid:plazi:treatment:484B8797FFAAFFB6A528FE45A073FD19:C53D605AFFAAFFB6A569FDEEA383FDB0" box="[354,420,567,609]" name="Piti" pageId="4" pageNumber="199">Piti</location>
+, 
+<date id="B45C1041FFAAFFB6A5B1FDEEA06EFDB0" box="[442,585,567,609]" pageId="4" pageNumber="199" value="2018-08">
+<collectingDate id="A418E9A9FFAAFFB6A5B1FDEEA06EFDB0" box="[442,585,567,609]" pageId="4" pageNumber="199" value="2018-08">Aug. 18</collectingDate>
+</date>
+, 
+<specimenCount id="D6E4FD08FFAAFFB6A655FDEEA16DFDB0" box="[606,842,567,609]" pageId="4" pageNumber="199" type="generic">one specimen</specimenCount>
+, swept from 
+<taxonomicName id="07E24D02FFAAFFB6A03CFDEEA470FDB0" authority=", Swezey." box="[1079,1623,567,609]" class="Magnoliopsida" family="Phyllanthaceae" genus="Glochidion" kingdom="Plantae" order="Malpighiales" pageId="4" pageNumber="199" phylum="Tracheophyta" rank="species" species="marianum">
+<emphasis id="F296EA93FFAAFFB6A03CFDEEA79CFDB0" box="[1079,1467,567,609]" italics="true" pageId="4" pageNumber="199">
+<location id="C53D605AFFAAFFB6A03CFDEEA6D5FDB0" LSID="urn:lsid:plazi:treatment:484B8797FFAAFFB6A528FE45A073FD19:C53D605AFFAAFFB6A03CFDEEA6D5FDB0" box="[1079,1266,567,609]" name="Glochidion" pageId="4" pageNumber="199">Glochidion</location>
+marianum,
+</emphasis>
+<location id="C53D605AFFAAFFB6A1C0FDEEA475FDB0" LSID="urn:lsid:plazi:treatment:484B8797FFAAFFB6A528FE45A073FD19:C53D605AFFAAFFB6A1C0FDEEA475FDB0" box="[1483,1618,567,609]" name="Swezey" pageId="4" pageNumber="199">Swezey</location>
+.
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFAAFFB6A56BFDB3A073FD19" pageId="4" pageNumber="199" type="reference_group">
+<paragraph id="C05D3681FFAAFFB6A56BFDB3A073FD19" blockId="4.[291,1686,412,712]" pageId="4" pageNumber="199">
+An American species which occurs in Hawaii; now recorded from 
+<collectingCountry id="B8F57611FFAAFFB6A224FDB3A4B1FD45" box="[1583,1686,618,660]" name="Guam" pageId="4" pageNumber="199">Guam</collectingCountry>
+for the first time.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

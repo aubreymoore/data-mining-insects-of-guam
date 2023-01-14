@@ -1,0 +1,87 @@
+<document id="BE44B98770D43F10D774508A96CB0D71" ID-DOI="http://doi.org/10.5281/zenodo.3634035" ID-GBIF-Dataset="9c8d5683-76c1-4938-aede-b7ad5391b6b2" ID-Zenodo-Dep="3634035" checkinTime="1580668122796" checkinUser="plazi" docAuthor="Moulton, Dudley" docDate="1942" docId="03E60234FFF6FFC2751158FFDBDD0CE5" docLanguage="en" docName="InsectsOfGuam.172.7-16.pdf.imf" docOrigin="Insects of Guam I, Bernice P. Bishop Museum Bulletin" docSource="http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Aleurodothrips fasciapennis" docType="treatment" docVersion="12" lastPageNumber="12" masterDocId="FFDF7A4CFFF3FFC777195003DD64051A" masterDocTitle="Thysanoptera: Thrips of Guam" masterLastPageNumber="16" masterPageNumber="7" pageNumber="12" updateTime="1658765590881" updateUser="annettekang">
+<mods:mods id="D816613D7B39BE60E4E4076558BAD874" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="53A382BE741EA7E399C1763A92FE6E44">
+<mods:title id="96B64B30E124BE09C6789863587161BE">Thysanoptera: Thrips of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="E71E1E6EF23CD5CEBA98D00CA3CA4AF0" type="personal">
+<mods:role id="278BA976287E4E81044206EF5745269C">
+<mods:roleTerm id="111233839C522060EE4A0EABC83D195E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="59D7ADCBC90370527B2D8DD6D35DE6F3">Moulton, Dudley</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="0E8E4E15BAF95D37843A970EA166582B">text</mods:typeOfResource>
+<mods:relatedItem id="A1CB148D1D20099775859FA29796BC6F" type="host">
+<mods:originInfo id="D96D7999E95ABAAED879EBAB6A3AAE09">
+<mods:dateIssued id="CF84A48E6EF5441B802AAD90EB004275">1942</mods:dateIssued>
+<mods:dateOther id="B180F88CF96FDDAEB3C2076EF7F2DA7F" type="pubDate">1942-12-31</mods:dateOther>
+<mods:publisher id="C59E78DEA120EF1D2492D4C6E359D7F2">Bernice P. Bishop Museum Bulletin</mods:publisher>
+</mods:originInfo>
+<mods:titleInfo id="83C882A3B680539FD6C2A373C7D7990D">
+<mods:title id="3C629DA0C82915B264968AD17F743C16">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="DCCBB2817ACDA9842DBAA0865F86D7B5">
+<mods:extent id="DE79C8E349B03AD31523A2676E9406EF" unit="page">
+<mods:start id="52FA8BF3CD76B933696C0D6284A9E1EB">7</mods:start>
+<mods:end id="4C45387D5645EC0A74B34168A9BFBEE4">16</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="962943AC7D8EFDB9FA6882BC112260E0">
+<mods:url id="D2BCFDE9D2FD9BC29A9CA12B44068C1C">http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf</mods:url>
+</mods:location>
+<mods:classification id="911DB185EF67FFDCABA4CE0A68A9523E">book chapter</mods:classification>
+<mods:identifier id="E2E7412C07B1F4429C3AB20616BACAC5" type="DOI">http://doi.org/10.5281/zenodo.3634035</mods:identifier>
+<mods:identifier id="4A2F1645910D2BC1596A2414D4E0563E" type="GBIF-Dataset">9c8d5683-76c1-4938-aede-b7ad5391b6b2</mods:identifier>
+<mods:identifier id="96E943BDA6FB143F84E4FB222E9BFD3C" type="Zenodo-Dep">3634035</mods:identifier>
+</mods:mods>
+<treatment id="03E60234FFF6FFC2751158FFDBDD0CE5" ID-DOI="http://doi.org/10.5281/zenodo.5157443" ID-GBIF-Taxon="161938948" ID-Zenodo-Dep="5157443" LSID="urn:lsid:plazi:treatment:03E60234FFF6FFC2751158FFDBDD0CE5" httpUri="http://treatment.plazi.org/id/03E60234FFF6FFC2751158FFDBDD0CE5" lastPageNumber="12" pageId="5" pageNumber="12">
+<subSubSection id="C355E0A9FFF6FFC2751158FFD8450C3B" box="[520,1313,2300,2337]" pageId="5" pageNumber="12" type="nomenclature">
+<paragraph id="8BF0B322FFF6FFC2751158FFD8450C3B" blockId="5.[520,1913,2296,2561]" box="[520,1313,2300,2337]" pageId="5" pageNumber="12">
+<emphasis id="B93B6F30FFF6FFC2751158FFDF5F0C3A" bold="true" box="[520,571,2300,2336]" pageId="5" pageNumber="12">16.</emphasis>
+<taxonomicName id="4C4FC8A1FFF6FFC2754158FFD87F0C3B" authority="(Franklin)" baseAuthorityName="Franklin" baseAuthorityYear="1908" box="[600,1307,2300,2337]" class="Insecta" family="Phlaeothripidae" genus="Aleurodothrips" kingdom="Animalia" order="Thysanoptera" pageId="5" pageNumber="12" phylum="Arthropoda" rank="species" species="fasciapennis">
+<emphasis id="B93B6F30FFF6FFC2754158FFD9350C3A" bold="true" box="[600,1105,2300,2336]" pageId="5" pageNumber="12">Aleurodothrips fasciapennis</emphasis>
+(Franklin)
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFF6FFC2755E592CDA600CDE" pageId="5" pageNumber="12" type="reference_group">
+<treatmentCitationGroup id="AB5F940CFFF6FFC2755E592CDA600CDE" pageId="5" pageNumber="12">
+<paragraph id="8BF0B322FFF6FFC2755E592CDEDF0C93" blockId="5.[520,1913,2296,2561]" pageId="5" pageNumber="12">
+<treatmentCitation id="0AEE9533FFF6FFC2755E592CDEDF0C93" author="Franklin" page="727" pageId="5" pageNumber="12" year="1908">
+<taxonomicName id="4C4FC8A1FFF6FFC2755E592CD9CF0C4E" authority="Franklin" authorityName="Franklin" authorityYear="1908" box="[583,1195,2351,2388]" class="Insecta" family="Phlaeothripidae" genus="Cryptothrips" kingdom="Animalia" order="Thysanoptera" pageId="5" pageNumber="12" phylum="Arthropoda" rank="species" species="fasciapennis">
+<emphasis id="B93B6F30FFF6FFC2755E592CD96D0C4E" box="[583,1033,2351,2388]" italics="true" pageId="5" pageNumber="12">Cryptothrips fasciapennis</emphasis>
+Franklin
+</taxonomicName>
+, U. S. Nat. Mus., Proc. 33: 727, pl. 64, figs. 12, 13, 1908.
+</treatmentCitation>
+</paragraph>
+<paragraph id="8BF0B322FFF6FFC2755C599CDA600CDE" blockId="5.[520,1913,2296,2561]" box="[581,1796,2463,2500]" pageId="5" pageNumber="12">
+<treatmentCitation id="0AEE9533FFF6FFC2755C599CDA600CDE" author="Franklin" box="[581,1796,2463,2500]" page="228" pageId="5" pageNumber="12" year="1909">
+<taxonomicName id="4C4FC8A1FFF6FFC2755C599CD9980CDE" authority="(Franklin)" baseAuthorityName="Franklin" baseAuthorityYear="1908" box="[581,1276,2463,2500]" class="Insecta" family="Phlaeothripidae" genus="Aleurodothrips" kingdom="Animalia" order="Thysanoptera" pageId="5" pageNumber="12" phylum="Arthropoda" rank="species" species="fasciapennis">
+<emphasis id="B93B6F30FFF6FFC2755C599CD9530CDE" box="[581,1079,2463,2500]" italics="true" pageId="5" pageNumber="12">Aleurodothrips fasciapennis</emphasis>
+(Franklin)
+</taxonomicName>
+, Ent. News 20: 228, 1909.
+</treatmentCitation>
+</paragraph>
+</treatmentCitationGroup>
+</subSubSection>
+<subSubSection id="C355E0A9FFF6FFC2755C59D8DBDD0CE5" box="[581,1721,2523,2559]" pageId="5" pageNumber="12" type="materials_examined">
+<paragraph id="8BF0B322FFF6FFC2755C59D8DBDD0CE5" blockId="5.[520,1913,2296,2561]" box="[581,1721,2523,2559]" pageId="5" pageNumber="12">
+<materialsCitation id="3B27B97FFFF6FFC2755C59D8DBDD0CE5" ID-GBIF-Occurrence="3357451320" box="[581,1721,2523,2559]" collectedFrom="on young coffee berries" collectingDate="1936-05-01" collectorName="R. L. Usinger" country="Guam" location="Yona" pageId="5" pageNumber="12" specimenCount-male="1">
+<collectingMunicipality id="6B942958FFF6FFC2755C59D8DFC60CE5" box="[581,674,2523,2559]" pageId="5" pageNumber="12">Yona</collectingMunicipality>
+, 
+<date id="FFF195E2FFF6FFC275D959D8DE5C0CE5" box="[704,824,2523,2559]" pageId="5" pageNumber="12">
+<collectingDate id="EFB56C0AFFF6FFC275D959D8DE5C0CE5" box="[704,824,2523,2559]" pageId="5" pageNumber="12">May 1</collectingDate>
+</date>
+, on young coffee berries, 
+<specimenCount id="9D4978ABFFF6FFC2720859D8D8E10CE5" box="[1297,1413,2523,2559]" pageId="5" pageNumber="12" type="male">1 male</specimenCount>
+, 
+<location id="8E90E5F9FFF6FFC2728759D8DB450CE5" LSID="urn:lsid:plazi:treatment:03E60234FFF6FFC2751158FFDBDD0CE5:8E90E5F9FFF6FFC2728759D8DB450CE5" box="[1438,1569,2523,2559]" municipality="Yona" name="Usinger" pageId="5" pageNumber="12">Usinger</location>
+(5490).
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

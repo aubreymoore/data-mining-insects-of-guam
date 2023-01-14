@@ -1,0 +1,122 @@
+<document id="26FC6BEC56667014D39C32B28D10DC6B" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91AFFFBFE9FFA59F95018B2" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pseudococcus brevipes" docType="treatment" docVersion="14" lastPageNumber="157" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="157" updateTime="1663083075184" updateUser="annettekang">
+<mods:mods id="1A4554E9D6286B0441EB71D2A9BC4300" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="4AA0D9E22F035FDE1702E85A99B17608">
+<mods:title id="0317747C88C2AFE0C9B848E6BE1B674C">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="8F4A1E138794DB40AFFD8C5FE4A81B86" type="personal">
+<mods:role id="61175CC00A29E4D66C96152D75A8E4EF">
+<mods:roleTerm id="EC8F51D8866E27B854AE9DC8289723EA">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B441EF8ECA3AB5719651890EB8B8162F">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="7035C6A76FA0B0D71D6AE9C101712DF7">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="7227506CE6B5DEB5B0CFFE1C606D4423">text</mods:typeOfResource>
+<mods:relatedItem id="69CE343990FDD2C9856DEB6F39C4B95F" type="host">
+<mods:originInfo id="744FCB5D0CD3B4C891AB3D1F00B343A9">
+<mods:dateIssued id="F2181133797E966E3F90097E359DB6CF">1946</mods:dateIssued>
+<mods:dateOther id="F6D140992EC1B8BFB849A65F605A8FC1" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="471A9B3A1D18EC0EE80886572C1B6BCD">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="C03D3A43CDFF6B7185782F0F7058DE2D">
+<mods:placeTerm id="B6135383C5E4319BDC233814209F4765">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="4BC3110BDBA4CA69D593E904D32B6B6F">
+<mods:title id="0C1CF4CCF3BB1185C10C5D21CCA184AF">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="0EA0C4C76F8323E9A623098745607B19">
+<mods:extent id="C69C27D38B2B072E82932299EB2DB829" unit="page">
+<mods:start id="31CF6E05D73A2EFAB00EA4717843C96E">157</mods:start>
+<mods:end id="7C7B7B3FF4D615E2D2F8B15096FEA4E4">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="58FA6D85BE1B949E1F3F906B2FADEB57">book chapter</mods:classification>
+<mods:identifier id="391363F70E337F7074BCD690AC43F683" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="4FB9BEB56F065706D0DB296EB3F5D9B3" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="C1F24AF50CB1874CD7719D945F00BD12" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91AFFFBFE9FFA59F95018B2" ID-DOI="http://doi.org/10.5281/zenodo.5167532" ID-GBIF-Taxon="183925169" ID-Zenodo-Dep="5167532" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFE9FFA59F95018B2" httpUri="http://treatment.plazi.org/id/F03E87AAF91AFFFBFE9FFA59F95018B2" lastPageNumber="157" pageId="0" pageNumber="157">
+<subSubSection id="308D6537F91AFFFBFE9FFA59FC2E1BCF" box="[285,1002,1479,1521]" pageId="0" pageNumber="157" type="nomenclature">
+<paragraph id="782836BCF91AFFFBFE9FFA59FC2E1BCF" blockId="0.[285,1684,1479,1676]" box="[285,1002,1479,1521]" pageId="0" pageNumber="157">
+<heading id="236081D0F91AFFFBFE9FFA59FC2E1BCF" box="[285,1002,1479,1521]" fontSize="11" level="2" pageId="0" pageNumber="157" reason="2">
+3. 
+<taxonomicName id="BF974D3FF91AFFFBFEDEFA59FC211BCF" authority="(Cockerell)" baseAuthorityName="Cockerell" baseAuthorityYear="1893" box="[348,997,1479,1521]" class="Insecta" family="Pseudococcidae" genus="Pseudococcus" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="157" phylum="Arthropoda" rank="species" species="brevipes">
+<emphasis id="4AE3EAAEF91AFFFBFEDEFA59FD391BCF" bold="true" box="[348,765,1479,1521]" pageId="0" pageNumber="157">Pseudococcus brevipes</emphasis>
+(Cockerell)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<paragraph id="782836BCF91AFFFBFEDEFA64F95018B2" blockId="0.[285,1684,1479,1676]" pageId="0" pageNumber="157">
+<subSubSection id="308D6537F91AFFFBFEDEFA64FA22181B" box="[348,1510,1530,1573]" pageId="0" pageNumber="157" type="reference_group">
+<treatmentCitationGroup id="58871192F91AFFFBFEDEFA64FA22181B" box="[348,1510,1530,1573]" pageId="0" pageNumber="157">
+<treatmentCitation id="F93610ADF91AFFFBFEDEFA64FA12181B" author="Cockerell" box="[348,1494,1530,1573]" page="267" pageId="0" pageNumber="157" year="1893">
+<taxonomicName id="BF974D3FF91AFFFBFEDEFA64FC40181B" authority="Cockerell, The Entomologist" authorityName="Cockerell, The Entomologist" authorityYear="1893" box="[348,900,1530,1573]" class="Insecta" family="Dactylopiidae" genus="Dactylopius" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="157" phylum="Arthropoda" rank="species" species="brevipes">
+<emphasis id="4AE3EAAEF91AFFFBFEDEFA64FD0B181B" box="[348,719,1530,1573]" italics="true" pageId="0" pageNumber="157">Dactylopius brevipes</emphasis>
+<bibCitation id="ADBD3ED0F91AFFFBFD5CFA64FA12181B" author="Cockerell" box="[734,1494,1530,1573]" journalOrPublisher="The Entomologist" pageId="0" pageNumber="157" pagination="267" part="26" type="journal article" year="1893">
+<author id="A02ADE59F91AFFFBFD5CFA64FC40181B" box="[734,900,1530,1573]" pageId="0" pageNumber="157">Cockerell</author>
+, 
+<journalOrPublisher id="A2563C70F91AFFFBFC18FA64FB1E181B" box="[922,1242,1530,1573]" pageId="0" pageNumber="157">The Entomologist</journalOrPublisher>
+<emphasis id="4AE3EAAEF91AFFFBFB64FA64FAE4181B" bold="true" box="[1254,1312,1530,1573]" pageId="0" pageNumber="157">
+<part id="0C339C21F91AFFFBFB64FA64FADE181B" box="[1254,1306,1530,1573]" pageId="0" pageNumber="157" type="volume">26</part>
+:
+</emphasis>
+<pagination id="415EC848F91AFFFBFAAEFA64FAAA181B" box="[1324,1390,1530,1573]" pageId="0" pageNumber="157" type="pagination">267</pagination>
+, 
+<year id="0C3F77EFF91AFFFBFA05FA64FA12181B" box="[1415,1494,1530,1573]" pageId="0" pageNumber="157">1893</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+..
+</treatmentCitationGroup>
+</subSubSection>
+<subSubSection id="308D6537F91AFFFBFEDDF9B0F95018B2" pageId="0" pageNumber="157" type="reference_group">
+<materialsCitation id="C8FF3CE1F91AFFFBFEDDF9B0FBA51867" ID-GBIF-Occurrence="3331839318" box="[351,1121,1582,1625]" collectedFrom="on pineapple" collectingDate="1911-1936" collectorName="D. T. Fullaway, O. H. Swezey, and R. L. Usinger" country="Guam" location="Guam" pageId="0" pageNumber="157">
+<collectingMunicipality id="984CACC6F91AFFFBFEDDF9B0FE511867" box="[351,405,1582,1625]" pageId="0" pageNumber="157">On</collectingMunicipality>
+pineapple, 
+<collectorName id="D562536AF91AFFFBFDEAF9B0FCCA1867" box="[616,782,1582,1625]" pageId="0" pageNumber="157">Fullaway</collectorName>
+, 
+<location id="7D486067F91AFFFBFCA7F9B0FC711867" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFE9FFA59F95018B2:7D486067F91AFFFBFCA7F9B0FC711867" box="[805,949,1582,1625]" municipality="On" name="Usinger" pageId="0" pageNumber="157">Usinger</location>
+, 
+<collectorName id="D562536AF91AFFFBFC4CF9B0FB9E1867" box="[974,1114,1582,1625]" pageId="0" pageNumber="157">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F91AFFFBFBF0F9B0F9501867" ID-GBIF-Occurrence="3892765301" box="[1138,1684,1582,1625]" collectedFrom="on sugar cane" collectingDate="1936-05-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="157">
+on sugar cane, 
+<collectingMunicipality id="984CACC6F91AFFFBFA01F9B0FA201867" box="[1411,1508,1582,1625]" pageId="0" pageNumber="157">Yona</collectingMunicipality>
+, 
+<date id="0C29107CF91AFFFBFA7FF9B0F9491867" box="[1533,1677,1582,1625]" pageId="0" pageNumber="157" value="2012-05">
+<collectingDate id="1C6DE994F91AFFFBFA7FF9B0F9491867" box="[1533,1677,1582,1625]" pageId="0" pageNumber="157" value="2012-05">May 12</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F91AFFFBFEA3F9FFFD7718B2" ID-GBIF-Occurrence="3892765302" box="[289,691,1633,1676]" collectingDate="1936-07-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="157">
+<location id="7D486067F91AFFFBFEA3F9FFFEA718B2" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFE9FFA59F95018B2:7D486067F91AFFFBFEA3F9FFFEA718B2" box="[289,355,1633,1676]" municipality="Yona" name="Piti" pageId="0" pageNumber="157">Piti</location>
+, 
+<date id="0C29107CF91AFFFBFEFEF9FFFDC018B2" box="[380,516,1633,1676]" pageId="0" pageNumber="157" value="1927-07">
+<collectingDate id="1C6DE994F91AFFFBFEFEF9FFFDC018B2" box="[380,516,1633,1676]" pageId="0" pageNumber="157" value="1927-07">July 27</collectingDate>
+</date>
+, 
+<collectorName id="D562536AF91AFFFBFDA2F9FFFD6818B2" box="[544,684,1633,1676]" pageId="0" pageNumber="157">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F91AFFFBFD44F9FFFB8A18B2" ID-GBIF-Occurrence="3891552321" box="[710,1102,1633,1676]" collectedFrom="on tuberose" collectingDate="1936" collectorName="R. L. Usinger" country="Guam" location="Guam" pageId="0" pageNumber="157">
+on tuberose, 
+<collectingMunicipality id="984CACC6F91AFFFBFC32F9FFFB8318B2" box="[944,1095,1633,1676]" pageId="0" pageNumber="157">Usinger</collectingMunicipality>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F91AFFFBFBE3F9FFF94B18B2" ID-GBIF-Occurrence="3891552308" box="[1121,1679,1633,1676]" collectedFrom="on Pandanus" collectingDate="1936-1939" collectorName="R. G. Oakley and R. L. Usinger" country="Guam" location="Guam" pageId="0" pageNumber="157">
+on 
+<taxonomicName id="BF974D3FF91AFFFBFB19F9FFF95018B2" authority=", Usinger, Oakley." authorityName="Usinger, Oakley." box="[1179,1684,1633,1676]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="0" pageNumber="157" phylum="Tracheophyta" rank="genus">
+<emphasis id="4AE3EAAEF91AFFFBFB19F9FFFA9718B2" box="[1179,1363,1633,1676]" italics="true" pageId="0" pageNumber="157">Pandanus,</emphasis>
+<location id="7D486067F91AFFFBFAE6F9FFFA3118B2" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFE9FFA59F95018B2:7D486067F91AFFFBFAE6F9FFFA3118B2" box="[1380,1525,1633,1676]" name="Usinger" pageId="0" pageNumber="157">Usinger</location>
+, 
+<collectorName id="D562536AF91AFFFBF98DF9FFF94B18B2" box="[1551,1679,1633,1676]" pageId="0" pageNumber="157">Oakley</collectorName>
+.
+</taxonomicName>
+</materialsCitation>
+</subSubSection>
+</paragraph>
+</treatment>
+</document>

@@ -1,0 +1,141 @@
+<document id="2E1E86E75CD6CA991FEA634897C04F18" ID-DOI="http://doi.org/10.5281/zenodo.5160043" ID-GBIF-Dataset="9298158c-3c02-4ba2-ab8a-87c7f9c8e70b" ID-Zenodo-Dep="5160043" checkinTime="1627487837253" checkinUser="admin" docAuthor="Swezey, O. H." docDate="1942" docId="03B31D6AAA28474898DBFB56F94FF86A" docLanguage="en" docName="InsectsOfGuamI.172.30-38.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Biship Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Appias leis subsp. subtuslutea Roepke" docType="treatment" docVersion="13" lastPageNumber="36" masterDocId="FF8A6512AA2D474D9945FF80FFCFFFAC" masterDocTitle="Lepidoptera, Butterflies of Guam" masterLastPageNumber="38" masterPageNumber="31" pageNumber="36" updateTime="1664293270315" updateUser="annettekang">
+<mods:mods id="3552CC435B11840A90E3B6DA3E3CF8FB" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="D56F44AABEE6927639C58347292E2793">
+<mods:title id="024A1F257307416C5620904CB5E9418F">Lepidoptera, Butterflies of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="0A05BDD488644CAA53E3328EF415898A" type="personal">
+<mods:role id="C976163EF0F0093AD8C79D2B7CA9AF13">
+<mods:roleTerm id="7CB24030A89ECE07189023C56A73BE8D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="969EC147F7443593731B64DED7F99C65">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="C4AAF0C65A5981E76F76B5A32EBE9B38">Experiment Station Hawaiian Sugar Planters' Associantion, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="060F0452D1C1C30FCF947184444A47D8">text</mods:typeOfResource>
+<mods:relatedItem id="883CF39EBF125F96A64F011DB986395E" type="host">
+<mods:originInfo id="CC57663E430E45E70FC2857251298EAF">
+<mods:dateIssued id="73E04C17093F5C7D6A3C156AFA69C61E">1942</mods:dateIssued>
+<mods:dateOther id="F4F29632BDE2BE53B45065051D2AC715" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="60B1C2D4FE9DEFF602BC7EDB4D4048F2">Bernice P. Biship Museum</mods:publisher>
+<mods:place id="58D1953772AB8120D736F1BCEAA23D7F">
+<mods:placeTerm id="4B4F5E39DB737DDA7F50758B5C9288AF">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="0DCAB0E05ABCA970890793B786181A8C">
+<mods:title id="FC183A84DFE9BCC2C8B550DECA51737D">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="CFEEBC09AA00C8BA62652E807781B652">
+<mods:extent id="81D5CE7010586CF9C6D31CD5B7D3AEBD" unit="page">
+<mods:start id="A5BA32A75030C9F59A981E26373F9E22">31</mods:start>
+<mods:end id="DFC0E972F1A0F5260C3F6E38861133E9">38</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="403A35B1728A3CFC344BF9B4DFE5D1BE">book chapter</mods:classification>
+<mods:identifier id="8FEDF88A4A88B9AAB86ED29367331F64" type="DOI">http://doi.org/10.5281/zenodo.5160043</mods:identifier>
+<mods:identifier id="D7FF8C17070E7F22116E17F815B8FD08" type="GBIF-Dataset">9298158c-3c02-4ba2-ab8a-87c7f9c8e70b</mods:identifier>
+<mods:identifier id="BB235EA8331B43AC818579069A4F163F" type="Zenodo-Dep">5160043</mods:identifier>
+</mods:mods>
+<treatment id="03B31D6AAA28474898DBFB56F94FF86A" ID-GBIF-Taxon="187975399" LSID="urn:lsid:plazi:treatment:03B31D6AAA28474898DBFB56F94FF86A" httpUri="http://treatment.plazi.org/id/03B31D6AAA28474898DBFB56F94FF86A" lastPageNumber="36" pageId="5" pageNumber="36">
+<subSubSection id="C300FFF7AA28474898DBFB56FBFEFB57" box="[414,1073,1235,1276]" pageId="5" pageNumber="36" type="nomenclature">
+<paragraph id="8BA5AC7CAA28474898DBFB56FBFEFB57" blockId="5.[412,1807,1235,2001]" box="[414,1073,1235,1276]" pageId="5" pageNumber="36">
+<heading id="D0ED1B10AA28474898DBFB56FBFEFB57" box="[414,1073,1235,1276]" fontSize="8" level="2" pageId="5" pageNumber="36" reason="4">
+11. 
+<taxonomicName id="4C1AD7FFAA28474898AAFB54FBE6FB57" authority="Roepke" authorityName="Roepke" box="[495,1065,1235,1276]" class="Insecta" family="Pieridae" genus="Appias" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="36" phylum="Arthropoda" rank="subSpecies" species="leis" subSpecies="subtuslutea">Appias leis subtuslutea Roepke</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C300FFF7AA2847489898FA88F8C0FA3E" pageId="5" pageNumber="36" type="reference_group">
+<paragraph id="8BA5AC7CAA2847489898FA88FCEDFAF6" blockId="5.[412,1807,1235,2001]" pageId="5" pageNumber="36">
+<treatmentCitationGroup id="AB0A8B52AA2847489898FA88FCEDFAF6" pageId="5" pageNumber="36">
+<treatmentCitation id="0ABB8A6DAA2847489898FA88FCEDFAF6" author="Hübner &amp; Geyer" page="37" pageId="5" pageNumber="36" year="1832">
+<taxonomicName id="4C1AD7FFAA2847489898FA88FB9DFA82" authority="Hubner and Geyer, Zutr. Samml. Ex. Schm." box="[477,1106,1286,1328]" class="Insecta" family="Pieridae" genus="Appias" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="36" phylum="Arthropoda" rank="species" species="leis">
+Catophaga leis 
+<bibCitation id="5E30A410AA2847489BB2FA87FCEDFAF6" author="Hubner and Geyer" journalOrPublisher="Zutr. Samml. Ex. Schm." pageId="5" pageNumber="36" pagination="37" part="4" type="journal volume" year="1832">
+<author id="53A74499AA2847489BB2FA87FB9DFA82" box="[759,1106,1286,1326]" pageId="5" pageNumber="36">Hübner and Geyer</author>
+, 
+<journalOrPublisher id="51DBA6B0AA2847489D34FA87F9F7FA8B" box="[1137,1592,1285,1319]" pageId="5" pageNumber="36">Zutr. Samml. Ex. Schm.</journalOrPublisher>
+<part id="FFBE06E1AA2847489F0AFA87F9ADFA89" box="[1615,1634,1287,1317]" pageId="5" pageNumber="36">4</part>
+: 
+<pagination id="B2D35288AA2847489FC4FA86F966FA8A" box="[1665,1705,1286,1318]" pageId="5" pageNumber="36">37</pagination>
+, ﬁgs. 771, 772, 
+<year id="FFB2ED2FAA2847489B8EFABAFCD6FAF6" box="[715,793,1338,1370]" pageId="5" pageNumber="36">1832</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA5AC7CAA284748989EFAEFFD7AFA6E" blockId="5.[412,1807,1235,2001]" pageId="5" pageNumber="36">
+<treatmentCitationGroup id="AB0A8B52AA284748989EFAEFFD7AFA6E" pageId="5" pageNumber="36">
+<treatmentCitation id="0ABB8A6DAA284748989EFAEFFD7AFA6E" author="Roepke" page="66" pageId="5" pageNumber="36" year="1935">
+<taxonomicName id="4C1AD7FFAA284748989EFAEFFC33FA39" authority="Roepke" authorityName="Roepke" box="[475,1020,1390,1431]" class="Insecta" family="Pieridae" genus="Appias" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="36" phylum="Arthropoda" rank="subSpecies" species="leis" subSpecies="subtuslutea">
+Appias leis subtuslutea 
+<bibCitation id="5E30A410AA2847489A3FFAEEFD7AFA6E" author="Roepke" journalOrPublisher="Rhopalocera javanica" pageId="5" pageNumber="36" pagination="66" part="12" type="book" year="1935">
+<author id="53A74499AA2847489A3FFAEEFC33FA39" box="[890,1020,1390,1429]" pageId="5" pageNumber="36">Roepke</author>
+, 
+<journalOrPublisher id="51DBA6B0AA2847489D50FAEEFA5BFA39" box="[1045,1428,1389,1429]" pageId="5" pageNumber="36">Rhopalocera javanica</journalOrPublisher>
+<part id="FFBE06E1AA2847489CE6FAEEFA08FA27" box="[1443,1479,1390,1419]" pageId="5" pageNumber="36">12</part>
+: 
+<pagination id="B2D35288AA2847489CA2FAEEF9C0FA21" box="[1511,1551,1390,1421]" pageId="5" pageNumber="36">66</pagination>
+, pl. 9, ﬁgs. 12, 
+<subSubSection id="C300FFF7AA2847489B59FA21F94FF86A" pageId="5" pageNumber="36" type="description">
+15, 
+<year id="FFB2ED2FAA2847489B18FA20FD65FA6E" box="[605,682,1440,1474]" pageId="5" pageNumber="36">1935</year>
+. 
+<paragraph id="8BA5AC7CAA284748989EFA58FD9AF99F" blockId="5.[412,1807,1235,2001]" pageId="5" pageNumber="36">
+<materialsCitation id="3B72A621AA284748989EFA58FC20FA53" ID-GBIF-Occurrence="3352147352" box="[475,1007,1495,1535]" collectingDate="1936-04-22" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="5" pageNumber="36">
+<location id="8EC5FAA7AA284748989EFA58FD65FA51" LSID="urn:lsid:plazi:treatment:03B31D6AAA28474898DBFB56F94FF86A:8EC5FAA7AA284748989EFA58FD65FA51" box="[475,682,1496,1533]" name="Ritidian Pt." pageId="5" pageNumber="36">Ritidian Pt.</location>
+, 
+<date id="FFA48ABCAA2847489B80FA57FC96FA59" box="[709,857,1495,1535]" pageId="5" pageNumber="36" value="1922-04">
+<collectingDate id="EFE07354AA2847489B80FA57FC96FA59" box="[709,857,1495,1535]" pageId="5" pageNumber="36" value="1922-04">April 22</collectingDate>
+</date>
+, 
+<collectorName id="26EFC9AAAA2847489A36FA58FC10FA53" box="[883,991,1496,1535]" pageId="5" pageNumber="36">Bryan</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B72A621AA2847489ABAFA55FA2FFA57" ID-GBIF-Occurrence="3352147315" box="[1023,1504,1493,1535]" collectingDate="1936-05-17" collectorName="O. H. Swezey" country="Guam" location="Tarague" pageId="5" pageNumber="36">
+<location id="8EC5FAA7AA2847489ABAFA55FB5CFA53" LSID="urn:lsid:plazi:treatment:03B31D6AAA28474898DBFB56F94FF86A:8EC5FAA7AA2847489ABAFA55FB5CFA53" box="[1023,1171,1493,1535]" name="Tarague" pageId="5" pageNumber="36">Tarague</location>
+, 
+<date id="FFA48ABCAA2847489DE8FA57FAFDFA5A" box="[1197,1330,1494,1534]" pageId="5" pageNumber="36" value="2017-05">
+<collectingDate id="EFE07354AA2847489DE8FA57FAFDFA5A" box="[1197,1330,1494,1534]" pageId="5" pageNumber="36" value="2017-05">May 17</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA2847489C08FA56FA1FFA52" LSID="urn:lsid:plazi:treatment:03B31D6AAA28474898DBFB56F94FF86A:8EC5FAA7AA2847489C08FA56FA1FFA52" box="[1357,1488,1494,1534]" name="Swezey" pageId="5" pageNumber="36">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="3B72A621AA2847489CB4FA57FD9AF99F" ID-GBIF-Occurrence="3352147345" collectingDate="1936-06-07" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="5" pageNumber="36">
+<collectingMunicipality id="6BC13606AA2847489CB4FA57F96BFA59" box="[1521,1700,1495,1525]" pageId="5" pageNumber="36">Machanao</collectingMunicipality>
+, 
+<date id="FFA48ABCAA2847489FF8FA56FE61F986" pageId="5" pageNumber="36">
+<collectingDate id="EFE07354AA2847489FF8FA56FE61F986" pageId="5" pageNumber="36">June 7</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA284748988FF98BFD82F99F" LSID="urn:lsid:plazi:treatment:03B31D6AAA28474898DBFB56F94FF86A:8EC5FAA7AA284748988FF98BFD82F99F" box="[458,589,1547,1587]" municipality="Machanao" name="Swezey" pageId="5" pageNumber="36">Swezey</location>
+.
+</materialsCitation>
+</paragraph>
+<paragraph id="8BA5AC7CAA2847489899F9BFF94FF86A" blockId="5.[412,1807,1235,2001]" pageId="5" pageNumber="36">
+This butterﬂy has a wide distribution, the typical form in Java, and several subspecies in 
+<collectingCountry id="F30DECECAA2847489BECF9F4FCCAF93F" box="[681,773,1652,1683]" name="India" pageId="5" pageNumber="36">India</collectingCountry>
+, Andamans, Nicobar, Sunda Islands, 
+<collectingCountry id="F30DECECAA2847489CB6F9F3F959F93E" box="[1523,1686,1651,1682]" name="Indonesia" pageId="5" pageNumber="36">Moluccas</collectingCountry>
+, New 
+<collectingCountry id="F30DECECAA28474898DBF928FDD7F96B" box="[414,536,1704,1735]" name="Guinea-Bissau" pageId="5" pageNumber="36">Guinea</collectingCountry>
+, 
+<collectingCountry id="F30DECECAA2847489B72F927FD13F96B" box="[567,732,1703,1735]" name="Australia" pageId="5" pageNumber="36">Australia</collectingCountry>
+, South 
+<taxonomicName id="4C1AD7FFAA2847489A3EF927FC77F965" authorityName="Hayward" authorityYear="1950" box="[891,952,1703,1737]" class="Insecta" family="Nymphalidae" genus="Sea" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="36" phylum="Arthropoda" rank="genus">Sea</taxonomicName>
+islands. The subspecies subtuslııtea occurs in west java. It is particularly distinguished by the hindwing of the female being entirely chrome yellow beneath, as is also the forewing at apex beyond the black bar. Of the few specimens collected in Öuam, the best female agreed with this coloration and the ﬁgures in Rhopalocera javanica cited above. This species was not previously recorded from 
+<collectingCountry id="F30DECECAA2847489DE5F827FAC7F86B" box="[1184,1288,1959,1991]" name="Guam" pageId="5" pageNumber="36">Guam</collectingCountry>
+, and was quite rare.
+</paragraph>
+</subSubSection>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

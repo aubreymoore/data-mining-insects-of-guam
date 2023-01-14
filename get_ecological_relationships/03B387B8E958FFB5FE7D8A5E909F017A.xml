@@ -1,0 +1,81 @@
+<document id="CF0BC9848D5E48CABF43A521E7AE162D" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E958FFB5FE7D8A5E909F017A" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Margaronia" docType="treatment" docVersion="12" lastPageNumber="183" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="182" updateTime="1670269774864" updateUser="ExternalLinkService">
+<mods:mods id="B1A46A99D25B5B1488B99B410FDAC520" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="A0C2F9C11706E782D23F7BB5373004D0">
+<mods:title id="30D76D03BC4E1C329D23F3F0A866704F">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="A5B8FE7952EE98CCC2395325BFF1BEF7" type="personal">
+<mods:role id="2E17D88886DD6C7818FBAAAC0D1AA51D">
+<mods:roleTerm id="5402BB3CF20B4BF365E72C513A71CD8C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="18DF7541DF2506573B967FCE508781F8">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="CF8312569B70B8811A7E03D0A01265EF">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="AB6D502D14EDA0160351522D62D9DCFE">text</mods:typeOfResource>
+<mods:relatedItem id="284B42122853B8A1605CEA3FED0B51F9" type="host">
+<mods:originInfo id="E1390AE2309B7E41A27C97851AE29AB4">
+<mods:dateIssued id="2B763C1720294AE02E6C05FC80BA2093">1946</mods:dateIssued>
+<mods:dateOther id="CC79B7F2A9C5C3F23F89F8D1C5F84BBE" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="6F96EC12C5F6B835355CC35E7D60EBE1">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="13AFD9022F719DE65979F797BFC7FEBD">
+<mods:placeTerm id="859AA28047B49B6A8B8BB858C83A4204">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="202F539532F0A56B6992C12CD2FC7334">
+<mods:title id="773918B8E0E6C6CF7ABE00968B05FD6F">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="46AD7192265F18229B5794E463DA1A89">
+<mods:extent id="FBE8C326014C454768A3170E57E519C9" unit="page">
+<mods:start id="72D842709FD0C193B3C66241A5B29413">163</mods:start>
+<mods:end id="0D4F66B7C8B7F3A41303720150AAD270">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="1EEBF226D212B39380D6840E5C3A9143">book chapter</mods:classification>
+<mods:identifier id="C440267B690A6F5C98D16673F27D9784" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="A049EAC30C1E2A886A3FBD6EE9D14EDE" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="A7357E813F57579008E8181566F6A68C" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E958FFB5FE7D8A5E909F017A" ID-DOI="http://doi.org/10.5281/zenodo.5500638" ID-GBIF-Taxon="187739337" ID-Zenodo-Dep="5500638" LSID="urn:lsid:plazi:treatment:03B387B8E958FFB5FE7D8A5E909F017A" httpUri="http://treatment.plazi.org/id/03B387B8E958FFB5FE7D8A5E909F017A" lastPageId="20" lastPageNumber="183" pageId="19" pageNumber="182">
+<subSubSection id="C3006525E958FFB2FE7D8A5E91070BC1" box="[434,881,2147,2190]" pageId="19" pageNumber="182" type="nomenclature">
+<paragraph id="8BA536AEE958FFB2FE7D8A5E91070BC1" blockId="19.[434,1835,2147,2548]" box="[434,881,2147,2190]" pageId="19" pageNumber="182">
+<heading id="D0ED81C2E958FFB2FE7D8A5E91070BC1" box="[434,881,2147,2190]" fontSize="8" level="2" pageId="19" pageNumber="182" reason="4">
+<emphasis id="B96EEABCE958FFB2FE7D8A5E93920BC1" bold="true" box="[434,484,2147,2190]" pageId="19" pageNumber="182">33.</emphasis>
+<taxonomicName id="4C1A4D2DE958FFB2FDC98A5E90AA0BC1" box="[518,732,2147,2190]" class="Insecta" family="Crambidae" genus="Margaronia" kingdom="Animalia" order="Lepidoptera" pageId="19" pageNumber="182" phylum="Arthropoda" rank="genus">
+<emphasis id="B96EEABCE958FFB2FDC98A5E90AA0BC1" bold="true" box="[518,732,2147,2190]" pageId="19" pageNumber="182">Margaronia</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E958FFB5FE3B8AA4909F017A" lastPageId="20" lastPageNumber="183" pageId="19" pageNumber="182" type="description">
+<paragraph id="8BA536AEE958FFB2FE3B8AA490830ABB" blockId="19.[434,1835,2147,2548]" pageId="19" pageNumber="182">
+<materialsCitation id="3B723CF3E958FFB2FE3B8AA490830ABB" ID-GBIF-Occurrence="3986701303" collectedFrom="a green species near marginata was reared from a colony of caterpillars which had webbed together the terminal leaves on a branch of Ochrosia mariannensis in the forest. There were 54 caterpillars in teh colongy. From them, 34 moths issued June 18-21 (some as cripples, which were not saved); 15 larvae and pupae died; thread worms issued from three; tachinid larvae issued from two (one of these died in puparium, the other issued a cripple)." collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="19" pageNumber="182" specimenCount="54">
+A green species near 
+<emphasis id="B96EEABCE958FFB2FC488AA4964E0B8B" box="[903,1080,2201,2244]" italics="true" pageId="19" pageNumber="182">marginata</emphasis>
+was reared from a colony of caterpillars which had webbed together the terminal leaves on a branch of 
+<taxonomicName id="4C1A4D2DE958FFB2F9D18AF1903C0A67" class="Magnoliopsida" family="Apocynaceae" genus="Ochrosia" kingdom="Plantae" order="Gentianales" pageId="19" pageNumber="182" phylum="Tracheophyta" rank="species" species="mariannensis">
+<emphasis id="B96EEABCE958FFB2F9D18AF1903C0A67" italics="true" pageId="19" pageNumber="182">
+<collectingMunicipality id="6BC1ACD4E958FFB2F9D18AF194CD0BB9" box="[1566,1723,2252,2294]" pageId="19" pageNumber="182">Ochrosia</collectingMunicipality>
+mariannensis
+</emphasis>
+</taxonomicName>
+in the forest at 
+<location id="8EC56075E958FFB2FC418AC396330A67" LSID="urn:lsid:plazi:treatment:03B387B8E958FFB5FE7D8A5E909F017A:8EC56075E958FFB2FC418AC396330A67" box="[910,1093,2302,2344]" pageId="19" pageNumber="182">Machanao</location>
+, 
+<date id="FFA4106EE958FFB2FBAE8AC3969E0A67" box="[1121,1256,2302,2344]" pageId="19" pageNumber="182">
+<collectingDate id="EFE0E986E958FFB2FBAE8AC3969E0A67" box="[1121,1256,2302,2344]" pageId="19" pageNumber="182">June 4.</collectingDate>
+</date>
+<location id="8EC56075E958FFB2FAC68AC397050A67" LSID="urn:lsid:plazi:treatment:03B387B8E958FFB5FE7D8A5E909F017A:8EC56075E958FFB2FAC68AC397050A67" box="[1289,1395,2302,2344]" pageId="19" pageNumber="182">There</location>
+were 54 caterpillars in the colony. From them, 34 moths issued June 18-21 (some as cripples, which were not saved); 
+<specimenCount id="9D1CFD27E958FFB2FD328B5991EA0AC1" box="[765,924,2404,2446]" pageId="19" pageNumber="182" type="larva">15 larvae</specimenCount>
+and pupae died; thread worms issued from three; tachinid larvae issued from two (one of these died in puparium, the other issued a cripple).
+</materialsCitation>
+</paragraph>
+<paragraph id="8BA536AEE95FFFB5FEBE837D909F017A" blockId="20.[304,1703,320,565]" pageId="20" pageNumber="183">
+The full-grown caterpillar was 
+<quantity id="4CE29B4BE95FFFB5FC58837D96660225" box="[919,1040,320,362]" metricMagnitude="-2" metricUnit="m" metricValue="3.0" pageId="20" pageNumber="183" unit="mm" value="30.0">30 mm</quantity>
+. long; light yellow, with the tubercles broad, flattish, shining black, giving the caterpillars a black appearance, setae fine, pale, short. Spiracles nearly circular, yellow, margined with white. Head uniformly light brown, eyes black. Legs black, yellow tipped. The usual abdominal prolegs, pale.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

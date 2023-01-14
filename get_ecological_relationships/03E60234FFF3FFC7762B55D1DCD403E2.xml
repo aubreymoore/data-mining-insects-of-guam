@@ -1,0 +1,104 @@
+<document id="530612BE8C674C00DE791B6AE3DC28D5" ID-DOI="http://doi.org/10.5281/zenodo.3634035" ID-GBIF-Dataset="9c8d5683-76c1-4938-aede-b7ad5391b6b2" ID-Zenodo-Dep="3634035" checkinTime="1580668122796" checkinUser="plazi" docAuthor="Moulton, Dudley" docDate="1942" docId="03E60234FFF3FFC7762B55D1DCD403E2" docLanguage="en" docName="InsectsOfGuam.172.7-16.pdf.imf" docOrigin="Insects of Guam I, Bernice P. Bishop Museum Bulletin" docSource="http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Heliothrips haemorrhoidalis" docType="treatment" docVersion="14" lastPageNumber="7" masterDocId="FFDF7A4CFFF3FFC777195003DD64051A" masterDocTitle="Thysanoptera: Thrips of Guam" masterLastPageNumber="16" masterPageNumber="7" pageNumber="7" updateTime="1658840059004" updateUser="annettekang">
+<mods:mods id="B7EBB2DF0312F4D54BDD5C9F5CDA20C2" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="218C3C1C4D2E14F246F15673973DA1D8">
+<mods:title id="DE51724F7D8BD3CC73CEFBBA0732ACD9">Thysanoptera: Thrips of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="FCD79437F6A606EFC2925830479518AC" type="personal">
+<mods:role id="2049BDA4819D1C0728DE2584C7B6E3EF">
+<mods:roleTerm id="7FB86D47B81AA1BA1B8BA99410D337DB">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3919A147B977A2D982E2121D963EC60B">Moulton, Dudley</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="BDFE721922BF359F14F4FA81B63BFD1A">text</mods:typeOfResource>
+<mods:relatedItem id="2529CF48E83957071AF2086E6D1C6A25" type="host">
+<mods:originInfo id="99890617FE996885A79394733F3F7FAE">
+<mods:dateIssued id="F4490645B91A6C882DF223DE09C8E461">1942</mods:dateIssued>
+<mods:dateOther id="CCF9ED4B610F6CAC3971116FBD545EBD" type="pubDate">1942-12-31</mods:dateOther>
+<mods:publisher id="F0033CD5D2B24A77C07D22BB81096CAB">Bernice P. Bishop Museum Bulletin</mods:publisher>
+</mods:originInfo>
+<mods:titleInfo id="38EA456BDA3A9A092D50F03B5FA89875">
+<mods:title id="4309BA70A3870C20C112F6796B93A6B8">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="40CD18EDCDE75B4966E0DED139E3CB29">
+<mods:extent id="8EAC86E69CC5A63465A70EA8B0132C6C" unit="page">
+<mods:start id="444815164D489F74A0DFD42362C6213E">7</mods:start>
+<mods:end id="1B77D955D02B0124418697B42FB5BBA5">16</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="823B2C13065D413DB1F852144FD0690C">
+<mods:url id="91CD6F9C262D999AD07A2668DA19A861">http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf</mods:url>
+</mods:location>
+<mods:classification id="F24A2C141E1214EB1D8968C292CA199D">book chapter</mods:classification>
+<mods:identifier id="67A7F761A14F781A745F8933EDC17458" type="DOI">http://doi.org/10.5281/zenodo.3634035</mods:identifier>
+<mods:identifier id="E201946E0A0E8DEB8D2D540E5E50454D" type="GBIF-Dataset">9c8d5683-76c1-4938-aede-b7ad5391b6b2</mods:identifier>
+<mods:identifier id="7061F18A63A990C721F6B83369ECACEA" type="Zenodo-Dep">3634035</mods:identifier>
+</mods:mods>
+<treatment id="03E60234FFF3FFC7762B55D1DCD403E2" ID-DOI="http://doi.org/10.5281/zenodo.5157400" ID-GBIF-Taxon="161938922" ID-Zenodo-Dep="5157400" LSID="urn:lsid:plazi:treatment:03E60234FFF3FFC7762B55D1DCD403E2" httpUri="http://treatment.plazi.org/id/03E60234FFF3FFC7762B55D1DCD403E2" lastPageNumber="7" pageId="0" pageNumber="7">
+<subSubSection id="C355E0A9FFF3FFC7762B55D1D94800EC" box="[306,1068,1490,1526]" pageId="0" pageNumber="7" type="nomenclature">
+<paragraph id="8BF0B322FFF3FFC7762B55D1D94800EC" blockId="0.[306,1701,1486,1790]" box="[306,1068,1490,1526]" pageId="0" pageNumber="7">
+<heading id="D0B8044EFFF3FFC7762B55D1D94800EC" box="[306,1068,1490,1526]" fontSize="11" level="5" pageId="0" pageNumber="7" reason="1">
+1. 
+<taxonomicName id="4C4FC8A1FFF3FFC7767655D1D94C00EC" authority="(Bouche)" baseAuthorityName="Bouche" baseAuthorityYear="1833" box="[367,1064,1490,1526]" class="Insecta" family="Thripidae" genus="Heliothrips" kingdom="Animalia" order="Thysanoptera" pageId="0" pageNumber="7" phylum="Arthropoda" rank="species" species="haemorrhoidalis">
+<emphasis id="B93B6F30FFF3FFC7767655D1DE0F00EC" bold="true" box="[367,875,1490,1526]" pageId="0" pageNumber="7">Heliothrips haemorrhoidalis</emphasis>
+(Bouche)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFF3FFC776685606DF6F038B" pageId="0" pageNumber="7" type="reference_group">
+<treatmentCitationGroup id="AB5F940CFFF3FFC776685606DF6F038B" pageId="0" pageNumber="7">
+<paragraph id="8BF0B322FFF3FFC776685606DB4A0333" blockId="0.[306,1701,1486,1790]" box="[369,1582,1540,1577]" pageId="0" pageNumber="7">
+<treatmentCitation id="0AEE9533FFF3FFC776685606DB4D0333" author="Schadl" box="[369,1577,1540,1577]" page="42" pageId="0" pageNumber="7" year="1833">
+<taxonomicName id="4C4FC8A1FFF3FFC776685606D9530333" authority="Bouche, Schadl" authorityName="Bouche, Schadl" box="[369,1079,1541,1577]" class="Insecta" family="Thripidae" genus="Thrips" kingdom="Animalia" order="Thysanoptera" pageId="0" pageNumber="7" phylum="Arthropoda" rank="species" species="haenzorrhoidalis">
+<emphasis id="B93B6F30FFF3FFC776685606DE710333" box="[369,789,1541,1577]" italics="true" pageId="0" pageNumber="7">Thrips haenzorrhoidalis</emphasis>
+Bouche, 
+<bibCitation id="5E65BB4EFFF3FFC774DA5606DB4D0333" box="[963,1577,1540,1577]" pageId="0" pageNumber="7">Schadl. Garten-Insecten, 42, 1833</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</paragraph>
+<paragraph id="8BF0B322FFF3FFC77676563BDF6F038B" blockId="0.[306,1701,1486,1790]" pageId="0" pageNumber="7">
+<treatmentCitation id="0AEE9533FFF3FFC77676563BDF6F038B" author="Burmeister" page="42" pageId="0" pageNumber="7" year="1838">
+<taxonomicName id="4C4FC8A1FFF3FFC77676563BD8660346" authority="(Bouche) Burmeister" authorityName="Burmeister" baseAuthorityName="Bouche" box="[367,1282,1592,1628]" class="Insecta" family="Thripidae" genus="Heliothrips" kingdom="Animalia" order="Thysanoptera" pageId="0" pageNumber="7" phylum="Arthropoda" rank="species" species="haemorrhoidalis">
+<emphasis id="B93B6F30FFF3FFC77676563BDE000346" box="[367,868,1592,1628]" italics="true" pageId="0" pageNumber="7">Heliothrips haemorrhoidalis</emphasis>
+(Bouche) 
+<bibCitation id="5E65BB4EFFF3FFC77351563BDF6F038B" pageId="0" pageNumber="7">
+Burmeister, 
+<emphasis id="B93B6F30FFF3FFC77236563BD8C50346" box="[1327,1441,1592,1628]" italics="true" pageId="0" pageNumber="7">Handb</emphasis>
+. Ent. 2: 412, 1838.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</paragraph>
+</treatmentCitationGroup>
+</subSubSection>
+<subSubSection id="C355E0A9FFF3FFC77668569CDCD403E2" pageId="0" pageNumber="7" type="materials_examined">
+<paragraph id="8BF0B322FFF3FFC77668569CDCD403E2" blockId="0.[306,1701,1486,1790]" pageId="0" pageNumber="7">
+<materialsCitation id="3B27B97FFFF3FFC77668569CDCD403E2" ID-GBIF-Occurrence="3357451302" collectedFrom="on leaves of Barringtonia racemosa" collectingDate="1936-06-25" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="0" pageNumber="7" specimenCount-female="1">
+<location id="8E90E5F9FFF3FFC77668569CDC9F03D9" LSID="urn:lsid:plazi:treatment:03E60234FFF3FFC7762B55D1DCD403E2:8E90E5F9FFF3FFC77668569CDC9F03D9" box="[369,507,1695,1731]" name="Inarajan" pageId="0" pageNumber="7">Inarajan</location>
+, 
+<date id="FFF195E2FFF3FFC77538569CDFCB03D9" box="[545,687,1694,1731]" pageId="0" pageNumber="7" value="1925-06">
+<collectingDate id="EFB56C0AFFF3FFC77538569CDFCB03D9" box="[545,687,1694,1731]" pageId="0" pageNumber="7" value="1925-06">
+<emphasis id="B93B6F30FFF3FFC77538569CDF0803D9" box="[545,620,1695,1731]" italics="true" pageId="0" pageNumber="7">June</emphasis>
+25
+</collectingDate>
+</date>
+, 
+<collectedFrom id="3853F0DFFFF3FFC775DB569CD85203D9" box="[706,1334,1695,1731]" pageId="0" pageNumber="7">
+on leaves of 
+<emphasis id="B93B6F30FFF3FFC774B9569CD85803D9" box="[928,1340,1695,1731]" italics="true" pageId="0" pageNumber="7">
+<taxonomicName id="4C4FC8A1FFF3FFC774B9569CD85203D9" box="[928,1334,1695,1731]" class="Magnoliopsida" family="Lecythidaceae" genus="Barringtonia" kingdom="Plantae" order="Ericales" pageId="0" pageNumber="7" phylum="Tracheophyta" rank="species" species="racemosa">Barringtonia racemosa</taxonomicName>
+,
+</emphasis>
+</collectedFrom>
+<specimenCount id="9D4978ABFFF3FFC77253569CDB6303D9" box="[1354,1543,1695,1731]" pageId="0" pageNumber="7" type="female">one female</specimenCount>
+, 
+<collectorName id="26BAD6F4FFF3FFC77138569CDBC403D9" box="[1569,1696,1695,1731]" pageId="0" pageNumber="7">Swezey</collectorName>
+(5475).
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,169 @@
+<document id="95FA84489725650378C928905CDA7656" ID-DOI="http://doi.org/10.5281/zenodo.5160270" ID-GBIF-Dataset="6dc2872d-cbab-4982-baed-c0969e3e3236" ID-Zenodo-Dep="5160270" checkinTime="1628013042203" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="0E4F7F497E625A29B411FB0914527E5E" docLanguage="en" docName="InsectsOfGuamI.172.175-183.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Anoplolepis longipes" docType="treatment" docVersion="19" lastPageNumber="181" masterDocId="F27607317E645A2FB552FF8416577654" masterDocTitle="Hymenoptera Formicidae of Guam" masterLastPageNumber="183" masterPageNumber="175" pageNumber="181" updateTime="1657827357135" updateUser="ExternalLinkService">
+<mods:mods id="56AFB11693270FA8548848A616451B2D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="8CECA0A63521321DFEB419067DD6E13E">
+<mods:title id="917CA49EC8132368DF7C2EA4C7E40120">Hymenoptera Formicidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="76D4C705811872A2FCCB074C6804DBE4" type="personal">
+<mods:role id="D6A46F681DB4295F06B094CEEE0875DD">
+<mods:roleTerm id="DCDB05AD542C86CA088F89423F4E7A67">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E2D7B447F4E9F3524AE998DBB9716C29">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="D1AD1AF4BA334E0CD9D148F18DC3DA82">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="AEBB1A2E69B9FE12D45C6F2C6F39122B">text</mods:typeOfResource>
+<mods:relatedItem id="29FDDEF119AB638E21A036F17E9CC439" type="host">
+<mods:originInfo id="C1CCFD9A21755D3768155E8E3B2D8C02">
+<mods:dateIssued id="1405B9DD7C49986A2C6E60BC2021119D">1942</mods:dateIssued>
+<mods:dateOther id="40C191322A054B2FCD2A6A6C8182C3F3" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="D711BC2C693AC8C6A88B50042D76CAA2">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="A076A2977B4E1A9E1AA9307850F3DD25">
+<mods:placeTerm id="C4052D5A01FE68C129CF17ED214B2204">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="265B786DEBC5861AA752BEC4D64215F8">
+<mods:title id="9FF1A66C52E96633439A7546926CC04D">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="9F627E92A9269B32940F6752F21F26EC">
+<mods:extent id="11A60D22084C3C46520FA6B31B3909DD" unit="page">
+<mods:start id="F677B58E8644BDCD2A35D61952706B1D">175</mods:start>
+<mods:end id="DB4704E2F93E55D84B90E1C84D034D1A">183</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="937C1A38AF0F80DE8685EE7BAFFB5F4F">book chapter</mods:classification>
+<mods:identifier id="E8ECAA5239071BBE338A8A1A704A05A2" type="DOI">http://doi.org/10.5281/zenodo.5160270</mods:identifier>
+<mods:identifier id="ABC17A8793AC516B49F33530117E449B" type="GBIF-Dataset">6dc2872d-cbab-4982-baed-c0969e3e3236</mods:identifier>
+<mods:identifier id="7D3CAEAAA0374BD207768F4812DEA19C" type="Zenodo-Dep">5160270</mods:identifier>
+</mods:mods>
+<treatment id="0E4F7F497E625A29B411FB0914527E5E" ID-DOI="http://doi.org/10.5281/zenodo.5164303" ID-GBIF-Taxon="184416204" ID-Zenodo-Dep="5164303" LSID="urn:lsid:plazi:treatment:0E4F7F497E625A29B411FB0914527E5E" httpUri="http://treatment.plazi.org/id/0E4F7F497E625A29B411FB0914527E5E" lastPageNumber="181" pageId="6" pageNumber="181">
+<subSubSection id="CEFC9DD47E625A29B411FB09159A72EC" box="[323,973,1165,1208]" pageId="6" pageNumber="181" type="nomenclature">
+<paragraph id="8659CE5F7E625A29B411FB09159A72EC" blockId="6.[321,1718,1165,2058]" box="[323,973,1165,1208]" pageId="6" pageNumber="181">
+<heading id="DD1179337E625A29B411FB09159A72EC" box="[323,973,1165,1208]" fontSize="8" level="2" pageId="6" pageNumber="181" reason="4">
+<emphasis id="B492124D7E625A29B411FB09172372EC" bold="true" box="[323,372,1165,1208]" pageId="6" pageNumber="181">24.</emphasis>
+<taxonomicName id="41E6B5DC7E625A29B4C4FB09159072EC" authority="(Jerdon)" baseAuthorityName="Jerdon" box="[406,967,1165,1208]" class="Insecta" family="Formicidae" genus="Anoplolepis" kingdom="Animalia" order="Hymenoptera" pageId="6" pageNumber="181" phylum="Arthropoda" rank="species" species="longipes">
+<emphasis id="B492124D7E625A29B4C4FB09154572EC" bold="true" box="[406,786,1165,1208]" pageId="6" pageNumber="181">Anoplolepis longipes</emphasis>
+(Jerdon)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E625A29B4D3FB43121B7385" pageId="6" pageNumber="181" type="reference_group">
+<paragraph id="8659CE5F7E625A29B4D3FB4313AB72A6" blockId="6.[321,1718,1165,2058]" box="[385,1532,1223,1266]" pageId="6" pageNumber="181">
+<treatmentCitationGroup id="A6F6E9717E625A29B4D3FB4313AB72A6" box="[385,1532,1223,1266]" pageId="6" pageNumber="181">
+<treatmentCitation id="0747E84E7E625A29B4D3FB4313AB72A6" LSID="urn:lsid:zoobank.org:act:DED475BB-9A4B-4876-80EF-018B360B3758" author="Jerdon" box="[385,1532,1223,1266]" httpUri="http://treatment.plazi.org/id/E9AFBA2147CA06EAA7B392D51F37D70F" page="122" pageId="6" pageNumber="181" year="1851">
+<bibCitation id="53CCC6337E625A29B4D3FB4313AB72A6" author="Jerdon" box="[385,1532,1223,1266]" pageId="6" pageNumber="181" pagination="122" part="17" refId="ref3664" title="Madras Lit. Sci." type="journal article" year="1851">
+<emphasis id="B492124D7E625A29B4D3FB4314E172A6" box="[385,694,1223,1266]" italics="true" pageId="6" pageNumber="181">Formica longipes</emphasis>
+<author id="5E5B26BA7E625A29B797FB43151772A6" box="[709,832,1223,1266]" pageId="6" pageNumber="181">Jerdon</author>
+, 
+<title id="F4E225697E625A29B60BFB4312D672A6" box="[857,1153,1223,1266]" pageId="6" pageNumber="181">Madras Lit. Sci.</title>
+, Jour. 
+<part id="F24264C27E625A29B057FB43136172A6" box="[1285,1334,1223,1266]" pageId="6" pageNumber="181" type="volume">17</part>
+: 
+<pagination id="BF2F30AB7E625A29B01FFB4313DD72A6" box="[1357,1418,1223,1266]" pageId="6" pageNumber="181" type="pageRange">122</pagination>
+, 
+<year id="F24E8F0C7E625A29B0F4FB4313A072A6" box="[1446,1527,1223,1266]" pageId="6" pageNumber="181">1851</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8659CE5F7E625A29B4D0FA8114AD7336" blockId="6.[321,1718,1165,2058]" pageId="6" pageNumber="181">
+<treatmentCitationGroup id="A6F6E9717E625A29B4D0FA8114AD7336" pageId="6" pageNumber="181">
+<treatmentCitation id="0747E84E7E625A29B4D0FA8114AD7336" author="Bingham" page="320" pageId="6" pageNumber="181" year="1903">
+<bibCitation id="53CCC6337E625A29B4D0FA8114AD7336" author="Bingham" journalOrPublisher="Fauna Brit. India, Hymenopt." pageId="6" pageNumber="181" pagination="320" part="2" refId="ref3682" type="journal article" year="1903">
+<emphasis id="B492124D7E625A29B4D0FA8114B4737B" box="[386,739,1285,1327]" italics="true" pageId="6" pageNumber="181">Plagiolepis longipes</emphasis>
+(Jerdon) 
+<author id="5E5B26BA7E625A29B6F8FA81121B737B" box="[938,1100,1285,1327]" pageId="6" pageNumber="181">Bingham</author>
+, 
+<journalOrPublisher id="5C27C4937E625A29B136FA81102A737B" box="[1124,1661,1285,1327]" pageId="6" pageNumber="181">
+Fauna Brit. 
+<collectingCountry id="FEF18ECF7E625A29B017FA8113F4737B" box="[1349,1443,1285,1327]" name="India" pageId="6" pageNumber="181">India</collectingCountry>
+, Hymenopt.
+</journalOrPublisher>
+<part id="F24264C27E625A29B3DDFA8110CB737B" box="[1679,1692,1285,1327]" pageId="6" pageNumber="181">2</part>
+: 
+<pagination id="BF2F30AB7E625A29B492FABC14567336" box="[448,513,1336,1378]" pageId="6" pageNumber="181">320</pagination>
+, fig. 97, 
+<year id="F24E8F0C7E625A29B7F1FABC14A27336" box="[675,757,1336,1378]" pageId="6" pageNumber="181">1903</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8659CE5F7E625A29B4D0FAF7121B7385" blockId="6.[321,1718,1165,2058]" pageId="6" pageNumber="181">
+<treatmentCitationGroup id="A6F6E9717E625A29B4D0FAF7121B7385" pageId="6" pageNumber="181">
+<bibCitation id="53CCC6337E625A29B4D0FAF7121B7385" author="Wheeler" journalOrPublisher="B. P. Bishop Mus., 0 cc. Papers" pageId="6" pageNumber="181" pagination="37" part="11" refId="ref3706" type="journal article" year="1935">
+<treatmentCitation id="0747E84E7E625A29B4D0FAF714B87385" author="Wheeler" page="37" pageId="6" pageNumber="181" year="1935">
+<emphasis id="B492124D7E625A29B4D0FAF714A473CA" box="[386,755,1395,1438]" italics="true" pageId="6" pageNumber="181">Anoplolepis longipes</emphasis>
+(Jerdon) 
+<author id="5E5B26BA7E625A29B6E8FAF7120473CA" box="[954,1107,1395,1438]" pageId="6" pageNumber="181">Wheeler</author>
+, 
+<journalOrPublisher id="5C27C4937E625A29B13EFAF710E373CA" box="[1132,1716,1395,1438]" pageId="6" pageNumber="181">B. P. Bishop Mus., 0cc. Papers</journalOrPublisher>
+<part id="F24264C27E625A29B490FA2217BA7385" box="[450,493,1446,1489]" pageId="6" pageNumber="181" type="volume">11</part>
+(
+<part id="F24264C27E625A29B4A9FA2214707385" box="[507,551,1446,1489]" pageId="6" pageNumber="181" type="issue">11</part>
+): 
+<pagination id="BF2F30AB7E625A29B70DFA2214DE7385" box="[607,649,1446,1489]" pageId="6" pageNumber="181" type="pagination">37</pagination>
+, 
+<year id="F24E8F0C7E625A29B7F0FA2214BD7385" box="[674,746,1446,1489]" pageId="6" pageNumber="181">1935</year>
+;
+</treatmentCitation>
+<treatmentCitation id="0747E84E7E625A29B641FA22121B7385" author="Wheeler" box="[787,1100,1446,1489]" page="15" pageId="6" pageNumber="181" year="1936">
+<part id="F24264C27E625A29B641FA2215177385" box="[787,832,1446,1489]" pageId="6" pageNumber="181">12</part>
+(
+<part id="F24264C27E625A29B61FFA22152E7385" box="[845,889,1446,1489]" pageId="6" pageNumber="181">18</part>
+): 
+<pagination id="BF2F30AB7E625A29B6E0FA22158C7385" box="[946,987,1446,1489]" pageId="6" pageNumber="181">15</pagination>
+, 
+<year id="F24E8F0C7E625A29B6A6FA2212107385" box="[1012,1095,1446,1489]" pageId="6" pageNumber="181">1936</year>
+.
+</treatmentCitation>
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E625A29B4D0FA6714527E5E" pageId="6" pageNumber="181" type="discussion">
+<paragraph id="8659CE5F7E625A29B4D0FA6714527E5E" blockId="6.[321,1718,1165,2058]" pageId="6" pageNumber="181">
+This lively, long-legged, yellowish ant is distributed throughout the Pacific islands, Papua, Indomalaya, Reunion, Ceylon, India, and Burma. 
+<materialsCitation id="368EC4027E625A29B0A1F99315E87020" ID-GBIF-Occurrence="3862685381" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="6" pageNumber="181">
+<location id="833998847E625A29B0A1F99310467015" LSID="urn:lsid:plazi:treatment:0E4F7F497E625A29B411FB0914527E5E:833998847E625A29B0A1F99310467015" box="[1523,1553,1559,1601]" country="Guam" name="It" pageId="6" pageNumber="181">It</location>
+was collected in 
+<collectingCountry id="FEF18ECF7E625A29B4B3F9CD141E7020" box="[481,585,1609,1652]" name="Guam" pageId="6" pageNumber="181">Guam</collectingCountry>
+by 
+<location id="833998847E625A29B7DEF9CD15787020" LSID="urn:lsid:plazi:treatment:0E4F7F497E625A29B411FB0914527E5E:833998847E625A29B7DEF9CD15787020" box="[652,815,1609,1652]" country="Guam" name="Fullaway" pageId="6" pageNumber="181">Fullaway</location>
+in 1911
+</materialsCitation>
+. 
+<materialsCitation id="368EC4027E625A29B68EF9CD17C6708E" ID-GBIF-Occurrence="3862696301" collectedFrom="rotten logs" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="6" pageNumber="181">
+We collected it practically everywhere we went in 
+<collectingCountry id="FEF18ECF7E625A29B48AF9F9141770F1" box="[472,576,1661,1701]" name="Guam" pageId="6" pageNumber="181">Guam</collectingCountry>
+in 1936, and in many kinds of situations. 
+<location id="833998847E625A29B01AF9F913FD70F1" LSID="urn:lsid:plazi:treatment:0E4F7F497E625A29B411FB0914527E5E:833998847E625A29B01AF9F913FD70F1" box="[1352,1450,1661,1701]" country="Guam" name="Nests" pageId="6" pageNumber="181">Nests</location>
+were in rotten logs,
+</materialsCitation>
+<materialsCitation id="368EC4027E625A29B4F6F93514DC708E" ID-GBIF-Occurrence="3862696303" box="[420,651,1713,1754]" collectedFrom="under stones" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="6" pageNumber="181">under stones</materialsCitation>
+, and 
+<materialsCitation id="368EC4027E625A29B7A6F935155D7159" ID-GBIF-Occurrence="3862685356" collectedFrom="one populous nest was in the dead frond of the giant fern (Angiopteris evecta)" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="6" pageNumber="181">
+one populous nest was in the dead frond of the giant fern 
+<emphasis id="B492124D7E625A29B4CCF966154B7159" box="[414,796,1762,1805]" italics="true" pageId="6" pageNumber="181">
+(
+<location id="833998847E625A29B4F8F96614D77159" LSID="urn:lsid:plazi:treatment:0E4F7F497E625A29B411FB0914527E5E:833998847E625A29B4F8F96614D77159" box="[426,640,1762,1805]" name="Angiopteris" pageId="6" pageNumber="181">Angiopteris</location>
+eveeta).
+</emphasis>
+</materialsCitation>
+<materialsCitation id="368EC4027E625A29B66AF96610FA7159" ID-GBIF-Occurrence="3862696302" box="[824,1709,1762,1805]" collectedFrom="on garden plants and shrubbery" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="6" pageNumber="181">
+<location id="833998847E625A29B66AF96615C47159" LSID="urn:lsid:plazi:treatment:0E4F7F497E625A29B411FB0914527E5E:833998847E625A29B66AF96615C47159" box="[824,915,1762,1805]" name="They" pageId="6" pageNumber="181">They</location>
+were lively on garden plants and shrubpery
+</materialsCitation>
+<materialsCitation id="368EC4027E625A29B3FFF9661297716B" ID-GBIF-Occurrence="3862696304" collectedFrom="swept from most plants in the forests" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="6" pageNumber="181">, and could be swept from most plants in the forests</materialsCitation>
+. 
+<materialsCitation id="368EC4027E625A29B18DF891126C7126" ID-GBIF-Occurrence="3862685366" collectedFrom="running on the floor of residence and in corners" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="6" pageNumber="181">
+<collectingMunicipality id="663D54257E625A29B18DF891136D716B" box="[1247,1338,1813,1855]" pageId="6" pageNumber="181">They</collectingMunicipality>
+were always running on the floor of our residence and in corners
+</materialsCitation>
+, and any insect dropped on the floor would soon be found and dragged off. The female is brown and many times larger than the worker. The male is a little larger than the worker and of the same color.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

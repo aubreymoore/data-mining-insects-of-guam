@@ -1,0 +1,139 @@
+<document id="E668EA1B36967718B3E8A86B5E9E4B00" ID-DOI="http://doi.org/10.5281/zenodo.5159791" ID-GBIF-Dataset="7f2d2fe5-8875-4048-9191-b6ef16320fdb" ID-Zenodo-Dep="5159791" checkinTime="1628017542842" checkinUser="carolina" docAuthor="Gressitt, J. Linsley" docDate="1942" docId="03D19B7B5858A230FEB2FC47FAD1D81B" docLanguage="en" docName="InsectsOfGuamI.172.61-64.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Ceresium guttaticolle" docType="treatment" docVersion="14" lastPageNumber="63" masterDocId="FFE8E303585AA232FF96FFDCFFCADD26" masterDocTitle="New Longicorn Beetles From Guam (Cerambycidae)" masterLastPageNumber="64" masterPageNumber="61" pageNumber="63" updateTime="1658952702221" updateUser="aubreymoore">
+<mods:mods id="9260D8AD5F92FE9F1CAD0E19A8070455" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="3CB96018AAC3C59C3D8A1F5FD0FC1292">
+<mods:title id="9B684EF142E3B89C6B6863D372BA0FE1">New Longicorn Beetles From Guam (Cerambycidae)</mods:title>
+</mods:titleInfo>
+<mods:name id="6C6F977C5A5186DDE1D4CA49C004BC74" type="personal">
+<mods:role id="811B88DD867489E65925C1511CD0913F">
+<mods:roleTerm id="57FB58022B2BF85B351A5F85D3260EDE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1F5BC88C8783BC81C747FCFF012DE755">Gressitt, J. Linsley</mods:namePart>
+<mods:affiliation id="B72ADA15143C154C71EBB781AF85937D">Lingnan University, Canton, China</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="6E94BA91ABFC7EDEB1093B2DFA655F54">text</mods:typeOfResource>
+<mods:relatedItem id="C6C4E2BD64193DD430E0D1D25B137A7B" type="host">
+<mods:originInfo id="79842DC314634ECB22162B266AB92499">
+<mods:dateIssued id="5FC0F1904B6369EDED3A8889EAA89F75">1942</mods:dateIssued>
+<mods:dateOther id="991A998CD3E740874070F70979872AF4" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="830F09A2FFDA18E7335B0AD7200BF155">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="A3691BC6A3B872FDE6B31F69CB2A7451">
+<mods:placeTerm id="A6F3DE7F0D286E96960977E6DCEEBE06">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="FAAAD70C4685421B8BA6BBAC385552C2">
+<mods:title id="52EF6E27A85B2F21C79033018FE4A31B">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="A95BDA9C113108547420D83A49DD87F4">
+<mods:extent id="D750510D1B148A6F73B0C9FD0040244C" unit="page">
+<mods:start id="F868FCBA4DC280496C49EB5C7DF96301">61</mods:start>
+<mods:end id="2D4149199B6FE842B76486E51DF328E0">64</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="2C6F50916D7C1787851F99F59BF13DAC">book chapter</mods:classification>
+<mods:identifier id="4C76D8B0259A25F0537705E8BA57E0F8" type="DOI">http://doi.org/10.5281/zenodo.5159791</mods:identifier>
+<mods:identifier id="571820A03F34C37E936344ED9B4EF9FC" type="GBIF-Dataset">7f2d2fe5-8875-4048-9191-b6ef16320fdb</mods:identifier>
+<mods:identifier id="836DEAC32C1EF6BEF6F568934EF1D3BD" type="Zenodo-Dep">5159791</mods:identifier>
+</mods:mods>
+<treatment id="03D19B7B5858A230FEB2FC47FAD1D81B" ID-DOI="http://doi.org/10.5281/zenodo.5157212" ID-GBIF-Taxon="183919463" ID-Zenodo-Dep="5157212" LSID="urn:lsid:plazi:treatment:03D19B7B5858A230FEB2FC47FAD1D81B" httpUri="http://treatment.plazi.org/id/03D19B7B5858A230FEB2FC47FAD1D81B" lastPageNumber="63" pageId="2" pageNumber="63">
+<subSubSection id="C36279E65858A230FEB2FC47FC17DEE0" box="[292,989,923,966]" pageId="2" pageNumber="63" type="nomenclature">
+<paragraph id="8BC72A6D5858A230FEB2FC47FC17DEE0" blockId="2.[292,1688,923,1341]" box="[292,989,923,966]" pageId="2" pageNumber="63">
+<heading id="D08F9D015858A230FEB2FC47FC17DEE0" box="[292,989,923,966]" fontSize="11" level="2" pageId="2" pageNumber="63" reason="2">
+<emphasis id="B90CF67F5858A230FEB2FC47FE8BDEE0" bold="true" box="[292,321,923,966]" pageId="2" pageNumber="63">5.</emphasis>
+<taxonomicName id="4C7851EE5858A230FEF2FC47FC1DDEE0" authority="(Fairmaire)" baseAuthorityName="Fairmaire" box="[356,983,923,966]" class="Insecta" family="Cerambycidae" genus="Ceresium" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="63" phylum="Arthropoda" rank="species" species="guttaticolle">
+<emphasis id="B90CF67F5858A230FEF2FC47FD2DDEE0" bold="true" box="[356,743,923,966]" pageId="2" pageNumber="63">Ceresium guttaticolle</emphasis>
+(Fairmaire)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C36279E65858A230FEF2FC12FD90D946" pageId="2" pageNumber="63" type="reference_group">
+<paragraph id="8BC72A6D5858A230FEF2FC12F9C1DEDF" blockId="2.[292,1688,923,1341]" box="[356,1547,974,1017]" pageId="2" pageNumber="63">
+<treatmentCitationGroup id="AB680D435858A230FEF2FC12F9C1DEDF" box="[356,1547,974,1017]" pageId="2" pageNumber="63">
+<treatmentCitation id="0AD90C7C5858A230FEF2FC12F9C1DEDF" author="Fairmaire" box="[356,1547,974,1017]" page="63" pageId="2" pageNumber="63" year="1850">
+<bibCitation id="5E5222015858A230FEF2FC12F9C1DEDF" author="Fairmaire" box="[356,1547,974,1017]" journalOrPublisher="Rev. Zool." pageId="2" pageNumber="63" pagination="63" part="2" type="journal article" year="1850">
+<emphasis id="B90CF67F5858A230FEF2FC12FC84DEDF" box="[356,846,974,1017]" italics="true" pageId="2" pageNumber="63">Hesperophanes guttaticollis</emphasis>
+<author id="53C5C2885858A230FCF7FC12FBD9DEDF" box="[865,1043,974,1017]" pageId="2" pageNumber="63">Fairmaire</author>
+, 
+<journalOrPublisher id="51B920A15858A230FBBAFC12FB2DDEDF" box="[1068,1255,974,1017]" pageId="2" pageNumber="63">Rev. Zool.</journalOrPublisher>
+, 
+<emphasis id="B90CF67F5858A230FB69FC12FA86DEDF" bold="true" box="[1279,1356,974,1017]" pageId="2" pageNumber="63">
+<part id="FFDC80F05858A230FB69FC12FADCDEDF" box="[1279,1302,974,1017]" pageId="2" pageNumber="63" type="volume">2</part>
+(
+<part id="FFDC80F05858A230FAB5FC12FAF3DEDF" box="[1315,1337,974,1017]" pageId="2" pageNumber="63" type="issue">2</part>
+):
+</emphasis>
+<pagination id="B2B1D4995858A230FAF9FC12FA53DEDF" box="[1391,1433,974,1017]" pageId="2" pageNumber="63" type="pagination">63</pagination>
+, 
+<year id="FFD06B3E5858A230FA23FC12F9CCDEDF" box="[1461,1542,974,1017]" pageId="2" pageNumber="63">1850</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BC72A6D5858A230FEF1FBDEFD90D946" blockId="2.[292,1688,923,1341]" pageId="2" pageNumber="63">
+<treatmentCitationGroup id="AB680D435858A230FEF1FBDEFD90D946" pageId="2" pageNumber="63">
+<treatmentCitation id="0AD90C7C5858A230FEF1FBDEFD90D946" author="Blair" page="114" pageId="2" pageNumber="63" year="1934">
+<bibCitation id="5E5222015858A230FEF1FBDEFD90D946" author="Blair, B." journalOrPublisher="Bishop Mus., Bull." pageId="2" pageNumber="63" pagination="274" part="114" type="journal article" year="1934">
+<emphasis id="B90CF67F5858A230FEF1FBDEFD2BD90A" box="[359,737,1026,1068]" italics="true" pageId="2" pageNumber="63">Ceresiuni guttaticolle</emphasis>
+(Fairmaire) 
+<author id="53C5C2885858A230FC7AFBDEFB8CD90A" box="[1004,1094,1026,1068]" case="TC" fns="I" in="B." ins="D" ln="Blair" lnc="TC" npo="LnFn" pageId="2" pageNumber="63">Blair</author>
+, B.
+<emphasis id="B90CF67F5858A230FB36FBDEFB09D90A" box="[1184,1219,1026,1068]" italics="true" pageId="2" pageNumber="63">]?.</emphasis>
+<journalOrPublisher id="51B920A15858A230FB4AFBDEF9F9D90A" box="[1244,1587,1026,1068]" pageId="2" pageNumber="63">Bishop Mus., Bull.</journalOrPublisher>
+<emphasis id="B90CF67F5858A230F9DAFBDEF95DD90A" bold="true" box="[1612,1687,1026,1068]" pageId="2" pageNumber="63">
+<part id="FFDC80F05858A230F9DAFBDEF95BD90A" box="[1612,1681,1026,1068]" pageId="2" pageNumber="63" type="volume">114</part>
+:
+</emphasis>
+<pagination id="B2B1D4995858A230FE3DFBEAFE2ED946" box="[427,484,1078,1120]" pageId="2" pageNumber="63" type="pagination">274</pagination>
+, 
+<year id="FFD06B3E5858A230FD95FBEAFD9FD946" box="[515,597,1078,1120]" pageId="2" pageNumber="63">1934</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C36279E65858A230FEF0FBADF981D9BD" box="[358,1611,1137,1179]" pageId="2" pageNumber="63" type="materials_examined">
+<paragraph id="8BC72A6D5858A230FEF0FBADF981D9BD" blockId="2.[292,1688,923,1341]" box="[358,1611,1137,1179]" pageId="2" pageNumber="63">
+<materialsCitation id="3B1020305858A230FEF0FBADFC5FD9BD" ID-GBIF-Occurrence="3331245317" box="[358,917,1137,1179]" collectedFrom="under bark" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="2" pageNumber="63" specimenCount="1">
+<location id="8EA77CB65858A230FEF0FBADFDD7D9BD" LSID="urn:lsid:plazi:treatment:03D19B7B5858A230FEB2FC47FAD1D81B:8EA77CB65858A230FEF0FBADFDD7D9BD" box="[358,541,1137,1179]" name="Machanao" pageId="2" pageNumber="63">Machanao</location>
+, under bark, 
+<date id="FFC60CAD5858A230FC99FBADFC46D9BD" box="[783,908,1137,1179]" pageId="2" pageNumber="63">
+<collectingDate id="EF82F5455858A230FC99FBADFC46D9BD" box="[783,908,1137,1179]" pageId="2" pageNumber="63">June 4</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B1020305858A230FC30FBADFADED9BD" ID-GBIF-Occurrence="3864423317" box="[934,1300,1137,1179]" collectedFrom="at light" collectingDate="1936-06-08" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="63">
+<collectingMunicipality id="6BA3B0175858A230FC30FBADFC22D9BD" box="[934,1000,1137,1179]" pageId="2" pageNumber="63">Piti</collectingMunicipality>
+, at light, 
+<date id="FFC60CAD5858A230FB00FBADFAC6D9BD" box="[1174,1292,1137,1179]" pageId="2" pageNumber="63">
+<collectingDate id="EF82F5455858A230FB00FBADFAC6D9BD" box="[1174,1292,1137,1179]" pageId="2" pageNumber="63">June 8</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B1020305858A230FAB5FBADF981D9BD" ID-GBIF-Occurrence="3864423306" box="[1315,1611,1137,1179]" collectingDate="1936-07-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="63">
+<date id="FFC60CAD5858A230FAB5FBADFA62D9BD" box="[1315,1448,1137,1179]" pageId="2" pageNumber="63" value="2012-07">
+<collectingDate id="EF82F5455858A230FAB5FBADFA62D9BD" box="[1315,1448,1137,1179]" pageId="2" pageNumber="63" value="2012-07">July 12</collectingDate>
+</date>
+, 
+<collectorName id="268D4FBB5858A230FA56FBADF98CD9BD" box="[1472,1606,1137,1179]" pageId="2" pageNumber="63">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C36279E65858A230FEF3FB71FAD1D81B" pageId="2" pageNumber="63" type="distribution">
+<paragraph id="8BC72A6D5858A230FEF3FB71FAD1D81B" blockId="2.[292,1688,923,1341]" pageId="2" pageNumber="63">
+Of wide distribution in the Pacific. Recorded from the Marquesas and Lord Howe Island. Some authors synonymize it with 
+<emphasis id="B90CF67F5858A230FB64FB03F9F2D82C" box="[1266,1592,1247,1290]" italics="true" pageId="2" pageNumber="63">
+<taxonomicName id="4C7851EE5858A230FB64FB03F9F9D82C" baseAuthorityName="Fabricius" baseAuthorityYear="1787" box="[1266,1587,1247,1290]" class="Insecta" family="Cerambycidae" genus="Ceresium" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="63" phylum="Arthropoda" rank="species" species="unicolor">Ceresium unicolor</taxonomicName>
+.
+</emphasis>
+The 
+<collectingCountry id="F36F6AFD5858A230FEB0FACEFE44D81B" box="[294,398,1298,1341]" name="Guam" pageId="2" pageNumber="63">Guam</collectingCountry>
+specimens were determined by E. C. Zimmerman.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

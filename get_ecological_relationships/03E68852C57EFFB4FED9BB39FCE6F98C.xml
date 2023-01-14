@@ -1,0 +1,169 @@
+<document id="34FCB73B0FC6560DABEAD937838D3C20" ID-DOI="http://doi.org/10.5281/zenodo.5159515" ID-GBIF-Dataset="c9232a85-5a09-440a-9ede-102073e7b6f0" ID-Zenodo-Dep="5159515" checkinTime="1627051975127" checkinUser="carolina" docAuthor="SWEZEY, O. H. &amp; WILLIAMS, F. X." docDate="1942" docId="03E68852C57EFFB4FED9BB39FCE6F98C" docLanguage="en" docName="InsectsOfGuamI.172.3-6.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 172" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Rhyothemis variegata variegata (Linnaeus" docType="treatment" docVersion="12" lastPageNumber="6" masterDocId="FFDFF02AC57CFFB7FF89B354FF83F875" masterDocTitle="ODONATA, DRAGONFLIES OF GUAM" masterLastPageNumber="6" masterPageNumber="3" pageNumber="5" updateTime="1658861025375" updateUser="annettekang">
+<mods:mods id="BAC370174B4E91EB053C5CE98D558BC8" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="91F58EB719469A845682932784A132D5">
+<mods:title id="87A161CEC221EEBA71C53F17F35996F3">ODONATA, DRAGONFLIES OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="21B2B2D4A1292C9B1F5D228E5F62BB54" type="personal">
+<mods:role id="4351750C99C0D9E3AA238B768F5FB36D">
+<mods:roleTerm id="B6FE690575410D914770ACF42B8D70FA">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D4B7E73CAB5CB97F7A9D30264F2F5A67">SWEZEY, O. H.</mods:namePart>
+<mods:affiliation id="478AE8E0C5D97156F53B50920231D905">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:name id="2B6291D9E832324BBE51888E1DE7D8A9" type="personal">
+<mods:role id="58F8F3980268DD799C374A37D3180499">
+<mods:roleTerm id="BB357C4EDDF7CCCCD5F181CBE2BE67E8">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F66A8A8882F128C3621DA6769E1EF9A6">WILLIAMS, F. X.</mods:namePart>
+<mods:affiliation id="7F2BE9616A746B9682D1EEDFEE33877F">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="7BB68DB59322CC6C9EFFD715F57E63B5">text</mods:typeOfResource>
+<mods:relatedItem id="702FC915D35623BAE346859E5ABA358B" type="host">
+<mods:originInfo id="C3204B5BB41C37FCD534C5C5EE144D93">
+<mods:dateIssued id="9D00B820B73D48548D653D6F25D1E96C">1942</mods:dateIssued>
+<mods:dateOther id="82B0497E29F218CDBE173D17E292E4E8" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="5035F5D48CEDBA41050508BA069570AA">Bernice P. Bishop Museum, Bulletin 172</mods:publisher>
+<mods:place id="E61BD27B29E2C62E48A3C0BBAEAC88AC">
+<mods:placeTerm id="F14CF99CA5C0CCF30A23223046C20F41">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="B23E0DA33E394334A6D02DFF472FA383">
+<mods:title id="8DCE90F1E84B51757C9566CA232A8449">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="7F2AACD2B4F28720C6DCBD94D41912FD">
+<mods:extent id="378DAED9B82F9881D20E759078A1D40B" unit="page">
+<mods:start id="D5CF78152E05FD75D5543F97B19C1CB5">3</mods:start>
+<mods:end id="A4F055E7C0277CCD5B798E23C261F876">6</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="3E2E40479E6B6EAFA4FBAADCFD14325D">book chapter</mods:classification>
+<mods:identifier id="C05145C69346C66DD6AC670BAED3D8F5" type="DOI">http://doi.org/10.5281/zenodo.5159515</mods:identifier>
+<mods:identifier id="8B2801BA5CD9C29B1982588292F905A7" type="GBIF-Dataset">c9232a85-5a09-440a-9ede-102073e7b6f0</mods:identifier>
+<mods:identifier id="137A553A5A677862096574CECFE02AAF" type="Zenodo-Dep">5159515</mods:identifier>
+</mods:mods>
+<treatment id="03E68852C57EFFB4FED9BB39FCE6F98C" ID-DOI="http://doi.org/10.5281/zenodo.5195104" ID-GBIF-Taxon="183919249" ID-Zenodo-Dep="5195104" LSID="urn:lsid:plazi:treatment:03E68852C57EFFB4FED9BB39FCE6F98C" httpUri="http://treatment.plazi.org/id/03E68852C57EFFB4FED9BB39FCE6F98C" lastPageId="3" lastPageNumber="6" pageId="2" pageNumber="5">
+<subSubSection id="C3556ACFC57EFFB5FED9BB39FB54F0E3" box="[336,1239,2157,2198]" pageId="2" pageNumber="5" type="nomenclature">
+<paragraph id="8BF03944C57EFFB5FED9BB39FB54F0E3" blockId="2.[336,1727,2157,2509]" box="[336,1239,2157,2198]" pageId="2" pageNumber="5">
+<heading id="D0B88E28C57EFFB5FED9BB39FB54F0E3" box="[336,1239,2157,2198]" fontSize="8" level="2" pageId="2" pageNumber="5" reason="4">
+<emphasis id="B93BE556C57EFFB5FED9BB39FCB5F0E3" bold="true" box="[336,822,2157,2198]" pageId="2" pageNumber="5">
+10. 
+<taxonomicName id="4C4F42C7C57EFFB5FE17BB39FB52F0E3" authority="(Linnaeus)" baseAuthorityName="Linnaeus" box="[414,1233,2157,2198]" class="Insecta" family="Libellulidae" genus="Rhyothemis" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="5" phylum="Arthropoda" rank="species" species="variegata">
+Rhyothemis variegata 
+<emphasis id="B93BE556C57EFFB5FCCFBB39FC73F0E3" bold="true" box="[838,1008,2157,2198]" pageId="2" pageNumber="5">variegata</emphasis>
+(Linnaeus)
+</taxonomicName>
+</emphasis>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3556ACFC57EFFB4FE05BBF5FCE6F98C" lastPageId="3" lastPageNumber="6" pageId="2" pageNumber="5" type="reference_group">
+<paragraph id="8BF03944C57EFFB5FE05BBF5FA76F0BC" blockId="2.[336,1727,2157,2509]" box="[396,1525,2209,2249]" pageId="2" pageNumber="5">
+<treatmentCitationGroup id="AB5F1E6AC57EFFB5FE05BBF5FA76F0BC" box="[396,1525,2209,2249]" pageId="2" pageNumber="5">
+<treatmentCitation id="0AEE1F55C57EFFB5FE05BBF5FA73F0BC" box="[396,1520,2209,2249]" pageId="2" pageNumber="5">
+<taxonomicName id="4C4F42C7C57EFFB5FE05BBF5FC12F0BC" authority="(Linnaeus)" box="[396,913,2209,2249]" class="Insecta" family="Libellulidae" genus="Libellula" higherTaxonomySource="CoL" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="5" phylum="Arthropoda" rank="species" species="variegata">
+<title id="F94BD272C57EFFB5FE05BBF5FC12F0BC" box="[396,913,2209,2249]" pageId="2" pageNumber="5">
+<emphasis id="B93BE556C57EFFB5FE05BBF5FD58F0BC" box="[396,731,2209,2249]" italics="true" pageId="2" pageNumber="5">Libellula variegata</emphasis>
+Linnaeus
+</title>
+</taxonomicName>
+, 
+<bibCitation id="5E653128C57EFFB5FC23BBF5FA73F0BC" author="Amoenitates Acad" box="[938,1520,2209,2249]" pageId="2" pageNumber="5" pagination="412" part="6" refId="ref1430" type="book" year="1763">
+<author id="53F2D1A1C57EFFB5FC23BBF5FB75F0BC" box="[938,1270,2209,2249]" case="TC" fn="Amoenitates" fnc="TC" fns="N" ln="Acad" lnc="TC" npo="FnLn" pageId="2" pageNumber="5">Amoenitates Acad</author>
+. 
+<emphasis id="B93BE556C57EFFB5FA99BBF5FAB1F0BC" bold="true" box="[1296,1330,2209,2249]" pageId="2" pageNumber="5">
+<part id="FFEB93D9C57EFFB5FA99BBF5FAA1F0BC" box="[1296,1314,2209,2249]" pageId="2" pageNumber="5" type="volume">6</part>
+:
+</emphasis>
+<pagination id="B286C7B0C57EFFB5FAC9BBF5FA02F0BC" box="[1344,1409,2209,2249]" pageId="2" pageNumber="5" type="pageRange">412</pagination>
+, 
+<year id="FFE77817C57EFFB5FA17BBF5FA73F0BC" box="[1438,1520,2209,2249]" pageId="2" pageNumber="5">1763</year>
+</bibCitation>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BF03944C57EFFB5FE04BB80FDA5F144" blockId="2.[336,1727,2157,2509]" pageId="2" pageNumber="5">
+<treatmentCitationGroup id="AB5F1E6AC57EFFB5FE04BB80FDA5F144" pageId="2" pageNumber="5">
+<treatmentCitation id="0AEE1F55C57EFFB5FE04BB80FDA2F144" pageId="2" pageNumber="5">
+<taxonomicName id="4C4F42C7C57EFFB5FE04BB80FC7FF08B" authority="(Linnaeus)" box="[397,1020,2260,2302]" class="Insecta" family="Libelullidae" genus="Rhyothemis" higherTaxonomySource="CoL" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="5" phylum="Arthropoda" rank="species" species="variegata">
+<emphasis id="B93BE556C57EFFB5FE04BB80FC9AF08B" box="[397,793,2260,2302]" italics="true" pageId="2" pageNumber="5">
+<author id="53F2D1A1C57EFFB5FE04BB80FDDCF08B" box="[397,607,2260,2302]" fns="*" inm="true" npo="*" pageId="2" pageNumber="5">Rhyothemis</author>
+<title id="F94BD272C57EFFB5FDFEBB80FC9AF08B" box="[631,793,2260,2302]" pageId="2" pageNumber="5">variegata</title>
+</emphasis>
+(Linnaeus)
+</taxonomicName>
+<bibCitation id="5E653128C57EFFB5FB97BB80FDA2F144" author="Hagen" journalOrPublisher="Stett. Ent. Zeitung" pageId="2" pageNumber="5" pagination="232" part="28" refId="ref1444" type="journal article" year="1867">
+<author id="53F2D1A1C57EFFB5FB97BB80FB17F08B" box="[1054,1172,2260,2302]" pageId="2" pageNumber="5">Hagen</author>
+, 
+<journalOrPublisher id="518E3388C57EFFB5FB3EBB80F99AF08B" box="[1207,1561,2260,2302]" pageId="2" pageNumber="5">Stett. Ent. Zeitung</journalOrPublisher>
+<part id="FFEB93D9C57EFFB5F9BABB80F9E7F08B" box="[1587,1636,2260,2302]" pageId="2" pageNumber="5" type="volume">28</part>
+: 
+<pagination id="B286C7B0C57EFFB5F9E3BB80F93BF08B" box="[1642,1720,2260,2302]" pageId="2" pageNumber="5" type="pagination">232</pagination>
+, 
+<year id="FFE77817C57EFFB5FE47BA53FDA2F144" box="[462,545,2311,2353]" pageId="2" pageNumber="5">1867</year>
+</bibCitation>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BF03944C57EFFB5FE02BA68F99EF1EC" blockId="2.[336,1727,2157,2509]" pageId="2" pageNumber="5">
+<treatmentCitationGroup id="AB5F1E6AC57EFFB5FE02BA68F99EF1EC" pageId="2" pageNumber="5">
+<treatmentCitation id="0AEE1F55C57EFFB5FE02BA68F99BF1EC" pageId="2" pageNumber="5">
+<taxonomicName id="4C4F42C7C57EFFB5FE02BA68FB1DF113" authority="(Linnaeus)" box="[395,1182,2364,2406]" class="Insecta" family="Libelullidae" genus="Rhyothemis" higherTaxonomySource="CoL" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="5" phylum="Arthropoda" rank="species" species="variegata" subSpecies="variegata">
+<emphasis id="B93BE556C57EFFB5FE02BA68FC40F113" box="[395,963,2364,2406]" italics="true" pageId="2" pageNumber="5">Rhyothemis variegata va-riegata</emphasis>
+<bibCitation id="5E653128C57EFFB5FC53BA68FD4DF1EC" author="Linnaeus" journalOrPublisher="Ris, Cat. Col. Selys" pageId="2" pageNumber="5" pagination="931" part="15" refId="ref1460" type="journal volume" year="1913">
+(
+<author id="53F2D1A1C57EFFB5FC6FBA68FB11F113" box="[998,1170,2364,2406]" pageId="2" pageNumber="5">Linnaeus</author>
+) 
+<journalOrPublisher id="518E3388C57EFFB5FB3FBA68F99AF113" box="[1206,1561,2364,2406]" pageId="2" pageNumber="5">Ris, Cat. Col. Selys</journalOrPublisher>
+, 
+<part id="FFEB93D9C57EFFB5F9BCBA68F9D5F113" box="[1589,1622,2364,2406]" pageId="2" pageNumber="5">15</part>
+: 
+<pagination id="B286C7B0C57EFFB5F9F0BA68F93AF113" box="[1657,1721,2364,2406]" pageId="2" pageNumber="5">931</pagination>
+, 935, 936, 
+<year id="FFE77817C57EFFB5FDF4BA3AFD4DF1EC" box="[637,718,2414,2457]" pageId="2" pageNumber="5">1913</year>
+</bibCitation>
+</taxonomicName>
+. 
+<bibCitation id="5E653128C57EFFB5FD78BA3AF99EF1EC" author="Fraser" box="[753,1565,2414,2457]" journalOrPublisher="Fauna Brit. Incl., Odon." pageId="2" pageNumber="5" part="3" refId="ref1481" type="book" year="1936">
+<author id="53F2D1A1C57EFFB5FD78BA3AFCE5F1EC" box="[753,870,2414,2457]" pageId="2" pageNumber="5">Fraser</author>
+, 
+<journalOrPublisher id="518E3388C57EFFB5FC09BA3AFAAAF1EC" box="[896,1321,2414,2457]" pageId="2" pageNumber="5">Fauna Brit. Incl., Odon.</journalOrPublisher>
+<part id="FFEB93D9C57EFFB5FAB2BA3AFACBF1EC" box="[1339,1352,2414,2457]" pageId="2" pageNumber="5" type="volume">3</part>
+: 423, 
+<year id="FFE77817C57EFFB5FA4FBA3AF99BF1EC" box="[1478,1560,2414,2457]" pageId="2" pageNumber="5">1936</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BF03944C57EFFB5FE02BAF7FB09F1B8" blockId="2.[336,1727,2157,2509]" box="[395,1162,2467,2509]" pageId="2" pageNumber="5">
+<materialsCitation id="3B273319C57EFFB5FE02BAF7FB06F1B8" ID-GBIF-Occurrence="3331219317" box="[395,1157,2467,2509]" collectingDate="1936-04-06" collectorName="E. H. Bryan" country="Guam" location="Agana Spring" pageId="2" pageNumber="5" specimenCount="1">
+<location id="8E906F9FC57EFFB5FE02BAF7FE7DF1B8" LSID="urn:lsid:plazi:treatment:03E68852C57EFFB4FED9BB39FCE6F98C:8E906F9FC57EFFB5FE02BAF7FE7DF1B8" box="[395,510,2467,2509]" name="Agana" pageId="2" pageNumber="5">Agana</location>
+spring, 
+<date id="FFF11F84C57EFFB5FD10BAF7FC9EF1B8" box="[665,797,2467,2509]" pageId="2" pageNumber="5">
+<collectingDate id="EFB5E66CC57EFFB5FD10BAF7FC9EF1B8" box="[665,797,2467,2509]" pageId="2" pageNumber="5">April 6</collectingDate>
+</date>
+, 
+<specimenCount id="9D49F2CDC57EFFB5FCB3BAF7FC7FF1B8" box="[826,1020,2467,2509]" pageId="2" pageNumber="5" type="generic">1 specimen</specimenCount>
+, 
+<location id="8E906F9FC57EFFB5FB9CBAF7FB06F1B8" LSID="urn:lsid:plazi:treatment:03E68852C57EFFB4FED9BB39FCE6F98C:8E906F9FC57EFFB5FB9CBAF7FB06F1B8" box="[1045,1157,2467,2509]" name="Bryan" pageId="2" pageNumber="5">Bryan</location>
+</materialsCitation>
+.
+</paragraph>
+<paragraph id="8BF03944C57FFFB4FE58B2C8FCE6F98C" blockId="3.[404,1795,412,505]" pageId="3" pageNumber="6">
+A species occurring in 
+<collectingCountry id="F35879D4C57FFFB4FCE2B2C8FC4AF9B1" box="[875,969,412,452]" name="India" pageId="3" pageNumber="6">India</collectingCountry>
+, 
+<collectingCountry id="F35879D4C57FFFB4FC68B2C8FBDFF9B1" box="[993,1116,412,452]" name="Sri Lanka" pageId="3" pageNumber="6">Ceylon</collectingCountry>
+, 
+<collectingCountry id="F35879D4C57FFFB4FBFAB2C8FB68F9B1" box="[1139,1259,412,452]" name="Myanmar" pageId="3" pageNumber="6">Burma</collectingCountry>
+and 
+<collectingCountry id="F35879D4C57FFFB4FAC1B2C8FA6AF9B1" box="[1352,1513,412,452]" name="Malaysia" pageId="3" pageNumber="6">Malaysia</collectingCountry>
+. Now recorded for the first time in Puam.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

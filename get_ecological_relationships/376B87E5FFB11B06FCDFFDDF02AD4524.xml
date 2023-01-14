@@ -1,0 +1,57 @@
+<document id="A4CE9B08EBFC76E59157BE6AD23B3C51" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB11B06FCDFFDDF02AD4524" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Tenebrionidae Latreille 1802" docType="treatment" docVersion="9" lastPageNumber="165" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="165" updateTime="1651296258617" updateUser="GgImagineBatch">
+<mods:mods id="3641011DDF50C515510B6A3812B0CF74" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="BBF598B42582B8C1C590C3EB21047D66">
+<mods:title id="145E03CB1D55E2996411C6CBC6BF4EBF">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="1EA5DB4F33677C3138CED19EFD035F14" type="personal">
+<mods:role id="62C846E9F0CC0C8BFB707C86CF4AE3FB">
+<mods:roleTerm id="7878377D74C89AAC5B35B760EBCCDCBA">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="CAA20710D359D4F288B99A05C5A94527">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="F7A023FF06E1AB3C0A75A3335910D151">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="5A3864ECE966C33EB9434DFB8C277509">text</mods:typeOfResource>
+<mods:relatedItem id="DBE841DAF832FFAA5A7438E319829F75" type="host">
+<mods:originInfo id="0D26764B7AD10BE9AD59951CEB562029">
+<mods:dateIssued id="A4877F6404A87FA8EA3F378BD0C2208C">1942</mods:dateIssued>
+<mods:dateOther id="F20900672EBEB66BA139707580D6796A" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="87E95705D559E8D69F49C20BF136F20A">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="56B1905E1B8B6E8700C3A93C207BA32E">
+<mods:placeTerm id="BE867EAAF4EA508FDFE2EF6E96BBCDBE">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A3D1E6E1FBE67DEC1F02671508CFF216">
+<mods:title id="69BC9CECE99C049CA5FA8849BD43DA37">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="D13FEC181A09AB240A6A1DC78C09964C">
+<mods:extent id="1FA3D8F125F827A70324160B94562043" unit="page">
+<mods:start id="9BAEA0B4C21DFADC36DD97680E53786F">150</mods:start>
+<mods:end id="64F459F6C123A692EEE1A947F06F9277">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E4F0C13E4CBA9081F6791FFE7A8A5700">book chapter</mods:classification>
+<mods:identifier id="9DE90B9B27D2639B782DFBE61B4A53D5" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="E7BE109212942B2AFA2517918E4E717A" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="3F263BD336E2B453B349D45B840B2A7F" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB11B06FCDFFDDF02AD4524" ID-DOI="http://doi.org/10.5281/zenodo.5182899" ID-GBIF-Taxon="184415347" ID-Zenodo-Dep="5182899" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FCDFFDDF02AD4524" httpUri="http://treatment.plazi.org/id/376B87E5FFB11B06FCDFFDDF02AD4524" lastPageNumber="165" pageId="15" pageNumber="165">
+<subSubSection id="F7D86578FFB11B06FCDFFDDF03F344A4" box="[773,1269,618,658]" pageId="15" pageNumber="165" type="nomenclature">
+<paragraph id="BF7D36F3FFB11B06FCDFFDDF03F344A4" blockId="15.[773,1269,618,658]" box="[773,1269,618,658]" pageId="15" pageNumber="165">
+<heading id="E435819FFFB11B06FCDFFDDF03F344A4" box="[773,1269,618,658]" centered="true" fontSize="8" level="2" pageId="15" pageNumber="165" reason="3">
+FAMILY 
+<taxonomicName id="78C24D70FFB11B06FC7FFDDF03F344A4" authorityName="Latreille" authorityYear="1802" box="[933,1269,618,658]" class="Insecta" family="Tenebrionidae" kingdom="Animalia" order="Coleoptera" pageId="15" pageNumber="165" phylum="Arthropoda" rank="family">TENEBRIONIDAE</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB11B06FEA6FD0002AD4524" pageId="15" pageNumber="165" type="discussion">
+<paragraph id="BF7D36F3FFB11B06FEA6FD0002AD4524" blockId="15.[318,1711,693,786]" pageId="15" pageNumber="165">
+Those species marked with an asterisk were identified by comparison with specimens from the 
+<collectingCountry id="C7D57663FFB11B06FD71FD5F04684524" box="[683,878,746,786]" name="Philippines" pageId="15" pageNumber="165">Philippines</collectingCountry>
+in the 
+<collectingCountry id="C7D57663FFB11B06FC29FD5F03564524" box="[1011,1104,746,786]" name="United States of America" pageId="15" pageNumber="165">U. S.</collectingCountry>
+National Museum.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

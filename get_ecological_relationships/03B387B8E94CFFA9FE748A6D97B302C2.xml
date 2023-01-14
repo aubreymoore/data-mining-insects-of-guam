@@ -1,0 +1,180 @@
+<document id="6F9F5BCC896C4EABB799D066F8F618C9" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E94CFFA9FE748A6D97B302C2" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Lagoptera regia" docType="treatment" docVersion="22" lastPageNumber="171" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="170" updateTime="1669841625929" updateUser="ExternalLinkService">
+<mods:mods id="8FB8C98102517E0F85F0901E2E522BBE" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="838C8B55CBCC5E6A2BA2DB4F69AAB08B">
+<mods:title id="7195C422428A8CBBFC73325552D40CF9">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="A90F55F52A46C04D8EDACF0DE840AC9F" type="personal">
+<mods:role id="1EDBA5F47D88537C98F4F6FAB0A84454">
+<mods:roleTerm id="3E5BF27049EE2DB770CE6B0EAB968F13">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B0F26CEB480D5E910BC139865DC8B7E5">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="A322F908FC141B0840F8997418DCD970">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="3A72C8CFD2CF1747C37402EF67F39941">text</mods:typeOfResource>
+<mods:relatedItem id="63960DB0DCB56894C0256A065D13E9ED" type="host">
+<mods:originInfo id="DC839D257F1734334CD85DEA55846C9C">
+<mods:dateIssued id="6269B6F1B1977162DD26D0FEAD77BFAD">1946</mods:dateIssued>
+<mods:dateOther id="37C0124C248DEDC3C29A799BC5A7456C" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="CAD8F681FAFB94CB55BD0EDFAFCA9319">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="21A66ACF9924B41EC5BB1FBED0FCC5B1">
+<mods:placeTerm id="D3B6788F670397DFB4D3E632CB826F45">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="C77E11EE4C27635CB7C643430B90ACC2">
+<mods:title id="9C7A6EC518AE7BAC86F1043D64DD3974">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="A7CD9856056F33132FCDAC5B494A02B9">
+<mods:extent id="AD536BFCF383A552DDFB41AA42D8D3A2" unit="page">
+<mods:start id="0B50941219BDDE32E32306FD85AF2D6E">163</mods:start>
+<mods:end id="E341D5A35CD574E97D34A028A1074731">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E66C98A7A532C0357AE4D8DF90127C06">book chapter</mods:classification>
+<mods:identifier id="D12FBFDB23B7A83F467C29F8AE5A249E" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="4C36BC749CF2E4AD0F3923DD5D22F616" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="DF14494A808B266CC1E1187679BB8553" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E94CFFA9FE748A6D97B302C2" ID-DOI="http://doi.org/10.5281/zenodo.5223492" ID-GBIF-Taxon="183926950" ID-Zenodo-Dep="5223492" LSID="urn:lsid:plazi:treatment:03B387B8E94CFFA9FE748A6D97B302C2" httpUri="http://treatment.plazi.org/id/03B387B8E94CFFA9FE748A6D97B302C2" lastPageId="8" lastPageNumber="171" pageId="7" pageNumber="170">
+<subSubSection id="C3006525E94CFFA6FE748A6D91950B37" box="[443,995,2128,2168]" pageId="7" pageNumber="170" type="nomenclature">
+<paragraph id="8BA536AEE94CFFA6FE748A6D91950B37" blockId="7.[441,1837,2128,2525]" box="[443,995,2128,2168]" pageId="7" pageNumber="170">
+<heading id="D0ED81C2E94CFFA6FE748A6D91950B37" box="[443,995,2128,2168]" fontSize="8" level="2" pageId="7" pageNumber="170" reason="4">
+<emphasis id="B96EEABCE94CFFA6FE748A6D939C0B37" bold="true" box="[443,490,2128,2168]" pageId="7" pageNumber="170">16.</emphasis>
+<taxonomicName id="4C1A4D2DE94CFFA6FDC28A6D91AB0B37" authority="(Lucas)" baseAuthorityName="Lucas" box="[525,989,2128,2168]" class="Insecta" family="Noctuidae" genus="Lagoptera" kingdom="Animalia" order="Lepidoptera" pageId="7" pageNumber="170" phylum="Arthropoda" rank="species" species="regia">
+<emphasis id="B96EEABCE94CFFA6FDC28A6D91420B37" bold="true" box="[525,820,2128,2168]" pageId="7" pageNumber="170">Lagoptera regia</emphasis>
+(Lucas)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94CFFA6FE348ABC90F80A5F" pageId="7" pageNumber="170" type="reference_group">
+<paragraph id="8BA536AEE94CFFA6FE348ABC949B0BE3" blockId="7.[441,1837,2128,2525]" box="[507,1773,2177,2220]" pageId="7" pageNumber="170">
+<heading id="D0ED81C2E94CFFA6FE348ABC949B0BE3" box="[507,1773,2177,2220]" centered="true" fontSize="8" level="2" pageId="7" pageNumber="170" reason="3">
+<treatmentCitationGroup id="AB0A1180E94CFFA6FE348ABC949B0BE3" box="[507,1773,2177,2220]" pageId="7" pageNumber="170">
+<treatmentCitation id="0ABB10BFE94CFFA6FE348ABC949B0BE3" author="Lucas" box="[507,1773,2177,2220]" page="151" pageId="7" pageNumber="170" year="1894">
+<bibCitation id="5E303EC2E94CFFA6FE348ABC949B0BE3" author="Lucas" box="[507,1773,2177,2220]" journalOrPublisher="Linn. Soc. New South Wales" pageId="7" pageNumber="170" pagination="151" part="8" refId="ref4193" type="journal article" year="1894">
+<emphasis id="B96EEABCE94CFFA6FE348ABC90B10BE3" box="[507,711,2177,2220]" italics="true" pageId="7" pageNumber="170">Thyas regia</emphasis>
+<author id="53A7DE4BE94CFFA6FD1C8ABC91480BE3" box="[723,830,2177,2220]" pageId="7" pageNumber="170">Lucas</author>
+, 
+<journalOrPublisher id="51DB3C62E94CFFA6FC9D8ABC97210BE3" box="[850,1367,2177,2220]" pageId="7" pageNumber="170">
+Linn. Soc. 
+<collectingRegion id="49DEF84CE94CFFA6FBDA8ABC97210BE3" box="[1045,1367,2177,2220]" country="Australia" name="New South Wales" pageId="7" pageNumber="170">New South Wales</collectingRegion>
+</journalOrPublisher>
+, 
+<collectorName id="26EF5378E94CFFA6FAA38ABC978F0BE3" box="[1388,1529,2177,2220]" pageId="7" pageNumber="170">Proc. II</collectorName>
+, 
+<part id="FFBE9C33E94CFFA6F9C08ABC94570BE3" box="[1551,1569,2177,2220]" pageId="7" pageNumber="170" type="volume">8</part>
+: 
+<pagination id="B2D3C85AE94CFFA6F98C8ABC94090BE3" box="[1603,1663,2177,2220]" pageId="7" pageNumber="170" type="pagination">151</pagination>
+, 
+<year id="FFB277FDE94CFFA6F9598ABC949E0BE3" box="[1686,1768,2177,2220]" pageId="7" pageNumber="170">1894</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</heading>
+</paragraph>
+<paragraph id="8BA536AEE94CFFA6FE388A8990F80A5F" blockId="7.[441,1837,2128,2525]" pageId="7" pageNumber="170">
+<treatmentCitationGroup id="AB0A1180E94CFFA6FE388A8990F80A5F" pageId="7" pageNumber="170">
+<bibCitation id="5E303EC2E94CFFA6FE388A8990F80A5F" author="Hampson" pageId="7" pageNumber="170" pagination="415" part="12" refId="ref4215" title="Cat. Lep. Phalaenae" type="journal volume" year="1913">
+<emphasis id="B96EEABCE94CFFA6FE388A8991560B90" box="[503,800,2228,2271]" italics="true" pageId="7" pageNumber="170">Lagoptera regia,</emphasis>
+<treatmentCitation id="0ABB10BFE94CFFA6FCF98A8990FF0A5F" author="Hampson" page="415" pageId="7" pageNumber="170" year="1913">
+<author id="53A7DE4BE94CFFA6FCF98A8991940B90" box="[822,994,2228,2271]" pageId="7" pageNumber="170">Hampson</author>
+, 
+<title id="F91EDD98E94CFFA6FC308A8997060B90" box="[1023,1392,2228,2271]" pageId="7" pageNumber="170">Cat. Lep. Phalaenae</title>
+<emphasis id="B96EEABCE94CFFA6FA498A8997DD0B90" bold="true" box="[1414,1451,2228,2271]" pageId="7" pageNumber="170">
+<part id="FFBE9C33E94CFFA6FA498A8997D10B90" box="[1414,1447,2228,2271]" pageId="7" pageNumber="170">12</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE94CFFA6FA058A89947C0B90" box="[1482,1546,2228,2271]" pageId="7" pageNumber="170">415</pagination>
+, pl. 213, fig. 6, 
+<year id="FFB277FDE94CFFA6FDF88AD490FF0A5F" box="[567,649,2281,2320]" pageId="7" pageNumber="170">1913</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94CFFA9FE368B2697B302C2" lastPageId="8" lastPageNumber="171" pageId="7" pageNumber="170" type="materials_examined">
+<paragraph id="8BA536AEE94CFFA6FE368B26955D0A92" blockId="7.[441,1837,2128,2525]" pageId="7" pageNumber="170">
+<materialsCitation id="3B723CF3E94CFFA6FE368B26965F0A09" ID-GBIF-Occurrence="3332081399" box="[505,1065,2331,2374]" collectedFrom="at light" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="170">
+<location id="8EC56075E94CFFA6FE368B26904D0A09" LSID="urn:lsid:plazi:treatment:03B387B8E94CFFA9FE748A6D97B302C2:8EC56075E94CFFA6FE368B26904D0A09" box="[505,571,2331,2374]" pageId="7" pageNumber="170">
+<collectingMunicipality id="6BC1ACD4E94CFFA6FE368B26904D0A09" box="[505,571,2331,2374]" pageId="7" pageNumber="170">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE94CFFA6FD9D8B2690920A09" box="[594,740,2331,2374]" pageId="7" pageNumber="170" value="2019-08">
+<collectingDate id="EFE0E986E94CFFA6FD9D8B2690920A09" box="[594,740,2331,2374]" pageId="7" pageNumber="170" value="2019-08">Aug. 19</collectingDate>
+</date>
+, at light, 
+<collectorName id="26EF5378E94CFFA6FC598B2696540A09" box="[918,1058,2331,2374]" pageId="7" pageNumber="170">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E94CFFA6FBF48B2696D60A37" ID-GBIF-Occurrence="3332081449" collectedFrom="reared from a caterpilllar on leaf of Barringtonia speciosa" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="7" pageNumber="170">
+<collectingMunicipality id="6BC1ACD4E94CFFA6FBF48B2696CE0A09" box="[1083,1208,2331,2374]" pageId="7" pageNumber="170">
+<location id="8EC56075E94CFFA6FBF48B2696CE0A09" LSID="urn:lsid:plazi:treatment:03B387B8E94CFFA9FE748A6D97B302C2:8EC56075E94CFFA6FBF48B2696CE0A09" box="[1083,1208,2331,2374]" pageId="7" pageNumber="170">Fadian</location>
+</collectingMunicipality>
+, 
+<date id="FFA4106EE94CFFA6FB1F8B2697160A09" box="[1232,1376,2331,2374]" pageId="7" pageNumber="170" value="2019-08">
+<collectingDate id="EFE0E986E94CFFA6FB1F8B2697160A09" box="[1232,1376,2331,2374]" pageId="7" pageNumber="170" value="2019-08">Aug. 19</collectingDate>
+</date>
+, reared from a caterpillar on leaf of 
+<taxonomicName id="4C1A4D2DE94CFFA6FDBF8B7296EF0A37" authority=", Swezey" authorityName="Swezey" box="[624,1177,2383,2424]" class="Magnoliopsida" family="Lecythidaceae" genus="Barringtonia" kingdom="Plantae" order="Ericales" pageId="7" pageNumber="170" phylum="Tracheophyta" rank="species" species="speciosa">
+<emphasis id="B96EEABCE94CFFA6FDBF8B72918C0A37" box="[624,1018,2383,2424]" italics="true" pageId="7" pageNumber="170">
+<location id="8EC56075E94CFFA6FDBF8B7291250A37" LSID="urn:lsid:plazi:treatment:03B387B8E94CFFA9FE748A6D97B302C2:8EC56075E94CFFA6FDBF8B7291250A37" box="[624,851,2383,2424]" pageId="7" pageNumber="170">Barringtonia</location>
+speciosa,
+</emphasis>
+<collectorName id="26EF5378E94CFFA6FBC38B7296EF0A37" box="[1036,1177,2383,2424]" pageId="7" pageNumber="170">Swezey</collectorName>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E94CFFA6FB7D8B7294B10A37" ID-GBIF-Occurrence="3332081467" box="[1202,1735,2383,2424]" collectedFrom="at light" collectingDate="1936-11-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="170">
+<location id="8EC56075E94CFFA6FB7D8B7296830A37" LSID="urn:lsid:plazi:treatment:03B387B8E94CFFA9FE748A6D97B302C2:8EC56075E94CFFA6FB7D8B7296830A37" box="[1202,1269,2383,2424]" pageId="7" pageNumber="170">
+<collectingMunicipality id="6BC1ACD4E94CFFA6FB7D8B7296830A37" box="[1202,1269,2383,2424]" pageId="7" pageNumber="170">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE94CFFA6FAC18B7297FE0A37" box="[1294,1416,2383,2424]" pageId="7" pageNumber="170">
+<collectingDate id="EFE0E986E94CFFA6FAC18B7297FE0A37" box="[1294,1416,2383,2424]" pageId="7" pageNumber="170">Nov. 9</collectingDate>
+</date>
+, at light, 
+<collectorName id="26EF5378E94CFFA6F9F38B7294B40A37" box="[1596,1730,2383,2424]" pageId="7" pageNumber="170">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="3B723CF3E94CFFA6F92A8B72976B0AE4" ID-GBIF-Occurrence="3332081364" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Bishop Museum" pageId="7" pageNumber="170" specimenCount="1">
+One 
+<specimenCount id="9D1CFD27E94CFFA6FE758BBD902E0AE4" box="[442,600,2432,2475]" pageId="7" pageNumber="170" type="generic">specimen</specimenCount>
+at Bishop Museum, Fullaway, 1911;
+</materialsCitation>
+<materialsCitation id="3B723CF3E94CFFA6FAFA8BBD955D0A92" ID-GBIF-Occurrence="3332081371" collectedFrom="labeled &quot;L. honesta&quot; which believed to be regia" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="7" pageNumber="170" specimenCount="1">
+and one at 
+<collectingCountry id="F30D763EE94CFFA6F9D98BBD940A0AE4" box="[1558,1660,2432,2475]" name="United States of America" pageId="7" pageNumber="170">U. S.</collectingCountry>
+<collectingMunicipality id="6BC1ACD4E94CFFA6F9598BBD90260A92" pageId="7" pageNumber="170">National Museum</collectingMunicipality>
+labeled 
+<emphasis id="B96EEABCE94CFFA6FD348B8E91940A92" box="[763,994,2483,2525]" italics="true" pageId="7" pageNumber="170">
+&quot; 
+<taxonomicName id="4C1A4D2DE94CFFA6FCC58B8E91A00A92" box="[778,982,2483,2525]" class="Insecta" family="Noctuidae" genus="Lagoptera" kingdom="Animalia" order="Lepidoptera" pageId="7" pageNumber="170" phylum="Arthropoda" rank="species" species="honesta">L. honesta</taxonomicName>
+&quot;
+</emphasis>
+which I believe to be 
+<taxonomicName id="4C1A4D2DE94CFFA6FA598B8E95500A92" authority=", Fullaway, 1911" authorityName="Fullaway" authorityYear="1911" box="[1430,1830,2483,2525]" class="Insecta" family="Noctuidae" genus="Lagoptera" kingdom="Animalia" order="Lepidoptera" pageId="7" pageNumber="170" phylum="Arthropoda" rank="species" species="regia">
+<emphasis id="B96EEABCE94CFFA6FA598B8E97810A92" box="[1430,1527,2483,2525]" italics="true" pageId="7" pageNumber="170">regia,</emphasis>
+<location id="8EC56075E94CFFA6F9C18B8E94C20A92" LSID="urn:lsid:plazi:treatment:03B387B8E94CFFA9FE748A6D97B302C2:8EC56075E94CFFA6F9C18B8E94C20A92" box="[1550,1716,2483,2525]" pageId="7" pageNumber="170">Fullaway</location>
+, 1911
+</taxonomicName>
+.
+</materialsCitation>
+</paragraph>
+<paragraph id="8BA536AEE943FFA9FEAD830D97B302C2" blockId="8.[290,1685,304,397]" pageId="8" pageNumber="171">
+This is a large moth known in New 
+<collectingCountry id="F30D763EE943FFA9FB8E830D96C90214" box="[1089,1215,304,347]" name="Guinea-Bissau" pageId="8" pageNumber="171">Guinea</collectingCountry>
+, North 
+<collectingCountry id="F30D763EE943FFA9FAAB830D947D0214" box="[1380,1547,304,347]" name="Australia" pageId="8" pageNumber="171">Australia</collectingCountry>
+, North Queensland and 
+<collectingCountry id="F30D763EE943FFA9FD95835F90D602C2" box="[602,672,354,397]" name="Fiji" pageId="8" pageNumber="171">Fiji</collectingCountry>
+. Three specimens were obtained in 
+<collectingCountry id="F30D763EE943FFA9FA9B835F97B602C2" box="[1364,1472,354,397]" name="Guam" pageId="8" pageNumber="171">Guam</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

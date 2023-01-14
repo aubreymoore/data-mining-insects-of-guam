@@ -1,0 +1,139 @@
+<document id="D2CE60AD2B813B9CFADBF153E5AA816D" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5063F664B5AE783F998C2E5" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Calliphara munda Stal." docType="treatment" docVersion="22" lastPageNumber="22" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="21" updateTime="1671748599875" updateUser="aubreymoore">
+<mods:mods id="EACAE757ADF31FC60E3C0A071D28FAD3" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="F262B22BFB064A44505EC1BC72DF9B71">
+<mods:title id="E27F977B27D80D6BF69195CCB3630226">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="2AEE222FEE26EEE4D9191566E65C0E3C" type="personal">
+<mods:role id="8B4A5685D3AD0C6519341A508129F27B">
+<mods:roleTerm id="FEEAEF772F7973EF766F35169506B234">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4C3BCDE46C7CB28A404C35F295B64858">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="AB3294EF9E4288AFA898E1DA1F14E8EC">text</mods:typeOfResource>
+<mods:relatedItem id="01BAB91A99ABA7C9B9E4918CD12AC56B" type="host">
+<mods:originInfo id="68509A1948F5988C5CF3AE8DF3A27CEC">
+<mods:dateIssued id="042C9972DF756E0EA733C06112ABE917">1946</mods:dateIssued>
+<mods:dateOther id="C7B3824DE6E0B5CE237A027F30AB4943" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="5503011BDCF4292AE59549BD795FE546">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="11DD5BEB3DDE00E7007D56439C4021D5">
+<mods:placeTerm id="774516A364C16FC266328D31153AA87A">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="CA87B065A122B5424F847B9AB429B578">
+<mods:title id="B88C31DB3D2B6E3709637273A49CD62C">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="BFB0D635F61144946C6A018F10CA62C7">
+<mods:extent id="EF70B31794FAE4A252C515E83BC8C660" unit="page">
+<mods:start id="48AEE5B3EC3A29B017AC05A7986238C6">11</mods:start>
+<mods:end id="F46B75DC79CDC8C48B02E2CAF32CE58D">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="9A23D1D055555BE3CAEA03423FA29C42">book chapter</mods:classification>
+<mods:identifier id="5A347FECDD0B9508244BCBF9F97D0DBE" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="53F865B4CA658BD0729F7219548D4AFB" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="2A86CDB5F4678D7D768A946EA6ACB1FA" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5063F664B5AE783F998C2E5" ID-DOI="http://doi.org/10.5281/zenodo.5184888" ID-GBIF-Taxon="184601226" ID-Zenodo-Dep="5184888" LSID="urn:lsid:plazi:treatment:EC6DA359F5063F664B5AE783F998C2E5" httpUri="http://treatment.plazi.org/id/EC6DA359F5063F664B5AE783F998C2E5" lastPageId="11" lastPageNumber="22" pageId="10" pageNumber="21">
+<subSubSection id="2CDE41C4F5063F674B5AE783FBA3C87D" box="[314,1095,2283,2325]" pageId="10" pageNumber="21" type="nomenclature">
+<paragraph id="647B124FF5063F674B5AE783FBA3C87D" blockId="10.[314,1712,2214,2479]" box="[314,1095,2283,2325]" pageId="10" pageNumber="21">
+<heading id="3F33A523F5063F674B5AE783FBA3C87D" box="[314,1095,2283,2325]" fontSize="11" level="2" pageId="10" pageNumber="21" reason="2">
+<emphasis id="56B0CE5DF5063F674B5AE783FEB3C87D" bold="true" box="[314,343,2283,2325]" pageId="10" pageNumber="21">6.</emphasis>
+<taxonomicName id="A3C469CCF5063F674B19E783FBA3C87D" authority="Stal" box="[377,1095,2283,2325]" class="Insecta" family="Scutelleridae" genus="Calliphara" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="10" pageNumber="21" phylum="Arthropoda" rank="species" species="munda">
+<emphasis id="56B0CE5DF5063F674B19E783FC02C87D" bold="true" box="[377,998,2283,2325]" pageId="10" pageNumber="21">Calliphara (Chrysophara) munda</emphasis>
+Stal.
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5063F674B1DE676FA4FC821" box="[381,1451,2334,2377]" pageId="10" pageNumber="21" type="description">
+<paragraph id="647B124FF5063F674B1DE676FA4FC821" blockId="10.[314,1712,2214,2479]" box="[381,1451,2334,2377]" pageId="10" pageNumber="21">
+<treatmentCitationGroup id="44D43561F5063F674B1DE676FA4FC821" box="[381,1451,2334,2377]" pageId="10" pageNumber="21">
+<bibCitation id="B1EE1A23F5063F674B1DE676FA4FC821" author="Stal" box="[381,1451,2334,2377]" journalOrPublisher="Berlin. Ent. Zeitschr." pageId="10" pageNumber="21" pagination="153" part="10" refId="ref4534" type="journal article" year="1866">
+<treatmentCitation id="E565345EF5063F674B1DE676FA42C821" author="Stal" box="[381,1446,2334,2377]" page="153" pageId="10" pageNumber="21" year="1866">
+<emphasis id="56B0CE5DF5063F674B1DE676FD5CC821" box="[381,696,2334,2377]" italics="true" pageId="10" pageNumber="21">Calliphara munda</emphasis>
+<author id="BC79FAAAF5063F6748A9E676FCEBC821" box="[713,783,2334,2377]" pageId="10" pageNumber="21">Stal</author>
+, 
+<journalOrPublisher id="BE051883F5063F674947E676FB45C821" box="[807,1185,2334,2377]" pageId="10" pageNumber="21">Berlin. Ent. Zeitschr.</journalOrPublisher>
+<emphasis id="56B0CE5DF5063F674ED5E676FB0FC821" bold="true" box="[1205,1259,2334,2377]" pageId="10" pageNumber="21">
+<part id="1060B8D2F5063F674ED5E676FB01C821" box="[1205,1253,2334,2377]" pageId="10" pageNumber="21" type="volume">10</part>
+:
+</emphasis>
+<pagination id="5D0DECBBF5063F674E9CE676FADEC821" box="[1276,1338,2334,2377]" pageId="10" pageNumber="21" type="pagination">153</pagination>
+, 
+<year id="106C531CF5063F674F33E676FA42C821" box="[1363,1446,2334,2377]" pageId="10" pageNumber="21">1866</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5063F664B1AE638FBC1C098" lastPageId="11" lastPageNumber="22" pageId="10" pageNumber="21" type="description">
+<paragraph id="647B124FF5063F664B1AE638FBC1C098" blockId="10.[314,1712,2214,2479]" lastBlockId="11.[403,1803,401,909]" lastPageId="11" lastPageNumber="22" pageId="10" pageNumber="21">
+<materialsCitation id="D4AC1812F5063F674B1AE638FB1FC814" ID-GBIF-Occurrence="3994028364" box="[378,1275,2384,2428]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="10" pageNumber="21" specimenCount="1">
+<location id="611B4494F5063F674B1AE638FE27C814" LSID="urn:lsid:plazi:treatment:EC6DA359F5063F664B5AE783F998C2E5:611B4494F5063F674B1AE638FE27C814" box="[378,451,2384,2428]" country="Guam" municipality="Fullaway" name="One" pageId="10" pageNumber="21">One</location>
+damaged specimen, 
+<collectingCountry id="1CD352DFF5063F674955E638FC45C814" box="[821,929,2384,2428]" name="Guam" pageId="10" pageNumber="21">Guam</collectingCountry>
+, 
+<collectingMunicipality id="841F8835F5063F6749D7E638FBBEC814" box="[951,1114,2384,2428]" pageId="10" pageNumber="21">Fullaway</collectingMunicipality>
+(1177);
+</materialsCitation>
+<materialsCitation id="D4AC1812F5063F674F6CE638F990C8C7" ID-GBIF-Occurrence="3994028386" collectedFrom="six adults, two nymphs, and eggs on Glochidion and other trees" collectingDate="1936-08-06" collectorName="O. H. Swezey" country="Guam" location="Ritidian Point" pageId="10" pageNumber="21" specimenCount="9">
+<specimenCount id="72C2D9C6F5063F674F6CE638FA5CC814" box="[1292,1464,2384,2428]" pageId="10" pageNumber="21" type="adult">six adults</specimenCount>
+, two nymphs, and eggs, Ritidian Point, 
+<date id="107A348FF5063F674971E6ECFC74C8C7" box="[785,912,2436,2479]" pageId="10" pageNumber="21">Aug. 6</date>
+, 
+<collectedFrom id="D7D851B2F5063F6749C9E6ECFB47C8C7" box="[937,1187,2436,2479]" pageId="10" pageNumber="21">
+on 
+<taxonomicName id="A3C469CCF5063F674987E6ECFB47C8C7" box="[999,1187,2436,2479]" class="Magnoliopsida" family="Phyllanthaceae" genus="Glochidion" kingdom="Plantae" order="Malpighiales" pageId="10" pageNumber="21" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5063F674987E6ECFB47C8C7" box="[999,1187,2436,2479]" italics="true" pageId="10" pageNumber="21">Glochidion</emphasis>
+</taxonomicName>
+</collectedFrom>
+and other trees, Swezey;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5063F664CEBE6ECFAB2C0D4" ID-GBIF-Occurrence="3994028487" collectedFrom="on Glochidion" collectingDate="1936-08-12/1936-08-27" collectorName="O. H. Swezey" country="Guam" lastPageId="11" lastPageNumber="22" location="Piti" pageId="10" pageNumber="21" specimenCount="12">
+<specimenCount id="72C2D9C6F5063F664CEBE6ECFDA3C0D4" lastPageId="11" lastPageNumber="22" pageId="10" pageNumber="21" type="generic">12 specimens</specimenCount>
+, Piti, 
+<date id="107A348FF5073F6648A0EEF9FC74C0D4" box="[704,912,401,444]" pageId="11" pageNumber="22" value="1927-08-12">Aug. 12-27</date>
+, on 
+<taxonomicName id="A3C469CCF5073F66498CEEF9FAB2C0D4" authority=", Swezey" authorityName="Swezey" box="[1004,1366,401,444]" class="Magnoliopsida" family="Phyllanthaceae" genus="Glochidion" kingdom="Plantae" order="Malpighiales" pageId="11" pageNumber="22" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5073F66498CEEF9FB56C0D4" box="[1004,1202,401,444]" italics="true" pageId="11" pageNumber="22">Glochidion,</emphasis>
+Swezey
+</taxonomicName>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5073F664F13EEF9FBC4C098" ID-GBIF-Occurrence="3336136462" collectingDate="1925-07-31" collectorName="H. G. Hornbostel" country="Northern Mariana Islands" location="Rota" pageId="11" pageNumber="22" specimenCount="8">
+<specimenCount id="72C2D9C6F5073F664F13EEF9F974C0D4" box="[1395,1680,401,444]" pageId="11" pageNumber="22" type="generic">eight specimens</specimenCount>
+, 
+<collectingRegion id="A600DCADF5073F664CCBEEF9F8E7C0D4" box="[1707,1795,401,444]" country="Northern Mariana Islands" name="Rota" pageId="11" pageNumber="22">Rota</collectingRegion>
+, 
+<location id="611B4494F5073F664BF5EEADFDD9C098" LSID="urn:lsid:plazi:treatment:EC6DA359F5063F664B5AE783F998C2E5:611B4494F5073F664BF5EEADFDD9C098" box="[405,573,453,496]" name="Marianas" pageId="11" pageNumber="22" stateProvince="Rota">Marianas</location>
+, 
+<date id="107A348FF5073F664830EEADFCA5C098" box="[592,833,453,496]" pageId="11" pageNumber="22" value="1925-07-31">
+<collectingDate id="003ECD67F5073F664830EEADFCA5C098" box="[592,833,453,496]" pageId="11" pageNumber="22" value="1925-07-31">July 31, 1925</collectingDate>
+</date>
+, Hornbostel
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5073F664BB3EE91F998C2E5" pageId="11" pageNumber="22" type="description">
+<paragraph id="647B124FF5073F664BB3EE91F998C2E5" blockId="11.[403,1803,401,909]" pageId="11" pageNumber="22">
+These specimens run directly to 
+<taxonomicName id="A3C469CCF5073F664E7DEE91FAF8C34C" authority="Stal" authorityName="Stal" box="[1053,1308,505,548]" class="Insecta" family="Scutelleridae" genus="Calliphara" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="11" pageNumber="22" phylum="Arthropoda" rank="species" species="munda">
+<emphasis id="56B0CE5DF5073F664E7DEE91FB2CC34C" box="[1053,1224,505,548]" italics="true" pageId="11" pageNumber="22">C. munda</emphasis>
+Stal
+</taxonomicName>
+and agree in size and color with Sta.l's description. However, the sides of the venter and the thorax and scutellum are said to be sparingly (&quot;parce&quot;) punctate in Sta.l's male 
+<typeStatus id="BB7FACEDF5073F664C2BED09F972C3E3" box="[1611,1686,609,651]" pageId="11" pageNumber="22">type</typeStatus>
+which is from 
+<collectingCountry id="1CD352DFF5073F664841EDFBFD6EC3D7" box="[545,650,659,703]" name="China" pageId="11" pageNumber="22">China</collectingCountry>
+. I have not seen specimens of this from 
+<collectingCountry id="1CD352DFF5073F664F3EEDFBFA21C3D7" box="[1374,1477,659,703]" name="China" pageId="11" pageNumber="22">China</collectingCountry>
+or elsewhere. The males lack connexival spines, thus agreeing with Sta.l's 
+<typeStatus id="BB7FACEDF5073F664FECEDA1FA3DC399" box="[1420,1497,713,753]" pageId="11" pageNumber="22">type</typeStatus>
+, but the females have minute spines on the fourth, fifth, and sixth connexival segments. The male genital capsule is short and broadly, roundly widened and flaring posterolaterally with the apical margin broadly, roundly emarginate at middle.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

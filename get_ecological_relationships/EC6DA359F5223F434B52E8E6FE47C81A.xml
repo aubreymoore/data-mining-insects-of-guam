@@ -1,0 +1,134 @@
+<document id="E7D3275748583564721A3EEC483004D0" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5223F434B52E8E6FE47C81A" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Scoloposcelis parallelus" docType="treatment" docVersion="22" lastPageNumber="57" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="57" updateTime="1671674318142" updateUser="annettekang">
+<mods:mods id="16B3CF9B909FCBCF82FAB8DC8F6F7E79" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="3451E769EA31F81FEB56A0672AE9A7EB">
+<mods:title id="5AA1C83B06AA6EC4C6CDA95807861E46">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="6A64384F553AFF9CD442EBB19EE823B1" type="personal">
+<mods:role id="3AD438469F65D7374FE7A074AC4BAA32">
+<mods:roleTerm id="8071118A3933EEC28F864E532BE72BAE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="0C4E34C276BCA7307DDE58B64B4733DD">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="167E4FF0AC2EBE90F767FFC67882971F">text</mods:typeOfResource>
+<mods:relatedItem id="3F69A40EB8C908A157EF4477ED39EF91" type="host">
+<mods:originInfo id="D5350A2C006596193DC1CFB5E9C91FCC">
+<mods:dateIssued id="B39A486FC2804034A462F03E54214917">1946</mods:dateIssued>
+<mods:dateOther id="C5AD4F85F0F8E06BFE10FEBC950ED914" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="CA90B95203CED686E080FC2A5E0C1127">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="7F1269F2CAB1E1532E990AAD78E0B010">
+<mods:placeTerm id="B7A08462E82BB8BA66217550E1853488">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="4720FC6175A54A06DD9B575A323E85DF">
+<mods:title id="C88AEF574AA2F17D4BC9982FD8C6ADCD">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="826B965584E08EB8E798DCE7A2FEB519">
+<mods:extent id="A48E138C3A4DDB5DCC5F451CF094A2B3" unit="page">
+<mods:start id="118595B6B0F4FE0713B944933E6A1361">11</mods:start>
+<mods:end id="BED74C5C1446ED9B4372AFB6CFD9DE2D">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="77F06FF46283DB5643381D15F108C01E">book chapter</mods:classification>
+<mods:identifier id="793A313E380684470B17125DACE71807" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="E9E5BB6431C0FD06A0EC0F73D8A15156" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="B44A94ACDB3E44D7C8586EAE0579BB3C" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5223F434B52E8E6FE47C81A" ID-DOI="http://doi.org/10.5281/zenodo.5245281" ID-GBIF-Taxon="184601163" ID-Zenodo-Dep="5245281" LSID="urn:lsid:plazi:treatment:EC6DA359F5223F434B52E8E6FE47C81A" httpUri="http://treatment.plazi.org/id/EC6DA359F5223F434B52E8E6FE47C81A" lastPageNumber="57" pageId="46" pageNumber="57">
+<subSubSection id="2CDE41C4F5223F434B52E8E6FB84C6D0" box="[306,1120,1934,1976]" pageId="46" pageNumber="57" type="nomenclature">
+<paragraph id="647B124FF5223F434B52E8E6FB84C6D0" blockId="46.[306,1706,1934,2418]" box="[306,1120,1934,1976]" pageId="46" pageNumber="57">
+<heading id="3F33A523F5223F434B52E8E6FB84C6D0" box="[306,1120,1934,1976]" fontSize="8" level="2" pageId="46" pageNumber="57" reason="4">
+<emphasis id="56B0CE5DF5223F434B52E8E6FE87C6D0" bold="true" box="[306,355,1934,1976]" pageId="46" pageNumber="57">52.</emphasis>
+<taxonomicName id="A3C469CCF5223F434BE4E8E6FBAAC6D0" authority="(Motschulsky)" box="[388,1102,1934,1976]" class="Insecta" family="Anthocoridae" genus="Scoloposcelis" kingdom="Animalia" order="Hemiptera" pageId="46" pageNumber="57" phylum="Arthropoda" rank="species" species="parallelus" status="species">
+<emphasis id="56B0CE5DF5223F434BE4E8E6FCD0C6D0" bold="true" box="[388,820,1934,1976]" pageId="46" pageNumber="57">Scoloposcelis parallelus</emphasis>
+(Motschulsky
+</taxonomicName>
+).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5223F434B11E8A2F94CC69D" box="[369,1704,1994,2037]" pageId="46" pageNumber="57" type="description">
+<paragraph id="647B124FF5223F434B11E8A2F94CC69D" blockId="46.[306,1706,1934,2418]" box="[369,1704,1994,2037]" pageId="46" pageNumber="57">
+<bibCitation id="B1EE1A23F5223F434B11E8A2F94CC69D" box="[369,1704,1994,2037]" journalOrPublisher="Soc. Nat. Mose." pageId="46" pageNumber="57" pagination="89" part="36" refId="ref24183" type="journal article" year="1863">
+<treatmentCitationGroup id="44D43561F5223F434B11E8A2F947C69D" box="[369,1699,1994,2037]" pageId="46" pageNumber="57">
+<treatmentCitation id="E565345EF5223F434B11E8A2F947C69D" author="Motschulsky" box="[369,1699,1994,2037]" page="89" pageId="46" pageNumber="57" year="1863">
+<emphasis id="56B0CE5DF5223F434B11E8A2FD0EC69D" box="[369,746,1994,2037]" italics="true" pageId="46" pageNumber="57">Anthocoris parallelus</emphasis>
+Motschulsky, 
+<journalOrPublisher id="BE051883F5223F43498EE8A2FAEEC69D" box="[1006,1290,1994,2037]" pageId="46" pageNumber="57">Soc. Nat. Mose.</journalOrPublisher>
+, Bull. 
+<emphasis id="56B0CE5DF5223F434FE2E8A2FA0DC69D" bold="true" box="[1410,1513,1994,2037]" pageId="46" pageNumber="57">
+<part id="1060B8D2F5223F434FE2E8A2FA57C69D" box="[1410,1459,1994,2037]" pageId="46" pageNumber="57" type="volume">36</part>
+(
+<part id="1060B8D2F5223F434FA1E8A2FA32C69D" box="[1473,1494,1994,2037]" pageId="46" pageNumber="57" type="issue">3</part>
+):
+</emphasis>
+<pagination id="5D0DECBBF5223F434C6BE8A2F9D3C69D" box="[1547,1591,1994,2037]" pageId="46" pageNumber="57" type="pagination">89</pagination>
+, 
+<year id="106C531CF5223F434C30E8A2F947C69D" box="[1616,1699,1994,2037]" pageId="46" pageNumber="57">1863</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5223F434B12E76DFE2EC9F3" pageId="46" pageNumber="57" type="description">
+<paragraph id="647B124FF5223F434B12E76DFE2EC9F3" blockId="46.[306,1706,1934,2418]" pageId="46" pageNumber="57">
+<materialsCitation id="D4AC1812F5223F434B12E76DFD55C90E" ID-GBIF-Occurrence="3994028496" collectedFrom="under bark of dead Elaeocarpus" collectingDate="1936-06-30" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Machanao" pageId="46" pageNumber="57" specimenCount="35">
+Thirty-five 
+<specimenCount id="72C2D9C6F5223F434820E76DFD16C959" box="[576,754,2053,2097]" pageId="46" pageNumber="57" type="generic">specimens</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5223F434966E76DFC59C959" box="[774,957,2053,2097]" pageId="46" pageNumber="57">Machanao</collectingMunicipality>
+, 
+<date id="107A348FF5223F4349B0E76DFBBFC959" box="[976,1115,2053,2097]" pageId="46" pageNumber="57" value="1930-06">
+<collectingDate id="003ECD67F5223F4349B0E76DFBBFC959" box="[976,1115,2053,2097]" pageId="46" pageNumber="57" value="1930-06">June 30</collectingDate>
+</date>
+, under bark of dead 
+<taxonomicName id="A3C469CCF5223F434FA9E76DFD55C90E" authority=", Swezey and Usinger" authorityName="Swezey and Usinger" class="Magnoliopsida" family="Elaeocarpaceae" genus="Elaeocarpus" kingdom="Plantae" order="Oxalidales" pageId="46" pageNumber="57" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5223F434FA9E76DF94DC959" box="[1481,1705,2053,2097]" italics="true" pageId="46" pageNumber="57">
+<location id="611B4494F5223F434FA9E76DF947C959" LSID="urn:lsid:plazi:treatment:EC6DA359F5223F434B52E8E6FE47C81A:611B4494F5223F434FA9E76DF947C959" box="[1481,1699,2053,2097]" municipality="Machanao" name="Elaeocarpus" pageId="46" pageNumber="57">Elaeocarpus</location>
+,
+</emphasis>
+<collectorName id="C9317799F5223F434B56E753FE5DC90E" box="[310,441,2107,2150]" pageId="46" pageNumber="57">Swezey</collectorName>
+and 
+<location id="611B4494F5223F434879E753FD55C90E" LSID="urn:lsid:plazi:treatment:EC6DA359F5223F434B52E8E6FE47C81A:611B4494F5223F434879E753FD55C90E" box="[537,689,2107,2150]" municipality="Machanao" name="Usinger" pageId="46" pageNumber="57">Usinger</location>
+</taxonomicName>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5223F4348A9E753FE21C9F3" ID-GBIF-Occurrence="3994028526" collectedFrom="in dead limb of pago" collectingDate="1936-05-05" collectorName="R. L. Usinger" country="Guam" location="Upi Trail" pageId="46" pageNumber="57" specimenCount="1">
+<specimenCount id="72C2D9C6F5223F4348A9E753FC5CC90E" box="[713,952,2107,2150]" pageId="46" pageNumber="57" type="generic">one specimen</specimenCount>
+, 
+<location id="611B4494F5223F4349AFE753FB64C90E" LSID="urn:lsid:plazi:treatment:EC6DA359F5223F434B52E8E6FE47C81A:611B4494F5223F4349AFE753FB64C90E" box="[975,1152,2107,2150]" country="Sri Lanka" county="Asia" municipality="Java" name="Upi Trail" pageId="46" pageNumber="57">Upi Trail</location>
+, 
+<date id="107A348FF5223F434EFAE753FAF4C90E" box="[1178,1296,2107,2150]" pageId="46" pageNumber="57">
+<collectingDate id="003ECD67F5223F434EFAE753FAF4C90E" box="[1178,1296,2107,2150]" pageId="46" pageNumber="57">May 5</collectingDate>
+</date>
+, in dead limb of 
+<emphasis id="56B0CE5DF5223F434C2CE753F94DC90E" box="[1612,1705,2107,2150]" italics="true" pageId="46" pageNumber="57">pago,</emphasis>
+<location id="611B4494F5223F434B54E71BFE21C9F3" LSID="urn:lsid:plazi:treatment:EC6DA359F5223F434B52E8E6FE47C81A:611B4494F5223F434B54E71BFE21C9F3" box="[308,453,2163,2203]" name="Usinger" pageId="46" pageNumber="57">Usinger</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5223F434B14E7C4FE47C81A" pageId="46" pageNumber="57" type="description">
+<paragraph id="647B124FF5223F434B14E7C4FE47C81A" blockId="46.[306,1706,1934,2418]" pageId="46" pageNumber="57">
+The femoral spines are minute but distinct. 
+<location id="611B4494F5223F434EF5E7C4FB38C9B0" LSID="urn:lsid:plazi:treatment:EC6DA359F5223F434B52E8E6FE47C81A:611B4494F5223F434EF5E7C4FB38C9B0" box="[1173,1244,2220,2264]" country="Sri Lanka" county="Asia" municipality="Java" name="The" pageId="46" pageNumber="57">The</location>
+species has been reported from 
+<collectingCountry id="1CD352DFF5223F434BFCE788FDFDC863" box="[412,537,2272,2315]" name="Sri Lanka" pageId="46" pageNumber="57">Ceylon</collectingCountry>
+, 
+<location id="611B4494F5223F43484EE788FD5DC863" LSID="urn:lsid:plazi:treatment:EC6DA359F5223F434B52E8E6FE47C81A:611B4494F5223F43484EE788FD5DC863" box="[558,697,2272,2315]" country="Sri Lanka" county="Asia" municipality="Java" name="Engano" pageId="46" pageNumber="57">Engano</location>
+, 
+<location id="611B4494F5223F4348B0E788FC65C863" LSID="urn:lsid:plazi:treatment:EC6DA359F5223F434B52E8E6FE47C81A:611B4494F5223F4348B0E788FC65C863" box="[720,897,2272,2315]" country="Sri Lanka" county="Asia" municipality="Java" name="Mentawei" pageId="46" pageNumber="57">Mentawei</location>
+, 
+<location id="611B4494F5223F4349F5E788FB89C863" LSID="urn:lsid:plazi:treatment:EC6DA359F5223F434B52E8E6FE47C81A:611B4494F5223F4349F5E788FB89C863" box="[917,1133,2272,2315]" country="Sri Lanka" county="Asia" municipality="Java" name="Aru Islands" pageId="46" pageNumber="57">Aru Islands</location>
+, 
+<collectingMunicipality id="841F8835F5223F434EE3E788FB33C863" box="[1155,1239,2272,2315]" pageId="46" pageNumber="57">Java</collectingMunicipality>
+, and 
+<collectingCountry id="1CD352DFF5223F434F5BE788FA3EC863" box="[1339,1498,2272,2315]" name="Taiwan" pageId="46" pageNumber="57">Formosa</collectingCountry>
+, and is said to be widely distributed in tropical 
+<collectingCounty id="8D1A6AC3F5223F4349FCE67CFC08C857" box="[924,1004,2324,2367]" pageId="46" pageNumber="57">Asia</collectingCounty>
+(Poppius, Wien. Ent. Zeitung 29: 140, 1910).
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

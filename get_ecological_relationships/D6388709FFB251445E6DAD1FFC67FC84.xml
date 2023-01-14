@@ -1,0 +1,63 @@
+<document id="A774B2FFA5941F586FBC7E51D2133442" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFB251445E6DAD1FFC67FC84" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Aphanocorynes Wollaston" docType="treatment" docVersion="8" lastPageNumber="139" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="139" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="DFB68B38D00A54410C208EB135CE3497" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C77BB4D53EC9A681C68611E6DB88C736">
+<mods:title id="7411AB6D6633C1EADF551B62F93FA387">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="7673C0C3725497A2A247EE5A9FE2067B" type="personal">
+<mods:role id="344EEBB0E19EF8E6BA9CA41F245A6933">
+<mods:roleTerm id="BB92EE5FEDF48B4B0AE7B2358F30EB60">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="867E446644F39CF8B2FFE907696FACE2">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="B947FBA1F5C0FB8AF5DD1A1EB6967289">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9DD654FC47C9D48F6078B3284CBDD9F8">text</mods:typeOfResource>
+<mods:relatedItem id="852CCC80633BD2CEE9DF415E05371110" type="host">
+<mods:originInfo id="C178F25151271FCCC422FEED71647D5F">
+<mods:dateIssued id="1EE85075DE86AD453CD24284D86F0075">1942</mods:dateIssued>
+<mods:dateOther id="1CB473905AA32E815B1FE736442B8E30" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="2B0B0EE8FE9E75C3E0E4892E4C5F9A46">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="5DBB1E6809047E39F32AC21221167AAA">
+<mods:placeTerm id="56DBDB713DB54729F5E165F20DD73C97">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A7C353A6878DC94515ED202150D6925F">
+<mods:title id="8A15730FEE9ABB5893B9B570AA837037">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="9DA95D3BF2C58FCB1FF89F8D7B04A6B4">
+<mods:extent id="4BA2033AA038109D8338AB879C7E49AA" unit="page">
+<mods:start id="89F9FE9E5FEA43D9587BC3BA6A3FFA98">73</mods:start>
+<mods:end id="FE41DBD69C26CEA9D9F813AA8E2D3DE6">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E9782894CDE4E17F9EAE42883F0CDA87">book chapter</mods:classification>
+<mods:identifier id="DA24CD126D4FD40AAE7F97619374E3D9" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="DD1571618CDAFBE581E978476E9875CE" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="C880F2259BACF52B599BDBE555375BAE" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFB251445E6DAD1FFC67FC84" ID-DOI="http://doi.org/10.5281/zenodo.5157383" ID-GBIF-Taxon="184097916" ID-Zenodo-Dep="5157383" LSID="urn:lsid:plazi:treatment:D6388709FFB251445E6DAD1FFC67FC84" httpUri="http://treatment.plazi.org/id/D6388709FFB251445E6DAD1FFC67FC84" lastPageNumber="139" pageId="66" pageNumber="139">
+<treatmentCitationGroup id="7E811131FFB251445E6DAD1FF9E0FDE6" box="[310,1562,581,624]" pageId="66" pageNumber="139">
+<treatmentCitation id="DF30100EFFB251445E6DAD1FF9E0FDE6" author="Wollaston" box="[310,1562,581,624]" page="595" pageId="66" pageNumber="139" year="1873">
+<subSubSection id="168B6594FFB251445E6DAD1FFCEFFDE6" box="[310,789,581,624]" pageId="66" pageNumber="139" type="nomenclature">
+<paragraph id="5E2E361FFFB251445E6DAD1FFCEFFDE6" blockId="66.[310,1705,581,786]" box="[310,789,581,624]" pageId="66" pageNumber="139">
+<taxonomicName id="99914D9CFFB251445E6DAD1FFCF5FDE6" authority="Wollaston" authorityName="Wollaston" box="[310,783,581,624]" class="Insecta" family="Curculionidae" genus="Aphanocorynes" kingdom="Animalia" order="Coleoptera" pageId="66" pageNumber="139" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFB251445E6DAD1FFDBDFDE6" box="[310,583,581,624]" italics="true" pageId="66" pageNumber="139">Aphanocorynes</emphasis>
+Wollaston
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB251445C73AD1FF9E0FDE6" box="[808,1562,581,624]" pageId="66" pageNumber="139" type="reference_group">
+<paragraph id="5E2E361FFFB251445C73AD1FF9E0FDE6" blockId="66.[310,1705,581,786]" box="[808,1562,581,624]" pageId="66" pageNumber="139">Ent. Soc. London, Trans., 489, 595, 1873.</paragraph>
+</subSubSection>
+</treatmentCitation>
+</treatmentCitationGroup>
+<subSubSection id="168B6594FFB251445E2EADDBFC67FC84" pageId="66" pageNumber="139" type="discussion">
+<paragraph id="5E2E361FFFB251445E2EADDBFC67FC84" blockId="66.[310,1705,581,786]" pageId="66" pageNumber="139">
+This genus contains two Australian, one Lord Howe Island, and two Samoan species. One of the Samoan species is widespread, but it has been recorded only from 
+<collectingCountry id="2686768FFFB251445DF3ADB2FCE5FC84" box="[680,799,744,786]" name="Samoa" pageId="66" pageNumber="139">Samoa</collectingCountry>
+. It is:
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,172 @@
+<document id="FBE4F07F80657DE7444AF258C1019BC8" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E941FFABFEE086C59760058F" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Ericeia inangulata" docType="treatment" docVersion="21" lastPageNumber="173" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="173" updateTime="1669841625929" updateUser="ExternalLinkService">
+<mods:mods id="F940D8AB007156422041C4BF0342A69C" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="6A1FBA49D69D220AB78E2AAE66F1017E">
+<mods:title id="629441EB86D07B6FFC88564C533AF757">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="88785BEE1A81807678FDB1810B7A2147" type="personal">
+<mods:role id="CB111C05622E83DBED749F000FD4B286">
+<mods:roleTerm id="F1EBCCA1EBE111120377A10FE58E6622">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C6A864E1E6D5E8471FBF0790BD68E71C">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="A1B1F3346A6D986A695949DB503660A8">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="6DFA81D05D0846B9EB055C6B347E217B">text</mods:typeOfResource>
+<mods:relatedItem id="CC4B99B4857104434C73A577E1DBE264" type="host">
+<mods:originInfo id="DAC5CFD927EFCB5C012CAEE691684DB8">
+<mods:dateIssued id="498CB7B3EE33E008F332574B2C77DA37">1946</mods:dateIssued>
+<mods:dateOther id="D1D02D45BFAAD7BA9FA70ED38549E96F" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="D8A5284B9DF4FE0D5422A04627A75EDB">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="035931568F812543BB66219429749229">
+<mods:placeTerm id="C73D20CE209632A530A6EA8985A59474">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="8B120736093FE02E609ADB9CB6393D59">
+<mods:title id="C489FD3214E73E0597FAD202741D5A33">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="9893211A7EAB77ADBF37E167BE10A6EA">
+<mods:extent id="E962372B938F42066B77CF0389F3ED15" unit="page">
+<mods:start id="695C3896922E20719D3854E7CE2AC367">163</mods:start>
+<mods:end id="3E6A9CFD6D9F60B6BD1BE7C0E2E0ECA9">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="FD57512A4F8F468727AF145F956842AD">book chapter</mods:classification>
+<mods:identifier id="492F1D0173CE60B821560DCDA9FF6EFB" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="2ED9B2003DE26B855B8CAFBBF2B3703B" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="694EBAD9374C74824D1D0C8B94321083" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E941FFABFEE086C59760058F" ID-DOI="http://doi.org/10.5281/zenodo.5171060" ID-GBIF-Taxon="183926973" ID-Zenodo-Dep="5171060" LSID="urn:lsid:plazi:treatment:03B387B8E941FFABFEE086C59760058F" httpUri="http://treatment.plazi.org/id/03B387B8E941FFABFEE086C59760058F" lastPageNumber="173" pageId="10" pageNumber="173">
+<subSubSection id="C3006525E941FFABFEE086C591EB066E" box="[303,925,1272,1313]" pageId="10" pageNumber="173" type="nomenclature">
+<paragraph id="8BA536AEE941FFABFEE086C591EB066E" blockId="10.[303,1702,1272,1728]" box="[303,925,1272,1313]" pageId="10" pageNumber="173">
+<heading id="D0ED81C2E941FFABFEE086C591EB066E" box="[303,925,1272,1313]" fontSize="8" level="2" pageId="10" pageNumber="173" reason="4">
+<emphasis id="B96EEABCE941FFABFEE086C59314066E" bold="true" box="[303,354,1272,1313]" pageId="10" pageNumber="173">26.</emphasis>
+<taxonomicName id="4C1A4D2DE941FFABFE4C86C591EE066E" authority="(Guenee)" baseAuthorityName="Guenee" box="[387,920,1272,1313]" class="Insecta" family="Noctuidae" genus="Ericeia" kingdom="Animalia" order="Lepidoptera" pageId="10" pageNumber="173" phylum="Arthropoda" rank="species" species="inangulata">
+<emphasis id="B96EEABCE941FFABFE4C86C590A1066E" bold="true" box="[387,727,1272,1313]" pageId="10" pageNumber="173">Ericeia inangulata</emphasis>
+(Guenee)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E941FFABFEBF8717973F06A2" pageId="10" pageNumber="173" type="description">
+<paragraph id="8BA536AEE941FFABFEBF871797DE061A" blockId="10.[303,1702,1272,1728]" box="[368,1448,1322,1365]" pageId="10" pageNumber="173">
+<treatmentCitationGroup id="AB0A1180E941FFABFEBF871797DE061A" box="[368,1448,1322,1365]" pageId="10" pageNumber="173">
+<treatmentCitation id="0ABB10BFE941FFABFEBF871797DE061A" author="Guenée" box="[368,1448,1322,1365]" page="210" pageId="10" pageNumber="173" year="1852">
+<bibCitation id="5E303EC2E941FFABFEBF871797DE061A" author="Guenee" box="[368,1448,1322,1365]" pageId="10" pageNumber="173" pagination="210" part="3" refId="ref5710" title="Spec. Gen." type="journal article" year="1852">
+<emphasis id="B96EEABCE941FFABFEBF871790BB061A" box="[368,717,1322,1365]" italics="true" pageId="10" pageNumber="173">Hulodes inangulata</emphasis>
+<author id="53A7DE4BE941FFABFD1187179117061A" box="[734,865,1322,1365]" pageId="10" pageNumber="173">Guenee</author>
+, 
+<title id="F91EDD98E941FFABFCB48717964A061A" box="[891,1084,1322,1365]" pageId="10" pageNumber="173">Spec. Gen.</title>
+, Noct. 
+<emphasis id="B96EEABCE941FFABFB0C871796A2061A" bold="true" box="[1219,1236,1322,1365]" pageId="10" pageNumber="173">
+<part id="FFBE9C33E941FFABFB0C871796A6061A" box="[1219,1232,1322,1365]" pageId="10" pageNumber="173" type="volume">3</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE941FFABFB3A87179743061A" box="[1269,1333,1322,1365]" pageId="10" pageNumber="173" type="pagination">210</pagination>
+, 
+<year id="FFB277FDE941FFABFA9E871797D5061A" box="[1361,1443,1322,1365]" pageId="10" pageNumber="173">1852</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE941FFABFEA18761907D06F6" blockId="10.[303,1702,1272,1728]" pageId="10" pageNumber="173">
+<treatmentCitationGroup id="AB0A1180E941FFABFEA18761907D06F6" pageId="10" pageNumber="173">
+<bibCitation id="5E303EC2E941FFABFEA18761907D06F6" author="Hampson" pageId="10" pageNumber="173" pagination="470" refId="ref5727" title="Fauna Brit. India, Moths" type="journal volume" year="1894">
+<emphasis id="B96EEABCE941FFABFEA18761908D06C8" box="[366,763,1372,1415]" italics="true" pageId="10" pageNumber="173">Polydesma inangulata,</emphasis>
+<treatmentCitation id="0ABB10BFE941FFABFCC68761907006F6" author="Hampson" page="470" pageId="10" pageNumber="173" year="1894">
+<author id="53A7DE4BE941FFABFCC6876191C006C8" box="[777,950,1372,1415]" pageId="10" pageNumber="173">Hampson</author>
+, 
+<title id="F91EDD98E941FFABFC03876197FE06C8" box="[972,1416,1372,1415]" pageId="10" pageNumber="173">
+Fauna Brit. 
+<collectingCountry id="F30D763EE941FFABFB698761977206C8" box="[1190,1284,1372,1415]" name="India" pageId="10" pageNumber="173">India</collectingCountry>
+, Moths
+</title>
+<emphasis id="B96EEABCE941FFABFA59876197DE06C8" bold="true" box="[1430,1448,1372,1415]" pageId="10" pageNumber="173">2:</emphasis>
+<pagination id="B2D3C85AE941FFABFA088761947E06C8" box="[1479,1544,1372,1415]" pageId="10" pageNumber="173">470</pagination>
+, fig. 262, 
+<year id="FFB277FDE941FFABFE7C87AF907006F6" box="[435,518,1426,1465]" pageId="10" pageNumber="173">1894</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE941FFABFEA087FF973F06A2" blockId="10.[303,1702,1272,1728]" box="[367,1353,1474,1517]" pageId="10" pageNumber="173">
+<treatmentCitationGroup id="AB0A1180E941FFABFEA087FF973F06A2" box="[367,1353,1474,1517]" pageId="10" pageNumber="173">
+<bibCitation id="5E303EC2E941FFABFEA087FF973F06A2" author="Tams" box="[367,1353,1474,1517]" pageId="10" pageNumber="173" pagination="221" part="3" refId="ref5748" title="Ins. Samoa" type="journal article" year="1935">
+<emphasis id="B96EEABCE941FFABFEA087FF90C806A2" box="[367,702,1474,1517]" italics="true" pageId="10" pageNumber="173">Ericeia inangulata,</emphasis>
+<treatmentCitation id="0ABB10BFE941FFABFD0087FF973206A2" author="Tams" box="[719,1348,1474,1517]" page="221" pageId="10" pageNumber="173" year="1935">
+<author id="53A7DE4BE941FFABFD0087FF914206A2" box="[719,820,1474,1517]" pageId="10" pageNumber="173">Tams</author>
+, 
+<title id="F91EDD98E941FFABFC8287FF966E06A2" box="[845,1048,1474,1517]" pageId="10" pageNumber="173">
+Ins. 
+<collectingCountry id="F30D763EE941FFABFC6D87FF966E06A2" box="[930,1048,1474,1517]" name="Samoa" pageId="10" pageNumber="173">Samoa</collectingCountry>
+</title>
+<part id="FFBE9C33E941FFABFBE887FF964B06A2" box="[1063,1085,1474,1517]" pageId="10" pageNumber="173" type="volume">3</part>
+(
+<part id="FFBE9C33E941FFABFB8387FF961006A2" box="[1100,1126,1474,1517]" pageId="10" pageNumber="173" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE941FFABFB5487FF96A006A2" box="[1179,1238,1474,1517]" pageId="10" pageNumber="173" type="pageRange">221</pagination>
+, 
+<year id="FFB277FDE941FFABFB3E87FF973206A2" box="[1265,1348,1474,1517]" pageId="10" pageNumber="173">1935</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E941FFABFEBF843D9760058F" pageId="10" pageNumber="173" type="description">
+<paragraph id="8BA536AEE941FFABFEBF843D9760058F" blockId="10.[303,1702,1272,1728]" pageId="10" pageNumber="173">
+This species has a wide distribution from Africa to 
+<collectingCountry id="F30D763EE941FFABFAE7843D97F00566" box="[1320,1414,1536,1577]" name="India" pageId="10" pageNumber="173">India</collectingCountry>
+, 
+<collectingCountry id="F30D763EE941FFABFA6F843D946A0566" box="[1440,1564,1536,1577]" name="Myanmar" pageId="10" pageNumber="173">Burma</collectingCountry>
+, 
+<collectingCountry id="F30D763EE941FFABF9F9843D94E80566" box="[1590,1694,1536,1577]" name="China" pageId="10" pageNumber="173">China</collectingCountry>
+, 
+<collectingCountry id="F30D763EE941FFABFEFE840E93AE0514" box="[305,472,1587,1627]" name="Australia" pageId="10" pageNumber="173">Australia</collectingCountry>
+, and 
+<collectingCountry id="F30D763EE941FFABFD9F840E90BE0514" box="[592,712,1587,1627]" name="Samoa" pageId="10" pageNumber="173">Samoa</collectingCountry>
+. Now recorded for the first time from 
+<collectingCountry id="F30D763EE941FFABFA06840E94430514" box="[1481,1589,1587,1627]" name="Guam" pageId="10" pageNumber="173">Guam</collectingCountry>
+. 
+<materialsCitation id="3B723CF3E941FFABF992840E93B205C0" ID-GBIF-Occurrence="3913652325" collectedFrom="at light" collectingDate="1936-09-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="10" pageNumber="173">
+<location id="8EC56075E941FFABF992840E94E90514" LSID="urn:lsid:plazi:treatment:03B387B8E941FFABFEE086C59760058F:8EC56075E941FFABF992840E94E90514" box="[1629,1695,1587,1627]" pageId="10" pageNumber="173">
+<collectingMunicipality id="6BC1ACD4E941FFABF992840E94E90514" box="[1629,1695,1587,1627]" pageId="10" pageNumber="173">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE941FFABFEFA845993B205C0" box="[309,452,1636,1679]" pageId="10" pageNumber="173" value="2012-09">
+<collectingDate id="EFE0E986E941FFABFEFA845993B205C0" box="[309,452,1636,1679]" pageId="10" pageNumber="173" value="2012-09">Sept. 12</collectingDate>
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E941FFABFE148459902405C0" ID-GBIF-Occurrence="3913652456" box="[475,594,1636,1679]" collectedFrom="at light" collectingDate="1936-11-03" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="10" pageNumber="173">
+<date id="FFA4106EE941FFABFE148459902405C0" box="[475,594,1636,1679]" pageId="10" pageNumber="173">
+<collectingDate id="EFE0E986E941FFABFE148459902405C0" box="[475,594,1636,1679]" pageId="10" pageNumber="173">Nov. 3</collectingDate>
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E941FFABFDA88459968805C0" ID-GBIF-Occurrence="3913652340" box="[615,1278,1636,1679]" collectedFrom="at light" collectingDate="1936-11-04" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="10" pageNumber="173" specimenCount="4">
+4, 
+<specimenCount id="9D1CFD27E941FFABFD5D845991ED05C0" box="[658,923,1636,1679]" pageId="10" pageNumber="173" type="generic">four specimens</specimenCount>
+, all at light, 
+<collectorName id="26EF5378E941FFABFBB78459968805C0" box="[1144,1278,1636,1679]" pageId="10" pageNumber="173">Swezey</collectorName>
+</materialsCitation>
+. 
+<materialsCitation id="3B723CF3E941FFABFAD3845993BA058F" ID-GBIF-Occurrence="3978866303" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="10" pageNumber="173" specimenCount="2">
+Two in 
+<collectingCountry id="F30D763EE941FFABFA688459947605C0" box="[1447,1536,1636,1679]" name="United States of America" pageId="10" pageNumber="173">U. S.</collectingCountry>
+<collectingMunicipality id="6BC1ACD4E941FFABF9DF845993BA058F" pageId="10" pageNumber="173">National Museum</collectingMunicipality>
+</materialsCitation>
+<materialsCitation id="3B723CF3E941FFABFE1084A59767058F" ID-GBIF-Occurrence="3978866306" box="[479,1297,1688,1728]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Bishop Museum" pageId="10" pageNumber="173" specimenCount="2">
+and two in 
+<location id="8EC56075E941FFABFD7684A59196058F" LSID="urn:lsid:plazi:treatment:03B387B8E941FFABFEE086C59760058F:8EC56075E941FFABFD7684A59196058F" box="[697,992,1688,1728]" pageId="10" pageNumber="173">Bishop Museum</location>
+, 
+<location id="8EC56075E941FFABFC3484A596D7058F" LSID="urn:lsid:plazi:treatment:03B387B8E941FFABFEE086C59760058F:8EC56075E941FFABFC3484A596D7058F" box="[1019,1185,1688,1728]" pageId="10" pageNumber="173">Fullaway</location>
+, 1911
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

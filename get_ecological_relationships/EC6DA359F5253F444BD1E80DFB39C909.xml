@@ -1,0 +1,96 @@
+<document id="385A4FE448CC6221235C8B430CA37947" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5253F444BD1E80DFB39C909" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Cimex hemipterus ." docType="treatment" docVersion="18" lastPageNumber="52" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="52" updateTime="1671663334733" updateUser="annettekang">
+<mods:mods id="2BAFDB04708EAF83A101D29643F8693F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="63400B54CAEC7D3466BBB4018909E5B0">
+<mods:title id="B705AB50032E61F66DE5DA6DF577C339">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="3DE15515AFAD1B812D97084E743539E9" type="personal">
+<mods:role id="53445F483855919DFBE26B9457437D83">
+<mods:roleTerm id="F85D7B50374B94766AC610AC88B69F38">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="8E815B6E5BFA8C089E1E624177F72AB5">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="419E3780F3DA68CD44FEE7AF732A6EEA">text</mods:typeOfResource>
+<mods:relatedItem id="BAD04F8D7FAB4814F6390058541168F0" type="host">
+<mods:originInfo id="DC779B682707688D2D0E2E5446F1D5DF">
+<mods:dateIssued id="5A69AEF36F703E0A08319F22F9500696">1946</mods:dateIssued>
+<mods:dateOther id="FA137AE05753AD7C3AAF055BAD7FAEB1" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="27AAF9FAD898BC9F535F828C874E0E2E">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="56C10B51E1BB4AEF9CE954ACE570838D">
+<mods:placeTerm id="55E4B1CC0784BBD05D8536EAC24ACA65">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="560BB2068CDBD3FD2B0BE9B4E650E8A9">
+<mods:title id="E8020F75E1586EB15CED22392D231337">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="9B253A3B627B191D633335CF3E0CA058">
+<mods:extent id="3A00D72FFEB21516EE9F31ECDF8E753E" unit="page">
+<mods:start id="DAB3EBEB549FBE1D6375B5B57D2639CD">11</mods:start>
+<mods:end id="1A38E0F90C44CE1E05AFCE388D7B041B">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E2DB3C6A72FB8988AA864AE8468E1B7C">book chapter</mods:classification>
+<mods:identifier id="0F862F6FD66C6CAA80957BE574AFE912" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="16B611C0B5E48E68AD0A1028583E2A22" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="A938ADE7A4BD8EB411A4D5A42591FEBD" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5253F444BD1E80DFB39C909" ID-DOI="http://doi.org/10.5281/zenodo.5186616" ID-GBIF-Taxon="184601220" ID-Zenodo-Dep="5186616" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD1E80DFB39C909" httpUri="http://treatment.plazi.org/id/EC6DA359F5253F444BD1E80DFB39C909" lastPageNumber="52" pageId="41" pageNumber="52">
+<subSubSection id="2CDE41C4F5253F444BD1E80DFBA5C6F8" box="[433,1089,1893,1936]" pageId="41" pageNumber="52" type="nomenclature">
+<paragraph id="647B124FF5253F444BD1E80DFBA5C6F8" blockId="41.[433,1832,1893,2145]" box="[433,1089,1893,1936]" pageId="41" pageNumber="52">
+<heading id="3F33A523F5253F444BD1E80DFBA5C6F8" box="[433,1089,1893,1936]" fontSize="8" level="2" pageId="41" pageNumber="52" reason="4">
+<emphasis id="56B0CE5DF5253F444BD1E80DFE00C6F8" bold="true" box="[433,484,1893,1936]" pageId="41" pageNumber="52">45.</emphasis>
+<taxonomicName id="A3C469CCF5253F444866E80DFBA5C6F8" authority="(Fabricius)" box="[518,1089,1893,1936]" class="Insecta" family="Cimicidae" genus="Cimex" kingdom="Animalia" order="Hemiptera" pageId="41" pageNumber="52" phylum="Arthropoda" rank="species" species="hemipterus">
+<emphasis id="56B0CE5DF5253F444866E80DFCB5C6F8" bold="true" box="[518,849,1893,1936]" pageId="41" pageNumber="52">Cimex hemipterus</emphasis>
+(Fabricius).
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5253F444B91E8F3FA35C6AE" box="[497,1489,1947,1990]" pageId="41" pageNumber="52" type="description">
+<paragraph id="647B124FF5253F444B91E8F3FA35C6AE" blockId="41.[433,1832,1893,2145]" box="[497,1489,1947,1990]" pageId="41" pageNumber="52">
+<treatmentCitationGroup id="44D43561F5253F444B91E8F3FA35C6AE" box="[497,1489,1947,1990]" pageId="41" pageNumber="52">
+<bibCitation id="B1EE1A23F5253F444B91E8F3FA35C6AE" author="Fabricius" box="[497,1489,1947,1990]" journalOrPublisher="Syst. Rhyng" pageId="41" pageNumber="52" pagination="113" refId="ref20960" type="book" year="1803">
+<treatmentCitation id="E565345EF5253F444B91E8F3FA28C6AE" author="Fabricius" box="[497,1484,1947,1990]" page="113" pageId="41" pageNumber="52" year="1803">
+<title id="16C0F979F5253F444B91E8F3FCAAC6AE" box="[497,846,1947,1990]" pageId="41" pageNumber="52">
+<emphasis id="56B0CE5DF5253F444B91E8F3FCAAC6AE" box="[497,846,1947,1990]" italics="true" pageId="41" pageNumber="52">Acanthia hemiptera</emphasis>
+</title>
+<author id="BC79FAAAF5253F44493DE8F3FBE2C6AE" box="[861,1030,1947,1990]" pageId="41" pageNumber="52">Fabricius</author>
+, 
+<journalOrPublisher id="BE051883F5253F444E7EE8F3FAE5C6AE" box="[1054,1281,1947,1990]" pageId="41" pageNumber="52">Syst. Rhyng</journalOrPublisher>
+., 
+<pagination id="5D0DECBBF5253F444F40E8F3FABAC6AE" box="[1312,1374,1947,1990]" pageId="41" pageNumber="52">113</pagination>
+, 
+<year id="106C531CF5253F444F19E8F3FA28C6AE" box="[1401,1484,1947,1990]" pageId="41" pageNumber="52">1803</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5253F444B91E8BAFB39C909" pageId="41" pageNumber="52" type="description">
+<paragraph id="647B124FF5253F444B91E8BAFB39C909" blockId="41.[433,1832,1893,2145]" pageId="41" pageNumber="52">
+<materialsCitation id="D4AC1812F5253F444B91E8BAFB7BC693" ID-GBIF-Occurrence="3994028423" box="[497,1183,2002,2043]" collectingDate="1936-06-29" collectorName="native collector" country="Guam" location="Agana" pageId="41" pageNumber="52">
+Agana, 
+<date id="107A348FF5253F44481DE8BAFC92C693" box="[637,886,2002,2043]" pageId="41" pageNumber="52" value="1936-06-29">
+<collectingDate id="003ECD67F5253F44481DE8BAFC92C693" box="[637,886,2002,2043]" pageId="41" pageNumber="52" value="1936-06-29">June 29, 1936</collectingDate>
+</date>
+, native collector.
+</materialsCitation>
+<location id="611B4494F5253F444EDAE8BAFA85C693" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD1E80DFB39C909:611B4494F5253F444EDAE8BAFA85C693" box="[1210,1377,2002,2043]" country="Vanuatu" county="Hawaiian Islands" municipality="western Pacific." name="Recorded" pageId="41" pageNumber="52">Recorded</location>
+from 
+<collectingCountry id="1CD352DFF5253F444FBAE8BAF93EC693" box="[1498,1754,2002,2043]" name="Vanuatu" pageId="41" pageNumber="52">New Hebrides</collectingCountry>
+and 
+<collectingCountry id="1CD352DFF5253F444BD4E76CFDD6C946" box="[436,562,2052,2094]" name="Samoa" pageId="41" pageNumber="52">Samoa</collectingCountry>
+; probably occurs elsewhere in the 
+<collectingMunicipality id="841F8835F5253F444EC7E76CFA24C946" box="[1191,1472,2052,2094]" pageId="41" pageNumber="52">western Pacific.</collectingMunicipality>
+<taxonomicName id="A3C469CCF5253F444FBFE76CFDF0C909" authority="Linnaeus" authorityName="Linnaeus" class="Insecta" genus="Cimez" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="41" pageNumber="52" phylum="Arthropoda" rank="species" species="lectularius">
+<emphasis id="56B0CE5DF5253F444FBFE76CF92DC946" box="[1503,1737,2052,2094]" italics="true" pageId="41" pageNumber="52">C. lectularius</emphasis>
+Linnaeus
+</taxonomicName>
+is the bed bug of the 
+<collectingCounty id="8D1A6AC3F5253F4449FDE750FB3CC909" box="[925,1240,2104,2145]" pageId="41" pageNumber="52">Hawaiian Islands</collectingCounty>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

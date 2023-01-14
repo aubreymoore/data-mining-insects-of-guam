@@ -1,0 +1,63 @@
+<document id="AA7E36EFB01A4A500A95568A1B685558" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91EFFFFFEBCFC51FD681A13" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Aspidiotus species" docType="treatment" docVersion="11" lastPageNumber="161" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="161" updateTime="1663083075184" updateUser="annettekang">
+<mods:mods id="F9950A41D4223F2295994A4BCB5966A2" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="49F0ABE0080C1777F70495C8D86D4D5D">
+<mods:title id="5B082803CC3F97A47ADE0D82D49D21D8">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="D4F852414910B152B57C378A7459116E" type="personal">
+<mods:role id="83DC26BB36EC4E3A8AE30FF43007313E">
+<mods:roleTerm id="C50928E24B117A7F1BDA8796FB5722AC">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4ADB192076F2BF30F8A30337E0B7A7AF">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="643F5E292AB3529F45851857155B2E53">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C53AA9D1B54F018D119B643B68A02BFD">text</mods:typeOfResource>
+<mods:relatedItem id="660FB497CF5F5968FC9DA0EFC7D5DA5C" type="host">
+<mods:originInfo id="6EC76644578FA90D6C930B54ED9D8913">
+<mods:dateIssued id="4D3C65554A31E2D100A3C47F3A7B4075">1946</mods:dateIssued>
+<mods:dateOther id="03E5D218078E47BEA26E17FA223BE2FD" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="780FE59E0ECD095193AE77A390445449">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="063F47EF6DA0BC201A018D4123186DBD">
+<mods:placeTerm id="EBD5343247128B2EF721F9192577B223">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="254DECA8FE1598E3AFE733FDB9F3C2ED">
+<mods:title id="389E93ACC2B9DFE3C0E192AFC3F092DD">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="03963A1B7B2A3339435B97A0B7583345">
+<mods:extent id="0E42D6D743D4B29B3217974D9E7BE229" unit="page">
+<mods:start id="11B2E6440C5924B7711F32CA53EEB0E5">157</mods:start>
+<mods:end id="5BAAA3F3292E2EC2F86E53472458B42C">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="78182BE00C0D4DCF0557208FCA762F7D">book chapter</mods:classification>
+<mods:identifier id="115B53EEB794CB9E02DCE3DBFDE49769" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="48AEB986ECBCA5DAED75E76E9B5B9743" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="E04B52908301840E52E72ADEC369800B" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91EFFFFFEBCFC51FD681A13" ID-DOI="http://doi.org/10.5281/zenodo.5167594" ID-GBIF-Taxon="183925174" ID-Zenodo-Dep="5167594" LSID="urn:lsid:plazi:treatment:F03E87AAF91EFFFFFEBCFC51FD681A13" httpUri="http://treatment.plazi.org/id/F03E87AAF91EFFFFFEBCFC51FD681A13" lastPageNumber="161" pageId="4" pageNumber="161">
+<subSubSection id="308D6537F91EFFFFFEBCFC51FC2C1DC9" box="[318,1000,975,1015]" pageId="4" pageNumber="161" type="nomenclature">
+<paragraph id="782836BCF91EFFFFFEBCFC51FC2C1DC9" blockId="4.[318,1000,975,1069]" box="[318,1000,975,1015]" pageId="4" pageNumber="161">
+<heading id="236081D0F91EFFFFFEBCFC51FC2C1DC9" box="[318,1000,975,1015]" centered="true" fontSize="8" level="2" pageId="4" pageNumber="161" reason="4">
+<emphasis id="4AE3EAAEF91EFFFFFEBCFC51FEB51DC9" bold="true" box="[318,369,975,1015]" pageId="4" pageNumber="161">46.</emphasis>
+<taxonomicName id="BF974D3FF91EFFFFFE10FC51FD251DC9" box="[402,737,975,1015]" class="Insecta" family="Diaspididae" genus="Aspidiotus" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="161" phylum="Arthropoda" rank="genus">
+<emphasis id="4AE3EAAEF91EFFFFFE10FC51FD901DC9" bold="true" box="[402,596,975,1015]" pageId="4" pageNumber="161">Aspidiotus</emphasis>
+species
+</taxonomicName>
+near 
+<emphasis id="4AE3EAAEF91EFFFFFCD2FC51FC2C1DC9" bold="true" box="[848,1000,975,1015]" pageId="4" pageNumber="161">lataniae.</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91EFFFFFE02FB9BFD681A13" box="[384,684,1029,1069]" pageId="4" pageNumber="161" type="description">
+<paragraph id="782836BCF91EFFFFFE02FB9BFD681A13" blockId="4.[318,1000,975,1069]" box="[384,684,1029,1069]" pageId="4" pageNumber="161">
+<materialsCitation id="C8FF3CE1F91EFFFFFE02FB9BFD631A13" ID-GBIF-Occurrence="3331839309" box="[384,679,1029,1069]" collectedFrom="On rose" collectingDate="1938-1939" collectorName="R. G. Oakley" country="Guam" location="Guam" pageId="4" pageNumber="161">
+<collectingMunicipality id="984CACC6F91EFFFFFE02FB9BFE711A13" box="[384,437,1029,1069]" pageId="4" pageNumber="161">On</collectingMunicipality>
+rose, 
+<collectorName id="D562536AF91EFFFFFDA5FB9BFD631A13" box="[551,679,1029,1069]" pageId="4" pageNumber="161">Oakley</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

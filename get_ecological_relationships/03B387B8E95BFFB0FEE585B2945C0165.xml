@@ -1,0 +1,228 @@
+<document id="9FEDD9A2086A6BF4A07A00472530AD37" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E95BFFB0FEE585B2945C0165" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Marasmia venilialis" docType="treatment" docVersion="23" lastPageNumber="179" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="179" updateTime="1670269774864" updateUser="ExternalLinkService">
+<mods:mods id="8E1D27ED26ECEE28F17DB46B1ACBAA76" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="56330B040784B42F7F9DE0EDAA6144AD">
+<mods:title id="505401071491B182AB2583D126913A72">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="F48C27D973A709A6CFAACA048179DA0A" type="personal">
+<mods:role id="F60792FD5557E2ADDE29252EACF10E40">
+<mods:roleTerm id="4EC63C6B58582CA702B7C8AFD22A871E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="71F38F932EA4F74D7CF7F7B9B54E9392">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="AF4D6D2F413A0088AB0621A4CC0B262D">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="EE580D9E25921FA7E69384F6C823CC78">text</mods:typeOfResource>
+<mods:relatedItem id="4C4B56DB560012673C4BF4BD996015A6" type="host">
+<mods:originInfo id="D3EB1256C48CFA2135DD6725349D0282">
+<mods:dateIssued id="7AC2EE398DFB88B8E733277FBFB69DF4">1946</mods:dateIssued>
+<mods:dateOther id="CB635CE3491276232FA0E1181C8ACA7A" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="28B634A92C5158ACA8313B8F2F6DA65F">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="627569198AA4634108596C91A7B2A5AC">
+<mods:placeTerm id="674F565DF5DADE69E291F6268324A5FF">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="3D64DE6EABCD69C17ACFC401FF9ACDCE">
+<mods:title id="0E080742D19A351520C8FD6C3007FDCB">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="FE0AE01C6650696FE8692CC9F49EF869">
+<mods:extent id="BFDD33A3C4E6EBBAD30FD0CFA80028B0" unit="page">
+<mods:start id="496DF37D037F7BCC7C4806E56D7A1EE9">163</mods:start>
+<mods:end id="DB7E597A7C29F3FA2541C150AED36ECB">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="94D4719B51B516888A23E71302329836">book chapter</mods:classification>
+<mods:identifier id="1F8A1F7CD14EE79544F8CEBA631408A7" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="A35EB8F027EC0B57A1EDC067635F10E4" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="0BC7FED200CC01CAB0F78EDABC09DF9D" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E95BFFB0FEE585B2945C0165" ID-DOI="http://doi.org/10.5281/zenodo.5171318" ID-GBIF-Taxon="183926917" ID-Zenodo-Dep="5171318" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB0FEE585B2945C0165" httpUri="http://treatment.plazi.org/id/03B387B8E95BFFB0FEE585B2945C0165" lastPageId="17" lastPageNumber="179" pageId="16" pageNumber="179">
+<subSubSection id="C3006525E95BFFB1FEE585B291C604F6" box="[298,944,1935,1977]" pageId="16" pageNumber="179" type="nomenclature">
+<paragraph id="8BA536AEE95BFFB1FEE585B291C604F6" blockId="16.[298,1696,1935,2493]" box="[298,944,1935,1977]" pageId="16" pageNumber="179">
+<heading id="D0ED81C2E95BFFB1FEE585B291C604F6" box="[298,944,1935,1977]" fontSize="8" level="2" pageId="16" pageNumber="179" reason="4">
+<emphasis id="B96EEABCE95BFFB1FEE585B2932A04F6" bold="true" box="[298,348,1935,1977]" pageId="16" pageNumber="179">23.</emphasis>
+<taxonomicName id="4C1A4D2DE95BFFB1FEB285B291DC04F6" authority="(Walker)" baseAuthorityName="Walker" box="[381,938,1935,1977]" class="Insecta" family="Crambidae" genus="Marasmia" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="16" pageNumber="179" phylum="Arthropoda" rank="species" species="venilialis">
+<emphasis id="B96EEABCE95BFFB1FEB285B2909004F6" bold="true" box="[381,742,1935,1977]" pageId="16" pageNumber="179">Marasmia venilialis</emphasis>
+(Walker)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95BFFB1FEA685FE96560B1C" pageId="16" pageNumber="179" type="description">
+<paragraph id="8BA536AEE95BFFB1FEA685FE978904A2" blockId="16.[298,1696,1935,2493]" box="[361,1535,1987,2029]" pageId="16" pageNumber="179">
+<treatmentCitationGroup id="AB0A1180E95BFFB1FEA685FE978904A2" box="[361,1535,1987,2029]" pageId="16" pageNumber="179">
+<bibCitation id="5E303EC2E95BFFB1FEA685FE978904A2" author="Walker" box="[361,1535,1987,2029]" pageId="16" pageNumber="179" pagination="373" part="17" refId="ref9075" title="List Lep. Ins. Brit. Mus." type="journal article" year="1859">
+<treatmentCitation id="0ABB10BFE95BFFB1FEA685FE978C04A2" box="[361,1530,1987,2029]" pageId="16" pageNumber="179">
+<emphasis id="B96EEABCE95BFFB1FEA685FE90F904A2" box="[361,655,1987,2029]" italics="true" pageId="16" pageNumber="179">Asopia venilialis</emphasis>
+<author id="53A7DE4BE95BFFB1FD5185FE915304A2" box="[670,805,1987,2029]" pageId="16" pageNumber="179">Walker</author>
+, 
+<title id="F91EDD98E95BFFB1FCF385FE968104A2" box="[828,1271,1987,2029]" pageId="16" pageNumber="179">List Lep. Ins. Brit. Mus.</title>
+<part id="FFBE9C33E95BFFB1FAC685FE974C04A2" box="[1289,1338,1987,2029]" pageId="16" pageNumber="179" type="volume">17</part>
+: 
+<pagination id="B2D3C85AE95BFFB1FA8285FE97F804A2" box="[1357,1422,1987,2029]" pageId="16" pageNumber="179" type="pagination">373</pagination>
+, 
+<year id="FFB277FDE95BFFB1FA6885FE978C04A2" box="[1447,1530,1987,2029]" pageId="16" pageNumber="179">1859</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE95BFFB1FEA785CB96560B1C" blockId="16.[298,1696,1935,2493]" pageId="16" pageNumber="179">
+<treatmentCitationGroup id="AB0A1180E95BFFB1FEA785CB96560B1C" pageId="16" pageNumber="179">
+<bibCitation id="5E303EC2E95BFFB1FEA785CB96560B1C" author="Hampson" pageId="16" pageNumber="179" pagination="276" part="4" refId="ref9094" title="Fauna Brit. India, Moths" type="journal article" year="1896">
+<emphasis id="B96EEABCE95BFFB1FEA785CB90A30B6F" box="[360,725,2038,2080]" italics="true" pageId="16" pageNumber="179">Marasmia venilialis,</emphasis>
+<treatmentCitation id="0ABB10BFE95BFFB1FD2285CB94EE0B6F" box="[749,1688,2038,2080]" pageId="16" pageNumber="179">
+<author id="53A7DE4BE95BFFB1FD2285CB91ED0B6F" box="[749,923,2038,2080]" pageId="16" pageNumber="179">Hampson</author>
+, 
+<title id="F91EDD98E95BFFB1FC7685CB97E10B6F" box="[953,1431,2038,2080]" pageId="16" pageNumber="179">
+Fauna Brit. 
+<collectingCountry id="F30D763EE95BFFB1FB6685CB977E0B6F" box="[1193,1288,2038,2080]" name="India" pageId="16" pageNumber="179">India</collectingCountry>
+, Moths
+</title>
+<part id="FFBE9C33E95BFFB1FA6185CB97BE0B6F" box="[1454,1480,2038,2080]" pageId="16" pageNumber="179" type="volume">4</part>
+: 
+<pagination id="B2D3C85AE95BFFB1FA0185CB94680B6F" box="[1486,1566,2038,2080]" pageId="16" pageNumber="179" type="pagination">276</pagination>
+, 
+<year id="FFB277FDE95BFFB1F98E85CB94EE0B6F" box="[1601,1688,2038,2080]" pageId="16" pageNumber="179">1896</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE95BFFB1FE698A15966D0B1C" author="Tams" box="[422,1051,2088,2131]" page="275" pageId="16" pageNumber="179" year="1935">
+<author id="53A7DE4BE95BFFB1FE698A1590780B1C" box="[422,526,2088,2131]" pageId="16" pageNumber="179">Tams</author>
+, 
+<title id="F91EDD98E95BFFB1FDEA8A1590850B1C" box="[549,755,2088,2131]" pageId="16" pageNumber="179">
+Ins. 
+<collectingCountry id="F30D763EE95BFFB1FDB58A1590850B1C" box="[634,755,2088,2131]" name="Samoa" pageId="16" pageNumber="179">Samoa</collectingCountry>
+</title>
+<part id="FFBE9C33E95BFFB1FCCF8A1591600B1C" box="[768,790,2088,2131]" pageId="16" pageNumber="179" type="volume">3</part>
+(
+<part id="FFBE9C33E95BFFB1FCEA8A1591490B1C" box="[805,831,2088,2131]" pageId="16" pageNumber="179" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE95BFFB1FCBB8A1591C70B1C" box="[884,945,2088,2131]" pageId="16" pageNumber="179" type="pageRange">275</pagination>
+, 
+<year id="FFB277FDE95BFFB1FC068A15966D0B1C" box="[969,1051,2088,2131]" pageId="16" pageNumber="179">1935</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95BFFB1FEA58A6396530A6E" pageId="16" pageNumber="179" type="description">
+<paragraph id="8BA536AEE95BFFB1FEA58A6396530A6E" blockId="16.[298,1696,1935,2493]" pageId="16" pageNumber="179">
+<materialsCitation id="3B723CF3E95BFFB1FEA58A63903B0BC3" ID-GBIF-Occurrence="3913652337" box="[362,589,2142,2188]" collectedFrom="all reared, except a few taken at light" collectingDate="1936-05-02" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="16" pageNumber="179">
+<location id="8EC56075E95BFFB1FEA58A6393DA0BC3" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB0FEE585B2945C0165:8EC56075E95BFFB1FEA58A6393DA0BC3" box="[362,428,2142,2188]" pageId="16" pageNumber="179">
+<collectingMunicipality id="6BC1ACD4E95BFFB1FEA58A6393DA0BC3" box="[362,428,2142,2188]" pageId="16" pageNumber="179">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE95BFFB1FE048A6390300BC3" box="[459,582,2142,2188]" pageId="16" pageNumber="179">
+<collectingDate id="EFE0E986E95BFFB1FE048A6390300BC3" box="[459,582,2142,2188]" pageId="16" pageNumber="179">May 2</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FDAC8A6390F70BC3" ID-GBIF-Occurrence="3913652432" box="[611,641,2142,2188]" collectedFrom="all reared, except a few taken at light" collectingDate="1936-05-08" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="16" pageNumber="179">8,</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FD598A6390BF0BC3" ID-GBIF-Occurrence="3913652324" box="[662,713,2142,2188]" collectedFrom="all reared, except a few taken at light" collectingDate="1936-05-22" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="16" pageNumber="179">22,</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FD2D8A63911A0BC3" ID-GBIF-Occurrence="3913652314" box="[738,876,2142,2188]" collectedFrom="all reared, except a few taken at light" collectingDate="1936-09-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="16" pageNumber="179">
+<date id="FFA4106EE95BFFB1FD2D8A6391150BC3" box="[738,867,2142,2188]" pageId="16" pageNumber="179">
+<collectingDate id="EFE0E986E95BFFB1FD2D8A6391150BC3" box="[738,867,2142,2188]" pageId="16" pageNumber="179">Sept. 1</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FC498A6391CD0BC3" ID-GBIF-Occurrence="3913652351" box="[902,955,2142,2188]" collectedFrom="all reared, except a few taken at light" collectingDate="1936-09-15" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="16" pageNumber="179">15;</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FC1D8A6397670BC3" ID-GBIF-Occurrence="3332081381" box="[978,1297,2142,2188]" collectedFrom="all reared, except a few taken at light" collectingDate="1936-05-07" collectorName="O. H. Swezey" country="Guam" location="Talofofo" pageId="16" pageNumber="179">
+<location id="8EC56075E95BFFB1FC1D8A63961C0BC3" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB0FEE585B2945C0165:8EC56075E95BFFB1FC1D8A63961C0BC3" box="[978,1130,2142,2188]" pageId="16" pageNumber="179">Talofofo</location>
+, 
+<date id="FFA4106EE95BFFB1FB488A63977E0BC3" box="[1159,1288,2142,2188]" pageId="16" pageNumber="179">
+<collectingDate id="EFE0E986E95BFFB1FB488A63977E0BC3" box="[1159,1288,2142,2188]" pageId="16" pageNumber="179">
+May 
+<emphasis id="B96EEABCE95BFFB1FB238A6397670BC3" box="[1260,1297,2142,2188]" italics="true" pageId="16" pageNumber="179">7;</emphasis>
+</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FAE98A6394380BC3" ID-GBIF-Occurrence="3913652516" box="[1318,1614,2142,2188]" collectedFrom="all reared, except a few taken at light" collectingDate="1936-05-15" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="16" pageNumber="179">
+<location id="8EC56075E95BFFB1FAE98A6397EA0BC3" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB0FEE585B2945C0165:8EC56075E95BFFB1FAE98A6397EA0BC3" box="[1318,1436,2142,2188]" pageId="16" pageNumber="179">Agana</location>
+, 
+<date id="FFA4106EE95BFFB1FA768A6394310BC3" box="[1465,1607,2142,2188]" pageId="16" pageNumber="179" value="2015-05">
+<collectingDate id="EFE0E986E95BFFB1FA768A6394310BC3" box="[1465,1607,2142,2188]" pageId="16" pageNumber="179" value="2015-05">May 15</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1F9AC8A6394E80BC3" ID-GBIF-Occurrence="3913652372" box="[1635,1694,2142,2188]" collectedFrom="all reared, except a few taken at light" collectingDate="1936-05-25" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="16" pageNumber="179">25;</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FEE28AAF904E0BF2" ID-GBIF-Occurrence="3332081436" box="[301,568,2194,2237]" collectedFrom="all reared, except a few taken at light" collectingDate="1936-06-22" collectorName="O. H. Swezey" country="Guam" location="Sasa" pageId="16" pageNumber="179">
+<location id="8EC56075E95BFFB1FEE28AAF93090BF2" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB0FEE585B2945C0165:8EC56075E95BFFB1FEE28AAF93090BF2" box="[301,383,2194,2237]" pageId="16" pageNumber="179">Sasa</location>
+, 
+<date id="FFA4106EE95BFFB1FE568AAF90470BF2" box="[409,561,2194,2237]" pageId="16" pageNumber="179" value="1922-06">
+<collectingDate id="EFE0E986E95BFFB1FE568AAF90470BF2" box="[409,561,2194,2237]" pageId="16" pageNumber="179" value="1922-06">June 22</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FD828AAF91BE0BF2" ID-GBIF-Occurrence="3332081427" box="[589,968,2194,2237]" collectedFrom="all reared, except a few taken at light" collectingDate="1936-06-19" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="16" pageNumber="179">
+<location id="8EC56075E95BFFB1FD828AAF91660BF2" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB0FEE585B2945C0165:8EC56075E95BFFB1FD828AAF91660BF2" box="[589,784,2194,2237]" pageId="16" pageNumber="179">Mt. Alifan</location>
+, 
+<date id="FFA4106EE95BFFB1FCE68AAF91B70BF2" box="[809,961,2194,2237]" pageId="16" pageNumber="179" value="2019-06">
+<collectingDate id="EFE0E986E95BFFB1FCE68AAF91B70BF2" box="[809,961,2194,2237]" pageId="16" pageNumber="179" value="2019-06">June 19</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FC138AAF915B0BA0" ID-GBIF-Occurrence="3332081316" collectedFrom="all reared, except a few taken at light" collectingDate="1936-09-07" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="16" pageNumber="179">
+<location id="8EC56075E95BFFB1FC138AAF96120BF2" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB0FEE585B2945C0165:8EC56075E95BFFB1FC138AAF96120BF2" box="[988,1124,2194,2237]" pageId="16" pageNumber="179">
+<collectingMunicipality id="6BC1ACD4E95BFFB1FC138AAF96120BF2" box="[988,1124,2194,2237]" pageId="16" pageNumber="179">Dededo</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE95BFFB1FBB08AAF96890BF2" box="[1151,1279,2194,2237]" pageId="16" pageNumber="179">
+<collectingDate id="EFE0E986E95BFFB1FBB08AAF96890BF2" box="[1151,1279,2194,2237]" pageId="16" pageNumber="179">
+Sept. 
+<emphasis id="B96EEABCE95BFFB1FB268AAF97700BF2" box="[1257,1286,2194,2237]" italics="true" pageId="16" pageNumber="179">7,</emphasis>
+</collectingDate>
+</date>
+all reared by 
+<collectorName id="26EF5378E95BFFB1F9DC8AAF94EE0BF2" box="[1555,1688,2194,2237]" pageId="16" pageNumber="179">Swezey</collectorName>
+, except a few taken at light.
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FC808AFB97B60BA0" ID-GBIF-Occurrence="3986697305" box="[847,1472,2246,2287]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Bishop Museum" pageId="16" pageNumber="179" specimenCount="1">
+One 
+<specimenCount id="9D1CFD27E95BFFB1FC618AFB963D0BA0" box="[942,1099,2246,2287]" pageId="16" pageNumber="179" type="generic">specimen</specimenCount>
+in Bishop Museum
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FA1A8AFB96530A6E" ID-GBIF-Occurrence="3986697302" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="16" pageNumber="179" specimenCount="2">
+and two in 
+<collectingCountry id="F30D763EE95BFFB1FEE48ACA93F80A6E" box="[299,398,2295,2337]" name="United States of America" pageId="16" pageNumber="179">U. S.</collectingCountry>
+<collectingMunicipality id="6BC1ACD4E95BFFB1FE6B8ACA909A0A6E" box="[420,748,2295,2337]" pageId="16" pageNumber="179">National Museum</collectingMunicipality>
+, 
+<location id="8EC56075E95BFFB1FCC88ACA91D80A6E" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB0FEE585B2945C0165:8EC56075E95BFFB1FCC88ACA91D80A6E" box="[775,942,2295,2337]" pageId="16" pageNumber="179">Fullaway</location>
+, 1911.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95BFFB0FEA58B11945C0165" lastPageId="17" lastPageNumber="180" pageId="16" pageNumber="179" type="description">
+<paragraph id="8BA536AEE95BFFB0FEA58B11945C0165" blockId="16.[298,1696,1935,2493]" lastBlockId="17.[429,1827,409,554]" lastPageId="17" lastPageNumber="180" pageId="16" pageNumber="179">
+This is a smaller moth than the preceding and is a leafroller on various grasses. We reared it from 
+<emphasis id="B96EEABCE95BFFB1FCF68B5D943A0AC5" box="[825,1612,2400,2442]" italics="true" pageId="16" pageNumber="179">
+<taxonomicName id="4C1A4D2DE95BFFB1FCF68B5D96EC0AC5" box="[825,1178,2400,2442]" class="Liliopsida" family="Poaceae" genus="Panicum" kingdom="Plantae" order="Poales" pageId="16" pageNumber="179" phylum="Tracheophyta" rank="species" species="barbinode">Panicum barbinode</taxonomicName>
+, 
+<taxonomicName id="4C1A4D2DE95BFFB1FB7C8B5D94300AC5" authorityName="P.J.Bergius" authorityYear="1762" box="[1203,1606,2400,2442]" class="Insecta" family="Pyralidae" genus="Paspalum" kingdom="Animalia" order="Lepidoptera" pageId="16" pageNumber="179" phylum="Arthropoda" rank="species" species="conjugatum">Paspalum conjugatum</taxonomicName>
+,
+</emphasis>
+and 
+<emphasis id="B96EEABCE95BFFB1FEE18BAE90A50AF2" box="[302,723,2451,2493]" italics="true" pageId="16" pageNumber="179">
+<taxonomicName id="4C1A4D2DE95BFFB1FEE18BAE90B80AF2" box="[302,718,2451,2493]" class="Liliopsida" family="Poaceae" genus="Oplismenus" kingdom="Plantae" order="Poales" pageId="16" pageNumber="179" phylum="Tracheophyta" rank="species" species="compositus">Oplismenus compositus</taxonomicName>
+.
+</emphasis>
+This moth also has a wide distribution in the tropics: Africa, Asia, 
+<collectingCountry id="F30D763EE95AFFB0FD7283A49150028A" box="[701,806,409,453]" name="Japan" pageId="17" pageNumber="180">Japan</collectingCountry>
+, Borneo, 
+<collectingCountry id="F30D763EE95AFFB0FC3983A496EA028A" box="[1014,1180,409,453]" name="Australia" pageId="17" pageNumber="180">Australia</collectingCountry>
+, Solomons, 
+<collectingCountry id="F30D763EE95AFFB0FA5783A497AA028A" box="[1432,1500,409,453]" name="Fiji" pageId="17" pageNumber="180">Fiji</collectingCountry>
+, 
+<collectingCountry id="F30D763EE95AFFB0F9C983A4940B028A" box="[1542,1661,409,453]" name="Samoa" pageId="17" pageNumber="180">Samoa</collectingCountry>
+, Society Islands, and Austral Islands, but not in Hawaii. 
+<materialsCitation id="3B723CF3E95AFFB0FABE83F294530165" ID-GBIF-Occurrence="3914039301" collectedFrom="on grass" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="17" pageNumber="180">
+<collectingMunicipality id="6BC1ACD4E95AFFB0FABE83F297D602B8" box="[1393,1440,463,503]" pageId="17" pageNumber="180">Its</collectingMunicipality>
+work on grass was noted in 1911 by 
+<location id="8EC56075E95AFFB0FD32803D91D50165" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB0FEE585B2945C0165:8EC56075E95AFFB0FD32803D91D50165" box="[765,931,512,554]" pageId="17" pageNumber="180">Fullaway</location>
+, but its name was not determined
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

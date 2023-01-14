@@ -1,0 +1,150 @@
+<document id="2B2C2C8F9835AF52B10D779989B43831" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5573F314BCEE993F968C250" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Anisops cleopatra Distant 1914" docType="treatment" docVersion="21" lastPageNumber="103" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="102" updateTime="1671682451356" updateUser="annettekang">
+<mods:mods id="F93A78F9EC3769B4F1D52032C24FCFCC" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="798E6EC429F14C0D3DB285EC01F9F55F">
+<mods:title id="F086C065271DC62F18911B117F0F0454">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="AFF6DD6AF1986FFDE5DBDDF4D407FF25" type="personal">
+<mods:role id="E693D9FDD0E31581E0C8F8BEB54125BB">
+<mods:roleTerm id="09C1B328D3F69C8517FC58E27E7208E2">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2D7C4B41E02912CB10D2ADCEDDECEB12">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="A943C429532C287135CCEC89956D372B">text</mods:typeOfResource>
+<mods:relatedItem id="9C242F30CF3F96165B01AC4CE14395F1" type="host">
+<mods:originInfo id="3D67E4CDB62F72D472876E5397EEB358">
+<mods:dateIssued id="6A6E388C2CCA4A18022629667D8A14FD">1946</mods:dateIssued>
+<mods:dateOther id="8DC2A7C33DCCD5F40AE93FE197A67B4E" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="CE6F140BD8769E7DDA415D38875F2741">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="721B1485F44E6335ABDB964010D1069E">
+<mods:placeTerm id="7F8AEB6218C31FB51A648DB9004D3942">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="FA65373CE4AEB1031CCE4CD58ED199D4">
+<mods:title id="84890A39F6E49D47B4D3F5D340BAF4D8">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="CC2FAB01C65F43D082D674D8FAAA6119">
+<mods:extent id="F1A6E6018DACC7A32A4FD999B223BCD0" unit="page">
+<mods:start id="FA877F896AA35AFFD16D128AB045AB11">11</mods:start>
+<mods:end id="7B8509B338972E810D9858A5D6B18D4D">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="DD511B3178832AEC3DF4B8FAB78FDD02">book chapter</mods:classification>
+<mods:identifier id="042AA668CFE5C8B9AC25CF959B1FF9EC" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="AD15FA70444BCCE3CADFF579BE6AF93B" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="86DBC9E55EC36EA7910DD9B02FF342B4" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5573F314BCEE993F968C250" ID-DOI="http://doi.org/10.5281/zenodo.5216617" ID-GBIF-Taxon="184601100" ID-Zenodo-Dep="5216617" LSID="urn:lsid:plazi:treatment:EC6DA359F5573F314BCEE993F968C250" httpUri="http://treatment.plazi.org/id/EC6DA359F5573F314BCEE993F968C250" lastPageId="92" lastPageNumber="103" pageId="91" pageNumber="102">
+<subSubSection id="2CDE41C4F5573F364BCEE993FC0BC64D" box="[430,1007,1787,1829]" pageId="91" pageNumber="102" type="nomenclature">
+<paragraph id="647B124FF5573F364BCEE993FC0BC64D" blockId="91.[430,1831,1787,2545]" box="[430,1007,1787,1829]" pageId="91" pageNumber="102">
+<heading id="3F33A523F5573F364BCEE993FC0BC64D" box="[430,1007,1787,1829]" centered="true" fontSize="8" level="2" pageId="91" pageNumber="102" reason="4">
+<emphasis id="56B0CE5DF5573F364BCEE993FE04C64D" bold="true" box="[430,480,1787,1829]" pageId="91" pageNumber="102">98.</emphasis>
+<taxonomicName id="A3C469CCF5573F364861E993FC0CC64D" authority="Distant, 1914" authorityName="Distant" authorityYear="1914" box="[513,1000,1787,1829]" class="Insecta" family="Notonectidae" genus="Anisops" kingdom="Animalia" order="Hemiptera" pageId="91" pageNumber="102" phylum="Arthropoda" rank="species" species="cleopatra">
+<emphasis id="56B0CE5DF5573F364861E993FCA8C64D" bold="true" box="[513,844,1787,1829]" pageId="91" pageNumber="102">Anisops cleopatra</emphasis>
+<author id="BC79FAAAF5573F36493EE993FC0CC64D" box="[862,1000,1787,1829]" pageId="91" pageNumber="102">Distant</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5573F364E63E993FC08C631" pageId="91" pageNumber="102" type="reference_group">
+<paragraph id="647B124FF5573F364E63E993FC08C631" blockId="91.[430,1831,1787,2545]" pageId="91" pageNumber="102">
+<treatmentCitationGroup id="44D43561F5573F364E63E993FC08C631" pageId="91" pageNumber="102">
+<bibCitation id="B1EE1A23F5573F364E63E993FC08C631" author="Distant" editor="Sarasin and Roux" journalOrPublisher="Nova Caled., Zool." pageId="91" pageNumber="102" pagination="386" part="1" refId="ref50026" type="journal volume" year="1914">
+<treatmentCitation id="E565345EF5573F364E63E993FC03C631" author="Distant" page="386" pageId="91" pageNumber="102" year="1914">
+<heading id="3F33A523F5573F364E63E993F8C6C64D" box="[1027,1826,1787,1829]" centered="true" fontSize="8" level="2" pageId="91" pageNumber="102" reason="4">
+in 
+<editor id="A258FA4CF5573F364E57E993FA6DC64D" box="[1079,1417,1787,1829]" pageId="91" pageNumber="102">Sarasin and Roux</editor>
+, 
+<journalOrPublisher id="BE051883F5573F364FC3E993F919C64D" box="[1443,1789,1787,1829]" pageId="91" pageNumber="102">Nova Caled., Zool.</journalOrPublisher>
+<emphasis id="56B0CE5DF5573F364D74E993F8C6C64D" bold="true" box="[1812,1826,1787,1829]" pageId="91" pageNumber="102">
+<part id="1060B8D2F5573F364D74E993F8C6C64D" box="[1812,1826,1787,1829]" pageId="91" pageNumber="102">1</part>
+</emphasis>
+</heading>
+(4): 
+<pagination id="5D0DECBBF5573F364827E846FD63C631" box="[583,647,1838,1881]" pageId="91" pageNumber="102">386</pagination>
+, pl. 11, fig. 8, 
+<year id="106C531CF5573F3649F4E846FC03C631" box="[916,999,1838,1881]" pageId="91" pageNumber="102">1914</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5573F364B8DE80AFA87C6E4" box="[493,1379,1890,1932]" pageId="91" pageNumber="102" type="materials_examined">
+<paragraph id="647B124FF5573F364B8DE80AFA87C6E4" blockId="91.[430,1831,1787,2545]" box="[493,1379,1890,1932]" pageId="91" pageNumber="102">
+<materialsCitation id="D4AC1812F5573F364B8DE80AFABAC6E4" ID-GBIF-Occurrence="3994028503" box="[493,1374,1890,1932]" collectingDate="1936-05-16" collectorName="R. L. Usinger" country="Guam" location="Mount Chachao" pageId="91" pageNumber="102" specimenCount="9">
+Nine 
+<specimenCount id="72C2D9C6F5573F364834E80AFCE8C6E4" box="[596,780,1890,1932]" pageId="91" pageNumber="102" type="generic">specimens</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5573F364943E80AFBEBC6E4" box="[803,1039,1890,1932]" pageId="91" pageNumber="102">Mt. Chachao</collectingMunicipality>
+, 
+<date id="107A348FF5573F364E47E80AFB55C6E4" box="[1063,1201,1890,1932]" pageId="91" pageNumber="102" value="2016-05">
+<collectingDate id="003ECD67F5573F364E47E80AFB55C6E4" box="[1063,1201,1890,1932]" pageId="91" pageNumber="102" value="2016-05">May 16</collectingDate>
+</date>
+, 
+<location id="611B4494F5573F364EA8E80AFABAC6E4" LSID="urn:lsid:plazi:treatment:EC6DA359F5573F314BCEE993F968C250:611B4494F5573F364EA8E80AFABAC6E4" box="[1224,1374,1890,1932]" municipality="Mt. Chachao" name="Usinger" pageId="91" pageNumber="102">Usinger</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5573F314B8EE8FCF968C250" lastPageId="92" lastPageNumber="103" pageId="91" pageNumber="102" type="discussion">
+<paragraph id="647B124FF5573F364B8EE8FCFA1EC830" blockId="91.[430,1831,1787,2545]" pageId="91" pageNumber="102">
+These specimens are slightly over 
+<quantity id="A33CBFAAF5573F364E12E8FCFB3EC6D7" box="[1138,1242,1940,1983]" metricMagnitude="-3" metricUnit="m" metricValue="5.0" pageId="91" pageNumber="102" unit="mm" value="5.0">5 mm</quantity>
+. in length and agree in general with Lundblad's description (Arch. Hydrobiol., Suppl. 
+<emphasis id="56B0CE5DF5573F364FFFE8A0FA27C69A" bold="true" box="[1439,1475,1992,2034]" pageId="91" pageNumber="102">12:</emphasis>
+171, 1933). However, the front legs of the male differ in detail from those figured, the tarsi having a few short, stiff spines in a row on inner surface. These are not shown in Lundblad's figures of 
+<emphasis id="56B0CE5DF5573F364908E70AFBACC9E4" box="[872,1096,2146,2188]" italics="true" pageId="91" pageNumber="102">
+<taxonomicName id="A3C469CCF5573F364908E70AFBA7C9E4" authorityName="Distant" authorityYear="1914" box="[872,1091,2146,2188]" class="Insecta" family="Notonectidae" genus="Anisops" kingdom="Animalia" order="Hemiptera" pageId="91" pageNumber="102" phylum="Arthropoda" rank="species" species="cleopatra">A. cleopatra</taxonomicName>
+.
+</emphasis>
+Also the combs at the bases of the front tibiae are nearly at right angles to the outer margins of the tibiae. Fijian specimens before me agree with Lundblad's figures in these respects but have a row of spines on the inner ridge which extends along tibia from the comb. The front femora and tibiae are slightly more robust in the 
+<collectingCountry id="1CD352DFF5573F364F79E646FA66C830" box="[1305,1410,2350,2392]" name="Guam" pageId="91" pageNumber="102">Guam</collectingCountry>
+males.
+</paragraph>
+<paragraph id="647B124FF5573F314B8FE60AFABAC36D" blockId="91.[430,1831,1787,2545]" lastBlockId="92.[281,1680,322,824]" lastPageId="92" lastPageNumber="103" pageId="91" pageNumber="102">
+Differences in detail between Javan, Sumatran, New Caledonian, and Samoan specimens led Lundblad to consider this as a single variable species to be separated later, if the differences appeared to be constant, into several closely related species forming the 
+<emphasis id="56B0CE5DF5503F314979EE2AFB99C004" box="[793,1149,322,364]" italics="true" pageId="92" pageNumber="103">&quot;cleopatra-Gruppe.&quot;</emphasis>
+I am in no position to take such a step at this time but it is noteworthy that the two forms studied here from 
+<collectingCountry id="1CD352DFF5503F314BE6EECFFE2CC0BA" box="[390,456,423,466]" name="Fiji" pageId="92" pageNumber="103">Fiji</collectingCountry>
+and 
+<collectingCountry id="1CD352DFF5503F314850EECFFD7CC0BA" box="[560,664,423,466]" name="Guam" pageId="92" pageNumber="103">Guam</collectingCountry>
+are quite constant within each series and differ in the above mentioned points from other forms thus far described.
+</paragraph>
+<paragraph id="647B124FF5503F314B39ED66F968C250" blockId="92.[281,1680,322,824]" pageId="92" pageNumber="103">
+<taxonomicName id="A3C469CCF5503F314B39ED66FCDDC350" authority="Kirkaldy" authorityName="Kirkaldy" authorityYear="1898" box="[345,825,526,568]" class="Insecta" family="Notonectidae" genus="Anisops" kingdom="Animalia" order="Hemiptera" pageId="92" pageNumber="103" phylum="Arthropoda" rank="species" species="hyperion">
+<emphasis id="56B0CE5DF5503F314B39ED66FD6BC350" box="[345,655,526,568]" italics="true" pageId="92" pageNumber="103">Anisops hyperion</emphasis>
+Kirkaldy
+</taxonomicName>
+was reported from the Marianas Islands (Paris Museum) and from 
+<collectingCountry id="1CD352DFF5503F3148F3ED29FD30C303" box="[659,724,577,619]" name="Fiji" pageId="92" pageNumber="103">Fiji</collectingCountry>
+(Hamburg Museum) by Kirkaldy with some doubt, the 
+<typeStatus id="BB7FACEDF5503F314B3DED1CFE43C3F6" box="[349,423,628,670]" pageId="92" pageNumber="103">type</typeStatus>
+of 
+<taxonomicName id="A3C469CCF5503F314B89ED1CFD67C3F6" authorityName="Kirkaldy" authorityYear="1898" box="[489,643,628,670]" class="Insecta" family="Notonectidae" genus="Anisops" kingdom="Animalia" order="Hemiptera" pageId="92" pageNumber="103" phylum="Arthropoda" rank="species" species="hyperion">
+<emphasis id="56B0CE5DF5503F314B89ED1CFD67C3F6" box="[489,643,628,670]" italics="true" pageId="92" pageNumber="103">hyperion</emphasis>
+</taxonomicName>
+being from 
+<collectingCountry id="1CD352DFF5503F314905ED1CFBE8C3F6" box="[869,1036,628,670]" name="Australia" pageId="92" pageNumber="103">Australia</collectingCountry>
+. 
+<location id="611B4494F5503F314E4DED1CFB65C3F6" LSID="urn:lsid:plazi:treatment:EC6DA359F5573F314BCEE993F968C250:611B4494F5503F314E4DED1CFB65C3F6" box="[1069,1153,628,670]" country="Fiji" county="Furthermore" municipality="South Austr. Mus." name="Hale" pageId="92" pageNumber="103">Hale</location>
+(
+<collectingMunicipality id="841F8835F5503F314EC1ED1CFA12C3F6" box="[1185,1526,628,670]" pageId="92" pageNumber="103">South Austr. Mus.</collectingMunicipality>
+, Rec. 
+<emphasis id="56B0CE5DF5503F314C08ED1CF99EC3F6" bold="true" box="[1640,1658,628,670]" pageId="92" pageNumber="103">2:</emphasis>
+403, 1923) has redescribed 
+<taxonomicName id="A3C469CCF5503F31496EEDC0FC4DC3BA" authorityName="Kirkaldy" authorityYear="1898" box="[782,937,680,722]" class="Insecta" family="Notonectidae" genus="Anisops" kingdom="Animalia" order="Hemiptera" pageId="92" pageNumber="103" phylum="Arthropoda" rank="species" species="hyperion">
+<emphasis id="56B0CE5DF5503F31496EEDC0FC4DC3BA" box="[782,937,680,722]" italics="true" pageId="92" pageNumber="103">hyperion</emphasis>
+</taxonomicName>
+and has shown that the pronotum of the male is nearly as long as broad, thus excluding the present material. 
+<collectingCounty id="8D1A6AC3F5503F314F96EDB3FE91C250" pageId="92" pageNumber="103">Furthermore</collectingCounty>
+, 
+<taxonomicName id="A3C469CCF5503F314BE8EC67FDC7C250" authorityName="Kirkaldy" authorityYear="1898" box="[392,547,783,824]" class="Insecta" family="Notonectidae" genus="Anisops" kingdom="Animalia" order="Hemiptera" pageId="92" pageNumber="103" phylum="Arthropoda" rank="species" species="hyperion">
+<emphasis id="56B0CE5DF5503F314BE8EC67FDC7C250" box="[392,547,783,824]" italics="true" pageId="92" pageNumber="103">hyperion</emphasis>
+</taxonomicName>
+is a larger species, though size is a somewhat variable character.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

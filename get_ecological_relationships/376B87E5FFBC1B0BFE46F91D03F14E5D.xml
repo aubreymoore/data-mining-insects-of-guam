@@ -1,0 +1,181 @@
+<document id="8ABBB4963D80B2E35D30DF0362B2556F" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBC1B0BFE46F91D03F14E5D" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Phloeonomus hebridensis Bernhauer 1934" docType="treatment" docVersion="19" lastPageNumber="152" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="152" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="66E26138A421AB135D5A2199A19CA288" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B03E3D558507B23364C97A4860A6F7A7">
+<mods:title id="BDDE251F65EF160841A2087FF80F1C3B">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="29229397A96EDE70B21AAC218C0A7D8B" type="personal">
+<mods:role id="C09336DBA5C5614FBC2FDB0D9C417331">
+<mods:roleTerm id="3D867F1BD34AA6E679C31E96D623BDCD">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="0F37E3184AD51320F3D1697F377D333C">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="80393A77A8E80F987DBD3060EF4A069B">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="755C9B5D8E8261736009CF8392B3BDDB">text</mods:typeOfResource>
+<mods:relatedItem id="076E9E0764C56D4187E9529E2CA0B1BE" type="host">
+<mods:originInfo id="4376C665BCF5EA825F8023F9666EE870">
+<mods:dateIssued id="6F4F18E8A2756F8FE8C181E288893626">1942</mods:dateIssued>
+<mods:dateOther id="4ABE8D0078ADCDF7B336DA875A17D267" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="E77025088B226E934B37578EF6EBFBEF">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="DC78F0914A16BBDD4F47F4058B6ED856">
+<mods:placeTerm id="CC2F23514A7E30616EAA7089863077DA">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="6DA4B8218426CE37325C5AB63754C90D">
+<mods:title id="8CEFCCDDF5479BEA980A2642060D5334">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="C01000FEC6FB424E34B907595CD1C19B">
+<mods:extent id="E03EA6494A420E03CB1DD7102D0CA538" unit="page">
+<mods:start id="B1C67FF6A98366BEFFF8CC127363554A">150</mods:start>
+<mods:end id="86D92214F6C845A31CE33ADC75DD82E4">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="13EEC021531D5325A060E21E8D89E687">book chapter</mods:classification>
+<mods:identifier id="1E9C5F1347C81C57B02481252D646A3B" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="2A06EC420E4A3E9560E4976180A055C8" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="C64AAFFF705A7FEB2D23355B6A944E07" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBC1B0BFE46F91D03F14E5D" ID-DOI="http://doi.org/10.5281/zenodo.5211595" ID-GBIF-Taxon="184415242" ID-Zenodo-Dep="5211595" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D" httpUri="http://treatment.plazi.org/id/376B87E5FFBC1B0BFE46F91D03F14E5D" lastPageNumber="152" pageId="2" pageNumber="152">
+<subSubSection id="F7D86578FFBC1B0BFE46F91D038540E6" box="[412,1155,1704,1744]" pageId="2" pageNumber="152" type="nomenclature">
+<paragraph id="BF7D36F3FFBC1B0BFE46F91D038540E6" blockId="2.[408,1804,1704,2155]" box="[412,1155,1704,1744]" pageId="2" pageNumber="152">
+<heading id="E435819FFFBC1B0BFE46F91D038540E6" box="[412,1155,1704,1744]" fontSize="11" level="2" pageId="2" pageNumber="152" reason="2">
+<emphasis id="8DB6EAE1FFBC1B0BFE46F91D06BE40E6" bold="true" box="[412,440,1704,1744]" pageId="2" pageNumber="152">3.</emphasis>
+<taxonomicName id="78C24D70FFBC1B0BFE00F91D037A40E6" authority="Bernhauer" authorityName="Bernhauer" authorityYear="1934" box="[474,1148,1704,1744]" class="Insecta" family="Staphylinidae" genus="Phloeonomus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="152" phylum="Arthropoda" rank="species" species="hebridensis">
+<emphasis id="8DB6EAE1FFBC1B0BFE00F91D04AC40E6" bold="true" box="[474,938,1704,1744]" pageId="2" pageNumber="152">Phloeonomus hebridensis</emphasis>
+Bernhauer
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFB4FF91D02FF40E6" box="[1173,1529,1704,1744]" pageId="2" pageNumber="152" type="reference_group">
+<paragraph id="BF7D36F3FFBC1B0BFB4FF91D02FF40E6" blockId="2.[408,1804,1704,2155]" box="[1173,1529,1704,1744]" pageId="2" pageNumber="152">
+<heading id="E435819FFFBC1B0BFB4FF91D02FF40E6" box="[1173,1529,1704,1744]" fontSize="11" level="2" pageId="2" pageNumber="152" reason="2">
+<treatmentCitation id="3E6310E2FFBC1B0BFB4FF91D02FF40E6" author="Bernhauer" box="[1173,1529,1704,1744]" page="18" pageId="2" pageNumber="152" year="1934">
+<bibCitation id="6AE83E9FFFBC1B0BFB4FF91D02FF40E6" author="Bernhauer" box="[1173,1529,1704,1744]" journalOrPublisher="Stylops" pageId="2" pageNumber="152" pagination="18" part="3" refId="ref1214" type="journal article" year="1934">
+<treatmentCitationGroup id="9FD211DDFFBC1B0BFB4FF91D02F240E6" box="[1173,1524,1704,1744]" pageId="2" pageNumber="152">
+<journalOrPublisher id="65033C3FFFBC1B0BFB4FF91D021C40E6" box="[1173,1306,1704,1744]" pageId="2" pageNumber="152">
+<author id="677FDE16FFBC1B0BFB4FF91D021C40E6" box="[1173,1306,1704,1744]" fns="*" inm="true" npo="*" pageId="2" pageNumber="152">Stylops</author>
+</journalOrPublisher>
+<emphasis id="8DB6EAE1FFBC1B0BFAF1F91D023B40E6" bold="true" box="[1323,1341,1704,1744]" pageId="2" pageNumber="152">
+<part id="CB669C6EFFBC1B0BFAF1F91D023B40E6" box="[1323,1341,1704,1744]" pageId="2" pageNumber="152" type="volume">3</part>
+</emphasis>
+: 
+<pagination id="860BC807FFBC1B0BFABFF91D028140E6" box="[1381,1415,1704,1744]" pageId="2" pageNumber="152" type="pagination">18</pagination>
+, 
+<year id="CB6A77A0FFBC1B0BFA78F91D02F240E6" box="[1442,1524,1704,1744]" pageId="2" pageNumber="152">1934</year>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</treatmentCitation>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFE03F96F04C44E30" pageId="2" pageNumber="152" type="materials_examined">
+<paragraph id="BF7D36F3FFBC1B0BFE03F96F04C44E30" blockId="2.[408,1804,1704,2155]" pageId="2" pageNumber="152">
+<materialsCitation id="0FAA3CAEFFBC1B0BFE03F96F03EB4133" ID-GBIF-Occurrence="3334692344" box="[473,1261,1754,1797]" collectedFrom="ex fig on ground" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="2" pageNumber="152">
+<location id="BA1D6028FFBC1B0BFE03F96F05824133" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BFE03F96F05824133" box="[473,644,1754,1797]" county="Swezey" municipality="Asan" name="Upi Trail" pageId="2" pageNumber="152">Upi Trail</location>
+, 
+<date id="CB7C1033FFBC1B0BFD40F96F040D4133" box="[666,779,1754,1797]" pageId="2" pageNumber="152">
+<location id="BA1D6028FFBC1B0BFD40F96F05EF4133" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BFD40F96F05EF4133" box="[666,745,1754,1797]" county="Swezey" municipality="Asan" name="May" pageId="2" pageNumber="152">May</location>
+5
+</date>
+, ex fig on ground, 
+<location id="BA1D6028FFBC1B0BFB80F96F03E04133" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BFB80F96F03E04133" box="[1114,1254,1754,1797]" county="Swezey" municipality="Asan" name="Swezey" pageId="2" pageNumber="152">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBC1B0BFB24F96F000A4133" ID-GBIF-Occurrence="3994027392" box="[1278,1804,1754,1797]" collectingDate="1936-05-19" collectorName="O. H. Swezey" country="Guam" location="Santa Rosa Peak" pageId="2" pageNumber="152">
+<location id="BA1D6028FFBC1B0BFB24F96F02C14133" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BFB24F96F02C14133" box="[1278,1479,1754,1797]" county="Swezey" municipality="Asan" name="Santa Rosa" pageId="2" pageNumber="152">Santa Rosa</location>
+, 
+<date id="CB7C1033FFBC1B0BFA07F96F01624133" box="[1501,1636,1754,1797]" pageId="2" pageNumber="152" value="2019-05">
+<location id="BA1D6028FFBC1B0BFA07F96F012D4133" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BFA07F96F012D4133" box="[1501,1579,1754,1797]" county="Swezey" municipality="Asan" name="May" pageId="2" pageNumber="152">May</location>
+19
+</date>
+, 
+<location id="BA1D6028FFBC1B0BF9A0F96F00034133" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BF9A0F96F00034133" box="[1658,1797,1754,1797]" county="Swezey" municipality="Asan" name="Swezey" pageId="2" pageNumber="152">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBC1B0BFE46F8B803F3410E" ID-GBIF-Occurrence="3994027485" box="[412,1269,1805,1848]" collectedFrom="ex rotten breadfruit on ground" collectingDate="1936-05-22" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="152">
+<location id="BA1D6028FFBC1B0BFE46F8B806D8410E" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BFE46F8B806D8410E" box="[412,478,1805,1848]" county="Swezey" municipality="Asan" name="Piti" pageId="2" pageNumber="152">Piti</location>
+, 
+<date id="CB7C1033FFBC1B0BFE26F8B8058D410E" box="[508,651,1805,1848]" pageId="2" pageNumber="152" value="1922-05">
+<location id="BA1D6028FFBC1B0BFE26F8B8054C410E" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BFE26F8B8054C410E" box="[508,586,1805,1848]" county="Swezey" municipality="Asan" name="May" pageId="2" pageNumber="152">May</location>
+22
+</date>
+, ex rotten breadfruit on ground;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBC1B0BFAD6F8B80536415A" ID-GBIF-Occurrence="3334692325" collectedFrom="ex rotten bean pod" collectingDate="1936-11-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="152">
+<date id="CB7C1033FFBC1B0BFAD6F8B8028A410E" box="[1292,1420,1805,1848]" pageId="2" pageNumber="152">
+Nov. 
+<emphasis id="8DB6EAE1FFBC1B0BFAADF8B80295410E" box="[1399,1427,1805,1848]" italics="true" pageId="2" pageNumber="152">7,</emphasis>
+</date>
+ex rotten bean pod, 
+<location id="BA1D6028FFBC1B0BFE46F8F7052F415A" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BFE46F8F7052F415A" box="[412,553,1858,1900]" county="Swezey" municipality="Asan" name="Swezey" pageId="2" pageNumber="152">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBC1B0BFD92F8F7017E415A" ID-GBIF-Occurrence="3994027474" box="[584,1656,1858,1900]" collectedFrom="in trash under banyan tree" collectingDate="1936-06-14" collectorName="R. L. Usinger" country="Guam" location="Barrigada" pageId="2" pageNumber="152">
+<location id="BA1D6028FFBC1B0BFD92F8F705FD415A" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BFD92F8F705FD415A" box="[584,763,1858,1900]" county="Swezey" municipality="Asan" name="Barrigada" pageId="2" pageNumber="152">Barrigada</location>
+, 
+<date id="CB7C1033FFBC1B0BFCC2F8F704AB415A" box="[792,941,1858,1900]" pageId="2" pageNumber="152" value="2014-06">
+<location id="BA1D6028FFBC1B0BFCC2F8F7046D415A" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BFCC2F8F7046D415A" box="[792,875,1858,1900]" county="Swezey" municipality="Asan" name="June" pageId="2" pageNumber="152">June</location>
+14
+</date>
+, in trash under banyan tree, 
+<location id="BA1D6028FFBC1B0BFA3AF8F70177415A" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BFA3AF8F70177415A" box="[1504,1649,1858,1900]" county="Swezey" municipality="Asan" name="Usinger" pageId="2" pageNumber="152">Usinger</location>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBC1B0BF957F8F7053641A8" ID-GBIF-Occurrence="3994027539" collectingDate="1936-07-06" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="2" pageNumber="152">
+<date id="CB7C1033FFBC1B0BF957F8F70003415A" box="[1677,1797,1858,1900]" pageId="2" pageNumber="152">
+<location id="BA1D6028FFBC1B0BF957F8F701DC415A" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BF957F8F701DC415A" box="[1677,1754,1858,1900]" county="Swezey" municipality="Asan" name="July" pageId="2" pageNumber="152">July</location>
+6
+</date>
+, 
+<location id="BA1D6028FFBC1B0BFE44F8C0052F41A8" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BFE44F8C0052F41A8" box="[414,553,1909,1950]" county="Swezey" municipality="Asan" name="Swezey" pageId="2" pageNumber="152">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBC1B0BFD98F8C0016941A8" ID-GBIF-Occurrence="3334692596" box="[578,1647,1909,1950]" collectedFrom="in Pandanus fruit on ground" collectingDate="1936-06-27" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="2" pageNumber="152">
+<location id="BA1D6028FFBC1B0BFD98F8C0040341A8" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BFD98F8C0040341A8" box="[578,773,1909,1950]" county="Swezey" municipality="Asan" name="Mt. Alifan" pageId="2" pageNumber="152">Mt. Alifan</location>
+, 
+<date id="CB7C1033FFBC1B0BFCC1F8C004AE41A8" box="[795,936,1909,1950]" pageId="2" pageNumber="152" value="1927-06">
+<location id="BA1D6028FFBC1B0BFCC1F8C0046841A8" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BFCC1F8C0046841A8" box="[795,878,1909,1950]" county="Swezey" municipality="Asan" name="June" pageId="2" pageNumber="152">June</location>
+<emphasis id="8DB6EAE1FFBC1B0BFCA7F8C004A941A8" box="[893,943,1909,1950]" italics="true" pageId="2" pageNumber="152">27,</emphasis>
+</date>
+in 
+<taxonomicName id="78C24D70FFBC1B0BFC37F8C0039B41A8" authorityName=", Swezey" box="[1005,1181,1909,1950]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="2" pageNumber="152" phylum="Tracheophyta" rank="genus">
+<emphasis id="8DB6EAE1FFBC1B0BFC37F8C0039B41A8" box="[1005,1181,1909,1950]" italics="true" pageId="2" pageNumber="152">Pandanus</emphasis>
+</taxonomicName>
+fruit on ground, 
+<location id="BA1D6028FFBC1B0BFA01F8C0016E41A8" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BFA01F8C0016E41A8" box="[1499,1640,1909,1950]" county="Swezey" municipality="Asan" name="Swezey" pageId="2" pageNumber="152">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBC1B0BF9A5F8C0031841E4" ID-GBIF-Occurrence="3334692471" collectedFrom="on wild papaya" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="2" pageNumber="152">
+<location id="BA1D6028FFBC1B0BF9A5F8C0000041A8" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BF9A5F8C0000041A8" box="[1663,1798,1909,1950]" county="Swezey" municipality="Asan" name="Dededo" pageId="2" pageNumber="152">Dededo</location>
+, 
+<date id="CB7C1033FFBC1B0BFE41F81D053741E4" box="[411,561,1960,2002]" pageId="2" pageNumber="152" value="2011-08">Aug. 11</date>
+, on wild papaya, 
+<location id="BA1D6028FFBC1B0BFC51F81D031141E4" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE46F91D03F14E5D:BA1D6028FFBC1B0BFC51F81D031141E4" box="[907,1047,1960,2002]" county="Swezey" municipality="Asan" name="Swezey" pageId="2" pageNumber="152">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBC1B0BFBEFF81D04BB4E30" ID-GBIF-Occurrence="3334692554" collectedFrom="in rotten breadfruit on ground" collectingDate="1936-08-22" collectorName="O. H. Swezey" country="Guam" location="Asan" pageId="2" pageNumber="152" specimenCount="33">
+<collectingMunicipality id="5F19AC89FFBC1B0BFBEFF81D039541E4" box="[1077,1171,1960,2002]" pageId="2" pageNumber="152">Asan</collectingMunicipality>
+, 
+<date id="CB7C1033FFBC1B0BFB6BF81D024E41E4" box="[1201,1352,1960,2002]" pageId="2" pageNumber="152" value="1922-08">Aug. 22</date>
+, in rotten breadfruit on ground, 
+<collectingCounty id="561C4E7FFFBC1B0BFDF5F86905BA4E30" box="[559,700,2012,2054]" pageId="2" pageNumber="152">Swezey</collectingCounty>
+; 
+<specimenCount id="A9C4FD7AFFBC1B0BFD09F86904BB4E30" box="[723,957,2012,2054]" pageId="2" pageNumber="152" type="generic">33 specimens</specimenCount>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFE03F7BA03F14E5D" pageId="2" pageNumber="152" type="discussion">
+<paragraph id="BF7D36F3FFBC1B0BFE03F7BA03F14E5D" blockId="2.[408,1804,1704,2155]" pageId="2" pageNumber="152">
+Described from 
+<collectingCountry id="C7D57663FFBC1B0BFCD7F7BA031F4E0F" box="[781,1049,2063,2105]" name="Vanuatu" pageId="2" pageNumber="152">New Hebrides</collectingCountry>
+. Commonly found in 
+<collectingCountry id="C7D57663FFBC1B0BFA11F7BA01344E0F" box="[1483,1586,2063,2105]" name="Guam" pageId="2" pageNumber="152">Guam</collectingCountry>
+preying on scavenger insects in rotten fruits on the ground.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

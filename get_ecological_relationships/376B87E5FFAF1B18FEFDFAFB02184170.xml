@@ -1,0 +1,245 @@
+<document id="9F433A1A53D29724994554864EC6E1E4" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFAF1B18FEFDFAFB02184170" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Figulus integricollis Thomson 1862" docType="treatment" docVersion="19" lastPageNumber="167" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="167" updateTime="1671385820913" updateUser="annettekang">
+<mods:mods id="DE28EEDEEF93C140DA2BB69EB0170AEA" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="44BC70597584F5539A802DA76184A8C8">
+<mods:title id="CE592C98D2902A84463E9AC26217B684">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="CC70E4604011921728775386BC354FD1" type="personal">
+<mods:role id="280B521C9A32CD43747E7C0EF7C67ED5">
+<mods:roleTerm id="400402E7D5F8F5669D2172DA8A03AF82">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D45047788319F3EACE8995DC80589081">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="58F75FE1DA1F4655AD6A79563BD57CC7">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="FDA8AA58B3809264549C624E7307044A">text</mods:typeOfResource>
+<mods:relatedItem id="B0FFAA89E8A15D25E85177D2D84DCD77" type="host">
+<mods:originInfo id="68EB34300BF1CF67FC68A740B302D463">
+<mods:dateIssued id="03C9E0EA199CB10779AFA94D71F8FFC7">1942</mods:dateIssued>
+<mods:dateOther id="28223E7BBE72ABE6A401EE94BE301F4A" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="A323D00D1708768B61967BC3DCD0A9B6">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="E83C120D553BBDC4E9F7E6D43FAAFD03">
+<mods:placeTerm id="7E7F2DB68E8983CB9160B7D4FBF87567">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5AA7EE7611F132B67B9569227EFD6BD1">
+<mods:title id="5EE3D8AD084FCF479F5D243F40C50F76">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="7BD1F67FCE629058AA3D217E65331964">
+<mods:extent id="383B0CAB6BF49E770220423A34068C3A" unit="page">
+<mods:start id="B78B6EB6C7CAE67958F11665109C0D77">150</mods:start>
+<mods:end id="B10B96C9BC61B90C047CFF8E228CE902">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="2C51FB12FD93689792F78CB9305E7AE2">book chapter</mods:classification>
+<mods:identifier id="418B5793D3B135EBE3197B9746008E3E" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="8E73C8A50CA4A3945CA4050CA0C53C23" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="8B249FA12824B6D6C4B53C0B02F6F7A4" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFAF1B18FEFDFAFB02184170" ID-DOI="http://doi.org/10.5281/zenodo.5211646" ID-GBIF-Taxon="184415370" ID-Zenodo-Dep="5211646" LSID="urn:lsid:plazi:treatment:376B87E5FFAF1B18FEFDFAFB02184170" httpUri="http://treatment.plazi.org/id/376B87E5FFAF1B18FEFDFAFB02184170" lastPageNumber="167" pageId="17" pageNumber="167">
+<subSubSection id="F7D86578FFAF1B18FEFDFAFB049F434F" box="[295,921,1358,1401]" pageId="17" pageNumber="167" type="nomenclature">
+<paragraph id="BF7D36F3FFAF1B18FEFDFAFB049F434F" blockId="17.[291,1689,1358,1862]" box="[295,921,1358,1401]" pageId="17" pageNumber="167">
+<heading id="E435819FFFAF1B18FEFDFAFB049F434F" box="[295,921,1358,1401]" centered="true" fontSize="8" level="2" pageId="17" pageNumber="167" reason="3">
+1. 
+<taxonomicName id="78C24D70FFAF1B18FEB8FAFB0494434F" authority="Thomson" authorityName="Thomson" authorityYear="1862" box="[354,914,1358,1401]" class="Insecta" family="Lucanidae" genus="Figulus" kingdom="Animalia" order="Coleoptera" pageId="17" pageNumber="167" phylum="Arthropoda" rank="species" species="integricollis">
+<emphasis id="8DB6EAE1FFAF1B18FEB8FAFB05D0434F" bold="true" box="[354,726,1358,1401]" pageId="17" pageNumber="167">Figulus integricollis</emphasis>
+Thomson
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAF1B18FC70FAFB0195434F" box="[938,1683,1358,1401]" pageId="17" pageNumber="167" type="reference_group">
+<paragraph id="BF7D36F3FFAF1B18FC70FAFB0195434F" blockId="17.[291,1689,1358,1862]" box="[938,1683,1358,1401]" pageId="17" pageNumber="167">
+<heading id="E435819FFFAF1B18FC70FAFB0195434F" box="[938,1683,1358,1401]" centered="true" fontSize="8" level="2" pageId="17" pageNumber="167" reason="3">
+<bibCitation id="6AE83E9FFFAF1B18FC70FAFB0195434F" author="Thomson" box="[938,1683,1358,1401]" journalOrPublisher="Ent. Soc. France, Ann." pageId="17" pageNumber="167" pagination="431" part="2" refId="ref9015" type="journal article" year="1862">
+<treatmentCitationGroup id="9FD211DDFFAF1B18FC70FAFB0188434F" box="[938,1678,1358,1401]" pageId="17" pageNumber="167">
+<treatmentCitation id="3E6310E2FFAF1B18FC70FAFB0188434F" author="Thomson" box="[938,1678,1358,1401]" page="431" pageId="17" pageNumber="167" year="1862">
+<journalOrPublisher id="65033C3FFFAF1B18FC70FAFB0257434F" box="[938,1361,1358,1401]" pageId="17" pageNumber="167">
+<title id="CDC6DDC5FFAF1B18FC70FAFB04F6434F" box="[938,1008,1358,1401]" pageId="17" pageNumber="167">Ent</title>
+. 
+<journalOrPublisher id="65033C3FFFAF1B18FBD0FAFB0357434F" box="[1034,1105,1358,1401]" pageId="17" pageNumber="167">Soc.</journalOrPublisher>
+<author id="677FDE16FFAF1B18FBBFFAFB024A434F" box="[1125,1356,1358,1401]" case="TC" fn="Ann" fnc="TC" fns="N" ln="France" lnc="TC" npo="LnFn" pageId="17" pageNumber="167">
+<collectingCountry id="C7D57663FFAF1B18FBBFFAFB03E2434F" box="[1125,1252,1358,1401]" name="France" pageId="17" pageNumber="167">France</collectingCountry>
+, Ann
+</author>
+.
+</journalOrPublisher>
+IV, 
+<emphasis id="8DB6EAE1FFAF1B18FA6AFAFB02C4434F" bold="true" box="[1456,1474,1358,1401]" pageId="17" pageNumber="167">
+<part id="CB669C6EFFAF1B18FA6AFAFB02B8434F" box="[1456,1470,1358,1401]" pageId="17" pageNumber="167" type="volume">2</part>
+:
+</emphasis>
+<pagination id="860BC807FFAF1B18FA3BFAFB0127434F" box="[1505,1569,1358,1401]" pageId="17" pageNumber="167" type="pagination">431</pagination>
+, 
+<year id="CB6A77A0FFAF1B18F9E7FAFB0188434F" box="[1597,1678,1358,1401]" pageId="17" pageNumber="167">1862</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAF1B18FEBEFA36013240D6" pageId="17" pageNumber="167" type="materials_examined">
+<paragraph id="BF7D36F3FFAF1B18FEBEFA36013240D6" blockId="17.[291,1689,1358,1862]" pageId="17" pageNumber="167">
+<materialsCitation id="0FAA3CAEFFAF1B18FEBEFA36037D4398" ID-GBIF-Occurrence="3334692517" box="[356,1147,1411,1454]" collectedFrom="in Areca palm" collectingDate="1936-05-03" collectorName="O. H. Swezey" country="Guam" location="Mount Tenjo" pageId="17" pageNumber="167">
+<collectingMunicipality id="5F19AC89FFAF1B18FEBEFA3605264398" box="[356,544,1411,1454]" pageId="17" pageNumber="167">Mt. Tenjo</collectingMunicipality>
+, 
+<date id="CB7C1033FFAF1B18FDE1FA3605B74398" box="[571,689,1411,1454]" pageId="17" pageNumber="167">
+<collectingDate id="DB38E9DBFFAF1B18FDE1FA3605B74398" box="[571,689,1411,1454]" pageId="17" pageNumber="167">May 3</collectingDate>
+</date>
+, in 
+<taxonomicName id="78C24D70FFAF1B18FD26FA3604604398" authorityName="Carl von Linnaeus" authorityYear="1753" box="[764,870,1411,1454]" class="Liliopsida" family="Arecaceae" genus="Areca" kingdom="Plantae" order="Arecales" pageId="17" pageNumber="167" phylum="Tracheophyta" rank="genus">
+<emphasis id="8DB6EAE1FFAF1B18FD26FA3604604398" box="[764,870,1411,1454]" italics="true" pageId="17" pageNumber="167">
+<location id="BA1D6028FFAF1B18FD26FA3604604398" LSID="urn:lsid:plazi:treatment:376B87E5FFAF1B18FEFDFAFB02184170:BA1D6028FFAF1B18FD26FA3604604398" box="[764,870,1411,1454]" municipality="Mt. Tenjo" name="Areca" pageId="17" pageNumber="167">Areca</location>
+</emphasis>
+</taxonomicName>
+palm, 
+<collectorName id="12375325FFAF1B18FC33FA3603724398" box="[1001,1140,1411,1454]" pageId="17" pageNumber="167">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAF1B18FB54FA3606BF43D7" ID-GBIF-Occurrence="3334692448" collectedFrom="in Pandanus" collectingDate="1936-05-04" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="17" pageNumber="167">
+<collectingMunicipality id="5F19AC89FFAF1B18FB54FA3602024398" box="[1166,1284,1411,1454]" pageId="17" pageNumber="167">Agana</collectingMunicipality>
+, 
+<date id="CB7C1033FFAF1B18FAC7FA3602944398" box="[1309,1426,1411,1454]" pageId="17" pageNumber="167">
+<collectingDate id="DB38E9DBFFAF1B18FAC7FA3602944398" box="[1309,1426,1411,1454]" pageId="17" pageNumber="167">May 4</collectingDate>
+</date>
+, in 
+<taxonomicName id="78C24D70FFAF1B18FA06FA3606B443D7" authority=", Swezey" authorityName=", Swezey" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="17" pageNumber="167" phylum="Tracheophyta" rank="genus">
+<emphasis id="8DB6EAE1FFAF1B18FA06FA3601924398" box="[1500,1684,1411,1454]" italics="true" pageId="17" pageNumber="167">
+<location id="BA1D6028FFAF1B18FA06FA36018B4398" LSID="urn:lsid:plazi:treatment:376B87E5FFAF1B18FEFDFAFB02184170:BA1D6028FFAF1B18FA06FA36018B4398" box="[1500,1677,1411,1454]" municipality="Agana" name="Pandanus" pageId="17" pageNumber="167">Pandanus</location>
+,
+</emphasis>
+<collectorName id="12375325FFAF1B18FEFFFA0206B443D7" box="[293,434,1463,1505]" pageId="17" pageNumber="167">Swezey</collectorName>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAF1B18FE0AFA0203C643D7" ID-GBIF-Occurrence="3334692337" box="[464,1216,1463,1505]" collectedFrom="in Pandanus" collectingDate="1936-05-11" collectorName="R. L. Usinger" country="Guam" location="Dededo" pageId="17" pageNumber="167">
+<location id="BA1D6028FFAF1B18FE0AFA02055E43D7" LSID="urn:lsid:plazi:treatment:376B87E5FFAF1B18FEFDFAFB02184170:BA1D6028FFAF1B18FE0AFA02055E43D7" box="[464,600,1463,1505]" name="Dededo" pageId="17" pageNumber="167">Dededo</location>
+, 
+<date id="CB7C1033FFAF1B18FDAFFA02040243D7" box="[629,772,1463,1505]" pageId="17" pageNumber="167" value="2011-05">
+<collectingDate id="DB38E9DBFFAF1B18FDAFFA02040243D7" box="[629,772,1463,1505]" pageId="17" pageNumber="167" value="2011-05">May 11</collectingDate>
+</date>
+, in 
+<taxonomicName id="78C24D70FFAF1B18FC8FFA02030A43D7" authority="," authorityName=", Swezey" box="[853,1036,1463,1505]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="17" pageNumber="167" phylum="Tracheophyta" rank="genus">
+<emphasis id="8DB6EAE1FFAF1B18FC8FFA02030A43D7" box="[853,1036,1463,1505]" italics="true" pageId="17" pageNumber="167">
+<location id="BA1D6028FFAF1B18FC8FFA02030343D7" LSID="urn:lsid:plazi:treatment:376B87E5FFAF1B18FEFDFAFB02184170:BA1D6028FFAF1B18FC8FFA02030343D7" box="[853,1029,1463,1505]" name="Pandanus" pageId="17" pageNumber="167">Pandanus</location>
+,
+</emphasis>
+</taxonomicName>
+<collectorName id="12375325FFAF1B18FBF8FA0203BF43D7" box="[1058,1209,1463,1505]" pageId="17" pageNumber="167">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAF1B18FB0CFA02051B4025" ID-GBIF-Occurrence="3334692574" collectedFrom="in sugar cane" collectingDate="1936-05-12" collectorName="O. H. Swezey" country="Guam" location="Yona" pageId="17" pageNumber="167">
+<location id="BA1D6028FFAF1B18FB0CFA02023E43D7" LSID="urn:lsid:plazi:treatment:376B87E5FFAF1B18FEFDFAFB02184170:BA1D6028FFAF1B18FB0CFA02023E43D7" box="[1238,1336,1463,1505]" name="Yona" pageId="17" pageNumber="167">Yona</location>
+, 
+<date id="CB7C1033FFAF1B18FA8EFA0202E543D7" box="[1364,1507,1463,1505]" pageId="17" pageNumber="167" value="2012-05">
+<collectingDate id="DB38E9DBFFAF1B18FA8EFA0202E543D7" box="[1364,1507,1463,1505]" pageId="17" pageNumber="167" value="2012-05">May 12</collectingDate>
+</date>
+, in sugar cane, 
+<collectorName id="12375325FFAF1B18FE50FA5E05104025" box="[394,534,1515,1555]" pageId="17" pageNumber="167">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAF1B18FDF4FA5E03394025" ID-GBIF-Occurrence="3334692411" box="[558,1087,1515,1555]" collectingDate="1936-05-26" collectorName="R. L. Usinger" country="Guam" location="Mount Alifan" pageId="17" pageNumber="167">
+<location id="BA1D6028FFAF1B18FDF4FA5E05E84025" LSID="urn:lsid:plazi:treatment:376B87E5FFAF1B18FEFDFAFB02184170:BA1D6028FFAF1B18FDF4FA5E05E84025" box="[558,750,1515,1555]" name="Mt. Alifan" pageId="17" pageNumber="167">Mt. Alifan</location>
+, 
+<date id="CB7C1033FFAF1B18FCDFFA5E048B4025" box="[773,909,1515,1555]" pageId="17" pageNumber="167" value="1926-05">
+<collectingDate id="DB38E9DBFFAF1B18FCDFFA5E048B4025" box="[773,909,1515,1555]" pageId="17" pageNumber="167" value="1926-05">May 26</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFAF1B18FC78FA5E033E4025" box="[930,1080,1515,1555]" pageId="17" pageNumber="167">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAF1B18FB8AFA5E06CB4071" ID-GBIF-Occurrence="3994027520" collectedFrom="miscellaneous sweeping" collectingDate="1936-06-02" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="17" pageNumber="167">
+<location id="BA1D6028FFAF1B18FB8AFA5E02034025" LSID="urn:lsid:plazi:treatment:376B87E5FFAF1B18FEFDFAFB02184170:BA1D6028FFAF1B18FB8AFA5E02034025" box="[1104,1285,1515,1555]" name="Machanao" pageId="17" pageNumber="167">Machanao</location>
+, 
+<date id="CB7C1033FFAF1B18FAC0FA5E02964025" box="[1306,1424,1515,1555]" pageId="17" pageNumber="167">
+<collectingDate id="DB38E9DBFFAF1B18FAC0FA5E02964025" box="[1306,1424,1515,1555]" pageId="17" pageNumber="167">June 2</collectingDate>
+</date>
+, miscellaneous sweeping,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAF1B18FE00F9A804D94071" ID-GBIF-Occurrence="3994027549" box="[474,991,1565,1607]" collectedFrom="under bark" collectingDate="1936-06-30" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="17" pageNumber="167">
+<date id="CB7C1033FFAF1B18FE00F9A805634071" box="[474,613,1565,1607]" pageId="17" pageNumber="167" value="1930-06">
+<collectingDate id="DB38E9DBFFAF1B18FE00F9A805634071" box="[474,613,1565,1607]" pageId="17" pageNumber="167" value="1930-06">June 30</collectingDate>
+</date>
+, under bark, 
+<collectorName id="12375325FFAF1B18FC8EF9A804D94071" box="[852,991,1565,1607]" pageId="17" pageNumber="167">Swezey</collectorName>
+</materialsCitation>
+; I 
+<materialsCitation id="0FAA3CAEFFAF1B18FBDFF9A8010D4071" ID-GBIF-Occurrence="3334692603" box="[1029,1547,1565,1607]" collectedFrom="rotten log" collectingDate="1936-06-12" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="17" pageNumber="167">
+3arrigada, 
+<date id="CB7C1033FFAF1B18FB67F9A8024F4071" box="[1213,1353,1565,1607]" pageId="17" pageNumber="167" value="2012-06">
+<collectingDate id="DB38E9DBFFAF1B18FB67F9A8024F4071" box="[1213,1353,1565,1607]" pageId="17" pageNumber="167" value="2012-06">June 12</collectingDate>
+</date>
+, rotten log
+</materialsCitation>
+, 
+<materialsCitation id="0FAA3CAEFFAF1B18F9C4F9A80546404C" ID-GBIF-Occurrence="3334692307" collectedFrom="in Intsia bijuga" collectingDate="1936-07-06" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="17" pageNumber="167">
+<date id="CB7C1033FFAF1B18F9C4F9A8018B4071" box="[1566,1677,1565,1607]" pageId="17" pageNumber="167">
+<collectingDate id="DB38E9DBFFAF1B18F9C4F9A8018B4071" box="[1566,1677,1565,1607]" pageId="17" pageNumber="167">July 6</collectingDate>
+</date>
+, in 
+<emphasis id="8DB6EAE1FFAF1B18FE8CF9E50546404C" box="[342,576,1616,1658]" italics="true" pageId="17" pageNumber="167">
+lntsia 
+<taxonomicName id="78C24D70FFAF1B18FE15F9E50546404C" authorityName=", Swezey. E. C." box="[463,576,1616,1658]" class="Magnoliopsida" family="Fabaceae" genus="Intsia" kingdom="Plantae" order="Fabales" pageId="17" pageNumber="167" phylum="Tracheophyta" rank="species" species="bijuga">bijuga</taxonomicName>
+</emphasis>
+</materialsCitation>
+<emphasis id="8DB6EAE1FFAF1B18FD9AF9E50540404C" box="[576,582,1616,1658]" italics="true" pageId="17" pageNumber="167">,</emphasis>
+<materialsCitation id="0FAA3CAEFFAF1B18FD8DF9E50389404C" ID-GBIF-Occurrence="3334692518" box="[599,1167,1616,1658]" collectedFrom="in breadfruit" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="17" pageNumber="167">
+<date id="CB7C1033FFAF1B18FD8DF9E505D9404C" box="[599,735,1616,1658]" pageId="17" pageNumber="167" value="1922-07">
+<collectingDate id="DB38E9DBFFAF1B18FD8DF9E505D9404C" box="[599,735,1616,1658]" pageId="17" pageNumber="167" value="1922-07">July 22</collectingDate>
+</date>
+, in breadfruit, 
+<collectorName id="12375325FFAF1B18FC26F9E5038E404C" box="[1020,1160,1616,1658]" pageId="17" pageNumber="167">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAF1B18FB79F9E50193404C" ID-GBIF-Occurrence="3334692359" box="[1187,1685,1616,1658]" collectedFrom="in breadfruit" collectingDate="1936-06-18" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="17" pageNumber="167">
+<location id="BA1D6028FFAF1B18FB79F9E503E3404C" LSID="urn:lsid:plazi:treatment:376B87E5FFAF1B18FEFDFAFB02184170:BA1D6028FFAF1B18FB79F9E503E3404C" box="[1187,1253,1616,1658]" name="Piti" pageId="17" pageNumber="167">Piti</location>
+, 
+<date id="CB7C1033FFAF1B18FB24F9E5028B404C" box="[1278,1421,1616,1658]" pageId="17" pageNumber="167" value="2018-06">
+<collectingDate id="DB38E9DBFFAF1B18FB24F9E5028B404C" box="[1278,1421,1616,1658]" pageId="17" pageNumber="167" value="2018-06">June 18</collectingDate>
+</date>
+, in breadfruit,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAF1B18FEFFF93604A7409B" ID-GBIF-Occurrence="3334692432" box="[293,929,1667,1709]" collectedFrom="in bamboo stubs" collectingDate="1936-10-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="17" pageNumber="167">
+<date id="CB7C1033FFAF1B18FEFFF93606AA409B" box="[293,428,1667,1709]" pageId="17" pageNumber="167" value="1927-10">
+<collectingDate id="DB38E9DBFFAF1B18FEFFF93606AA409B" box="[293,428,1667,1709]" pageId="17" pageNumber="167" value="1927-10">Oct. 27</collectingDate>
+</date>
+, in bamboo stubs, 
+<collectorName id="12375325FFAF1B18FCD4F936049C409B" box="[782,922,1667,1709]" pageId="17" pageNumber="167">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAF1B18FC6CF9360193409B" ID-GBIF-Occurrence="3334692410" box="[950,1685,1667,1709]" collectedFrom="in rotten log" collectingDate="1936-09-18" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="17" pageNumber="167">
+<collectingMunicipality id="5F19AC89FFAF1B18FC6CF9360335409B" box="[950,1075,1667,1709]" pageId="17" pageNumber="167">Fadian</collectingMunicipality>
+, 
+<date id="CB7C1033FFAF1B18FB95F93603E3409B" box="[1103,1253,1667,1709]" pageId="17" pageNumber="167" value="2018-09">
+<collectingDate id="DB38E9DBFFAF1B18FB95F93603E3409B" box="[1103,1253,1667,1709]" pageId="17" pageNumber="167" value="2018-09">Sept. 18</collectingDate>
+</date>
+, in rotten log, 
+<collectorName id="12375325FFAF1B18F9D8F9360188409B" box="[1538,1678,1667,1709]" pageId="17" pageNumber="167">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAF1B18FEFFF90203F840D6" ID-GBIF-Occurrence="3994027541" box="[293,1278,1719,1760]" collectedFrom="in petiole of dead coconut leaf" collectingDate="1936-10-21" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="17" pageNumber="167">
+<location id="BA1D6028FFAF1B18FEFFF902067840D6" LSID="urn:lsid:plazi:treatment:376B87E5FFAF1B18FEFDFAFB02184170:BA1D6028FFAF1B18FEFFF902067840D6" box="[293,382,1719,1760]" name="Yigo" pageId="17" pageNumber="167">Yigo</location>
+, 
+<date id="CB7C1033FFAF1B18FE4DF902051A40D6" box="[407,540,1719,1760]" pageId="17" pageNumber="167" value="2021-10">
+<collectingDate id="DB38E9DBFFAF1B18FE4DF902051A40D6" box="[407,540,1719,1760]" pageId="17" pageNumber="167" value="2021-10">Oct. 21</collectingDate>
+</date>
+, in petiole of dead coconut leaf, 
+<collectorName id="12375325FFAF1B18FBA8F90203FF40D6" box="[1138,1273,1719,1760]" pageId="17" pageNumber="167">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAF1B18FAC1F902013240D6" ID-GBIF-Occurrence="3994027559" box="[1307,1588,1719,1760]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="17" pageNumber="167">
+<location id="BA1D6028FFAF1B18FAC1F902024E40D6" LSID="urn:lsid:plazi:treatment:376B87E5FFAF1B18FEFDFAFB02184170:BA1D6028FFAF1B18FAC1F902024E40D6" box="[1307,1352,1719,1760]" name="Fu" pageId="17" pageNumber="167">Fu</location>
+11away, 1911.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAF1B18FEBFF95F02184170" pageId="17" pageNumber="167" type="discussion">
+<paragraph id="BF7D36F3FFAF1B18FEBFF95F02184170" blockId="17.[291,1689,1358,1862]" pageId="17" pageNumber="167">
+Described from the 
+<collectingCountry id="C7D57663FFAF1B18FD3EF95F031B4124" box="[740,1053,1770,1810]" name="Northern Mariana Islands" pageId="17" pageNumber="167">Marianas Islands</collectingCountry>
+and not recorded elsewhere. 1We found it quite common, the larvae feeding in rotten logs.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

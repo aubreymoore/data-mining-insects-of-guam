@@ -1,0 +1,151 @@
+<document id="AB01BF4D4FFC741C1B3C869B37F758E4" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB81B0FFE6DFB5203934073" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Psammoecus insularis" docType="treatment" docVersion="18" lastPageNumber="156" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="156" updateTime="1671494549916" updateUser="aubreymoore">
+<mods:mods id="6424E7351014B52C77FCE04F2645800D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C09011205BA580F3F569B09DD3B08D35">
+<mods:title id="82D4FC71107AE8017128FBD07AED17EC">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="AA39D24FEC9D3ACAAEB2A224C58935A8" type="personal">
+<mods:role id="B8A448FFC6F0DADD420750D335E03E53">
+<mods:roleTerm id="6749CB445061601886339C498F3A3990">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="49BCEC6C70ED2A1B73201DE9106A07A3">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="A8DF0F08C7D975855485A0EDCD7A0C1A">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="B1A3298E92E4B3D019DF8344B536FBB7">text</mods:typeOfResource>
+<mods:relatedItem id="EDBD0158445933C735D17084D7AE7229" type="host">
+<mods:originInfo id="DEA509C35C2C1FE8C956864C52FB1F98">
+<mods:dateIssued id="7D8A5256ACAC773E258DC2ADE3DAB11F">1942</mods:dateIssued>
+<mods:dateOther id="5521944A0F63EC76852F567E77F212A1" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="E4657CC6B32086413CD7169F47D44BA3">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="FBB5C6AC9863734087BAD0A4EF0A041C">
+<mods:placeTerm id="CFEC93DF8591C31B8478B866B0BFB155">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9154BB39B8AE9D72EC1F7D6297E28654">
+<mods:title id="6EA06DB9E0811EC58B8CD7FE69C38674">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="0E3BAA9973673A938DBB8810728A8412">
+<mods:extent id="B2AC77454E2FE14633C8CF370B136880" unit="page">
+<mods:start id="70CDB575A1CA2FA3AD966AF15805DD9C">150</mods:start>
+<mods:end id="1917BEDC9AAF9CD8646DF3752A2F54C8">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="B751A32DD92AF3722F094DB9188D7219">book chapter</mods:classification>
+<mods:identifier id="D64E0265C60E60B394D8903CE46D15F3" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="079502A80B720D2C7C7C5365F8A19A76" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="891ECE0DFD7480905FB5E79C5CC35D72" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB81B0FFE6DFB5203934073" ID-DOI="http://doi.org/10.5281/zenodo.5183006" ID-GBIF-Taxon="184415270" ID-Zenodo-Dep="5183006" LSID="urn:lsid:plazi:treatment:376B87E5FFB81B0FFE6DFB5203934073" httpUri="http://treatment.plazi.org/id/376B87E5FFB81B0FFE6DFB5203934073" lastPageNumber="156" pageId="6" pageNumber="156">
+<subSubSection id="F7D86578FFB81B0FFE6DFB5203304327" box="[439,1078,1255,1297]" pageId="6" pageNumber="156" type="nomenclature">
+<paragraph id="BF7D36F3FFB81B0FFE6DFB5203304327" blockId="6.[439,1835,1255,1605]" box="[439,1078,1255,1297]" pageId="6" pageNumber="156">
+<heading id="E435819FFFB81B0FFE6DFB5203304327" box="[439,1078,1255,1297]" fontSize="8" level="2" pageId="6" pageNumber="156" reason="4">
+2. 
+<taxonomicName id="78C24D70FFB81B0FFE2CFB5203364327" authority="(Sharp)" baseAuthorityName="Sharp" box="[502,1072,1255,1297]" class="Insecta" family="Silvanidae" genus="Psammoecus" kingdom="Animalia" order="Coleoptera" pageId="6" pageNumber="156" phylum="Arthropoda" rank="species" species="insularis">Psammoecus insularis (Sharp)</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB81B0FFE23FAAC018F4341" pageId="6" pageNumber="156" type="reference_group">
+<paragraph id="BF7D36F3FFB81B0FFE23FAAC01B54372" blockId="6.[439,1835,1255,1605]" box="[505,1715,1305,1348]" pageId="6" pageNumber="156">
+<treatmentCitationGroup id="9FD211DDFFB81B0FFE23FAAC01B54372" box="[505,1715,1305,1348]" pageId="6" pageNumber="156">
+<bibCitation id="6AE83E9FFFB81B0FFE23FAAC01B54372" author="Sharp" box="[505,1715,1305,1348]" journalOrPublisher="Roy. Dublin Soc., Trans." pageId="6" pageNumber="156" pagination="143" part="3" refId="ref3126" type="journal article" year="1885">
+<treatmentCitation id="3E6310E2FFB81B0FFE23FAAC01A84372" author="Sharp" box="[505,1710,1305,1348]" page="143" pageId="6" pageNumber="156" year="1885">
+<emphasis id="8DB6EAE1FFB81B0FFE23FAAC04604372" box="[505,870,1305,1348]" italics="true" pageId="6" pageNumber="156">Telephanus insularis</emphasis>
+<author id="677FDE16FFB81B0FFCA2FAAC04E44372" box="[888,994,1305,1348]" pageId="6" pageNumber="156">Sharp</author>
+, 
+<journalOrPublisher id="65033C3FFFB81B0FFC20FAAC02BB4372" box="[1018,1469,1305,1348]" pageId="6" pageNumber="156">Roy. Dublin Soc., Trans.</journalOrPublisher>
+<part id="CB669C6EFFB81B0FFA14FAAC02DA4372" box="[1486,1500,1305,1348]" pageId="6" pageNumber="156" type="volume">3</part>
+: 
+<pagination id="860BC807FFB81B0FF9D9FAAC01474372" box="[1539,1601,1305,1348]" pageId="6" pageNumber="156" type="pageRange">143</pagination>
+, 
+<year id="CB6A77A0FFB81B0FF981FAAC01A84372" box="[1627,1710,1305,1348]" pageId="6" pageNumber="156">1885</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFB81B0FFE2CFAF8018F4341" blockId="6.[439,1835,1255,1605]" box="[502,1673,1357,1399]" pageId="6" pageNumber="156">
+<treatmentCitationGroup id="9FD211DDFFB81B0FFE2CFAF8018F4341" box="[502,1673,1357,1399]" pageId="6" pageNumber="156">
+<treatmentCitation id="3E6310E2FFB81B0FFE2CFAF8018F4341" author="Sharp" box="[502,1673,1357,1399]" page="428" pageId="6" pageNumber="156" year="1908">
+<bibCitation id="6AE83E9FFFB81B0FFE2CFAF8018F4341" author="Sharp" box="[502,1673,1357,1399]" journalOrPublisher="Fauna Hawaii" pageId="6" pageNumber="156" pagination="428" part="3" refId="ref3144" type="journal article" year="1908">
+<emphasis id="8DB6EAE1FFB81B0FFE2CFAF804794341" box="[502,895,1357,1399]" italics="true" pageId="6" pageNumber="156">Psammoecus insularis</emphasis>
+(
+<author id="677FDE16FFB81B0FFC79FAF8031B4341" box="[931,1053,1357,1399]" fns="*" inm="true" npo="*" pageId="6" pageNumber="156">Sharp</author>
+), 
+<journalOrPublisher id="65033C3FFFB81B0FFB9EFAF8024F4341" box="[1092,1353,1357,1399]" pageId="6" pageNumber="156">
+Fauna 
+<collectingRegion id="7D06F811FFB81B0FFB1FFAF8024F4341" box="[1221,1353,1357,1399]" country="United States of America" name="Hawaii" pageId="6" pageNumber="156">Hawaii</collectingRegion>
+</journalOrPublisher>
+. 
+<part id="CB669C6EFFB81B0FFA85FAF802704341" box="[1375,1398,1357,1399]" pageId="6" pageNumber="156" type="volume">3</part>
+(
+<part id="CB669C6EFFB81B0FFA5CFAF802A44341" box="[1414,1442,1357,1399]" pageId="6" pageNumber="156" type="issue">4</part>
+): 
+<pagination id="860BC807FFB81B0FFA03FAF801104341" box="[1497,1558,1357,1399]" pageId="6" pageNumber="156" type="pageRange">428</pagination>
+, 
+<year id="CB6A77A0FFB81B0FF9EBFAF801824341" box="[1585,1668,1357,1399]" pageId="6" pageNumber="156">1908</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB81B0FFE2DFA3503984024" pageId="6" pageNumber="156" type="materials_examined">
+<paragraph id="BF7D36F3FFB81B0FFE2DFA3503984024" blockId="6.[439,1835,1255,1605]" pageId="6" pageNumber="156">
+<materialsCitation id="0FAA3CAEFFB81B0FFE2DFA3504BB439D" ID-GBIF-Occurrence="3994027475" box="[503,957,1408,1451]" collectingDate="1936-05-15" collectorName="R. L. Usinger" country="Guam" location="Agana" pageId="6" pageNumber="156">
+<collectingMunicipality id="5F19AC89FFB81B0FFE2DFA35056B439D" box="[503,621,1408,1451]" pageId="6" pageNumber="156">Agana</collectingMunicipality>
+, 
+<date id="CB7C1033FFB81B0FFD59FA35040C439D" box="[643,778,1408,1451]" pageId="6" pageNumber="156" value="2015-05">
+<collectingDate id="DB38E9DBFFB81B0FFD59FA35040C439D" box="[643,778,1408,1451]" pageId="6" pageNumber="156" value="2015-05">May 15</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB81B0FFCC5FA3504B0439D" box="[799,950,1408,1451]" pageId="6" pageNumber="156">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB81B0FFC17FA3505BF43E9" ID-GBIF-Occurrence="3994027353" collectedFrom="among dead leaves of a fallen tree" collectingDate="1936-06-05" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="6" pageNumber="156">
+<location id="BA1D6028FFB81B0FFC17FA350382439D" LSID="urn:lsid:plazi:treatment:376B87E5FFB81B0FFE6DFB5203934073:BA1D6028FFB81B0FFC17FA350382439D" box="[973,1156,1408,1451]" name="Machanao" pageId="6" pageNumber="156">Machanao</location>
+, 
+<location id="BA1D6028FFB81B0FFB4DFA3503ED439D" LSID="urn:lsid:plazi:treatment:376B87E5FFB81B0FFE6DFB5203934073:BA1D6028FFB81B0FFB4DFA3503ED439D" box="[1175,1259,1408,1451]" name="June" pageId="6" pageNumber="156">June</location>
+S, among dead leaves of a fallen tree, 
+<collectorName id="12375325FFB81B0FFDC1FA0105B443E9" box="[539,690,1460,1503]" pageId="6" pageNumber="156">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB81B0FFD0AFA01021043E9" ID-GBIF-Occurrence="3994027444" box="[720,1302,1460,1503]" collectedFrom="on pumpkin vine" collectingDate="1936-07-21" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="156">
+<location id="BA1D6028FFB81B0FFD0AFA01041543E9" LSID="urn:lsid:plazi:treatment:376B87E5FFB81B0FFE6DFB5203934073:BA1D6028FFB81B0FFD0AFA01041543E9" box="[720,787,1460,1503]" name="Piti" pageId="6" pageNumber="156">Piti</location>
+, 
+<date id="CB7C1033FFB81B0FFCF5FA0104BC43E9" box="[815,954,1460,1503]" pageId="6" pageNumber="156" value="2021-07">
+<collectingDate id="DB38E9DBFFB81B0FFCF5FA0104BC43E9" box="[815,954,1460,1503]" pageId="6" pageNumber="156" value="2021-07">July 21</collectingDate>
+</date>
+, on pumpkin vine,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB81B0FFAF5FA0102C843E9" ID-GBIF-Occurrence="3994027491" box="[1327,1486,1460,1503]" collectingDate="1936-09-26" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="156">
+<date id="CB7C1033FFB81B0FFAF5FA0102C143E9" box="[1327,1479,1460,1503]" pageId="6" pageNumber="156" value="1926-09">
+<collectingDate id="DB38E9DBFFB81B0FFAF5FA0102C143E9" box="[1327,1479,1460,1503]" pageId="6" pageNumber="156" value="1926-09">Sept. 26</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB81B0FFA3EFA01054A4024" ID-GBIF-Occurrence="3994027322" collectedFrom="in house" collectingDate="1936-10-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="156">
+<date id="CB7C1033FFB81B0FFA3EFA01016B43E9" box="[1508,1645,1460,1503]" pageId="6" pageNumber="156" value="1927-10">
+<collectingDate id="DB38E9DBFFB81B0FFA3EFA01016B43E9" box="[1508,1645,1460,1503]" pageId="6" pageNumber="156" value="1927-10">
+Oct. 
+<emphasis id="8DB6EAE1FFB81B0FF998FA01017243E9" box="[1602,1652,1460,1503]" italics="true" pageId="6" pageNumber="156">27,</emphasis>
+</collectingDate>
+</date>
+in house, 
+<collectorName id="12375325FFB81B0FFE63FA5205434024" box="[441,581,1511,1554]" pageId="6" pageNumber="156">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB81B0FFD81FA52039F4024" ID-GBIF-Occurrence="3994027303" box="[603,1177,1511,1554]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="6" pageNumber="156" specimenCount="9">
+<specimenCount id="A9C4FD7AFFB81B0FFD81FA5204614024" box="[603,871,1511,1554]" pageId="6" pageNumber="156" type="generic">nine specimens</specimenCount>
+. 
+<collectorName id="12375325FFB81B0FFC5DFA52032B4024" box="[903,1069,1511,1554]" pageId="6" pageNumber="156">Fullaway</collectorName>
+, 1911
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB81B0FFE2DF9AE03934073" box="[503,1173,1563,1605]" pageId="6" pageNumber="156" type="discussion">
+<paragraph id="BF7D36F3FFB81B0FFE2DF9AE03934073" blockId="6.[439,1835,1255,1605]" box="[503,1173,1563,1605]" pageId="6" pageNumber="156">Described from the Hawaiian islands.</paragraph>
+</subSubSection>
+</treatment>
+</document>

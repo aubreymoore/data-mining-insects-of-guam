@@ -1,0 +1,101 @@
+<document id="F7D3947FD8339F2180FF646E7D89268D" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBE1B08FE6CF6D804C847D7" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Colpodes Swezey 1942, new species" docType="treatment" docVersion="15" lastPageNumber="151" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="150" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="AF71B013210B8BE7561713F73CC342FF" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="3AA76EE03FC75C302785F315D9135C4D">
+<mods:title id="7B3BC0F6BA9908593A6AAF703D346C01">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="37C4C76AC8A8DA81E823CE83E3792307" type="personal">
+<mods:role id="137DD91EF0DA82FF33319AC2E3DE91DC">
+<mods:roleTerm id="65B033D9E9C53A0FC504C5DC22D2CD18">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1B10B05A953FCC7B4295232E412B41AA">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="8054A21C8AB28B8B2B5434B881A1ABB7">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9FC8A8CF17B417B8A42A763C504E563D">text</mods:typeOfResource>
+<mods:relatedItem id="ADA33EA65A8BA4FF468F6B4F591524F2" type="host">
+<mods:originInfo id="D94F3C191E9BA6CE49FF768321F8ECF7">
+<mods:dateIssued id="BC045EAF6EDAC8E424436907EEB6CC5E">1942</mods:dateIssued>
+<mods:dateOther id="87561DEF66DAB99A0B5B8B414B418397" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="089ABE8CA6FF91799A03985BFAD84F41">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="903BA168F4E6930C361BC7C531E163FB">
+<mods:placeTerm id="CE744115FD21954BBE72890EF0D0F92B">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="C1002DCEDFCCAA2473B307B40EA8C2D7">
+<mods:title id="DFA49D292D9A79E8067AE5B701F3D608">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="CFBCD0013F505BAA32D3DD1BBF3A365A">
+<mods:extent id="092EA63A5DF169D657A2219F1451B6A0" unit="page">
+<mods:start id="0158357A05F8B19406B66D58C00E69D0">150</mods:start>
+<mods:end id="A2EA1CF5AC5522B1A08C9BF626369C92">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="13C59DD7D0311525AD0899DAE7B63331">book chapter</mods:classification>
+<mods:identifier id="0C4234FDD093107FC8943557D77752BD" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="4D898FFDF16A00B8AB8011ADBC656FA5" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="16D23CB537A12B40079294A51174371D" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBE1B08FE6CF6D804C847D7" ID-DOI="http://doi.org/10.5281/zenodo.5180757" ID-GBIF-Taxon="184415215" ID-Zenodo-Dep="5180757" LSID="urn:lsid:plazi:treatment:376B87E5FFBE1B08FE6CF6D804C847D7" httpUri="http://treatment.plazi.org/id/376B87E5FFBE1B08FE6CF6D804C847D7" lastPageId="1" lastPageNumber="151" pageId="0" pageNumber="150">
+<subSubSection id="F7D86578FFBE1B09FE6CF6D804DC4FAF" box="[438,986,2413,2457]" pageId="0" pageNumber="150" type="nomenclature">
+<paragraph id="BF7D36F3FFBE1B09FE6CF6D804DC4FAF" blockId="0.[438,1832,2413,2559]" box="[438,986,2413,2457]" pageId="0" pageNumber="150">
+<heading id="E435819FFFBE1B09FE6CF6D804DC4FAF" box="[438,986,2413,2457]" fontSize="11" level="2" pageId="0" pageNumber="150" reason="2">
+2. 
+<emphasis id="8DB6EAE1FFBE1B09FE2CF6D805A44FAF" bold="true" box="[502,674,2413,2457]" pageId="0" pageNumber="150">
+<taxonomicName id="78C24D70FFBE1B09FE2CF6D8059A4FAF" authority="Swezey, 1942" authorityName="Swezey" authorityYear="1942" box="[502,668,2413,2457]" class="Insecta" family="Carabidae" genus="Colpodes" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="150" phylum="Arthropoda" rank="genus" status="new species">Colpodes</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="9685579AFFBE1B09FD6BF6D804844FAF" box="[689,898,2413,2457]" pageId="0" pageNumber="150" rank="species">new species</taxonomicNameLabel>
+(?).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBE1B08FE2DF62A04C847D7" lastPageId="1" lastPageNumber="151" pageId="0" pageNumber="150" type="materials_examined">
+<paragraph id="BF7D36F3FFBE1B09FE2DF62A04184FC9" blockId="0.[438,1832,2413,2559]" pageId="0" pageNumber="150">
+<materialsCitation id="0FAA3CAEFFBE1B09FE2DF62A02CB4FFC" ID-GBIF-Occurrence="3994027558" box="[503,1485,2463,2506]" collectedFrom="on leaves of Hibiscus tiliaceus" collectingDate="1936-04-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="150">
+<location id="BA1D6028FFBE1B09FE2DF62A053C4FFC" LSID="urn:lsid:plazi:treatment:376B87E5FFBE1B08FE6CF6D804C847D7:BA1D6028FFBE1B09FE2DF62A053C4FFC" box="[503,570,2463,2506]" name="Piti" pageId="0" pageNumber="150">Piti</location>
+, 
+<date id="CB7C1033FFBE1B09FD8BF62A05ED4FFC" box="[593,747,2463,2506]" pageId="0" pageNumber="150" value="1930-04">
+<collectingDate id="DB38E9DBFFBE1B09FD8BF62A05ED4FFC" box="[593,747,2463,2506]" pageId="0" pageNumber="150" value="1930-04">April 30</collectingDate>
+</date>
+, 
+<collectedFrom id="0CDE750EFFBE1B09FCD8F62A02274FFC" box="[770,1313,2463,2506]" pageId="0" pageNumber="150">
+on leaves of 
+<emphasis id="8DB6EAE1FFBE1B09FC3CF62A02214FFC" box="[998,1319,2463,2506]" italics="true" pageId="0" pageNumber="150">
+<taxonomicName id="78C24D70FFBE1B09FC3CF62A02274FFC" authority="tiliaceits" authorityName="tiliaceits" box="[998,1313,2463,2506]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="0" pageNumber="150" phylum="Tracheophyta" rank="genus">Hibiscus tiliaceits</taxonomicName>
+,
+</emphasis>
+</collectedFrom>
+<collectorName id="12375325FFBE1B09FAE0F62A02C04FFC" box="[1338,1478,2463,2506]" pageId="0" pageNumber="150">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBE1B09FA05F62A01C24FFC" ID-GBIF-Occurrence="3994027456" box="[1503,1732,2463,2506]" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="150">
+<location id="BA1D6028FFBE1B09FA05F62A01244FFC" LSID="urn:lsid:plazi:treatment:376B87E5FFBE1B08FE6CF6D804C847D7:BA1D6028FFBE1B09FA05F62A01244FFC" box="[1503,1570,2463,2506]" name="Piti" pageId="0" pageNumber="150">Piti</location>
+, 
+<date id="CB7C1033FFBE1B09F9E3F62A01B84FFC" box="[1593,1726,2463,2506]" pageId="0" pageNumber="150" value="1922-07">
+<collectingDate id="DB38E9DBFFBE1B09F9E3F62A01B84FFC" box="[1593,1726,2463,2506]" pageId="0" pageNumber="150" value="1922-07">July 22</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBE1B09F90EF62A041F4FC9" ID-GBIF-Occurrence="3994027415" collectedFrom="at light" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="150">
+<date id="CB7C1033FFBE1B09F90EF62A06E44FC9" pageId="0" pageNumber="150" value="2019-08">
+<collectingDate id="DB38E9DBFFBE1B09F90EF62A06E44FC9" pageId="0" pageNumber="150" value="2019-08">Aug. 19</collectingDate>
+</date>
+, 
+<collectedFrom id="0CDE750EFFBE1B09FE22F660057C4FC9" box="[504,634,2517,2559]" pageId="0" pageNumber="150">at light</collectedFrom>
+, 
+<collectorName id="12375325FFBE1B09FD48F660041F4FC9" box="[658,793,2517,2559]" pageId="0" pageNumber="150">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+<paragraph id="BF7D36F3FFBF1B08FEBFFEFB04C847D7" blockId="1.[357,1686,334,378]" lastBlockId="1.[293,1687,387,481]" pageId="1" pageNumber="151">
+Four specimens of this shiny black species were obtained. The specimens were sent to the British Museum for determination and listed as 
+<emphasis id="8DB6EAE1FFBF1B08FA3FFE360191479B" box="[1509,1687,387,429]" italics="true" pageId="1" pageNumber="151">
+&quot; 
+<taxonomicName id="78C24D70FFBF1B08FA2AFE360191479B" authority="Swezey, 1942" authorityName="Swezey" authorityYear="1942" box="[1520,1687,387,429]" pageId="1" pageNumber="151" status="sp.">Colpodes</taxonomicName>
+</emphasis>
+<taxonomicNameLabel id="9685579AFFBF1B08FEFCFE0D065547D7" box="[294,339,440,481]" pageId="1" pageNumber="151" rank="species">sp.</taxonomicNameLabel>
+n.?&quot;, but none have been returned.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

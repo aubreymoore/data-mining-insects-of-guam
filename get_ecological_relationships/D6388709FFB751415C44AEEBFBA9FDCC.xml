@@ -1,0 +1,55 @@
+<document id="0B685768EC3174EF87DD0B37A2345869" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFB751415C44AEEBFBA9FDCC" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Rhynchophorinae Schoenherr 1833" docType="treatment" docVersion="11" lastPageNumber="144" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="144" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="AA07708DFED921A3709F3EF6F47A3BE8" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="2B1880BF389308FFA36AD43A0A580339">
+<mods:title id="D7CDAF65AEB54E2038CF31DB944C52A0">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="76F92DC108B2186EE2E92CB92AB20020" type="personal">
+<mods:role id="D6A5ECB6817613AB9E6B1F8816FB1E58">
+<mods:roleTerm id="A537C1A1BA9E2DE0FD48A741D008947A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A22F94E3C4885391679E66DE825758C3">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="818C2703636BC6DFF69C0B8AB5CCC36D">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="584FF38BA6FED29E7C69285BC43E9811">text</mods:typeOfResource>
+<mods:relatedItem id="0BC7BAF25F5D0686E36C67445D1553E0" type="host">
+<mods:originInfo id="08874751D72ADDE94E61FADBC39E072D">
+<mods:dateIssued id="793D11AC8028AEB74A24330ECEEA8138">1942</mods:dateIssued>
+<mods:dateOther id="50C587FDECC202A8F12394FEF34ADD30" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="BE34D65F864008D017CBDC88C6DD8FD2">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="0CAB4003EC9DA2097880DC3383A0ED2A">
+<mods:placeTerm id="843F46C0D23FA6E25CDE46960304BE4C">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9C3E1A7573026A0C71550A669007E721">
+<mods:title id="B2920B8D7B5E266F476B10BDB63A4C84">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="871C0652518DFC628A20DB51E542235C">
+<mods:extent id="ED436EEE38045DAE0F59B6A659BD916A" unit="page">
+<mods:start id="8111103AADA34C54C03FF2733D9210F2">73</mods:start>
+<mods:end id="B08931BEC5679C4EC9EAD8C85B1B5888">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="15325388EC867CA8A6ECEAAA0FB0A093">book chapter</mods:classification>
+<mods:identifier id="ECE480B3BB44E8C159683F346378005A" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="7C60A3CEF9EB468A9CE8C0714D9A44A6" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="4941CA71F8A56309EE0F678235211260" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFB751415C44AEEBFBA9FDCC" ID-DOI="http://doi.org/10.5281/zenodo.5157398" ID-GBIF-Taxon="184097834" ID-Zenodo-Dep="5157398" LSID="urn:lsid:plazi:treatment:D6388709FFB751415C44AEEBFBA9FDCC" httpUri="http://treatment.plazi.org/id/D6388709FFB751415C44AEEBFBA9FDCC" lastPageNumber="144" pageId="71" pageNumber="144">
+<subSubSection id="168B6594FFB751415C44AEEBFA65FE4D" box="[799,1439,433,475]" pageId="71" pageNumber="144" type="nomenclature">
+<paragraph id="5E2E361FFFB751415C44AEEBFA65FE4D" blockId="71.[799,1439,433,475]" box="[799,1439,433,475]" pageId="71" pageNumber="144">
+<heading id="05668173FFB751415C44AEEBFA65FE4D" box="[799,1439,433,475]" centered="true" fontSize="8" level="2" pageId="71" pageNumber="144" reason="3">
+SuBr&lt;'AMILY 
+<taxonomicName id="99914D9CFFB751415B5AAEEBFA65FE4D" authorityName="Schoenherr" authorityYear="1833" box="[1025,1439,433,475]" class="Insecta" family="Dryophthoridae" kingdom="Animalia" order="Coleoptera" pageId="71" pageNumber="144" phylum="Arthropoda" rank="subFamily" subFamily="Rhynchophorinae">RHYNCHOPHORINAE</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB751415E83AEA7FBA9FDCC" pageId="71" pageNumber="144" type="discussion">
+<paragraph id="5E2E361FFFB751415E83AEA7FBA9FDCC" blockId="71.[409,1804,509,602]" pageId="71" pageNumber="144">
+All the members of this subfamily found in 
+<collectingCountry id="2686768FFFB751415BA4AEA7FA9CFDB1" box="[1279,1382,509,551]" name="Guam" pageId="71" pageNumber="144">Guam</collectingCountry>
+are adventitious, widespread species of economic importance.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

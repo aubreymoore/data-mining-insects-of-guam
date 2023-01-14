@@ -1,0 +1,236 @@
+<document id="C458BE8DBD7E34FB61AC0BDE6D32560D" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E946FFAFFE5185D093B302AA" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Nephropteryx" docType="treatment" docVersion="17" lastPageNumber="177" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="176" updateTime="1669930665053" updateUser="annettekang">
+<mods:mods id="1F0A2A9B0EBE171485DF115F22CD3F7D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="670562425FB8F882AAC2F77B988056FB">
+<mods:title id="473A6CB09A7BD29E679ECFB9C7C6D6E5">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="16D7547A7D15E40FCA1F955420C3E338" type="personal">
+<mods:role id="07BEB442DE04B0AA33D66AB8FB90987F">
+<mods:roleTerm id="A4DB8788C77FCCAC64117D4DB4AC45FA">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="0F5EE8B15EC72C58DA1A7F333BF1C3B3">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="95FDBC9E330FFA676C3831E6A7BF7283">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="B5B24B3CBDBB28D167FA2FE1302D793E">text</mods:typeOfResource>
+<mods:relatedItem id="4FAF6BFE93EF08D3D0A9FEBED0693F79" type="host">
+<mods:originInfo id="E46C3C2907BC384E58E97671AEB1FBB5">
+<mods:dateIssued id="F00F4C55BD651BD184E0B587557567D2">1946</mods:dateIssued>
+<mods:dateOther id="189BD19D0780EDEFFA742D9BBA9A541A" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="BA8EAE4FB2FB25B76573CE690BECDE51">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="84F815274A3997687DB4F91E3A2B8784">
+<mods:placeTerm id="421F215ABCD63BC3AD88B0E34657409D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9E39FD02C7D4FB838F0570B66717CAE1">
+<mods:title id="B9E716A7702435EBF70C2A15366076E9">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="9A5D76075FE2FA728D05330739BE61C2">
+<mods:extent id="1575774EFCB516F6FEB9558841E0CD2D" unit="page">
+<mods:start id="AC0C13589C202CFCB7D2C57650481545">163</mods:start>
+<mods:end id="E17A62BD50BAF9F3A4D17D62EC4812F8">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="02ED38BB69A4DF75F192660012A27011">book chapter</mods:classification>
+<mods:identifier id="FE078A43E3A281FDE3ABB71235768ED3" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="DA07D4ABB9B30593E93A33FC14612C5B" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="A34FDEE0391E095AB4F841708EE5D23A" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E946FFAFFE5185D093B302AA" ID-DOI="http://doi.org/10.5281/zenodo.5500632" ID-GBIF-Taxon="187974984" ID-Zenodo-Dep="5500632" LSID="urn:lsid:plazi:treatment:03B387B8E946FFAFFE5185D093B302AA" httpUri="http://treatment.plazi.org/id/03B387B8E946FFAFFE5185D093B302AA" lastPageId="14" lastPageNumber="177" pageId="13" pageNumber="176">
+<subSubSection id="C3006525E946FFACFE5185D091140B58" box="[414,866,2029,2071]" pageId="13" pageNumber="176" type="nomenclature">
+<paragraph id="8BA536AEE946FFACFE5185D091140B58" blockId="13.[414,1812,2029,2171]" box="[414,866,2029,2071]" pageId="13" pageNumber="176">
+<heading id="D0ED81C2E946FFACFE5185D091140B58" box="[414,866,2029,2071]" fontSize="11" level="2" pageId="13" pageNumber="176" reason="2">
+<emphasis id="B96EEABCE946FFACFE5185D090BD0B58" bold="true" box="[414,715,2029,2071]" pageId="13" pageNumber="176">
+6. 
+<taxonomicName id="4C1A4D2DE946FFACFE1285D090BD0B58" authority="Zeller" box="[477,715,2029,2071]" class="Insecta" family="Pyralidae" genus="Nephropteryx" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="13" pageNumber="176" phylum="Arthropoda" rank="genus">Nephopteryx</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E946FFACFE108A1D96690B34" pageId="13" pageNumber="176" type="materials_examined">
+<paragraph id="8BA536AEE946FFACFE108A1D96690B34" blockId="13.[414,1812,2029,2171]" pageId="13" pageNumber="176">
+<materialsCitation id="3B723CF3E946FFACFE108A1D95620B06" ID-GBIF-Occurrence="3336062302" box="[479,1812,2080,2121]" collectedFrom="two specimens reared from leafrollers on pigeon peas" collectingDate="1936-05-12" collectorName="O. H. Swezey" country="Guam" location="Yona" pageId="13" pageNumber="176" specimenCount="2">
+<location id="8EC56075E946FFACFE108A1D90360B06" LSID="urn:lsid:plazi:treatment:03B387B8E946FFAFFE5185D093B302AA:8EC56075E946FFACFE108A1D90360B06" box="[479,576,2080,2121]" pageId="13" pageNumber="176">Yona</location>
+, 
+<date id="FFA4106EE946FFACFDAE8A1D90850B06" box="[609,755,2080,2121]" pageId="13" pageNumber="176" value="2012-05">
+<collectingDate id="EFE0E986E946FFACFDAE8A1D90850B06" box="[609,755,2080,2121]" pageId="13" pageNumber="176" value="2012-05">May 12</collectingDate>
+</date>
+, 
+<specimenCount id="9D1CFD27E946FFACFCDC8A1D966C0B06" box="[787,1050,2080,2121]" pageId="13" pageNumber="176" type="generic">two specimens</specimenCount>
+reared from leafrollers on pigeon peas;
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFE6D8A6E96690B34" ID-GBIF-Occurrence="3336062315" box="[418,1055,2131,2171]" collectedFrom="at light" collectingDate="1936-11-04" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176" specimenCount="1">
+<location id="8EC56075E946FFACFE6D8A6E93950B34" LSID="urn:lsid:plazi:treatment:03B387B8E946FFAFFE5185D093B302AA:8EC56075E946FFACFE6D8A6E93950B34" box="[418,483,2131,2171]" pageId="13" pageNumber="176">
+<collectingMunicipality id="6BC1ACD4E946FFACFE6D8A6E93950B34" box="[418,483,2131,2171]" pageId="13" pageNumber="176">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE946FFACFDCD8A6E90F70B34" box="[514,641,2131,2171]" pageId="13" pageNumber="176">
+<collectingDate id="EFE0E986E946FFACFDCD8A6E90F70B34" box="[514,641,2131,2171]" pageId="13" pageNumber="176">Nov. 4</collectingDate>
+</date>
+, one at light, 
+<collectorName id="26EF5378E946FFACFC5B8A6E966C0B34" box="[916,1050,2131,2171]" pageId="13" pageNumber="176">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E946FFACFE6F8A9C91170B86" box="[416,865,2209,2249]" pageId="13" pageNumber="176" type="discussion">
+<paragraph id="8BA536AEE946FFACFE6F8A9C91170B86" blockId="13.[416,1811,2209,2353]" box="[416,865,2209,2249]" pageId="13" pageNumber="176">
+<heading id="D0ED81C2E946FFACFE6F8A9C91170B86" box="[416,865,2209,2249]" fontSize="11" level="2" pageId="13" pageNumber="176" reason="2">
+<emphasis id="B96EEABCE946FFACFE6F8A9C90BA0B86" bold="true" box="[416,716,2209,2249]" pageId="13" pageNumber="176">
+7. 
+<taxonomicName id="4C1A4D2DE946FFACFE128A9C90BA0B86" authorityName="C.Linnaeus" authorityYear="1758" box="[477,716,2209,2249]" kingdom="Animalia" pageId="13" pageNumber="176" rank="family">Nephopteryx</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E946FFACFE2E8AEF94EC0A7E" pageId="13" pageNumber="176" type="materials_examined">
+<paragraph id="8BA536AEE946FFACFE2E8AEF94EC0A7E" blockId="13.[416,1811,2209,2353]" pageId="13" pageNumber="176">
+<materialsCitation id="3B723CF3E946FFACFE2E8AEF90C90A4F" ID-GBIF-Occurrence="3913652377" box="[481,703,2258,2304]" collectedFrom="at light" collectingDate="1936-05-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">
+<location id="8EC56075E946FFACFE2E8AEF90550A4F" LSID="urn:lsid:plazi:treatment:03B387B8E946FFAFFE5185D093B302AA:8EC56075E946FFACFE2E8AEF90550A4F" box="[481,547,2258,2304]" pageId="13" pageNumber="176">
+<collectingMunicipality id="6BC1ACD4E946FFACFE2E8AEF90550A4F" box="[481,547,2258,2304]" pageId="13" pageNumber="176">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE946FFACFD8F8AEF90CE0A4F" box="[576,696,2258,2304]" pageId="13" pageNumber="176">
+<collectingDate id="EFE0E986E946FFACFD8F8AEF90CE0A4F" box="[576,696,2258,2304]" pageId="13" pageNumber="176">May 9</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFD1B8AEF911D0A4F" ID-GBIF-Occurrence="3913652467" box="[724,875,2258,2304]" collectedFrom="at light" collectingDate="1936-06-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">
+<date id="FFA4106EE946FFACFD1B8AEF91130A4F" box="[724,869,2258,2304]" pageId="13" pageNumber="176" value="2012-06">
+<collectingDate id="EFE0E986E946FFACFD1B8AEF91130A4F" box="[724,869,2258,2304]" pageId="13" pageNumber="176" value="2012-06">June 12</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFC4E8AEF91C40A4F" ID-GBIF-Occurrence="3913652477" box="[897,946,2258,2304]" collectedFrom="at light" collectingDate="1936-06-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">20,</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFC078AEF96350A4F" ID-GBIF-Occurrence="3913652378" box="[968,1091,2258,2304]" collectedFrom="at light" collectingDate="1936-07-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">
+<date id="FFA4106EE946FFACFC078AEF964A0A4F" box="[968,1084,2258,2304]" pageId="13" pageNumber="176">
+<collectingDate id="EFE0E986E946FFACFC078AEF964A0A4F" box="[968,1084,2258,2304]" pageId="13" pageNumber="176">July 9</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFB948AEF96FC0A4F" ID-GBIF-Occurrence="3913652447" box="[1115,1162,2258,2304]" collectedFrom="at light" collectingDate="1936-07-11" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">11,</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFB6C8AEF96A70A4F" ID-GBIF-Occurrence="3913652302" box="[1187,1233,2258,2304]" collectedFrom="at light" collectingDate="1936-07-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">12,</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFB268AEF97610A4F" ID-GBIF-Occurrence="3913652491" box="[1257,1303,2258,2304]" collectedFrom="at light" collectingDate="1936-07-15" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">15,</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFAE38AEF972B0A4F" ID-GBIF-Occurrence="3913652471" box="[1324,1373,2258,2304]" collectedFrom="at light" collectingDate="1936-07-26" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">26,</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFABC8AEF978F0A4F" ID-GBIF-Occurrence="3913652469" box="[1395,1529,2258,2304]" collectedFrom="at light" collectingDate="1936-08-08" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">
+<date id="FFA4106EE946FFACFABC8AEF97870A4F" box="[1395,1521,2258,2304]" pageId="13" pageNumber="176">
+<collectingDate id="EFE0E986E946FFACFABC8AEF97870A4F" box="[1395,1521,2258,2304]" pageId="13" pageNumber="176">Aug. 8</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACF9DE8AEF94360A4F" ID-GBIF-Occurrence="3913652306" box="[1553,1600,2258,2304]" collectedFrom="at light" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">11,</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACF9988AEF94F00A4F" ID-GBIF-Occurrence="3913652360" box="[1623,1670,2258,2304]" collectedFrom="at light" collectingDate="1936-08-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">13,</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACF9528AEF94BB0A4F" ID-GBIF-Occurrence="3913652425" box="[1693,1741,2258,2304]" collectedFrom="at light" collectingDate="1936-08-18" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">18,</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACF92E8AEF95650A4F" ID-GBIF-Occurrence="3913652517" box="[1761,1811,2258,2304]" collectedFrom="at light" collectingDate="1936-08-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">20,</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFE6C8B3B911D0A7E" ID-GBIF-Occurrence="3913652502" box="[419,875,2310,2353]" collectedFrom="at light" collectingDate="1936-09-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176">
+<date id="FFA4106EE946FFACFE6C8B3B90530A7E" box="[419,549,2310,2353]" pageId="13" pageNumber="176">
+<collectingDate id="EFE0E986E946FFACFE6C8B3B90530A7E" box="[419,549,2310,2353]" pageId="13" pageNumber="176">
+Sept. 
+<emphasis id="B96EEABCE946FFACFDDF8B3B905A0A7E" box="[528,556,2310,2353]" italics="true" pageId="13" pageNumber="176">7,</emphasis>
+</collectingDate>
+</date>
+at light, 
+<collectorName id="26EF5378E946FFACFD2A8B3B911D0A7E" box="[741,875,2310,2353]" pageId="13" pageNumber="176">Swezey</collectorName>
+</materialsCitation>
+. No caterpillars of this species were found.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E946FFACFE6F8B6F91170A34" box="[416,865,2386,2427]" pageId="13" pageNumber="176" type="discussion">
+<paragraph id="8BA536AEE946FFACFE6F8B6F91170A34" blockId="13.[416,1812,2386,2529]" box="[416,865,2386,2427]" pageId="13" pageNumber="176">
+<heading id="D0ED81C2E946FFACFE6F8B6F91170A34" box="[416,865,2386,2427]" fontSize="11" level="2" pageId="13" pageNumber="176" reason="2">
+<emphasis id="B96EEABCE946FFACFE6F8B6F90BA0A34" bold="true" box="[416,716,2386,2427]" pageId="13" pageNumber="176">
+8. 
+<taxonomicName id="4C1A4D2DE946FFACFE118B6F90BA0A34" authorityName="C.Linnaeus" authorityYear="1758" box="[478,716,2386,2427]" kingdom="Animalia" pageId="13" pageNumber="176" rank="family">Nephopteryx</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E946FFACFE108BB997A10AAE" pageId="13" pageNumber="176" type="materials_examined">
+<paragraph id="8BA536AEE946FFACFE108BB997A10AAE" blockId="13.[416,1812,2386,2529]" pageId="13" pageNumber="176">
+<materialsCitation id="3B723CF3E946FFACFE108BB991460AE0" ID-GBIF-Occurrence="3913652443" box="[479,816,2436,2479]" collectedFrom="all reared from larvae on leaves of Gymnosporia thompsonii" collectingDate="1936-07-06" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="13" pageNumber="176">
+<location id="8EC56075E946FFACFE108BB990E40AE0" LSID="urn:lsid:plazi:treatment:03B387B8E946FFAFFE5185D093B302AA:8EC56075E946FFACFE108BB990E40AE0" box="[479,658,2436,2479]" pageId="13" pageNumber="176">Barrigada</location>
+, 
+<date id="FFA4106EE946FFACFD618BB991510AE0" box="[686,807,2436,2479]" pageId="13" pageNumber="176">
+<collectingDate id="EFE0E986E946FFACFD618BB991510AE0" box="[686,807,2436,2479]" pageId="13" pageNumber="176">July 6</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFC8A8BB996F50AE0" ID-GBIF-Occurrence="3913652482" box="[837,1155,2436,2479]" collectedFrom="all reared from larvae on leaves of Gymnosporia thompsonii" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="13" pageNumber="176">
+<location id="8EC56075E946FFACFC8A8BB991BB0AE0" LSID="urn:lsid:plazi:treatment:03B387B8E946FFAFFE5185D093B302AA:8EC56075E946FFACFC8A8BB991BB0AE0" box="[837,973,2436,2479]" pageId="13" pageNumber="176">
+<collectingMunicipality id="6BC1ACD4E946FFACFC8A8BB991BB0AE0" box="[837,973,2436,2479]" pageId="13" pageNumber="176">Dededo</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE946FFACFC288BB9960A0AE0" box="[999,1148,2436,2479]" pageId="13" pageNumber="176" value="2011-08">
+<collectingDate id="EFE0E986E946FFACFC288BB9960A0AE0" box="[999,1148,2436,2479]" pageId="13" pageNumber="176" value="2011-08">Aug. 11</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFB558BB997400AE0" ID-GBIF-Occurrence="3913652513" box="[1178,1334,2436,2479]" collectedFrom="all reared from larvae on leaves of Gymnosporia thompsonii" collectingDate="1936-09-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="13" pageNumber="176">
+<date id="FFA4106EE946FFACFB558BB997590AE0" box="[1178,1327,2436,2479]" pageId="13" pageNumber="176" value="2011-09">
+<collectingDate id="EFE0E986E946FFACFB558BB997590AE0" box="[1178,1327,2436,2479]" pageId="13" pageNumber="176" value="2011-09">Sept. 11</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFA848BB997A10AAE" ID-GBIF-Occurrence="3913652331" collectedFrom="all reared from larvae on leaves of Gymnosporia thompsonii" collectingDate="1936-10-18" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="13" pageNumber="176">
+<collectingMunicipality id="6BC1ACD4E946FFACFA848BB997D50AE0" box="[1355,1443,2436,2479]" pageId="13" pageNumber="176">Yigo</collectingMunicipality>
+, 
+<date id="FFA4106EE946FFACFA718BB9943B0AE0" box="[1470,1613,2436,2479]" pageId="13" pageNumber="176" value="2018-10">
+<collectingDate id="EFE0E986E946FFACFA718BB9943B0AE0" box="[1470,1613,2436,2479]" pageId="13" pageNumber="176" value="2018-10">Oct. 18</collectingDate>
+</date>
+; all reared from 
+<specimenCount id="9D1CFD27E946FFACFDC98B8A90060AAE" box="[518,624,2487,2529]" pageId="13" pageNumber="176" type="larva">larvae</specimenCount>
+on leaves of 
+<taxonomicName id="4C1A4D2DE946FFACFCBE8B8A97A10AAE" authority=", Swezey." authorityName="Swezey." box="[881,1495,2487,2529]" class="Magnoliopsida" family="Celastraceae" genus="Gymnosporia" kingdom="Plantae" order="Celastrales" pageId="13" pageNumber="176" phylum="Tracheophyta" rank="species" species="thompsonii">
+<emphasis id="B96EEABCE946FFACFCBE8B8A97410AAE" box="[881,1335,2487,2529]" italics="true" pageId="13" pageNumber="176">
+<location id="8EC56075E946FFACFCBE8B8A962D0AAE" LSID="urn:lsid:plazi:treatment:03B387B8E946FFAFFE5185D093B302AA:8EC56075E946FFACFCBE8B8A962D0AAE" box="[881,1115,2487,2529]" pageId="13" pageNumber="176">Gymnosporia</location>
+thompsonii,
+</emphasis>
+<collectorName id="26EF5378E946FFACFA848B8A97A40AAE" box="[1355,1490,2487,2529]" pageId="13" pageNumber="176">Swezey</collectorName>
+.
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E945FFAFFEFA8368908F0231" box="[309,761,341,382]" pageId="14" pageNumber="177" type="discussion">
+<paragraph id="8BA536AEE945FFAFFEFA8368908F0231" blockId="14.[309,1710,341,1651]" box="[309,761,341,382]" pageId="14" pageNumber="177">
+<heading id="D0ED81C2E945FFAFFEFA8368908F0231" box="[309,761,341,382]" fontSize="11" level="2" pageId="14" pageNumber="177" reason="2">
+<emphasis id="B96EEABCE945FFAFFEFA836890140231" bold="true" box="[309,610,341,382]" pageId="14" pageNumber="177">
+9. 
+<taxonomicName id="4C1A4D2DE945FFAFFEBA836890140231" authorityName="C.Linnaeus" authorityYear="1758" box="[373,610,341,382]" kingdom="Animalia" pageId="14" pageNumber="177" rank="family">Nephopteryx</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E945FFAFFEB883B593B302AA" pageId="14" pageNumber="177" type="materials_examined">
+<paragraph id="8BA536AEE945FFAFFEB883B593B302AA" blockId="14.[309,1710,341,1651]" pageId="14" pageNumber="177">
+<materialsCitation id="3B723CF3E945FFAFFEB883B5913C02FE" ID-GBIF-Occurrence="3336062309" box="[375,842,392,433]" collectedFrom="at light" collectingDate="1936-08-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="14" pageNumber="177" specimenCount="1">
+<location id="8EC56075E945FFAFFEB883B593CC02FE" LSID="urn:lsid:plazi:treatment:03B387B8E946FFAFFE5185D093B302AA:8EC56075E945FFAFFEB883B593CC02FE" box="[375,442,392,433]" pageId="14" pageNumber="177">
+<collectingMunicipality id="6BC1ACD4E945FFAFFEB883B593CC02FE" box="[375,442,392,433]" pageId="14" pageNumber="177">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE945FFAFFE1F83B5901702FE" box="[464,609,392,433]" pageId="14" pageNumber="177" value="2020-08">
+<collectingDate id="EFE0E986E945FFAFFE1F83B5901702FE" box="[464,609,392,433]" pageId="14" pageNumber="177" value="2020-08">Aug. 20</collectingDate>
+</date>
+, one at light,
+</materialsCitation>
+<materialsCitation id="3B723CF3E945FFAFFC9583B593B302AA" ID-GBIF-Occurrence="3336062316" collectedFrom="swept from Glochidion marianum" collectingDate="1936-08-24" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="14" pageNumber="177" specimenCount="1">
+<date id="FFA4106EE945FFAFFC9583B5919D02FE" box="[858,1003,392,433]" pageId="14" pageNumber="177" value="1924-08">
+<collectingDate id="EFE0E986E945FFAFFC9583B5919D02FE" box="[858,1003,392,433]" pageId="14" pageNumber="177" value="1924-08">Aug. 24</collectingDate>
+</date>
+, one swept from 
+<taxonomicName id="4C1A4D2DE945FFAFFAEA83B593B302AA" authority=", Swezey." authorityName="Swezey." class="Magnoliopsida" family="Phyllanthaceae" genus="Glochidion" kingdom="Plantae" order="Malpighiales" pageId="14" pageNumber="177" phylum="Tracheophyta" rank="species" species="marianum">
+<emphasis id="B96EEABCE945FFAFFAEA83B594DC02FE" box="[1317,1706,392,433]" italics="true" pageId="14" pageNumber="177">
+<location id="8EC56075E945FFAFFAEA83B5979702FE" LSID="urn:lsid:plazi:treatment:03B387B8E946FFAFFE5185D093B302AA:8EC56075E945FFAFFAEA83B5979702FE" box="[1317,1505,392,433]" pageId="14" pageNumber="177">Glochidion</location>
+marianum,
+</emphasis>
+<collectorName id="26EF5378E945FFAFFEF6838693B602AA" box="[313,448,443,485]" pageId="14" pageNumber="177">Swezey</collectorName>
+.
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

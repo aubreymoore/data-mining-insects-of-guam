@@ -1,0 +1,261 @@
+<document id="466B983FC73DE66834497E55F068D36F" ID-DOI="http://doi.org/10.5281/zenodo.5164064" ID-GBIF-Dataset="8ddfacbb-c42b-4385-b70b-ea5bd759c377" ID-Zenodo-Dep="5164064" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628020838575" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03938792FFDBFFCAFEC2FBF880DCF876" docLanguage="en" docName="InsectsOfGuamII.189.149-156.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Dictyophora nakanonis Matsumura" docType="treatment" docVersion="15" lastPageNumber="149" masterDocId="FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9" masterDocTitle="Notes On Some Fulgoroidea Of Guam" masterLastPageNumber="156" masterPageNumber="149" pageNumber="149" updateTime="1671318232748" updateUser="annettekang">
+<mods:mods id="49ED46F3A358F21E7A0A6E952146C160" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="322FAFC525F271C925955DB9BF10A95C">
+<mods:title id="6C1B469D0DEB64CD7EF6334C44E711AC">Notes On Some Fulgoroidea Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="C05AD96873C77E27B11A8A1B752C32CE" type="personal">
+<mods:role id="78F2E0607257E77F12728EEEDF9B6A8F">
+<mods:roleTerm id="043864C4B8B3D6D4BD00F9A9D06BE606">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="30C3CE19AF0D884969863659371862BA">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="30362B19D40014C877D62D059398023D">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A90F38DB3C4F2DAA8C985875410D6EFD">text</mods:typeOfResource>
+<mods:relatedItem id="41D67FDBAB48FC8D32E90523855BFC2B" type="host">
+<mods:originInfo id="3A4E5BF18E4445F07EB5A31BA518FDE2">
+<mods:dateIssued id="D98DA95B41E77464C2BC0E7CDBBB51FC">1946</mods:dateIssued>
+<mods:dateOther id="B21B1E6A6C1B61510B8193D48015F53D" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="FF7F0E7CE1FD879C36B23E97CD648BBC">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="AACA70418522CBC12CC6B166C19DF6B7">
+<mods:placeTerm id="D6258687BFEF2C1BF8C860E141AF6D39">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="2958780ECCF17B7438AB8B3D3CDC1042">
+<mods:title id="7BD37807C16CBF1BA684AFDED8779E52">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="E2C5DE59678CE91349919BA1C599BD89">
+<mods:extent id="9C24B3C350F56E1E33FB57A8C2A34EC1" unit="page">
+<mods:start id="C9D4C3752E93A6AF908E69C3F2915F50">149</mods:start>
+<mods:end id="724438C366EE01142A07DECD24859A56">156</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="C6282CF5186CCA59839088A05E0B8DC9">book chapter</mods:classification>
+<mods:identifier id="3D2B4E73312DBAB51098B272FAEFB2A5" type="DOI">http://doi.org/10.5281/zenodo.5164064</mods:identifier>
+<mods:identifier id="B5CCF7B80A7E818118224FB47DB8EAE1" type="GBIF-Dataset">8ddfacbb-c42b-4385-b70b-ea5bd759c377</mods:identifier>
+<mods:identifier id="66AFA1D502104411562C52D7BC13132A" type="Zenodo-Dep">5164064</mods:identifier>
+</mods:mods>
+<treatment id="03938792FFDBFFCAFEC2FBF880DCF876" ID-DOI="http://doi.org/10.5281/zenodo.5211512" ID-GBIF-Taxon="183925047" ID-Zenodo-Dep="5211512" LSID="urn:lsid:plazi:treatment:03938792FFDBFFCAFEC2FBF880DCF876" httpUri="http://treatment.plazi.org/id/03938792FFDBFFCAFEC2FBF880DCF876" lastPageNumber="149" pageId="0" pageNumber="149">
+<subSubSection id="C320650FFFDBFFCAFEC2FBF885A1FBB6" box="[316,976,1077,1119]" pageId="0" pageNumber="149" type="nomenclature">
+<paragraph id="8B853684FFDBFFCAFEC2FBF885A1FBB6" blockId="0.[313,1713,1077,1951]" box="[316,976,1077,1119]" pageId="0" pageNumber="149">
+<taxonomicName id="4C3A4D07FFDBFFCAFEC2FBF885B8FBB6" authority="Matsumura" box="[316,969,1077,1119]" class="Insecta" family="Dictyophoridae" genus="Dictyophora" higherTaxonomySource="CoL" kingdom="Animalia" order="Solanales" pageId="0" pageNumber="149" phylum="Arthropoda" rank="genus">
+<emphasis id="B94EEA96FFDBFFCAFEC2FBF88496FBB6" bold="true" box="[316,743,1077,1119]" pageId="0" pageNumber="149">Dictyophora nakanonis</emphasis>
+<author id="5387DE61FFDBFFCAFD09FBF885B8FBB6" box="[759,969,1077,1119]" pageId="0" pageNumber="149">Matsumura</author>
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDBFFCAFC1CFBF8829FFB7A" pageId="0" pageNumber="149" type="reference_group">
+<paragraph id="8B853684FFDBFFCAFC1CFBF8829FFB7A" blockId="0.[313,1713,1077,1951]" pageId="0" pageNumber="149">
+<treatmentCitationGroup id="AB2A11AAFFDBFFCAFC1CFBF8829FFB7A" pageId="0" pageNumber="149">
+<treatmentCitation id="0A9B1095FFDBFFCAFC1CFBF887ADFB7A" author="Matsumura" page="109" pageId="0" pageNumber="149" year="1910">
+<bibCitation id="5E103EE8FFDBFFCAFC1CFBF887ADFB7A" author="Matsumura" journalOrPublisher="Sapporo Nat. Hist. Soc., Trans." pageId="0" pageNumber="149" pagination="109" part="3" type="journal article" year="1910">
+<journalOrPublisher id="51FB3C48FFDBFFCAFC1CFBF88056FBB6" box="[994,1575,1077,1119]" pageId="0" pageNumber="149">Sapporo Nat. Hist. Soc., Trans.</journalOrPublisher>
+<part id="FF9E9C19FFDBFFCAF9C7FBF88037FBB6" box="[1593,1606,1077,1119]" pageId="0" pageNumber="149" type="volume">3</part>
+: 
+<pagination id="B2F3C870FFDBFFCAF993FBF880DAFBB6" box="[1645,1707,1077,1119]" pageId="0" pageNumber="149" type="pagination">109</pagination>
+, 
+<year id="FF9277D7FFDBFFCAFE83FBA487A4FB7A" box="[381,469,1129,1171]" pageId="0" pageNumber="149">1910</year>
+;
+</bibCitation>
+</treatmentCitation>
+<treatmentCitation id="0A9B1095FFDBFFCAFE15FBA4829FFB7A" author="Melichar" box="[491,1262,1129,1171]" page="130" pageId="0" pageNumber="149" year="1912">
+<bibCitation id="5E103EE8FFDBFFCAFE15FBA4829FFB7A" author="Melichar" box="[491,1262,1129,1171]" pageId="0" pageNumber="149" pagination="130" title="Mon. Dictyophoriden" type="book" year="1912">
+<author id="5387DE61FFDBFFCAFE15FBA484E1FB7A" box="[491,656,1129,1171]" pageId="0" pageNumber="149">Melichar</author>
+, 
+<title id="F93EDDB2FFDBFFCAFD5AFBA4825AFB7A" box="[676,1067,1129,1171]" pageId="0" pageNumber="149">Mon. Dictyophoriden</title>
+, 
+<pagination id="B2F3C870FFDBFFCAFBBCFBA4820EFB7A" box="[1090,1151,1129,1171]" pageId="0" pageNumber="149">130</pagination>
+, 
+<year id="FF9277D7FFDBFFCAFB68FBA48298FB7A" box="[1174,1257,1129,1171]" pageId="0" pageNumber="149">1912</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDBFFCAFE84FB688256F9DA" pageId="0" pageNumber="149" type="materials_examined">
+<paragraph id="8B853684FFDBFFCAFE84FB688256F9DA" blockId="0.[313,1713,1077,1951]" pageId="0" pageNumber="149">
+<materialsCitation id="3B523CD9FFDBFFCAFE84FB688550FB39" ID-GBIF-Occurrence="3914035310" box="[378,801,1189,1232]" collectingDate="1936-04-30" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="0" pageNumber="149">
+<location id="8EE5605FFFDBFFCAFE84FB6887CCFB39" LSID="urn:lsid:plazi:treatment:03938792FFDBFFCAFEC2FBF880DCF876:8EE5605FFFDBFFCAFE84FB6887CCFB39" box="[378,445,1189,1232]" country="Guam" name="Piti" pageId="0" pageNumber="149">Piti</location>
+, 
+<date id="FF841044FFDBFFCAFE28FB688400FB39" box="[470,625,1189,1232]" pageId="0" pageNumber="149" value="1930-04">
+<collectingDate id="EFC0E9ACFFDBFFCAFE28FB688400FB39" box="[470,625,1189,1232]" pageId="0" pageNumber="149" value="1930-04">April 30</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDBFFCAFD74FB68856BFB39" box="[650,794,1189,1232]" pageId="0" pageNumber="149">Usinger</collectorName>
+,
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDBFFCAFCCAFB68834AFB39" ID-GBIF-Occurrence="3914035314" box="[820,1339,1189,1232]" collectedFrom="on Physalis" collectingDate="1936-05-02" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="149">
+<date id="FF841044FFDBFFCAFCCAFB6885DBFB39" box="[820,938,1189,1232]" pageId="0" pageNumber="149">
+<collectingDate id="EFC0E9ACFFDBFFCAFCCAFB6885DBFB39" box="[820,938,1189,1232]" pageId="0" pageNumber="149">May 2</collectingDate>
+</date>
+, 
+<collectedFrom id="38267579FFDBFFCAFC3DFB6882E5FB39" box="[963,1172,1189,1232]" pageId="0" pageNumber="149">
+on 
+<emphasis id="B94EEA96FFDBFFCAFC03FB6882EAFB39" box="[1021,1179,1189,1232]" italics="true" pageId="0" pageNumber="149">
+<taxonomicName id="4C3A4D07FFDBFFCAFC03FB6882E5FB39" authority=", Swezey" authorityName="Swezey" box="[1021,1172,1189,1232]" class="Magnoliopsida" family="Solanaceae" genus="Physalis" kingdom="Plantae" order="Solanales" pageId="0" pageNumber="149" phylum="Tracheophyta" rank="genus">Physalis</taxonomicName>
+,
+</emphasis>
+</collectedFrom>
+<collectorName id="26CF5352FFDBFFCAFB51FB688344FB39" box="[1199,1333,1189,1232]" pageId="0" pageNumber="149">Swezey</collectorName>
+,
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDBFFCAFAB0FB6883BDFB39" ID-GBIF-Occurrence="3914035367" box="[1358,1484,1189,1232]" collectingDate="1936-05-03" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="149">
+<date id="FF841044FFDBFFCAFAB0FB6883B5FB39" box="[1358,1476,1189,1232]" pageId="0" pageNumber="149">
+<collectingDate id="EFC0E9ACFFDBFFCAFAB0FB6883B5FB39" box="[1358,1476,1189,1232]" pageId="0" pageNumber="149">May 3</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDBFFCAFA20FB6880DEFB39" ID-GBIF-Occurrence="3914035350" box="[1502,1711,1189,1232]" collectingDate="1936-05-31" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="149">
+<collectingDate id="EFC0E9ACFFDBFFCAFA20FB688078FB39" box="[1502,1545,1189,1232]" pageId="0" pageNumber="149">31</collectingDate>
+, 
+<collectorName id="26CF5352FFDBFFCAF9DAFB6880D8FB39" box="[1572,1705,1189,1232]" pageId="0" pageNumber="149">Swezey</collectorName>
+,
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDBFFCAFEC3FB1A8544FAEB" ID-GBIF-Occurrence="3914035361" box="[317,821,1239,1282]" collectedFrom="on Emilia" collectingDate="1936-05-23" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="0" pageNumber="149">
+<date id="FF841044FFDBFFCAFEC3FB1A87B2FAEB" box="[317,451,1239,1282]" pageId="0" pageNumber="149" value="1923-05">
+<collectingDate id="EFC0E9ACFFDBFFCAFEC3FB1A87B2FAEB" box="[317,451,1239,1282]" pageId="0" pageNumber="149" value="1923-05">May 23</collectingDate>
+</date>
+, 
+<collectingMunicipality id="6BE1ACFEFFDBFFCAFE24FB1A84F8FAEB" box="[474,649,1239,1282]" pageId="0" pageNumber="149">
+on 
+<emphasis id="B94EEA96FFDBFFCAFDEEFB1A84FEFAEB" box="[528,655,1239,1282]" italics="true" pageId="0" pageNumber="149">
+<taxonomicName id="4C3A4D07FFDBFFCAFDEEFB1A84F8FAEB" authority=", Usinger" authorityName="Usinger" box="[528,649,1239,1282]" class="Magnoliopsida" family="Asteraceae" genus="Emilia" kingdom="Plantae" order="Asterales" pageId="0" pageNumber="149" phylum="Tracheophyta" rank="genus">Emilia</taxonomicName>
+,
+</emphasis>
+</collectingMunicipality>
+<collectorName id="26CF5352FFDBFFCAFD60FB1A855FFAEB" box="[670,814,1239,1282]" pageId="0" pageNumber="149">Usinger</collectorName>
+,
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDBFFCAFCBDFB1A830AFAEB" ID-GBIF-Occurrence="3914035334" box="[835,1403,1239,1282]" collectedFrom="on sugar cane" collectingDate="1936-06-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="149">
+<date id="FF841044FFDBFFCAFCBDFB1A85BEFAEB" box="[835,975,1239,1282]" pageId="0" pageNumber="149" value="2013-06">
+<collectingDate id="EFC0E9ACFFDBFFCAFCBDFB1A85BEFAEB" box="[835,975,1239,1282]" pageId="0" pageNumber="149" value="2013-06">June 13</collectingDate>
+</date>
+, 
+<collectedFrom id="38267579FFDBFFCAFC1AFB1A82A8FAEB" box="[996,1241,1239,1282]" pageId="0" pageNumber="149">on sugar cane</collectedFrom>
+, 
+<collectorName id="26CF5352FFDBFFCAFB11FB1A8304FAEB" box="[1263,1397,1239,1282]" pageId="0" pageNumber="149">Swezey</collectorName>
+,
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDBFFCAFA77FB1A80DEFAEB" ID-GBIF-Occurrence="3914035312" box="[1417,1711,1239,1282]" collectingDate="1936-07-26" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="149">
+<date id="FF841044FFDBFFCAFA77FB1A807CFAEB" box="[1417,1549,1239,1282]" pageId="0" pageNumber="149" value="1926-07">
+<collectingDate id="EFC0E9ACFFDBFFCAFA77FB1A807CFAEB" box="[1417,1549,1239,1282]" pageId="0" pageNumber="149" value="1926-07">July 26</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDBFFCAF9DAFB1A80D8FAEB" box="[1572,1705,1239,1282]" pageId="0" pageNumber="149">Swezey</collectorName>
+,
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDBFFCAFEC3FAC185E8FADF" ID-GBIF-Occurrence="3914035340" box="[317,921,1292,1334]" collectedFrom="on Glochidion" collectingDate="1936-11-14" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="149">
+<date id="FF841044FFDBFFCAFEC3FAC187A1FADF" box="[317,464,1292,1334]" pageId="0" pageNumber="149" value="2014-11">
+<collectingDate id="EFC0E9ACFFDBFFCAFEC3FAC187A1FADF" box="[317,464,1292,1334]" pageId="0" pageNumber="149" value="2014-11">Nov. 14</collectingDate>
+</date>
+, 
+<collectedFrom id="38267579FFDBFFCAFE12FAC18498FADF" box="[492,745,1292,1334]" pageId="0" pageNumber="149">
+on 
+<emphasis id="B94EEA96FFDBFFCAFDD4FAC1849EFADF" box="[554,751,1292,1334]" italics="true" pageId="0" pageNumber="149">
+<taxonomicName id="4C3A4D07FFDBFFCAFDD4FAC18498FADF" authority=", Swezey" authorityName="Swezey" box="[554,745,1292,1334]" class="Magnoliopsida" family="Phyllanthaceae" genus="Glochidion" kingdom="Plantae" order="Malpighiales" pageId="0" pageNumber="149" phylum="Tracheophyta" rank="genus">Glochidion</taxonomicName>
+,
+</emphasis>
+</collectedFrom>
+<collectorName id="26CF5352FFDBFFCAFCFBFAC185E3FADF" box="[773,914,1292,1334]" pageId="0" pageNumber="149">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDBFFCAFC50FAC183FDFADF" ID-GBIF-Occurrence="3914035307" box="[942,1420,1292,1334]" collectingDate="1936-05-07" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="0" pageNumber="149">
+<location id="8EE5605FFFDBFFCAFC50FAC18239FADF" LSID="urn:lsid:plazi:treatment:03938792FFDBFFCAFEC2FBF880DCF876:8EE5605FFFDBFFCAFC50FAC18239FADF" box="[942,1096,1292,1334]" name="Inarajan" pageId="0" pageNumber="149">Inarajan</location>
+, 
+<date id="FF841044FFDBFFCAFB9AFAC182ADFADF" box="[1124,1244,1292,1334]" pageId="0" pageNumber="149">
+<collectingDate id="EFC0E9ACFFDBFFCAFB9AFAC182ADFADF" box="[1124,1244,1292,1334]" pageId="0" pageNumber="149">
+May 
+<emphasis id="B94EEA96FFDBFFCAFB38FAC18292FADF" box="[1222,1251,1292,1334]" italics="true" pageId="0" pageNumber="149">7,</emphasis>
+</collectingDate>
+</date>
+<collectorName id="26CF5352FFDBFFCAFB07FAC183F4FADF" box="[1273,1413,1292,1334]" pageId="0" pageNumber="149">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDBFFCAFA5EFAC187A0FA81" ID-GBIF-Occurrence="3914035319" collectingDate="1936-06-06" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="0" pageNumber="149">
+<location id="8EE5605FFFDBFFCAFA5EFAC18064FADF" LSID="urn:lsid:plazi:treatment:03938792FFDBFFCAFEC2FBF880DCF876:8EE5605FFFDBFFCAFA5EFAC18064FADF" box="[1440,1557,1292,1334]" name="Agana" pageId="0" pageNumber="149">Agana</location>
+, 
+<date id="FF841044FFDBFFCAF9D0FAC180D8FADF" box="[1582,1705,1292,1334]" pageId="0" pageNumber="149">
+<collectingDate id="EFC0E9ACFFDBFFCAF9D0FAC180D8FADF" box="[1582,1705,1292,1334]" pageId="0" pageNumber="149">June 6</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDBFFCAFEC0FAF387BBFA81" box="[318,458,1342,1384]" pageId="0" pageNumber="149">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDBFFCAFE19FAF385BBFA81" ID-GBIF-Occurrence="3914035329" box="[487,970,1342,1384]" collectingDate="1936-07-17" collectorName="O. H. Swezey" country="Guam" location="Dandan" pageId="0" pageNumber="149">
+<location id="8EE5605FFFDBFFCAFE19FAF38402FA81" LSID="urn:lsid:plazi:treatment:03938792FFDBFFCAFEC2FBF880DCF876:8EE5605FFFDBFFCAFE19FAF38402FA81" box="[487,627,1342,1384]" name="Dandan" pageId="0" pageNumber="149">Dandan</location>
+, 
+<date id="FF841044FFDBFFCAFD71FAF38569FA81" box="[655,792,1342,1384]" pageId="0" pageNumber="149" value="2017-07">
+<collectingDate id="EFC0E9ACFFDBFFCAFD71FAF38569FA81" box="[655,792,1342,1384]" pageId="0" pageNumber="149" value="2017-07">July 17</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDBFFCAFCC9FAF385B2FA81" box="[823,963,1342,1384]" pageId="0" pageNumber="149">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDBFFCAFC1EFAF384F2FA73" ID-GBIF-Occurrence="3331825319" collectedFrom="on Pipturus and Sida" collectingDate="1936-09-27" collectorName="O. H. Swezey" country="Guam" location="Orote Peninsula" pageId="0" pageNumber="149">
+<location id="8EE5605FFFDBFFCAFC1EFAF38378FA81" LSID="urn:lsid:plazi:treatment:03938792FFDBFFCAFEC2FBF880DCF876:8EE5605FFFDBFFCAFC1EFAF38378FA81" box="[992,1289,1342,1384]" name="Orote Peninsula" pageId="0" pageNumber="149">Orote Peninsula</location>
+, 
+<date id="FF841044FFDBFFCAFAD6FAF383CCFA81" box="[1320,1469,1342,1384]" pageId="0" pageNumber="149" value="1927-09">
+<collectingDate id="EFC0E9ACFFDBFFCAFAD6FAF383CCFA81" box="[1320,1469,1342,1384]" pageId="0" pageNumber="149" value="1927-09">
+Sept. 
+<emphasis id="B94EEA96FFDBFFCAFA6CFAF383B5FA81" box="[1426,1476,1342,1384]" italics="true" pageId="0" pageNumber="149">27,</emphasis>
+</collectingDate>
+</date>
+<collectedFrom id="38267579FFDBFFCAFA24FAF387ADFA73" pageId="0" pageNumber="149">
+on 
+<emphasis id="B94EEA96FFDBFFCAF9E8FAF380C0FA81" box="[1558,1713,1342,1384]" italics="true" pageId="0" pageNumber="149">Pipt1wus</emphasis>
+and 
+<emphasis id="B94EEA96FFDBFFCAFE75FABF8792FA73" box="[395,483,1394,1434]" italics="true" pageId="0" pageNumber="149">
+<taxonomicName id="4C3A4D07FFDBFFCAFE75FABF87ADFA73" authority=", Swezey. More" authorityName="Swezey. More" box="[395,476,1394,1434]" class="Branchiopoda" family="Malvaceae" genus="Sida" kingdom="Animalia" order="Diplostraca" pageId="0" pageNumber="149" phylum="Arthropoda" rank="genus">Sida</taxonomicName>
+,
+</emphasis>
+</collectedFrom>
+<collectorName id="26CF5352FFDBFFCAFE09FABF840FFA73" box="[503,638,1394,1434]" pageId="0" pageNumber="149">Swezey</collectorName>
+.
+</materialsCitation>
+More specimens were collected on the 
+<taxonomicName id="4C3A4D07FFDBFFCAFAA9FABF839AFA73" box="[1367,1515,1394,1434]" class="Magnoliopsida" family="Solanaceae" genus="Physalis" kingdom="Plantae" order="Solanales" pageId="0" pageNumber="149" phylum="Tracheophyta" rank="genus">
+<emphasis id="B94EEA96FFDBFFCAFAA9FABF839AFA73" box="[1367,1515,1394,1434]" italics="true" pageId="0" pageNumber="149">Physalis</emphasis>
+</taxonomicName>
+weed than on any other plant. The nymphs occurred on this plant also. We found this insect widely distributed in 
+<collectingCountry id="F32D7614FFDBFFCAFCD3FA1B85E9F9E9" box="[813,920,1494,1536]" name="Guam" pageId="0" pageNumber="149">Guam</collectingCountry>
+, quite general in habits and never numerous enough on any one plant to be injurious.
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDBFFCAFE85F98E80DCF876" pageId="0" pageNumber="149" type="discussion">
+<paragraph id="8B853684FFDBFFCAFE85F98E80DCF876" blockId="0.[313,1713,1077,1951]" pageId="0" pageNumber="149">
+This rather large fulgorid with a long prolongation of the head was determined by P. W. 
+<collectingCountry id="F32D7614FFDBFFCAFD9CF9BA84A1F948" box="[610,720,1655,1697]" name="Oman" pageId="0" pageNumber="149">Oman</collectingCountry>
+, by comparison with 
+<collectingCountry id="F32D7614FFDBFFCAFBB5F9BA82D7F948" box="[1099,1190,1655,1697]" name="United States of America" pageId="0" pageNumber="149">U. S.</collectingCountry>
+National Museum specimens from the 
+<collectingCountry id="F32D7614FFDBFFCAFE1EF96784D2F93A" box="[480,675,1706,1747]" name="Philippines" pageId="0" pageNumber="149">Philippines</collectingCountry>
+determined by Dr. L. Melichar as 
+<emphasis id="B94EEA96FFDBFFCAFAEDF96783BDF93A" box="[1299,1484,1706,1747]" italics="true" pageId="0" pageNumber="149">nakanonis.</emphasis>
+It is closely similar to 
+<taxonomicName id="4C3A4D07FFDBFFCAFE0DF916850CF8EC" authority="(Donovan)" baseAuthorityName="Donovan" box="[499,893,1755,1797]" class="Insecta" family="Dictyopharidae" genus="Dictyophora" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="149" phylum="Arthropoda" rank="species" species="pallida">
+<emphasis id="B94EEA96FFDBFFCAFE0DF91684D2F8EC" box="[499,675,1755,1797]" italics="true" pageId="0" pageNumber="149">D. pallida</emphasis>
+(Donovan)
+</taxonomicName>
+which has a wide range in the Orient Jrom 
+<collectingCountry id="F32D7614FFDBFFCAFEC5F8C087E8F8D1" box="[315,409,1805,1848]" name="India" pageId="0" pageNumber="149">India</collectingCountry>
+to 
+<collectingCountry id="F32D7614FFDBFFCAFE19F8C08422F8D1" box="[487,595,1805,1848]" name="China" pageId="0" pageNumber="149">China</collectingCountry>
+, 
+<collectingCountry id="F32D7614FFDBFFCAFD91F8C08563F8D1" box="[623,786,1805,1848]" name="Taiwan" pageId="0" pageNumber="149">Formosa</collectingCountry>
+, 
+<collectingCountry id="F32D7614FFDBFFCAFCCEF8C0858FF8D1" box="[816,1022,1805,1848]" name="Philippines" pageId="0" pageNumber="149">Philippines</collectingCountry>
+, Java, Sumatra, and Borneo, and is described under several different names. Dr. 
+<collectingCountry id="F32D7614FFDBFFCAFB7BF88C8281F882" box="[1157,1264,1857,1899]" name="Oman" pageId="0" pageNumber="149">Oman</collectingCountry>
+states that it is possible that on further study of this group, 
+<emphasis id="B94EEA96FFDBFFCAFC45F8B8821DF876" box="[955,1132,1909,1951]" italics="true" pageId="0" pageNumber="149">nakanonis</emphasis>
+and 
+<taxonomicName id="4C3A4D07FFDBFFCAFB39F8B8834DF876" box="[1223,1340,1909,1951]" class="Insecta" family="Dictyopharidae" genus="Dictyophora" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="149" phylum="Arthropoda" rank="species" species="pallida">
+<emphasis id="B94EEA96FFDBFFCAFB39F8B8834DF876" box="[1223,1340,1909,1951]" italics="true" pageId="0" pageNumber="149">pallida</emphasis>
+</taxonomicName>
+may prove identical.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

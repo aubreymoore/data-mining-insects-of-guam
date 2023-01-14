@@ -1,0 +1,131 @@
+<document id="3AFC4E7B561D5FF0A6C9EC0216370F89" ID-DOI="http://doi.org/10.5281/zenodo.5156759" ID-GBIF-Dataset="6e65e7d3-7a72-4da4-9739-5e3814593490" ID-Zenodo-Dep="5156759" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628022238476" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="907B754A855EFFC923B8FA75EC6AF8BE" docLanguage="en" docName="InsectsOfGuamII.189.221-227.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Macrocentrus pallidus Fullaway" docType="treatment" docVersion="14" lastPageNumber="224" masterDocId="6C420D32855DFFCA221EFFCCE940FF9E" masterDocTitle="Ichneumonidae, Evaniidae, And Braconidae Of Guam" masterLastPageNumber="227" masterPageNumber="221" pageNumber="224" updateTime="1660588495563" updateUser="ExternalLinkService">
+<mods:mods id="F6E71470DE0D5AE9040F9CDC3FEAF380" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="3B5A915F81473E7F45A403288D45E35B">
+<mods:title id="1446CBE962BB6A927EEDCC7EBB1C82A6">Ichneumonidae, Evaniidae, And Braconidae Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="AA819D3AFC22042E3DBD40AE52B832D4" type="personal">
+<mods:role id="088CDF307EAB9C293E7B794BD6137702">
+<mods:roleTerm id="F63892F829EB6A6FF7083795DC8E12F1">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="5CC8218DDBD1A3249AC5EE4494834B91">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="708DE1A3F99A1F16792503038F4367A8">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="D01520FE16F28D337FB8417F16610F6F">text</mods:typeOfResource>
+<mods:relatedItem id="E46209436DCEA6E93795F8708A667228" type="host">
+<mods:originInfo id="10C9DAA84EAE6DB3CD8F3F01743C2916">
+<mods:dateIssued id="AC70212B2E424C3593A26F6D0400A752">1946</mods:dateIssued>
+<mods:dateOther id="528BBB32DAAE11A7F176F9BFB0F5A660" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="D1C0C2A6AFE42271E8FA50128FD46787">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="E66BAC0757D7E53B2B5ED3B6BDC0D24E">
+<mods:placeTerm id="F6963903C07267D73A005911EF6F70A7">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="39E42E7A769D73BD360A0E35CD850993">
+<mods:title id="12CD181382B8CE09D0D34E6C480B2366">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="E1D5C5C6385F2B29464C3343748B06E2">
+<mods:extent id="46AF99F7285672BA6A0281CFDB48F4D6" unit="page">
+<mods:start id="9670310388E44C319679E92D517D1FFE">221</mods:start>
+<mods:end id="493B6568F623915ABDFA658C9FBCA541">227</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="451A35EC60E02FCAF30B01313CBE2C98">book chapter</mods:classification>
+<mods:identifier id="36DF9D51602436C37E291B42564F153C" type="DOI">http://doi.org/10.5281/zenodo.5156759</mods:identifier>
+<mods:identifier id="9D42FD98DE904B3CFD82D2593B170FE0" type="GBIF-Dataset">6e65e7d3-7a72-4da4-9739-5e3814593490</mods:identifier>
+<mods:identifier id="C5A65AD54A0B7FEF1ACC2F1DF974D20A" type="Zenodo-Dep">5156759</mods:identifier>
+</mods:mods>
+<treatment id="907B754A855EFFC923B8FA75EC6AF8BE" ID-DOI="http://doi.org/10.5281/zenodo.5186464" ID-GBIF-Taxon="183969191" ID-Zenodo-Dep="5186464" LSID="urn:lsid:plazi:treatment:907B754A855EFFC923B8FA75EC6AF8BE" httpUri="http://treatment.plazi.org/id/907B754A855EFFC923B8FA75EC6AF8BE" lastPageNumber="224" pageId="3" pageNumber="224">
+<paragraph id="186DC45C855EFFC923B8FA75EE58FA7B" blockId="3.[420,1818,1465,1824]" box="[422,1816,1465,1509]" pageId="3" pageNumber="224">
+<subSubSection id="50C897D7855EFFC923B8FA75ED7DFA7B" box="[422,1085,1465,1509]" pageId="3" pageNumber="224" type="nomenclature">
+<heading id="43257330855EFFC923B8FA75ED7DFA7B" box="[422,1085,1465,1509]" centered="true" fontSize="11" level="2" pageId="3" pageNumber="224" reason="2">
+<emphasis id="2AA6184E855EFFC923B8FA75E881FA7B" bold="true" box="[422,449,1465,1509]" pageId="3" pageNumber="224">1.</emphasis>
+<taxonomicName id="DFD2BFDF855EFFC923FDFA75ED76FA7B" authority="Fullaway" authorityName="Fullaway" box="[483,1078,1465,1509]" class="Insecta" family="Braconidae" genus="Macrocentrus" kingdom="Animalia" order="Hymenoptera" pageId="3" pageNumber="224" phylum="Arthropoda" rank="species" species="pallidus">
+<emphasis id="2AA6184E855EFFC923FDFA75EA38FA7B" bold="true" box="[483,888,1465,1509]" pageId="3" pageNumber="224">Macrocentrus pallidus</emphasis>
+Fullaway
+</taxonomicName>
+,
+</heading>
+</subSubSection>
+<subSubSection id="50C897D7855EFFC9264EFA75EE58FA7B" box="[1104,1816,1465,1509]" pageId="3" pageNumber="224" type="reference_group">
+<treatmentCitationGroup id="38C2E372855EFFC9264EFA75EE58FA7B" box="[1104,1816,1465,1509]" pageId="3" pageNumber="224">
+<treatmentCitation id="9973E24D855EFFC9264EFA75EE58FA7B" author="Fullaway" box="[1104,1816,1465,1509]" page="289" pageId="3" pageNumber="224" year="1913">
+<bibCitation id="CDF8CC30855EFFC9264EFA75EE58FA7B" author="Fullaway" box="[1104,1816,1465,1509]" journalOrPublisher="Haw. Ent. Soc." pageId="3" pageNumber="224" pagination="289" part="2" refId="ref1874" type="journal article" year="1913">
+<journalOrPublisher id="C213CE90855EFFC9264EFA75EC2EFA7B" box="[1104,1390,1465,1509]" pageId="3" pageNumber="224">Haw. Ent. Soc.</journalOrPublisher>
+, Proc. 
+<part id="6C766EC1855EFFC927E8FA75EF4DFA7B" box="[1526,1549,1465,1509]" pageId="3" pageNumber="224" type="volume">2</part>
+(
+<part id="6C766EC1855EFFC92405FA75EF70FA7B" box="[1563,1584,1465,1509]" pageId="3" pageNumber="224" type="issue">5</part>
+): 
+<pagination id="211B3AA8855EFFC9247BFA75EFE6FA7B" box="[1637,1702,1465,1509]" pageId="3" pageNumber="224" type="pagination">289</pagination>
+, 
+<year id="6C7A850F855EFFC924DEFA75EE53FA7B" box="[1728,1811,1465,1509]" pageId="3" pageNumber="224">1913</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</subSubSection>
+</paragraph>
+<subSubSection id="50C897D7855EFFC923FDFA3BEC6AF8BE" pageId="3" pageNumber="224" type="materials_examined">
+<paragraph id="186DC45C855EFFC923FDFA3BEC6AF8BE" blockId="3.[420,1818,1465,1824]" pageId="3" pageNumber="224">
+<materialsCitation id="A8BACE01855EFFC923FDFA3BEA00F9CD" ID-GBIF-Occurrence="3888069303" collectedFrom="reared from phycitid abundant on leaves on Guettarda speciosa" collectingDate="1936-05-11" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="3" pageNumber="224" specimenCount="4">
+Dededo, 
+<date id="6C6CE29C855EFFC9209CFA3BEA4CF981" box="[642,780,1527,1567]" pageId="3" pageNumber="224" value="2011-05">
+<collectingDate id="7C281B74855EFFC9209CFA3BEA4CF981" box="[642,780,1527,1567]" pageId="3" pageNumber="224" value="2011-05">May 11</collectingDate>
+</date>
+, 
+<specimenCount id="0ED40FD5855EFFC9213AFA3BED72F981" box="[804,1074,1527,1567]" pageId="3" pageNumber="224" type="generic">four specimens</specimenCount>
+, reared from phycitid abundant on leaves of 
+<emphasis id="2AA6184E855EFFC923FEF9E5EA00F9CD" box="[480,832,1577,1619]" italics="true" pageId="3" pageNumber="224">
+<taxonomicName id="DFD2BFDF855EFFC923FEF9E5EA7AF9CD" box="[480,826,1577,1619]" class="Magnoliopsida" family="Rubiaceae" genus="Guettarda" kingdom="Plantae" order="Gentianales" pageId="3" pageNumber="224" phylum="Tracheophyta" rank="species" species="speciosa">Guettarda speciosa</taxonomicName>
+;
+</emphasis>
+</materialsCitation>
+<materialsCitation id="A8BACE01855EFFC9214AF9E5ED41F918" ID-GBIF-Occurrence="3888069324" collectedFrom="reared from cocoon on leaf (probably of coconut tineid)" collectingDate="1936-05-31" collectorName="O. H. Swezey" country="Guam" location="Agat" pageId="3" pageNumber="224" specimenCount="1">
+Agat, 
+<date id="6C6CE29C855EFFC921D5F9E5ED19F9CD" box="[971,1113,1577,1619]" pageId="3" pageNumber="224" value="1931-05">
+<collectingDate id="7C281B74855EFFC921D5F9E5ED19F9CD" box="[971,1113,1577,1619]" pageId="3" pageNumber="224" value="1931-05">May 31</collectingDate>
+</date>
+, 
+<specimenCount id="0ED40FD5855EFFC9266BF9E5EC24F9CD" box="[1141,1380,1577,1619]" pageId="3" pageNumber="224" type="generic">one specimen</specimenCount>
+reared from cocoon on leaf (probably of coconut tineid); 
+<collectionCode id="7EC35C99855EFFC921E4F990ED41F918" box="[1018,1025,1628,1670]" pageId="3" pageNumber="224">TODO</collectionCode>
+</materialsCitation>
+<materialsCitation id="A8BACE01855EFFC9260EF990EAF6F924" ID-GBIF-Occurrence="3332362319" collectedFrom="reared from phycitid on Guettarda" collectingDate="1936-06-27" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="3" pageNumber="224" specimenCount="3">
+<location id="1D0D9287855EFFC9260EF990ED92F918" LSID="urn:lsid:plazi:treatment:907B754A855EFFC923B8FA75EC6AF8BE:1D0D9287855EFFC9260EF990ED92F918" box="[1040,1234,1628,1670]" name="Mt. Alifan" pageId="3" pageNumber="224">Mt. Alifan</location>
+, 
+<date id="6C6CE29C855EFFC926F6F990EC33F918" box="[1256,1395,1628,1670]" pageId="3" pageNumber="224" value="1927-06">
+<collectingDate id="7C281B74855EFFC926F6F990EC33F918" box="[1256,1395,1628,1670]" pageId="3" pageNumber="224" value="1927-06">June 27</collectingDate>
+</date>
+, 
+<specimenCount id="0ED40FD5855EFFC92796F990EFDCF918" box="[1416,1692,1628,1670]" pageId="3" pageNumber="224" type="generic">three specimens</specimenCount>
+reared from phycitid 
+<collectedFrom id="ABCE87A1855EFFC920AAF95CEAEFF924" box="[692,943,1680,1722]" pageId="3" pageNumber="224">
+on 
+<taxonomicName id="DFD2BFDF855EFFC920E8F95CEAEFF924" box="[758,943,1680,1722]" class="Magnoliopsida" family="Rubiaceae" genus="Guettarda" kingdom="Plantae" order="Gentianales" pageId="3" pageNumber="224" phylum="Tracheophyta" rank="genus">
+<emphasis id="2AA6184E855EFFC920E8F95CEAEFF924" box="[758,943,1680,1722]" italics="true" pageId="3" pageNumber="224">Guettarda</emphasis>
+</taxonomicName>
+</collectedFrom>
+;
+</materialsCitation>
+<materialsCitation id="A8BACE01855EFFC921D0F95CEA98F973" ID-GBIF-Occurrence="3332362345" collectedFrom="reared from leafroller on unidentified tree" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Orote Peninsula" pageId="3" pageNumber="224" specimenCount="2">
+Orote Peninsula, 
+<specimenCount id="0ED40FD5855EFFC92709F95CEF60F924" box="[1303,1568,1680,1722]" pageId="3" pageNumber="224" type="generic">two specimens</specimenCount>
+, reared from leafroller on unidentified tree;
+</materialsCitation>
+<materialsCitation id="A8BACE01855EFFC921ECF90FEC6AF8BE" ID-GBIF-Occurrence="3332362302" collectedFrom="reared from cocoon of coconut tineid" collectingDate="1936-10-02" collectorName="O. H. Swezey" country="Guam" location="Merizo" pageId="3" pageNumber="224" specimenCount="1">
+Merizo, 
+<date id="6C6CE29C855EFFC9268CF90FEC49F973" box="[1170,1289,1731,1773]" pageId="3" pageNumber="224">
+<collectingDate id="7C281B74855EFFC9268CF90FEC49F973" box="[1170,1289,1731,1773]" pageId="3" pageNumber="224">Oct. 2</collectingDate>
+</date>
+, 
+<specimenCount id="0ED40FD5855EFFC92736F90FEF5DF973" box="[1320,1565,1731,1773]" pageId="3" pageNumber="224" type="generic">one specimen</specimenCount>
+, reared from cocoon of coconut tineid. 
+<collectorName id="B527A18A855EFFC92166F93AEAEFF8BE" box="[888,943,1782,1824]" pageId="3" pageNumber="224">All</collectorName>
+collected by 
+<collectorName id="B527A18A855EFFC92683F93AEC6AF8BE" box="[1181,1322,1782,1824]" pageId="3" pageNumber="224">Swezey.</collectorName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

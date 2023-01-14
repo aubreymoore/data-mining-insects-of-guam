@@ -1,0 +1,99 @@
+<document id="B207BD07C1E6420AC3347811E63EFD79" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91AFFFBFE9DF8B5FDC419D0" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pseudococcus cocotis" docType="treatment" docVersion="11" lastPageNumber="157" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="157" updateTime="1661269479645" updateUser="annettekang">
+<mods:mods id="4995EA4EC3CCFACF6DC9AA42D76A0B14" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="BFFF5767F871CCD2FCD0C4A3F5ECB683">
+<mods:title id="3C6BD5AC559C63AADD18BE36CE0A9A5F">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="5861FA3DD8E7126DD30B0275C863E6AF" type="personal">
+<mods:role id="CE8DC130A6950141162759816A59834A">
+<mods:roleTerm id="2D6045A5A6ECA63CF8DAE9944BB166A3">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9844D520A5DE3BC2E7E65C4106DF8444">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="8D484EBFF5F53AE5EBF6403FFA860E90">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="B8647138FCC07C66DF2056C32C0AE7A1">text</mods:typeOfResource>
+<mods:relatedItem id="18D974C0DC35874F375A99AEFC530551" type="host">
+<mods:originInfo id="2038103FA1C6C05A9E366E07A9163CBC">
+<mods:dateIssued id="FE11D3640124A19C8D6EA48EC63A61D8">1946</mods:dateIssued>
+<mods:dateOther id="FE6B9193A5E5DE17CF01A063F446E7E4" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="BC6B73BE949159330EF43A0B19D337D8">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="EDE0298CE8BF264CA3F9BB484F79C209">
+<mods:placeTerm id="B7929C787B5358C353979E947EC368B6">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="CD8279C6A0FC49491D8093356E03412E">
+<mods:title id="1D89E26B3E881953093EA536942AD1BE">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="65FF9252E5B0A9EA886C4EC098EDE2A2">
+<mods:extent id="E547DA9F8A67EF4C3F0BA69AD6E6B09C" unit="page">
+<mods:start id="4284DCC9A5DB8707EAC2D5CD8E7ACFF9">157</mods:start>
+<mods:end id="EAC58EB749A9BA90B10C7CB1B9A55718">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="61643242BAFAA46F53A2B5E79A09F7CB">book chapter</mods:classification>
+<mods:identifier id="6D8014B3AA840293A9A8F3FC2BCF8717" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="A1B39D2E03AD5C5D436B0CBBA1451335" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="7675EB209A3D87724DB86377EC400FDC" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91AFFFBFE9DF8B5FDC419D0" ID-DOI="http://doi.org/10.5281/zenodo.5157844" ID-GBIF-Taxon="183925170" ID-Zenodo-Dep="5157844" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFE9DF8B5FDC419D0" httpUri="http://treatment.plazi.org/id/F03E87AAF91AFFFBFE9DF8B5FDC419D0" lastPageNumber="157" pageId="0" pageNumber="157">
+<subSubSection id="308D6537F91AFFFBFE9DF8B5FC7C196B" box="[287,952,1835,1877]" pageId="0" pageNumber="157" type="nomenclature">
+<paragraph id="782836BCF91AFFFBFE9DF8B5FC7C196B" blockId="0.[287,1686,1835,2030]" box="[287,952,1835,1877]" pageId="0" pageNumber="157">
+<heading id="236081D0F91AFFFBFE9DF8B5FC7C196B" box="[287,952,1835,1877]" fontSize="11" level="2" pageId="0" pageNumber="157" reason="2">
+<emphasis id="4AE3EAAEF91AFFFBFE9DF8B5FEF9196B" bold="true" box="[287,317,1835,1877]" pageId="0" pageNumber="157">5.</emphasis>
+<taxonomicName id="BF974D3FF91AFFFBFEDCF8B5FC76196B" authority="(Maskell)" baseAuthorityName="Maskell" box="[350,946,1835,1877]" class="Insecta" family="Pseudococcidae" genus="Pseudococcus" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="157" phylum="Arthropoda" rank="species" species="cocotis">
+<emphasis id="4AE3EAAEF91AFFFBFEDCF8B5FD20196B" bold="true" box="[350,740,1835,1877]" pageId="0" pageNumber="157">Pseudococcus cocotis</emphasis>
+(Maskell)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<paragraph id="782836BCF91AFFFBFEDCF8C0FDC419D0" blockId="0.[287,1686,1835,2030]" pageId="0" pageNumber="157">
+<subSubSection id="308D6537F91AFFFBFEDCF8C0F9FB19B7" box="[350,1599,1886,1929]" pageId="0" pageNumber="157" type="description">
+<treatmentCitationGroup id="58871192F91AFFFBFEDCF8C0F9FB19B7" box="[350,1599,1886,1929]" pageId="0" pageNumber="157">
+<treatmentCitation id="F93610ADF91AFFFBFEDCF8C0F9FE19B7" author="Maskell" box="[350,1594,1886,1929]" page="149" pageId="0" pageNumber="157" year="1889">
+<taxonomicName id="BF974D3FF91AFFFBFEDCF8C0FC8B19B7" authority="Maskell" authorityName="Maskell" authorityYear="1890" box="[350,847,1886,1929]" class="Insecta" family="Dactylopiidae" genus="Dactylopius" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="157" phylum="Arthropoda" rank="species" species="cocotis">
+<emphasis id="4AE3EAAEF91AFFFBFEDCF8C0FD7719B7" box="[350,691,1886,1929]" italics="true" pageId="0" pageNumber="157">Dactylopius cocotis</emphasis>
+<bibCitation id="ADBD3ED0F91AFFFBFD40F8C0F9FE19B7" author="Maskell" box="[706,1594,1886,1929]" journalOrPublisher="New Zealand Inst., Trans" pageId="0" pageNumber="157" pagination="149" part="22" type="journal article" year="1889">
+<author id="A02ADE59F91AFFFBFD40F8C0FC8B19B7" box="[706,847,1886,1929]" pageId="0" pageNumber="157">Maskell</author>
+, 
+<journalOrPublisher id="A2563C70F91AFFFBFCE4F8C0FAF019B7" box="[870,1332,1886,1929]" pageId="0" pageNumber="157">
+<collectingCountry id="0080762CF91AFFFBFCE4F8C0FB9419B7" box="[870,1104,1886,1929]" name="New Zealand" pageId="0" pageNumber="157">New Zealand</collectingCountry>
+Inst., Trans
+</journalOrPublisher>
+. 
+<emphasis id="4AE3EAAEF91AFFFBFAC5F8C0FAAA19B7" bold="true" box="[1351,1390,1886,1929]" pageId="0" pageNumber="157">
+<part id="0C339C21F91AFFFBFAC5F8C0FAAE19B7" box="[1351,1386,1886,1929]" pageId="0" pageNumber="157" type="volume">22</part>
+:
+</emphasis>
+<pagination id="415EC848F91AFFFBFA13F8C0FA0A19B7" box="[1425,1486,1886,1929]" pageId="0" pageNumber="157" type="pagination">149</pagination>
+, 
+<year id="0C3F77EFF91AFFFBFA65F8C0F9FE19B7" box="[1511,1594,1886,1929]" pageId="0" pageNumber="157">1889</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</subSubSection>
+<subSubSection id="308D6537F91AFFFBFEE3F80FFDC419D0" pageId="0" pageNumber="157" type="description">
+<materialsCitation id="C8FF3CE1F91AFFFBFEE3F80FFB111982" ID-GBIF-Occurrence="3331839336" box="[353,1237,1937,1980]" collectedFrom="on coconut" collectingDate="1911-1939" collectorName="D. T. Fullaway, O. H. Swezey, R. L. Usinger, and R. G. Oakley" country="Guam" location="Guam" pageId="0" pageNumber="157">
+<collectingMunicipality id="984CACC6F91AFFFBFEE3F80FFE531982" box="[353,407,1937,1980]" pageId="0" pageNumber="157">On</collectingMunicipality>
+coconut, 
+<collectorName id="D562536AF91AFFFBFDC4F80FFD281982" box="[582,748,1937,1980]" pageId="0" pageNumber="157">Fullaway</collectorName>
+, 
+<collectorName id="D562536AF91AFFFBFC87F80FFC4F1982" box="[773,907,1937,1980]" pageId="0" pageNumber="157">Swezey</collectorName>
+, 
+<location id="7D486067F91AFFFBFC23F80FFBF51982" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFE9DF8B5FDC419D0:7D486067F91AFFFBFC23F80FFBF51982" box="[929,1073,1937,1980]" municipality="On" name="Usinger" pageId="0" pageNumber="157">Usinger</location>
+, 
+<collectorName id="D562536AF91AFFFBFBCAF80FFB0A1982" box="[1096,1230,1937,1980]" pageId="0" pageNumber="157">Oakley</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F91AFFFBFB67F80FFE3F19D0" ID-GBIF-Occurrence="3331839313" collectedFrom="on coconut and oil palm" collectingDate="1925-1931" collectorName="S. R. Vandenberg" country="Guam" location="Guam" pageId="0" pageNumber="157">
+on coconut and oil palm, 
+<collectorName id="D562536AF91AFFFBFEA3F858FE3F19D0" box="[289,507,1990,2030]" pageId="0" pageNumber="157">Vandenberg</collectorName>
+</materialsCitation>
+.
+</subSubSection>
+</paragraph>
+</treatment>
+</document>

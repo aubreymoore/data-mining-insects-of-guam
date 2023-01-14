@@ -1,0 +1,140 @@
+<document id="F7CFB620C232CF1208450D3BA323BE09" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFE551105EBBA629FC93F709" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Usingerius maculatus Zimmerman 1942, new species" docType="treatment" docVersion="15" lastPageNumber="95" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="94" updateTime="1671052978249" updateUser="annettekang">
+<mods:mods id="FA8B616487A137CF6395DCC469AC53C8" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="A23469879DEC09299EFDB27D5DF001F1">
+<mods:title id="D4D484D7C4C2FE2D37F2505A77498058">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="3436F067BC5C4615EDC52D847D84F63F" type="personal">
+<mods:role id="60BF8F51D3DD8B14E25CA1C6123206DD">
+<mods:roleTerm id="D743F0E500E777B96CBEDBC36F6FCD9B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="84B25540B4927960537A85FDF080B609">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="F2A08AF9442B13713110B5F3FEB7C4FE">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="80076BB66649145B18CB1FE50B5C796A">text</mods:typeOfResource>
+<mods:relatedItem id="71CED0F1F73962982ECA910ED5B5E4C0" type="host">
+<mods:originInfo id="C6EA1541F1C0E524CA1F614C5A4EFC08">
+<mods:dateIssued id="A42A99DC4BB54022E439E48F6F1A6C01">1942</mods:dateIssued>
+<mods:dateOther id="DC0153372FFDBBB90D14E39B3E2D6BD8" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="8EDC12F3E1D8B049D7CCCAD687082366">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="20DA20776FA0408CB79F8D3DCCBC3AFC">
+<mods:placeTerm id="C9FBB4F13D55FF4D917A30C65D671423">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="D6121A9959A15BAFDA9198B06DDAFBDF">
+<mods:title id="42078263822B544DF8AB699A5A486060">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="C4501E96B66AFE95BD1FD25A7B69B523">
+<mods:extent id="7696B3E33A4CE5313FA59BEDE57639F3" unit="page">
+<mods:start id="46F69DE7F4581D6412792203D4CB4A5D">73</mods:start>
+<mods:end id="0F513754253338A4C57FBCEE82303466">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="B19DB10F90A0E4DDF257B50A970AD6AF">book chapter</mods:classification>
+<mods:identifier id="E02CA7085260232997960ED57FFA6F56" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="49542CA1C39A79DC5D945E536AA1162E" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="B5EF9DDD07A96C407B855780D19C562C" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFE551105EBBA629FC93F709" ID-DOI="http://doi.org/10.5281/zenodo.5167620" ID-GBIF-Taxon="184097865" ID-Zenodo-Dep="5167620" LSID="urn:lsid:plazi:treatment:D6388709FFE551105EBBA629FC93F709" httpUri="http://treatment.plazi.org/id/D6388709FFE551105EBBA629FC93F709" lastPageId="22" lastPageNumber="95" pageId="21" pageNumber="94">
+<subSubSection id="168B6594FFE551135EBBA629FA6DF60B" box="[480,1431,2419,2461]" pageId="21" pageNumber="94" type="nomenclature">
+<paragraph id="5E2E361FFFE551135EBBA629FA6DF60B" blockId="21.[477,1872,2419,2552]" box="[480,1431,2419,2461]" pageId="21" pageNumber="94">
+<emphasis id="6CE5EA0DFFE551135EBBA629FC38F60B" bold="true" box="[480,962,2419,2461]" pageId="21" pageNumber="94">
+11. 
+<taxonomicName id="99914D9CFFE551135D6AA629FC41F60B" authority="Zimmerman, 1942" authorityName="Zimmerman" authorityYear="1942" box="[561,955,2419,2461]" class="Insecta" family="Curculionidae" genus="Usingerius" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="21" pageNumber="94" phylum="Arthropoda" rank="species" species="maculatus" status="new species">Usingerius maculatus</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="77D65776FFE551135C94A629FB65F60B" box="[975,1183,2419,2461]" pageId="21" pageNumber="94" rank="species">new species</taxonomicNameLabel>
+(pl. 6, 
+<emphasis id="6CE5EA0DFFE551135A7FA629FA6DF60B" box="[1316,1431,2419,2461]" italics="true" pageId="21" pageNumber="94">A, B).</emphasis>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE551105D7AA6F5FE2DF8DB" lastPageId="22" lastPageNumber="95" pageId="21" pageNumber="94" type="description">
+<paragraph id="5E2E361FFFE551105D7AA6F5FD17FD84" blockId="21.[477,1872,2419,2552]" lastBlockId="22.[300,1698,341,1869]" lastPageId="22" lastPageNumber="95" pageId="21" pageNumber="94">Derm pale to dark reddish brown,,appendages usually mostly yellowish but often suffused with black; rather densely clothed with squamules, cephalic vestiture golden; pronotum either with entirely golden and pale yellow vestiture or variably suffused with dark-colored squamules; elytra subject to great variation in color pattern of vestiture, variably marked with areas of golden, pale yellow, whitish and dark brown squamules; scutellum with dense squamules and paler than its surrounding area; vestiture of legs and underside white to yellowish.</paragraph>
+<paragraph id="5E2E361FFFE651105E2AAD4EFE2DF8DB" blockId="22.[300,1698,341,1869]" pageId="22" pageNumber="95">
+<emphasis id="6CE5EA0DFFE651105E2AAD4EFE39FDA1" box="[369,451,532,567]" italics="true" pageId="22" pageNumber="95">Head</emphasis>
+with crown coarsely reticulate, finely and densely punctate; interocular area about one fourth as broad as an eye measured from front, derm concealed by vestiture; eyes quite prominently protuberant. 
+<emphasis id="6CE5EA0DFFE651105C3EAD3AFC13FD12" box="[869,1001,608,644]" italics="true" pageId="22" pageNumber="95">Rostrum</emphasis>
+gradually and slightly widened from base to apex, apex only slightly broader than base, one third longer then pronotum in male, one and three fifths as long in female, gently arcuate from base to apex; antennae inserted slightly beyond middle in female, slightly in front of apical third in male; with two finely punctate striae on either side above scrobe from base to antennae in female, otherwise shiny and impunctate dorsally; these striae much more coarsely punctate in male, their intervals appearing as carinae, and with prostrate setae to antennae, otherwise finely punctate. 
+<emphasis id="6CE5EA0DFFE651105E93AC36FDADFC19" box="[456,599,876,911]" italics="true" pageId="22" pageNumber="95">Antennae</emphasis>
+with club of scape subequal in size and shape to first funicular segment; funicle with first segment as long as 2 plus 3, half as broad as long at rounded apex, 2 almost as long as 3 plus 4, 3 to 6 subsequal; club as long as preceding five funicular segments, constrictions and sutures between the three basal segments quite distinct. 
+<emphasis id="6CE5EA0DFFE651105958AC85F958FB94" box="[1539,1698,991,1026]" italics="true" pageId="22" pageNumber="95">Prothora.,;</emphasis>
+much broader than long (8:5 to 7:4), broadest just in front of base, base with a distinct prescutellar lobe, sides broadly rounded to apical fourth, thence conspicuously constricted, constriction not distinctly impressed across dorsum; densely set with small, coarse punctures; squamules prostrate, directed anteriorly. 
+<emphasis id="6CE5EA0DFFE651105B4CAB23FB83FB0D" box="[1047,1145,1145,1179]" italics="true" pageId="22" pageNumber="95">Elytra</emphasis>
+five eighths as broad as long, three times as long as prothorax; dorsal contour slightly impressed at basal third, base subtruncate between scutellar emargination and rounded humeri, subparallel on sides to about middle thence broadly rounded to apices; striae well marked throughout, the punctures slightly broader than their striae; intervals slightly convex, more strongly so laterad and caudad, squamules prostrate, those along median lines directed straight back, those on sides directed obliquely inward and backward. 
+<emphasis id="6CE5EA0DFFE651105B71AA05FB89FA14" box="[1066,1139,1375,1410]" italics="true" pageId="22" pageNumber="95">Legs</emphasis>
+rather loosely clothed with rather shaggy hair, with femoral tooth large, triangular, as high along outer edge as breadth of apex of a tibia; tarsi with inner process of each claw reaching to about apical fourth of claw. 
+<emphasis id="6CE5EA0DFFE651105EC9AA88FDEFFA63" box="[402,533,1490,1525]" italics="true" pageId="22" pageNumber="95">Sternmn</emphasis>
+densely clothed with hair; with mesosternal process slightly protuberant; metasternum only slightly impressed in female, deeply canaliculately impressed down middle in male. 
+<emphasis id="6CE5EA0DFFE651105D7CA945FD77F9D7" box="[551,653,1567,1601]" italics="true" pageId="22" pageNumber="95">Venter</emphasis>
+with first ventrite but slightly depressed in female, but with canaliculation very conspicuously continued from metasternum through second ventrite in male, canaliculate area almost free from hair, but with long, erect, curved hair along sides, more or less arched across canal; hair suberect or erect down middle of all ventrites in male, but mostly decumbent or slightly inclined in female; ventrites minutely punctate throughout. 
+<taxonomicName id="99914D9CFFE651105E20A984FDF4F897" authorityName="Meyen" authorityYear="1834" box="[379,526,1758,1793]" class="Actinopterygii" family="Trichomycteridae" genus="Pygidium" higherTaxonomySource="CoL" kingdom="Animalia" order="Siluriformes" pageId="22" pageNumber="95" phylum="Chordata" rank="genus">
+<emphasis id="6CE5EA0DFFE651105E20A984FDF4F897" box="[379,526,1758,1793]" italics="true" pageId="22" pageNumber="95">Pygidium</emphasis>
+</taxonomicName>
+hidden in female, usually broadly exposed in male and in that sex coarsely and densely punctate and with a slightly raised apical area. Length, 2-2.5 mm.; breadth, 1.2-1.3 mm.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE651105E37A837FB7FF7A7" pageId="22" pageNumber="95" type="materials_examined">
+<paragraph id="5E2E361FFFE651105E37A837FB7FF7A7" blockId="22.[299,1695,1901,2207]" pageId="22" pageNumber="95">
+<materialsCitation id="EEF93C42FFE651105E37A837FB00F801" ID-GBIF-Occurrence="3333874449" box="[364,1274,1901,1943]" collectingDate="1936-05-07" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="22" pageNumber="95" specimenCount-male="1" typeStatus="holotype">
+<typeStatus id="812A88BDFFE651105E37A837FDF5F801" box="[364,527,1901,1943]" pageId="22" pageNumber="95">Holotype</typeStatus>
+<specimenCount id="4897FD96FFE651105D7DA837FD80F801" box="[550,634,1901,1943]" pageId="22" pageNumber="95" type="male">male</specimenCount>
+, 
+<collectingMunicipality id="BE4AAC65FFE651105DC1A837FCCEF801" box="[666,820,1901,1943]" pageId="22" pageNumber="95">Inarajan</collectingMunicipality>
+, 
+<date id="2A2F10DFFFE651105C0EA837FBBCF801" box="[853,1094,1901,1943]" pageId="22" pageNumber="95" value="1936-05-07">
+<collectingDate id="3A6BE937FFE651105C0EA837FBBCF801" box="[853,1094,1901,1943]" pageId="22" pageNumber="95" value="1936-05-07">May 7, 1936</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFE651105B3DA837FB09F801" LSID="urn:lsid:plazi:treatment:D6388709FFE551105EBBA629FC93F709:5B4E60C4FFE651105B3DA837FB09F801" box="[1126,1267,1901,1943]" municipality="Inarajan" name="Swezey" pageId="22" pageNumber="95">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE651105A49A837FD02F85F" ID-GBIF-Occurrence="3333874368" collectingDate="1936-05-07" collectorName="R. L. Usinger" country="Guam" location="Inarajan" pageId="22" pageNumber="95" specimenCount-female="1" typeStatus="allotype">
+<typeStatus id="812A88BDFFE651105A49A837FA61F801" box="[1298,1435,1901,1943]" pageId="22" pageNumber="95">allotype</typeStatus>
+<specimenCount id="4897FD96FFE651105AEFA837F9D1F801" box="[1460,1579,1901,1943]" pageId="22" pageNumber="95" type="female">female</specimenCount>
+, same place and time, 
+<collectingMunicipality id="BE4AAC65FFE651105D01A8FBFD0BF85F" box="[602,753,1953,1993]" pageId="22" pageNumber="95">Usinger</collectingMunicipality>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE651105C4BA8FBFE3FF86B" ID-GBIF-Occurrence="3913856307" collectingDate="1936-05-07" collectorName="R. L. Usinger" country="Guam" location="Inarajan" pageId="22" pageNumber="95" specimenCount="2" typeStatus="paratype">
+and following 
+<specimenCount id="4897FD96FFE651105B79A8FBFBA5F85F" box="[1058,1119,1953,1993]" pageId="22" pageNumber="95" type="generic">five</specimenCount>
+<typeStatus id="812A88BDFFE651105B2EA8FBFAD3F85F" box="[1141,1321,1953,1993]" pageId="22" pageNumber="95">paratypes</typeStatus>
+: two, same data as 
+<typeStatus id="812A88BDFFE651105E76A88EFE44F86B" box="[301,446,2004,2045]" pageId="22" pageNumber="95">allotype</typeStatus>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE651105E8CA88EFAC4F86B" ID-GBIF-Occurrence="3333874306" box="[471,1342,2004,2045]" collectedFrom="from Pithecolobium" collectingDate="1936-05-02" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="22" pageNumber="95" specimenCount="2">
+two, 
+<collectingMunicipality id="BE4AAC65FFE651105D6EA88EFD82F86B" box="[565,632,2004,2045]" pageId="22" pageNumber="95">Piti</collectingMunicipality>
+, from 
+<emphasis id="6CE5EA0DFFE651105DA3A88EFC05F86B" box="[760,1023,2004,2045]" italics="true" pageId="22" pageNumber="95">
+<taxonomicName id="99914D9CFFE651105DA3A88EFC03F86B" authorityName="Martius" authorityYear="1837" box="[760,1017,2004,2045]" class="Magnoliopsida" family="Fabaceae" genus="Pithecolobium" higherTaxonomySource="CoL" kingdom="Plantae" order="Fabales" pageId="22" pageNumber="95" phylum="Tracheophyta" rank="genus">
+<location id="5B4E60C4FFE651105DA3A88EFC03F86B" LSID="urn:lsid:plazi:treatment:D6388709FFE551105EBBA629FC93F709:5B4E60C4FFE651105DA3A88EFC03F86B" box="[760,1017,2004,2045]" municipality="Piti" name="Pithecolobium" pageId="22" pageNumber="95">Pithecolobium</location>
+</taxonomicName>
+,
+</emphasis>
+<date id="2A2F10DFFFE651105B4AA88EFB7DF86B" box="[1041,1159,2004,2045]" pageId="22" pageNumber="95">
+<collectingDate id="3A6BE937FFE651105B4AA88EFB7DF86B" box="[1041,1159,2004,2045]" pageId="22" pageNumber="95">May 2</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFE651105BFBA88EFACDF86B" LSID="urn:lsid:plazi:treatment:D6388709FFE551105EBBA629FC93F709:5B4E60C4FFE651105BFBA88EFACDF86B" box="[1184,1335,2004,2045]" municipality="Piti" name="Usinger" pageId="22" pageNumber="95">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFE651105A0BA88EFB7FF7A7" ID-GBIF-Occurrence="3333874439" collectedFrom="from mangrove swamp" collectingDate="1936-06-23" collectorName="R. L. Usinger" country="Guam" location="Sumay Road" pageId="22" pageNumber="95" specimenCount="1">
+and one, at 
+<collectingMunicipality id="BE4AAC65FFE651105972A88EFE71F7A7" pageId="22" pageNumber="95">Sumay Road</collectingMunicipality>
+, from mangrove swamp, 
+<date id="2A2F10DFFFE651105C14A752FC20F7A7" box="[847,986,2056,2097]" pageId="22" pageNumber="95" value="1923-06">
+<collectingDate id="3A6BE937FFE651105C14A752FC20F7A7" box="[847,986,2056,2097]" pageId="22" pageNumber="95" value="1923-06">June 23</collectingDate>
+</date>
+, 
+<location id="5B4E60C4FFE651105CB4A752FB7AF7A7" LSID="urn:lsid:plazi:treatment:D6388709FFE551105EBBA629FC93F709:5B4E60C4FFE651105CB4A752FB7AF7A7" box="[1007,1152,2056,2097]" municipality="Sumay Road" name="Usinger" pageId="22" pageNumber="95">Usinger</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE651105E37A71EFC93F709" pageId="22" pageNumber="95" type="description">
+<paragraph id="5E2E361FFFE651105E37A71EFC93F709" blockId="22.[299,1695,1901,2207]" pageId="22" pageNumber="95">No two of the specimens have identical color patterns, but the species has a distinct, easily recognized facies.</paragraph>
+</subSubSection>
+</treatment>
+</document>

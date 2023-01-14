@@ -1,0 +1,104 @@
+<document id="AECFAEFD613A46F7452B10ADFA614EB1" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8CFFE2E40FFD8F8CABFCCC" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Euplectrus xanthocephalus Girault" docType="treatment" docVersion="16" lastPageNumber="217" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="217" updateTime="1663770129699" updateUser="annettekang">
+<mods:mods id="57F7FAF7A5E480F5BFEF1C6B67D049C8" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="4539CB24DEF8AF9E840CF984801188B4">
+<mods:title id="60E801133AEA46B08AC94300E19A036F">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="9F38CBAC9289E81C478C369C898AF7D2" type="personal">
+<mods:role id="92358FB5BE8328FCBCD3FE6C4159AEDC">
+<mods:roleTerm id="1E7D9D7E3F3B774A4AFB067E7D8D7A1C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="6A6929C50E5847E40AA2FA1D49F8BF61">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="F38304F22DCE5BAA3A971D992057C428">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9065F9438C3B39B687A9BA968E6AED58">text</mods:typeOfResource>
+<mods:relatedItem id="07758D8722E1F407BACF3E5560CB5350" type="host">
+<mods:originInfo id="CD0E2773C5AAEB1AA86D7A84A01CDD6B">
+<mods:dateIssued id="6DFB2DC2F9D78C4711B532700E669352">1946</mods:dateIssued>
+<mods:dateOther id="2573D79E4C64F5E2876ABFB0FAA675DE" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="1FE6CC110D450371438922B530F6FC6B">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="F649916508EF83855D8F44BB85C646BC">
+<mods:placeTerm id="FFC411CBD5E43FE9B36F8A0EFB142EEB">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="31D327A6903010595F6614B6C69CAA04">
+<mods:title id="69583945690866DC994640DA90645136">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="212768FF4503A4786FE1F588192B80C7">
+<mods:extent id="CCF7C3F2BF980BE4DDA95DA418943539" unit="page">
+<mods:start id="49E026D54ED5575D59C37E2F8B1CB238">211</mods:start>
+<mods:end id="17C145A1EE8ACDDC2D06E82BD8270A58">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="592D6000AE45333580B575CC30C8D1B0">book chapter</mods:classification>
+<mods:identifier id="E9CAB1CBB9E915EF52EB9BB947FDA0CF" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="35439BFDF8C5CCE13AFF588B0D8790AB" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="DB1FD7F02B58EDD12E6835D664A18380" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8CFFE2E40FFD8F8CABFCCC" ID-DOI="http://doi.org/10.5281/zenodo.5212027" ID-GBIF-Taxon="187737438" ID-Zenodo-Dep="5212027" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40FFD8F8CABFCCC" httpUri="http://treatment.plazi.org/id/7376EC19FF8CFFE2E40FFD8F8CABFCCC" lastPageNumber="217" pageId="6" pageNumber="217">
+<subSubSection id="B3C50E84FF8CFFE2E40FFD8F8B69FD9F" box="[268,1079,547,589]" pageId="6" pageNumber="217" type="nomenclature">
+<paragraph id="FB605D0FFF8CFFE2E40FFD8F8B69FD9F" blockId="6.[268,1665,547,798]" box="[268,1079,547,589]" pageId="6" pageNumber="217">
+<heading id="A028EA63FF8CFFE2E40FFD8F8B69FD9F" box="[268,1079,547,589]" centered="true" fontSize="8" level="2" pageId="6" pageNumber="217" reason="4">
+<emphasis id="C9AB811DFF8CFFE2E40FFD8F8E60FD9F" bold="true" box="[268,318,547,589]" pageId="6" pageNumber="217">44.</emphasis>
+<taxonomicName id="3CDF268CFF8CFFE2E463FD8F8B6EFD9F" authority="Girault" box="[352,1072,547,589]" class="Insecta" family="Aphelinidae" genus="Euplectrus" kingdom="Animalia" order="Hymenoptera" pageId="6" pageNumber="217" phylum="Arthropoda" rank="species" species="xanthocephalus">
+<emphasis id="C9AB811DFF8CFFE2E463FD8F8D7DFD9F" bold="true" box="[352,547,547,589]" pageId="6" pageNumber="217">Euplectrus</emphasis>
+(?) 
+<emphasis id="C9AB811DFF8CFFE2E783FD8F8CC5FD9F" bold="true" box="[640,923,547,589]" pageId="6" pageNumber="217">xanthocephalus</emphasis>
+<author id="2362B5EAFF8CFFE2E6AFFD8F8B6EFD9F" box="[940,1072,547,589]" pageId="6" pageNumber="217">Girault</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8CFFE2E144FD8F8EFDFD52" pageId="6" pageNumber="217" type="description">
+<paragraph id="FB605D0FFF8CFFE2E144FD8F8EFDFD52" blockId="6.[268,1665,547,798]" pageId="6" pageNumber="217">
+<treatmentCitationGroup id="DBCF7A21FF8CFFE2E144FD8F8EFDFD52" pageId="6" pageNumber="217">
+<treatmentCitation id="7A7E7B1EFF8CFFE2E144FD8F8EFDFD52" author="Girault" page="273" pageId="6" pageNumber="217" year="1913">
+<bibCitation id="2EF55563FF8CFFE2E144FD8F8EFDFD52" author="Girault" journalOrPublisher="Queensland Mus., Mem." pageId="6" pageNumber="217" pagination="273" part="2" refId="ref2741" type="journal article" year="1913">
+<journalOrPublisher id="211E57C3FF8CFFE2E144FD8F8AA7FD9F" box="[1095,1529,547,589]" pageId="6" pageNumber="217">Queensland Mus., Mem.</journalOrPublisher>
+<emphasis id="C9AB811DFF8CFFE2E30AFD8F8945FD9F" bold="true" box="[1545,1563,547,589]" pageId="6" pageNumber="217">
+<part id="8F7BF792FF8CFFE2E30AFD8F8949FD9F" box="[1545,1559,547,589]" pageId="6" pageNumber="217" type="volume">2</part>
+:
+</emphasis>
+<pagination id="C216A3FBFF8CFFE2E339FD8F8924FD9F" box="[1594,1658,547,589]" pageId="6" pageNumber="217" type="pagination">273</pagination>
+, 
+<year id="8F771C5CFF8CFFE2E44EFDF48EC0FD52" box="[333,414,600,640]" pageId="6" pageNumber="217">1913</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8CFFE2E44FFD218CABFCCC" pageId="6" pageNumber="217" type="materials_examined">
+<paragraph id="FB605D0FFF8CFFE2E44FFD218CABFCCC" blockId="6.[268,1665,547,798]" pageId="6" pageNumber="217">
+<materialsCitation id="4BB75752FF8CFFE2E44FFD218BC9FD65" ID-GBIF-Occurrence="3901040316" box="[332,1175,653,695]" collectedFrom="swept from ferns" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="6" pageNumber="217">
+<location id="FE000BD4FF8CFFE2E44FFD218EA2FD65" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40FFD8F8CABFCCC:FE000BD4FF8CFFE2E44FFD218EA2FD65" box="[332,508,653,695]" name="Upi Trail" pageId="6" pageNumber="217">Upi Trail</location>
+, 
+<date id="8F617BCFFF8CFFE2E71BFD218DD1FD65" box="[536,655,653,695]" pageId="6" pageNumber="217">
+<collectingDate id="9F258227FF8CFFE2E71BFD218DD1FD65" box="[536,655,653,695]" pageId="6" pageNumber="217">May 5</collectingDate>
+</date>
+, swept from ferns, 
+<collectorName id="562A38D9FF8CFFE2E107FD218BCEFD65" box="[1028,1168,653,695]" pageId="6" pageNumber="217">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF8CFFE2E1AFFD218CABFCCC" ID-GBIF-Occurrence="3901040405" collectedFrom="reared from a caterpillar (Prodenia?) on spiny amaranth" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="6" pageNumber="217" specimenCount="6">
+<collectingMunicipality id="1B04C775FF8CFFE2E1AFFD218A3DFD65" box="[1196,1379,653,695]" pageId="6" pageNumber="217">Machanao</collectingMunicipality>
+, 
+<date id="8F617BCFFF8CFFE2E07FFD218AA9FD65" box="[1404,1527,653,695]" pageId="6" pageNumber="217">
+<collectingDate id="9F258227FF8CFFE2E07FFD218AA9FD65" box="[1404,1527,653,695]" pageId="6" pageNumber="217">June 4</collectingDate>
+</date>
+, reared from a caterpillar 
+<emphasis id="C9AB811DFF8CFFE2E76AFD6C8C1FFD38" box="[617,833,704,746]" italics="true" pageId="6" pageNumber="217">(Prodenia?)</emphasis>
+on spiny amaranth, 
+<collectorName id="562A38D9FF8CFFE2E1CFFD6C8A0DFD38" box="[1228,1363,704,746]" pageId="6" pageNumber="217">Swezey</collectorName>
+. Six 
+<specimenCount id="EDD99686FF8CFFE2E0CAFD6C8925FD38" box="[1481,1659,704,746]" pageId="6" pageNumber="217" type="generic">specimens</specimenCount>
+, three retained in 
+<collectingCountry id="83C81D9FFF8CFFE2E743FD588DC2FCCC" box="[576,668,756,798]" name="United States of America" pageId="6" pageNumber="217">U. S.</collectingCountry>
+<location id="FE000BD4FF8CFFE2E7ACFD588CAEFCCC" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40FFD8F8CABFCCC:FE000BD4FF8CFFE2E7ACFD588CAEFCCC" box="[687,1008,756,798]" country="United States of America" municipality="Machanao" name="National Museum" pageId="6" pageNumber="217">National Museum</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

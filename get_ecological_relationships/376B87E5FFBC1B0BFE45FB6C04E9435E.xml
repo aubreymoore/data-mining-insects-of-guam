@@ -1,0 +1,97 @@
+<document id="E590C9B4D411EFF26CF8960DD74E64DE" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBC1B0BFE45FB6C04E9435E" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Lispinus foveatus Fauvel 1878" docType="treatment" docVersion="18" lastPageNumber="152" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="152" updateTime="1671336034494" updateUser="annettekang">
+<mods:mods id="4C7D47242A23813ADE1FF2FB6C6C64E8" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="816BF81E5744A2EBC9EBB5A63410F776">
+<mods:title id="06FD9232BFF074EFAFED23BFBFE6D1CF">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="C163DEFFE73387DF6464AAE35C0014EF" type="personal">
+<mods:role id="7526895BF2C5C57B3FDF4A21FF5C9560">
+<mods:roleTerm id="3CB7D51F774769D7D15800D4B3EEECC8">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="5FCF6B24D185D41CCE1649CBD84942E4">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="7A0E58183DF70D4D60C9B3340D3106C9">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="686CBA3D13EDA27AE7B294D0D9B244A8">text</mods:typeOfResource>
+<mods:relatedItem id="07715F2F061ED747A7D1BF561081DF71" type="host">
+<mods:originInfo id="664BC0490E8544B7F957C11BC9C6B904">
+<mods:dateIssued id="B51F6149B7CBAFA2F7E5055C5496BEDC">1942</mods:dateIssued>
+<mods:dateOther id="DF45923CCA9A413BCF59A4BBDBB9E459" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="7447FAEE01A35399542836D499884F19">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="3CC523474B37B32CB48855FF5EEE5D01">
+<mods:placeTerm id="9AA861654BB38D79B5EFCF98E1F8B6F1">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9E3A335E482544A420A4AC67C05D5634">
+<mods:title id="8C150FE35CDE068CB166560A62FB3E2F">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="69F1264FE7F1558F27711F68F73DAEE5">
+<mods:extent id="0ADB5BC75BB9A834CB565FA383C7C04B" unit="page">
+<mods:start id="FD48107041F0E44919752006B5FBA989">150</mods:start>
+<mods:end id="B00EDCF713F8C143111216DA66267297">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="1D4D85DCB14E0CE607504A3FF86971E0">book chapter</mods:classification>
+<mods:identifier id="4CB3D746A95D647EC3863F53B0ADC2D7" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="08C0F949421B343618C30B4FC838D5A4" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="34DB11F02128B556266DF57093B45353" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBC1B0BFE45FB6C04E9435E" ID-DOI="http://doi.org/10.5281/zenodo.5222254" ID-GBIF-Taxon="184415241" ID-Zenodo-Dep="5222254" LSID="urn:lsid:plazi:treatment:376B87E5FFBC1B0BFE45FB6C04E9435E" httpUri="http://treatment.plazi.org/id/376B87E5FFBC1B0BFE45FB6C04E9435E" lastPageNumber="152" pageId="2" pageNumber="152">
+<subSubSection id="F7D86578FFBC1B0BFE45FB6C04A94335" box="[415,943,1241,1283]" pageId="2" pageNumber="152" type="nomenclature">
+<paragraph id="BF7D36F3FFBC1B0BFE45FB6C04A94335" blockId="2.[415,440,1241,1283]" box="[415,943,1241,1283]" lastBlockId="2.[473,1600,1241,1384]" pageId="2" pageNumber="152">
+<heading id="E435819FFFBC1B0BFE45FB6C04AE4335" box="[415,936,1241,1283]" centered="true" fontSize="8" level="2" pageId="2" pageNumber="152" reason="4">
+1. 
+<taxonomicName id="78C24D70FFBC1B0BFE01FB6C04AE4335" authority="Fauvel" authorityName="Fauvel" authorityYear="1878" box="[475,936,1241,1283]" class="Insecta" family="Oxytelinae" genus="Lispinus" kingdom="Animalia" order="Coleoptera" pageId="2" pageNumber="152" phylum="Arthropoda" rank="species" species="foveatus">Lispinus foveatus Fauvel</taxonomicName>
+</heading>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFC66FB6C000B4335" box="[956,1805,1241,1283]" pageId="2" pageNumber="152" type="reference_group">
+<paragraph id="BF7D36F3FFBC1B0BFC66FB6C000B4335" blockId="2.[473,1600,1241,1384]" box="[956,1805,1241,1283]" lastBlockId="2.[1631,1805,1241,1283]" pageId="2" pageNumber="152">
+<bibCitation id="6AE83E9FFFBC1B0BFC66FB6C000B4335" author="Fauvel" box="[956,1805,1241,1283]" journalOrPublisher="Mus. civ. stor. nat. Genova, Ann." pageId="2" pageNumber="152" pagination="204" part="12" refId="ref1112" type="journal article" year="1878">
+<treatmentCitationGroup id="9FD211DDFFBC1B0BFC66FB6C000E4335" box="[956,1800,1241,1283]" pageId="2" pageNumber="152">
+<treatmentCitation id="3E6310E2FFBC1B0BFC66FB6C000E4335" author="Fauvel" box="[956,1800,1241,1283]" page="204" pageId="2" pageNumber="152" year="1878">
+<journalOrPublisher id="65033C3FFFBC1B0BFC66FB6C010A4335" box="[956,1548,1241,1283]" pageId="2" pageNumber="152">
+<title id="CDC6DDC5FFBC1B0BFC66FB6C030B4335" box="[956,1037,1241,1283]" jopScore="0.96202534" pageId="2" pageNumber="152">Mus</title>
+. 
+<journalOrPublisher id="65033C3FFFBC1B0BFBFBFB6C020F4335" box="[1057,1289,1241,1283]" jopScore="3.0071943" pageId="2" pageNumber="152">civ. stor. nat.</journalOrPublisher>
+<author id="677FDE16FFBC1B0BFAC2FB6C01014335" box="[1304,1543,1241,1283]" case="TC" fn="Ann" fnc="TC" fns="N" ln="Genova" lnc="TC" npo="LnFn" pageId="2" pageNumber="152">Genova, Ann</author>
+.
+</journalOrPublisher>
+<part id="CB669C6EFFBC1B0BF9C7FB6C013A4335" box="[1565,1596,1241,1283]" pageId="2" pageNumber="152" type="volume">12</part>
+: 
+<subSection id="D64D2F18FFBC1B0BF985FB6C000E4335" box="[1631,1800,1241,1283]" pageId="2" pageNumber="152" type="multiple">
+<pagination id="860BC807FFBC1B0BF985FB6C01A64335" box="[1631,1696,1241,1283]" pageId="2" pageNumber="152" type="pagination">204</pagination>
+, 
+<year id="CB6A77A0FFBC1B0BF96CFB6C000E4335" box="[1718,1800,1241,1283]" pageId="2" pageNumber="152">1878</year>
+</subSection>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFE01FABB03EB4300" box="[475,1261,1294,1334]" pageId="2" pageNumber="152" type="materials_examined">
+<paragraph id="BF7D36F3FFBC1B0BFE01FABB03EB4300" blockId="2.[473,1600,1241,1384]" box="[475,1261,1294,1334]" pageId="2" pageNumber="152">
+<materialsCitation id="0FAA3CAEFFBC1B0BFE01FABB03EB4300" ID-GBIF-Occurrence="3334692591" box="[475,1261,1294,1334]" collectingDate="1936-05-14" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="2" pageNumber="152" specimenCount="2">
+<collectingMunicipality id="5F19AC89FFBC1B0BFE01FABB057E4300" box="[475,632,1294,1334]" pageId="2" pageNumber="152">Inarajan</collectingMunicipality>
+, 
+<date id="CB7C1033FFBC1B0BFD48FABB04194300" box="[658,799,1294,1334]" pageId="2" pageNumber="152" value="2014-05">
+<collectingDate id="DB38E9DBFFBC1B0BFD48FABB04194300" box="[658,799,1294,1334]" pageId="2" pageNumber="152" value="2014-05">May 14</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFBC1B0BFCE1FABB04C44300" box="[827,962,1294,1334]" pageId="2" pageNumber="152">Swezey</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFBC1B0BFC06FABB03EE4300" box="[988,1256,1294,1334]" pageId="2" pageNumber="152" type="generic">two specimens</specimenCount>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFE03FAF404E9435E" box="[473,1007,1345,1384]" pageId="2" pageNumber="152" type="discussion">
+<paragraph id="BF7D36F3FFBC1B0BFE03FAF404E9435E" blockId="2.[473,1600,1241,1384]" box="[473,1007,1345,1384]" pageId="2" pageNumber="152">
+Described from New 
+<collectingCountry id="C7D57663FFBC1B0BFCB2FAF404EC435E" box="[872,1002,1345,1384]" name="Guinea-Bissau" pageId="2" pageNumber="152">Guinea</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,236 @@
+<document id="BF6C8A8FE6C4FBC5C8EFBA4AB26CDDA0" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBB1B0CFE9AFB9B03854089" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Carpophilus vittiger Murray 1864" docType="treatment" docVersion="20" lastPageNumber="155" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="155" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="4483D0F94A033C446AFE9680281157C3" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="4C95D7E78030F5C5A7D5A29CEB523823">
+<mods:title id="24C8C2715C270E5BF448BFE1670B73D6">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="FC7EB0CD2ABB99625970DF9642703998" type="personal">
+<mods:role id="F55CD88DB32C4DFBA719A55F552F7816">
+<mods:roleTerm id="8EB5866EABD8FEA128530CCDD259B564">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="BD8021433E2C76D1DB7EE737C208A352">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="4432FABBE105FB185544D038122EE76F">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="2828D7E3C4EA27092445E8787F0DC10C">text</mods:typeOfResource>
+<mods:relatedItem id="747CA0BE49D30BF2C1813F85542C9281" type="host">
+<mods:originInfo id="D46C93517A7C424CD7B256E88EECD676">
+<mods:dateIssued id="F1AFABF455631734F22991C93BF5B518">1942</mods:dateIssued>
+<mods:dateOther id="ED61B1CEBFF11E8171DDB5BB011F4058" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="BC657BC75C76392DFDC7DA87A5A759AE">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="AA588F5C1FF88F3381AE482012BA66F9">
+<mods:placeTerm id="C889301970F613193503CB01B6B14776">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="987E53AFCC99E4B6117CF8A46D886CED">
+<mods:title id="D406B3DE6C0B50019775B6E5116D9887">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="CEE064B427DE33F6BC591A659E687DE6">
+<mods:extent id="9064EAD0E3B154C7659C595064817A85" unit="page">
+<mods:start id="6DD6CAAE20937C04E0F8211B1BE9A26B">150</mods:start>
+<mods:end id="A03AEF33F0CB506560FE1718CEFE9EB5">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="0AD012E96BFB7E50A33BACF476353D8D">book chapter</mods:classification>
+<mods:identifier id="29978CB5EECB21688B65BB7DD2491E88" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="E9847DF7E5965E9BAD68874889339989" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="FE3C65519DCAC5987642EC1ACAC6D99B" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBB1B0CFE9AFB9B03854089" ID-DOI="http://doi.org/10.5281/zenodo.5211611" ID-GBIF-Taxon="184415278" ID-Zenodo-Dep="5211611" LSID="urn:lsid:plazi:treatment:376B87E5FFBB1B0CFE9AFB9B03854089" httpUri="http://treatment.plazi.org/id/376B87E5FFBB1B0CFE9AFB9B03854089" lastPageNumber="155" pageId="5" pageNumber="155">
+<subSubSection id="F7D86578FFBB1B0CFE9AFB9B04A2426E" box="[320,932,1070,1112]" pageId="5" pageNumber="155" type="nomenclature">
+<paragraph id="BF7D36F3FFBB1B0CFE9AFB9B04A2426E" blockId="5.[318,1712,1070,1727]" box="[320,932,1070,1112]" pageId="5" pageNumber="155">
+<heading id="E435819FFFBB1B0CFE9AFB9B04A2426E" box="[320,932,1070,1112]" centered="true" fontSize="11" level="2" pageId="5" pageNumber="155" reason="2">
+<emphasis id="8DB6EAE1FFBB1B0CFE9AFB9B0658426E" bold="true" box="[320,350,1070,1112]" pageId="5" pageNumber="155">2.</emphasis>
+<taxonomicName id="78C24D70FFBB1B0CFE5BFB9B049B426E" authority="Murray" authorityName="Murray" authorityYear="1864" box="[385,925,1070,1112]" class="Insecta" family="Nitidulidae" genus="Carpophilus" kingdom="Animalia" order="Coleoptera" pageId="5" pageNumber="155" phylum="Arthropoda" rank="species" species="vittiger">
+<emphasis id="8DB6EAE1FFBB1B0CFE5BFB9B055C426E" bold="true" box="[385,602,1070,1112]" pageId="5" pageNumber="155">Carpophilus</emphasis>
+vittiger Murray
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBB1B0CFC60FB9B042A42BA" pageId="5" pageNumber="155" type="reference_group">
+<paragraph id="BF7D36F3FFBB1B0CFC60FB9B042A42BA" blockId="5.[318,1712,1070,1727]" pageId="5" pageNumber="155">
+<bibCitation id="6AE83E9FFFBB1B0CFC60FB9B042A42BA" author="Murray" journalOrPublisher="Monogr." pageId="5" pageNumber="155" pagination="373" part="56" refId="ref2558" title="Coleopt. Catalog" type="book" year="1864">
+<treatmentCitationGroup id="9FD211DDFFBB1B0CFC60FB9B042142BA" pageId="5" pageNumber="155">
+<heading id="E435819FFFBB1B0CFC60FB9B01B6426E" box="[954,1712,1070,1112]" centered="true" fontSize="11" level="2" pageId="5" pageNumber="155" reason="2">
+<treatmentCitation id="3E6310E2FFBB1B0CFC60FB9B022A426E" box="[954,1324,1070,1112]" pageId="5" pageNumber="155" year="1908">
+<journalOrPublisher id="65033C3FFFBB1B0CFC60FB9B0351426E" box="[954,1111,1070,1112]" pageId="5" pageNumber="155">Monogr.</journalOrPublisher>
+, 
+<pagination id="860BC807FFBB1B0CFBAFFB9B03B0426E" box="[1141,1206,1070,1112]" pageId="5" pageNumber="155" type="pageRange">373</pagination>
+, 
+<year id="CB6A77A0FFBB1B0CFB0FFB9B0221426E" box="[1237,1319,1070,1112]" pageId="5" pageNumber="155">1864</year>
+.
+</treatmentCitation>
+<treatmentCitation id="3E6310E2FFBB1B0CFA95FB9B01B6426E" author="Grouvelle" box="[1359,1712,1070,1112]" page="85" pageId="5" pageNumber="155" year="1913">
+<author id="677FDE16FFBB1B0CFA95FB9B0107426E" box="[1359,1537,1070,1112]" pageId="5" pageNumber="155">Grouvelle</author>
+, 
+<title id="CDC6DDC5FFBB1B0CF9C4FB9B01B6426E" box="[1566,1712,1070,1112]" pageId="5" pageNumber="155">Coleopt.</title>
+</treatmentCitation>
+</heading>
+Catalog. (
+<part id="CB669C6EFFBB1B0CFDE9FBD4055842BA" box="[563,606,1121,1164]" pageId="5" pageNumber="155" type="volume">56</part>
+): 
+<pagination id="860BC807FFBB1B0CFD4BFBD405BA42BA" box="[657,700,1121,1164]" pageId="5" pageNumber="155" type="pageRange">85</pagination>
+, 
+<year id="CB6A77A0FFBB1B0CFD0FFBD4042142BA" box="[725,807,1121,1164]" pageId="5" pageNumber="155">1913</year>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBB1B0CFE5AFB20053F406E" pageId="5" pageNumber="155" type="materials_examined">
+<paragraph id="BF7D36F3FFBB1B0CFE5AFB20053F406E" blockId="5.[318,1712,1070,1727]" pageId="5" pageNumber="155">
+<materialsCitation id="0FAA3CAEFFBB1B0CFE5AFB2003934289" ID-GBIF-Occurrence="3994027551" box="[384,1173,1173,1215]" collectedFrom="on beach shrubs" collectingDate="1936-03-28" collectorName="E. H. Bryan" country="Guam" location="Umatac" pageId="5" pageNumber="155">
+<collectingMunicipality id="5F19AC89FFBB1B0CFE5AFB20050D4289" box="[384,523,1173,1215]" pageId="5" pageNumber="155">Umatac</collectingMunicipality>
+, 
+<date id="CB7C1033FFBB1B0CFDF9FB2005D64289" box="[547,720,1173,1215]" pageId="5" pageNumber="155" value="1928-03">
+<collectingDate id="DB38E9DBFFBB1B0CFDF9FB2005D64289" box="[547,720,1173,1215]" pageId="5" pageNumber="155" value="1928-03">March 28</collectingDate>
+</date>
+, on beach shrubs, 
+<location id="BA1D6028FFBB1B0CFBFAFB2003884289" LSID="urn:lsid:plazi:treatment:376B87E5FFBB1B0CFE9AFB9B03854089:BA1D6028FFBB1B0CFBFAFB2003884289" box="[1056,1166,1173,1215]" municipality="Umatac" name="Bryan" pageId="5" pageNumber="155">Bryan</location>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBB1B0CFB72FB2002E04289" ID-GBIF-Occurrence="3994027484" box="[1192,1510,1173,1215]" collectingDate="1936-05-28" collectorName="R. L. Usinger" country="Guam" location="Umatac" pageId="5" pageNumber="155">
+<date id="CB7C1033FFBB1B0CFB72FB2002374289" box="[1192,1329,1173,1215]" pageId="5" pageNumber="155" value="1928-05">
+<collectingDate id="DB38E9DBFFBB1B0CFB72FB2002374289" box="[1192,1329,1173,1215]" pageId="5" pageNumber="155" value="1928-05">May 28</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFBB1B0CFA93FB2002D94289" box="[1353,1503,1173,1215]" pageId="5" pageNumber="155">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBB1B0CFA22FB20050842C7" ID-GBIF-Occurrence="3334692557" collectingDate="1936-04-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="155">
+<location id="BA1D6028FFBB1B0CFA22FB20013D4289" LSID="urn:lsid:plazi:treatment:376B87E5FFBB1B0CFE9AFB9B03854089:BA1D6028FFBB1B0CFA22FB20013D4289" box="[1528,1595,1173,1215]" name="Piti" pageId="5" pageNumber="155">Piti</location>
+, 
+<date id="CB7C1033FFBB1B0CF98BFB20066A42C7" pageId="5" pageNumber="155" value="1930-04">
+<collectingDate id="DB38E9DBFFBB1B0CF98BFB20066A42C7" pageId="5" pageNumber="155" value="1930-04">April 30</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFBB1B0CFE58FB7C050E42C7" box="[386,520,1225,1265]" pageId="5" pageNumber="155">Swezey</collectorName>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBB1B0CFDC7FB7C027642C7" ID-GBIF-Occurrence="3334692306" box="[541,1392,1225,1265]" collectedFrom="in pods of Pithecolobium dulce" collectingDate="1936-05-02" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="5" pageNumber="155">
+<date id="CB7C1033FFBB1B0CFDC7FB7C058842C7" box="[541,654,1225,1265]" pageId="5" pageNumber="155">
+<collectingDate id="DB38E9DBFFBB1B0CFDC7FB7C058842C7" box="[541,654,1225,1265]" pageId="5" pageNumber="155">May 2</collectingDate>
+</date>
+, in pods of 
+<emphasis id="8DB6EAE1FFBB1B0CFC85FB7C03CA42C7" box="[863,1228,1225,1265]" italics="true" pageId="5" pageNumber="155">
+<taxonomicName id="78C24D70FFBB1B0CFC85FB7C035D42C7" authorityName=", Usinger" box="[863,1115,1225,1265]" class="Magnoliopsida" family="Fabaceae" genus="Pithecolobium" higherTaxonomySource="CoL" kingdom="Plantae" order="Fabales" pageId="5" pageNumber="155" phylum="Tracheophyta" rank="genus">
+<location id="BA1D6028FFBB1B0CFC85FB7C035D42C7" LSID="urn:lsid:plazi:treatment:376B87E5FFBB1B0CFE9AFB9B03854089:BA1D6028FFBB1B0CFC85FB7C035D42C7" box="[863,1115,1225,1265]" name="Pithecolobium" pageId="5" pageNumber="155">Pithecolobium</location>
+</taxonomicName>
+dulce,
+</emphasis>
+<collectorName id="12375325FFBB1B0CFB01FB7C026C42C7" box="[1243,1386,1225,1265]" pageId="5" pageNumber="155">Usinger</collectorName>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBB1B0CFAA5FB7C059E4312" ID-GBIF-Occurrence="3334692551" collectedFrom="in rotten breadfruit" collectingDate="1936-05-22" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="155">
+<date id="CB7C1033FFBB1B0CFAA5FB7C010342C7" box="[1407,1541,1225,1265]" pageId="5" pageNumber="155" value="1922-05">
+<collectingDate id="DB38E9DBFFBB1B0CFAA5FB7C010342C7" box="[1407,1541,1225,1265]" pageId="5" pageNumber="155" value="1922-05">May 22</collectingDate>
+</date>
+, in rotten breadfruit, 
+<collectorName id="12375325FFBB1B0CFDD7FB4905944312" box="[525,658,1276,1316]" pageId="5" pageNumber="155">Swezey</collectorName>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBB1B0CFD7CFB4906CB436E" ID-GBIF-Occurrence="3994027425" collectedFrom="on sugar cane infested with Pseudococcus boninsis" collectingDate="1936-06-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="155">
+<date id="CB7C1033FFBB1B0CFD7CFB49041D4312" box="[678,795,1276,1316]" pageId="5" pageNumber="155">
+<collectingDate id="DB38E9DBFFBB1B0CFD7CFB49041D4312" box="[678,795,1276,1316]" pageId="5" pageNumber="155">
+June 
+<emphasis id="8DB6EAE1FFBB1B0CFCDCFB4904244312" box="[774,802,1276,1316]" italics="true" pageId="5" pageNumber="155">7,</emphasis>
+</collectingDate>
+</date>
+on sugar cane infested with 
+<taxonomicName id="78C24D70FFBB1B0CFAC3FB490531436E" authority=", Swezey, Sept." authorityName=", Swezey, Sept." class="Insecta" family="Pseudococcidae" genus="Pseudococcus" kingdom="Animalia" order="Hemiptera" pageId="5" pageNumber="155" phylum="Arthropoda" rank="species" species="boninsis">
+<emphasis id="8DB6EAE1FFBB1B0CFAC3FB4901AB4312" box="[1305,1709,1276,1316]" italics="true" pageId="5" pageNumber="155">
+<location id="BA1D6028FFBB1B0CFAC3FB49010C4312" LSID="urn:lsid:plazi:treatment:376B87E5FFBB1B0CFE9AFB9B03854089:BA1D6028FFBB1B0CFAC3FB49010C4312" box="[1305,1546,1276,1316]" name="Pseudococcus" pageId="5" pageNumber="155">Pseudococcus</location>
+boninsis,
+</emphasis>
+<collectorName id="12375325FFBB1B0CFE98FA8506C1436E" box="[322,455,1328,1368]" pageId="5" pageNumber="155">Swezey</collectorName>
+, 
+<materialsCitation id="0FAA3CAEFFBB1B0CFE3BFA85039E436E" ID-GBIF-Occurrence="3994027463" box="[481,1176,1328,1368]" collectedFrom="in rotten breadfruit" collectingDate="1936-09-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="155">
+<date id="CB7C1033FFBB1B0CFE3BFA850572436E" box="[481,628,1328,1368]" pageId="5" pageNumber="155" value="2020-09">
+<collectingDate id="DB38E9DBFFBB1B0CFE3BFA850572436E" box="[481,628,1328,1368]" pageId="5" pageNumber="155" value="2020-09">Sept. 20</collectingDate>
+</date>
+, in rotten breadfruit, 
+<collectorName id="12375325FFBB1B0CFBDCFA850397436E" box="[1030,1169,1328,1368]" pageId="5" pageNumber="155">Swezey</collectorName>
+;
+</materialsCitation>
+</taxonomicName>
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBB1B0CFB71FA85043D43BA" ID-GBIF-Occurrence="3334692324" collectedFrom="under bark of dead Pandanus" collectingDate="1936-05-11" collectorName="R. L. Usinger" country="Guam" location="Dededo" pageId="5" pageNumber="155">
+<collectingMunicipality id="5F19AC89FFBB1B0CFB71FA850234436E" box="[1195,1330,1328,1368]" pageId="5" pageNumber="155">Dededo</collectingMunicipality>
+, 
+<date id="CB7C1033FFBB1B0CFA91FA8502D5436E" box="[1355,1491,1328,1368]" pageId="5" pageNumber="155" value="2011-05">
+<collectingDate id="DB38E9DBFFBB1B0CFA91FA8502D5436E" box="[1355,1491,1328,1368]" pageId="5" pageNumber="155" value="2011-05">May 11</collectingDate>
+</date>
+, under bark of dead 
+<emphasis id="8DB6EAE1FFBB1B0CFE0FFAD7058A43BA" box="[469,652,1378,1420]" italics="true" pageId="5" pageNumber="155">
+<location id="BA1D6028FFBB1B0CFE0FFAD7052343BA" LSID="urn:lsid:plazi:treatment:376B87E5FFBB1B0CFE9AFB9B03854089:BA1D6028FFBB1B0CFE0FFAD7052343BA" box="[469,549,1378,1420]" municipality="Dededo" name="Pani" pageId="5" pageNumber="155">Pani</location>
+:lanus,
+</emphasis>
+<collectorName id="12375325FFBB1B0CFD45FAD7043243BA" box="[671,820,1378,1420]" pageId="5" pageNumber="155">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBB1B0CFC97FAD7058F43F6" ID-GBIF-Occurrence="3334692392" collectedFrom="in ear of corn infested with corn earworm" collectingDate="1936-05-26" collectorName="O. H. Swezey" country="Guam" location="Agat" pageId="5" pageNumber="155">
+<location id="BA1D6028FFBB1B0CFC97FAD704A343BA" LSID="urn:lsid:plazi:treatment:376B87E5FFBB1B0CFE9AFB9B03854089:BA1D6028FFBB1B0CFC97FAD704A343BA" box="[845,933,1378,1420]" name="Agat" pageId="5" pageNumber="155">Agat</location>
+, 
+<date id="CB7C1033FFBB1B0CFC65FAD7034C43BA" box="[959,1098,1378,1420]" pageId="5" pageNumber="155" value="1926-05">
+<collectingDate id="DB38E9DBFFBB1B0CFC65FAD7034C43BA" box="[959,1098,1378,1420]" pageId="5" pageNumber="155" value="1926-05">May 26</collectingDate>
+</date>
+, in ear of corn infested with corn earwonn, 
+<collectorName id="12375325FFBB1B0CFE2CFA23058443F6" box="[502,642,1430,1472]" pageId="5" pageNumber="155">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBB1B0CFD47FA23026843F6" ID-GBIF-Occurrence="3334692366" box="[669,1390,1430,1472]" collectedFrom="under bark" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="5" pageNumber="155">
+<location id="BA1D6028FFBB1B0CFD47FA23045543F6" LSID="urn:lsid:plazi:treatment:376B87E5FFBB1B0CFE9AFB9B03854089:BA1D6028FFBB1B0CFD47FA23045543F6" box="[669,851,1430,1472]" name="Machanao" pageId="5" pageNumber="155">Machanao</location>
+, 
+<date id="CB7C1033FFBB1B0CFCB1FA2304E243F6" box="[875,996,1430,1472]" pageId="5" pageNumber="155">
+<collectingDate id="DB38E9DBFFBB1B0CFCB1FA2304E243F6" box="[875,996,1430,1472]" pageId="5" pageNumber="155">June 4</collectingDate>
+</date>
+, under bark, 
+<collectorName id="12375325FFBB1B0CFB06FA23026143F6" box="[1244,1383,1430,1472]" pageId="5" pageNumber="155">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBB1B0CFA58FA23057543C5" ID-GBIF-Occurrence="3334692356" collectedFrom="on corn" collectingDate="1936-06-11" collectorName="O. H. Swezey" country="Guam" location="Merizo" pageId="5" pageNumber="155">
+<location id="BA1D6028FFBB1B0CFA58FA23010743F6" LSID="urn:lsid:plazi:treatment:376B87E5FFBB1B0CFE9AFB9B03854089:BA1D6028FFBB1B0CFA58FA23010743F6" box="[1410,1537,1430,1472]" name="Merizo" pageId="5" pageNumber="155">Merizo</location>
+, 
+<date id="CB7C1033FFBB1B0CF9C3FA2301A143F6" box="[1561,1703,1430,1472]" pageId="5" pageNumber="155" value="2011-06">
+<collectingDate id="DB38E9DBFFBB1B0CF9C3FA2301A143F6" box="[1561,1703,1430,1472]" pageId="5" pageNumber="155" value="2011-06">June 11</collectingDate>
+</date>
+, on corn, 
+<collectorName id="12375325FFBB1B0CFE3AFA7C056A43C5" box="[480,620,1481,1523]" pageId="5" pageNumber="155">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBB1B0CFD5EFA7C02AD43C5" ID-GBIF-Occurrence="3334692525" box="[644,1451,1481,1523]" collectedFrom="in rotten breadfruit" collectingDate="1936-08-22" collectorName="O. H. Swezey" country="Guam" location="Asan" pageId="5" pageNumber="155">
+<collectingMunicipality id="5F19AC89FFBB1B0CFD5EFA7C05E743C5" box="[644,737,1481,1523]" pageId="5" pageNumber="155">Asan</collectingMunicipality>
+, 
+<date id="CB7C1033FFBB1B0CFD22FA7C048C43C5" box="[760,906,1481,1523]" pageId="5" pageNumber="155" value="1922-08">
+<collectingDate id="DB38E9DBFFBB1B0CFD22FA7C048C43C5" box="[760,906,1481,1523]" pageId="5" pageNumber="155" value="1922-08">Aug. 22</collectingDate>
+</date>
+, in rotten breadfruit, 
+<collectorName id="12375325FFBB1B0CFAC2FA7C02A243C5" box="[1304,1444,1481,1523]" pageId="5" pageNumber="155">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBB1B0CFA67FA7C01A943C5" ID-GBIF-Occurrence="3994034302" box="[1469,1711,1481,1523]" collectedFrom="on corn, among dead papaya leaves and in seed cluster of an ornamental palm" collectingDate="1936-11-08" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="5" pageNumber="155">
+<location id="BA1D6028FFBB1B0CFA67FA7C011343C5" LSID="urn:lsid:plazi:treatment:376B87E5FFBB1B0CFE9AFB9B03854089:BA1D6028FFBB1B0CFA67FA7C011343C5" box="[1469,1557,1481,1523]" name="Yigo" pageId="5" pageNumber="155">Yigo</location>
+, 
+<date id="CB7C1033FFBB1B0CF9F7FA7C066C4010" pageId="5" pageNumber="155" value="2013-11-08">
+<collectingDate id="DB38E9DBFFBB1B0CF9F7FA7C066C4010" pageId="5" pageNumber="155" value="2013-11-08">
+Nov. 8, 
+<materialsCitation id="0FAA3CAEFFBB1B0CFE99FA49053F406E" ID-GBIF-Occurrence="3994034301" collectedFrom="on corn, among dead papaya leaves and in seed cluster of an ornamental palm" collectingDate="1936-11-13" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="5" pageNumber="155">
+13, on corn, among dead papaya leaves and in seed cluster of an ornamental palm, 
+<collectorName id="12375325FFBB1B0CFE74F9850532406E" box="[430,564,1584,1624]" pageId="5" pageNumber="155">Swezey</collectorName>
+.
+</materialsCitation>
+</collectingDate>
+</date>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBB1B0CFEA4F9D603854089" pageId="5" pageNumber="155" type="discussion">
+<paragraph id="BF7D36F3FFBB1B0CFEA4F9D603854089" blockId="5.[318,1712,1070,1727]" pageId="5" pageNumber="155">
+A cosmopolitan species which was very abundant in rotten fruits in 
+<collectingCountry id="C7D57663FFBB1B0CF9E5F9D601AC40BB" box="[1599,1706,1635,1677]" name="Guam" pageId="5" pageNumber="155">Guam</collectingCountry>
+. Determined by G. E. Bryant, British Museum.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

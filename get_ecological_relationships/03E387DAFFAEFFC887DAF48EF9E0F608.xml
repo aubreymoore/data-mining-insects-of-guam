@@ -1,0 +1,166 @@
+<document id="827D0803F6252A64B4392202FBD3FC58" ID-DOI="http://doi.org/10.5281/zenodo.5159673" ID-GBIF-Dataset="7700299b-eb39-4c24-86fe-2eabb15beda7" ID-Zenodo-Dep="5159673" approvalRequired="1" approvalRequired_for_document="1" checkinTime="1628017110730" checkinUser="carolina" docAuthor="Blair, K. G." docDate="1942" docId="03E387DAFFAEFFC887DAF48EF9E0F608" docLanguage="en" docName="InsectsOfGuamI.172.56-60.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Uloma cavicollis Fairmaire" docType="treatment" docVersion="12" lastPageNumber="56" masterDocId="FFDAFFA2FFAEFFC88657F353FF92FFF8" masterDocTitle="Coleoptera Heteromera From Guam" masterLastPageNumber="60" masterPageNumber="56" pageNumber="56" updateTime="1659619232536" updateUser="ExternalLinkService">
+<mods:mods id="693DDE91BE1888B5FC43CABABE7353BC" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CD424B97C9D071217551012B1D313874">
+<mods:title id="3E2B7006F8B89732B446D0A5F9702B0F">Coleoptera Heteromera From Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="54E89A6F68F6DF6EFF73E190F47DEB11" type="personal">
+<mods:role id="6B619DCABC72C3D32E80148221D90717">
+<mods:roleTerm id="1A01C444F860DC0BE44AA3CB1276F95D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="424F4CBD59AA110108E1BABC975ADA09">Blair, K. G.</mods:namePart>
+<mods:affiliation id="7DD8CCD4A2DD80E33E25512E2870C1CB">British Museum \ (Natural History), London</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A0FA64C19A7FFDBA259DA11CF286F0B3">text</mods:typeOfResource>
+<mods:relatedItem id="A1756D55AAEC5E1FB297BB582DC0AE53" type="host">
+<mods:originInfo id="98BB2BCBD7158CC36FA7979B83F7A188">
+<mods:dateIssued id="CA64226681D460C393127B8BFCD30F84">1942</mods:dateIssued>
+<mods:dateOther id="8F4DC7E7D7ABCDFDF9B8BB701B950AF6" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="C63DCB6A0511E9EDA48FA6B098E11D64">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="F3168D31C5AF96C020CCE94E68FC5E18">
+<mods:placeTerm id="85F420604334639D5731CB0B8D493B2F">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="DBBAFCC5AC9E56589B357BD5860772B8">
+<mods:title id="69ED8324691AE01576F50CAD178CDADF">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="2FEC999D4BDB33879D23CB397C83A1A5">
+<mods:extent id="F7CFF12EB89290CF9E5E75910CF29D90" unit="page">
+<mods:start id="298BF8673A5EE02B7BB4231BD801225E">56</mods:start>
+<mods:end id="F3231AC4A95F2201F42BCE6FACCE8DB0">60</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="50FEAF529D4CCFE87791239B94CD6914">book chapter</mods:classification>
+<mods:identifier id="11AFE49695A447BEFD0B9549D06B9010" type="DOI">http://doi.org/10.5281/zenodo.5159673</mods:identifier>
+<mods:identifier id="48CE0AC6F272BEF497FFC296FD0D41F8" type="GBIF-Dataset">7700299b-eb39-4c24-86fe-2eabb15beda7</mods:identifier>
+<mods:identifier id="C49AD8DD92AD099F8A5FE6A2299668B8" type="Zenodo-Dep">5159673</mods:identifier>
+</mods:mods>
+<treatment id="03E387DAFFAEFFC887DAF48EF9E0F608" ID-DOI="http://doi.org/10.5281/zenodo.5157195" ID-GBIF-Taxon="183919350" ID-Zenodo-Dep="5157195" LSID="urn:lsid:plazi:treatment:03E387DAFFAEFFC887DAF48EF9E0F608" httpUri="http://treatment.plazi.org/id/03E387DAFFAEFFC887DAF48EF9E0F608" lastPageNumber="56" pageId="0" pageNumber="56">
+<subSubSection id="C3506547FFAEFFC887DAF48EFBF6F7F0" box="[397,1124,2013,2056]" pageId="0" pageNumber="56" type="nomenclature">
+<paragraph id="8BF536CCFFAEFFC887DAF48EFBF6F7F0" blockId="0.[397,1793,2013,2544]" box="[397,1124,2013,2056]" pageId="0" pageNumber="56">
+<heading id="D0BD81A0FFAEFFC887DAF48EFBF6F7F0" box="[397,1124,2013,2056]" fontSize="11" level="2" pageId="0" pageNumber="56" reason="2">
+<emphasis id="B93EEADEFFAEFFC887DAF48EFE38F7F0" bold="true" box="[397,426,2013,2056]" pageId="0" pageNumber="56">2.</emphasis>
+<taxonomicName id="4C4A4D4FFFAEFFC8879BF48EFC56F7F0" authority="Fairmaire" authorityName="Fairmaire" box="[460,964,2013,2056]" class="Insecta" family="Tenebrionidae" genus="Uloma" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="56" phylum="Arthropoda" rank="species" species="cavicollis">
+<emphasis id="B93EEADEFFAEFFC8879BF48EFD6EF7F0" bold="true" box="[460,764,2013,2056]" pageId="0" pageNumber="56">Uloma cavicollis</emphasis>
+Fairmaire
+</taxonomicName>
+, variety.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAEFFC88786FB40FACFF7C6" box="[465,1373,2067,2110]" pageId="0" pageNumber="56" type="reference_group">
+<paragraph id="8BF536CCFFAEFFC88786FB40FACFF7C6" blockId="0.[397,1793,2013,2544]" box="[465,1373,2067,2110]" pageId="0" pageNumber="56">
+<treatmentCitationGroup id="AB5A11E2FFAEFFC88786FB40FACFF7C6" box="[465,1373,2067,2110]" pageId="0" pageNumber="56">
+<treatmentCitation id="0AEB10DDFFAEFFC88786FB40FACFF7C6" author="Fairmaire" box="[465,1373,2067,2110]" page="447" pageId="0" pageNumber="56" year="1849">
+<taxonomicName id="4C4A4D4FFFAEFFC88786FB40FC2AF7C6" authority="Fairmaire, Rev. Zool." authorityName="Fairmaire, Rev. Zool." box="[465,952,2067,2110]" class="Insecta" family="Tenebrionidae" genus="Uloma" kingdom="Animalia" order="Coleoptera" pageId="0" pageNumber="56" phylum="Arthropoda" rank="species" species="cavicollis">
+<emphasis id="B93EEADEFFAEFFC88786FB40FD66F7C6" box="[465,756,2067,2110]" italics="true" pageId="0" pageNumber="56">Uloma cavicollis</emphasis>
+<bibCitation id="5E603EA0FFAEFFC88551FB40FACFF7C6" author="Fairmaire" box="[774,1373,2067,2110]" journalOrPublisher="Rev. Zool." pageId="0" pageNumber="56" pagination="447" type="book" year="1849">
+<author id="53F7DE29FFAEFFC88551FB40FC2AF7C6" box="[774,952,2067,2110]" pageId="0" pageNumber="56">Fairmaire</author>
+, 
+<journalOrPublisher id="518B3C00FFAEFFC88585FB40FB1DF7C6" box="[978,1167,2067,2110]" pageId="0" pageNumber="56">Rev. Zool.</journalOrPublisher>
+, 
+<emphasis id="B93EEADEFFAEFFC882F0FB40FB7DF7C6" box="[1191,1263,2067,2110]" italics="true" pageId="0" pageNumber="56">
+<pagination id="B283C838FFAEFFC882F0FB40FB7BF7C6" box="[1191,1257,2067,2110]" pageId="0" pageNumber="56">447</pagination>
+,
+</emphasis>
+<year id="FFE2779FFFAEFFC88352FB40FACAF7C6" box="[1285,1368,2067,2110]" pageId="0" pageNumber="56">1849</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAEFFC88799FB19FD8EF67B" pageId="0" pageNumber="56" type="materials_examined">
+<paragraph id="8BF536CCFFAEFFC88799FB19FD8EF67B" blockId="0.[397,1793,2013,2544]" pageId="0" pageNumber="56">
+<materialsCitation id="3B223C91FFAEFFC88799FB19FB21F78C" ID-GBIF-Occurrence="3878849314" box="[462,1203,2122,2164]" collectingDate="1936-06-05" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Machanao" pageId="0" pageNumber="56" specimenCount="3" specimenCount-female="1" specimenCount-male="2">
+Machanao, 
+<date id="FFF4100CFFAEFFC884C0FB19FC9EF78C" box="[663,780,2122,2164]" pageId="0" pageNumber="56">
+<collectingDate id="EFB0E9E4FFAEFFC884C0FB19FC9EF78C" box="[663,780,2122,2164]" pageId="0" pageNumber="56">June 5</collectingDate>
+</date>
+, 
+<specimenCount id="9D4CFD45FFAEFFC88577FB19FC40F78C" box="[800,978,2122,2164]" pageId="0" pageNumber="56" type="male">two males</specimenCount>
+, 
+<specimenCount id="9D4CFD45FFAEFFC885B3FB19FB3FF78C" box="[996,1197,2122,2164]" pageId="0" pageNumber="56" type="female">one female</specimenCount>
+;
+</materialsCitation>
+<materialsCitation id="3B223C91FFAEFFC88296FB19FC42F753" ID-GBIF-Occurrence="3878849301" collectingDate="1936-05-26" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Mount Alifan" pageId="0" pageNumber="56" specimenCount="7" specimenCount-female="4" specimenCount-male="3">
+<location id="8E956017FFAEFFC88296FB19FA10F78C" LSID="urn:lsid:plazi:treatment:03E387DAFFAEFFC887DAF48EF9E0F608:8E956017FFAEFFC88296FB19FA10F78C" box="[1217,1410,2122,2164]" municipality="Mt. Tenjo" name="Mt. Alifan" pageId="0" pageNumber="56">Mt. Alifan</location>
+, 
+<date id="FFF4100CFFAEFFC883C0FB19F98FF78C" box="[1431,1565,2122,2164]" pageId="0" pageNumber="56" value="1926-05">
+<collectingDate id="EFB0E9E4FFAEFFC883C0FB19F98FF78C" box="[1431,1565,2122,2164]" pageId="0" pageNumber="56" value="1926-05">May 26</collectingDate>
+</date>
+, 
+<specimenCount id="9D4CFD45FFAEFFC88066FB19F96BF78C" box="[1585,1785,2122,2164]" pageId="0" pageNumber="56" type="male">three males</specimenCount>
+, 
+<specimenCount id="9D4CFD45FFAEFFC887C7FB2CFDEAF753" box="[400,632,2175,2219]" pageId="0" pageNumber="56" type="female">four females</specimenCount>
+, Swezey, Usinger;
+</materialsCitation>
+<materialsCitation id="3B223C91FFAEFFC885B2FB2CFBD4F718" ID-GBIF-Occurrence="3878849305" collectedFrom="in rotten trunk of Areca palm" collectingDate="1936-05-03" collectorName="O. H. Swezey" country="Guam" location="Mount Tenjo" pageId="0" pageNumber="56" specimenCount-female="1">
+<collectingMunicipality id="6B91ACB6FFAEFFC885B2FB2CFB31F753" box="[997,1187,2175,2219]" pageId="0" pageNumber="56">Mt. Tenjo</collectingMunicipality>
+, 
+<date id="FFF4100CFFAEFFC882E8FB2CFAA7F753" box="[1215,1333,2175,2219]" pageId="0" pageNumber="56">
+<collectingDate id="EFB0E9E4FFAEFFC882E8FB2CFAA7F753" box="[1215,1333,2175,2219]" pageId="0" pageNumber="56">May 3</collectingDate>
+</date>
+, 
+<specimenCount id="9D4CFD45FFAEFFC88307FB2CF986F753" box="[1360,1556,2175,2219]" pageId="0" pageNumber="56" type="female">one female</specimenCount>
+and larva in rotten trunk of 
+<taxonomicName id="4C4A4D4FFFAEFFC884E8FBEBFCBAF718" box="[703,808,2232,2272]" class="Liliopsida" family="Arecaceae" genus="Areca" kingdom="Plantae" order="Arecales" pageId="0" pageNumber="56" phylum="Tracheophyta" rank="genus">
+<emphasis id="B93EEADEFFAEFFC884E8FBEBFCBAF718" box="[703,808,2232,2272]" italics="true" pageId="0" pageNumber="56">Areca</emphasis>
+</taxonomicName>
+palm, Swezey;
+</materialsCitation>
+<materialsCitation id="3B223C91FFAEFFC8820AFBEBFCF0F6EF" ID-GBIF-Occurrence="3878849317" collectedFrom="in rotten Pandanus trunk" collectingDate="1936-05-04" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="0" pageNumber="56" specimenCount-female="1">
+Agana, 
+<date id="FFF4100CFFAEFFC882A6FBEBFAF8F718" box="[1265,1386,2232,2272]" pageId="0" pageNumber="56">
+<collectingDate id="EFB0E9E4FFAEFFC882A6FBEBFAF8F718" box="[1265,1386,2232,2272]" pageId="0" pageNumber="56">May 4</collectingDate>
+</date>
+, 
+<specimenCount id="9D4CFD45FFAEFFC883DFFBEBF9DCF718" box="[1416,1614,2232,2272]" pageId="0" pageNumber="56" type="female">one female</specimenCount>
+in rotten 
+<taxonomicName id="4C4A4D4FFFAEFFC887D9FBBFFDAEF6EF" box="[398,572,2284,2327]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="0" pageNumber="56" phylum="Tracheophyta" rank="genus">
+<emphasis id="B93EEADEFFAEFFC887D9FBBFFDAEF6EF" box="[398,572,2284,2327]" italics="true" pageId="0" pageNumber="56">Pandanus</emphasis>
+</taxonomicName>
+trunk, Swezey;
+</materialsCitation>
+<materialsCitation id="3B223C91FFAEFFC8852EFBBFFB85F6B5" ID-GBIF-Occurrence="3878849302" collectingDate="1936-09-18" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="0" pageNumber="56" specimenCount="2" specimenCount-female="1" specimenCount-male="1">
+Fadian, 
+<date id="FFF4100CFFAEFFC88244FBBFFB38F6EF" box="[1043,1194,2284,2327]" pageId="0" pageNumber="56" value="2018-09">
+<collectingDate id="EFB0E9E4FFAEFFC88244FBBFFB38F6EF" box="[1043,1194,2284,2327]" pageId="0" pageNumber="56" value="2018-09">Sept. 18</collectingDate>
+</date>
+, 
+<specimenCount id="9D4CFD45FFAEFFC88290FBBFFAF9F6EF" box="[1223,1387,2284,2327]" pageId="0" pageNumber="56" type="male">one male</specimenCount>
+, 
+<specimenCount id="9D4CFD45FFAEFFC883D2FBBFF9D8F6EF" box="[1413,1610,2284,2327]" pageId="0" pageNumber="56" type="female">one female</specimenCount>
+(larv_a in rotten log, adult, 
+<date id="FFF4100CFFAEFFC88491FA70FCCEF6B5" box="[710,860,2339,2381]" pageId="0" pageNumber="56" value="1922-11">
+<collectingDate id="EFB0E9E4FFAEFFC88491FA70FCCEF6B5" box="[710,860,2339,2381]" pageId="0" pageNumber="56" value="1922-11">Nov. 22</collectingDate>
+</date>
+), Swezey;
+</materialsCitation>
+<materialsCitation id="3B223C91FFAEFFC88270FA70FD85F67B" ID-GBIF-Occurrence="3878849308" collectedFrom="in rotten stump" collectingDate="1936-11-13" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="0" pageNumber="56" specimenCount-male="1">
+Yigo, 
+<date id="FFF4100CFFAEFFC882C0FA70FAB6F6B5" box="[1175,1316,2339,2381]" pageId="0" pageNumber="56" value="2013-11">
+<collectingDate id="EFB0E9E4FFAEFFC882C0FA70FAB6F6B5" box="[1175,1316,2339,2381]" pageId="0" pageNumber="56" value="2013-11">Nov. 13</collectingDate>
+</date>
+, 
+<specimenCount id="9D4CFD45FFAEFFC8836CFA70FA44F6B5" box="[1339,1494,2339,2381]" pageId="0" pageNumber="56" type="male">one male</specimenCount>
+in rotten stump, Swezey
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAEFFC8879AFAC3F9E0F608" pageId="0" pageNumber="56" type="description">
+<paragraph id="8BF536CCFFAEFFC8879AFAC3F9E0F608" blockId="0.[397,1793,2013,2544]" pageId="0" pageNumber="56">
+All these specimens agree in having the dorsal interstices of the elytra very flat, as in the variety 
+<taxonomicName id="4C4A4D4FFFAEFFC8853FFA95FB1DF608" authority="Blair" authorityName="Blair" box="[872,1167,2502,2544]" pageId="0" pageNumber="56" rank="variety" variety="ponapensis">
+<emphasis id="B93EEADEFFAEFFC8853FFA95FBBAF608" box="[872,1064,2502,2544]" italics="true" pageId="0" pageNumber="56">ponapensis</emphasis>
+Blair
+</taxonomicName>
+from the 
+<collectingCountry id="F35D765CFFAEFFC8831DFA95F9FFF608" box="[1354,1645,2502,2544]" name="Micronesia" pageId="0" pageNumber="56">Caroline Islands</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

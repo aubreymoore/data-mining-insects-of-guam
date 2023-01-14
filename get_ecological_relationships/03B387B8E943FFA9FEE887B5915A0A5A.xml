@@ -1,0 +1,156 @@
+<document id="F05453EE36BC8A31891BFB0816A6A264" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E943FFA9FEE887B5915A0A5A" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Anua tongaensis Hampson 1913" docType="treatment" docVersion="20" lastPageNumber="171" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="171" updateTime="1669841625929" updateUser="ExternalLinkService">
+<mods:mods id="73A587109C0A8164B1DE6A38458F76EA" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="E572A304967F753394AF2CAF5BE5D3AD">
+<mods:title id="9AB61999118D234B3BD269212B690EF8">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="27B1ACE59FCE34E4463BC7D962E214A5" type="personal">
+<mods:role id="1CC582F12930136C09489AAA7914003D">
+<mods:roleTerm id="6376F5B7EEF9CF26B13D4AE06117A99B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B0D1F1A3EB323C26B6C57A27A3A4F401">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="3693F444FF36DB3FB81A36838B48F4F3">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="B8DEA3D05B677DBA4499BCD82B8BB535">text</mods:typeOfResource>
+<mods:relatedItem id="725887AC084BD3F071DB88902D8363B7" type="host">
+<mods:originInfo id="BCEEA11D7F93402B21A2DA6A76644F6D">
+<mods:dateIssued id="49B082CED1D35858B82E737DEEF9E239">1946</mods:dateIssued>
+<mods:dateOther id="CE750CD5EBE27A73A2CAFCF0ED1F2476" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="743822632D2FB8B976A877FF02B705D2">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="FD5E8541A68A2C08A0521D4B3F91C574">
+<mods:placeTerm id="8F6082D0071A6C009452458A465358AC">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="4784452F739285B731D9510FEE699C9E">
+<mods:title id="46916AAA41DA4B30907306D08F6974A9">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="ABC0FCB3D9B43ED3C22C8ED17C8BB485">
+<mods:extent id="0B50FEEDC91EAF9A2B9FFF27A910DA50" unit="page">
+<mods:start id="496D9619716FD3B8F3D96DF0E8CC29FA">163</mods:start>
+<mods:end id="666C35EB907AD0E7B6109DF3C220B0E0">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="B5765C0D4F31AAA20F87A6D25113157B">book chapter</mods:classification>
+<mods:identifier id="2B2E1DE86D8BFFFBDC396CF34D6ADC68" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="EDEA35EE99B25BD5F50B5890DFDDF941" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="158C4C73FEBC9BA90AA87E9194CF16FD" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E943FFA9FEE887B5915A0A5A" ID-DOI="http://doi.org/10.5281/zenodo.5211902" ID-GBIF-Taxon="183926963" ID-Zenodo-Dep="5211902" LSID="urn:lsid:plazi:treatment:03B387B8E943FFA9FEE887B5915A0A5A" httpUri="http://treatment.plazi.org/id/03B387B8E943FFA9FEE887B5915A0A5A" lastPageNumber="171" pageId="8" pageNumber="171">
+<subSubSection id="C3006525E943FFA9FEE887B5911D06FD" box="[295,875,1416,1458]" pageId="8" pageNumber="171" type="nomenclature">
+<paragraph id="8BA536AEE943FFA9FEE887B5911D06FD" blockId="8.[292,1691,1416,2325]" box="[295,875,1416,1458]" pageId="8" pageNumber="171">
+<heading id="D0ED81C2E943FFA9FEE887B5911D06FD" box="[295,875,1416,1458]" centered="true" fontSize="8" level="2" pageId="8" pageNumber="171" reason="4">
+<emphasis id="B96EEABCE943FFA9FEE887B5932106FD" bold="true" box="[295,343,1416,1458]" pageId="8" pageNumber="171">19.</emphasis>
+<taxonomicName id="4C1A4D2DE943FFA9FEB787B5911206FD" authority="Hampson" authorityName="Hampson" authorityYear="1913" box="[376,868,1416,1458]" class="Insecta" family="Noctuidae" genus="Anua" kingdom="Animalia" order="Lepidoptera" pageId="8" pageNumber="171" phylum="Arthropoda" rank="species" species="tongaensis">
+<emphasis id="B96EEABCE943FFA9FEB787B590D306FD" bold="true" box="[376,677,1416,1458]" pageId="8" pageNumber="171">Anua tongaensis</emphasis>
+<author id="53A7DE4BE943FFA9FD7A87B5911206FD" box="[693,868,1416,1458]" pageId="8" pageNumber="171">Hampson</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E943FFA9FCB487B5962706AA" pageId="8" pageNumber="171" type="reference_group">
+<paragraph id="8BA536AEE943FFA9FCB487B5962706AA" blockId="8.[292,1691,1416,2325]" pageId="8" pageNumber="171">
+<treatmentCitationGroup id="AB0A1180E943FFA9FCB487B5962706AA" pageId="8" pageNumber="171">
+<bibCitation id="5E303EC2E943FFA9FCB487B5962706AA" author="Hampson" journalOrPublisher="Ins. Samoa" pageId="8" pageNumber="171" pagination="434" part="12" refId="ref4596" title="Cat. Lep. Phalaenae" type="journal volume" year="1913">
+<treatmentCitation id="0ABB10BFE943FFA9FCB487B593C806AA" author="Hampson" page="434" pageId="8" pageNumber="171" year="1913">
+<heading id="D0ED81C2E943FFA9FCB487B594EF06FD" box="[891,1689,1416,1458]" centered="true" fontSize="8" level="2" pageId="8" pageNumber="171" reason="4">
+<title id="F91EDD98E943FFA9FCB487B5969F06FD" box="[891,1257,1416,1458]" pageId="8" pageNumber="171">Cat. Lep. Phalaenae</title>
+<emphasis id="B96EEABCE943FFA9FB3587B5976B06FD" bold="true" box="[1274,1309,1416,1458]" pageId="8" pageNumber="171">
+<part id="FFBE9C33E943FFA9FB3587B5976F06FD" box="[1274,1305,1416,1458]" pageId="8" pageNumber="171">12</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE943FFA9FAF387B5970A06FD" box="[1340,1404,1416,1458]" pageId="8" pageNumber="171">434</pagination>
+, pl. 214, fig. 11,
+</heading>
+<year id="FFB277FDE943FFA9FEA8878693C806AA" box="[359,446,1467,1509]" pageId="8" pageNumber="171">1913</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE943FFA9FE188786963A06AA" author="Tams" box="[471,1100,1467,1509]" page="215" pageId="8" pageNumber="171" year="1935">
+<author id="53A7DE4BE943FFA9FE188786904B06AA" box="[471,573,1467,1509]" pageId="8" pageNumber="171">Tams</author>
+, 
+<journalOrPublisher id="51DB3C62E943FFA9FD998786915706AA" box="[598,801,1467,1509]" pageId="8" pageNumber="171">
+Ins. 
+<collectingCountry id="F30D763EE943FFA9FD658786915706AA" box="[682,801,1467,1509]" name="Samoa" pageId="8" pageNumber="171">Samoa</collectingCountry>
+</journalOrPublisher>
+<part id="FFBE9C33E943FFA9FCFE8786913106AA" box="[817,839,1467,1509]" pageId="8" pageNumber="171" type="volume">3</part>
+(
+<part id="FFBE9C33E943FFA9FC998786910606AA" box="[854,880,1467,1509]" pageId="8" pageNumber="171" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE943FFA9FC6B8786919706AA" box="[932,993,1467,1509]" pageId="8" pageNumber="171" type="pagination">215</pagination>
+, 
+<year id="FFB277FDE943FFA9FC358786963A06AA" box="[1018,1100,1467,1509]" pageId="8" pageNumber="171">1935</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E943FFA9FEAB87CC915A0A5A" pageId="8" pageNumber="171" type="description">
+<paragraph id="8BA536AEE943FFA9FEAB87CC903305FC" blockId="8.[292,1691,1416,2325]" pageId="8" pageNumber="171">
+<materialsCitation id="3B723CF3E943FFA9FEAB87CC94480554" ID-GBIF-Occurrence="3332081489" box="[356,1598,1521,1563]" collectingDate="1936-06-02" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="8" pageNumber="171" specimenCount="2">
+Two 
+<specimenCount id="9D1CFD27E943FFA9FE0C87CC90060554" box="[451,624,1521,1563]" pageId="8" pageNumber="171" type="generic">specimens</specimenCount>
+were procured in 
+<collectingCountry id="F30D763EE943FFA9FC7587CC96680554" box="[954,1054,1521,1563]" name="Guam" pageId="8" pageNumber="171">Guam</collectingCountry>
+: 
+<location id="8EC56075E943FFA9FB9F87CC977E0554" LSID="urn:lsid:plazi:treatment:03B387B8E943FFA9FEE887B5915A0A5A:8EC56075E943FFA9FB9F87CC977E0554" box="[1104,1288,1521,1563]" pageId="8" pageNumber="171">Machanao</location>
+, 
+<date id="FFA4106EE943FFA9FAD387CC97E50554" box="[1308,1427,1521,1563]" pageId="8" pageNumber="171">
+<collectingDate id="EFE0E986E943FFA9FAD387CC97E50554" box="[1308,1427,1521,1563]" pageId="8" pageNumber="171">June 2</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E943FFA9FA6687CC94410554" box="[1449,1591,1521,1563]" pageId="8" pageNumber="171">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E943FFA9F98187CC91F205CE" ID-GBIF-Occurrence="3332081469" collectedFrom="three small looping larvae on Styphelia in the hills above the town, one of which was reared" collectingDate="1936-05-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="8" pageNumber="171" specimenCount="3">
+<location id="8EC56075E943FFA9F98187CC94E70554" LSID="urn:lsid:plazi:treatment:03B387B8E943FFA9FEE887B5915A0A5A:8EC56075E943FFA9F98187CC94E70554" box="[1614,1681,1521,1563]" pageId="8" pageNumber="171">
+<collectingMunicipality id="6BC1ACD4E943FFA9F98187CC94E70554" box="[1614,1681,1521,1563]" pageId="8" pageNumber="171">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE943FFA9FEE7841893D60501" box="[296,416,1573,1614]" pageId="8" pageNumber="171">
+<collectingDate id="EFE0E986E943FFA9FEE7841893D60501" box="[296,416,1573,1614]" pageId="8" pageNumber="171">May 1</collectingDate>
+</date>
+, three small looping 
+<specimenCount id="9D1CFD27E943FFA9FCE3841891E30501" box="[812,917,1573,1614]" pageId="8" pageNumber="171" type="larva">larvae</specimenCount>
+on 
+<taxonomicName id="4C1A4D2DE943FFA9FC29841896FB0501" box="[998,1165,1573,1614]" class="Magnoliopsida" family="Ericaceae" genus="Styphelia" kingdom="Plantae" order="Ericales" pageId="8" pageNumber="171" phylum="Tracheophyta" rank="genus">
+<emphasis id="B96EEABCE943FFA9FC29841896FB0501" box="[998,1165,1573,1614]" italics="true" pageId="8" pageNumber="171">Styphelia</emphasis>
+</taxonomicName>
+in the hills above the town, one of which was reared, 
+<collectorName id="26EF5378E943FFA9FD36846A910905CE" box="[761,895,1623,1665]" pageId="8" pageNumber="171">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="3B723CF3E943FFA9FC6D846A903305FC" ID-GBIF-Occurrence="3332081461" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="8" pageNumber="171" specimenCount="1">
+One 
+<specimenCount id="9D1CFD27E943FFA9FC33846A96EC05CE" box="[1020,1178,1623,1665]" pageId="8" pageNumber="171" type="generic">specimen</specimenCount>
+in 
+<collectingCountry id="F30D763EE943FFA9FB13846A974C05CE" box="[1244,1338,1623,1665]" name="United States of America" pageId="8" pageNumber="171">U. S.</collectingCountry>
+<location id="8EC56075E943FFA9FA81846A94E405CE" LSID="urn:lsid:plazi:treatment:03B387B8E943FFA9FEE887B5915A0A5A:8EC56075E943FFA9FA81846A94E405CE" box="[1358,1682,1623,1665]" pageId="8" pageNumber="171">National Museum</location>
+, 
+<location id="8EC56075E943FFA9FEE784B493BB05FC" LSID="urn:lsid:plazi:treatment:03B387B8E943FFA9FEE887B5915A0A5A:8EC56075E943FFA9FEE784B493BB05FC" box="[296,461,1673,1715]" pageId="8" pageNumber="171">Fullaway</location>
+, 1911.
+</materialsCitation>
+</paragraph>
+<paragraph id="8BA536AEE943FFA9FE5F8486911F0457" blockId="8.[292,1691,1416,2325]" pageId="8" pageNumber="171">
+This moth is not yet widely known, having been recorded from Tongatabu, 
+<collectingCountry id="F30D763EE943FFA9FE4684D393B80457" box="[393,462,1774,1816]" name="Fiji" pageId="8" pageNumber="171">Fiji</collectingCountry>
+, and 
+<collectingCountry id="F30D763EE943FFA9FDFF84D391120457" box="[560,868,1774,1816]" name="American Samoa" pageId="8" pageNumber="171">American Samoa</collectingCountry>
+.
+</paragraph>
+<paragraph id="8BA536AEE943FFA9FEA9851E915A0A5A" blockId="8.[292,1691,1416,2325]" pageId="8" pageNumber="171">
+The full grown caterpillar was 
+<quantity id="4CE29B4BE943FFA9FC44851E96720401" box="[907,1028,1827,1870]" metricMagnitude="-2" metricUnit="m" metricValue="5.0" pageId="8" pageNumber="171" unit="mm" value="50.0">50 mm</quantity>
+.; grayish, with yellowish background and numerous longitudinal crinkly blackish lines; head whitish with several longitudinal brown lines; spiracles oval, pale; abdominal prolegs on segments 6, 
+<emphasis id="B96EEABCE943FFA9FE958586930104A9" box="[346,375,1979,2022]" italics="true" pageId="8" pageNumber="171">7,</emphasis>
+8, 9, those on segments 6 and 
+<emphasis id="B96EEABCE943FFA9FC1B8586919104A9" box="[980,999,1979,2022]" italics="true" pageId="8" pageNumber="171">7</emphasis>
+smaller than the others; two dorsal, slightly prominent tubercles on segment 11. Pupation took place June 25, 65 days from its capture. The pupa was formed in leaves webbed together. it was 
+<quantity id="4CE29B4BE943FFA9FE778A73903E0BCF" box="[440,584,2126,2176]" metricMagnitude="-2" metricUnit="m" metricValue="2.3" pageId="8" pageNumber="171" unit="mm" value="23.0">23 mm</quantity>
+.; dark brown; wing sheaths terminating roundly at apical margin of the fourth abdominal segment; cremaster not produced, a few hooks on thickened dorsal edge of apical segment. The adult moth issued July 
+<emphasis id="B96EEABCE943FFA9F9B28A8494EF0BAB" box="[1661,1689,2233,2276]" italics="true" pageId="8" pageNumber="171">7,</emphasis>
+after 12 days in pupal stage.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

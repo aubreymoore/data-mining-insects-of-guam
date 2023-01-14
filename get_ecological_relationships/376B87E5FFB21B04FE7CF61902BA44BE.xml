@@ -1,0 +1,139 @@
+<document id="C5202FF7D41AB5FEA766966D7F2B4E59" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB21B04FE7CF61902BA44BE" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Xylopsocus capucinus Lesne, Soc. Ent." docType="treatment" docVersion="18" lastPageNumber="163" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="162" updateTime="1671377585779" updateUser="annettekang">
+<mods:mods id="9FDAA64DDEFDE8E27503BC0A97748485" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="96E9854881602BFD10BCE88DB1A91B26">
+<mods:title id="B85A47EE772520E708C21207F052328A">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="F037ABA39339BEE0889709F3B995DEDF" type="personal">
+<mods:role id="EA0FA598DDA9B6982CA8242A99C296FB">
+<mods:roleTerm id="FDDE64BED9150E899344CE2CACE6A009">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="03ED702C58EE496D5EBEEC5FDE00165D">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="FD8B374A4E334F9A52AF2C13CAA94EBE">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9AD0161D34A5E357B4A5BA7262368EEA">text</mods:typeOfResource>
+<mods:relatedItem id="C7B7E58856979F5F1EBBF9AB67BF872B" type="host">
+<mods:originInfo id="9544AC6CF1DD5E3280DCDEF9D67A8A30">
+<mods:dateIssued id="0588EBE9647F6FF323BA9D58C85F3B8E">1942</mods:dateIssued>
+<mods:dateOther id="7BB24E36EC2333DB1EAF220FE711509F" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="D38934CC2F688195D814B15E9F5E0A9A">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="6DEFBFDCBC9DCE01D5CBA2E947FC4414">
+<mods:placeTerm id="D2546E4CE5891E345A04D6C52C37475B">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="DF3662B5E431AAAE0672FD36F3C1264B">
+<mods:title id="E614AF1D00DA8C2C0685347F30DCF789">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="797AC66085AAEA7A0F56D15AF67F3053">
+<mods:extent id="25F35789A8A2ED38DA5B5FF138474D4C" unit="page">
+<mods:start id="C929649D38E61D799E160C7B5E3E1FEB">150</mods:start>
+<mods:end id="BC675B74C87EFE9B6E46ABC8E6D1617C">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="924B54C7400463DC5B628D63298A9FD9">book chapter</mods:classification>
+<mods:identifier id="B967627D45F76F759F531A224D4E334C" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="F00803D9A798374523C003324D50B034" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="17806B2CFD96C25734576F0E77E93270" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB21B04FE7CF61902BA44BE" ID-DOI="http://doi.org/10.5281/zenodo.5180825" ID-GBIF-Taxon="184415346" ID-Zenodo-Dep="5180825" LSID="urn:lsid:plazi:treatment:376B87E5FFB21B04FE7CF61902BA44BE" httpUri="http://treatment.plazi.org/id/376B87E5FFB21B04FE7CF61902BA44BE" lastPageId="13" lastPageNumber="163" pageId="12" pageNumber="162">
+<subSection id="D64D2F18FFB21B05FE7CF61903604FE5" box="[422,1126,2474,2515]" pageId="12" pageNumber="162" type="multiple">
+<subSubSection id="F7D86578FFB21B05FE7CF61903604FE5" box="[422,1126,2474,2515]" pageId="12" pageNumber="162" type="nomenclature">
+<paragraph id="BF7D36F3FFB21B05FE7CF61903604FE5" blockId="12.[422,451,2476,2515]" box="[422,1126,2474,2515]" lastBlockId="12.[485,1280,2474,2567]" pageId="12" pageNumber="162">
+<heading id="E435819FFFB21B05FE7CF61903604FE5" box="[422,1126,2474,2515]" centered="true" fontSize="11" level="2" pageId="12" pageNumber="162" reason="2">
+<emphasis id="8DB6EAE1FFB21B05FE7CF61906C54FE5" bold="true" box="[422,451,2476,2515]" pageId="12" pageNumber="162">2.</emphasis>
+<taxonomicName id="78C24D70FFB21B05FE3FF61F03664FE5" authority="(Fabricius)" authorityName="Lesne, Soc. Ent." baseAuthorityName="Fabricius" baseAuthorityYear="1781" box="[485,1120,2474,2515]" class="Insecta" family="Bostrichidae" genus="Xylopsocus" kingdom="Animalia" order="Coleoptera" pageId="12" pageNumber="162" phylum="Arthropoda" rank="species" species="capucinus">
+<emphasis id="8DB6EAE1FFB21B05FE3FF61F04704FE5" bold="true" box="[485,886,2474,2515]" pageId="12" pageNumber="162">Xylopsocus capucinus</emphasis>
+(Fabricius)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+</subSection>
+<subSubSection id="F7D86578FFB21B04FE3CF66E044D478D" lastPageId="13" lastPageNumber="163" pageId="12" pageNumber="162" type="reference_group">
+<paragraph id="BF7D36F3FFB21B05FE3CF66E02B84C31" blockId="12.[485,1280,2474,2567]" box="[486,1470,2523,2567]" lastBlockId="12.[1313,1470,2523,2567]" pageId="12" pageNumber="162">
+<bibCitation id="6AE83E9FFFB21B05FE3CF66E02B84C31" author="Fabricius" box="[486,1470,2523,2567]" journalOrPublisher="Spec. Ins" pageId="12" pageNumber="162" pagination="62" part="1" refId="ref6673" type="journal article" year="1781">
+<treatmentCitationGroup id="9FD211DDFFB21B05FE3CF66E02BF4C31" box="[486,1465,2523,2567]" pageId="12" pageNumber="162">
+<treatmentCitation id="3E6310E2FFB21B05FE3CF66E02BF4C31" author="Fabricius" box="[486,1465,2523,2567]" page="62" pageId="12" pageNumber="162" year="1781">
+<emphasis id="8DB6EAE1FFB21B05FE3CF66E04584C31" box="[486,862,2523,2567]" italics="true" pageId="12" pageNumber="162">Bostrichus capuc-inus</emphasis>
+<author id="677FDE16FFB21B05FCB5F66E031E4C31" box="[879,1048,2523,2567]" pageId="12" pageNumber="162">Fabricius</author>
+, 
+<journalOrPublisher id="65033C3FFFB21B05FBEAF66E03D14C31" box="[1072,1239,2523,2567]" pageId="12" pageNumber="162">Spec. Ins</journalOrPublisher>
+. 
+<emphasis id="8DB6EAE1FFB21B05FB28F66E02064C31" bold="true" box="[1266,1280,2523,2567]" pageId="12" pageNumber="162">
+<part id="CB669C6EFFB21B05FB28F66E03FA4C31" box="[1266,1276,2523,2567]" pageId="12" pageNumber="162" type="volume">1</part>
+:
+</emphasis>
+<subSection id="D64D2F18FFB21B05FAFBF66E02BF4C31" box="[1313,1465,2523,2567]" pageId="12" pageNumber="162" type="multiple">
+<heading id="E435819FFFB21B05FAFBF66E02BF4C31" box="[1313,1465,2523,2567]" centered="true" fontSize="8" level="2" pageId="12" pageNumber="162" reason="4">
+<pagination id="860BC807FFB21B05FAFBF66E024A4C31" box="[1313,1356,2523,2567]" pageId="12" pageNumber="162" type="pageRange">62</pagination>
+, 
+<year id="CB6A77A0FFB21B05FABDF66E02BF4C31" box="[1383,1465,2523,2567]" pageId="12" pageNumber="162">1781</year>
+</heading>
+</subSection>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+<paragraph id="BF7D36F3FFB31B04FE85FEE8044D478D" blockId="13.[288,1683,349,648]" pageId="13" pageNumber="163">
+<bibCitation id="6AE83E9FFFB31B04FE85FEE8044D478D" author="Lesne, Soc" journalOrPublisher="Ann." pageId="13" pageNumber="163" pagination="631" part="69" refId="ref6687" title="Ent. France" type="journal article" year="1900">
+<treatmentCitationGroup id="9FD211DDFFB31B04FE85FEE80440478D" pageId="13" pageNumber="163">
+<treatmentCitation id="3E6310E2FFB31B04FE85FEE80440478D" author="Lesne" page="631" pageId="13" pageNumber="163" year="1900">
+<emphasis id="8DB6EAE1FFB31B04FE85FEE805E247B1" box="[351,740,349,391]" italics="true" pageId="13" pageNumber="163">Xylopsocus capucinus</emphasis>
+(Fabricius) 
+<author id="677FDE16FFB31B04FC0CFEE8039C47B1" box="[982,1178,349,391]" case="TC" fn="Soc" fnc="TC" fns="N" ln="Lesne" lnc="TC" npo="LnFn" pageId="13" pageNumber="163">Lesne, Soc</author>
+. 
+<title id="CDC6DDC5FFB31B04FB6BFEE8028C47B1" box="[1201,1418,349,391]" jopScore="2.526404" pageId="13" pageNumber="163">
+Ent. 
+<collectingCountry id="C7D57663FFB31B04FAD4FEE8028C47B1" box="[1294,1418,349,391]" name="France" pageId="13" pageNumber="163">France</collectingCountry>
+</title>
+, 
+<journalOrPublisher id="65033C3FFFB31B04FA7AFEE802F347B1" box="[1440,1525,349,391]" jopScore="1.7179487" pageId="13" pageNumber="163">Ann.</journalOrPublisher>
+<emphasis id="8DB6EAE1FFB31B04F9DCFEE8012B47B1" bold="true" box="[1542,1581,349,391]" pageId="13" pageNumber="163">
+<part id="CB669C6EFFB31B04F9DCFEE8012F47B1" box="[1542,1577,349,391]" pageId="13" pageNumber="163" type="volume">69</part>
+:
+</emphasis>
+<pagination id="860BC807FFB31B04F996FEE8018D47B1" box="[1612,1675,349,391]" pageId="13" pageNumber="163" type="pageRange">631</pagination>
+, figs. 478,481,482, 
+<year id="CB6A77A0FFB31B04FD2EFE240440478D" box="[756,838,401,443]" pageId="13" pageNumber="163">1900</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB31B04FE85FE76067D4417" pageId="13" pageNumber="163" type="materials_examined">
+<paragraph id="BF7D36F3FFB31B04FE85FE76067D4417" blockId="13.[288,1683,349,648]" pageId="13" pageNumber="163">
+<materialsCitation id="0FAA3CAEFFB31B04FE85FE7602C147D8" ID-GBIF-Occurrence="3994027316" box="[351,1479,451,494]" collectedFrom="swept from ferns" collectingDate="1936-04-15" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="13" pageNumber="163" specimenCount="1">
+Ritidian Pt., 
+<date id="CB7C1033FFB31B04FD91FE7605E547D8" box="[587,739,451,494]" pageId="13" pageNumber="163" value="2015-04">
+<collectingDate id="DB38E9DBFFB31B04FD91FE7605E547D8" box="[587,739,451,494]" pageId="13" pageNumber="163" value="2015-04">April 15</collectingDate>
+</date>
+, swept from ferns, 
+<location id="BA1D6028FFB31B04FB92FE7603BC47D8" LSID="urn:lsid:plazi:treatment:376B87E5FFB21B04FE7CF61902BA44BE:BA1D6028FFB31B04FB92FE7603BC47D8" box="[1096,1210,451,494]" name="Bryan" pageId="13" pageNumber="163">Bryan</location>
+, 
+<specimenCount id="A9C4FD7AFFB31B04FB0AFE7602C447D8" box="[1232,1474,451,494]" pageId="13" pageNumber="163" type="generic">one specimen</specimenCount>
+.
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB31B04FA3AFE76067D4417" ID-GBIF-Occurrence="3994027319" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="13" pageNumber="163">
+<collectorName id="12375325FFB31B04FA3AFE76018D47D8" box="[1504,1675,451,494]" pageId="13" pageNumber="163">Fullaway</collectorName>
+, 1911.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB31B04FE85FD9E02BA44BE" pageId="13" pageNumber="163" type="distribution">
+<paragraph id="BF7D36F3FFB31B04FE85FD9E02BA44BE" blockId="13.[288,1683,349,648]" pageId="13" pageNumber="163">
+Distributed in Indo-Malaya, 
+<collectingCountry id="C7D57663FFB31B04FC51FD9E035C4462" box="[907,1114,555,596]" name="Philippines" pageId="13" pageNumber="163">Philippines</collectingCountry>
+, 
+<collectingCountry id="C7D57663FFB31B04FBA2FD9E02504462" box="[1144,1366,555,596]" name="Madagascar" pageId="13" pageNumber="163">Madagascar</collectingCountry>
+, Africa, tropical 
+<taxonomicName id="78C24D70FFB31B04FEFAFDE806BB44BE" authorityName="Santos-Silva &amp; Tavakilian" authorityYear="2009" box="[288,445,605,648]" class="Insecta" family="Cerambycidae" genus="America" kingdom="Animalia" order="Coleoptera" pageId="13" pageNumber="163" phylum="Arthropoda" rank="genus">America</taxonomicName>
+. Determined by W. S. Fisher, 
+<collectingCountry id="C7D57663FFB31B04FBDBFDE8035B44BE" box="[1025,1117,605,648]" name="United States of America" pageId="13" pageNumber="163">U. S.</collectingCountry>
+National Museum.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

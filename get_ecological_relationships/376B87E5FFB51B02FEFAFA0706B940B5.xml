@@ -1,0 +1,79 @@
+<document id="5E8641505CDE02997E6313A63ED42E98" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB51B02FEFAFA0706B940B5" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pullus" docType="treatment" docVersion="16" lastPageNumber="161" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="161" updateTime="1671377585779" updateUser="annettekang">
+<mods:mods id="EE4D765891B1824B313A62996E049587" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="9FB93021CAEBC444EFDADADB70E953B9">
+<mods:title id="1F3151D6FDB120956313882F70F6E274">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="C18794EE46C2E8F974D2B2A7AA331AC7" type="personal">
+<mods:role id="6EFF4883E83175744FBA4CFA9CCF129A">
+<mods:roleTerm id="203494C88428F8A0CC86DF34C840A124">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DA2E6166C5EBF9E96EA8FE15C25CC3B6">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="A15E5AB0DE801346FFF150D2B4E98EF4">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="6D4F56F5B6BEF73F5137FFEF4C86F400">text</mods:typeOfResource>
+<mods:relatedItem id="C13F8A597CB2D336A452296CEBEE6426" type="host">
+<mods:originInfo id="2FED8D023E7DD95BC9D39F8C86F74909">
+<mods:dateIssued id="BB593482992F1CBC0B57C8D1E0D75A70">1942</mods:dateIssued>
+<mods:dateOther id="B341A6C51E4DF140915CF116097C1618" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="6F84D9EEF6E5B0A811EDBCCEDE1A0145">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="05D6E9F477811CC23BA2B8C8012AE6EE">
+<mods:placeTerm id="E45A49E0CC4196787EAE32213681F8B4">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="0D0ADBF3A0FC086F8C0B9B235046940B">
+<mods:title id="88126934AD32B34320F9C340E1D87045">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="8576C610581900B47B5C117FBDFB2560">
+<mods:extent id="90B42F0F3D30224821AFC1EDDDDE4EC7" unit="page">
+<mods:start id="2B360DDF360D87287FA1DFF1AEC50874">150</mods:start>
+<mods:end id="1CBB641CB24B2445368B58A5EC77280F">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="CB1E8EA392DE2116E744097D1EAC5F04">book chapter</mods:classification>
+<mods:identifier id="F512F15F7234BA6FA92920E3882865AE" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="3DC660C83ECF1439583A7FA3D63D6B0C" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="117BCB9C5258422A62AB0B3227D3479C" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<subSection id="D64D2F18FFB51B02FEFAFA0706B940B5" pageId="11" pageNumber="161" type="multiple">
+<treatment id="376B87E5FFB51B02FEFAFA0706B940B5" ID-DOI="http://doi.org/10.5281/zenodo.5206598" ID-GBIF-Taxon="184415297" ID-Zenodo-Dep="5206598" LSID="urn:lsid:plazi:treatment:376B87E5FFB51B02FEFAFA0706B940B5" httpUri="http://treatment.plazi.org/id/376B87E5FFB51B02FEFAFA0706B940B5" lastPageNumber="161" pageId="11" pageNumber="161">
+<subSubSection id="F7D86578FFB51B02FEFAFA07057F43EA" box="[288,633,1458,1500]" pageId="11" pageNumber="161" type="nomenclature">
+<paragraph id="BF7D36F3FFB51B02FEFAFA07057F43EA" blockId="11.[286,1678,1458,1667]" box="[288,633,1458,1500]" pageId="11" pageNumber="161">
+<heading id="E435819FFFB51B02FEFAFA07057F43EA" box="[288,633,1458,1500]" fontSize="8" level="2" pageId="11" pageNumber="161" reason="4">
+<emphasis id="8DB6EAE1FFB51B02FEFAFA0706E443EA" bold="true" box="[288,482,1458,1500]" pageId="11" pageNumber="161">
+11. 
+<taxonomicName id="78C24D70FFB51B02FEAAFA0706E443EA" box="[368,482,1458,1500]" class="Insecta" family="Endomychidae" genus="Pullus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="11" pageNumber="161" phylum="Arthropoda" rank="genus">Pullus</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB51B02FE87FA5803B24023" box="[349,1204,1517,1557]" pageId="11" pageNumber="161" type="materials_examined">
+<paragraph id="BF7D36F3FFB51B02FE87FA5803B24023" blockId="11.[286,1678,1458,1667]" box="[349,1204,1517,1557]" pageId="11" pageNumber="161">
+<materialsCitation id="0FAA3CAEFFB51B02FE87FA5805B74023" ID-GBIF-Occurrence="3994027383" box="[349,689,1517,1557]" collectingDate="1936-06-02" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="11" pageNumber="161" specimenCount="1">
+<location id="BA1D6028FFB51B02FE87FA58051F4023" LSID="urn:lsid:plazi:treatment:376B87E5FFB51B02FEFAFA0706B940B5:BA1D6028FFB51B02FE87FA58051F4023" box="[349,537,1517,1557]" name="Machanao" pageId="11" pageNumber="161">Machanao</location>
+, 
+<date id="CB7C1033FFB51B02FDEAFA5805AC4023" box="[560,682,1517,1557]" pageId="11" pageNumber="161">
+<collectingDate id="DB38E9DBFFB51B02FDEAFA5805AC4023" box="[560,682,1517,1557]" pageId="11" pageNumber="161">June 2</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB51B02FD18FA5803B24023" ID-GBIF-Occurrence="3994027308" box="[706,1204,1517,1557]" collectingDate="1936-06-30" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="11" pageNumber="161" specimenCount="1">
+30, 
+<collectorName id="12375325FFB51B02FCDDFA5804884023" box="[775,910,1517,1557]" pageId="11" pageNumber="161">Swezey</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFB51B02FC7CFA5803A94023" box="[934,1199,1517,1557]" pageId="11" pageNumber="161" type="generic">two specimens</specimenCount>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB51B02FE86F99206B940B5" pageId="11" pageNumber="161" type="discussion">
+<paragraph id="BF7D36F3FFB51B02FE86F99206B940B5" blockId="11.[286,1678,1458,1667]" pageId="11" pageNumber="161">
+A small black species. Determined by E. A. Chapin, 
+<collectingCountry id="C7D57663FFB51B02FAADF99202DD4067" box="[1399,1499,1575,1617]" name="United States of America" pageId="11" pageNumber="161">U. S.</collectingCountry>
+National Museum.
+</paragraph>
+</subSubSection>
+</treatment>
+</subSection>
+</document>

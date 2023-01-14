@@ -1,0 +1,171 @@
+<document id="10B6036EF7078F9F6DC849992DF78236" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E94DFFA7FED186FC966E05FA" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Stictoptera subobliqua" docType="treatment" docVersion="19" lastPageNumber="169" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="169" updateTime="1669841625929" updateUser="ExternalLinkService">
+<mods:mods id="1903F5FC4662159003DB512A89CFD13C" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="3A0E45EBA184D8B5F28822890A0C5800">
+<mods:title id="115BF992263CA1EBDFAA6908F1D8DD56">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="DDDB9866184602D9C77A2E642171AC3C" type="personal">
+<mods:role id="5ADD96A26BF4C50171839FEF5A444BC9">
+<mods:roleTerm id="ED1CADBDE724E111F0B705385E3B05C0">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="920137C436DA6C846BB914CEAA93317B">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="4D2E9ADF1DE5D4F83AB0FF0978F37630">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="64D1718F2F7091CD0027DA03A38BDCBF">text</mods:typeOfResource>
+<mods:relatedItem id="9975635E5E682DE0C2E3953703749688" type="host">
+<mods:originInfo id="AA35912B09072C8F36A73E56E2A8D407">
+<mods:dateIssued id="E28E0F340DFBD64852522C5B252DE328">1946</mods:dateIssued>
+<mods:dateOther id="2343268FE6FE6A5509CF98EFDF6E1299" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="D3FBFEBDBAC88CAA82C04B9529C3847F">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="6F93DF75D6AE07DA62E73D4323A33067">
+<mods:placeTerm id="E95A71E606712495E7A88651431AD148">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="FD964802CEEEE92E4E2D7BEE3F6461F4">
+<mods:title id="9C207791A6CA8D25B4089D7C1FC81757">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="FFF04624E6434DB5005BD5853A2A7D4C">
+<mods:extent id="B2D8BA274DBB99C895E29D2F36DE77FE" unit="page">
+<mods:start id="B0DC64A1B0B53CF6866BC45B81AB7112">163</mods:start>
+<mods:end id="1ADFDE698945CA54C08AFBD3EA22E507">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="6C8B42DCF641094238A8C23C97A0DAA2">book chapter</mods:classification>
+<mods:identifier id="F5B06965ECA48F7F5EB1FFAEDFA88B3C" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="6B8DBE4D32F5052E49FC6F19FF71A84A" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="C2A962B313A3C89AE53CEFEE33CD3789" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E94DFFA7FED186FC966E05FA" ID-DOI="http://doi.org/10.5281/zenodo.5171178" ID-GBIF-Taxon="183926945" ID-Zenodo-Dep="5171178" LSID="urn:lsid:plazi:treatment:03B387B8E94DFFA7FED186FC966E05FA" httpUri="http://treatment.plazi.org/id/03B387B8E94DFFA7FED186FC966E05FA" lastPageNumber="169" pageId="6" pageNumber="169">
+<subSubSection id="C3006525E94DFFA7FED186FC91A007A5" box="[286,982,1217,1258]" pageId="6" pageNumber="169" type="nomenclature">
+<paragraph id="8BA536AEE94DFFA7FED186FC91A007A5" blockId="6.[286,1688,1217,1717]" box="[286,982,1217,1258]" pageId="6" pageNumber="169">
+<heading id="D0ED81C2E94DFFA7FED186FC91A007A5" box="[286,982,1217,1258]" fontSize="8" level="2" pageId="6" pageNumber="169" reason="4">
+<emphasis id="B96EEABCE94DFFA7FED186FC933B07A5" bold="true" box="[286,333,1217,1258]" pageId="6" pageNumber="169">11.</emphasis>
+<taxonomicName id="4C1A4D2DE94DFFA7FEA086FC91A607A5" authority="(Walker)" baseAuthorityName="Walker" baseAuthorityYear="1857" box="[367,976,1217,1258]" class="Insecta" family="Noctuidae" genus="Stictoptera" kingdom="Animalia" order="Lepidoptera" pageId="6" pageNumber="169" phylum="Arthropoda" rank="species" species="subobliqua">
+<emphasis id="B96EEABCE94DFFA7FEA086FC917A07A5" bold="true" box="[367,780,1217,1258]" pageId="6" pageNumber="169">Stictoptera subobliqua</emphasis>
+(Walker)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94DFFA7FE9286C99442061E" pageId="6" pageNumber="169" type="description">
+<paragraph id="8BA536AEE94DFFA7FE9286C996DF0651" blockId="6.[286,1688,1217,1717]" box="[349,1193,1268,1310]" pageId="6" pageNumber="169">
+<treatmentCitationGroup id="AB0A1180E94DFFA7FE9286C996DF0651" box="[349,1193,1268,1310]" pageId="6" pageNumber="169">
+<bibCitation id="5E303EC2E94DFFA7FE9286C996DF0651" author="Walker" box="[349,1193,1268,1310]" pageId="6" pageNumber="169" pagination="1136" refId="ref3428" title="Cat." type="journal article" year="1857">
+<treatmentCitation id="0ABB10BFE94DFFA7FE9286C996D20651" author="Walker" box="[349,1188,1268,1310]" page="1136" pageId="6" pageNumber="169" year="1857">
+<emphasis id="B96EEABCE94DFFA7FE9286C990EA0651" box="[349,668,1268,1310]" italics="true" pageId="6" pageNumber="169">Steiriasubobliqua</emphasis>
+<author id="53A7DE4BE94DFFA7FD6686C991460651" box="[681,816,1268,1310]" pageId="6" pageNumber="169">Walker</author>
+, 
+<title id="F91EDD98E94DFFA7FC8986C991FD0651" box="[838,907,1268,1310]" pageId="6" pageNumber="169">Cat.</title>
+<emphasis id="B96EEABCE94DFFA7FC5186C991B70651" bold="true" box="[926,961,1268,1310]" pageId="6" pageNumber="169">13:</emphasis>
+<pagination id="B2D3C85AE94DFFA7FC2A86C9964E0651" box="[997,1080,1268,1310]" pageId="6" pageNumber="169" type="pagination">1136</pagination>
+, 
+<year id="FFB277FDE94DFFA7FB9E86C996D20651" box="[1105,1188,1268,1310]" pageId="6" pageNumber="169">1857</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE94DFFA7FE94871B9442061E" blockId="6.[286,1688,1217,1717]" box="[347,1588,1318,1361]" pageId="6" pageNumber="169">
+<treatmentCitationGroup id="AB0A1180E94DFFA7FE94871B9442061E" box="[347,1588,1318,1361]" pageId="6" pageNumber="169">
+<bibCitation id="5E303EC2E94DFFA7FE94871B9442061E" author="Iampson" box="[347,1588,1318,1361]" pageId="6" pageNumber="169" pagination="156" part="11" refId="ref3439" title="Cat. Lep. Phalaenae" type="journal article" year="1912">
+<emphasis id="B96EEABCE94DFFA7FE94871B9087061E" box="[347,753,1318,1361]" italics="true" pageId="6" pageNumber="169">Stictoptera subobliqua,</emphasis>
+<treatmentCitation id="0ABB10BFE94DFFA7FCCE871B9459061E" author="Hampson" box="[769,1583,1318,1361]" page="156" pageId="6" pageNumber="169" year="1912">
+I: 
+<author id="53A7DE4BE94DFFA7FCDB871B91D9061E" box="[788,943,1318,1361]" pageId="6" pageNumber="169">Iampson</author>
+, 
+<title id="F91EDD98E94DFFA7FC0A871B975B061E" box="[965,1325,1318,1361]" pageId="6" pageNumber="169">Cat. Lep. Phalaenae</title>
+<emphasis id="B96EEABCE94DFFA7FAF1871B9717061E" bold="true" box="[1342,1377,1318,1361]" pageId="6" pageNumber="169">
+<part id="FFBE9C33E94DFFA7FAF1871B972B061E" box="[1342,1373,1318,1361]" pageId="6" pageNumber="169" type="volume">11</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE94DFFA7FA4A871B97B5061E" box="[1413,1475,1318,1361]" pageId="6" pageNumber="169" type="pagination">156</pagination>
+, 
+<year id="FFB277FDE94DFFA7FA15871B9459061E" box="[1498,1583,1318,1361]" pageId="6" pageNumber="169">1912</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94DFFA7FE938766966E05FA" pageId="6" pageNumber="169" type="description">
+<paragraph id="8BA536AEE94DFFA7FE938766966E05FA" blockId="6.[286,1688,1217,1717]" pageId="6" pageNumber="169">
+This moth is recorded from 
+<collectingCountry id="F30D763EE94DFFA7FCB08766918906CB" box="[895,1023,1371,1412]" name="Sri Lanka" pageId="6" pageNumber="169">Ceylon</collectingCountry>
+, Sikhim, North Assam, 
+<collectingCountry id="F30D763EE94DFFA7FA1B876694FB06CB" box="[1492,1677,1371,1412]" name="Singapore" pageId="6" pageNumber="169">Singapore</collectingCountry>
+, and British New 
+<collectingCountry id="F30D763EE94DFFA7FD9387B390AA06F7" box="[604,732,1422,1464]" name="Guinea-Bissau" pageId="6" pageNumber="169">Guinea</collectingCountry>
+. Now recorded for the first time from 
+<collectingCountry id="F30D763EE94DFFA7FA6987B3946506F7" box="[1446,1555,1422,1464]" name="Guam" pageId="6" pageNumber="169">Guam</collectingCountry>
+. 
+<materialsCitation id="3B723CF3E94DFFA7F9FB87B390740550" ID-GBIF-Occurrence="3970494311" collectedFrom="taken on the screen as they came to light at our residence" collectingDate="1936-08-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="169" specimenCount="1">
+Eight specimens were taken on the screen as they came to light at our residence: 
+<location id="8EC56075E94DFFA7FEEE87CE93130550" LSID="urn:lsid:plazi:treatment:03B387B8E94DFFA7FED186FC966E05FA:8EC56075E94DFFA7FEEE87CE93130550" box="[289,357,1523,1567]" pageId="6" pageNumber="169">
+<collectingMunicipality id="6BC1ACD4E94DFFA7FEEE87CE93130550" box="[289,357,1523,1567]" pageId="6" pageNumber="169">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE94DFFA7FE4F87CE90740550" box="[384,514,1523,1567]" pageId="6" pageNumber="169">
+<collectingDate id="EFE0E986E94DFFA7FE4F87CE90740550" box="[384,514,1523,1567]" pageId="6" pageNumber="169">Aug. 9</collectingDate>
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E94DFFA7FDEE87CE903C0550" ID-GBIF-Occurrence="3913652468" box="[545,586,1523,1567]" collectedFrom="taken on the screen as they came to light at our residence" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="169" specimenCount="1">19</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E94DFFA7FDAA87CE90E70550" ID-GBIF-Occurrence="3913652463" box="[613,657,1523,1567]" collectedFrom="taken on the screen as they came to light at our residence" collectingDate="1936-08-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="169" specimenCount="1">20</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E94DFFA7FD6087CE91440550" ID-GBIF-Occurrence="3913652494" box="[687,818,1523,1567]" collectedFrom="taken on the screen as they came to light at our residence" collectingDate="1936-09-04" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="169" specimenCount="1">
+<date id="FFA4106EE94DFFA7FD6087CE91440550" box="[687,818,1523,1567]" pageId="6" pageNumber="169">
+<collectingDate id="EFE0E986E94DFFA7FD6087CE91440550" box="[687,818,1523,1567]" pageId="6" pageNumber="169">Sept. 4</collectingDate>
+</date>
+</materialsCitation>
+, 
+<emphasis id="B96EEABCE94DFFA7FC8287CE911D0550" box="[845,875,1523,1567]" italics="true" pageId="6" pageNumber="169">
+<materialsCitation id="3B723CF3E94DFFA7FC8287CE91120550" ID-GBIF-Occurrence="3913652332" box="[845,868,1523,1567]" collectedFrom="taken on the screen as they came to light at our residence" collectingDate="1936-09-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="169" specimenCount="1">7</materialsCitation>
+,
+</emphasis>
+<materialsCitation id="3B723CF3E94DFFA7FC4C87CE91DD0550" ID-GBIF-Occurrence="3913652478" box="[899,939,1523,1567]" collectedFrom="taken on the screen as they came to light at our residence" collectingDate="1936-09-11" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="169" specimenCount="1">11</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E94DFFA7FC0587CE91850550" ID-GBIF-Occurrence="3913652424" box="[970,1011,1523,1567]" collectedFrom="taken on the screen as they came to light at our residence" collectingDate="1936-09-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="169" specimenCount="1">12</materialsCitation>
+, 
+<materialsCitation id="3B723CF3E94DFFA7FBDD87CE96900550" ID-GBIF-Occurrence="3913652412" box="[1042,1254,1523,1567]" collectedFrom="taken on the screen as they came to light at our residence" collectingDate="1936-09-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="169" specimenCount="1">
+13, 
+<collectorName id="26EF5378E94DFFA7FB9787CE96900550" box="[1112,1254,1523,1567]" pageId="6" pageNumber="169">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="3B723CF3E94DFFA7FACD87CE9616051F" ID-GBIF-Occurrence="3970494307" collectedFrom="four caterpillars on leaves of Ochrocarpus obovalis" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="6" pageNumber="169" specimenCount="4">
+<collectingMunicipality id="6BC1ACD4E94DFFA7FACD87CE97F60550" box="[1282,1408,1523,1567]" pageId="6" pageNumber="169">
+<location id="8EC56075E94DFFA7FACD87CE97F60550" LSID="urn:lsid:plazi:treatment:03B387B8E94DFFA7FED186FC966E05FA:8EC56075E94DFFA7FACD87CE97F60550" box="[1282,1408,1523,1567]" pageId="6" pageNumber="169">Fadian</location>
+</collectingMunicipality>
+, 
+<date id="FFA4106EE94DFFA7FA5587CE94470550" box="[1434,1585,1523,1567]" pageId="6" pageNumber="169" value="2019-08">
+<collectingDate id="EFE0E986E94DFFA7FA5587CE94470550" box="[1434,1585,1523,1567]" pageId="6" pageNumber="169" value="2019-08">Aug. 19</collectingDate>
+</date>
+, four caterpillars on leaves of 
+<taxonomicName id="4C1A4D2DE94DFFA7FD2D841A9616051F" box="[738,1120,1575,1616]" class="Magnoliopsida" family="Calophyllaceae" genus="Ochrocarpus" higherTaxonomySource="CoL" kingdom="Plantae" order="Malpighiales" pageId="6" pageNumber="169" phylum="Tracheophyta" rank="species" species="obovalis">
+<emphasis id="B96EEABCE94DFFA7FD2D841A9616051F" box="[738,1120,1575,1616]" italics="true" pageId="6" pageNumber="169">
+<location id="8EC56075E94DFFA7FD2D841A91B4051F" LSID="urn:lsid:plazi:treatment:03B387B8E94DFFA7FED186FC966E05FA:8EC56075E94DFFA7FD2D841A91B4051F" box="[738,962,1575,1616]" pageId="6" pageNumber="169">Ochrocarpus</location>
+obovalis
+</emphasis>
+</taxonomicName>
+</materialsCitation>
+<materialsCitation id="3B723CF3E94DFFA7FBBF841A902605CD" ID-GBIF-Occurrence="3970494304" collectedFrom="one moth matured from caterpillars on leaves of Ochrocarpus obovalis" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="6" pageNumber="169" specimenCount="1">
+from which one moth matured 
+<date id="FFA4106EE94DFFA7FEEB846A93DF05CD" box="[292,425,1623,1666]" pageId="6" pageNumber="169">
+<collectingDate id="EFE0E986E94DFFA7FEEB846A93DF05CD" box="[292,425,1623,1666]" pageId="6" pageNumber="169">Sept. 4</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E94DFFA7FE07846A902605CD" box="[456,592,1623,1666]" pageId="6" pageNumber="169">Swezey</collectorName>
+</materialsCitation>
+. The latter and four other specimens are of aberration 1. 
+<materialsCitation id="3B723CF3E94DFFA7FEEC84B6966505FA" ID-GBIF-Occurrence="3913652431" box="[291,1043,1675,1717]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Bishop Museum" pageId="6" pageNumber="169" specimenCount="1">
+<collectingMunicipality id="6BC1ACD4E94DFFA7FEEC84B690A905FA" box="[291,735,1675,1717]" pageId="6" pageNumber="169">One in Bishop Museum</collectingMunicipality>
+, 
+<location id="8EC56075E94DFFA7FD3484B691D705FA" LSID="urn:lsid:plazi:treatment:03B387B8E94DFFA7FED186FC966E05FA:8EC56075E94DFFA7FD3484B691D705FA" box="[763,929,1675,1717]" pageId="6" pageNumber="169">Fullaway</location>
+, 1911
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,82 @@
+<document id="E01E2F240FDB6F2E67EF8E084DF37E98" ID-DOI="http://doi.org/10.5281/zenodo.5169330" ID-GBIF-Dataset="11d04f7a-e744-4ac9-b0af-3cbf68f8cc92" ID-Zenodo-Dep="5169330" checkinTime="1628021447149" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="03E88780FFFAFFB7FE15666AFA298FC5" docLanguage="en" docName="InsectsOfGuamII.189.201-210.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Otitesella swezeyi Fullaway, 1946, new species" docType="treatment" docVersion="8" lastPageNumber="205" masterDocId="FFD1FFF8FFF9FFB3FFC86E5DFFBE8B32" masterDocTitle="Hymenoptera, New Species Of Guam Chalcidoidea" masterLastPageNumber="210" masterPageNumber="201" pageNumber="204" updateTime="1658154551490" updateUser="annettekang">
+<mods:mods id="2EB8D6BC803F93BF796FD4726CA9247E" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B7C539DB2CEA5AF143AA3E8B6DB69944">
+<mods:title id="FD98C5756D90119734876646C142BF78">Hymenoptera, New Species Of Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="5E4D7BA3C674EF7AD1DC6DF88FE9FA3D" type="personal">
+<mods:role id="8BB29B2B75CF51E77B37503A501C1702">
+<mods:roleTerm id="8863779F7D5F2B146A45A81EFDBAE74C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2A74B7D8243FF3B7564B890E4135229B">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="0E526DCB818E0B536D82CF006BC57B6B">Board of Agriculture and Forestry Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="D6B71FE97C90BAF92D5108C18E844DE5">text</mods:typeOfResource>
+<mods:relatedItem id="90DAE982D32BFDA300A5BF841A90F1C7" type="host">
+<mods:originInfo id="16334CF22413C84F71EC6808686B8483">
+<mods:dateIssued id="4F7B2F8AADF4CB872C77BAEE3D43F3B8">1946</mods:dateIssued>
+<mods:dateOther id="4ED0BC6771668F04FF438B19E4EF2B69" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="511098C3A791578C91627238BFA18EA8">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="D8DEE96C0BAE7E3F7E9ED4C932BD4C9A">
+<mods:placeTerm id="3FE0265E49EBBFF520F7D03CC44BB6F2">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="4D2F9EBE024C9261621F9F01C8E97A66">
+<mods:title id="9A04DCAE3289BC138E1DDFAF74447CAF">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="D017CDAD861E439C46A4F5834C732F11">
+<mods:extent id="1741B18DFFED495964E469F2F8BA5783" unit="page">
+<mods:start id="5A505727AD3F86BFCDCAD0052496ADF6">201</mods:start>
+<mods:end id="65321B5395F9FD1EFAFD2BB7B8132E4F">210</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="40BF73DCEA4ED5334115489FF6D2AB14">book chapter</mods:classification>
+<mods:identifier id="9AEB8D6282559014A9CEBC7B2F3BFFE1" type="DOI">http://doi.org/10.5281/zenodo.5169330</mods:identifier>
+<mods:identifier id="7C1FA8732035712E8F3B8B9083C13E1E" type="GBIF-Dataset">11d04f7a-e744-4ac9-b0af-3cbf68f8cc92</mods:identifier>
+<mods:identifier id="04F06F4589DE7879033785D1003C5198" type="Zenodo-Dep">5169330</mods:identifier>
+</mods:mods>
+<treatment id="03E88780FFFAFFB7FE15666AFA298FC5" ID-DOI="http://doi.org/10.5281/zenodo.5158750" ID-GBIF-Taxon="184009975" ID-Zenodo-Dep="5158750" LSID="urn:lsid:plazi:treatment:03E88780FFFAFFB7FE15666AFA298FC5" httpUri="http://treatment.plazi.org/id/03E88780FFFAFFB7FE15666AFA298FC5" lastPageId="4" lastPageNumber="205" pageId="3" pageNumber="204">
+<subSubSection id="C35B651DFFFAFFB0FE15666AFBE08350" box="[477,1118,2103,2146]" pageId="3" pageNumber="204" type="nomenclature">
+<paragraph id="8BFE3696FFFAFFB0FE15666AFBE08350" blockId="3.[477,1878,2103,2518]" box="[477,1118,2103,2146]" pageId="3" pageNumber="204">
+<heading id="D0B681FAFFFAFFB0FE15666AFBE08350" box="[477,1118,2103,2146]" fontSize="11" level="2" pageId="3" pageNumber="204" reason="2">
+<emphasis id="B935EA84FFFAFFB0FE15666AFCD08350" bold="true" box="[477,878,2103,2146]" pageId="3" pageNumber="204">
+5. 
+<taxonomicName id="4C414D15FFFAFFB0FDD4666AFCD98350" authorityName="Fullaway" authorityYear="1946" box="[540,871,2103,2146]" class="Insecta" family="Torymidae" genus="Otitesella" kingdom="Animalia" order="Hymenoptera" pageId="3" pageNumber="204" phylum="Arthropoda" rank="species" species="swezeyi" status="new species">Otitesella swezeyi</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="A20657FFFFFAFFB0FCB6666AFBE78350" box="[894,1113,2103,2146]" pageId="3" pageNumber="204" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C35B651DFFFAFFB7FDEB662EFBC28F80" lastPageId="4" lastPageNumber="205" pageId="3" pageNumber="204" type="description">
+<paragraph id="8BFE3696FFFAFFB0FDEB662EFCE4823E" blockId="3.[477,1878,2103,2518]" pageId="3" pageNumber="204">
+Female: 
+<quantity id="4CB99B73FFFAFFB0FD0F662EFCFA83A5" box="[711,836,2163,2199]" metricMagnitude="-3" metricUnit="m" metricValue="1.5" pageId="3" pageNumber="204" unit="mm" value="1.5">1.5 mm</quantity>
+. long, metallic green, shagreened, punctuate, the punctuations minute and rather sparse, the mesonotal sculpture appearing as fine transverse striae, basal segments of the antennae and the legs distally from the coxae yellowish brown, eyes red, wings hyaline.
+</paragraph>
+<paragraph id="8BFE3696FFFAFFB7FDEA674AFDD189BE" blockId="3.[477,1878,2103,2518]" lastBlockId="4.[292,1693,304,1271]" lastPageId="4" lastPageNumber="205" pageId="3" pageNumber="204">Head orbiculate, viewed from above transverse, somewhat menisciform, width about three times the length; occiput, frontovertex, face, and genae forming one continuous moderately convex surface; frontovertex and occiput both rather narrow, the ocelli situate on the former and arranged in form of a very obtuse triangle, the lateral members less than one diameter from eye margin and more than three from the median, anterior member; eyes lateral, oval, long diameter vertical, convex, antennae attached in middle of face, above line drawn from lower margin of eyes, short, not as long as thorax, composed of scape, pedicel, several ring joints, five funicle joints and three-jointed club; the antenna! scrobes are rather deep but short, not nearly reaching the ocelli; the scape is several times longer than wide, pedicel obconic, 1.5 times as long as wide, funicle joints transverse, increasing in thickness outwardly, the club a little more so, its three joints combined less than one half the length of the funicle, both well clothed with short, stiff, gray hairs, cheeks and postgenae fairly wide, the latter narrowing down to the slighter width of the occiput.</paragraph>
+<paragraph id="8BFE3696FFFDFFB7FEA26CCFFCB28845" blockId="4.[292,1693,304,1271]" pageId="4" pageNumber="205">Thorax twice as long as greatest width, moderately deep, convex dorsally and ventrally, pronotum transverse, wide behind but narrowed in front, quite short; mesonotum considerably wider than long, with well-marked, inwardly (front to back) curved parapsidal grooves and a deep sulcus on the scutellar margin; axillae small; scutellum quite large, scutiform and only moderately convex; metanotum narrow in the middle but widening considerably at sides.</paragraph>
+<paragraph id="8BFE3696FFFDFFB7FEA26D20F92588DF" blockId="4.[292,1693,304,1271]" pageId="4" pageNumber="205">Abdomen sessile, as long as thorax and head together, fairly wide basally, compressed from the sides, only the first tergite more or less flat dorsally, the following are knifeedged, sparsely hairy on sides; ovipositor slightly protruded, the valves flat and heavy.</paragraph>
+<paragraph id="8BFE3696FFFDFFB7FEA36DAFFC968F0E" blockId="4.[292,1693,304,1271]" pageId="4" pageNumber="205">Legs normal, the coxae, femora, and tibiae somewhat flattened, of equal length, the tarsi slender and a little longer.</paragraph>
+<paragraph id="8BFE3696FFFDFFB7FEA26A1CFBC28F80" blockId="4.[292,1693,304,1271]" pageId="4" pageNumber="205">Wings fairly wide and long, the veins thin and pale, marginal much shorter than submarginal and twice as long as either the postmarginal or stigma!, which are subequal in length, discal and marginal ciliation inconspicuous.</paragraph>
+</subSubSection>
+<subSubSection id="C35B651DFFFDFFB7FEA16A92FA298FC5" box="[361,1431,1231,1271]" pageId="4" pageNumber="205" type="materials_examined">
+<paragraph id="8BFE3696FFFDFFB7FEA16A92FA298FC5" blockId="4.[292,1693,304,1271]" box="[361,1431,1231,1271]" pageId="4" pageNumber="205">
+<materialsCitation id="3B293CCBFFFDFFB7FEA16A92FA298FC5" ID-GBIF-Occurrence="3333035309" box="[361,1431,1231,1271]" collectedFrom="ex fruit of small-leaved fig" collectingDate="1936-10-10" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="205" specimenCount="1" typeStatus="holotype">
+<location id="8E9E604DFFFDFFB7FEA16A92FE158FC5" LSID="urn:lsid:plazi:treatment:03E88780FFFAFFB7FE15666AFA298FC5:8E9E604DFFFDFFB7FEA16A92FE158FC5" box="[361,427,1231,1271]" name="Piti" pageId="4" pageNumber="205">Piti</location>
+, 
+<date id="FFFF1056FFFDFFB7FE0C6A92FDF78FC5" box="[452,585,1231,1271]" pageId="4" pageNumber="205" value="2010-10">
+<collectingDate id="EFBBE9BEFFFDFFB7FE0C6A92FDF78FC5" box="[452,585,1231,1271]" pageId="4" pageNumber="205" value="2010-10">Oct. 10</collectingDate>
+</date>
+, 
+<collectedFrom id="385D756BFFFDFFB7FDA96A92FBF28FC5" box="[609,1100,1231,1271]" pageId="4" pageNumber="205">ex fruit of small-leaved fig,</collectedFrom>
+<typeStatus id="54FA8834FFFDFFB7FB936A92FB4A8FC5" box="[1115,1268,1231,1271]" pageId="4" pageNumber="205">holotype</typeStatus>
+, 
+<collectorName id="26B45340FFFDFFB7FAC46A92FA2C8FC5" box="[1292,1426,1231,1271]" pageId="4" pageNumber="205">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

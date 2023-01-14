@@ -1,0 +1,118 @@
+<document id="CAD0C7C9CE3AC8C39ADC178C80202D4A" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFAA1B1CFE6DF63003304437" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Prosoplus marianarum Aurivillius 1908" docType="treatment" docVersion="20" lastPageNumber="171" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="170" updateTime="1671478919668" updateUser="annettekang">
+<mods:mods id="D21BA37E0D86BBB6341EC4125C6C4BDD" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="6845DB06D263F62926A7B70B62E1035B">
+<mods:title id="E7AF3209A4B19EFB66EC418D85C8662F">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="CE8FBD213ED203114784B0B240A2E10F" type="personal">
+<mods:role id="ACFDF6A5E10C59065F676F86731DDE4C">
+<mods:roleTerm id="6C9AB134648F10B31FC4BE8B9F5CAD4C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="556FDFFA3F86280AD5433E702220F665">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="45F271ECA7E5E623C6AEE4D17B9B1E76">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="AE3D2A7746EBEC72A13E3321081040F0">text</mods:typeOfResource>
+<mods:relatedItem id="00F977557B8FC57D6919B10F9780D236" type="host">
+<mods:originInfo id="7679C08EFE35F790B2B3BD012BFF8F81">
+<mods:dateIssued id="310894C8D47929490028BE90C6851CAD">1942</mods:dateIssued>
+<mods:dateOther id="0B796183E7EC14F4BBC1A801924C939E" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="9D641BDA3EFCDF106F297D2DEF015423">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="4AAB5BD2CB83E37E851F476ED2739684">
+<mods:placeTerm id="862CF173FE9C34281997775FBA749E24">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="C9C8E822D5BFD3251A963698F017ECE0">
+<mods:title id="281741EDE15229B0424794B52D938314">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="C67071D6D91B5C6B4113CC48D0540B79">
+<mods:extent id="0026C147AF51E4C6C4AF1590A11FCD36" unit="page">
+<mods:start id="6E215A2BB733468CE76F9E0DE44F61DA">150</mods:start>
+<mods:end id="902DA4726059CFE8F95A4543D4797828">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="5FA102E93C39115E82C8B05EE2155FDC">book chapter</mods:classification>
+<mods:identifier id="A54CC0AE7F852293D67A1F7412FAB5D2" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="86BA2DB0F562D7E2878C3090A4B54B3B" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="61407DFC669FC40F9DA065E1A5194DCA" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<subSection id="D64D2F18FFAA1B1CFE6DF63003304437" lastPageId="21" lastPageNumber="171" pageId="20" pageNumber="170" type="multiple">
+<treatment id="376B87E5FFAA1B1CFE6DF63003304437" ID-DOI="http://doi.org/10.5281/zenodo.5182986" ID-GBIF-Taxon="184415414" ID-Zenodo-Dep="5182986" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1CFE6DF63003304437" httpUri="http://treatment.plazi.org/id/376B87E5FFAA1B1CFE6DF63003304437" lastPageId="21" lastPageNumber="171" pageId="20" pageNumber="170">
+<subSubSection id="F7D86578FFAA1B1DFE6DF63003784F9A" box="[439,1150,2434,2477]" pageId="20" pageNumber="170" type="nomenclature">
+<paragraph id="BF7D36F3FFAA1B1DFE6DF63003784F9A" blockId="20.[439,467,2437,2477]" box="[439,1150,2434,2477]" lastBlockId="20.[500,1833,2434,2528]" pageId="20" pageNumber="170">
+<heading id="E435819FFFAA1B1DFE6DF63003784F9A" box="[439,1150,2434,2477]" centered="true" fontSize="8" level="2" pageId="20" pageNumber="170" reason="4">
+6. 
+<taxonomicName id="78C24D70FFAA1B1DFE2EF63703714F9A" authority="Aurivillius" authorityName="Aurivillius" authorityYear="1908" box="[500,1143,2434,2476]" class="Insecta" family="Cerambycidae" genus="Prosoplus" kingdom="Animalia" order="Coleoptera" pageId="20" pageNumber="170" phylum="Arthropoda" rank="species" species="marianarum">Prosoplus marianarum Aurivillius</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAA1B1DFB4EF63703534FD6" pageId="20" pageNumber="170" type="reference_group">
+<paragraph id="BF7D36F3FFAA1B1DFB4EF63703534FD6" blockId="20.[500,1833,2434,2528]" pageId="20" pageNumber="170">
+<bibCitation id="6AE83E9FFFAA1B1DFB4EF63703534FD6" author="Aurivillius" journalOrPublisher="Deutsche Ent. Zeitschr." pageId="20" pageNumber="170" pagination="222" part="73" refId="ref11112" title="Coleopt. Catalog" type="journal volume" year="1908">
+<treatmentCitationGroup id="9FD211DDFFAA1B1DFB4EF63703564FD6" pageId="20" pageNumber="170">
+<treatmentCitation id="3E6310E2FFAA1B1DFB4EF63700244F9A" author="Aurivillius" box="[1172,1826,2434,2476]" page="222" pageId="20" pageNumber="170" year="1908">
+<journalOrPublisher id="65033C3FFFAA1B1DFB4EF63701494F9A" box="[1172,1615,2434,2476]" pageId="20" pageNumber="170">Deutsche Ent. Zeitschr.</journalOrPublisher>
+, 
+<pagination id="860BC807FFAA1B1DF9B1F63701AD4F9A" box="[1643,1707,2434,2476]" pageId="20" pageNumber="170" type="pageRange">222</pagination>
+, 
+<year id="CB6A77A0FFAA1B1DF910F63700244F9A" box="[1738,1826,2434,2476]" pageId="20" pageNumber="170">1908</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="3E6310E2FFAA1B1DFE2FF60303564FD6" author="Aurivillius" box="[501,1104,2486,2528]" page="263" pageId="20" pageNumber="170" year="1922">
+<title id="CDC6DDC5FFAA1B1DFE2FF60304224FD6" box="[501,804,2486,2528]" pageId="20" pageNumber="170">Coleopt. Catalog</title>
+. (
+<part id="CB669C6EFFAA1B1DFC93F60304704FD6" box="[841,886,2486,2528]" pageId="20" pageNumber="170" type="volume">73</part>
+): 
+<pagination id="860BC807FFAA1B1DFC76F60304EE4FD6" box="[940,1000,2486,2528]" pageId="20" pageNumber="170" type="pageRange">263</pagination>
+, 
+<year id="CB6A77A0FFAA1B1DFC24F60303564FD6" box="[1022,1104,2486,2528]" pageId="20" pageNumber="170">1922</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAB1B1CFE92FE83036647A2" pageId="21" pageNumber="171" type="materials_examined">
+<paragraph id="BF7D36F3FFAB1B1CFE92FE83036647A2" blockId="21.[328,1659,310,352]" lastBlockId="21.[265,1660,362,513]" pageId="21" pageNumber="171">
+<pageTitle id="FF5DEE94FFAB1B1CFE92FE83017D4756" box="[328,1659,310,352]" pageId="21" pageNumber="171">
+<materialsCitation id="0FAA3CAEFFAB1B1CFE92FE8305B44756" ID-GBIF-Occurrence="3334692390" box="[328,690,310,352]" collectingDate="1936-06-05" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="21" pageNumber="171" specimenCount="1">
+<location id="BA1D6028FFAB1B1CFE92FE8305034756" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1CFE6DF63003304437:BA1D6028FFAB1B1CFE92FE8305034756" box="[328,517,310,352]" name="Machanao" pageId="21" pageNumber="171">Machanao</location>
+, 
+<date id="CB7C1033FFAB1B1CFDF9FE8305AF4756" box="[547,681,310,352]" pageId="21" pageNumber="171">
+<collectingDate id="DB38E9DBFFAB1B1CFDF9FE8305AF4756" box="[547,681,310,352]" pageId="21" pageNumber="171">June 5</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAB1B1CFD11FE8303B74756" ID-GBIF-Occurrence="3334692600" box="[715,1201,310,352]" collectedFrom="beach near Atao" collectingDate="1936-06-25" collectorName="R. L. Usinger" country="Guam" location="Atao" pageId="21" pageNumber="171" specimenCount="1">
+beach near 
+<location id="BA1D6028FFAB1B1CFC76FE8303014756" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1CFE6DF63003304437:BA1D6028FFAB1B1CFC76FE8303014756" box="[940,1031,310,352]" name="Atao" pageId="21" pageNumber="171">Atao</location>
+, 
+<date id="CB7C1033FFAB1B1CFBFEFE8303B74756" box="[1060,1201,310,352]" pageId="21" pageNumber="171" value="1925-06">
+<collectingDate id="DB38E9DBFFAB1B1CFBFEFE8303B74756" box="[1060,1201,310,352]" pageId="21" pageNumber="171" value="1925-06">June 25</collectingDate>
+</date>
+</materialsCitation>
+; 
+<materialsCitation id="0FAA3CAEFFAB1B1CFB38FE8305D747A2" ID-GBIF-Occurrence="3994027532" collectingDate="1936-06-30" collectorName="R. L. Usinger" country="Guam" location="Ritidian Point" pageId="21" pageNumber="171" specimenCount="1">
+<location id="BA1D6028FFAB1B1CFB38FE8302C74756" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1CFE6DF63003304437:BA1D6028FFAB1B1CFB38FE8302C74756" box="[1250,1473,310,352]" name="Ritidian Pt." pageId="21" pageNumber="171">Ritidian Pt.</location>
+, 
+<date id="CB7C1033FFAB1B1CFA3AFE8301734756" box="[1504,1653,310,352]" pageId="21" pageNumber="171" value="1930-06">
+<collectingDate id="DB38E9DBFFAB1B1CFA3AFE8301734756" box="[1504,1653,310,352]" pageId="21" pageNumber="171" value="1930-06">June 30</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFAB1B1CFED3FEDF06A647A2" box="[265,416,362,404]" pageId="21" pageNumber="171">Usinger</collectorName>
+,threespecimens
+</materialsCitation>
+</pageTitle>
+. Nodataastohabits.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAB1B1CFE92FE1003304437" pageId="21" pageNumber="171" type="distribution">
+<paragraph id="BF7D36F3FFAB1B1CFE92FE1003304437" blockId="21.[265,1660,362,513]" pageId="21" pageNumber="171">
+This species was described from the 
+<collectingCountry id="C7D57663FFAB1B1CFC2DFE10023547F9" box="[1015,1331,421,463]" name="Northern Mariana Islands" pageId="21" pageNumber="171">Marianas Islands</collectingCountry>
+and has not been recorded elsewhere. \Ve found it only rarely.
+</paragraph>
+</subSubSection>
+</treatment>
+</subSection>
+</document>

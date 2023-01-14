@@ -1,0 +1,109 @@
+<document id="ACE43B616A5B3C9AF9B2EDDA154C7077" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBA1B0DFE6CFDBD04CB4534" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Gyrophaena moluccensis Fauvel 1878" docType="treatment" docVersion="18" lastPageNumber="154" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="154" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="8198C69F4AA83CD853BCB51573805720" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="D7D7E0421243126579DCC4CA38488700">
+<mods:title id="BF3B2CFC36D67519D4D5D6D51171D4EC">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="B628AF18D56256419C90A0D1BA793C78" type="personal">
+<mods:role id="DAFBD31EE67F2D21753B1D38F0A37F12">
+<mods:roleTerm id="14BF9FC230012721CCBD0B5058D080E7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E88BB482930154B29DB34F0DB356C33E">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="72E7F7B78164433BE38623396A03E734">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C6DA721DDA69738D39524179FCFBD6FD">text</mods:typeOfResource>
+<mods:relatedItem id="C690DAF029E7C3B1D3A73D1213330F21" type="host">
+<mods:originInfo id="63A1C5384A2C321643594E7FFB9E8450">
+<mods:dateIssued id="177833E9B4AB576C35FCB73C3C61CDC1">1942</mods:dateIssued>
+<mods:dateOther id="4E6297D861F893AFB6A9B655659B8F40" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="7237DFBCF5B732354830BF9BBD9B995C">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="3BC04FBE1779B7C38FE34895848DD958">
+<mods:placeTerm id="F42A4B4545AD24F42E89078B7DF5FDCC">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5A4418FF242B3683D32CF23D268BA821">
+<mods:title id="F14AEE6343F4943089DDA32B7D441E4F">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="99803D25A62E6E61C6900D808EA2B38A">
+<mods:extent id="74E1524BC87741B9B2AE90FB019A89C6" unit="page">
+<mods:start id="449AD3F2DD1D5733D20E9074BD99E140">150</mods:start>
+<mods:end id="9E268FE9EDD51E8E2A60A6D0618DE66D">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="91355AAA0BEBB012B645778BABF1D206">book chapter</mods:classification>
+<mods:identifier id="99BB735F5D2599F2139EE11C24393A0A" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="03C8FEFAC8BE9CE70AC908E74E2FA5F6" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="3912B18F443422B5C2DC5184700CD387" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBA1B0DFE6CFDBD04CB4534" ID-DOI="http://doi.org/10.5281/zenodo.5211603" ID-GBIF-Taxon="184415266" ID-Zenodo-Dep="5211603" LSID="urn:lsid:plazi:treatment:376B87E5FFBA1B0DFE6CFDBD04CB4534" httpUri="http://treatment.plazi.org/id/376B87E5FFBA1B0DFE6CFDBD04CB4534" lastPageNumber="154" pageId="4" pageNumber="154">
+<subSubSection id="F7D86578FFBA1B0DFE6CFDBD03644402" box="[438,1122,520,564]" pageId="4" pageNumber="154" type="nomenclature">
+<paragraph id="BF7D36F3FFBA1B0DFE6CFDBD03644402" blockId="4.[437,1830,520,770]" box="[438,1122,520,564]" pageId="4" pageNumber="154">
+13. 
+<taxonomicName id="78C24D70FFBA1B0DFDD2FDBD035D4402" authority="Fauvel" authorityName="Fauvel" authorityYear="1878" box="[520,1115,520,564]" class="Insecta" family="Staphylinidae" genus="Gyrophaena" kingdom="Animalia" order="Coleoptera" pageId="4" pageNumber="154" phylum="Arthropoda" rank="species" species="moluccensis">Gyrophaena moluccensis Fauvel</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBA1B0DFBAEFDBD0022445E" pageId="4" pageNumber="154" type="reference_group">
+<paragraph id="BF7D36F3FFBA1B0DFBAEFDBD0022445E" blockId="4.[437,1830,520,770]" pageId="4" pageNumber="154">
+<bibCitation id="6AE83E9FFFBA1B0DFBAEFDBD0022445E" author="Fauvel" journalOrPublisher="Mus. civ. stor. nat. Genova, Ann." pageId="4" pageNumber="154" pagination="291" part="12" refId="ref1919" type="journal article" year="1878">
+<treatmentCitationGroup id="9FD211DDFFBA1B0DFBAEFDBD0019445E" pageId="4" pageNumber="154">
+<treatmentCitation id="3E6310E2FFBA1B0DFBAEFDBD05A2445E" author="Fauvel" page="291" pageId="4" pageNumber="154" year="1878">
+<journalOrPublisher id="65033C3FFFBA1B0DFBAEFDBD01DF4402" box="[1140,1753,520,564]" pageId="4" pageNumber="154">Mus. civ. stor. nat. Genova, Ann.</journalOrPublisher>
+<part id="CB669C6EFFBA1B0DF935FDBD00084402" box="[1775,1806,520,564]" pageId="4" pageNumber="154" type="volume">12</part>
+: 
+<pagination id="860BC807FFBA1B0DFE28FD880534445E" box="[498,562,573,616]" pageId="4" pageNumber="154" type="pageRange">291</pagination>
+, 
+<year id="CB6A77A0FFBA1B0DFD97FD880599445E" box="[589,671,573,616]" pageId="4" pageNumber="154">1878</year>
+.
+</treatmentCitation>
+<treatmentCitation id="3E6310E2FFBA1B0DFD1BFD880019445E" author="Bernhauer and Scheerpeltz" box="[705,1823,573,616]" page="532" pageId="4" pageNumber="154" year="1926">
+<author id="677FDE16FFBA1B0DFD1BFD88047D445E" box="[705,891,573,616]" pageId="4" pageNumber="154">Bernhauer</author>
+and 
+<author id="677FDE16FFBA1B0DFC00FD8803A0445E" box="[986,1190,573,616]" pageId="4" pageNumber="154">Scheerpeltz</author>
+, 
+<journalOrPublisher id="65033C3FFFBA1B0DFB66FD8802EF445E" box="[1212,1513,573,616]" pageId="4" pageNumber="154">Coleopt. Catalog.</journalOrPublisher>
+(
+<part id="CB669C6EFFBA1B0DF9D5FD880139445E" box="[1551,1599,573,616]" pageId="4" pageNumber="154" type="issue">82</part>
+): 
+<pagination id="860BC807FFBA1B0DF9ADFD8801B4445E" box="[1655,1714,573,616]" pageId="4" pageNumber="154" type="pageRange">532</pagination>
+, 
+<year id="CB6A77A0FFBA1B0DF911FD880019445E" box="[1739,1823,573,616]" pageId="4" pageNumber="154">1926</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBA1B0DFE28FDC405E544F9" pageId="4" pageNumber="154" type="materials_examined">
+<paragraph id="BF7D36F3FFBA1B0DFE28FDC405E544F9" blockId="4.[437,1830,520,770]" pageId="4" pageNumber="154">
+<materialsCitation id="0FAA3CAEFFBA1B0DFE28FDC4030544AD" ID-GBIF-Occurrence="3334692536" box="[498,1027,625,667]" collectedFrom="from fungus" collectingDate="1936-05-12" collectorName="R. L. Usinger" country="Guam" location="Yona" pageId="4" pageNumber="154" specimenCount="10">
+<location id="BA1D6028FFBA1B0DFE28FDC4055344AD" LSID="urn:lsid:plazi:treatment:376B87E5FFBA1B0DFE6CFDBD04CB4534:BA1D6028FFBA1B0DFE28FDC4055344AD" box="[498,597,625,667]" name="Yona" pageId="4" pageNumber="154">Yona</location>
+, 
+<date id="CB7C1033FFBA1B0DFDB0FDC4043644AD" box="[618,816,625,667]" pageId="4" pageNumber="154" value="2010-05-12">
+<collectingDate id="DB38E9DBFFBA1B0DFDB0FDC4043644AD" box="[618,816,625,667]" pageId="4" pageNumber="154" value="2010-05-12">May 12, 10</collectingDate>
+</date>
+specimens;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBA1B0DFBC9FDC405E544F9" ID-GBIF-Occurrence="3334692560" collectedFrom="from fungus" collectingDate="1936-05-21" collectorName="R. L. Usinger" country="Guam" location="Mount Alifan" pageId="4" pageNumber="154" specimenCount="1">
+<location id="BA1D6028FFBA1B0DFBC9FDC403D244AD" LSID="urn:lsid:plazi:treatment:376B87E5FFBA1B0DFE6CFDBD04CB4534:BA1D6028FFBA1B0DFBC9FDC403D244AD" box="[1043,1236,625,667]" name="Mt. Alifan" pageId="4" pageNumber="154">Mt. Alifan</location>
+, 
+<date id="CB7C1033FFBA1B0DFB33FDC4027644AD" box="[1257,1392,625,667]" pageId="4" pageNumber="154" value="2021-05">
+<collectingDate id="DB38E9DBFFBA1B0DFB33FDC4027644AD" box="[1257,1392,625,667]" pageId="4" pageNumber="154" value="2021-05">May 21</collectingDate>
+</date>
+, 
+<specimenCount id="A9C4FD7AFFBA1B0DFA5CFDC4017944AD" box="[1414,1663,625,667]" pageId="4" pageNumber="154" type="generic">one specimen</specimenCount>
+; all from fungus, 
+<collectorName id="12375325FFBA1B0DFD92FD1005D844F9" box="[584,734,677,719]" pageId="4" pageNumber="154">Usinger</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBA1B0DFE28FD6D04CB4534" box="[498,973,728,770]" pageId="4" pageNumber="154" type="discussion">
+<paragraph id="BF7D36F3FFBA1B0DFE28FD6D04CB4534" blockId="4.[437,1830,520,770]" box="[498,973,728,770]" pageId="4" pageNumber="154">
+Described from 
+<collectingCountry id="C7D57663FFBA1B0DFCC6FD6D04CE4534" box="[796,968,728,770]" name="Indonesia" pageId="4" pageNumber="154">Moluccas</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

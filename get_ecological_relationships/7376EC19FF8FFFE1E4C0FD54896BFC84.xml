@@ -1,0 +1,91 @@
+<document id="8E1C2A89B1EDADA7B8569C6C5918D14B" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8FFFE1E4C0FD54896BFC84" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Aneristus ceroplastae Howard" docType="treatment" docVersion="15" lastPageNumber="216" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="216" updateTime="1663769165332" updateUser="annettekang">
+<mods:mods id="BFAF1DD6F6EF47274DC1CAD8872E7ACB" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="D1895AD6BEA8F84D11C6AA3F3E068687">
+<mods:title id="23400A7AFBA8B10024B59A0259EEC7BD">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="E2377AAC83BBEC88F9D6745A2208EA82" type="personal">
+<mods:role id="65981BB48F41DDD4E95430BB9FE960E0">
+<mods:roleTerm id="F034ACCF784141C3EBAA0CC4C41B19D8">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="6F044700D5A260039D40A05C89144971">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="3D161A546B398A58FF597AD3267E844C">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="70153F000BA2D93B4970081F0ECB9452">text</mods:typeOfResource>
+<mods:relatedItem id="B2CBF1327517FC3C84A2868AE18AB77F" type="host">
+<mods:originInfo id="3D3EEB7066B3B39698D7C682B4E86CDC">
+<mods:dateIssued id="0C4A58D9A7D3EFD3E9B8473F194D8F21">1946</mods:dateIssued>
+<mods:dateOther id="14DC05AD7F93A3769FA6047E021D3FAA" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="D12C09E826800A063F41F2994EE50F96">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="309D26D6110B87024039B78F089AE859">
+<mods:placeTerm id="A52575F18D63467CEA6FA8E986A6700A">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="C351D47313A3786EDEA5778C97ED0933">
+<mods:title id="AC65AC54D393571856413BCB7C0018FD">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="441558C17F6527E353E7C560F12DF1DD">
+<mods:extent id="05DA692C0F1C0DA0B4E62C21DC289C45" unit="page">
+<mods:start id="27EE73853CA1D22651BF9F881666B9E5">211</mods:start>
+<mods:end id="9C59FB4FC4A0C49B22475C68C087EB7E">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="6ABC307C0CB468F2A82581700E49745C">book chapter</mods:classification>
+<mods:identifier id="CFA5EE68AB84FC66B8AF3451E1EF51F6" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="889F705373D2C2021D692A9DB51FA14D" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="B661A61E0F9EA17768A232C23D8EF700" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8FFFE1E4C0FD54896BFC84" ID-DOI="http://doi.org/10.5281/zenodo.5212017" ID-GBIF-Taxon="187737424" ID-Zenodo-Dep="5212017" LSID="urn:lsid:plazi:treatment:7376EC19FF8FFFE1E4C0FD54896BFC84" httpUri="http://treatment.plazi.org/id/7376EC19FF8FFFE1E4C0FD54896BFC84" lastPageNumber="216" pageId="5" pageNumber="216">
+<subSubSection id="B3C50E84FF8FFFE1E4C0FD548B11FCF1" box="[451,1103,760,803]" pageId="5" pageNumber="216" type="nomenclature">
+<paragraph id="FB605D0FFF8FFFE1E4C0FD548B11FCF1" blockId="5.[451,1606,760,854]" box="[451,1103,760,803]" pageId="5" pageNumber="216">
+<emphasis id="C9AB811DFF8FFFE1E4C0FD548EAAFCF1" bold="true" box="[451,500,760,803]" pageId="5" pageNumber="216">37.</emphasis>
+<taxonomicName id="3CDF268CFF8FFFE1E715FD548B16FCF1" authority="Howard" authorityName="Howard" box="[534,1096,760,803]" class="Insecta" family="Aphelinidae" genus="Aneristus" kingdom="Animalia" order="Hymenoptera" pageId="5" pageNumber="216" phylum="Arthropoda" rank="species" species="ceroplastae">
+<emphasis id="C9AB811DFF8FFFE1E715FD548CFEFCF1" bold="true" box="[534,928,760,803]" pageId="5" pageNumber="216">Aneristus ceroplastae</emphasis>
+<author id="2362B5EAFF8FFFE1E6B2FD548B16FCF1" box="[945,1096,760,803]" pageId="5" pageNumber="216">Howard</author>
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8FFFE1E161FD548918FCF1" box="[1122,1606,760,803]" pageId="5" pageNumber="216" type="reference_group">
+<paragraph id="FB605D0FFF8FFFE1E161FD548918FCF1" blockId="5.[451,1606,760,854]" box="[1122,1606,760,803]" pageId="5" pageNumber="216">
+<treatmentCitationGroup id="DBCF7A21FF8FFFE1E161FD548918FCF1" box="[1122,1606,760,803]" pageId="5" pageNumber="216">
+<treatmentCitation id="7A7E7B1EFF8FFFE1E161FD548918FCF1" author="Howard" box="[1122,1606,760,803]" page="27" pageId="5" pageNumber="216" year="1895">
+<bibCitation id="2EF55563FF8FFFE1E161FD548918FCF1" author="Howard" box="[1122,1606,760,803]" journalOrPublisher="Canad. Ent." pageId="5" pageNumber="216" pagination="351" part="27" refId="ref2271" type="journal article" year="1895">
+<journalOrPublisher id="211E57C3FF8FFFE1E161FD548A65FCF1" box="[1122,1339,760,803]" pageId="5" pageNumber="216">Canad. Ent.</journalOrPublisher>
+<emphasis id="C9AB811DFF8FFFE1E04EFD548AD8FCF1" bold="true" box="[1357,1414,760,803]" pageId="5" pageNumber="216">
+<part id="8F7BF792FF8FFFE1E04EFD548A2BFCF1" box="[1357,1397,760,803]" pageId="5" pageNumber="216" type="volume">27</part>
+:
+</emphasis>
+<pagination id="C216A3FBFF8FFFE1E096FD548A8DFCF1" box="[1429,1491,760,803]" pageId="5" pageNumber="216" type="pagination">351</pagination>
+, 
+<year id="8F771C5CFF8FFFE1E0ECFD54891FFCF1" box="[1519,1601,760,803]" pageId="5" pageNumber="216">1895</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8FFFE1E701FC81896BFC84" box="[514,1589,813,854]" pageId="5" pageNumber="216" type="materials_examined">
+<paragraph id="FB605D0FFF8FFFE1E701FC81896BFC84" blockId="5.[451,1606,760,854]" box="[514,1589,813,854]" pageId="5" pageNumber="216">
+<materialsCitation id="4BB75752FF8FFFE1E701FC81896EFC84" ID-GBIF-Occurrence="3345364355" box="[514,1584,813,854]" collectedFrom="swept from Glochidion" collectingDate="1936-08-18" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="216" specimenCount="1">
+<collectingMunicipality id="1B04C775FF8FFFE1E701FC818D1BFC84" box="[514,581,813,854]" pageId="5" pageNumber="216">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF8FFFE1E759FC818DB5FC84" box="[602,747,813,854]" pageId="5" pageNumber="216" value="2018-08">
+<collectingDate id="9F258227FF8FFFE1E759FC818DB5FC84" box="[602,747,813,854]" pageId="5" pageNumber="216" value="2018-08">Aug. 18</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF8FFFE1E601FC818CB4FC84" box="[770,1002,813,854]" pageId="5" pageNumber="216" type="generic">one specimen</specimenCount>
+swept from 
+<taxonomicName id="3CDF268CFF8FFFE1E1D7FC81896EFC84" authority=", Swezey." authorityName="Swezey." box="[1236,1584,813,854]" class="Magnoliopsida" family="Phyllanthaceae" genus="Glochidion" kingdom="Plantae" order="Malpighiales" pageId="5" pageNumber="216" phylum="Tracheophyta" rank="genus">
+<emphasis id="C9AB811DFF8FFFE1E1D7FC818AC7FC84" box="[1236,1433,813,854]" italics="true" pageId="5" pageNumber="216">
+<location id="FE000BD4FF8FFFE1E1D7FC818ACDFC84" LSID="urn:lsid:plazi:treatment:7376EC19FF8FFFE1E4C0FD54896BFC84:FE000BD4FF8FFFE1E1D7FC818ACDFC84" box="[1236,1427,813,854]" municipality="Piti" name="Glochidion" pageId="5" pageNumber="216">Glochidion</location>
+,
+</emphasis>
+<collectorName id="562A38D9FF8FFFE1E0A9FC81896EFC84" box="[1450,1584,813,854]" pageId="5" pageNumber="216">Swezey</collectorName>
+</taxonomicName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,96 @@
+<document id="AD8FE23FDDF11CDFF91E31CEC0773B20" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E946FFACFE6F84EC96920488" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Euzophera C.Linnaeus 1758" docType="treatment" docVersion="13" lastPageNumber="176" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="176" updateTime="1670269774864" updateUser="ExternalLinkService">
+<mods:mods id="DF5B7E105B2119D044C54CE540E401BA" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="467F796E4BED6EA78A3FD85CEEA7C1F6">
+<mods:title id="AAA7B3D996BB00B591AB06228FCFE7E7">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="DBDE454DD201374A5CBE8569EFFBA550" type="personal">
+<mods:role id="C0AB6F07D73D6E8E4E287B3CDE06A59E">
+<mods:roleTerm id="68DD79A222C12711B6A3350623698CF7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="64F62697AEA07036D4B051B885A64831">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="EE745264BD29F4CB245B497BCC737096">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="015303EB55CAE26774918F09B96CABB4">text</mods:typeOfResource>
+<mods:relatedItem id="63916CCE0D4B9D7297EA0130D887FCBF" type="host">
+<mods:originInfo id="BB964DD510AAD4E4AEE0060E12A27228">
+<mods:dateIssued id="42BEC9A7501E1220F9E07507F5C1777E">1946</mods:dateIssued>
+<mods:dateOther id="556BEF5B15F8527CD9B3678BB8F958B8" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="1E592DB94B7191582518242A1C0D317D">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="DF286F242B9B6ADC42A39A8E6538980A">
+<mods:placeTerm id="E444D5822B0428AA86315252E9B2D0C5">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="06A7ECA868B89B3B298541D3BFDD3CA8">
+<mods:title id="BA23B11513C51B9FD7D6BD79743E020A">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="0B22F807CE5BF2D62C74930DDC98A476">
+<mods:extent id="9B189D313E2F2D06B4C0700C6ED95D91" unit="page">
+<mods:start id="9F0F599EA7C9903FFE17E532D3B18E44">163</mods:start>
+<mods:end id="20054E8BA8CD078CF882B485C6F98CA7">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="41071E46E37954847F2F9AB1BA4D686B">book chapter</mods:classification>
+<mods:identifier id="1B4EE44DB3E442A9281B6F7F1879FCAD" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="D4AC7D4FD5AFE92794674CA17A9ACB85" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="F12956C5373FC0E65B42653F9A19ACB6" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E946FFACFE6F84EC96920488" ID-DOI="http://doi.org/10.5281/zenodo.5158522" ID-GBIF-Taxon="187739314" ID-Zenodo-Dep="5158522" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE6F84EC96920488" httpUri="http://treatment.plazi.org/id/03B387B8E946FFACFE6F84EC96920488" lastPageNumber="176" pageId="13" pageNumber="176">
+<subSubSection id="C3006525E946FFACFE6F84EC914005B4" box="[416,822,1745,1787]" pageId="13" pageNumber="176" type="nomenclature">
+<paragraph id="8BA536AEE946FFACFE6F84EC914005B4" blockId="13.[415,1813,1745,1991]" box="[416,822,1745,1787]" pageId="13" pageNumber="176">
+<heading id="D0ED81C2E946FFACFE6F84EC914005B4" box="[416,822,1745,1787]" fontSize="11" level="2" pageId="13" pageNumber="176" reason="2">
+<emphasis id="B96EEABCE946FFACFE6F84EC90D705B4" bold="true" box="[416,673,1745,1787]" pageId="13" pageNumber="176">
+5. 
+<taxonomicName id="4C1A4D2DE946FFACFE1284EC90D705B4" authority="Zeller" authorityName="C.Linnaeus" authorityYear="1758" box="[477,673,1745,1787]" class="Insecta" family="Pyralidae" genus="Euzophera" higherTaxonomySource="CoL" kingdom="Animalia" order="Lepidoptera" pageId="13" pageNumber="176" phylum="Arthropoda" rank="genus">Euzophera</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E946FFACFE10853896920488" pageId="13" pageNumber="176" type="materials_examined">
+<paragraph id="8BA536AEE946FFACFE10853896920488" blockId="13.[415,1813,1745,1991]" pageId="13" pageNumber="176">
+<materialsCitation id="3B723CF3E946FFACFE1085389765042E" ID-GBIF-Occurrence="3332081406" collectedFrom="larvae numerous beneath webs on under side of leaves of Guettarda speciosa" collectingDate="1936-05-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="13" pageNumber="176" specimenCount="12">
+<location id="8EC56075E946FFACFE10853890110461" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE6F84EC96920488:8EC56075E946FFACFE10853890110461" box="[479,615,1797,1838]" pageId="13" pageNumber="176">
+<collectingMunicipality id="6BC1ACD4E946FFACFE10853890110461" box="[479,615,1797,1838]" pageId="13" pageNumber="176">Dededo</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE946FFACFD4C853891670461" box="[643,785,1797,1838]" pageId="13" pageNumber="176" value="2011-05">
+<collectingDate id="EFE0E986E946FFACFD4C853891670461" box="[643,785,1797,1838]" pageId="13" pageNumber="176" value="2011-05">May 11</collectingDate>
+</date>
+, 
+<specimenCount id="9D1CFD27E946FFACFCE2853891E10461" box="[813,919,1797,1838]" pageId="13" pageNumber="176" type="larva">larvae</specimenCount>
+numerous beneath webs on under side of leaves of 
+<emphasis id="B96EEABCE946FFACFE13850A9140042E" box="[476,822,1847,1889]" italics="true" pageId="13" pageNumber="176">
+<taxonomicName id="4C1A4D2DE946FFACFE13850A9146042E" box="[476,816,1847,1889]" class="Magnoliopsida" family="Rubiaceae" genus="Guettarda" kingdom="Plantae" order="Gentianales" pageId="13" pageNumber="176" phylum="Tracheophyta" rank="species" species="speciosa">
+<location id="8EC56075E946FFACFE13850A90FD042E" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE6F84EC96920488:8EC56075E946FFACFE13850A90FD042E" box="[476,651,1847,1889]" pageId="13" pageNumber="176">Guettarda</location>
+speciosa
+</taxonomicName>
+,
+</emphasis>
+a dozen reared, 
+<collectorName id="26EF5378E946FFACFB4E850A977A042E" box="[1153,1292,1847,1889]" pageId="13" pageNumber="176">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E946FFACFAE3850A96A90488" ID-GBIF-Occurrence="3979574301" collectedFrom="eight reared from same tree, parasite, Macrocentrus pallidus (Fullaway) was often reared from the larvae of this moth" collectingDate="1936-05-27" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="13" pageNumber="176" specimenCount="8">
+<location id="8EC56075E946FFACFAE3850A9782042E" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE6F84EC96920488:8EC56075E946FFACFAE3850A9782042E" box="[1324,1524,1847,1889]" pageId="13" pageNumber="176">Mt. Alifan</location>
+, 
+<date id="FFA4106EE946FFACF9DD850A94D4042E" box="[1554,1698,1847,1889]" pageId="13" pageNumber="176" value="1927-05">
+<collectingDate id="EFE0E986E946FFACF9DD850A94D4042E" box="[1554,1698,1847,1889]" pageId="13" pageNumber="176" value="1927-05">
+May 
+<emphasis id="B96EEABCE946FFACF9B8850A94DF042E" box="[1655,1705,1847,1889]" italics="true" pageId="13" pageNumber="176">27,</emphasis>
+</collectingDate>
+</date>
+eight reared from same tree, 
+<collectorName id="26EF5378E946FFACFC81855491A204DB" box="[846,980,1897,1940]" pageId="13" pageNumber="176">Swezey</collectorName>
+. A parasite, 
+<taxonomicName id="4C1A4D2DE946FFACFB048554957804DB" authority="Fullaway" authorityName="Fullaway" authorityYear="1913" box="[1227,1806,1897,1940]" class="Insecta" family="Braconidae" genus="Macrocentrus" kingdom="Animalia" order="Hymenoptera" pageId="13" pageNumber="176" phylum="Arthropoda" rank="species" species="pallidus">
+<emphasis id="B96EEABCE946FFACFB048554942004DB" box="[1227,1622,1897,1940]" italics="true" pageId="13" pageNumber="176">Macrocentrus pallidus</emphasis>
+Fullaway
+</taxonomicName>
+, was often reared from the larvae of this moth
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,131 @@
+<document id="2A1DC592645616B9D2E1855B7326F082" ID-DOI="http://doi.org/10.5281/zenodo.5174008" ID-GBIF-Dataset="62345736-dcf6-4c38-a870-36a90992dabb" ID-Zenodo-Dep="5174008" checkinTime="1628020725273" checkinUser="carolina" docAuthor="Metcalf, Z. P." docDate="1946" docId="416187EDEB44FFE1FE06421489CFF5B8" docLanguage="en" docName="InsectsOfGuamII.189.105-148.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Bythoscopus atrifrons, new species" docType="treatment" docVersion="13" lastPageNumber="137" masterDocId="BD58FF95EB59FFFFFFB04B578875FD6D" masterDocTitle="Homoptera, Fulgoroidea and Jassoidea of Guam" masterLastPageNumber="148" masterPageNumber="105" pageNumber="136" updateTime="1660230191348" updateUser="annettekang">
+<mods:mods id="7FCA2B550633CE4448E1303D5B35F9F2" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="A36825A74796C6C698D5801E1F85CFDB">
+<mods:title id="2A821E288DE772D2E64F510FBD8F481B">Homoptera, Fulgoroidea and Jassoidea of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="ED72116B22B86D87CCADBBF73B66FE0F" type="personal">
+<mods:role id="014F07AF9D949941F276B4A935E49831">
+<mods:roleTerm id="668FD79F387692C20BFD4180B2856188">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D5D3B82D15E07424945BEE9662AF6452">Metcalf, Z. P.</mods:namePart>
+<mods:affiliation id="098A129C96E7490B8D2C8EE5D14DBD8F">College of Agriculture and Engineering, University of North Carolins</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="40833A439EC083D5868F95F266D77342">text</mods:typeOfResource>
+<mods:relatedItem id="7A822BA6089039DD0A5F54B9CB4CB195" type="host">
+<mods:originInfo id="1D7238E7A38DEAFA46A52D0AF0B3F542">
+<mods:dateIssued id="46DC95BDC0BB1ED17CB55E95FC1253D9">1946</mods:dateIssued>
+<mods:dateOther id="0AA6095ABCCE30B04B7C693B560CC4D0" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="454BA8FDF7F638F964E0207E67880877">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="751062235CB0215B9F597416EA0D8C3D">
+<mods:placeTerm id="42E94779EDC897629E04A2083EBF75D7">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="01090814D33ABF157ADEFEC9F228D13B">
+<mods:title id="6A60B498049C3DB3F7F8C0436E2DB785">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="5B6EFA43FF3172C3BDC640CCDEEF2738">
+<mods:extent id="12364803ECE17BFD15D1FF677A603067" unit="page">
+<mods:start id="C049E61D40AEEED562843AD3ADE109B6">105</mods:start>
+<mods:end id="DF17E507145B08A14DC8654A30259D5B">148</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="C412EC6A826C749F49B0D6FE992D1F6E">book chapter</mods:classification>
+<mods:identifier id="67495F86CEA9AD61876E1595ED26493A" type="DOI">http://doi.org/10.5281/zenodo.5174008</mods:identifier>
+<mods:identifier id="2C86005F6ECA6D5AFA44BF567A67E76C" type="GBIF-Dataset">62345736-dcf6-4c38-a870-36a90992dabb</mods:identifier>
+<mods:identifier id="C422376BEC0098955538A8BA85F5833C" type="Zenodo-Dep">5174008</mods:identifier>
+</mods:mods>
+<treatment id="416187EDEB44FFE1FE06421489CFF5B8" ID-DOI="http://doi.org/10.5281/zenodo.5186822" ID-GBIF-Taxon="184009011" ID-Zenodo-Dep="5186822" LSID="urn:lsid:plazi:treatment:416187EDEB44FFE1FE06421489CFF5B8" httpUri="http://treatment.plazi.org/id/416187EDEB44FFE1FE06421489CFF5B8" lastPageId="30" lastPageNumber="137" pageId="29" pageNumber="136">
+<subSubSection id="81D26570EB44FFE2FE0642148D03F401" box="[438,1398,2371,2412]" pageId="29" pageNumber="136" type="nomenclature">
+<paragraph id="C97736FBEB44FFE2FE0642148D03F401" blockId="29.[438,1838,2371,2557]" box="[438,1398,2371,2412]" pageId="29" pageNumber="136">
+<heading id="923F8197EB44FFE2FE0642148D03F401" box="[438,1398,2371,2412]" fontSize="11" level="2" pageId="29" pageNumber="136" reason="2">
+<emphasis id="FBBCEAE9EB44FFE2FE0642148BE3F401" bold="true" box="[438,918,2371,2412]" pageId="29" pageNumber="136">
+2. 
+<taxonomicName id="0EC84D78EB44FFE2FE4642148BFAF401" authority="METCALF" box="[502,911,2371,2412]" class="Insecta" family="Bythoscopidae" genus="Bythoscopus" higherTaxonomySource="CoL" kingdom="Animalia" order="Lepidoptera" pageId="29" pageNumber="136" phylum="Arthropoda" rank="species" species="atrifrons" status="new species">Bythoscopus atrifrons</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="E08F5792EB44FFE2FC1442148C03F401" box="[932,1142,2371,2412]" pageId="29" pageNumber="136" rank="species">new species</taxonomicNameLabel>
+(fig. 22, 
+<emphasis id="FBBCEAE9EB44FFE2FA9342148D03F401" box="[1315,1398,2371,2412]" italics="true" pageId="29" pageNumber="136">a-c).</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB44FFE1FE4B42D18D0FFCDB" lastPageId="30" lastPageNumber="137" pageId="29" pageNumber="136" type="description">
+<paragraph id="C97736FBEB44FFE2FE4B42D18F59F490" blockId="29.[438,1838,2371,2557]" pageId="29" pageNumber="136">
+Quite similar in general structure and coloration to 
+<emphasis id="FBBCEAE9EB44FFE2FAFD42D18E26F4C7" box="[1357,1619,2438,2474]" italics="true" pageId="29" pageNumber="136">B. viridoflavidus</emphasis>
+with a short narrow crown. Male with the face except ocelli entirely black. Male last ventral segment bisinuate; plates elongate, shorter than the pygofer, gradually diverging, apices slender;
+</paragraph>
+<paragraph id="C97736FBEB47FFE1FE994A6C8D5AFCEB" blockId="30.[297,1696,315,438]" pageId="30" pageNumber="137">genital style narrow, about as long as the aedeagus. Female last ventral segment deeply excavated on the posterior border; the pygofer elongate, slender.</paragraph>
+<paragraph id="C97736FBEB47FFE1FEDE4AC58D0FFCDB" blockId="30.[297,1696,315,438]" box="[366,1402,402,438]" pageId="30" pageNumber="137">
+Length: to apex of tegmina, 
+<quantity id="0E309B1EEB47FFE1FC8C4AC58BDAFCDB" box="[828,943,402,438]" metricMagnitude="-3" metricUnit="m" metricValue="4.5" pageId="30" pageNumber="137" unit="mm" value="4.5">4.5 mm</quantity>
+.; to apex of abdomen, 
+<quantity id="0E309B1EEB47FFE1FAAB4AC58D03FCDB" box="[1307,1398,402,438]" metricMagnitude="-3" metricUnit="m" metricValue="4.0" pageId="30" pageNumber="137" unit="mm" value="4.0">4 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<caption id="9DB76673EB47FFE1FEC34CDF8C91FAB6" ID-DOI="http://doi.org/10.5281/zenodo.5174053" ID-Zenodo-Dep="5174053" httpUri="https://zenodo.org/record/5174053/files/figure.png" pageId="30" pageNumber="137" startId="30.[371,479,1928,1964]" targetBox="[485,1530,557,1871]" targetPageId="30">
+<paragraph id="C97736FBEB47FFE1FEC34CDF8C91FAB6" blockId="30.[302,1701,1928,2011]" pageId="30" pageNumber="137">
+FrGuRi 
+<emphasis id="FBBCEAE9EB47FFE1FE5A4CDF8B97FAC1" box="[490,994,1928,1964]" italics="true" pageId="30" pageNumber="137">
+21.- 
+<taxonomicName id="0EC84D78EB47FFE1FDAF4CDF8A80FAC1" authorityName="Germar, Rev. Ent. Silbermann" authorityYear="1833" box="[543,757,1928,1964]" class="Insecta" family="Cicadellidae" genus="Bythoscopus" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="30" pageNumber="137" phylum="Arthropoda" rank="genus">Bythoscopus</taxonomicName>
+viridoflavid11,s
+</emphasis>
+:a, lateral view of male genitalia; b,ventral view of male genitalia; c, ventral view of female genitalia.
+</paragraph>
+</caption>
+<subSubSection id="81D26570EB47FFE1FEDD431489CFF5B8" pageId="30" pageNumber="137" type="description">
+<paragraph id="C97736FBEB47FFE1FEDD431489CFF5B8" blockId="30.[303,1701,2115,2261]" pageId="30" pageNumber="137">
+<materialsCitation id="79A03CA6EB47FFE1FEDD43148E72F500" ID-GBIF-Occurrence="3332978363" box="[365,1543,2115,2157]" collectedFrom="from Morinda sp." collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="30" pageNumber="137" specimenCount-male="1" typeStatus="holotype">
+<typeStatus id="16738859EB47FFE1FEDD43148A64F500" box="[365,529,2115,2157]" pageId="30" pageNumber="137">Holotype</typeStatus>
+<specimenCount id="DFCEFD72EB47FFE1FD9343148A0DF500" box="[547,632,2115,2157]" pageId="30" pageNumber="137" type="male">male</specimenCount>
+, 
+<collectingMunicipality id="2913AC81EB47FFE1FD2443148B32F500" box="[660,839,2115,2157]" pageId="30" pageNumber="137">Barrigada</collectingMunicipality>
+, 
+<collectingDate id="AD32E9D3EB47FFE1FCD343148B99F500" box="[867,1004,2115,2157]" pageId="30" pageNumber="137" value="1922-07">
+<date id="BD76103BEB47FFE1FCD343148B99F500" box="[867,1004,2115,2157]" pageId="30" pageNumber="137" value="1922-07">July 22</date>
+</collectingDate>
+, from 
+<taxonomicName id="0EC84D78EB47FFE1FBC443148D21F500" box="[1140,1364,2115,2157]" class="Insecta" family="Cicadellidae" genus="Morinda" kingdom="Animalia" order="Hemiptera" pageId="30" pageNumber="137" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="FBBCEAE9EB47FFE1FBC443148D7AF500" box="[1140,1295,2115,2157]" italics="true" pageId="30" pageNumber="137">
+<location id="CC176020EB47FFE1FBC443148D7AF500" LSID="urn:lsid:plazi:treatment:416187EDEB44FFE1FE06421489CFF5B8:CC176020EB47FFE1FBC443148D7AF500" box="[1140,1295,2115,2157]" municipality="Barrigada" name="Morinda" pageId="30" pageNumber="137">Morinda</location>
+</emphasis>
+<specimenCount id="DFCEFD72EB47FFE1FA9243148D21F500" box="[1314,1364,2115,2157]" pageId="30" pageNumber="137" type="generic">sp.</specimenCount>
+</taxonomicName>
+, 
+<location id="CC176020EB47FFE1FAC343148E75F500" LSID="urn:lsid:plazi:treatment:416187EDEB44FFE1FE06421489CFF5B8:CC176020EB47FFE1FAC343148E75F500" box="[1395,1536,2115,2157]" municipality="Barrigada" name="Swezey" pageId="30" pageNumber="137">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB47FFE1F9AC43148BA5F5CC" ID-GBIF-Occurrence="3332978317" collectingDate="1936-06-12" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="30" pageNumber="137" specimenCount-female="1" typeStatus="allotype">
+<typeStatus id="16738859EB47FFE1F9AC43148ED0F500" box="[1564,1701,2115,2157]" pageId="30" pageNumber="137">allotype</typeStatus>
+<specimenCount id="DFCEFD72EB47FFE1FE80432289DDF5CC" box="[304,424,2165,2209]" pageId="30" pageNumber="137" type="female">female</specimenCount>
+, 
+<location id="CC176020EB47FFE1FE7143228A03F5CC" LSID="urn:lsid:plazi:treatment:416187EDEB44FFE1FE06421489CFF5B8:CC176020EB47FFE1FE7143228A03F5CC" box="[449,630,2165,2209]" name="Barrigada" pageId="30" pageNumber="137">Barrigada</location>
+, 
+<date id="BD76103BEB47FFE1FD3E43228B55F5CC" box="[654,800,2165,2209]" pageId="30" pageNumber="137" value="2012-06">
+<collectingDate id="AD32E9D3EB47FFE1FD3E43228B55F5CC" box="[654,800,2165,2209]" pageId="30" pageNumber="137" value="2012-06">June 12</collectingDate>
+</date>
+, 
+<location id="CC176020EB47FFE1FC8C43228BBCF5CC" LSID="urn:lsid:plazi:treatment:416187EDEB44FFE1FE06421489CFF5B8:CC176020EB47FFE1FC8C43228BBCF5CC" box="[828,969,2165,2209]" name="Swezey" pageId="30" pageNumber="137">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="79A03CA6EB47FFE1FC55432289CFF5B8" ID-GBIF-Occurrence="3332978313" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="30" pageNumber="137" specimenCount-male="1" typeStatus="paratype">
+<typeStatus id="16738859EB47FFE1FC5543228CF5F5CC" box="[997,1152,2165,2209]" pageId="30" pageNumber="137">paratype</typeStatus>
+, 
+<specimenCount id="DFCEFD72EB47FFE1FB2A43228D4BF5CC" box="[1178,1342,2165,2209]" pageId="30" pageNumber="137" type="male">one male</specimenCount>
+, 
+<location id="CC176020EB47FFE1FAE843228E7FF5CC" LSID="urn:lsid:plazi:treatment:416187EDEB44FFE1FE06421489CFF5B8:CC176020EB47FFE1FAE843228E7FF5CC" box="[1368,1546,2165,2209]" name="Upi Trail" pageId="30" pageNumber="137">Upi Trail</location>
+, 
+<date id="BD76103BEB47FFE1F99543228EE8F5CC" box="[1573,1693,2165,2209]" pageId="30" pageNumber="137">
+<collectingDate id="AD32E9D3EB47FFE1F99543228EE8F5CC" box="[1573,1693,2165,2209]" pageId="30" pageNumber="137">May 5</collectingDate>
+</date>
+, 
+<location id="CC176020EB47FFE1FE9F43FC89C0F5B8" LSID="urn:lsid:plazi:treatment:416187EDEB44FFE1FE06421489CFF5B8:CC176020EB47FFE1FE9F43FC89C0F5B8" box="[303,437,2219,2261]" name="Swezey" pageId="30" pageNumber="137">Swezey</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

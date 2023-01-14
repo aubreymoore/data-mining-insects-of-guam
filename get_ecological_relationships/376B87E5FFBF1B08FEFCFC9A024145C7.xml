@@ -1,0 +1,81 @@
+<document id="6DA5D9E22AAD795141ACA7295A46C1B7" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBF1B08FEFCFC9A024145C7" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Tachys" docType="treatment" docVersion="11" lastPageNumber="151" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="151" updateTime="1671336034494" updateUser="annettekang">
+<mods:mods id="371A05FD517656DD46D594176ADC9DDC" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="30918B6EC82AD6FFEFF3271F36025A17">
+<mods:title id="A4A910D1B16A8456FF09D7ED6432E213">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="9E64B2AC826B65C63729582AAFCAECBA" type="personal">
+<mods:role id="7CB4289F539A17AD69C8C629B3E7A6F7">
+<mods:roleTerm id="4D741ADF70A21E2A8EB8090D2631AD9E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2228763C8062F06E4FD769B7C31D5610">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="67CCC964F1F7675705D024C4FB050A98">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="5563936A105C78EF91CB23412699729E">text</mods:typeOfResource>
+<mods:relatedItem id="9721B0B81A45119175FE60E989803A1B" type="host">
+<mods:originInfo id="7658C100002E6ABC0D6BC806B2438F01">
+<mods:dateIssued id="E08375C8F6D176E3C9447455D6C6D677">1942</mods:dateIssued>
+<mods:dateOther id="DA1836A6E06AD8C3E8BE5F81A4E9AF18" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="1BFB6D55AB886403365473129F281099">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="D4C019232A5F5432F3B8DCE7853E3C90">
+<mods:placeTerm id="C90CFE7291B63E6543F44C9F792C3F2F">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="58CBE443C3034104118A71778929F22D">
+<mods:title id="4111D70EC14B1C89A47CA98F0757CF48">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="4CC5554F34CEAF46DA9B549DA04B62FD">
+<mods:extent id="88889F99ADA0C5743A84A57571B9DB6C" unit="page">
+<mods:start id="F864231669A94E12E8211EF27AD5028C">150</mods:start>
+<mods:end id="403B1AB8BEC1CC69D7AA222AA043EE1E">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="2A071090EDD24D377A5E14FE259AD302">book chapter</mods:classification>
+<mods:identifier id="7753DE0E103A3DCA8688B15FEEDCB4DD" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="F596271004D3429D6A84FEE314671E39" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="5F44111ABE68923570C6518B543CA88B" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBF1B08FEFCFC9A024145C7" ID-DOI="http://doi.org/10.5281/zenodo.5206431" ID-GBIF-Taxon="184415219" ID-Zenodo-Dep="5206431" LSID="urn:lsid:plazi:treatment:376B87E5FFBF1B08FEFCFC9A024145C7" httpUri="http://treatment.plazi.org/id/376B87E5FFBF1B08FEFCFC9A024145C7" lastPageNumber="151" pageId="1" pageNumber="151">
+<subSubSection id="F7D86578FFBF1B08FEFCFC9A05784561" box="[294,638,815,855]" pageId="1" pageNumber="151" type="nomenclature">
+<paragraph id="BF7D36F3FFBF1B08FEFCFC9A05784561" blockId="1.[294,1690,815,1009]" box="[294,638,815,855]" pageId="1" pageNumber="151">
+<heading id="E435819FFFBF1B08FEFCFC9A05784561" box="[294,638,815,855]" fontSize="11" level="2" pageId="1" pageNumber="151" reason="2">
+4. 
+<taxonomicName id="78C24D70FFBF1B08FEBFFC9A06E14561" box="[357,487,815,855]" class="Insecta" family="Carabidae" genus="Tachys" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="151" phylum="Arthropoda" rank="genus">
+<emphasis id="8DB6EAE1FFBF1B08FEBFFC9A06E14561" bold="true" box="[357,487,815,855]" pageId="1" pageNumber="151">Tachys</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBF1B08FEBDFCD4024145C7" pageId="1" pageNumber="151" type="materials_examined">
+<paragraph id="BF7D36F3FFBF1B08FEBDFCD4024145C7" blockId="1.[294,1690,815,1009]" pageId="1" pageNumber="151">
+<materialsCitation id="0FAA3CAEFFBF1B08FEBDFCD4024445C7" ID-GBIF-Occurrence="3334692489" collectedFrom="determined as Tachys sp. by E. B. Britton, but was lost off the pin point on the return trip from the British Museum" collectingDate="1936-05-17" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="1" pageNumber="151" specimenCount="1">
+<collectingMunicipality id="5F19AC89FFBF1B08FEBDFCD406A945BC" box="[359,431,865,906]" pageId="1" pageNumber="151">One</collectingMunicipality>
+<specimenCount id="A9C4FD7AFFBF1B08FE1CFCD4056245BC" box="[454,612,865,906]" pageId="1" pageNumber="151" type="generic">specimen</specimenCount>
+of this tiny carabid was collected at 
+<location id="BA1D6028FFBF1B08FAF5FCD402E045BC" LSID="urn:lsid:plazi:treatment:376B87E5FFBF1B08FEFCFC9A024145C7:BA1D6028FFBF1B08FAF5FCD402E045BC" box="[1327,1510,865,906]" municipality="One" name="Machanao" pageId="1" pageNumber="151">Machanao</location>
+, 
+<date id="CB7C1033FFBF1B08F9D9FCD4019445BC" box="[1539,1682,865,906]" pageId="1" pageNumber="151" value="2017-05">
+<collectingDate id="DB38E9DBFFBF1B08F9D9FCD4019445BC" box="[1539,1682,865,906]" pageId="1" pageNumber="151" value="2017-05">May 17</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFBF1B08FEF3FC2606BF4588" box="[297,441,915,958]" pageId="1" pageNumber="151">Usinger</collectorName>
+. 
+<location id="BA1D6028FFBF1B08FE04FC2606FD4588" LSID="urn:lsid:plazi:treatment:376B87E5FFBF1B08FEFCFC9A024145C7:BA1D6028FFBF1B08FE04FC2606FD4588" box="[478,507,915,958]" municipality="One" name="It" pageId="1" pageNumber="151">It</location>
+was determined as 
+<taxonomicName id="78C24D70FFBF1B08FCB1FC2603204588" box="[875,1062,915,958]" class="Insecta" family="Carabidae" genus="Tachys" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="151" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="8DB6EAE1FFBF1B08FCB1FC2604EE4588" box="[875,1000,915,958]" italics="true" pageId="1" pageNumber="151">
+<location id="BA1D6028FFBF1B08FCB1FC2604EE4588" LSID="urn:lsid:plazi:treatment:376B87E5FFBF1B08FEFCFC9A024145C7:BA1D6028FFBF1B08FCB1FC2604EE4588" box="[875,1000,915,958]" municipality="One" name="Tachys" pageId="1" pageNumber="151">Tachys</location>
+</emphasis>
+<specimenCount id="A9C4FD7AFFBF1B08FC20FC2603204588" box="[1018,1062,915,958]" pageId="1" pageNumber="151" type="generic">sp.</specimenCount>
+</taxonomicName>
+by 
+<collectorName id="12375325FFBF1B08FBAFFC26026E4588" box="[1141,1384,915,958]" pageId="1" pageNumber="151">E. B. Britton</collectorName>
+, but was lost off the pin point on the return trip from the 
+<location id="BA1D6028FFBF1B08FBC7FC7D024445C7" LSID="urn:lsid:plazi:treatment:376B87E5FFBF1B08FEFCFC9A024145C7:BA1D6028FFBF1B08FBC7FC7D024445C7" box="[1053,1346,968,1009]" municipality="One" name="British Museum" pageId="1" pageNumber="151">British Museum</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

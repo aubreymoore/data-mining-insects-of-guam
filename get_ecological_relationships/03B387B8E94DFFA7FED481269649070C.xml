@@ -1,0 +1,118 @@
+<document id="94F18351C67988BBC48B1962747A1FE2" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E94DFFA7FED481269649070C" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Bombotelia jocosatrix" docType="treatment" docVersion="19" lastPageNumber="169" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="169" updateTime="1669650926905" updateUser="annettekang">
+<mods:mods id="1ADBF107C952F52E992D1C2DB28DA757" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="4B65865355FB254BBE0B2EA1E55B96F3">
+<mods:title id="42FC7D6019191BCCF6EFCD632C6936BF">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="6B3BE6992DFDC9BC3F70108C6A19C436" type="personal">
+<mods:role id="C1F4A8F30347279F4DAE1700088C2109">
+<mods:roleTerm id="C1AB474C68E5A0FE566108DD9E9AD707">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B747119A47621F2FA707BA54B2F371A9">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="54E5B7FCBED7016FB349FBA5BDD002F7">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9E002CFB31EB39B202DECE2173DFE6C1">text</mods:typeOfResource>
+<mods:relatedItem id="DD5963780FB796B4058D095D573D7C65" type="host">
+<mods:originInfo id="3160BC1C0589FD343311770285AC9CA3">
+<mods:dateIssued id="6000E5579FC1F36804FC0EE5BD630628">1946</mods:dateIssued>
+<mods:dateOther id="0F0A8826475B6B0A48EAC8479C16D8E3" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="32AD5B3FF7D02798018B687B2E1C7D48">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="7FB21D61FF6A779D8D63D242FDDB0202">
+<mods:placeTerm id="F36286D39A3D391E124E9CA3F5CC0FD5">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="0F5779613E444A8B3D19230D91C810A4">
+<mods:title id="3BA3955DFD739AC53CBDD4060E7C0BCD">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="DDFAE16B78B3041881183EBF80210767">
+<mods:extent id="18D8622C7D12FF472D334342FBDD7310" unit="page">
+<mods:start id="D1DA56098AA204F65D5ED41A49763E41">163</mods:start>
+<mods:end id="92A848A532CC251F59BEEBADE529C174">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="143B58D5721FF55E8E22B2A673D88E7B">book chapter</mods:classification>
+<mods:identifier id="C85DDB04E7D2782EA82258152DE791E4" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="81A3F977138308808CEAC7492F6EAC3C" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="6E4C12D58FF3A631F0343A670E9C0F95" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E94DFFA7FED481269649070C" ID-DOI="http://doi.org/10.5281/zenodo.5158408" ID-GBIF-Taxon="183926943" ID-Zenodo-Dep="5158408" LSID="urn:lsid:plazi:treatment:03B387B8E94DFFA7FED481269649070C" httpUri="http://treatment.plazi.org/id/03B387B8E94DFFA7FED481269649070C" lastPageNumber="169" pageId="6" pageNumber="169">
+<subSubSection id="C3006525E94DFFA7FED4812691BC000B" box="[283,970,795,836]" pageId="6" pageNumber="169" type="nomenclature">
+<paragraph id="8BA536AEE94DFFA7FED4812691BC000B" blockId="6.[283,1682,795,1091]" box="[283,970,795,836]" pageId="6" pageNumber="169">
+<heading id="D0ED81C2E94DFFA7FED4812691BC000B" box="[283,970,795,836]" fontSize="8" level="2" pageId="6" pageNumber="169" reason="4">
+<emphasis id="B96EEABCE94DFFA7FED48126933D000B" bold="true" box="[283,331,795,836]" pageId="6" pageNumber="169">10.</emphasis>
+<taxonomicName id="4C1A4D2DE94DFFA7FEA2812691B3000B" authority="(Guenee)" baseAuthorityName="Guenee" baseAuthorityYear="1852" box="[365,965,795,836]" class="Insecta" family="Noctuidae" genus="Bombotelia" kingdom="Animalia" order="Lepidoptera" pageId="6" pageNumber="169" phylum="Arthropoda" rank="species" species="jocosatrix">
+<emphasis id="B96EEABCE94DFFA7FEA281269173000B" bold="true" box="[365,773,795,836]" pageId="6" pageNumber="169">Bombotelia jocosatrix</emphasis>
+(Guenee)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94DFFA7FE94817094E600E5" pageId="6" pageNumber="169" type="description">
+<paragraph id="8BA536AEE94DFFA7FE94817097CC0037" blockId="6.[283,1682,795,1091]" box="[347,1466,845,888]" pageId="6" pageNumber="169">
+<treatmentCitationGroup id="AB0A1180E94DFFA7FE94817097CC0037" box="[347,1466,845,888]" pageId="6" pageNumber="169">
+<bibCitation id="5E303EC2E94DFFA7FE94817097CC0037" author="Guenee" box="[347,1466,845,888]" pageId="6" pageNumber="169" pagination="304" part="2" refId="ref3340" title="Spec. Gen." type="journal article" year="1852">
+<treatmentCitation id="0ABB10BFE94DFFA7FE94817097C30037" author="Guenée" box="[347,1461,845,888]" page="304" pageId="6" pageNumber="169" year="1852">
+<emphasis id="B96EEABCE94DFFA7FE94817090920037" box="[347,740,845,888]" italics="true" pageId="6" pageNumber="169">Penicillaria jocosatrix</emphasis>
+<author id="53A7DE4BE94DFFA7FD3B8170910E0037" box="[756,888,845,888]" pageId="6" pageNumber="169">Guenee</author>
+, 
+<title id="F91EDD98E94DFFA7FC5F817096390037" box="[912,1103,845,888]" pageId="6" pageNumber="169">Spec. Gen.</title>
+, Noct. 
+<emphasis id="B96EEABCE94DFFA7FB198170969E0037" bold="true" box="[1238,1256,845,888]" pageId="6" pageNumber="169">
+<part id="FFBE9C33E94DFFA7FB19817096920037" box="[1238,1252,845,888]" pageId="6" pageNumber="169" type="volume">2</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE94DFFA7FAC78170973E0037" box="[1288,1352,845,888]" pageId="6" pageNumber="169" type="pagination">304</pagination>
+, 
+<year id="FFB277FDE94DFFA7FAAD817097C30037" box="[1378,1461,845,888]" pageId="6" pageNumber="169">1852</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE94DFFA7FE9681BD94E600E5" blockId="6.[283,1682,795,1091]" box="[345,1680,896,938]" pageId="6" pageNumber="169">
+<treatmentCitationGroup id="AB0A1180E94DFFA7FE9681BD94E600E5" box="[345,1680,896,938]" pageId="6" pageNumber="169">
+<bibCitation id="5E303EC2E94DFFA7FE9681BD94E600E5" author="Hampson" box="[345,1680,896,938]" pageId="6" pageNumber="169" pagination="11" part="9" refId="ref3357" title="Cat. Lep. Phalaenae" type="book" year="1852">
+<emphasis id="B96EEABCE94DFFA7FE9681BD909B00E5" box="[345,749,896,938]" italics="true" pageId="6" pageNumber="169">Bombotelia jocosatrix,</emphasis>
+<treatmentCitation id="0ABB10BFE94DFFA7FCCE81BD94FD00E5" author="Hampson" box="[769,1675,896,938]" page="11" pageId="6" pageNumber="169" year="1912">
+<author id="53A7DE4BE94DFFA7FCCE81BD91D800E5" box="[769,942,896,938]" pageId="6" pageNumber="169">Hampson</author>
+, 
+<title id="F91EDD98E94DFFA7FC0781BD974200E5" box="[968,1332,896,938]" pageId="6" pageNumber="169">Cat. Lep. Phalaenae</title>
+<emphasis id="B96EEABCE94DFFA7FA8981BD971C00E5" bold="true" box="[1350,1386,896,938]" pageId="6" pageNumber="169">
+<part id="FFBE9C33E94DFFA7FA8981BD971500E5" box="[1350,1379,896,938]" pageId="6" pageNumber="169">9</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE94DFFA7FAB481BD97D400E5" box="[1403,1442,896,938]" pageId="6" pageNumber="169">11</pagination>
+, fig. 6, 1912
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94DFFA7FE93818F9649070C" pageId="6" pageNumber="169" type="description">
+<paragraph id="8BA536AEE94DFFA7FE93818F9649070C" blockId="6.[283,1682,795,1091]" pageId="6" pageNumber="169">
+This moth is known in 
+<collectingCountry id="F30D763EE94DFFA7FCCA818F91150092" box="[773,867,946,989]" name="India" pageId="6" pageNumber="169">India</collectingCountry>
+, Ceylon, Java, 
+<collectingCountry id="F30D763EE94DFFA7FBB6818F97EA0092" box="[1145,1436,946,989]" isEnumeration="true" pageId="6" pageNumber="169">Philippines, Fiji</collectingCountry>
+, and Queensland. 
+<materialsCitation id="3B723CF3E94DFFA7FE5F81DB964C070C" ID-GBIF-Occurrence="3913652416" collectedFrom="reared from a green caterpillar on mango" collectingDate="1936-06-08" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="6" pageNumber="169" specimenCount="1">
+Only 
+<specimenCount id="9D1CFD27E94DFFA7FE3581DB909E075F" box="[506,744,998,1040]" pageId="6" pageNumber="169" type="generic">one specimen</specimenCount>
+was obtained in 
+<collectingCountry id="F30D763EE94DFFA7FBE481DB96E0075F" box="[1067,1174,998,1040]" name="Guam" pageId="6" pageNumber="169">Guam</collectingCountry>
+, reared from a green caterpillar on mango, 
+<location id="8EC56075E94DFFA7FDAE8624908D070C" LSID="urn:lsid:plazi:treatment:03B387B8E94DFFA7FED481269649070C:8EC56075E94DFFA7FDAE8624908D070C" box="[609,763,1049,1091]" pageId="6" pageNumber="169">Inarajan</location>
+, 
+<date id="FFA4106EE94DFFA7FCD8862491E2070C" box="[791,916,1049,1091]" pageId="6" pageNumber="169">
+<collectingDate id="EFE0E986E94DFFA7FCD8862491E2070C" box="[791,916,1049,1091]" pageId="6" pageNumber="169">June 8</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E94DFFA7FC7D8624964C070C" box="[946,1082,1049,1091]" pageId="6" pageNumber="169">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

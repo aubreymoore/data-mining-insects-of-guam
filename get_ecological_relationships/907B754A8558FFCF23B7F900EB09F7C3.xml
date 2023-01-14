@@ -1,0 +1,134 @@
+<document id="334B5DD92FA75BA1960DDC619F10F259" ID-DOI="http://doi.org/10.5281/zenodo.5156759" ID-GBIF-Dataset="6e65e7d3-7a72-4da4-9739-5e3814593490" ID-Zenodo-Dep="5156759" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628022238476" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="907B754A8558FFCF23B7F900EB09F7C3" docLanguage="en" docName="InsectsOfGuamII.189.221-227.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Ischiogonus palliatus Wesmael 1838" docType="treatment" docVersion="12" lastPageNumber="226" masterDocId="6C420D32855DFFCA221EFFCCE940FF9E" masterDocTitle="Ichneumonidae, Evaniidae, And Braconidae Of Guam" masterLastPageNumber="227" masterPageNumber="221" pageNumber="226" updateTime="1660588485465" updateUser="annettekang">
+<mods:mods id="E56CBF83B740D10AF9E7B611A5E263ED" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="646DB57FA6D5D384DA8307A250D8E9BA">
+<mods:title id="DCC35572E460DD3E4DAB9F1425147CB1">Ichneumonidae, Evaniidae, And Braconidae Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="81646C6B0BBF9D85E0D962513E29EF67" type="personal">
+<mods:role id="0619C9B1C10F88D42D5CD5226800D405">
+<mods:roleTerm id="97EB91AA940E6198A419565E66A67F97">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B2843E998698FD09B483320B6392F342">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="64C64706CD5BC3DB9985DC7311573445">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="F1EEBBF64F58F2A9E66D687797B923C3">text</mods:typeOfResource>
+<mods:relatedItem id="3FFA9351BDD36A5A65219199C39D37BC" type="host">
+<mods:originInfo id="2F2FBD23DBC5F4EDF6288082475F8EB5">
+<mods:dateIssued id="C9FC948CB0ED3F56EA5BC709116CB7ED">1946</mods:dateIssued>
+<mods:dateOther id="378DB789F2156D6DBD2CEEF9E038322B" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="7ED0D2FADD3219142DF85D1943EB137F">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="72BD7A7D2568C20D75BE383B2F618478">
+<mods:placeTerm id="9423B60F501C302FBE2D7A4F1356B9B3">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="504F8984119A0DF00E004FC03FD4DEC9">
+<mods:title id="C74C5C4ACD080D6E95EB6F9BF145F5F8">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="2F91D20258973E72A8BE2543FFB60808">
+<mods:extent id="005456F08C3BD81BB0655AB3A0392056" unit="page">
+<mods:start id="46EB5D41EE509D2220EB1091096B7900">221</mods:start>
+<mods:end id="EEDE0AA806FD2DE6C1C057931586EB92">227</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="4FA2DFE3803B0FC0A4CA0CF92D9032C4">book chapter</mods:classification>
+<mods:identifier id="0612B6043DC6ED3ECA07521FE28BCA15" type="DOI">http://doi.org/10.5281/zenodo.5156759</mods:identifier>
+<mods:identifier id="FB2147BA056E9744BDDAF5649AB9405D" type="GBIF-Dataset">6e65e7d3-7a72-4da4-9739-5e3814593490</mods:identifier>
+<mods:identifier id="7C725EE025809B40773FC8EFA246A2A0" type="Zenodo-Dep">5156759</mods:identifier>
+</mods:mods>
+<treatment id="907B754A8558FFCF23B7F900EB09F7C3" ID-DOI="http://doi.org/10.5281/zenodo.5499001" ID-GBIF-Taxon="183969199" ID-Zenodo-Dep="5499001" LSID="urn:lsid:plazi:treatment:907B754A8558FFCF23B7F900EB09F7C3" httpUri="http://treatment.plazi.org/id/907B754A8558FFCF23B7F900EB09F7C3" lastPageNumber="226" pageId="5" pageNumber="226">
+<subSubSection id="50C897D78558FFCF23B7F900ED26F968" box="[425,1126,1740,1782]" pageId="5" pageNumber="226" type="nomenclature">
+<paragraph id="186DC45C8558FFCF23B7F900ED26F968" blockId="5.[424,1821,1740,2141]" box="[425,1126,1740,1782]" pageId="5" pageNumber="226">
+<heading id="432573308558FFCF23B7F900ED26F968" box="[425,1126,1740,1782]" fontSize="8" level="2" pageId="5" pageNumber="226" reason="4">
+<emphasis id="2AA6184E8558FFCF23B7F900EA3FF968" bold="true" box="[425,895,1740,1782]" pageId="5" pageNumber="226">
+12. 
+<taxonomicName id="DFD2BFDF8558FFCF23E7F900ED26F968" authorityName="Wesmael" authorityYear="1838" box="[505,1126,1740,1782]" class="Insecta" family="Braconidae" genus="Ischiogonus" kingdom="Animalia" order="Hymenoptera" pageId="5" pageNumber="226" phylum="Arthropoda" rank="species" species="palliatus">Ischiogonus palliatus (Cameron).</taxonomicName>
+</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D78558FFCF23F8F933EF8AF8C2" pageId="5" pageNumber="226" type="reference_group">
+<paragraph id="186DC45C8558FFCF23F8F933EFFCF8B7" blockId="5.[424,1821,1740,2141]" box="[486,1724,1791,1833]" pageId="5" pageNumber="226">
+<treatmentCitationGroup id="38C2E3728558FFCF23F8F933EFFCF8B7" box="[486,1724,1791,1833]" pageId="5" pageNumber="226">
+<treatmentCitation id="9973E24D8558FFCF23F8F933EFFCF8B7" author="Cameron" box="[486,1724,1791,1833]" page="560" pageId="5" pageNumber="226" year="1881">
+<taxonomicName id="DFD2BFDF8558FFCF23F8F933ED55F8B7" authority="Cameron" authorityName="Cameron" box="[486,1045,1791,1833]" class="Insecta" family="Braconidae" genus="Monolexis" kingdom="Animalia" order="Hymenoptera" pageId="5" pageNumber="226" phylum="Arthropoda" rank="species" species="palliatus">
+<emphasis id="2AA6184E8558FFCF23F8F933EBE0F8B7" box="[486,672,1791,1833]" italics="true" pageId="5" pageNumber="226">Monolexis</emphasis>
+<emphasis id="2AA6184E8558FFCF20CEF933EA24F8B7" box="[720,868,1791,1833]" italics="true" pageId="5" pageNumber="226">palliatus</emphasis>
+<bibCitation id="CDF8CC308558FFCF216DF933EFFCF8B7" author="Cameron" box="[883,1724,1791,1833]" journalOrPublisher="Ent. Soc. London, Trans" pageId="5" pageNumber="226" pagination="560" refId="ref3123" type="journal article" year="1881">
+<author id="C06F2CB98558FFCF216DF933ED55F8B7" box="[883,1045,1791,1833]" pageId="5" pageNumber="226">Cameron</author>
+, 
+<journalOrPublisher id="C213CE908558FFCF2634F933ECAEF8B7" box="[1066,1518,1791,1833]" pageId="5" pageNumber="226">Ent. Soc. London, Trans</journalOrPublisher>
+., 
+<pagination id="211B3AA88558FFCF2412F933EF0CF8B7" box="[1548,1612,1791,1833]" pageId="5" pageNumber="226">560</pagination>
+, 
+<year id="6C7A850F8558FFCF247AF933EFF7F8B7" box="[1636,1719,1791,1833]" pageId="5" pageNumber="226">1881</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="186DC45C8558FFCF23F8F8FEEF8AF8C2" blockId="5.[424,1821,1740,2141]" box="[486,1738,1842,1884]" pageId="5" pageNumber="226">
+<treatmentCitationGroup id="38C2E3728558FFCF23F8F8FEEF8AF8C2" box="[486,1738,1842,1884]" pageId="5" pageNumber="226">
+<treatmentCitation id="9973E24D8558FFCF23F8F8FEEF8AF8C2" author="Ashmead" box="[486,1738,1842,1884]" page="362" pageId="5" pageNumber="226" year="1901">
+<taxonomicName id="DFD2BFDF8558FFCF23F8F8FEED61F8C2" authority="Ashmead" authorityName="Ashmead" authorityYear="1838" box="[486,1057,1842,1884]" class="Insecta" family="Braconidae" genus="Ischiogonus" kingdom="Animalia" order="Hymenoptera" pageId="5" pageNumber="226" phylum="Arthropoda" rank="species" species="palliatus">
+<emphasis id="2AA6184E8558FFCF23F8F8FEEA26F8C2" box="[486,870,1842,1884]" italics="true" pageId="5" pageNumber="226">Ischiogonus palliatus,</emphasis>
+<bibCitation id="CDF8CC308558FFCF2164F8FEEF8AF8C2" author="Ashmead" box="[890,1738,1842,1884]" journalOrPublisher="Fauna Hawaiiensis" pageId="5" pageNumber="226" pagination="362" part="1" refId="ref3141" type="journal article" year="1901">
+<author id="C06F2CB98558FFCF2164F8FEED61F8C2" box="[890,1057,1842,1884]" pageId="5" pageNumber="226">Ashmead</author>
+, 
+<journalOrPublisher id="C213CE908558FFCF2622F8FEECD3F8C2" box="[1084,1427,1842,1884]" pageId="5" pageNumber="226">Fauna Hawaiiensis</journalOrPublisher>
+<part id="6C766EC18558FFCF27B7F8FEECFBF8C2" box="[1449,1467,1842,1884]" pageId="5" pageNumber="226" type="volume">1</part>
+(
+<part id="6C766EC18558FFCF27D5F8FEECA3F8C2" box="[1483,1507,1842,1884]" pageId="5" pageNumber="226" type="issue">3</part>
+): 
+<pagination id="211B3AA88558FFCF2405F8FEEF15F8C2" box="[1563,1621,1842,1884]" pageId="5" pageNumber="226" type="pagination">362</pagination>
+, 
+<year id="6C7A850F8558FFCF246CF8FEEF85F8C2" box="[1650,1733,1842,1884]" pageId="5" pageNumber="226">1901</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D78558FFCF23F9F8AAEB74F867" pageId="5" pageNumber="226" type="materials_examined">
+<paragraph id="186DC45C8558FFCF23F9F8AAEB74F867" blockId="5.[424,1821,1740,2141]" pageId="5" pageNumber="226">
+<materialsCitation id="A8BACE018558FFCF23F9F8AAEAB2F80E" ID-GBIF-Occurrence="3332362309" box="[487,1010,1894,1936]" collectingDate="1936-06-04" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="5" pageNumber="226">
+<location id="1D0D92878558FFCF23F9F8AAEBDEF80E" LSID="urn:lsid:plazi:treatment:907B754A8558FFCF23B7F900EB09F7C3:1D0D92878558FFCF23F9F8AAEBDEF80E" box="[487,670,1894,1936]" name="Machanao" pageId="5" pageNumber="226">Machanao</location>
+, 
+<date id="6C6CE29C8558FFCF20A7F8AAEA76F80E" box="[697,822,1894,1936]" pageId="5" pageNumber="226">
+<collectingDate id="7C281B748558FFCF20A7F8AAEA76F80E" box="[697,822,1894,1936]" pageId="5" pageNumber="226">June 4</collectingDate>
+</date>
+, 
+<location id="1D0D92878558FFCF214AF8AAEAABF80E" LSID="urn:lsid:plazi:treatment:907B754A8558FFCF23B7F900EB09F7C3:1D0D92878558FFCF214AF8AAEAABF80E" box="[852,1003,1894,1936]" name="Usinger" pageId="5" pageNumber="226">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="A8BACE018558FFCF2617F8AAEB74F867" ID-GBIF-Occurrence="3332362333" collectedFrom="reared from cocoons found in cerambycid burrows in dead trunk of Hibiscus tiliaceus" collectingDate="1936-06-12" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="5" pageNumber="226" specimenCount="4">
+<collectingMunicipality id="F8095E268558FFCF2617F8AAEDFCF80E" box="[1033,1212,1894,1936]" pageId="5" pageNumber="226">Barrigada</collectingMunicipality>
+, 
+<date id="6C6CE29C8558FFCF26C6F8AAEC2BF80E" box="[1240,1387,1894,1936]" pageId="5" pageNumber="226" value="2012-06">
+<collectingDate id="7C281B748558FFCF26C6F8AAEC2BF80E" box="[1240,1387,1894,1936]" pageId="5" pageNumber="226" value="2012-06">June 12</collectingDate>
+</date>
+, 
+<specimenCount id="0ED40FD58558FFCF2795F8AAEFD8F80E" box="[1419,1688,1894,1936]" pageId="5" pageNumber="226" type="generic">four specimens</specimenCount>
+reared from cocoons found in cerambycid burrows in dead trunk of 
+<taxonomicName id="DFD2BFDF8558FFCF27FEF855EB74F867" authority=", Swezey." class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="5" pageNumber="226" phylum="Tracheophyta" rank="species" species="tiliaceus">
+<emphasis id="2AA6184E8558FFCF27FEF855EE5DF85D" box="[1504,1821,1945,1987]" italics="true" pageId="5" pageNumber="226">
+<location id="1D0D92878558FFCF27FEF855EF3AF85D" LSID="urn:lsid:plazi:treatment:907B754A8558FFCF23B7F900EB09F7C3:1D0D92878558FFCF27FEF855EF3AF85D" box="[1504,1658,1945,1987]" municipality="Barrigada" name="Hibiscus" pageId="5" pageNumber="226">Hibiscus</location>
+tiliaceus,
+</emphasis>
+<collectorName id="B527A18A8558FFCF23B6F803EB74F867" box="[424,564,1999,2041]" pageId="5" pageNumber="226">Swezey.</collectorName>
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D78558FFCF23F9F833EB09F7C3" pageId="5" pageNumber="226" type="discussion">
+<paragraph id="186DC45C8558FFCF23F9F833EB09F7C3" blockId="5.[424,1821,1740,2141]" pageId="5" pageNumber="226">
+This species was also described from Hawaii. We procured 
+<specimenCount id="0ED40FD58558FFCF243DF833EE5DF7B7" box="[1571,1821,2047,2089]" pageId="5" pageNumber="226" type="generic">five specimens</specimenCount>
+in 
+<collectingCountry id="60C584CC8558FFCF23C6F7F9EB04F7C3" box="[472,580,2101,2141]" name="Guam" pageId="5" pageNumber="226">Guam</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

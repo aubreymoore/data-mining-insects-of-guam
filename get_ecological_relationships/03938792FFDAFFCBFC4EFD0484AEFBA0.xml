@@ -1,0 +1,51 @@
+<document id="CFB9F8B9509C8472E4C6C4CE90B80EF8" ID-DOI="http://doi.org/10.5281/zenodo.5164064" ID-GBIF-Dataset="8ddfacbb-c42b-4385-b70b-ea5bd759c377" ID-Zenodo-Dep="5164064" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628020838575" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03938792FFDAFFCBFC4EFD0484AEFBA0" docLanguage="en" docName="InsectsOfGuamII.189.149-156.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Araeopidae Metcalf 1938" docType="treatment" docVersion="7" lastPageNumber="150" masterDocId="FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9" masterDocTitle="Notes On Some Fulgoroidea Of Guam" masterLastPageNumber="156" masterPageNumber="149" pageNumber="150" updateTime="1664477763192" updateUser="annettekang">
+<mods:mods id="4F7504C8201EB7A9654C2F9D3DF8FF4D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="03B8F17D8552E30CF280A7B9015C1C80">
+<mods:title id="4C42533498062F3069E88898FE4154AF">Notes On Some Fulgoroidea Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="758FFDE8BF8806923476E267F81670D4" type="personal">
+<mods:role id="AF0B1A87B5DC99DC5A86B5BE53676D3E">
+<mods:roleTerm id="E87DCD405A72ACAC397863D6376DF2CE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="673CADCDFCC2CED4ED24570EB16AB11C">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="90434AE9CC01122470F52F13FEA058DC">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="3B5D1876E2387D13877B06583ED5E9CF">text</mods:typeOfResource>
+<mods:relatedItem id="630BD61A125C72D6AAA8B8B756944413" type="host">
+<mods:originInfo id="2BD8B2573A4009B6A2246D6AB5BB70A7">
+<mods:dateIssued id="0D2E2C505A82D0BEE05608AD0BF9E171">1946</mods:dateIssued>
+<mods:dateOther id="5CFBFCD61FC2D609722593B5B243FD20" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="9EA61D68D9C5D74920771BE2B57CA7A9">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="BD265A34165766585DFE0440FBC11C53">
+<mods:placeTerm id="C740BA5E371473E5BEDB46CEF3165A73">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="DC376FFE625B2288031FAD0F95729A64">
+<mods:title id="B67CEFB0211FFCE0303C99EC5364BC56">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="A921459FD45AA972D0DD98E4A3C066F3">
+<mods:extent id="F41EBC62EE4BFF8035CC890E8C1E9806" unit="page">
+<mods:start id="0AB7701B84CFEFFF7DD0E46D731CBD98">149</mods:start>
+<mods:end id="C67A76A963780E663DAD569AF2990A38">156</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="88B6DBE83D33A50BDCAD8FCB2D719B59">book chapter</mods:classification>
+<mods:identifier id="FB6BCF3AFEA129311D6403A861633501" type="DOI">http://doi.org/10.5281/zenodo.5164064</mods:identifier>
+<mods:identifier id="79F605F08B6C930ED5900D8A0B28CA30" type="GBIF-Dataset">8ddfacbb-c42b-4385-b70b-ea5bd759c377</mods:identifier>
+<mods:identifier id="290C843A624C96678B43C606F7EFC5BB" type="Zenodo-Dep">5164064</mods:identifier>
+</mods:mods>
+<treatment id="03938792FFDAFFCBFC4EFD0484AEFBA0" ID-DOI="http://doi.org/10.5281/zenodo.5167448" ID-GBIF-Taxon="183925068" ID-Zenodo-Dep="5167448" LSID="urn:lsid:plazi:treatment:03938792FFDAFFCBFC4EFD0484AEFBA0" httpUri="http://treatment.plazi.org/id/03938792FFDAFFCBFC4EFD0484AEFBA0" lastPageNumber="150" pageId="1" pageNumber="150">
+<subSubSection id="C320650FFFDAFFCBFC4EFD048326FD1D" box="[944,1367,713,756]" pageId="1" pageNumber="150" type="nomenclature">
+<paragraph id="8B853684FFDAFFCBFC4EFD048326FD1D" blockId="1.[944,1367,713,756]" box="[944,1367,713,756]" pageId="1" pageNumber="150">
+<heading id="D0CD81E8FFDAFFCBFC4EFD048326FD1D" box="[944,1367,713,756]" centered="true" fontSize="8" level="2" pageId="1" pageNumber="150" reason="3">
+<emphasis id="B94EEA96FFDAFFCBFC4EFD048231FD1D" bold="true" box="[944,1088,713,756]" pageId="1" pageNumber="150">FAMILY</emphasis>
+<taxonomicName id="4C3A4D07FFDAFFCBFBACFD048326FD1D" authorityName="Metcalf" authorityYear="1938" box="[1106,1367,713,756]" class="Insecta" family="Araeopidae" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="150" phylum="Arthropoda" rank="family">ARAEOPIDAE</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDAFFCBFDFDFCD884AEFBA0" pageId="1" pageNumber="150" type="discussion">
+<paragraph id="8B853684FFDAFFCBFDFDFCD884AEFBA0" blockId="1.[451,1850,789,1097]" pageId="1" pageNumber="150">The leafhoppers of this family which we collected are apparently all widely distributed immigrants. The majority of them are found on grasses. A few which may be rated as pests are confined to particular plants such as sugar cane, corn, rice, and taro, each of which has a single species attached to it. The species on cane, however, was rare, and never found in sufficient numbers to be injurious.</paragraph>
+</subSubSection>
+</treatment>
+</document>

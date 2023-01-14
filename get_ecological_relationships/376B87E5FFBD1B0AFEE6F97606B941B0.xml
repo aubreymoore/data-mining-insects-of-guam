@@ -1,0 +1,101 @@
+<document id="219C1AA4E37560623FA2840635FEFF77" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBD1B0AFEE6F97606B941B0" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Philonthus discoideus Gravenhorst" docType="treatment" docVersion="19" lastPageNumber="153" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="153" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="CBFE128B03B754A66B9956C78441CEF3" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="E36CBF79994A33783208E30A7D359902">
+<mods:title id="A85D7B5D4A9C103C3EF07EB8F8AF7E55">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="7A05BA065DA5BC221F7655396D3BEB2E" type="personal">
+<mods:role id="1658D7A431B2A3F0B132488EE26857D3">
+<mods:roleTerm id="B20A6D9037C52658C1C385D771AAD120">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="34AA23F1F7983EDA8AF2715B90D79BF1">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="87428BE4BB5218823DD63775F1A23138">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="8E1F8B2CD0847B09DDCFE0F21994E3FD">text</mods:typeOfResource>
+<mods:relatedItem id="1892479DE8FC0C2F424642C7F667BDA7" type="host">
+<mods:originInfo id="CBE74DC40A820E3B348382399AC6803D">
+<mods:dateIssued id="D0DBE37CA8959C1445162FC4FFCD4981">1942</mods:dateIssued>
+<mods:dateOther id="D5431473F7B0625222932C651FD3051B" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="C5BF0BD745B57C35F1A0A627FF5EB736">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="7D9CBB9A27846A7464A779F84143AC37">
+<mods:placeTerm id="8D48A71D97DE113E1796323AB34CC586">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="21FAE426B81249E80283AA99D8F76E7A">
+<mods:title id="0B700A68BF25DC1DAC301AFDDA203FEE">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="D6E4D713C85AA19C23A6ECC6639EFC14">
+<mods:extent id="F896BF289E632EC2AE7E4697F836577C" unit="page">
+<mods:start id="079E88835494996E8789AC52E869F771">150</mods:start>
+<mods:end id="21CB46E47BE2DF1BFFDC6A26A7F22921">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="A7D1C7610587FA18D28BC2B9800A1826">book chapter</mods:classification>
+<mods:identifier id="A40D8A077196ED47818801DBADC0B677" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="5893E69DBBDEECDD2075A649D3F51ACB" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="A35FDEC795D551F0085ECE6D48D9D5F5" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBD1B0AFEE6F97606B941B0" ID-DOI="http://doi.org/10.5281/zenodo.5211599" ID-GBIF-Taxon="184415229" ID-Zenodo-Dep="5211599" LSID="urn:lsid:plazi:treatment:376B87E5FFBD1B0AFEE6F97606B941B0" httpUri="http://treatment.plazi.org/id/376B87E5FFBD1B0AFEE6F97606B941B0" lastPageNumber="153" pageId="3" pageNumber="153">
+<subSubSection id="F7D86578FFBD1B0AFEE6F976031E40DD" box="[316,1048,1731,1771]" pageId="3" pageNumber="153" type="nomenclature">
+<paragraph id="BF7D36F3FFBD1B0AFEE6F976031E40DD" blockId="3.[315,1708,1731,1926]" box="[316,1048,1731,1771]" pageId="3" pageNumber="153">
+10. 
+<taxonomicName id="78C24D70FFBD1B0AFE56F976031740DD" authority="Gravenhorst" authorityName="Gravenhorst" box="[396,1041,1731,1771]" class="Insecta" family="Staphylinidae" genus="Philonthus" kingdom="Animalia" order="Coleoptera" pageId="3" pageNumber="153" phylum="Arthropoda" rank="species" species="discoideus">Philonthus discoideus Gravenhorst</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBD1B0AFBFDF97602AD4116" pageId="3" pageNumber="153" type="reference_group">
+<paragraph id="BF7D36F3FFBD1B0AFBFDF97602AD4116" blockId="3.[315,1708,1731,1926]" pageId="3" pageNumber="153">
+<treatmentCitationGroup id="9FD211DDFFBD1B0AFBFDF97602AD4116" pageId="3" pageNumber="153">
+<bibCitation id="6AE83E9FFFBD1B0AFBFDF97602AD4116" author="Gravenhorst" journalOrPublisher="Col. Mier. Brunsv." pageId="3" pageNumber="153" pagination="38" part="57" refId="ref1726" title="Coleopt. Catalog." type="journal article" year="1802">
+<treatmentCitation id="3E6310E2FFBD1B0AFBFDF976012B40DD" author="Gravenhorst" box="[1063,1581,1731,1771]" page="38" pageId="3" pageNumber="153" year="1802">
+<journalOrPublisher id="65033C3FFFBD1B0AFBFDF976027D40DD" box="[1063,1403,1731,1771]" pageId="3" pageNumber="153">Col. Mier. Brunsv.</journalOrPublisher>
+, 
+<pagination id="860BC807FFBD1B0AFA49F97602BB40DD" box="[1427,1469,1731,1771]" pageId="3" pageNumber="153" type="pageRange">38</pagination>
+, 
+<year id="CB6A77A0FFBD1B0AFA0CF976012E40DD" box="[1494,1576,1731,1771]" pageId="3" pageNumber="153">1802</year>
+.
+</treatmentCitation>
+<treatmentCitation id="3E6310E2FFBD1B0AF992F97602AD4116" author="Bernhauer and Schubert" page="335" pageId="3" pageNumber="153" year="1914">
+<author id="677FDE16FFBD1B0AF992F976051A4116" pageId="3" pageNumber="153">Bernhauer</author>
+and 
+<author id="677FDE16FFBD1B0AFD5AF94304224116" box="[640,804,1782,1824]" pageId="3" pageNumber="153">Schubert</author>
+, 
+<title id="CDC6DDC5FFBD1B0AFCE4F943037E4116" box="[830,1144,1782,1824]" pageId="3" pageNumber="153">Coleopt. Catalog.</title>
+(
+<part id="CB669C6EFFBD1B0AFB40F94303C34116" box="[1178,1221,1782,1824]" pageId="3" pageNumber="153" type="issue">57</part>
+): 
+<pagination id="860BC807FFBD1B0AFB23F943023F4116" box="[1273,1337,1782,1824]" pageId="3" pageNumber="153" type="pageRange">335</pagination>
+, 
+<year id="CB6A77A0FFBD1B0AFA89F94302A04116" box="[1363,1446,1782,1824]" pageId="3" pageNumber="153">1914</year>
+.
+</treatmentCitation>
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBD1B0AFEA3F89F06B941B0" pageId="3" pageNumber="153" type="materials_examined">
+<paragraph id="BF7D36F3FFBD1B0AFEA3F89F06B941B0" blockId="3.[315,1708,1731,1926]" pageId="3" pageNumber="153">
+<materialsCitation id="0FAA3CAEFFBD1B0AFEA3F89F04004165" ID-GBIF-Occurrence="3994027535" box="[377,774,1834,1875]" collectedFrom="a cosmopolitan species" collectingDate="1936-04-27" collectorName="E. H. Bryan" country="Guam" location="Piti" pageId="3" pageNumber="153" specimenCount="1">
+<location id="BA1D6028FFBD1B0AFEA3F89F06BB4165" LSID="urn:lsid:plazi:treatment:376B87E5FFBD1B0AFEE6F97606B941B0:BA1D6028FFBD1B0AFEA3F89F06BB4165" box="[377,445,1834,1875]" name="Piti" pageId="3" pageNumber="153">Piti</location>
+, 
+<date id="CB7C1033FFBD1B0AFE0DF89F05754165" box="[471,627,1834,1875]" pageId="3" pageNumber="153" value="1927-04">
+<collectingDate id="DB38E9DBFFBD1B0AFE0DF89F05754165" box="[471,627,1834,1875]" pageId="3" pageNumber="153" value="1927-04">April 27</collectingDate>
+</date>
+, 
+<location id="BA1D6028FFBD1B0AFD57F89F05F94165" LSID="urn:lsid:plazi:treatment:376B87E5FFBD1B0AFEE6F97606B941B0:BA1D6028FFBD1B0AFD57F89F05F94165" box="[653,767,1834,1875]" name="Bryan" pageId="3" pageNumber="153">Bryan</location>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFBD1B0AFCC3F89F06B941B0" ID-GBIF-Occurrence="3994027482" collectedFrom="a cosmopolitan species" collectingDate="1936-07-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="3" pageNumber="153" specimenCount="1">
+<date id="CB7C1033FFBD1B0AFCC3F89F04A44165" box="[793,930,1834,1875]" pageId="3" pageNumber="153" value="1927-07">
+<collectingDate id="DB38E9DBFFBD1B0AFCC3F89F04A44165" box="[793,930,1834,1875]" pageId="3" pageNumber="153" value="1927-07">July 27</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFBD1B0AFC67F89F03424165" box="[957,1092,1834,1875]" pageId="3" pageNumber="153">Swezey</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFBD1B0AFB84F89F026D4165" box="[1118,1387,1834,1875]" pageId="3" pageNumber="153" type="generic">two specimens</specimenCount>
+. A cosmopolitan species.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

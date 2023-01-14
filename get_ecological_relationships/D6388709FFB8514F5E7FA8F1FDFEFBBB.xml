@@ -1,0 +1,248 @@
+<document id="333EAA8E530DDF09C5C301FCCD1D22B6" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFB8514F5E7FA8F1FDFEFBBB" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Diocalandra frumenti" docType="treatment" docVersion="22" lastPageNumber="146" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="145" updateTime="1671249582863" updateUser="ExternalLinkService">
+<mods:mods id="7F9C72293BA54610F73607E70AF08A1F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="0A1234F9C6E2CE1D28EB8DF3C716D7DF">
+<mods:title id="811D34594AC54F90812327844123FEBF">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="EB684FD48C0A5911F1FA763F681490F0" type="personal">
+<mods:role id="01149717A280EDF6121E75AA29531C48">
+<mods:roleTerm id="D716E7EC486135935375A175FDBC345A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="ADBCFC725C6FDACE2082498A0CDC3DD9">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="FCC3FDC7E9A2A5A90666DB593E073D11">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="088527C2BAACAA8C16DAA41935FA9F7A">text</mods:typeOfResource>
+<mods:relatedItem id="65254A945AA9458A1A7793E68F2836A0" type="host">
+<mods:originInfo id="CDD6FF5467AFF9F20125D5F791E860E6">
+<mods:dateIssued id="9F8A34D7472838D33B9AA6565122AAE8">1942</mods:dateIssued>
+<mods:dateOther id="17AC525C9F1A035B4E27A9D657320A77" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="30C18DDE72CD5825FA4E312CFE18327B">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="98013C2864785CEBD1D93C69253C6533">
+<mods:placeTerm id="C04CD0F168DB4028E36FC842364A989D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="880EFD9A2CF6E0A175E0EAD551FBB702">
+<mods:title id="40EFDD57893F62EC749E89E20CCA43EC">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="296565E5A10AFF51452400A75AE5B406">
+<mods:extent id="918C640BB80B7CB83A3EDFD629E454AA" unit="page">
+<mods:start id="F5D1238A5B11FF79BF730E4CAE10B619">73</mods:start>
+<mods:end id="5355824234760D32A403F58A983E29AA">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="DB1A96A2C7E0E907A23D1112408F0B68">book chapter</mods:classification>
+<mods:identifier id="F25841B55C42B5F05D182C2A51A23CE4" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="1F94FD628E4A1EF5935FD5A7A6F46D3D" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="1D53F7A6609D9F7334D315C2E08788A7" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFB8514F5E7FA8F1FDFEFBBB" ID-DOI="http://doi.org/10.5281/zenodo.5520053" ID-GBIF-Taxon="184097827" ID-Zenodo-Dep="5520053" LSID="urn:lsid:plazi:treatment:D6388709FFB8514F5E7FA8F1FDFEFBBB" httpUri="http://treatment.plazi.org/id/D6388709FFB8514F5E7FA8F1FDFEFBBB" lastPageId="73" lastPageNumber="146" pageId="72" pageNumber="145">
+<subSubSection id="168B6594FFB8514E5E7FA8F1FB49F840" box="[292,1203,1963,2006]" pageId="72" pageNumber="145" type="nomenclature">
+<paragraph id="5E2E361FFFB8514E5E7FA8F1FB49F840" blockId="72.[292,1689,1963,2486]" box="[292,1203,1963,2006]" pageId="72" pageNumber="145">
+<heading id="05668173FFB8514E5E7FA8F1FB49F840" box="[292,1203,1963,2006]" fontSize="8" level="2" pageId="72" pageNumber="145" reason="4">
+49. 
+<taxonomicName id="99914D9CFFB8514E5E23A8F1FC1BF840" authority="(Fabricius)" baseAuthorityName="Fabricius" box="[376,993,1963,2006]" class="Insecta" family="Dryophthoridae" genus="Diocalandra" kingdom="Animalia" order="Coleoptera" pageId="72" pageNumber="145" phylum="Arthropoda" rank="species" species="frumenti">
+<emphasis id="6CE5EA0DFFB8514E5E23A8F1FCF8F840" bold="true" box="[376,770,1963,2006]" pageId="72" pageNumber="145">Diocalandra frumenti</emphasis>
+(Fabricius)
+</taxonomicName>
+(pl. 6, H).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB8514E5E3DA8BDFA01F620" pageId="72" pageNumber="145" type="reference_group">
+<paragraph id="5E2E361FFFB8514E5E3DA8BDFAA0F784" blockId="72.[292,1689,1963,2486]" box="[358,1370,2023,2066]" pageId="72" pageNumber="145">
+<treatmentCitationGroup id="7E811131FFB8514E5E3DA8BDFAA0F784" box="[358,1370,2023,2066]" pageId="72" pageNumber="145">
+<treatmentCitation id="DF30100EFFB8514E5E3DA8BDFAA0F784" author="Fabricius" box="[358,1370,2023,2066]" page="438" pageId="72" pageNumber="145" year="1801">
+<bibCitation id="8BBB3E73FFB8514E5E3DA8BDFAA0F784" author="Fabricius" box="[358,1370,2023,2066]" pageId="72" pageNumber="145" pagination="438" part="2" refId="ref49512" title="Syst. Eleuth" type="journal article" year="1801">
+<emphasis id="6CE5EA0DFFB8514E5E3DA8BDFD55F784" box="[358,687,2023,2066]" italics="true" pageId="72" pageNumber="145">Calandra frumenti</emphasis>
+<author id="862CDEFAFFB8514E5DE4A8BDFC9DF784" box="[703,871,2023,2066]" pageId="72" pageNumber="145">Fabricius</author>
+, 
+<title id="2C95DD29FFB8514E5CDBA8BDFB9AF784" box="[896,1120,2023,2066]" pageId="72" pageNumber="145">Syst. Eleuth</title>
+. 
+<emphasis id="6CE5EA0DFFB8514E5B2DA8BDFB72F784" bold="true" box="[1142,1160,2023,2066]" pageId="72" pageNumber="145">
+<part id="2A359C82FFB8514E5B2DA8BDFB7EF784" box="[1142,1156,2023,2066]" pageId="72" pageNumber="145" type="volume">2</part>
+:
+</emphasis>
+<pagination id="6758C8EBFFB8514E5BFCA8BDFB13F784" box="[1191,1257,2023,2066]" pageId="72" pageNumber="145" type="pageRange">438</pagination>
+, 
+<year id="2A39774CFFB8514E5A58A8BDFAAFF784" box="[1283,1365,2023,2066]" pageId="72" pageNumber="145">1801</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFB8514E5E3FA77EFDAFF7E0" blockId="72.[292,1689,1963,2486]" pageId="72" pageNumber="145">
+<treatmentCitationGroup id="7E811131FFB8514E5E3FA77EFDAFF7E0" pageId="72" pageNumber="145">
+<treatmentCitation id="DF30100EFFB8514E5E3FA77EFDAFF7E0" author="Gyllenhal" page="972" pageId="72" pageNumber="145" year="1837">
+<bibCitation id="8BBB3E73FFB8514E5E3FA77EFDAFF7E0" author="Gyllenhal" pageId="72" pageNumber="145" pagination="972" part="4" refId="ref49526" title="Spec. Cure." type="book chapter" year="1837">
+<emphasis id="6CE5EA0DFFB8514E5E3FA77EFCF0F7DB" box="[356,778,2084,2125]" italics="true" pageId="72" pageNumber="145">Sitophilus stiginaticollis</emphasis>
+<author id="862CDEFAFFB8514E5C41A77EFC39F7DB" box="[794,963,2084,2125]" fns="*" inm="true" npo="*" pageId="72" pageNumber="145">Gyllenhal</author>
+, in Schoenherr's Gen. 
+<title id="2C95DD29FFB8514E5A01A77EF9DBF7DB" box="[1370,1569,2084,2125]" pageId="72" pageNumber="145">Spec. Cure.</title>
+<part id="2A359C82FFB8514E596BA77EF9B9F7DB" box="[1584,1603,2084,2125]" pageId="72" pageNumber="145" type="volume">4</part>
+(
+<part id="2A359C82FFB8514E5916A77EF989F7DB" box="[1613,1651,2084,2125]" pageId="72" pageNumber="145" type="issue">22</part>
+): 
+<pagination id="6758C8EBFFB8514E5EF8A70DFE21F7E0" box="[419,475,2135,2166]" pageId="72" pageNumber="145" type="pageRange">972</pagination>
+, 
+<year id="2A39774CFFB8514E5EA6A70DFDAAF7E0" box="[509,592,2135,2166]" pageId="72" pageNumber="145">1837</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFB8514E5E3EA72DFDACF77E" blockId="72.[292,1689,1963,2486]" pageId="72" pageNumber="145">
+<treatmentCitationGroup id="7E811131FFB8514E5E3EA72DFDACF77E" pageId="72" pageNumber="145">
+<treatmentCitation id="DF30100EFFB8514E5E3EA72DFDACF77E" author="Boheman" page="973" pageId="72" pageNumber="145" year="1837">
+<bibCitation id="8BBB3E73FFB8514E5E3EA72DFDACF77E" author="Boheman" pageId="72" pageNumber="145" pagination="973" part="4" refId="ref49547" title="Spec. Cure." type="book chapter" year="1837">
+<emphasis id="6CE5EA0DFFB8514E5E3EA72DFD0FF72C" box="[357,757,2167,2234]" italics="true" pageId="72" pageNumber="145">Sitophilus subsignatus</emphasis>
+<author id="862CDEFAFFB8514E5C5CA72DFC54F72C" box="[775,942,2167,2234]" fns="*" inm="true" npo="*" pageId="72" pageNumber="145">Boheman</author>
+, in Schoenherr's Gen. 
+<title id="2C95DD29FFB8514E5A0FA72DF9E4F72C" box="[1364,1566,2167,2234]" pageId="72" pageNumber="145">Spec. Cure.</title>
+<part id="2A359C82FFB8514E596AA72DF9B3F72C" box="[1585,1609,2167,2234]" pageId="72" pageNumber="145" type="volume">4</part>
+(
+<part id="2A359C82FFB8514E590CA72DF995F72C" box="[1623,1647,2167,2234]" pageId="72" pageNumber="145" type="issue">2</part>
+): 
+<pagination id="6758C8EBFFB8514E5EF8A7E4FE1EF77E" box="[419,484,2238,2280]" pageId="72" pageNumber="145" type="pageRange">973</pagination>
+, 
+<year id="2A39774CFFB8514E5EA5A7E4FDABF77E" box="[510,593,2238,2280]" pageId="72" pageNumber="145">1837</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFB8514E5E3DA7ABFA60F68D" blockId="72.[292,1689,1963,2486]" box="[358,1434,2289,2331]" pageId="72" pageNumber="145">
+<treatmentCitationGroup id="7E811131FFB8514E5E3DA7ABFA60F68D" box="[358,1434,2289,2331]" pageId="72" pageNumber="145">
+<bibCitation id="8BBB3E73FFB8514E5E3DA7ABFA60F68D" author="Motschulsky" box="[358,1434,2289,2331]" pageId="72" pageNumber="145" pagination="69" part="7" refId="ref49568" title="Etud. Ent." type="journal article" year="1858">
+<treatmentCitation id="DF30100EFFB8514E5E3DA7ABFA6FF68D" author="Motschulsky" box="[358,1429,2289,2331]" page="69" pageId="72" pageNumber="145" year="1858">
+<emphasis id="6CE5EA0DFFB8514E5E3DA7ABFD04F68D" box="[358,766,2289,2331]" italics="true" pageId="72" pageNumber="145">Sphenophorus cruciger</emphasis>
+<author id="862CDEFAFFB8514E5C56A7ABFC15F68D" box="[781,1007,2289,2331]" pageId="72" pageNumber="145">Motschulsky</author>
+, 
+<title id="2C95DD29FFB8514E5B5EA7ABFB47F68D" box="[1029,1213,2289,2331]" pageId="72" pageNumber="145">Etud. Ent.</title>
+<emphasis id="6CE5EA0DFFB8514E5B96A7ABFB0BF68D" bold="true" box="[1229,1265,2289,2331]" pageId="72" pageNumber="145">
+<part id="2A359C82FFB8514E5B96A7ABFB1AF68D" box="[1229,1248,2289,2331]" pageId="72" pageNumber="145" type="volume">7</part>
+:
+</emphasis>
+<pagination id="6758C8EBFFB8514E5BA5A7ABFAD3F68D" box="[1278,1321,2289,2331]" pageId="72" pageNumber="145" type="pageRange">69</pagination>
+, 
+<year id="2A39774CFFB8514E5A18A7ABFA6FF68D" box="[1347,1429,2289,2331]" pageId="72" pageNumber="145">1858</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFB8514E5E3CA67FFDFAF615" blockId="72.[292,1689,1963,2486]" pageId="72" pageNumber="145">
+<treatmentCitationGroup id="7E811131FFB8514E5E3CA67FFDFAF615" pageId="72" pageNumber="145">
+<treatmentCitation id="DF30100EFFB8514E5E3CA67FFDFAF615" author="Pascoe" page="305" pageId="72" pageNumber="145" year="1885">
+<bibCitation id="8BBB3E73FFB8514E5E3CA67FFDFAF615" author="Pascoe" journalOrPublisher="Mus. civ. stor. nat. Genova, Ann." pageId="72" pageNumber="145" pagination="305" part="2" refId="ref49582" type="journal article" year="1885">
+<emphasis id="6CE5EA0DFFB8514E5E3CA67FFD35F6D9" box="[359,719,2341,2383]" italics="true" pageId="72" pageNumber="145">Calandra punctigera</emphasis>
+<author id="862CDEFAFFB8514E5DBAA67FFCA1F6D9" box="[737,859,2341,2383]" pageId="72" pageNumber="145">Pascoe</author>
+, 
+<journalOrPublisher id="84503CD3FFB8514E5C2EA67FFA35F6D9" box="[885,1487,2341,2383]" pageId="72" pageNumber="145">Mus. civ. stor. nat. Genova, Ann.</journalOrPublisher>
+II, 
+<part id="2A359C82FFB8514E597AA67FF9D5F6D9" box="[1569,1583,2341,2383]" pageId="72" pageNumber="145" type="volume">2</part>
+: 
+<pagination id="6758C8EBFFB8514E5908A67FF969F6D9" box="[1619,1683,2341,2383]" pageId="72" pageNumber="145" type="pageRange">305</pagination>
+, 
+<year id="2A39774CFFB8514E5EF2A602FE01F615" box="[425,507,2392,2435]" pageId="72" pageNumber="145">1885</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFB8514E5E31A6D6FA01F620" blockId="72.[292,1689,1963,2486]" box="[362,1531,2444,2486]" pageId="72" pageNumber="145">
+<treatmentCitationGroup id="7E811131FFB8514E5E31A6D6FA01F620" box="[362,1531,2444,2486]" pageId="72" pageNumber="145">
+<treatmentCitation id="DF30100EFFB8514E5E31A6D6FA01F620" author="Kolbe" box="[362,1531,2444,2486]" page="46" pageId="72" pageNumber="145" year="1910">
+<bibCitation id="8BBB3E73FFB8514E5E31A6D6FA01F620" author="Kolbe" box="[362,1531,2444,2486]" journalOrPublisher="Zool. Mus. Berlin, Mitt." pageId="72" pageNumber="145" pagination="46" part="5" refId="ref49606" type="journal article" year="1910">
+<emphasis id="6CE5EA0DFFB8514E5E31A6D6FD1EF620" box="[362,740,2444,2486]" italics="true" pageId="72" pageNumber="145">Calandra seclzellarum</emphasis>
+<author id="862CDEFAFFB8514E5DA9A6D6FCA4F620" box="[754,862,2444,2486]" pageId="72" pageNumber="145">Kolbe</author>
+, 
+<journalOrPublisher id="84503CD3FFB8514E5C2FA6D6FAE4F620" box="[884,1310,2444,2486]" pageId="72" pageNumber="145">Zool. Mus. Berlin, Mitt.</journalOrPublisher>
+<emphasis id="6CE5EA0DFFB8514E5A74A6D6FAABF620" bold="true" box="[1327,1361,2444,2486]" pageId="72" pageNumber="145">
+<part id="2A359C82FFB8514E5A74A6D6FABAF620" box="[1327,1344,2444,2486]" pageId="72" pageNumber="145" type="volume">5</part>
+:
+</emphasis>
+<pagination id="6758C8EBFFB8514E5A05A6D6FA71F620" box="[1374,1419,2444,2486]" pageId="72" pageNumber="145" type="pageRange">46</pagination>
+, 
+<year id="2A39774CFFB8514E5AFFA6D6FA0CF620" box="[1444,1526,2444,2486]" pageId="72" pageNumber="145">1910</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB9514F5EB6AEC8FADCFD29" pageId="73" pageNumber="146" type="distribution">
+<paragraph id="5E2E361FFFB9514F5EB6AEC8FADCFD29" blockId="73.[430,1826,402,1069]" pageId="73" pageNumber="146">
+This coconut insect has a wide distribution from Tanganyika, 
+<location id="5B4E60C4FFB9514F590BAEC8F8DAFE28" LSID="urn:lsid:plazi:treatment:D6388709FFB8514F5E7FA8F1FDFEFBBB:5B4E60C4FFB9514F590BAEC8F8DAFE28" box="[1616,1824,402,446]" country="Samoa" county="Yigo in November" municipality="Inarajan in May" name="East Africa" pageId="73" pageNumber="146">East Africa</location>
+to 
+<collectingCountry id="2686768FFFB9514F5EBCAE9DFDA6FE67" box="[487,604,455,497]" name="Samoa" pageId="73" pageNumber="146">Samoa</collectingCountry>
+in Polynesia. 
+<materialsCitation id="EEF93C42FFB9514F5C20AE9DFD8AFDCF" ID-GBIF-Occurrence="3333874440" collectedFrom="from coconuts in Inarajan in May and Yigo in November" collectingDate="1936-05/1936-11" collectorName="E. H. Bryan, O. H. Swezey, and R. L. Usinger" country="Guam" location="Guam" pageId="73" pageNumber="146">
+<collectingMunicipality id="BE4AAC65FFB9514F5C20AE9DFC3AFE67" box="[891,960,455,497]" pageId="73" pageNumber="146">The</collectingMunicipality>
+<collectingCountry id="2686768FFFB9514F5C8DAE9DFBC5FE67" box="[982,1087,455,497]" name="Guam" pageId="73" pageNumber="146">Guam</collectingCountry>
+<specimenCount id="4897FD96FFB9514F5B0EAE9DFAF9FE67" box="[1109,1283,455,497]" pageId="73" pageNumber="146" type="generic">specimens</specimenCount>
+before me were collected by 
+<collectorName id="F36453C9FFB9514F5EF4AEA1FDE4FDB2" box="[431,542,507,548]" pageId="73" pageNumber="146">Bryan</collectorName>
+, 
+<location id="5B4E60C4FFB9514F5D61AEA1FD44FDB2" LSID="urn:lsid:plazi:treatment:D6388709FFB8514F5E7FA8F1FDFEFBBB:5B4E60C4FFB9514F5D61AEA1FD44FDB2" box="[570,702,507,548]" country="Guam" county="Yigo in November" municipality="The" name="Swezey" pageId="73" pageNumber="146">Swezey</location>
+and 
+<location id="5B4E60C4FFB9514F5C7AAEA1FC54FDB2" LSID="urn:lsid:plazi:treatment:D6388709FFB8514F5E7FA8F1FDFEFBBB:5B4E60C4FFB9514F5C7AAEA1FC54FDB2" box="[801,942,507,548]" country="Guam" county="Yigo in November" municipality="The" name="Usinger" pageId="73" pageNumber="146">Usinger</location>
+from coconuts in 
+<collectingMunicipality id="BE4AAC65FFB9514F5A53AEA1F9CFFDB2" box="[1288,1589,507,548]" pageId="73" pageNumber="146">Inarajan in May</collectingMunicipality>
+and 
+<collectingCounty id="B74F4E93FFB9514F59C3AEA1FD90FDCF" pageId="73" pageNumber="146">Yigo in November</collectingCounty>
+,
+</materialsCitation>
+<materialsCitation id="EEF93C42FFB9514F5D25AD74F8E0FDCF" ID-GBIF-Occurrence="3333874389" box="[638,1818,558,601]" collectedFrom="from a royal palm" collectingDate="1936-10-03" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="73" pageNumber="146" specimenCount="1">
+and 
+<location id="5B4E60C4FFB9514F5D97AD74FCB5FDCF" LSID="urn:lsid:plazi:treatment:D6388709FFB8514F5E7FA8F1FDFEFBBB:5B4E60C4FFB9514F5D97AD74FCB5FDCF" box="[716,847,558,601]" country="Guam" county="Yigo in November" municipality="The" name="Swezey" pageId="73" pageNumber="146">Swezey</location>
+took 
+<specimenCount id="4897FD96FFB9514F5CEEAD74FB61FDCF" box="[949,1179,558,601]" pageId="73" pageNumber="146" type="generic">one specimen</specimenCount>
+from a royal palm at 
+<location id="5B4E60C4FFB9514F5979AD74F962FDCF" LSID="urn:lsid:plazi:treatment:D6388709FFB8514F5E7FA8F1FDFEFBBB:5B4E60C4FFB9514F5979AD74F962FDCF" box="[1570,1688,558,601]" country="Guam" county="Yigo in November" municipality="The" name="Agana" pageId="73" pageNumber="146">Agana</location>
+, 
+<date id="2A2F10DFFFB9514F59F6AD74F8E0FDCF" box="[1709,1818,558,601]" pageId="73" pageNumber="146">
+<collectingDate id="3A6BE937FFB9514F59F6AD74F8E0FDCF" box="[1709,1818,558,601]" pageId="73" pageNumber="146">Oct. 3</collectingDate>
+</date>
+</materialsCitation>
+. 
+<materialsCitation id="EEF93C42FFB9514F5EF4AD3BFADCFD29" ID-GBIF-Occurrence="3333874461" collectedFrom="&quot;in coconut branch with wind injury&quot;" collectingDate="1938-09-07" collectorName="R. G. Oakley" country="Guam" location="U. S. National Museum" pageId="73" pageNumber="146" specimenCount="21">
+<collectingMunicipality id="BE4AAC65FFB9514F5EF4AD3BFCAAFD1A" box="[431,848,609,652]" pageId="73" pageNumber="146">The National Museum</collectingMunicipality>
+material contains 
+<specimenCount id="4897FD96FFB9514F5BF6AD3BFA63FD1A" box="[1197,1433,609,652]" pageId="73" pageNumber="146" type="generic">21 specimens</specimenCount>
+taken 
+<date id="2A2F10DFFFB9514F597FAD3BF8E0FD1A" box="[1572,1818,609,652]" pageId="73" pageNumber="146" value="1938-09-07">
+<collectingDate id="3A6BE937FFB9514F597FAD3BF8E0FD1A" box="[1572,1818,609,652]" pageId="73" pageNumber="146" value="1938-09-07">
+Sept. 
+<emphasis id="6CE5EA0DFFB9514F59C9AD3BF954FD1A" box="[1682,1710,609,652]" italics="true" pageId="73" pageNumber="146">7,</emphasis>
+1938
+</collectingDate>
+</date>
+, &quot;in coconut branch with wind injury&quot; by 
+<location id="5B4E60C4FFB9514F5BF9ADCCFADBFD29" LSID="urn:lsid:plazi:treatment:D6388709FFB8514F5E7FA8F1FDFEFBBB:5B4E60C4FFB9514F5BF9ADCCFADBFD29" box="[1186,1313,662,703]" municipality="The National Museum" name="Oakley" pageId="73" pageNumber="146">Oakley</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB9514F5EB5AD88FDFEFBBB" pageId="73" pageNumber="146" type="discussion">
+<paragraph id="5E2E361FFFB9514F5EB5AD88FDFEFBBB" blockId="73.[430,1826,402,1069]" pageId="73" pageNumber="146">
+This species has been recorded from 
+<collectingCountry id="2686768FFFB9514F5B87AD88FABEFD6A" box="[1244,1348,722,764]" name="Guam" pageId="73" pageNumber="146">Guam</collectingCountry>
+as 
+<taxonomicName id="99914D9CFFB9514F5AFAAD88FCEFFCA6" authority="(Guerin-Meneville)" baseAuthorityName="Guerin-Meneville" class="Insecta" family="Dryophthoridae" genus="Diocalandra" kingdom="Animalia" order="Coleoptera" pageId="73" pageNumber="146" phylum="Arthropoda" rank="species" species="taitensis">
+<emphasis id="6CE5EA0DFFB9514F5AFAAD88F8DBFD6A" box="[1441,1825,722,764]" italics="true" pageId="73" pageNumber="146">Diocalandra taitensis</emphasis>
+(Guerin-Meneville)
+</taxonomicName>
+, because of confusion in the identification of the species. 
+<taxonomicName id="99914D9CFFB9514F5EF5AC60FD8DFCF4" baseAuthorityName="Guerin-Meneville" box="[430,631,826,866]" class="Insecta" family="Dryophthoridae" genus="Diocalandra" kingdom="Animalia" order="Coleoptera" pageId="73" pageNumber="146" phylum="Arthropoda" rank="species" species="taitensis">
+<emphasis id="6CE5EA0DFFB9514F5EF5AC60FD8DFCF4" box="[430,631,826,866]" italics="true" pageId="73" pageNumber="146">D. taitensis</emphasis>
+</taxonomicName>
+is a redder species with much less black coloring, it has a broader, flatter, differently shaped prothorax on which the interstices are very coarsely reticulate and make the surface dull. On 
+<taxonomicName id="99914D9CFFB9514F5BEDACFBFA68FC5F" box="[1206,1426,929,969]" pageId="73" pageNumber="146">
+<emphasis id="6CE5EA0DFFB9514F5BEDACFBFA68FC5F" box="[1206,1426,929,969]" italics="true" pageId="73" pageNumber="146">D. frnnzenti</emphasis>
+</taxonomicName>
+the interstices on the pronotum are finely reticulate and the surface has a moderately shiny appearance.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

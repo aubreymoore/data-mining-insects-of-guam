@@ -1,0 +1,67 @@
+<document id="C095DADE150BA4A47EC670C6FE651D0C" ID-DOI="http://doi.org/10.5281/zenodo.5156759" ID-GBIF-Dataset="6e65e7d3-7a72-4da4-9739-5e3814593490" ID-Zenodo-Dep="5156759" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628022238476" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="907B754A855EFFC923E6FE39EF66FDCC" docLanguage="en" docName="InsectsOfGuamII.189.221-227.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Bathymetis" docType="treatment" docVersion="7" lastPageNumber="224" masterDocId="6C420D32855DFFCA221EFFCCE940FF9E" masterDocTitle="Ichneumonidae, Evaniidae, And Braconidae Of Guam" masterLastPageNumber="227" masterPageNumber="221" pageNumber="224" updateTime="1660693495426" updateUser="aubreymoore">
+<mods:mods id="5EE6C2B07CC8E614FC16187515064315" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="4A88951C798A103503E762103E0CB744">
+<mods:title id="BE28D5BEC08762F448B34CDA3126794D">Ichneumonidae, Evaniidae, And Braconidae Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="6486A9FCD1CA54517C0BE000DADC82E3" type="personal">
+<mods:role id="2A31F317447560559D25C0C06911D6EA">
+<mods:roleTerm id="DAF50A6BCF81BD3FC4DF7F53B6028829">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3C394AAC5D4E5E95C8E451A9C98DDB59">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="90994B5345569617BF10113B89F390A1">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="D4807589FCE2CDB2C156F762FE5410CD">text</mods:typeOfResource>
+<mods:relatedItem id="8E9F644B2CA749FF51B4C214B699B2CF" type="host">
+<mods:originInfo id="C26F53931E83A0E764FBA0E7058E8E6E">
+<mods:dateIssued id="6E22BCB0E3E594716A7888B8BB5A5918">1946</mods:dateIssued>
+<mods:dateOther id="00B720356A844DDC9DCA5269F79F9A47" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="6017E819F27889848F6F57797BED1CF5">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="6A5B3EE8FDD2204317C7157EA04BE3F9">
+<mods:placeTerm id="58BAB337DF487F32D7A8BFBFAD0A0F65">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="0DB180A3829C0B0F00C28C6EE62A112E">
+<mods:title id="23656217E6C720AC5F63F94B05EC47AC">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="8259E32B07116021865A39A83D7894D8">
+<mods:extent id="63E540C39DA134AD8D117E1C13A1D145" unit="page">
+<mods:start id="E7260B4F3F3317800724CC5AA32E0A2F">221</mods:start>
+<mods:end id="CA37E750CCF5DFD2BBF4ABF9CB37522E">227</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="6CFAFB001EBD8F0F2C12032CDD7A8C6F">book chapter</mods:classification>
+<mods:identifier id="FDC2D24715216BF2217D1CA237B80264" type="DOI">http://doi.org/10.5281/zenodo.5156759</mods:identifier>
+<mods:identifier id="9399C451F818EBD05F07F623FE81C464" type="GBIF-Dataset">6e65e7d3-7a72-4da4-9739-5e3814593490</mods:identifier>
+<mods:identifier id="05033078242DDD830260A59CE0FACDAF" type="Zenodo-Dep">5156759</mods:identifier>
+</mods:mods>
+<treatment id="907B754A855EFFC923E6FE39EF66FDCC" ID-DOI="http://doi.org/10.5281/zenodo.5510245" ID-GBIF-Taxon="187975169" ID-Zenodo-Dep="5510245" LSID="urn:lsid:plazi:treatment:907B754A855EFFC923E6FE39EF66FDCC" httpUri="http://treatment.plazi.org/id/907B754A855EFFC923E6FE39EF66FDCC" lastPageNumber="224" pageId="3" pageNumber="224">
+<subSubSection id="50C897D7855EFFC923E6FE39EBEEFD82" box="[504,686,501,540]" pageId="3" pageNumber="224" type="nomenclature">
+<paragraph id="186DC45C855EFFC923E6FE39EBEEFD82" blockId="3.[480,1579,501,594]" box="[504,686,501,540]" pageId="3" pageNumber="224">
+<taxonomicName id="DFD2BFDF855EFFC923E6FE39EBEEFD82" box="[504,686,501,540]" class="Insecta" family="Ichneumonidae" genus="Bathymetis" kingdom="Animalia" order="Hymenoptera" pageId="3" pageNumber="224" phylum="Arthropoda" rank="genus">
+<emphasis id="2AA6184E855EFFC923E6FE39EBEEFD82" bold="true" box="[504,686,501,540]" pageId="3" pageNumber="224">Bathymetis</emphasis>
+</taxonomicName>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D7855EFFC920DEFE39EA05FD82" box="[704,837,501,540]" pageId="3" pageNumber="224" type="discussion">
+<paragraph id="186DC45C855EFFC920DEFE39EA05FD82" blockId="3.[480,1579,501,594]" box="[704,837,501,540]" pageId="3" pageNumber="224">species</paragraph>
+</subSubSection>
+<paragraph id="186DC45C855EFFC923FFFDEAEF6BFDCC" blockId="3.[480,1579,501,594]" box="[481,1579,550,594]" pageId="3" pageNumber="224">
+<materialsCitation id="A8BACE01855EFFC923FFFDEAEF6BFDCC" ID-GBIF-Occurrence="3352140306" box="[481,1579,550,594]" collectedFrom="swept from ferns" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="3" pageNumber="224" specimenCount="1">
+<subSubSection id="50C897D7855EFFC923FFFDEAEF66FDCC" box="[481,1574,550,594]" pageId="3" pageNumber="224" type="materials_examined">
+<collectionCode id="7EC35C99855EFFC923FFFDEAEB64FDCC" box="[481,548,550,594]" pageId="3" pageNumber="224">TODO</collectionCode>
+<location id="1D0D9287855EFFC92028FDEAEBDAFDCC" LSID="urn:lsid:plazi:treatment:907B754A855EFFC923E6FE39EF66FDCC:1D0D9287855EFFC92028FDEAEBDAFDCC" box="[566,666,550,594]" name="UpiTrail" pageId="3" pageNumber="224">UpiTrail</location>
+, 
+<date id="6C6CE29C855EFFC92113FDEAEA09FDCC" box="[781,841,550,594]" pageId="3" pageNumber="224">
+<collectingDate id="7C281B74855EFFC92113FDEAEA09FDCC" box="[781,841,550,594]" pageId="3" pageNumber="224">May 5</collectingDate>
+</date>
+,swept from ferns, 
+<specimenCount id="0ED40FD5855EFFC9268BFDEAECC4FDCC" box="[1173,1412,550,594]" pageId="3" pageNumber="224" type="generic">one specimen</specimenCount>
+, 
+<collectorName id="B527A18A855EFFC92783FDEAEF66FDCC" box="[1437,1574,550,594]" pageId="3" pageNumber="224">Swezey</collectorName>
+</subSubSection>
+.
+</materialsCitation>
+</paragraph>
+</treatment>
+</document>

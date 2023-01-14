@@ -1,0 +1,98 @@
+<document id="84E2C4D4811A7E027E878F6D1B78BD99" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8CFFE2E40EFB958C74FAD4" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Tetrastichus hagenowii" docType="treatment" docVersion="14" lastPageNumber="217" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="217" updateTime="1663770129699" updateUser="annettekang">
+<mods:mods id="DECBC93ED2790EC9E3A8EFEE315B4B03" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CE149DE0F4B7ECD2C8C8384464D2235C">
+<mods:title id="6111AFEB327EC2B5FB80F29D9D175758">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="667C71107EE4FD478655F37F4D352128" type="personal">
+<mods:role id="43C8C19340958AA07CEADB165649B630">
+<mods:roleTerm id="F3E1F3091490C949B470EF6B55DB30A3">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="6B949277899515DDD9E06FCD02AC59EE">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="2B5D85CE09CB24A845B0730D7275921A">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="5871CDFAA440BC0C63173B612388AB93">text</mods:typeOfResource>
+<mods:relatedItem id="51226C072C3C73B37F10AC156D455603" type="host">
+<mods:originInfo id="530C7D0D309AD3E759B236538ACE9E1A">
+<mods:dateIssued id="73A29DDDA1968F7FE29023AACB7D1B82">1946</mods:dateIssued>
+<mods:dateOther id="DDFE0CB797C39A491F229E2194F9A155" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="031ECC6B93188CE358893703CAEAA8D4">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="2BE841B3B5511E5E5420F6A6E0B93935">
+<mods:placeTerm id="A69760BEEF067B28889E30DB51D5C2BA">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9B7A8617D335E812F7D772D87D5A3E89">
+<mods:title id="6F218373C9326F71934FE0B4EA32E7CD">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="7A583E19A1214DAFD82941D8C8F20E35">
+<mods:extent id="CA9E79DC238371CE9D36CCF22114D4CF" unit="page">
+<mods:start id="8FE610E5106EADACE41D7D5377582BD4">211</mods:start>
+<mods:end id="D6DBE5C5277D210CDCE65CC4E35EF6E9">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="30F552893D8D01B6316BB6377AD41CD9">book chapter</mods:classification>
+<mods:identifier id="F60FB4C719D522331C6996E8B0BC30E5" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="DD58FBECCFF67FEBC6375CC4C7A2811A" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="C5C3CC2D9101B0BCDF6A523EBDDF9853" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8CFFE2E40EFB958C74FAD4" ID-DOI="http://doi.org/10.5281/zenodo.5188089" ID-GBIF-Taxon="187737436" ID-Zenodo-Dep="5188089" LSID="urn:lsid:plazi:treatment:7376EC19FF8CFFE2E40EFB958C74FAD4" httpUri="http://treatment.plazi.org/id/7376EC19FF8CFFE2E40EFB958C74FAD4" lastPageNumber="217" pageId="6" pageNumber="217">
+<subSubSection id="B3C50E84FF8CFFE2E40EFB958B4EFBB1" box="[269,1040,1081,1123]" pageId="6" pageNumber="217" type="nomenclature">
+<paragraph id="FB605D0FFF8CFFE2E40EFB958B4EFBB1" blockId="6.[269,1665,1081,1286]" box="[269,1040,1081,1123]" pageId="6" pageNumber="217">
+<heading id="A028EA63FF8CFFE2E40EFB958B4EFBB1" box="[269,1040,1081,1123]" fontSize="8" level="2" pageId="6" pageNumber="217" reason="4">
+<emphasis id="C9AB811DFF8CFFE2E40EFB958E60FBB1" bold="true" box="[269,318,1081,1123]" pageId="6" pageNumber="217">46.</emphasis>
+<taxonomicName id="3CDF268CFF8CFFE2E463FB958B54FBB1" authority="(Ratzeburg)" baseAuthorityName="Ratzeburg" baseAuthorityYear="1852" box="[352,1034,1081,1123]" class="Insecta" family="Aphelinidae" genus="Tetrastichus" kingdom="Animalia" order="Hymenoptera" pageId="6" pageNumber="217" phylum="Arthropoda" rank="species" species="hagenowii">
+<emphasis id="C9AB811DFF8CFFE2E463FB958C51FBB1" bold="true" box="[352,783,1081,1123]" pageId="6" pageNumber="217">Tetrastichus hagenowii</emphasis>
+(Ratzeburg)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8CFFE2E448FBC2891CFB4B" box="[331,1602,1134,1177]" pageId="6" pageNumber="217" type="reference_group">
+<paragraph id="FB605D0FFF8CFFE2E448FBC2891CFB4B" blockId="6.[269,1665,1081,1286]" box="[331,1602,1134,1177]" pageId="6" pageNumber="217">
+<treatmentCitationGroup id="DBCF7A21FF8CFFE2E448FBC2891CFB4B" box="[331,1602,1134,1177]" pageId="6" pageNumber="217">
+<treatmentCitation id="7A7E7B1EFF8CFFE2E448FBC2891CFB4B" author="Ratzeburg" box="[331,1602,1134,1177]" page="211" pageId="6" pageNumber="217" year="1852">
+<bibCitation id="2EF55563FF8CFFE2E448FBC2891CFB4B" author="Ratzeburg" box="[331,1602,1134,1177]" journalOrPublisher="Ichneumon. der Forstins." pageId="6" pageNumber="217" pagination="211" part="3" refId="ref2859" type="journal article" year="1852">
+<emphasis id="C9AB811DFF8CFFE2E448FBC28DFAFB4B" box="[331,676,1134,1177]" italics="true" pageId="6" pageNumber="217">Entedon hagenowii</emphasis>
+<author id="2362B5EAFF8CFFE2E7B0FBC28C33FB4B" box="[691,877,1134,1177]" pageId="6" pageNumber="217">Ratzeburg</author>
+, 
+<journalOrPublisher id="211E57C3FF8CFFE2E684FBC28A14FB4B" box="[903,1354,1134,1177]" pageId="6" pageNumber="217">Ichneumon. der Forstins.</journalOrPublisher>
+<part id="8F7BF792FF8CFFE2E05EFBC28A35FB4B" box="[1373,1387,1134,1177]" pageId="6" pageNumber="217" type="volume">3</part>
+: 
+<pagination id="C216A3FBFF8CFFE2E08DFBC28A90FB4B" box="[1422,1486,1134,1177]" pageId="6" pageNumber="217" type="pagination">211</pagination>
+, 
+<year id="8F771C5CFF8CFFE2E0E8FBC28963FB4B" box="[1515,1597,1134,1177]" pageId="6" pageNumber="217">1852</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8CFFE2E44DFB098C74FAD4" pageId="6" pageNumber="217" type="materials_examined">
+<paragraph id="FB605D0FFF8CFFE2E44DFB098C74FAD4" blockId="6.[269,1665,1081,1286]" pageId="6" pageNumber="217">
+<materialsCitation id="4BB75752FF8CFFE2E44DFB098CA3FB1D" ID-GBIF-Occurrence="3901040317" box="[334,1021,1189,1231]" collectingDate="1936-10-02" collectorName="O. H. Swezey" country="Guam" location="Merizo" pageId="6" pageNumber="217" specimenCount="1">
+<collectingMunicipality id="1B04C775FF8CFFE2E44DFB098E90FB1D" box="[334,462,1189,1231]" pageId="6" pageNumber="217">Merizo</collectingMunicipality>
+, 
+<date id="8F617BCFFF8CFFE2E4E5FB098D0BFB1D" box="[486,597,1189,1231]" pageId="6" pageNumber="217">
+<collectingDate id="9F258227FF8CFFE2E4E5FB098D0BFB1D" box="[486,597,1189,1231]" pageId="6" pageNumber="217">
+Oct. 
+<emphasis id="C9AB811DFF8CFFE2E73CFB098D02FB1D" bold="true" box="[575,604,1189,1231]" pageId="6" pageNumber="217">2,</emphasis>
+</collectingDate>
+</date>
+<specimenCount id="EDD99686FF8CFFE2E76DFB098C07FB1D" box="[622,857,1189,1231]" pageId="6" pageNumber="217" type="generic">one specimen</specimenCount>
+, 
+<collectorName id="562A38D9FF8CFFE2E672FB098CA6FB1D" box="[881,1016,1189,1231]" pageId="6" pageNumber="217">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="4BB75752FF8CFFE2E11BFB098C74FAD4" ID-GBIF-Occurrence="3901040363" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="6" pageNumber="217" specimenCount="13">
+<collectingMunicipality id="1B04C775FF8CFFE2E11BFB098A67FB1D" box="[1048,1337,1189,1231]" pageId="6" pageNumber="217">Bishop Museum</collectingMunicipality>
+has 
+<specimenCount id="EDD99686FF8CFFE2E097FB098925FB1D" box="[1428,1659,1189,1231]" pageId="6" pageNumber="217" type="generic">13 specimens</specimenCount>
+, collected by 
+<collectorName id="562A38D9FF8CFFE2E4E8FB708DD1FAD4" box="[491,655,1244,1286]" pageId="6" pageNumber="217">Fullaway</collectorName>
+in 1911.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

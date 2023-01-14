@@ -1,0 +1,239 @@
+<document id="1E126B8B498E34FF344078D0B41B8FA0" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB61B01FE1EF92204EF4FCF" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Harmonia arcuata Timberlake Ms." docType="treatment" docVersion="17" lastPageNumber="158" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="158" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="0094A35BFBC2BD2212A7BB042A2F72F5" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CDEF1A81B24D218786188C8AFE86044D">
+<mods:title id="64E3FC6324D3FB883552659D7FCCB821">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="8FD82B37B0997307FB84D63EA68DAF0A" type="personal">
+<mods:role id="8212E59DFB28ECEB6F7D14DD840F0912">
+<mods:roleTerm id="A2DC6380FC9567AEFC525B88261B8B00">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3D3F19248E010E7FAA457845212DDCA1">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="1D3474A4F4E652BC0CE62E78D2FFA29E">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9D6D775A882C4AE4A9BB2859175FD96B">text</mods:typeOfResource>
+<mods:relatedItem id="2B1181E978462D2990E540EA99C02251" type="host">
+<mods:originInfo id="CF2206DDF7AF7B4DCF8CDFFE25FD26A8">
+<mods:dateIssued id="DF4D9D2F7D93DC7FDA10FB2A5B3AD0B8">1942</mods:dateIssued>
+<mods:dateOther id="926D190BA082B14C0A440FB7EBDADCEE" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="D702E6A7136724E9D43612FB25FA3140">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="7450E021A341DE61623BE7A6D7E37BF7">
+<mods:placeTerm id="31073C93B02F7B75DF545FE4C463D643">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="748C03E980ECAE31D51E356DC3058A4A">
+<mods:title id="9A4FA823FBC72D89A8D3A9DA5892A78E">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="F8D10202C4A4A87B7126B2DE0C56C3E6">
+<mods:extent id="702BF4627BA2929014EDAF39FF0C2264" unit="page">
+<mods:start id="2E5666AFDC6FEFB9E0ECA280507E7CDA">150</mods:start>
+<mods:end id="39711C37CA683CD78935DF14B128D7ED">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="3ACF2B4EEA013179D8E4D6E6156E1CCF">book chapter</mods:classification>
+<mods:identifier id="F7877C7F44255E9C294284D7E046AF21" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="DDCCC74E94849D6C177A81DF034FD88F" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="1053F7304FF4D85CD680623F82C3AF23" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB61B01FE1EF92204EF4FCF" ID-DOI="http://doi.org/10.5281/zenodo.5184824" ID-GBIF-Taxon="184415306" ID-Zenodo-Dep="5184824" LSID="urn:lsid:plazi:treatment:376B87E5FFB61B01FE1EF92204EF4FCF" httpUri="http://treatment.plazi.org/id/376B87E5FFB61B01FE1EF92204EF4FCF" lastPageNumber="158" pageId="8" pageNumber="158">
+<subSubSection id="F7D86578FFB61B01FE1EF922033840F5" box="[452,1086,1687,1731]" pageId="8" pageNumber="158" type="nomenclature">
+<paragraph id="BF7D36F3FFB61B01FE1EF922033840F5" blockId="8.[450,1846,1687,2553]" box="[452,1086,1687,1731]" pageId="8" pageNumber="158">
+<heading id="E435819FFFB61B01FE1EF922033840F5" box="[452,1086,1687,1731]" fontSize="8" level="2" pageId="8" pageNumber="158" reason="4">
+<emphasis id="8DB6EAE1FFB61B01FE1EF92206D840F5" bold="true" box="[452,478,1687,1731]" pageId="8" pageNumber="158">1.</emphasis>
+<taxonomicName id="78C24D70FFB61B01FDD8F922033E40F5" authority="(Fabricius)" authorityName="Timberlake Ms." baseAuthorityName="Fabricius" baseAuthorityYear="1787" box="[514,1080,1687,1731]" class="Insecta" family="Coccinellidae" genus="Harmonia" kingdom="Animalia" order="Coleoptera" pageId="8" pageNumber="158" phylum="Arthropoda" rank="species" species="arcuata">
+<emphasis id="8DB6EAE1FFB61B01FDD8F922045640F5" bold="true" box="[514,848,1687,1731]" pageId="8" pageNumber="158">Harmonia arcuata</emphasis>
+(Fabricius)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB61B01FDD9F97E024141F5" pageId="8" pageNumber="158" type="reference_group">
+<paragraph id="BF7D36F3FFB61B01FDD9F97E04E8411F" blockId="8.[450,1846,1687,2553]" pageId="8" pageNumber="158">
+<treatmentCitationGroup id="9FD211DDFFB61B01FDD9F97E04E8411F" pageId="8" pageNumber="158">
+<bibCitation id="6AE83E9FFFB61B01FDD9F97E04E8411F" author="Fabricius" journalOrPublisher="Mant. Ins." pageId="8" pageNumber="158" pagination="21" part="1" refId="ref4295" title="Revision Coccinellidae" type="book" year="1787">
+<treatmentCitation id="3E6310E2FFB61B01FDD9F97E02EA40C3" author="Fabricius" box="[515,1516,1739,1781]" page="55" pageId="8" pageNumber="158" year="1787">
+<emphasis id="8DB6EAE1FFB61B01FDD9F97E044240C3" box="[515,836,1739,1781]" italics="true" pageId="8" pageNumber="158">Coccinclla arcuata</emphasis>
+<author id="677FDE16FFB61B01FC89F97E04FD40C3" box="[851,1019,1739,1781]" pageId="8" pageNumber="158">Fabricius</author>
+, 
+<journalOrPublisher id="65033C3FFFB61B01FBCEF97E03C840C3" box="[1044,1230,1739,1781]" pageId="8" pageNumber="158">Mant. Ins.</journalOrPublisher>
+<emphasis id="8DB6EAE1FFB61B01FB3BF97E03E940C3" bold="true" box="[1249,1263,1739,1781]" pageId="8" pageNumber="158">
+<part id="CB669C6EFFB61B01FB3BF97E03ED40C3" box="[1249,1259,1739,1781]" pageId="8" pageNumber="158" type="volume">1</part>
+:
+</emphasis>
+55, 
+<pagination id="860BC807FFB61B01FA89F97E027840C3" box="[1363,1406,1739,1781]" pageId="8" pageNumber="158" type="pageRange">21</pagination>
+, 
+<year id="CB6A77A0FFB61B01FA40F97E02EA40C3" box="[1434,1516,1739,1781]" pageId="8" pageNumber="158">1787</year>
+</treatmentCitation>
+. 
+<treatmentCitation id="3E6310E2FFB61B01F9D4F97E04EF411F" author="Crotch" page="110" pageId="8" pageNumber="158" year="1874">
+<author id="677FDE16FFB61B01F9D4F97E018140C3" box="[1550,1671,1739,1781]" pageId="8" pageNumber="158">Crotch</author>
+, 
+<title id="CDC6DDC5FFB61B01F944F97E042E411F" pageId="8" pageNumber="158">Revision Coccinellidae</title>
+, 
+<pagination id="860BC807FFB61B01FC9AF94A047B411F" box="[832,893,1791,1833]" pageId="8" pageNumber="158" type="pageRange">110</pagination>
+, 
+<year id="CB6A77A0FFB61B01FC4DF94A04EF411F" box="[919,1001,1791,1833]" pageId="8" pageNumber="158">1874</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFB61B01FDD8F88604AD41A6" blockId="8.[450,1846,1687,2553]" pageId="8" pageNumber="158">
+<treatmentCitationGroup id="9FD211DDFFB61B01FDD8F88604AD41A6" pageId="8" pageNumber="158">
+<bibCitation id="6AE83E9FFFB61B01FDD8F88604AD41A6" author="Schultze" journalOrPublisher="Philip. Jour. Sci." pageId="8" pageNumber="158" pagination="35" part="11" refId="ref4320" type="book" year="1916">
+<treatmentCitation id="3E6310E2FFB61B01FDD8F88604A041A6" author="Schultze" page="35" pageId="8" pageNumber="158" year="1916">
+<emphasis id="8DB6EAE1FFB61B01FDD8F88604B6416A" box="[514,944,1843,1884]" italics="true" pageId="8" pageNumber="158">Harmonia octomaculata</emphasis>
+var. 
+<emphasis id="8DB6EAE1FFB61B01FBC4F8860399416A" box="[1054,1183,1843,1884]" italics="true" pageId="8" pageNumber="158">arcuata</emphasis>
+(Fabricius) 
+<author id="677FDE16FFB61B01FA7AF8860130416A" box="[1440,1590,1843,1884]" pageId="8" pageNumber="158">Schultze</author>
+, 
+<journalOrPublisher id="65033C3FFFB61B01F98EF886057841A6" pageId="8" pageNumber="158">Philip. Jour. Sci.</journalOrPublisher>
+<emphasis id="8DB6EAE1FFB61B01FD4AF8D3040641A6" bold="true" box="[656,768,1894,1936]" pageId="8" pageNumber="158">
+<part id="CB669C6EFFB61B01FD4AF8D305BC41A6" box="[656,698,1894,1936]" pageId="8" pageNumber="158" type="volume">11</part>
+, D:
+</emphasis>
+<pagination id="860BC807FFB61B01FCD4F8D3043F41A6" box="[782,825,1894,1936]" pageId="8" pageNumber="158" type="pageRange">35</pagination>
+, 
+<year id="CB6A77A0FFB61B01FC88F8D304A041A6" box="[850,934,1894,1936]" pageId="8" pageNumber="158">1916</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFB61B01FDDAF82D024141F5" blockId="8.[450,1846,1687,2553]" box="[512,1351,1944,1987]" pageId="8" pageNumber="158">
+<treatmentCitationGroup id="9FD211DDFFB61B01FDDAF82D024141F5" box="[512,1351,1944,1987]" pageId="8" pageNumber="158">
+<taxonomicName id="78C24D70FFB61B01FDDAF82D031841F5" authority="(Fabricius)" authorityName="Timberlake Ms." baseAuthorityName="Fabricius" baseAuthorityYear="1787" box="[512,1054,1944,1987]" class="Insecta" family="Coccinellidae" genus="Harmonia" kingdom="Animalia" order="Coleoptera" pageId="8" pageNumber="158" phylum="Arthropoda" rank="species" species="arcuata">
+<emphasis id="8DB6EAE1FFB61B01FDDAF82D044541F5" box="[512,835,1944,1987]" italics="true" pageId="8" pageNumber="158">Harmonia arcuata</emphasis>
+(Fabricius)
+</taxonomicName>
+Timberlake Ms.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB61B01FDD8F87800334EA6" pageId="8" pageNumber="158" type="materials_examined">
+<paragraph id="BF7D36F3FFB61B01FDD8F87800334EA6" blockId="8.[450,1846,1687,2553]" pageId="8" pageNumber="158">
+<materialsCitation id="0FAA3CAEFFB61B01FDD8F87804AF41C1" ID-GBIF-Occurrence="3334692383" box="[514,937,1997,2039]" collectingDate="1936-04-13" collectorName="E. H. Bryan" country="Guam" location="Yigo" pageId="8" pageNumber="158">
+<location id="BA1D6028FFB61B01FDD8F878055D41C1" LSID="urn:lsid:plazi:treatment:376B87E5FFB61B01FE1EF92204EF4FCF:BA1D6028FFB61B01FDD8F878055D41C1" box="[514,603,1997,2039]" name="Yigo" pageId="8" pageNumber="158">Yigo</location>
+, 
+<date id="CB7C1033FFB61B01FDAEF878041741C1" box="[628,785,1997,2039]" pageId="8" pageNumber="158" value="2013-04">
+<collectingDate id="DB38E9DBFFB61B01FDAEF878041741C1" box="[628,785,1997,2039]" pageId="8" pageNumber="158" value="2013-04">
+April 
+<emphasis id="8DB6EAE1FFB61B01FD32F878041E41C1" bold="true" box="[744,792,1997,2039]" pageId="8" pageNumber="158">13,</emphasis>
+</collectingDate>
+</date>
+<location id="BA1D6028FFB61B01FCF6F87804A441C1" LSID="urn:lsid:plazi:treatment:376B87E5FFB61B01FE1EF92204EF4FCF:BA1D6028FFB61B01FCF6F87804A441C1" box="[812,930,1997,2039]" name="Bryan" pageId="8" pageNumber="158">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB61B01FC65F878003341C1" ID-GBIF-Occurrence="3334692521" box="[959,1845,1997,2039]" collectedFrom="in rice field" collectingDate="1936-06-08" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Inarajan" pageId="8" pageNumber="158">
+<location id="BA1D6028FFB61B01FC65F878035F41C1" LSID="urn:lsid:plazi:treatment:376B87E5FFB61B01FE1EF92204EF4FCF:BA1D6028FFB61B01FC65F878035F41C1" box="[959,1113,1997,2039]" name="Inarajan" pageId="8" pageNumber="158">Inarajan</location>
+, 
+<date id="CB7C1033FFB61B01FBA9F87803EB41C1" box="[1139,1261,1997,2039]" pageId="8" pageNumber="158">
+<collectingDate id="DB38E9DBFFB61B01FBA9F87803EB41C1" box="[1139,1261,1997,2039]" pageId="8" pageNumber="158">June 8</collectingDate>
+</date>
+, in rice field, 
+<collectorName id="12375325FFB61B01FA22F878017B41C1" box="[1528,1661,1997,2039]" pageId="8" pageNumber="158">Swezey</collectorName>
+, 
+<collectorName id="12375325FFB61B01F942F878002841C1" box="[1688,1838,1997,2039]" pageId="8" pageNumber="158">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB61B01FE1EF7B503AA4E1C" ID-GBIF-Occurrence="3334692529" box="[452,1196,2048,2090]" collectedFrom="in corn field" collectingDate="1936-06-11" collectorName="O. H. Swezey" country="Guam" location="Merizo" pageId="8" pageNumber="158">
+<location id="BA1D6028FFB61B01FE1EF7B505424E1C" LSID="urn:lsid:plazi:treatment:376B87E5FFB61B01FE1EF92204EF4FCF:BA1D6028FFB61B01FE1EF7B505424E1C" box="[452,580,2048,2090]" name="Merizo" pageId="8" pageNumber="158">Merizo</location>
+, 
+<date id="CB7C1033FFB61B01FDBAF7B505F34E1C" box="[608,757,2048,2090]" pageId="8" pageNumber="158" value="2011-06">
+<collectingDate id="DB38E9DBFFB61B01FDBAF7B505F34E1C" box="[608,757,2048,2090]" pageId="8" pageNumber="158" value="2011-06">June 11</collectingDate>
+</date>
+, in corn field; 
+<collectorName id="12375325FFB61B01FBC0F7B503A34E1C" box="[1050,1189,2048,2090]" pageId="8" pageNumber="158">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB61B01FB1FF7B5055E4E68" ID-GBIF-Occurrence="3334692354" collectedFrom="in corn field" collectingDate="1936-06-24" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="8" pageNumber="158">
+<location id="BA1D6028FFB61B01FB1FF7B5027E4E1C" LSID="urn:lsid:plazi:treatment:376B87E5FFB61B01FE1EF92204EF4FCF:BA1D6028FFB61B01FB1FF7B5027E4E1C" box="[1221,1400,2048,2090]" name="Barrigada" pageId="8" pageNumber="158">Barrigada</location>
+, 
+<date id="CB7C1033FFB61B01FA4EF7B5012F4E1C" box="[1428,1577,2048,2090]" pageId="8" pageNumber="158" value="1924-06">
+<collectingDate id="DB38E9DBFFB61B01FA4EF7B5012F4E1C" box="[1428,1577,2048,2090]" pageId="8" pageNumber="158" value="1924-06">June 24</collectingDate>
+</date>
+, in corn field, 
+<collectorName id="12375325FFB61B01FE1EF78605574E68" box="[452,593,2099,2142]" pageId="8" pageNumber="158">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB61B01FDBDF786033A4E68" ID-GBIF-Occurrence="3994027373" box="[615,1084,2099,2142]" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="8" pageNumber="158">
+<location id="BA1D6028FFB61B01FDBDF78605E94E68" LSID="urn:lsid:plazi:treatment:376B87E5FFB61B01FE1EF92204EF4FCF:BA1D6028FFB61B01FDBDF78605E94E68" box="[615,751,2099,2142]" name="Dededo" pageId="8" pageNumber="158">Dededo</location>
+, 
+<date id="CB7C1033FFB61B01FCD9F78604944E68" box="[771,914,2099,2142]" pageId="8" pageNumber="158" value="2011-08">
+<collectingDate id="DB38E9DBFFB61B01FCD9F78604944E68" box="[771,914,2099,2142]" pageId="8" pageNumber="158" value="2011-08">Aug. 11</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB61B01FC72F78603334E68" box="[936,1077,2099,2142]" pageId="8" pageNumber="158">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB61B01FB96F786023F4E68" ID-GBIF-Occurrence="3994027438" box="[1100,1337,2099,2142]" collectingDate="1936-08-14" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="8" pageNumber="158">
+<location id="BA1D6028FFB61B01FB96F78603884E68" LSID="urn:lsid:plazi:treatment:376B87E5FFB61B01FE1EF92204EF4FCF:BA1D6028FFB61B01FB96F78603884E68" box="[1100,1166,2099,2142]" name="Piti" pageId="8" pageNumber="158">Piti</location>
+, 
+<date id="CB7C1033FFB61B01FB79F78602354E68" box="[1187,1331,2099,2142]" pageId="8" pageNumber="158" value="2014-08">
+<collectingDate id="DB38E9DBFFB61B01FB79F78602354E68" box="[1187,1331,2099,2142]" pageId="8" pageNumber="158" value="2014-08">Aug. 14</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB61B01FA93F78602BB4E68" ID-GBIF-Occurrence="3994027498" box="[1353,1469,2099,2142]" collectingDate="1936-10-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="8" pageNumber="158">
+<date id="CB7C1033FFB61B01FA93F78602B24E68" box="[1353,1460,2099,2142]" pageId="8" pageNumber="158">
+<collectingDate id="DB38E9DBFFB61B01FA93F78602B24E68" box="[1353,1460,2099,2142]" pageId="8" pageNumber="158">Oct. 1</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB61B01FA17F78605514EA6" ID-GBIF-Occurrence="3994027339" collectedFrom="in corn field" collectingDate="1936-11-04" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="8" pageNumber="158">
+<date id="CB7C1033FFB61B01FA17F78601434E68" box="[1485,1605,2099,2142]" pageId="8" pageNumber="158">
+<collectingDate id="DB38E9DBFFB61B01FA17F78601434E68" box="[1485,1605,2099,2142]" pageId="8" pageNumber="158">Nov. 4</collectingDate>
+</date>
+, in corn field, 
+<collectorName id="12375325FFB61B01FE1EF7D305564EA6" box="[452,592,2150,2192]" pageId="8" pageNumber="158">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB61B01FDBDF7D303EF4EA6" ID-GBIF-Occurrence="3334692434" box="[615,1257,2150,2192]" collectedFrom="in rice field" collectingDate="1936-10-02" collectorName="O. H. Swezey" country="Guam" location="Merizo" pageId="8" pageNumber="158">
+<location id="BA1D6028FFB61B01FDBDF7D305E04EA6" LSID="urn:lsid:plazi:treatment:376B87E5FFB61B01FE1EF92204EF4FCF:BA1D6028FFB61B01FDBDF7D305E04EA6" box="[615,742,2150,2192]" name="Merizo" pageId="8" pageNumber="158">Merizo</location>
+, 
+<date id="CB7C1033FFB61B01FD20F7D304604EA6" box="[762,870,2150,2192]" pageId="8" pageNumber="158">
+<collectingDate id="DB38E9DBFFB61B01FD20F7D304604EA6" box="[762,870,2150,2192]" pageId="8" pageNumber="158">Oct. 2</collectingDate>
+</date>
+, in rice field, 
+<collectorName id="12375325FFB61B01FB8CF7D303E44EA6" box="[1110,1250,2150,2192]" pageId="8" pageNumber="158">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB61B01FB2DF7D300334EA6" ID-GBIF-Occurrence="3334692386" box="[1271,1845,2150,2192]" collectedFrom="on corn" collectingDate="1936-11-18" collectorName="O. H. Swezey" country="Guam" location="Yona" pageId="8" pageNumber="158">
+<location id="BA1D6028FFB61B01FB2DF7D3025F4EA6" LSID="urn:lsid:plazi:treatment:376B87E5FFB61B01FE1EF92204EF4FCF:BA1D6028FFB61B01FB2DF7D3025F4EA6" box="[1271,1369,2150,2192]" name="Yona" pageId="8" pageNumber="158">Yona</location>
+, 
+<date id="CB7C1033FFB61B01FAB4F7D302FC4EA6" box="[1390,1530,2150,2192]" pageId="8" pageNumber="158" value="2018-11">
+<collectingDate id="DB38E9DBFFB61B01FAB4F7D302FC4EA6" box="[1390,1530,2150,2192]" pageId="8" pageNumber="158" value="2018-11">Nov. 18</collectingDate>
+</date>
+, on corn, 
+<collectorName id="12375325FFB61B01F973F7D300364EA6" box="[1705,1840,2150,2192]" pageId="8" pageNumber="158">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB61B01FDD8F72C04EF4FCF" pageId="8" pageNumber="158" type="discussion">
+<paragraph id="BF7D36F3FFB61B01FDD8F72C04EF4FCF" blockId="8.[450,1846,1687,2553]" pageId="8" pageNumber="158">
+<materialsCitation id="0FAA3CAEFFB61B01FDD8F72C05C64EC1" ID-GBIF-Occurrence="3994027342" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="8" pageNumber="158">
+This large, spotted ladybeetle was found already present in 
+<collectingCountry id="C7D57663FFB61B01F9FDF72C01974EF2" box="[1575,1681,2201,2244]" name="Guam" pageId="8" pageNumber="158">Guam</collectingCountry>
+, by 
+<collectorName id="12375325FFB61B01F93AF72C05194EC1" pageId="8" pageNumber="158">Fullaway</collectorName>
+, in 1911
+</materialsCitation>
+. There is no record of when it was introduced. It has a wide distribution: 
+<collectingCountry id="C7D57663FFB61B01FD63F74A04244F1C" box="[697,802,2303,2346]" name="China" pageId="8" pageNumber="158">China</collectingCountry>
+, 
+<collectingCountry id="C7D57663FFB61B01FCE2F74A04F94F1C" box="[824,1023,2303,2346]" name="Philippines" pageId="8" pageNumber="158">Philippines</collectingCountry>
+, 
+<collectingCountry id="C7D57663FFB61B01FBCCF74A03CC4F1C" box="[1046,1226,2303,2346]" name="Singapore" pageId="8" pageNumber="158">Singapore</collectingCountry>
+, Java, Cape York, 
+<collectingCountry id="C7D57663FFB61B01F9C5F74A00294F1C" box="[1567,1839,2303,2346]" name="New Caledonia" pageId="8" pageNumber="158">New Caledonia</collectingCountry>
+, Cape of Good Hope, Queensland, 
+<collectingCountry id="C7D57663FFB61B01FB98F686038E4F6B" box="[1090,1160,2355,2397]" name="Fiji" pageId="8" pageNumber="158">Fiji</collectingCountry>
+. It feeds on plant lice and is a very effective enemy of the corn aphis. It is often present in large numbers in corn fields infested with aphis. It is also found abundant in rice fields where it is reputed to feed on leafhoppers.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

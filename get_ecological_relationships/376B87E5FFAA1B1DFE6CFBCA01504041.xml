@@ -1,0 +1,163 @@
+<document id="90A07F6273B310D4106E6BFB97E5147C" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFAA1B1DFE6CFBCA01504041" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Chlorophorus annularis Chevrolat, Soc. Roy. Sci. Liege, Mem." docType="treatment" docVersion="16" lastPageNumber="170" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="170" updateTime="1671470507449" updateUser="annettekang">
+<mods:mods id="9AEF31E1A460244068A5AF01601541D8" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="D3B26FCABF900622F7F7C8762767DF71">
+<mods:title id="7C6C237BC479B5AADDA5AD25EA3AB383">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="4608FF7E81393DFF3C496A691998B73B" type="personal">
+<mods:role id="C649AF84AB78EE32841060DD71BBAE2E">
+<mods:roleTerm id="563BB2BC5EF0CCCA5B4B3C26388720B6">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="11E76D44760BAC41C1D617322946E910">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="9C023BB2C506E4F65A290D73EB3DD66D">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="3A73F8EB1C48005798F6330E50E86463">text</mods:typeOfResource>
+<mods:relatedItem id="DACA73BD1AEA905BFAB68EF9C5F3285B" type="host">
+<mods:originInfo id="9018C7014697058D44923B77423F61FB">
+<mods:dateIssued id="25BB643992399531446D4286D0880E9D">1942</mods:dateIssued>
+<mods:dateOther id="750FE5E1792A28547A2125143778FB55" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="461A6BEF18D0DBC792153D209C41941E">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="A59A5A493EEAD05F9FCA5411060B9A1F">
+<mods:placeTerm id="C516CE0C36E4E9EB950DD7F081C67E36">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="ABD904053CFBA2C888DC134D463DD82A">
+<mods:title id="39EF37B2E21C4904FF39ACFBA0685637">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="409037A357AED16789717DE6A0698BD7">
+<mods:extent id="BD8F091D8EB5EBE8C4967CB877AB39F5" unit="page">
+<mods:start id="99C57A47520D2C5AF2311810390A05F7">150</mods:start>
+<mods:end id="A4796F5907A1E959256DD971340F1840">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E84A0C8690DAEAC3453B94447489C61F">book chapter</mods:classification>
+<mods:identifier id="E0239B91D6B02043F232B57D08263E4E" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="85263161EA1A5FBFB52F81C68BCF2A6D" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="A8B4A4EA45BE9AA7B9FA314C2AE35B21" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFAA1B1DFE6CFBCA01504041" ID-DOI="http://doi.org/10.5281/zenodo.5184838" ID-GBIF-Taxon="184415409" ID-Zenodo-Dep="5184838" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CFBCA01504041" httpUri="http://treatment.plazi.org/id/376B87E5FFAA1B1DFE6CFBCA01504041" lastPageNumber="170" pageId="20" pageNumber="170">
+<subSubSection id="F7D86578FFAA1B1DFE6CFBCA0395429F" box="[438,1171,1151,1193]" pageId="20" pageNumber="170" type="nomenclature">
+<paragraph id="BF7D36F3FFAA1B1DFE6CFBCA0395429F" blockId="20.[438,1835,1151,1655]" box="[438,1171,1151,1193]" pageId="20" pageNumber="170">
+<heading id="E435819FFFAA1B1DFE6CFBCA0395429F" box="[438,1171,1151,1193]" fontSize="8" level="2" pageId="20" pageNumber="170" reason="4">
+<emphasis id="8DB6EAE1FFAA1B1DFE6CFBCA06D5429F" bold="true" box="[438,467,1151,1193]" pageId="20" pageNumber="170">41.</emphasis>
+<taxonomicName id="78C24D70FFAA1B1DFE2CFBCA038B429F" authority="(Fabricius)" authorityName="Chevrolat, Soc. Roy. Sci. Liege, Mem." baseAuthorityName="Fabricius" baseAuthorityYear="1787" box="[502,1165,1151,1193]" class="Insecta" family="Cerambycidae" genus="Chlorophorus" kingdom="Animalia" order="Coleoptera" pageId="20" pageNumber="170" phylum="Arthropoda" rank="species" species="annularis">
+<emphasis id="8DB6EAE1FFAA1B1DFE2CFBCA04A3429F" bold="true" box="[502,933,1151,1193]" pageId="20" pageNumber="170">Chlorophorus annularis</emphasis>
+(Fabricius)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAA1B1DFE22FB0703A14341" pageId="20" pageNumber="170" type="reference_group">
+<paragraph id="BF7D36F3FFAA1B1DFE22FB0702E442EA" blockId="20.[438,1835,1151,1655]" box="[504,1506,1202,1244]" pageId="20" pageNumber="170">
+<treatmentCitationGroup id="9FD211DDFFAA1B1DFE22FB0702E442EA" box="[504,1506,1202,1244]" pageId="20" pageNumber="170">
+<bibCitation id="6AE83E9FFFAA1B1DFE22FB0702E442EA" author="Fabricius" box="[504,1506,1202,1244]" journalOrPublisher="Mant. Ins." pageId="20" pageNumber="170" pagination="156" part="1" refId="ref10749" type="journal article" year="1787">
+<treatmentCitation id="3E6310E2FFAA1B1DFE22FB0702DB42EA" author="Fabricius" box="[504,1501,1202,1244]" page="156" pageId="20" pageNumber="170" year="1787">
+<emphasis id="8DB6EAE1FFAA1B1DFE22FB07045042EA" box="[504,854,1202,1244]" italics="true" pageId="20" pageNumber="170">Callidium annularis</emphasis>
+<author id="677FDE16FFAA1B1DFCB0FB07031442EA" box="[874,1042,1202,1244]" pageId="20" pageNumber="170">Fabricius</author>
+, 
+<journalOrPublisher id="65033C3FFFAA1B1DFBF7FB0703EE42EA" box="[1069,1256,1202,1244]" pageId="20" pageNumber="170">Mant. Ins.</journalOrPublisher>
+<emphasis id="8DB6EAE1FFAA1B1DFADAFB07020B42EA" bold="true" box="[1280,1293,1202,1244]" pageId="20" pageNumber="170">
+<part id="CB669C6EFFAA1B1DFADAFB07020F42EA" box="[1280,1289,1202,1244]" pageId="20" pageNumber="170" type="volume">1</part>
+:
+</emphasis>
+<pagination id="860BC807FFAA1B1DFAE8FB07026942EA" box="[1330,1391,1202,1244]" pageId="20" pageNumber="170" type="pageRange">156</pagination>
+, 
+<year id="CB6A77A0FFAA1B1DFA56FB0702DB42EA" box="[1420,1501,1202,1244]" pageId="20" pageNumber="170">1787</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFAA1B1DFE2DFB5003A14341" blockId="20.[438,1835,1151,1655]" pageId="20" pageNumber="170">
+<bibCitation id="6AE83E9FFFAA1B1DFE2DFB5003A14341" author="Chevrolat" journalOrPublisher="Soc. Roy. Sci. Liege, Mem." pageId="20" pageNumber="170" pagination="290" part="18" refId="ref10763" title="Coleopt. Catalog" type="journal article" year="1863">
+<treatmentCitationGroup id="9FD211DDFFAA1B1DFE2DFB5003A44341" pageId="20" pageNumber="170">
+<treatmentCitation id="3E6310E2FFAA1B1DFE2DFB5004274375" author="Chevrolat" page="290" pageId="20" pageNumber="170" year="1863">
+<emphasis id="8DB6EAE1FFAA1B1DFE2DFB5004904326" box="[503,918,1253,1296]" italics="true" pageId="20" pageNumber="170">Chlorophorus annularis</emphasis>
+(Fabricius) 
+<author id="677FDE16FFAA1B1DFB5FFB5002354326" box="[1157,1331,1253,1296]" pageId="20" pageNumber="170">Chevrolat</author>
+, 
+<journalOrPublisher id="65033C3FFFAA1B1DFA93FB50002D4326" box="[1353,1835,1253,1296]" pageId="20" pageNumber="170">Soc. Roy. Sci. Liege, Mem.</journalOrPublisher>
+<emphasis id="8DB6EAE1FFAA1B1DFDEFFAAC056A4375" bold="true" box="[565,620,1305,1347]" pageId="20" pageNumber="170">
+<part id="CB669C6EFFAA1B1DFDEFFAAC055D4375" box="[565,603,1305,1347]" pageId="20" pageNumber="170" type="volume">18</part>
+:
+</emphasis>
+<pagination id="860BC807FFAA1B1DFDA3FAAC05BF4375" box="[633,697,1305,1347]" pageId="20" pageNumber="170" type="pageRange">290</pagination>
+, 
+<year id="CB6A77A0FFAA1B1DFD0AFAAC04274375" box="[720,801,1305,1347]" pageId="20" pageNumber="170">1863</year>
+</treatmentCitation>
+. 
+<treatmentCitation id="3E6310E2FFAA1B1DFCE4FAAC01704375" author="Aurivillius" box="[830,1654,1305,1347]" page="402" pageId="20" pageNumber="170" year="1912">
+<author id="677FDE16FFAA1B1DFCE4FAAC03004375" box="[830,1030,1305,1347]" pageId="20" pageNumber="170">Aurivillius</author>
+, 
+<title id="CDC6DDC5FFAA1B1DFBC1FAAC024D4375" box="[1051,1355,1305,1347]" pageId="20" pageNumber="170">Coleopt. Catalog</title>
+. (
+<part id="CB669C6EFFAA1B1DFAB5FAAC029B4375" box="[1391,1437,1305,1347]" pageId="20" pageNumber="170" type="issue">39</part>
+): 
+<pagination id="860BC807FFAA1B1DFA0BFAAC010B4375" box="[1489,1549,1305,1347]" pageId="20" pageNumber="170" type="pageRange">402</pagination>
+, 
+<year id="CB6A77A0FFAA1B1DF9FEFAAC01704375" box="[1572,1654,1305,1347]" pageId="20" pageNumber="170">1912</year>
+</treatmentCitation>
+. 
+<treatmentCitation id="3E6310E2FFAA1B1DF953FAAC03A44341" author="Schultze" page="107" pageId="20" pageNumber="170" year="1916">
+<author id="677FDE16FFAA1B1DF953FAAC00224375" box="[1673,1828,1305,1347]" pageId="20" pageNumber="170">Schultze</author>
+, 
+<journalOrPublisher id="65033C3FFFAA1B1DFDECFAF804634341" box="[566,869,1357,1399]" pageId="20" pageNumber="170">Philip. Jour. Sci.</journalOrPublisher>
+<emphasis id="8DB6EAE1FFAA1B1DFCA2FAF804AE4341" bold="true" box="[888,936,1357,1399]" pageId="20" pageNumber="170">11,</emphasis>
+D: 
+<pagination id="860BC807FFAA1B1DFC21FAF8033E4341" box="[1019,1080,1357,1399]" pageId="20" pageNumber="170" type="pageRange">107</pagination>
+, 
+<year id="CB6A77A0FFAA1B1DFB95FAF803A44341" box="[1103,1186,1357,1399]" pageId="20" pageNumber="170">1916</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAA1B1DFE2CFA34047443E8" pageId="20" pageNumber="170" type="materials_examined">
+<paragraph id="BF7D36F3FFAA1B1DFE2CFA34047443E8" blockId="20.[438,1835,1151,1655]" pageId="20" pageNumber="170">
+<materialsCitation id="0FAA3CAEFFAA1B1DFE2CFA3404CE439C" ID-GBIF-Occurrence="3334692387" box="[502,968,1409,1450]" collectingDate="1936-04-24" collectorName="E. H. Bryan" country="Guam" location="Merizo" pageId="20" pageNumber="170">
+<location id="BA1D6028FFAA1B1DFE2CFA340571439C" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CFBCA01504041:BA1D6028FFAA1B1DFE2CFA340571439C" box="[502,631,1409,1450]" name="Merizo" pageId="20" pageNumber="170">Merizo</location>
+, 
+<date id="CB7C1033FFAA1B1DFD55FA34042B439C" box="[655,813,1409,1450]" pageId="20" pageNumber="170" value="1924-04">
+<collectingDate id="DB38E9DBFFAA1B1DFD55FA34042B439C" box="[655,813,1409,1450]" pageId="20" pageNumber="170" value="1924-04">April 24</collectingDate>
+</date>
+, 
+<location id="BA1D6028FFAA1B1DFC92FA3404C7439C" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CFBCA01504041:BA1D6028FFAA1B1DFC92FA3404C7439C" box="[840,961,1409,1450]" name="Bryan" pageId="20" pageNumber="170">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAA1B1DFC04FA34054343E8" ID-GBIF-Occurrence="3994027333" collectedFrom="attracted to corn tassels" collectingDate="1936-08-28" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="20" pageNumber="170">
+<location id="BA1D6028FFAA1B1DFC04FA340364439C" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CFBCA01504041:BA1D6028FFAA1B1DFC04FA340364439C" box="[990,1122,1409,1450]" name="Barriga" pageId="20" pageNumber="170">Barriga</location>
+&lt;la, 
+<date id="CB7C1033FFAA1B1DFB68FA340241439C" box="[1202,1351,1409,1450]" pageId="20" pageNumber="170" value="1928-08">
+<collectingDate id="DB38E9DBFFAA1B1DFB68FA340241439C" box="[1202,1351,1409,1450]" pageId="20" pageNumber="170" value="1928-08">Aug. 28</collectingDate>
+</date>
+, attracted to corn tassels, 
+<collectorName id="12375325FFAA1B1DFE62FA06054643E8" box="[440,576,1459,1502]" pageId="20" pageNumber="170">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAA1B1DFD8CFA06047443E8" ID-GBIF-Occurrence="3994027479" box="[598,882,1459,1502]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="20" pageNumber="170">
+<collectorName id="12375325FFAA1B1DFD8CFA06040443E8" box="[598,770,1459,1502]" pageId="20" pageNumber="170">Fullaway</collectorName>
+, 1911.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAA1B1DFE2FFA5201504041" pageId="20" pageNumber="170" type="distribution">
+<paragraph id="BF7D36F3FFAA1B1DFE2FFA5201504041" blockId="20.[438,1835,1151,1655]" pageId="20" pageNumber="170">
+The bamboo borer occurs in 
+<collectingCountry id="C7D57663FFAA1B1DFBD5FA5203764027" box="[1039,1136,1511,1553]" name="India" pageId="20" pageNumber="170">India</collectingCountry>
+, 
+<collectingCountry id="C7D57663FFAA1B1DFB52FA5202004027" box="[1160,1286,1511,1553]" name="Myanmar" pageId="20" pageNumber="170">Burma</collectingCountry>
+, 
+<collectingCountry id="C7D57663FFAA1B1DFAC7FA52027C4027" box="[1309,1402,1511,1553]" name="Thailand" pageId="20" pageNumber="170">Siam</collectingCountry>
+, 
+<collectingCountry id="C7D57663FFAA1B1DFA48FA5202F94027" box="[1426,1535,1511,1553]" name="China" pageId="20" pageNumber="170">China</collectingCountry>
+, 
+<collectingCountry id="C7D57663FFAA1B1DF9CEFA5201844027" box="[1556,1666,1511,1553]" name="Japan" pageId="20" pageNumber="170">Japan</collectingCountry>
+, through the Malay Archipelago to New 
+<collectingCountry id="C7D57663FFAA1B1DFBDCF9AE038E4072" box="[1030,1160,1563,1604]" name="Guinea-Bissau" pageId="20" pageNumber="170">Guinea</collectingCountry>
+. It has been known in Hawaii since 1905, doubtless introduced in bamboo furniture or other articles.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

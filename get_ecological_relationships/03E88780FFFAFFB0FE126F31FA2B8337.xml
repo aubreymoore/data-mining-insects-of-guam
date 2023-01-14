@@ -1,0 +1,113 @@
+<document id="3BA5596EBCCC3581883B1F429D44EC09" ID-DOI="http://doi.org/10.5281/zenodo.5169330" ID-GBIF-Dataset="11d04f7a-e744-4ac9-b0af-3cbf68f8cc92" ID-Zenodo-Dep="5169330" checkinTime="1628021447149" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="03E88780FFFAFFB0FE126F31FA2B8337" docLanguage="en" docName="InsectsOfGuamII.189.201-210.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Megastigmus mariannensis Fullaway, 1946, new species" docType="treatment" docVersion="8" lastPageNumber="204" masterDocId="FFD1FFF8FFF9FFB3FFC86E5DFFBE8B32" masterDocTitle="Hymenoptera, New Species Of Guam Chalcidoidea" masterLastPageNumber="210" masterPageNumber="201" pageNumber="204" updateTime="1658154551490" updateUser="annettekang">
+<mods:mods id="5B3AC6A96A5CBE84CEBD017EF8D4C9C7" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="5295ADA58BE48ABF750559C713562055">
+<mods:title id="A3A62083041CD7FD292EDDB3F1B481D1">Hymenoptera, New Species Of Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="189EF402E40C908440A26B12AEA657F5" type="personal">
+<mods:role id="35A97C837E7E9258EC2AA1F6A4F722AB">
+<mods:roleTerm id="D130A4BAD3273ACB43D1EA848269378C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="60D56E7CF169BC7738EB4494B0479EFD">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="6B79C3693EEFBCDD42A5287F4F05D6D4">Board of Agriculture and Forestry Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="7AF7B865228D563BE80491B89A6F95B5">text</mods:typeOfResource>
+<mods:relatedItem id="DA750C2A701AE1612032050BEC442580" type="host">
+<mods:originInfo id="6870B656162FDA91E07A0592BB4F8E8E">
+<mods:dateIssued id="C5DCD1C2FB09CBA8155CF4CBE549989A">1946</mods:dateIssued>
+<mods:dateOther id="35FF0A19A9F66533B28BCB584A199982" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="94F3F9DB6EFDD7207BCD714B3F4B2550">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="E4DC9359C2C2091FA70EBE1DAAC5F630">
+<mods:placeTerm id="1446C45874C78A087E0C519BA413CE3A">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="CA470157D683ECBAB483887853DAA842">
+<mods:title id="37424AB84605D0513DB8C84569424811">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="23758B3DDB1100B00ABF4002E56F1DB6">
+<mods:extent id="B6B1E495A5E1F3B240EB03902D537AD6" unit="page">
+<mods:start id="BEDD9C00E3116683263B19A64A724C27">201</mods:start>
+<mods:end id="8D24DE2CC44E05F537B9AD200367E479">210</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="DBF37EDCF1D3DBD09C1013C6FD38EA06">book chapter</mods:classification>
+<mods:identifier id="92312E03B4D0B2746ADFC5E066D521E4" type="DOI">http://doi.org/10.5281/zenodo.5169330</mods:identifier>
+<mods:identifier id="A23C595ACF3EBF480F8AB334C84AA8C8" type="GBIF-Dataset">11d04f7a-e744-4ac9-b0af-3cbf68f8cc92</mods:identifier>
+<mods:identifier id="B5A8169D61C7ABCC64889B486F7B238A" type="Zenodo-Dep">5169330</mods:identifier>
+</mods:mods>
+<treatment id="03E88780FFFAFFB0FE126F31FA2B8337" ID-DOI="http://doi.org/10.5281/zenodo.5186388" ID-GBIF-Taxon="184009977" ID-Zenodo-Dep="5186388" LSID="urn:lsid:plazi:treatment:03E88780FFFAFFB0FE126F31FA2B8337" httpUri="http://treatment.plazi.org/id/03E88780FFFAFFB0FE126F31FA2B8337" lastPageNumber="204" pageId="3" pageNumber="204">
+<subSubSection id="C35B651DFFFAFFB0FE126F31FABB8AA7" box="[474,1285,364,405]" pageId="3" pageNumber="204" type="nomenclature">
+<paragraph id="8BFE3696FFFAFFB0FE126F31FABB8AA7" blockId="3.[474,1878,364,1867]" box="[474,1285,364,405]" pageId="3" pageNumber="204">
+<heading id="D0B681FAFFFAFFB0FE126F31FABB8AA7" box="[474,1285,364,405]" fontSize="11" level="2" pageId="3" pageNumber="204" reason="2">
+<emphasis id="B935EA84FFFAFFB0FE126F31FBA88AA7" bold="true" box="[474,1046,364,405]" pageId="3" pageNumber="204">
+4. 
+<taxonomicName id="4C414D15FFFAFFB0FDD16F31FBA88AA7" authorityName="Fullaway" authorityYear="1946" box="[537,1046,364,405]" class="Insecta" family="Torymidae" genus="Megastigmus" kingdom="Animalia" order="Hymenoptera" pageId="3" pageNumber="204" phylum="Arthropoda" rank="species" species="mariannensis" status="new species">Megastigmus mariannensis</taxonomicName>
+</emphasis>
+, 
+<taxonomicNameLabel id="A20657FFFFFAFFB0FBE46F31FABE8AA7" box="[1068,1280,364,405]" pageId="3" pageNumber="204" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C35B651DFFFAFFB0FDE86FFCF9AB8C79" pageId="3" pageNumber="204" type="description">
+<paragraph id="8BFE3696FFFAFFB0FDE86FFCFCED895A" blockId="3.[474,1878,364,1867]" pageId="3" pageNumber="204">
+Female: 
+<quantity id="4CB99B73FFFAFFB0FD776FFCFC9D8AFF" box="[703,803,417,461]" metricMagnitude="-3" metricUnit="m" metricValue="2.0" pageId="3" pageNumber="204" unit="mm" value="2.0">2 mm</quantity>
+. long, with ovipositor which is somewhat curved, and extended beyond the tip of the abdomen; yellowish brown, abdomen infuscated; antennae also, outwardly, legs straw-yellow; ovipositor black. Wings hyaline. Microscopically fine sculpture present throughout but still dully shining; some extremely fine transverse striae on pro and mesonotum.
+</paragraph>
+<paragraph id="8BFE3696FFFAFFB0FDE86C29FA268F8B" blockId="3.[474,1878,364,1867]" pageId="3" pageNumber="204">Head orbiculate, viewed from above transverse and nearly twice as wide as long; eyes laterally placed, fairly large, convex, red; the rather wide occiput, thin frontovertex and quadrate face, together with the rather full cheeks, comprising a continuous, convex, smooth and shining surface, broken only by the antenna! scrobes, which join in upper half, are there quite deep, and reach as far as the ocelli. These are located on frontovertex in the form of an obtuse triangle, the lateral members removed from each other about two diameters and from the eye margin about one; sparse hairy· clothing present, the most notable feature of which is the line of black setae on either side of the face lying about midway between the inner eye margin and the outer scrobal margin; antennae are of moderate length, composed of scape, pedicel, five funicle joints and three-jointed club. Scape long and slender, more than twice as long as pedicel which is obconic, both pale straw-yellow; funicle joints, except slender first joint, short, hardly longer than wide, gradually increasing in size outwardly; club as long as funicle and twice as thick, clothed with hairs; clypeus not definitely set off by a suture; oral opening small; man­ 'dibles short triangular, apical margin bearing several teeth.</paragraph>
+<paragraph id="8BFE3696FFFAFFB0FDE86A99FC408EE3" blockId="3.[474,1878,364,1867]" pageId="3" pageNumber="204">Thorax of rather slender build, not as wide as head, more than twice as long as wide, convex; the prothorax nearly as long as the mesothorax, fairly wide behind but narrowed in front; mesonotum divided into three lobes by rather prominent and well-marked parapsidal grooves; scutellum roughly hexagonal in outline, separated from middle lobe of mesonotum by a shallow groove; the axillae triangular and obscurely separated from the lateral lobes of the mesonotum; metanotum transverse and declivous; all sparsely clothed with black setaceous hairs.</paragraph>
+<paragraph id="8BFE3696FFFAFFB0FDE96B81FDCB8C2E" blockId="3.[474,1878,364,1867]" pageId="3" pageNumber="204">Abdomen depressed above and compressed laterally, plowshare-shaped with a strong curved ovipositor of equal length, all clothed with pale or blackish hairs. Legs normal, of moderate length, rather slender. Wings long and narrow, marginal and postmarginal of equal length and shorter than submarginal, which receives a thin, straight nervure identified as pseudo-basal; stigma! vein with a rather large round knob, which is almost sessile; marginal setae short, rather fine on posterior margin but stouter on anterior; discal ciliation rather dense clothing of very short hairs beyond basal nervure, sparser proximad.</paragraph>
+<paragraph id="8BFE3696FFFAFFB0FDEB6975F9AB8C79" blockId="3.[474,1878,364,1867]" box="[547,1557,1832,1867]" pageId="3" pageNumber="204">Male: similar to female except in secondary sexual characters.</paragraph>
+</subSubSection>
+<subSubSection id="C35B651DFFFAFFB0FDD46932FA2B8337" pageId="3" pageNumber="204" type="materials_examined">
+<paragraph id="8BFE3696FFFAFFB0FDD46932FA2B8337" blockId="3.[478,1877,1903,2053]" pageId="3" pageNumber="204">
+<materialsCitation id="3B293CCBFFFAFFB0FDD46932FAF48CA8" ID-GBIF-Occurrence="3333035311" box="[540,1354,1903,1946]" collectedFrom="ex small fig" collectingDate="1936-10-21" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="3" pageNumber="204" specimenCount-female="1" typeStatus="holotype">
+<location id="8E9E604DFFFAFFB0FDD46932FDCB8CA8" LSID="urn:lsid:plazi:treatment:03E88780FFFAFFB0FE126F31FA2B8337:8E9E604DFFFAFFB0FDD46932FDCB8CA8" box="[540,629,1903,1946]" name="Yigo" pageId="3" pageNumber="204">Yigo</location>
+, 
+<date id="FFFF1056FFFAFFB0FD466932FCAA8CA8" box="[654,788,1903,1946]" pageId="3" pageNumber="204" value="2021-10">
+<collectingDate id="EFBBE9BEFFFAFFB0FD466932FCAA8CA8" box="[654,788,1903,1946]" pageId="3" pageNumber="204" value="2021-10">Oct. 21</collectingDate>
+</date>
+, 
+<collectedFrom id="385D756BFFFAFFB0FCE56932FBBA8CA8" box="[813,1028,1903,1946]" pageId="3" pageNumber="204">ex small fig</collectedFrom>
+, 
+<specimenCount id="9D47FD1FFFFAFFB0FBD46932FAFD8CA8" box="[1052,1347,1903,1946]" pageId="3" pageNumber="204" type="female">holotype female</specimenCount>
+;
+</materialsCitation>
+<materialsCitation id="3B293CCBFFFAFFB0FA946932FC7B8CFD" ID-GBIF-Occurrence="3333035303" collectedFrom="ex larger fig" collectingDate="1936-05-17" collectorName="O. H. Swezey" country="Guam" location="Tarague" pageId="3" pageNumber="204" specimenCount-female="1" specimenCount-male="1">
+<location id="8E9E604DFFFAFFB0FA946932FA4C8CA8" LSID="urn:lsid:plazi:treatment:03E88780FFFAFFB0FE126F31FA2B8337:8E9E604DFFFAFFB0FA946932FA4C8CA8" box="[1372,1522,1903,1946]" name="Tarague" pageId="3" pageNumber="204">Tarague</location>
+, 
+<date id="FFFF1056FFFAFFB0F9C56932F9278CA8" box="[1549,1689,1903,1946]" pageId="3" pageNumber="204" value="2017-05">
+<collectingDate id="EFBBE9BEFFFAFFB0F9C56932F9278CA8" box="[1549,1689,1903,1946]" pageId="3" pageNumber="204" value="2017-05">May 17</collectingDate>
+</date>
+, 
+<collectedFrom id="385D756BFFFAFFB0F97A6932FDB38CFD" pageId="3" pageNumber="204">ex larger fig</collectedFrom>
+, 
+<specimenCount id="9D47FD1FFFFAFFB0FDE269F8FC008CFD" box="[554,958,1957,1999]" pageId="3" pageNumber="204" type="male">one female, one male</specimenCount>
+;
+</materialsCitation>
+<materialsCitation id="3B293CCBFFFAFFB0FC1369F8FA2B8337" ID-GBIF-Occurrence="3333035313" collectedFrom="ex Ficus mariannensis" collectingDate="1936-06-24" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="3" pageNumber="204" specimenCount-female="1" specimenCount-male="1" typeStatus="paratype">
+<location id="8E9E604DFFFAFFB0FC1369F8FB308CFD" LSID="urn:lsid:plazi:treatment:03E88780FFFAFFB0FE126F31FA2B8337:8E9E604DFFFAFFB0FC1369F8FB308CFD" box="[987,1166,1957,1999]" name="Barrigada" pageId="3" pageNumber="204">Barrigada</location>
+, 
+<date id="FFFF1056FFFAFFB0FB6469F8FAFF8CFD" box="[1196,1345,1957,1999]" pageId="3" pageNumber="204" value="1924-06">
+<collectingDate id="EFBBE9BEFFFAFFB0FB6469F8FAFF8CFD" box="[1196,1345,1957,1999]" pageId="3" pageNumber="204" value="1924-06">June 24</collectingDate>
+</date>
+, 
+<collectedFrom id="385D756BFFFAFFB0FA9669F8F9428CFD" box="[1374,1788,1957,1999]" pageId="3" pageNumber="204">
+ex 
+<emphasis id="B935EA84FFFAFFB0FA5469F8F8BC8CFD" box="[1436,1794,1957,1999]" italics="true" pageId="3" pageNumber="204">
+<taxonomicName id="4C414D15FFFAFFB0FA5469F8F9428CFD" box="[1436,1788,1957,1999]" class="Gastropoda" family="Ficidae" genus="Ficus" kingdom="Animalia" order="Littorinimorpha" pageId="3" pageNumber="204" phylum="Mollusca" rank="species" species="mariannensis">Ficus mariannensis</taxonomicName>
+,
+</emphasis>
+</collectedFrom>
+<specimenCount id="9D47FD1FFFFAFFB0F8D069F8FCB68337" pageId="3" pageNumber="204" type="male">one female, one male</specimenCount>
+, 
+<typeStatus id="54FA8834FFFAFFB0FCD56986FC748337" box="[797,970,2011,2053]" pageId="3" pageNumber="204">paratypes</typeStatus>
+. All collected by 
+<collectorName id="26B45340FFFAFFB0FAC16986FA2E8337" box="[1289,1424,2011,2053]" pageId="3" pageNumber="204">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,149 @@
+<document id="FC34D6572360A0FA843135D230BB8D6C" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF88FFE6E41CFDCB8BEFFB46" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Spalangia philippinensis Fullaway" docType="treatment" docVersion="16" lastPageNumber="213" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="213" updateTime="1663098421291" updateUser="ExternalLinkService">
+<mods:mods id="191C18563DF897FACB94926A3A96A9F7" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="121436800DC221A65599F8DEA37F3D7E">
+<mods:title id="1E42A13F98BA2B0EA42E5475A286B0EB">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="014B79CA4E4EFBD51C3555339930E71D" type="personal">
+<mods:role id="132C6C26A668849AA523EDCD7D9BA208">
+<mods:roleTerm id="0D6C542CC480568079D4B17F51EB1B25">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B2683704DCDEC4587A7987BBE75B9D27">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="6BDB1DC4FC6D83289BE22308F15BD66F">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="CDDC890EBDC75D03A4864794BB996CB9">text</mods:typeOfResource>
+<mods:relatedItem id="840788E7684B2E6D440E3545ABDE13F9" type="host">
+<mods:originInfo id="8E78FF26F07C73D2B63A784D17120B72">
+<mods:dateIssued id="DCD9362552E321B28E77FAA0D6DC6D5D">1946</mods:dateIssued>
+<mods:dateOther id="45AAC0AFCD445F93FD6E6FB27BAF2ECD" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="90728B388BE002E2DE621B72ED360696">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="C99C21E27AFC544B1E3A8460C96DB35D">
+<mods:placeTerm id="5F1F71F10F0BBF3A9A6CD831D8E14225">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="952FB88D001B88796A48A96B7CE307F9">
+<mods:title id="BAA1E41627638E36A14233D412A1FA83">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="24C0684EE82160DFFD3784BBE476F4B7">
+<mods:extent id="62B16931CF1CB9889FE4BB6568E93DE3" unit="page">
+<mods:start id="48B02B3A5E6D6FECE6F4151E3D245ABD">211</mods:start>
+<mods:end id="6BC3EB594D839724B2629FCF7EDEC953">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="66A89C00DF6955AFED1E3D08E800C9E7">book chapter</mods:classification>
+<mods:identifier id="C91887E653C66264F82216DD5483C026" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="E2B0867BE12BCD67AC71C710294A093E" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="B30E4123199CE13E04AD386768FF5CBB" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF88FFE6E41CFDCB8BEFFB46" ID-DOI="http://doi.org/10.5281/zenodo.5211995" ID-GBIF-Taxon="187737475" ID-Zenodo-Dep="5211995" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE6E41CFDCB8BEFFB46" httpUri="http://treatment.plazi.org/id/7376EC19FF88FFE6E41CFDCB8BEFFB46" lastPageNumber="213" pageId="2" pageNumber="213">
+<subSubSection id="B3C50E84FF88FFE6E41CFDCB8CACFD41" box="[287,1010,615,659]" pageId="2" pageNumber="213" type="nomenclature">
+<paragraph id="FB605D0FFF88FFE6E41CFDCB8CACFD41" blockId="2.[284,1682,615,1172]" box="[287,1010,615,659]" pageId="2" pageNumber="213">
+<heading id="A028EA63FF88FFE6E41CFDCB8CACFD41" box="[287,1010,615,659]" centered="true" fontSize="8" level="2" pageId="2" pageNumber="213" reason="4">
+<emphasis id="C9AB811DFF88FFE6E41CFDCB8E11FD41" bold="true" box="[287,335,615,659]" pageId="2" pageNumber="213">14.</emphasis>
+<taxonomicName id="3CDF268CFF88FFE6E472FDCB8CB5FD41" authority="Fullaway" box="[369,1003,615,659]" class="Insecta" family="Pteromalidae" genus="Spalangia" kingdom="Animalia" order="Hymenoptera" pageId="2" pageNumber="213" phylum="Arthropoda" rank="species" species="philippinensis">
+<emphasis id="C9AB811DFF88FFE6E472FDCB8C71FD41" bold="true" box="[369,815,615,659]" pageId="2" pageNumber="213">Spalangia philippinensis</emphasis>
+<author id="2362B5EAFF88FFE6E63CFDCB8CB5FD41" box="[831,1003,615,659]" pageId="2" pageNumber="213">Fullaway</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF88FFE6E107FDCB8EEDFD15" pageId="2" pageNumber="213" type="reference_group">
+<paragraph id="FB605D0FFF88FFE6E107FDCB8EEDFD15" blockId="2.[284,1682,615,1172]" pageId="2" pageNumber="213">
+<treatmentCitationGroup id="DBCF7A21FF88FFE6E107FDCB8EEDFD15" pageId="2" pageNumber="213">
+<treatmentCitation id="7A7E7B1EFF88FFE6E107FDCB8EEDFD15" author="Fullaway" page="292" pageId="2" pageNumber="213" year="1917">
+<bibCitation id="2EF55563FF88FFE6E107FDCB8EEDFD15" author="Fullaway" journalOrPublisher="Haw. Ent. Soc., Proc." pageId="2" pageNumber="213" pagination="292" part="3" refId="ref893" type="journal volume" year="1917">
+<journalOrPublisher id="211E57C3FF88FFE6E107FDCB8ACAFD41" box="[1028,1428,615,659]" pageId="2" pageNumber="213">Haw. Ent. Soc., Proc.</journalOrPublisher>
+<emphasis id="C9AB811DFF88FFE6E0A6FDCB8A96FD41" bold="true" box="[1445,1480,615,659]" pageId="2" pageNumber="213">
+<part id="8F7BF792FF88FFE6E0A6FDCB8A9EFD41" box="[1445,1472,615,659]" pageId="2" pageNumber="213">3</part>
+:
+</emphasis>
+<pagination id="C216A3FBFF88FFE6E0D5FDCB8948FD41" box="[1494,1558,615,659]" pageId="2" pageNumber="213">292</pagination>
+, fig. 1, 
+<year id="8F771C5CFF88FFE6E45FFD318EF0FD15" box="[348,430,669,711]" pageId="2" pageNumber="213">1917</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF88FFE6E45FFD7D8EF6FC47" pageId="2" pageNumber="213" type="materials_examined">
+<paragraph id="FB605D0FFF88FFE6E45FFD7D8EF6FC47" blockId="2.[284,1682,615,1172]" pageId="2" pageNumber="213">
+<materialsCitation id="4BB75752FF88FFE6E45FFD7D8BF1FD2B" ID-GBIF-Occurrence="3901040315" box="[348,1199,721,761]" collectedFrom="swept from bean vines" collectingDate="1936-05-23" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="213">
+<collectingMunicipality id="1B04C775FF88FFE6E45FFD7D8EC0FD2B" box="[348,414,721,761]" pageId="2" pageNumber="213">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF88FFE6E4B9FD7D8D18FD2B" box="[442,582,721,761]" pageId="2" pageNumber="213" value="1923-05">
+<collectingDate id="9F258227FF88FFE6E4B9FD7D8D18FD2B" box="[442,582,721,761]" pageId="2" pageNumber="213" value="1923-05">May 23</collectingDate>
+</date>
+, swept from bean vines, 
+<collectorName id="562A38D9FF88FFE6E11FFD7D8BF6FD2B" box="[1052,1192,721,761]" pageId="2" pageNumber="213">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF88FFE6E1C7FD7D8C2BFCFC" ID-GBIF-Occurrence="3901040378" collectedFrom="swept from Piper guahamense" collectingDate="1936-08-06" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="2" pageNumber="213">
+<collectingMunicipality id="1B04C775FF88FFE6E1C7FD7D8A25FD2B" box="[1220,1403,721,761]" pageId="2" pageNumber="213">Machanao</collectingMunicipality>
+, 
+<date id="8F617BCFFF88FFE6E097FD7D894CFD2B" box="[1428,1554,721,761]" pageId="2" pageNumber="213">
+<collectingDate id="9F258227FF88FFE6E097FD7D894CFD2B" box="[1428,1554,721,761]" pageId="2" pageNumber="213">Aug. 6</collectingDate>
+</date>
+, swept from 
+<taxonomicName id="3CDF268CFF88FFE6E481FCA88C30FCFC" authority=", Swezey" authorityName="Swezey" box="[386,878,772,814]" class="Magnoliopsida" family="Piperaceae" genus="Piper" kingdom="Plantae" order="Piperales" pageId="2" pageNumber="213" phylum="Tracheophyta" rank="species" species="guahamense">
+<emphasis id="C9AB811DFF88FFE6E481FCA88D8FFCFC" box="[386,721,772,814]" italics="true" pageId="2" pageNumber="213">
+<location id="FE000BD4FF88FFE6E481FCA88EBBFCFC" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE6E41CFDCB8BEFFB46:FE000BD4FF88FFE6E481FCA88EBBFCFC" box="[386,485,772,814]" municipality="Machanao" name="Piper" pageId="2" pageNumber="213">Piper</location>
+guahamense,
+</emphasis>
+<collectorName id="562A38D9FF88FFE6E7E1FCA88C30FCFC" box="[738,878,772,814]" pageId="2" pageNumber="213">Swezey</collectorName>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF88FFE6E686FCA88B41FCB3" ID-GBIF-Occurrence="3901040393" collectedFrom="ex puparium of Ophyra chalcogaster Wiedemann in cow dung" collectingDate="1936-09-21" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="213">
+<collectingMunicipality id="1B04C775FF88FFE6E686FCA88C96FCFC" box="[901,968,772,814]" pageId="2" pageNumber="213">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF88FFE6E6E3FCA88B2FFCFC" box="[992,1137,772,814]" pageId="2" pageNumber="213" value="2021-09">
+<collectingDate id="9F258227FF88FFE6E6E3FCA88B2FFCFC" box="[992,1137,772,814]" pageId="2" pageNumber="213" value="2021-09">Sept. 21</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF88FFE6E184FCA88BEFFCFC" box="[1159,1201,772,814]" pageId="2" pageNumber="213" type="generic">ex</specimenCount>
+puparium of 
+<taxonomicName id="3CDF268CFF88FFE6E0A8FCA88DD3FCB3" class="Insecta" family="Muscidae" genus="Ophyra" kingdom="Animalia" order="Diptera" pageId="2" pageNumber="213" phylum="Arthropoda" rank="genus">
+<location id="FE000BD4FF88FFE6E0A8FCA88DD3FCB3" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE6E41CFDCB8BEFFB46:FE000BD4FF88FFE6E0A8FCA88DD3FCB3" municipality="Piti" name="Ophyra chalcogaster Wiedemann" pageId="2" pageNumber="213">
+<emphasis id="C9AB811DFF88FFE6E0A8FCA88EF3FCB3" italics="true" pageId="2" pageNumber="213">Ophyra chalcogaster</emphasis>
+Wiedemann
+</location>
+</taxonomicName>
+in cow dung, 
+<collectorName id="562A38D9FF88FFE6E688FC9A8B46FCB3" box="[907,1048,822,865]" pageId="2" pageNumber="213">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF88FFE6E12DFC9A8EF6FC47" ID-GBIF-Occurrence="3901040335" collectedFrom="swept from bamboo" collectingDate="1936-11-15" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="213">
+<collectingMunicipality id="1B04C775FF88FFE6E12DFC9A8B2FFCB3" box="[1070,1137,822,865]" pageId="2" pageNumber="213">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF88FFE6E18BFC9A8A4BFCB3" box="[1160,1301,822,865]" pageId="2" pageNumber="213" value="2015-11">
+<collectingDate id="9F258227FF88FFE6E18BFC9A8A4BFCB3" box="[1160,1301,822,865]" pageId="2" pageNumber="213" value="2015-11">Nov. 15</collectingDate>
+</date>
+, swept from bamboo, 
+<collectorName id="562A38D9FF88FFE6E41EFCC78EFDFC47" box="[285,419,875,917]" pageId="2" pageNumber="213">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF88FFE6E458FC318BEFFB46" pageId="2" pageNumber="213" type="discussion">
+<paragraph id="FB605D0FFF88FFE6E458FC318BEFFB46" blockId="2.[284,1682,615,1172]" pageId="2" pageNumber="213">
+This dipterous parasite was introduced into Hawaii from the 
+<collectingCountry id="83C81D9FFF88FFE6E0CEFC3189CEFC15" box="[1485,1680,925,967]" name="Philippines" pageId="2" pageNumber="213">Philippines</collectingCountry>
+in 1914. It was introduced from Hawaii to 
+<collectingCountry id="83C81D9FFF88FFE6E133FC7C8BC7FC28" box="[1072,1177,976,1018]" name="Guam" pageId="2" pageNumber="213">Guam</collectingCountry>
+in 1928. By 1930 it became so well established that house fly and stable fly puparia collected about the Experiment Station grounds showed a parasitism of 
+<emphasis id="C9AB811DFF88FFE6E1EAFB9A8A4EFBB3" bold="true" box="[1257,1296,1078,1121]" pageId="2" pageNumber="213">75</emphasis>
+to 80 percent. 
+<materialsCitation id="4BB75752FF88FFE6E338FB9A8BF2FB46" ID-GBIF-Occurrence="3901040306" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="2" pageNumber="213" specimenCount="4">
+Four 
+<specimenCount id="EDD99686FF88FFE6E41EFBC68E91FB46" box="[285,463,1130,1172]" pageId="2" pageNumber="213" type="generic">specimens</specimenCount>
+, one retained in 
+<collectingCountry id="83C81D9FFF88FFE6E7FFFBC68C07FB46" box="[764,857,1130,1172]" name="United States of America" pageId="2" pageNumber="213">U. S.</collectingCountry>
+<location id="FE000BD4FF88FFE6E669FBC68BF2FB46" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE6E41CFDCB8BEFFB46:FE000BD4FF88FFE6E669FBC68BF2FB46" box="[874,1196,1130,1172]" country="United States of America" name="National Museum" pageId="2" pageNumber="213">National Museum</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

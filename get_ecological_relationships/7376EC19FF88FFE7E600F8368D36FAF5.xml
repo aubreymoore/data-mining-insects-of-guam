@@ -1,0 +1,357 @@
+<document id="1D9B11298F5F323DE856C2B4E94E8733" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF88FFE7E600F8368D36FAF5" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Eupelmidae Walker 1833" docType="treatment" docVersion="13" lastPageNumber="214" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="213" updateTime="1664203411617" updateUser="annettekang">
+<mods:mods id="666E7815CD40E8E95696FC5901B97185" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B16D93B7DFF0266C908E2CABB47709F7">
+<mods:title id="A671393DCA60E94E480CF389EA7B4C74">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="0872D300AE08380C5207C21FC29291FC" type="personal">
+<mods:role id="9A332450A7BFC33A826A71B70FE224EB">
+<mods:roleTerm id="D5B1710AAD9E5CB61B364EAE2BA4AF29">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D700B9E964559E8A57A41E1DC5A7BB82">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="8D5E23E77EA8233432601E207F62BE8D">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="FFB96E051E096071A40C61BC05BF7EC1">text</mods:typeOfResource>
+<mods:relatedItem id="33FB8E4ED77A8CBB3D9A32D60DD63EAE" type="host">
+<mods:originInfo id="12C12C09742EF728303D55CB1141BF83">
+<mods:dateIssued id="735DB24641A2E0508AEB237CE6CC0D41">1946</mods:dateIssued>
+<mods:dateOther id="5652235BC9073256B3BA6FFB5C960952" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="3691AAEC12546D68E9971D1CC8FFD364">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="443929902B4FBD23E91F09951FE583B6">
+<mods:placeTerm id="4DA59A45875272BFA58AC6817A0E2542">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="15F13F26F0C30F0665061E6124CB8170">
+<mods:title id="DA5DF82A31589E5775E701EE402D1A31">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="D22603DC4AB668492086E068AA52A2B8">
+<mods:extent id="86C0AF47150BDBB76FBECA2576A7623C" unit="page">
+<mods:start id="FC9427985D9E2F39E859FD8C782D2F5D">211</mods:start>
+<mods:end id="C694B5282B7765584DE2A7CC76161E2C">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="495B24E6A4B1430E21A6B3EF7A3D8DEA">book chapter</mods:classification>
+<mods:identifier id="A4B30A662B004E479EE57C1B496AFEFD" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="F4A0D203AA7F198B9571122C7D4EFCB3" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="DD514FD8C1E3F8FDAA3D9DE5E8AD71CA" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF88FFE7E600F8368D36FAF5" ID-DOI="http://doi.org/10.5281/zenodo.5158841" ID-GBIF-Taxon="187737469" ID-Zenodo-Dep="5158841" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE7E600F8368D36FAF5" httpUri="http://treatment.plazi.org/id/7376EC19FF88FFE7E600F8368D36FAF5" lastPageId="3" lastPageNumber="214" pageId="2" pageNumber="213">
+<subSubSection id="B3C50E84FF88FFE6E600F8368C8DF7CB" pageId="2" pageNumber="213" type="nomenclature">
+<subSection id="925044E4FF88FFE6E600F8368BF2F816" box="[771,1196,1946,1988]" pageId="2" pageNumber="213" type="multiple">
+<paragraph id="FB605D0FFF88FFE6E600F8368BF2F816" blockId="2.[771,1196,1946,1988]" box="[771,1196,1946,1988]" pageId="2" pageNumber="213">
+<heading id="A028EA63FF88FFE6E600F8368BF2F816" box="[771,1196,1946,1988]" centered="true" fontSize="8" level="2" pageId="2" pageNumber="213" reason="3">
+FAMILY 
+<taxonomicName id="3CDF268CFF88FFE6E6A7F8368BF2F816" authorityName="Walker" authorityYear="1833" box="[932,1196,1946,1988]" class="Insecta" family="Eupelmidae" kingdom="Animalia" order="Hymenoptera" pageId="2" pageNumber="213" phylum="Arthropoda" rank="family">EUPELMIDAE</taxonomicName>
+</heading>
+</paragraph>
+</subSection>
+<paragraph id="FB605D0FFF88FFE6E41EF8438C8DF7CB" blockId="2.[282,1681,2031,2329]" box="[285,979,2031,2073]" pageId="2" pageNumber="213">
+<heading id="A028EA63FF88FFE6E41EF8438C8DF7CB" box="[285,979,2031,2073]" fontSize="8" level="2" pageId="2" pageNumber="213" reason="4">
+<emphasis id="C9AB811DFF88FFE6E41EF8438E12F7CB" bold="true" box="[285,332,2031,2073]" pageId="2" pageNumber="213">18.</emphasis>
+<taxonomicName id="3CDF268CFF88FFE6E46DF8438C90F7CB" authority="(Cameron)" box="[366,974,2031,2073]" class="Insecta" family="Eupelmidae" genus="Anastatus" kingdom="Animalia" order="Hymenoptera" pageId="2" pageNumber="213" phylum="Arthropoda" rank="species">
+<emphasis id="C9AB811DFF88FFE6E46DF8438DB1F7CB" bold="true" box="[366,751,2031,2073]" pageId="2" pageNumber="213">Anastatus picticornis</emphasis>
+(Cameron)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF88FFE6E459F78E8970F79E" box="[346,1582,2082,2124]" pageId="2" pageNumber="213" type="discussion">
+<paragraph id="FB605D0FFF88FFE6E459F78E8970F79E" blockId="2.[282,1681,2031,2329]" box="[346,1582,2082,2124]" pageId="2" pageNumber="213">
+<bibCitation id="2EF55563FF88FFE6E459F78E8970F79E" author="Cameron, Ent" box="[346,1582,2082,2124]" journalOrPublisher="Trans" pageId="2" pageNumber="213" refId="ref1184" title="Soc. London" type="book" year="1898">
+<treatmentCitationGroup id="DBCF7A21FF88FFE6E459F78E8977F79E" box="[346,1577,2082,2124]" pageId="2" pageNumber="213">
+<treatmentCitation id="7A7E7B1EFF88FFE6E459F78E8977F79E" author="Cameron" box="[346,1577,2082,2124]" page="189" pageId="2" pageNumber="213" year="1898">
+<emphasis id="C9AB811DFF88FFE6E459F78E8D89F79E" box="[346,727,2082,2124]" italics="true" pageId="2" pageNumber="213">Solindenia picticornis</emphasis>
+<author id="2362B5EAFF88FFE6E7E5F78E8CD9F79E" box="[742,903,2082,2124]" case="TC" fn="Ent" fnc="TC" fns="N" ln="Cameron" lnc="TC" npo="LnFn" pageId="2" pageNumber="213">Cameron</author>
+, Ent. 
+<title id="89DBB639FF88FFE6E6FBF78E8B84F79E" box="[1016,1242,2082,2124]" jopScore="2.7829862" pageId="2" pageNumber="213">Soc. London</title>
+, 
+<journalOrPublisher id="211E57C3FF88FFE6E1F3F78E8A3EF79E" box="[1264,1376,2082,2124]" jopScore="1.8181819" pageId="2" pageNumber="213">Trans</journalOrPublisher>
+., 189, 
+<year id="8F771C5CFF88FFE6E0D6F78E8977F79E" box="[1493,1577,2082,2124]" pageId="2" pageNumber="213">1898</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF88FFE6E45EF7FA8DA1F737" pageId="2" pageNumber="213" type="materials_examined">
+<paragraph id="FB605D0FFF88FFE6E45EF7FA8DA1F737" blockId="2.[282,1681,2031,2329]" pageId="2" pageNumber="213">
+<materialsCitation id="4BB75752FF88FFE6E45EF7FA8CFCF753" ID-GBIF-Occurrence="3901040333" box="[349,930,2134,2177]" collectedFrom="in house" collectingDate="1936-05-01" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="2" pageNumber="213">
+<collectingMunicipality id="1B04C775FF88FFE6E45EF7FA8EC1F753" box="[349,415,2134,2177]" pageId="2" pageNumber="213">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF88FFE6E4B8F7FA8D6CF753" box="[443,562,2134,2177]" pageId="2" pageNumber="213">
+<collectingDate id="9F258227FF88FFE6E4B8F7FA8D6CF753" box="[443,562,2134,2177]" pageId="2" pageNumber="213">May 1</collectingDate>
+</date>
+, in house, 
+<location id="FE000BD4FF88FFE6E607F7FA8CC5F753" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE7E600F8368D36FAF5:FE000BD4FF88FFE6E607F7FA8CC5F753" box="[772,923,2134,2177]" municipality="Piti" name="Usinger" pageId="2" pageNumber="213">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF88FFE6E6B5F7FA8BD0F753" ID-GBIF-Occurrence="3901040332" box="[950,1166,2134,2177]" collectedFrom="in house and on mango leaves" collectingDate="1936-07-05" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="213">
+<collectingMunicipality id="1B04C775FF88FFE6E6B5F7FA8CA6F753" box="[950,1016,2134,2177]" pageId="2" pageNumber="213">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF88FFE6E110F7FA8BD9F753" box="[1043,1159,2134,2177]" pageId="2" pageNumber="213">
+<collectingDate id="9F258227FF88FFE6E110F7FA8BD9F753" box="[1043,1159,2134,2177]" pageId="2" pageNumber="213">July 5</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="4BB75752FF88FFE6E1A2F7FA8B9EF753" ID-GBIF-Occurrence="3901040340" box="[1185,1216,2134,2177]" collectedFrom="in house and on mango leaves" collectingDate="1936-07-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="213">9,</materialsCitation>
+<materialsCitation id="4BB75752FF88FFE6E1D0F7FA8DEBF761" ID-GBIF-Occurrence="3901040346" collectedFrom="in house and on mango leaves" collectingDate="1936-07-19" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="213">
+and 19, in house and on mango leaves, 
+<collectorName id="562A38D9FF88FFE6E722F72B8DF0F761" box="[545,686,2183,2227]" pageId="2" pageNumber="213">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF88FFE6E7C5F72B8DA1F737" ID-GBIF-Occurrence="3901040372" collectingDate="1936-09-24" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="213" specimenCount="8">
+<collectingMunicipality id="1B04C775FF88FFE6E7C5F72B8C56F761" box="[710,776,2183,2227]" pageId="2" pageNumber="213">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF88FFE6E623F72B8CECF761" box="[800,946,2183,2227]" pageId="2" pageNumber="213" value="1924-09">
+<collectingDate id="9F258227FF88FFE6E623F72B8CECF761" box="[800,946,2183,2227]" pageId="2" pageNumber="213" value="1924-09">Sept. 24</collectingDate>
+</date>
+, 
+<collectorName id="562A38D9FF88FFE6E6CAF72B8B11F761" box="[969,1103,2183,2227]" pageId="2" pageNumber="213">Swezey</collectorName>
+. Eight 
+<specimenCount id="EDD99686FF88FFE6E1E3F72B8ACDF761" box="[1248,1427,2183,2227]" pageId="2" pageNumber="213" type="generic">specimens</specimenCount>
+, four retained in 
+<collectingCountry id="83C81D9FFF88FFE6E44AF7118EF8F737" box="[329,422,2237,2277]" name="United States of America" pageId="2" pageNumber="213">U. S.</collectingCountry>
+<location id="FE000BD4FF88FFE6E4B4F7118DA4F737" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE7E600F8368D36FAF5:FE000BD4FF88FFE6E4B4F7118DA4F737" box="[439,762,2237,2277]" country="United States of America" municipality="Piti" name="National Museum" pageId="2" pageNumber="213">National Museum</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF88FFE6E45AF75C8911F6CB" box="[345,1615,2288,2329]" pageId="2" pageNumber="213" type="discussion">
+<paragraph id="FB605D0FFF88FFE6E45AF75C8911F6CB" blockId="2.[282,1681,2031,2329]" box="[345,1615,2288,2329]" pageId="2" pageNumber="213">A parasite of roach egg capsules. Described from the Hawaiian Islands.</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF88FFE6E41FF6E88DE6F6BC" box="[284,696,2372,2414]" pageId="2" pageNumber="213" type="discussion">
+<paragraph id="FB605D0FFF88FFE6E41FF6E88DE6F6BC" blockId="2.[284,1099,2372,2466]" box="[284,696,2372,2414]" pageId="2" pageNumber="213">
+<heading id="A028EA63FF88FFE6E41FF6E88DE6F6BC" box="[284,696,2372,2414]" fontSize="8" level="2" pageId="2" pageNumber="213" reason="4">
+<emphasis id="C9AB811DFF88FFE6E41FF6E88E14F6BC" bold="true" box="[284,330,2372,2414]" pageId="2" pageNumber="213">19.</emphasis>
+<taxonomicName id="3CDF268CFF88FFE6E46EF6E88D7EF6BC" authority="Motschulsky, 1859" box="[365,544,2372,2414]" class="Insecta" family="Eupelmidae" genus="Anastatus" kingdom="Animalia" order="Hymenoptera" pageId="2" pageNumber="213" phylum="Arthropoda" rank="species" species="undefined-A">
+<emphasis id="C9AB811DFF88FFE6E46EF6E88D7EF6BC" bold="true" box="[365,544,2372,2414]" pageId="2" pageNumber="213">Anastatus</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF88FFE6E454F6D48B15F670" box="[343,1099,2424,2466]" pageId="2" pageNumber="213" type="materials_examined">
+<paragraph id="FB605D0FFF88FFE6E454F6D48B15F670" blockId="2.[284,1099,2372,2466]" box="[343,1099,2424,2466]" pageId="2" pageNumber="213">
+<materialsCitation id="4BB75752FF88FFE6E454F6D48B18F670" ID-GBIF-Occurrence="3345364358" box="[343,1094,2424,2466]" collectingDate="1936-05-11" collectorName="R. L. Usinger" country="Guam" location="Dededo" pageId="2" pageNumber="213" specimenCount-male="1">
+A single 
+<specimenCount id="EDD99686FF88FFE6E4FCF6D48D09F670" box="[511,599,2424,2466]" pageId="2" pageNumber="213" type="male">male</specimenCount>
+, 
+<collectingMunicipality id="1B04C775FF88FFE6E76CF6D48DA4F670" box="[623,762,2424,2466]" pageId="2" pageNumber="213">Dededo</collectingMunicipality>
+, 
+<date id="8F617BCFFF88FFE6E613F6D48CFFF670" box="[784,929,2424,2466]" pageId="2" pageNumber="213" value="2011-05">
+<collectingDate id="9F258227FF88FFE6E613F6D48CFFF670" box="[784,929,2424,2466]" pageId="2" pageNumber="213" value="2011-05">May 11</collectingDate>
+</date>
+, 
+<location id="FE000BD4FF88FFE6E6B5F6D48B18F670" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE7E600F8368D36FAF5:FE000BD4FF88FFE6E6B5F6D48B18F670" box="[950,1094,2424,2466]" municipality="Dededo" name="Usinger" pageId="2" pageNumber="213">Usinger</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF89FFE7E4CDFE2C8C85FE79" box="[462,987,384,427]" pageId="3" pageNumber="214" type="discussion">
+<paragraph id="FB605D0FFF89FFE7E4CDFE2C8C85FE79" blockId="3.[462,1861,384,581]" box="[462,987,384,427]" pageId="3" pageNumber="214">
+<heading id="A028EA63FF89FFE7E4CDFE2C8C85FE79" box="[462,987,384,427]" fontSize="8" level="2" pageId="3" pageNumber="214" reason="4">
+<emphasis id="C9AB811DFF89FFE7E4CDFE2C8DA6FE79" bold="true" box="[462,760,384,427]" pageId="3" pageNumber="214">
+20. 
+<taxonomicName id="3CDF268CFF89FFE7E721FE2C8DA6FE79" box="[546,760,384,427]" kingdom="Animalia" pageId="3" pageNumber="214" rank="genus">Eupelminus</taxonomicName>
+</emphasis>
+(?) species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF89FFE7E70DFE1F8A75FD97" pageId="3" pageNumber="214" type="materials_examined">
+<paragraph id="FB605D0FFF89FFE7E70DFE1F8A75FD97" blockId="3.[462,1861,384,581]" pageId="3" pageNumber="214">
+<materialsCitation id="4BB75752FF89FFE7E70DFE1F8B14FE33" ID-GBIF-Occurrence="3901040321" box="[526,1098,435,481]" collectingDate="1936-04-16" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="3" pageNumber="214">
+<collectingMunicipality id="1B04C775FF89FFE7E70DFE1F8C53FE33" box="[526,781,435,481]" pageId="3" pageNumber="214">Ritidian Point</collectingMunicipality>
+, 
+<date id="8F617BCFFF89FFE7E623FE1F8CE8FE33" box="[800,950,435,481]" pageId="3" pageNumber="214" value="2016-04">
+<collectingDate id="9F258227FF89FFE7E623FE1F8CE8FE33" box="[800,950,435,481]" pageId="3" pageNumber="214" value="2016-04">April 16</collectingDate>
+</date>
+, 
+<location id="FE000BD4FF89FFE7E6CFFE1F8B1DFE33" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE7E600F8368D36FAF5:FE000BD4FF89FFE7E6CFFE1F8B1DFE33" box="[972,1091,435,481]" municipality="Ritidian Point" name="Bryan" pageId="3" pageNumber="214">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF89FFE7E155FE1F8942FE33" ID-GBIF-Occurrence="3901040379" box="[1110,1564,435,481]" collectingDate="1936-05-05" collectorName="E. H. Bryan" country="Guam" location="Upi Trail" pageId="3" pageNumber="214">
+<collectingMunicipality id="1B04C775FF89FFE7E155FE1F8A5FFE33" box="[1110,1281,435,481]" pageId="3" pageNumber="214">Upi Trail</collectingMunicipality>
+, 
+<date id="8F617BCFFF89FFE7E014FE1F8AD7FE33" box="[1303,1417,435,481]" pageId="3" pageNumber="214">
+<collectingDate id="9F258227FF89FFE7E014FE1F8AD7FE33" box="[1303,1417,435,481]" pageId="3" pageNumber="214">May 5</collectingDate>
+</date>
+, 
+<location id="FE000BD4FF89FFE7E09CFE1F894BFE33" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE7E600F8368D36FAF5:FE000BD4FF89FFE7E09CFE1F894BFE33" box="[1439,1557,435,481]" municipality="Upi Trail" name="Bryan" pageId="3" pageNumber="214">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF89FFE7E329FE1F8DF6FDC1" ID-GBIF-Occurrence="3901040322" collectingDate="1936-06-12" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="3" pageNumber="214">
+<collectingMunicipality id="1B04C775FF89FFE7E329FE1F8980FE33" box="[1578,1758,435,481]" pageId="3" pageNumber="214">Barrigada</collectingMunicipality>
+, 
+<date id="8F617BCFFF89FFE7E3F2FE1F8EA4FDC1" pageId="3" pageNumber="214" value="2012-06">
+<collectingDate id="9F258227FF89FFE7E3F2FE1F8EA4FDC1" pageId="3" pageNumber="214" value="2012-06">June 12</collectingDate>
+</date>
+, 
+<collectorName id="562A38D9FF89FFE7E716FE448DFFFDC1" box="[533,673,488,531]" pageId="3" pageNumber="214">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF89FFE7E7B9FE448A75FD97" ID-GBIF-Occurrence="3901040368" collectedFrom="swept from coconut leaves" collectingDate="1936-11-18" collectorName="O. H. Swezey" country="Guam" location="Yona" pageId="3" pageNumber="214" specimenCount="5">
+Yona, 
+<date id="8F617BCFFF89FFE7E637FE448C99FDC1" box="[820,967,488,531]" pageId="3" pageNumber="214" value="2018-11">
+<collectingDate id="9F258227FF89FFE7E637FE448C99FDC1" box="[820,967,488,531]" pageId="3" pageNumber="214" value="2018-11">Nov. 18</collectingDate>
+</date>
+, swept from coconut leaves, 
+<collectorName id="562A38D9FF89FFE7E0DAFE44893FFDC1" box="[1497,1633,488,531]" pageId="3" pageNumber="214">Swezey</collectorName>
+: Five 
+<specimenCount id="EDD99686FF89FFE7E3E3FE448D73FD97" pageId="3" pageNumber="214" type="generic">specimens</specimenCount>
+, three retained in 
+<collectingCountry id="83C81D9FFF89FFE7E677FDB18C8CFD97" box="[884,978,541,581]" name="United States of America" pageId="3" pageNumber="214">U. S.</collectingCountry>
+<location id="FE000BD4FF89FFE7E6E0FDB18A78FD97" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE7E600F8368D36FAF5:FE000BD4FF89FFE7E6E0FDB18A78FD97" box="[995,1318,541,581]" country="United States of America" name="National Museum" pageId="3" pageNumber="214">National Museum</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF89FFE7E4CEFDDD8CD1FD49" box="[461,911,625,667]" pageId="3" pageNumber="214" type="discussion">
+<paragraph id="FB605D0FFF89FFE7E4CEFDDD8CD1FD49" blockId="3.[461,1861,625,821]" box="[461,911,625,667]" pageId="3" pageNumber="214">
+<heading id="A028EA63FF89FFE7E4CEFDDD8CD1FD49" box="[461,911,625,667]" fontSize="8" level="2" pageId="3" pageNumber="214" reason="4">
+<emphasis id="C9AB811DFF89FFE7E4CEFDDD8DA8FD49" bold="true" box="[461,758,625,667]" pageId="3" pageNumber="214">
+21. 
+<taxonomicName id="3CDF268CFF89FFE7E723FDDD8DA8FD49" box="[544,758,625,667]" kingdom="Animalia" pageId="3" pageNumber="214" rank="genus">Eupelminus</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF89FFE7E70CFD088D31FCE7" pageId="3" pageNumber="214" type="materials_examined">
+<paragraph id="FB605D0FFF89FFE7E70CFD088D31FCE7" blockId="3.[461,1861,625,821]" pageId="3" pageNumber="214">
+<materialsCitation id="4BB75752FF89FFE7E70CFD088AE8FD1D" ID-GBIF-Occurrence="3901040323" box="[527,1462,676,719]" collectedFrom="on Pandanus" collectingDate="1936-05-19" collectorName="O. H. Swezey" country="Guam" location="Santa Rosa Peak" pageId="3" pageNumber="214">
+<collectingMunicipality id="1B04C775FF89FFE7E70CFD088C10FD1D" box="[527,846,676,719]" pageId="3" pageNumber="214">Santa Rosa Peak</collectingMunicipality>
+, 
+<date id="8F617BCFFF89FFE7E668FD088CA4FD1D" box="[875,1018,676,719]" pageId="3" pageNumber="214" value="2019-05">
+<collectingDate id="9F258227FF89FFE7E668FD088CA4FD1D" box="[875,1018,676,719]" pageId="3" pageNumber="214" value="2019-05">May 19</collectingDate>
+</date>
+, on 
+<taxonomicName id="3CDF268CFF89FFE7E151FD088AF1FD1D" authority=", Swezey" authorityName="Swezey" box="[1106,1455,676,719]" class="Liliopsida" family="Pandanaceae" genus="Pandanus" kingdom="Plantae" order="Pandanales" pageId="3" pageNumber="214" phylum="Tracheophyta" rank="genus">
+<emphasis id="C9AB811DFF89FFE7E151FD088A54FD1D" box="[1106,1290,676,719]" italics="true" pageId="3" pageNumber="214">
+<location id="FE000BD4FF89FFE7E151FD088A5DFD1D" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE7E600F8368D36FAF5:FE000BD4FF89FFE7E151FD088A5DFD1D" box="[1106,1283,676,719]" municipality="Santa Rosa Peak" name="Pandanus" pageId="3" pageNumber="214">Pandanus</location>
+,
+</emphasis>
+<collectorName id="562A38D9FF89FFE7E022FD088AF1FD1D" box="[1313,1455,676,719]" pageId="3" pageNumber="214">Swezey</collectorName>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF89FFE7E0CEFD088D31FCE7" ID-GBIF-Occurrence="3901040361" collectedFrom="swept from Glochidion" collectingDate="1936-08-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="3" pageNumber="214" specimenCount="2">
+<collectingMunicipality id="1B04C775FF89FFE7E0CEFD08894EFD1D" box="[1485,1552,676,719]" pageId="3" pageNumber="214">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF89FFE7E32EFD08899DFD1D" box="[1581,1731,676,719]" pageId="3" pageNumber="214" value="2013-08">
+<collectingDate id="9F258227FF89FFE7E32EFD08899DFD1D" box="[1581,1731,676,719]" pageId="3" pageNumber="214" value="2013-08">Aug. 13</collectingDate>
+</date>
+, swept from 
+<taxonomicName id="3CDF268CFF89FFE7E73DFD7B8CFAFCD0" authority=", Swezey. Two" authorityName="Swezey. Two" box="[574,932,727,770]" class="Magnoliopsida" family="Phyllanthaceae" genus="Glochidion" kingdom="Plantae" order="Malpighiales" pageId="3" pageNumber="214" phylum="Tracheophyta" rank="genus">
+<emphasis id="C9AB811DFF89FFE7E73DFD7B8C5AFCD0" box="[574,772,727,770]" italics="true" pageId="3" pageNumber="214">Glochidion,</emphasis>
+<collectorName id="562A38D9FF89FFE7E61EFD7B8CFAFCD0" box="[797,932,727,770]" pageId="3" pageNumber="214">Swezey</collectorName>
+</taxonomicName>
+. Two 
+<specimenCount id="EDD99686FF89FFE7E131FD7B8BBBFCD0" box="[1074,1253,727,770]" pageId="3" pageNumber="214" type="generic">specimens</specimenCount>
+, one retained in 
+<collectingCountry id="83C81D9FFF89FFE7E32CFD7B89CAFCD0" box="[1583,1684,727,770]" name="United States of America" pageId="3" pageNumber="214">U. S.</collectingCountry>
+<location id="FE000BD4FF89FFE7E3AFFD7B8D34FCE7" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE7E600F8368D36FAF5:FE000BD4FF89FFE7E3AFFD7B8D34FCE7" country="United States of America" municipality="Piti" name="National Museum" pageId="3" pageNumber="214">National Museum</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF89FFE7E4CEFCCD8C32FC59" box="[461,876,865,907]" pageId="3" pageNumber="214" type="discussion">
+<paragraph id="FB605D0FFF89FFE7E4CEFCCD8C32FC59" blockId="3.[461,1860,865,1009]" box="[461,876,865,907]" pageId="3" pageNumber="214">
+<heading id="A028EA63FF89FFE7E4CEFCCD8C32FC59" box="[461,876,865,907]" fontSize="8" level="2" pageId="3" pageNumber="214" reason="4">
+<emphasis id="C9AB811DFF89FFE7E4CEFCCD8EA1FC59" bold="true" box="[461,511,865,907]" pageId="3" pageNumber="214">22.</emphasis>
+<taxonomicName id="3CDF268CFF89FFE7E723FCCD8D8BFC59" box="[544,725,865,907]" class="Insecta" family="Eupelmidae" genus="Eupelmus" kingdom="Animalia" order="Hymenoptera" pageId="3" pageNumber="214" phylum="Arthropoda" rank="species" species="undefined-A">
+<emphasis id="C9AB811DFF89FFE7E723FCCD8D8BFC59" bold="true" box="[544,725,865,907]" pageId="3" pageNumber="214">Eupelmus</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF89FFE7E70EFC3F881CFC23" pageId="3" pageNumber="214" type="materials_examined">
+<paragraph id="FB605D0FFF89FFE7E70EFC3F881CFC23" blockId="3.[461,1860,865,1009]" pageId="3" pageNumber="214">
+<materialsCitation id="4BB75752FF89FFE7E70EFC3F8A21FC6C" ID-GBIF-Occurrence="3901040328" box="[525,1407,915,958]" collectingDate="1936-06-05" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="3" pageNumber="214" specimenCount="1">
+A single 
+<specimenCount id="EDD99686FF89FFE7E7BBFC3F8C05FC6C" box="[696,859,915,958]" pageId="3" pageNumber="214" type="generic">specimen</specimenCount>
+, 
+<collectingMunicipality id="1B04C775FF89FFE7E674FC3F8B73FC6C" box="[887,1069,915,958]" pageId="3" pageNumber="214">Machanao</collectingMunicipality>
+, 
+<date id="8F617BCFFF89FFE7E144FC3F8B9AFC6C" box="[1095,1220,915,958]" pageId="3" pageNumber="214">
+<collectingDate id="9F258227FF89FFE7E144FC3F8B9AFC6C" box="[1095,1220,915,958]" pageId="3" pageNumber="214">June 5</collectingDate>
+</date>
+, 
+<location id="FE000BD4FF89FFE7E1E3FC3F8A26FC6C" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE7E600F8368D36FAF5:FE000BD4FF89FFE7E1E3FC3F8A26FC6C" box="[1248,1400,915,958]" municipality="Machanao" name="Usinger" pageId="3" pageNumber="214">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="4BB75752FF89FFE7E090FC3F881CFC23" ID-GBIF-Occurrence="3901040390" collectedFrom="swept from mango" collectingDate="1936-11-13" collectorName="O. H. Swezey" country="Guam" location="Tumon" pageId="3" pageNumber="214" specimenCount="2">
+<collectingMunicipality id="1B04C775FF89FFE7E090FC3F8948FC6C" box="[1427,1558,915,958]" pageId="3" pageNumber="214">Tumon</collectingMunicipality>
+, 
+<date id="8F617BCFFF89FFE7E332FC3F899BFC6C" box="[1585,1733,915,958]" pageId="3" pageNumber="214" value="2013-11">
+<collectingDate id="9F258227FF89FFE7E332FC3F899BFC6C" box="[1585,1733,915,958]" pageId="3" pageNumber="214" value="2013-11">Nov. 13</collectingDate>
+</date>
+, swept. from mango, 
+<collectorName id="562A38D9FF89FFE7E7BCFC6A8C18FC23" box="[703,838,966,1009]" pageId="3" pageNumber="214">Swezey</collectorName>
+. 
+<location id="FE000BD4FF89FFE7E660FC6A8CEDFC23" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE7E600F8368D36FAF5:FE000BD4FF89FFE7E660FC6A8CEDFC23" box="[867,947,966,1009]" municipality="Tumon" name="Two" pageId="3" pageNumber="214">Two</location>
+<specimenCount id="EDD99686FF89FFE7E6C3FC6A8B22FC23" box="[960,1148,966,1009]" pageId="3" pageNumber="214" type="generic">specimens</specimenCount>
+,oneretainedinU. 
+<collectionCode id="9DCEC5CAFF89FFE7E0A7FC6A8AE7FC23" box="[1444,1465,966,1009]" country="Sweden" lsid="urn:lsid:biocol.org:col:15668" name="Department of Botany, Swedish Museum of Natural History" pageId="3" pageNumber="214" type="Herbarium">S</collectionCode>
+. TODO NationalMuseum.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF89FFE7E4CEFBBB8C35FB93" box="[461,875,1047,1089]" pageId="3" pageNumber="214" type="discussion">
+<paragraph id="FB605D0FFF89FFE7E4CEFBBB8C35FB93" blockId="3.[461,1721,1047,1139]" box="[461,875,1047,1089]" pageId="3" pageNumber="214">
+<heading id="A028EA63FF89FFE7E4CEFBBB8C35FB93" box="[461,875,1047,1089]" fontSize="8" level="2" pageId="3" pageNumber="214" reason="4">
+<emphasis id="C9AB811DFF89FFE7E4CEFBBB8EA1FB93" bold="true" box="[461,511,1047,1089]" pageId="3" pageNumber="214">23.</emphasis>
+<taxonomicName id="3CDF268CFF89FFE7E723FBBB8D8AFB93" box="[544,724,1047,1089]" class="Insecta" family="Eupelmidae" genus="Eupelmus" kingdom="Animalia" order="Hymenoptera" pageId="3" pageNumber="214" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="C9AB811DFF89FFE7E723FBBB8D8AFB93" bold="true" box="[544,724,1047,1089]" pageId="3" pageNumber="214">Eupelmus</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF89FFE7E70DFBE489E7FBA1" box="[526,1721,1096,1139]" pageId="3" pageNumber="214" type="materials_examined">
+<paragraph id="FB605D0FFF89FFE7E70DFBE489E7FBA1" blockId="3.[461,1721,1047,1139]" box="[526,1721,1096,1139]" pageId="3" pageNumber="214">
+<materialsCitation id="4BB75752FF89FFE7E70DFBE489E7FBA1" ID-GBIF-Occurrence="3345364356" box="[526,1721,1096,1139]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="3" pageNumber="214" specimenCount="6">
+<location id="FE000BD4FF89FFE7E70DFBE48B27FBA1" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE7E600F8368D36FAF5:FE000BD4FF89FFE7E70DFBE48B27FBA1" box="[526,1145,1096,1139]" name="Six specimens in Bishop Museum" pageId="3" pageNumber="214">Six specimens in Bishop Museum</location>
+, collected by 
+<collectorName id="562A38D9FF89FFE7E076FBE48941FBA1" box="[1397,1567,1096,1139]" pageId="3" pageNumber="214">Fullaway</collectorName>
+in 1911.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF89FFE7E4CFFB3A8CC5FB12" box="[460,923,1174,1216]" pageId="3" pageNumber="214" type="discussion">
+<paragraph id="FB605D0FFF89FFE7E4CFFB3A8CC5FB12" blockId="3.[460,1858,1174,1319]" box="[460,923,1174,1216]" pageId="3" pageNumber="214">
+<heading id="A028EA63FF89FFE7E4CFFB3A8CC5FB12" box="[460,923,1174,1216]" fontSize="8" level="2" pageId="3" pageNumber="214" reason="4">
+<emphasis id="C9AB811DFF89FFE7E4CFFB3A8D5EFB12" bold="true" box="[460,512,1174,1216]" pageId="3" pageNumber="214">24.</emphasis>
+<taxonomicName id="3CDF268CFF89FFE7E723FB3A8C5CFB12" box="[544,770,1174,1216]" class="Insecta" family="Eupelmidae" genus="Eusandalum" kingdom="Animalia" order="Hymenoptera" pageId="3" pageNumber="214" phylum="Arthropoda" rank="species" species="undefined-A">
+<emphasis id="C9AB811DFF89FFE7E723FB3A8C5CFB12" bold="true" box="[544,770,1174,1216]" pageId="3" pageNumber="214">Eusandalum</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF89FFE7E708FB658D36FAF5" pageId="3" pageNumber="214" type="materials_examined">
+<paragraph id="FB605D0FFF89FFE7E708FB658D36FAF5" blockId="3.[460,1858,1174,1319]" pageId="3" pageNumber="214">
+<materialsCitation id="4BB75752FF89FFE7E708FB658D36FAF5" ID-GBIF-Occurrence="3345364362" collectedFrom="from Passiflora foetida vine" collectingDate="1936-06-14" collectorName="R. L. Usinger" country="Guam" location="Barrigada" pageId="3" pageNumber="214" specimenCount="1">
+A single 
+<specimenCount id="EDD99686FF89FFE7E7CBFB658C35FB20" box="[712,875,1225,1266]" pageId="3" pageNumber="214" type="generic">specimen</specimenCount>
+from 
+<taxonomicName id="3CDF268CFF89FFE7E6F5FB658A1EFB20" box="[1014,1344,1225,1266]" class="Magnoliopsida" family="Passifloraceae" genus="Passiflora" kingdom="Plantae" order="Malpighiales" pageId="3" pageNumber="214" phylum="Tracheophyta" rank="species" species="foetida">
+<emphasis id="C9AB811DFF89FFE7E6F5FB658A1EFB20" box="[1014,1344,1225,1266]" italics="true" pageId="3" pageNumber="214">Passiflora foetida</emphasis>
+</taxonomicName>
+vine, 
+<collectingMunicipality id="1B04C775FF89FFE7E0C4FB6589DFFB20" box="[1479,1665,1225,1266]" pageId="3" pageNumber="214">Barrigada</collectingMunicipality>
+, 
+<date id="8F617BCFFF89FFE7E3A1FB658865FB20" box="[1698,1851,1225,1266]" pageId="3" pageNumber="214" value="2014-06">
+<collectingDate id="9F258227FF89FFE7E3A1FB658865FB20" box="[1698,1851,1225,1266]" pageId="3" pageNumber="214" value="2014-06">June 14</collectingDate>
+</date>
+, 
+<location id="FE000BD4FF89FFE7E4CFFB518D3DFAF5" LSID="urn:lsid:plazi:treatment:7376EC19FF88FFE7E600F8368D36FAF5:FE000BD4FF89FFE7E4CFFB518D3DFAF5" box="[460,611,1277,1319]" municipality="Barrigada" name="Usinger" pageId="3" pageNumber="214">Usinger</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

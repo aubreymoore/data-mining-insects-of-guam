@@ -1,0 +1,152 @@
+<document id="E0CBCA36F33221A26F2F83A1BBB6A2CE" ID-DOI="http://doi.org/10.5281/zenodo.5164064" ID-GBIF-Dataset="8ddfacbb-c42b-4385-b70b-ea5bd759c377" ID-Zenodo-Dep="5164064" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628020838575" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03938792FFDDFFCCFED9FCCD80EDFB40" docLanguage="en" docName="InsectsOfGuamII.189.149-156.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Nisia atrovenosa" docType="treatment" docVersion="11" lastPageNumber="155" masterDocId="FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9" masterDocTitle="Notes On Some Fulgoroidea Of Guam" masterLastPageNumber="156" masterPageNumber="149" pageNumber="155" updateTime="1671321319954" updateUser="annettekang">
+<mods:mods id="9BC7C04D1FFE04A43FE834E7909ADCC8" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="FD8AB2433A6E402324AB3A002287325B">
+<mods:title id="78B7F7176177FA83A8655ED71E8EFFD9">Notes On Some Fulgoroidea Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="5604766CC68D4B68D451DBB8E42D78EB" type="personal">
+<mods:role id="8745DB1AEF5240FCD7144043524E0C34">
+<mods:roleTerm id="27F833A2076F513E899BF1484C4C3AAC">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="276F66E080740361AE084DB5E222253D">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="3AFB78DC4A07548A4B2837D69711FE98">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="E0BD988A40C1BA69953451939A44A271">text</mods:typeOfResource>
+<mods:relatedItem id="EDF954DC0E75AD8C6AE0B387E557CE86" type="host">
+<mods:originInfo id="DE11247F9AD554678BFD47F91CC4DD16">
+<mods:dateIssued id="D98EA10C57A03F58552C3C27BE8D6BBF">1946</mods:dateIssued>
+<mods:dateOther id="36D173AE27CA2542FA682B6BA3B50CDF" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="0850F6645D5D3779F061C11F195EFCF3">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="2684FA6A4DF3F31172F48F58DE94D887">
+<mods:placeTerm id="05EFF9774A0E4CD7DD41C1C924237AB7">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="93C634D357AAB47CD612257643FE7F5E">
+<mods:title id="4645EA7DECD2B2C529AEB70D46155F62">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="87A7D5D40B19D5C088438AEE70A0C0C8">
+<mods:extent id="A544A686892F354A46756B5E12405F71" unit="page">
+<mods:start id="7669F5BB0C091975ABD9FA5A6C72E6B7">149</mods:start>
+<mods:end id="00C786B52D42339651467E0125422F4F">156</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="7AAB4D5F90B769FF8F60BF9DEF339810">book chapter</mods:classification>
+<mods:identifier id="2D4DCA8D377B6DB803C68EAD26C79B9E" type="DOI">http://doi.org/10.5281/zenodo.5164064</mods:identifier>
+<mods:identifier id="E3EDCADA32AC30B9C1A88A8AFD29580B" type="GBIF-Dataset">8ddfacbb-c42b-4385-b70b-ea5bd759c377</mods:identifier>
+<mods:identifier id="C68E7A61F4CEDA7AD8D4CE7D67CE78EB" type="Zenodo-Dep">5164064</mods:identifier>
+</mods:mods>
+<treatment id="03938792FFDDFFCCFED9FCCD80EDFB40" ID-DOI="http://doi.org/10.5281/zenodo.5167466" ID-GBIF-Taxon="183925055" ID-Zenodo-Dep="5167466" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED9FCCD80EDFB40" httpUri="http://treatment.plazi.org/id/03938792FFDDFFCCFED9FCCD80EDFB40" lastPageNumber="155" pageId="6" pageNumber="155">
+<subSubSection id="C320650FFFDDFFCCFED9FCCD85FCFCC0" box="[295,909,768,809]" pageId="6" pageNumber="155" type="nomenclature">
+<paragraph id="8B853684FFDDFFCCFED9FCCD85FCFCC0" blockId="6.[295,1693,768,1193]" box="[295,909,768,809]" pageId="6" pageNumber="155">
+<heading id="D0CD81E8FFDDFFCCFED9FCCD85FCFCC0" box="[295,909,768,809]" fontSize="11" level="2" pageId="6" pageNumber="155" reason="2">
+<emphasis id="B94EEA96FFDDFFCCFED9FCCD8732FCC0" bold="true" box="[295,323,768,809]" pageId="6" pageNumber="155">1.</emphasis>
+<taxonomicName id="4C3A4D07FFDDFFCCFE9AFCCD85F6FCC0" authority="(Lethierry)" baseAuthorityName="Lethierry" baseAuthorityYear="1888" box="[356,903,768,809]" class="Insecta" family="Meenoplidae" genus="Nisia" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="155" phylum="Arthropoda" rank="species" species="atrovenosa">
+<emphasis id="B94EEA96FFDDFFCCFE9AFCCD84EDFCC0" bold="true" box="[356,668,768,809]" pageId="6" pageNumber="155">Nisia atrovenosa</emphasis>
+(Lethierry)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDDFFCCFE9AFCF183E0FC3D" pageId="6" pageNumber="155" type="reference_group">
+<paragraph id="8B853684FFDDFFCCFE9AFCF18471FC7E" blockId="6.[295,1693,768,1193]" pageId="6" pageNumber="155">
+<treatmentCitationGroup id="AB2A11AAFFDDFFCCFE9AFCF18471FC7E" pageId="6" pageNumber="155">
+<treatmentCitation id="0A9B1095FFDDFFCCFE9AFCF18471FC7E" author="Lethierry" page="466" pageId="6" pageNumber="155" year="1888">
+<taxonomicName id="4C3A4D07FFDDFFCCFE9AFCF185B9FC8F" authority="Lethierry, Mus. Civ. Stor. Nat. Genova" box="[356,968,828,870]" class="Insecta" family="Meenoplidae" genus="Meenoplus" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="155" phylum="Arthropoda" rank="species" species="atrovenosus">
+<emphasis id="B94EEA96FFDDFFCCFE9AFCF1857AFC8F" box="[356,779,828,870]" italics="true" pageId="6" pageNumber="155">Meenoplus atrovenosus</emphasis>
+<bibCitation id="5E103EE8FFDDFFCCFCE3FCF18471FC7E" author="Lethierry" journalOrPublisher="Mus. Civ. Stor. Nat. Genova" pageId="6" pageNumber="155" pagination="466" part="26" type="journal article" year="1888">
+<author id="5387DE61FFDDFFCCFCE3FCF185B9FC8F" box="[797,968,828,870]" pageId="6" pageNumber="155">Lethierry</author>
+, 
+<journalOrPublisher id="51FB3C48FFDDFFCCFC1BFCF1838DFC8F" box="[997,1532,828,870]" pageId="6" pageNumber="155">Mus. Civ. Stor. Nat. Genova</journalOrPublisher>
+<emphasis id="B94EEA96FFDDFFCCF9F0FCF18036FC8F" bold="true" box="[1550,1607,828,870]" pageId="6" pageNumber="155">
+<part id="FF9E9C19FFDDFFCCF9F0FCF18030FC8F" box="[1550,1601,828,870]" pageId="6" pageNumber="155" type="volume">26</part>
+:
+</emphasis>
+<pagination id="B2F3C870FFDDFFCCF9AAFCF180E7FC8F" box="[1620,1686,828,870]" pageId="6" pageNumber="155" type="pagination">466</pagination>
+, 
+<year id="FF9277D7FFDDFFCCFE59FCA2878AFC7E" box="[423,507,879,919]" pageId="6" pageNumber="155">1888</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8B853684FFDDFFCCFE9AFC6783E0FC3D" blockId="6.[295,1693,768,1193]" box="[356,1425,938,980]" pageId="6" pageNumber="155">
+<treatmentCitationGroup id="AB2A11AAFFDDFFCCFE9AFC6783E0FC3D" box="[356,1425,938,980]" pageId="6" pageNumber="155">
+<treatmentCitation id="0A9B1095FFDDFFCCFE9AFC6783E0FC3D" author="Melichar" box="[356,1425,938,980]" page="53" pageId="6" pageNumber="155" year="1903">
+<taxonomicName id="4C3A4D07FFDDFFCCFE9AFC67853FFC3D" authority=", Melichar, Hom. Fauna" authorityName="Melichar, Hom. Fauna" box="[356,846,938,980]" class="Insecta" family="Meenoplidae" genus="Nisia" kingdom="Animalia" order="Hemiptera" pageId="6" pageNumber="155" phylum="Arthropoda" rank="species" species="atrovenosa">
+<emphasis id="B94EEA96FFDDFFCCFE9AFC6784EAFC3D" box="[356,667,938,980]" italics="true" pageId="6" pageNumber="155">Nisia atrovenosa,</emphasis>
+<bibCitation id="5E103EE8FFDDFFCCFD50FC6783E0FC3D" author="Melichar" box="[686,1425,938,980]" pageId="6" pageNumber="155" pagination="53" title="Hom. Fauna Ceylon" type="book" year="1903">
+<author id="5387DE61FFDDFFCCFD50FC67853FFC3D" box="[686,846,938,980]" pageId="6" pageNumber="155">Melichar</author>
+, 
+<title id="F93EDDB2FFDDFFCCFC96FC6782A8FC3D" box="[872,1241,938,980]" pageId="6" pageNumber="155">
+Hom. Fauna 
+<collectingCountry id="F32D7614FFDDFFCCFBA0FC6782A8FC3D" box="[1118,1241,938,980]" name="Sri Lanka" pageId="6" pageNumber="155">Ceylon</collectingCountry>
+</title>
+, 
+<pagination id="B2F3C870FFDDFFCCFB0CFC67836CFC3D" box="[1266,1309,938,980]" pageId="6" pageNumber="155">53</pagination>
+, 
+<year id="FF9277D7FFDDFFCCFAC7FC6783FDFC3D" box="[1337,1420,938,980]" pageId="6" pageNumber="155">1903</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDDFFCCFE9BFC2880EAFBAB" pageId="6" pageNumber="155" type="distribution">
+<paragraph id="8B853684FFDDFFCCFE9BFC2880EAFBAB" blockId="6.[295,1693,768,1193]" pageId="6" pageNumber="155">
+This species has a wide distribution in Indo-Malaya, Africa, and 
+<collectingCountry id="F32D7614FFDDFFCCF9B9FC2887F7FBAB" name="Australia" pageId="6" pageNumber="155">Australia</collectingCountry>
+, and has been recorded from 
+<collectingCountry id="F32D7614FFDDFFCCFC5EFBD48269FBAB" box="[928,1048,1049,1090]" name="Samoa" pageId="6" pageNumber="155">Samoa</collectingCountry>
+. Not previously recorded in 
+<collectingCountry id="F32D7614FFDDFFCCF9D4FBD480E7FBAB" box="[1578,1686,1049,1090]" name="Guam" pageId="6" pageNumber="155">Guam</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDDFFCCFED6FB8680EDFB40" pageId="6" pageNumber="155" type="materials_examined">
+<paragraph id="8B853684FFDDFFCCFED6FB8680EDFB40" blockId="6.[295,1693,768,1193]" pageId="6" pageNumber="155">
+<materialsCitation id="3B523CD9FFDDFFCCFED6FB8687B7FB40" ID-GBIF-Occurrence="3331825356" collectedFrom="found abundant on Scirpus lacustris" collectingDate="1936-06-20" collectorName="R. L. Usinger" country="Guam" location="Sasa" pageId="6" pageNumber="155">
+<collectingMunicipality id="6BE1ACFEFFDDFFCCFED6FB868717FB9C" box="[296,358,1099,1141]" pageId="6" pageNumber="155">We</collectingMunicipality>
+found it abundant on 
+<taxonomicName id="4C3A4D07FFDDFFCCFCEAFB868233FB9C" box="[788,1090,1099,1141]" class="Liliopsida" family="Cyperaceae" genus="Scirpus" kingdom="Plantae" order="Poales" pageId="6" pageNumber="155" phylum="Tracheophyta" rank="species" species="lacustris">
+<emphasis id="B94EEA96FFDDFFCCFCEAFB868233FB9C" box="[788,1090,1099,1141]" italics="true" pageId="6" pageNumber="155">
+<location id="8EE5605FFFDDFFCCFCEAFB8685EBFB9C" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED9FCCD80EDFB40:8EE5605FFFDDFFCCFCEAFB8685EBFB9C" box="[788,922,1099,1141]" municipality="We" name="Scirpus" pageId="6" pageNumber="155">Scirpus</location>
+lacustris
+</emphasis>
+</taxonomicName>
+in a few places: 
+<location id="8EE5605FFFDDFFCCFA6AFB868396FB9C" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED9FCCD80EDFB40:8EE5605FFFDDFFCCFA6AFB868396FB9C" box="[1428,1511,1099,1141]" municipality="We" name="Sasa" pageId="6" pageNumber="155">Sasa</location>
+, 
+<date id="FF841044FFDDFFCCF9FCFB8680E7FB9C" box="[1538,1686,1099,1141]" pageId="6" pageNumber="155" value="2020-06">
+<collectingDate id="EFC0E9ACFFDDFFCCF9FCFB8680E7FB9C" box="[1538,1686,1099,1141]" pageId="6" pageNumber="155" value="2020-06">June 20</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDDFFCCFED6FBB387CEFB40" box="[296,447,1150,1193]" pageId="6" pageNumber="155">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFE20FBB3825AFB40" ID-GBIF-Occurrence="3331825320" box="[478,1067,1150,1193]" collectedFrom="found abundant on Scirpus lacustris" collectingDate="1936-06-22" collectorName="O. H. Swezey" country="Guam" location="Sumay Road" pageId="6" pageNumber="155">
+<location id="8EE5605FFFDDFFCCFE20FBB384BAFB40" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED9FCCD80EDFB40:8EE5605FFFDDFFCCFE20FBB384BAFB40" box="[478,715,1150,1193]" name="Sumay Road" pageId="6" pageNumber="155">Sumay Road</location>
+, 
+<date id="FF841044FFDDFFCCFD1BFBB38508FB40" box="[741,889,1150,1193]" pageId="6" pageNumber="155" value="1922-06">
+<collectingDate id="EFC0E9ACFFDDFFCCFD1BFBB38508FB40" box="[741,889,1150,1193]" pageId="6" pageNumber="155" value="1922-06">June 22</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDDFFCCFC66FBB38255FB40" box="[920,1060,1150,1193]" pageId="6" pageNumber="155">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDDFFCCFBBEFBB380EDFB40" ID-GBIF-Occurrence="3331825335" box="[1088,1692,1150,1193]" collectedFrom="found abundant on Scirpus lacustris" collectingDate="1936-06-26" collectorName="O. H. Swezey" country="Guam" location="Agana Swamp" pageId="6" pageNumber="155">
+<location id="8EE5605FFFDDFFCCFBBEFBB382C2FB40" LSID="urn:lsid:plazi:treatment:03938792FFDDFFCCFED9FCCD80EDFB40:8EE5605FFFDDFFCCFBBEFBB382C2FB40" box="[1088,1203,1150,1193]" name="Agana" pageId="6" pageNumber="155">Agana</location>
+swamp, 
+<date id="FF841044FFDDFFCCFAA1FBB38383FB40" box="[1375,1522,1150,1193]" pageId="6" pageNumber="155" value="1926-06">
+<collectingDate id="EFC0E9ACFFDDFFCCFAA1FBB38383FB40" box="[1375,1522,1150,1193]" pageId="6" pageNumber="155" value="1926-06">June 26</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDDFFCCF9EEFBB380E6FB40" box="[1552,1687,1150,1193]" pageId="6" pageNumber="155">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

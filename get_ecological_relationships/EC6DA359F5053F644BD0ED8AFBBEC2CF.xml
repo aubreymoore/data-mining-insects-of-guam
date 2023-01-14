@@ -1,0 +1,101 @@
+<document id="E31F75EEA8756B82B0490655F1A97B0D" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5053F644BD0ED8AFBBEC2CF" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Geotomus pygmaeus" docType="treatment" docVersion="20" lastPageNumber="20" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="20" updateTime="1671507890132" updateUser="annettekang">
+<mods:mods id="1CC2C029DB800D51B64477C77BAABA3E" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CE69768D1BC7A4C290F888EB33AED43C">
+<mods:title id="70E93187C5AA60E9E9926CC662E20300">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="015F8E476C8A06980D4F6FD48ED6C41A" type="personal">
+<mods:role id="19874C06116A0E152A9E2F810E274419">
+<mods:roleTerm id="7E5B37F54F1416F9A881C099E75167D1">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2272D6893CFBE080C9B3A4D65BE4FC7C">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="23C11629FE53B3DABB526153BABC0AC8">text</mods:typeOfResource>
+<mods:relatedItem id="DE8E1C6D6EFB953DA50C60A0140BE451" type="host">
+<mods:originInfo id="C9C96C7124459FC94F1C8CA0323F462A">
+<mods:dateIssued id="732739F503BFA78F7889B57DCB2CD654">1946</mods:dateIssued>
+<mods:dateOther id="9BA0BA36066D9C2F067A6C6934EA5565" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="272EA8D55B322DF1CB9071D90A5D18AD">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="4CFB0427FF4FE650C4983883135CC49A">
+<mods:placeTerm id="375439C7102E3C4A4E0A475774DECA3B">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="0D0799428DEF2BFD0420761DA5ADDE06">
+<mods:title id="3011E83D025F8058B586198FE4837958">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="57BC606884574CF30ED63507F4957B54">
+<mods:extent id="0E8A351FDBA90D4C6B84B11AB5E42904" unit="page">
+<mods:start id="0698FB8C1E1A7DFA86CF67C6C6E51FF1">11</mods:start>
+<mods:end id="A958F5A5FA108BA09DE18FF4BD504994">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="41BB4D6E07E6A2AAF24CB387AC33814C">book chapter</mods:classification>
+<mods:identifier id="223DC33CE727421A8265E4369D8269C8" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="32692EF6A10CF2F33B4454DD5DD8E207" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="61B67989C602AD09DE76D61C791CA55E" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5053F644BD0ED8AFBBEC2CF" ID-DOI="http://doi.org/10.5281/zenodo.5186579" ID-GBIF-Taxon="184601229" ID-Zenodo-Dep="5186579" LSID="urn:lsid:plazi:treatment:EC6DA359F5053F644BD0ED8AFBBEC2CF" httpUri="http://treatment.plazi.org/id/EC6DA359F5053F644BD0ED8AFBBEC2CF" lastPageNumber="20" pageId="9" pageNumber="20">
+<subSubSection id="2CDE41C4F5053F644BD0ED8AFBFBC264" box="[432,1055,738,780]" pageId="9" pageNumber="20" type="nomenclature">
+<paragraph id="647B124FF5053F644BD0ED8AFBFBC264" blockId="9.[432,1831,738,935]" box="[432,1055,738,780]" pageId="9" pageNumber="20">
+<heading id="3F33A523F5053F644BD0ED8AFBFBC264" box="[432,1055,738,780]" fontSize="11" level="2" pageId="9" pageNumber="20" reason="2">
+<emphasis id="56B0CE5DF5053F644BD0ED8AFE29C264" bold="true" box="[432,461,738,780]" pageId="9" pageNumber="20">2.</emphasis>
+<taxonomicName id="A3C469CCF5053F644B90ED8AFBFDC264" authority="(Dallas)" baseAuthorityName="Dallas" baseAuthorityYear="1851" box="[496,1049,738,780]" class="Insecta" family="Cydnidae" genus="Geotomus" kingdom="Animalia" order="Hemiptera" pageId="9" pageNumber="20" phylum="Arthropoda" rank="species" species="pygmaeus">
+<emphasis id="56B0CE5DF5053F644B90ED8AFC8CC264" bold="true" box="[496,872,738,780]" pageId="9" pageNumber="20">Geotomus pygmaeus</emphasis>
+(Dallas)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5053F644B90EC7EF9B8C228" box="[496,1628,790,832]" pageId="9" pageNumber="20" type="description">
+<paragraph id="647B124FF5053F644B90EC7EF9B8C228" blockId="9.[432,1831,738,935]" box="[496,1628,790,832]" pageId="9" pageNumber="20">
+<treatmentCitation id="E565345EF5053F644B90EC7EF9B8C228" author="Dallas" box="[496,1628,790,832]" page="120" pageId="9" pageNumber="20" year="1851">
+<bibCitation id="B1EE1A23F5053F644B90EC7EF9B8C228" author="Dallas" box="[496,1628,790,832]" pageId="9" pageNumber="20" pagination="120" part="1" refId="ref3463" title="List Hemipt." type="journal article" year="1851">
+<treatmentCitationGroup id="44D43561F5053F644B90EC7EF9B3C228" box="[496,1623,790,832]" pageId="9" pageNumber="20">
+<emphasis id="56B0CE5DF5053F644B90EC7EFCCFC228" box="[496,811,790,832]" italics="true" pageId="9" pageNumber="20">Aethus pygmaeus</emphasis>
+<author id="BC79FAAAF5053F644957EC7EFC4CC228" box="[823,936,790,832]" pageId="9" pageNumber="20">Dallas</author>
+, 
+<title id="16C0F979F5053F6449DEEC7EFB45C228" box="[958,1185,790,832]" pageId="9" pageNumber="20">List Hemipt.</title>
+Brit. Mus. 
+<emphasis id="56B0CE5DF5053F644F1CEC7EFA6FC228" bold="true" box="[1404,1419,790,832]" pageId="9" pageNumber="20">
+<part id="1060B8D2F5053F644F1CEC7EFA63C228" box="[1404,1415,790,832]" pageId="9" pageNumber="20" type="volume">1</part>
+:
+</emphasis>
+<pagination id="5D0DECBBF5053F644FCFEC7EFA08C228" box="[1455,1516,790,832]" pageId="9" pageNumber="20" type="pagination">120</pagination>
+, 
+<year id="106C531CF5053F644C64EC7EF9B3C228" box="[1540,1623,790,832]" pageId="9" pageNumber="20">1851</year>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5053F644B92EC21FBBEC2CF" pageId="9" pageNumber="20" type="description">
+<paragraph id="647B124FF5053F644B92EC21FBBEC2CF" blockId="9.[432,1831,738,935]" pageId="9" pageNumber="20">
+<materialsCitation id="D4AC1812F5053F644B92EC21FDA4C2CF" ID-GBIF-Occurrence="3994028520" collectedFrom="most frequently at light" collectingDate="1936-06/1936-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="9" pageNumber="20" specimenCount="11">
+<collectingMunicipality id="841F8835F5053F644B92EC21FDD1C21C" box="[498,565,841,884]" pageId="9" pageNumber="20">Piti</collectingMunicipality>
+, 
+<location id="611B4494F5053F644827EC21FD7AC21C" LSID="urn:lsid:plazi:treatment:EC6DA359F5053F644BD0ED8AFBBEC2CF:611B4494F5053F644827EC21FD7AC21C" box="[583,670,841,884]" municipality="Piti" name="June" pageId="9" pageNumber="20">June</location>
+, 
+<location id="611B4494F5053F6448D2EC21FCE4C21C" LSID="urn:lsid:plazi:treatment:EC6DA359F5053F644BD0ED8AFBBEC2CF:611B4494F5053F6448D2EC21FCE4C21C" box="[690,768,841,884]" municipality="Piti" name="July" pageId="9" pageNumber="20">July</location>
+, 
+<location id="611B4494F5053F644974EC21FC7DC21C" LSID="urn:lsid:plazi:treatment:EC6DA359F5053F644BD0ED8AFBBEC2CF:611B4494F5053F644974EC21FC7DC21C" box="[788,921,841,884]" municipality="Piti" name="August" pageId="9" pageNumber="20">August</location>
+, 
+<location id="611B4494F5053F6449CFEC21FB89C21C" LSID="urn:lsid:plazi:treatment:EC6DA359F5053F644BD0ED8AFBBEC2CF:611B4494F5053F6449CFEC21FB89C21C" box="[943,1133,841,884]" municipality="Piti" name="September" pageId="9" pageNumber="20">September</location>
+, most frequently at light, 
+<specimenCount id="72C2D9C6F5053F644C5AEC21F8C5C21C" box="[1594,1825,841,884]" pageId="9" pageNumber="20" type="generic">11 specimens</specimenCount>
+, 
+<collectorName id="C9317799F5053F644BD4EC14FDDEC2CF" box="[436,570,892,935]" pageId="9" pageNumber="20">Swezey</collectorName>
+,
+</materialsCitation>
+and 
+<materialsCitation id="D4AC1812F5053F6448C1EC14FBB1C2CF" ID-GBIF-Occurrence="3994028433" box="[673,1109,892,935]" collectedFrom="most frequently at light" collectingDate="1936-06/1936-09" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="9" pageNumber="20" specimenCount="4">
+<specimenCount id="72C2D9C6F5053F6448C1EC14FC4AC2CF" box="[673,942,892,935]" pageId="9" pageNumber="20" type="generic">four specimens</specimenCount>
+, 
+<location id="611B4494F5053F6449A5EC14FBB1C2CF" LSID="urn:lsid:plazi:treatment:EC6DA359F5053F644BD0ED8AFBBEC2CF:611B4494F5053F6449A5EC14FBB1C2CF" box="[965,1109,892,935]" name="Usinger" pageId="9" pageNumber="20">Usinger</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,134 @@
+<document id="5DFB4F7983CA807B32FCB4E67CB42B85" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5053F674BD3E639FBC9C902" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Coleotichus (Epicoleotichus) marianensis Usinger 1946, new species" docType="treatment" docVersion="16" lastPageNumber="21" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="20" updateTime="1671507890132" updateUser="annettekang">
+<mods:mods id="C53B6404521BABB4B2BAF42BAAF4D133" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="A5A2BF07DF898D2F88A1800CC50B973B">
+<mods:title id="21B35453D9FE9EC0DDE643EDA4650604">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="5020A5B26DC01C866A6058A23E2BE890" type="personal">
+<mods:role id="465A8739AC3C3BCE466F931D72782EFB">
+<mods:roleTerm id="F471D74AA99D4D46AF1F2DA87914FB98">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="7BE6F04D38A5C1EF1E72773E983180D6">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="7D3B9F42E870B1ADCFB38DDF1214315D">text</mods:typeOfResource>
+<mods:relatedItem id="B283D7BBEC22D17D062B29FE3EACC703" type="host">
+<mods:originInfo id="0F3632F2E09BBE8932A76A579671D090">
+<mods:dateIssued id="880684EBF8C122BC62A960D30C12C96E">1946</mods:dateIssued>
+<mods:dateOther id="977977EFF4F57E8E3A27DA5172DC39B5" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="8E8D2BC56EBB531E17347C66D7CA0043">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="C2A64B746DB9FEDBE510DD7AA3ACB3B9">
+<mods:placeTerm id="B481E981EF86DE4A924BACD414F1FA9F">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5DFFB7DF07F929B6142759711FD3D602">
+<mods:title id="EEF6DE1283EA97CC5F4AE7C20C191D42">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="635DC54184940477C46DCFA8379ED4F7">
+<mods:extent id="877CAF215E153A7EADB2CD483D499E21" unit="page">
+<mods:start id="3109D20A1FAD85AFCFA08896603935F2">11</mods:start>
+<mods:end id="AE44019C90BBE2A77F1ED8AB8341E201">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="AE80A0BC19A9787903D5314124F7AFAE">book chapter</mods:classification>
+<mods:identifier id="31B8B6D9043187C76CCE79F1D102A0F9" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="5F1087BBBAB4220AA340281237583C26" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="7C69FA503294CB2035DFF543A29C76E7" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5053F674BD3E639FBC9C902" ID-DOI="http://doi.org/10.5281/zenodo.5213792" ID-GBIF-Taxon="184601245" ID-Zenodo-Dep="5213792" LSID="urn:lsid:plazi:treatment:EC6DA359F5053F674BD3E639FBC9C902" httpUri="http://treatment.plazi.org/id/EC6DA359F5053F674BD3E639FBC9C902" lastPageId="10" lastPageNumber="21" pageId="9" pageNumber="20">
+<subSubSection id="2CDE41C4F5053F644BD3E639FA01C814" box="[435,1509,2385,2428]" pageId="9" pageNumber="20" type="nomenclature">
+<paragraph id="647B124FF5053F644BD3E639FA01C814" blockId="9.[435,1834,2385,2557]" box="[435,1509,2385,2428]" pageId="9" pageNumber="20">
+<heading id="3F33A523F5053F644BD3E639FA01C814" box="[435,1509,2385,2428]" fontSize="11" level="2" pageId="9" pageNumber="20" reason="2">
+<emphasis id="56B0CE5DF5053F644BD3E639FB1DC814" bold="true" box="[435,1273,2385,2428]" pageId="9" pageNumber="20">
+5. 
+<taxonomicName id="A3C469CCF5053F644B93E639FB16C814" authority="Usinger, 1946" authorityName="Usinger" authorityYear="1946" box="[499,1266,2385,2428]" class="Insecta" family="Pentatomidae" genus="Coleotichus" kingdom="Animalia" order="Hemiptera" pageId="9" pageNumber="20" phylum="Arthropoda" rank="species" species="marianensis" status="new species" subGenus="Epicoleotichus">Coleotichus (Epicoleotichus) marianensis</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="4D837326F5053F644F69E639FA04C814" box="[1289,1504,2385,2428]" pageId="9" pageNumber="20" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5053F674B99E6E6F954C7E3" lastPageId="10" lastPageNumber="21" pageId="9" pageNumber="20" type="description">
+<paragraph id="647B124FF5053F644B99E6E6FA28C895" blockId="9.[435,1834,2385,2557]" pageId="9" pageNumber="20">Moderately robust, predominantly fulvous with blue-green punctures. Lateral margins of head and pronotum nearly straight. Impunctate lateral margins of pronotum narrow but distinct. Connexival angles scarcely produced, almost right angles.</paragraph>
+<paragraph id="647B124FF5063F674BE0EE20FC35C33C" blockId="10.[313,1714,328,2154]" pageId="10" pageNumber="21">Head one fifth broader than long, 93: 78; eyes one fourth as broad as interocular space, 15: 60; sides of juga moderately sinuate, narrowly impunctate; disk of head very sparsely, shallowly punctate in ill-defined rows, densely and more coarsely punctate just within lateral margins; tylus shallowly punctate and feebly rugose just behind the apex; apex smooth, impunctate, and feebly elevated. Proportion of antenna! segments one to five as 21: 21: 40: 46: 50. Rostrum reaching to base of third abdominal segment; third segment slightly longer than fourth, 56: 53.</paragraph>
+<paragraph id="647B124FF5063F674BE0ED30F9A9C2E0" blockId="10.[313,1714,328,2154]" pageId="10" pageNumber="21">Pronotum strongly, evenly convex at least posteriorly, gradually and continuously sloping onto head anteriorly; less than twice as broad across humeral angles as long, 207: 126; lateral margins nearly rectilinear, the expanded impunctate area narrowing anteriorly; humeri nearly right angles, rounded at apices; disk rather evenly, shallowly punctate in sinuate, often broken lines, the punctures about one puncture width apart in the lines and two or more puncture widths apart between the lines; punctures much coarser and denser sublaterally; callosities surrounded by a row of punctures and with an irregular row transversely at middle; longitudinal impunctate line distinct except posteriorly.</paragraph>
+<paragraph id="647B124FF5063F674BE0ECE3F9DAC415" blockId="10.[313,1714,328,2154]" pageId="10" pageNumber="21">Scutellum almost three fourths as broad as long, 153: 210; sides rounded just at base, then subparallel to slightly beyond middle beyond which they converge to broad, subtruncate apex; disk closely, rather evenly punctate, the punctures less than one puncture width apart except along extreme base between sublateral impunctate elevations and along illdefined midline. Hemelytra moderately exposed, the costal margin smooth and impunctate, with a broad row of deep, confluent punctures sublaterally; membrane exceeding tip of scutellum. Connexivum moderately exposed, the postero-lateral angles scarcely produced, but little more than right angles except on last segment. Male genital capsule a little more than half again as broad as long, 55: 35, not extending beyond the edge of scutellum or membrane and roundly emarginate posteriorly; parameres each with a short, inner, snbapical protuberance, the apex evenly hooked. Female genital plates distinctive, the median ventral plates subtriangular, broad mesad, acute laterally and subacute apically; posterior or tergal plates more strongly rounded apically with a broad, deep notch at middle.</paragraph>
+<paragraph id="647B124FF5063F674BE0EAE8FA93C70B" blockId="10.[313,1714,328,2154]" pageId="10" pageNumber="21">Color rather uniformly fulvous brown tinged with bluish green in the punctures, with paler ochraceous lateral pronotal margins, sublateral elevated spots at base of scutellum, connexivum except on postero-lateral angles, and entire under surface including legs and antennae. Claws, setal bundle of rostrum, sublateral pronotal fasciae, spot at inner edge of each callosity, spot at inner edge of each sublateral scutellar elevation, two sublateral and one median fasciae on scutellar disk, and connexival angles black.</paragraph>
+<paragraph id="647B124FF5063F674BE1E90CF954C7E3" blockId="10.[313,1714,328,2154]" box="[385,1712,1636,1675]" pageId="10" pageNumber="21">
+Size: male, length 
+<quantity id="A33CBFAAF5063F6748D1E90CFCFFC7E3" box="[689,795,1636,1675]" metricMagnitude="-2" metricUnit="m" metricValue="1.7" pageId="10" pageNumber="21" unit="mm" value="17.0">17 mm</quantity>
+., width 
+<quantity id="A33CBFAAF5063F6749F6E90CFBFDC7E3" box="[918,1049,1636,1675]" metricMagnitude="-3" metricUnit="m" metricValue="9.25" pageId="10" pageNumber="21" unit="mm" value="9.25">9.25 mm</quantity>
+.; female, length 
+<quantity id="A33CBFAAF5063F674F45E90CFA41C7E3" box="[1317,1445,1636,1675]" metricMagnitude="-2" metricUnit="m" metricValue="1.95" pageId="10" pageNumber="21" unit="mm" value="19.5">19.5 mm</quantity>
+.; width 
+<quantity id="A33CBFAAF5063F674C4CE90CF948C7E3" box="[1580,1708,1636,1675]" metricMagnitude="-2" metricUnit="m" metricValue="1.05" pageId="10" pageNumber="21" unit="mm" value="10.5">10.5 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5063F674B19E9CFFA79C650" pageId="10" pageNumber="21" type="description">
+<paragraph id="647B124FF5063F674B19E9CFFA79C650" blockId="10.[313,1714,328,2154]" pageId="10" pageNumber="21">
+<materialsCitation id="D4AC1812F5063F674B19E9CFFACCC7BA" ID-GBIF-Occurrence="3994028325" box="[377,1320,1703,1746]" collectedFrom="at light" collectingDate="1936-08-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="10" pageNumber="21" specimenCount-female="1" typeStatus="holotype">
+<typeStatus id="BB7FACEDF5063F674B19E9CFFDC6C7BA" box="[377,546,1703,1746]" pageId="10" pageNumber="21">Holotype</typeStatus>
+<specimenCount id="72C2D9C6F5063F674859E9CFFD57C7BA" box="[569,691,1703,1746]" pageId="10" pageNumber="21" type="female">female</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5063F6748B0E9CFFCF1C7BA" box="[720,789,1703,1746]" pageId="10" pageNumber="21">Piti</collectingMunicipality>
+, at light, 
+<date id="107A348FF5063F6749BCE9CFFB91C7BA" box="[988,1141,1703,1746]" pageId="10" pageNumber="21" value="2020-08">
+<collectingDate id="003ECD67F5063F6749BCE9CFFB91C7BA" box="[988,1141,1703,1746]" pageId="10" pageNumber="21" value="2020-08">Aug. 20</collectingDate>
+</date>
+, 
+<collectorName id="C9317799F5063F674EF3E9CFFAC5C7BA" box="[1171,1313,1703,1746]" pageId="10" pageNumber="21">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5063F674F5FE9CFFDCDC66D" ID-GBIF-Occurrence="3994028315" collectedFrom="at light" collectingDate="1936-10-06" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="10" pageNumber="21" specimenCount-male="1" typeStatus="allotype">
+<typeStatus id="BB7FACEDF5063F674F5FE9CFFA34C7BA" box="[1343,1488,1703,1746]" pageId="10" pageNumber="21">allotype</typeStatus>
+<specimenCount id="72C2D9C6F5063F674F84E9CFF9D8C7BA" box="[1508,1596,1703,1746]" pageId="10" pageNumber="21" type="male">male</specimenCount>
+, same data, 
+<date id="107A348FF5063F674BC6E9B3FDC4C66D" box="[422,544,1755,1797]" pageId="10" pageNumber="21">
+<collectingDate id="003ECD67F5063F674BC6E9B3FDC4C66D" box="[422,544,1755,1797]" pageId="10" pageNumber="21">Oct. 6</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5063F67485FE9B3FD92C650" ID-GBIF-Occurrence="3994028524" collectedFrom="at light" collectingDate="1936-08/1936-10" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="10" pageNumber="21" specimenCount-female="6" specimenCount-male="3" typeStatus="paratype">
+<typeStatus id="BB7FACEDF5063F67485FE9B3FD16C66D" box="[575,754,1755,1797]" pageId="10" pageNumber="21">paratypes</typeStatus>
+, 
+<specimenCount id="72C2D9C6F5063F67496CE9B3FC00C66D" box="[780,996,1755,1797]" pageId="10" pageNumber="21" type="male">three males</specimenCount>
+, 
+<specimenCount id="72C2D9C6F5063F67499FE9B3FB37C66D" box="[1023,1235,1755,1797]" pageId="10" pageNumber="21" type="female">six females</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5063F674E90E9B3FAD0C66D" box="[1264,1332,1755,1797]" pageId="10" pageNumber="21">Piti</collectingMunicipality>
+, at light, 
+<location id="611B4494F5063F674F95E9B3F9B3C66D" LSID="urn:lsid:plazi:treatment:EC6DA359F5053F674BD3E639FBC9C902:611B4494F5063F674F95E9B3F9B3C66D" box="[1525,1623,1755,1797]" municipality="Piti" name="Augu" pageId="10" pageNumber="21">Augu</location>
+,st to 
+<location id="611B4494F5063F674B5BE865FE34C650" LSID="urn:lsid:plazi:treatment:EC6DA359F5053F674BD3E639FBC9C902:611B4494F5063F674B5BE865FE34C650" box="[315,464,1805,1848]" municipality="Piti" name="October" pageId="10" pageNumber="21">October</location>
+, 
+<collectorName id="C9317799F5063F674B88E865FD94C650" box="[488,624,1805,1848]" pageId="10" pageNumber="21">Swezey</collectorName>
+,
+</materialsCitation>
+<materialsCitation id="D4AC1812F5063F6748E6E865FA79C650" ID-GBIF-Occurrence="3994028467" box="[646,1437,1805,1848]" collectedFrom="at light" collectingDate="1936-06-18" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="10" pageNumber="21" specimenCount-female="1">
+<specimenCount id="72C2D9C6F5063F6748E6E865FCAAC650" box="[646,846,1805,1848]" pageId="10" pageNumber="21" type="female">one female</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5063F674905E865FC4EC650" box="[869,938,1805,1848]" pageId="10" pageNumber="21">Piti</collectingMunicipality>
+, at light, 
+<date id="107A348FF5063F674E3EE865FB08C650" box="[1118,1260,1805,1848]" pageId="10" pageNumber="21" value="2018-06">
+<collectingDate id="003ECD67F5063F674E3EE865FB08C650" box="[1118,1260,1805,1848]" pageId="10" pageNumber="21" value="2018-06">June 18</collectingDate>
+</date>
+, 
+<location id="611B4494F5063F674F62E865FA7CC650" LSID="urn:lsid:plazi:treatment:EC6DA359F5053F674BD3E639FBC9C902:611B4494F5063F674F62E865FA7CC650" box="[1282,1432,1805,1848]" municipality="Piti" name="Usinger" pageId="10" pageNumber="21">Usinger</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5063F674B1BE828FBC9C902" pageId="10" pageNumber="21" type="description">
+<paragraph id="647B124FF5063F674B1BE828FBC9C902" blockId="10.[313,1714,328,2154]" pageId="10" pageNumber="21">
+<taxonomicName id="A3C469CCF5063F674B1BE828FD63C603" authorityName="Usinger" authorityYear="1946" box="[379,647,1856,1899]" class="Insecta" family="Pentatomidae" genus="Coleotichus" kingdom="Animalia" order="Hemiptera" pageId="10" pageNumber="21" phylum="Arthropoda" rank="species" species="marianensis">
+<emphasis id="56B0CE5DF5063F674B1BE828FD63C603" box="[379,647,1856,1899]" italics="true" pageId="10" pageNumber="21">C. marianensis</emphasis>
+</taxonomicName>
+is perhaps closest to the Philippine 
+<emphasis id="56B0CE5DF5063F674F21E828FA3EC603" box="[1345,1498,1856,1899]" italics="true" pageId="10" pageNumber="21">schultzei</emphasis>
+Taeuber, a species which is much broader and more robust with broader glabrous areas along lateral margins of pronotum, more arcuate lateral pronotal margins, brown-colored punctures, broader male genital capsule which exceeds the limits of scutellum and membrane, and more uniformly broad median ventral female genital plates with broadly rounded apices.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

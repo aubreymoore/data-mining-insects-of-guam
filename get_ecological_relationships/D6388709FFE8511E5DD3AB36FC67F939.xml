@@ -1,0 +1,85 @@
+<document id="3A2528A4C40526331DA279628B3142A2" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFE8511E5DD3AB36FC67F939" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Athesapeuta Faust 1894" docType="treatment" docVersion="9" lastPageNumber="97" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="97" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="6B79C4E9E5AF18246F0296B8D615C89F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="74D817E3AB8754944CEA32AA22C53248">
+<mods:title id="565CE1070BAA23147DD8098300995B8C">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="3847134E35938518C2260C62E79E6E06" type="personal">
+<mods:role id="146A9DB047B37CE81349753AC02CD065">
+<mods:roleTerm id="2C3918212ED0189B8E70EC563831EC52">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3F57958AA19BA58CD20DB94AA560B7D8">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="8155C52F502C426CCDA62DC90D9929A2">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="B88BB809DC63DA6DE25F0726003197A0">text</mods:typeOfResource>
+<mods:relatedItem id="8331D1141568B037BA17998EE3ED9FE2" type="host">
+<mods:originInfo id="7B1EA19D3DC603936A2036283EC3A3C6">
+<mods:dateIssued id="D3E9B4F7D8D109044DD563AD45CB0DBA">1942</mods:dateIssued>
+<mods:dateOther id="1A3E994699625EC184A22F30B4EE9231" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="EEA3C529911066B7263F1122872F5C9B">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="F1115484AC6F71980F30A0CEA9AAA16B">
+<mods:placeTerm id="9607F8ADDE0973159EC696C92CA45E8A">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="4908E2B617080BC2DF456D26C7412BB6">
+<mods:title id="13ADE0A651D2115157D74266BBC3DCB6">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="FBA960D1800D6218377782674B605F5F">
+<mods:extent id="6D8090A222C0BD149F063ED9F211AFCD" unit="page">
+<mods:start id="54C35686B0988BD6901C0EF293F6F558">73</mods:start>
+<mods:end id="F61078D0B37E08156D67C4709F21DB18">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="3A27DDC4B400EACD0896421DE5EAFF12">book chapter</mods:classification>
+<mods:identifier id="DCDE73179E45DF28F11D46619F1BE355" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="DDC1F5A3497D479916630A9E8AA2249F" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="A3988410301E7FDED71C2E61B289DA5F" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFE8511E5DD3AB36FC67F939" ID-DOI="http://doi.org/10.5281/zenodo.5163931" ID-GBIF-Taxon="184097862" ID-Zenodo-Dep="5163931" LSID="urn:lsid:plazi:treatment:D6388709FFE8511E5DD3AB36FC67F939" httpUri="http://treatment.plazi.org/id/D6388709FFE8511E5DD3AB36FC67F939" lastPageNumber="97" pageId="24" pageNumber="97">
+<subSubSection id="168B6594FFE8511E5DD3AB36FABDFB00" box="[648,1351,1132,1174]" pageId="24" pageNumber="97" type="nomenclature">
+<paragraph id="5E2E361FFFE8511E5DD3AB36FABDFB00" blockId="24.[648,1351,1132,1174]" box="[648,1351,1132,1174]" pageId="24" pageNumber="97">
+<heading id="05668173FFE8511E5DD3AB36FABDFB00" box="[648,1351,1132,1174]" centered="true" fontSize="8" level="2" pageId="24" pageNumber="97" reason="3">
+Genus 
+<taxonomicName id="99914D9CFFE8511E5C52AB36FABDFB00" authority="Faust, 1894" authorityName="Faust" authorityYear="1894" box="[777,1351,1132,1174]" class="Insecta" family="Curculionidae" genus="Athesapeuta" kingdom="Animalia" order="Coleoptera" pageId="24" pageNumber="97" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFE8511E5C52AB36FBA5FB00" bold="true" box="[777,1119,1132,1174]" pageId="24" pageNumber="97">ATHESAPEUTA</emphasis>
+Faust, 1894
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE8511E5E30ABE2FC67F939" pageId="24" pageNumber="97" type="discussion">
+<paragraph id="5E2E361FFFE8511E5E30ABE2FE82FA49" blockId="24.[300,1696,1208,1711]" pageId="24" pageNumber="97">
+This genus contains the only 
+<collectingCountry id="2686768FFFE8511E5CE0ABE2FBDFFB75" box="[955,1061,1208,1251]" name="Guam" pageId="24" pageNumber="97">Guam</collectingCountry>
+representative of the subfamily. Most of the known species of 
+<taxonomicName id="99914D9CFFE8511E5C3DABB6FBBBFA80" authorityName="Faust" authorityYear="1894" box="[870,1089,1260,1302]" class="Insecta" family="Curculionidae" genus="Athesapeuta" kingdom="Animalia" order="Coleoptera" pageId="24" pageNumber="97" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFE8511E5C3DABB6FBBBFA80" box="[870,1089,1260,1302]" italics="true" pageId="24" pageNumber="97">Athesapeuta</emphasis>
+</taxonomicName>
+have been described from 
+<collectingCountry id="2686768FFFE8511E5961ABB6F962FA80" box="[1594,1688,1260,1302]" name="India" pageId="24" pageNumber="97">India</collectingCountry>
+, others are recorded from Africa, 
+<collectingCountry id="2686768FFFE8511E5CF5AA7AFB7FFADF" box="[942,1157,1312,1353]" name="Madagascar" pageId="24" pageNumber="97">Madagascar</collectingCountry>
+, 
+<collectingCountry id="2686768FFFE8511E5BF9AA7AFAF6FADF" box="[1186,1292,1312,1353]" name="China" pageId="24" pageNumber="97">China</collectingCountry>
+, and 
+<collectingCountry id="2686768FFFE8511E5A26AA7AF965FADF" box="[1405,1695,1312,1353]" name="Netherlands" pageId="24" pageNumber="97">the Netherlands</collectingCountry>
+Indies. One species has been described from the 
+<collectingCountry id="2686768FFFE8511E5B8EAA09FA67FAEB" box="[1237,1437,1363,1405]" name="Philippines" pageId="24" pageNumber="97">Philippines</collectingCountry>
+, but probably numerous species occur there as well as in the islands to the west, south and east.
+</paragraph>
+<paragraph id="5E2E361FFFE8511E5E37AAB1FC67F939" blockId="24.[300,1696,1208,1711]" pageId="24" pageNumber="97">
+The 
+<collectingCountry id="2686768FFFE8511E5E9FAAB1FD7DF980" box="[452,647,1515,1558]" name="Philippines" pageId="24" pageNumber="97">Philippines</collectingCountry>
+species has been found of some use in the control of nut grass 
+<emphasis id="6CE5EA0DFFE8511E5EFAA944FCFEF9DC" box="[417,772,1566,1610]" italics="true" pageId="24" pageNumber="97">
+(
+<taxonomicName id="99914D9CFFE8511E5EF6A944FD02F9DC" box="[429,760,1566,1610]" pageId="24" pageNumber="97">Cyperus rotundus</taxonomicName>
+)
+</emphasis>
+and has been introduced into Hawaii and 
+<collectingCountry id="2686768FFFE8511E5973A944F993F9DC" box="[1576,1641,1566,1610]" name="Fiji" pageId="24" pageNumber="97">Fiji</collectingCountry>
+as an aid to the control of that sedge in sugar-cane fields. The new species described here is also a sedge eater.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

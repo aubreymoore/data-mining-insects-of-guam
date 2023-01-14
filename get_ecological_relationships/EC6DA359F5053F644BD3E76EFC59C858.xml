@@ -1,0 +1,117 @@
+<document id="3231A671C1B616B197663EC15FFD24EE" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5053F644BD3E76EFC59C858" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Coleotichus (Paracoleotichus) breddini Schouteden" docType="treatment" docVersion="20" lastPageNumber="20" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="20" updateTime="1671507890132" updateUser="annettekang">
+<mods:mods id="DD4F99B3AF7F2537594BEADB10DCA4A9" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CF785CDDEE3F4B865A37A5BA627A90DA">
+<mods:title id="CDEFD68B1E8A22714F558A1785DEE8AE">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="26EE2FB9131D3BA9DDD83F6D02045A08" type="personal">
+<mods:role id="C86D65490BA2994A211177D1D0CAEE8D">
+<mods:roleTerm id="2B2E7A90B7A01CD6D9953E656478062F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9F2DF0503882BEB042B3377509F83701">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="48DD58EC85EDB64A31BF3C9ACC013513">text</mods:typeOfResource>
+<mods:relatedItem id="E8CE7FC40BCEBAB350F0F08073DD98B2" type="host">
+<mods:originInfo id="59A59EFE15E02A2CFDD4FF2884843442">
+<mods:dateIssued id="8A7F8C23A08E36E7919DC0BF1536AE8D">1946</mods:dateIssued>
+<mods:dateOther id="9E249964736E2E2C9FC7DE6240CE4148" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="C1B7266DFDBD8E7805DF696F7777CF15">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="3FB181004995E8547D678F346084FF59">
+<mods:placeTerm id="4E57C2E87ECF74FCBF14B4232282B1A0">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="1B0ECFDDDAC1E5122CF74AD7D7DEE568">
+<mods:title id="9E247372B64528F2674A2C8BAE9F268E">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="D4FBE4302FC7DB6E25DC91E0B21EA9B9">
+<mods:extent id="1AB19E67533E86F42E6F0C0585B58775" unit="page">
+<mods:start id="79AC9E68265134794677079C67CFEFE5">11</mods:start>
+<mods:end id="FAA77F21D30C92A08D137404ACD1C439">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="2826E75847E08AF3C02222C481CBBE4E">book chapter</mods:classification>
+<mods:identifier id="3771FD0307D84A378DDB54542EE63222" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="8A7B4B6B9244981D3A4DB08341FC800E" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="884FA620BD38D9E98E949A2301D581E0" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5053F644BD3E76EFC59C858" ID-DOI="http://doi.org/10.5281/zenodo.5195123" ID-GBIF-Taxon="184601246" ID-Zenodo-Dep="5195123" LSID="urn:lsid:plazi:treatment:EC6DA359F5053F644BD3E76EFC59C858" httpUri="http://treatment.plazi.org/id/EC6DA359F5053F644BD3E76EFC59C858" lastPageNumber="20" pageId="9" pageNumber="20">
+<subSubSection id="2CDE41C4F5053F644BD3E76EFA54C958" box="[435,1456,2054,2096]" pageId="9" pageNumber="20" type="nomenclature">
+<paragraph id="647B124FF5053F644BD3E76EFA54C958" blockId="9.[435,1832,2054,2352]" box="[435,1456,2054,2096]" pageId="9" pageNumber="20">
+<heading id="3F33A523F5053F644BD3E76EFA54C958" box="[435,1456,2054,2096]" fontSize="11" level="2" pageId="9" pageNumber="20" reason="2">
+<emphasis id="56B0CE5DF5053F644BD3E76EFE35C958" bold="true" box="[435,465,2054,2096]" pageId="9" pageNumber="20">4.</emphasis>
+<taxonomicName id="A3C469CCF5053F644B93E76EFA54C958" authority="Schouteden" authorityName="Schouteden" box="[499,1456,2054,2096]" class="Insecta" family="Pentatomidae" genus="Coleotichus" kingdom="Animalia" order="Hemiptera" pageId="9" pageNumber="20" phylum="Arthropoda" rank="species" species="breddini" subGenus="Paracoleotichus">
+<emphasis id="56B0CE5DF5053F644B93E76EFB23C958" bold="true" box="[499,1223,2054,2096]" pageId="9" pageNumber="20">Coleotichus (Paracoleotichus) breddini</emphasis>
+Schouteden.
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5053F644B95E751FD07C9FE" pageId="9" pageNumber="20" type="description">
+<paragraph id="647B124FF5053F644B95E751FD07C9FE" blockId="9.[435,1832,2054,2352]" pageId="9" pageNumber="20">
+<treatmentCitationGroup id="44D43561F5053F644B95E751FD07C9FE" pageId="9" pageNumber="20">
+<bibCitation id="B1EE1A23F5053F644B95E751FD07C9FE" author="Schouteden, Hist" pageId="9" pageNumber="20" pagination="344" part="3" refId="ref3734" title="Nat. Mus. Nat. Hung" type="journal article" year="1905">
+<treatmentCitation id="E565345EF5053F644B95E751FD3AC9FE" author="Schouteden" page="344" pageId="9" pageNumber="20" year="1905">
+<emphasis id="56B0CE5DF5053F644B95E751FC82C90B" box="[501,870,2105,2147]" italics="true" pageId="9" pageNumber="20">Coleotichus breddini</emphasis>
+<author id="BC79FAAAF5053F64491DE751FB5FC90B" box="[893,1211,2105,2147]" case="TC" fn="Hist" fnc="TC" fns="N" ln="Schouteden" lnc="TC" npo="LnFn" pageId="9" pageNumber="20">Schouteden, Hist</author>
+.- 
+<title id="16C0F979F5053F644EADE751F996C90B" box="[1229,1650,2105,2147]" pageId="9" pageNumber="20">Nat. Mus. Nat. Hung</title>
+., Ann. 
+<emphasis id="56B0CE5DF5053F644D62E751F8F0C90B" bold="true" box="[1794,1812,2105,2147]" pageId="9" pageNumber="20">
+<part id="1060B8D2F5053F644D62E751F8F4C90B" box="[1794,1808,2105,2147]" pageId="9" pageNumber="20" type="volume">3</part>
+:
+</emphasis>
+<pagination id="5D0DECBBF5053F644852E704FD96C9FE" box="[562,626,2156,2198]" pageId="9" pageNumber="20" type="pagination">344</pagination>
+, 
+<year id="106C531CF5053F6448EBE704FD3AC9FE" box="[651,734,2156,2198]" pageId="9" pageNumber="20">1905</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5053F644B93E7F7FC59C858" pageId="9" pageNumber="20" type="description">
+<paragraph id="647B124FF5053F644B93E7F7FC59C858" blockId="9.[435,1832,2054,2352]" pageId="9" pageNumber="20">
+<materialsCitation id="D4AC1812F5053F644B93E7F7FB3DC9A2" ID-GBIF-Occurrence="3994028444" box="[499,1241,2207,2250]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="9" pageNumber="20" specimenCount="1">
+<location id="611B4494F5053F644B93E7F7FDD8C9A2" LSID="urn:lsid:plazi:treatment:EC6DA359F5053F644BD3E76EFC59C858:611B4494F5053F644B93E7F7FDD8C9A2" box="[499,572,2207,2250]" country="Guam" municipality="Fullaway" name="One" pageId="9" pageNumber="20">One</location>
+specimen, 
+<collectingCountry id="1CD352DFF5053F644969E7F7FC92C9A2" box="[777,886,2207,2250]" name="Guam" pageId="9" pageNumber="20">Guam</collectingCountry>
+, 
+<collectingMunicipality id="841F8835F5053F6449F0E7F7FBD0C9A2" box="[912,1076,2207,2250]" pageId="9" pageNumber="20">Fullaway</collectingMunicipality>
+(1178); TODO
+</materialsCitation>
+<materialsCitation id="D4AC1812F5053F644E8CE7F7FBC0C994" ID-GBIF-Occurrence="3994028470" collectedFrom="on Premna gaudichaudii" collectingDate="1936-05-19" collectorName="R. L. Usinger" country="Guam" location="Yigo" pageId="9" pageNumber="20" specimenCount="8">
+<specimenCount id="72C2D9C6F5053F644E8CE7F7F9ECC9A2" box="[1260,1544,2207,2250]" pageId="9" pageNumber="20" type="generic">eight specimens</specimenCount>
+, Yigo, 
+<date id="107A348FF5053F644CF4E7F7F8C5C9A2" box="[1684,1825,2207,2250]" pageId="9" pageNumber="20" value="2019-05">May 19</date>
+, 
+<collectedFrom id="D7D851B2F5053F644BD4E7BAFBF9C994" box="[436,1053,2258,2300]" pageId="9" pageNumber="20">
+on 
+<taxonomicName id="A3C469CCF5053F644B8EE7BAFBF9C994" authority=", Usinger" authorityName="Usinger" box="[494,1053,2258,2300]" class="Magnoliopsida" family="Lamiaceae" genus="Premna" kingdom="Plantae" order="Lamiales" pageId="9" pageNumber="20" phylum="Tracheophyta" rank="species" species="gaudichaudii">
+<emphasis id="56B0CE5DF5053F644B8EE7BAFC97C994" box="[494,883,2258,2300]" italics="true" pageId="9" pageNumber="20">Premna gaudichaudii,</emphasis>
+Usinger
+</taxonomicName>
+</collectedFrom>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5053F644E57E7BAF9A5C994" ID-GBIF-Occurrence="3994028353" box="[1079,1601,2258,2300]" collectingDate="1936-09-11" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="9" pageNumber="20" specimenCount="6">
+si:x specimens, Piti, 
+<date id="107A348FF5053F644FC7E7BAF9DEC994" box="[1447,1594,2258,2300]" pageId="9" pageNumber="20" value="2011-09">
+Sept. 
+<emphasis id="56B0CE5DF5053F644C73E7BAF9A5C994" bold="true" box="[1555,1601,2258,2300]" pageId="9" pageNumber="20">11,</emphasis>
+</date>
+</materialsCitation>
+<materialsCitation id="D4AC1812F5053F644C37E7BAF961C994" ID-GBIF-Occurrence="3994028308" box="[1623,1669,2258,2300]" collectingDate="1936-09-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="9" pageNumber="20">12,</materialsCitation>
+<materialsCitation id="D4AC1812F5053F644CFCE7BAF92FC994" ID-GBIF-Occurrence="3994028312" box="[1692,1739,2258,2300]" collectingDate="1936-09-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="9" pageNumber="20">13,</materialsCitation>
+<materialsCitation id="D4AC1812F5053F644CBEE7BAFE02C858" ID-GBIF-Occurrence="3994028348" collectingDate="1936-10-14" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="9" pageNumber="20">
+<date id="107A348FF5053F644CBEE7BAFE3BC858" pageId="9" pageNumber="20" value="2014-10">Oct. 14</date>
+,
+</materialsCitation>
+<materialsCitation id="D4AC1812F5053F644B96E66EFC5CC858" ID-GBIF-Occurrence="3994028521" box="[502,952,2310,2352]" collectedFrom="at light" collectingDate="1936-11-10" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="9" pageNumber="20">
+<date id="107A348FF5053F644B96E66EFD60C858" box="[502,644,2310,2352]" pageId="9" pageNumber="20" value="2010-11">Nov. 10</date>
+, at light, Swezey
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

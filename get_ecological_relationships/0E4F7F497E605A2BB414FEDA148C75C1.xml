@@ -1,0 +1,193 @@
+<document id="1CC4A3F5A9F5A041029ED7709BA2D849" ID-DOI="http://doi.org/10.5281/zenodo.5160270" ID-GBIF-Dataset="6dc2872d-cbab-4982-baed-c0969e3e3236" ID-Zenodo-Dep="5160270" checkinTime="1628013042203" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="0E4F7F497E605A2BB414FEDA148C75C1" docLanguage="en" docName="InsectsOfGuamI.172.175-183.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pheidole umbonata Mayr" docType="treatment" docVersion="17" lastPageNumber="179" masterDocId="F27607317E645A2FB552FF8416577654" masterDocTitle="Hymenoptera Formicidae of Guam" masterLastPageNumber="183" masterPageNumber="175" pageNumber="179" updateTime="1657826854609" updateUser="ExternalLinkService">
+<mods:mods id="ADAAB746E05B8983FD1EBDCCE56AB84D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="2A8C789FFF263C6FE282B5569A0EF56A">
+<mods:title id="BAD96BE9DE1449F0D29742D168F95C5E">Hymenoptera Formicidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="05046CD22A9E39E47DCEA25668A9911D" type="personal">
+<mods:role id="0AF347E41B5B10A7AB31533276EB239B">
+<mods:roleTerm id="38F808CDB0E12295E28F4755323758C6">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="54AF43621BEF1F180D5A8A7E9E0050C6">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="7579042A56D91624E125D08A1E31611D">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="F4942478FE80FC3FAEB81D8C18220E45">text</mods:typeOfResource>
+<mods:relatedItem id="4EEE7567FD51DA5BC120A5A631B30DD3" type="host">
+<mods:originInfo id="472E942DA9156833D04815B9D96B1F66">
+<mods:dateIssued id="32AF41AD8A8C48FE2AE2B16B7CC457BA">1942</mods:dateIssued>
+<mods:dateOther id="4047C634241B838023C7161993FAAEBD" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="B42641C3B30A17F7FF08FDB375093E8B">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="882BC85F1517C75613570F9AB1BBA68D">
+<mods:placeTerm id="9C6CD13AB26638CB1490A8F59EDD7340">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A7E6CEC089FDAB90846F8922850F404D">
+<mods:title id="6572BCCA45664C6F16CF7A33E5C487FF">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="0D9211878628178E6F0560983155B83D">
+<mods:extent id="09A8C4E67620E864FC1B9866454E3297" unit="page">
+<mods:start id="F19E118801FAFADFE20C29E70C57520D">175</mods:start>
+<mods:end id="512B29810B4EAA31CE482A55A3546E98">183</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="661F587E4E1EAAC24E2290F479A41BA1">book chapter</mods:classification>
+<mods:identifier id="0579F409ABC15632BDE0E3E9FCA08BF7" type="DOI">http://doi.org/10.5281/zenodo.5160270</mods:identifier>
+<mods:identifier id="19240A020B6DE17F2F97638780BE1ADD" type="GBIF-Dataset">6dc2872d-cbab-4982-baed-c0969e3e3236</mods:identifier>
+<mods:identifier id="B4A4F49406F77EAEB91FC5EC44F2774D" type="Zenodo-Dep">5160270</mods:identifier>
+</mods:mods>
+<treatment id="0E4F7F497E605A2BB414FEDA148C75C1" ID-DOI="http://doi.org/10.5281/zenodo.5211710" ID-GBIF-Taxon="184416217" ID-Zenodo-Dep="5211710" LSID="urn:lsid:plazi:treatment:0E4F7F497E605A2BB414FEDA148C75C1" httpUri="http://treatment.plazi.org/id/0E4F7F497E605A2BB414FEDA148C75C1" lastPageNumber="179" pageId="4" pageNumber="179">
+<subSubSection id="CEFC9DD47E605A2BB414FEDA152177DD" box="[326,886,350,393]" pageId="4" pageNumber="179" type="nomenclature">
+<paragraph id="8659CE5F7E605A2BB414FEDA152177DD" blockId="4.[322,1719,350,917]" box="[326,886,350,393]" pageId="4" pageNumber="179">
+<heading id="DD1179337E605A2BB414FEDA152177DD" box="[326,886,350,393]" centered="true" fontSize="8" level="2" pageId="4" pageNumber="179" reason="4">
+<emphasis id="B492124D7E605A2BB414FEDA172277DD" bold="true" box="[326,373,350,393]" pageId="4" pageNumber="179">15.</emphasis>
+<taxonomicName id="41E6B5DC7E605A2BB4C5FEDA153877DD" authority="Mayr" authorityName="Mayr" box="[407,879,350,393]" class="Insecta" family="Formicidae" genus="Pheidole" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="179" phylum="Arthropoda" rank="species" species="umbonata">
+<emphasis id="B492124D7E605A2BB4C5FEDA14AD77DD" bold="true" box="[407,762,350,393]" pageId="4" pageNumber="179">Pheidole umbonata</emphasis>
+Mayr
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E605A2BB6DBFEDA124677A4" pageId="4" pageNumber="179" type="reference_group">
+<treatmentCitationGroup id="A6F6E9717E605A2BB6DBFEDA124677A4" pageId="4" pageNumber="179">
+<paragraph id="8659CE5F7E605A2BB6DBFEDA12AB77E8" blockId="4.[322,1719,350,917]" pageId="4" pageNumber="179">
+<bibCitation id="53CCC6337E605A2BB6DBFEDA12AB77E8" author="Mayr" journalOrPublisher="Sitzungsb. k. Akad. Wiss. Wien" pageId="4" pageNumber="179" pagination="510" part="53" refId="ref2280" type="journal article" year="1866">
+<treatmentCitation id="0747E84E7E605A2BB6DBFEDA17B377E8" author="Mayr" page="510" pageId="4" pageNumber="179" year="1866">
+<journalOrPublisher id="5C27C4937E605A2BB6DBFEDA138B77DD" box="[905,1500,350,393]" pageId="4" pageNumber="179">Sitzungsb. k. Akad. Wiss. Wien</journalOrPublisher>
+<emphasis id="B492124D7E605A2BB0BFFEDA101977DD" bold="true" box="[1517,1614,350,393]" pageId="4" pageNumber="179">
+<part id="F24264C27E605A2BB0BFFEDA104A77DD" box="[1517,1565,350,393]" pageId="4" pageNumber="179" type="volume">53</part>
+(
+<part id="F24264C27E605A2BB379FEDA106D77DD" box="[1579,1594,350,393]" pageId="4" pageNumber="179" type="issue">1</part>
+):
+</emphasis>
+<pagination id="BF2F30AB7E605A2BB321FEDA10E677DD" box="[1651,1713,350,393]" pageId="4" pageNumber="179" type="pagination">510</pagination>
+, 
+<year id="F24E8F0C7E605A2BB4D7FE16178A77E8" box="[389,477,402,444]" pageId="4" pageNumber="179">1866</year>
+;
+</treatmentCitation>
+<treatmentCitation id="0747E84E7E605A2BB4A5FE1612AB77E8" author="Mayr" box="[503,1276,402,444]" page="978" pageId="4" pageNumber="179" year="1870">
+<journalOrPublisher id="5C27C4937E605A2BB4A5FE1615A477E8" box="[503,1011,402,444]" pageId="4" pageNumber="179">Zool. bot. Ges. Wien, Verh.</journalOrPublisher>
+<emphasis id="B492124D7E605A2BB154FE16127B77E8" bold="true" box="[1030,1068,402,444]" pageId="4" pageNumber="179">
+<part id="F24264C27E605A2BB154FE16127F77E8" box="[1030,1064,402,444]" pageId="4" pageNumber="179" type="volume">20</part>
+:
+</emphasis>
+<pagination id="BF2F30AB7E605A2BB119FE1612DC77E8" box="[1099,1163,402,444]" pageId="4" pageNumber="179" type="pagination">978</pagination>
+, 
+<year id="F24E8F0C7E605A2BB1F5FE1612A077E8" box="[1191,1271,402,444]" pageId="4" pageNumber="179">1870</year>
+.
+</treatmentCitation>
+</bibCitation>
+</paragraph>
+<paragraph id="8659CE5F7E605A2BB04BFE16124677A4" blockId="4.[322,1719,350,917]" pageId="4" pageNumber="179">
+<treatmentCitation id="0747E84E7E605A2BB04BFE16124677A4" author="Wheeler" page="19" pageId="4" pageNumber="179" year="1935">
+<bibCitation id="53CCC6337E605A2BB04BFE16124677A4" author="Wheeler" journalOrPublisher="B. P. Bishop Mus., 0 cc. Papers" pageId="4" pageNumber="179" pagination="19" part="11" refId="ref2314" type="journal article" year="1935">
+<author id="5E5B26BA7E605A2BB04BFE1613E377E8" box="[1305,1460,402,444]" pageId="4" pageNumber="179">Wheeler</author>
+, 
+<journalOrPublisher id="5C27C4937E605A2BB09CFE16149A77A4" pageId="4" pageNumber="179">B. P. Bishop Mus., 0cc. Papers</journalOrPublisher>
+<emphasis id="B492124D7E605A2BB7B2FE41150377A4" bold="true" box="[736,852,453,496]" pageId="4" pageNumber="179">
+<part id="F24264C27E605A2BB7B2FE41155B77A4" box="[736,780,453,496]" pageId="4" pageNumber="179" type="volume">11</part>
+(
+<part id="F24264C27E605A2BB648FE41151177A4" box="[794,838,453,496]" pageId="4" pageNumber="179" type="issue">11</part>
+)
+</emphasis>
+: 
+<pagination id="BF2F30AB7E605A2BB62CFE4115F677A4" box="[894,929,453,496]" pageId="4" pageNumber="179" type="pagination">19</pagination>
+, 
+<year id="F24E8F0C7E605A2BB6E8FE41125B77A4" box="[954,1036,453,496]" pageId="4" pageNumber="179">1935</year>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</treatmentCitationGroup>
+</subSubSection>
+<subSubSection id="CEFC9DD47E605A2BB4D1FD84120674C6" pageId="4" pageNumber="179" type="materials_examined">
+<paragraph id="8659CE5F7E605A2BB4D1FD84120674C6" blockId="4.[322,1719,350,917]" pageId="4" pageNumber="179">
+<materialsCitation id="368EC4027E605A2BB4D1FD841222747A" ID-GBIF-Occurrence="3334693381" box="[387,1141,512,558]" collectedFrom="under stones" collectingDate="1936-05-03" collectorName="O. H. Swezey" country="Guam" location="Mount Tenjo" pageId="4" pageNumber="179">
+<location id="833998847E605A2BB4D1FD841468747A" LSID="urn:lsid:plazi:treatment:0E4F7F497E605A2BB414FEDA148C75C1:833998847E605A2BB4D1FD841468747A" box="[387,575,512,558]" name="Mt. Tenjo" pageId="4" pageNumber="179">Mt. Tenjo</location>
+, 
+<date id="F258E89F7E605A2BB705FD84149B747A" box="[599,716,512,558]" pageId="4" pageNumber="179">
+<collectingDate id="E21C11777E605A2BB705FD84149B747A" box="[599,716,512,558]" pageId="4" pageNumber="179">May 3</collectingDate>
+</date>
+, under stones, 
+<collectorName id="2B13AB897E605A2BB6B3FD841239747A" box="[993,1134,512,558]" pageId="4" pageNumber="179">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E605A2BB1D4FD841385747A" ID-GBIF-Occurrence="3862685373" box="[1158,1490,512,558]" collectingDate="1936-05-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="4" pageNumber="179">
+<location id="833998847E605A2BB1D4FD841369747A" LSID="urn:lsid:plazi:treatment:0E4F7F497E605A2BB414FEDA148C75C1:833998847E605A2BB1D4FD841369747A" box="[1158,1342,512,558]" name="Machanao" pageId="4" pageNumber="179">Machanao</location>
+, 
+<date id="F258E89F7E605A2BB007FD84139C747A" box="[1365,1483,512,558]" pageId="4" pageNumber="179">
+<collectingDate id="E21C11777E605A2BB007FD84139C747A" box="[1365,1483,512,558]" pageId="4" pageNumber="179">May 4</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="368EC4027E605A2BB0B7FD84178E740B" ID-GBIF-Occurrence="3862685355" collectedFrom="in moss" collectingDate="1936-05-16" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="4" pageNumber="179">
+16, in moss, 
+<collectorName id="2B13AB897E605A2BB414FDB71785740B" box="[326,466,563,607]" pageId="4" pageNumber="179">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E605A2BB4B5FDB712C7740B" ID-GBIF-Occurrence="3334693379" box="[487,1168,563,607]" collectedFrom="under bark" collectingDate="1936-05-30" collectorName="R. L. Usinger" country="Guam" location="Tumon" pageId="4" pageNumber="179">
+<collectingMunicipality id="663D54257E605A2BB4B5FDB7143D740B" box="[487,618,563,607]" pageId="4" pageNumber="179">Tumon</collectingMunicipality>
+, 
+<date id="F258E89F7E605A2BB72DFDB71550740B" box="[639,775,563,607]" pageId="4" pageNumber="179" value="1930-05">
+<collectingDate id="E21C11777E605A2BB72DFDB71550740B" box="[639,775,563,607]" pageId="4" pageNumber="179" value="1930-05">May 30</collectingDate>
+</date>
+, under bark, 
+<location id="833998847E605A2BB6A0FDB712DE740B" LSID="urn:lsid:plazi:treatment:0E4F7F497E605A2BB414FEDA148C75C1:833998847E605A2BB6A0FDB712DE740B" box="[1010,1161,563,607]" municipality="Tumon" name="Usinger" pageId="4" pageNumber="179">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E605A2BB1F2FDB713BA740B" ID-GBIF-Occurrence="3862685378" box="[1184,1517,563,607]" collectingDate="1936-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="179">
+<location id="833998847E605A2BB1F2FDB712B5740B" LSID="urn:lsid:plazi:treatment:0E4F7F497E605A2BB414FEDA148C75C1:833998847E605A2BB1F2FDB712B5740B" box="[1184,1250,563,607]" name="Piti" pageId="4" pageNumber="179">Piti</location>
+, 
+<location id="833998847E605A2BB1A4FDB71314740B" LSID="urn:lsid:plazi:treatment:0E4F7F497E605A2BB414FEDA148C75C1:833998847E605A2BB1A4FDB71314740B" box="[1270,1347,563,607]" name="July" pageId="4" pageNumber="179">July</location>
+, 
+<collectorName id="2B13AB897E605A2BB008FDB713B1740B" box="[1370,1510,563,607]" pageId="4" pageNumber="179">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E605A2BB0AEFDB717ED74C6" ID-GBIF-Occurrence="3862685400" collectingDate="1936-07-06" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="4" pageNumber="179">
+<location id="833998847E605A2BB0AEFDB710F8740B" LSID="urn:lsid:plazi:treatment:0E4F7F497E605A2BB414FEDA148C75C1:833998847E605A2BB0AEFDB710F8740B" box="[1532,1711,563,607]" name="Barrigada" pageId="4" pageNumber="179">Barrigada</location>
+, 
+<date id="F258E89F7E605A2BB411FDE317E474C6" box="[323,435,615,658]" pageId="4" pageNumber="179">
+<collectingDate id="E21C11777E605A2BB411FDE317E474C6" box="[323,435,615,658]" pageId="4" pageNumber="179">July 6</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="368EC4027E605A2BB49BFDE314F774C6" ID-GBIF-Occurrence="3862685302" box="[457,672,615,658]" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="4" pageNumber="179">
+22, 
+<collectorName id="2B13AB897E605A2BB75FFDE314CE74C6" box="[525,665,615,658]" pageId="4" pageNumber="179">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E605A2BB7FDFDE3120674C6" ID-GBIF-Occurrence="3334693386" box="[687,1105,615,658]" collectingDate="1936-11-13" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="4" pageNumber="179">
+<location id="833998847E605A2BB7FDFDE3155F74C6" LSID="urn:lsid:plazi:treatment:0E4F7F497E605A2BB414FEDA148C75C1:833998847E605A2BB7FDFDE3155F74C6" box="[687,776,615,658]" name="Yigo" pageId="4" pageNumber="179">Yigo</location>
+, 
+<date id="F258E89F7E605A2BB64DFDE315FA74C6" box="[799,941,615,658]" pageId="4" pageNumber="179" value="2013-11">
+<collectingDate id="E21C11777E605A2BB64DFDE315FA74C6" box="[799,941,615,658]" pageId="4" pageNumber="179" value="2013-11">Nov. 13</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E605A2BB694FDE3121B74C6" box="[966,1100,615,658]" pageId="4" pageNumber="179">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E605A2BB4D0FD24148C75C1" pageId="4" pageNumber="179" type="discussion">
+<paragraph id="8659CE5F7E605A2BB4D0FD24148C75C1" blockId="4.[322,1719,350,917]" pageId="4" pageNumber="179">
+This dark brown ant is widespread in the Pacific islands from Marquesas, Tahiti, 
+<collectingCountry id="FEF18ECF7E605A2BB486FD57141C74AB" box="[468,587,723,767]" name="Samoa" pageId="4" pageNumber="179">Samoa</collectingCountry>
+, 
+<collectingCountry id="FEF18ECF7E605A2BB73FFD5714E674AB" box="[621,689,723,767]" name="Fiji" pageId="4" pageNumber="179">Fiji</collectingCountry>
+, 
+<collectingCountry id="FEF18ECF7E605A2BB780FD57151074AB" box="[722,839,723,767]" name="Tonga" pageId="4" pageNumber="179">Tonga</collectingCountry>
+, 
+<collectingCountry id="FEF18ECF7E605A2BB63BFD5712D274AB" box="[873,1157,723,767]" name="New Caledonia" pageId="4" pageNumber="179">New Caledonia</collectingCountry>
+, New Britain, Solomons and Papua. Now recorded from 
+<collectingCountry id="FEF18ECF7E605A2BB61AFC8C15E77566" box="[840,944,776,818]" name="Guam" pageId="4" pageNumber="179">Guam</collectingCountry>
+for the first time. We found it widely distributed, and the most abundant of the species of 
+<taxonomicName id="41E6B5DC7E605A2BB1E1FCBE131B7531" box="[1203,1356,826,869]" class="Insecta" family="Formicidae" genus="Pheidole" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="179" phylum="Arthropoda" rank="genus">
+<emphasis id="B492124D7E605A2BB1E1FCBE131B7531" box="[1203,1356,826,869]" italics="true" pageId="4" pageNumber="179">Pheidole</emphasis>
+</taxonomicName>
+in 
+<collectingCountry id="FEF18ECF7E605A2BB0DEFCBE13AF7531" box="[1420,1528,826,869]" name="Guam" pageId="4" pageNumber="179">Guam</collectingCountry>
+. Determination by M. R. Smith.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

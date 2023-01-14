@@ -1,0 +1,141 @@
+<document id="8C32185E691EEB19A7857C1636869B96" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E959FFB3FEF787DB96740495" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Agathodes ostentalis" docType="treatment" docVersion="19" lastPageNumber="181" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="181" updateTime="1670258400554" updateUser="annettekang">
+<mods:mods id="1821904EF66131A5A4BC9A872937B4A6" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C1C8D54E77A173D729B4F38B8EC74B16">
+<mods:title id="D82862F7C4179B84BA852088CE3E0C55">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="30492271AA02F238FFFA893F10D8E858" type="personal">
+<mods:role id="C4AB141A8C1D061526098E4D9C4B558D">
+<mods:roleTerm id="C4A3DD53F5DEFA0E86ABF9EFF83B5FFB">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="8291E3901BD1FA83CD1EA6C6A6347460">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="DC24F4E1E37DD8B26DE6D775FDC9752C">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="2C167D923C9F0081C8156D4690D0ACB5">text</mods:typeOfResource>
+<mods:relatedItem id="9121F1974BBD158184C2074A55BE9CFB" type="host">
+<mods:originInfo id="5A0D5FE224538552D1A51695B89E82CD">
+<mods:dateIssued id="B3191CDC971546A7E43F1F7A9D379F46">1946</mods:dateIssued>
+<mods:dateOther id="4527109DE715CDA0CB1BB3064F4EFFD1" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="535F7C950EC3F741F2F4270858128A3C">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="0840FBCC9C0A4F29EDD3B67032328785">
+<mods:placeTerm id="0F4817EB111C9BDBFA877ECCE026C56E">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="4CAE0CA525910F4082EBC32B7A92ABFE">
+<mods:title id="80DB3A4839FFD23147EAF7C0E6F25178">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="E995577CCE2CE3233A425CF308E0AC79">
+<mods:extent id="7F0AA980D07169570F575BC7EAA1813C" unit="page">
+<mods:start id="3F3C696B2B0AAF2179B968C98BD58C3E">163</mods:start>
+<mods:end id="166804380A53EF258D14EDE13F74B9B4">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="576E12B2F535019A3DB99EC3C46FEE9B">book chapter</mods:classification>
+<mods:identifier id="6367BD7CF746C0001BF8A6D88E9C0552" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="13D2C0C6CA62A6CC63F652D207D624F4" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="B71B6A8423AFD5F73AB7335CEB6687FC" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E959FFB3FEF787DB96740495" ID-DOI="http://doi.org/10.5281/zenodo.5171092" ID-GBIF-Taxon="183926919" ID-Zenodo-Dep="5171092" LSID="urn:lsid:plazi:treatment:03B387B8E959FFB3FEF787DB96740495" httpUri="http://treatment.plazi.org/id/03B387B8E959FFB3FEF787DB96740495" lastPageNumber="181" pageId="18" pageNumber="181">
+<subSubSection id="C3006525E959FFB3FEF787DB91C3055F" box="[312,949,1510,1552]" pageId="18" pageNumber="181" type="nomenclature">
+<paragraph id="8BA536AEE959FFB3FEF787DB91C3055F" blockId="18.[312,1712,1510,2010]" box="[312,949,1510,1552]" pageId="18" pageNumber="181">
+<heading id="D0ED81C2E959FFB3FEF787DB91C3055F" box="[312,949,1510,1552]" fontSize="8" level="2" pageId="18" pageNumber="181" reason="4">
+<emphasis id="B96EEABCE959FFB3FEF787DB931C055F" bold="true" box="[312,362,1510,1552]" pageId="18" pageNumber="181">28.</emphasis>
+<taxonomicName id="4C1A4D2DE959FFB3FE4387DB91D9055F" authority="(Geyer)" baseAuthorityName="Geyer" box="[396,943,1510,1552]" class="Insecta" family="Crambidae" genus="Agathodes" kingdom="Animalia" order="Lepidoptera" pageId="18" pageNumber="181" phylum="Arthropoda" rank="species" species="ostentalis">
+<emphasis id="B96EEABCE959FFB3FE4387DB9171055F" bold="true" box="[396,775,1510,1552]" pageId="18" pageNumber="181">Agathodes ostentalis</emphasis>
+(Geyer)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E959FFB3FEB8842490790592" pageId="18" pageNumber="181" type="description">
+<paragraph id="8BA536AEE959FFB3FEB884249163053A" blockId="18.[312,1712,1510,2010]" pageId="18" pageNumber="181">
+<treatmentCitationGroup id="AB0A1180E959FFB3FEB884249163053A" pageId="18" pageNumber="181">
+<bibCitation id="5E303EC2E959FFB3FEB884249163053A" author="Geyer" editor="Hubner" pageId="18" pageNumber="181" pagination="833" refId="ref10124" title="Zutr. Samml. Ex. Schm" type="journal volume" year="1837">
+<treatmentCitation id="0ABB10BFE959FFB3FEB884249166053A" author="Geyer" pageId="18" pageNumber="181" year="1837">
+<emphasis id="B96EEABCE959FFB3FEB884249176050C" box="[375,768,1561,1603]" italics="true" pageId="18" pageNumber="181">Perinephela ostentalis</emphasis>
+<author id="53A7DE4BE959FFB3FCDB84249109050C" box="[788,895,1561,1603]" pageId="18" pageNumber="181">Geyer</author>
+, in 
+<editor id="4D86DEADE959FFB3FC018424962F050C" box="[974,1113,1561,1603]" pageId="18" pageNumber="181">Hubner</editor>
+, 
+<title id="F91EDD98E959FFB3FBBA84249446050C" box="[1141,1584,1561,1603]" pageId="18" pageNumber="181">Zutr. Samml. Ex. Schm</title>
+. 
+<emphasis id="B96EEABCE959FFB3F9858424941B050C" bold="true" box="[1610,1645,1561,1603]" pageId="18" pageNumber="181">5:</emphasis>
+11, figs. 
+<pagination id="B2D3C85AE959FFB3FDC48470903A053A" box="[523,588,1613,1653]" pageId="18" pageNumber="181">833</pagination>
+, 834, 
+<year id="FFB277FDE959FFB3FD7184709166053A" box="[702,784,1613,1653]" pageId="18" pageNumber="181">1837</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE959FFB3FEB9844290790592" blockId="18.[312,1712,1510,2010]" pageId="18" pageNumber="181">
+<treatmentCitationGroup id="AB0A1180E959FFB3FEB9844290790592" pageId="18" pageNumber="181">
+<bibCitation id="5E303EC2E959FFB3FEB9844290790592" author="Hampson" pageId="18" pageNumber="181" pagination="345" refId="ref10151" title="Fauna Brit. India, Moths" type="journal volume" year="1896">
+<emphasis id="B96EEABCE959FFB3FEB98442909805E6" box="[374,750,1663,1705]" italics="true" pageId="18" pageNumber="181">Agathodes ostentalis,</emphasis>
+<treatmentCitation id="0ABB10BFE959FFB3FD308442907C0592" author="Hampson" page="345" pageId="18" pageNumber="181" year="1896">
+<author id="53A7DE4BE959FFB3FD30844291DD05E6" box="[767,939,1663,1705]" pageId="18" pageNumber="181">Hampson</author>
+, 
+<title id="F91EDD98E959FFB3FC0C844297FE05E6" box="[963,1416,1663,1705]" pageId="18" pageNumber="181">
+Fauna Brit. 
+<collectingCountry id="F30D763EE959FFB3FB6E8442977605E6" box="[1185,1280,1663,1705]" name="India" pageId="18" pageNumber="181">India</collectingCountry>
+, Moths
+</title>
+<emphasis id="B96EEABCE959FFB3FA58844297CD05E6" bold="true" box="[1431,1467,1663,1705]" pageId="18" pageNumber="181">4:</emphasis>
+<pagination id="B2D3C85AE959FFB3FA068442947F05E6" box="[1481,1545,1663,1705]" pageId="18" pageNumber="181">345</pagination>
+, fig. 190, 
+<year id="FFB277FDE959FFB3FE78848E907C0592" box="[439,522,1715,1757]" pageId="18" pageNumber="181">1896</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E959FFB3FEB684DB93E0040D" pageId="18" pageNumber="181" type="description">
+<paragraph id="8BA536AEE959FFB3FEB684DB93E0040D" blockId="18.[312,1712,1510,2010]" pageId="18" pageNumber="181">
+<materialsCitation id="3B723CF3E959FFB3FEB684DB900B045F" ID-GBIF-Occurrence="3332081431" box="[377,637,1766,1808]" collectingDate="1936-10-17" collectorName="O. H. Swezey" country="Guam" location="Agat" pageId="18" pageNumber="181">
+<location id="8EC56075E959FFB3FEB684DB93A7045F" LSID="urn:lsid:plazi:treatment:03B387B8E959FFB3FEF787DB96740495:8EC56075E959FFB3FEB684DB93A7045F" box="[377,465,1766,1808]" pageId="18" pageNumber="181">Agat</location>
+, 
+<date id="FFA4106EE959FFB3FE2584DB9003045F" box="[490,629,1766,1808]" pageId="18" pageNumber="181" value="2017-10">
+<collectingDate id="EFE0E986E959FFB3FE2584DB9003045F" box="[490,629,1766,1808]" pageId="18" pageNumber="181" value="2017-10">Oct. 17</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E959FFB3FD4284DB9655045F" ID-GBIF-Occurrence="3332081361" box="[653,1059,1766,1808]" collectingDate="1936-11-02" collectorName="O. H. Swezey" country="Guam" location="Asan" pageId="18" pageNumber="181">
+<location id="8EC56075E959FFB3FD4284DB909C045F" LSID="urn:lsid:plazi:treatment:03B387B8E959FFB3FEF787DB96740495:8EC56075E959FFB3FD4284DB909C045F" box="[653,746,1766,1808]" pageId="18" pageNumber="181">Asan</location>
+, 
+<date id="FFA4106EE959FFB3FCCC84DB9108045F" box="[771,894,1766,1808]" pageId="18" pageNumber="181">
+<collectingDate id="EFE0E986E959FFB3FCCC84DB9108045F" box="[771,894,1766,1808]" pageId="18" pageNumber="181">Nov. 2</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E959FFB3FC5784DB9668045F" box="[920,1054,1766,1808]" pageId="18" pageNumber="181">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="3B723CF3E959FFB3FBF184DB93E7040D" ID-GBIF-Occurrence="3332081306" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Bishop Museum" pageId="18" pageNumber="181">
+<location id="8EC56075E959FFB3FBF184DB979C045F" LSID="urn:lsid:plazi:treatment:03B387B8E959FFB3FEF787DB96740495:8EC56075E959FFB3FBF184DB979C045F" box="[1086,1514,1766,1808]" pageId="18" pageNumber="181">One in Bishop Museum</location>
+, FullajWay, 1911
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E959FFB3FEB5857696740495" pageId="18" pageNumber="181" type="description">
+<paragraph id="8BA536AEE959FFB3FEB5857696740495" blockId="18.[312,1712,1510,2010]" pageId="18" pageNumber="181">
+Occurs in 
+<collectingCountry id="F30D763EE959FFB3FD8B857690D4043A" box="[580,674,1867,1909]" name="India" pageId="18" pageNumber="181">India</collectingCountry>
+, 
+<collectingCountry id="F30D763EE959FFB3FD0D8576914A043A" box="[706,828,1867,1909]" name="Sri Lanka" pageId="18" pageNumber="181">Ceylon</collectingCountry>
+, 
+<collectingCountry id="F30D763EE959FFB3FC95857691A3043A" box="[858,981,1867,1909]" name="Myanmar" pageId="18" pageNumber="181">Burma</collectingCountry>
+, Andamans, Java, Sumbawa. Now recorded in 
+<collectingCountry id="F30D763EE959FFB3FE3E8540902E04E6" box="[497,600,1917,1961]" name="Guam" pageId="18" pageNumber="181">Guam</collectingCountry>
+for the first time. Its caterpillar_s are leafrollers on 
+<emphasis id="B96EEABCE959FFB3F9CD854093DD0495" italics="true" pageId="18" pageNumber="181">
+<taxonomicName id="4C1A4D2DE959FFB3F9CD854093D00495" class="Magnoliopsida" family="Fabaceae" genus="Erythrina" kingdom="Animalia" order="Fabales" pageId="18" pageNumber="181" phylum="Tracheophyta" rank="species" species="indica">Erythrina indica</taxonomicName>
+.
+</emphasis>
+All our specimens were reared.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

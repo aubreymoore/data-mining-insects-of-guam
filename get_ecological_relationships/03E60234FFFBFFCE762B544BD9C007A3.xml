@@ -1,0 +1,190 @@
+<document id="32DF8953F76B4C058CBDBB9A53C1BDA2" ID-DOI="http://doi.org/10.5281/zenodo.3634035" ID-GBIF-Dataset="9c8d5683-76c1-4938-aede-b7ad5391b6b2" ID-Zenodo-Dep="3634035" checkinTime="1580668122796" checkinUser="plazi" docAuthor="Moulton, Dudley" docDate="1942" docId="03E60234FFFBFFCE762B544BD9C007A3" docLanguage="en" docName="InsectsOfGuam.172.7-16.pdf.imf" docOrigin="Insects of Guam I, Bernice P. Bishop Museum Bulletin" docSource="http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Rhaebothrips fuscus Moulton 1942, new species" docType="treatment" docVersion="13" lastPageNumber="16" masterDocId="FFDF7A4CFFF3FFC777195003DD64051A" masterDocTitle="Thysanoptera: Thrips of Guam" masterLastPageNumber="16" masterPageNumber="7" pageNumber="15" updateTime="1658765590881" updateUser="annettekang">
+<mods:mods id="6C870A484F33C027EC07815E0143333D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="EB39FB40796A8E20106B380A7E1C44F5">
+<mods:title id="F22D581C02074CE226508F20430BD799">Thysanoptera: Thrips of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="10356BD46DC843E8345EAAD4390519EC" type="personal">
+<mods:role id="44CAE3D90C24DE0AD231A9A4F756DEEA">
+<mods:roleTerm id="AF25E1628A078F924C9B1EAC9F79D116">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="30BEF260B205FD9BBA4E138D8618EAD8">Moulton, Dudley</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="998D9FFFD62C32F9450FECF69BD5426A">text</mods:typeOfResource>
+<mods:relatedItem id="89E34CE816A5352794C91D2473D2E1E2" type="host">
+<mods:originInfo id="32BB71C017C55A08DB16E7E7D9121641">
+<mods:dateIssued id="82D4E28DC1405571771C9C001F2E5AAF">1942</mods:dateIssued>
+<mods:dateOther id="1BFAABF24FA313C78ADA8DEBBDF9C737" type="pubDate">1942-12-31</mods:dateOther>
+<mods:publisher id="A148437758471D2F2439D067530AB4BA">Bernice P. Bishop Museum Bulletin</mods:publisher>
+</mods:originInfo>
+<mods:titleInfo id="8C543A575F526B10CD811F4BD74819E8">
+<mods:title id="BC805E7246904FEF7209B17DB1F4FF6A">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="60EC396E2B324FE28537AF1B55C84B9F">
+<mods:extent id="B2C62A1D3FAD8E1D4339D92E4021108B" unit="page">
+<mods:start id="32E7E8BACE59C25DB3FF886B855D78DC">7</mods:start>
+<mods:end id="C306228DD8867F2FD25D88E590D26B29">16</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="FFEEFE09B51DF05EDA6880B9620AFCC6">
+<mods:url id="B777C47CA9181EF84B6A80015C31D7D5">http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf</mods:url>
+</mods:location>
+<mods:classification id="3240A2CBB35036C49B0810AEAFDFCA7A">book chapter</mods:classification>
+<mods:identifier id="4E576EFCAC753F17F0799D0E829FCF45" type="DOI">http://doi.org/10.5281/zenodo.3634035</mods:identifier>
+<mods:identifier id="155BA45F6B3837537FD44C163AEA0146" type="GBIF-Dataset">9c8d5683-76c1-4938-aede-b7ad5391b6b2</mods:identifier>
+<mods:identifier id="8DBE54ACD3EE8D9446EE82C4C2781860" type="Zenodo-Dep">3634035</mods:identifier>
+</mods:mods>
+<treatment id="03E60234FFFBFFCE762B544BD9C007A3" ID-DOI="http://doi.org/10.5281/zenodo.5157461" ID-GBIF-Taxon="161938941" ID-Zenodo-Dep="5157461" LSID="urn:lsid:plazi:treatment:03E60234FFFBFFCE762B544BD9C007A3" httpUri="http://treatment.plazi.org/id/03E60234FFFBFFCE762B544BD9C007A3" lastPageId="9" lastPageNumber="16" pageId="8" pageNumber="15">
+<subSubSection id="C355E0A9FFFBFFCF762B544BDE960174" box="[306,1010,1096,1134]" pageId="8" pageNumber="15" type="nomenclature">
+<paragraph id="8BF0B322FFFBFFCF762B544BDE960174" blockId="8.[306,1713,1095,2166]" box="[306,1010,1096,1134]" pageId="8" pageNumber="15">
+<heading id="D0B8044EFFFBFFCF762B544BDE960174" box="[306,1010,1096,1134]" fontSize="12" level="2" pageId="8" pageNumber="15" reason="1">
+22. 
+<emphasis id="B93B6F30FFFBFFCF769F544BDE630174" bold="true" box="[390,775,1096,1134]" pageId="8" pageNumber="15">
+<taxonomicName id="4C4FC8A1FFFBFFCF769F544BDF9B0174" authority="Moulton, 1942" authorityName="Moulton" authorityYear="1942" box="[390,767,1096,1134]" class="Insecta" family="Phlaeothripidae" genus="Rhaebothrips" higherTaxonomySource="GBIF" kingdom="Animalia" order="Thysanoptera" pageId="8" pageNumber="15" phylum="Arthropoda" rank="species" species="fuscus" status="new species">Rhaebothrips fuscus</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="A208D24BFFFBFFCF7401544ADE890174" box="[792,1005,1097,1134]" pageId="8" pageNumber="15" rank="species">new species</taxonomicNameLabel>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFFBFFCF766E5486D9470D6C" pageId="8" pageNumber="15" type="description">
+<paragraph id="8BF0B322FFFBFFCF766E5486DE4703FF" blockId="8.[306,1713,1095,2166]" pageId="8" pageNumber="15">
+Female 
+<typeStatus id="54F40D80FFFBFFCF76E35486DF1801BE" box="[506,636,1157,1188]" pageId="8" pageNumber="15">holotype</typeStatus>
+: color blackish brown with 
+<emphasis id="B93B6F30FFFBFFCF73785486D9D401BE" box="[1121,1200,1157,1188]" italics="true" pageId="8" pageNumber="15">joints</emphasis>
+of legs and 
+<emphasis id="B93B6F30FFFBFFCF728D5486D8B501BE" box="[1428,1489,1157,1188]" italics="true" pageId="8" pageNumber="15">tarsi</emphasis>
+lighter, fore tibiae lighter especially at ends and fore tarsi almost yellow; antenna! segments 1 and 6 to 8 blackish brown, 2 lighter in outer half, 
+<emphasis id="B93B6F30FFFBFFCF74C454D2DE8B01EB" bold="true" box="[989,1007,1233,1265]" italics="true" pageId="8" pageNumber="15">3</emphasis>
+and basal two 
+<emphasis id="B93B6F30FFFBFFCF73C354D1D84F01EB" box="[1242,1323,1234,1265]" italics="true" pageId="8" pageNumber="15">thirds</emphasis>
+of 4 clear yellow, distal part of 4 clouded with brown, 5 yellowish in basal half, blackish brown in distal half. 
+<emphasis id="B93B6F30FFFBFFCF762A551CDCEB0024" box="[307,399,1311,1342]" italics="true" pageId="8" pageNumber="15">Wings</emphasis>
+washed with brown, lighter in basal third; median streak 
+<emphasis id="B93B6F30FFFBFFCF7238551CD8C70024" box="[1313,1443,1311,1342]" italics="true" pageId="8" pageNumber="15">darkened</emphasis>
+in middle third; prominent spines brownish yellow. 
+<emphasis id="B93B6F30FFFBFFCF746D5546DEDB007E" box="[884,959,1349,1380]" italics="true" pageId="8" pageNumber="15">Head</emphasis>
+1.6 longer than wide, cheeks straight, gently narrowed in basal fourth and with a thickened ring at posterior margin; postocular spines about one fourth longer than eyes; mouth cone broadly rounded, reaching one half across prosternum; antenna 1.8 longer 
+<emphasis id="B93B6F30FFFBFFCF743055BADE0200C2" box="[809,870,1465,1496]" italics="true" pageId="8" pageNumber="15">than</emphasis>
+head, segment 
+<emphasis id="B93B6F30FFFBFFCF734755B4D91500CD" bold="true" box="[1118,1137,1463,1495]" italics="true" pageId="8" pageNumber="15">3</emphasis>
+longest, distinctly longer 
+<emphasis id="B93B6F30FFFBFFCF711D55BADB2500C2" box="[1540,1601,1465,1496]" italics="true" pageId="8" pageNumber="15">than</emphasis>
+4 and with two sense cones. Prothorax with concave fore margin, all normal spines present, those at posterior angles longest. The median thickening 
+<emphasis id="B93B6F30FFFBFFCF73CE5605D827033F" box="[1239,1347,1542,1573]" italics="true" pageId="8" pageNumber="15">extends</emphasis>
+from anterior margin to near posterior margin, being almost complete. 
+<emphasis id="B93B6F30FFFBFFCF734F562FD9F30351" box="[1110,1175,1580,1611]" italics="true" pageId="8" pageNumber="15">Fore</emphasis>
+legs only slightly enlarged, fore femora normal, not bent as in the male; fore tarsus with a claw-shaped tooth near end on the inside much as in 
+<emphasis id="B93B6F30FFFBFFCF75D3567ADEFC0382" box="[714,920,1657,1688]" italics="true" pageId="8" pageNumber="15">
+<taxonomicName id="4C4FC8A1FFFBFFCF75D3567ADEF10382" box="[714,917,1657,1688]" class="Insecta" family="Phlaeothripidae" genus="Karnyothrips" kingdom="Animalia" order="Thysanoptera" pageId="8" pageNumber="15" phylum="Arthropoda" rank="species" species="arnyothrips">K.arnyothrips</taxonomicName>
+.
+</emphasis>
+Median streal&lt;of forewings conspicuous only in middle third. Sixteen double fringe 
+<emphasis id="B93B6F30FFFBFFCF746C56A3DEDE03A5" box="[885,954,1696,1727]" italics="true" pageId="8" pageNumber="15">hairs</emphasis>
+on forewings. Tube 0.8 as long as head, three times longer than width at base.
+</paragraph>
+<paragraph id="8BF0B322FFFBFFCF766056F7D87002E0" blockId="8.[306,1713,1095,2166]" pageId="8" pageNumber="15">
+Total body length (abdomen distended) 
+<quantity id="4CB71EC7FFFBFFCF730F56F7D9C70209" box="[1046,1187,1780,1811]" metricMagnitude="-3" metricUnit="m" metricValue="3.04" pageId="8" pageNumber="15" unit="mm" value="3.04">3.04 mm</quantity>
+.; head length 
+<quantity id="4CB71EC7FFFBFFCF728056F7DB530209" box="[1433,1591,1780,1811]" metricMagnitude="-4" metricUnit="m" metricValue="3.5199999999999996" pageId="8" pageNumber="15" unit="mm" value="0.352">0.352 mm</quantity>
+., \Vidth behind eyes 
+<quantity id="4CB71EC7FFFBFFCF76EF5718DF1A0220" box="[502,638,1819,1850]" metricMagnitude="-4" metricUnit="m" metricValue="2.2" pageId="8" pageNumber="15" unit="mm" value="0.22">0.22 mm</quantity>
+.; prothorax length 
+<quantity id="4CB71EC7FFFBFFCF74AC5718D92A0220" box="[949,1102,1819,1850]" metricMagnitude="-4" metricUnit="m" metricValue="1.7599999999999998" pageId="8" pageNumber="15" unit="mm" value="0.176">0.176 mm</quantity>
+., width without coxae 
+<quantity id="4CB71EC7FFFBFFCF72AB5719DB2F0220" box="[1458,1611,1818,1850]" metricMagnitude="-4" metricUnit="m" metricValue="3.23" pageId="8" pageNumber="15" unit="mm" value="0.323">
+<emphasis id="B93B6F30FFFBFFCF72AB5719DB610220" box="[1458,1541,1818,1850]" italics="true" pageId="8" pageNumber="15">0.323</emphasis>
+mm
+</quantity>
+.; tube length 
+<quantity id="4CB71EC7FFFBFFCF76BC5742DF5A027A" box="[421,574,1857,1888]" metricMagnitude="-4" metricUnit="m" metricValue="3.08" pageId="8" pageNumber="15" unit="mm" value="0.308">0.308 mm</quantity>
+., width at base 
+<quantity id="4CB71EC7FFFBFFCF74265742DEBD027A" box="[831,985,1857,1888]" metricMagnitude="-4" metricUnit="m" metricValue="1.02" pageId="8" pageNumber="15" unit="mm" value="0.102">0.102 mm</quantity>
+.; length of spines, postoculars 0.116 microns; those on anterior margin and angles 40 microns, midlaterals 73 microns, outer on posterior angles 88 microns, on ninth abdominal segment 260 microns, at tip of tube 176 microns. Antenna! segments length (width): II, 66 (36); III, 123 (34); IV, 113 (33); 
+<collectionCode id="ED5E2BE7FFFBFFCF714B57B1DB1502C9" box="[1618,1649,1970,2003]" country="Canada" lsid="urn:lsid:biocol.org:col:13946" name="Royal British Columbia Museum - Herbarium" pageId="8" pageNumber="15" type="Museum">V</collectionCode>
+, 93 (33); 
+<collectionCode id="ED5E2BE7FFFBFFCF768757DADCAD02E0" box="[414,457,2009,2042]" country="Norway" name="Mykotektet, National Veterinary Institute" pageId="8" pageNumber="15">VI</collectionCode>
+, 80 (30); VII, 56 (26); VIII, 26, total, 632 microns.
+</paragraph>
+<paragraph id="8BF0B322FFFBFFCF76635809D9470D6C" blockId="8.[306,1713,1095,2166]" pageId="8" pageNumber="15">
+Male 
+<typeStatus id="54F40D80FFFBFFCF76C15809DF2A0D33" box="[472,590,2058,2089]" pageId="8" pageNumber="15">allotype</typeStatus>
+, similar in size and color to female but darker, almost black. 
+<emphasis id="B93B6F30FFFBFFCF715E5809DBC70D33" box="[1607,1699,2058,2089]" italics="true" pageId="8" pageNumber="15">Wings</emphasis>
+wanting. 
+<emphasis id="B93B6F30FFFBFFCF76D65833DF740D55" box="[463,528,2096,2127]" italics="true" pageId="8" pageNumber="15">Fore</emphasis>
+legs greatly enlarged, fore femora with a strongly curved, almost angular inner margin and outer margin broadly rounded.
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFFBFFCF766E589CDBCD0CD1" pageId="8" pageNumber="15" type="materials_examined">
+<paragraph id="8BF0B322FFFBFFCF766E589CDBCD0CD1" blockId="8.[311,1707,2203,2508]" pageId="8" pageNumber="15">
+<materialsCitation id="3B27B97FFFFBFFCF766E589CD92C0DE0" ID-GBIF-Occurrence="3864798308" collectedFrom="on grass" collectingDate="1936-05-01" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="8" pageNumber="15" specimenCount="5" specimenCount-female="3" specimenCount-male="2" typeStatus="one holotype (female) and one allotype (male)">
+<location id="8E90E5F9FFFBFFCF766E589CDCD10DDE" LSID="urn:lsid:plazi:treatment:03E60234FFFBFFCE762B544BD9C007A3:8E90E5F9FFFBFFCF766E589CDCD10DDE" box="[375,437,2207,2244]" name="Piti" pageId="8" pageNumber="15">Piti</location>
+, 
+<date id="FFF195E2FFFBFFCF76C5589CDF040DD9" box="[476,608,2206,2244]" pageId="8" pageNumber="15">
+<collectingDate id="EFB56C0AFFFBFFCF76C5589CDF040DD9" box="[476,608,2206,2244]" pageId="8" pageNumber="15">May 1</collectingDate>
+</date>
+, 
+<collectedFrom id="3853F0DFFFFBFFCF7565589CDE7C0DDE" box="[636,792,2207,2244]" pageId="8" pageNumber="15">on grass</collectedFrom>
+, 
+<typeStatus id="54F40D80FFFBFFCF7424589CDEAB0DDE" box="[829,975,2207,2244]" pageId="8" pageNumber="15">holotype</typeStatus>
+<specimenCount id="9D4978ABFFFBFFCF74F5589CD9390DDE" box="[1004,1117,2207,2244]" pageId="8" pageNumber="15" type="female">female</specimenCount>
+(macropterous), 
+<typeStatus id="54F40D80FFFBFFCF72A3589CDB240DDE" box="[1466,1600,2207,2244]" pageId="8" pageNumber="15">allotype</typeStatus>
+male (apterous), 
+<specimenCount id="9D4978ABFFFBFFCF750C58D6DF890DE0" box="[533,749,2261,2298]" pageId="8" pageNumber="15" type="female">two females</specimenCount>
+, 
+<specimenCount id="9D4978ABFFFBFFCF741F58D6DEC50DE0" box="[774,929,2261,2298]" pageId="8" pageNumber="15" type="male">one male</specimenCount>
+(5487);
+</materialsCitation>
+<materialsCitation id="3B27B97FFFFBFFCF734F58D6DBFA0C2A" ID-GBIF-Occurrence="3864798309" collectedFrom="from unknown host plant" collectingDate="1936-06-26" collectorName="R. L. Usinger" country="Guam" location="Sasa" pageId="8" pageNumber="15" specimenCount="3" specimenCount-female="1" specimenCount-male="2">
+<collectingMunicipality id="6B942958FFFBFFCF734F58D6D9C20DE0" box="[1110,1190,2261,2298]" pageId="8" pageNumber="15">Sasa</collectingMunicipality>
+, 
+<typeStatus id="54F40D80FFFBFFCF73A658D6D8630DE0" box="[1215,1287,2261,2298]" pageId="8" pageNumber="15">type</typeStatus>
+locality, 
+<date id="FFF195E2FFFBFFCF72A958D6DB5A0DE0" box="[1456,1598,2261,2298]" pageId="8" pageNumber="15" value="1926-06">
+<collectingDate id="EFB56C0AFFFBFFCF72A958D6DB5A0DE0" box="[1456,1598,2261,2298]" pageId="8" pageNumber="15" value="1926-06">June 26</collectingDate>
+</date>
+, from unknown host plant, 
+<specimenCount id="9D4978ABFFFBFFCF75AE5908DE180C2A" box="[695,892,2315,2352]" pageId="8" pageNumber="15" type="female">one female</specimenCount>
+, 
+<specimenCount id="9D4978ABFFFBFFCF748D5908D9220C2A" box="[916,1094,2315,2352]" pageId="8" pageNumber="15" type="male">two males</specimenCount>
+(5493); all collected by 
+<location id="8E90E5F9FFFBFFCF710C5908DBFA0C2A" LSID="urn:lsid:plazi:treatment:03E60234FFFBFFCE762B544BD9C007A3:8E90E5F9FFFBFFCF710C5908DBFA0C2A" box="[1557,1694,2315,2352]" municipality="Sasa" name="Usinger" pageId="8" pageNumber="15">Usinger</location>
+</materialsCitation>
+. Also listed as type material: 
+<collectingCountry id="F358F3B2FFFBFFCF747B593CD9560C7E" box="[866,1074,2367,2404]" name="Fiji" pageId="8" pageNumber="15">Fiji Islands</collectingCountry>
+, Taviuni, two males (3406), 
+<collectingCountry id="F358F3B2FFFBFFCF717F593CDBC30C7E" box="[1638,1703,2367,2404]" name="Fiji" pageId="8" pageNumber="15">Viti</collectingCountry>
+Levu, two males (3414); Wayaya, one female, two males (3476); 
+<location id="8E90E5F9FFFBFFCF71075970DCC60CD1" LSID="urn:lsid:plazi:treatment:03E60234FFFBFFCE762B544BD9C007A3:8E90E5F9FFFBFFCF71075970DCC60CD1" country="Fiji" name="Darnley Island" pageId="8" pageNumber="15">Darnley Island</location>
+, Torres Straits, one male, one female (3416); all collected by 
+<collectorName id="26BAD6F4FFFBFFCF72F459A5DBCD0CD1" box="[1517,1705,2470,2507]" pageId="8" pageNumber="15">A. M. Lea.</collectorName>
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFFAFFCE75295193D9C007A3" pageId="9" pageNumber="16" type="discussion">
+<paragraph id="8BF0B322FFFAFFCE75295193D9C007A3" blockId="9.[497,1898,397,698]" pageId="9" pageNumber="16">
+The species 
+<taxonomicName id="4C4FC8A1FFFAFFCE74125193DE1204AF" authorityName="Moulton" authorityYear="1942" box="[779,886,400,437]" class="Insecta" family="Phlaeothripidae" genus="Rhaebothrips" higherTaxonomySource="GBIF" kingdom="Animalia" order="Thysanoptera" pageId="9" pageNumber="16" phylum="Arthropoda" rank="species" species="fuscus">
+<emphasis id="B93B6F30FFFAFFCE74125193DE1204AF" box="[779,886,400,437]" italics="true" pageId="9" pageNumber="16">fuscus</emphasis>
+</taxonomicName>
+is larger than 
+<emphasis id="B93B6F30FFFAFFCE73935193D85C04AF" box="[1162,1336,400,437]" italics="true" pageId="9" pageNumber="16">lativentris</emphasis>
+Karny but smaller than 
+<taxonomicName id="4C4FC8A1FFFAFFCE71E25193DF1D04F0" authority="Bagnall" authorityName="Bagnall" authorityYear="1928" class="Insecta" family="Phlaeothripidae" genus="Rhaebothrips" higherTaxonomySource="GBIF" kingdom="Animalia" order="Thysanoptera" pageId="9" pageNumber="16" phylum="Arthropoda" rank="species" species="major">
+<emphasis id="B93B6F30FFFAFFCE71E25193DA0604AF" box="[1787,1890,400,437]" italics="true" pageId="9" pageNumber="16">major</emphasis>
+Bagnall
+</taxonomicName>
+. In lativentris, the postocular spines are shorter than the eyes, the mouth cone reaches nearly to the posterior margin of the prosternum and the third and fourth segments of antenna are about equal in length, being 100 microns long. 
+<taxonomicName id="4C4FC8A1FFFAFFCE75EA5263D942079F" authority="Bagnall" authorityName="Bagnall" authorityYear="1928" box="[755,1062,608,645]" class="Insecta" family="Phlaeothripidae" genus="Rhaebothrips" higherTaxonomySource="GBIF" kingdom="Animalia" order="Thysanoptera" pageId="9" pageNumber="16" phylum="Arthropoda" rank="species" species="major">
+<emphasis id="B93B6F30FFFAFFCE75EA5263DEF4079F" box="[755,912,608,645]" italics="true" pageId="9" pageNumber="16">R. major</emphasis>
+Bagnall
+</taxonomicName>
+, a larger species, has darker wings and twentyeight double fringe hairs on forewings.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

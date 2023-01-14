@@ -1,0 +1,93 @@
+<document id="783FEA47478136E2A3DFFF4FA73DE947" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB41B03FE13F9BB029B40E4" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Sticholotis punctatus Crotch 1874" docType="treatment" docVersion="19" lastPageNumber="160" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="160" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="65D567BB768B4A358CB73C3E86916806" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="968DBDBFC7301D90525B6E2EACAD85D9">
+<mods:title id="256BDE7D4B89BC78D27B4275F4F722A6">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="F9F3C6B8B6B288AF4920CA996BEF5D29" type="personal">
+<mods:role id="6D8F8C942EDC4EA2BF022D5B1AD9446A">
+<mods:roleTerm id="3095A0E7DB84CEFC5E92BF356C49FBB1">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="84A1051B635210E83D7129CFE2161324">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="3416BCD8C93AF7C55E6CE35495943279">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="08F4AFE69CF1665F6E22B7BC831EB663">text</mods:typeOfResource>
+<mods:relatedItem id="E75C86123EC3B0ED02EB8F64F2478CAA" type="host">
+<mods:originInfo id="1A68C4060B5F3E6FF6BFEF8E64416E17">
+<mods:dateIssued id="D43B9549A031011BC815EAAE524B9094">1942</mods:dateIssued>
+<mods:dateOther id="5C673CF10D4CDD02CD045781AE410F39" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="EA081BADB60B2B1E6A2C2F7187919127">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="B1469732D5E446636D1BE5BD6F312B5C">
+<mods:placeTerm id="3E07F4411B19778F2042624D356C14E9">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="D00A61B18D3EA3D5ACA70C52648A883A">
+<mods:title id="0EC3085301BED998E3EFF9FF6BB11753">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="1592F08FB4DA35D69B69EBFDC590CC2E">
+<mods:extent id="8B4BF40139CFA3F857303474869AA9AA" unit="page">
+<mods:start id="3221BE95D917A92122950AC1A6F684A8">150</mods:start>
+<mods:end id="1F5317CE9FF2C33C196516320C68B84D">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="94534A3BD8B4E35A53BE2B61D0C7EB8F">book chapter</mods:classification>
+<mods:identifier id="453084555F7E32279C77511281D5F970" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="B2717B3B4B579C77986D229D1F90109E" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="1EC66D09AFE29D50CB1C8F4E6E3C4A53" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB41B03FE13F9BB029B40E4" ID-DOI="http://doi.org/10.5281/zenodo.5211625" ID-GBIF-Taxon="184415323" ID-Zenodo-Dep="5211625" LSID="urn:lsid:plazi:treatment:376B87E5FFB41B03FE13F9BB029B40E4" httpUri="http://treatment.plazi.org/id/376B87E5FFB41B03FE13F9BB029B40E4" lastPageNumber="160" pageId="10" pageNumber="160">
+<subSubSection id="F7D86578FFB41B03FE13F9BB031B400E" box="[457,1053,1550,1592]" pageId="10" pageNumber="160" type="nomenclature">
+<paragraph id="BF7D36F3FFB41B03FE13F9BB031B400E" blockId="10.[457,1851,1550,1746]" box="[457,1053,1550,1592]" pageId="10" pageNumber="160">
+<heading id="E435819FFFB41B03FE13F9BB031B400E" box="[457,1053,1550,1592]" fontSize="11" level="2" pageId="10" pageNumber="160" reason="2">
+<emphasis id="8DB6EAE1FFB41B03FE13F9BB06E3400E" bold="true" box="[457,485,1550,1592]" pageId="10" pageNumber="160">8.</emphasis>
+<taxonomicName id="78C24D70FFB41B03FDDDF9BB0310400E" authority="Crotch" authorityName="Crotch" authorityYear="1874" box="[519,1046,1550,1592]" class="Insecta" family="Coccinellidae" genus="Sticholotis" kingdom="Animalia" order="Coleoptera" pageId="10" pageNumber="160" phylum="Arthropoda" rank="species" species="punctatus">
+<emphasis id="8DB6EAE1FFB41B03FDDDF9BB0481400E" bold="true" box="[519,903,1550,1592]" pageId="10" pageNumber="160">Sticholotis punctatus</emphasis>
+Crotch
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB41B03FBEAF9BB0149400E" box="[1072,1615,1550,1592]" pageId="10" pageNumber="160" type="reference_group">
+<paragraph id="BF7D36F3FFB41B03FBEAF9BB0149400E" blockId="10.[457,1851,1550,1746]" box="[1072,1615,1550,1592]" pageId="10" pageNumber="160">
+<heading id="E435819FFFB41B03FBEAF9BB0149400E" box="[1072,1615,1550,1592]" fontSize="11" level="2" pageId="10" pageNumber="160" reason="2">
+<bibCitation id="6AE83E9FFFB41B03FBEAF9BB0149400E" author="Crotch" box="[1072,1615,1550,1592]" pageId="10" pageNumber="160" pagination="201" refId="ref5431" title="Rev. Coccinellidae" type="book" year="1874">
+<treatmentCitationGroup id="9FD211DDFFB41B03FBEAF9BB014C400E" box="[1072,1610,1550,1592]" pageId="10" pageNumber="160">
+<treatmentCitation id="3E6310E2FFB41B03FBEAF9BB014C400E" author="Crotch" box="[1072,1610,1550,1592]" page="201" pageId="10" pageNumber="160" year="1874">
+<title id="CDC6DDC5FFB41B03FBEAF9BB0283400E" box="[1072,1413,1550,1592]" pageId="10" pageNumber="160">Rev. Coccinellidae</title>
+, 
+<pagination id="860BC807FFB41B03FA47F9BB02DB400E" box="[1437,1501,1550,1592]" pageId="10" pageNumber="160" type="pageRange">201</pagination>
+, 
+<year id="CB6A77A0FFB41B03FA2DF9BB014C400E" box="[1527,1610,1550,1592]" pageId="10" pageNumber="160">1874</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB41B03FDDEF9F703CB405B" box="[516,1229,1602,1645]" pageId="10" pageNumber="160" type="materials_examined">
+<paragraph id="BF7D36F3FFB41B03FDDEF9F703CB405B" blockId="10.[457,1851,1550,1746]" box="[516,1229,1602,1645]" pageId="10" pageNumber="160">
+<materialsCitation id="0FAA3CAEFFB41B03FDDEF9F703CE405B" ID-GBIF-Occurrence="3994027490" box="[516,1224,1602,1645]" collectingDate="1936-05-25" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="10" pageNumber="160" specimenCount="1">
+<collectingMunicipality id="5F19AC89FFB41B03FDDEF9F70578405B" box="[516,638,1602,1645]" pageId="10" pageNumber="160">Agana</collectingMunicipality>
+, 
+<date id="CB7C1033FFB41B03FD4FF9F70418405B" box="[661,798,1602,1645]" pageId="10" pageNumber="160" value="1925-05">
+<collectingDate id="DB38E9DBFFB41B03FD4FF9F70418405B" box="[661,798,1602,1645]" pageId="10" pageNumber="160" value="1925-05">May 25</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB41B03FCEDF9F704B9405B" box="[823,959,1602,1645]" pageId="10" pageNumber="160">Swezey</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFB41B03FC0EF9F703CE405B" box="[980,1224,1602,1645]" pageId="10" pageNumber="160" type="generic">one specimen</specimenCount>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB41B03FDDCF9C3029B40E4" pageId="10" pageNumber="160" type="discussion">
+<paragraph id="BF7D36F3FFB41B03FDDCF9C3029B40E4" blockId="10.[457,1851,1550,1746]" pageId="10" pageNumber="160">
+This is a small Japanese ladybeetle, not previously recorded in 
+<collectingCountry id="C7D57663FFB41B03F91DF9C3003040A8" box="[1735,1846,1654,1694]" name="Guam" pageId="10" pageNumber="160">Guam</collectingCountry>
+. It is not known whether it was purposely introduced.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

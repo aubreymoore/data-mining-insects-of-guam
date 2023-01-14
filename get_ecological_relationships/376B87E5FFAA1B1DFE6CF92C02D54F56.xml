@@ -1,0 +1,247 @@
+<document id="17D8E28CBA3C8B7153E328A4371F0FE7" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFAA1B1DFE6CF92C02D54F56" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Prosoplus bankii" docType="treatment" docVersion="19" lastPageNumber="170" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="170" updateTime="1671478919668" updateUser="annettekang">
+<mods:mods id="A253FF648E4601FA793D955E76487F30" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="07A9397658910529041755DC5B6BA789">
+<mods:title id="9F90B69E4E90EEBACC5FF711969D9BA0">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="778AA5BDFA897E6DE45A3C00624151F9" type="personal">
+<mods:role id="B55C6A427B8A80C2631705283213EFEE">
+<mods:roleTerm id="A19D78418DE86F4218C281060023754F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9178E6954D150D40741548DD05C3B24A">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="E90D31C00C1E9B7BC66996149ECC3C7D">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="7A0A878956357C1682302DC4CDB40B68">text</mods:typeOfResource>
+<mods:relatedItem id="9462389424F407B305D8F94F57687FA1" type="host">
+<mods:originInfo id="39459A629E61E3CC034A8424B5D5DB6E">
+<mods:dateIssued id="02B7B98638C461779AA5BFF830969EC8">1942</mods:dateIssued>
+<mods:dateOther id="7C6EB8F2F6E14B3CCCD78220433FCBCB" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="DCD4A0B28B330FAE012D25DD1927D425">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="474FAB6B952365E9F710A0B14EB8D30D">
+<mods:placeTerm id="0333D783D76D602BA3741F2258A5C2BE">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5D029DC03B1E601627C0F178E97F8FA2">
+<mods:title id="39DA34BEAEE887794628295B6EA04687">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="BF2BB59D76B40F8575C0CA6445541E97">
+<mods:extent id="D329CBA84BAA67DBFECDD8FD99BACAF9" unit="page">
+<mods:start id="A48D55F7C11C1DEE560CE42BF8CC5340">150</mods:start>
+<mods:end id="DA858738BF0F547C4402E01C7F7CAD19">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="880A9D26874A02344382489238E574DD">book chapter</mods:classification>
+<mods:identifier id="7FE13E60A61C45D4E8F98B85ADEA6DF2" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="3102EA9B6460DD3B1245AD95E0DBE72C" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="C537AE6FCC4D34471507F32BEFDEBA86" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFAA1B1DFE6CF92C02D54F56" ID-DOI="http://doi.org/10.5281/zenodo.5182984" ID-GBIF-Taxon="184415413" ID-Zenodo-Dep="5182984" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CF92C02D54F56" httpUri="http://treatment.plazi.org/id/376B87E5FFAA1B1DFE6CF92C02D54F56" lastPageNumber="170" pageId="20" pageNumber="170">
+<subSubSection id="F7D86578FFAA1B1DFE6CF92C031E40F2" box="[438,1048,1689,1732]" pageId="20" pageNumber="170" type="nomenclature">
+<paragraph id="BF7D36F3FFAA1B1DFE6CF92C031E40F2" blockId="20.[438,1834,1689,2400]" box="[438,1048,1689,1732]" pageId="20" pageNumber="170">
+<heading id="E435819FFFAA1B1DFE6CF92C031E40F2" box="[438,1048,1689,1732]" fontSize="11" level="2" pageId="20" pageNumber="170" reason="2">
+<emphasis id="8DB6EAE1FFAA1B1DFE6CF92C06D440F2" bold="true" box="[438,466,1689,1732]" pageId="20" pageNumber="170">5.</emphasis>
+<taxonomicName id="78C24D70FFAA1B1DFE2EF92C031440F2" authority="(Fabricius)" baseAuthorityName="Fabricius" baseAuthorityYear="1775" box="[500,1042,1689,1732]" class="Insecta" family="Cerambycidae" genus="Prosoplus" kingdom="Animalia" order="Coleoptera" pageId="20" pageNumber="170" phylum="Arthropoda" rank="species" species="bankii">
+<emphasis id="8DB6EAE1FFAA1B1DFE2EF92C042D40F2" bold="true" box="[500,811,1689,1732]" pageId="20" pageNumber="170">Prosoplus bankii</emphasis>
+(Fabricius)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAA1B1DFE2FF978026E4168" pageId="20" pageNumber="170" type="reference_group">
+<paragraph id="BF7D36F3FFAA1B1DFE2FF978021A40C1" blockId="20.[438,1834,1689,2400]" box="[501,1308,1741,1783]" pageId="20" pageNumber="170">
+<treatmentCitationGroup id="9FD211DDFFAA1B1DFE2FF978021A40C1" box="[501,1308,1741,1783]" pageId="20" pageNumber="170">
+<bibCitation id="6AE83E9FFFAA1B1DFE2FF978021A40C1" author="Fabricius" box="[501,1308,1741,1783]" pageId="20" pageNumber="170" pagination="176" refId="ref10891" title="Syst. Ent." type="book" year="1775">
+<treatmentCitation id="3E6310E2FFAA1B1DFE2FF978021140C1" author="Fabricius" box="[501,1303,1741,1783]" page="176" pageId="20" pageNumber="170" year="1775">
+<emphasis id="8DB6EAE1FFAA1B1DFE2FF97805DB40C1" box="[501,733,1741,1783]" italics="true" pageId="20" pageNumber="170">Lamia bankii</emphasis>
+<author id="677FDE16FFAA1B1DFD30F978049440C1" box="[746,914,1741,1783]" pageId="20" pageNumber="170">Fabricius</author>
+, 
+<title id="CDC6DDC5FFAA1B1DFC7DF978035140C1" box="[935,1111,1741,1783]" pageId="20" pageNumber="170">Syst. Ent.</title>
+, 
+<pagination id="860BC807FFAA1B1DFBAAF97803AB40C1" box="[1136,1197,1741,1783]" pageId="20" pageNumber="170" type="pageRange">176</pagination>
+, 
+<year id="CB6A77A0FFAA1B1DFB1FF978021140C1" box="[1221,1303,1741,1783]" pageId="20" pageNumber="170">1775</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFAA1B1DFE23F8B4026E4168" blockId="20.[438,1834,1689,2400]" pageId="20" pageNumber="170">
+<bibCitation id="6AE83E9FFFAA1B1DFE23F8B4026E4168" author="Sharp" journalOrPublisher="Fauna Hawaii" pageId="20" pageNumber="170" pagination="114" part="2" refId="ref10904" type="journal article" year="1900">
+<treatmentCitationGroup id="9FD211DDFFAA1B1DFE23F8B402654168" pageId="20" pageNumber="170">
+<treatmentCitation id="3E6310E2FFAA1B1DFE23F8B40023411C" author="Sharp" box="[505,1829,1793,1834]" page="114" pageId="20" pageNumber="170" year="1900">
+<emphasis id="8DB6EAE1FFAA1B1DFE23F8B40436411C" box="[505,816,1793,1834]" italics="true" pageId="20" pageNumber="170">Prosoplus ban!?ii</emphasis>
+(Fabricius) 
+<author id="677FDE16FFAA1B1DFBE1F8B403A2411C" box="[1083,1188,1793,1834]" pageId="20" pageNumber="170">Sharp</author>
+, 
+<journalOrPublisher id="65033C3FFFAA1B1DFB1DF8B402D2411C" box="[1223,1492,1793,1834]" pageId="20" pageNumber="170">
+Fauna 
+<collectingRegion id="7D06F811FFAA1B1DFA8AF8B402D2411C" box="[1360,1492,1793,1834]" country="United States of America" name="Hawaii" pageId="20" pageNumber="170">Hawaii</collectingRegion>
+</journalOrPublisher>
+. 
+<part id="CB669C6EFFAA1B1DFA2FF8B40101411C" box="[1525,1543,1793,1834]" pageId="20" pageNumber="170" type="volume">2</part>
+(
+<part id="CB669C6EFFAA1B1DF9FCF8B4013C411C" box="[1574,1594,1793,1834]" pageId="20" pageNumber="170" type="issue">3</part>
+): 
+<pagination id="860BC807FFAA1B1DF9A8F8B401A8411C" box="[1650,1710,1793,1834]" pageId="20" pageNumber="170" type="pageRange">114</pagination>
+, 
+<year id="CB6A77A0FFAA1B1DF909F8B40023411C" box="[1747,1829,1793,1834]" pageId="20" pageNumber="170">1900</year>
+</treatmentCitation>
+. 
+<treatmentCitation id="3E6310E2FFAA1B1DFDECF88002654168" author="Schultze" box="[566,1379,1845,1886]" page="115" pageId="20" pageNumber="170" year="1916">
+<author id="677FDE16FFAA1B1DFDECF88005CB4168" box="[566,717,1845,1886]" pageId="20" pageNumber="170">Schultze</author>
+, 
+<journalOrPublisher id="65033C3FFFAA1B1DFD33F880031A4168" box="[745,1052,1845,1886]" pageId="20" pageNumber="170">Philip. Jour. Sci.</journalOrPublisher>
+<emphasis id="8DB6EAE1FFAA1B1DFBE9F88003654168" bold="true" box="[1075,1123,1845,1886]" pageId="20" pageNumber="170">11,</emphasis>
+D: 
+<pagination id="860BC807FFAA1B1DFB6DF88003F24168" box="[1207,1268,1845,1886]" pageId="20" pageNumber="170" type="pageRange">115</pagination>
+, 
+<year id="CB6A77A0FFAA1B1DFACBF88002654168" box="[1297,1379,1845,1886]" pageId="20" pageNumber="170">1916</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAA1B1DFE2CF8DD05C84EA5" pageId="20" pageNumber="170" type="materials_examined">
+<paragraph id="BF7D36F3FFAA1B1DFE2CF8DD05C84EA5" blockId="20.[438,1834,1689,2400]" pageId="20" pageNumber="170">
+<materialsCitation id="0FAA3CAEFFAA1B1DFE2CF8DD049541A4" ID-GBIF-Occurrence="3334692343" box="[502,915,1896,1938]" collectingDate="1936-04-28" collectorName="E. H. Bryan" country="Guam" location="Piti" pageId="20" pageNumber="170">
+<location id="BA1D6028FFAA1B1DFE2CF8DD053C41A4" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CF92C02D54F56:BA1D6028FFAA1B1DFE2CF8DD053C41A4" box="[502,570,1896,1938]" name="Piti" pageId="20" pageNumber="170">Piti</location>
+, 
+<date id="CB7C1033FFAA1B1DFD8FF8DD05F241A4" box="[597,756,1896,1938]" pageId="20" pageNumber="170" value="1928-04">
+<collectingDate id="DB38E9DBFFAA1B1DFD8FF8DD05F241A4" box="[597,756,1896,1938]" pageId="20" pageNumber="170" value="1928-04">April 28</collectingDate>
+</date>
+, 
+<location id="BA1D6028FFAA1B1DFCC8F8DD048A41A4" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CF92C02D54F56:BA1D6028FFAA1B1DFCC8F8DD048A41A4" box="[786,908,1896,1938]" name="Bryan" pageId="20" pageNumber="170">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAA1B1DFC73F8DD002F41A4" ID-GBIF-Occurrence="3334692479" box="[937,1833,1896,1938]" collectedFrom="from Hibiscus tiliaceus" collectingDate="1936-04-30" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="20" pageNumber="170">
+<location id="BA1D6028FFAA1B1DFC73F8DD04EA41A4" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CF92C02D54F56:BA1D6028FFAA1B1DFC73F8DD04EA41A4" box="[937,1004,1896,1938]" name="Piti" pageId="20" pageNumber="170">Piti</location>
+, 
+<date id="CB7C1033FFAA1B1DFBD2F8DD03A141A4" box="[1032,1191,1896,1938]" pageId="20" pageNumber="170" value="1930-04">
+<collectingDate id="DB38E9DBFFAA1B1DFBD2F8DD03A141A4" box="[1032,1191,1896,1938]" pageId="20" pageNumber="170" value="1930-04">April 30</collectingDate>
+</date>
+, from 
+<taxonomicName id="78C24D70FFAA1B1DFAEAF8DD017041A4" authority="," authorityName=", Swezey" box="[1328,1654,1896,1938]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="20" pageNumber="170" phylum="Tracheophyta" rank="species" species="tiliaceus">
+<emphasis id="8DB6EAE1FFAA1B1DFAEAF8DD017041A4" box="[1328,1654,1896,1938]" italics="true" pageId="20" pageNumber="170">
+<location id="BA1D6028FFAA1B1DFAEAF8DD02CD41A4" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CF92C02D54F56:BA1D6028FFAA1B1DFAEAF8DD02CD41A4" box="[1328,1483,1896,1938]" name="Hibiscus" pageId="20" pageNumber="170">Hibiscus</location>
+tiliaceus,
+</emphasis>
+</taxonomicName>
+<collectorName id="12375325FFAA1B1DF956F8DD002441A4" box="[1676,1826,1896,1938]" pageId="20" pageNumber="170">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAA1B1DFE63F82E046F41F0" ID-GBIF-Occurrence="3334692388" box="[441,873,1947,1990]" collectingDate="1936-05-15" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="20" pageNumber="170">
+<location id="BA1D6028FFAA1B1DFE63F82E06FA41F0" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CF92C02D54F56:BA1D6028FFAA1B1DFE63F82E06FA41F0" box="[441,508,1947,1990]" name="Piti" pageId="20" pageNumber="170">Piti</location>
+, 
+<date id="CB7C1033FFAA1B1DFDC0F82E05AC41F0" box="[538,682,1947,1990]" pageId="20" pageNumber="170" value="2015-05">
+<collectingDate id="DB38E9DBFFAA1B1DFDC0F82E05AC41F0" box="[538,682,1947,1990]" pageId="20" pageNumber="170" value="2015-05">May 15</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFAA1B1DFD1DF82E046441F0" box="[711,866,1947,1990]" pageId="20" pageNumber="170">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAA1B1DFC5BF82E011141F0" ID-GBIF-Occurrence="3334692607" box="[897,1559,1947,1990]" collectedFrom="on corn" collectingDate="1936-06-11" collectorName="O. H. Swezey" country="Guam" location="Merizo" pageId="20" pageNumber="170">
+<location id="BA1D6028FFAA1B1DFC5BF82E030741F0" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CF92C02D54F56:BA1D6028FFAA1B1DFC5BF82E030741F0" box="[897,1025,1947,1990]" name="Merizo" pageId="20" pageNumber="170">Merizo</location>
+, 
+<date id="CB7C1033FFAA1B1DFBC4F82E03B441F0" box="[1054,1202,1947,1990]" pageId="20" pageNumber="170" value="2011-06">
+<collectingDate id="DB38E9DBFFAA1B1DFBC4F82E03B441F0" box="[1054,1202,1947,1990]" pageId="20" pageNumber="170" value="2011-06">June 11</collectingDate>
+</date>
+, on corn, 
+<collectorName id="12375325FFAA1B1DFA5BF82E011641F0" box="[1409,1552,1947,1990]" pageId="20" pageNumber="170">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAA1B1DF9F5F82E054D41CF" ID-GBIF-Occurrence="3334692583" collectingDate="1936-06-15" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="20" pageNumber="170">
+<location id="BA1D6028FFAA1B1DF9F5F82E017441F0" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CF92C02D54F56:BA1D6028FFAA1B1DF9F5F82E017441F0" box="[1583,1650,1947,1990]" name="Piti" pageId="20" pageNumber="170">Piti</location>
+, 
+<date id="CB7C1033FFAA1B1DF955F82E002541F0" box="[1679,1827,1947,1990]" pageId="20" pageNumber="170" value="2015-06">
+<collectingDate id="DB38E9DBFFAA1B1DF955F82E002541F0" box="[1679,1827,1947,1990]" pageId="20" pageNumber="170" value="2015-06">June 15</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFAA1B1DFE63F87B054241CF" box="[441,580,1998,2041]" pageId="20" pageNumber="170">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAA1B1DFD87F87B024441CF" ID-GBIF-Occurrence="3334692584" box="[605,1346,1998,2041]" collectedFrom="on weeds" collectingDate="1936-08-07" collectorName="O. H. Swezey" country="Guam" location="Fonte Valley" pageId="20" pageNumber="170">
+<location id="BA1D6028FFAA1B1DFD87F87B044141CF" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CF92C02D54F56:BA1D6028FFAA1B1DFD87F87B044141CF" box="[605,839,1998,2041]" name="Fonte Valley" pageId="20" pageNumber="170">Fonte Valley</location>
+, 
+<date id="CB7C1033FFAA1B1DFC87F87B04DF41CF" box="[861,985,1998,2041]" pageId="20" pageNumber="170">
+<collectingDate id="DB38E9DBFFAA1B1DFC87F87B04DF41CF" box="[861,985,1998,2041]" pageId="20" pageNumber="170">
+Aug. 
+<emphasis id="8DB6EAE1FFAA1B1DFC1EF87B04E641CF" bold="true" box="[964,992,1998,2041]" italics="true" pageId="20" pageNumber="170">7,</emphasis>
+</collectingDate>
+</date>
+on weeds, 
+<collectorName id="12375325FFAA1B1DFB74F87B023D41CF" box="[1198,1339,1998,2041]" pageId="20" pageNumber="170">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAA1B1DFA8EF87B05484E1B" ID-GBIF-Occurrence="3334692351" collectedFrom="on corn" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="20" pageNumber="170">
+<location id="BA1D6028FFAA1B1DFA8EF87B02DA41CF" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CF92C02D54F56:BA1D6028FFAA1B1DFA8EF87B02DA41CF" box="[1364,1500,1998,2041]" name="Dededo" pageId="20" pageNumber="170">Dededo</location>
+, 
+<date id="CB7C1033FFAA1B1DFA29F87B018541CF" box="[1523,1667,1998,2041]" pageId="20" pageNumber="170" value="2011-08">
+<collectingDate id="DB38E9DBFFAA1B1DFA29F87B018541CF" box="[1523,1667,1998,2041]" pageId="20" pageNumber="170" value="2011-08">Aug. 11</collectingDate>
+</date>
+, on corn, 
+<collectorName id="12375325FFAA1B1DFE62F7B705414E1B" box="[440,583,2050,2093]" pageId="20" pageNumber="170">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAA1B1DFDBAF7B704544E1B" ID-GBIF-Occurrence="3994027481" box="[608,850,2050,2093]" collectingDate="1936-08-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="20" pageNumber="170">
+<location id="BA1D6028FFAA1B1DFDBAF7B705A54E1B" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CF92C02D54F56:BA1D6028FFAA1B1DFDBAF7B705A54E1B" box="[608,675,2050,2093]" name="Piti" pageId="20" pageNumber="170">Piti</location>
+, 
+<date id="CB7C1033FFAA1B1DFD60F7B7044D4E1B" box="[698,843,2050,2093]" pageId="20" pageNumber="170" value="2013-08">
+<collectingDate id="DB38E9DBFFAA1B1DFD60F7B7044D4E1B" box="[698,843,2050,2093]" pageId="20" pageNumber="170" value="2013-08">Aug. 13</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAA1B1DFCBFF7B702734E1B" ID-GBIF-Occurrence="3994027314" box="[869,1397,2050,2093]" collectedFrom="at light" collectingDate="1936-10-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="20" pageNumber="170">
+19, at light, 
+<date id="CB7C1033FFAA1B1DFB9EF7B703C14E1B" box="[1092,1223,2050,2093]" pageId="20" pageNumber="170" value="1927-10">
+<collectingDate id="DB38E9DBFFAA1B1DFB9EF7B703C14E1B" box="[1092,1223,2050,2093]" pageId="20" pageNumber="170" value="1927-10">
+Oct. 
+<emphasis id="8DB6EAE1FFAA1B1DFB46F7B703C84E1B" box="[1180,1230,2050,2093]" italics="true" pageId="20" pageNumber="170">27,</emphasis>
+</collectingDate>
+</date>
+<collectorName id="12375325FFAA1B1DFB05F7B702684E1B" box="[1247,1390,2050,2093]" pageId="20" pageNumber="170">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAA1B1DFA5CF7B705BE4E56" ID-GBIF-Occurrence="3994027323" collectedFrom="attracted to corn tassels" collectingDate="1936-11-08" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="20" pageNumber="170">
+<location id="BA1D6028FFAA1B1DFA5CF7B702E74E1B" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CF92C02D54F56:BA1D6028FFAA1B1DFA5CF7B702E74E1B" box="[1414,1505,2050,2093]" name="Yigo" pageId="20" pageNumber="170">Yigo</location>
+, 
+<date id="CB7C1033FFAA1B1DFA22F7B701744E1B" box="[1528,1650,2050,2093]" pageId="20" pageNumber="170">
+<collectingDate id="DB38E9DBFFAA1B1DFA22F7B701744E1B" box="[1528,1650,2050,2093]" pageId="20" pageNumber="170">Nov. 8</collectingDate>
+</date>
+, attracted to corn tassels,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAA1B1DFD12F783002F4E56" ID-GBIF-Occurrence="3994027527" box="[712,1833,2102,2144]" collectedFrom="on seed cluster of palm, Coccothrinax species" collectingDate="1936-11-13" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="20" pageNumber="170">
+<date id="CB7C1033FFAA1B1DFD12F78304554E56" box="[712,851,2102,2144]" pageId="20" pageNumber="170" value="2013-11">
+<collectingDate id="DB38E9DBFFAA1B1DFD12F78304554E56" box="[712,851,2102,2144]" pageId="20" pageNumber="170" value="2013-11">Nov. 13</collectingDate>
+</date>
+, on seed cluster of palm, 
+<taxonomicName id="78C24D70FFAA1B1DFAC2F783018E4E56" box="[1304,1672,2102,2144]" class="Liliopsida" family="Arecaceae" genus="Coccothrinax" kingdom="Plantae" order="Arecales" pageId="20" pageNumber="170" phylum="Tracheophyta" rank="species" species="undetermined">
+<emphasis id="8DB6EAE1FFAA1B1DFAC2F78301074E56" box="[1304,1537,2102,2144]" italics="true" pageId="20" pageNumber="170">
+<location id="BA1D6028FFAA1B1DFAC2F78301074E56" LSID="urn:lsid:plazi:treatment:376B87E5FFAA1B1DFE6CF92C02D54F56:BA1D6028FFAA1B1DFAC2F78301074E56" box="[1304,1537,2102,2144]" name="Coccothrinax" pageId="20" pageNumber="170">Coccothrinax</location>
+</emphasis>
+species
+</taxonomicName>
+, 
+<collectorName id="12375325FFAA1B1DF944F78300224E56" box="[1694,1828,2102,2144]" pageId="20" pageNumber="170">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFAA1B1DFE62F7DF05C84EA5" ID-GBIF-Occurrence="3994027318" box="[440,718,2154,2195]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="20" pageNumber="170">
+<collectorName id="12375325FFAA1B1DFE62F7DF055B4EA5" box="[440,605,2154,2195]" pageId="20" pageNumber="170">Fullaway</collectorName>
+, 1911.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAA1B1DFE2FF72802D54F56" pageId="20" pageNumber="170" type="distribution">
+<paragraph id="BF7D36F3FFAA1B1DFE2FF72802D54F56" blockId="20.[438,1834,1689,2400]" pageId="20" pageNumber="170">
+This species has a wide distribution from Java, Borneo, and 
+<collectingCountry id="C7D57663FFAA1B1DF985F728002F4EF0" box="[1631,1833,2205,2246]" name="Philippines" pageId="20" pageNumber="170">Philippines</collectingCountry>
+through the Malay Archipelago to Northern 
+<collectingCountry id="C7D57663FFAA1B1DFABAF765010A4ECF" box="[1376,1548,2256,2297]" name="Australia" pageId="20" pageNumber="170">Australia</collectingCountry>
+, also Hawaii. Although we did not rear this common longicorn, it doubtless breeds in dead stems of many kinds of plants in 
+<collectingCountry id="C7D57663FFAA1B1DFC24F68303634F56" box="[1022,1125,2358,2400]" name="Guam" pageId="20" pageNumber="170">Guam</collectingCountry>
+as it does in Hawaii.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

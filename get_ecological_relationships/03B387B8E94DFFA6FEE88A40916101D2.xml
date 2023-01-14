@@ -1,0 +1,165 @@
+<document id="2912BE3A9993953CE6975145A3CB503B" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E94DFFA6FEE88A40916101D2" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Characoma nilotica" docType="treatment" docVersion="20" lastPageNumber="170" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="169" updateTime="1669658465958" updateUser="annettekang">
+<mods:mods id="825D9D2651996BFC9C4F4897D7D6D248" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="BE34FA8DEB826291CECEEB279AA44F0F">
+<mods:title id="EE45A5D75224EF8E217CCE95A4D66C23">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="D0FB43456B8C8D901DDA4FE2C5B3CF7F" type="personal">
+<mods:role id="4F868F387C6AE40C08B7DD7010966517">
+<mods:roleTerm id="B4ACCD85F651BFF167EEE975F6E11858">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B5FEA66994A421C8374914FF6C40C6F0">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="64FE99E1A22700124B543F044D76DF36">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="623CC176BF779E13A92E661B64053207">text</mods:typeOfResource>
+<mods:relatedItem id="3895CFC488F0805BAAB4B6D28B5FFD01" type="host">
+<mods:originInfo id="9B101C4008BC19A69E93B3BEAE761763">
+<mods:dateIssued id="5BF71115F81443F034101FC08EDC78FD">1946</mods:dateIssued>
+<mods:dateOther id="5831801670F07ADD6A9E361688C207F8" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="3E0A3B0FD7A795B9ED8EC736D18FB76C">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="0AD3CB0B724770CBBC72048800D985F2">
+<mods:placeTerm id="5717494A59A58EB7C100207F0DF5D8C7">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="0D502BF92E5F3C1B7B826BA74E750517">
+<mods:title id="F3504FF9426128BA3F3542A06C3C968C">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="82D0A835B59DBACE901AF428BC04073E">
+<mods:extent id="E9D8C25B5B0D9A61140CC1A1D7812A99" unit="page">
+<mods:start id="AFF1BFFF192913C2313A3FBEE07681D7">163</mods:start>
+<mods:end id="69517A67DF6BF970E446A8415C700E23">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="157846A238919F1790AA20F02AF2F98A">book chapter</mods:classification>
+<mods:identifier id="42ED369EF7A4607A8E27972EB24C9D40" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="D607C34A7C0FE861FE5B92E4016C00EB" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="5D05831F8F3A14E405CF4EA24F55EBFB" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E94DFFA6FEE88A40916101D2" ID-DOI="http://doi.org/10.5281/zenodo.5171186" ID-GBIF-Taxon="183926852" ID-Zenodo-Dep="5171186" LSID="urn:lsid:plazi:treatment:03B387B8E94DFFA6FEE88A40916101D2" httpUri="http://treatment.plazi.org/id/03B387B8E94DFFA6FEE88A40916101D2" lastPageId="7" lastPageNumber="170" pageId="6" pageNumber="169">
+<subSubSection id="C3006525E94DFFA7FEE88A40967F0BE9" box="[295,1033,2173,2214]" pageId="6" pageNumber="169" type="nomenclature">
+<paragraph id="8BA536AEE94DFFA7FEE88A40967F0BE9" blockId="6.[295,1690,2173,2472]" box="[295,1033,2173,2214]" pageId="6" pageNumber="169">
+<heading id="D0ED81C2E94DFFA7FEE88A40967F0BE9" box="[295,1033,2173,2214]" fontSize="8" level="2" pageId="6" pageNumber="169" reason="4">
+<emphasis id="B96EEABCE94DFFA7FEE88A4093FF0BE9" bold="true" box="[295,393,2173,2214]" pageId="6" pageNumber="169">13. *</emphasis>
+<taxonomicName id="4C1A4D2DE94DFFA7FE468A4096720BE9" authority="(Rogenhofer)" box="[393,1028,2173,2214]" class="Insecta" family="Noctuidae" genus="Characoma" kingdom="Animalia" order="Lepidoptera" pageId="6" pageNumber="169" phylum="Arthropoda" rank="species" species="nilotica">
+<emphasis id="B96EEABCE94DFFA7FE468A4090990BE9" bold="true" box="[393,751,2173,2214]" pageId="6" pageNumber="169">Characomanilotica</emphasis>
+(Rogenhofer)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94DFFA7FEAC8A8C94EE0A41" pageId="6" pageNumber="169" type="description">
+<paragraph id="8BA536AEE94DFFA7FEAC8A8C942F0B96" blockId="6.[295,1690,2173,2472]" box="[355,1625,2225,2265]" pageId="6" pageNumber="169">
+<treatmentCitationGroup id="AB0A1180E94DFFA7FEAC8A8C942F0B96" box="[355,1625,2225,2265]" pageId="6" pageNumber="169">
+<treatmentCitation id="0ABB10BFE94DFFA7FEAC8A8C942F0B96" author="Rogenhofer" box="[355,1625,2225,2265]" page="26" pageId="6" pageNumber="169" year="1881">
+<bibCitation id="5E303EC2E94DFFA7FEAC8A8C942F0B96" author="Rogenhofer" box="[355,1625,2225,2265]" journalOrPublisher="Zool. - Bot. Ges. Wien" pageId="6" pageNumber="169" part="26" refId="ref3683" type="journal volume" year="1881">
+<emphasis id="B96EEABCE94DFFA7FEAC8A8C90C80B96" box="[355,702,2225,2265]" italics="true" pageId="6" pageNumber="169">Sarrothripa nilotica</emphasis>
+<author id="53A7DE4BE94DFFA7FD058A8C91E90B96" box="[714,927,2225,2265]" pageId="6" pageNumber="169">Rogenhofer</author>
+, 
+<journalOrPublisher id="51DB3C62E94DFFA7FC7C8A8C97590B96" box="[947,1327,2225,2265]" pageId="6" pageNumber="169">Zool.-Bot. Ges. Wien</journalOrPublisher>
+, Verh., 
+<part id="FFBE9C33E94DFFA7FA708A8C979D0B96" box="[1471,1515,2225,2265]" pageId="6" pageNumber="169" type="volume">26</part>
+, 
+<year id="FFB277FDE94DFFA7F9CD8A8C94220B96" box="[1538,1620,2225,2265]" pageId="6" pageNumber="169">1881</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE94DFFA7FEAA8ADE94EE0A41" blockId="6.[295,1690,2173,2472]" box="[357,1688,2275,2318]" pageId="6" pageNumber="169">
+<treatmentCitationGroup id="AB0A1180E94DFFA7FEAA8ADE94EE0A41" box="[357,1688,2275,2318]" pageId="6" pageNumber="169">
+<bibCitation id="5E303EC2E94DFFA7FEAA8ADE94EE0A41" author="Hampson" box="[357,1688,2275,2318]" pageId="6" pageNumber="169" pagination="231" part="11" refId="ref3703" title="Cat. Lep. Phalaenae" type="journal volume" year="1912">
+<treatmentCitation id="0ABB10BFE94DFFA7FEAA8ADE94E50A41" author="Hampson" box="[357,1683,2275,2318]" page="231" pageId="6" pageNumber="169" year="1912">
+<emphasis id="B96EEABCE94DFFA7FEAA8ADE90B40A41" box="[357,706,2275,2318]" italics="true" pageId="6" pageNumber="169">Characoma nilotica,</emphasis>
+<author id="53A7DE4BE94DFFA7FD1B8ADE91F70A41" box="[724,897,2275,2318]" pageId="6" pageNumber="169">Hampson</author>
+, 
+<title id="F91EDD98E94DFFA7FC548ADE97730A41" box="[923,1285,2275,2318]" pageId="6" pageNumber="169">Cat. Lep. Phalaenae</title>
+<emphasis id="B96EEABCE94DFFA7FAD68ADE974C0A41" bold="true" box="[1305,1338,2275,2318]" pageId="6" pageNumber="169">
+<part id="FFBE9C33E94DFFA7FAD68ADE974C0A41" box="[1305,1338,2275,2318]" pageId="6" pageNumber="169">11</part>
+</emphasis>
+: 
+<pagination id="B2D3C85AE94DFFA7FAAF8ADE97EA0A41" box="[1376,1436,2275,2318]" pageId="6" pageNumber="169">231</pagination>
+, fig. 
+<emphasis id="B96EEABCE94DFFA7FA328ADE945B0A41" box="[1533,1581,2275,2318]" italics="true" pageId="6" pageNumber="169">76,</emphasis>
+<year id="FFB277FDE94DFFA7F98E8ADE94E50A41" box="[1601,1683,2275,2318]" pageId="6" pageNumber="169">1912</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94DFFA7FEA88B2590230AE7" pageId="6" pageNumber="169" type="description">
+<paragraph id="8BA536AEE94DFFA7FEA88B2590230AE7" blockId="6.[295,1690,2173,2472]" pageId="6" pageNumber="169">
+<materialsCitation id="3B723CF3E94DFFA7FEA88B2591DB0A3A" ID-GBIF-Occurrence="3332081480" collectedFrom="larvae found feeding in terminal leaf buds of Hibiscus tiliaceus, one moth reared" collectingDate="1936-06-08" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="6" pageNumber="169" specimenCount="1">
+<collectingMunicipality id="6BC1ACD4E94DFFA7FEA88B2590770A0D" box="[359,513,2328,2370]" pageId="6" pageNumber="169">Inarajan</collectingMunicipality>
+, 
+<date id="FFA4106EE94DFFA7FDD28B2590EF0A0D" box="[541,665,2328,2370]" pageId="6" pageNumber="169">
+<collectingDate id="EFE0E986E94DFFA7FDD28B2590EF0A0D" box="[541,665,2328,2370]" pageId="6" pageNumber="169">June 8</collectingDate>
+</date>
+, 
+<specimenCount id="9D1CFD27E94DFFA7FD7A8B2591560A0D" box="[693,800,2328,2370]" pageId="6" pageNumber="169" type="larva">larvae</specimenCount>
+found feeding in terminal leaf buds of 
+<emphasis id="B96EEABCE94DFFA7F9CF8B2593C90A3A" italics="true" pageId="6" pageNumber="169">
+<taxonomicName id="4C1A4D2DE94DFFA7F9CF8B2593CF0A3A" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="6" pageNumber="169" phylum="Tracheophyta" rank="species" species="tiliaceus">
+<location id="8EC56075E94DFFA7F9CF8B2594EC0A0D" LSID="urn:lsid:plazi:treatment:03B387B8E94DFFA6FEE88A40916101D2:8EC56075E94DFFA7F9CF8B2594EC0A0D" box="[1536,1690,2328,2370]" pageId="6" pageNumber="169">Hibiscus</location>
+tiliaceus
+</taxonomicName>
+,
+</emphasis>
+one moth reared, 
+<collectorName id="26EF5378E94DFFA7FCD58B7691D00A3A" box="[794,934,2379,2421]" pageId="6" pageNumber="169">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E94DFFA7FC0D8B76979A0A3A" ID-GBIF-Occurrence="3913652490" box="[962,1516,2379,2421]" collectedFrom="at light" collectingDate="1936-07-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="169" specimenCount="1">
+<location id="8EC56075E94DFFA7FC0D8B7696730A3A" LSID="urn:lsid:plazi:treatment:03B387B8E94DFFA6FEE88A40916101D2:8EC56075E94DFFA7FC0D8B7696730A3A" box="[962,1029,2379,2421]" pageId="6" pageNumber="169">
+<collectingMunicipality id="6BC1ACD4E94DFFA7FC0D8B7696730A3A" box="[962,1029,2379,2421]" pageId="6" pageNumber="169">Piti</collectingMunicipality>
+</location>
+, 3 moths at light, 
+<date id="FFA4106EE94DFFA7FA908B7697900A3A" box="[1375,1510,2379,2421]" pageId="6" pageNumber="169" value="2012-07">
+<collectingDate id="EFE0E986E94DFFA7FA908B7697900A3A" box="[1375,1510,2379,2421]" pageId="6" pageNumber="169" value="2012-07">July 12</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E94DFFA7FA308B7694EF0A3A" ID-GBIF-Occurrence="3913652408" box="[1535,1689,2379,2421]" collectedFrom="at light" collectingDate="1936-08-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="169" specimenCount="1">
+<date id="FFA4106EE94DFFA7FA308B7694E40A3A" box="[1535,1682,2379,2421]" pageId="6" pageNumber="169" value="2020-08">
+<collectingDate id="EFE0E986E94DFFA7FA308B7694E40A3A" box="[1535,1682,2379,2421]" pageId="6" pageNumber="169" value="2020-08">Aug. 20</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E94DFFA7FEE78B4390230AE7" ID-GBIF-Occurrence="3913652405" box="[296,597,2430,2472]" collectedFrom="at light" collectingDate="1936-11-04" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="6" pageNumber="169" specimenCount="1">
+<date id="FFA4106EE94DFFA7FEE78B4393DF0AE7" box="[296,425,2430,2472]" pageId="6" pageNumber="169">
+<collectingDate id="EFE0E986E94DFFA7FEE78B4393DF0AE7" box="[296,425,2430,2472]" pageId="6" pageNumber="169">Nov. 4</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E94DFFA7FE058B4390260AE7" box="[458,592,2430,2472]" pageId="6" pageNumber="169">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94CFFA6FE338349916101D2" pageId="7" pageNumber="170" type="description">
+<paragraph id="8BA536AEE94CFFA6FE338349916101D2" blockId="7.[445,1842,372,669]" pageId="7" pageNumber="170">
+This species is recorded from Texas, 
+<collectingCountry id="F30D763EE94CFFA6FB688349975B02EF" box="[1191,1325,372,416]" name="Mexico" pageId="7" pageNumber="170">Mexico</collectingCountry>
+, Central America, 
+<collectingCountry id="F30D763EE94CFFA6F9468349955D02EF" box="[1673,1835,372,416]" name="Bahamas" pageId="7" pageNumber="170">Bahamas</collectingCountry>
+, West Indias, Canary Islands, 
+<collectingCountry id="F30D763EE94CFFA6FC1883959633029B" box="[983,1093,424,468]" name="Egypt" pageId="7" pageNumber="170">Egypt</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94CFFA6FB908395973E029B" box="[1119,1352,424,468]" name="Sierra Leone" pageId="7" pageNumber="170">Sierra Leone</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94CFFA6FAAE8395979C029B" box="[1377,1514,424,468]" name="Gambia" pageId="7" pageNumber="170">Gambia</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94CFFA6F9CD839594FC029B" box="[1538,1674,424,468]" name="Nigeria" pageId="7" pageNumber="170">Nigeria</collectingCountry>
+, Madras, 
+<collectingCountry id="F30D763EE94CFFA6FE7083E6904C0149" box="[447,570,475,518]" name="Sri Lanka" pageId="7" pageNumber="170">Ceylon</collectingCountry>
+. The record from 
+<collectingCountry id="F30D763EE94CFFA6FC6F83E6967E0149" box="[928,1032,475,518]" name="Guam" pageId="7" pageNumber="170">Guam</collectingCountry>
+is at a considerable distance from the other recorded localities. As I reared it from 
+<taxonomicName id="4C1A4D2DE94CFFA6FB738032978C0175" box="[1212,1530,527,570]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="7" pageNumber="170" phylum="Tracheophyta" rank="species" species="tiliaceus">
+<emphasis id="B96EEABCE94CFFA6FB738032978C0175" box="[1212,1530,527,570]" italics="true" pageId="7" pageNumber="170">Hibiscus tiliaceus</emphasis>
+</taxonomicName>
+which is widely spread in the Pacific islands, no doubt this moth will yet be found more widely in the Pacific area.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

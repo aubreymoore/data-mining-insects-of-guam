@@ -1,0 +1,169 @@
+<document id="3242A6C08F0E953F2250E43D3C455CB8" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5183F794B50E9A5FC96C8F6" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Paromius pallidus" docType="treatment" docVersion="19" lastPageNumber="31" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="31" updateTime="1671564665568" updateUser="annettekang">
+<mods:mods id="6CA48BF517409B58C6DEFA9B992E5A1A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="478B1B18746B8E581F2F3C082EC5EDDD">
+<mods:title id="9983154E71C9858D9EF6394F68B02EF9">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="76BBB80C9DB44D6E06BB2BB00789E1BF" type="personal">
+<mods:role id="A1F4135228317CE5E656B2D6902A8F8C">
+<mods:roleTerm id="A294636BE0B527050934A8509D772A51">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="0AC29C681DD162EBE369A04F98870870">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="32A322D63DB792D934D910E24331688A">text</mods:typeOfResource>
+<mods:relatedItem id="7022E2659ACEAAD5BDEC61E93164382C" type="host">
+<mods:originInfo id="9CEB907E43BFB6500F9E5974C5BA8B89">
+<mods:dateIssued id="8E6CEDFB82B883AD36DC715C863F0FAA">1946</mods:dateIssued>
+<mods:dateOther id="FE04488443CFAB9F4182A42AA662C3B0" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="41CC513EB6B421B4617328B97367712F">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="208A9BDC1C321A9FC0876517E8FBAEAC">
+<mods:placeTerm id="FDC5BE338C205BEFEE5F1A8D13A9B2C1">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="950115D6A4C4F85F2F536DEA0F4AE17E">
+<mods:title id="7DA5AE7F80C712F0DA0AF8575FCAC902">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="BB11A128054482605F6F7E6F1AC03569">
+<mods:extent id="AED78924958D15CE8F114451D8C31F7F" unit="page">
+<mods:start id="DD30599F7EA6CA89282E36E4AD777CE1">11</mods:start>
+<mods:end id="1619F351F8A77A58CDDE4B9375BC6374">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="BFA85753706B68D103398923A3748564">book chapter</mods:classification>
+<mods:identifier id="3097394BE8549D73EA5F25824ED1C604" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="4404007DA2FD279E1FBB059CBD278B4F" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="91ECFC62F71D40B130ECB59BBD997AE1" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5183F794B50E9A5FC96C8F6" ID-DOI="http://doi.org/10.5281/zenodo.5217270" ID-GBIF-Taxon="184601187" ID-Zenodo-Dep="5217270" LSID="urn:lsid:plazi:treatment:EC6DA359F5183F794B50E9A5FC96C8F6" httpUri="http://treatment.plazi.org/id/EC6DA359F5183F794B50E9A5FC96C8F6" lastPageNumber="31" pageId="20" pageNumber="31">
+<subSubSection id="2CDE41C4F5183F794B50E9A5FC16C79F" box="[304,1010,1741,1783]" pageId="20" pageNumber="31" type="nomenclature">
+<paragraph id="647B124FF5183F794B50E9A5FC16C79F" blockId="20.[304,1704,1741,2462]" box="[304,1010,1741,1783]" pageId="20" pageNumber="31">
+<heading id="3F33A523F5183F794B50E9A5FC16C79F" box="[304,1010,1741,1783]" fontSize="8" level="2" pageId="20" pageNumber="31" reason="4">
+<emphasis id="56B0CE5DF5183F794B50E9A5FE87C79F" bold="true" box="[304,355,1741,1783]" pageId="20" pageNumber="31">27.</emphasis>
+<taxonomicName id="A3C469CCF5183F794BE5E9A5FC09C79F" authority="(Montrouzier)" baseAuthorityName="Montrouzier" baseAuthorityYear="1865" box="[389,1005,1741,1783]" class="Insecta" family="Rhyparochromidae" genus="Paromius" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="20" pageNumber="31" phylum="Arthropoda" rank="species" species="pallidus">
+<emphasis id="56B0CE5DF5183F794BE5E9A5FD34C79F" bold="true" box="[389,720,1741,1783]" pageId="20" pageNumber="31">Paromius pallidus</emphasis>
+(Montrouzier)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5183F794B0FE869FDEFC635" pageId="20" pageNumber="31" type="description">
+<paragraph id="647B124FF5183F794B0FE869FDEFC635" blockId="20.[304,1704,1741,2462]" pageId="20" pageNumber="31">
+<treatmentCitationGroup id="44D43561F5183F794B0FE869FDEFC635" pageId="20" pageNumber="31">
+<treatmentCitation id="E565345EF5183F794B0FE869FDEFC635" author="Montrouzier" page="229" pageId="20" pageNumber="31" year="1864">
+<bibCitation id="B1EE1A23F5183F794B0FE869FDEFC635" author="Montrouzier" journalOrPublisher="Soc. Linn. Lyon" pageId="20" pageNumber="31" pagination="229" part="11" refId="ref9946" type="journal article" year="1864">
+<emphasis id="56B0CE5DF5183F794B0FE869FD01C644" box="[367,741,1793,1836]" italics="true" pageId="20" pageNumber="31">Plociomerus pallidus</emphasis>
+<author id="BC79FAAAF5183F794897E869FC33C644" box="[759,983,1793,1836]" pageId="20" pageNumber="31">Montrouzier</author>
+, 
+<journalOrPublisher id="BE051883F5183F794993E869FAFEC644" box="[1011,1306,1793,1836]" pageId="20" pageNumber="31">Soc. Linn. Lyon</journalOrPublisher>
+(n.s.), Ann. 
+<emphasis id="56B0CE5DF5183F794C7DE869F9DBC644" bold="true" box="[1565,1599,1793,1836]" pageId="20" pageNumber="31">
+<part id="1060B8D2F5183F794C7DE869F9DBC644" box="[1565,1599,1793,1836]" pageId="20" pageNumber="31" type="volume">11</part>
+</emphasis>
+: 
+<pagination id="5D0DECBBF5183F794C05E869F945C644" box="[1637,1697,1793,1836]" pageId="20" pageNumber="31" type="pagination">229</pagination>
+, 
+<year id="106C531CF5183F794BD3E85DFDE2C635" box="[435,518,1845,1885]" pageId="20" pageNumber="31">1864</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5183F794B12E800FE24C946" pageId="20" pageNumber="31" type="description">
+<paragraph id="647B124FF5183F794B12E800FE24C946" blockId="20.[304,1704,1741,2462]" pageId="20" pageNumber="31">
+<materialsCitation id="D4AC1812F5183F794B12E800F9A9C6FC" ID-GBIF-Occurrence="3994028424" box="[370,1613,1896,1940]" collectedFrom="sweeping grass" collectingDate="1936-05-01" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="20" pageNumber="31" specimenCount="10">
+Ten 
+<specimenCount id="72C2D9C6F5183F794BAFE800FD65C6FC" box="[463,641,1896,1940]" pageId="20" pageNumber="31" type="generic">specimens</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5183F7948FFE800FD06C6FC" box="[671,738,1896,1940]" pageId="20" pageNumber="31">Piti</collectingMunicipality>
+, 
+<date id="107A348FF5183F79489FE800FC9DC6FC" box="[767,889,1896,1940]" pageId="20" pageNumber="31">
+<collectingDate id="003ECD67F5183F79489FE800FC9DC6FC" box="[767,889,1896,1940]" pageId="20" pageNumber="31">May 1</collectingDate>
+</date>
+, sweeping grass, 
+<location id="611B4494F5183F794EA7E800FAB2C6FC" LSID="urn:lsid:plazi:treatment:EC6DA359F5183F794B50E9A5FC96C8F6:611B4494F5183F794EA7E800FAB2C6FC" box="[1223,1366,1896,1940]" municipality="Piti" name="Usinger" pageId="20" pageNumber="31">Usinger</location>
+and 
+<collectorName id="C9317799F5183F794FA1E800F9A9C6FC" box="[1473,1613,1896,1940]" pageId="20" pageNumber="31">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5183F794C0BE800FAE8C6AF" ID-GBIF-Occurrence="3336136301" collectedFrom="Paspalum conjugatum" collectingDate="1936-04-30" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="20" pageNumber="31" specimenCount="5">
+<specimenCount id="72C2D9C6F5183F794C0BE800FE02C6AF" pageId="20" pageNumber="31" type="generic">five specimens</specimenCount>
+, 
+<date id="107A348FF5183F794864E8F5FD40C6AF" box="[516,676,1949,1991]" pageId="20" pageNumber="31" value="1930-04">
+<location id="611B4494F5183F794864E8F5FD85C6AF" LSID="urn:lsid:plazi:treatment:EC6DA359F5183F794B50E9A5FC96C8F6:611B4494F5183F794864E8F5FD85C6AF" box="[516,609,1949,1991]" name="April" pageId="20" pageNumber="31">April</location>
+30
+</date>
+, 
+<taxonomicName id="A3C469CCF5183F7948A0E8F5FAE8C6AF" authority=", Usinger" authorityName="Usinger" box="[704,1292,1949,1991]" class="Liliopsida" family="Poaceae" genus="Paspalum" kingdom="Plantae" order="Poales" pageId="20" pageNumber="31" phylum="Tracheophyta" rank="species" species="conjugatum">
+<emphasis id="56B0CE5DF5183F7948A0E8F5FBB9C6AF" box="[704,1117,1949,1991]" italics="true" pageId="20" pageNumber="31">Paspalum conjugatum,</emphasis>
+Usinger
+</taxonomicName>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5183F794F4DE8F5FCCEC693" ID-GBIF-Occurrence="3336136436" collectedFrom="on sedges" collectingDate="1936-07-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="20" pageNumber="31" specimenCount="4">
+<specimenCount id="72C2D9C6F5183F794F4DE8F5F9A4C6AF" box="[1325,1600,1949,1991]" pageId="20" pageNumber="31" type="generic">four specimens</specimenCount>
+, 
+<location id="611B4494F5183F794C3EE8F5F944C6AF" LSID="urn:lsid:plazi:treatment:EC6DA359F5183F794B50E9A5FC96C8F6:611B4494F5183F794C3EE8F5F944C6AF" box="[1630,1696,1949,1991]" county="Swezey" municipality="July" name="Piti" pageId="20" pageNumber="31">Piti</location>
+, 
+<date id="107A348FF5183F794B52E8A7FE5EC693" box="[306,442,1999,2043]" pageId="20" pageNumber="31" value="2013-07">
+<collectingMunicipality id="841F8835F5183F794B52E8A7FE9AC693" box="[306,382,1999,2043]" pageId="20" pageNumber="31">July</collectingMunicipality>
+13
+</date>
+, on sedges, 
+<collectingCounty id="8D1A6AC3F5183F7948FFE8A7FCCEC693" box="[671,810,1999,2043]" pageId="20" pageNumber="31">Swezey</collectingCounty>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5183F794923E8A7FE5FC946" ID-GBIF-Occurrence="3336136345" collectingDate="1936-05-03" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Mount Tenjo" pageId="20" pageNumber="31" specimenCount="2">
+<specimenCount id="72C2D9C6F5183F794923E8A7FBACC693" box="[835,1096,1999,2043]" pageId="20" pageNumber="31" type="generic">two specimens</specimenCount>
+, 
+<location id="611B4494F5183F794E03E8A7FAC4C693" LSID="urn:lsid:plazi:treatment:EC6DA359F5183F794B50E9A5FC96C8F6:611B4494F5183F794E03E8A7FAC4C693" box="[1123,1312,1999,2043]" county="Swezey" municipality="Usinger" name="Mt. Tenjo" pageId="20" pageNumber="31">Mt. Tenjo</location>
+, 
+<date id="107A348FF5183F794F5AE8A7FA54C693" box="[1338,1456,1999,2043]" pageId="20" pageNumber="31">
+<location id="611B4494F5183F794F5AE8A7FA6DC693" LSID="urn:lsid:plazi:treatment:EC6DA359F5183F794B50E9A5FC96C8F6:611B4494F5183F794F5AE8A7FA6DC693" box="[1338,1417,1999,2043]" county="Swezey" municipality="Usinger" name="May" pageId="20" pageNumber="31">May</location>
+3
+</date>
+, 
+<collectingMunicipality id="841F8835F5183F794FABE8A7F9B3C693" box="[1483,1623,1999,2043]" pageId="20" pageNumber="31">Usinger</collectingMunicipality>
+and 
+<collectingCounty id="8D1A6AC3F5183F794B54E76CFE5FC946" box="[308,443,2052,2094]" pageId="20" pageNumber="31">Swezey</collectingCounty>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5183F794B13E757FC96C8F6" pageId="20" pageNumber="31" type="description">
+<paragraph id="647B124FF5183F794B13E757FC96C8F6" blockId="20.[304,1704,1741,2462]" pageId="20" pageNumber="31">
+<location id="611B4494F5183F794B13E757FE70C901" LSID="urn:lsid:plazi:treatment:EC6DA359F5183F794B50E9A5FC96C8F6:611B4494F5183F794B13E757FE70C901" box="[371,404,2111,2153]" country="Seychelles" county="Council of Scientific" municipality="Zimmerman on Mangareva" name="If" pageId="20" pageNumber="31">If</location>
+the recorded synonymy is correct, this species occurs from the 
+<collectingCountry id="1CD352DFF5183F794F96E757F943C901" box="[1526,1703,2111,2153]" name="Seychelles" pageId="20" pageNumber="31">Seychelles</collectingCountry>
+through 
+<collectingCountry id="1CD352DFF5183F794BAEE71AFDA2C9F6" box="[462,582,2162,2206]" name="Sri Lanka" pageId="20" pageNumber="31">Ceylon</collectingCountry>
+and Burma to 
+<collectingCountry id="1CD352DFF5183F79493BE71AFC25C9F6" box="[859,961,2162,2206]" name="Japan" pageId="20" pageNumber="31">Japan</collectingCountry>
+and southward to 
+<collectingCountry id="1CD352DFF5183F794F77E71AFA68C9F6" box="[1303,1420,2162,2206]" name="Samoa" pageId="20" pageNumber="31">Samoa</collectingCountry>
+(fide 
+<location id="611B4494F5183F794F9FE71AF944C9F6" LSID="urn:lsid:plazi:treatment:EC6DA359F5183F794B50E9A5FC96C8F6:611B4494F5183F794F9FE71AF944C9F6" box="[1535,1696,2162,2206]" country="Seychelles" county="Council of Scientific" municipality="Zimmerman on Mangareva" name="Kirkaldy" pageId="20" pageNumber="31">Kirkaldy</location>
+, not recorded by 
+<collectingCountry id="1CD352DFF5183F794836E7CDFD2DC9B9" box="[598,713,2213,2257]" name="China" pageId="20" pageNumber="31">China</collectingCountry>
+), 
+<collectingCountry id="1CD352DFF5183F79488EE7CDFCD6C9B9" box="[750,818,2213,2257]" name="Fiji" pageId="20" pageNumber="31">Fiji</collectingCountry>
+, and 
+<collectingCountry id="1CD352DFF5183F7949F6E7CDFB42C9B9" box="[918,1190,2213,2257]" name="New Caledonia" pageId="20" pageNumber="31">New Caledonia</collectingCountry>
+. I have specimens from 
+<collectingCountry id="1CD352DFF5183F794C06E7CDF943C9B9" box="[1638,1703,2213,2257]" name="Fiji" pageId="20" pageNumber="31">Fiji</collectingCountry>
+which agree well with the 
+<collectingCountry id="1CD352DFF5183F794972E7B1FC9DC86C" box="[786,889,2265,2308]" name="Guam" pageId="20" pageNumber="31">Guam</collectingCountry>
+series, a long series collected by 
+<collectingMunicipality id="841F8835F5183F794FB1E7B1FDA7C85F" pageId="20" pageNumber="31">Zimmerman on Mangareva</collectingMunicipality>
+, and 
+<specimenCount id="72C2D9C6F5183F7948D7E664FC38C85F" box="[695,988,2316,2359]" pageId="20" pageNumber="31" type="generic">three specimens</specimenCount>
+from Eidsvold, Queensland, sent for determination by 
+<collectorName id="C9317799F5183F794810E656FC94C802" box="[624,880,2366,2410]" pageId="20" pageNumber="31">A. L. Tonnoir</collectorName>
+from the 
+<collectingCounty id="8D1A6AC3F5183F794E4FE656FA7FC802" box="[1071,1435,2366,2410]" pageId="20" pageNumber="31">Council of Scientific</collectingCounty>
+and Industrial Research collection at Canberra.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

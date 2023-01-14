@@ -1,0 +1,175 @@
+<document id="B1C836D5FD15A941D890105EBDE06ED2" ID-DOI="http://doi.org/10.5281/zenodo.5164064" ID-GBIF-Dataset="8ddfacbb-c42b-4385-b70b-ea5bd759c377" ID-Zenodo-Dep="5164064" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628020838575" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03938792FFDFFFCEFEDDF99680E7F85E" docLanguage="en" docName="InsectsOfGuamII.189.149-156.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Liburnia kirkaldyi" docType="treatment" docVersion="12" lastPageNumber="153" masterDocId="FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9" masterDocTitle="Notes On Some Fulgoroidea Of Guam" masterLastPageNumber="156" masterPageNumber="149" pageNumber="153" updateTime="1671318232748" updateUser="annettekang">
+<mods:mods id="0E1132774DC92586BDB1D06F338E08DE" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="F6DF7BDAEE086A84EA2E6C46BA9FEC57">
+<mods:title id="B21A93BB644C036EEF2B55A32C9E376B">Notes On Some Fulgoroidea Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="F591BE829F2BEB26211B0F685B75719A" type="personal">
+<mods:role id="F4D57E1E5DA5D367F4E3F38BD3C2B951">
+<mods:roleTerm id="4CA9EA4727BE261CD81B00BE26BAF17E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B69D5A1067E5AD6637211856A11DDA61">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="61C576FF11CF16283A17CE62B5187BF0">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C7A6DF3E67C170171FFD8EF4851BEB83">text</mods:typeOfResource>
+<mods:relatedItem id="D6BDF17EDB6D659C056A6506EE0541B8" type="host">
+<mods:originInfo id="563F3AA3BBE6251A52AD2095272788A4">
+<mods:dateIssued id="78FB425B5E52DC520356F2BB8EFE85D1">1946</mods:dateIssued>
+<mods:dateOther id="AF762131B34A35FE7762D7FF83AB86A6" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="EBB05FBFC72280E2849B52133685C127">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="B3231C0E7F8406E50CD803B7424D6E3A">
+<mods:placeTerm id="8DF0574B051AA1FA7436BA906BE27DD2">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9C519B60AC27CBDEF07E53FE5D77A8B4">
+<mods:title id="5DB1DD11DB563CFDD13DB3705CADAEBD">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="FF159CB46423ADFD8E50B1A1F41BC3CD">
+<mods:extent id="D8AECCA3FC9076CAA0E885C5491588C9" unit="page">
+<mods:start id="1CBEF1F60E269517E946AA9C5EC5715D">149</mods:start>
+<mods:end id="1C2C4935DA621BB8A9B2AAE2D7EF225F">156</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="EF6F75FC09092B40ED709199E0E6280B">book chapter</mods:classification>
+<mods:identifier id="C4A969D111165BCE88AEF423CB8C5E77" type="DOI">http://doi.org/10.5281/zenodo.5164064</mods:identifier>
+<mods:identifier id="8E1FBBA39134EEF4BCB9AD358F6E89EC" type="GBIF-Dataset">8ddfacbb-c42b-4385-b70b-ea5bd759c377</mods:identifier>
+<mods:identifier id="4E689EA498EE3822F1F068FED04CE813" type="Zenodo-Dep">5164064</mods:identifier>
+</mods:mods>
+<treatment id="03938792FFDFFFCEFEDDF99680E7F85E" ID-DOI="http://doi.org/10.5281/zenodo.5167452" ID-GBIF-Taxon="183925073" ID-Zenodo-Dep="5167452" LSID="urn:lsid:plazi:treatment:03938792FFDFFFCEFEDDF99680E7F85E" httpUri="http://treatment.plazi.org/id/03938792FFDFFFCEFEDDF99680E7F85E" lastPageNumber="153" pageId="4" pageNumber="153">
+<subSubSection id="C320650FFFDFFFCEFEDDF9968522F96D" box="[291,851,1627,1668]" pageId="4" pageNumber="153" type="nomenclature">
+<paragraph id="8B853684FFDFFFCEFEDDF9968522F96D" blockId="4.[291,1688,1627,1975]" box="[291,851,1627,1668]" pageId="4" pageNumber="153">
+<heading id="D0CD81E8FFDFFFCEFEDDF9968522F96D" box="[291,851,1627,1668]" fontSize="11" level="2" pageId="4" pageNumber="153" reason="2">
+<emphasis id="B94EEA96FFDFFFCEFEDDF9968731F96D" bold="true" box="[291,320,1627,1668]" pageId="4" pageNumber="153">8.</emphasis>
+<taxonomicName id="4C3A4D07FFDFFFCEFE9CF996853CF96D" authority="(Muir)" baseAuthorityName="Muir" box="[354,845,1627,1668]" class="Insecta" family="Delphacidae" genus="Liburnia" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="153" phylum="Arthropoda" rank="species" species="kirkaldyi">
+<emphasis id="B94EEA96FFDFFFCEFE9CF99684C9F96D" bold="true" box="[354,696,1627,1668]" pageId="4" pageNumber="153">Liburnia kirkaldyi</emphasis>
+(Muir)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDFFFCEFE9FF9438026F8F7" pageId="4" pageNumber="153" type="reference_group">
+<paragraph id="8B853684FFDFFFCEFE9FF94383F1F95F" blockId="4.[291,1688,1627,1975]" box="[353,1408,1678,1718]" pageId="4" pageNumber="153">
+<treatmentCitationGroup id="AB2A11AAFFDFFFCEFE9FF94383F1F95F" box="[353,1408,1678,1718]" pageId="4" pageNumber="153">
+<treatmentCitation id="0A9B1095FFDFFFCEFE9FF94383F1F95F" author="Muir" box="[353,1408,1678,1718]" page="329" pageId="4" pageNumber="153" year="1917">
+<taxonomicName id="4C3A4D07FFDFFFCEFE9FF9438482F95F" authority="Muir, Haw. Ent. Soc., Proc." box="[353,755,1678,1718]" class="Insecta" family="Delphacidae" genus="Kelisia" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="153" phylum="Arthropoda" rank="species" species="kirkaldyi">
+<emphasis id="B94EEA96FFDFFFCEFE9FF94384F9F95F" box="[353,648,1678,1718]" italics="true" pageId="4" pageNumber="153">Kelisia kirkaldyi</emphasis>
+<bibCitation id="5E103EE8FFDFFFCEFD69F94383F1F95F" author="Muir" box="[663,1408,1678,1718]" journalOrPublisher="Haw. Ent. Soc., Proc." pageId="4" pageNumber="153" pagination="329" part="3" type="journal article" year="1917">
+<author id="5387DE61FFDFFFCEFD69F9438482F95F" box="[663,755,1678,1718]" pageId="4" pageNumber="153">Muir</author>
+, 
+<journalOrPublisher id="51FB3C48FFDFFFCEFCF9F94382FCF95F" box="[775,1165,1678,1718]" pageId="4" pageNumber="153">Haw. Ent. Soc., Proc.</journalOrPublisher>
+<emphasis id="B94EEA96FFDFFFCEFB63F94382DFF95F" bold="true" box="[1181,1198,1678,1718]" pageId="4" pageNumber="153">
+<part id="FF9E9C19FFDFFFCEFB63F94382DBF95F" box="[1181,1194,1678,1718]" pageId="4" pageNumber="153" type="volume">3</part>
+:
+</emphasis>
+<pagination id="B2F3C870FFDFFFCEFB31F943837EF95F" box="[1231,1295,1678,1718]" pageId="4" pageNumber="153" type="pagination">329</pagination>
+, 
+<year id="FF9277D7FFDFFFCEFAD6F943830AF95F" box="[1320,1403,1678,1718]" pageId="4" pageNumber="153">1917</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8B853684FFDFFFCEFE9CF90C8283F900" blockId="4.[291,1688,1627,1975]" box="[354,1266,1729,1769]" pageId="4" pageNumber="153">
+<treatmentCitationGroup id="AB2A11AAFFDFFFCEFE9CF90C8283F900" box="[354,1266,1729,1769]" pageId="4" pageNumber="153">
+<treatmentCitation id="0A9B1095FFDFFFCEFE9CF90C8283F900" author="Muir" box="[354,1266,1729,1769]" page="12" pageId="4" pageNumber="153" year="1927">
+<taxonomicName id="4C3A4D07FFDFFFCEFE9CF90C8483F900" authority="Muir, Ins." authorityName="Muir, Ins." box="[354,754,1729,1769]" class="Insecta" family="Delphacidae" genus="Sogata" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="153" phylum="Arthropoda" rank="species" species="kirkaldyi">
+<emphasis id="B94EEA96FFDFFFCEFE9CF90C84F7F900" box="[354,646,1729,1769]" italics="true" pageId="4" pageNumber="153">Sogata kirkaldyi</emphasis>
+<bibCitation id="5E103EE8FFDFFFCEFD68F90C8283F900" author="Muir" box="[662,1266,1729,1769]" pageId="4" pageNumber="153" pagination="12" part="2" title="Ins. Samoa" type="book" year="1927">
+<author id="5387DE61FFDFFFCEFD68F90C8483F900" box="[662,754,1729,1769]" pageId="4" pageNumber="153">Muir</author>
+, 
+<title id="F93EDDB2FFDFFFCEFCF4F90C85A1F900" box="[778,976,1729,1769]" pageId="4" pageNumber="153">
+Ins. 
+<collectingCountry id="F32D7614FFDFFFCEFCA2F90C85A1F900" box="[860,976,1729,1769]" name="Samoa" pageId="4" pageNumber="153">Samoa</collectingCountry>
+</title>
+<part id="FF9E9C19FFDFFFCEFC1EF90C858AF900" box="[992,1019,1729,1769]" pageId="4" pageNumber="153" type="volume">2</part>
+(
+<part id="FF9E9C19FFDFFFCEFBF4F90C826AF900" box="[1034,1051,1729,1769]" pageId="4" pageNumber="153" type="issue">1</part>
+): 
+<pagination id="B2F3C870FFDFFFCEFBA6F90C82F1F900" box="[1112,1152,1729,1769]" pageId="4" pageNumber="153" type="pagination">12</pagination>
+, 
+<year id="FF9277D7FFDFFFCEFB64F90C829CF900" box="[1178,1261,1729,1769]" pageId="4" pageNumber="153">1927</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8B853684FFDFFFCEFE9FF9398026F8F7" blockId="4.[291,1688,1627,1975]" box="[353,1623,1780,1822]" pageId="4" pageNumber="153">
+<treatmentCitationGroup id="AB2A11AAFFDFFFCEFE9FF9398026F8F7" box="[353,1623,1780,1822]" pageId="4" pageNumber="153">
+<treatmentCitation id="0A9B1095FFDFFFCEFE9FF9398023F8F7" author="Metcalf" box="[353,1618,1780,1822]" page="363" pageId="4" pageNumber="153" year="1943">
+<taxonomicName id="4C3A4D07FFDFFFCEFE9FF9398526F8F7" authority=", Metcalf, Cat. Hemip., Fulgoroidea" authorityName="Metcalf, Cat. Hemip., Fulgoroidea" box="[353,855,1780,1822]" class="Insecta" family="Delphacidae" genus="Liburnia" kingdom="Animalia" order="Hemiptera" pageId="4" pageNumber="153" phylum="Arthropoda" rank="species" species="kirkaldyi">
+<emphasis id="B94EEA96FFDFFFCEFE9FF93984C5F8F7" box="[353,692,1780,1822]" italics="true" pageId="4" pageNumber="153">Liburnia kirkaldyi,</emphasis>
+<bibCitation id="5E103EE8FFDFFFCEFD3BF9398023F8F7" author="Metcalf" box="[709,1618,1780,1822]" pageId="4" pageNumber="153" pagination="363" part="3" title="Cat. Hemip., Fulgoroidea" type="book" year="1943">
+<author id="5387DE61FFDFFFCEFD3BF9398520F8F7" box="[709,849,1780,1822]" pageId="4" pageNumber="153">Metcalf</author>
+, 
+<title id="F93EDDB2FFDFFFCEFC97F9398343F8F7" box="[873,1330,1780,1822]" pageId="4" pageNumber="153">Cat. Hemip., Fulgoroidea</title>
+<emphasis id="B94EEA96FFDFFFCEFAB7F939830EF8F7" bold="true" box="[1353,1407,1780,1822]" pageId="4" pageNumber="153">
+(
+<part id="FF9E9C19FFDFFFCEFAA6F9398301F8F7" box="[1368,1392,1780,1822]" pageId="4" pageNumber="153" type="issue">3</part>
+)
+</emphasis>
+: 
+<pagination id="B2F3C870FFDFFFCEFA54F9398394F8F7" box="[1450,1509,1780,1822]" pageId="4" pageNumber="153" type="pagination">363</pagination>
+, 
+<year id="FF9277D7FFDFFFCEF9FEF9398023F8F7" box="[1536,1618,1780,1822]" pageId="4" pageNumber="153">1943</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+:
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDFFFCEFE9AF8EA87B8F86A" pageId="4" pageNumber="153" type="distribution">
+<paragraph id="8B853684FFDFFFCEFE9AF8EA87B8F86A" blockId="4.[291,1688,1627,1975]" pageId="4" pageNumber="153">
+Described from 
+<collectingCountry id="F32D7614FFDFFFCEFD76F8EA84BCF8B8" box="[648,717,1831,1873]" name="Fiji" pageId="4" pageNumber="153">Fiji</collectingCountry>
+. Occurs also in 
+<collectingCountry id="F32D7614FFDFFFCEFBFFF8EA8208F8B8" box="[1025,1145,1831,1873]" name="Samoa" pageId="4" pageNumber="153">Samoa</collectingCountry>
+, Queensland, 
+<collectingCountry id="F32D7614FFDFFFCEFA85F8EA8033F8B8" box="[1403,1602,1831,1873]" name="Philippines" pageId="4" pageNumber="153">Philippines</collectingCountry>
+, and 
+<collectingCountry id="F32D7614FFDFFFCEFED8F89487B5F86A" box="[294,452,1881,1923]" name="Taiwan" pageId="4" pageNumber="153">Formosa</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDFFFCEFE16F89480E7F85E" pageId="4" pageNumber="153" type="materials_examined">
+<paragraph id="8B853684FFDFFFCEFE16F89480E7F85E" blockId="4.[291,1688,1627,1975]" pageId="4" pageNumber="153">
+<materialsCitation id="3B523CD9FFDFFFCEFE16F8948571F85E" ID-GBIF-Occurrence="3331825368" collectedFrom="swept from low grasses" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="4" pageNumber="153">
+Now recorded for the first time in 
+<collectingCountry id="F32D7614FFDFFFCEFB9AF89482A1F86A" box="[1124,1232,1881,1923]" name="Guam" pageId="4" pageNumber="153">Guam</collectingCountry>
+, swept from low grasses, 
+<location id="8EE5605FFFDFFFCEFEDAF8418717F85E" LSID="urn:lsid:plazi:treatment:03938792FFDFFFCEFEDDF99680E7F85E:8EE5605FFFDFFFCEFEDAF8418717F85E" box="[292,358,1932,1975]" country="Guam" name="Upi" pageId="4" pageNumber="153">Upi</location>
+trail, 
+<date id="FF841044FFDFFFCEFE22F8418423F85E" box="[476,594,1932,1975]" pageId="4" pageNumber="153">
+<collectingDate id="EFC0E9ACFFDFFFCEFE22F8418423F85E" box="[476,594,1932,1975]" pageId="4" pageNumber="153">May 5</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDFFFCEFD90F8418488F85E" box="[622,761,1932,1975]" pageId="4" pageNumber="153">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDFFFCEFCECF84182CDF85E" ID-GBIF-Occurrence="3914035368" box="[786,1212,1932,1975]" collectedFrom="swept from low grasses" collectingDate="1936-05-20" collectorName="O. H. Swezey" country="Guam" location="Agat" pageId="4" pageNumber="153">
+<location id="8EE5605FFFDFFFCEFCECF841851BF85E" LSID="urn:lsid:plazi:treatment:03938792FFDFFFCEFEDDF99680E7F85E:8EE5605FFFDFFFCEFCECF841851BF85E" box="[786,874,1932,1975]" name="Agat" pageId="4" pageNumber="153">Agat</location>
+, 
+<date id="FF841044FFDFFFCEFC7DF841827FF85E" box="[899,1038,1932,1975]" pageId="4" pageNumber="153" value="2020-05">
+<collectingDate id="EFC0E9ACFFDFFFCEFC7DF841827FF85E" box="[899,1038,1932,1975]" pageId="4" pageNumber="153" value="2020-05">May 20</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDFFFCEFBD6F84182C4F85E" box="[1064,1205,1932,1975]" pageId="4" pageNumber="153">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B523CD9FFDFFFCEFB30F84180E0F85E" ID-GBIF-Occurrence="3914035306" box="[1230,1681,1932,1975]" collectedFrom="swept from low grasses" collectingDate="1936-05-25" collectorName="R. L. Usinger" country="Guam" location="Agana" pageId="4" pageNumber="153">
+<location id="8EE5605FFFDFFFCEFB30F8418332F85E" LSID="urn:lsid:plazi:treatment:03938792FFDFFFCEFEDDF99680E7F85E:8EE5605FFFDFFFCEFB30F8418332F85E" box="[1230,1347,1932,1975]" name="Agana" pageId="4" pageNumber="153">Agana</location>
+, 
+<date id="FF841044FFDFFFCEFAA3F8418396F85E" box="[1373,1511,1932,1975]" pageId="4" pageNumber="153" value="1925-05">
+<collectingDate id="EFC0E9ACFFDFFFCEFAA3F8418396F85E" box="[1373,1511,1932,1975]" pageId="4" pageNumber="153" value="1925-05">May 25</collectingDate>
+</date>
+, 
+<collectorName id="26CF5352FFDFFFCEF9FEF84180E0F85E" box="[1536,1681,1932,1975]" pageId="4" pageNumber="153">Usinger</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,138 @@
+<document id="3D69AAF1B978EB8F06F371C881B15659" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5053F644BD2ECA1FDF1C642" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Geotomus flavo-marginata Vollenhoven" docType="treatment" docVersion="24" lastPageNumber="20" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="20" updateTime="1671507890132" updateUser="annettekang">
+<mods:mods id="1559181C5298989974036CA411E8DE76" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="4F588DB1328F98DFDE112E4FA6674542">
+<mods:title id="4F90C661F41B5F01336343221A1A48C1">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="AF27D4449B3270D797660177E409361A" type="personal">
+<mods:role id="202AC13D96C4B83E40DD5E7023A49404">
+<mods:roleTerm id="1F4D72711E94CF074D028846B301DC50">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="6B5266026CE590E1DB9CD6F1C7D43215">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="943BCF8CD7EE0D4886502545343E8512">text</mods:typeOfResource>
+<mods:relatedItem id="56BCED189B3A6AB58BAD0DDEA8C63E35" type="host">
+<mods:originInfo id="E26E2B89356F6BB0D4AFD87870FE647F">
+<mods:dateIssued id="9BCBD6B09B350D7351C91D8704BC2495">1946</mods:dateIssued>
+<mods:dateOther id="64F09E93241F27420AAB472D6FE6C8C6" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="FAA5308C02D008ABA2491FEB03317A53">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="7D3880484DD4D44CFEE8909CF85B983D">
+<mods:placeTerm id="CF1F21E01AD6BBDA3C3488A2B4B60AEA">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="0D6E437DF225517C0B9ECC581D1CBF66">
+<mods:title id="089A6A45ECC1D9BD2D7E0F1DFE8E6011">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="4E171397235EE8A7BBCB4F9FE72573F3">
+<mods:extent id="05BEC0B8B10D9BCE955DE637EB12491A" unit="page">
+<mods:start id="A01EC0827080724956FE1672B9D271B1">11</mods:start>
+<mods:end id="15133FBDC71A1AFFF5D03E1E17D826B5">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="3C49C62D453E90B13CC8ED84494A9672">book chapter</mods:classification>
+<mods:identifier id="9B8D4B839F8B82A3253D4D8D3A9D0037" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="E10D7CA9890157E740D33A073C2881E3" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="21EB9F30422F128B313E5F58F5F3A745" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5053F644BD2ECA1FDF1C642" ID-DOI="http://doi.org/10.5281/zenodo.5245267" ID-GBIF-Taxon="184601230" ID-Zenodo-Dep="5245267" LSID="urn:lsid:plazi:treatment:EC6DA359F5053F644BD2ECA1FDF1C642" httpUri="http://treatment.plazi.org/id/EC6DA359F5053F644BD2ECA1FDF1C642" lastPageNumber="20" pageId="9" pageNumber="20">
+<subSubSection id="2CDE41C4F5053F644BD2ECA1FB55C29B" box="[434,1201,969,1011]" pageId="9" pageNumber="20" type="nomenclature">
+<paragraph id="647B124FF5053F644BD2ECA1FB55C29B" blockId="9.[434,1833,969,1834]" box="[434,1201,969,1011]" pageId="9" pageNumber="20">
+<heading id="3F33A523F5053F644BD2ECA1FB55C29B" box="[434,1201,969,1011]" centered="true" fontSize="11" level="2" pageId="9" pageNumber="20" reason="2">
+<emphasis id="56B0CE5DF5053F644BD2ECA1FDE3C29B" bold="true" box="[434,519,969,1011]" pageId="9" pageNumber="20">3.?</emphasis>
+<taxonomicName id="A3C469CCF5053F644867ECA1FB4FC29B" authority="Vollenhoven" box="[519,1195,969,1011]" class="Insecta" family="Cydnidae" genus="Geotomus" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="9" pageNumber="20" phylum="Arthropoda" rank="species" species="flavo-marginata">
+<emphasis id="56B0CE5DF5053F644867ECA1FC50C29B" bold="true" box="[519,948,969,1011]" pageId="9" pageNumber="20">Adrisa flavo-marginata</emphasis>
+<author id="BC79FAAAF5053F6449A3ECA1FB4FC29B" box="[963,1195,969,1011]" case="TC" fn="Versl" fnc="TC" fns="N" ln="Vollenhoven" lnc="TC" npo="LnFn" pageId="9" pageNumber="20">Vollenhoven</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5053F644EA2ECA1FD05C54F" pageId="9" pageNumber="20" type="reference_group">
+<paragraph id="647B124FF5053F644EA2ECA1FD05C54F" blockId="9.[434,1833,969,1834]" pageId="9" pageNumber="20">
+<treatmentCitationGroup id="44D43561F5053F644EA2ECA1FD05C54F" pageId="9" pageNumber="20">
+<treatmentCitation id="E565345EF5053F644EA2ECA1FD05C54F" author="Vollenhoven" page="14" pageId="9" pageNumber="20" year="1868">
+<bibCitation id="B1EE1A23F5053F644EA2ECA1FD05C54F" author="Versl" journalOrPublisher="Akad. Arnst., Natuurk. II" pageId="9" pageNumber="20" pagination="14" part="177" refId="ref3509" type="journal volume" year="1868">
+<author id="BC79FAAAF5053F644EA2ECA1FACCC29B" box="[1218,1320,969,1011]" fns="*" inm="true" npo="*" pageId="9" pageNumber="20">Versl</author>
+. 
+<journalOrPublisher id="BE051883F5053F644F5CECA1F8FAC29B" box="[1340,1822,969,1011]" jopScore="0.18413751" pageId="9" pageNumber="20">Akad. Arnst., Natuurk. II</journalOrPublisher>
+: 
+<part id="1060B8D2F5053F644B92EC94FDD4C54F" box="[498,560,1020,1063]" pageId="9" pageNumber="20" type="volume">177</part>
+, 
+<pagination id="5D0DECBBF5053F644828EC94FD94C54F" box="[584,624,1020,1063]" pageId="9" pageNumber="20" type="pageRange">14</pagination>
+, 
+<year id="106C531CF5053F6448E8EC94FD38C54F" box="[648,732,1020,1063]" pageId="9" pageNumber="20">1868</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5053F644B91EB58FDA4C5A9" pageId="9" pageNumber="20" type="materials_examined">
+<paragraph id="647B124FF5053F644B91EB58FDA4C5A9" blockId="9.[434,1833,969,1834]" pageId="9" pageNumber="20">
+<materialsCitation id="D4AC1812F5053F644B91EB58F9F3C532" ID-GBIF-Occurrence="3994028434" box="[497,1559,1072,1114]" collectedFrom="on the ground" collectingDate="1936-06-04" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="9" pageNumber="20" specimenCount="1">
+<collectorName id="C9317799F5053F644B91EB58FDDEC532" box="[497,570,1072,1114]" pageId="9" pageNumber="20">One</collectorName>
+<specimenCount id="72C2D9C6F5053F644829EB58FD0BC532" box="[585,751,1072,1114]" pageId="9" pageNumber="20" type="generic">specimen</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5053F644964EB58FC25C532" box="[772,961,1072,1114]" pageId="9" pageNumber="20">Machanao</collectingMunicipality>
+, 
+<date id="107A348FF5053F6449B4EB58FBA8C532" box="[980,1100,1072,1114]" pageId="9" pageNumber="20">
+<collectingDate id="003ECD67F5053F6449B4EB58FBA8C532" box="[980,1100,1072,1114]" pageId="9" pageNumber="20">June 4</collectingDate>
+</date>
+, on the ground, 
+<location id="611B4494F5053F644F1BEB58F9F3C532" LSID="urn:lsid:plazi:treatment:EC6DA359F5053F644BD2ECA1FDF1C642:611B4494F5053F644F1BEB58F9F3C532" box="[1403,1559,1072,1114]" municipality="Machanao" name="Usinger" pageId="9" pageNumber="20">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5053F644C4FEB58FC21C5E5" ID-GBIF-Occurrence="3994028446" collectingDate="1936-06-27" collectorName="R. L. Usinger" country="Guam" location="Mount Alifan" pageId="9" pageNumber="20" specimenCount="1">
+<specimenCount id="72C2D9C6F5053F644C4FEB58F8C5C532" box="[1583,1825,1072,1114]" pageId="9" pageNumber="20" type="generic">one specimen</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5053F644BD3EB0BFD97C5E5" box="[435,627,1123,1165]" pageId="9" pageNumber="20">Mt. Alifan</collectingMunicipality>
+, 
+<date id="107A348FF5053F6448E8EB0BFCF0C5E5" box="[648,788,1123,1165]" pageId="9" pageNumber="20" value="1927-06">
+<collectingDate id="003ECD67F5053F6448E8EB0BFCF0C5E5" box="[648,788,1123,1165]" pageId="9" pageNumber="20" value="1927-06">
+June 
+<emphasis id="56B0CE5DF5053F644889EB0BFCFFC5E5" box="[745,795,1123,1165]" italics="true" pageId="9" pageNumber="20">27,</emphasis>
+</collectingDate>
+</date>
+<location id="611B4494F5053F644949EB0BFC21C5E5" LSID="urn:lsid:plazi:treatment:EC6DA359F5053F644BD2ECA1FDF1C642:611B4494F5053F644949EB0BFC21C5E5" box="[809,965,1123,1165]" municipality="Mt. Alifan" name="Usinger" pageId="9" pageNumber="20">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5053F6449BCEB0BFDDFC5A9" ID-GBIF-Occurrence="3994028494" collectedFrom="under chips" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="9" pageNumber="20" specimenCount="1">
+<specimenCount id="72C2D9C6F5053F6449BCEB0BFB2AC5E5" box="[988,1230,1123,1165]" pageId="9" pageNumber="20" type="generic">one specimen</specimenCount>
+, 
+<location id="611B4494F5053F644E83EB0BFA79C5E5" LSID="urn:lsid:plazi:treatment:EC6DA359F5053F644BD2ECA1FDF1C642:611B4494F5053F644E83EB0BFA79C5E5" box="[1251,1437,1123,1165]" name="Barrigada" pageId="9" pageNumber="20">Barrigada</location>
+, 
+<date id="107A348FF5053F644FD0EB0BF9D2C5E5" box="[1456,1590,1123,1165]" pageId="9" pageNumber="20" value="1922-07">
+<collectingDate id="003ECD67F5053F644FD0EB0BF9D2C5E5" box="[1456,1590,1123,1165]" pageId="9" pageNumber="20" value="1922-07">July 22</collectingDate>
+</date>
+, under chips, 
+<collectorName id="C9317799F5053F644BD3EBFEFDDFC5A9" box="[435,571,1174,1217]" pageId="9" pageNumber="20">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5053F644B91EBA1FDF1C642" pageId="9" pageNumber="20" type="discussion">
+<paragraph id="647B124FF5053F644B91EBA1FBDAC4A9" blockId="9.[434,1833,969,1834]" pageId="9" pageNumber="20">
+These specimens were collected in a dead and dried condition with all appendages except a middle and a hind femur and rostrum of 
+<specimenCount id="72C2D9C6F5053F644C5BEB97F8CDC441" box="[1595,1833,1279,1321]" pageId="9" pageNumber="20" type="generic">one specimen</specimenCount>
+broken off. Hence the identification of these as a New Caledonian species is questionable. Even the generic assignment is doubtful because the number of antenna! segments is not known.
+</paragraph>
+<paragraph id="647B124FF5053F644B91EAA4FDF1C642" blockId="9.[434,1833,969,1834]" pageId="9" pageNumber="20">
+The specimens agree fairly well with Signoret's description and figure (Soc. ent. 
+<collectingCountry id="1CD352DFF5053F644816EA97FD12C742" box="[630,758,1535,1578]" name="France" pageId="9" pageNumber="20">France</collectingCountry>
+, Ann. VI, 
+<emphasis id="56B0CE5DF5053F6449A5EA97FC37C742" bold="true" box="[965,979,1535,1578]" pageId="9" pageNumber="20">1:</emphasis>
+212, pl. 8, fig. 33, 1881) but the pronotum is almost entirely black and the ocelli are practically invisible. Only in 
+<specimenCount id="72C2D9C6F5053F644C8BE95CFDB3C7F9" pageId="9" pageNumber="20" type="generic">one specimen</specimenCount>
+is there even a trace of ocelli. This condition is at once suggestive of the 
+<collectingCountry id="1CD352DFF5053F64485FE9F2FCD7C7AC" box="[575,819,1690,1732]" name="New Zealand" pageId="9" pageNumber="20">New Zealand</collectingCountry>
+<taxonomicName id="A3C469CCF5053F64492DE9F2FA1EC7AC" authorityName="White" authorityYear="1841" box="[845,1530,1690,1732]" class="Insecta" family="Cydnidae" genus="Choerocydnus" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="9" pageNumber="20" phylum="Arthropoda" rank="genus">
+<emphasis id="56B0CE5DF5053F64492DE9F2FAD1C7AC" box="[845,1333,1690,1732]" italics="true" pageId="9" pageNumber="20">Choerocydnus albosignatus</emphasis>
+Buchanan
+</taxonomicName>
+White, but the 
+<collectingCountry id="1CD352DFF5053F644BD4E9A6FDF9C790" box="[436,541,1742,1784]" name="Guam" pageId="9" pageNumber="20">Guam</collectingCountry>
+specimens differ from this in color, puncturation, and form of ostiolar canal.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

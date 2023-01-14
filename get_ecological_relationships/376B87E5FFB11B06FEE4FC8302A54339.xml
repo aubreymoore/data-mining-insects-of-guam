@@ -1,0 +1,176 @@
+<document id="33C9936A8D970DE4AAAFD708C16B4EAC" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB11B06FEE4FC8302A54339" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Gonocephalum seriatum ." docType="treatment" docVersion="18" lastPageNumber="165" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="165" updateTime="1671377585779" updateUser="annettekang">
+<mods:mods id="4458AE79F2CF27BB1F3684C5D485C381" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="167F1D9D5F3ACA16494EAB623E0D6E41">
+<mods:title id="8C5B7E9161ECC5959A34C248EBEA5023">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="B878315D3D01AFC4C3B5A244C11DB8F5" type="personal">
+<mods:role id="C93A4A4807DAF7480CAB541B7F7F60CA">
+<mods:roleTerm id="3909D79A02ABA53697DDF9EDB71C5B5D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3004637517F84F75363FC53B90FA9B84">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="FE76A72BAD01AF21BBC98CA47352607D">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="995BDADE4E46E545B47C1DC46DA1B1D6">text</mods:typeOfResource>
+<mods:relatedItem id="0CADE95C79A1B76EC544D8BA130C023D" type="host">
+<mods:originInfo id="E9411570C395F4E8FAC47C40EA012C8E">
+<mods:dateIssued id="CE6F4B1FD9D7C4AAC64B4A63E01441D0">1942</mods:dateIssued>
+<mods:dateOther id="51D26C98713BD33F6F6DD74041700A08" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="B1D667BF017137304F15E4588B75AD13">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="F1E0C6A24D5169C13EF8A454124AB3E5">
+<mods:placeTerm id="3946BA361A9CE10546C2A45BD97D75E1">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="906E5437286CAF92B673614D2FFE1133">
+<mods:title id="61B9C20A67C20D688BAD408298084051">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="7619DFEAB5E2D4C935FE3CDC43D3BA11">
+<mods:extent id="7F7A68CFDC71CD178C601A5EF80A4CF8" unit="page">
+<mods:start id="A55A5CD8678C14F50C725B7E757A91BE">150</mods:start>
+<mods:end id="F238F527F63D1C474A3284F5A362E410">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F2B3A162061365C8CD2E75C094604C23">book chapter</mods:classification>
+<mods:identifier id="5187186BDEB3B7507681BA8D27EB269C" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="BDBF7AF02EBB7704F105CCD67AC3A3CF" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="F2C1E3DB1F41B30E9B971F4F90DAAA7C" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB11B06FEE4FC8302A54339" ID-DOI="http://doi.org/10.5281/zenodo.5182951" ID-GBIF-Taxon="184415355" ID-Zenodo-Dep="5182951" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEE4FC8302A54339" httpUri="http://treatment.plazi.org/id/376B87E5FFB11B06FEE4FC8302A54339" lastPageNumber="165" pageId="15" pageNumber="165">
+<subSubSection id="F7D86578FFB11B06FEE4FC83032B4568" box="[318,1069,822,862]" pageId="15" pageNumber="165" type="nomenclature">
+<paragraph id="BF7D36F3FFB11B06FEE4FC83032B4568" blockId="15.[312,1708,822,1295]" box="[318,1069,822,862]" pageId="15" pageNumber="165">
+<heading id="E435819FFFB11B06FEE4FC83032B4568" box="[318,1069,822,862]" fontSize="8" level="2" pageId="15" pageNumber="165" reason="4">
+1. 
+<taxonomicName id="78C24D70FFB11B06FEA1FC83032B4568" authority="(Boisduval)." authorityName="." baseAuthorityName="Boisduval" baseAuthorityYear="1835" box="[379,1069,822,862]" class="Insecta" family="Tenebrionidae" genus="Gonocephalum" kingdom="Animalia" order="Coleoptera" pageId="15" pageNumber="165" phylum="Arthropoda" rank="species" species="seriatum">
+<emphasis id="8DB6EAE1FFB11B06FEA1FC8304334568" bold="true" box="[379,821,822,862]" pageId="15" pageNumber="165">Gonocephalum seriatum</emphasis>
+(Boisduval).
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB11B06FEA6FCDE039345C9" pageId="15" pageNumber="165" type="reference_group">
+<paragraph id="BF7D36F3FFB11B06FEA6FCDE02A745A3" blockId="15.[312,1708,822,1295]" box="[380,1441,875,917]" pageId="15" pageNumber="165">
+<treatmentCitationGroup id="9FD211DDFFB11B06FEA6FCDE02A745A3" box="[380,1441,875,917]" pageId="15" pageNumber="165">
+<bibCitation id="6AE83E9FFFB11B06FEA6FCDE02A745A3" author="Boisduval" box="[380,1441,875,917]" journalOrPublisher="Voy. Astrolabe" pageId="15" pageNumber="165" pagination="252" part="2" refId="ref7850" type="journal article" year="1835">
+<treatmentCitation id="3E6310E2FFB11B06FEA6FCDE029A45A3" author="Boisduval" box="[380,1436,875,917]" page="252" pageId="15" pageNumber="165" year="1835">
+<emphasis id="8DB6EAE1FFB11B06FEA6FCDE05C445A3" box="[380,706,875,917]" italics="true" pageId="15" pageNumber="165">Opatruin seriatuin</emphasis>
+<author id="677FDE16FFB11B06FD0EFCDE048245A3" box="[724,900,875,917]" pageId="15" pageNumber="165">Boisduval</author>
+, 
+<journalOrPublisher id="65033C3FFFB11B06FC47FCDE03AA45A3" box="[925,1196,875,917]" pageId="15" pageNumber="165">Voy. Astrolabe</journalOrPublisher>
+<emphasis id="8DB6EAE1FFB11B06FB67FCDE03C945A3" bold="true" box="[1213,1231,875,917]" pageId="15" pageNumber="165">
+<part id="CB669C6EFFB11B06FB67FCDE03CD45A3" box="[1213,1227,875,917]" pageId="15" pageNumber="165" type="volume">2</part>
+:
+</emphasis>
+<pagination id="860BC807FFB11B06FB34FCDE022945A3" box="[1262,1327,875,917]" pageId="15" pageNumber="165" type="pageRange">252</pagination>
+, 
+<year id="CB6A77A0FFB11B06FA90FCDE029A45A3" box="[1354,1436,875,917]" pageId="15" pageNumber="165">1835</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFB11B06FEA1FC17039345C9" blockId="15.[312,1708,822,1295]" pageId="15" pageNumber="165">
+<bibCitation id="6AE83E9FFFB11B06FEA1FC17039345C9" author="Gebien" journalOrPublisher="Nov. Guinea" pageId="15" pageNumber="165" pagination="234" part="13" refId="ref7863" title="Coleopt. Catalog." type="journal article" year="1920">
+<treatmentCitationGroup id="9FD211DDFFB11B06FEA1FC17039645C9" pageId="15" pageNumber="165">
+<treatmentCitation id="3E6310E2FFB11B06FEA1FC17050B45C9" author="Gebien" page="234" pageId="15" pageNumber="165" year="1920">
+<emphasis id="8DB6EAE1FFB11B06FEA1FC17042945FA" box="[379,815,930,972]" italics="true" pageId="15" pageNumber="165">Gonocephalum seriatu11i</emphasis>
+(Boisduval) 
+<author id="677FDE16FFB11B06FB9BFC1703BA45FA" box="[1089,1212,930,972]" pageId="15" pageNumber="165">Gebien</author>
+, 
+<journalOrPublisher id="65033C3FFFB11B06FB05FC1702CC45FA" box="[1247,1482,930,972]" pageId="15" pageNumber="165">
+Nov. 
+<collectingCountry id="C7D57663FFB11B06FA95FC1702CC45FA" box="[1359,1482,930,972]" name="Guinea-Bissau" pageId="15" pageNumber="165">Guinea</collectingCountry>
+</journalOrPublisher>
+<part id="CB669C6EFFB11B06FA3CFC17011645FA" box="[1510,1552,930,972]" pageId="15" pageNumber="165" type="volume">13</part>
+(
+<part id="CB669C6EFFB11B06F9C7FC17013745FA" box="[1565,1585,930,972]" pageId="15" pageNumber="165" type="issue">3</part>
+): 
+<pagination id="860BC807FFB11B06F9BDFC1701A045FA" box="[1639,1702,930,972]" pageId="15" pageNumber="165" type="pageRange">234</pagination>
+, 
+<year id="CB6A77A0FFB11B06FE61FC60050B45C9" box="[443,525,981,1023]" pageId="15" pageNumber="165">1920</year>
+</treatmentCitation>
+. 
+<treatmentCitation id="3E6310E2FFB11B06FDEAFC60039645C9" author="Gebien" box="[560,1168,981,1023]" page="326" pageId="15" pageNumber="165" year="1910">
+<title id="CDC6DDC5FFB11B06FDEAFC60045D45C9" box="[560,859,981,1023]" pageId="15" pageNumber="165">Coleopt. Catalog.</title>
+(
+<part id="CB669C6EFFB11B06FC5AFC6004B745C9" box="[896,945,981,1023]" pageId="15" pageNumber="165" type="issue">22</part>
+): 
+<pagination id="860BC807FFB11B06FC32FC60032545C9" box="[1000,1059,981,1023]" pageId="15" pageNumber="165" type="pageRange">326</pagination>
+, 
+<year id="CB6A77A0FFB11B06FBE4FC60039645C9" box="[1086,1168,981,1023]" pageId="15" pageNumber="165">1910</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB11B06FEA3FBA704974294" pageId="15" pageNumber="165" type="materials_examined">
+<paragraph id="BF7D36F3FFB11B06FEA3FBA704974294" blockId="15.[312,1708,822,1295]" pageId="15" pageNumber="165">
+<materialsCitation id="0FAA3CAEFFB11B06FEA3FBA70465420D" ID-GBIF-Occurrence="3334692316" box="[377,867,1042,1083]" collectingDate="1936-05-14" collectorName="R. L. Usinger" country="Guam" location="Umatac" pageId="15" pageNumber="165">
+<location id="BA1D6028FFB11B06FEA3FBA70503420D" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEE4FC8302A54339:BA1D6028FFB11B06FEA3FBA70503420D" box="[377,517,1042,1083]" name="Umatac" pageId="15" pageNumber="165">Umatac</location>
+, 
+<date id="CB7C1033FFB11B06FDC5FBA705AA420D" box="[543,684,1042,1083]" pageId="15" pageNumber="165" value="2014-05">
+<collectingDate id="DB38E9DBFFB11B06FDC5FBA705AA420D" box="[543,684,1042,1083]" pageId="15" pageNumber="165" value="2014-05">May 14</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB11B06FD1FFBA7045A420D" box="[709,860,1042,1083]" pageId="15" pageNumber="165">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FCA2FBA7014B420D" ID-GBIF-Occurrence="3334692572" box="[888,1613,1042,1083]" collectedFrom="under cow dung" collectingDate="1936-05-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<location id="BA1D6028FFB11B06FCA2FBA704BF420D" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEE4FC8302A54339:BA1D6028FFB11B06FCA2FBA704BF420D" box="[888,953,1042,1083]" name="Piti" pageId="15" pageNumber="165">Piti</location>
+, 
+<date id="CB7C1033FFB11B06FC0FFBA70367420D" box="[981,1121,1042,1083]" pageId="15" pageNumber="165" value="1930-05">
+<collectingDate id="DB38E9DBFFB11B06FC0FFBA70367420D" box="[981,1121,1042,1083]" pageId="15" pageNumber="165" value="1930-05">May 30</collectingDate>
+</date>
+, under cow dung, 
+<collectorName id="12375325FFB11B06FA60FBA70140420D" box="[1466,1606,1042,1083]" pageId="15" pageNumber="165">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06F9B8FBA704774259" ID-GBIF-Occurrence="3334692394" collectedFrom="under stones" collectingDate="1936-08-03" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<location id="BA1D6028FFB11B06F9B8FBA701A2420D" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEE4FC8302A54339:BA1D6028FFB11B06F9B8FBA701A2420D" box="[1634,1700,1042,1083]" name="Piti" pageId="15" pageNumber="165">Piti</location>
+, 
+<date id="CB7C1033FFB11B06FEE0FBF006BC4259" box="[314,442,1093,1135]" pageId="15" pageNumber="165">
+<collectingDate id="DB38E9DBFFB11B06FEE0FBF006BC4259" box="[314,442,1093,1135]" pageId="15" pageNumber="165">Aug. 3</collectingDate>
+</date>
+, under stones, 
+<collectorName id="12375325FFB11B06FD04FBF0046C4259" box="[734,874,1093,1135]" pageId="15" pageNumber="165">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FC53FBF001234259" ID-GBIF-Occurrence="3334692346" box="[905,1573,1093,1135]" collectedFrom="under stone" collectingDate="1936-09-17" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<location id="BA1D6028FFB11B06FC53FBF004CF4259" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEE4FC8302A54339:BA1D6028FFB11B06FC53FBF004CF4259" box="[905,969,1093,1135]" name="Piti" pageId="15" pageNumber="165">Piti</location>
+, 
+<date id="CB7C1033FFB11B06FC33FBF003864259" box="[1001,1152,1093,1135]" pageId="15" pageNumber="165" value="2017-09">
+<collectingDate id="DB38E9DBFFB11B06FC33FBF003864259" box="[1001,1152,1093,1135]" pageId="15" pageNumber="165" value="2017-09">Sept. 17</collectingDate>
+</date>
+, under stone, 
+<collectorName id="12375325FFB11B06FA48FBF001184259" box="[1426,1566,1093,1135]" pageId="15" pageNumber="165">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06F9E6FBF005584294" ID-GBIF-Occurrence="3994027321" collectingDate="1936-07-19" collectorName="O. H. Swezey" country="Guam" location="Orote" pageId="15" pageNumber="165">
+<location id="BA1D6028FFB11B06F9E6FBF001A24259" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEE4FC8302A54339:BA1D6028FFB11B06F9E6FBF001A24259" box="[1596,1700,1093,1135]" name="Orote" pageId="15" pageNumber="165">Orote</location>
+, 
+<date id="CB7C1033FFB11B06FEE2FBC206BD4294" box="[312,443,1143,1186]" pageId="15" pageNumber="165" value="2019-07">
+<collectingDate id="DB38E9DBFFB11B06FEE2FBC206BD4294" box="[312,443,1143,1186]" pageId="15" pageNumber="165" value="2019-07">July 19</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB11B06FE09FBC2055F4294" box="[467,601,1143,1186]" pageId="15" pageNumber="165">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FDA0FBC204974294" ID-GBIF-Occurrence="3994027513" box="[634,913,1143,1186]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="15" pageNumber="165">
+<collectorName id="12375325FFB11B06FDA0FBC204264294" box="[634,800,1143,1186]" pageId="15" pageNumber="165">Fullaway</collectorName>
+, 1911.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB11B06FEADFB0702A54339" pageId="15" pageNumber="165" type="distribution">
+<paragraph id="BF7D36F3FFB11B06FEADFB0702A54339" blockId="15.[312,1708,822,1295]" pageId="15" pageNumber="165">
+This widely distributed species, common in Hawaii and 
+<collectingCountry id="C7D57663FFB11B06FA4CFB07010442EB" box="[1430,1538,1202,1245]" name="Guam" pageId="15" pageNumber="165">Guam</collectingCountry>
+, was described from 
+<collectingCountry id="C7D57663FFB11B06FDF4FB5204514339" box="[558,855,1255,1295]" name="Marshall Islands" pageId="15" pageNumber="165">Marshall Islands</collectingCountry>
+and occurs also in New 
+<collectingCountry id="C7D57663FFB11B06FAC5FB5202984339" box="[1311,1438,1255,1295]" name="Guinea-Bissau" pageId="15" pageNumber="165">Guinea</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

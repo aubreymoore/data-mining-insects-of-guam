@@ -1,0 +1,86 @@
+<document id="1C542B52AC628B6697BD1B5978642AD2" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91BFFFAFE43F722F8F51726" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Asterolecanium bambusae Boisduval, Insectologie Agricole 1869" docType="treatment" docVersion="16" lastPageNumber="158" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="158" updateTime="1661283434230" updateUser="ExternalLinkService">
+<mods:mods id="6EA83685CA5E70D25C79F642B19FFD0B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="0A936C6AB76934CBA13F4C97F933A1A4">
+<mods:title id="779B381356D3A49AD272874E90325008">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="B641A5876B61215B000F9F02CF33199A" type="personal">
+<mods:role id="7E4779DFF5263C0F4DB673E4D074ADF1">
+<mods:roleTerm id="B2880E4FBD63BC8758DB9293C3CDA1B3">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E730399DD05F6CA016818998721D767F">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="CA98A5FEEA6FFD7B9167E983CEFA22D2">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="5C240B698ABFA0B080A487F6B8CC20E9">text</mods:typeOfResource>
+<mods:relatedItem id="1FCAE8DA73737B97E5F9A41B30A61BFC" type="host">
+<mods:originInfo id="E83A810ADC3BEF34C26E194364722B5F">
+<mods:dateIssued id="64BF1194817ACB6476F9E2B5DF5E2B59">1946</mods:dateIssued>
+<mods:dateOther id="5B4F75A2078BE8479644D1F115892BCF" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="5A74A782DEDD4D15C3CC7EDE495C1CFD">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="B9EEDEC1F2CFFFD0BBF727B27A2ADAF0">
+<mods:placeTerm id="F4455AC3F29BD588C7DB6C93A4DF7871">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="BEAE43D6F0C41F21AEC6912920F0328D">
+<mods:title id="C7E76F486AB3DACAAED334B04CD6C601">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="B2083D09879326A025133F470EB1F817">
+<mods:extent id="AE5637BF829A0D2255151979E6ED04D2" unit="page">
+<mods:start id="1D9E9A7AC23168742ED5214A740B4C76">157</mods:start>
+<mods:end id="BAB3615E12CB859E0960B6494FD90AB5">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="1FF514E3D94F653407B5245E1FC31A25">book chapter</mods:classification>
+<mods:identifier id="EC1E119CD65FF32544A92B688B09C6C2" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="65A6A89740E75398F1E2DFE08AFD7A8F" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="3F7D16C393C06F0C4D27270432A39FB8" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91BFFFAFE43F722F8F51726" ID-DOI="http://doi.org/10.5281/zenodo.5211567" ID-GBIF-Taxon="183925201" ID-Zenodo-Dep="5211567" LSID="urn:lsid:plazi:treatment:F03E87AAF91BFFFAFE43F722F8F51726" httpUri="http://treatment.plazi.org/id/F03E87AAF91BFFFAFE43F722F8F51726" lastPageNumber="158" pageId="1" pageNumber="158">
+<subSubSection id="308D6537F91BFFFAFE43F722FB7816DA" box="[449,1212,2236,2276]" pageId="1" pageNumber="158" type="nomenclature">
+<paragraph id="782836BCF91BFFFAFE43F722FB7816DA" blockId="1.[449,1841,2236,2328]" box="[449,1212,2236,2276]" pageId="1" pageNumber="158">
+<emphasis id="4AE3EAAEF91BFFFAFE43F722FE3416DA" bold="true" box="[449,496,2236,2276]" pageId="1" pageNumber="158">19.</emphasis>
+<taxonomicName id="BF974D3FF91BFFFAFD90F722FB7116DA" authority="Boisduval, Insectologie Agricole, 1869" authorityName="Boisduval, Insectologie Agricole" authorityYear="1869" box="[530,1205,2236,2276]" class="Insecta" family="Coccidae" genus="Asterolecanium" kingdom="Animalia" order="Hemiptera" pageId="1" pageNumber="158" phylum="Arthropoda" rank="species" species="bambusae">
+<emphasis id="4AE3EAAEF91BFFFAFD90F722FC2916DA" bold="true" box="[530,1005,2236,2276]" pageId="1" pageNumber="158">Asterolecanium bambusae</emphasis>
+<author id="A02ADE59F91BFFFAFC7CF722FB7116DA" box="[1022,1205,2236,2276]" pageId="1" pageNumber="158">Boisduval</author>
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91BFFFAFB4CF722F90216DA" box="[1230,1734,2236,2276]" pageId="1" pageNumber="158" type="reference_group">
+<paragraph id="782836BCF91BFFFAFB4CF722F90216DA" blockId="1.[449,1841,2236,2328]" box="[1230,1734,2236,2276]" pageId="1" pageNumber="158">
+<bibCitation id="ADBD3ED0F91BFFFAFB4CF722F90216DA" author="Boisduval" box="[1230,1734,2236,2276]" pageId="1" pageNumber="158" title="Insectologie Agricole" type="book" year="1869">
+<treatmentCitationGroup id="58871192F91BFFFAFB4CF722F90516DA" box="[1230,1729,2236,2276]" pageId="1" pageNumber="158">
+<treatmentCitation id="F93610ADF91BFFFAFB4CF722F90516DA" author="Boisduval" box="[1230,1729,2236,2276]" pageId="1" pageNumber="158" year="1869">
+<title id="0A93DD8AF91BFFFAFB4CF722F99116DA" box="[1230,1621,2236,2276]" pageId="1" pageNumber="158">Insectologie Agricole</title>
+, 
+<year id="0C3F77EFF91BFFFAF9EDF722F90516DA" box="[1647,1729,2236,2276]" pageId="1" pageNumber="158">1869</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91BFFFAFE7FF770F8F51726" box="[509,1841,2286,2328]" pageId="1" pageNumber="158" type="reference_group">
+<paragraph id="782836BCF91BFFFAFE7FF770F8F51726" blockId="1.[449,1841,2236,2328]" box="[509,1841,2286,2328]" pageId="1" pageNumber="158">
+<materialsCitation id="C8FF3CE1F91BFFFAFE7FF770FBF81726" ID-GBIF-Occurrence="3891552319" box="[509,1084,2286,2328]" collectedFrom="on bamboo" collectingDate="1911-1939" collectorName="D. T. Fullaway and R. G. Oakley" country="Guam" location="Guam" pageId="1" pageNumber="158">
+<collectingMunicipality id="984CACC6F91BFFFAFE7FF770FDF71726" box="[509,563,2286,2328]" pageId="1" pageNumber="158">On</collectingMunicipality>
+bamboo, 
+<collectorName id="D562536AF91BFFFAFD6AF770FC501726" box="[744,916,2286,2328]" pageId="1" pageNumber="158">Fullaway</collectorName>
+, 
+<collectorName id="D562536AF91BFFFAFC2BF770FBF11726" box="[937,1077,2286,2328]" pageId="1" pageNumber="158">Oakley</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="C8FF3CE1F91BFFFAFBCEF770F8F51726" ID-GBIF-Occurrence="3891552313" box="[1100,1841,2286,2328]" collectedFrom="on bamboo stems" collectingDate="1936-04-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="1" pageNumber="158">
+<collectingMunicipality id="984CACC6F91BFFFAFBCEF770FB541726" box="[1100,1168,2286,2328]" pageId="1" pageNumber="158">Piti</collectingMunicipality>
+, 
+<date id="0C29107CF91BFFFAFB26F770FAF91726" box="[1188,1341,2286,2328]" pageId="1" pageNumber="158" value="1930-04">
+<collectingDate id="1C6DE994F91BFFFAFB26F770FAF91726" box="[1188,1341,2286,2328]" pageId="1" pageNumber="158" value="1930-04">April 30</collectingDate>
+</date>
+, on bamboo stems, 
+<collectorName id="D562536AF91BFFFAF921F770F8E81726" box="[1699,1836,2286,2328]" pageId="1" pageNumber="158">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

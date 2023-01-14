@@ -1,0 +1,97 @@
+<document id="1AE207F89F7CE65EB84536E1178513F2" ID-DOI="http://doi.org/10.5281/zenodo.3634035" ID-GBIF-Dataset="9c8d5683-76c1-4938-aede-b7ad5391b6b2" ID-Zenodo-Dep="3634035" checkinTime="1580668122796" checkinUser="plazi" docAuthor="Moulton, Dudley" docDate="1942" docId="03E60234FFF6FFC2751E519EDA40076D" docLanguage="en" docName="InsectsOfGuam.172.7-16.pdf.imf" docOrigin="Insects of Guam I, Bernice P. Bishop Museum Bulletin" docSource="http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Karnyothrips melaleuca Hood, Pan-Pacific Ent." docType="treatment" docVersion="13" lastPageNumber="12" masterDocId="FFDF7A4CFFF3FFC777195003DD64051A" masterDocTitle="Thysanoptera: Thrips of Guam" masterLastPageNumber="16" masterPageNumber="7" pageNumber="12" updateTime="1658765590881" updateUser="annettekang">
+<mods:mods id="905E571E337CBF31133622B662E321A7" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="6F32441FE6504A0F1C69F26E703143AE">
+<mods:title id="562BA186B54B3232E08F7343AF934587">Thysanoptera: Thrips of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="D42B65253011C195DFA16A3687B5F9AC" type="personal">
+<mods:role id="7A780EA7EAA91C7D780D42B9D125B62D">
+<mods:roleTerm id="A9AB188C030C78D8451ABD2B6C39E283">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="5E9CA4A2FD40D8BC5373AB651B4E0FFE">Moulton, Dudley</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="BA160107D043B58C985CB98096282073">text</mods:typeOfResource>
+<mods:relatedItem id="DB4357453D547783890AF989BEB11101" type="host">
+<mods:originInfo id="EA14D32C72668B9E091268DFFA801915">
+<mods:dateIssued id="DC13D35A87B9683827F5EE56F7C6F018">1942</mods:dateIssued>
+<mods:dateOther id="936341ACA001D6CC4F2D606E8F993659" type="pubDate">1942-12-31</mods:dateOther>
+<mods:publisher id="74E70600517B67A09359FB320ABA301E">Bernice P. Bishop Museum Bulletin</mods:publisher>
+</mods:originInfo>
+<mods:titleInfo id="77BEA20785E20A66D4534D8EC9543BFE">
+<mods:title id="FDA269062E376508395B0E35313FAFE3">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="78D472CFFEAAA8295FA77860D1D0125A">
+<mods:extent id="01925D4DE6334F1A42F1C8F9DF50F80D" unit="page">
+<mods:start id="82592C691C9D6F4780E6351283832793">7</mods:start>
+<mods:end id="0F651C29711AF95619853AA203EF07E7">16</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:location id="5327054DFA9A948B37D27CEF69CEC83B">
+<mods:url id="B6B708C76A7B8B24DF6F762F2ACC2202">http://hbs.bishopmuseum.org/pubs-online/pdf/b172p7-16.pdf</mods:url>
+</mods:location>
+<mods:classification id="127192D6095494AB94F9282E4D061048">book chapter</mods:classification>
+<mods:identifier id="40346A9FD4EF299938429E11A3EB59CC" type="DOI">http://doi.org/10.5281/zenodo.3634035</mods:identifier>
+<mods:identifier id="DE116F8E4DB171AF50C781890EEF5575" type="GBIF-Dataset">9c8d5683-76c1-4938-aede-b7ad5391b6b2</mods:identifier>
+<mods:identifier id="ED47D9DC40FFCCD8FDED3E011638E2FE" type="Zenodo-Dep">3634035</mods:identifier>
+</mods:mods>
+<treatment id="03E60234FFF6FFC2751E519EDA40076D" ID-DOI="http://doi.org/10.5281/zenodo.5157437" ID-GBIF-Taxon="161938946" ID-Zenodo-Dep="5157437" LSID="urn:lsid:plazi:treatment:03E60234FFF6FFC2751E519EDA40076D" httpUri="http://treatment.plazi.org/id/03E60234FFF6FFC2751E519EDA40076D" lastPageNumber="12" pageId="5" pageNumber="12">
+<subSubSection id="C355E0A9FFF6FFC2751E519ED9AC04D8" box="[519,1224,413,450]" pageId="5" pageNumber="12" type="nomenclature">
+<paragraph id="8BF0B322FFF6FFC2751E519ED9AC04D8" blockId="5.[519,1917,411,632]" box="[519,1224,413,450]" pageId="5" pageNumber="12">
+<emphasis id="B93B6F30FFF6FFC2751E519EDF5E04DB" bold="true" box="[519,570,413,449]" pageId="5" pageNumber="12">13.</emphasis>
+<taxonomicName id="4C4FC8A1FFF6FFC27541519ED9A704D8" authority="(Bagnall)" authorityName="Hood, Pan-Pacific Ent." baseAuthorityName="Bagnall" baseAuthorityYear="1911" box="[600,1219,413,450]" class="Insecta" family="Phlaeothripidae" genus="Karnyothrips" kingdom="Animalia" order="Thysanoptera" pageId="5" pageNumber="12" phylum="Arthropoda" rank="species" species="melaleuca">
+Karnyothrips 
+<emphasis id="B93B6F30FFF6FFC27445519ED96F04DB" bold="true" box="[860,1035,413,449]" pageId="5" pageNumber="12">melaleuca</emphasis>
+(Bagnall)
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C355E0A9FFF6FFC2755A51D9DA190721" pageId="5" pageNumber="12" type="reference_group">
+<treatmentCitationGroup id="AB5F940CFFF6FFC2755A51D9DA1C0721" pageId="5" pageNumber="12">
+<paragraph id="8BF0B322FFF6FFC2755A51D9DBF804E5" blockId="5.[519,1917,411,632]" box="[579,1692,474,511]" pageId="5" pageNumber="12">
+<treatmentCitation id="0AEE9533FFF6FFC2755A51D9DBF804E5" author="Bagnall" box="[579,1692,474,511]" page="61" pageId="5" pageNumber="12" year="1911">
+<taxonomicName id="4C4FC8A1FFF6FFC2755A51D9D92104E5" authority="Bagnall" authorityName="Bagnall" authorityYear="1911" box="[579,1093,474,511]" class="Insecta" family="Phlaeothripidae" genus="Karnyothrips" kingdom="Animalia" order="Thysanoptera" pageId="5" pageNumber="12" phylum="Arthropoda" rank="species" species="melaleuca">
+Hindsiana 
+<emphasis id="B93B6F30FFF6FFC2741E51D9DED204E5" box="[775,950,474,511]" italics="true" pageId="5" pageNumber="12">melaleuca</emphasis>
+<bibCitation id="5E65BB4EFFF6FFC274D851D8DBF304E5" box="[961,1687,474,511]" pageId="5" pageNumber="12">
+Bagnall, Ent. Mo. Mag. II, 
+<emphasis id="B93B6F30FFF6FFC272AC51D9D88F04E4" bold="true" box="[1461,1515,474,510]" pageId="5" pageNumber="12">21:</emphasis>
+61, 1911
+</bibCitation>
+</taxonomicName>
+.
+</treatmentCitation>
+</paragraph>
+<paragraph id="8BF0B322FFF6FFC2755A5215DA190721" blockId="5.[519,1917,411,632]" box="[579,1917,534,571]" pageId="5" pageNumber="12">
+<treatmentCitation id="0AEE9533FFF6FFC2755A5215DA1C0721" author="Hood" box="[579,1912,534,571]" page="176" pageId="5" pageNumber="12" year="1927">
+<taxonomicName id="4C4FC8A1FFF6FFC2755A5215D9F00721" authority="(Bagnall)" authorityName="Bagnall" baseAuthorityName="Bagnall" baseAuthorityYear="1911" box="[579,1172,534,571]" class="Insecta" family="Phlaeothripidae" genus="Karnyothrips" kingdom="Animalia" order="Thysanoptera" pageId="5" pageNumber="12" phylum="Arthropoda" rank="species" species="melaleuca">
+<emphasis id="B93B6F30FFF6FFC2755A5215DE8F0721" box="[579,1003,534,571]" italics="true" pageId="5" pageNumber="12">Karnyothrips melaleuca</emphasis>
+(Bagnall)
+</taxonomicName>
+<bibCitation id="5E65BB4EFFF6FFC273AA5214DA190721" box="[1203,1917,534,571]" pageId="5" pageNumber="12">
+Hood, Pan-Pacific Ent. 
+<emphasis id="B93B6F30FFF6FFC271425215DB190720" bold="true" box="[1627,1661,534,570]" pageId="5" pageNumber="12">3(</emphasis>
+4): 176, 1927.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</treatmentCitationGroup>
+</subSubSection>
+<subSubSection id="C355E0A9FFF6FFC2755D5250DA40076D" box="[580,1828,595,631]" pageId="5" pageNumber="12" type="materials_examined">
+<paragraph id="8BF0B322FFF6FFC2755D5250DA40076D" blockId="5.[519,1917,411,632]" box="[580,1828,595,631]" pageId="5" pageNumber="12">
+<materialsCitation id="3B27B97FFFF6FFC2755D5250DA40076D" ID-GBIF-Occurrence="3357451311" box="[580,1828,595,631]" collectedFrom="on young coffee berries" collectingDate="1936-05-12" collectorName="R. L. Usinger" country="Guam" location="Yona" pageId="5" pageNumber="12" specimenCount-female="1">
+<collectingMunicipality id="6B942958FFF6FFC2755D5250DFC5076D" box="[580,673,595,631]" pageId="5" pageNumber="12">Yona</collectingMunicipality>
+, 
+<date id="FFF195E2FFF6FFC275A65250DE2A076D" box="[703,846,595,631]" pageId="5" pageNumber="12" value="2012-05">
+<collectingDate id="EFB56C0AFFF6FFC275A65250DE2A076D" box="[703,846,595,631]" pageId="5" pageNumber="12" value="2012-05">May 12</collectingDate>
+</date>
+, on young coffee berries, 
+<specimenCount id="9D4978ABFFF6FFC2723E5250D88E076D" box="[1319,1514,595,631]" pageId="5" pageNumber="12" type="female">one female</specimenCount>
+, 
+<location id="8E90E5F9FFF6FFC2711C5250DBEC076D" LSID="urn:lsid:plazi:treatment:03E60234FFF6FFC2751E519EDA40076D:8E90E5F9FFF6FFC2711C5250DBEC076D" box="[1541,1672,595,631]" municipality="Yona" name="Usinger" pageId="5" pageNumber="12">Usinger</location>
+(5490).
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

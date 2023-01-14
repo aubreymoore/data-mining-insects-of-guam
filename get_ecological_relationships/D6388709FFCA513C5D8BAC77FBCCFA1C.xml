@@ -1,0 +1,116 @@
+<document id="6CA274B4D5CBF30B10A056BC16536FB8" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFCA513C5D8BAC77FBCCFA1C" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Himatium T.V.Wollaston 1873" docType="treatment" docVersion="16" lastPageNumber="131" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="131" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="8256E6EC4AA349505ADF64EABDE34C0B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="7B2A39864E20E68D8E64C1595C4FC738">
+<mods:title id="466535E97E7CA96A6B989BE83D7A2B63">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="BCC9313A6411039EE3489CF892C29B67" type="personal">
+<mods:role id="47EEF9C95546F7F9AD41F50EDFD5FC0D">
+<mods:roleTerm id="1D408E67B6F8B58DED9948E3BE3A6EA6">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="869FC438BE3D2A69D73F06993243AC7B">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="45B731F5BDC504A3C1A3C724C5223306">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="DA89F1AA565DFC98566AFD20795B98EB">text</mods:typeOfResource>
+<mods:relatedItem id="58CB0C629737EF9B538C589D77CD9411" type="host">
+<mods:originInfo id="8303AD673808467DDD5FF5A0050C316E">
+<mods:dateIssued id="15948CE09C285FAA8358A154E7CD7F4F">1942</mods:dateIssued>
+<mods:dateOther id="87125C093B3638C6E988403AEA867336" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="06A15F5D60F25FFE802CA5D38BA6249A">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="2C35CD4CF34B4981D1CDFC8540EE8E25">
+<mods:placeTerm id="A1E2FA7012E281CCB7BE32BDEBCFE730">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="08B0D650F76DD9C83406C0943DEC4FA4">
+<mods:title id="7E8ABE275EC395DCC6FC7F76D608F885">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="7647353B4280DD72D61B3B90CF0F2BB8">
+<mods:extent id="05E6A4BA4D7E249A20E61CFC540495E2" unit="page">
+<mods:start id="6A6EDF38B7A80DC24FD405038CFCFD62">73</mods:start>
+<mods:end id="4423C623C3C84DAD609D81DCE26C21C4">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F8E919E818687024126709C2257ED73C">book chapter</mods:classification>
+<mods:identifier id="BE102F9591E9F80F7BA5C452A52D91FA" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="05E80129F95239E6A2AF477B995C7D63" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="70CCCFE340977BAD495A53849622EB91" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFCA513C5D8BAC77FBCCFA1C" ID-DOI="http://doi.org/10.5281/zenodo.5157373" ID-GBIF-Taxon="184097898" ID-Zenodo-Dep="5157373" LSID="urn:lsid:plazi:treatment:D6388709FFCA513C5D8BAC77FBCCFA1C" httpUri="http://treatment.plazi.org/id/D6388709FFCA513C5D8BAC77FBCCFA1C" lastPageNumber="131" pageId="58" pageNumber="131">
+<subSubSection id="168B6594FFCA513C5D8BAC77FAE4FCC1" box="[720,1310,813,855]" pageId="58" pageNumber="131" type="nomenclature">
+<paragraph id="5E2E361FFFCA513C5D8BAC77FAE4FCC1" blockId="58.[720,1310,813,855]" box="[720,1310,813,855]" pageId="58" pageNumber="131">
+<heading id="05668173FFCA513C5D8BAC77FAE4FCC1" box="[720,1310,813,855]" centered="true" fontSize="8" level="2" pageId="58" pageNumber="131" reason="3">
+Genus 
+<taxonomicName id="99914D9CFFCA513C5C0BAC77FB99FCC1" authority="Cockerell" authorityName="T.V.Wollaston" authorityYear="1873" box="[848,1123,813,855]" class="Insecta" family="Curculionidae" genus="Himatium" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="58" pageNumber="131" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFCA513C5C0BAC77FB99FCC1" bold="true" box="[848,1123,813,855]" pageId="58" pageNumber="131">RIMATINUM</emphasis>
+</taxonomicName>
+Cockerell
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFCA513C5E67AC23FD96FB85" pageId="58" pageNumber="131" type="reference_group">
+<paragraph id="5E2E361FFFCA513C5E67AC23FB5CFC35" blockId="58.[314,1711,889,1418]" box="[316,1190,889,931]" pageId="58" pageNumber="131">
+<treatmentCitationGroup id="7E811131FFCA513C5E67AC23FB5CFC35" box="[316,1190,889,931]" pageId="58" pageNumber="131">
+<treatmentCitation id="DF30100EFFCA513C5E67AC23FB5CFC35" author="Cockerell" box="[316,1190,889,931]" page="243" pageId="58" pageNumber="131" year="1906">
+<bibCitation id="8BBB3E73FFCA513C5E67AC23FB5CFC35" author="Cockerell" box="[316,1190,889,931]" journalOrPublisher="Ent. News" pageId="58" pageNumber="131" pagination="243" part="17" refId="ref39940" type="journal article" year="1906">
+<taxonomicName id="99914D9CFFCA513C5E67AC23FD3BFC35" box="[316,705,889,931]" pageId="58" pageNumber="131">
+<emphasis id="6CE5EA0DFFCA513C5E67AC23FDFDFC35" box="[316,519,889,931]" italics="true" pageId="58" pageNumber="131">Himatinimi</emphasis>
+<author id="862CDEFAFFCA513C5D40AC23FD3BFC35" box="[539,705,889,931]" pageId="58" pageNumber="131">Cockerell</author>
+</taxonomicName>
+, 
+<journalOrPublisher id="84503CD3FFCA513C5D80AC23FC61FC35" box="[731,923,889,931]" pageId="58" pageNumber="131">Ent. News</journalOrPublisher>
+<emphasis id="6CE5EA0DFFCA513C5CEBAC23FC1CFC35" bold="true" box="[944,998,889,931]" pageId="58" pageNumber="131">
+<part id="2A359C82FFCA513C5CEBAC23FC2FFC35" box="[944,981,889,931]" pageId="58" pageNumber="131" type="volume">17</part>
+:
+</emphasis>
+<pagination id="6758C8EBFFCA513C5CA8AC23FBCEFC35" box="[1011,1076,889,931]" pageId="58" pageNumber="131" type="pageRange">243</pagination>
+, 
+<year id="2A39774CFFCA513C5B14AC23FB5BFC35" box="[1103,1185,889,931]" pageId="58" pageNumber="131">1906</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFCA513C5E67ACEFFD96FB85" blockId="58.[314,1711,889,1418]" pageId="58" pageNumber="131">
+<treatmentCitationGroup id="7E811131FFCA513C5E67ACEFFD96FB85" pageId="58" pageNumber="131">
+<treatmentCitation id="DF30100EFFCA513C5E67ACEFFD96FB85" author="Wollaston" page="436" pageId="58" pageNumber="131" year="1873">
+<bibCitation id="8BBB3E73FFCA513C5E67ACEFFD96FB85" author="Wollaston" journalOrPublisher="Ent. Soc. London, Trans." pageId="58" pageNumber="131" pagination="436" refId="ref39952" type="journal article" year="1873">
+<taxonomicName id="99914D9CFFCA513C5E67ACEFFD4EFC49" box="[316,692,949,991]" pageId="58" pageNumber="131">
+<emphasis id="6CE5EA0DFFCA513C5E67ACEFFE0BFC49" box="[316,497,949,991]" italics="true" pageId="58" pageNumber="131">Himatium</emphasis>
+<author id="862CDEFAFFCA513C5D5BACEFFD4EFC49" box="[512,692,949,991]" pageId="58" pageNumber="131">Wollaston</author>
+</taxonomicName>
+(homonym, not Clark, 1860), 
+<journalOrPublisher id="84503CD3FFCA513C5BB9ACEFF952FC49" box="[1250,1704,949,991]" pageId="58" pageNumber="131">Ent. Soc. London, Trans.</journalOrPublisher>
+, 
+<pagination id="6758C8EBFFCA513C5EE2ACB3FE03FB85" box="[441,505,1001,1043]" pageId="58" pageNumber="131" type="pageRange">436</pagination>
+, 
+<year id="2A39774CFFCA513C5D4DACB3FD9DFB85" box="[534,615,1001,1043]" pageId="58" pageNumber="131">1873</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFCA513C5E20AB7FFBCCFA1C" pageId="58" pageNumber="131" type="distribution">
+<paragraph id="5E2E361FFFCA513C5E20AB7FFE76FA88" blockId="58.[314,1711,889,1418]" pageId="58" pageNumber="131">
+This genus contains 14 species recorded from Africa, 
+<collectingCountry id="2686768FFFCA513C5ADCAB7FF9A7FBD9" box="[1415,1629,1061,1103]" name="Madagascar" pageId="58" pageNumber="131">Madagascar</collectingCountry>
+, the 
+<collectingCountry id="2686768FFFCA513C5E66AB02FE09FB14" box="[317,499,1112,1154]" name="Seychelles" pageId="58" pageNumber="131">Seychelles</collectingCountry>
+, 
+<collectingCountry id="2686768FFFCA513C5D49AB02FD8AFB14" box="[530,624,1112,1154]" name="India" pageId="58" pageNumber="131">India</collectingCountry>
+, Java, and one each in North and Central America. The North American 
+<taxonomicName id="99914D9CFFCA513C5D2EABD6FB93FB23" authority="LeConte" authorityName="LeConte" box="[629,1129,1164,1205]" class="Insecta" family="Curculionidae" genus="Himatinum" kingdom="Animalia" order="Coleoptera" pageId="58" pageNumber="131" phylum="Arthropoda" rank="species" species="errans">
+<emphasis id="6CE5EA0DFFCA513C5D2EABD6FC3BFB23" box="[629,961,1164,1205]" italics="true" pageId="58" pageNumber="131">Himatinum errans</emphasis>
+LeConte
+</taxonomicName>
+is said to be an inquiline in the galleries of the scolytid 
+<taxonomicName id="99914D9CFFCA513C5DACABE5FB31FB7F" authority="(Eichoff)" baseAuthorityName="Eichoff" box="[759,1227,1215,1257]" class="Insecta" family="Curculionidae" genus="Ips" kingdom="Animalia" order="Coleoptera" pageId="58" pageNumber="131" phylum="Arthropoda" rank="species" species="grandicollis">
+<emphasis id="6CE5EA0DFFCA513C5DACABE5FBF7FB7F" box="[759,1037,1215,1257]" italics="true" pageId="58" pageNumber="131">Ips grandicollis</emphasis>
+(Eichoff)
+</taxonomicName>
+under the bark of yellow pine.
+</paragraph>
+<paragraph id="5E2E361FFFCA513C5E20AA75FBCCFA1C" blockId="58.[314,1711,889,1418]" pageId="58" pageNumber="131">In addition to two Javanese species, the following new species is the only one thus far recorded from a Pacific island.</paragraph>
+</subSubSection>
+</treatment>
+</document>

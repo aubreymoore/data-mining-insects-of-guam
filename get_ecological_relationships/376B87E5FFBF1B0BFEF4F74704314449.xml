@@ -1,0 +1,147 @@
+<document id="9A249CCC2A35BE3984BEAD68E707C925" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBF1B0BFEF4F74704314449" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Rhantus pulverosus Stephens" docType="treatment" docVersion="17" lastPageNumber="152" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="151" updateTime="1671336034494" updateUser="annettekang">
+<mods:mods id="DD9BE919C36D59F01FF1EF33AA790A5B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="42B1A1F85969E01B00D3B2B074B0C8F6">
+<mods:title id="CAAB7B5A53E3A431A3662A832506562F">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="7443EB1E0366E7114D4974E029EE1AF8" type="personal">
+<mods:role id="32AA17390114B146EDBCB2BE6CD9230D">
+<mods:roleTerm id="79F35FC534D65F6A106E768C6E98695C">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="2950E2A7861A95F68FB2C9E7697865BF">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="85C793CACF99F10500C9DACAE6BFAF1A">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="EA342A2B8AD80BD8AB4B1A2E95490066">text</mods:typeOfResource>
+<mods:relatedItem id="CBCF2F25CC4C6B1E3AF7371C57679232" type="host">
+<mods:originInfo id="B47EF2CB95656C57415DEAA36E47859C">
+<mods:dateIssued id="DEAA053635DB9BCC0B31FA33617D10E3">1942</mods:dateIssued>
+<mods:dateOther id="30741A0C7204B9F043462F48C17C38FD" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="6E63E8B5681648365B6E44812C1326D5">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="9FF7B0FFBA92AC9CB9C5F1690A3F922D">
+<mods:placeTerm id="CAC189265A45DA7D372E4FA656E34F33">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5ADC7F6F6688F67491F4CD535E38C74F">
+<mods:title id="C9F2E6EEFEC79A5515E8C1AACE1008BF">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="5829DC108C6E3589E16982589F2623F2">
+<mods:extent id="F49A2AF600B18559DD20890D5832C0D6" unit="page">
+<mods:start id="C53A46D7BDE847EEB27BD22CEB6A316D">150</mods:start>
+<mods:end id="184CEEE1686E1C0FCB161EAEF7A2CA6A">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="EBCA7255A732F6F2A9A92C948652F5B4">book chapter</mods:classification>
+<mods:identifier id="A15F42D8F06DB89BBB264A83780945F1" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="E7DAA931DB302E991526E465B133CDA0" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="5D2FFDEE12C4443374C3C825C1361F43" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBF1B0BFEF4F74704314449" ID-DOI="http://doi.org/10.5281/zenodo.5211589" ID-GBIF-Taxon="184415250" ID-Zenodo-Dep="5211589" LSID="urn:lsid:plazi:treatment:376B87E5FFBF1B0BFEF4F74704314449" httpUri="http://treatment.plazi.org/id/376B87E5FFBF1B0BFEF4F74704314449" lastPageId="2" lastPageNumber="152" pageId="1" pageNumber="151">
+<subSubSection id="F7D86578FFBF1B08FEF4F74704914F2F" box="[302,919,2287,2330]" pageId="1" pageNumber="151" type="nomenclature">
+<paragraph id="BF7D36F3FFBF1B08FEF4F74704914F2F" blockId="1.[302,331,2290,2330]" box="[302,919,2287,2330]" lastBlockId="1.[364,1696,2287,2484]" pageId="1" pageNumber="151">
+<heading id="E435819FFFBF1B08FEF4F74704914F2F" box="[302,919,2287,2330]" centered="true" fontSize="8" level="2" pageId="1" pageNumber="151" reason="4">
+3. 
+<taxonomicName id="78C24D70FFBF1B08FEB6F75A04964F2F" authority="Stephens" authorityName="Stephens" box="[364,912,2287,2329]" class="Insecta" family="Dytiscidae" genus="Rhantus" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="151" phylum="Arthropoda" rank="species" species="pulverosus">Rhantus pulverosus Stephens</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBF1B08FC71F75A01994F2F" box="[939,1695,2287,2329]" pageId="1" pageNumber="151" type="reference_group">
+<paragraph id="BF7D36F3FFBF1B08FC71F75A01994F2F" blockId="1.[364,1696,2287,2484]" box="[939,1695,2287,2329]" pageId="1" pageNumber="151">
+<treatmentCitationGroup id="9FD211DDFFBF1B08FC71F75A01994F2F" box="[939,1695,2287,2329]" pageId="1" pageNumber="151">
+<treatmentCitation id="3E6310E2FFBF1B08FC71F75A01994F2F" author="Stephens" box="[939,1695,2287,2329]" page="69" pageId="1" pageNumber="151" year="1828">
+<bibCitation id="6AE83E9FFFBF1B08FC71F75A01994F2F" author="Stephens" box="[939,1695,2287,2329]" journalOrPublisher="Illus. Brit. Ent." pageId="1" pageNumber="151" pagination="69" part="2" refId="ref905" type="book" year="1828">
+<journalOrPublisher id="65033C3FFFBF1B08FC71F75A03C04F2F" box="[939,1222,2287,2329]" pageId="1" pageNumber="151">
+<title id="CDC6DDC5FFBF1B08FC71F75A04F84F2F" box="[939,1022,2287,2329]" jopScore="0.08750122" pageId="1" pageNumber="151">Illus</title>
+. 
+<journalOrPublisher id="65033C3FFFBF1B08FBC2F75A02744F2F" box="[1048,1394,2287,2329]" jopScore="0.787511" pageId="1" pageNumber="151">
+Brit. Ent. 
+<part id="CB669C6EFFBF1B08FB00F75A03E14F2F" box="[1242,1255,2287,2329]" pageId="1" pageNumber="151" type="volume">2</part>
+: 
+<pagination id="860BC807FFBF1B08FAD1F75A02334F2F" box="[1291,1333,2287,2329]" pageId="1" pageNumber="151" type="pageRange">69</pagination>
+, pl
+</journalOrPublisher>
+</journalOrPublisher>
+. 12, fig. 2, 
+<year id="CB6A77A0FFBF1B08F993F75A019C4F2F" box="[1609,1690,2287,2329]" pageId="1" pageNumber="151">1828</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBF1B08FEB6F69605014F82" pageId="1" pageNumber="151" type="reference_group">
+<paragraph id="BF7D36F3FFBF1B08FEB6F69603E74F7B" blockId="1.[364,1696,2287,2484]" box="[364,1249,2339,2381]" pageId="1" pageNumber="151">
+<treatmentCitationGroup id="9FD211DDFFBF1B08FEB6F69603E74F7B" box="[364,1249,2339,2381]" pageId="1" pageNumber="151">
+<bibCitation id="6AE83E9FFFBF1B08FEB6F69603E74F7B" author="Zimmermann" box="[364,1249,2339,2381]" pageId="1" pageNumber="151" pagination="204" part="71" refId="ref925" title="Coleopt. Catalog" type="book" year="1920">
+<treatmentCitation id="3E6310E2FFBF1B08FEB6F69603DA4F7B" author="Zimmermann" box="[364,1244,2339,2381]" page="204" pageId="1" pageNumber="151" year="1920">
+<author id="677FDE16FFBF1B08FEB6F69605644F7B" box="[364,610,2339,2381]" pageId="1" pageNumber="151">Zimmermann</author>
+, 
+<title id="CDC6DDC5FFBF1B08FDA2F69604AA4F7B" box="[632,940,2339,2381]" pageId="1" pageNumber="151">Coleopt. Catalog</title>
+. (
+<part id="CB669C6EFFBF1B08FC09F69603074F7B" box="[979,1025,2339,2381]" pageId="1" pageNumber="151" type="volume">71</part>
+): 
+<pagination id="860BC807FFBF1B08FBEFF69603764F7B" box="[1077,1136,2339,2381]" pageId="1" pageNumber="151" type="pageRange">204</pagination>
+, 
+<year id="CB6A77A0FFBF1B08FB53F69603DA4F7B" box="[1161,1244,2339,2381]" pageId="1" pageNumber="151">1920</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFBF1B08FEB7F6E305014F82" blockId="1.[364,1696,2287,2484]" pageId="1" pageNumber="151">
+<treatmentCitationGroup id="9FD211DDFFBF1B08FEB7F6E305014F82" pageId="1" pageNumber="151">
+<bibCitation id="6AE83E9FFFBF1B08FEB7F6E305014F82" author="Regimbart" journalOrPublisher="Soc. Ent. France, Ann." pageId="1" pageNumber="151" pagination="306" part="68" refId="ref939" title="Rhantus punctatus Fourcroy" type="journal article" year="1899">
+<treatmentCitation id="3E6310E2FFBF1B08FEB7F6E305044F82" author="Fourcroy" page="306" pageId="1" pageNumber="151" year="1899">
+<title id="CDC6DDC5FFBF1B08FEB7F6E304754FB7" box="[365,883,2390,2433]" pageId="1" pageNumber="151">
+<emphasis id="8DB6EAE1FFBF1B08FEB7F6E305BD4FB7" box="[365,699,2390,2433]" italics="true" pageId="1" pageNumber="151">Rhantus punctatus</emphasis>
+Fourcroy
+</title>
+, 
+<author id="677FDE16FFBF1B08FC50F6E3034F4FB7" box="[906,1097,2390,2433]" pageId="1" pageNumber="151">Regimbart</author>
+, 
+<journalOrPublisher id="65033C3FFFBF1B08FBB9F6E301074FB7" box="[1123,1537,2390,2433]" pageId="1" pageNumber="151">
+Soc. Ent. 
+<collectingCountry id="C7D57663FFBF1B08FAC3F6E302904FB7" box="[1305,1430,2390,2433]" name="France" pageId="1" pageNumber="151">France</collectingCountry>
+, Ann.
+</journalOrPublisher>
+<part id="CB669C6EFFBF1B08F9CEF6E301404FB7" box="[1556,1606,2390,2433]" pageId="1" pageNumber="151" type="volume">68</part>
+: 
+<pagination id="860BC807FFBF1B08F980F6E3019C4FB7" box="[1626,1690,2390,2433]" pageId="1" pageNumber="151" type="pageRange">306</pagination>
+, 
+<year id="CB6A77A0FFBF1B08FE6AF63905044F82" box="[432,514,2444,2484]" pageId="1" pageNumber="151">1899</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFE07FE330557442E" pageId="2" pageNumber="152" type="materials_examined">
+<paragraph id="BF7D36F3FFBC1B0BFE07FE330557442E" blockId="2.[413,1808,390,639]" pageId="2" pageNumber="152">
+<materialsCitation id="0FAA3CAEFFBC1B0BFE07FE330557442E" ID-GBIF-Occurrence="3334692605" collectedFrom="in concrete reservoir" collectingDate="1936-05-05" collectorName="R. L. Usinger" country="Guam" location="Upi Trail" pageId="2" pageNumber="152" specimenCount="1">
+<location id="BA1D6028FFBC1B0BFE07FE3305884783" LSID="urn:lsid:plazi:treatment:376B87E5FFBF1B0BFEF4F74704314449:BA1D6028FFBC1B0BFE07FE3305884783" box="[477,654,390,437]" country="United States of America" municipality="National Museum" name="Upi Trail" pageId="2" pageNumber="152">Upi Trail</location>
+, 
+<date id="CB7C1033FFBC1B0BFD76FE3304234783" box="[684,805,390,437]" pageId="2" pageNumber="152">
+<collectingDate id="DB38E9DBFFBC1B0BFD76FE3304234783" box="[684,805,390,437]" pageId="2" pageNumber="152">May 5</collectingDate>
+</date>
+, in concrete reservoir, 
+<collectorName id="12375325FFBC1B0BFB0CFE3302604783" box="[1238,1382,390,437]" pageId="2" pageNumber="152">Usinger</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFBC1B0BFA58FE3301724783" box="[1410,1652,390,437]" pageId="2" pageNumber="152" type="generic">one specimen</specimenCount>
+. (Compared with 
+<specimenCount id="A9C4FD7AFFBC1B0BFD52FE09043A47D1" box="[648,828,444,487]" pageId="2" pageNumber="152" type="generic">specimens</specimenCount>
+in Baker Philippine collection in 
+<collectingCountry id="C7D57663FFBC1B0BFA2AFE09015E47D1" box="[1520,1624,444,487]" name="United States of America" pageId="2" pageNumber="152">U. S.</collectingCountry>
+<collectingMunicipality id="5F19AC89FFBC1B0BF9AEFE090546442E" pageId="2" pageNumber="152">National Museum</collectingMunicipality>
+.)
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBC1B0BFE01FD9104314449" pageId="2" pageNumber="152" type="distribution">
+<paragraph id="BF7D36F3FFBC1B0BFE01FD9104314449" blockId="2.[413,1808,390,639]" pageId="2" pageNumber="152">
+A widely distributed species in Europe, North Africa, Asia, Sunda Islands, and 
+<collectingCountry id="C7D57663FFBC1B0BFD5FFDE204344449" box="[645,818,599,639]" name="Australia" pageId="2" pageNumber="152">Australia</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

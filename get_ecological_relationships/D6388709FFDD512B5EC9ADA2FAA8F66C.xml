@@ -1,0 +1,136 @@
+<document id="4A97FDE654B6F8C5A04956E3E726A08D" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFDD512B5EC9ADA2FAA8F66C" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Microcryptorhynchus basipennis Zimmerman 1942, new species" docType="treatment" docVersion="16" lastPageNumber="118" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="118" updateTime="1671243089236" updateUser="annettekang">
+<mods:mods id="CF58DF868082726C22063C23217C8EFA" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="2C762608C60E0C3734734DF427DAB6B5">
+<mods:title id="0E8FCB37EE3A3E5C58B611C6E0D52645">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="A2E378A226DB5B8E6929A819DB2FCEF7" type="personal">
+<mods:role id="D420A98C65CE957C11E4BF58E0454EAF">
+<mods:roleTerm id="A3750B8731461F07E5DE0B21597D967D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="351D3AADAD2CAB1865A8CB08E9FA3208">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="B93719D04A824121C9C7876EFB5197DD">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="BD9E49BEC1621C7563C7FB1778261F82">text</mods:typeOfResource>
+<mods:relatedItem id="94BE1D9A41D8E0943ACF514837606160" type="host">
+<mods:originInfo id="3DB78CBFB758FA168CD15B0837A60A46">
+<mods:dateIssued id="23CBCC2D13F942E097ED3196101F0833">1942</mods:dateIssued>
+<mods:dateOther id="08BCA3728707AD2DD1803957DFA46373" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="30867B6B1564EF8B911302A78D2FE7A3">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="547AA32DBFC3F3E8332AAD54A9A284A7">
+<mods:placeTerm id="C08BA9402B2D732443892A029D4392E4">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="B14489A8A920A4A5BF608F16DF85D4B0">
+<mods:title id="5054B7C5C33F255E7A2F0471A1697562">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="746B7B38479941836F71E4C16E5F7AE1">
+<mods:extent id="67AA5F192C475FFE32BFC06666708A20" unit="page">
+<mods:start id="69587B78DAE0369A7BBA31E40E301F15">73</mods:start>
+<mods:end id="EEFCC747D49C05FB41AC8F6AE18D051A">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="2B3AEE3ACEEBCCE3272A3099F83415AF">book chapter</mods:classification>
+<mods:identifier id="74D238D99455EE3FC07203F4334AEB62" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="FAD4D359B5819F706C6FFE02CCFDE525" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="6CC03B9E38625E0FD11DABA30021B29C" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFDD512B5EC9ADA2FAA8F66C" ID-DOI="http://doi.org/10.5281/zenodo.5157341" ID-GBIF-Taxon="184097875" ID-Zenodo-Dep="5157341" LSID="urn:lsid:plazi:treatment:D6388709FFDD512B5EC9ADA2FAA8F66C" httpUri="http://treatment.plazi.org/id/D6388709FFDD512B5EC9ADA2FAA8F66C" lastPageNumber="118" pageId="45" pageNumber="118">
+<subSubSection id="168B6594FFDD512B5EC9ADA2FA1FFCB7" box="[402,1509,760,801]" pageId="45" pageNumber="118" type="nomenclature">
+<paragraph id="5E2E361FFFDD512B5EC9ADA2FA1FFCB7" blockId="45.[402,1800,760,2086]" box="[402,1509,760,801]" pageId="45" pageNumber="118">
+<heading id="05668173FFDD512B5EC9ADA2FA1FFCB7" box="[402,1509,760,801]" fontSize="8" level="2" pageId="45" pageNumber="118" reason="4">
+<emphasis id="6CE5EA0DFFDD512B5EC9ADA2FBBBFCB7" bold="true" box="[402,1089,760,801]" pageId="45" pageNumber="118">
+28. 
+<taxonomicName id="99914D9CFFDD512B5EBEADA2FBC0FCB7" authority="Zimmerman, 1942" authorityName="Zimmerman" authorityYear="1942" box="[485,1082,760,801]" class="Insecta" family="Curculionidae" genus="Microcryptorhynchus" kingdom="Animalia" order="Coleoptera" pageId="45" pageNumber="118" phylum="Arthropoda" rank="species" species="basipennis" status="new species">Microcryptorhynchus basipennis</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="77D65776FFDD512B5B15ADA2FAE4FCB7" box="[1102,1310,760,801]" pageId="45" pageNumber="118" rank="species">new species</taxonomicNameLabel>
+(pl. 3, 
+<emphasis id="6CE5EA0DFFDD512B5AFFADA2FA1FFCB7" box="[1444,1509,760,801]" italics="true" pageId="45" pageNumber="118">D).</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFDD512B5E8DAC69FD3DF7B0" pageId="45" pageNumber="118" type="description">
+<paragraph id="5E2E361FFFDD512B5E8DAC69FDDCFC5F" blockId="45.[402,1800,760,2086]" pageId="45" pageNumber="118">Derm mostly reddish brown, covered with a very thick, dense yellowish or whitish incrustation that usually greatly distorts true outlines of body and sometimes enlarges lateral outline of body to about a fourth broader than actual breadth; setae white or yellowish.</paragraph>
+<paragraph id="5E2E361FFFDD512B5E8DAC8EFD3DF7B0" blockId="45.[402,1800,760,2086]" pageId="45" pageNumber="118">
+<emphasis id="6CE5EA0DFFDD512B5E8DAC8EFDDDFC61" box="[470,551,980,1015]" italics="true" pageId="45" pageNumber="118">Head</emphasis>
+completely concealed from above by the pronotum, finely, indistinctly punctate, with a single row of stout, spatulate, erect setae along inner margins of eyes that extends on crown above eyes. 
+<emphasis id="6CE5EA0DFFDD512B5C5BAB7BFC7EFBD2" box="[768,900,1057,1092]" italics="true" pageId="45" pageNumber="118">Rostrum</emphasis>
+with at most lines of fine punctures; but not distinctly carinate or sulcate, median line, however, sometimes appearing more polished near antennae; with a single row of setae, similar to those along eyes, on either side and occasionally one,to a few similar setae on either side of median line just behind antennae, but without a distinct additional row of spatulate setae. 
+<emphasis id="6CE5EA0DFFDD512B5B65ABE3FB1CFB4A" box="[1086,1254,1209,1244]" italics="true" pageId="45" pageNumber="118">Prothorax-,</emphasis>
+when denuded of incrustation, distinctly longer than broad (2.5: 2), rounded on sides in basal three fifths, thence distinctly constricted, constriction continued deeply and prominently across dorsum at distal two fifths; basal squamose area modified into an almost perpendicular, sub-hemispherical area; with a few erect sharp or narrowly spatulate setae scattered across disk and two or three rows across apex, apical setae usually broader; punctures not large, but coarse, deep and dense, their interstices very narrow, the disk roughened by their density. 
+<emphasis id="6CE5EA0DFFDD512B5960AAC5F95CFA55" box="[1595,1702,1439,1475]" italics="true" pageId="45" pageNumber="118">Elytra,</emphasis>
+when abraded, elongate ovate, with a slight subapical constriction, three fifths as broad as long, twice as long as prothorax, rather evenly convex in longitudinal dorsal outline and not rising far above level of pronotum; striae very coarse, about twice as broad as intervals, their punctures large, subquadrate, their interstices about as broad as intervals; intervals convex, only alternate ones bearing setae, setae erect and distinct, variable, usually slender and sharp, but sometimes narrowly spatulate, rows sometimes more or less incomplete, second interval with a small, conical, sharply pointed, sclerotized spine at base that is shorter than setae and may become obscured by incrustation. 
+<emphasis id="6CE5EA0DFFDD512B5A0FA98BFA64F963" box="[1364,1438,1745,1781]" italics="true" pageId="45" pageNumber="118">Legs</emphasis>
+with femora and tibiae with scattered erect setae; tibial unci well developed. 
+<emphasis id="6CE5EA0DFFDD512B5BA4A9A2FA7AF88D" box="[1279,1408,1784,1819]" italics="true" pageId="45" pageNumber="118">Sternum</emphasis>
+with mesosternal receptacle deep and cavernous, walls but slightly elevated, terminating close to hind margins of mesocoxae in female and but slightly more anteriorly in male; metasternum moderately coarsely punctate, slightly shorter between mid and hind coxae than breadth of a mesocoxa; metacoxa separated by twice median length of metasternum. 
+<emphasis id="6CE5EA0DFFDD512B5AE6A8D7F9D9F823" box="[1469,1571,1933,1973]" italics="true" pageId="45" pageNumber="118">Venter</emphasis>
+with first two ventrites densely and coarsely punctured, but punctures not very large, intercoxal process but slightly arcuate; ventrite 5 rather indistinctly punctate; setose. Length, 1.6-1.8 mm.; breadth, 0.6-0.8 mm.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFDD512B5E88A707FDD1F6B0" pageId="45" pageNumber="118" type="materials_examined">
+<paragraph id="5E2E361FFFDD512B5E88A707FDD1F6B0" blockId="45.[404,1799,2141,2554]" pageId="45" pageNumber="118">
+<materialsCitation id="EEF93C42FFDD512B5E88A707FC54F72B" ID-GBIF-Occurrence="3333874328" collectedFrom="from Pipturus" collectingDate="1936-05-25" collectorName="R. L. Usinger" country="Guam" location="Agana" pageId="45" pageNumber="118" specimenCount="7" typeStatus="holotype male, allotype female, paratype (5)">
+<typeStatus id="812A88BDFFDD512B5E88A707FD8FF711" box="[467,629,2141,2183]" pageId="45" pageNumber="118">Holotype</typeStatus>
+<specimenCount id="4897FD96FFDD512B5DD6A707FD18F711" box="[653,738,2141,2183]" pageId="45" pageNumber="118" type="male">male</specimenCount>
+, 
+<typeStatus id="812A88BDFFDD512B5C5AA707FC73F711" box="[769,905,2141,2183]" pageId="45" pageNumber="118">allotype</typeStatus>
+female, and 
+<specimenCount id="4897FD96FFDD512B5BCBA707FA77F711" box="[1168,1421,2141,2183]" pageId="45" pageNumber="118" type="generic">five paratypes</specimenCount>
+collected at 
+<collectingMunicipality id="BE4AAC65FFDD512B59D7A707F8FBF711" box="[1676,1793,2141,2183]" pageId="45" pageNumber="118">Agana</collectingMunicipality>
+, from 
+<emphasis id="6CE5EA0DFFDD512B5EA2A7C9FD64F72B" box="[505,670,2195,2237]" italics="true" pageId="45" pageNumber="118">
+<taxonomicName id="99914D9CFFDD512B5EA2A7C9FD6DF72B" box="[505,663,2195,2237]" class="Magnoliopsida" family="Urticaceae" genus="Pipturus" kingdom="Plantae" order="Rosales" pageId="45" pageNumber="118" phylum="Tracheophyta" rank="genus">
+<location id="5B4E60C4FFDD512B5EA2A7C9FD6DF72B" LSID="urn:lsid:plazi:treatment:D6388709FFDD512B5EC9ADA2FAA8F66C:5B4E60C4FFDD512B5EA2A7C9FD6DF72B" box="[505,663,2195,2237]" municipality="Agana" name="Pipturus" pageId="45" pageNumber="118">Pipturus</location>
+</taxonomicName>
+,
+</emphasis>
+<date id="2A2F10DFFFDD512B5DF6A7C9FC66F72B" box="[685,924,2195,2237]" pageId="45" pageNumber="118" value="1936-05-25">
+<collectingDate id="3A6BE937FFDD512B5DF6A7C9FC66F72B" box="[685,924,2195,2237]" pageId="45" pageNumber="118" value="1936-05-25">May 25, 1936</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFDD512B5CE7A7C9F941F72B" ID-GBIF-Occurrence="3333874412" box="[956,1723,2195,2237]" collectingDate="1936-06-02" collectorName="R. L. Usinger" country="Guam" location="Ritidian Point" pageId="45" pageNumber="118" specimenCount="5" typeStatus="paratype">
+five 
+<typeStatus id="812A88BDFFDD512B5B5CA7C9FB55F72B" box="[1031,1199,2195,2237]" pageId="45" pageNumber="118">paratypes</typeStatus>
+from 
+<collectingMunicipality id="BE4AAC65FFDD512B5A78A7C9FA9AF72B" box="[1315,1376,2195,2237]" pageId="45" pageNumber="118">Riti</collectingMunicipality>
+&lt;lian 
+<location id="5B4E60C4FFDD512B5A9BA7C9F9D8F72B" LSID="urn:lsid:plazi:treatment:D6388709FFDD512B5EC9ADA2FAA8F66C:5B4E60C4FFDD512B5A9BA7C9F9D8F72B" box="[1472,1570,2195,2237]" municipality="Riti" name="Point" pageId="45" pageNumber="118">Point</location>
+, 
+<date id="2A2F10DFFFDD512B596DA7C9F950F72B" box="[1590,1706,2195,2237]" pageId="45" pageNumber="118">
+<collectingDate id="3A6BE937FFDD512B596DA7C9F950F72B" box="[1590,1706,2195,2237]" pageId="45" pageNumber="118">June 2</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFDD512B5991A7C9FDD1F6B0" ID-GBIF-Occurrence="3333874323" collectingDate="1936-06-30" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="45" pageNumber="118" specimenCount="2" typeStatus="paratype">
+and two 
+<typeStatus id="812A88BDFFDD512B5EBEA792FD76F765" box="[485,652,2248,2291]" pageId="45" pageNumber="118">paratypes</typeStatus>
+from 
+<location id="5B4E60C4FFDD512B5C5CA792FC47F765" LSID="urn:lsid:plazi:treatment:D6388709FFDD512B5EC9ADA2FAA8F66C:5B4E60C4FFDD512B5C5CA792FC47F765" box="[775,957,2248,2291]" municipality="Riti" name="Machanao" pageId="45" pageNumber="118">Machanao</location>
+, 
+<date id="2A2F10DFFFDD512B5C8EA792FB91F765" box="[981,1131,2248,2291]" pageId="45" pageNumber="118">
+<collectingDate id="3A6BE937FFDD512B5C8EA792FB91F765" box="[981,1131,2248,2291]" pageId="45" pageNumber="118">June 30.</collectingDate>
+</date>
+<location id="5B4E60C4FFDD512B5BD3A792FB44F765" LSID="urn:lsid:plazi:treatment:D6388709FFDD512B5EC9ADA2FAA8F66C:5B4E60C4FFDD512B5BD3A792FB44F765" box="[1160,1214,2248,2291]" municipality="Riti" name="All" pageId="45" pageNumber="118">All</location>
+of the 
+<specimenCount id="4897FD96FFDD512B5A17A792FA03F765" box="[1356,1529,2248,2291]" pageId="45" pageNumber="118" type="generic">specimens</specimenCount>
+were taken by 
+<location id="5B4E60C4FFDD512B5ECEA7A5FDDCF6B0" LSID="urn:lsid:plazi:treatment:D6388709FFDD512B5EC9ADA2FAA8F66C:5B4E60C4FFDD512B5ECEA7A5FDDCF6B0" box="[405,550,2303,2342]" municipality="Riti" name="Usinger" pageId="45" pageNumber="118">Usinger</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFDD512B5E88A66DFAA8F66C" pageId="45" pageNumber="118" type="discussion">
+<paragraph id="5E2E361FFFDD512B5E88A66DFAA8F66C" blockId="45.[404,1799,2141,2554]" pageId="45" pageNumber="118">
+The incrustation on this species is usually very thick and greatly distorts the outlines of the body. Some specimens appear to be quite broad because of the piling up of the incrustation at the sides of the body. The setae are much less regular and less conspicuous than on 
+<emphasis id="6CE5EA0DFFDD512B5BDBA688FAA8F66C" box="[1152,1362,2514,2554]" italics="true" pageId="45" pageNumber="118">
+<taxonomicName id="99914D9CFFDD512B5BDBA688FAB7F66C" authorityName="Zimmerman" authorityYear="1942" box="[1152,1357,2514,2554]" class="Insecta" family="Curculionidae" genus="Microcryptorhynchus" kingdom="Animalia" order="Coleoptera" pageId="45" pageNumber="118" phylum="Arthropoda" rank="species" species="spinifer">M. spinifer</taxonomicName>
+.
+</emphasis>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

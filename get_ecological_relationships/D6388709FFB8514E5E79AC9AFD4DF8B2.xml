@@ -1,0 +1,214 @@
+<document id="D9E0929C1C874A9A94254CDFC9723DA4" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFB8514E5E79AC9AFD4DF8B2" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Calandra oryzae" docType="treatment" docVersion="19" lastPageNumber="145" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="145" updateTime="1671248003764" updateUser="annettekang">
+<mods:mods id="3F06F206A47174310FC28BDEF27208FC" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C244B30D82F491BDE894932EC8B8DB78">
+<mods:title id="1063036F73906A4CFC14EAC7F09A6587">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="D2C7C27BA686032989D7CF8C4A6FEE7C" type="personal">
+<mods:role id="1B4E7C2C433005EFED23B97E2BEB033C">
+<mods:roleTerm id="3E1F282145C6B09873ECDF7C24749BFD">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="CBC178D9638F51459148B7FA7C0BF2E5">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="8F12FFC153922186AE8732744389FB74">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="8BFBAAD7B53F2F5E4B6569771C3DA90D">text</mods:typeOfResource>
+<mods:relatedItem id="FCF92912D1B7E451F31ED984D433F916" type="host">
+<mods:originInfo id="36D392BC9F98A528C951BD3C93B50378">
+<mods:dateIssued id="2B1C4B72C47FF74A16F50B7D9FC82A7C">1942</mods:dateIssued>
+<mods:dateOther id="FB587385CAA292CD4CD7B86BA4ACE144" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="AFDC66D86433CAA06651469E12BC6673">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="AEC9B78C616FBE72744C69CD571A3EA9">
+<mods:placeTerm id="00B6CB0CF18DDC355DAD78CBA11430F3">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="C9E2C044E1EA51608FB6B0A6742B055D">
+<mods:title id="A0168E26D2262E556E14D73B7E1C4C32">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="8E7759B7BF1B2888CF899F8E076C02A4">
+<mods:extent id="AA01DB4ED9D01A4FB9804EB8DC43FFE6" unit="page">
+<mods:start id="12694AC75ADE9975D9F1844ABAA0B3F8">73</mods:start>
+<mods:end id="1C93B2C1E5E73FF9F45AB5592A33E7A1">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="2CECBB381C0E8C9993C0DDAE2159DB60">book chapter</mods:classification>
+<mods:identifier id="794AF4152F99930CD90126C3021E5955" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="83226876A6270E0529DAC88149340C61" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="9C35CBCEFA1FC771DA7133F3C039B4FF" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFB8514E5E79AC9AFD4DF8B2" ID-DOI="http://doi.org/10.5281/zenodo.5191796" ID-GBIF-Taxon="184097829" ID-Zenodo-Dep="5191796" LSID="urn:lsid:plazi:treatment:D6388709FFB8514E5E79AC9AFD4DF8B2" httpUri="http://treatment.plazi.org/id/D6388709FFB8514E5E79AC9AFD4DF8B2" lastPageNumber="145" pageId="72" pageNumber="145">
+<subSubSection id="168B6594FFB8514E5E79AC9AFC78FC7F" box="[290,898,960,1001]" pageId="72" pageNumber="145" type="nomenclature">
+<paragraph id="5E2E361FFFB8514E5E79AC9AFC78FC7F" blockId="72.[290,1686,960,1828]" box="[290,898,960,1001]" pageId="72" pageNumber="145">
+<heading id="05668173FFB8514E5E79AC9AFC78FC7F" box="[290,898,960,1001]" fontSize="8" level="2" pageId="72" pageNumber="145" reason="4">
+<emphasis id="6CE5EA0DFFB8514E5E79AC9AFEA9FC7F" bold="true" box="[290,339,960,1001]" pageId="72" pageNumber="145">48.</emphasis>
+<taxonomicName id="99914D9CFFB8514E5E2CAC9AFC86FC7F" authority="(Linnaeus)" baseAuthorityName="Linnaeus" box="[375,892,960,1001]" class="Insecta" family="Dryophthoridae" genus="Calandra" kingdom="Animalia" order="Coleoptera" pageId="72" pageNumber="145" phylum="Arthropoda" rank="species" species="oryzae">
+<emphasis id="6CE5EA0DFFB8514E5E2CAC9AFD66FC7F" bold="true" box="[375,668,960,1001]" pageId="72" pageNumber="145">Calandra oryzae</emphasis>
+(Linnaeus)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB8514E5E3FACA0FDA9FA7F" pageId="72" pageNumber="145" type="reference_group">
+<paragraph id="5E2E361FFFB8514E5E3FACA0FAB8FBB2" blockId="72.[290,1686,960,1828]" box="[356,1346,1018,1060]" pageId="72" pageNumber="145">
+<treatmentCitationGroup id="7E811131FFB8514E5E3FACA0FAB8FBB2" box="[356,1346,1018,1060]" pageId="72" pageNumber="145">
+<treatmentCitation id="DF30100EFFB8514E5E3FACA0FAB8FBB2" author="Linnaeus" box="[356,1346,1018,1060]" page="396" pageId="72" pageNumber="145" year="1763">
+<bibCitation id="8BBB3E73FFB8514E5E3FACA0FAB8FBB2" author="Linnaeus" box="[356,1346,1018,1060]" journalOrPublisher="Amoen. Acad." pageId="72" pageNumber="145" pagination="396" part="6" refId="ref49313" type="journal article" year="1763">
+<taxonomicName id="99914D9CFFB8514E5E3FACA0FCC8FBB2" box="[356,818,1018,1060]" pageId="72" pageNumber="145">
+<emphasis id="6CE5EA0DFFB8514E5E3FACA0FD81FBB2" box="[356,635,1018,1060]" italics="true" pageId="72" pageNumber="145">Curculio oryzae</emphasis>
+<author id="862CDEFAFFB8514E5DD5ACA0FCC8FBB2" box="[654,818,1018,1060]" pageId="72" pageNumber="145">Linnaeus</author>
+</taxonomicName>
+, 
+<journalOrPublisher id="84503CD3FFB8514E5C11ACA0FBB2FBB2" box="[842,1096,1018,1060]" pageId="72" pageNumber="145">Amoen. Acad.</journalOrPublisher>
+<emphasis id="6CE5EA0DFFB8514E5B07ACA0FB85FBB2" bold="true" box="[1116,1151,1018,1060]" pageId="72" pageNumber="145">
+<part id="2A359C82FFB8514E5B07ACA0FB94FBB2" box="[1116,1134,1018,1060]" pageId="72" pageNumber="145" type="volume">6</part>
+:
+</emphasis>
+<pagination id="6758C8EBFFB8514E5BD5ACA0FB34FBB2" box="[1166,1230,1018,1060]" pageId="72" pageNumber="145" type="pageRange">396</pagination>
+, 
+<year id="2A39774CFFB8514E5BB1ACA0FAC7FBB2" box="[1258,1341,1018,1060]" pageId="72" pageNumber="145">1763</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFB8514E5E3FAB6FFAD0FBF6" blockId="72.[290,1686,960,1828]" box="[356,1322,1077,1120]" pageId="72" pageNumber="145">
+<treatmentCitationGroup id="7E811131FFB8514E5E3FAB6FFAD0FBF6" box="[356,1322,1077,1120]" pageId="72" pageNumber="145">
+<treatmentCitation id="DF30100EFFB8514E5E3FAB6FFAD0FBF6" author="De Geer" box="[356,1322,1077,1120]" page="273" pageId="72" pageNumber="145" year="1781">
+<bibCitation id="8BBB3E73FFB8514E5E3FAB6FFAD0FBF6" author="De Geer" box="[356,1322,1077,1120]" pageId="72" pageNumber="145" pagination="273" part="5" refId="ref49327" title="Mem. Ins" type="journal article" year="1781">
+<taxonomicName id="99914D9CFFB8514E5E3FAB6FFC9FFBF6" box="[356,869,1077,1120]" pageId="72" pageNumber="145">
+<emphasis id="6CE5EA0DFFB8514E5E3FAB6FFD46FBF6" box="[356,700,1077,1120]" italics="true" pageId="72" pageNumber="145">Curculio frugilegus</emphasis>
+<author id="862CDEFAFFB8514E5D96AB6FFC9FFBF6" box="[717,869,1077,1120]" case="TC" fns="I" in="De" ins="U" ln="Geer" lnc="TC" npo="InLn" pageId="72" pageNumber="145">De Geer</author>
+</taxonomicName>
+, 
+<title id="2C95DD29FFB8514E5C26AB6FFBD7FBF6" box="[893,1069,1077,1120]" pageId="72" pageNumber="145">Mem. Ins</title>
+. 
+<emphasis id="6CE5EA0DFFB8514E5B1DAB6FFBADFBF6" bold="true" box="[1094,1111,1077,1120]" pageId="72" pageNumber="145">
+<part id="2A359C82FFB8514E5B1DAB6FFBA9FBF6" box="[1094,1107,1077,1120]" pageId="72" pageNumber="145" type="volume">5</part>
+:
+</emphasis>
+<pagination id="6758C8EBFFB8514E5B2DAB6FFB4DFBF6" box="[1142,1207,1077,1120]" pageId="72" pageNumber="145" type="pageRange">273</pagination>
+, 
+<year id="2A39774CFFB8514E5B89AB6FFADFFBF6" box="[1234,1317,1077,1120]" pageId="72" pageNumber="145">1781</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFB8514E5E3FAB2BFDA9FB46" blockId="72.[290,1686,960,1828]" pageId="72" pageNumber="145">
+<treatmentCitationGroup id="7E811131FFB8514E5E3FAB2BFDA9FB46" pageId="72" pageNumber="145">
+<treatmentCitation id="DF30100EFFB8514E5E3FAB2BFDA9FB46" author="Stroem" page="256" pageId="72" pageNumber="145" year="1783">
+<bibCitation id="8BBB3E73FFB8514E5E3FAB2BFDA9FB46" author="Stroem" journalOrPublisher="Danske Vid. Selsk. Skrift." pageId="72" pageNumber="145" pagination="256" part="2" refId="ref49342" type="journal article" year="1783">
+<taxonomicName id="99914D9CFFB8514E5E3FAB2BFCBAFB0A" box="[356,832,1137,1180]" pageId="72" pageNumber="145">
+<emphasis id="6CE5EA0DFFB8514E5E3FAB2BFD4AFB0A" box="[356,688,1137,1180]" italics="true" pageId="72" pageNumber="145">Curculio granarius</emphasis>
+<author id="862CDEFAFFB8514E5D99AB2BFCBAFB0A" box="[706,832,1137,1180]" pageId="72" pageNumber="145">Stroem</author>
+</taxonomicName>
+(not Linnaeus), 
+<journalOrPublisher id="84503CD3FFB8514E5BDEAB2BF9A5FB0A" box="[1157,1631,1137,1180]" pageId="72" pageNumber="145">Danske Vid. Selsk. Skrift.</journalOrPublisher>
+<part id="2A359C82FFB8514E592AAB2BF984FB0A" box="[1649,1662,1137,1180]" pageId="72" pageNumber="145" type="volume">2</part>
+: 
+<pagination id="6758C8EBFFB8514E5EFAABFCFE1BFB46" box="[417,481,1190,1232]" pageId="72" pageNumber="145" type="pageRange">256</pagination>
+, 
+<year id="2A39774CFFB8514E5EA0ABFCFDB4FB46" box="[507,590,1190,1232]" pageId="72" pageNumber="145">1783</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFB8514E5E39ABBAFD79FAA9" blockId="72.[290,1686,960,1828]" pageId="72" pageNumber="145">
+<treatmentCitationGroup id="7E811131FFB8514E5E39ABBAFD79FAA9" pageId="72" pageNumber="145">
+<treatmentCitation id="DF30100EFFB8514E5E39ABBAFD79FAA9" author="Gyllenhal" page="981" pageId="72" pageNumber="145" year="1837">
+<bibCitation id="8BBB3E73FFB8514E5E39ABBAFD79FAA9" author="Gyllenhal" editor="Schoenherr's Gen" pageId="72" pageNumber="145" pagination="981" part="4" refId="ref49363" title="Spec. Cure." type="book chapter" year="1837">
+<taxonomicName id="99914D9CFFB8514E5E39ABBAFC95FA9D" box="[354,879,1248,1291]" pageId="72" pageNumber="145">
+<emphasis id="6CE5EA0DFFB8514E5E39ABBAFD6EFA9D" box="[354,660,1248,1291]" italics="true" pageId="72" pageNumber="145">Sitophilus oryzae</emphasis>
+(Linnaeus)
+</taxonomicName>
+<author id="862CDEFAFFB8514E5CDCABBAFBCAFA9D" box="[903,1072,1248,1291]" fns="*" inm="true" npo="*" pageId="72" pageNumber="145">Gyllenhal</author>
+, in 
+<editor id="980DDE1CFFB8514E5B23ABBAFA4FFA9D" box="[1144,1461,1248,1291]" case="TC" fns="*" inm="true" npo="*" pageId="72" pageNumber="145">Schoenherr's Gen</editor>
+. 
+<title id="2C95DD29FFB8514E5A96ABBAF96FFA9D" box="[1485,1685,1248,1291]" pageId="72" pageNumber="145">Spec. Cure.</title>
+<emphasis id="6CE5EA0DFFB8514E5EFBAA4FFE3EFAA9" bold="true" box="[416,452,1301,1343]" pageId="72" pageNumber="145">
+<part id="2A359C82FFB8514E5EFBAA4FFE47FAA9" box="[416,445,1301,1343]" pageId="72" pageNumber="145" type="volume">4</part>
+:
+</emphasis>
+<pagination id="6758C8EBFFB8514E5E89AA4FFDE8FAA9" box="[466,530,1301,1343]" pageId="72" pageNumber="145" type="pageRange">981</pagination>
+, 
+<year id="2A39774CFFB8514E5D77AA4FFD84FAA9" box="[556,638,1301,1343]" pageId="72" pageNumber="145">1837</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFB8514E5E3EAA14F96FFAEC" blockId="72.[290,1686,960,1828]" box="[357,1685,1358,1402]" pageId="72" pageNumber="145">
+<treatmentCitation id="DF30100EFFB8514E5E3EAA14F96FFAEC" author="Walker" box="[357,1685,1358,1402]" page="219" pageId="72" pageNumber="145" year="1859">
+<bibCitation id="8BBB3E73FFB8514E5E3EAA14F96FFAEC" author="Walker" box="[357,1685,1358,1402]" journalOrPublisher="Ann. Mag. Nat. Hist." pageId="72" pageNumber="145" pagination="219" part="4" refId="ref49384" type="journal article" year="1859">
+<treatmentCitationGroup id="7E811131FFB8514E5E3EAA14F96AFAEC" box="[357,1680,1358,1402]" pageId="72" pageNumber="145">
+<taxonomicName id="99914D9CFFB8514E5E3EAA14FC33FAEC" box="[357,969,1358,1402]" pageId="72" pageNumber="145">
+<emphasis id="6CE5EA0DFFB8514E5E3EAA14FCCFFAEC" box="[357,821,1358,1402]" italics="true" pageId="72" pageNumber="145">Cossonus quadriniaculatus</emphasis>
+<author id="862CDEFAFFB8514E5C1AAA14FC33FAEC" box="[833,969,1358,1402]" pageId="72" pageNumber="145">Walker</author>
+</taxonomicName>
+, 
+<journalOrPublisher id="84503CD3FFB8514E5C86AA14FAA3FAEC" box="[989,1369,1358,1402]" pageId="72" pageNumber="145">Ann. Mag. Nat. Hist.</journalOrPublisher>
+III, 
+<emphasis id="6CE5EA0DFFB8514E5AEEAA14FA22FAEC" bold="true" box="[1461,1496,1358,1402]" pageId="72" pageNumber="145">
+<part id="2A359C82FFB8514E5AEEAA14FA2BFAEC" box="[1461,1489,1358,1402]" pageId="72" pageNumber="145" type="volume">4</part>
+:
+</emphasis>
+<pagination id="6758C8EBFFB8514E5ABDAA14F9DDFAEC" box="[1510,1575,1358,1402]" pageId="72" pageNumber="145" type="pageRange">219</pagination>
+, 
+<year id="2A39774CFFB8514E5965AA14F96AFAEC" box="[1598,1680,1358,1402]" pageId="72" pageNumber="145">1859</year>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+<paragraph id="5E2E361FFFB8514E5E3FAAD1FDA9FA7F" blockId="72.[290,1686,960,1828]" pageId="72" pageNumber="145">
+<treatmentCitationGroup id="7E811131FFB8514E5E3FAAD1FDA9FA7F" pageId="72" pageNumber="145">
+<treatmentCitation id="DF30100EFFB8514E5E3FAAD1FDA9FA7F" author="Montrouzier" page="910" pageId="72" pageNumber="145" year="1860">
+<bibCitation id="8BBB3E73FFB8514E5E3FAAD1FDA9FA7F" author="Montrouzier" journalOrPublisher="Soc. Ent. France, Ann." pageId="72" pageNumber="145" pagination="910" part="8" refId="ref49404" type="journal article" year="1860">
+<taxonomicName id="99914D9CFFB8514E5E3FAAD1FB9AFA23" box="[356,1120,1419,1461]" pageId="72" pageNumber="145">
+<emphasis id="6CE5EA0DFFB8514E5E3FAAD1FC8AFA23" box="[356,880,1419,1461]" italics="true" pageId="72" pageNumber="145">Sphenophorus quadriguttatus</emphasis>
+<author id="862CDEFAFFB8514E5CDBAAD1FB9AFA23" box="[896,1120,1419,1461]" pageId="72" pageNumber="145">Montrouzier</author>
+</taxonomicName>
+, 
+<journalOrPublisher id="84503CD3FFB8514E5B22AAD1F9E8FA23" box="[1145,1554,1419,1461]" pageId="72" pageNumber="145">
+Soc. Ent. 
+<collectingCountry id="2686768FFFB8514E5A70AAD1FA5DFA23" box="[1323,1447,1419,1461]" name="France" pageId="72" pageNumber="145">France</collectingCountry>
+, Ann.
+</journalOrPublisher>
+III, 
+<part id="2A359C82FFB8514E5929AAD1F977FA23" box="[1650,1677,1419,1461]" pageId="72" pageNumber="145" type="volume">8</part>
+: 
+<pagination id="6758C8EBFFB8514E5EFAAA9BFE1BFA7F" box="[417,481,1473,1513]" pageId="72" pageNumber="145" type="pageRange">910</pagination>
+, 
+<year id="2A39774CFFB8514E5EA0AA9BFDB4FA7F" box="[507,590,1473,1513]" pageId="72" pageNumber="145">1860</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB8514E5E3FAAA1FB56F91D" pageId="72" pageNumber="145" type="discussion">
+<paragraph id="5E2E361FFFB8514E5E3FAAA1FB56F91D" blockId="72.[290,1686,960,1828]" pageId="72" pageNumber="145">
+<materialsCitation id="EEF93C42FFB8514E5E3FAAA1FB5DF91D" ID-GBIF-Occurrence="3989438304" collectedFrom="taken at Agat, Piti, and Merizo; one was swept from grass and two were taken from corn" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="72" pageNumber="145">
+Most of the 
+<collectingCountry id="2686768FFFB8514E5D16AAA1FD4FF9B2" box="[589,693,1531,1572]" name="Guam" pageId="72" pageNumber="145">Guam</collectingCountry>
+specimens in the collection belong to the large variety, 
+<emphasis id="6CE5EA0DFFB8514E5E7FA975FE41F9CE" box="[292,443,1583,1624]" italics="true" pageId="72" pageNumber="145">zea-mais</emphasis>
+(Motschulsky) and were taken at Agat, Piti, and Merizo; one was swept from grass and two were taken from corn
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB8514E5E3EA9CCFD4DF8B2" pageId="72" pageNumber="145" type="discussion">
+<paragraph id="5E2E361FFFB8514E5E3EA9CCFD4DF8B2" blockId="72.[290,1686,960,1828]" pageId="72" pageNumber="145">
+I understand that formal application is to be made to the International Congress of Nomenclature to stabilize the long used name 
+<taxonomicName id="99914D9CFFB8514E5A6EA99DFA28F967" authorityName="Bartram" authorityYear="1791" box="[1333,1490,1735,1777]" class="Insecta" family="Dryophthoridae" genus="Calandra" kingdom="Animalia" order="Coleoptera" pageId="72" pageNumber="145" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFB8514E5A6EA99DFA28F967" box="[1333,1490,1735,1777]" italics="true" pageId="72" pageNumber="145">Calandra</emphasis>
+</taxonomicName>
+in place of 
+<taxonomicName id="99914D9CFFB8514E5E7EA9A6FD4DF8B2" box="[293,695,1788,1828]" pageId="72" pageNumber="145">TODO TODO</taxonomicName>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

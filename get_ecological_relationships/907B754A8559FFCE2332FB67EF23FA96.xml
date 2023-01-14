@@ -1,0 +1,67 @@
+<document id="50EE910CEB4799A24568D6A70C7C9EB3" ID-DOI="http://doi.org/10.5281/zenodo.5156759" ID-GBIF-Dataset="6e65e7d3-7a72-4da4-9739-5e3814593490" ID-Zenodo-Dep="5156759" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628022238476" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="907B754A8559FFCE2332FB67EF23FA96" docLanguage="en" docName="InsectsOfGuamII.189.221-227.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Chelonus" docType="treatment" docVersion="11" lastPageNumber="225" masterDocId="6C420D32855DFFCA221EFFCCE940FF9E" masterDocTitle="Ichneumonidae, Evaniidae, And Braconidae Of Guam" masterLastPageNumber="227" masterPageNumber="221" pageNumber="225" updateTime="1660588485465" updateUser="annettekang">
+<mods:mods id="50FC437616781ABB79B29319CB3FA14C" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="A4B224AD6BCBF7508D0EF9EFD7D08897">
+<mods:title id="A8DA353CC8FEB5004B6BD062F2F65A46">Ichneumonidae, Evaniidae, And Braconidae Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="DFBC9DE54C7E4DA753E4C44C92600DD1" type="personal">
+<mods:role id="E0E249722656BE0B5867598CCD00E77C">
+<mods:roleTerm id="57F743F6DB44C145ECB39DFA0E0F13EE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C8F12B5A5532AC9B93708BF12380C12F">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="AAF4D75B899763BD075F41BB3E12FA0E">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="6E874154536CA995B5F9FA48624C5956">text</mods:typeOfResource>
+<mods:relatedItem id="2F219E855BB4A61D000502139B044255" type="host">
+<mods:originInfo id="231491A690DB55EF1BE9B915F74CAC8D">
+<mods:dateIssued id="586B52F9BA54BC7B64C51125FED6B8A0">1946</mods:dateIssued>
+<mods:dateOther id="F038B02F2B3F1E1E78A5DE37D13634CC" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="D560CFCF74073B84C745BC379590EF7E">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="DEFAB5F5383C84081A4B449D399436E3">
+<mods:placeTerm id="69B7A296FB17790E2EE2CBD5BFE32C6C">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="B6F1839FCA6D0878B01EE5208727A3B8">
+<mods:title id="CB58DFA02D0678B4C099799B04941C55">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="1A5FCFD29E8C9D17C929557A65940649">
+<mods:extent id="06D2DAAE309D6D6B71A6ACA86DBBE958" unit="page">
+<mods:start id="2446C26A9DA7C7ED80173E6BAF713773">221</mods:start>
+<mods:end id="3046A50037921929D9D06DAAEECF8ACE">227</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="ED6B1DA4A173E161093CD9FB179DD07C">book chapter</mods:classification>
+<mods:identifier id="65C871CB30BD93817A72C399B08C689A" type="DOI">http://doi.org/10.5281/zenodo.5156759</mods:identifier>
+<mods:identifier id="9D51362027AB15BB17D1CAE21EEF9563" type="GBIF-Dataset">6e65e7d3-7a72-4da4-9739-5e3814593490</mods:identifier>
+<mods:identifier id="68304211B7E340510F2F6A0B5FB0AAB7" type="Zenodo-Dep">5156759</mods:identifier>
+</mods:mods>
+<treatment id="907B754A8559FFCE2332FB67EF23FA96" ID-DOI="http://doi.org/10.5281/zenodo.5186435" ID-GBIF-Taxon="187720547" ID-Zenodo-Dep="5186435" LSID="urn:lsid:plazi:treatment:907B754A8559FFCE2332FB67EF23FA96" httpUri="http://treatment.plazi.org/id/907B754A8559FFCE2332FB67EF23FA96" lastPageNumber="225" pageId="4" pageNumber="225">
+<subSubSection id="50C897D78559FFCE2332FB67EBE7FB4D" box="[300,679,1195,1235]" pageId="4" pageNumber="225" type="nomenclature">
+<paragraph id="186DC45C8559FFCE2332FB67EBE7FB4D" blockId="4.[300,330,1195,1235]" box="[300,679,1195,1235]" lastBlockId="4.[364,1635,1195,1288]" pageId="4" pageNumber="225">
+<heading id="432573308559FFCE2332FB67EBE7FB4D" box="[300,679,1195,1235]" centered="true" fontSize="11" level="2" pageId="4" pageNumber="225" reason="2">
+<emphasis id="2AA6184E8559FFCE2332FB67E80AFB4D" bold="true" box="[300,330,1195,1235]" pageId="4" pageNumber="225">3.</emphasis>
+<taxonomicName id="DFD2BFDF8559FFCE2372FB67EB50FB4D" box="[364,528,1195,1235]" class="Insecta" family="Braconidae" genus="Chelonus" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="225" phylum="Arthropoda" rank="genus">
+<emphasis id="2AA6184E8559FFCE2372FB67EB50FB4D" bold="true" box="[364,528,1195,1235]" pageId="4" pageNumber="225">Chelonus</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D78559FFCE2373FB12EF23FA96" box="[365,1635,1246,1288]" pageId="4" pageNumber="225" type="materials_examined">
+<paragraph id="186DC45C8559FFCE2373FB12EF23FA96" blockId="4.[364,1635,1195,1288]" box="[365,1635,1246,1288]" pageId="4" pageNumber="225">
+<materialsCitation id="A8BACE018559FFCE2373FB12EF1EFA96" ID-GBIF-Occurrence="3344810301" box="[365,1630,1246,1288]" collectedFrom="reared from bean leafminer" collectingDate="1936-05-14" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="4" pageNumber="225" specimenCount="1">
+<collectingMunicipality id="F8095E268559FFCE2373FB12EB4BFA96" box="[365,523,1246,1288]" pageId="4" pageNumber="225">Inarajan</collectingMunicipality>
+, 
+<date id="6C6CE29C8559FFCE203FFB12EBEAFA96" box="[545,682,1246,1288]" pageId="4" pageNumber="225" value="2014-05">
+<collectingDate id="7C281B748559FFCE203FFB12EBEAFA96" box="[545,682,1246,1288]" pageId="4" pageNumber="225" value="2014-05">May 14</collectingDate>
+</date>
+, 
+<specimenCount id="0ED40FD58559FFCE20DEFB12EAF3FA96" box="[704,947,1246,1288]" pageId="4" pageNumber="225" type="generic">one specimen</specimenCount>
+, reared from bean leafminer, 
+<collectorName id="B527A18A8559FFCE27C9FB12EF1EFA96" box="[1495,1630,1246,1288]" pageId="4" pageNumber="225">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

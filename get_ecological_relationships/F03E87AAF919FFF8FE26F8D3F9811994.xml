@@ -1,0 +1,66 @@
+<document id="45E71650F99FAB8B65B3DA3A2E5C7AF1" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF919FFF8FE26F8D3F9811994" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Lepidosaphes" docType="treatment" docVersion="13" lastPageNumber="160" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="160" updateTime="1663202592936" updateUser="aubreymoore">
+<mods:mods id="5C3B5FBFAAF4BEAC92D20011B9ABC6C7" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="4C3BE28A1E10A79B04A3E9480804E5B0">
+<mods:title id="83B09449E05F72E8416F8755C5BC6899">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="FFADDCCD5436CC5A3B7F459BF86E5F56" type="personal">
+<mods:role id="3754B855C78BDE7FF064A6A8B8FC2EF5">
+<mods:roleTerm id="FBB712F3660101E06AC5A09DBCDE67E2">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DEC5BAE6A3AD4A9587ED070180309C50">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="23AF92B9483F603F16810F9FD03E2867">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="73431F5ED45BD188601F671EECA2B724">text</mods:typeOfResource>
+<mods:relatedItem id="8F2129B4956141C9F3C3596D73220FFF" type="host">
+<mods:originInfo id="06CBEE0A5DE96463933D4953D0D962AB">
+<mods:dateIssued id="81F03FB283A9B6EF7A1211940172D796">1946</mods:dateIssued>
+<mods:dateOther id="8B78199C75A25062D08FF192FB70A4F5" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="E9335091F7AFE8AD01EC566046BD4986">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="74287E9CD2E67190D8C3289AE11CD74F">
+<mods:placeTerm id="15E5CA8D94593692B942468BC2226A08">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="0763E1D2C6307F6F0CCC796506CDFDFA">
+<mods:title id="AE4555FAE92B1D54F6FF83A20AEFDD77">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="7D8B929B56FA20C1B849DDC77CF8C43F">
+<mods:extent id="0F0CCB7D200532FDB68C5620C6D7A96E" unit="page">
+<mods:start id="43479638E98BB356006F0F3DFCFFD9CF">157</mods:start>
+<mods:end id="955D5DB0CB3BC5AB44604835E2CDADAC">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F93F810F2DA3F4FBA073F0F879C7AE78">book chapter</mods:classification>
+<mods:identifier id="8A7ABB3CB51BE9E6648A4C49FF8D71E0" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="0A0D62E05710FA76DC81C8133467C935" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="AA432E70D1CD05847C4AC43442BE2532" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF919FFF8FE26F8D3F9811994" ID-DOI="http://doi.org/10.5281/zenodo.5158130" ID-GBIF-Taxon="183925154" ID-Zenodo-Dep="5158130" LSID="urn:lsid:plazi:treatment:F03E87AAF919FFF8FE26F8D3F9811994" httpUri="http://treatment.plazi.org/id/F03E87AAF919FFF8FE26F8D3F9811994" lastPageNumber="160" pageId="3" pageNumber="160">
+<subSubSection id="308D6537F919FFF8FE26F8D3FC411948" box="[420,901,1869,1910]" pageId="3" pageNumber="160" type="nomenclature">
+<paragraph id="782836BCF919FFF8FE26F8D3FC411948" blockId="3.[420,1605,1869,1962]" box="[420,901,1869,1910]" pageId="3" pageNumber="160">
+<heading id="236081D0F919FFF8FE26F8D3FC411948" box="[420,901,1869,1910]" fontSize="8" level="2" pageId="3" pageNumber="160" reason="4">
+<emphasis id="4AE3EAAEF919FFF8FE26F8D3FD2A1948" bold="true" box="[420,750,1869,1910]" pageId="3" pageNumber="160">
+41. 
+<taxonomicName id="BF974D3FF919FFF8FE7AF8D3FD2A1948" box="[504,750,1869,1910]" class="Insecta" family="Coccidae" genus="Lepidosaphes" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="3" pageNumber="160" phylum="Arthropoda" rank="genus">Lepidosaphes</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F919FFF8FE65F81EF9811994" box="[487,1605,1920,1962]" pageId="3" pageNumber="160" type="materials_examined">
+<paragraph id="782836BCF919FFF8FE65F81EF9811994" blockId="3.[420,1605,1869,1962]" box="[487,1605,1920,1962]" pageId="3" pageNumber="160">
+<materialsCitation id="C8FF3CE1F919FFF8FE65F81EF9811994" ID-GBIF-Occurrence="3331839358" box="[487,1605,1920,1962]" collectedFrom="On Areca palm" collectingDate="1936" collectorName="Bureau of Entomology and Plant Quarantine" country="Guam" location="Guam" pageId="3" pageNumber="160">
+<collectingMunicipality id="984CACC6F919FFF8FE65F81EFDD81994" box="[487,540,1920,1962]" pageId="3" pageNumber="160">On</collectingMunicipality>
+<taxonomicName id="BF974D3FF919FFF8FDABF81EFD501994" box="[553,660,1920,1962]" class="Liliopsida" family="Arecaceae" genus="Areca" kingdom="Plantae" order="Arecales" pageId="3" pageNumber="160" phylum="Tracheophyta" rank="genus">
+<emphasis id="4AE3EAAEF919FFF8FDABF81EFD501994" box="[553,660,1920,1962]" italics="true" pageId="3" pageNumber="160">
+<location id="7D486067F919FFF8FDABF81EFD501994" LSID="urn:lsid:plazi:treatment:F03E87AAF919FFF8FE26F8D3F9811994:7D486067F919FFF8FDABF81EFD501994" box="[553,660,1920,1962]" municipality="On" name="Areca" pageId="3" pageNumber="160">Areca</location>
+</emphasis>
+</taxonomicName>
+palm, 
+<location id="7D486067F919FFF8FC92F81EF9841994" LSID="urn:lsid:plazi:treatment:F03E87AAF919FFF8FE26F8D3F9811994:7D486067F919FFF8FC92F81EF9841994" box="[784,1600,1920,1962]" municipality="On" name="Bureau of Entomology and Plant Quarantine" pageId="3" pageNumber="160">Bureau of Entomology and Plant Quarantine</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,76 @@
+<document id="02CEBA3182EFF46363E8EB7B67D6503E" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8FFFE1E4C0FB398B5CFB21" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Coccophagus orientalis Howard" docType="treatment" docVersion="15" lastPageNumber="216" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="216" updateTime="1663769165332" updateUser="annettekang">
+<mods:mods id="04AF1E6A27AF56435F48A8D6601BC847" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="010E866377746FE8C20F23A1D776FB1C">
+<mods:title id="51404DE6851FECFF6140607CE0C8AC1C">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="AB6BD501D0AA36E09A750028EDC2DC4F" type="personal">
+<mods:role id="75CECA7F6360323F78F0004CF547C5D7">
+<mods:roleTerm id="20E098623AE206F5CB905A06405E3DCC">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="53ED325FDC88F363CF6F83F69C42CCBB">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="CA0ECB8BE6B91437092036913061E91E">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="D7A5A5B9BA3598AF64D912DD7F68028A">text</mods:typeOfResource>
+<mods:relatedItem id="B2B44245E18D1286BC09F4E32A94776F" type="host">
+<mods:originInfo id="C2BEB942B12270346D17CC86E6F7229D">
+<mods:dateIssued id="6F08E143B67AB736C852D086B473E8F8">1946</mods:dateIssued>
+<mods:dateOther id="1C673F43F1C4C36DB34EC0D2CE7B92F8" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="4DF56B5A80D127E70A3EB681FEF648F4">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="264EB43E56E7CC8DF4F1B10EF3D53C4E">
+<mods:placeTerm id="D94250D0D9220B8D9B97A9AFF81B62FA">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="F80F5C21BB58E084657576DCF98DADFC">
+<mods:title id="E4952DBC45B932B03213336F1433CED3">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="22135D173F8562BACBAE2DE6F56072F3">
+<mods:extent id="AC63E48017AD0BDE27E09DA847F6D7BE" unit="page">
+<mods:start id="F8C864E5882D5779E9CC7D6F0412BC9D">211</mods:start>
+<mods:end id="C5B8814DDD6E5950FF52F31EEC590430">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="6943A5DF3F0FAA0C20FD9EB2BB8CC8B2">book chapter</mods:classification>
+<mods:identifier id="DFF253C7D3D2DCC572BE031B85294301" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="7849386D5E9B7B9681B1FD189432A6FD" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="9950EBB1FEAFEE91616AE575A368030E" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8FFFE1E4C0FB398B5CFB21" ID-DOI="http://doi.org/10.5281/zenodo.5188085" ID-GBIF-Taxon="187737431" ID-Zenodo-Dep="5188085" LSID="urn:lsid:plazi:treatment:7376EC19FF8FFFE1E4C0FB398B5CFB21" httpUri="http://treatment.plazi.org/id/7376EC19FF8FFFE1E4C0FB398B5CFB21" lastPageNumber="216" pageId="5" pageNumber="216">
+<paragraph id="FB605D0FFF8FFFE1E4C0FB398866FB6D" blockId="5.[451,1848,1173,1267]" box="[451,1848,1173,1215]" pageId="5" pageNumber="216">
+<bibCitation id="2EF55563FF8FFFE1E4C0FB398866FB6D" author="Howard" box="[451,1848,1173,1215]" journalOrPublisher="U. S. Nat. Mus., Proc." pageId="5" pageNumber="216" pagination="633" part="18" refId="ref2358" type="journal article" year="1896">
+<subSubSection id="B3C50E84FF8FFFE1E4C0FB398B2FFB6D" box="[451,1137,1173,1215]" pageId="5" pageNumber="216" type="nomenclature">
+<emphasis id="C9AB811DFF8FFFE1E4C0FB398EABFB6D" bold="true" box="[451,501,1173,1215]" pageId="5" pageNumber="216">3.9.</emphasis>
+<taxonomicName id="3CDF268CFF8FFFE1E71BFB398B34FB6D" authority="Howard" box="[536,1130,1173,1215]" class="Insecta" family="Aphelinidae" genus="Coccophagus" kingdom="Animalia" order="Hymenoptera" pageId="5" pageNumber="216" phylum="Arthropoda" rank="species" species="orientalis">
+<emphasis id="C9AB811DFF8FFFE1E71BFB398CE1FB6D" bold="true" box="[536,959,1173,1215]" pageId="5" pageNumber="216">Coccophagus orientalis</emphasis>
+<author id="2362B5EAFF8FFFE1E6D7FB398B34FB6D" box="[980,1130,1173,1215]" pageId="5" pageNumber="216">Howard</author>
+</taxonomicName>
+,
+</subSubSection>
+<subSubSection id="B3C50E84FF8FFFE1E180FB398866FB6D" box="[1155,1848,1173,1215]" pageId="5" pageNumber="216" type="reference_group">
+<treatmentCitationGroup id="DBCF7A21FF8FFFE1E180FB398866FB6D" box="[1155,1848,1173,1215]" pageId="5" pageNumber="216">
+<treatmentCitation id="7A7E7B1EFF8FFFE1E180FB398866FB6D" author="Howard" box="[1155,1848,1173,1215]" page="633" pageId="5" pageNumber="216" year="1896">
+<journalOrPublisher id="211E57C3FF8FFFE1E180FB398977FB6D" box="[1155,1577,1173,1215]" pageId="5" pageNumber="216">U. S. Nat. Mus., Proc.</journalOrPublisher>
+<part id="8F7BF792FF8FFFE1E343FB398930FB6D" box="[1600,1646,1173,1215]" pageId="5" pageNumber="216" type="volume">18</part>
+: 
+<pagination id="C216A3FBFF8FFFE1E376FB39899CFB6D" box="[1653,1730,1173,1215]" pageId="5" pageNumber="216" type="pagination">633</pagination>
+, 
+<year id="8F771C5CFF8FFFE1E3E3FB39886DFB6D" box="[1760,1843,1173,1215]" pageId="5" pageNumber="216">1896</year>
+.
+</treatmentCitation>
+</treatmentCitationGroup>
+</subSubSection>
+</bibCitation>
+</paragraph>
+<subSubSection id="B3C50E84FF8FFFE1E702FB648B5CFB21" box="[513,1026,1224,1267]" pageId="5" pageNumber="216" type="discussion">
+<paragraph id="FB605D0FFF8FFFE1E702FB648B5CFB21" blockId="5.[451,1848,1173,1267]" box="[513,1026,1224,1267]" pageId="5" pageNumber="216">
+<materialsCitation id="4BB75752FF8FFFE1E702FB648CA3FB21" ID-GBIF-Occurrence="3901040376" box="[513,1021,1224,1267]" collectingDate="1913" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="5" pageNumber="216">
+<location id="FE000BD4FF8FFFE1E702FB648D2CFB21" LSID="urn:lsid:plazi:treatment:7376EC19FF8FFFE1E4C0FB398B5CFB21:FE000BD4FF8FFFE1E702FB648D2CFB21" box="[513,626,1224,1267]" name="Listed" pageId="5" pageNumber="216">Listed</location>
+by 
+<collectorName id="562A38D9FF8FFFE1E7BEFB648C36FB21" box="[701,872,1224,1267]" pageId="5" pageNumber="216">Fullaway</collectorName>
+in 1913
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

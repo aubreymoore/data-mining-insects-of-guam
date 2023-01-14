@@ -1,0 +1,117 @@
+<document id="B4DFD5961C0CF222BEA82AB7B0141136" ID-DOI="http://doi.org/10.5281/zenodo.5174008" ID-GBIF-Dataset="62345736-dcf6-4c38-a870-36a90992dabb" ID-Zenodo-Dep="5174008" checkinTime="1628020725273" checkinUser="carolina" docAuthor="Metcalf, Z. P." docDate="1946" docId="416187EDEB4BFFECFE804C8D8AE0FB56" docLanguage="en" docName="InsectsOfGuamII.189.105-148.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Euscelis picturatus, new species" docType="treatment" docVersion="13" lastPageNumber="126" masterDocId="BD58FF95EB59FFFFFFB04B578875FD6D" masterDocTitle="Homoptera, Fulgoroidea and Jassoidea of Guam" masterLastPageNumber="148" masterPageNumber="105" pageNumber="123" updateTime="1660147027321" updateUser="annettekang">
+<mods:mods id="34EE932249928E0151BC1D7AD9278CFF" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="8FECA2A99A8A2C18219B410428121637">
+<mods:title id="76D397EC9947D2076B88115EB879ECEA">Homoptera, Fulgoroidea and Jassoidea of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="2D46FAFFC709D6F993014B756898A18F" type="personal">
+<mods:role id="71129F6439A83D577277AB4999DBD956">
+<mods:roleTerm id="8B64495B0C0E908A222AA433B24A3940">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="56DE453040475ED139FA000AE01FCE28">Metcalf, Z. P.</mods:namePart>
+<mods:affiliation id="7311985B012EA57394555A3CA43F2A1E">College of Agriculture and Engineering, University of North Carolins</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="B30FC0C3290B4BCB81903C2AD37C59B1">text</mods:typeOfResource>
+<mods:relatedItem id="12138A7D91A117EF2C47385C11C8C619" type="host">
+<mods:originInfo id="1E7860C7F97E5DFBA8A9C25F45BE134A">
+<mods:dateIssued id="D872A32E39920931C9B7A95D26380B6F">1946</mods:dateIssued>
+<mods:dateOther id="7753F40C1D58848A60E00BC1CED6B355" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="654429D96F1D7661FD91527F3B96B5BD">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="06BC88F7B13339489B8542C6A6F56DA5">
+<mods:placeTerm id="901D2FF68C067A47F0097D380944F9F7">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="41462C7830806B022F77D1FD6307EF40">
+<mods:title id="DC028329CD1F84903587A9310FA36E43">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="0F9C9185BBA6EDFEF45D5F9618ADA097">
+<mods:extent id="E10294563C6437C1EF5EDF8D659CDEB5" unit="page">
+<mods:start id="CC42CA186B58439F502CEEA7AEA90D0A">105</mods:start>
+<mods:end id="79529CC79ACDDEC6D564A0704D2C0FF8">148</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="635B7AAF6620CA2273FC1F325EBD90E9">book chapter</mods:classification>
+<mods:identifier id="BF098A4B9ED3AB26054F83CD33DCB0D1" type="DOI">http://doi.org/10.5281/zenodo.5174008</mods:identifier>
+<mods:identifier id="41903150AD1FA58FC53FC5F9ADFDAEC6" type="GBIF-Dataset">62345736-dcf6-4c38-a870-36a90992dabb</mods:identifier>
+<mods:identifier id="276B7B601CA52CE4B4F7E676042AFB8B" type="Zenodo-Dep">5174008</mods:identifier>
+</mods:mods>
+<treatment id="416187EDEB4BFFECFE804C8D8AE0FB56" ID-DOI="http://doi.org/10.5281/zenodo.5188151" ID-GBIF-Taxon="184009005" ID-Zenodo-Dep="5188151" LSID="urn:lsid:plazi:treatment:416187EDEB4BFFECFE804C8D8AE0FB56" httpUri="http://treatment.plazi.org/id/416187EDEB4BFFECFE804C8D8AE0FB56" lastPageId="19" lastPageNumber="126" pageId="18" pageNumber="123">
+<subSubSection id="81D26570EB4BFFEDFE804C8D8CB0F569" box="[304,1221,2010,2052]" pageId="18" pageNumber="123" type="nomenclature">
+<paragraph id="C97736FBEB4BFFEDFE804C8D8CB0F569" blockId="18.[304,1704,2010,2487]" box="[304,1221,2010,2052]" pageId="18" pageNumber="123">
+<heading id="923F8197EB4BFFEDFE804C8D8CB0F569" box="[304,1221,2010,2052]" fontSize="11" level="2" pageId="18" pageNumber="123" reason="2">
+<emphasis id="FBBCEAE9EB4BFFEDFE804C8D8AA1F569" bold="true" box="[304,724,2010,2052]" pageId="18" pageNumber="123">
+3. 
+<taxonomicName id="0EC84D78EB4BFFEDFEDF4C8D8AB8F569" authority="METCALF" box="[367,717,2010,2052]" class="Insecta" family="Cicadellidae" genus="Euscelis" kingdom="Animalia" order="Hemiptera" pageId="18" pageNumber="123" phylum="Arthropoda" rank="species" species="picturatus" status="new species">Euscelis picturatus</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="E08F5792EB4BFFEDFD534C8D8BC3F569" box="[739,950,2010,2052]" pageId="18" pageNumber="123" rank="species">new species</taxonomicNameLabel>
+(fig. 12, 
+<emphasis id="FBBCEAE9EB4BFFEDFBD44C8D8CF4F569" box="[1124,1153,2010,2052]" italics="true" pageId="18" pageNumber="123">a,</emphasis>
+b).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB4BFFECFEC6435A8C89FF3F" lastPageId="19" lastPageNumber="126" pageId="18" pageNumber="123" type="description">
+<paragraph id="C97736FBEB4BFFEDFEC6435A8C38F4DA" blockId="18.[304,1704,2010,2487]" pageId="18" pageNumber="123">Crown short and broad, nearly three times as broad as its median length, only about one third as long as the pronotum; anterior and posterior borders nearly parallel; surface smooth and shiny. Face smooth and shiny; the postclypeus about as long as the width between the ocelli; the ocelli close to the eyes but not touching; the lateral margins of the postclypeus diverging to the level of the antennae and then converging to the narrow anteclypeus; anteclypeus narrow at base, somewhat broadened, spatulate toward the apex; cheeks broad; the outer margins somewhat angulate. Antennae inserted at about the level of the eyes. Pronotum about three times as broad as its median length, but little narrower than the compound eyes; anterior margin broadly curved; posterior margin nearly transverse; smooth and shining. Tegmina rather thick and opaque; venation typical with three anteapical and four apical cells.</paragraph>
+<paragraph id="C97736FBEB4AFFECFE734A3E8A58FCD9" blockId="19.[451,1850,361,594]" pageId="19" pageNumber="126">
+<emphasis id="FBBCEAE9EB4AFFECFE734A3E8997FCE0" bold="true" box="[451,482,361,397]" pageId="19" pageNumber="126">as</emphasis>
+broad as its median length; deeply and somewhat triangularly excavated on the posterior border.
+</paragraph>
+<paragraph id="C97736FBEB4AFFECFDB84AE08E6EFF47" blockId="19.[451,1850,361,594]" pageId="19" pageNumber="126">General color above greenish testaceous, below, including the face and legs, chiefly testaceous with the eyes and the lateral pieces of the abdomen fuscous; tegmina translucent with a greenish cast; the veins whitish; wings milky subhyaline.</paragraph>
+<paragraph id="C97736FBEB4AFFECFDB8497B8C89FF3F" blockId="19.[451,1850,361,594]" box="[520,1276,556,594]" pageId="19" pageNumber="126">
+Length: to apex of abdomen, average 
+<quantity id="0E309B1EEB4AFFECFBC1497B8C8DFF3F" box="[1137,1272,556,594]" metricMagnitude="-3" metricUnit="m" metricValue="2.5" pageId="19" pageNumber="126" unit="mm" value="2.5">2.50 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB4AFFECFE674FAE8AE0FB56" pageId="19" pageNumber="126" type="materials_examined">
+<paragraph id="C97736FBEB4AFFECFE674FAE8AE0FB56" blockId="19.[449,1847,1273,1345]" lastBlockId="19.[450,1848,1401,1595]" pageId="19" pageNumber="126">
+TODO 
+<materialsCitation id="79A03CA6EB4AFFECFDB14E2E8DC2F8CF" ID-GBIF-Occurrence="3881969311" box="[513,1463,1401,1442]" collectingDate="1936-11-05" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="19" pageNumber="126" specimenCount="2" specimenCount-female="1" specimenCount-male="1" typeStatus="holotype male and allotype female">
+<typeStatus id="16738859EB4AFFECFDB14E2E8AD1F8CF" box="[513,676,1401,1442]" pageId="19" pageNumber="126">Holotype</typeStatus>
+<specimenCount id="DFCEFD72EB4AFFECFD024E2E8B73F8CF" box="[690,774,1401,1442]" pageId="19" pageNumber="126" type="male">male</specimenCount>
+, 
+<typeStatus id="16738859EB4AFFECFCAB4E2E8BD6F8CF" box="[795,931,1401,1442]" pageId="19" pageNumber="126">allotype</typeStatus>
+<specimenCount id="DFCEFD72EB4AFFECFC034E2E8C5FF8CF" box="[947,1066,1401,1442]" pageId="19" pageNumber="126" type="female">female</specimenCount>
+, 
+<location id="CC176020EB4AFFECFBF14E2E8CF6F8CF" LSID="urn:lsid:plazi:treatment:416187EDEB4BFFECFE804C8D8AE0FB56:CC176020EB4AFFECFBF14E2E8CF6F8CF" box="[1089,1155,1401,1442]" name="Piti" pageId="19" pageNumber="126">Piti</location>
+, 
+<date id="BD76103BEB4AFFECFB2B4E2E8D66F8CF" box="[1179,1299,1401,1442]" pageId="19" pageNumber="126">
+<collectingDate id="AD32E9D3EB4AFFECFB2B4E2E8D66F8CF" box="[1179,1299,1401,1442]" pageId="19" pageNumber="126">Nov. 5</collectingDate>
+</date>
+, 
+<location id="CC176020EB4AFFECFA9B4E2E8DC2F8CF" LSID="urn:lsid:plazi:treatment:416187EDEB4BFFECFE804C8D8AE0FB56:CC176020EB4AFFECFA9B4E2E8DC2F8CF" box="[1323,1463,1401,1442]" name="Swezey" pageId="19" pageNumber="126">Swezey</location>
+</materialsCitation>
+; 
+<materialsCitation id="79A03CA6EB4AFFECFA7C4E2E8C6EF8BB" ID-GBIF-Occurrence="3881969326" collectingDate="1936-11-05" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="19" pageNumber="126" specimenCount="24" specimenCount-female="6" specimenCount-male="18" typeStatus="paratypes">
+<typeStatus id="16738859EB4AFFECFA7C4E2E8EF4F8CF" box="[1484,1665,1401,1442]" pageId="19" pageNumber="126">paratypes</typeStatus>
+: 
+<specimenCount id="DFCEFD72EB4AFFECF9294E2E8F44F8CF" box="[1689,1841,1401,1442]" pageId="19" pageNumber="126" type="male">18 males</specimenCount>
+, 
+<specimenCount id="DFCEFD72EB4AFFECFE744EFC8AFBF8BB" box="[452,654,1451,1494]" pageId="19" pageNumber="126" type="female">six females</specimenCount>
+, 
+<location id="CC176020EB4AFFECFD144EFC8A93F8BB" LSID="urn:lsid:plazi:treatment:416187EDEB4BFFECFE804C8D8AE0FB56:CC176020EB4AFFECFD144EFC8A93F8BB" box="[676,742,1451,1494]" name="Piti" pageId="19" pageNumber="126">Piti</location>
+, 
+<date id="BD76103BEB4AFFECFD4D4EFC8B02F8BB" box="[765,887,1451,1494]" pageId="19" pageNumber="126">
+<collectingDate id="AD32E9D3EB4AFFECFD4D4EFC8B02F8BB" box="[765,887,1451,1494]" pageId="19" pageNumber="126">Nov. 5</collectingDate>
+</date>
+, 
+<location id="CC176020EB4AFFECFC3E4EFC8C6EF8BB" LSID="urn:lsid:plazi:treatment:416187EDEB4BFFECFE804C8D8AE0FB56:CC176020EB4AFFECFC3E4EFC8C6EF8BB" box="[910,1051,1451,1494]" name="Swezey" pageId="19" pageNumber="126">Swezey</location>
+</materialsCitation>
+; 
+<materialsCitation id="79A03CA6EB4AFFECFB804EFC8E87F8BB" ID-GBIF-Occurrence="3881969323" box="[1072,1778,1451,1494]" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="19" pageNumber="126" specimenCount-female="2">
+<specimenCount id="DFCEFD72EB4AFFECFB804EFC8D7DF8BB" box="[1072,1288,1451,1494]" pageId="19" pageNumber="126" type="female">two females</specimenCount>
+, 
+<location id="CC176020EB4AFFECFAAE4EFC8DBCF8BB" LSID="urn:lsid:plazi:treatment:416187EDEB4BFFECFE804C8D8AE0FB56:CC176020EB4AFFECFAAE4EFC8DBCF8BB" box="[1310,1481,1451,1494]" name="Upi Trail" pageId="19" pageNumber="126">Upi Trail</location>
+, 
+<date id="BD76103BEB4AFFECFA514EFC8E21F8BB" box="[1505,1620,1451,1494]" pageId="19" pageNumber="126">
+<collectingDate id="AD32E9D3EB4AFFECFA514EFC8E21F8BB" box="[1505,1620,1451,1494]" pageId="19" pageNumber="126">May 5</collectingDate>
+</date>
+, 
+<location id="CC176020EB4AFFECF9DB4EFC8E87F8BB" LSID="urn:lsid:plazi:treatment:416187EDEB4BFFECFE804C8D8AE0FB56:CC176020EB4AFFECF9DB4EFC8E87F8BB" box="[1643,1778,1451,1494]" name="Swezey" pageId="19" pageNumber="126">Swezey</location>
+</materialsCitation>
+. This is a greenish-testaceous species, with the crown about as long as the basal width.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

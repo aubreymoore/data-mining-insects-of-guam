@@ -1,0 +1,99 @@
+<document id="34FDE8DAB16E841D373D9092170FBB0C" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBD1B0AFEE2FCCE01AC423A" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Dibelonetes formosae Bernhauer 1922" docType="treatment" docVersion="17" lastPageNumber="153" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="153" updateTime="1671336034494" updateUser="annettekang">
+<mods:mods id="1F80D5E50B34445C130C53F27AAF738A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="F48E467FCCB9EB134196D91AFFE63D83">
+<mods:title id="4BE8D2FBBC058F0763E38F653BDD6AA9">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="CA437FBFABCD9EBE501AE7FF4CBAC688" type="personal">
+<mods:role id="7DEE641C51341213E4F6674285D0FCEE">
+<mods:roleTerm id="F993F926A98B870C02C0BBD32FDD6CE1">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="695AD23C884603370A33BEC306B32BEE">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="492E3E53F9973225102C916635D4D112">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="D4ED76288265C0B64B0E469F75D6999C">text</mods:typeOfResource>
+<mods:relatedItem id="C5B788D7EA83E45B1D2BA6D794A99DB9" type="host">
+<mods:originInfo id="71B22D9A2A71348485B0A6E123021586">
+<mods:dateIssued id="EDEAFEA549FEBBC9AFD61B74398822E9">1942</mods:dateIssued>
+<mods:dateOther id="6431665079928DA2CE510C1248972F81" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="691BB51D74073CA66F57C96EAD9AB170">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="C0826C3F434944ACFBA694B8596A14D0">
+<mods:placeTerm id="A925C5A8D627DB4D215736612B249B16">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="7A50E7DA7211A09A81865C2BC3663CB9">
+<mods:title id="18B100E6EFAB58FE1606F7B37BEDFCCF">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="89AEB96BDD7530B76AA61FB8DFF4A990">
+<mods:extent id="B6ED0D7417E40848F3D127C579E4B7DC" unit="page">
+<mods:start id="45E39E8322B7F0CD827DBB1D0B24C339">150</mods:start>
+<mods:end id="419CFF3F93684E3013B8C8F44B143EEA">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="370C4E7728F20C81004DF95B1A9D1018">book chapter</mods:classification>
+<mods:identifier id="4E95B478C15EF50BDF473376B1C91C1C" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="DFA8FAFB39C676E5445076D5AD4F517A" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="F598850D69C62609E133EB060A10550C" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<subSection id="D64D2F18FFBD1B0AFEE2FCCE01AC423A" pageId="3" pageNumber="153" type="multiple">
+<treatment id="376B87E5FFBD1B0AFEE2FCCE01AC423A" ID-DOI="http://doi.org/10.5281/zenodo.5180780" ID-GBIF-Taxon="184415231" ID-Zenodo-Dep="5180780" LSID="urn:lsid:plazi:treatment:376B87E5FFBD1B0AFEE2FCCE01AC423A" httpUri="http://treatment.plazi.org/id/376B87E5FFBD1B0AFEE2FCCE01AC423A" lastPageNumber="153" pageId="3" pageNumber="153">
+<subSubSection id="F7D86578FFBD1B0AFEE2FCCE04E44590" box="[312,994,891,934]" pageId="3" pageNumber="153" type="nomenclature">
+<paragraph id="BF7D36F3FFBD1B0AFEE2FCCE04E44590" blockId="3.[312,341,891,933]" box="[312,994,891,934]" lastBlockId="3.[375,1706,892,1036]" pageId="3" pageNumber="153">
+<heading id="E435819FFFBD1B0AFEE2FCCE04DD4590" box="[312,987,891,934]" centered="true" fontSize="8" level="2" pageId="3" pageNumber="153" reason="4">
+7. 
+<taxonomicName id="78C24D70FFBD1B0AFEADFCC904DD4590" authority="Bernhauer" authorityName="Bernhauer" authorityYear="1922" box="[375,987,892,934]" class="Insecta" family="Staphylinidae" genus="Dibelonetes" kingdom="Animalia" order="Coleoptera" pageId="3" pageNumber="153" phylum="Arthropoda" rank="species" species="formosae">Dibelonetes formosae Bernhauer</taxonomicName>
+</heading>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBD1B0AFC2DFCC903ED45EF" pageId="3" pageNumber="153" type="reference_group">
+<paragraph id="BF7D36F3FFBD1B0AFC2DFCC903ED45EF" blockId="3.[375,1706,892,1036]" pageId="3" pageNumber="153">
+<bibCitation id="6AE83E9FFFBD1B0AFC2DFCC903ED45EF" author="Bernhauer" journalOrPublisher="Arch. Naturg. Abt. A" pageId="3" pageNumber="153" pagination="228" part="88" refId="ref1557" title="Coleopt. Catalog" type="journal article" year="1922">
+<treatmentCitationGroup id="9FD211DDFFBD1B0AFC2DFCC903E045EF" pageId="3" pageNumber="153">
+<treatmentCitation id="3E6310E2FFBD1B0AFC2DFCC901AF4590" author="Bernhauer" box="[1015,1705,892,934]" page="228" pageId="3" pageNumber="153" year="1922">
+<journalOrPublisher id="65033C3FFFBD1B0AFC2DFCC902934590" box="[1015,1429,892,934]" pageId="3" pageNumber="153">Arch. Naturg. Abt. A</journalOrPublisher>
+, 
+<part id="CB669C6EFFBD1B0AFA6BFCC902E74590" box="[1457,1505,892,934]" pageId="3" pageNumber="153" type="volume">88</part>
+: 
+<pagination id="860BC807FFBD1B0AFA3DFCC901354590" box="[1511,1587,892,934]" pageId="3" pageNumber="153" type="pageRange">228</pagination>
+, 
+<year id="CB6A77A0FFBD1B0AF989FCC901A24590" box="[1619,1700,892,934]" pageId="3" pageNumber="153">1922</year>
+.
+</treatmentCitation>
+<treatmentCitation id="3E6310E2FFBD1B0AFEADFC1A03E045EF" author="Scheerpeltz" box="[375,1254,943,985]" page="1229" pageId="3" pageNumber="153" year="1933">
+<author id="677FDE16FFBD1B0AFEADFC1A054C45EF" box="[375,586,943,985]" pageId="3" pageNumber="153">Scheerpeltz</author>
+, 
+<title id="CDC6DDC5FFBD1B0AFD85FC1A049645EF" box="[607,912,943,985]" pageId="3" pageNumber="153">Coleopt. Catalog</title>
+. (
+<part id="CB669C6EFFBD1B0AFC6FFC1A04F245EF" box="[949,1012,943,985]" pageId="3" pageNumber="153" type="volume">129</part>
+): 
+<pagination id="860BC807FFBD1B0AFBF1FC1A037A45EF" box="[1067,1148,943,985]" pageId="3" pageNumber="153" type="pageRange">1229</pagination>
+, 
+<year id="CB6A77A0FFBD1B0AFB4EFC1A03E045EF" box="[1172,1254,943,985]" pageId="3" pageNumber="153">1933</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBD1B0AFEADFC5701AC423A" box="[375,1706,994,1036]" pageId="3" pageNumber="153" type="materials_examined">
+<paragraph id="BF7D36F3FFBD1B0AFEADFC5701AC423A" blockId="3.[375,1706,892,1036]" box="[375,1706,994,1036]" pageId="3" pageNumber="153">
+<materialsCitation id="0FAA3CAEFFBD1B0AFEADFC5701AC423A" ID-GBIF-Occurrence="3334692399" box="[375,1706,994,1036]" collectedFrom="at light, described from Formosa" collectingDate="1936-07-03" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="3" pageNumber="153" specimenCount="1">
+<location id="BA1D6028FFBD1B0AFEADFC5706BC423A" LSID="urn:lsid:plazi:treatment:376B87E5FFBD1B0AFEE2FCCE01AC423A:BA1D6028FFBD1B0AFEADFC5706BC423A" box="[375,442,994,1036]" country="Taiwan" name="Piti" pageId="3" pageNumber="153">Piti</location>
+, 
+<date id="CB7C1033FFBD1B0AFE0CFC57054D423A" box="[470,587,994,1036]" pageId="3" pageNumber="153">
+<collectingDate id="DB38E9DBFFBD1B0AFE0CFC57054D423A" box="[470,587,994,1036]" pageId="3" pageNumber="153">July 3</collectingDate>
+</date>
+, at light, 
+<collectorName id="12375325FFBD1B0AFCCAFC57049E423A" box="[784,920,994,1036]" pageId="3" pageNumber="153">Swezey</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFBD1B0AFC6EFC5703AD423A" box="[948,1195,994,1036]" pageId="3" pageNumber="153" type="generic">one specimen</specimenCount>
+. Described from 
+<collectingCountry id="C7D57663FFBD1B0AF9D8FC5701A3423A" box="[1538,1701,994,1036]" name="Taiwan" pageId="3" pageNumber="153">Formosa</collectingCountry>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</subSection>
+</document>

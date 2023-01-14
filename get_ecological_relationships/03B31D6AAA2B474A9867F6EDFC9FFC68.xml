@@ -1,0 +1,148 @@
+<document id="982FD43746A7B4964A06D1E40FF2A817" ID-DOI="http://doi.org/10.5281/zenodo.5160043" ID-GBIF-Dataset="9298158c-3c02-4ba2-ab8a-87c7f9c8e70b" ID-Zenodo-Dep="5160043" checkinTime="1627487837253" checkinUser="admin" docAuthor="Swezey, O. H." docDate="1942" docId="03B31D6AAA2B474A9867F6EDFC9FFC68" docLanguage="en" docName="InsectsOfGuamI.172.30-38.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Biship Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Zizula Gaika" docType="treatment" docVersion="15" lastPageNumber="38" masterDocId="FF8A6512AA2D474D9945FF80FFCFFFAC" masterDocTitle="Lepidoptera, Butterflies of Guam" masterLastPageNumber="38" masterPageNumber="31" pageNumber="37" updateTime="1664293270315" updateUser="annettekang">
+<mods:mods id="903DE0D4525A6C0CFA15A588CF0E4D5F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="8F1DE149ACDF791EC3CF008E2636161D">
+<mods:title id="32E0BD7EDC59D4AE2C48C3D309742FAA">Lepidoptera, Butterflies of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="262490A41C295343685D9589E2DC72D9" type="personal">
+<mods:role id="1C09D82C6E9ECF1D51E3D74BDDB98392">
+<mods:roleTerm id="D13FB91AB0F8963331CB8ECD948B9821">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="278982884ADC425E28D0D985DC34E909">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="FB60F13E46BFE148EE6374E29EE93D9C">Experiment Station Hawaiian Sugar Planters' Associantion, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="E58F7DA21CEDB8DE13E4BDF3B9AFA4AB">text</mods:typeOfResource>
+<mods:relatedItem id="B4F42A743F220454F8604C91977B2C0F" type="host">
+<mods:originInfo id="0EBDE0207EE8BD061F57F766D54B54E0">
+<mods:dateIssued id="4DCC5D86BD2DE1B4AB579F7292C11596">1942</mods:dateIssued>
+<mods:dateOther id="6C222C88EDBAB5FC535D9ADE331E7673" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="7B6AD5D45D8F2301484AF8433A9E37DB">Bernice P. Biship Museum</mods:publisher>
+<mods:place id="F41AC4955742B99925EB1CB2A49C7D9E">
+<mods:placeTerm id="ECB3E81CB4DED5893955701F86FE2D36">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="1D1526A8AAF508941C97E50A17C2888A">
+<mods:title id="6C0221D01CD34370E607297B31C491C7">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="A735A249160229DFEFA438AF4602F041">
+<mods:extent id="F0A43E0099999E87895BD6093EFB6188" unit="page">
+<mods:start id="5DE270BDD3FDDA3BBF29332F3BF83D16">31</mods:start>
+<mods:end id="40B26CDAE01451DABA58A45B324A3448">38</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="92345EAFBD0B44FC2B66CF4F72DE4380">book chapter</mods:classification>
+<mods:identifier id="0454BAC3C6310EF3984E326ACAAABCA5" type="DOI">http://doi.org/10.5281/zenodo.5160043</mods:identifier>
+<mods:identifier id="4F4973EFFA933B0661353ADB74CB6E69" type="GBIF-Dataset">9298158c-3c02-4ba2-ab8a-87c7f9c8e70b</mods:identifier>
+<mods:identifier id="6B66A3F6A63EEBC8CBC361E85D692EF4" type="Zenodo-Dep">5160043</mods:identifier>
+</mods:mods>
+<treatment id="03B31D6AAA2B474A9867F6EDFC9FFC68" ID-DOI="http://doi.org/10.5281/zenodo.5526399" ID-GBIF-Taxon="187975374" ID-Zenodo-Dep="5526399" LSID="urn:lsid:plazi:treatment:03B31D6AAA2B474A9867F6EDFC9FFC68" httpUri="http://treatment.plazi.org/id/03B31D6AAA2B474A9867F6EDFC9FFC68" lastPageId="7" lastPageNumber="38" pageId="6" pageNumber="37">
+<subSubSection id="C300FFF7AA2B474B9867F6EDFCD3F63B" box="[290,796,2413,2455]" pageId="6" pageNumber="37" type="nomenclature">
+<paragraph id="8BA5AC7CAA2B474B9867F6EDFCD3F63B" blockId="6.[290,1561,2413,2526]" box="[290,796,2413,2455]" pageId="6" pageNumber="37">
+<heading id="D0ED1B10AA2B474B9867F6EDFCD3F63B" box="[290,796,2413,2455]" fontSize="8" level="2" pageId="6" pageNumber="37" reason="4">
+15. 
+<taxonomicName id="4C1AD7FFAA2B474B9837F6EFFD99F63B" authority="gaika" authorityName="Gaika" box="[370,598,2415,2455]" class="Insecta" family="Lycaenidae" genus="Zizula" kingdom="Animalia" order="Lepidoptera" pageId="6" pageNumber="38" phylum="Arthropoda" rank="genus">Zizula gaika</taxonomicName>
+(Trimen).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C300FFF7AA2B474A981BF623FC9FFC68" lastPageId="7" lastPageNumber="38" pageId="6" pageNumber="37" type="description">
+<paragraph id="8BA5AC7CAA2B474B981BF623F9D6F668" blockId="6.[290,1561,2413,2526]" box="[350,1561,2466,2509]" pageId="6" pageNumber="37">
+<treatmentCitationGroup id="AB0A8B52AA2B474B981BF623F9D6F668" box="[350,1561,2466,2509]" pageId="6" pageNumber="37">
+<treatmentCitation id="0ABB8A6DAA2B474B981BF623F9DFF668" author="Trimen" box="[350,1552,2466,2509]" page="403" pageId="6" pageNumber="37" year="1862">
+<taxonomicName id="4C1AD7FFAA2B474B981BF623FD34F66E" authority="Gaika Trimen, Ent. Soc. London, Trans." box="[350,763,2466,2506]" class="Insecta" family="Lycaenidae" genus="Lycaena" kingdom="Animalia" order="Lepidoptera" pageId="6" pageNumber="37" phylum="Arthropoda" rank="genus">
+Lycaena Gaika 
+<bibCitation id="5E30A410AA2B474B9B32F622F9DFF668" author="Trimen" box="[631,1552,2466,2509]" journalOrPublisher="Ent. Soc. London, Trans." pageId="6" pageNumber="37" pagination="403" part="3" type="journal article" year="1862">
+<author id="53A74499AA2B474B9B32F622FD34F66E" box="[631,763,2466,2498]" pageId="6" pageNumber="37">Trimen</author>
+, 
+<journalOrPublisher id="51DBA6B0AA2B474B9A52F622FB2FF668" box="[791,1248,2466,2505]" pageId="6" pageNumber="37">Ent. Soc. London, Trans.</journalOrPublisher>
+<part id="FFBE06E1AA2B474B9DB7F626FACBF668" box="[1266,1284,2470,2500]" pageId="6" pageNumber="37" type="volume">3</part>
+(
+<part id="FFBE06E1AA2B474B9C67F625FAE0F668" box="[1314,1327,2469,2500]" pageId="6" pageNumber="37" type="issue">1</part>
+): 
+<pagination id="B2D35288AA2B474B9C22F624FA6DF668" box="[1383,1442,2468,2500]" pageId="6" pageNumber="37" type="pagination">403</pagination>
+, 
+<year id="FFB2ED2FAA2B474B9C87F625F9DFF668" box="[1474,1552,2469,2500]" pageId="6" pageNumber="37">1862</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA5AC7CAA2A474A9896FE15FB8DFE58" blockId="7.[404,1799,405,964]" pageId="7" pageNumber="38">
+<treatmentCitation id="0ABB8A6DAA2A474A9896FE15FB8DFE58" author="Chapman" page="483, 493, 495" pageId="7" pageNumber="38" year="1910">
+<treatmentCitationGroup id="AB0A8B52AA2A474A9896FE15FBF2FE58" pageId="7" pageNumber="38">
+<taxonomicName id="4C1AD7FFAA2A474A9896FE15FBFCFE6C" authority="Gaika" authorityName="Gaika" box="[467,1075,405,448]" class="Insecta" family="Lycaenidae" genus="Zizula" kingdom="Animalia" order="Lepidoptera" pageId="7" pageNumber="38" phylum="Arthropoda" rank="genus">
+<emphasis id="B96E706EAA2A474A9896FE15FD77FE6C" box="[467,696,405,448]" italics="true" pageId="7" pageNumber="38">Zizula Gaika</emphasis>
+(Trimen) 
+<bibCitation id="5E30A410AA2A474A9ACEFE15FBF2FE58" author="Chapman" journalOrPublisher="Ent. Soc. Lond., Trans." pageId="7" pageNumber="38" pagination="483" type="journal article" year="1910">
+<author id="53A74499AA2A474A9ACEFE15FBFCFE6C" box="[907,1075,405,448]" pageId="7" pageNumber="38">Chapman</author>
+, 
+<journalOrPublisher id="51DBA6B0AA2A474A9D0FFE15FA37FE6C" box="[1098,1528,405,448]" pageId="7" pageNumber="38">Ent. Soc. Lond., Trans.</journalOrPublisher>
+, 
+<pagination id="B2D35288AA2A474A9F55FE15F99FFE6C" box="[1552,1616,405,448]" pageId="7" pageNumber="38" type="pageRange">483</pagination>
+, 
+<pagination id="B2D35288AA2A474A9F22FE15F967FE6C" box="[1639,1704,405,448]" pageId="7" pageNumber="38" type="pageRange">493</pagination>
+, 
+<pagination id="B2D35288AA2A474A9FFBFE15F8CFFE6C" box="[1726,1792,405,448]" pageId="7" pageNumber="38" type="pageRange">495</pagination>
+, pl. TODO 52, fig. 8, pl. 53, fig. 12, 
+<year id="FFB2ED2FAA2A474A9AAEFE4AFBF2FE58" box="[1003,1085,458,500]" pageId="7" pageNumber="38">1910</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitationGroup>
+.
+</treatmentCitation>
+</paragraph>
+<paragraph id="8BA5AC7CAA2A474A9891FE7EFD71FDF0" blockId="7.[404,1799,405,964]" pageId="7" pageNumber="38">
+<materialsCitation id="3B72A621AA2A474A9891FE7EFC2CFD84" ID-GBIF-Occurrence="3913379326" box="[468,995,510,552]" collectingDate="1936-04-16" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="7" pageNumber="38">
+<location id="8EC5FAA7AA2A474A9891FE7EFD69FD84" LSID="urn:lsid:plazi:treatment:03B31D6AAA2B474A9867F6EDFC9FFC68:8EC5FAA7AA2A474A9891FE7EFD69FD84" box="[468,678,510,552]" name="Ritidian Pt." pageId="7" pageNumber="38">Ritidian Pt.</location>
+, 
+<date id="FFA48ABCAA2A474A9BFAFE7EFC99FD84" box="[703,854,510,552]" pageId="7" pageNumber="38" value="2016-04">
+<collectingDate id="EFE07354AA2A474A9BFAFE7EFC99FD84" box="[703,854,510,552]" pageId="7" pageNumber="38" value="2016-04">April 16</collectingDate>
+</date>
+, 
+<collectorName id="26EFC9AAAA2A474A9A2BFE7EFC2CFD84" box="[878,995,510,552]" pageId="7" pageNumber="38">Bryan</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="3B72A621AA2A474A9AB9FE7EFA5DFD84" ID-GBIF-Occurrence="3913379348" box="[1020,1426,510,552]" collectingDate="1936-04-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="38">
+<collectingMunicipality id="6BC13606AA2A474A9AB9FE7EFBF1FD84" box="[1020,1086,510,552]" pageId="7" pageNumber="38">Piti</collectingMunicipality>
+, 
+<date id="FFA48ABCAA2A474A9D10FE7EFB21FD84" box="[1109,1262,510,552]" pageId="7" pageNumber="38" value="1930-04">
+<collectingDate id="EFE07354AA2A474A9D10FE7EFB21FD84" box="[1109,1262,510,552]" pageId="7" pageNumber="38" value="1930-04">April 30</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA2A474A9C43FE7EFA5DFD84" LSID="urn:lsid:plazi:treatment:03B31D6AAA2B474A9867F6EDFC9FFC68:8EC5FAA7AA2A474A9C43FE7EFA5DFD84" box="[1286,1426,510,552]" municipality="Piti" name="Swezey" pageId="7" pageNumber="38">Swezey</location>
+</materialsCitation>
+; 
+<materialsCitation id="3B72A621AA2A474A9CEFFE7EFD76FDF0" ID-GBIF-Occurrence="3913379330" collectedFrom="near spring" collectingDate="1936-05-25" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="7" pageNumber="38">
+<collectingMunicipality id="6BC13606AA2A474A9CEFFE7EF9D0FD84" box="[1450,1567,510,552]" pageId="7" pageNumber="38">Agana</collectingMunicipality>
+, near spring, 
+<date id="FFA48ABCAA2A474A98D0FDB1FDD4FDF0" box="[405,539,561,604]" pageId="7" pageNumber="38" value="1925-05">
+<collectingDate id="EFE07354AA2A474A98D0FDB1FDD4FDF0" box="[405,539,561,604]" pageId="7" pageNumber="38" value="1925-05">May 25</collectingDate>
+</date>
+, 
+<location id="8EC5FAA7AA2A474A9B71FDB1FD76FDF0" LSID="urn:lsid:plazi:treatment:03B31D6AAA2B474A9867F6EDFC9FFC68:8EC5FAA7AA2A474A9B71FDB1FD76FDF0" box="[564,697,561,604]" municipality="Agana" name="Swezey" pageId="7" pageNumber="38">Swezey</location>
+</materialsCitation>
+.
+</paragraph>
+<paragraph id="8BA5AC7CAA2A474A9896FDE4FC9FFC68" blockId="7.[404,1799,405,964]" pageId="7" pageNumber="38">
+This tiny blue butterfly was described from 
+<collectingCountry id="F30DECECAA2A474A9C43FDE4FA38FD23" box="[1286,1527,612,655]" name="South Africa" pageId="7" pageNumber="38">South Africa</collectingCountry>
+. Dr. Marshall informs me that it has spread throughout the whole of the Old vVorld tropics, and has also been found in 
+<collectingCountry id="F30DECECAA2A474A9ACCFD4EFB8EFD5A" box="[905,1089,718,758]" name="Venezuela" pageId="7" pageNumber="38">Venezuela</collectingCountry>
+. We found it very abundant in 
+<collectingCountry id="F30DECECAA2A474A9FD0FD4EF8CFFD5A" box="[1685,1792,718,758]" name="Guam" pageId="7" pageNumber="38">Guam</collectingCountry>
+, in gardens and in low roadside weeds. vVe did not discover its larva, so do not know its food plant there. 
+<materialsCitation id="3B72A621AA2A474A9AACFCB5FBA9FC3D" ID-GBIF-Occurrence="3913379312" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="7" pageNumber="38">
+There are 
+<specimenCount id="9D1C67F5AA2A474A9DF7FCB5FAAFFCF1" box="[1202,1376,821,861]" pageId="7" pageNumber="38" type="generic">specimens</specimenCount>
+in the 
+<collectingCountry id="F30DECECAA2A474A9CB3FCB5F997FCF1" box="[1526,1624,821,861]" name="United States of America" pageId="7" pageNumber="38">U. S.</collectingCountry>
+National Museum, collected by 
+<location id="8EC5FAA7AA2A474A9A6FFCE8FC03FC3D" LSID="urn:lsid:plazi:treatment:03B31D6AAA2B474A9867F6EDFC9FFC68:8EC5FAA7AA2A474A9A6FFCE8FC03FC3D" box="[810,972,872,913]" country="United States of America" name="Fullaway" pageId="7" pageNumber="38">Fullaway</location>
+in 1911
+</materialsCitation>
+. Our specimens were determined by Dr. Guy A. K. Marshall.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

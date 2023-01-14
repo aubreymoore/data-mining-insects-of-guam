@@ -1,0 +1,83 @@
+<document id="946C7A4962698CDC8963126172EF2450" ID-DOI="http://doi.org/10.5281/zenodo.5156759" ID-GBIF-Dataset="6e65e7d3-7a72-4da4-9739-5e3814593490" ID-Zenodo-Dep="5156759" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628022238476" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="907B754A8559FFCE2333FAE5EBECFA73" docLanguage="en" docName="InsectsOfGuamII.189.221-227.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Phanerotoma melanocephala Fullaway" docType="treatment" docVersion="14" lastPageNumber="225" masterDocId="6C420D32855DFFCA221EFFCCE940FF9E" masterDocTitle="Ichneumonidae, Evaniidae, And Braconidae Of Guam" masterLastPageNumber="227" masterPageNumber="221" pageNumber="225" updateTime="1660588495563" updateUser="ExternalLinkService">
+<mods:mods id="A91934676B3E2E98D9EB173C41D8E1D6" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="1379A724E46EFF093722AE27C9A13AF6">
+<mods:title id="E8B707FD62D8597BB86ADD4EE82122E0">Ichneumonidae, Evaniidae, And Braconidae Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="B024FCB4E3838B3636F91F723AC2A181" type="personal">
+<mods:role id="40DC1DA2146D733DDDED908DBF9FD138">
+<mods:roleTerm id="9F400BC1FB0560CD8DDF3CE8684738C0">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="EF78D9664A824F7411C31D9A99E69903">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="4D5ABEBD099003995229EBBB7803AF0A">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="3D6A5571DC0F36B68B1819C7A0249A39">text</mods:typeOfResource>
+<mods:relatedItem id="75DEE11A62E5F6AA081BF0FBADF28F87" type="host">
+<mods:originInfo id="F1C47C65A90997DF1143069D78B84270">
+<mods:dateIssued id="9BBF5CFB82601E33832BFB8D7C5CF4BC">1946</mods:dateIssued>
+<mods:dateOther id="6106C2A71602CCD20344BE8049216E6B" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="2883904B8B05A176E0FA57C626D6375B">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="FD4CFF88F3E5DBC57B749B8051444C6F">
+<mods:placeTerm id="B6D05A41222155AE7301FDA55505325B">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="8C6F275600B85E0E047029421D00B854">
+<mods:title id="4D62C23B717BFAFDABF0EABC3247F54A">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="6919E74D6E81F577942D731E89180A65">
+<mods:extent id="8F7F59055E1ED46265C3F8AEF723FDF2" unit="page">
+<mods:start id="73CF646F1D33F90DC24B3F4D187491FB">221</mods:start>
+<mods:end id="27D8B58240B463AF158BA160F9925231">227</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="98EE9E4074B742826E96C84C56B434E1">book chapter</mods:classification>
+<mods:identifier id="F2DEADBAAC765286C1E761C2A1201324" type="DOI">http://doi.org/10.5281/zenodo.5156759</mods:identifier>
+<mods:identifier id="109D36630C0345044CBCC5594516EC7B" type="GBIF-Dataset">6e65e7d3-7a72-4da4-9739-5e3814593490</mods:identifier>
+<mods:identifier id="AD932D4A11AED156D13BAC44DBD7628C" type="Zenodo-Dep">5156759</mods:identifier>
+</mods:mods>
+<treatment id="907B754A8559FFCE2333FAE5EBECFA73" ID-DOI="http://doi.org/10.5281/zenodo.5186466" ID-GBIF-Taxon="183969193" ID-Zenodo-Dep="5186466" LSID="urn:lsid:plazi:treatment:907B754A8559FFCE2333FAE5EBECFA73" httpUri="http://treatment.plazi.org/id/907B754A8559FFCE2333FAE5EBECFA73" lastPageNumber="225" pageId="4" pageNumber="225">
+<paragraph id="186DC45C8559FFCE2333FAE5E885FA16" blockId="4.[301,1698,1321,1517]" pageId="4" pageNumber="225">
+<subSubSection id="50C897D78559FFCE2333FAE5ED7BFACA" box="[301,1083,1321,1364]" pageId="4" pageNumber="225" type="nomenclature">
+<heading id="432573308559FFCE2333FAE5ED7BFACA" box="[301,1083,1321,1364]" centered="true" fontSize="11" level="2" pageId="4" pageNumber="225" reason="2">
+<emphasis id="2AA6184E8559FFCE2333FAE5E80BFACA" bold="true" box="[301,331,1321,1364]" pageId="4" pageNumber="225">4.</emphasis>
+<taxonomicName id="DFD2BFDF8559FFCE2372FAE5ED74FACA" authority="Fullaway" authorityName="Fullaway" box="[364,1076,1321,1364]" class="Insecta" family="Braconidae" genus="Phanerotoma" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="225" phylum="Arthropoda" rank="species" species="melanocephala">
+<emphasis id="2AA6184E8559FFCE2372FAE5EA38FACA" bold="true" box="[364,888,1321,1364]" pageId="4" pageNumber="225">Phanerotoma melanocephala</emphasis>
+<author id="C06F2CB98559FFCE2196FAE5ED74FACA" box="[904,1076,1321,1364]" pageId="4" pageNumber="225">Fullaway</author>
+</taxonomicName>
+,
+</heading>
+</subSubSection>
+<subSubSection id="50C897D78559FFCE2653FAE5E885FA16" pageId="4" pageNumber="225" type="reference_group">
+<treatmentCitationGroup id="38C2E3728559FFCE2653FAE5E885FA16" pageId="4" pageNumber="225">
+<treatmentCitation id="9973E24D8559FFCE2653FAE5E885FA16" author="Fullaway" page="290" pageId="4" pageNumber="225" year="1913">
+<bibCitation id="CDF8CC308559FFCE2653FAE5E885FA16" author="Fullaway" journalOrPublisher="Haw. Ent. Soc., Proc." pageId="4" pageNumber="225" pagination="290" part="2" refId="ref2567" type="journal article" year="1913">
+<journalOrPublisher id="C213CE908559FFCE2653FAE5EC9CFACA" box="[1101,1500,1321,1364]" pageId="4" pageNumber="225">Haw. Ent. Soc., Proc.</journalOrPublisher>
+<part id="6C766EC18559FFCE27F2FAE5EF43FACA" box="[1516,1539,1321,1364]" pageId="4" pageNumber="225" type="volume">2</part>
+(
+<part id="6C766EC18559FFCE240FFAE5EF66FACA" box="[1553,1574,1321,1364]" pageId="4" pageNumber="225" type="issue">5</part>
+): 
+<pagination id="211B3AA88559FFCE2445FAE5EFDCFACA" box="[1627,1692,1321,1364]" pageId="4" pageNumber="225" type="pagination">290</pagination>
+, 
+<year id="6C7A850F8559FFCE2370FA92E880FA16" box="[366,448,1374,1416]" pageId="4" pageNumber="225">1913</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</subSubSection>
+</paragraph>
+<subSubSection id="50C897D78559FFCE2372FA5DEBECFA73" pageId="4" pageNumber="225" type="discussion">
+<paragraph id="186DC45C8559FFCE2372FA5DEBECFA73" blockId="4.[301,1698,1321,1517]" pageId="4" pageNumber="225">
+<materialsCitation id="A8BACE018559FFCE2372FA5DEBE7FA73" ID-GBIF-Occurrence="3888069312" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="4" pageNumber="225" specimenCount="1">
+Described from a single 
+<specimenCount id="0ED40FD58559FFCE2139FA5DEA89FA22" box="[807,969,1425,1468]" pageId="4" pageNumber="225" type="generic">specimen</specimenCount>
+collected in 
+<collectingCountry id="60C584CC8559FFCE26B2FA5DEC56FA22" box="[1196,1302,1425,1468]" name="Guam" pageId="4" pageNumber="225">Guam</collectingCountry>
+by 
+<collectingMunicipality id="F8095E268559FFCE2743FA5DEF46FA22" box="[1373,1542,1425,1468]" pageId="4" pageNumber="225">Fullaway</collectingMunicipality>
+in 1911; not collected in 1936
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

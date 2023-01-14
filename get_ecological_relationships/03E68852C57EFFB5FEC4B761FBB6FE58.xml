@@ -1,0 +1,178 @@
+<document id="BBE68D17C8E51B4BA9D5E13033648846" ID-DOI="http://doi.org/10.5281/zenodo.5159515" ID-GBIF-Dataset="c9232a85-5a09-440a-9ede-102073e7b6f0" ID-Zenodo-Dep="5159515" checkinTime="1627051975127" checkinUser="carolina" docAuthor="SWEZEY, O. H. &amp; WILLIAMS, F. X." docDate="1942" docId="03E68852C57EFFB5FEC4B761FBB6FE58" docLanguage="en" docName="InsectsOfGuamI.172.3-6.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 172" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Tholymis tillarga" docType="treatment" docVersion="13" lastPageNumber="5" masterDocId="FFDFF02AC57CFFB7FF89B354FF83F875" masterDocTitle="ODONATA, DRAGONFLIES OF GUAM" masterLastPageNumber="6" masterPageNumber="3" pageNumber="5" updateTime="1658861037059" updateUser="ExternalLinkService">
+<mods:mods id="5E9D3BE6934BE23C6B173F37D41DD24F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="319AE7B1FFBAE24053F1B62B3337403B">
+<mods:title id="22A5434FE4BE5E2A37C6E27DBFE3FC01">ODONATA, DRAGONFLIES OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="B452480B35E34474D436A584F74FC93A" type="personal">
+<mods:role id="27196244346D9E83B5108752BBC87611">
+<mods:roleTerm id="82D46F34D2C1305232FF1DEC1D74CEC0">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="25A96655B919554B4799496021D1EA64">SWEZEY, O. H.</mods:namePart>
+<mods:affiliation id="628AA501E1453D51EA97B497D25CE265">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:name id="06D33758EE864B318D6072F0BE0E47C2" type="personal">
+<mods:role id="53BB258B3DC97C14133DC2FE249AF3E7">
+<mods:roleTerm id="1589C10829D06D9A55CAF6EC359724F7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="07DC29332615CEB0DE84436C28F92FA0">WILLIAMS, F. X.</mods:namePart>
+<mods:affiliation id="A368C3A72269C55DFF8DBE2F798B72DF">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C6F3302420A21A0FDEFD254B3551A460">text</mods:typeOfResource>
+<mods:relatedItem id="6A8454AA04D8C71A596321142AF9FE4B" type="host">
+<mods:originInfo id="B1057A62700AE181D93D923BB6CE51AC">
+<mods:dateIssued id="39C71860E421AE38629C264E14C682D4">1942</mods:dateIssued>
+<mods:dateOther id="88AAD55187B01D6B1B32DCE168AD7F5A" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="B8E67DA49EE8D38A887C5FFA207E4F8E">Bernice P. Bishop Museum, Bulletin 172</mods:publisher>
+<mods:place id="73A327CA36995E1A96CE1288F0687F9B">
+<mods:placeTerm id="50E884908D4130913D6F80036B1FBE9D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5E8F65B27D798BBA3D08687D245E3C63">
+<mods:title id="8642D9348C3E80690716FCBD5ED800B1">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="F0B2D41144F8D476562BFE3181E63132">
+<mods:extent id="51884B543C28AF55601E5ECDF6B7FD66" unit="page">
+<mods:start id="3CCCC6B0692799B4D481AD2297DAB24B">3</mods:start>
+<mods:end id="43AFEC22866E89F40AF6114E91514986">6</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="9C07403BCF2C6D7BDE49DF836A9CA246">book chapter</mods:classification>
+<mods:identifier id="82E35B0AC04DDD14B250CD43F75B7431" type="DOI">http://doi.org/10.5281/zenodo.5159515</mods:identifier>
+<mods:identifier id="5FFC1DE67A1C70FA0C0AA6AA1683F708" type="GBIF-Dataset">c9232a85-5a09-440a-9ede-102073e7b6f0</mods:identifier>
+<mods:identifier id="ECFA0A71FF26772EF47CF9427B362BE5" type="Zenodo-Dep">5159515</mods:identifier>
+</mods:mods>
+<treatment id="03E68852C57EFFB5FEC4B761FBB6FE58" ID-DOI="http://doi.org/10.5281/zenodo.5163518" ID-GBIF-Taxon="183919245" ID-Zenodo-Dep="5163518" LSID="urn:lsid:plazi:treatment:03E68852C57EFFB5FEC4B761FBB6FE58" httpUri="http://treatment.plazi.org/id/03E68852C57EFFB5FEC4B761FBB6FE58" lastPageNumber="5" pageId="2" pageNumber="5">
+<subSubSection id="C3556ACFC57EFFB5FEC4B761FC38FC2B" box="[333,955,1077,1118]" pageId="2" pageNumber="5" type="nomenclature">
+<paragraph id="8BF03944C57EFFB5FEC4B761FC38FC2B" blockId="2.[333,1727,1077,1581]" box="[333,955,1077,1118]" pageId="2" pageNumber="5">
+<heading id="D0B88E28C57EFFB5FEC4B761FC38FC2B" box="[333,955,1077,1118]" fontSize="11" level="2" pageId="2" pageNumber="5" reason="2">
+<emphasis id="B93BE556C57EFFB5FEC4B761FEEAFC2B" bold="true" box="[333,361,1077,1118]" pageId="2" pageNumber="5">8.</emphasis>
+<taxonomicName id="4C4F42C7C57EFFB5FE05B761FC36FC2B" authority="(Fabricius)" baseAuthorityName="Fabricius" box="[396,949,1077,1118]" class="Insecta" family="Libellulidae" genus="Tholymis" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="5" phylum="Arthropoda" rank="species" species="tillarga">
+<emphasis id="B93BE556C57EFFB5FE05B761FD4EFC2B" bold="true" box="[396,717,1077,1118]" pageId="2" pageNumber="5">Tholymis tillarga</emphasis>
+(Fabricius)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3556ACFC57EFFB5FE07B73CFD3EFD5E" pageId="2" pageNumber="5" type="reference_group">
+<paragraph id="8BF03944C57EFFB5FE07B73CFA10FCE7" blockId="2.[333,1727,1077,1581]" box="[398,1427,1128,1170]" pageId="2" pageNumber="5">
+<treatmentCitationGroup id="AB5F1E6AC57EFFB5FE07B73CFA10FCE7" box="[398,1427,1128,1170]" pageId="2" pageNumber="5">
+<treatmentCitation id="0AEE1F55C57EFFB5FE07B73CFA0DFCE7" box="[398,1422,1128,1170]" pageId="2" pageNumber="5">
+<taxonomicName id="4C4F42C7C57EFFB5FE07B73CFCEEFCE7" authority="Fabricius, Syst. Ent., Suppl." authorityName="Fabricius, Syst. Ent., Suppl." box="[398,877,1128,1170]" class="Insecta" family="Libellulidae" genus="Libellula" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="5" phylum="Arthropoda" rank="species" species="tillarga">
+<emphasis id="B93BE556C57EFFB5FE07B73CFD36FCE7" box="[398,693,1128,1170]" italics="true" pageId="2" pageNumber="5">Libellula tillarga</emphasis>
+<bibCitation id="5E653128C57EFFB5FD4EB73CFA0DFCE7" author="Fabricius" box="[711,1422,1128,1170]" journalOrPublisher="Syst. Ent., Suppl." pageId="2" pageNumber="5" part="285" refId="ref1133" type="journal volume" year="1798">
+<author id="53F2D1A1C57EFFB5FD4EB73CFCEEFCE7" box="[711,877,1128,1170]" pageId="2" pageNumber="5">Fabricius</author>
+, 
+<journalOrPublisher id="518E3388C57EFFB5FC01B73CFB45FCE7" box="[904,1222,1128,1170]" pageId="2" pageNumber="5">Syst. Ent., Suppl.</journalOrPublisher>
+, 
+<part id="FFEB93D9C57EFFB5FB69B73CFA9CFCE7" box="[1248,1311,1128,1170]" pageId="2" pageNumber="5" type="volume">285</part>
+, 
+<year id="FFE77817C57EFFB5FAB5B73CFA0DFCE7" box="[1340,1422,1128,1170]" pageId="2" pageNumber="5">1798</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BF03944C57EFFB5FE06B7CFFD3EFD5E" blockId="2.[333,1727,1077,1581]" pageId="2" pageNumber="5">
+<treatmentCitationGroup id="AB5F1E6AC57EFFB5FE06B7CFFD3EFD5E" pageId="2" pageNumber="5">
+<treatmentCitation id="0AEE1F55C57EFFB5FE06B7CFF939FCB3" box="[399,1722,1179,1222]" pageId="2" pageNumber="5">
+<taxonomicName id="4C4F42C7C57EFFB5FE06B7CFFC24FCB3" authority="(Fabricius) Hagen, Stett. Ent. Zeitung" baseAuthorityName="Fabricius" box="[399,935,1179,1222]" class="Insecta" family="Libellulidae" genus="Tholyniis" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="5" phylum="Arthropoda" rank="species" species="tillarga">
+<emphasis id="B93BE556C57EFFB5FE06B7CFFD46FCB3" box="[399,709,1179,1222]" italics="true" pageId="2" pageNumber="5">Tholyniis tillarga</emphasis>
+(Fabricius)
+</taxonomicName>
+<bibCitation id="5E653128C57EFFB5FC4BB7CFF93CFCB3" author="Fraser, Ins" box="[962,1727,1179,1222]" journalOrPublisher="Samoa" pageId="2" pageNumber="5" pagination="220" part="7" refId="ref1152" title="Hagen, Stett. Ent. Zeitung 28" type="journal article" year="1867">
+<title id="F94BD272C57EFFB5FC4BB7CFFA64FCB3" box="[962,1511,1179,1222]" jopScore="0.7470944" pageId="2" pageNumber="5">Hagen, Stett. Ent. Zeitung 28</title>
+: 
+<pagination id="B286C7B0C57EFFB5F983B7CFF9C9FCB3" box="[1546,1610,1179,1222]" pageId="2" pageNumber="5" type="pagination">220</pagination>
+, 
+<year id="FFE77817C57EFFB5F9E0B7CFF939FCB3" box="[1641,1722,1179,1222]" pageId="2" pageNumber="5">1867</year>
+.
+</bibCitation>
+</treatmentCitation>
+<treatmentCitation id="0AEE1F55C57EFFB5FE42B79AFBC4FC8C" box="[459,1095,1230,1273]" pageId="2" pageNumber="5">
+<bibCitation id="5E653128C57EFFB5FE42B79AFBC4FC8C" author="Fraser, Ins" box="[459,1095,1230,1273]" journalOrPublisher="Samoa" pageId="2" pageNumber="5" pagination="220" part="7" refId="ref1165" title="Hagen, Stett. Ent. Zeitung 28" type="journal article" year="1867">
+<author id="53F2D1A1C57EFFB5FE42B79AFD18FC8C" box="[459,667,1230,1273]" case="TC" fn="Ins" fnc="TC" fns="N" ln="Fraser" lnc="TC" npo="LnFn" pageId="2" pageNumber="5">Fraser, Ins</author>
+. 
+<journalOrPublisher id="518E3388C57EFFB5FD30B79AFCB3FC8C" box="[697,816,1230,1273]" jopScore="0.25" pageId="2" pageNumber="5">
+<collectingCountry id="F35879D4C57EFFB5FD30B79AFCB3FC8C" box="[697,816,1230,1273]" name="Samoa" pageId="2" pageNumber="5">Samoa</collectingCountry>
+</journalOrPublisher>
+<part id="FFEB93D9C57EFFB5FCCFB79AFCDDFC8C" box="[838,862,1230,1273]" pageId="2" pageNumber="5" type="volume">7</part>
+(
+<part id="FFEB93D9C57EFFB5FCE5B79AFCFFFC8C" box="[876,892,1230,1273]" pageId="2" pageNumber="5" type="issue">1</part>
+): 41, 1927
+</bibCitation>
+</treatmentCitation>
+; 
+<treatmentCitation id="0AEE1F55C57EFFB5FBFCB79AFD3BFD5E" pageId="2" pageNumber="5">
+<bibCitation id="5E653128C57EFFB5FBFCB79AFD3BFD5E" author="Fauna Brit." journalOrPublisher="Incl., Odon." pageId="2" pageNumber="5" part="411" refId="ref1179" type="journal volume" year="1936">
+<author id="53F2D1A1C57EFFB5FBFCB79AFAC8FC8C" box="[1141,1355,1230,1273]" pageId="2" pageNumber="5">Fauna Brit.</author>
+<journalOrPublisher id="518E3388C57EFFB5FAEBB79AF9B0FC8C" box="[1378,1587,1230,1273]" pageId="2" pageNumber="5">Incl., Odon.</journalOrPublisher>
+3: 
+<part id="FFEB93D9C57EFFB5F9F3B79AF93AFC8C" box="[1658,1721,1230,1273]" pageId="2" pageNumber="5" type="volume">411</part>
+, fig. 114, 
+<year id="FFE77817C57EFFB5FDEFB657FD3BFD5E" box="[614,696,1283,1323]" pageId="2" pageNumber="5">1936</year>
+</bibCitation>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3556ACFC57EFFB5FE06B663FE58FDE7" pageId="2" pageNumber="5" type="materials_examined">
+<paragraph id="8BF03944C57EFFB5FE06B663FE58FDE7" blockId="2.[333,1727,1077,1581]" pageId="2" pageNumber="5">
+<materialsCitation id="3B273319C57EFFB5FE06B663FC39FD15" ID-GBIF-Occurrence="3866005334" box="[399,954,1335,1376]" collectingDate="1936-05-31" collectorName="R. L. Usinger" country="Guam" location="Sumay Road" pageId="2" pageNumber="5">
+<location id="8E906F9FC57EFFB5FE06B663FD85FD15" LSID="urn:lsid:plazi:treatment:03E68852C57EFFB5FEC4B761FBB6FE58:8E906F9FC57EFFB5FE06B663FD85FD15" box="[399,518,1335,1376]" name="Sumay" pageId="2" pageNumber="5">Sumay</location>
+road, 
+<date id="FFF11F84C57EFFB5FD08B663FC8FFD15" box="[641,780,1335,1376]" pageId="2" pageNumber="5" value="1931-05">
+<collectingDate id="EFB5E66CC57EFFB5FD08B663FC8FFD15" box="[641,780,1335,1376]" pageId="2" pageNumber="5" value="1931-05">May 31</collectingDate>
+</date>
+, 
+<collectorName id="26BA5C92C57EFFB5FCADB663FC39FD15" box="[804,954,1335,1376]" pageId="2" pageNumber="5">Usinger</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="3B273319C57EFFB5FC5CB663FB48FD15" ID-GBIF-Occurrence="3866005333" box="[981,1227,1335,1376]" collectingDate="1936-09-16" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5">
+<location id="8E906F9FC57EFFB5FC5CB663FB94FD15" LSID="urn:lsid:plazi:treatment:03E68852C57EFFB5FEC4B761FBB6FE58:8E906F9FC57EFFB5FC5CB663FB94FD15" box="[981,1047,1335,1376]" name="Piti" pageId="2" pageNumber="5">Piti</location>
+, 
+<date id="FFF11F84C57EFFB5FBBBB663FB46FD15" box="[1074,1221,1335,1376]" pageId="2" pageNumber="5" value="2016-09">
+<collectingDate id="EFB5E66CC57EFFB5FBBBB663FB46FD15" box="[1074,1221,1335,1376]" pageId="2" pageNumber="5" value="2016-09">Sept. 16</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B273319C57EFFB5FB56B663FACDFD15" ID-GBIF-Occurrence="3866005338" box="[1247,1358,1335,1376]" collectingDate="1936-10-05" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5">
+<date id="FFF11F84C57EFFB5FB56B663FACDFD15" box="[1247,1358,1335,1376]" pageId="2" pageNumber="5">
+<collectingDate id="EFB5E66CC57EFFB5FB56B663FACDFD15" box="[1247,1358,1335,1376]" pageId="2" pageNumber="5">Oct. 5</collectingDate>
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="3B273319C57EFFB5FAE2B663FA10FD15" ID-GBIF-Occurrence="3866005310" box="[1387,1427,1335,1376]" collectingDate="1936-10-10" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5">10</materialsCitation>
+, 
+<materialsCitation id="3B273319C57EFFB5FA24B663FE55FDE7" ID-GBIF-Occurrence="3866005343" collectedFrom="at light" collectingDate="1936-11-02" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5">
+<date id="FFF11F84C57EFFB5FA24B663F9A6FD15" box="[1453,1573,1335,1376]" pageId="2" pageNumber="5">
+<collectingDate id="EFB5E66CC57EFFB5FA24B663F9A6FD15" box="[1453,1573,1335,1376]" pageId="2" pageNumber="5">Nov. 2</collectingDate>
+</date>
+at light, 
+<collectorName id="26BA5C92C57EFFB5FED9B63EFE55FDE7" box="[336,470,1386,1426]" pageId="2" pageNumber="5">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3556ACFC57EFFB5FE04B6C9FBB6FE58" pageId="2" pageNumber="5" type="distribution">
+<paragraph id="8BF03944C57EFFB5FE04B6C9FBB6FE58" blockId="2.[333,1727,1077,1581]" pageId="2" pageNumber="5">
+A widely distributed species from tropical Africa, 
+<collectingCountry id="F35879D4C57EFFB5FA99B6C9FA65FDB2" box="[1296,1510,1437,1479]" name="Madagascar" pageId="2" pageNumber="5">Madagascar</collectingCountry>
+, throughout 
+<collectingCountry id="F35879D4C57EFFB5FEC6B69BFE2EFD8F" box="[335,429,1487,1530]" name="India" pageId="2" pageNumber="5">India</collectingCountry>
+, 
+<collectingCountry id="F35879D4C57EFFB5FE43B69BFDC6FD8F" box="[458,581,1487,1530]" name="Myanmar" pageId="2" pageNumber="5">Burma</collectingCountry>
+, 
+<collectingCountry id="F35879D4C57EFFB5FDE9B69BFD5BFD8F" box="[608,728,1487,1530]" name="Sri Lanka" pageId="2" pageNumber="5">Ceylon</collectingCountry>
+to 
+<collectingCountry id="F35879D4C57EFFB5FC96B69BFC40FD8F" box="[799,963,1487,1530]" name="Australia" pageId="2" pageNumber="5">Australia</collectingCountry>
+and Oceania. Now recorded from 
+<collectingCountry id="F35879D4C57EFFB5F9DEB69BF93CFD8F" box="[1623,1727,1487,1530]" name="Guam" pageId="2" pageNumber="5">Guam</collectingCountry>
+for the first time, where it is not common.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

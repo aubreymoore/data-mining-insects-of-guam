@@ -1,0 +1,92 @@
+<document id="AD87AD1A23C840D2F222C483966F9CCB" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8FFFE1E4C2FDA68D3DFD1F" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Proaphelinoides elongatiformis Girault" docType="treatment" docVersion="15" lastPageNumber="216" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="216" updateTime="1663769165332" updateUser="annettekang">
+<mods:mods id="92FA0C6CA20AAA5D12E10C25EC24C608" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="E7417D5CB91616E21091277BBB2759D0">
+<mods:title id="76B9038E678A26A2EDA3A1FF5999595B">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="31AD63C6282D6066AC9AA5069AB4F69D" type="personal">
+<mods:role id="DC159BEABF830D281946A58DE3585864">
+<mods:roleTerm id="BF819147773983F9250E51743607A772">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="068645B842A5466451D41E81F2993F73">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="336281C8BBB74CE4D5250EC57E4791FB">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="F5A1E6F1A4248A29D3C5573B48CA2501">text</mods:typeOfResource>
+<mods:relatedItem id="7CF9CA819AB4FB4453D596BAABBF1969" type="host">
+<mods:originInfo id="49BB0ED300DA91FF4A0A3499F17BD1A5">
+<mods:dateIssued id="656B6DE5A11CE5E074CE4FA1690CA37F">1946</mods:dateIssued>
+<mods:dateOther id="E07C4D7382F0DFB88E355F17CD11FB7D" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="6C3642237CFF82B3BC16490E6B95FB95">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="EA45DC6A830D8D390BC93A486D3B6A04">
+<mods:placeTerm id="D573373860E4EB323548FD52523FB88C">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="798C05909007DA6FD7B4E79F3C310767">
+<mods:title id="0A7A89981A19313EDF83B4D5E36E4AB7">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="CD0AF4CF061B6E81CCDFD19027AF2444">
+<mods:extent id="ADEC2E6AA31019C81EEAA83F034296BB" unit="page">
+<mods:start id="D5DFE20B1EA081333EF27BFF48B772E3">211</mods:start>
+<mods:end id="042006573AB61235E4D83E72FB1D425C">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="BA89C018A14D6178142C970D411A7EE3">book chapter</mods:classification>
+<mods:identifier id="90F3A3EE49D575687FB3035DEB6E1845" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="57CEDDC99FF40E40576F912D47C1A657" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="0BFFB29D9F77758A435B349F80B927C1" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8FFFE1E4C2FDA68D3DFD1F" ID-DOI="http://doi.org/10.5281/zenodo.5227112" ID-GBIF-Taxon="187737427" ID-Zenodo-Dep="5227112" LSID="urn:lsid:plazi:treatment:7376EC19FF8FFFE1E4C2FDA68D3DFD1F" httpUri="http://treatment.plazi.org/id/7376EC19FF8FFFE1E4C2FDA68D3DFD1F" lastPageNumber="216" pageId="5" pageNumber="216">
+<bibCitation id="2EF55563FF8FFFE1E4C2FDA689B6FDE0" author="Girault" box="[449,1768,522,562]" journalOrPublisher="Descr. Stell. Nov." pageId="5" pageNumber="216" pagination="4" refId="ref2214" type="journal article" year="1917">
+<subSubSection id="B3C50E84FF8FFFE1E4C2FDA68BB0FDE0" box="[449,1262,522,562]" pageId="5" pageNumber="216" type="nomenclature">
+<paragraph id="FB605D0FFF8FFFE1E4C2FDA68BB0FDE0" blockId="5.[449,1847,522,717]" box="[449,1262,522,562]" pageId="5" pageNumber="216">
+<heading id="A028EA63FF8FFFE1E4C2FDA68BB0FDE0" box="[449,1262,522,562]" fontSize="8" level="2" pageId="5" pageNumber="216" reason="4">
+36. 
+<treatmentCitationGroup id="DBCF7A21FF8FFFE1E715FDA68BB0FDE0" box="[534,1262,522,562]" pageId="5" pageNumber="216">
+<treatmentCitation id="7A7E7B1EFF8FFFE1E715FDA68BB0FDE0" author="Girault" box="[534,1262,522,562]" page="4" pageId="5" pageNumber="216" year="1917">
+<taxonomicName id="3CDF268CFF8FFFE1E715FDA68BB9FDE0" authority="Girault" box="[534,1255,522,562]" class="Insecta" family="Aphelinidae" genus="Proaphelinoides" kingdom="Animalia" order="Hymenoptera" pageId="5" pageNumber="216" phylum="Arthropoda" rank="species" species="elongatiformis">
+Proaphelinoides elongatiformis 
+<author id="2362B5EAFF8FFFE1E167FDA68BB9FDE0" box="[1124,1255,522,562]" pageId="5" pageNumber="216">Girault</author>
+</taxonomicName>
+,
+</treatmentCitation>
+</treatmentCitationGroup>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8FFFE1E1FCFDA689B6FDE0" box="[1279,1768,522,562]" pageId="5" pageNumber="216" type="reference_group">
+<paragraph id="FB605D0FFF8FFFE1E1FCFDA689B6FDE0" blockId="5.[449,1847,522,717]" box="[1279,1768,522,562]" pageId="5" pageNumber="216">
+<journalOrPublisher id="211E57C3FF8FFFE1E1FCFDA68916FDE0" box="[1279,1608,522,562]" pageId="5" pageNumber="216">Descr. Stell. Nov.</journalOrPublisher>
+, 
+<pagination id="C216A3FBFF8FFFE1E35CFDA68928FDE0" box="[1631,1654,522,562]" pageId="5" pageNumber="216">4</pagination>
+, 
+<year id="8F771C5CFF8FFFE1E392FDA689BDFDE0" box="[1681,1763,522,562]" pageId="5" pageNumber="216">1917</year>
+.
+</paragraph>
+</subSubSection>
+</bibCitation>
+<subSubSection id="B3C50E84FF8FFFE1E701FD908D3DFD1F" pageId="5" pageNumber="216" type="materials_examined">
+<paragraph id="FB605D0FFF8FFFE1E701FD908D3DFD1F" blockId="5.[449,1847,522,717]" pageId="5" pageNumber="216">
+<materialsCitation id="4BB75752FF8FFFE1E701FD908D3DFD1F" ID-GBIF-Occurrence="3901040394" collectedFrom="swept from bamboo leaves infested with Asterolecanium miliaris longum (Green)" collectingDate="1936-10-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="216" specimenCount="1">
+<collectingMunicipality id="1B04C775FF8FFFE1E701FD908D1AFDB5" box="[514,580,572,615]" pageId="5" pageNumber="216">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF8FFFE1E767FD908DAEFDB5" box="[612,752,572,615]" pageId="5" pageNumber="216" value="1927-10">
+<collectingDate id="9F258227FF8FFFE1E767FD908DAEFDB5" box="[612,752,572,615]" pageId="5" pageNumber="216" value="1927-10">Oct. 27</collectingDate>
+</date>
+, swept from bamboo leaves infested with 
+<taxonomicName id="3CDF268CFF8FFFE1E320FD908C22FD49" class="Insecta" family="Aphididae" genus="Asterolecanium" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="5" pageNumber="216" phylum="Arthropoda" rank="genus">
+<emphasis id="C9AB811DFF8FFFE1E320FD908D88FD49" italics="true" pageId="5" pageNumber="216">Asterolecanium miliaris longum</emphasis>
+(Green)
+</taxonomicName>
+, 
+<collectorName id="562A38D9FF8FFFE1E690FDDD8B44FD49" box="[915,1050,625,667]" pageId="5" pageNumber="216">Swezey</collectorName>
+. 
+<location id="FE000BD4FF8FFFE1E13BFDDD8BDFFD49" LSID="urn:lsid:plazi:treatment:7376EC19FF8FFFE1E4C2FDA68D3DFD1F:FE000BD4FF8FFFE1E13BFDDD8BDFFD49" box="[1080,1153,625,667]" country="United States of America" municipality="Piti" name="One" pageId="5" pageNumber="216">One</location>
+slide mount, retained in 
+<collectingCountry id="83C81D9FFF8FFFE1E335FDDD89CFFD49" box="[1590,1681,625,667]" name="United States of America" pageId="5" pageNumber="216">U. S.</collectingCountry>
+<location id="FE000BD4FF8FFFE1E3A2FDDD8D00FD1F" LSID="urn:lsid:plazi:treatment:7376EC19FF8FFFE1E4C2FDA68D3DFD1F:FE000BD4FF8FFFE1E3A2FDDD8D00FD1F" country="United States of America" municipality="Piti" name="National Museum" pageId="5" pageNumber="216">National Museum</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

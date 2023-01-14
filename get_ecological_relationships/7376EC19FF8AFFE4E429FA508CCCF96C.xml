@@ -1,0 +1,67 @@
+<document id="EE05030E24C588B5CF36F73B5B059C8A" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF8AFFE4E429FA508CCCF96C" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Blastophaga" docType="treatment" docVersion="9" lastPageNumber="211" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="211" updateTime="1663083969364" updateUser="annettekang">
+<mods:mods id="E31B9D2689A928BCC5390592386FD6D2" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="6D226A34DCD16F96B9BB3D1296EE5840">
+<mods:title id="266371597192FEBF33C337F564357794">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="495DF8181F7196058573E001372BC6E5" type="personal">
+<mods:role id="A731EF94332AEC1C4EB733E77E32F447">
+<mods:roleTerm id="90A5246FC6535436EAF3B6AABDCB581D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="278B07D404B646288A8E1C1076DAE41B">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="B6AA8B3FE8C253D025A55C5B3211AF70">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9E7453F502BCF3B7294A98ED9C3CCD8F">text</mods:typeOfResource>
+<mods:relatedItem id="1D117E57F085CE28BCF9228995717695" type="host">
+<mods:originInfo id="B8AC447D4629E73EC24F8147936FC945">
+<mods:dateIssued id="5AF31EB6C98C15933D189583BDA19811">1946</mods:dateIssued>
+<mods:dateOther id="3D315FE60DD8B297A638C855B796C3AD" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="9C99E2E8AD9456CAC820C95124DB9F28">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="CE7B19519C80C14827B286A18F92BA80">
+<mods:placeTerm id="B48AAF594C9EBF68A8E0E3C881363A28">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="C18603B2AC03066E125C328D4B539310">
+<mods:title id="B6C9E59953577676501D98DB34331C00">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="039E667097272B31D8AB5DA379CB6671">
+<mods:extent id="37680F989060140C65538E11E35CBA2F" unit="page">
+<mods:start id="47EB78789AAB8AD241D18B86688F606B">211</mods:start>
+<mods:end id="85560BCF39738504D401DA40CB17A409">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F5C6C6C5CEC88949A0A9F7A0DE0E8E4F">book chapter</mods:classification>
+<mods:identifier id="7A76DF63117A87CDFE76166C9C93704D" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="90CD8B59BA0F1178DCA85E831F753A91" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="B9F4933C707B2F3D7F22B4E4F7DB7E0D" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF8AFFE4E429FA508CCCF96C" ID-DOI="http://doi.org/10.5281/zenodo.5158792" ID-GBIF-Taxon="187962053" ID-Zenodo-Dep="5158792" LSID="urn:lsid:plazi:treatment:7376EC19FF8AFFE4E429FA508CCCF96C" httpUri="http://treatment.plazi.org/id/7376EC19FF8AFFE4E429FA508CCCF96C" lastPageNumber="211" pageId="0" pageNumber="211">
+<subSubSection id="B3C50E84FF8AFFE4E429FA508C5CF9F4" box="[298,770,1532,1574]" pageId="0" pageNumber="211" type="nomenclature">
+<paragraph id="FB605D0FFF8AFFE4E429FA508C5CF9F4" blockId="0.[298,1696,1532,1726]" box="[298,770,1532,1574]" pageId="0" pageNumber="211">
+<heading id="A028EA63FF8AFFE4E429FA508C5CF9F4" box="[298,770,1532,1574]" fontSize="11" level="2" pageId="0" pageNumber="211" reason="2">
+<emphasis id="C9AB811DFF8AFFE4E429FA508E17F9F4" bold="true" box="[298,329,1532,1574]" pageId="0" pageNumber="211">2.</emphasis>
+<taxonomicName id="3CDF268CFF8AFFE4E46AFA508D13F9F4" authority="Gravenhorst" box="[361,589,1532,1574]" class="Insecta" family="Agaonidae" genus="Blastophaga" kingdom="Animalia" order="Hymenoptera" pageId="0" pageNumber="211" phylum="Arthropoda" rank="genus">
+<emphasis id="C9AB811DFF8AFFE4E46AFA508D13F9F4" bold="true" box="[361,589,1532,1574]" pageId="0" pageNumber="211">Blastophaga</emphasis>
+</taxonomicName>
+species?
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF8AFFE4E46BF9838CCCF96C" pageId="0" pageNumber="211" type="discussion">
+<paragraph id="FB605D0FFF8AFFE4E46BF9838CCCF96C" blockId="0.[298,1696,1532,1726]" pageId="0" pageNumber="211">
+Another species of 
+<taxonomicName id="3CDF268CFF8AFFE4E7DFF9838CEAF98B" authorityName="Gravenhorst" authorityYear="1829" box="[732,948,1583,1625]" class="Insecta" family="Agaonidae" genus="Blastophaga" kingdom="Animalia" order="Hymenoptera" pageId="0" pageNumber="211" phylum="Arthropoda" rank="genus">
+<emphasis id="C9AB811DFF8AFFE4E7DFF9838CEAF98B" box="[732,948,1583,1625]" italics="true" pageId="0" pageNumber="211">Blastophaga</emphasis>
+</taxonomicName>
+was reared from a different species of 
+<emphasis id="C9AB811DFF8AFFE4E429F9CC8ECAF95E" box="[298,404,1632,1676]" italics="true" pageId="0" pageNumber="211">
+<taxonomicName id="3CDF268CFF8AFFE4E429F9CC8ED1F95E" box="[298,399,1632,1676]" class="Gastropoda" family="Ficidae" genus="Ficus" kingdom="Animalia" order="Littorinimorpha" pageId="0" pageNumber="211" phylum="Mollusca" rank="genus">Ficus</taxonomicName>
+.
+</emphasis>
+The specimens were referred to Dr. Grandi in 
+<collectingCountry id="83C81D9FFF8AFFE4E1FEF9CC8A11F95E" box="[1277,1359,1632,1676]" name="Italy" pageId="0" pageNumber="211">Italy</collectingCountry>
+for determination, and have not yet been reported on.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

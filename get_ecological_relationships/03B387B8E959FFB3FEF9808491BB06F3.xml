@@ -1,0 +1,186 @@
+<document id="F1953340E453FE6B5F34BD120591B7FB" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E959FFB3FEF9808491BB06F3" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Sylepta derogata" docType="treatment" docVersion="19" lastPageNumber="181" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="181" updateTime="1670258400554" updateUser="annettekang">
+<mods:mods id="D8106775145A96A4FAD2FB54FB28C793" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="24167B4A42F874E3D2FE4FD213495FB7">
+<mods:title id="B95B48D072D2F4466F9B01DCF3CB1016">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="E25B99AA3C69524D98E72545179D5C3C" type="personal">
+<mods:role id="25D4FD71215C7EBD2D15521F0F2CDCB4">
+<mods:roleTerm id="F22324E9C7748D52DCC96B9A529116F3">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A0951D4E75F31E8401C8FBCFE6181D0D">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="A73A26513DF5A6111B6FBDAEC4166B5E">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="6BD6E477CCDFEF0F9CC82978B92547B5">text</mods:typeOfResource>
+<mods:relatedItem id="0EF660F4061C9EB8A03D3B7522261AAD" type="host">
+<mods:originInfo id="B2469F5127B1C032C55C37C0C5AED931">
+<mods:dateIssued id="31B390526B6194FCF514E167D4C8996E">1946</mods:dateIssued>
+<mods:dateOther id="02EED100CC6CFEDB09677632F91EDB96" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="F35CF3C6D820D9565D81C3D638F9E450">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="C896090635CB82231B9AD66663B0C3AE">
+<mods:placeTerm id="5BEFBB98E0C9A121B62F133BAB7348F8">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A5B19D11E5ACF9AF5A620EB30B8830BD">
+<mods:title id="51092CCCD1C7B08551970E791C614FEA">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="DDC7BC08EAA0FA6538A0F54101365BD4">
+<mods:extent id="097690A4B0FD9938AAFF48112CEE3486" unit="page">
+<mods:start id="35698F3F29A1E67C8126189ED69A43B5">163</mods:start>
+<mods:end id="C3C444CFE3ED6B1308AFE34A17BE981F">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F1A45EEABCEA2DD5ADF3DAC0D92FE253">book chapter</mods:classification>
+<mods:identifier id="88DD8159EB83F37A667AAE52E5485D18" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="DFFFEEBBF8EFA3B3CC36937DB0B5F8E2" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="039DA93FE684E89A41793E4CAD17D727" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E959FFB3FEF9808491BB06F3" ID-DOI="http://doi.org/10.5281/zenodo.5224257" ID-GBIF-Taxon="183926921" ID-Zenodo-Dep="5224257" LSID="urn:lsid:plazi:treatment:03B387B8E959FFB3FEF9808491BB06F3" httpUri="http://treatment.plazi.org/id/03B387B8E959FFB3FEF9808491BB06F3" lastPageNumber="181" pageId="18" pageNumber="181">
+<subSubSection id="C3006525E959FFB3FEF9808491C701AA" box="[310,945,697,741]" pageId="18" pageNumber="181" type="nomenclature">
+<paragraph id="8BA536AEE959FFB3FEF9808491C701AA" blockId="18.[310,1710,697,1468]" box="[310,945,697,741]" pageId="18" pageNumber="181">
+<heading id="D0ED81C2E959FFB3FEF9808491C701AA" box="[310,945,697,741]" fontSize="8" level="2" pageId="18" pageNumber="181" reason="4">
+<emphasis id="B96EEABCE959FFB3FEF98084931E01AA" bold="true" box="[310,360,697,741]" pageId="18" pageNumber="181">27.</emphasis>
+<taxonomicName id="4C1A4D2DE959FFB3FE45808491DD01AA" authority="(Fabricius)" baseAuthorityName="Fabricius" baseAuthorityYear="1775" box="[394,939,697,741]" class="Insecta" family="Crambidae" genus="Sylepta" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="18" pageNumber="181" phylum="Arthropoda" rank="species" species="derogata">
+<emphasis id="B96EEABCE959FFB3FE45808490B401AA" bold="true" box="[394,706,697,741]" pageId="18" pageNumber="181">Sylepta derogata</emphasis>
+(Fabricius)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E959FFB3FEB980D0974600FD" pageId="18" pageNumber="181" type="description">
+<paragraph id="8BA536AEE959FFB3FEB980D097790057" blockId="18.[310,1710,697,1468]" box="[374,1295,749,792]" pageId="18" pageNumber="181">
+<treatmentCitationGroup id="AB0A1180E959FFB3FEB980D097790057" box="[374,1295,749,792]" pageId="18" pageNumber="181">
+<treatmentCitation id="0ABB10BFE959FFB3FEB980D097790057" author="Fabricius" box="[374,1295,749,792]" page="641" pageId="18" pageNumber="181" year="1775">
+<bibCitation id="5E303EC2E959FFB3FEB980D097790057" author="Fabricius" box="[374,1295,749,792]" pageId="18" pageNumber="181" pagination="641" refId="ref9930" title="Ent. Syst." type="book" year="1775">
+<emphasis id="B96EEABCE959FFB3FEB980D090C80057" box="[374,702,749,792]" italics="true" pageId="18" pageNumber="181">Phalaena derogata</emphasis>
+<author id="53A7DE4BE959FFB3FD1F80D091000057" box="[720,886,749,792]" pageId="18" pageNumber="181">Fabricius</author>
+, 
+<title id="F91EDD98E959FFB3FC4080D096350057" box="[911,1091,749,792]" pageId="18" pageNumber="181">Ent. Syst.</title>
+, 
+<pagination id="B2D3C85AE959FFB3FB9380D096ED0057" box="[1116,1179,749,792]" pageId="18" pageNumber="181">641</pagination>
+, 
+<emphasis id="B96EEABCE959FFB3FB7880D097790057" bold="true" box="[1207,1295,749,792]" pageId="18" pageNumber="181">
+<year id="FFB277FDE959FFB3FB7880D0977C0057" box="[1207,1290,749,792]" pageId="18" pageNumber="181">1775</year>
+.
+</emphasis>
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE959FFB3FEB8811F907B0030" blockId="18.[310,1710,697,1468]" pageId="18" pageNumber="181">
+<treatmentCitationGroup id="AB0A1180E959FFB3FEB8811F907B0030" pageId="18" pageNumber="181">
+<bibCitation id="5E303EC2E959FFB3FEB8811F907B0030" author="Guenee &amp; Hampson" pageId="18" pageNumber="181" pagination="334" part="4" refId="ref9943" title="Fauna Brit. India, Moths" type="journal article" year="1896">
+<treatmentCitation id="0ABB10BFE959FFB3FEB8811F907E0030" author="Guenée &amp; Hampson" page="334" pageId="18" pageNumber="181" year="1896">
+<emphasis id="B96EEABCE959FFB3FEB8811F90940005" box="[375,738,802,842]" italics="true" pageId="18" pageNumber="181">Sylepta niultilinealis</emphasis>
+<author id="53A7DE4BE959FFB3FD3C811F91010005" box="[755,887,802,842]" pageId="18" pageNumber="181">Guenee</author>
+, 
+<author id="53A7DE4BE959FFB3FC5F811F964B0005" box="[912,1085,802,842]" pageId="18" pageNumber="181">Hampson</author>
+, 
+<title id="F91EDD98E959FFB3FB98811F94540005" box="[1111,1570,802,842]" pageId="18" pageNumber="181">
+Fauna Brit. 
+<collectingCountry id="F30D763EE959FFB3FAF5811F97EE0005" box="[1338,1432,802,842]" name="India" pageId="18" pageNumber="181">India</collectingCountry>
+, Moths
+</title>
+<emphasis id="B96EEABCE959FFB3F9FB811F942F0005" bold="true" box="[1588,1625,802,842]" pageId="18" pageNumber="181">
+<part id="FFBE9C33E959FFB3F9FB811F94240005" box="[1588,1618,802,842]" pageId="18" pageNumber="181" type="volume">4</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE959FFB3F9A9811F94D00005" box="[1638,1702,802,842]" pageId="18" pageNumber="181" type="pagination">334</pagination>
+, 
+<year id="FFB277FDE959FFB3FE798168907E0030" box="[438,520,853,895]" pageId="18" pageNumber="181">1896</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE959FFB3FEBA81BA974600FD" blockId="18.[310,1710,697,1468]" box="[373,1328,903,946]" pageId="18" pageNumber="181">
+<treatmentCitation id="0ABB10BFE959FFB3FEBA81BA974600FD" author="Tams" box="[373,1328,903,946]" page="279" pageId="18" pageNumber="181" year="1935">
+<bibCitation id="5E303EC2E959FFB3FEBA81BA974600FD" author="Tams" box="[373,1328,903,946]" pageId="18" pageNumber="181" pagination="279" part="3" refId="ref9961" title="Ins. Samoa" type="journal article" year="1935">
+<treatmentCitationGroup id="AB0A1180E959FFB3FEBA81BA975D00FD" box="[373,1323,903,946]" pageId="18" pageNumber="181">
+<emphasis id="B96EEABCE959FFB3FEBA81BA90DF00FD" box="[373,681,903,946]" italics="true" pageId="18" pageNumber="181">Sylepta derogata,</emphasis>
+<author id="53A7DE4BE959FFB3FD7681BA916900FD" box="[697,799,903,946]" pageId="18" pageNumber="181">Tams</author>
+, 
+<title id="F91EDD98E959FFB3FCF881BA967600FD" box="[823,1024,903,946]" pageId="18" pageNumber="181">
+Ins. 
+<collectingCountry id="F30D763EE959FFB3FC4381BA967600FD" box="[908,1024,903,946]" name="Samoa" pageId="18" pageNumber="181">Samoa</collectingCountry>
+</title>
+<part id="FFBE9C33E959FFB3FBDF81BA965200FD" box="[1040,1060,903,946]" pageId="18" pageNumber="181" type="volume">3</part>
+(
+<part id="FFBE9C33E959FFB3FBFE81BA963F00FD" box="[1073,1097,903,946]" pageId="18" pageNumber="181" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE959FFB3FBB081BA96C900FD" box="[1151,1215,903,946]" pageId="18" pageNumber="181" type="pagination">279</pagination>
+, 
+<year id="FFB277FDE959FFB3FB1781BA975D00FD" box="[1240,1323,903,946]" pageId="18" pageNumber="181">1935</year>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E959FFB3FEB681FE908C07CA" pageId="18" pageNumber="181" type="description">
+<paragraph id="8BA536AEE959FFB3FEB681FE908C07CA" blockId="18.[310,1710,697,1468]" pageId="18" pageNumber="181">
+<materialsCitation id="3B723CF3E959FFB3FEB681FE900100A2" ID-GBIF-Occurrence="3913652387" box="[377,631,963,1005]" collectedFrom="all reared" collectingDate="1936-04-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="18" pageNumber="181">
+<location id="8EC56075E959FFB3FEB681FE93CD00A2" LSID="urn:lsid:plazi:treatment:03B387B8E959FFB3FEF9808491BB06F3:8EC56075E959FFB3FEB681FE93CD00A2" box="[377,443,963,1005]" pageId="18" pageNumber="181">
+<collectingMunicipality id="6BC1ACD4E959FFB3FEB681FE93CD00A2" box="[377,443,963,1005]" pageId="18" pageNumber="181">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE959FFB3FE1E81FE900600A2" box="[465,624,963,1005]" pageId="18" pageNumber="181" value="1930-04">
+<collectingDate id="EFE0E986E959FFB3FE1E81FE900600A2" box="[465,624,963,1005]" pageId="18" pageNumber="181" value="1930-04">April 30</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E959FFB3FD4881FE91F700A2" ID-GBIF-Occurrence="3913652362" box="[647,897,963,1005]" collectedFrom="all reared" collectingDate="1936-10-21" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="18" pageNumber="181">
+<location id="8EC56075E959FFB3FD4881FE909600A2" LSID="urn:lsid:plazi:treatment:03B387B8E959FFB3FEF9808491BB06F3:8EC56075E959FFB3FD4881FE909600A2" box="[647,736,963,1005]" pageId="18" pageNumber="181">Yigo</location>
+, 
+<date id="FFA4106EE959FFB3FD3881FE910C00A2" box="[759,890,963,1005]" pageId="18" pageNumber="181" value="2021-10">
+<collectingDate id="EFE0E986E959FFB3FD3881FE910C00A2" box="[759,890,963,1005]" pageId="18" pageNumber="181" value="2021-10">Oct. 21</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E959FFB3FC5C81FE97EB00A2" ID-GBIF-Occurrence="3913652391" box="[915,1437,963,1005]" collectedFrom="all reared" collectingDate="1936-11-08" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="18" pageNumber="181">
+<date id="FFA4106EE959FFB3FC5C81FE967A00A2" box="[915,1036,963,1005]" pageId="18" pageNumber="181">
+<collectingDate id="EFE0E986E959FFB3FC5C81FE967A00A2" box="[915,1036,963,1005]" pageId="18" pageNumber="181">Nov. 8</collectingDate>
+</date>
+, all reared by 
+<collectorName id="26EF5378E959FFB3FADD81FE97EE00A2" box="[1298,1432,963,1005]" pageId="18" pageNumber="181">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="3B723CF3E959FFB3FA7781FE91AB076F" ID-GBIF-Occurrence="3332081317" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Bishop Museum" pageId="18" pageNumber="181" specimenCount="1">
+<collectingMunicipality id="6BC1ACD4E959FFB3FA7781FE90E8076F" pageId="18" pageNumber="181">
+One 
+<specimenCount id="9D1CFD27E959FFB3F9DF81FE94DB00A2" box="[1552,1709,963,1005]" pageId="18" pageNumber="181" type="generic">specimen</specimenCount>
+in Bishop Museum
+</collectingMunicipality>
+, 
+<location id="8EC56075E959FFB3FD7081C89112076F" LSID="urn:lsid:plazi:treatment:03B387B8E959FFB3FEF9808491BB06F3:8EC56075E959FFB3FD7081C89112076F" box="[703,868,1013,1056]" pageId="18" pageNumber="181">Fullaway</location>
+, 1911.
+</materialsCitation>
+The work of the larvae was seen in many places. An ichneumonid 
+<emphasis id="B96EEABCE959FFB3FC4E861591FB071C" box="[897,909,1064,1107]" italics="true" pageId="18" pageNumber="181">(</emphasis>
+<taxonomicName id="4C1A4D2DE959FFB3FC4286159468071C" authority="Krieger" authorityName="Krieger" box="[909,1566,1064,1107]" class="Insecta" family="Ichneumonidae" genus="Echthromorpha" kingdom="Animalia" order="Hymenoptera" pageId="18" pageNumber="181" phylum="Arthropoda" rank="species" species="conopleura">
+<emphasis id="B96EEABCE959FFB3FC428615970D071C" box="[909,1403,1064,1107]" italics="true" pageId="18" pageNumber="181">Echthromorpha conopleura</emphasis>
+Krieger
+</taxonomicName>
+) issued from some of the pupae.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E959FFB3FEB886A891BB06F3" pageId="18" pageNumber="181" type="description">
+<paragraph id="8BA536AEE959FFB3FEB886A891BB06F3" blockId="18.[310,1710,697,1468]" pageId="18" pageNumber="181">
+This widely distributed moth occurs from west Africa through south Asia to 
+<collectingCountry id="F30D763EE959FFB3FEA086F493A107BD" box="[367,471,1225,1266]" name="Japan" pageId="18" pageNumber="181">Japan</collectingCountry>
+, and the Malayan and Australian regions. It is in 
+<collectingCountry id="F30D763EE959FFB3FA6786F4946A07BD" box="[1448,1564,1225,1266]" name="Samoa" pageId="18" pageNumber="181">Samoa</collectingCountry>
+and no doubt other Pacific island groups. In some countries its larvae feed on cotton, but in 
+<collectingCountry id="F30D763EE959FFB3FE7D8713906F0617" box="[434,537,1326,1368]" name="Guam" pageId="18" pageNumber="181">Guam</collectingCountry>
+it is a leafroller on 
+<emphasis id="B96EEABCE959FFB3FC4C871397250617" box="[899,1363,1326,1368]" italics="true" pageId="18" pageNumber="181">
+pago (
+<taxonomicName id="4C1A4D2DE959FFB3FC39871397370617" box="[1014,1345,1326,1368]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="18" pageNumber="181" phylum="Tracheophyta" rank="species" species="tiliaceus">Hibiscus tiliaceus</taxonomicName>
+).
+</emphasis>
+We found it often abundant, many of the leaves being partially rolled up for hiding places. The pupa was formed in the same place.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

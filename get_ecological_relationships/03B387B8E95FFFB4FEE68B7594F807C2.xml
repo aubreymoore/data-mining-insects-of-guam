@@ -1,0 +1,255 @@
+<document id="7817B23E271EB00F61AF6822505706A9" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E95FFFB4FEE68B7594F807C2" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Psara licarsisalis" docType="treatment" docVersion="21" lastPageNumber="184" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="183" updateTime="1670269774864" updateUser="ExternalLinkService">
+<mods:mods id="2C1BF408AAEDAFBA007399E62D72EADF" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C258E7A22658B837AE570A55F75E8E6B">
+<mods:title id="26DFD729F414EA030D41D06388701378">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="16DFF474A67F244E32784248B6C29778" type="personal">
+<mods:role id="D70D60D52D7211417B664B49CBDFF80D">
+<mods:roleTerm id="800D95A9B66AF3458D11D31FC77F4542">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="15B5D675ACE621CB2EAF19BA5093D9E7">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="BBA932F71FAFC828C6D72C82E367FC4D">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="76042711E60B726CE3355584061836D5">text</mods:typeOfResource>
+<mods:relatedItem id="48F315867E20D53E9AC148398EAD4D14" type="host">
+<mods:originInfo id="3682B1E1C4150726CADBDAC8507ECF89">
+<mods:dateIssued id="8E08ECFE4F9412D827D04DF4D8C9D50E">1946</mods:dateIssued>
+<mods:dateOther id="3CD81F187BD86351D9A0811D3C934E94" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="5446F94BDC620BFAE61CF3015C40BED4">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="C50F3FE726F15808F9A71B226B79DCF3">
+<mods:placeTerm id="64B26E1669785DD238277AFEFE4DCE58">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="AD5D2AA6B90D8BE9A00EC18556A43129">
+<mods:title id="4D64E4F2651E4705316D7E752F72262A">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="877308462060B9337B832E7FCD3CE5F9">
+<mods:extent id="98F4F33B7F51E3CF6B40DC74ADE832DD" unit="page">
+<mods:start id="D84D47E0A232DF2A35A02EC3CBDF25AB">163</mods:start>
+<mods:end id="00F438ABDED2F3F800E47C170AFA6971">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="2F892D8DC49EE3D880056CE00FCEF6E7">book chapter</mods:classification>
+<mods:identifier id="64617BA3E3C5479D0BEDC304743EC5DE" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="FF3EF16056666320E6421C1B0677B827" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="8B21A824290B2FCD39E8E5DE81B336AC" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E95FFFB4FEE68B7594F807C2" ID-DOI="http://doi.org/10.5281/zenodo.5158643" ID-GBIF-Taxon="183926910" ID-Zenodo-Dep="5158643" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB4FEE68B7594F807C2" httpUri="http://treatment.plazi.org/id/03B387B8E95FFFB4FEE68B7594F807C2" lastPageId="21" lastPageNumber="184" pageId="20" pageNumber="183">
+<subSubSection id="C3006525E95FFFB5FEE68B75910A0A3E" box="[297,892,2376,2417]" pageId="20" pageNumber="183" type="nomenclature">
+<paragraph id="8BA536AEE95FFFB5FEE68B75910A0A3E" blockId="20.[297,1166,2376,2469]" box="[297,892,2376,2417]" pageId="20" pageNumber="183">
+<heading id="D0ED81C2E95FFFB5FEE68B75910A0A3E" box="[297,892,2376,2417]" fontSize="8" level="2" pageId="20" pageNumber="183" reason="4">
+<emphasis id="B96EEABCE95FFFB5FEE68B75932D0A3E" bold="true" box="[297,347,2376,2417]" pageId="20" pageNumber="183">38.</emphasis>
+<taxonomicName id="4C1A4D2DE95FFFB5FEB38B7591000A3E" authority="(Walker)" baseAuthorityName="Walker" baseAuthorityYear="1859" box="[380,886,2376,2417]" class="Insecta" family="Crambidae" genus="Psara" kingdom="Animalia" order="Lepidoptera" pageId="20" pageNumber="183" phylum="Arthropoda" rank="species" species="licarsisalis">
+<emphasis id="B96EEABCE95FFFB5FEB38B7590C40A3E" bold="true" box="[380,690,2376,2417]" pageId="20" pageNumber="183">Psara licarsisalis</emphasis>
+(Walker)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95FFFB4FEA78B4797C602A8" lastPageId="21" lastPageNumber="184" pageId="20" pageNumber="183" type="description">
+<paragraph id="8BA536AEE95FFFB5FEA78B4796F80AEA" blockId="20.[297,1166,2376,2469]" box="[360,1166,2426,2469]" pageId="20" pageNumber="183">
+<treatmentCitationGroup id="AB0A1180E95FFFB5FEA78B4796F80AEA" box="[360,1166,2426,2469]" pageId="20" pageNumber="183">
+<bibCitation id="5E303EC2E95FFFB5FEA78B4796F80AEA" author="Walker" box="[360,1166,2426,2469]" pageId="20" pageNumber="183" pagination="686" part="18" refId="ref11465" type="journal article" year="1859">
+<treatmentCitation id="0ABB10BFE95FFFB5FEA78B4796FF0AEA" author="Walker" box="[360,1161,2426,2469]" page="686" pageId="20" pageNumber="183" year="1859">
+<emphasis id="B96EEABCE95FFFB5FEA78B4790E50AEA" box="[360,659,2426,2469]" italics="true" pageId="20" pageNumber="183">Botys licarsisalis</emphasis>
+<author id="53A7DE4BE95FFFB5FD6F8B47915E0AEA" box="[672,808,2426,2469]" pageId="20" pageNumber="183">Walker</author>
+, Cat. 
+<emphasis id="B96EEABCE95FFFB5FC598B4791BB0AEA" bold="true" box="[918,973,2426,2469]" pageId="20" pageNumber="183">
+<part id="FFBE9C33E95FFFB5FC598B4791B10AEA" box="[918,967,2426,2469]" pageId="20" pageNumber="183" type="volume">18</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE95FFFB5FC158B47966D0AEA" box="[986,1051,2426,2469]" pageId="20" pageNumber="183" type="pagination">686</pagination>
+, 
+<year id="FFB277FDE95FFFB5FBFA8B4796FF0AEA" box="[1077,1161,2426,2469]" pageId="20" pageNumber="183">1859</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE95EFFB4FE3C83B4955C02FC" blockId="21.[437,1838,393,1165]" box="[499,1834,393,435]" pageId="21" pageNumber="184">
+<treatmentCitationGroup id="AB0A1180E95EFFB4FE3C83B4955C02FC" box="[499,1834,393,435]" pageId="21" pageNumber="184">
+<bibCitation id="5E303EC2E95EFFB4FE3C83B4955C02FC" author="Hampson" box="[499,1834,393,435]" pageId="21" pageNumber="184" pagination="402" part="4" refId="ref11477" title="Fauna Brit. India, Moths" type="journal article" year="1896">
+<emphasis id="B96EEABCE95EFFB4FE3C83B491EC02FC" box="[499,922,393,435]" italics="true" pageId="21" pageNumber="184">Pachyzancla licarsisalis</emphasis>
+, 
+<treatmentCitation id="0ABB10BFE95EFFB4FC7E83B4955302FC" author="Hampson" box="[945,1829,393,435]" page="402" pageId="21" pageNumber="184" year="1896">
+<author id="53A7DE4BE95EFFB4FC7E83B4962E02FC" box="[945,1112,393,435]" pageId="21" pageNumber="184">Hampson</author>
+, 
+<title id="F91EDD98E95EFFB4FBA083B4944302FC" box="[1135,1589,393,435]" pageId="21" pageNumber="184">
+Fauna Brit. 
+<collectingCountry id="F30D763EE95EFFB4FA9F83B497D802FC" box="[1360,1454,393,435]" name="India" pageId="21" pageNumber="184">India</collectingCountry>
+, Moths
+</title>
+<part id="FFBE9C33E95EFFB4F98A83B4942F02FC" box="[1605,1625,393,435]" pageId="21" pageNumber="184" type="volume">4</part>
+: 
+<pagination id="B2D3C85AE95EFFB4F9B883B494CE02FC" box="[1655,1720,393,435]" pageId="21" pageNumber="184" type="pagination">402</pagination>
+, 
+<year id="FFB277FDE95EFFB4F91D83B4955302FC" box="[1746,1829,393,435]" pageId="21" pageNumber="184">1896</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE95EFFB4FE3C838697C602A8" blockId="21.[437,1838,393,1165]" box="[499,1456,443,487]" pageId="21" pageNumber="184">
+<bibCitation id="5E303EC2E95EFFB4FE3C838697C602A8" author="Tams" box="[499,1456,443,487]" pageId="21" pageNumber="184" pagination="286" part="3" refId="ref11494" title="Ins. Samoa" type="journal article" year="1935">
+<treatmentCitationGroup id="AB0A1180E95EFFB4FE3C838697DD02A8" box="[499,1451,443,487]" pageId="21" pageNumber="184">
+<emphasis id="B96EEABCE95EFFB4FE3C8386915302A8" box="[499,805,443,487]" italics="true" pageId="21" pageNumber="184">Psara licarsisalis</emphasis>
+, 
+<treatmentCitation id="0ABB10BFE95EFFB4FCF4838697DD02A8" author="Tams" box="[827,1451,443,487]" page="286" pageId="21" pageNumber="184" year="1935">
+<author id="53A7DE4BE95EFFB4FCF4838691ED02A8" box="[827,923,443,487]" pageId="21" pageNumber="184">Tams</author>
+, 
+<title id="F91EDD98E95EFFB4FC7C8386960D02A8" box="[947,1147,443,487]" pageId="21" pageNumber="184">
+Ins. 
+<collectingCountry id="F30D763EE95EFFB4FBC98386960D02A8" box="[1030,1147,443,487]" name="Samoa" pageId="21" pageNumber="184">Samoa</collectingCountry>
+</title>
+<part id="FFBE9C33E95EFFB4FB46838696E802A8" box="[1161,1182,443,487]" pageId="21" pageNumber="184" type="volume">3</part>
+(
+<part id="FFBE9C33E95EFFB4FB62838696B002A8" box="[1197,1222,443,487]" pageId="21" pageNumber="184" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE95EFFB4FB318386974902A8" box="[1278,1343,443,487]" pageId="21" pageNumber="184" type="pagination">286</pagination>
+, 
+<year id="FFB277FDE95EFFB4FA96838697DD02A8" box="[1369,1451,443,487]" pageId="21" pageNumber="184">1935</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95EFFB4FE3883C491F901F3" pageId="21" pageNumber="184" type="description">
+<paragraph id="8BA536AEE95EFFB4FE3883C491F901F3" blockId="21.[437,1838,393,1165]" pageId="21" pageNumber="184">
+<materialsCitation id="3B723CF3E95EFFB4FE3883C490A4016A" ID-GBIF-Occurrence="3913652304" box="[503,722,505,549]" collectingDate="1936-05-08" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">
+<location id="8EC56075E95EFFB4FE3883C4904F016A" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB4FEE68B7594F807C2:8EC56075E95EFFB4FE3883C4904F016A" box="[503,569,505,549]" pageId="21" pageNumber="184">
+<collectingMunicipality id="6BC1ACD4E95EFFB4FE3883C4904F016A" box="[503,569,505,549]" pageId="21" pageNumber="184">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE95EFFB4FD9B83C490BC016A" box="[596,714,505,549]" pageId="21" pageNumber="184">
+<collectingDate id="EFE0E986E95EFFB4FD9B83C490BC016A" box="[596,714,505,549]" pageId="21" pageNumber="184">May 8</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FD2983C49161016A" ID-GBIF-Occurrence="3913652500" box="[742,791,505,549]" collectingDate="1936-05-22" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">22,</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FCE583C491CE016A" ID-GBIF-Occurrence="3913652472" box="[810,952,505,549]" collectingDate="1936-07-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">
+<date id="FFA4106EE95EFFB4FCE583C491C4016A" box="[810,946,505,549]" pageId="21" pageNumber="184" value="1927-07">
+<collectingDate id="EFE0E986E95EFFB4FCE583C491C4016A" box="[810,946,505,549]" pageId="21" pageNumber="184" value="1927-07">July 27</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FC0383C49610016A" ID-GBIF-Occurrence="3913652358" box="[972,1126,505,549]" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">
+<date id="FFA4106EE95EFFB4FC0383C49629016A" box="[972,1119,505,549]" pageId="21" pageNumber="184" value="2011-08">
+<collectingDate id="EFE0E986E95EFFB4FC0383C49629016A" box="[972,1119,505,549]" pageId="21" pageNumber="184" value="2011-08">Aug. 11</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FBB283C496DD016A" ID-GBIF-Occurrence="3913652439" box="[1149,1195,505,549]" collectingDate="1936-08-16" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">16,</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FB7183C49686016A" ID-GBIF-Occurrence="3913652444" box="[1214,1264,505,549]" collectingDate="1936-08-24" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">24,</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FACA83C497FD016A" ID-GBIF-Occurrence="3913652393" box="[1285,1419,505,549]" collectingDate="1936-09-04" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">
+<date id="FFA4106EE95EFFB4FACA83C497F2016A" box="[1285,1412,505,549]" pageId="21" pageNumber="184">
+<collectingDate id="EFE0E986E95EFFB4FACA83C497F2016A" box="[1285,1412,505,549]" pageId="21" pageNumber="184">Sept. 4</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FA6E83C497A6016A" ID-GBIF-Occurrence="3913652427" box="[1441,1488,505,549]" collectingDate="1936-09-11" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">11,</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FA2883C49462016A" ID-GBIF-Occurrence="3913652420" box="[1511,1556,505,549]" collectingDate="1936-09-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">12,</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4F9E483C4942F016A" ID-GBIF-Occurrence="3913652503" box="[1579,1625,505,549]" collectingDate="1936-09-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">13,</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4F9A383C494E9016A" ID-GBIF-Occurrence="3913652395" box="[1644,1695,505,549]" collectingDate="1936-09-28" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">28,</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4F97D83C4955D016A" ID-GBIF-Occurrence="3913652346" box="[1714,1835,505,549]" collectingDate="1936-10-06" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">
+<date id="FFA4106EE95EFFB4F97D83C49552016A" box="[1714,1828,505,549]" pageId="21" pageNumber="184">
+<collectingDate id="EFE0E986E95EFFB4F97D83C49552016A" box="[1714,1828,505,549]" pageId="21" pageNumber="184">Oct. 6</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FE758017939E0119" ID-GBIF-Occurrence="3913652396" box="[442,488,554,598]" collectingDate="1936-10-18" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">18,</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FE30801790D60119" ID-GBIF-Occurrence="3913652476" box="[511,672,554,598]" collectingDate="1936-11-26" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">
+<date id="FFA4106EE95EFFB4FE30801790EF0119" box="[511,665,554,598]" pageId="21" pageNumber="184" value="1926-11">
+<collectingDate id="EFE0E986E95EFFB4FE30801790EF0119" box="[511,665,554,598]" pageId="21" pageNumber="184" value="1926-11">Nov. 26</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FD7A801791920119" ID-GBIF-Occurrence="3332081464" box="[693,996,554,598]" collectingDate="1936-05-15" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="21" pageNumber="184">
+<location id="8EC56075E95EFFB4FD7A8017915D0119" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB4FEE68B7594F807C2:8EC56075E95EFFB4FD7A8017915D0119" box="[693,811,554,598]" pageId="21" pageNumber="184">Agana</location>
+, 
+<date id="FFA4106EE95EFFB4FC87801791AA0119" box="[840,988,554,598]" pageId="21" pageNumber="184" value="2015-05">
+<collectingDate id="EFE0E986E95EFFB4FC87801791AA0119" box="[840,988,554,598]" pageId="21" pageNumber="184" value="2015-05">May 15</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FC358017973F0119" ID-GBIF-Occurrence="3332081490" box="[1018,1353,554,598]" collectingDate="1936-05-17" collectorName="O. H. Swezey" country="Guam" location="Tarague" pageId="21" pageNumber="184">
+<collectingMunicipality id="6BC1ACD4E95EFFB4FC35801796E60119" box="[1018,1168,554,598]" pageId="21" pageNumber="184">
+<location id="8EC56075E95EFFB4FC35801796E60119" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB4FEE68B7594F807C2:8EC56075E95EFFB4FC35801796E60119" box="[1018,1168,554,598]" pageId="21" pageNumber="184">Tarague</location>
+</collectingMunicipality>
+, 
+<date id="FFA4106EE95EFFB4FB62801797370119" box="[1197,1345,554,598]" pageId="21" pageNumber="184" value="2017-05">
+<collectingDate id="EFE0E986E95EFFB4FB62801797370119" box="[1197,1345,554,598]" pageId="21" pageNumber="184" value="2017-05">May 17</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FA90801790B701C6" ID-GBIF-Occurrence="3332081446" collectingDate="1936-08-02" collectorName="O. H. Swezey" country="Guam" location="Orote Peninsula" pageId="21" pageNumber="184">
+<collectingMunicipality id="6BC1ACD4E95EFFB4FA90801794FF0119" box="[1375,1673,554,598]" pageId="21" pageNumber="184">Orote Peninsula</collectingMunicipality>
+, 
+<date id="FFA4106EE95EFFB4F96D8017955C0119" box="[1698,1834,554,598]" pageId="21" pageNumber="184">
+<collectingDate id="EFE0E986E95EFFB4F96D8017955C0119" box="[1698,1834,554,598]" pageId="21" pageNumber="184">Aug. 2.</collectingDate>
+</date>
+<location id="8EC56075E95EFFB4FE7A8062939A01C6" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB4FEE68B7594F807C2:8EC56075E95EFFB4FE7A8062939A01C6" box="[437,492,607,649]" pageId="21" pageNumber="184">All</location>
+by 
+<collectorName id="26EF5378E95EFFB4FDF9806290CA01C6" box="[566,700,607,649]" pageId="21" pageNumber="184">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FD11806297AF01C6" ID-GBIF-Occurrence="3986713301" box="[734,1497,607,649]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="21" pageNumber="184" specimenCount="5">
+Five 
+<specimenCount id="9D1CFD27E95EFFB4FCF48062919F01C6" box="[827,1001,607,649]" pageId="21" pageNumber="184" type="generic">specimens</specimenCount>
+in 
+<collectingCountry id="F30D763EE95EFFB4FBE4806296FE01C6" box="[1067,1160,607,649]" name="United States of America" pageId="21" pageNumber="184">U. S.</collectingCountry>
+<collectingMunicipality id="6BC1ACD4E95EFFB4FB55806297AF01C6" box="[1178,1497,607,649]" pageId="21" pageNumber="184">National Museum</collectingMunicipality>
+</materialsCitation>
+<materialsCitation id="3B723CF3E95EFFB4FA26806291FC01F3" ID-GBIF-Occurrence="3986713302" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Bishop Museum" pageId="21" pageNumber="184" specimenCount="1">
+and one in 
+<location id="8EC56075E95EFFB4F97C8062902401F3" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB4FEE68B7594F807C2:8EC56075E95EFFB4F97C8062902401F3" pageId="21" pageNumber="184">Bishop Museum</location>
+, 
+<location id="8EC56075E95EFFB4FDBE80AF916101F3" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB4FEE68B7594F807C2:8EC56075E95EFFB4FDBE80AF916101F3" box="[625,791,658,700]" pageId="21" pageNumber="184">Fullaway</location>
+, 1911
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95EFFB4FE3880F394F807C2" pageId="21" pageNumber="184" type="description">
+<paragraph id="8BA536AEE95EFFB4FE3880F394F807C2" blockId="21.[437,1838,393,1165]" pageId="21" pageNumber="184">
+Widely distributed from 
+<collectingCountry id="F30D763EE95EFFB4FC1180F3964A01B7" box="[990,1084,718,760]" name="India" pageId="21" pageNumber="184">India</collectingCountry>
+, 
+<collectingCountry id="F30D763EE95EFFB4FBAD80F396A801B7" box="[1122,1246,718,760]" name="Sri Lanka" pageId="21" pageNumber="184">Ceylon</collectingCountry>
+, 
+<collectingCountry id="F30D763EE95EFFB4FACD80F397E201B7" box="[1282,1428,718,760]" name="Malaysia" pageId="21" pageNumber="184">Malacca</collectingCountry>
+, 
+<collectingCountry id="F30D763EE95EFFB4FA7680F3945401B7" box="[1465,1570,718,760]" name="China" pageId="21" pageNumber="184">China</collectingCountry>
+, 
+<collectingCountry id="F30D763EE95EFFB4F98A80F394D801B7" box="[1605,1710,718,760]" name="Japan" pageId="21" pageNumber="184">Japan</collectingCountry>
+, Java, Borneo, 
+<collectingCountry id="F30D763EE95EFFB4FD99813C91F20064" box="[598,900,769,811]" name="Marshall Islands" pageId="21" pageNumber="184">Marshall Islands</collectingCountry>
+, 
+<collectingCountry id="F30D763EE95EFFB4FC6F813C91920064" box="[928,996,769,811]" name="Fiji" pageId="21" pageNumber="184">Fiji</collectingCountry>
+, 
+<collectingCountry id="F30D763EE95EFFB4FBCF813C96010064" box="[1024,1143,769,811]" name="Samoa" pageId="21" pageNumber="184">Samoa</collectingCountry>
+, Society Islands, Austral Islands, and 
+<collectingCountry id="F30D763EE95EFFB4FE77810990290012" box="[440,607,820,861]" name="Australia" pageId="21" pageNumber="184">Australia</collectingCountry>
+. 
+<materialsCitation id="3B723CF3E95EFFB4FD4C810994100012" ID-GBIF-Occurrence="3913652317" box="[643,1638,820,861]" collectedFrom="many coming to light" collectingDate="1936" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="21" pageNumber="184">
+It was common in 
+<collectingCountry id="F30D763EE95EFFB4FC138109963E0012" box="[988,1096,820,861]" name="Guam" pageId="21" pageNumber="184">Guam</collectingCountry>
+, many coming to light at 
+<location id="8EC56075E95EFFB4F9EC810994100012" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB4FEE68B7594F807C2:8EC56075E95EFFB4F9EC810994100012" box="[1571,1638,820,861]" pageId="21" pageNumber="184">
+<collectingMunicipality id="6BC1ACD4E95EFFB4F9EC810994100012" box="[1571,1638,820,861]" pageId="21" pageNumber="184">Piti</collectingMunicipality>
+</location>
+</materialsCitation>
+. 
+<materialsCitation id="3B723CF3E95EFFB4F944810990C1008C" ID-GBIF-Occurrence="3913652422" collectedFrom="reported a pyraustid moth (probably this species) which was destructive to lawns" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="21" pageNumber="184">
+<location id="8EC56075E95EFFB4F9448109955B0012" LSID="urn:lsid:plazi:treatment:03B387B8E95FFFB4FEE68B7594F807C2:8EC56075E95EFFB4F9448109955B0012" box="[1675,1837,820,861]" pageId="21" pageNumber="184">Fullaway</location>
+reported a pyraustid moth (probably this species) which was destructive to lawns in 1911
+</materialsCitation>
+. We did not find it so abundant as to be injurious, but found its caterpillars feeding in the turf in grasslands, hiding under bits of board and under edges of dried cow droppings, or in webbed dead grass leaves. The moths were very abundant among weeds in a cornfield adjacent to a 
+<emphasis id="B96EEABCE95EFFB4FE77865E902207C2" box="[440,596,1123,1165]" italics="true" pageId="21" pageNumber="184">Panicuni</emphasis>
+grass field, but at the time I did not find any caterpillars.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

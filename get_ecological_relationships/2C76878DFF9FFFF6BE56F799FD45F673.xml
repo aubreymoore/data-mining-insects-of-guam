@@ -1,0 +1,129 @@
+<document id="D14C5181DBFDCBDB3830899879E9097E" ID-DOI="http://doi.org/10.5281/zenodo.5160233" ID-GBIF-Dataset="16f6ef92-619b-417b-946c-22d9b1445e7d" ID-Zenodo-Dep="5160233" checkinTime="1628022546680" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="2C76878DFF9FFFF6BE56F799FD45F673" docLanguage="en" docName="InsectsOfGuamII.189.3-8.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docTitle="Gryllodes sigillatus" docType="treatment" docVersion="15" lastPageNumber="5" masterDocId="D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8" masterDocTitle="Orthoptera And Related Orders Orthoptera And Related Orders Of Guam" masterLastPageNumber="8" masterPageNumber="3" pageNumber="5" updateTime="1657636930491" updateUser="annettekang">
+<mods:mods id="04CFBC7817A2EA116E5CBA597B114631" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="1AD80BE31796B27C117CCD060D3BD130">
+<mods:title id="6FCC719C72925A17729B1652CEBC832A">Orthoptera And Related Orders Orthoptera And Related Orders Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="565FAADBFC2539D463BEE2FB87F9E416" type="personal">
+<mods:role id="404CB6B801D210EF468CA9721313B3F5">
+<mods:roleTerm id="5561BFEBE277CFB9B4B3407D85EC1160">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="7D3D2387A0250C336A89A62ACFD1E9B4">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="4A633BA620D760FFEAA433A314553212">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A77ABA442ED0BE6CA77553D2ED3F639D">text</mods:typeOfResource>
+<mods:relatedItem id="A1F1EDC9ED7524AB5E23F3DA6587D89E" type="host">
+<mods:originInfo id="2F553DEC63E8557BB428EDC6EFCBF374">
+<mods:dateIssued id="55008CF6F2D7CACD17729F0ED2BD6B81">1946</mods:dateIssued>
+<mods:dateOther id="AC0FEE9F071FA7315709B5C98663B77B" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="D5AE52F61F4E64176883009B45394FC9">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="162C5914461EB92154BEB6CCA48F6ED7">
+<mods:placeTerm id="F7707A97786D972654A73F155FA30891">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="85B22619095B189DBD11F4FCA15AED62">
+<mods:title id="739E2C1EFB82F87E76DACDE600AA7074">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="35411734727A77F066E8082813F473FE">
+<mods:extent id="EB60A546D41B9A3957B43FC0F7F671F2" unit="page">
+<mods:start id="CB1D9D4BED2E45CAAC705D81671DF24D">3</mods:start>
+<mods:end id="880AA9DC7183286D6402D6DF064AE3CC">8</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="2912B6677B9A33D9B85F9DA25C5776E9">book chapter</mods:classification>
+<mods:identifier id="9AD089EB444E2741F4FCF02681FC6E4A" type="DOI">http://doi.org/10.5281/zenodo.5160233</mods:identifier>
+<mods:identifier id="443FFF8D2740E19EF563F3FAF7D4530A" type="GBIF-Dataset">16f6ef92-619b-417b-946c-22d9b1445e7d</mods:identifier>
+<mods:identifier id="DCE34A752CE427BF1B26A60638A59E85" type="Zenodo-Dep">5160233</mods:identifier>
+</mods:mods>
+<treatment id="2C76878DFF9FFFF6BE56F799FD45F673" ID-DOI="http://doi.org/10.5281/zenodo.5164264" ID-GBIF-Taxon="183924937" ID-Zenodo-Dep="5164264" LSID="urn:lsid:plazi:treatment:2C76878DFF9FFFF6BE56F799FD45F673" httpUri="http://treatment.plazi.org/id/2C76878DFF9FFFF6BE56F799FD45F673" lastPageNumber="5" pageId="2" pageNumber="5">
+<subSubSection id="ECC56510FF9FFFF6BE56F799FC05F783" box="[318,958,2099,2139]" pageId="2" pageNumber="5" type="nomenclature">
+<paragraph id="A460369BFF9FFFF6BE56F799FC05F783" blockId="2.[315,1713,2099,2475]" box="[318,958,2099,2139]" pageId="2" pageNumber="5">
+<heading id="FF2881F7FF9FFFF6BE56F799FC05F783" box="[318,958,2099,2139]" fontSize="8" level="2" pageId="2" pageNumber="5" reason="4">
+<emphasis id="96ABEA89FF9FFFF6BE56F799FED5F783" bold="true" box="[318,366,2099,2139]" pageId="2" pageNumber="5">12.</emphasis>
+<taxonomicName id="63DF4D18FF9FFFF6BEF9F799FC03F783" authority="(Walker)" baseAuthorityName="Walker" box="[401,952,2099,2139]" class="Insecta" family="Haglotettigoniidae" genus="Gryllodes" kingdom="Animalia" order="Orthoptera" pageId="2" pageNumber="5" phylum="Arthropoda" rank="species" species="sigillatus">
+<emphasis id="96ABEA89FF9FFFF6BEF9F799FD4FF783" bold="true" box="[401,756,2099,2139]" pageId="2" pageNumber="5">Gryllodes sigillatus</emphasis>
+(Walker)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9FFFF6BE15F7C4FAF8F6D9" pageId="2" pageNumber="5" type="reference_group">
+<paragraph id="A460369BFF9FFFF6BE15F7C4FDECF714" blockId="2.[315,1713,2099,2475]" pageId="2" pageNumber="5">
+<treatmentCitationGroup id="84CF11B5FF9FFFF6BE15F7C4FDECF714" pageId="2" pageNumber="5">
+<treatmentCitation id="257E108AFF9FFFF6BE15F7C4FDECF714" author="Walker" page="46" pageId="2" pageNumber="5" year="1869">
+<bibCitation id="71F53EF7FF9FFFF6BE15F7C4FDECF714" author="Walker" journalOrPublisher="Cat. Dermapt., Saltat., Blatt., Suppl., Brit. Mus" pageId="2" pageNumber="5" pagination="46" refId="ref1399" type="book" year="1869">
+<emphasis id="96ABEA89FF9FFFF6BE15F7C4FD1CF740" box="[381,679,2158,2200]" italics="true" pageId="2" pageNumber="5">Gryllus sigillatus</emphasis>
+<author id="7C62DE7EFF9FFFF6BDDDF7C4FC86F740" box="[693,829,2158,2200]" pageId="2" pageNumber="5">Walker</author>
+, 
+<journalOrPublisher id="7E1E3C57FF9FFFF6BC3BF7C4F91FF740" box="[851,1700,2158,2200]" pageId="2" pageNumber="5">Cat. Dermapt., Saltat., Blatt., Suppl., Brit. Mus</journalOrPublisher>
+., 
+<pagination id="9D16C86FFF9FFFF6BED1F708FE5DF714" box="[441,486,2210,2252]" pageId="2" pageNumber="5">46</pagination>
+, 
+<year id="D07777C8FF9FFFF6BE97F708FDE9F714" box="[511,594,2210,2252]" pageId="2" pageNumber="5">1869</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="A460369BFF9FFFF6BE16F772FAF8F6D9" blockId="2.[315,1713,2099,2475]" box="[382,1347,2264,2305]" pageId="2" pageNumber="5">
+<bibCitation id="71F53EF7FF9FFFF6BE16F772FAF8F6D9" author="Kirby" box="[382,1347,2264,2305]" journalOrPublisher="Syn. Cat. Orth." pageId="2" pageNumber="5" pagination="42" refId="ref1426" type="book" year="1906">
+<treatmentCitationGroup id="84CF11B5FF9FFFF6BE16F772FA85F6D9" box="[382,1342,2264,2305]" pageId="2" pageNumber="5">
+<treatmentCitation id="257E108AFF9FFFF6BE16F772FA85F6D9" author="Kirby" box="[382,1342,2264,2305]" page="42" pageId="2" pageNumber="5" year="1906">
+<emphasis id="96ABEA89FF9FFFF6BE16F772FD60F6D9" box="[382,731,2264,2305]" italics="true" pageId="2" pageNumber="5">Gryllodes sigillatus,</emphasis>
+<author id="7C62DE7EFF9FFFF6BD84F772FCECF6D9" box="[748,855,2264,2305]" pageId="2" pageNumber="5">Kirby</author>
+, 
+<journalOrPublisher id="7E1E3C57FF9FFFF6BC1AF772FB30F6D9" box="[882,1163,2264,2305]" pageId="2" pageNumber="5">Syn. Cat. Orth.</journalOrPublisher>
+, 
+<pagination id="9D16C86FFF9FFFF6BBCCF772FB6BF6D9" box="[1188,1232,2264,2305]" pageId="2" pageNumber="5">42</pagination>
+, 
+<year id="D07777C8FF9FFFF6BB83F772FA85F6D9" box="[1259,1342,2264,2305]" pageId="2" pageNumber="5">1906</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9FFFF6BE15F6B9F9F4F6E6" box="[381,1615,2323,2366]" pageId="2" pageNumber="5" type="materials_examined">
+<paragraph id="A460369BFF9FFFF6BE15F6B9F9F4F6E6" blockId="2.[315,1713,2099,2475]" box="[381,1615,2323,2366]" pageId="2" pageNumber="5">
+<materialsCitation id="14B73CC6FF9FFFF6BE15F6B9FDF8F6E6" ID-GBIF-Occurrence="3441224342" box="[381,579,2323,2366]" collectingDate="1936-07-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5">
+<collectingMunicipality id="4404ACE1FF9FFFF6BE15F6B9FE04F6E6" box="[381,447,2323,2366]" pageId="2" pageNumber="5">Piti</collectingMunicipality>
+, 
+<date id="D061105BFF9FFFF6BEBCF6B9FDF8F6E6" box="[468,579,2323,2366]" pageId="2" pageNumber="5">
+<collectingDate id="C025E9B3FF9FFFF6BEBCF6B9FDF8F6E6" box="[468,579,2323,2366]" pageId="2" pageNumber="5">
+July 
+<emphasis id="96ABEA89FF9FFFF6BD46F6B9FDF1F6E6" box="[558,586,2323,2366]" italics="true" pageId="2" pageNumber="5">7,</emphasis>
+</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="14B73CC6FF9FFFF6BD34F6B9FD3FF6E6" ID-GBIF-Occurrence="3441224407" box="[604,644,2323,2366]" collectingDate="1936-07-11" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5">11</materialsCitation>
+, 
+<materialsCitation id="14B73CC6FF9FFFF6BDF2F6B9FC91F6E6" ID-GBIF-Occurrence="3441224353" box="[666,810,2323,2366]" collectingDate="1936-08-10" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5">
+<date id="D061105BFF9FFFF6BDF2F6B9FC91F6E6" box="[666,810,2323,2366]" pageId="2" pageNumber="5" value="2010-08">
+<collectingDate id="C025E9B3FF9FFFF6BDF2F6B9FC91F6E6" box="[666,810,2323,2366]" pageId="2" pageNumber="5" value="2010-08">Aug. 10</collectingDate>
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="14B73CC6FF9FFFF6BC28F6B9FC00F6E6" ID-GBIF-Occurrence="3441224413" box="[832,955,2323,2366]" collectingDate="1936-09-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5">
+<date id="D061105BFF9FFFF6BC28F6B9FC00F6E6" box="[832,955,2323,2366]" pageId="2" pageNumber="5">
+<collectingDate id="C025E9B3FF9FFFF6BC28F6B9FC00F6E6" box="[832,955,2323,2366]" pageId="2" pageNumber="5">Sept. 9</collectingDate>
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="14B73CC6FF9FFFF6BCBAF6B9FB4AF6E6" ID-GBIF-Occurrence="3441224325" box="[978,1265,2323,2366]" collectingDate="1936-10-14" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="5">
+<date id="D061105BFF9FFFF6BCBAF6B9FBEFF6E6" box="[978,1108,2323,2366]" pageId="2" pageNumber="5" value="2014-10">
+<collectingDate id="C025E9B3FF9FFFF6BCBAF6B9FBEFF6E6" box="[978,1108,2323,2366]" pageId="2" pageNumber="5" value="2014-10">Oct. 14</collectingDate>
+</date>
+, 
+<collectorName id="092A534DFF9FFFF6BB02F6B9FB4AF6E6" box="[1130,1265,2323,2366]" pageId="2" pageNumber="5">Swezey</collectorName>
+</materialsCitation>
+. Occurs in 
+<collectingRegion id="661BF879FF9FFFF6BAAFF6B9F9F1F6E6" box="[1479,1610,2323,2366]" country="United States of America" name="Hawaii" pageId="2" pageNumber="5">Hawaii</collectingRegion>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9FFFF6BE13F6E4FD45F673" pageId="2" pageNumber="5" type="discussion">
+<paragraph id="A460369BFF9FFFF6BE13F6E4FD45F673" blockId="2.[315,1713,2099,2475]" pageId="2" pageNumber="5">This widely distributed cricket was abundant under rubbish and was also taken in the house at Piti.</paragraph>
+</subSubSection>
+</treatment>
+</document>

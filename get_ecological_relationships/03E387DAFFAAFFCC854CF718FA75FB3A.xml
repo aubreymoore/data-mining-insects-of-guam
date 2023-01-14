@@ -1,0 +1,73 @@
+<document id="7692A9A9B842ECD6A4E2738A37237FBB" ID-DOI="http://doi.org/10.5281/zenodo.5159673" ID-GBIF-Dataset="7700299b-eb39-4c24-86fe-2eabb15beda7" ID-Zenodo-Dep="5159673" approvalRequired="1" approvalRequired_for_document="1" checkinTime="1628017110730" checkinUser="carolina" docAuthor="Blair, K. G." docDate="1942" docId="03E387DAFFAAFFCC854CF718FA75FB3A" docLanguage="en" docName="InsectsOfGuamI.172.56-60.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Dorcatomiella Blair 1935" docType="treatment" docVersion="10" lastPageNumber="60" masterDocId="FFDAFFA2FFAEFFC88657F353FF92FFF8" masterDocTitle="Coleoptera Heteromera From Guam" masterLastPageNumber="60" masterPageNumber="56" pageNumber="60" updateTime="1659542282241" updateUser="annettekang">
+<mods:mods id="D10D2B0304E76FDABC9A535FC0D6625A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="061808A65DEC2A8FEB9E52898ED72000">
+<mods:title id="E8905BF83167E22E48C73F32FDEF2ED1">Coleoptera Heteromera From Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="AF3CFDD8D7781667FD1F83D9774817F3" type="personal">
+<mods:role id="85C8E48C615D6AF6B6A258196C5D5D74">
+<mods:roleTerm id="5E6D6DC006603E2B3EDAD2AE5D36D872">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="252D6E63CC6A4AD824743A5151BEAA88">Blair, K. G.</mods:namePart>
+<mods:affiliation id="D3EF83803256D732692B680D9B7F74D3">British Museum \ (Natural History), London</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="CD07A877924CBDB42FAEEB15692AC610">text</mods:typeOfResource>
+<mods:relatedItem id="4FD78819AAC09011776AE34CB197989F" type="host">
+<mods:originInfo id="D19E57A13CDD2FAF0E4A35034045487F">
+<mods:dateIssued id="82B24B80F7767A4B02E2CD9F3975A07C">1942</mods:dateIssued>
+<mods:dateOther id="4E96DF79F5CD14B90B962E1F40597D26" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="33D33C89F1BEF0E589AB55C586150B56">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="E668008BE927E781095F745A6C6DD74B">
+<mods:placeTerm id="4E3E8CA25E95A101626980BB136FB8AF">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9903C8D78D9614E4E686EDBD1D6926FD">
+<mods:title id="453BFC65E334195B5DF23C8E30FFA92D">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="C28FF3B3CB73D8CAEBF3191D4537E294">
+<mods:extent id="018A2DFA6CE085C757D2023A8FC33657" unit="page">
+<mods:start id="935935F83B8D517BA0EC3C6901EA19EE">56</mods:start>
+<mods:end id="C8419A5464F77B9E36B6F3A39CCCF688">60</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="91DA3381F6C34E65A7D5FD8689EEE859">book chapter</mods:classification>
+<mods:identifier id="CC46863B4A48FC1D1DBBA29CD146C216" type="DOI">http://doi.org/10.5281/zenodo.5159673</mods:identifier>
+<mods:identifier id="F7EC1B06AF559F55845132C9BA327A34" type="GBIF-Dataset">7700299b-eb39-4c24-86fe-2eabb15beda7</mods:identifier>
+<mods:identifier id="5B75942E88A911BDCFA6EE06610D8EA8" type="Zenodo-Dep">5159673</mods:identifier>
+</mods:mods>
+<treatment id="03E387DAFFAAFFCC854CF718FA75FB3A" ID-DOI="http://doi.org/10.5281/zenodo.5163540" ID-GBIF-Taxon="183919372" ID-Zenodo-Dep="5163540" LSID="urn:lsid:plazi:treatment:03E387DAFFAAFFCC854CF718FA75FB3A" httpUri="http://treatment.plazi.org/id/03E387DAFFAAFFCC854CF718FA75FB3A" lastPageNumber="60" pageId="4" pageNumber="60">
+<subSubSection id="C3506547FFAAFFCC854CF718FA08FB8B" box="[795,1434,1099,1139]" pageId="4" pageNumber="60" type="nomenclature">
+<paragraph id="8BF536CCFFAAFFCC854CF718FA08FB8B" blockId="4.[417,1511,1099,1218]" box="[795,1434,1099,1139]" pageId="4" pageNumber="60">
+<heading id="D0BD81A0FFAAFFCC854CF718FA08FB8B" box="[795,1434,1099,1139]" pageId="4" pageNumber="60">
+Genus 
+<taxonomicName id="4C4A4D4FFFAAFFCC85C9F718FA08FB8B" authority="Blair" authorityName="Blair" authorityYear="1935" box="[926,1434,1099,1139]" class="Insecta" family="Anobiidae" genus="Dorcatomiella" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="4" pageNumber="60" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EEADEFFAAFFCC85C9F718FAB8FB8B" bold="true" box="[926,1322,1099,1139]" pageId="4" pageNumber="60">DORCATOMIELLA</emphasis>
+Blair
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3506547FFAAFFCC87F6F7C3FA75FB3A" box="[417,1511,1168,1218]" pageId="4" pageNumber="60" type="reference_group">
+<paragraph id="8BF536CCFFAAFFCC87F6F7C3FA75FB3A" blockId="4.[417,1511,1099,1218]" box="[417,1511,1168,1218]" pageId="4" pageNumber="60">
+<treatmentCitationGroup id="AB5A11E2FFAAFFCC87F6F7C3FA75FB3A" box="[417,1511,1168,1218]" pageId="4" pageNumber="60">
+<treatmentCitation id="0AEB10DDFFAAFFCC87F6F7C3FA75FB3A" author="Blair" box="[417,1511,1168,1218]" page="292" pageId="4" pageNumber="60" year="1935">
+<taxonomicName id="4C4A4D4FFFAAFFCC87F6F7C3FC91FB3A" authorityName="Blair" box="[417,771,1168,1218]" class="Insecta" family="Anobiidae" genus="Dorcatomiella" kingdom="Animalia" order="Coleoptera" pageId="4" pageNumber="60" phylum="Arthropoda" rank="genus">
+<emphasis id="B93EEADEFFAAFFCC87F6F7C3FD0AFB3A" box="[417,664,1168,1218]" italics="true" pageId="4" pageNumber="60">DJrcatomiella</emphasis>
+<bibCitation id="5E603EA0FFAAFFCC84FEF7C3FA75FB3A" author="Blair" box="[681,1511,1168,1218]" journalOrPublisher="B. P. Bishop Mus., Bull." pageId="4" pageNumber="60" pagination="292" part="98" type="journal article" year="1935">
+<author id="53F7DE29FFAAFFCC84FEF7C3FC91FB3A" box="[681,771,1168,1218]" pageId="4" pageNumber="60">Blair</author>
+, 
+<journalOrPublisher id="518B3C00FFAAFFCC854AF7C3FB4EFB3A" box="[797,1244,1168,1218]" pageId="4" pageNumber="60">B. P. Bishop Mus., Bull.</journalOrPublisher>
+<part id="FFEE9C51FFAAFFCC82B8F7C3FA80FB3A" box="[1263,1298,1168,1218]" pageId="4" pageNumber="60" type="volume">98</part>
+: 
+<pagination id="B283C838FFAAFFCC8362F7C3FAE7FB3A" box="[1333,1397,1168,1218]" pageId="4" pageNumber="60" type="pagination">292</pagination>
+, 
+<year id="FFE2779FFFAAFFCC83C6F7C3FA70FB3A" box="[1425,1506,1168,1218]" pageId="4" pageNumber="60">1935</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

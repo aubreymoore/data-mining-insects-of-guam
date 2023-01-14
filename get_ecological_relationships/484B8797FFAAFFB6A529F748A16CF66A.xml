@@ -1,0 +1,131 @@
+<document id="12BD393B2DFDFBD9F31BF9860DBFA0C3" ID-DOI="http://doi.org/10.5281/zenodo.5127686" ID-GBIF-Dataset="7b960500-f4a3-4b8f-8b56-440fdc9431c9" ID-Zenodo-Dep="5127686" checkinTime="1626977897655" checkinUser="carolina" docAuthor="O. H. Swezey" docDate="1946" docId="484B8797FFAAFFB6A529F748A16CF66A" docLanguage="en" docName="InsectsOfGuamII.189.195-200.pdf.imf" docOrigin="Insects of Guam-II, Hawaii, Honolulu: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Discomyza maculipennis" docType="treatment" docVersion="17" lastPageNumber="199" masterDocId="B472FFEFFFAEFFB2A40BFFD9A227FFD1" masterDocTitle="SOME MISCELLANEOUS DIPTERA OF GUAM" masterLastPageNumber="200" masterPageNumber="195" pageNumber="199" updateTime="1659467112381" updateUser="ExternalLinkService">
+<mods:mods id="89FAB2609F8141C9427B853520625791" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="E1FB2399767D63E73808F81DEBAE8C1C">
+<mods:title id="DC3E82B91C7F27609FCF04E516D370F7">SOME MISCELLANEOUS DIPTERA OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="00DBC54D7E5A369C65514DD12ADADB05" type="personal">
+<mods:role id="B3A76DC64A181A70F7A16F16D5071F19">
+<mods:roleTerm id="B327948A99D403E6BC8D7B223B1080CD">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B76C8561137B34A44931CF04B651972C">O. H. Swezey</mods:namePart>
+<mods:affiliation id="C949DF04D1A2CB3FDC510E391B41372C">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="D4785FBBFDE05806E562E68C4ABAC71B">text</mods:typeOfResource>
+<mods:relatedItem id="E9942F47E160E6043921F5CF2AF65963" type="host">
+<mods:originInfo id="9F0D839F549C1352F319CC9A4E369051">
+<mods:dateIssued id="0273F320E37A6AF9E97F92607D8817D9">1946</mods:dateIssued>
+<mods:dateOther id="95C0A448AF2D71F0073D406D161C7565" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="E67DD01C139FC003D61EC2BAA818092F">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="66E3B9C55A4A0CAA01618EA48DE35FCA">
+<mods:placeTerm id="536A531850B44F199F3C68DA434F5DBE">Hawaii, Honolulu</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="994B42F96D01F0169E0925301C236269">
+<mods:title id="E4F3E7E947509361C81D241D99E13A8E">Insects of Guam-II</mods:title>
+</mods:titleInfo>
+<mods:part id="397C3E2492CF2DAF6F9B330A08D99E34">
+<mods:extent id="B48B46156DBBF38DF9AB3DC83CD300C7" unit="page">
+<mods:start id="6C3DA511D3C12CAA2EF3F0C73DEFADA9">195</mods:start>
+<mods:end id="A704BFA03A6B1E606D3A04E67684868B">200</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="078D79C3E3940F7594936EFD7B0B3C4F">book chapter</mods:classification>
+<mods:identifier id="A91B1EEF3E0CDE6FD0701671D57E864A" type="DOI">http://doi.org/10.5281/zenodo.5127686</mods:identifier>
+<mods:identifier id="92F9B0C7C0E2C2F52B840779559CAF1F" type="GBIF-Dataset">7b960500-f4a3-4b8f-8b56-440fdc9431c9</mods:identifier>
+<mods:identifier id="5BDB00BC0A0B9A1433524EDA4808C98C" type="Zenodo-Dep">5127686</mods:identifier>
+</mods:mods>
+<treatment id="484B8797FFAAFFB6A529F748A16CF66A" ID-DOI="http://doi.org/10.5281/zenodo.5123262" ID-GBIF-Taxon="184459697" ID-Zenodo-Dep="5123262" LSID="urn:lsid:plazi:treatment:484B8797FFAAFFB6A529F748A16CF66A" httpUri="http://treatment.plazi.org/id/484B8797FFAAFFB6A529F748A16CF66A" lastPageNumber="199" pageId="4" pageNumber="199">
+<subSubSection id="88F8650AFFAAFFB6A529F748A675F76B" box="[290,1106,2193,2234]" pageId="4" pageNumber="199" type="nomenclature">
+<paragraph id="C05D3681FFAAFFB6A529F748A675F76B" blockId="4.[290,1688,2193,2491]" box="[290,1106,2193,2234]" pageId="4" pageNumber="199">
+<heading id="9B1581EDFFAAFFB6A529F748A675F76B" box="[290,1106,2193,2234]" fontSize="8" level="2" pageId="4" pageNumber="199" reason="4">
+<emphasis id="F296EA93FFAAFFB6A529F748A373F76B" bold="true" box="[290,340,2193,2234]" pageId="4" pageNumber="199">21.</emphasis>
+<taxonomicName id="07E24D02FFAAFFB6A57DF748A66AF76B" authority="(Wiedemann)" baseAuthorityName="Wiedemann" baseAuthorityYear="1824" box="[374,1101,2193,2234]" class="Insecta" family="Ephydridae" genus="Discomyza" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="199" phylum="Arthropoda" rank="species" species="maculipennis">
+<emphasis id="F296EA93FFAAFFB6A57DF748A11EF76B" bold="true" box="[374,825,2193,2234]" pageId="4" pageNumber="199">Discomyza maculipennis</emphasis>
+(Wiedemann)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFAAFFB6A569F71DA42BF6F0" pageId="4" pageNumber="199" type="description">
+<paragraph id="C05D3681FFAAFFB6A569F71DA780F73F" blockId="4.[290,1688,2193,2491]" box="[354,1447,2244,2286]" pageId="4" pageNumber="199">
+<treatmentCitationGroup id="E0F211AFFFAAFFB6A569F71DA780F73F" box="[354,1447,2244,2286]" pageId="4" pageNumber="199">
+<treatmentCitation id="41431090FFAAFFB6A569F71DA713F73F" box="[354,1332,2244,2286]" pageId="4" pageNumber="199">
+<taxonomicName id="07E24D02FFAAFFB6A569F71DA1C3F73F" authority="Wiedemann" authorityName="Wiedemann" authorityYear="1824" box="[354,996,2244,2286]" class="Insecta" family="Ephydridae" genus="Notiphila" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="199" phylum="Arthropoda" rank="species" species="maculipennis">
+<emphasis id="F296EA93FFAAFFB6A569F71DA0D8F73F" box="[354,767,2244,2286]" italics="true" pageId="4" pageNumber="199">Notiphila maculipennis</emphasis>
+<bibCitation id="15C83EEDFFAAFFB6A705F71DA785F73F" author="Wiedemann" box="[782,1442,2244,2286]" journalOrPublisher="Anal. Entom." pageId="4" pageNumber="199" part="57" refId="ref2222" type="book" year="1824">
+<author id="185FDE64FFAAFFB6A705F71DA1C3F73F" box="[782,996,2244,2286]" pageId="4" pageNumber="199">Wiedemann</author>
+, 
+<journalOrPublisher id="1A233C4DFFAAFFB6A7F0F71DA6D7F73F" box="[1019,1264,2244,2286]" pageId="4" pageNumber="199">Anal. Entom.</journalOrPublisher>
+, 
+<emphasis id="F296EA93FFAAFFB6A102F71DA71CF73F" box="[1289,1339,2244,2286]" italics="true" pageId="4" pageNumber="199">
+<part id="B4469C1CFFAAFFB6A102F71DA713F73F" box="[1289,1332,2244,2286]" pageId="4" pageNumber="199">57</part>
+,
+</emphasis>
+<year id="B44A77D2FFAAFFB6A144F71DA785F73F" box="[1359,1442,2244,2286]" pageId="4" pageNumber="199">1824</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="C05D3681FFAAFFB6A56BF72EA42BF6F0" blockId="4.[290,1688,2193,2491]" box="[352,1548,2295,2337]" pageId="4" pageNumber="199">
+<treatmentCitationGroup id="E0F211AFFFAAFFB6A56BF72EA42BF6F0" box="[352,1548,2295,2337]" pageId="4" pageNumber="199">
+<treatmentCitation id="41431090FFAAFFB6A56BF72EA7BDF6F0" box="[352,1434,2295,2337]" pageId="4" pageNumber="199">
+<taxonomicName id="07E24D02FFAAFFB6A56BF72EA1B7F6F0" authority=", Bezzi" authorityName="Bezzi" box="[352,912,2295,2337]" class="Insecta" family="Ephydridae" genus="Discomyza" kingdom="Animalia" order="Diptera" pageId="4" pageNumber="199" phylum="Arthropoda" rank="species" species="maculipennis">
+<emphasis id="F296EA93FFAAFFB6A56BF72EA13AF6F0" box="[352,797,2295,2337]" italics="true" pageId="4" pageNumber="199">Discomyza maculipennis,</emphasis>
+<bibCitation id="15C83EEDFFAAFFB6A725F72EA420F6F0" author="Bezzi" box="[814,1543,2295,2337]" journalOrPublisher="Diptera of Fiji Islands" pageId="4" pageNumber="199" part="154" refId="ref2236" type="book" year="1928">
+<author id="185FDE64FFAAFFB6A725F72EA1B7F6F0" box="[814,912,2295,2337]" pageId="4" pageNumber="199">Bezzi</author>
+, 
+<journalOrPublisher id="1A233C4DFFAAFFB6A7ADF72EA765F6F0" box="[934,1346,2295,2337]" pageId="4" pageNumber="199">
+Diptera of 
+<collectingCountry id="B8F57611FFAAFFB6A07BF72EA765F6F0" box="[1136,1346,2295,2337]" name="Fiji" pageId="4" pageNumber="199">Fiji Islands</collectingCountry>
+</journalOrPublisher>
+, 
+<part id="B4469C1CFFAAFFB6A157F72EA7BDF6F0" box="[1372,1434,2295,2337]" pageId="4" pageNumber="199">154</part>
+, 
+<year id="B44A77D2FFAAFFB6A1B8F72EA420F6F0" box="[1459,1543,2295,2337]" pageId="4" pageNumber="199">1928</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="88F8650AFFAAFFB6A568F6F2A16CF66A" pageId="4" pageNumber="199" type="description">
+<paragraph id="C05D3681FFAAFFB6A568F6F2A16CF66A" blockId="4.[290,1688,2193,2491]" pageId="4" pageNumber="199">
+A cosmopolitan species, occurring in Hawaii, and now recorded in 
+<collectingCountry id="B8F57611FFAAFFB6A23BF6F2A4BFF684" box="[1584,1688,2347,2389]" name="Guam" pageId="4" pageNumber="199">Guam</collectingCountry>
+for the first time
+<materialsCitation id="708A3CDCFFAAFFB6A656F687A62CF659" ID-GBIF-Occurrence="3874685332" box="[605,1035,2398,2440]" collectingDate="1936-05-01" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="4" pageNumber="199">
+. 
+<location id="C53D605AFFAAFFB6A689F687A0E3F659" LSID="urn:lsid:plazi:treatment:484B8797FFAAFFB6A529F748A16CF66A:C53D605AFFAAFFB6A689F687A0E3F659" box="[642,708,2398,2440]" name="Piti" pageId="4" pageNumber="199">Piti</location>
+, 
+<date id="B45C1041FFAAFFB6A6EAF687A17FF659" box="[737,856,2398,2440]" pageId="4" pageNumber="199">
+<collectingDate id="A418E9A9FFAAFFB6A6EAF687A17FF659" box="[737,856,2398,2440]" pageId="4" pageNumber="199">May 1</collectingDate>
+</date>
+, 
+<location id="C53D605AFFAAFFB6A77DF687A622F659" LSID="urn:lsid:plazi:treatment:484B8797FFAAFFB6A529F748A16CF66A:C53D605AFFAAFFB6A77DF687A622F659" box="[886,1029,2398,2440]" name="Usinger" pageId="4" pageNumber="199">Usinger</location>
+,
+</materialsCitation>
+<materialsCitation id="708A3CDCFFAAFFB6A029F687A74EF659" ID-GBIF-Occurrence="3874803301" box="[1058,1385,2398,2440]" collectingDate="1936-09-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="199">
+<date id="B45C1041FFAAFFB6A029F687A69EF659" box="[1058,1209,2398,2440]" pageId="4" pageNumber="199" value="2013-09">
+<collectingDate id="A418E9A9FFAAFFB6A029F687A69EF659" box="[1058,1209,2398,2440]" pageId="4" pageNumber="199" value="2013-09">Sept. 13</collectingDate>
+</date>
+, 
+<location id="C53D605AFFAAFFB6A0DDF687A745F659" LSID="urn:lsid:plazi:treatment:484B8797FFAAFFB6A529F748A16CF66A:C53D605AFFAAFFB6A0DDF687A745F659" box="[1238,1378,2398,2440]" municipality="Bishop Museum" name="Swezey" pageId="4" pageNumber="199">Swezey</location>
+;
+</materialsCitation>
+<materialsCitation id="708A3CDCFFAAFFB6A176F687A16CF66A" ID-GBIF-Occurrence="3874803302" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="4" pageNumber="199" specimenCount="3">
+<specimenCount id="D6E4FD08FFAAFFB6A176F687A4BFF659" box="[1405,1688,2398,2440]" pageId="4" pageNumber="199" type="generic">three specimens</specimenCount>
+in 
+<collectingMunicipality id="2039ACFBFFAAFFB6A551F648A0A4F66A" box="[346,643,2449,2491]" pageId="4" pageNumber="199">Bishop Museum</collectingMunicipality>
+, 
+<location id="C53D605AFFAAFFB6A694F648A161F66A" LSID="urn:lsid:plazi:treatment:484B8797FFAAFFB6A529F748A16CF66A:C53D605AFFAAFFB6A694F648A161F66A" box="[671,838,2449,2491]" municipality="Bishop Museum" name="Fullaway" pageId="4" pageNumber="199">Fullaway</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

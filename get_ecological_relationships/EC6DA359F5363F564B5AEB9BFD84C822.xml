@@ -1,0 +1,151 @@
+<document id="C5D979463BFF2E02BAF7CDC398B28132" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5363F564B5AEB9BFD84C822" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Felisacus ochraceus Usinger 1946, new species" docType="treatment" docVersion="19" lastPageNumber="70" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="69" updateTime="1671748599875" updateUser="aubreymoore">
+<mods:mods id="284D0D0FFCA786C80B011D88F0A2A836" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CB61CC1F5B0FED3C234035188C65CC98">
+<mods:title id="9BA36A995D574411E5CA64DFDD35E316">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="538A35D0D1552EB2C2C23407E6F73E55" type="personal">
+<mods:role id="71EC3A46CDE6F2946014F63563B882A2">
+<mods:roleTerm id="3C097E33E3A2E62C1C7750718686709E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="98536776C732A421A37F103F5181369B">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="4A6D9E018CBC9DBEF7C45627543060CC">text</mods:typeOfResource>
+<mods:relatedItem id="FBF1FE39411F53D32F763B2B7087B08F" type="host">
+<mods:originInfo id="890578E0CB03716B9ECDC6FCF6271B63">
+<mods:dateIssued id="3AD0106982E64018534042DBFCBAF266">1946</mods:dateIssued>
+<mods:dateOther id="F5447DDEDEAE71C39175B37B678FBB5E" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="E0EA69B8E276082D7F3B8A5465B194B0">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="C4918F46C58E3693421C6D3E933E15C3">
+<mods:placeTerm id="161293945FEA7631A24D494419AE7DB8">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="C48FD2DD8176AA89B106C3F44E45AA74">
+<mods:title id="E1D6E9FE4A141EAB088E84B956F5C25A">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="9BD84B85F62B58E7FB80BDF84F52B348">
+<mods:extent id="6A55C23759193EA0701ED3F04076A99E" unit="page">
+<mods:start id="F02F5D406BEBC63633AEFDA2FFE36A6B">11</mods:start>
+<mods:end id="D309E45AEC2581284937424DB2CC0C15">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="B71F9C9C038C9CFD161B44294451E0FB">book chapter</mods:classification>
+<mods:identifier id="A082D8D3572E9586566DDF7B969287FE" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="36178A7CA927B77F71F0C33597ACFEED" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="C619CAC76DD0BEC52227CEA9AD05432C" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5363F564B5AEB9BFD84C822" ID-DOI="http://doi.org/10.5281/zenodo.5245313" ID-GBIF-Taxon="184601143" ID-Zenodo-Dep="5245313" LSID="urn:lsid:plazi:treatment:EC6DA359F5363F564B5AEB9BFD84C822" httpUri="http://treatment.plazi.org/id/EC6DA359F5363F564B5AEB9BFD84C822" lastPageId="59" lastPageNumber="70" pageId="58" pageNumber="69">
+<subSubSection id="2CDE41C4F5363F574B5AEB9BFB77C477" box="[314,1171,1267,1311]" pageId="58" pageNumber="69" type="nomenclature">
+<paragraph id="647B124FF5363F574B5AEB9BFB77C477" blockId="58.[314,1715,1201,2483]" box="[314,1171,1267,1311]" pageId="58" pageNumber="69">
+<heading id="3F33A523F5363F574B5AEB9BFB77C477" box="[314,1171,1267,1311]" fontSize="8" level="2" pageId="58" pageNumber="69" reason="4">
+66. 
+<emphasis id="56B0CE5DF5363F574BEDEB9BFCE5C477" bold="true" box="[397,769,1267,1311]" pageId="58" pageNumber="69">
+<taxonomicName id="A3C469CCF5363F574BEDEB9BFD1FC477" authority="Usinger, 1946" authorityName="Usinger" authorityYear="1946" box="[397,763,1267,1311]" class="Insecta" family="Miridae" genus="Felisacus" kingdom="Animalia" order="Hemiptera" pageId="58" pageNumber="69" phylum="Arthropoda" rank="species" species="ochraceus" status="new species">Felisacus ochraceus</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="4D837326F5363F57496FEB9BFC06C477" box="[783,994,1267,1311]" pageId="58" pageNumber="69" rank="species">new species</taxonomicNameLabel>
+(
+<figureCitation id="FCFF0ECAF5363F574E62EB9BFB9AC477" box="[1026,1150,1267,1311]" captionStart="FIGURE 15" captionStartId="59.[767,875,1967,1996]" captionTargetBox="[893,1357,751,1941]" captionText="FIGURE 15.-—Felisacus ochraceus: dorsal view." figureDoi="http://doi.org/10.5281/zenodo.5173964" httpUri="https://zenodo.org/record/5173964/files/figure.png" pageId="58" pageNumber="69">fig. 15</figureCitation>
+).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5363F574B1FEA40FD85C8DB" pageId="58" pageNumber="69" type="description">
+<paragraph id="647B124FF5363F574B1FEA40FD7EC4F2" blockId="58.[314,1715,1201,2483]" pageId="58" pageNumber="69">Elongate, shining, pale ochraceous with brown eyes, and brown inner clavus and inner margin of corium apically, the inner half of cuneus red or yellow. Eyes longer than postocular portion of head.</paragraph>
+<paragraph id="647B124FF5363F574B1FEAF3FA51C7C1" blockId="58.[314,1715,1201,2483]" pageId="58" pageNumber="69">
+Head almost half again as broad across eyes as long, 24: 17, interocular space less than twice as wide as an eye, 10: 
+<emphasis id="56B0CE5DF5363F57493BEAABFC96C48F" box="[859,882,1475,1511]" italics="true" pageId="58" pageNumber="69">7.</emphasis>
+Eyes very large, longer (as seen from above) than length of postocular portion of head, 9:8. Head cylindrical to basal sixth and then arcuately flaring to hind margins of eyes where the head is two thirds as wide as width across eyes. Rostrum reaching beyond middle of mesosternum. Antennae a little longer than body, 159: 150, first segment cylindrical, only sparsely pubescent, second more slender, the last two very slender and curved; proportion of segments 38: 48: 53: 20.
+</paragraph>
+<paragraph id="647B124FF5363F574BE0E9C4FCDCC602" blockId="58.[314,1715,1201,2483]" pageId="58" pageNumber="69">Pronotum over half again as long on median line as head, 28:17; about one fourth broader across humeri than long, 34: 28, the disk evenly convex on both anterior and posterior lobes except for depressed areas sublaterally near humeri; strongly constricted in front of middle and punctate in the constriction. Hind margin distinctly, roundly emarginate in front of scutellum.</paragraph>
+<paragraph id="647B124FF5363F574B1FE806F9D8C6D0" blockId="58.[314,1715,1201,2483]" pageId="58" pageNumber="69">Hemelytra long, the corial margin a little over twice as long as total length of pronotum, 63: 30, very feebly arcuate posteriorly, the costal margins nearly parallel.</paragraph>
+<paragraph id="647B124FF5363F574B1FE8D4FB1DC93B" blockId="58.[314,1715,1201,2483]" pageId="58" pageNumber="69">
+Right genital clasper of male straight on basal half, tapering and sickle-shaped on apical half and bent posteriorly. (Broader at base and tapering on apical two thirds in 
+<emphasis id="56B0CE5DF5363F574B5BE761FE25C944" box="[315,449,2057,2092]" italics="true" pageId="58" pageNumber="69">felicicola</emphasis>
+Kirkaldy.) Left clasper broad on basal half, abruptly narrowed and slender on apical half, this apical arm feebly curved inward and upward.
+</paragraph>
+<paragraph id="647B124FF5363F574BE0E73FFC6CC80C" blockId="58.[314,1715,1201,2483]" pageId="58" pageNumber="69">
+Color testaceous to ochraceous, the hind margin of pronotum at bases of clavi, inner half of clavus, inner margins of corium adjacent to apex of clavus and extending to cuneus, brown. Cuneus reddish or yellow on inner half. 
+<collectingRegion id="A600DCADF5363F574E4EE7CDFB6CC9A0" box="[1070,1160,2213,2248]" country="New Zealand" name="West Coast" pageId="58" pageNumber="69">Costa</collectingRegion>
+! margins of corium at least apically and veins of membrane ochraceous. Elsewhere clear hyaline. Eyes brown to black. First antenna! segment white on basal fourth, fulvous apically, second fuscous tinged with red on apical half, third and fourth infuscated. Under surface pale yellowish testaceous. The legs pale with infuscated tarsal apices.
+</paragraph>
+<paragraph id="647B124FF5363F574BE0E600FD85C8DB" blockId="58.[314,1715,1201,2483]" pageId="58" pageNumber="69">
+Size: male, length 
+<quantity id="A33CBFAAF5363F5748CBE600FCCBC8E4" box="[683,815,2408,2444]" metricMagnitude="-3" metricUnit="m" metricValue="3.75" pageId="58" pageNumber="69" unit="mm" value="3.75">3.75 mm</quantity>
+., width (hemelytra) 
+<quantity id="A33CBFAAF5363F574E15E600FB02C8E4" box="[1141,1254,2408,2444]" metricMagnitude="-4" metricUnit="m" metricValue="9.0" pageId="58" pageNumber="69" unit="mm" value="0.9">0.9 mm</quantity>
+.; female, length 
+<quantity id="A33CBFAAF5363F574F8AE600F9A0C8E4" box="[1514,1604,2408,2444]" metricMagnitude="-3" metricUnit="m" metricValue="4.0" pageId="58" pageNumber="69" unit="mm" value="4.0">4 mm</quantity>
+., width (hemelytra) 
+<quantity id="A33CBFAAF5363F574868E6E7FDB9C8DB" box="[520,605,2447,2483]" metricMagnitude="-3" metricUnit="m" metricValue="1.0" pageId="58" pageNumber="69" unit="mm" value="1.0">1 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5373F564B98EEE6FDCDC33B" pageId="59" pageNumber="70" type="description">
+<paragraph id="647B124FF5373F564B98EEE6FDCDC33B" blockId="59.[437,1835,398,708]" pageId="59" pageNumber="70">
+<materialsCitation id="D4AC1812F5373F564B98EEE6F95FC0D1" ID-GBIF-Occurrence="3994028345" box="[504,1723,398,441]" collectingDate="1936-05-05" collectorName="R. L. Usinger" country="Guam" location="Upi Trail" pageId="59" pageNumber="70" specimenCount="2" typeStatus="holotype male and allotype female">
+<typeStatus id="BB7FACEDF5373F564B98EEE6FD7DC0D1" box="[504,665,398,441]" pageId="59" pageNumber="70">Holotype</typeStatus>
+<specimenCount id="72C2D9C6F5373F5648CFEEE6FCE7C0D1" box="[687,771,398,441]" pageId="59" pageNumber="70" type="male">male</specimenCount>
+, and 
+<typeStatus id="BB7FACEDF5373F564916EEE6FC1BC0D1" box="[886,1023,398,441]" pageId="59" pageNumber="70">allotype</typeStatus>
+<specimenCount id="72C2D9C6F5373F564E76EEE6FB69C0D1" box="[1046,1165,398,441]" pageId="59" pageNumber="70" type="female">female</specimenCount>
+, 
+<location id="611B4494F5373F564ECCEEE6FA85C0D1" LSID="urn:lsid:plazi:treatment:EC6DA359F5363F564B5AEB9BFD84C822:611B4494F5373F564ECCEEE6FA85C0D1" box="[1196,1377,398,441]" country="Fiji" name="Upi Trail" pageId="59" pageNumber="70">Upi Trail</location>
+, 
+<date id="107A348FF5373F564FE1EEE6FA1AC0D1" box="[1409,1534,398,441]" pageId="59" pageNumber="70">
+<collectingDate id="003ECD67F5373F564FE1EEE6FA1AC0D1" box="[1409,1534,398,441]" pageId="59" pageNumber="70">May 5</collectingDate>
+</date>
+, 
+<location id="611B4494F5373F564C7DEEE6F950C0D1" LSID="urn:lsid:plazi:treatment:EC6DA359F5363F564B5AEB9BFD84C822:611B4494F5373F564C7DEEE6F950C0D1" box="[1565,1716,398,441]" country="Fiji" name="Usinger" pageId="59" pageNumber="70">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5373F564CB3EEE6F9CFC085" ID-GBIF-Occurrence="3994028397" collectedFrom="collected on ferns" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="59" pageNumber="70" specimenCount="3" typeStatus="paratype">
+<specimenCount id="72C2D9C6F5373F564CB3EEE6F8CFC0D1" box="[1747,1835,398,441]" pageId="59" pageNumber="70" type="generic">three</specimenCount>
+<typeStatus id="BB7FACEDF5373F564BD8EEABFD86C085" box="[440,610,451,493]" pageId="59" pageNumber="70">paratypes</typeStatus>
+, same data as above, but collected on ferns, 
+<collectorName id="C9317799F5373F564FF7EEABF9C0C085" box="[1431,1572,451,493]" pageId="59" pageNumber="70">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5373F564C22EEABFBF1C349" ID-GBIF-Occurrence="3994028482" collectedFrom="on ferns" collectingDate="1936-08-24" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="59" pageNumber="70" specimenCount="10" typeStatus="paratype">
+<specimenCount id="72C2D9C6F5373F564C22EEABF98CC085" box="[1602,1640,451,493]" pageId="59" pageNumber="70" type="generic">10</specimenCount>
+<typeStatus id="BB7FACEDF5373F564C17EEABF8C0C085" box="[1655,1828,451,493]" pageId="59" pageNumber="70">paratypes</typeStatus>
+, 
+<collectingMunicipality id="841F8835F5373F564BD8EE9FFE1EC349" box="[440,506,503,545]" pageId="59" pageNumber="70">Piti</collectingMunicipality>
+, 
+<date id="107A348FF5373F564875EE9FFD4FC349" box="[533,683,503,545]" pageId="59" pageNumber="70" value="1924-08">
+<collectingDate id="003ECD67F5373F564875EE9FFD4FC349" box="[533,683,503,545]" pageId="59" pageNumber="70" value="1924-08">Aug. 24</collectingDate>
+</date>
+, on ferns, 
+<collectorName id="C9317799F5373F5649E0EE9FFBEAC349" box="[896,1038,503,545]" pageId="59" pageNumber="70">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F5373F564E4BEE9FFDCDC33B" ID-GBIF-Occurrence="3994028431" collectingDate="1936-04-16" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="59" pageNumber="70" specimenCount="1" typeStatus="holotype">
+<specimenCount id="72C2D9C6F5373F564E4BEE9FFAADC349" box="[1067,1353,503,545]" pageId="59" pageNumber="70" type="generic">eight specimens</specimenCount>
+, 
+<location id="611B4494F5373F564F04EE9FF995C349" LSID="urn:lsid:plazi:treatment:EC6DA359F5363F564B5AEB9BFD84C822:611B4494F5373F564F04EE9FF995C349" box="[1380,1649,503,545]" country="Fiji" name="Ritidian Point," pageId="59" pageNumber="70">Ritidian Point,</location>
+<date id="107A348FF5373F564CE7EE9FF8C7C349" box="[1671,1827,503,545]" pageId="59" pageNumber="70" value="2016-04">
+<collectingDate id="003ECD67F5373F564CE7EE9FF8C7C349" box="[1671,1827,503,545]" pageId="59" pageNumber="70" value="2016-04">April 16</collectingDate>
+</date>
+, 
+<collectorName id="C9317799F5373F564BD5ED43FDCDC33B" box="[437,553,555,595]" pageId="59" pageNumber="70">Bryan.</collectorName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5373F564B92ED0EFD84C822" pageId="59" pageNumber="70" type="description">
+<paragraph id="647B124FF5373F564B92ED0EFD84C822" blockId="59.[437,1835,398,708]" lastBlockId="59.[429,1828,2080,2378]" pageId="59" pageNumber="70">
+<emphasis id="56B0CE5DF5373F564B92ED0EFDF3C3F8" box="[498,535,614,656]" italics="true" pageId="59" pageNumber="70">F.</emphasis>
+felicicola Kirkaldy, which I have from Rewa, 
+<collectingCountry id="1CD352DFF5373F564F07ED0EFA4FC3F8" box="[1383,1451,614,656]" name="Fiji" pageId="59" pageNumber="70">Fiji</collectingCountry>
+, Muir is very similar to 
+<taxonomicName id="A3C469CCF5373F564B8BEDF2FD72C3AC" authorityName="Usinger" authorityYear="1946" box="[491,662,666,708]" class="Insecta" family="Miridae" genus="Felisacus" kingdom="Animalia" order="Hemiptera" pageId="59" pageNumber="70" phylum="Arthropoda" rank="species" species="ochraceus">
+<emphasis id="56B0CE5DF5373F564B8BEDF2FD72C3AC" box="[491,662,666,708]" italics="true" pageId="59" pageNumber="70">ochraceus</emphasis>
+</taxonomicName>
+but has smaller eyes (shorter than postocular portion of head, 8: 9), a slightly longer first antenna! segment and proportionately shorter second antenna! segment (ratio of first and second, 39: 44). The color of 
+<emphasis id="56B0CE5DF5373F564CDDE73AFE16C9D8" italics="true" pageId="59" pageNumber="70">felicicola</emphasis>
+is distinctly fulvous on head.and pronotum and the right genital clasper of the male differs as mentioned above. I have a series from 
+<taxonomicName id="A3C469CCF5373F564C68E7D2F94CC98A" authorityName="Kirkaldy" authorityYear="1913" box="[1544,1704,2234,2274]" class="Insecta" family="Dictyopharidae" genus="Amboina" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="59" pageNumber="70" phylum="Arthropoda" rank="genus">Amboina</taxonomicName>
+which differs slightly from either of these, but clearly pertains to the same group of the genus.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

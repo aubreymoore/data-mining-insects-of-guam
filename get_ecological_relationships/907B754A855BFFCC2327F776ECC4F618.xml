@@ -1,0 +1,86 @@
+<document id="0AEABCE567653E946BFBF5329A3AA461" ID-DOI="http://doi.org/10.5281/zenodo.5156759" ID-GBIF-Dataset="6e65e7d3-7a72-4da4-9739-5e3814593490" ID-Zenodo-Dep="5156759" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628022238476" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="907B754A855BFFCC2327F776ECC4F618" docLanguage="en" docName="InsectsOfGuamII.189.221-227.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Spathius undetermined" docType="treatment" docVersion="11" lastPageNumber="227" masterDocId="6C420D32855DFFCA221EFFCCE940FF9E" masterDocTitle="Ichneumonidae, Evaniidae, And Braconidae Of Guam" masterLastPageNumber="227" masterPageNumber="221" pageNumber="227" updateTime="1660693495426" updateUser="aubreymoore">
+<mods:mods id="ACC650F52A98911AFA1B6DF75DDD71BB" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="3D7B0F4B2BE9B64B6C24B668EEA1B2B2">
+<mods:title id="4196120C85EBB01EBD76BAB698E1E5B0">Ichneumonidae, Evaniidae, And Braconidae Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="63D3D6389B700BEEE24179DEF857D476" type="personal">
+<mods:role id="20B20BE630807FF8B2343D4A8C56ACE1">
+<mods:roleTerm id="1C6932A6A866F29714A8027C5E3BED10">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="F3952E9D5B9993BA93EC41ECD6EF7B15">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="336B4A1ECE846A88DD6DB97ADAA94DA7">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="4A4806CAF0735A3EDCE78433444180A0">text</mods:typeOfResource>
+<mods:relatedItem id="ADECB884701B2AA110D79436E3C28D35" type="host">
+<mods:originInfo id="28B223C5A18E91A86ED59705361CA31F">
+<mods:dateIssued id="3B97400F678F952AAE9A6787260FCD38">1946</mods:dateIssued>
+<mods:dateOther id="C6EBCE9B1091DCB81ACC748548BFA146" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="B7E5AC761DE6B4F316DBED7B3288B7E4">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="4D95A6B279D096F861881AEBB2F40ECB">
+<mods:placeTerm id="A3D31E54B78CFFC8BBE902980102C4F9">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9735F92B968244B304EE5B5C230E555F">
+<mods:title id="C12433BD2831DB3409CCDF7C28049227">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="3F97E7ECA68C3BC843D53FA719CC27B8">
+<mods:extent id="381EC3093ECB20A17C8D5405EAF65C01" unit="page">
+<mods:start id="8A2CB56BD2F96250D916AC08042413B7">221</mods:start>
+<mods:end id="F0D51CD3FABD1DC11E4148E07FBEE48F">227</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E875CA205A18201716D721CB94E7209D">book chapter</mods:classification>
+<mods:identifier id="08EE0A2ABB29CE56E5E30C912CBC5467" type="DOI">http://doi.org/10.5281/zenodo.5156759</mods:identifier>
+<mods:identifier id="296F48B73633DFE6B724C7F51F57A651" type="GBIF-Dataset">6e65e7d3-7a72-4da4-9739-5e3814593490</mods:identifier>
+<mods:identifier id="8EF5FBF8195B4C47AFE130EE202AE367" type="Zenodo-Dep">5156759</mods:identifier>
+</mods:mods>
+<treatment id="907B754A855BFFCC2327F776ECC4F618" ID-DOI="http://doi.org/10.5281/zenodo.5186448" ID-GBIF-Taxon="187975181" ID-Zenodo-Dep="5186448" LSID="urn:lsid:plazi:treatment:907B754A855BFFCC2327F776ECC4F618" httpUri="http://treatment.plazi.org/id/907B754A855BFFCC2327F776ECC4F618" lastPageNumber="227" pageId="6" pageNumber="227">
+<subSubSection id="50C897D7855BFFCC2327F776EBFEF77F" box="[313,702,2234,2273]" pageId="6" pageNumber="227" type="nomenclature">
+<paragraph id="186DC45C855BFFCC2327F776EBFEF77F" blockId="6.[311,1710,2234,2438]" box="[313,702,2234,2273]" pageId="6" pageNumber="227">
+<heading id="43257330855BFFCC2327F776EBFEF77F" box="[313,702,2234,2273]" fontSize="8" level="2" pageId="6" pageNumber="227" reason="4">
+<emphasis id="2AA6184E855BFFCC2327F776E829F77F" bold="true" box="[313,361,2234,2273]" pageId="6" pageNumber="227">14.</emphasis>
+<taxonomicName id="DFD2BFDF855BFFCC2394F776EB68F77F" authority="FULLAWAY" box="[394,552,2234,2273]" class="Insecta" family="Braconidae" genus="Spathius" kingdom="Animalia" order="Hymenoptera" pageId="6" pageNumber="227" phylum="Arthropoda" rank="genus">
+<emphasis id="2AA6184E855BFFCC2394F776EB68F77F" bold="true" box="[394,552,2234,2273]" pageId="6" pageNumber="227">Spathius</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="50C897D7855BFFCC2368F738ECC4F618" pageId="6" pageNumber="227" type="materials_examined">
+<paragraph id="186DC45C855BFFCC2368F738ECC4F618" blockId="6.[311,1710,2234,2438]" pageId="6" pageNumber="227">
+<materialsCitation id="A8BACE01855BFFCC2368F738EC4FF681" ID-GBIF-Occurrence="3352140301" box="[374,1295,2292,2335]" collectedFrom="from ferns" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="6" pageNumber="227" specimenCount-female="1">
+Upi Trail, 
+<date id="6C6CE29C855BFFCC2022F738EBF0F681" box="[572,688,2292,2335]" pageId="6" pageNumber="227">
+<collectingDate id="7C281B74855BFFCC2022F738EBF0F681" box="[572,688,2292,2335]" pageId="6" pageNumber="227">
+May 
+<emphasis id="2AA6184E855BFFCC2085F738EBF7F681" box="[667,695,2292,2335]" italics="true" pageId="6" pageNumber="227">5,</emphasis>
+</collectingDate>
+</date>
+from ferns, 
+<specimenCount id="0ED40FD5855BFFCC2181F738ED25F681" box="[927,1125,2292,2335]" pageId="6" pageNumber="227" type="female">one female</specimenCount>
+, Swezey;
+</materialsCitation>
+<materialsCitation id="A8BACE01855BFFCC2700F738EBA1F6CD" ID-GBIF-Occurrence="3352140307" collectingDate="1936-05-16" collectorName="R. L. Usinger" country="Guam" location="Mount Chachao" pageId="6" pageNumber="227" specimenCount-female="2">
+<location id="1D0D9287855BFFCC2700F738EF47F681" LSID="urn:lsid:plazi:treatment:907B754A855BFFCC2327F776ECC4F618:1D0D9287855BFFCC2700F738EF47F681" box="[1310,1543,2292,2335]" name="Mt. Chachao" pageId="6" pageNumber="227">Mt. Chachao</location>
+, 
+<date id="6C6CE29C855BFFCC2402F738EFE5F681" box="[1564,1701,2292,2335]" pageId="6" pageNumber="227" value="2016-05">
+<collectingDate id="7C281B74855BFFCC2402F738EFE5F681" box="[1564,1701,2292,2335]" pageId="6" pageNumber="227" value="2016-05">May 16</collectingDate>
+</date>
+, 
+<specimenCount id="0ED40FD5855BFFCC2329F6E5EB5EF6CD" box="[311,542,2345,2387]" pageId="6" pageNumber="227" type="female">two females</specimenCount>
+, Usinger;
+</materialsCitation>
+<materialsCitation id="A8BACE01855BFFCC20E4F6E5ECC4F618" ID-GBIF-Occurrence="3352140302" collectedFrom="miscellaneous sweeping " collectingDate="1936-06-02" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="6" pageNumber="227" specimenCount-female="3">
+Machanao, 
+<date id="6C6CE29C855BFFCC21CBF6E5ED18F6CD" box="[981,1112,2345,2387]" pageId="6" pageNumber="227">
+<collectingDate id="7C281B74855BFFCC21CBF6E5ED18F6CD" box="[981,1112,2345,2387]" pageId="6" pageNumber="227">June 2</collectingDate>
+</date>
+, miscellaneous sweeping, 
+<specimenCount id="0ED40FD5855BFFCC244CF6E5E884F618" pageId="6" pageNumber="227" type="female">three females</specimenCount>
+, Swezey. These may include more than one species.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

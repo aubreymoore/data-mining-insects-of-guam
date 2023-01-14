@@ -1,0 +1,157 @@
+<document id="DFDF94015F01FE00DFEEE0DF93C5ADF0" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB81B0EFE6DF7AE038047E7" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Inopeplus metallescens Fairmaire" docType="treatment" docVersion="20" lastPageNumber="157" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="156" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="533CD8E26C414588C10848380C50996F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="93BBE4409FF6E3A3ECFC24EBD6F3B502">
+<mods:title id="CCEEA0D30BD00E79485866C7E832BDD7">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="FF3DDF55E1FCE0FCDE2EC41FEDF2B3F2" type="personal">
+<mods:role id="3A7B4E2BB1AA8ADFBA871155CF9AC296">
+<mods:roleTerm id="0AA216F1595531BBD147C57945E51378">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="86CB6C8600C0D35B01AFE402C96F9367">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="94BF6935F8D3B0894D13AD1127631A39">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="1DDE1A0F33D1A6DEE57B86C6E3C2FB52">text</mods:typeOfResource>
+<mods:relatedItem id="2416799624936763CF298B8D3134BF00" type="host">
+<mods:originInfo id="E034694F37C2A7056E5D0A73AE51A87D">
+<mods:dateIssued id="54D46ED7C6393D3480C30FE948DBB769">1942</mods:dateIssued>
+<mods:dateOther id="0BA016915403A428B058BE839F5306F0" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="04BC63142BB375A023C8D893F9E0C802">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="3A7E9DDAE9EF4E212E7D5CBD7B80974D">
+<mods:placeTerm id="7DE332EA597EF80188F380D57CDE9ADB">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="DA49FE761432DEC44800A7AD1A64A682">
+<mods:title id="216798A8B970929A201D279DDF54A192">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="BA9BB9162F3B93085FF6D8F21FF68B66">
+<mods:extent id="52F3C0994F04AEFD73AF6C8F053EC7C9" unit="page">
+<mods:start id="958DD58293A307EAB0BC7C60846ACF50">150</mods:start>
+<mods:end id="A639C364DA2F2CA3A03620767D70FB1A">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="B27BFCE80BA9D003FBFA94F10355E6A0">book chapter</mods:classification>
+<mods:identifier id="8F48B37B91AF56BF191825FD61B2CD77" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="0430F5B0CCA2D6CC884A2893CB085E3C" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="16C52AA65DEF2A3E4B763FC5BBA4B703" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB81B0EFE6DF7AE038047E7" ID-DOI="http://doi.org/10.5281/zenodo.5211613" ID-GBIF-Taxon="184415292" ID-Zenodo-Dep="5211613" LSID="urn:lsid:plazi:treatment:376B87E5FFB81B0EFE6DF7AE038047E7" httpUri="http://treatment.plazi.org/id/376B87E5FFB81B0EFE6DF7AE038047E7" lastPageId="7" lastPageNumber="157" pageId="6" pageNumber="156">
+<subSubSection id="F7D86578FFB81B0FFE6DF7AE03734E71" box="[439,1141,2075,2119]" pageId="6" pageNumber="156" type="nomenclature">
+<paragraph id="BF7D36F3FFB81B0FFE6DF7AE03734E71" blockId="6.[437,1833,2075,2530]" box="[439,1141,2075,2119]" pageId="6" pageNumber="156">
+<heading id="E435819FFFB81B0FFE6DF7AE03734E71" box="[439,1141,2075,2119]" centered="true" fontSize="11" level="2" pageId="6" pageNumber="156" reason="2">
+<emphasis id="8DB6EAE1FFB81B0FFE6DF7AE06D24E71" bold="true" box="[439,468,2075,2119]" pageId="6" pageNumber="156">4.</emphasis>
+<taxonomicName id="78C24D70FFB81B0FFE2FF7AE03684E71" authority="Fairmaire" authorityName="Fairmaire" box="[501,1134,2075,2119]" class="Insecta" family="Cucujidae" genus="Inopeplus" kingdom="Animalia" order="Coleoptera" pageId="6" pageNumber="156" phylum="Arthropoda" rank="species" species="metallescens">
+<emphasis id="8DB6EAE1FFB81B0FFE2FF7AE04A64E71" bold="true" box="[501,928,2075,2119]" pageId="6" pageNumber="156">Inopeplus metallescens</emphasis>
+Fairmaire
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB81B0FFB54F7AE023B4E4C" pageId="6" pageNumber="156" type="reference_group">
+<bibCitation id="6AE83E9FFFB81B0FFB54F7AE023B4E4C" author="Fairmaire" journalOrPublisher="Soc. Ent. France, Ann." pageId="6" pageNumber="156" pagination="254" part="1" refId="ref3343" type="journal article" year="1881">
+<paragraph id="BF7D36F3FFB81B0FFB54F7AE002F4E71" blockId="6.[437,1833,2075,2530]" box="[1166,1833,2075,2119]" pageId="6" pageNumber="156">
+<heading id="E435819FFFB81B0FFB54F7AE002F4E71" box="[1166,1833,2075,2119]" centered="true" fontSize="11" level="2" pageId="6" pageNumber="156" reason="2">
+<treatmentCitationGroup id="9FD211DDFFB81B0FFB54F7AE002F4E71" box="[1166,1833,2075,2119]" pageId="6" pageNumber="156">
+<treatmentCitation id="3E6310E2FFB81B0FFB54F7AE002F4E71" author="Fairmaire" box="[1166,1833,2075,2119]" page="254" pageId="6" pageNumber="156" year="1881">
+<journalOrPublisher id="65033C3FFFB81B0FFB54F7AE01414E71" box="[1166,1607,2075,2119]" pageId="6" pageNumber="156">
+Soc. Ent. 
+<collectingCountry id="C7D57663FFB81B0FFA8EF7AE02D54E71" box="[1364,1491,2075,2119]" name="France" pageId="6" pageNumber="156">France</collectingCountry>
+, Ann.
+</journalOrPublisher>
+VI, 
+<emphasis id="8DB6EAE1FFB81B0FF96EF7AE01C44E71" bold="true" box="[1716,1730,2075,2119]" pageId="6" pageNumber="156">
+<part id="CB669C6EFFB81B0FF96EF7AE01C44E71" box="[1716,1730,2075,2119]" pageId="6" pageNumber="156" type="volume">1</part>
+</emphasis>
+: 
+<pagination id="860BC807FFB81B0FF932F7AE00254E71" box="[1768,1827,2075,2119]" pageId="6" pageNumber="156" type="pageRange">254</pagination>
+,
+</treatmentCitation>
+</treatmentCitationGroup>
+</heading>
+</paragraph>
+<paragraph id="BF7D36F3FFB81B0FFE2CF7FA023B4E4C" blockId="6.[437,1833,2075,2530]" box="[502,1341,2127,2170]" pageId="6" pageNumber="156">
+<bibCitation id="6AE83E9FFFB81B0FFE2CF7FA023B4E4C" author="Arrow" box="[502,1341,2127,2170]" journalOrPublisher="Insects of Samoa" pageId="6" pageNumber="156" pagination="43" part="4" refId="ref3357" type="journal article" year="1927">
+<year id="CB6A77A0FFB81B0FFE2CF7FA054E4E4C" box="[502,584,2127,2170]" pageId="6" pageNumber="156">1881</year>
+. 
+<treatmentCitation id="3E6310E2FFB81B0FFDBEF7FA023E4E4C" author="Arrow" box="[612,1336,2127,2170]" page="43" pageId="6" pageNumber="156" year="1927">
+<author id="677FDE16FFB81B0FFDBEF7FA05D84E4C" box="[612,734,2127,2170]" pageId="6" pageNumber="156">Arrow</author>
+, 
+<journalOrPublisher id="65033C3FFFB81B0FFD2EF7FA032F4E4C" box="[756,1065,2127,2170]" pageId="6" pageNumber="156">
+Insects of 
+<collectingCountry id="C7D57663FFB81B0FFC6AF7FA032F4E4C" box="[944,1065,2127,2170]" name="Samoa" pageId="6" pageNumber="156">Samoa</collectingCountry>
+</journalOrPublisher>
+<emphasis id="8DB6EAE1FFB81B0FFBEFF7FA03844E4C" bold="true" box="[1077,1154,2127,2170]" pageId="6" pageNumber="156">
+<part id="CB669C6EFFB81B0FFBEFF7FA03494E4C" box="[1077,1103,2127,2170]" pageId="6" pageNumber="156" type="volume">4</part>
+(
+<part id="CB669C6EFFB81B0FFB87F7FA036B4E4C" box="[1117,1133,2127,2170]" pageId="6" pageNumber="156" type="issue">1</part>
+):
+</emphasis>
+<pagination id="860BC807FFB81B0FFB79F7FA03C94E4C" box="[1187,1231,2127,2170]" pageId="6" pageNumber="156" type="pageRange">43</pagination>
+, 
+<year id="CB6A77A0FFB81B0FFB3CF7FA023E4E4C" box="[1254,1336,2127,2170]" pageId="6" pageNumber="156">1927</year>
+</treatmentCitation>
+.
+</bibCitation>
+</paragraph>
+</bibCitation>
+</subSubSection>
+<subSubSection id="F7D86578FFB81B0FFE2FF73604AE4FD4" pageId="6" pageNumber="156" type="materials_examined">
+<paragraph id="BF7D36F3FFB81B0FFE2FF73604AE4FD4" blockId="6.[437,1833,2075,2530]" pageId="6" pageNumber="156">
+<materialsCitation id="0FAA3CAEFFB81B0FFE2FF73601634F71" ID-GBIF-Occurrence="3336142316" collectedFrom="abundant in Guam, under bark, where there was quite a clearing of felled trees which had attracted a good many insects, and in which many of the logs had loosened bark" collectingDate="1936-06-04" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Machanao" pageId="6" pageNumber="156" specimenCount="50">
+We found this species abundant in 
+<collectingCountry id="C7D57663FFB81B0FFB53F73603F24E9B" box="[1161,1268,2179,2221]" name="Guam" pageId="6" pageNumber="156">Guam</collectingCountry>
+, under bark, especially at 
+<location id="BA1D6028FFB81B0FF93BF73605344ED6" LSID="urn:lsid:plazi:treatment:376B87E5FFB81B0EFE6DF7AE038047E7:BA1D6028FFB81B0FF93BF73605344ED6" country="Guam" name="Machanao" pageId="6" pageNumber="156">Machanao</location>
+, 
+<date id="CB7C1033FFB81B0FFD94F70205CA4ED6" box="[590,716,2231,2272]" pageId="6" pageNumber="156">
+<collectingDate id="DB38E9DBFFB81B0FFD94F70205CA4ED6" box="[590,716,2231,2272]" pageId="6" pageNumber="156">June 4</collectingDate>
+</date>
+, where there was quite a clearing of felled trees which had attracted a good many insects, and in which many of the logs had loosened bark. 
+<location id="BA1D6028FFB81B0FFDF1F6A8059F4F71" LSID="urn:lsid:plazi:treatment:376B87E5FFB81B0EFE6DF7AE038047E7:BA1D6028FFB81B0FFDF1F6A8059F4F71" box="[555,665,2333,2375]" country="Guam" name="About" pageId="6" pageNumber="156">About</location>
+SO 
+<specimenCount id="A9C4FD7AFFB81B0FFD3FF6A804954F71" box="[741,915,2333,2375]" pageId="6" pageNumber="156" type="generic">specimens</specimenCount>
+were collected by 
+<collectorName id="12375325FFB81B0FFB35F6A802774F71" box="[1263,1393,2333,2375]" pageId="6" pageNumber="156">Swezey</collectorName>
+and 
+<collectorName id="12375325FFB81B0FFA0EF6A801634F71" box="[1492,1637,2333,2375]" pageId="6" pageNumber="156">Usinger</collectorName>
+</materialsCitation>
+. 
+<materialsCitation id="0FAA3CAEFFB81B0FF952F6A804AD4F4D" ID-GBIF-Occurrence="3994027441" collectedFrom="under bark of Intsia bijuga" collectingDate="1936-07-06" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="6" pageNumber="156">
+<location id="BA1D6028FFB81B0FF952F6A804134F4D" LSID="urn:lsid:plazi:treatment:376B87E5FFB81B0EFE6DF7AE038047E7:BA1D6028FFB81B0FF952F6A804134F4D" name="Also collected at Barrigada" pageId="6" pageNumber="156">Also collected at Barrigada</location>
+, 
+<date id="CB7C1033FFB81B0FFCF5F6E504A24F4D" box="[815,932,2384,2427]" pageId="6" pageNumber="156">
+<collectingDate id="DB38E9DBFFB81B0FFCF5F6E504A24F4D" box="[815,932,2384,2427]" pageId="6" pageNumber="156">July 6</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB81B0FFC64F6E501AC4F4D" ID-GBIF-Occurrence="3994027380" box="[958,1706,2384,2427]" collectedFrom="under bark of Intsia bijuga" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="6" pageNumber="156">
+22, under bark of 
+<taxonomicName id="78C24D70FFB81B0FFAC2F6E500214F4D" authority=", Swezey. E. C." authorityName=", Swezey. E. C." box="[1304,1831,2384,2427]" class="Magnoliopsida" family="Fabaceae" genus="Intsia" kingdom="Plantae" order="Fabales" pageId="6" pageNumber="156" phylum="Tracheophyta" rank="species" species="bijuga">
+<emphasis id="8DB6EAE1FFB81B0FFAC2F6E5010F4F4D" box="[1304,1545,2384,2427]" italics="true" pageId="6" pageNumber="156">
+<location id="BA1D6028FFB81B0FFAC2F6E502784F4D" LSID="urn:lsid:plazi:treatment:376B87E5FFB81B0EFE6DF7AE038047E7:BA1D6028FFB81B0FFAC2F6E502784F4D" box="[1304,1406,2384,2427]" name="Intsia" pageId="6" pageNumber="156">Intsia</location>
+bijuga,
+</emphasis>
+<collectorName id="12375325FFB81B0FF9C4F6E501A34F4D" box="[1566,1701,2384,2427]" pageId="6" pageNumber="156">Swezey</collectorName>
+. E. C.
+</taxonomicName>
+</materialsCitation>
+Zimmerman's determination. This species was described from 
+<collectingCountry id="C7D57663FFB81B0FF992F631018A4F98" box="[1608,1676,2436,2478]" name="Fiji" pageId="6" pageNumber="156">Fiji</collectingCountry>
+. It also occurs in 
+<collectingCountry id="C7D57663FFB81B0FFDBAF60D05D74FD4" box="[608,721,2488,2530]" name="Tonga" pageId="6" pageNumber="156">Tonga</collectingCountry>
+and 
+<collectingCountry id="C7D57663FFB81B0FFCF1F60D04A54FD4" box="[811,931,2488,2530]" name="Samoa" pageId="6" pageNumber="156">Samoa</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB91B0EFEBFFEF4038047E7" pageId="7" pageNumber="157" type="discussion">
+<paragraph id="BF7D36F3FFB91B0EFEBFFEF4038047E7" blockId="7.[357,1686,321,363]" lastBlockId="7.[292,1686,373,465]" pageId="7" pageNumber="157">
+<pageTitle id="FF5DEE94FFB91B0EFEBFFEF40190475D" box="[357,1686,321,363]" pageId="7" pageNumber="157">Besides these species, there were about half a dozen species of cucujids</pageTitle>
+among miscellaneous 
+<taxonomicName id="78C24D70FFB91B0EFD78FEC0045847A9" authorityName="Linnaeus" authorityYear="1758" box="[674,862,373,415]" class="Magnoliopsida" higherTaxonomySource="GBIF" kingdom="Plantae" order="Coleoptera" pageId="7" pageNumber="157" phylum="Tracheophyta" rank="order">Coleoptera</taxonomicName>
+sent for determination to the British Museum, and some of which yet remain to be reported on.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

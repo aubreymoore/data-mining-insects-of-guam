@@ -1,0 +1,200 @@
+<document id="5683D9AF3E9A58B2B8817B79F7B184A3" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB01B07FE77F94C01334EC7" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Agrilus occipitalis (Eschscholtz)" docType="treatment" docVersion="20" lastPageNumber="164" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="164" updateTime="1671377585779" updateUser="annettekang">
+<mods:mods id="CA8B1CE45932B0A00FC5E8187FEF0CDF" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="EEEFEA59D1AB7A1F39151B061C0D1082">
+<mods:title id="AF916714690E7AB1E4B972B1DF20C5EC">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="C704E39B636760CFB8F839CBBEB14DBB" type="personal">
+<mods:role id="C2930E725F097AC609FF243D2018E257">
+<mods:roleTerm id="DAC6FC7DB7E1A5157B54ACE2EC810268">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="7219D556C646AFD694A6C7A3C0510447">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="DDC0F6C604F721FE09ED74CF0AA15BEE">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="F699CFE22E449084B526C3C4F9F1E003">text</mods:typeOfResource>
+<mods:relatedItem id="D2AF897CAC7BB6A80628BC4EE36385E9" type="host">
+<mods:originInfo id="F1F3CEEF4E2C1BFAFB5A774D6A006003">
+<mods:dateIssued id="1B08AF770AD95BD88C3C68780BFA2495">1942</mods:dateIssued>
+<mods:dateOther id="1F4A9D8EC9171176CD217C69E3D726EC" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="BF6A0711834802BEF97C37375BF377AD">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="F449DE1CDC626387009E71414ADDD48B">
+<mods:placeTerm id="F1F1AFDF327AF1F426D0A9116F6A2AB5">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="54C893E680FE3C06CB1E224F8B82B2BA">
+<mods:title id="0B6D5384F0D395A6684933496D0E17C0">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="B9D2A66AC8CA25B875A433850C80AF40">
+<mods:extent id="847C46978D1FF7F8E2E1775088E081A9" unit="page">
+<mods:start id="6D12EB2380ED30B38813A551315DC7A0">150</mods:start>
+<mods:end id="AB8AEE9C68D4569E09587C8DFCBC8ABA">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="B9AA82EF623626645C04D266C7384BE1">book chapter</mods:classification>
+<mods:identifier id="18B4DA16DECF8AA0513929776FA1ECCF" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="336098075880225D483CC36674D29D44" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="208D37A01D9E37607104790404C337E7" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB01B07FE77F94C01334EC7" ID-DOI="http://doi.org/10.5281/zenodo.5182891" ID-GBIF-Taxon="184415361" ID-Zenodo-Dep="5182891" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77F94C01334EC7" httpUri="http://treatment.plazi.org/id/376B87E5FFB01B07FE77F94C01334EC7" lastPageNumber="164" pageId="14" pageNumber="164">
+<subSubSection id="F7D86578FFB01B07FE77F94C03534112" box="[429,1109,1785,1828]" pageId="14" pageNumber="164" type="nomenclature">
+<paragraph id="BF7D36F3FFB01B07FE77F94C03534112" blockId="14.[429,1824,1303,2561]" box="[429,1109,1785,1828]" pageId="14" pageNumber="164">
+4. 
+<taxonomicName id="78C24D70FFB01B07FE31F94C03494112" authority="(Eschscholtz)" authorityName="(Eschscholtz)" baseAuthorityName="Eschscholtz" baseAuthorityYear="1822" box="[491,1103,1785,1828]" class="Insecta" family="Buprestidae" genus="Agrilus" kingdom="Animalia" order="Coleoptera" pageId="14" pageNumber="164" phylum="Arthropoda" rank="species" species="occipitalis">
+<emphasis id="8DB6EAE1FFB01B07FE31F94C043F4112" bold="true" box="[491,825,1785,1828]" pageId="14" pageNumber="164">Agrilus occipitalis</emphasis>
+(Eschscholtz)
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB01B07FE31F89905F64189" pageId="14" pageNumber="164" type="reference_group">
+<paragraph id="BF7D36F3FFB01B07FE31F89902B84161" blockId="14.[429,1824,1303,2561]" box="[491,1470,1836,1879]" pageId="14" pageNumber="164">
+<treatmentCitationGroup id="9FD211DDFFB01B07FE31F89902B84161" box="[491,1470,1836,1879]" pageId="14" pageNumber="164">
+<bibCitation id="6AE83E9FFFB01B07FE31F89902B84161" author="Eschscholtz" box="[491,1470,1836,1879]" journalOrPublisher="Entomogr." pageId="14" pageNumber="164" pagination="79" refId="ref7565" type="book" year="1822">
+<treatmentCitation id="3E6310E2FFB01B07FE31F89902BF4161" author="Eschscholtz" box="[491,1465,1836,1879]" page="79" pageId="14" pageNumber="164" year="1822">
+<emphasis id="8DB6EAE1FFB01B07FE31F89904494161" box="[491,847,1836,1879]" italics="true" pageId="14" pageNumber="164">Buprestis occipitalis</emphasis>
+<author id="677FDE16FFB01B07FCBAF89903374161" box="[864,1073,1836,1879]" pageId="14" pageNumber="164">Eschscholtz</author>
+, 
+<journalOrPublisher id="65033C3FFFB01B07FB92F89902014161" box="[1096,1287,1836,1879]" pageId="14" pageNumber="164">Entomogr.</journalOrPublisher>
+, 
+<pagination id="860BC807FFB01B07FAFAF899024D4161" box="[1312,1355,1836,1879]" pageId="14" pageNumber="164" type="pageRange">79</pagination>
+, 
+<year id="CB6A77A0FFB01B07FABDF89902BF4161" box="[1383,1465,1836,1879]" pageId="14" pageNumber="164">1822</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFB01B07FE31F8EA05F64189" blockId="14.[429,1824,1303,2561]" pageId="14" pageNumber="164">
+<treatmentCitationGroup id="9FD211DDFFB01B07FE31F8EA05F64189" pageId="14" pageNumber="164">
+<treatmentCitation id="3E6310E2FFB01B07FE31F8EA05F64189" author="Obenberger" page="1094" pageId="14" pageNumber="164" year="1936">
+<bibCitation id="6AE83E9FFFB01B07FE31F8EA05F64189" author="Obenberger" pageId="14" pageNumber="164" pagination="1094" part="152" refId="ref7576" title="Coleopt. Catalog." type="book" year="1936">
+<emphasis id="8DB6EAE1FFB01B07FE31F8EA043241BC" box="[491,820,1887,1930]" italics="true" pageId="14" pageNumber="164">Agrilus occipitalis</emphasis>
+(Eschscholtz) 
+<author id="677FDE16FFB01B07FBB9F8EA023341BC" box="[1123,1333,1887,1930]" pageId="14" pageNumber="164">Obenberger</author>
+, 
+<title id="CDC6DDC5FFB01B07FA8CF8EA018C41BC" box="[1366,1674,1887,1930]" pageId="14" pageNumber="164">Coleopt. Catalog.</title>
+(
+<part id="CB669C6EFFB01B07F96FF8EA01F141BC" box="[1717,1783,1887,1930]" pageId="14" pageNumber="164" type="volume">152</part>
+): 
+<pagination id="860BC807FFB01B07FDF4F82005864189" box="[558,640,1941,1983]" pageId="14" pageNumber="164" type="pageRange">1094</pagination>
+, 
+<year id="CB6A77A0FFB01B07FD43F82005ED4189" box="[665,747,1941,1983]" pageId="14" pageNumber="164">1936</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB01B07FE36F873046A4EBD" pageId="14" pageNumber="164" type="materials_examined">
+<paragraph id="BF7D36F3FFB01B07FE36F873046A4EBD" blockId="14.[429,1824,1303,2561]" pageId="14" pageNumber="164">
+<materialsCitation id="0FAA3CAEFFB01B07FE36F873020641C7" ID-GBIF-Occurrence="3334692594" box="[492,1280,1990,2033]" collectedFrom="on tangerine trunk" collectingDate="1936-03-28" collectorName="E. H. Bryan" country="Guam" location="Yona" pageId="14" pageNumber="164">
+<location id="BA1D6028FFB01B07FE36F873054A41C7" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77F94C01334EC7:BA1D6028FFB01B07FE36F873054A41C7" box="[492,588,1990,2033]" name="Yona" pageId="14" pageNumber="164">Yona</location>
+, 
+<date id="CB7C1033FFB01B07FDB9F873040841C7" box="[611,782,1990,2033]" pageId="14" pageNumber="164" value="1928-03">
+<collectingDate id="DB38E9DBFFB01B07FDB9F873040841C7" box="[611,782,1990,2033]" pageId="14" pageNumber="164" value="1928-03">March 28</collectingDate>
+</date>
+, on tangerine trunk, 
+<location id="BA1D6028FFB01B07FB5EF87303FF41C7" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77F94C01334EC7:BA1D6028FFB01B07FB5EF87303FF41C7" box="[1156,1273,1990,2033]" name="Bryan" pageId="14" pageNumber="164">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB01B07FACBF873052D4E12" ID-GBIF-Occurrence="3334692486" collectedFrom="on lime tree" collectingDate="1936-05-07" collectorName="E. H. Bryan" country="Guam" location="Inarajan" pageId="14" pageNumber="164">
+<location id="BA1D6028FFB01B07FACBF87302AC41C7" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77F94C01334EC7:BA1D6028FFB01B07FACBF87302AC41C7" box="[1297,1450,1990,2033]" name="Inarajan" pageId="14" pageNumber="164">Inarajan</location>
+, 
+<date id="CB7C1033FFB01B07FA1BF873013441C7" box="[1473,1586,1990,2033]" pageId="14" pageNumber="164">
+<collectingDate id="DB38E9DBFFB01B07FA1BF873013441C7" box="[1473,1586,1990,2033]" pageId="14" pageNumber="164">
+May 
+<emphasis id="8DB6EAE1FFB01B07F9C7F873013F41C7" bold="true" box="[1565,1593,1990,2033]" pageId="14" pageNumber="164">7,</emphasis>
+</collectingDate>
+</date>
+on lime tree, 
+<location id="BA1D6028FFB01B07FE75F84F05224E12" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77F94C01334EC7:BA1D6028FFB01B07FE75F84F05224E12" box="[431,548,2042,2084]" name="Bryan" pageId="14" pageNumber="164">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB01B07FDE5F84F02154E12" ID-GBIF-Occurrence="3334692407" box="[575,1299,2042,2084]" collectedFrom="on Citrus" collectingDate="1936-06-14" collectorName="R. L. Usinger" country="Guam" location="Barrigada" pageId="14" pageNumber="164">
+<collectingMunicipality id="5F19AC89FFB01B07FDE5F84F05F44E12" box="[575,754,2042,2084]" pageId="14" pageNumber="164">Barrigacla</collectingMunicipality>
+, 
+<date id="CB7C1033FFB01B07FCD0F84F049C4E12" box="[778,922,2042,2084]" pageId="14" pageNumber="164" value="2014-06">
+<collectingDate id="DB38E9DBFFB01B07FCD0F84F049C4E12" box="[778,922,2042,2084]" pageId="14" pageNumber="164" value="2014-06">June 14</collectingDate>
+</date>
+, on 
+<emphasis id="8DB6EAE1FFB01B07FC34F84F03624E12" box="[1006,1124,2042,2084]" italics="true" pageId="14" pageNumber="164">
+<taxonomicName id="78C24D70FFB01B07FC34F84F035B4E12" authority=", Usinger" authorityName=", Swezey" box="[1006,1117,2042,2084]" class="Magnoliopsida" family="Rutaceae" genus="Citrus" kingdom="Plantae" order="Sapindales" pageId="14" pageNumber="164" phylum="Tracheophyta" rank="genus">
+<location id="BA1D6028FFB01B07FC34F84F035B4E12" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77F94C01334EC7:BA1D6028FFB01B07FC34F84F035B4E12" box="[1006,1117,2042,2084]" municipality="Barrigacla" name="Citrus" pageId="14" pageNumber="164">Citrus</location>
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="12375325FFB01B07FBACF84F020A4E12" box="[1142,1292,2042,2084]" pageId="14" pageNumber="164">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB01B07FAFDF84F00264E12" ID-GBIF-Occurrence="3334692382" box="[1319,1824,2042,2084]" collectingDate="1936-08-06" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="14" pageNumber="164">
+<location id="BA1D6028FFB01B07FAFDF84F02D84E12" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77F94C01334EC7:BA1D6028FFB01B07FAFDF84F02D84E12" box="[1319,1502,2042,2084]" name="Machanao" pageId="14" pageNumber="164">Machanao</location>
+, 
+<date id="CB7C1033FFB01B07FA2EF84F01744E12" box="[1524,1650,2042,2084]" pageId="14" pageNumber="164">
+<collectingDate id="DB38E9DBFFB01B07FA2EF84F01744E12" box="[1524,1650,2042,2084]" pageId="14" pageNumber="164">Aug. 6</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB01B07F956F84F001F4E12" box="[1676,1817,2042,2084]" pageId="14" pageNumber="164">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB01B07FE75F79803284E6E" ID-GBIF-Occurrence="3334692545" box="[431,1070,2093,2136]" collectedFrom="on Citrus" collectingDate="1936-08-07" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="14" pageNumber="164">
+<collectingMunicipality id="5F19AC89FFB01B07FE75F79805224E6E" box="[431,548,2093,2136]" pageId="14" pageNumber="164">Agana</collectingMunicipality>
+, 
+<date id="CB7C1033FFB01B07FDE7F79805BC4E6E" box="[573,698,2093,2136]" pageId="14" pageNumber="164">
+<collectingDate id="DB38E9DBFFB01B07FDE7F79805BC4E6E" box="[573,698,2093,2136]" pageId="14" pageNumber="164">
+Aug. 
+<emphasis id="8DB6EAE1FFB01B07FD7FF79805C74E6E" bold="true" box="[677,705,2093,2136]" pageId="14" pageNumber="164">7,</emphasis>
+</collectingDate>
+</date>
+on 
+<emphasis id="8DB6EAE1FFB01B07FCCBF79804804E6E" box="[785,902,2093,2136]" italics="true" pageId="14" pageNumber="164">
+<taxonomicName id="78C24D70FFB01B07FCCBF79804794E6E" authority=", Swezey" authorityName=", Swezey" authorityYear="1911" box="[785,895,2093,2136]" class="Magnoliopsida" family="Rutaceae" genus="Citrus" kingdom="Plantae" order="Sapindales" pageId="14" pageNumber="164" phylum="Tracheophyta" rank="genus">
+<location id="BA1D6028FFB01B07FCCBF79804794E6E" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77F94C01334EC7:BA1D6028FFB01B07FCCBF79804794E6E" box="[785,895,2093,2136]" municipality="Agana" name="Citrus" pageId="14" pageNumber="164">Citrus</location>
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="12375325FFB01B07FC41F79803214E6E" box="[923,1063,2093,2136]" pageId="14" pageNumber="164">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB01B07FB98F79802104E6E" ID-GBIF-Occurrence="3994027423" box="[1090,1302,2093,2136]" collectingDate="1936-10-02" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="14" pageNumber="164">
+<location id="BA1D6028FFB01B07FB98F79803824E6E" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77F94C01334EC7:BA1D6028FFB01B07FB98F79803824E6E" box="[1090,1156,2093,2136]" name="Piti" pageId="14" pageNumber="164">Piti</location>
+, 
+<date id="CB7C1033FFB01B07FB44F79802094E6E" box="[1182,1295,2093,2136]" pageId="14" pageNumber="164">
+<collectingDate id="DB38E9DBFFB01B07FB44F79802094E6E" box="[1182,1295,2093,2136]" pageId="14" pageNumber="164">Oct. 2</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB01B07FAF3F798053C4EBD" ID-GBIF-Occurrence="3994027411" collectedFrom="beaten from Citrus" collectingDate="1936-11-06" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="14" pageNumber="164">
+<date id="CB7C1033FFB01B07FAF3F79802A34E6E" box="[1321,1445,2093,2136]" pageId="14" pageNumber="164">
+<collectingDate id="DB38E9DBFFB01B07FAF3F79802A34E6E" box="[1321,1445,2093,2136]" pageId="14" pageNumber="164">Nov. 6</collectingDate>
+</date>
+, beaten from 
+<emphasis id="8DB6EAE1FFB01B07F971F79800264E6E" box="[1707,1824,2093,2136]" italics="true" pageId="14" pageNumber="164">
+<taxonomicName id="78C24D70FFB01B07F971F798001F4E6E" authority=", Swezey. Fullaway, 1911" authorityName=", Swezey" authorityYear="1911" box="[1707,1817,2093,2136]" class="Magnoliopsida" family="Rutaceae" genus="Citrus" kingdom="Plantae" order="Sapindales" pageId="14" pageNumber="164" phylum="Tracheophyta" rank="genus">
+<location id="BA1D6028FFB01B07F971F798001F4E6E" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77F94C01334EC7:BA1D6028FFB01B07F971F798001F4E6E" box="[1707,1817,2093,2136]" name="Citrus" pageId="14" pageNumber="164">Citrus</location>
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="12375325FFB01B07FE75F7D405334EBD" box="[431,565,2145,2187]" pageId="14" pageNumber="164">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB01B07FD8CF7D4046A4EBD" ID-GBIF-Occurrence="3994027375" box="[598,876,2145,2187]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="14" pageNumber="164">
+<collectorName id="12375325FFB01B07FD8CF7D405FD4EBD" box="[598,763,2145,2187]" pageId="14" pageNumber="164">Fullaway</collectorName>
+, 1911.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB01B07FE37F72601334EC7" pageId="14" pageNumber="164" type="discussion">
+<paragraph id="BF7D36F3FFB01B07FE37F72601334EC7" blockId="14.[429,1824,1303,2561]" pageId="14" pageNumber="164">
+Described from the 
+<collectingCountry id="C7D57663FFB01B07FC80F72603274E88" box="[858,1057,2195,2238]" name="Philippines" pageId="14" pageNumber="164">Philippines</collectingCountry>
+, also recorded from 
+<collectingCountry id="C7D57663FFB01B07FA47F72601054E88" box="[1437,1539,2195,2238]" name="China" pageId="14" pageNumber="164">China</collectingCountry>
+and Turkestan. This small black species was common on dead branches of 
+<emphasis id="8DB6EAE1FFB01B07FA1AF77201334EC7" box="[1472,1589,2247,2289]" italics="true" pageId="14" pageNumber="164">
+<taxonomicName id="78C24D70FFB01B07FA1AF77201364EC7" authorityName=", Swezey" authorityYear="1911" box="[1472,1584,2247,2289]" class="Magnoliopsida" family="Rutaceae" genus="Citrus" kingdom="Plantae" order="Sapindales" pageId="14" pageNumber="164" phylum="Tracheophyta" rank="genus">Citrus</taxonomicName>
+.
+</emphasis>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

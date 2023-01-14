@@ -1,0 +1,156 @@
+<document id="49B8E02C476D61D1C07588C76F88622C" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFB251445E6DAC6EF952FA32" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Aphanocorynes humeralis Marshall. 1931" docType="treatment" docVersion="22" lastPageNumber="139" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="139" updateTime="1671319831425" updateUser="aubreymoore">
+<mods:mods id="76069136790833AC3172C120C0D3A67F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="0E60E5407BCCA0FA11AE84C2C9217BEA">
+<mods:title id="2198C43768ED88F1A18E73B196AF0C6F">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="F60D9B8FDCAF307412EACF03519F501F" type="personal">
+<mods:role id="28E16AA7F8C6A25A2BDC912156E0A32E">
+<mods:roleTerm id="84A5E54A673D7ADFF51A79F325481592">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="CF225054CB4223DECB87B8A1AF67085C">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="602081A98999EE89A312B5C0A4EE4838">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="ED4A99FC969A86B5472142070EB997B9">text</mods:typeOfResource>
+<mods:relatedItem id="999AA42203F8F300EAFA16DB28CC8758" type="host">
+<mods:originInfo id="00E042E85CBFB45F6B0B275DBDDA8C61">
+<mods:dateIssued id="AA55FBAB7A369ED335EDB9C66825831E">1942</mods:dateIssued>
+<mods:dateOther id="07517920609DB461F286A23503C42C01" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="E5915717DEF7A2869EB7413E4EAEBEAA">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="069FA527215681B8106119E22B0F60F8">
+<mods:placeTerm id="60535380214B1DC178BEEBB938BC2B8E">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="64792A5BE4885CF9C8543F7A82DF6874">
+<mods:title id="900DC1CCC5CB53AB98043D2DCF28E3C2">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="6CB02CDE9894302E89F474ACB411797C">
+<mods:extent id="2127B043544D737DEB57FA3BFC0E8709" unit="page">
+<mods:start id="A81AEA1117E8D95CBE57DA7003B589F3">73</mods:start>
+<mods:end id="C66C4535C30BEA4939A071A0B13A00D1">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E4CB70B0165370CC3951A48A5BC19690">book chapter</mods:classification>
+<mods:identifier id="0262D7BD4855F2F2135551037967BB7E" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="10C3C5734151DFF5BF5F8ED7330F12C2" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="2B7EF38D3BC9595E491782130D3E862E" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFB251445E6DAC6EF952FA32" ID-DOI="http://doi.org/10.5281/zenodo.5208152" ID-GBIF-Taxon="184097918" ID-Zenodo-Dep="5208152" LSID="urn:lsid:plazi:treatment:D6388709FFB251445E6DAC6EF952FA32" httpUri="http://treatment.plazi.org/id/D6388709FFB251445E6DAC6EF952FA32" lastPageNumber="139" pageId="66" pageNumber="139">
+<subSubSection id="168B6594FFB251445E6DAC6EFBE0FCC8" box="[310,1050,820,862]" pageId="66" pageNumber="139" type="nomenclature">
+<paragraph id="5E2E361FFFB251445E6DAC6EFBE0FCC8" blockId="66.[310,1706,820,1444]" box="[310,1050,820,862]" pageId="66" pageNumber="139">
+<heading id="05668173FFB251445E6DAC6EFBE0FCC8" box="[310,1050,820,862]" centered="true" fontSize="8" level="2" pageId="66" pageNumber="139" reason="4">
+<emphasis id="6CE5EA0DFFB251445E6DAC6EFE9DFCC8" bold="true" box="[310,359,820,862]" pageId="66" pageNumber="139">41.</emphasis>
+<taxonomicName id="99914D9CFFB251445ED2AC6EFBE9FCC8" authority="Marshall" authorityName="Marshall." authorityYear="1931" box="[393,1043,820,862]" class="Insecta" family="Curculionidae" genus="Aphanocorynes" kingdom="Animalia" order="Coleoptera" pageId="66" pageNumber="139" phylum="Arthropoda" rank="species" species="humeralis">
+<emphasis id="6CE5EA0DFFB251445ED2AC6EFC9BFCC8" bold="true" box="[393,865,820,862]" pageId="66" pageNumber="139">Aphanocorynes humeralis</emphasis>
+<author id="862CDEFAFFB251445C2BAC6EFBE9FCC8" box="[880,1043,820,862]" pageId="66" pageNumber="139">Marshall</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB251445B71AC6EFD69FC05" pageId="66" pageNumber="139" type="reference_group">
+<paragraph id="5E2E361FFFB251445B71AC6EFD69FC05" blockId="66.[310,1706,820,1444]" pageId="66" pageNumber="139">
+<treatmentCitationGroup id="7E811131FFB251445B71AC6EFD69FC05" pageId="66" pageNumber="139">
+<treatmentCitation id="DF30100EFFB251445B71AC6EFD69FC05" author="Marshall" page="334" pageId="66" pageNumber="139" year="1931">
+<bibCitation id="8BBB3E73FFB251445B71AC6EFD69FC05" author="Marshall" pageId="66" pageNumber="139" pagination="334" part="4" refId="ref45420" title="Insects of Samoa" type="book" year="1931">
+<heading id="05668173FFB251445B71AC6EF952FCC8" box="[1066,1704,820,862]" centered="true" fontSize="8" level="2" pageId="66" pageNumber="139" reason="4">
+<title id="2C95DD29FFB251445B71AC6EFA9BFCC8" box="[1066,1377,820,862]" pageId="66" pageNumber="139">
+Insects of 
+<collectingCountry id="2686768FFFB251445BB1AC6EFA9BFCC8" box="[1258,1377,820,862]" name="Samoa" pageId="66" pageNumber="139">Samoa</collectingCountry>
+</title>
+<emphasis id="6CE5EA0DFFB251445A34AC6EFA46FCC8" bold="true" box="[1391,1468,820,862]" pageId="66" pageNumber="139">
+<part id="2A359C82FFB251445A34AC6EFA7DFCC8" box="[1391,1415,820,862]" pageId="66" pageNumber="139" type="volume">4</part>
+(
+<part id="2A359C82FFB251445ACFAC6EFA53FCC8" box="[1428,1449,820,862]" pageId="66" pageNumber="139" type="issue">5</part>
+):
+</emphasis>
+<pagination id="6758C8EBFFB251445A84AC6EF9E4FCC8" box="[1503,1566,820,862]" pageId="66" pageNumber="139" type="pageRange">334</pagination>
+, fig. 
+<emphasis id="6CE5EA0DFFB25144592CAC6EF952FCC8" box="[1655,1704,820,862]" italics="true" pageId="66" pageNumber="139">27,</emphasis>
+</heading>
+<year id="2A39774CFFB251445E22AC33FE3FFC05" box="[377,453,873,915]" pageId="66" pageNumber="139">1931</year>
+(pl. 4,D).
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB251445E2CACFFFD64FA94" pageId="66" pageNumber="139" type="materials_examined">
+<paragraph id="5E2E361FFFB251445E2CACFFFD64FA94" blockId="66.[310,1706,820,1444]" pageId="66" pageNumber="139">
+<materialsCitation id="EEF93C42FFB251445E2CACFFFB9AFB94" ID-GBIF-Occurrence="3990716303" collectedFrom="from pigeon peas" collectingDate="1936-06-24" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="66" pageNumber="139" specimenCount="1">
+One specimen of what I believe to be this species was collected from pigeon peas at Barrigada, 
+<date id="2A2F10DFFFB251445DD2AC8CFC79FB94" box="[649,899,982,1026]" pageId="66" pageNumber="139" value="1936-06-24">
+<collectingDate id="3A6BE937FFB251445DD2AC8CFC79FB94" box="[649,899,982,1026]" pageId="66" pageNumber="139" value="1936-06-24">June 24, 1936</collectingDate>
+</date>
+, by Swezey.
+</materialsCitation>
+The following specimens are in the Bishop Museum collections: five, 
+<location id="5B4E60C4FFB251445C82AB53FB13FBA3" LSID="urn:lsid:plazi:treatment:D6388709FFB251445E6DAC6EF952FA32:5B4E60C4FFB251445C82AB53FB13FBA3" box="[985,1257,1033,1077]" country="Samoa" county="Tutuila" municipality="Aunuu Islet" name="Fanning Island" pageId="66" pageNumber="139">
+Fanning 
+<collectingCountry id="2686768FFFB251445B20AB53FB13FBA3" box="[1147,1257,1033,1077]" name="Iceland" pageId="66" pageNumber="139">Island</collectingCountry>
+</location>
+, 
+<date id="2A2F10DFFFB251445BA4AB53FA20FBA3" box="[1279,1498,1033,1077]" pageId="66" pageNumber="139" value="1924-12-02">
+<collectingDate id="3A6BE937FFB251445BA4AB53FA20FBA3" box="[1279,1498,1033,1077]" pageId="66" pageNumber="139" value="1924-12-02">Dec. 2, 1924</collectingDate>
+</date>
+, 
+<collectorName id="F36453C9FFB251445AAAAB53F95BFBA3" box="[1521,1697,1033,1077]" pageId="66" pageNumber="139">S. C. Ball</collectorName>
+; one, 
+<location id="5B4E60C4FFB251445ECEAB67FD55FBFE" LSID="urn:lsid:plazi:treatment:D6388709FFB251445E6DAC6EF952FA32:5B4E60C4FFB251445ECEAB67FD55FBFE" box="[405,687,1085,1128]" country="Samoa" county="Tutuila" municipality="Aunuu Islet" name="Palmyra Island" pageId="66" pageNumber="139">
+Palmyra 
+<collectingCountry id="2686768FFFB251445D1AAB67FD55FBFE" box="[577,687,1085,1128]" name="Iceland" pageId="66" pageNumber="139">Island</collectingCountry>
+</location>
+, 
+<date id="2A2F10DFFFB251445D97AB67FC9AFBFE" box="[716,864,1085,1128]" pageId="66" pageNumber="139" value="2013-06">June 13</date>
+, 
+<collectorName id="F36453C9FFB251445CDBAB67FB89FBFE" box="[896,1139,1085,1128]" pageId="66" pageNumber="139">C. M. Cooke</collectorName>
+, Jr.; one, 
+<location id="5B4E60C4FFB251445A1FAB67F95BFBFE" LSID="urn:lsid:plazi:treatment:D6388709FFB251445E6DAC6EF952FA32:5B4E60C4FFB251445A1FAB67F95BFBFE" box="[1348,1697,1085,1128]" country="Samoa" county="Tutuila" municipality="Aunuu Islet" name="Washington Island" pageId="66" pageNumber="139">
+Washington 
+<collectingCountry id="2686768FFFB251445968AB67F95BFBFE" box="[1587,1697,1085,1128]" name="Iceland" pageId="66" pageNumber="139">Island</collectingCountry>
+</location>
+, 
+<date id="2A2F10DFFFB251445E6DAB2BFDC3FB0D" box="[310,569,1137,1179]" pageId="66" pageNumber="139" value="1924-08-18">
+<collectingDate id="3A6BE937FFB251445E6DAB2BFDC3FB0D" box="[310,569,1137,1179]" pageId="66" pageNumber="139" value="1924-08-18">Aug. 18, 1924</collectingDate>
+</date>
+, 
+<collectorName id="F36453C9FFB251445D08AB2BFC97FB0D" box="[595,877,1137,1179]" pageId="66" pageNumber="139">L. A. Whitney</collectorName>
+; and one, 
+<collectingMunicipality id="BE4AAC65FFB251445B68AB2BFAF5FB0D" box="[1075,1295,1137,1179]" pageId="66" pageNumber="139">Aunuu Islet</collectingMunicipality>
+, 
+<collectingCounty id="B74F4E93FFB251445A71AB2BFA55FB0D" box="[1322,1455,1137,1179]" pageId="66" pageNumber="139">Tutuila</collectingCounty>
+, 
+<collectingCountry id="2686768FFFB251445A97AB2BF9B8FB0D" box="[1484,1602,1137,1179]" name="Samoa" pageId="66" pageNumber="139">Samoa</collectingCountry>
+, 
+<date id="2A2F10DFFFB251445906AB2BFE77FB58" pageId="66" pageNumber="139" value="1930-02">
+<collectingDate id="3A6BE937FFB251445906AB2BFE77FB58" pageId="66" pageNumber="139" value="1930-02">Feb. 1930</collectingDate>
+</date>
+, Fullaway. The species has heretofore been reported from only 
+<location id="5B4E60C4FFB251445966ABFFF953FB58" LSID="urn:lsid:plazi:treatment:D6388709FFB251445E6DAC6EF952FA32:5B4E60C4FFB251445966ABFFF953FB58" box="[1597,1705,1189,1230]" country="Samoa" municipality="Tutuila" name="Upolu" pageId="66" pageNumber="139">Upolu</location>
+and 
+<collectingMunicipality id="BE4AAC65FFB251445ED8AB82FDF2FA94" box="[387,520,1240,1282]" pageId="66" pageNumber="139">Tutuila</collectingMunicipality>
+, 
+<collectingCountry id="2686768FFFB251445D79AB82FD63FA94" box="[546,665,1240,1282]" name="Samoa" pageId="66" pageNumber="139">Samoa</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB251445E2EAA4EF952FA32" pageId="66" pageNumber="139" type="discussion">
+<paragraph id="5E2E361FFFB251445E2EAA4EF952FA32" blockId="66.[310,1706,820,1444]" pageId="66" pageNumber="139">
+This series of specimens appears to me to show intergradations of certain characters between 
+<taxonomicName id="99914D9CFFB251445DF0AA1DFAC3FAF9" authority="Marshall" authorityName="Marshall." authorityYear="1931" box="[683,1337,1351,1391]" class="Insecta" family="Curculionidae" genus="Aphanocorynes" kingdom="Animalia" order="Coleoptera" pageId="66" pageNumber="139" phylum="Arthropoda" rank="species" species="humeralis">
+<emphasis id="6CE5EA0DFFB251445DF0AA1DFB7EFAF9" box="[683,1156,1351,1391]" italics="true" pageId="66" pageNumber="139">Aphanocorynes humeralis</emphasis>
+Marshall
+</taxonomicName>
+and 
+<taxonomicName id="99914D9CFFB251445AF6AA1DFE26FA32" authority="Marshall." authorityName="Marshall." class="Insecta" family="Curculionidae" genus="Aphanocorynes" kingdom="Animalia" order="Coleoptera" pageId="66" pageNumber="139" phylum="Arthropoda" rank="species" species="savaiiensis">
+<emphasis id="6CE5EA0DFFB251445AF6AA1DF950FAF9" box="[1453,1706,1351,1391]" italics="true" pageId="66" pageNumber="139">A. savaiiensis</emphasis>
+Marshall.
+</taxonomicName>
+<taxonomicName id="99914D9CFFB251445EACAA20FD11FA32" authorityName="Marshall." box="[503,747,1402,1444]" class="Insecta" family="Curculionidae" genus="Aphanocorynes" kingdom="Animalia" order="Coleoptera" pageId="66" pageNumber="139" phylum="Arthropoda" rank="species" species="savaiiensis">
+<emphasis id="6CE5EA0DFFB251445EACAA20FD11FA32" box="[503,747,1402,1444]" italics="true" pageId="66" pageNumber="139">A. savaiiensis</emphasis>
+</taxonomicName>
+was described from a unique, and I have not seen it.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

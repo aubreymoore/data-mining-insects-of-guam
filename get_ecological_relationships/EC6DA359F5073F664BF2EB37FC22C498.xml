@@ -1,0 +1,96 @@
+<document id="1ADAD80C156EE69A6FA56EBF90542485" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5073F664BF2EB37FC22C498" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Glaucias inornata" docType="treatment" docVersion="20" lastPageNumber="22" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="22" updateTime="1671507890132" updateUser="annettekang">
+<mods:mods id="92910319BAC6A8F177C351952C9AF39B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C723601FA2982D875D2839E799AC47EA">
+<mods:title id="6FA49C28D56EED45BCCC33B28CFC8AD8">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="98F4B65C1C390C28903C5B040D60A67B" type="personal">
+<mods:role id="E6B0AC61C42E1E51B19E3786389A5052">
+<mods:roleTerm id="DA2943CFF78CF8D0C202488E04AAECB6">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D168BA0175025AF61FFCA4AB6FAC9A71">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="0A4A50BB33AC4C3C9ABC50AC5955B924">text</mods:typeOfResource>
+<mods:relatedItem id="981F434B8DD0C1FE143C9B8AD16F285C" type="host">
+<mods:originInfo id="E471AD3EE0D07FA053355DC7FED49098">
+<mods:dateIssued id="05C850CD2D072AE0DBE3742AE2C6428C">1946</mods:dateIssued>
+<mods:dateOther id="F19DF87F247F3D61C4D62EDD24AF9C61" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="50D364C143B6D3B82363B75BC2A26FD8">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="885D536E03D75987D953A0B8FB28976D">
+<mods:placeTerm id="59EF3473F232B96E4402EF2C052DC3F7">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5AE68C1F7CCB06DE8B00E4ED33268F63">
+<mods:title id="61B4D8C6903D8F1512E0CBBEEEB50C71">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="F4900EB8B76DDDD2E6D1C3BE92685EB0">
+<mods:extent id="B62C62CB49AA8981C225596687626107" unit="page">
+<mods:start id="C7AF28EB583B89F9C0F045BC34FB048C">11</mods:start>
+<mods:end id="1942016A788E7407A54E452240AEDC8C">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="ACD76D0F3C6B33550D08625154EC3FE8">book chapter</mods:classification>
+<mods:identifier id="E115251C25F3C37DE9A56C6525998339" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="F47D41C32943F8480B23900DB14E1260" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="13314EC45A0A9C6693D63537CEB09B6E" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5073F664BF2EB37FC22C498" ID-DOI="http://doi.org/10.5281/zenodo.5186583" ID-GBIF-Taxon="184601243" ID-Zenodo-Dep="5186583" LSID="urn:lsid:plazi:treatment:EC6DA359F5073F664BF2EB37FC22C498" httpUri="http://treatment.plazi.org/id/EC6DA359F5073F664BF2EB37FC22C498" lastPageNumber="22" pageId="11" pageNumber="22">
+<subSubSection id="2CDE41C4F5073F664BF2EB37FC78C5E2" box="[402,924,1119,1162]" pageId="11" pageNumber="22" type="nomenclature">
+<paragraph id="647B124FF5073F664BF2EB37FC78C5E2" blockId="11.[401,1801,1119,1520]" box="[402,924,1119,1162]" pageId="11" pageNumber="22">
+<heading id="3F33A523F5073F664BF2EB37FC78C5E2" box="[402,924,1119,1162]" fontSize="8" level="2" pageId="11" pageNumber="22" reason="4">
+7. 
+<taxonomicName id="A3C469CCF5073F664BB1EB37FC72C5E2" authority="(Stal)" baseAuthorityName="Stal" box="[465,918,1119,1162]" class="Insecta" family="Pentatomidae" genus="Glaucias" kingdom="Animalia" order="Hemiptera" pageId="11" pageNumber="22" phylum="Arthropoda" rank="species" species="inornata">Glaucias inornata (Stal)</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5073F664BB2EBFBF9C9C5D6" box="[466,1581,1171,1214]" pageId="11" pageNumber="22" type="reference_group">
+<paragraph id="647B124FF5073F664BB2EBFBF9C9C5D6" blockId="11.[401,1801,1119,1520]" box="[466,1581,1171,1214]" pageId="11" pageNumber="22">
+<bibCitation id="B1EE1A23F5073F664BB2EBFBF9C9C5D6" author="Stal" box="[466,1581,1171,1214]" journalOrPublisher="Ofv. K. Vet. - Akad. Forh" pageId="11" pageNumber="22" pagination="633" part="27" refId="ref4750" type="journal article" year="1870">
+<treatmentCitationGroup id="44D43561F5073F664BB2EBFBF9CCC5D6" box="[466,1576,1171,1214]" pageId="11" pageNumber="22">
+<treatmentCitation id="E565345EF5073F664BB2EBFBF9CCC5D6" author="Stal" box="[466,1576,1171,1214]" page="633" pageId="11" pageNumber="22" year="1870">
+<emphasis id="56B0CE5DF5073F664BB2EBFBFD0FC5D6" box="[466,747,1171,1214]" italics="true" pageId="11" pageNumber="22">Eangis inornata</emphasis>
+<author id="BC79FAAAF5073F66489CEBFBFCA6C5D6" box="[764,834,1171,1214]" pageId="11" pageNumber="22">Stal</author>
+, 
+<journalOrPublisher id="BE051883F5073F66493CEBFBFBDDC5D6" box="[860,1081,1171,1214]" pageId="11" pageNumber="22">Ofv. K. Vet.</journalOrPublisher>
+-Akad. Forh. 
+<part id="1060B8D2F5073F664F54EBFBFA82C5D6" box="[1332,1382,1171,1214]" pageId="11" pageNumber="22" type="volume">27</part>
+: 
+<pagination id="5D0DECBBF5073F664F1AEBFBFA5FC5D6" box="[1402,1467,1171,1214]" pageId="11" pageNumber="22" type="pageRange">633</pagination>
+, 
+<year id="106C531CF5073F664FB6EBFBF9CCC5D6" box="[1494,1576,1171,1214]" pageId="11" pageNumber="22">1870</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5073F664BB1EBAEFC22C498" pageId="11" pageNumber="22" type="materials_examined">
+<paragraph id="647B124FF5073F664BB1EBAEFC22C498" blockId="11.[401,1801,1119,1520]" pageId="11" pageNumber="22">
+<materialsCitation id="D4AC1812F5073F664BB1EBAEFBA0C44B" ID-GBIF-Occurrence="3994028380" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="11" pageNumber="22" specimenCount-female="1">
+A single female specimen is at hand, labeled &quot; 
+<collectingCountry id="1CD352DFF5073F664F7AEBAEFA6BC598" box="[1306,1423,1222,1264]" name="Iceland" pageId="11" pageNumber="22">Island</collectingCountry>
+of 
+<collectingCountry id="1CD352DFF5073F664FBAEBAEF9AEC598" box="[1498,1610,1222,1264]" name="Guam" pageId="11" pageNumber="22">Guam</collectingCountry>
+&quot; from the collection of 
+<collectorName id="C9317799F5073F6648E7EB90FC42C44B" box="[647,934,1272,1315]" pageId="11" pageNumber="22">D. T. Fullaway</collectorName>
+(1179).
+</materialsCitation>
+I have no Philippine specimens with which to compare it, but the 
+<collectingCountry id="1CD352DFF5073F6649FDEA45FBE2C43E" box="[925,1030,1325,1366]" name="Guam" pageId="11" pageNumber="22">Guam</collectingCountry>
+specimen agrees with Sta.l's description of a male except that it is only 
+<quantity id="A33CBFAAF5073F6649F8EA37FBFBC4E2" box="[920,1055,1375,1418]" metricMagnitude="-3" metricUnit="m" metricValue="7.5" pageId="11" pageNumber="22" unit="mm" value="7.5">
+<emphasis id="56B0CE5DF5073F6649F8EA37FC2DC4E2" box="[920,969,1375,1418]" italics="true" pageId="11" pageNumber="22">7.5</emphasis>
+mm
+</quantity>
+. wide across the humeri. A female from Angaur in the Carolines collected by 
+<collectorName id="C9317799F5073F664E49EAFBFB39C4D5" box="[1065,1245,1427,1469]" pageId="11" pageNumber="22">Y. Kondo</collectorName>
+, 
+<date id="107A348FF5073F664E92EAFBFA11C4D5" box="[1266,1525,1427,1469]" pageId="11" pageNumber="22" value="1936-04-15">
+<collectingDate id="003ECD67F5073F664E92EAFBFA11C4D5" box="[1266,1525,1427,1469]" pageId="11" pageNumber="22" value="1936-04-15">April 15, 1936</collectingDate>
+</date>
+, is very similar but has black connexival angles.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

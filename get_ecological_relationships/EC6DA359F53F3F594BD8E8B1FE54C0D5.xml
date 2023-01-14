@@ -1,0 +1,142 @@
+<document id="68B61373431D3A8857F0428E0F2CF953" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F53F3F594BD8E8B1FE54C0D5" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Eurystylus costalis var. unicolor Poppius" docType="treatment" docVersion="21" lastPageNumber="62" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="62" updateTime="1671674318142" updateUser="annettekang">
+<mods:mods id="3D16C02FCFE1B2EF7320B0AE29905B02" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="01F2C3D0BBB1904B4E241C85A41E6CD5">
+<mods:title id="E65027F70E8286C73B41C538592AF75C">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="8DD4469B98186725DDEEE035240FF313" type="personal">
+<mods:role id="8B10EC73D124FE81D6233C83B5EE5A33">
+<mods:roleTerm id="D6311E6BA55D5911542352E0A084A7B9">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="959E50B846A8D5C56A03A8614FE52D8A">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="E75B5E5D44CE92E19D59AD823B31E9FA">text</mods:typeOfResource>
+<mods:relatedItem id="9B57D8366856DDFD50DBCFDACB758B4D" type="host">
+<mods:originInfo id="F7FB52D23A7F7C071AE348E75762DDD6">
+<mods:dateIssued id="B38D32BBB778D02A030950A01982F7CB">1946</mods:dateIssued>
+<mods:dateOther id="464B16F0634122C0EE62BEC53614140B" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="9A4D69B4DCEA8BA73705D214BCC33352">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="E798CFEC170B4DA988E8C8E111C949A7">
+<mods:placeTerm id="3BE827BB8FA6C2CAA33532BF5150F3FA">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="C71F87113CE053B08AB1672A0F0A7040">
+<mods:title id="865E335C6736566E0ECA59604B5ED886">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="5139DB90551B1B70406C15E896A06FC7">
+<mods:extent id="9D90762F7F24E1589EB5926E22312575" unit="page">
+<mods:start id="87E30514FF39E2ED4B1D1CE6EE7F530F">11</mods:start>
+<mods:end id="CF542922105D348D8BB7A32D5C431D2F">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="7D8FE015C017B0B43F93409C266BCFE8">book chapter</mods:classification>
+<mods:identifier id="E452FF1A6584C581AE79FB37319F045D" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="7353FCF60D9C8F614A6B5E6CAD455BEB" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="AAB866CDCF3B4F318EBEAD9BB96E235B" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F53F3F594BD8E8B1FE54C0D5" ID-DOI="http://doi.org/10.5281/zenodo.5217286" ID-GBIF-Taxon="184601134" ID-Zenodo-Dep="5217286" LSID="urn:lsid:plazi:treatment:EC6DA359F53F3F594BD8E8B1FE54C0D5" httpUri="http://treatment.plazi.org/id/EC6DA359F53F3F594BD8E8B1FE54C0D5" lastPageId="52" lastPageNumber="62" pageId="51" pageNumber="62">
+<subSubSection id="2CDE41C4F53F3F5E4BD8E8B1FAA6C96B" box="[440,1346,2009,2051]" pageId="51" pageNumber="62" type="nomenclature">
+<paragraph id="647B124FF53F3F5E4BD8E8B1FAA6C96B" blockId="51.[435,1835,2009,2512]" box="[440,1346,2009,2051]" pageId="51" pageNumber="62">
+<heading id="3F33A523F53F3F5E4BD8E8B1FAA6C96B" box="[440,1346,2009,2051]" centered="true" fontSize="8" level="2" pageId="51" pageNumber="62" reason="4">
+57. 
+<taxonomicName id="A3C469CCF53F3F5E4861E8B1FADFC96B" authority="Poppius" box="[513,1339,2009,2051]" class="Insecta" family="Miridae" genus="Eurystylus" kingdom="Animalia" order="Hemiptera" pageId="51" pageNumber="62" phylum="Arthropoda" rank="variety" species="costalis" variety="unicolor">
+Eurystylus costalis variety unicolor 
+<author id="BC79FAAAF53F3F5E4EC7E8B1FADFC96B" box="[1191,1339,2009,2051]" pageId="51" pageNumber="62">Poppius</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F53F3F5E4F35E8B1FCFAC95E" pageId="51" pageNumber="62" type="reference_group">
+<paragraph id="647B124FF53F3F5E4F35E8B1FCFAC95E" blockId="51.[435,1835,2009,2512]" pageId="51" pageNumber="62">
+<treatmentCitationGroup id="44D43561F53F3F5E4F35E8B1FCFAC95E" pageId="51" pageNumber="62">
+<treatmentCitation id="E565345EF53F3F5E4F35E8B1FCFAC95E" author="Poppius" page="6" pageId="51" pageNumber="62" year="1911">
+<bibCitation id="B1EE1A23F53F3F5E4F35E8B1FCFAC95E" author="Poppius" journalOrPublisher="Ofv. K. Vet. - Akad. Forh." pageId="51" pageNumber="62" pagination="6" part="53" refId="ref26705" type="book" year="1911">
+<heading id="3F33A523F53F3F5E4F35E8B1F8CEC96B" box="[1365,1834,2009,2051]" centered="true" fontSize="8" level="2" pageId="51" pageNumber="62" reason="4">
+<journalOrPublisher id="BE051883F53F3F5E4F35E8B1F8CEC96B" box="[1365,1834,2009,2051]" pageId="51" pageNumber="62">Ofv. K. Vet.-Akad. Forh.</journalOrPublisher>
+</heading>
+<emphasis id="56B0CE5DF53F3F5E4B94E764FD91C95E" bold="true" box="[500,629,2060,2102]" pageId="51" pageNumber="62">
+<part id="1060B8D2F53F3F5E4B94E764FDFBC95E" box="[500,543,2060,2102]" pageId="51" pageNumber="62">53</part>
+A(4):
+</emphasis>
+<pagination id="5D0DECBBF53F3F5E48F7E764FD49C95E" box="[663,685,2060,2102]" pageId="51" pageNumber="62">6</pagination>
+, 
+<year id="106C531CF53F3F5E48A6E764FCFDC95E" box="[710,793,2060,2102]" pageId="51" pageNumber="62">1911</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F53F3F5E4B94E728FC8FC9F6" pageId="51" pageNumber="62" type="description">
+<paragraph id="647B124FF53F3F5E4B94E728FC8FC9F6" blockId="51.[435,1835,2009,2512]" pageId="51" pageNumber="62">
+<materialsCitation id="D4AC1812F53F3F5E4B94E728FB1AC900" ID-GBIF-Occurrence="3994028314" box="[500,1278,2112,2152]" collectingDate="1936-08-06" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="51" pageNumber="62" specimenCount="1">
+<collectorName id="C9317799F53F3F5E4B94E728FDD8C900" box="[500,572,2112,2152]" pageId="51" pageNumber="62">One</collectorName>
+<specimenCount id="72C2D9C6F53F3F5E482DE728FD17C900" box="[589,755,2112,2152]" pageId="51" pageNumber="62" type="generic">specimen</specimenCount>
+, 
+<collectingMunicipality id="841F8835F53F3F5E4967E728FC21C900" box="[775,965,2112,2152]" pageId="51" pageNumber="62">Machanao</collectingMunicipality>
+, 
+<date id="107A348FF53F3F5E49BBE728FBB2C900" box="[987,1110,2112,2152]" pageId="51" pageNumber="62">
+<collectingDate id="003ECD67F53F3F5E49BBE728FBB2C900" box="[987,1110,2112,2152]" pageId="51" pageNumber="62">Aug. 6</collectingDate>
+</date>
+, 
+<collectorName id="C9317799F53F3F5E4E0FE728FB1AC900" box="[1135,1278,2112,2152]" pageId="51" pageNumber="62">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F53F3F5E4F76E728FC82C9F6" ID-GBIF-Occurrence="3994028352" collectedFrom="on pigeon pea" collectingDate="1936-05-12" collectorName="R. L. Usinger" country="Guam" location="Yona" pageId="51" pageNumber="62" specimenCount="1">
+<specimenCount id="72C2D9C6F53F3F5E4F76E728F9EEC900" box="[1302,1546,2112,2152]" pageId="51" pageNumber="62" type="generic">one specimen</specimenCount>
+, Yona, 
+<date id="107A348FF53F3F5E4CFAE728F8C0C900" box="[1690,1828,2112,2152]" pageId="51" pageNumber="62" value="2012-05">
+<collectingDate id="003ECD67F53F3F5E4CFAE728F8C0C900" box="[1690,1828,2112,2152]" pageId="51" pageNumber="62" value="2012-05">May 12</collectingDate>
+</date>
+, on pigeon pea, 
+<location id="611B4494F53F3F5E48B0E71CFC82C9F6" LSID="urn:lsid:plazi:treatment:EC6DA359F53F3F594BD8E8B1FE54C0D5:611B4494F53F3F5E48B0E71CFC82C9F6" box="[720,870,2164,2206]" name="Usinger" pageId="51" pageNumber="62">Usinger</location>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F53F3F594B95E7CDFE54C0D5" lastPageId="52" lastPageNumber="63" pageId="51" pageNumber="62" type="description">
+<paragraph id="647B124FF53F3F594B95E7CDFE54C0D5" blockId="51.[435,1835,2009,2512]" lastBlockId="52.[297,1694,302,445]" lastPageId="52" lastPageNumber="63" pageId="51" pageNumber="62">
+The genus 
+<taxonomicName id="A3C469CCF53F3F5E48A3E7CDFC38C9B8" authority="Stal" authorityName="Stal" authorityYear="1871" box="[707,988,2213,2256]" class="Insecta" family="Miridae" genus="Eurystylus" kingdom="Animalia" order="Hemiptera" pageId="51" pageNumber="62" phylum="Arthropoda" rank="genus">
+<emphasis id="56B0CE5DF53F3F5E48A3E7CDFC60C9B8" box="[707,900,2213,2256]" italics="true" pageId="51" pageNumber="62">Eurystylus</emphasis>
+Stal
+</taxonomicName>
+(= 
+<emphasis id="56B0CE5DF53F3F5E4E5BE7CDFAE7C9B8" box="[1083,1283,2213,2256]" italics="true" pageId="51" pageNumber="62">Eurycyrtits</emphasis>
+Reuter, 
+<taxonomicName id="A3C469CCF53F3F5E4FCEE7CDFDE5C86B" authority="Kirkaldy" authorityName="Kirkaldy" authorityYear="1902" class="Insecta" family="Miridae" genus="Olympiocapsus" kingdom="Animalia" order="Hemiptera" pageId="51" pageNumber="62" phylum="Arthropoda" rank="genus">
+<emphasis id="56B0CE5DF53F3F5E4FCEE7CDF952C9B8" box="[1454,1718,2213,2256]" italics="true" pageId="51" pageNumber="62">Olympiocapsus</emphasis>
+Kirkaldy
+</taxonomicName>
+, and 
+<taxonomicName id="A3C469CCF53F3F5E4815E7B2FC18C86B" authority="Distant" authorityName="Distant" authorityYear="1883" box="[629,1020,2266,2307]" class="Insecta" family="Miridae" genus="Paracalocoris" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="51" pageNumber="62" phylum="Arthropoda" rank="genus">
+<emphasis id="56B0CE5DF53F3F5E4815E7B2FC87C86B" box="[629,867,2266,2307]" italics="true" pageId="51" pageNumber="62">Paracalocoris</emphasis>
+Distant
+</taxonomicName>
+part.)) is widespread in Africa and in the Austro-Oriental region. The present specimens will not run to 
+<taxonomicName id="A3C469CCF53F3F5E4C49E664F91EC85F" authority="Stal" authorityName="Stal" authorityYear="1871" box="[1577,1786,2316,2359]" class="Insecta" family="Miridae" genus="Eurystylus" kingdom="Animalia" order="Hemiptera" pageId="51" pageNumber="62" phylum="Arthropoda" rank="species" species="costalis">
+<emphasis id="56B0CE5DF53F3F5E4C49E664F94CC85F" box="[1577,1704,2316,2359]" italics="true" pageId="51" pageNumber="62">costalis</emphasis>
+Stal
+</taxonomicName>
+in Poppius' key (Ofv. K. Vet.-Akad. Forh. 53A(4):2, 1911) but agree with his description of the 
+<taxonomicName id="A3C469CCF53F3F5E4893E619FBE8C8F5" box="[755,1036,2417,2461]" pageId="51" pageNumber="62" rank="variety" variety="ttnicolor">
+variety 
+<emphasis id="56B0CE5DF53F3F5E491AE619FBE8C8F5" box="[890,1036,2417,2461]" italics="true" pageId="51" pageNumber="62">ttnicolor</emphasis>
+</taxonomicName>
+<emphasis id="56B0CE5DF53F3F5E4E6CE619FBF5C8F5" box="[1036,1041,2417,2461]" italics="true" pageId="51" pageNumber="62">.</emphasis>
+The 
+<typeStatus id="BB7FACEDF53F3F5E4E1CE619FB22C8F5" box="[1148,1222,2417,2461]" pageId="51" pageNumber="62">type</typeStatus>
+locality of the variety is not given, but the species is reported from the 
+<collectingCountry id="1CD352DFF53F3F5E4E58E6CEFAE4C8B8" box="[1080,1280,2470,2512]" name="Philippines" pageId="51" pageNumber="62">Philippines</collectingCountry>
+, Sumatra, and Mentawei. The rostrum reaches only to the apices of middle coxae in the 
+<collectingCountry id="1CD352DFF5383F594F4DEE46FA72C030" box="[1325,1430,302,344]" name="Guam" pageId="52" pageNumber="63">Guam</collectingCountry>
+specimens and other specific characters might become obvious upon comparison with typical 
+<emphasis id="56B0CE5DF5383F594B49EEFEFE54C0D5" box="[297,432,406,445]" italics="true" pageId="52" pageNumber="63">
+<taxonomicName id="A3C469CCF5383F594B49EEFEFE4FC0D5" authorityName="Stal" authorityYear="1871" box="[297,427,406,445]" class="Insecta" family="Miridae" genus="Eurystylus" kingdom="Animalia" order="Hemiptera" pageId="52" pageNumber="63" phylum="Arthropoda" rank="species" species="costalis">costalis</taxonomicName>
+.
+</emphasis>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

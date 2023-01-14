@@ -1,0 +1,190 @@
+<document id="B54A3198B0FD6B7ACC610F6F3707E758" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB91B0EFEC1F95303964E4E" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Neotrichus latiusculus" docType="treatment" docVersion="17" lastPageNumber="157" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="157" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="5CCE15DB3155648FC977096ACBBAD420" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="646E1AF29FA5DEAD475C478FCA007DCC">
+<mods:title id="8CC49C07179152292A7BA81EE8CF2A73">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="49CF478D285201061CC606A8A43F774E" type="personal">
+<mods:role id="E3E2AD8C008FC57C8B9256B6053E2662">
+<mods:roleTerm id="0D432B393CF9E1818D66C7C62F0253C3">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1E9D18443DBD4944A20364C7A354E304">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="8E9F6FA8B2D75A0285250A567EF7A0E8">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A372EAEF23D70DA61AC3E07207CE6849">text</mods:typeOfResource>
+<mods:relatedItem id="CEE4AC2093BA830AD1D0BD69C68994D6" type="host">
+<mods:originInfo id="A0681FD805CE21E1B8B3F92A0DEA311F">
+<mods:dateIssued id="BA51B64594D1B898E510414A41FC9900">1942</mods:dateIssued>
+<mods:dateOther id="C1ED6F0201C0B1AABE85EF5A69C2BC83" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="D454F8FB1BFFE546327C3C6A9641CAA0">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="A42054F528E39B41D53E6DD571E5CE91">
+<mods:placeTerm id="06607E507CAB089B7AD0C0A0DB9CB59C">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5F749B18CB83F33BE0626A22C93D467B">
+<mods:title id="12AA998B551F2D8795487DB6CD01CEDA">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="D1C3EEA1F1FB4AFF70C4E899822EAE7E">
+<mods:extent id="6BC65E3E3562461C8824FE57D53C7312" unit="page">
+<mods:start id="84B953184BB3CEF4C6F541519405EAC4">150</mods:start>
+<mods:end id="722C517AF89BA17A01482C46F2DD6F07">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="52B07D711D289164965AC2E9BB9CAC41">book chapter</mods:classification>
+<mods:identifier id="58A0020B79F8F0EC800798EEABE5563B" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="2AE264B4F5ED9719F9E9D01C20528C80" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="307974D38E151138C10C47438A3A2D1B" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB91B0EFEC1F95303964E4E" ID-DOI="http://doi.org/10.5281/zenodo.5184822" ID-GBIF-Taxon="184415288" ID-Zenodo-Dep="5184822" LSID="urn:lsid:plazi:treatment:376B87E5FFB91B0EFEC1F95303964E4E" httpUri="http://treatment.plazi.org/id/376B87E5FFB91B0EFEC1F95303964E4E" lastPageNumber="157" pageId="7" pageNumber="157">
+<subSection id="D64D2F18FFB91B0EFEC1F95304EA4127" box="[283,1004,1766,1809]" pageId="7" pageNumber="157" type="multiple">
+<subSubSection id="F7D86578FFB91B0EFEC1F95304EA4127" box="[283,1004,1766,1809]" pageId="7" pageNumber="157" type="nomenclature">
+<paragraph id="BF7D36F3FFB91B0EFEC1F95304EA4127" blockId="7.[283,1679,1766,2168]" box="[283,1004,1766,1809]" pageId="7" pageNumber="157">
+<heading id="E435819FFFB91B0EFEC1F95304EA4127" box="[283,1004,1766,1809]" fontSize="11" level="2" pageId="7" pageNumber="157" reason="2">
+3. 
+<taxonomicName id="78C24D70FFB91B0EFE81F95304E04127" authority="(Fairmaire)" baseAuthorityName="Fairmaire" baseAuthorityYear="1881" box="[347,998,1766,1809]" class="Insecta" family="Zopheridae" genus="Neotrichus" kingdom="Animalia" order="Coleoptera" pageId="7" pageNumber="157" phylum="Arthropoda" rank="species" species="latiusculus">
+<emphasis id="8DB6EAE1FFB91B0EFE81F95305F54127" bold="true" box="[347,755,1766,1809]" pageId="7" pageNumber="157">Neotrichus latiusculus</emphasis>
+(Fairmaire)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+</subSection>
+<subSubSection id="F7D86578FFB91B0EFE80F8AC03EA419D" pageId="7" pageNumber="157" type="reference_group">
+<paragraph id="BF7D36F3FFB91B0EFE80F8AC01484172" blockId="7.[283,1679,1766,2168]" box="[346,1614,1817,1860]" pageId="7" pageNumber="157">
+<heading id="E435819FFFB91B0EFE80F8AC01484172" box="[346,1614,1817,1860]" centered="true" fontSize="8" level="2" pageId="7" pageNumber="157" reason="3">
+<treatmentCitationGroup id="9FD211DDFFB91B0EFE80F8AC01484172" box="[346,1614,1817,1860]" pageId="7" pageNumber="157">
+<bibCitation id="6AE83E9FFFB91B0EFE80F8AC01484172" author="Fairmaire" box="[346,1614,1817,1860]" journalOrPublisher="Soc. Ent. France, Ann." pageId="7" pageNumber="157" pagination="255" part="1" refId="ref3805" type="journal article" year="1881">
+<treatmentCitation id="3E6310E2FFB91B0EFE80F8AC014F4172" author="Fairmaire" box="[346,1609,1817,1860]" page="255" pageId="7" pageNumber="157" year="1881">
+<emphasis id="8DB6EAE1FFB91B0EFE80F8AC05A24172" box="[346,676,1817,1860]" italics="true" pageId="7" pageNumber="157">Ditoma latiusculus</emphasis>
+<author id="677FDE16FFB91B0EFD69F8AC04634172" box="[691,869,1817,1860]" pageId="7" pageNumber="157">Fairmaire</author>
+, 
+<journalOrPublisher id="65033C3FFFB91B0EFCA7F8AC02124172" box="[893,1300,1817,1860]" pageId="7" pageNumber="157">
+Soc. Ent. 
+<collectingCountry id="C7D57663FFB91B0EFBF7F8AC03AC4172" box="[1069,1194,1817,1860]" name="France" pageId="7" pageNumber="157">France</collectingCountry>
+, Ann.
+</journalOrPublisher>
+VI, 
+<emphasis id="8DB6EAE1FFB91B0EFAAAF8AC02974172" bold="true" box="[1392,1425,1817,1860]" pageId="7" pageNumber="157">
+<part id="CB669C6EFFB91B0EFAAAF8AC028E4172" box="[1392,1416,1817,1860]" pageId="7" pageNumber="157" type="volume">1</part>
+:
+</emphasis>
+<pagination id="860BC807FFB91B0EFA44F8AC02D94172" box="[1438,1503,1817,1860]" pageId="7" pageNumber="157" type="pageRange">255</pagination>
+, 
+<year id="CB6A77A0FFB91B0EFA2DF8AC014F4172" box="[1527,1609,1817,1860]" pageId="7" pageNumber="157">1881</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</heading>
+</paragraph>
+<paragraph id="BF7D36F3FFB91B0EFE80F8F803EA419D" blockId="7.[283,1679,1766,2168]" pageId="7" pageNumber="157">
+<bibCitation id="6AE83E9FFFB91B0EFE80F8F803EA419D" author="Arrow" journalOrPublisher="Ann. Mag. Nat. Hist." pageId="7" pageNumber="157" pagination="193" part="4" refId="ref3825" type="journal article" year="1909">
+<treatmentCitationGroup id="9FD211DDFFB91B0EFE80F8F803E1419D" pageId="7" pageNumber="157">
+<treatmentCitation id="3E6310E2FFB91B0EFE80F8F8054C419D" pageId="7" pageNumber="157">
+<emphasis id="8DB6EAE1FFB91B0EFE80F8F805E24141" box="[346,740,1869,1911]" italics="true" pageId="7" pageNumber="157">Neotrichtts latiusculus</emphasis>
+(Fairmaire) 
+<author id="677FDE16FFB91B0EFC05F8F803514141" box="[991,1111,1869,1911]" pageId="7" pageNumber="157">Arrow</author>
+, 
+<journalOrPublisher id="65033C3FFFB91B0EFBB6F8F802ED4141" box="[1132,1515,1869,1911]" pageId="7" pageNumber="157">Ann. Mag. Nat. Hist.</journalOrPublisher>
+VIII, 
+<emphasis id="8DB6EAE1FFB91B0EF9B3F8F801884141" bold="true" box="[1641,1678,1869,1911]" pageId="7" pageNumber="157">
+<part id="CB669C6EFFB91B0EF9B3F8F8017B4141" box="[1641,1661,1869,1911]" pageId="7" pageNumber="157" type="volume">4</part>
+:
+</emphasis>
+<pagination id="860BC807FFB91B0EFE44F83406DA419D" box="[414,476,1921,1963]" pageId="7" pageNumber="157" type="pageRange">193</pagination>
+, 
+<year id="CB6A77A0FFB91B0EFE2DF834054C419D" box="[503,586,1921,1963]" pageId="7" pageNumber="157">1909</year>
+</treatmentCitation>
+. 
+<treatmentCitation id="3E6310E2FFB91B0EFDB6F83403E1419D" author="Arrow" box="[620,1255,1921,1963]" page="48" pageId="7" pageNumber="157" year="1927">
+<author id="677FDE16FFB91B0EFDB6F83405E3419D" box="[620,741,1921,1963]" pageId="7" pageNumber="157">Arrow</author>
+, 
+<journalOrPublisher id="65033C3FFFB91B0EFD25F83404CF419D" box="[767,969,1921,1963]" pageId="7" pageNumber="157">
+Ins. 
+<collectingCountry id="C7D57663FFB91B0EFC8EF83404CF419D" box="[852,969,1921,1963]" name="Samoa" pageId="7" pageNumber="157">Samoa</collectingCountry>
+</journalOrPublisher>
+<emphasis id="8DB6EAE1FFB91B0EFC02F834032C419D" bold="true" box="[984,1066,1921,1963]" pageId="7" pageNumber="157">
+<part id="CB669C6EFFB91B0EFC02F83404F2419D" box="[984,1012,1921,1963]" pageId="7" pageNumber="157" type="volume">4</part>
+(
+<part id="CB669C6EFFB91B0EFBD9F8340312419D" box="[1027,1044,1921,1963]" pageId="7" pageNumber="157" type="issue">1</part>
+):
+</emphasis>
+<pagination id="860BC807FFB91B0EFB97F834037F419D" box="[1101,1145,1921,1963]" pageId="7" pageNumber="157" type="pageRange">48</pagination>
+, 
+<year id="CB6A77A0FFB91B0EFB4FF83403E1419D" box="[1173,1255,1921,1963]" pageId="7" pageNumber="157">1927</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB91B0EFE81F80603964E4E" pageId="7" pageNumber="157" type="materials_examined">
+<paragraph id="BF7D36F3FFB91B0EFE81F80603964E4E" blockId="7.[283,1679,1766,2168]" pageId="7" pageNumber="157">
+<materialsCitation id="0FAA3CAEFFB91B0EFE81F80602A941E8" ID-GBIF-Occurrence="3334692499" box="[347,1455,1971,2014]" collectedFrom="under bark of Hibiscus tiliaceus" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="7" pageNumber="157">
+<collectingMunicipality id="5F19AC89FFB91B0EFE81F806050B41E8" box="[347,525,1971,2014]" pageId="7" pageNumber="157">Upi Trail</collectingMunicipality>
+, 
+<date id="CB7C1033FFB91B0EFDF2F806059941E8" box="[552,671,1971,2014]" pageId="7" pageNumber="157">
+<collectingDate id="DB38E9DBFFB91B0EFDF2F806059941E8" box="[552,671,1971,2014]" pageId="7" pageNumber="157">May 5</collectingDate>
+</date>
+, under bark of 
+<emphasis id="8DB6EAE1FFB91B0EFC1CF806020E41E8" box="[966,1288,1971,2014]" italics="true" pageId="7" pageNumber="157">
+<taxonomicName id="78C24D70FFB91B0EFC1CF806020441E8" authority=", Swezey" authorityName=", Swezey" box="[966,1282,1971,2014]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="7" pageNumber="157" phylum="Tracheophyta" rank="species" species="tiliaceus">
+<location id="BA1D6028FFB91B0EFC1CF806036641E8" LSID="urn:lsid:plazi:treatment:376B87E5FFB91B0EFEC1F95303964E4E:BA1D6028FFB91B0EFC1CF806036641E8" box="[966,1120,1971,2014]" municipality="Upi Trail" name="Hibiscus" pageId="7" pageNumber="157">Hibiscus</location>
+tiliaceus
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="12375325FFB91B0EFAC6F80602AE41E8" box="[1308,1448,1971,2014]" pageId="7" pageNumber="157">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB91B0EFA1EF80604384E24" ID-GBIF-Occurrence="3334692416" collectedFrom="in rotten log" collectingDate="1936-05-26" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="7" pageNumber="157">
+<location id="BA1D6028FFB91B0EFA1EF806018F41E8" LSID="urn:lsid:plazi:treatment:376B87E5FFB91B0EFEC1F95303964E4E:BA1D6028FFB91B0EFA1EF806018F41E8" box="[1476,1673,1971,2014]" name="Mt. Alifan" pageId="7" pageNumber="157">Mt. Alifan</location>
+, 
+<date id="CB7C1033FFB91B0EFEC4F85D06A04E24" box="[286,422,2024,2066]" pageId="7" pageNumber="157" value="1926-05">
+<collectingDate id="DB38E9DBFFB91B0EFEC4F85D06A04E24" box="[286,422,2024,2066]" pageId="7" pageNumber="157" value="1926-05">May 26</collectingDate>
+</date>
+, in rotten log, 
+<collectorName id="12375325FFB91B0EFD71F85D04314E24" box="[683,823,2024,2066]" pageId="7" pageNumber="157">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB91B0EFC97F85D029D4E24" ID-GBIF-Occurrence="3334692334" box="[845,1435,2024,2066]" collectedFrom="in rotten log" collectingDate="1936-06-12" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="7" pageNumber="157">
+<collectingMunicipality id="5F19AC89FFB91B0EFC97F85D03064E24" box="[845,1024,2024,2066]" pageId="7" pageNumber="157">Barrigada</collectingMunicipality>
+, 
+<date id="CB7C1033FFB91B0EFBCEF85D03A64E24" box="[1044,1184,2024,2066]" pageId="7" pageNumber="157" value="2012-06">
+<collectingDate id="DB38E9DBFFB91B0EFBCEF85D03A64E24" box="[1044,1184,2024,2066]" pageId="7" pageNumber="157" value="2012-06">June 12</collectingDate>
+</date>
+, in rotten log;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB91B0EFA72F85D05264E70" ID-GBIF-Occurrence="3334692395" collectedFrom="under bark" collectingDate="1936-07-06" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="7" pageNumber="157">
+<date id="CB7C1033FFB91B0EFA72F85D01104E24" box="[1448,1558,2024,2066]" pageId="7" pageNumber="157">
+<collectingDate id="DB38E9DBFFB91B0EFA72F85D01104E24" box="[1448,1558,2024,2066]" pageId="7" pageNumber="157">July 6</collectingDate>
+</date>
+, under bark, 
+<collectorName id="12375325FFB91B0EFE56F7A9051F4E70" box="[396,537,2076,2118]" pageId="7" pageNumber="157">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB91B0EFDEDF7A902624E70" ID-GBIF-Occurrence="3334692456" box="[567,1380,2076,2118]" collectedFrom="in dead orange twigs" collectingDate="1936-10-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="7" pageNumber="157">
+<location id="BA1D6028FFB91B0EFDEDF7A9057F4E70" LSID="urn:lsid:plazi:treatment:376B87E5FFB91B0EFEC1F95303964E4E:BA1D6028FFB91B0EFDEDF7A9057F4E70" box="[567,633,2076,2118]" name="Piti" pageId="7" pageNumber="157">Piti</location>
+, 
+<date id="CB7C1033FFB91B0EFD4DF7A9040A4E70" box="[663,780,2076,2118]" pageId="7" pageNumber="157">
+<collectingDate id="DB38E9DBFFB91B0EFD4DF7A9040A4E70" box="[663,780,2076,2118]" pageId="7" pageNumber="157">Oct. 9</collectingDate>
+</date>
+, in dead orange twigs, 
+<collectorName id="12375325FFB91B0EFB08F7A9025B4E70" box="[1234,1373,2076,2118]" pageId="7" pageNumber="157">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB91B0EFAA1F7A903964E4E" ID-GBIF-Occurrence="3334692565" collectedFrom="under bark of dead orange tree" collectingDate="1936-11-10" collectorName="O. H. Swezey" country="Guam" location="Libugon Farm" pageId="7" pageNumber="157">
+<collectingMunicipality id="5F19AC89FFB91B0EFAA1F7A901814E70" box="[1403,1671,2076,2118]" pageId="7" pageNumber="157">Libugon Farm</collectingMunicipality>
+, 
+<date id="CB7C1033FFB91B0EFEC5F7FA06AB4E4E" box="[287,429,2127,2168]" pageId="7" pageNumber="157" value="2010-11">
+<collectingDate id="DB38E9DBFFB91B0EFEC5F7FA06AB4E4E" box="[287,429,2127,2168]" pageId="7" pageNumber="157" value="2010-11">Nov. 10</collectingDate>
+</date>
+, under bark of dead orange tree, 
+<collectorName id="12375325FFB91B0EFBDEF7FA038D4E4E" box="[1028,1163,2127,2168]" pageId="7" pageNumber="157">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

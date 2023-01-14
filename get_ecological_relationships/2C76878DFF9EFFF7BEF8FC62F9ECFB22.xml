@@ -1,0 +1,136 @@
+<document id="6B4A9F69F1A1EC4BCC455C53F478FDD8" ID-DOI="http://doi.org/10.5281/zenodo.5160233" ID-GBIF-Dataset="16f6ef92-619b-417b-946c-22d9b1445e7d" ID-Zenodo-Dep="5160233" checkinTime="1628022546680" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="2C76878DFF9EFFF7BEF8FC62F9ECFB22" docLanguage="en" docName="InsectsOfGuamII.189.3-8.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Graptoblatta notulata" docType="treatment" docVersion="19" lastPageNumber="6" masterDocId="D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8" masterDocTitle="Orthoptera And Related Orders Orthoptera And Related Orders Of Guam" masterLastPageNumber="8" masterPageNumber="3" pageNumber="6" updateTime="1657803925581" updateUser="annettekang">
+<mods:mods id="811844A7BA963B9A854E174579D69CDA" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="8A2A9BF06D4D3EF44FC624ABDBBAE0DC">
+<mods:title id="B728BF66235ACD08F84A2780430D8D42">Orthoptera And Related Orders Orthoptera And Related Orders Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="86BE5D816A6E3E4D449EC3DC07137A2E" type="personal">
+<mods:role id="027A180A9B7E282F4BBFABD21DC97705">
+<mods:roleTerm id="BE63E9D9400350A7CA1FAE2893BD8636">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="943AFE5314A32543C81498980CBE1509">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="7F97FD061EAE8A15D8DD8A805908AF66">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="B4520AD8B8504603F0C348293CCEF4D1">text</mods:typeOfResource>
+<mods:relatedItem id="04EFA9A26D61AB7251273A16A243411E" type="host">
+<mods:originInfo id="F2F92E3D01195D4B519A06FE90829088">
+<mods:dateIssued id="4F87BC42FB3C39C4DD45225F6C00A42C">1946</mods:dateIssued>
+<mods:dateOther id="264C961AA9668581543A3CD3375F512A" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="C9FF171597896AEA207E3E8DC5C631D7">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="3CEBDC9A20E2C2CDB6DB57B4122BA5C1">
+<mods:placeTerm id="DCF97ABFE0D6E4A8EBD8BD76391F2A86">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="2E9597C7798FEE307D53DE08E50D9CAB">
+<mods:title id="DE1A715F5C418AFD71A930F9570CDCF7">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="93CE9D93FD7AC66175674C839897AC04">
+<mods:extent id="028B50D225DADAD6B0E393C9CCE34B0B" unit="page">
+<mods:start id="AD89918BDE16438DA755A51B0AAB9617">3</mods:start>
+<mods:end id="3E0B8920CB318E0C9126AABFA188D926">8</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E5CE9149AE3A8ADE4BB0D3E1305196E9">book chapter</mods:classification>
+<mods:identifier id="3777B427210885C16897868B7C0CD522" type="DOI">http://doi.org/10.5281/zenodo.5160233</mods:identifier>
+<mods:identifier id="126E149197C21EE11F734EDE896547D7" type="GBIF-Dataset">16f6ef92-619b-417b-946c-22d9b1445e7d</mods:identifier>
+<mods:identifier id="BBDB1B7025253805E47B2AEB14BAE1D7" type="Zenodo-Dep">5160233</mods:identifier>
+</mods:mods>
+<treatment id="2C76878DFF9EFFF7BEF8FC62F9ECFB22" ID-DOI="http://doi.org/10.5281/zenodo.5159000" ID-GBIF-Taxon="183924926" ID-Zenodo-Dep="5159000" LSID="urn:lsid:plazi:treatment:2C76878DFF9EFFF7BEF8FC62F9ECFB22" httpUri="http://treatment.plazi.org/id/2C76878DFF9EFFF7BEF8FC62F9ECFB22" lastPageNumber="6" pageId="3" pageNumber="6">
+<subSubSection id="ECC56510FF9EFFF7BEF8FC62FC5FFC29" box="[400,996,968,1009]" pageId="3" pageNumber="6" type="nomenclature">
+<paragraph id="A460369BFF9EFFF7BEF8FC62FC5FFC29" blockId="3.[400,1797,968,1274]" box="[400,996,968,1009]" pageId="3" pageNumber="6">
+<heading id="FF2881F7FF9EFFF7BEF8FC62FC5FFC29" box="[400,996,968,1009]" fontSize="8" level="2" pageId="3" pageNumber="6" reason="4">
+2. 
+<taxonomicName id="63DF4D18FF9EFFF7BEB8FC62FCE1FC29" authority="(Stal)" box="[464,858,968,1009]" class="Insecta" family="Blattidae" genus="Graptoblatta" kingdom="Animalia" order="Blattodea" pageId="3" pageNumber="6" phylum="Arthropoda" rank="species" species="notulata">Graptoblattanotulata</taxonomicName>
+(Stal).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9EFFF7BEA7FBA8F974FBB8" pageId="3" pageNumber="6" type="reference_group">
+<paragraph id="A460369BFF9EFFF7BEA7FBA8FA58FBF5" blockId="3.[400,1797,968,1274]" box="[463,1507,1026,1069]" pageId="3" pageNumber="6">
+<bibCitation id="71F53EF7FF9EFFF7BEA7FBA8FA58FBF5" author="Stal" box="[463,1507,1026,1069]" journalOrPublisher="Freg. Eugenies Resa, Ins" pageId="3" pageNumber="6" pagination="308" refId="ref1578" type="book" year="1860">
+<treatmentCitationGroup id="84CF11B5FF9EFFF7BEA7FBA8FA65FBF5" box="[463,1502,1026,1069]" pageId="3" pageNumber="6">
+<treatmentCitation id="257E108AFF9EFFF7BEA7FBA8FA65FBF5" author="Stal" box="[463,1502,1026,1069]" page="308" pageId="3" pageNumber="6" year="1860">
+<emphasis id="96ABEA89FF9EFFF7BEA7FBA8FD63FBF5" box="[463,728,1026,1069]" italics="true" pageId="3" pageNumber="6">Blatta notulata</emphasis>
+<author id="7C62DE7EFF9EFFF7BD81FBA8FC8BFBF5" box="[745,816,1026,1069]" pageId="3" pageNumber="6">Stal</author>
+, 
+<journalOrPublisher id="7E1E3C57FF9EFFF7BC20FBA8FAA9FBF5" box="[840,1298,1026,1069]" pageId="3" pageNumber="6">Freg. Eugenies Resa, Ins</journalOrPublisher>
+., 
+<pagination id="9D16C86FFF9EFFF7BA59FBA8FACAFBF5" box="[1329,1393,1026,1069]" pageId="3" pageNumber="6">308</pagination>
+, 
+<year id="D07777C8FF9EFFF7BAE3FBA8FA65FBF5" box="[1419,1502,1026,1069]" pageId="3" pageNumber="6">1860</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+<paragraph id="A460369BFF9EFFF7BEBBFB9CF974FBB8" blockId="3.[400,1797,968,1274]" box="[467,1743,1078,1120]" pageId="3" pageNumber="6">
+<treatmentCitationGroup id="84CF11B5FF9EFFF7BEBBFB9CF974FBB8" box="[467,1743,1078,1120]" pageId="3" pageNumber="6">
+<treatmentCitation id="257E108AFF9EFFF7BEBBFB9CF974FBB8" author="Hebard" box="[467,1743,1078,1120]" page="117" pageId="3" pageNumber="6" year="1935">
+<bibCitation id="71F53EF7FF9EFFF7BEBBFB9CF974FBB8" author="Hebard" box="[467,1743,1078,1120]" journalOrPublisher="B. P. Bishop Mus., Bull." pageId="3" pageNumber="6" pagination="117" part="114" refId="ref1594" type="journal article" year="1935">
+<emphasis id="96ABEA89FF9EFFF7BEBBFB9CFCE9FBB8" box="[467,850,1078,1120]" italics="true" pageId="3" pageNumber="6">Graptoblatta notulata,</emphasis>
+<author id="7C62DE7EFF9EFFF7BC0AFB9CFC51FBB8" box="[866,1002,1078,1120]" pageId="3" pageNumber="6">Hebard</author>
+, 
+<journalOrPublisher id="7E1E3C57FF9EFFF7BB68FB9CFA0FFBB8" box="[1024,1460,1078,1120]" pageId="3" pageNumber="6">B. P. Bishop Mus., Bull.</journalOrPublisher>
+<emphasis id="96ABEA89FF9EFFF7BAAEFB9CF9A9FBB8" bold="true" box="[1478,1554,1078,1120]" pageId="3" pageNumber="6">
+<part id="D07B9C06FF9EFFF7BAAEFB9CF9B7FBB8" box="[1478,1548,1078,1120]" pageId="3" pageNumber="6" type="volume">114</part>
+:
+</emphasis>
+<pagination id="9D16C86FFF9EFFF7B94BFB9CF9E4FBB8" box="[1571,1631,1078,1120]" pageId="3" pageNumber="6" type="pagination">117</pagination>
+, 
+<year id="D07777C8FF9EFFF7B91FFB9CF971FBB8" box="[1655,1738,1078,1120]" pageId="3" pageNumber="6">1935</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9EFFF7BEB9FBC3FBF7FB1F" pageId="3" pageNumber="6" type="materials_examined">
+<paragraph id="A460369BFF9EFFF7BEB9FBC3FBF7FB1F" blockId="3.[400,1797,968,1274]" pageId="3" pageNumber="6">
+<materialsCitation id="14B73CC6FF9EFFF7BEB9FBC3FB5BFB4B" ID-GBIF-Occurrence="3441224327" box="[465,1248,1129,1171]" collectedFrom="on Hibiscus tiliaceus" collectingDate="1936-04" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="3" pageNumber="6">
+<collectingMunicipality id="4404ACE1FF9EFFF7BEB9FBC3FDAFFB4B" box="[465,532,1129,1171]" pageId="3" pageNumber="6">Piti</collectingMunicipality>
+, 
+<date id="D061105BFF9EFFF7BD4FFBC3FD04FB4B" box="[551,703,1129,1171]" pageId="3" pageNumber="6" value="1930-04">
+<collectingDate id="C025E9B3FF9EFFF7BD4FFBC3FD04FB4B" box="[551,703,1129,1171]" pageId="3" pageNumber="6" value="1930-04">April 30</collectingDate>
+</date>
+, on 
+<emphasis id="96ABEA89FF9EFFF7BC60FBC3FBFEFB4B" box="[776,1093,1129,1171]" italics="true" pageId="3" pageNumber="6">
+<taxonomicName id="63DF4D18FF9EFFF7BC60FBC3FB84FB4B" authority=", Swezey" authorityName="Swezey" box="[776,1087,1129,1171]" class="Magnoliopsida" family="Malvaceae" genus="Hibiscus" kingdom="Plantae" order="Malvales" pageId="3" pageNumber="6" phylum="Tracheophyta" rank="species" species="tiliaceus">
+<location id="A1006040FF9EFFF7BC60FBC3FC19FB4B" LSID="urn:lsid:plazi:treatment:2C76878DFF9EFFF7BEF8FC62F9ECFB22:A1006040FF9EFFF7BC60FBC3FC19FB4B" box="[776,930,1129,1171]" municipality="Piti" name="Hibiscus" pageId="3" pageNumber="6">Hibiscus</location>
+tiliaceus
+</taxonomicName>
+,
+</emphasis>
+<collectorName id="092A534DFF9EFFF7BB3AFBC3FB5BFB4B" box="[1106,1248,1129,1171]" pageId="3" pageNumber="6">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9EFFF7BB9DFBC3F945FB4B" ID-GBIF-Occurrence="3441224385" box="[1269,1790,1129,1171]" collectedFrom="in house" collectingDate="1936-07-09" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="3" pageNumber="6">
+<collectingMunicipality id="4404ACE1FF9EFFF7BB9DFBC3FA8CFB4B" box="[1269,1335,1129,1171]" pageId="3" pageNumber="6">Piti</collectingMunicipality>
+, 
+<date id="D061105BFF9EFFF7BA22FBC3FA0CFB4B" box="[1354,1463,1129,1171]" pageId="3" pageNumber="6">
+<collectingDate id="C025E9B3FF9EFFF7BA22FBC3FA0CFB4B" box="[1354,1463,1129,1171]" pageId="3" pageNumber="6">July 9</collectingDate>
+</date>
+, in house, 
+<collectorName id="092A534DFF9EFFF7B919FBC3F945FB4B" box="[1649,1790,1129,1171]" pageId="3" pageNumber="6">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9EFFF7BEFAFB37FBFCFB1F" ID-GBIF-Occurrence="3441224410" box="[402,1095,1181,1223]" collectedFrom="in corn field" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="3" pageNumber="6">
+<collectingMunicipality id="4404ACE1FF9EFFF7BEFAFB37FDA2FB1F" box="[402,537,1181,1223]" pageId="3" pageNumber="6">Dededo</collectingMunicipality>
+, 
+<date id="D061105BFF9EFFF7BD45FB37FD06FB1F" box="[557,701,1181,1223]" pageId="3" pageNumber="6" value="2011-08">
+<collectingDate id="C025E9B3FF9EFFF7BD45FB37FD06FB1F" box="[557,701,1181,1223]" pageId="3" pageNumber="6" value="2011-08">Aug. 11</collectingDate>
+</date>
+, in corn field, 
+<collectorName id="092A534DFF9EFFF7BCD7FB37FBFCFB1F" box="[959,1095,1181,1223]" pageId="3" pageNumber="6">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9EFFF7BEB8FB7AF9ECFB22" box="[464,1623,1232,1274]" pageId="3" pageNumber="6" type="distribution">
+<paragraph id="A460369BFF9EFFF7BEB8FB7AF9ECFB22" blockId="3.[400,1797,968,1274]" box="[464,1623,1232,1274]" pageId="3" pageNumber="6">
+Widely distributed in the Pacific and Malaya. Occurs in 
+<collectingRegion id="661BF879FF9EFFF7BAA6FB7AF9E9FB22" box="[1486,1618,1232,1274]" country="United States of America" name="Hawaii" pageId="3" pageNumber="6">Hawaii</collectingRegion>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

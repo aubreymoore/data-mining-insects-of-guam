@@ -1,0 +1,79 @@
+<document id="135768CCE750B6196F1D852735AF2C77" ID-DOI="http://doi.org/10.5281/zenodo.5160043" ID-GBIF-Dataset="9298158c-3c02-4ba2-ab8a-87c7f9c8e70b" ID-Zenodo-Dep="5160043" checkinTime="1627487837253" checkinUser="admin" docAuthor="Swezey, O. H." docDate="1942" docId="03B31D6AAA294749986AF7C3FDEEF77F" docLanguage="en" docName="InsectsOfGuamI.172.30-38.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Biship Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Neptis guamensis Swinhoe, Ann. Mag. Nat. Hist. VIII, 18: 483 1916" docType="treatment" docVersion="10" lastPageNumber="35" masterDocId="FF8A6512AA2D474D9945FF80FFCFFFAC" masterDocTitle="Lepidoptera, Butterflies of Guam" masterLastPageNumber="38" masterPageNumber="31" pageNumber="35" updateTime="1664203961561" updateUser="annettekang">
+<mods:mods id="3AB85E8BD71889BE886CFE3A5D0F885E" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="3369C58729BE45CA41D115D2386291C7">
+<mods:title id="C11A805584F4DCBB4470B3C7467AF31D">Lepidoptera, Butterflies of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="07AC0927203B54C330AFAABE6B6EBA35" type="personal">
+<mods:role id="9F02AE2812143755F45704CFF3D58D43">
+<mods:roleTerm id="EA8C1B6E0C0B443AF32E31BA242C64DE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="738284D3A44865F78CF4129E6C2F9B69">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="3EDF0F20AF9714832A14C02FBE400591">Experiment Station Hawaiian Sugar Planters' Associantion, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="5A87CD52DB222AAD1E8DB1DABB2BD2CE">text</mods:typeOfResource>
+<mods:relatedItem id="2739C3E4A947B1A260C59D6D5ADA280F" type="host">
+<mods:originInfo id="3734E96331384D6F485C00167ACAC1F2">
+<mods:dateIssued id="F39F08BF856AC48A4737C2D8434D6F47">1942</mods:dateIssued>
+<mods:dateOther id="9D32BF1E70E9939AD53BD5CCA4FBDFAB" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="A6A28C1A501E9E1D9593EED747D51584">Bernice P. Biship Museum</mods:publisher>
+<mods:place id="D9D410B425A6D3A8126AD19625EDC5AD">
+<mods:placeTerm id="32D9266AB03710D24A6CA7ABB3B3128E">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="DE2C6D3532BF9A12B184F9C8E8245B83">
+<mods:title id="51C64C5DD4334E1834A4CB05AF824CBD">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="0AF8276BF8B9146E4691315F5354F703">
+<mods:extent id="1519B5A4BA2C1C6AF9F587852AD47A06" unit="page">
+<mods:start id="1F7FFFD2B21E37BBB33FFD3A7703B72B">31</mods:start>
+<mods:end id="935785519BD0FB180B13DCFBA61595F5">38</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="CC466E99F0D856E3103E56AE59E79E7D">book chapter</mods:classification>
+<mods:identifier id="50EB80C3875A08C03684008875AB11A1" type="DOI">http://doi.org/10.5281/zenodo.5160043</mods:identifier>
+<mods:identifier id="AAB4BABD65129E73E5BD8871270D31CA" type="GBIF-Dataset">9298158c-3c02-4ba2-ab8a-87c7f9c8e70b</mods:identifier>
+<mods:identifier id="4695222D6E97C185CB09418F5764228E" type="Zenodo-Dep">5160043</mods:identifier>
+</mods:mods>
+<treatment id="03B31D6AAA294749986AF7C3FDEEF77F" ID-GBIF-Taxon="187975392" LSID="urn:lsid:plazi:treatment:03B31D6AAA294749986AF7C3FDEEF77F" httpUri="http://treatment.plazi.org/id/03B31D6AAA294749986AF7C3FDEEF77F" lastPageNumber="35" pageId="4" pageNumber="35">
+<subSubSection id="C300FFF7AA294749986AF7C3FCA1F7C7" box="[303,878,2115,2155]" pageId="4" pageNumber="35" type="nomenclature">
+<paragraph id="8BA5AC7CAA294749986AF7C3FCA1F7C7" blockId="4.[303,1699,2115,2259]" box="[303,878,2115,2155]" pageId="4" pageNumber="35">
+<heading id="D0ED1B10AA294749986AF7C3F96EF7C7" box="[303,1697,2115,2155]" centered="true" fontSize="11" level="2" pageId="4" pageNumber="35" reason="2">
+<emphasis id="B96E706EAA294749986AF7C3FE83F7C7" bold="true" box="[303,332,2115,2155]" pageId="4" pageNumber="35">9.</emphasis>
+<treatmentCitationGroup id="AB0A8B52AA294749982BF7C3F953F7C7" box="[366,1692,2115,2155]" pageId="4" pageNumber="35">
+<treatmentCitation id="0ABB8A6DAA294749982BF7C3F953F7C7" author="Swinhoe" box="[366,1692,2115,2155]" page="483" pageId="4" pageNumber="35" year="1916">
+<taxonomicName id="4C1AD7FFAA294749982BF7C3FCA7F7C7" authority="Swinhoe, Ann. Mag. Nat. Hist. VIII" box="[366,872,2115,2155]" class="Insecta" family="Nymphalidae" genus="Neptis" kingdom="Animalia" order="Lepidoptera" pageId="4" pageNumber="35" phylum="Arthropoda" rank="species" species="guamensis">
+<emphasis id="B96E706EAA294749982BF7C3FD7BF7C7" bold="true" box="[366,692,2115,2155]" pageId="4" pageNumber="35">Neptis guamensis</emphasis>
+<bibCitation id="5E30A410AA2947499B89F7C3F953F7C7" author="Swinhoe" box="[716,1692,2115,2155]" journalOrPublisher="Ann. Mag. Nat. Hist." pageId="4" pageNumber="35" pagination="483" part="18" type="journal article" year="1916">
+<author id="53A74499AA2947499B89F7C3FCA7F7C7" box="[716,872,2115,2155]" pageId="4" pageNumber="35">Swinhoe</author>
+, 
+<subSubSection id="C300FFF7AA2947499AC1F7C3F96EF7C7" box="[900,1697,2115,2155]" pageId="4" pageNumber="35" type="reference_group">
+<paragraph id="8BA5AC7CAA2947499AC1F7C3F96EF7C7" blockId="4.[303,1699,2115,2259]" box="[900,1697,2115,2155]" pageId="4" pageNumber="35">
+<journalOrPublisher id="51DBA6B0AA2947499AC1F7C3FAD5F7C7" box="[900,1306,2115,2155]" pageId="4" pageNumber="35">Ann. Mag. Nat. Hist.</journalOrPublisher>
+VIII, 
+<emphasis id="B96E706EAA2947499CECF7C3FA10F7C7" bold="true" box="[1449,1503,2115,2155]" pageId="4" pageNumber="35">
+<part id="FFBE06E1AA2947499CECF7C3FA01F7C7" box="[1449,1486,2115,2155]" pageId="4" pageNumber="35" type="volume">18</part>
+:
+</emphasis>
+<pagination id="B2D35288AA2947499CA9F7C3F9E2F7C7" box="[1516,1581,2115,2155]" pageId="4" pageNumber="35" type="pagination">483</pagination>
+, 
+<year id="FFB2ED2FAA2947499F0EF7C3F953F7C7" box="[1611,1692,2115,2155]" pageId="4" pageNumber="35">1916</year>
+.
+</paragraph>
+</subSubSection>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C300FFF7AA294749982BF7F6FDEEF77F" pageId="4" pageNumber="35" type="description">
+<paragraph id="8BA5AC7CAA294749982BF7F6FDEEF77F" blockId="4.[303,1699,2115,2259]" pageId="4" pageNumber="35">
+This species was described from 
+<collectingCountry id="F30DECECAA2947499A94F7F6FBF3F70C" box="[977,1084,2166,2208]" name="Guam" pageId="4" pageNumber="35">Guam</collectingCountry>
+, without particulars. We did not see it in 1936.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

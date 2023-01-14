@@ -1,0 +1,185 @@
+<document id="FAD650C1E5E02A89D056B78EFB79626A" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E95BFFB1FEE486A3947D0429" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Marasmia trapezalis" docType="treatment" docVersion="19" lastPageNumber="179" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="179" updateTime="1670257311710" updateUser="annettekang">
+<mods:mods id="CBBB790C30E7A83B3A8A639CB71D4481" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="A3BDEF3513BA29C9BCADCF2C87B87B54">
+<mods:title id="8614200716FC06358933CA7181FDEF01">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="656E60B24776EE90054C8EBE84BF43D5" type="personal">
+<mods:role id="CB52DCC266AF6116BB9464E094B884C5">
+<mods:roleTerm id="429F8D783A9E2B5E6D9D6525DD03351A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="A699E3F1284BE93BCACDC9413A37B6A0">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="7434B6FA3B51C72AD370637650469EBB">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="7F94949A3A871069371511A54D76AA2D">text</mods:typeOfResource>
+<mods:relatedItem id="FBF1CE8A705A3A020D756E3EA7237C7A" type="host">
+<mods:originInfo id="984D783E5B8E2D7C218494304F233D34">
+<mods:dateIssued id="8FB71438936F8EF9A682863D1AF67292">1946</mods:dateIssued>
+<mods:dateOther id="F007DDB2C8B29BE1970EAD70581A2E27" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="064372F0F28D08762E9BED8AD331BD99">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="D42423B465BCF3E8E5D2019EE9CC96AB">
+<mods:placeTerm id="AE6C4EBCC980A3C71AB82E3B991022FA">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A7FE082B9CDE38E715A3D9DADD83653E">
+<mods:title id="39E9BA4B4489F9156C57477222B22EFE">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="ACD8912068561A34DCDA8257F38DC2EB">
+<mods:extent id="249D489ABD2834A299CE85E596954D70" unit="page">
+<mods:start id="D2C4646D36A2A3F2AA6BCE7CC34D9214">163</mods:start>
+<mods:end id="C163EFE2021226667061CCDE287989CC">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="DB96A31C9A6AFCB29E3D27F90D2C7350">book chapter</mods:classification>
+<mods:identifier id="555FB2ADBB3EA4F4E91C54A3F0A4040D" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="58D59D78F7030CE788C5CDD3AF73FD5C" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="EAD604293B23C0BD297323615E896700" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E95BFFB1FEE486A3947D0429" ID-DOI="http://doi.org/10.5281/zenodo.5171310" ID-GBIF-Taxon="183926916" ID-Zenodo-Dep="5171310" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB1FEE486A3947D0429" httpUri="http://treatment.plazi.org/id/03B387B8E95BFFB1FEE486A3947D0429" lastPageNumber="179" pageId="16" pageNumber="179">
+<subSubSection id="C3006525E95BFFB1FEE486A391CD0787" box="[299,955,1182,1224]" pageId="16" pageNumber="179" type="nomenclature">
+<paragraph id="8BA536AEE95BFFB1FEE486A391CD0787" blockId="16.[299,1700,1182,1894]" box="[299,955,1182,1224]" pageId="16" pageNumber="179">
+<heading id="D0ED81C2E95BFFB1FEE486A391CD0787" box="[299,955,1182,1224]" fontSize="8" level="2" pageId="16" pageNumber="179" reason="4">
+<emphasis id="B96EEABCE95BFFB1FEE486A393280787" bold="true" box="[299,350,1182,1224]" pageId="16" pageNumber="179">22.</emphasis>
+<taxonomicName id="4C1A4D2DE95BFFB1FEB086A391C00787" authority="(Guenee)" baseAuthorityName="Guenee" baseAuthorityYear="1854" box="[383,950,1182,1224]" class="Insecta" family="Crambidae" genus="Marasmia" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="16" pageNumber="179" phylum="Arthropoda" rank="species" species="trapezalis">
+<emphasis id="B96EEABCE95BFFB1FEB086A390850787" bold="true" box="[383,755,1182,1224]" pageId="16" pageNumber="179">Marasmia trapezalis</emphasis>
+(Guenee)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95BFFB1FEA386E996690628" pageId="16" pageNumber="179" type="description">
+<paragraph id="8BA536AEE95BFFB1FEA386E9972F07B0" blockId="16.[299,1700,1182,1894]" box="[364,1369,1236,1279]" pageId="16" pageNumber="179">
+<treatmentCitationGroup id="AB0A1180E95BFFB1FEA386E9972F07B0" box="[364,1369,1236,1279]" pageId="16" pageNumber="179">
+<treatmentCitation id="0ABB10BFE95BFFB1FEA386E9972F07B0" author="Guenée" box="[364,1369,1236,1279]" page="200" pageId="16" pageNumber="179" year="1854">
+<bibCitation id="5E303EC2E95BFFB1FEA386E9972F07B0" author="Guenee" box="[364,1369,1236,1279]" pageId="16" pageNumber="179" pagination="200" part="8" refId="ref8877" title="Spec. Gen" type="journal article" year="1854">
+<emphasis id="B96EEABCE95BFFB1FEA386E990E707B0" box="[364,657,1236,1279]" italics="true" pageId="16" pageNumber="179">Salbia trapezalis</emphasis>
+<author id="53A7DE4BE95BFFB1FD6E86E9915307B0" box="[673,805,1236,1279]" pageId="16" pageNumber="179">Guenee</author>
+, 
+<title id="F91EDD98E95BFFB1FCF186E9918F07B0" box="[830,1017,1236,1279]" pageId="16" pageNumber="179">Spec. Gen</title>
+., Lep. 
+<emphasis id="B96EEABCE95BFFB1FBBB86E996EE07B0" bold="true" box="[1140,1176,1236,1279]" pageId="16" pageNumber="179">
+<part id="FFBE9C33E95BFFB1FBBB86E996F107B0" box="[1140,1159,1236,1279]" pageId="16" pageNumber="179" type="volume">8</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE95BFFB1FB6A86E9969007B0" box="[1189,1254,1236,1279]" pageId="16" pageNumber="179" type="pagination">200</pagination>
+, 
+<year id="FFB277FDE95BFFB1FACE86E9972207B0" box="[1281,1364,1236,1279]" pageId="16" pageNumber="179">1854</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE95BFFB1FEA4873496690628" blockId="16.[299,1700,1182,1894]" pageId="16" pageNumber="179">
+<treatmentCitationGroup id="AB0A1180E95BFFB1FEA4873496690628" pageId="16" pageNumber="179">
+<bibCitation id="5E303EC2E95BFFB1FEA4873496690628" author="Hampson" journalOrPublisher="Fauna Brit. India, Moths" pageId="16" pageNumber="179" pagination="277" part="4" refId="ref8894" title="Ins. Samoa" type="journal article" year="1896">
+<emphasis id="B96EEABCE95BFFB1FEA487349095067C" box="[363,739,1289,1331]" italics="true" pageId="16" pageNumber="179">Marasmia trapezaUs,</emphasis>
+<treatmentCitation id="0ABB10BFE95BFFB1FD35873494ED067C" author="Hampson" box="[762,1691,1289,1331]" page="277" pageId="16" pageNumber="179" year="1896">
+<author id="53A7DE4BE95BFFB1FD35873491D0067C" box="[762,934,1289,1331]" pageId="16" pageNumber="179">Hampson</author>
+, 
+<journalOrPublisher id="51DB3C62E95BFFB1FC0A873497EB067C" box="[965,1437,1289,1331]" pageId="16" pageNumber="179">
+Fauna Brit. 
+<collectingCountry id="F30D763EE95BFFB1FB7E87349779067C" box="[1201,1295,1289,1331]" name="India" pageId="16" pageNumber="179">India</collectingCountry>
+, Moths
+</journalOrPublisher>
+<part id="FFBE9C33E95BFFB1FA7D873497BA067C" box="[1458,1484,1289,1331]" pageId="16" pageNumber="179" type="volume">4</part>
+: 
+<pagination id="B2D3C85AE95BFFB1FA1D87349454067C" box="[1490,1570,1289,1331]" pageId="16" pageNumber="179" type="pagination">277</pagination>
+, 
+<year id="FFB277FDE95BFFB1F98B873494ED067C" box="[1604,1691,1289,1331]" pageId="16" pageNumber="179">1896</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE95BFFB1FE668701966C0628" box="[425,1050,1340,1383]" pageId="16" pageNumber="179">
+<author id="53A7DE4BE95BFFB1FE66870190670628" box="[425,529,1340,1383]" pageId="16" pageNumber="179">Tams</author>
+, 
+<title id="F91EDD98E95BFFB1FDE8870190840628" box="[551,754,1340,1383]" pageId="16" pageNumber="179">
+Ins. 
+<collectingCountry id="F30D763EE95BFFB1FDB6870190840628" box="[633,754,1340,1383]" name="Samoa" pageId="16" pageNumber="179">Samoa</collectingCountry>
+</title>
+<part id="FFBE9C33E95BFFB1FCCF870191600628" box="[768,790,1340,1383]" pageId="16" pageNumber="179" type="volume">3</part>
+(
+<part id="FFBE9C33E95BFFB1FCEA870191490628" box="[805,831,1340,1383]" pageId="16" pageNumber="179" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE95BFFB1FCBC870191D90628" box="[883,943,1340,1383]" pageId="16" pageNumber="179" type="pagination">276</pagination>
+, 
+<year id="FFB277FDE95BFFB1FC088701966C0628" box="[967,1050,1340,1383]" pageId="16" pageNumber="179">1935</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95BFFB1FEA3874E903B054D" pageId="16" pageNumber="179" type="description">
+<paragraph id="8BA536AEE95BFFB1FEA3874E903B054D" blockId="16.[299,1700,1182,1894]" pageId="16" pageNumber="179">
+<materialsCitation id="3B723CF3E95BFFB1FEA3874E90D106D1" ID-GBIF-Occurrence="3332081324" box="[364,679,1395,1438]" collectedFrom="reared from corn" collectingDate="1936-05-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="16" pageNumber="179">
+<location id="8EC56075E95BFFB1FEA3874E938306D1" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB1FEE486A3947D0429:8EC56075E95BFFB1FEA3874E938306D1" box="[364,501,1395,1438]" pageId="16" pageNumber="179">
+<collectingMunicipality id="6BC1ACD4E95BFFB1FEA3874E938306D1" box="[364,501,1395,1438]" pageId="16" pageNumber="179">Dededo</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE95BFFB1FDC2874E90E506D1" box="[525,659,1395,1438]" pageId="16" pageNumber="179" value="2011-05">
+<collectingDate id="EFE0E986E95BFFB1FDC2874E90E506D1" box="[525,659,1395,1438]" pageId="16" pageNumber="179" value="2011-05">May 11</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FD76874E965B06D1" ID-GBIF-Occurrence="3332081310" box="[697,1069,1395,1438]" collectedFrom="reared from corn" collectingDate="1936-05-26" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="16" pageNumber="179">
+<location id="8EC56075E95BFFB1FD76874E910A06D1" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB1FEE486A3947D0429:8EC56075E95BFFB1FD76874E910A06D1" box="[697,892,1395,1438]" pageId="16" pageNumber="179">Mt. Alifan</location>
+, 
+<date id="FFA4106EE95BFFB1FC5C874E966A06D1" box="[915,1052,1395,1438]" pageId="16" pageNumber="179" value="1926-05">
+<collectingDate id="EFE0E986E95BFFB1FC5C874E966A06D1" box="[915,1052,1395,1438]" pageId="16" pageNumber="179" value="1926-05">May 26</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FBF0874E97D106D1" ID-GBIF-Occurrence="3332081401" box="[1087,1447,1395,1438]" collectedFrom="reared from corn" collectingDate="1936-06-24" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="16" pageNumber="179">
+<location id="8EC56075E95BFFB1FBF0874E968406D1" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB1FEE486A3947D0429:8EC56075E95BFFB1FBF0874E968406D1" box="[1087,1266,1395,1438]" pageId="16" pageNumber="179">Barrigada</location>
+, 
+<date id="FFA4106EE95BFFB1FAC5874E97D606D1" box="[1290,1440,1395,1438]" pageId="16" pageNumber="179" value="1924-06">
+<collectingDate id="EFE0E986E95BFFB1FAC5874E97D606D1" box="[1290,1440,1395,1438]" pageId="16" pageNumber="179" value="1924-06">June 24</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FA76874E91060680" ID-GBIF-Occurrence="3332081482" collectedFrom="reared from corn" collectingDate="1936-07-31" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="16" pageNumber="179">
+<location id="8EC56075E95BFFB1FA76874E978B06D1" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB1FEE486A3947D0429:8EC56075E95BFFB1FA76874E978B06D1" box="[1465,1533,1395,1438]" pageId="16" pageNumber="179">
+<collectingMunicipality id="6BC1ACD4E95BFFB1FA76874E978B06D1" box="[1465,1533,1395,1438]" pageId="16" pageNumber="179">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE95BFFB1F9DB874E94ED06D1" box="[1556,1691,1395,1438]" pageId="16" pageNumber="179" value="1931-07">
+<collectingDate id="EFE0E986E95BFFB1F9DB874E94ED06D1" box="[1556,1691,1395,1438]" pageId="16" pageNumber="179" value="1931-07">July 31</collectingDate>
+</date>
+, all reared from corn by 
+<collectorName id="26EF5378E95BFFB1FD2B8798911D0680" box="[740,875,1445,1487]" pageId="16" pageNumber="179">Swezey</collectorName>
+.
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FC428798903E054D" ID-GBIF-Occurrence="3332081356" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="U. S. National Museum" pageId="16" pageNumber="179" specimenCount="4">
+Four 
+<specimenCount id="9D1CFD27E95BFFB1FC39879896D20680" box="[1014,1188,1445,1487]" pageId="16" pageNumber="179" type="generic">specimens</specimenCount>
+in 
+<collectingCountry id="F30D763EE95BFFB1FB29879897330680" box="[1254,1349,1445,1487]" name="United States of America" pageId="16" pageNumber="179">U. S.</collectingCountry>
+<collectingMunicipality id="6BC1ACD4E95BFFB1FA98879894EA0680" box="[1367,1692,1445,1487]" pageId="16" pageNumber="179">National Museum</collectingMunicipality>
+, 
+<location id="8EC56075E95BFFB1FEE287EA93A2054D" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB1FEE486A3947D0429:8EC56075E95BFFB1FEE287EA93A2054D" box="[301,468,1495,1538]" pageId="16" pageNumber="179">Fullaway</location>
+, 1911
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95BFFB1FEA38430947D0429" pageId="16" pageNumber="179" type="description">
+<paragraph id="8BA536AEE95BFFB1FEA38430947D0429" blockId="16.[299,1700,1182,1894]" pageId="16" pageNumber="179">
+This corn leafroller is distributed around the world in the tropics. It occurs in many Pacific islands, but not in Hawaii. 
+<materialsCitation id="3B723CF3E95BFFB1FB4B847D900505D3" ID-GBIF-Occurrence="3913652495" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="16" pageNumber="179">
+It was recorded in 
+<collectingCountry id="F30D763EE95BFFB1FA35847D94150526" box="[1530,1635,1600,1641]" name="Guam" pageId="16" pageNumber="179">Guam</collectingCountry>
+by 
+<location id="8EC56075E95BFFB1FEE2844F93A605D3" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB1FEE486A3947D0429:8EC56075E95BFFB1FEE2844F93A605D3" box="[301,464,1650,1692]" pageId="16" pageNumber="179">Fullaway</location>
+in 1911
+</materialsCitation>
+. We found young corn plants commonly attacked by the larvae of this moth everywhere in 
+<collectingCountry id="F30D763EE95BFFB1FC628499966F0580" box="[941,1049,1700,1743]" name="Guam" pageId="16" pageNumber="179">Guam</collectingCountry>
+. They roll the tip of the leaf for a hiding place or protection while feeding within. If growing conditions, are favorable the plant is not much checked, especially as the plant becomes older. Some are parasitized by a braconid, 
+<taxonomicName id="4C1A4D2DE95BFFB1FC1C8501947D0429" authority="Fullaway." authorityName="Fullaway." box="[979,1547,1852,1894]" class="Insecta" family="Braconidae" genus="Apanteles" kingdom="Animalia" order="Hymenoptera" pageId="16" pageNumber="179" phylum="Arthropoda" rank="species" species="guamensis">
+<emphasis id="B96EEABCE95BFFB1FC1C8501973A0429" box="[979,1356,1852,1894]" italics="true" pageId="16" pageNumber="179">Apanteles guamensis</emphasis>
+Fullaway.
+</taxonomicName>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

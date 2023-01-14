@@ -1,0 +1,171 @@
+<document id="6A29BA1691CB2C38D3FFD9B551FBFFFD" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB21B05FE7DFBFD04A7403C" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Enochrus rubrocinctus (Regimbart)" docType="treatment" docVersion="18" lastPageNumber="162" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="162" updateTime="1671377585779" updateUser="annettekang">
+<mods:mods id="9B35FC7183C5231092FE99FE0409659A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="F4A4B40540B701F102AF37F0A93BEEE3">
+<mods:title id="2F6BFBFA9D4BF6D06450E42DC8CEAEDC">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="091564C9F012F710FE12DA1EA023FFFD" type="personal">
+<mods:role id="37DA8F3B3FC412CA404D662A5EF8E141">
+<mods:roleTerm id="EDD5D347610FC3ACE230C27F403E8500">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="39BE5E72FE32AAB18887F7AEAAEA2F87">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="3DBF32B7D6C48F3497477FCADE4D9687">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="E75DD429226A794364E9E3D1CDBC2DDC">text</mods:typeOfResource>
+<mods:relatedItem id="8D7940D5E567701E24DBEC8CB7B03141" type="host">
+<mods:originInfo id="9BE8038C3232BD3E847A492EB49BC5E9">
+<mods:dateIssued id="3E29CFA4C79093642469BF58F20E421D">1942</mods:dateIssued>
+<mods:dateOther id="CD3A18D836DDA087CE3D115B8EFD8452" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="9E8887C8C276609C84BCC8CA163E465C">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="B48300DD7077FE8C533FFCBE648684A7">
+<mods:placeTerm id="BB5B307062402FDC0EE8FC635F7D64A3">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="AED234935D6DBED612BD7FAA43C280CE">
+<mods:title id="804F09D49746663D5DE5A13477DF23FC">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="1681D5C83FB838CD617A6DD9C297C8DB">
+<mods:extent id="0A3F074EFD6A0E2039D5475E7B0825C8" unit="page">
+<mods:start id="968C89D5889055B4052DB135C9842866">150</mods:start>
+<mods:end id="4BD3F5FDD666402487EA5F68582A87AC">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="38C8BF79D3A265D9551E88FAE298FE44">book chapter</mods:classification>
+<mods:identifier id="658CDD038026F1C73FEC9069EC42D26D" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="AFF94CBB5ACBDDF2F0DE0E23853E0BC9" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="52312454701FFECC186A2A036DA39AC1" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB21B05FE7DFBFD04A7403C" ID-DOI="http://doi.org/10.5281/zenodo.5180823" ID-GBIF-Taxon="184415335" ID-Zenodo-Dep="5180823" LSID="urn:lsid:plazi:treatment:376B87E5FFB21B05FE7DFBFD04A7403C" httpUri="http://treatment.plazi.org/id/376B87E5FFB21B05FE7DFBFD04A7403C" lastPageNumber="162" pageId="12" pageNumber="162">
+<subSubSection id="F7D86578FFB21B05FE7DFBFD03884247" box="[423,1166,1096,1137]" pageId="12" pageNumber="162" type="nomenclature">
+<paragraph id="BF7D36F3FFB21B05FE7DFBFD03884247" blockId="12.[422,1819,1096,1546]" box="[423,1166,1096,1137]" pageId="12" pageNumber="162">
+<heading id="E435819FFFB21B05FE7DFBFD03884247" box="[423,1166,1096,1137]" fontSize="11" level="2" pageId="12" pageNumber="162" reason="2">
+<emphasis id="8DB6EAE1FFB21B05FE7DFBFD06C54247" bold="true" box="[423,451,1096,1137]" pageId="12" pageNumber="162">2.</emphasis>
+<taxonomicName id="78C24D70FFB21B05FE3CFBFD038E4247" authority="(Regimbart)" authorityName="(Regimbart)" baseAuthorityName="Regimbart" box="[486,1160,1096,1137]" class="Insecta" family="Hydrophilidae" genus="Enochrus" kingdom="Animalia" order="Coleoptera" pageId="12" pageNumber="162" phylum="Arthropoda" rank="species" species="rubrocinctus">
+<emphasis id="8DB6EAE1FFB21B05FE3CFBFD04814247" bold="true" box="[486,903,1096,1137]" pageId="12" pageNumber="162">Enochrus rubrocinctus</emphasis>
+(Regimbart)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB21B05FE3EFBCC00114292" box="[484,1815,1145,1188]" pageId="12" pageNumber="162" type="reference_group">
+<paragraph id="BF7D36F3FFB21B05FE3EFBCC00114292" blockId="12.[422,1819,1096,1546]" box="[484,1815,1145,1188]" pageId="12" pageNumber="162">
+<treatmentCitationGroup id="9FD211DDFFB21B05FE3EFBCC00114292" box="[484,1815,1145,1188]" pageId="12" pageNumber="162">
+<bibCitation id="6AE83E9FFFB21B05FE3EFBCC00114292" author="Regimbart" box="[484,1815,1145,1188]" journalOrPublisher="Soc. Ent. France, Ann." pageId="12" pageNumber="162" pagination="56" part="72" refId="ref6361" type="journal article" year="1903">
+<treatmentCitation id="3E6310E2FFB21B05FE3EFBCC00144292" author="Regimbart" box="[484,1810,1145,1188]" page="56" pageId="12" pageNumber="162" year="1903">
+<emphasis id="8DB6EAE1FFB21B05FE3EFBCC04844292" box="[484,898,1145,1188]" italics="true" pageId="12" pageNumber="162">Philydrus rubrocinctus</emphasis>
+<author id="677FDE16FFB21B05FC4FFBCC03544292" box="[917,1106,1145,1188]" pageId="12" pageNumber="162">Regimbart</author>
+, 
+<journalOrPublisher id="65033C3FFFB21B05FBAAFBCC011C4292" box="[1136,1562,1145,1188]" pageId="12" pageNumber="162">
+Soc. Ent. 
+<collectingCountry id="C7D57663FFB21B05FAF7FBCC02AC4292" box="[1325,1450,1145,1188]" name="France" pageId="12" pageNumber="162">France</collectingCountry>
+, Ann.
+</journalOrPublisher>
+<emphasis id="8DB6EAE1FFB21B05F9EBFBCC01504292" bold="true" box="[1585,1622,1145,1188]" pageId="12" pageNumber="162">
+<part id="CB669C6EFFB21B05F9EBFBCC01544292" box="[1585,1618,1145,1188]" pageId="12" pageNumber="162" type="volume">72</part>
+:
+</emphasis>
+<pagination id="860BC807FFB21B05F9A2FBCC01A44292" box="[1656,1698,1145,1188]" pageId="12" pageNumber="162" type="pageRange">56</pagination>
+, 
+<year id="CB6A77A0FFB21B05F91BFBCC00144292" box="[1729,1810,1145,1188]" pageId="12" pageNumber="162">1903</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB21B05FE3FFB180586433F" pageId="12" pageNumber="162" type="reference_group">
+<paragraph id="BF7D36F3FFB21B05FE3FFB180586433F" blockId="12.[422,1819,1096,1546]" pageId="12" pageNumber="162">
+<treatmentCitation id="3E6310E2FFB21B05FE3FFB180586433F" author="Knisch" page="214" pageId="12" pageNumber="162" year="1924">
+<bibCitation id="6AE83E9FFFB21B05FE3FFB180586433F" author="Knisch" journalOrPublisher="Coleopt. Catalog." pageId="12" pageNumber="162" pagination="214" part="79" refId="ref6379" type="book" year="1924">
+<treatmentCitationGroup id="9FD211DDFFB21B05FE3FFB18057D433F" pageId="12" pageNumber="162">
+<emphasis id="8DB6EAE1FFB21B05FE3FFB18047D42E1" box="[485,891,1197,1239]" italics="true" pageId="12" pageNumber="162">Enochrits ritbrocinctus</emphasis>
+(Regimbart) 
+<author id="677FDE16FFB21B05FB5CFB18020242E1" box="[1158,1284,1197,1239]" pageId="12" pageNumber="162">Knisch</author>
+, 
+<journalOrPublisher id="65033C3FFFB21B05FAC7FB18014D42E1" box="[1309,1611,1197,1239]" pageId="12" pageNumber="162">Coleopt. Catalog.</journalOrPublisher>
+(
+<part id="CB669C6EFFB21B05F9B5FB18019A42E1" box="[1647,1692,1197,1239]" pageId="12" pageNumber="162" type="volume">79</part>
+): 
+<pagination id="860BC807FFB21B05F909FB18001542E1" box="[1747,1811,1197,1239]" pageId="12" pageNumber="162" type="pageRange">214</pagination>
+, 
+<year id="CB6A77A0FFB21B05FDFDFB57057D433F" box="[551,635,1250,1289]" pageId="12" pageNumber="162">1924</year>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB21B05FE3CFAA101484347" pageId="12" pageNumber="162" type="materials_examined">
+<paragraph id="BF7D36F3FFB21B05FE3CFAA101484347" blockId="12.[422,1819,1096,1546]" pageId="12" pageNumber="162">
+<materialsCitation id="0FAA3CAEFFB21B05FE3CFAA103024308" ID-GBIF-Occurrence="3334692496" box="[486,1028,1300,1342]" collectedFrom="at light" collectingDate="1936-05-04" collectorName="E. H. Bryan" country="Guam" location="Agana" pageId="12" pageNumber="162">
+<collectingMunicipality id="5F19AC89FFB21B05FE3CFAA1055D4308" box="[486,603,1300,1342]" pageId="12" pageNumber="162">Agana</collectingMunicipality>
+, 
+<date id="CB7C1033FFB21B05FDAAFAA105E74308" box="[624,737,1300,1342]" pageId="12" pageNumber="162">
+<collectingDate id="DB38E9DBFFB21B05FDAAFAA105E74308" box="[624,737,1300,1342]" pageId="12" pageNumber="162">May 4</collectingDate>
+</date>
+, at light, 
+<location id="BA1D6028FFB21B05FC5DFAA104FB4308" LSID="urn:lsid:plazi:treatment:376B87E5FFB21B05FE7DFBFD04A7403C:BA1D6028FFB21B05FC5DFAA104FB4308" box="[903,1021,1300,1342]" municipality="Agana" name="Bryan" pageId="12" pageNumber="162">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB21B05FBCBFAA1014B4308" ID-GBIF-Occurrence="3334692430" box="[1041,1613,1300,1342]" collectingDate="1936-05-04" collectorName="R. L. Usinger" country="Guam" location="Agana Swamp" pageId="12" pageNumber="162">
+<collectingMunicipality id="5F19AC89FFB21B05FBCBFAA103824308" box="[1041,1156,1300,1342]" pageId="12" pageNumber="162">Agana</collectingMunicipality>
+<location id="BA1D6028FFB21B05FB48FAA102104308" LSID="urn:lsid:plazi:treatment:376B87E5FFB21B05FE7DFBFD04A7403C:BA1D6028FFB21B05FB48FAA102104308" box="[1170,1302,1300,1342]" municipality="Agana" name="Swamp" pageId="12" pageNumber="162">Swamp</location>
+, 
+<date id="CB7C1033FFB21B05FAF0FAA1029D4308" box="[1322,1435,1300,1342]" pageId="12" pageNumber="162">
+<collectingDate id="DB38E9DBFFB21B05FAF0FAA1029D4308" box="[1322,1435,1300,1342]" pageId="12" pageNumber="162">May 4</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB21B05FA75FAA101404308" box="[1455,1606,1300,1342]" pageId="12" pageNumber="162">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB21B05F987FAA105D24347" ID-GBIF-Occurrence="3334692604" collectingDate="1936-05-17" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="12" pageNumber="162">
+<location id="BA1D6028FFB21B05F987FAA100144308" LSID="urn:lsid:plazi:treatment:376B87E5FFB21B05FE7DFBFD04A7403C:BA1D6028FFB21B05F987FAA100144308" box="[1629,1810,1300,1342]" name="Machanao" pageId="12" pageNumber="162">Machanao</location>
+, 
+<date id="CB7C1033FFB21B05FE72FAF305374347" box="[424,561,1350,1393]" pageId="12" pageNumber="162" value="2017-05">
+<collectingDate id="DB38E9DBFFB21B05FE72FAF305374347" box="[424,561,1350,1393]" pageId="12" pageNumber="162" value="2017-05">
+May 
+<emphasis id="8DB6EAE1FFB21B05FDD3FAF3053E4347" bold="true" box="[521,568,1350,1393]" pageId="12" pageNumber="162">17,</emphasis>
+</collectingDate>
+</date>
+<collectorName id="12375325FFB21B05FD92FAF305C84347" box="[584,718,1350,1393]" pageId="12" pageNumber="162">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB21B05FD22FAF303844347" ID-GBIF-Occurrence="3994027497" box="[760,1154,1350,1393]" collectedFrom="at light" collectingDate="1936-08-20" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="12" pageNumber="162">
+<location id="BA1D6028FFB21B05FD22FAF3043D4347" LSID="urn:lsid:plazi:treatment:376B87E5FFB21B05FE7DFBFD04A7403C:BA1D6028FFB21B05FD22FAF3043D4347" box="[760,827,1350,1393]" name="Piti" pageId="12" pageNumber="162">Piti</location>
+, 
+<date id="CB7C1033FFB21B05FC8BFAF304E54347" box="[849,995,1350,1393]" pageId="12" pageNumber="162" value="2020-08">
+<collectingDate id="DB38E9DBFFB21B05FC8BFAF304E54347" box="[849,995,1350,1393]" pageId="12" pageNumber="162" value="2020-08">Aug. 20</collectingDate>
+</date>
+, at light,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB21B05FB49FAF301484347" ID-GBIF-Occurrence="3994027501" box="[1171,1614,1350,1393]" collectedFrom="at light" collectingDate="1936-09-07" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="12" pageNumber="162">
+<date id="CB7C1033FFB21B05FB49FAF302174347" box="[1171,1297,1350,1393]" pageId="12" pageNumber="162">
+<collectingDate id="DB38E9DBFFB21B05FB49FAF302174347" box="[1171,1297,1350,1393]" pageId="12" pageNumber="162">
+Sept. 
+<emphasis id="8DB6EAE1FFB21B05FB20FAF3021E4347" bold="true" box="[1274,1304,1350,1393]" italics="true" pageId="12" pageNumber="162">7,</emphasis>
+</collectingDate>
+</date>
+at light, 
+<collectorName id="12375325FFB21B05FA1BFAF3014F4347" box="[1473,1609,1350,1393]" pageId="12" pageNumber="162">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB21B05FE3DFACC04A7403C" pageId="12" pageNumber="162" type="discussion">
+<paragraph id="BF7D36F3FFB21B05FE3DFACC04A7403C" blockId="12.[422,1819,1096,1546]" pageId="12" pageNumber="162">
+Described from 
+<collectingCountry id="C7D57663FFB21B05FCC0FACC047E4392" box="[794,888,1401,1444]" name="India" pageId="12" pageNumber="162">India</collectingCountry>
+, 
+<collectingCountry id="C7D57663FFB21B05FC42FACC03944392" box="[920,1170,1401,1444]" name="Vietnam" pageId="12" pageNumber="162">Cochin China</collectingCountry>
+, 
+<collectingCountry id="C7D57663FFB21B05FB6BFACC022A4392" box="[1201,1324,1401,1444]" name="Myanmar" pageId="12" pageNumber="162">Burma</collectingCountry>
+, Sumatra. Determined by L. L. Buchanan. (
+<collectingCountry id="C7D57663FFB21B05FD28FA18046743E1" box="[754,865,1453,1495]" name="Guam" pageId="12" pageNumber="162">Guam</collectingCountry>
+specimens compared with Baker Philippine collection at 
+<collectingCountry id="C7D57663FFB21B05FE0FFA540535403C" box="[469,563,1505,1546]" name="United States of America" pageId="12" pageNumber="162">U. S.</collectingCountry>
+National Museum.)
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

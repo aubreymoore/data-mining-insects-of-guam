@@ -1,0 +1,180 @@
+<document id="DE010526B13A6713890F2CB31B500D00" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F51F3F794BBAE62AF942C7C4" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pachybrachius chinai" docType="treatment" docVersion="18" lastPageNumber="31" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="30" updateTime="1671564665568" updateUser="annettekang">
+<mods:mods id="902553C6C47A630E9FD8A15EA82CCD64" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="0A664E20F1E2EF0F917CB05677C339FF">
+<mods:title id="839FD947F6AC898AD7A259E5EF8D9A2D">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="5413C0E1A5D4BDDCF61BFCFA01CDB953" type="personal">
+<mods:role id="F5A8B8D1ABE51BF719E9CB23C7ACAC5B">
+<mods:roleTerm id="DB89144A3AE12E11BFC749565E4B062B">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="BAF8C369901B411C7839086A21B09277">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="798B55EB09D7E408DD638153289171AE">text</mods:typeOfResource>
+<mods:relatedItem id="972056AB8EF0B9255531AA7B74515BD1" type="host">
+<mods:originInfo id="944250DD5EFB942948826CD9A0CDE375">
+<mods:dateIssued id="87C33553FD87E6A30E689897FFB8CD52">1946</mods:dateIssued>
+<mods:dateOther id="D0CFA330CF832BE8E8B75A69F3ACF3FD" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="94B8CCD42DE45CC415657BE70F2CBACE">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="823A4EF2251572742684EA8EF443C60A">
+<mods:placeTerm id="26085509D4CCA7BC88C81A36317789C0">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="F6C7D3C6684C76195EF4D923613A4406">
+<mods:title id="20DD76F4EB2E44639E921502A117227C">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="04B11E0ED33E5B5EA8D4E16E0E3DA646">
+<mods:extent id="4C446794F406FC0B708DC9DD552FD4D9" unit="page">
+<mods:start id="7742D8ADB50962C99C8E1A068AB16755">11</mods:start>
+<mods:end id="BEE4A3CFCFD4197FFBE251237441F54A">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="3D5AEE5B8F623A690FB0659C1EAE0B1F">book chapter</mods:classification>
+<mods:identifier id="568BBA7486822C4664C7D80721A43770" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="7A534789F728F001F50DD58837375E25" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="7AA9D144B0E64F0ACF5DD2F1DEC60B1B" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F51F3F794BBAE62AF942C7C4" ID-DOI="http://doi.org/10.5281/zenodo.5217849" ID-GBIF-Taxon="184601069" ID-Zenodo-Dep="5217849" LSID="urn:lsid:plazi:treatment:EC6DA359F51F3F794BBAE62AF942C7C4" httpUri="http://treatment.plazi.org/id/EC6DA359F51F3F794BBAE62AF942C7C4" lastPageId="20" lastPageNumber="31" pageId="19" pageNumber="30">
+<subSubSection id="2CDE41C4F51F3F7E4BBAE62AFB54C803" box="[474,1200,2370,2411]" pageId="19" pageNumber="30" type="nomenclature">
+<paragraph id="647B124FF51F3F7E4BBAE62AFB54C803" blockId="19.[474,1872,2370,2541]" box="[474,1200,2370,2411]" pageId="19" pageNumber="30">
+<heading id="3F33A523F51F3F7E4BBAE62AFB54C803" box="[474,1200,2370,2411]" fontSize="8" level="2" pageId="19" pageNumber="30" reason="4">
+26. 
+<taxonomicName id="A3C469CCF51F3F7E484DE62AFC5FC803" authority="Usinger, 1946" box="[557,955,2370,2411]" class="Insecta" family="Encyrtidae" genus="Pachybrachius" kingdom="Animalia" order="Hymenoptera" pageId="19" pageNumber="30" phylum="Arthropoda" rank="species" species="chinai">Pachybrachius chinai</taxonomicName>
+, new species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F51F3F79487EE616FD33C548" lastPageId="20" lastPageNumber="31" pageId="19" pageNumber="30">
+<paragraph id="647B124FF51F3F79487EE616F943C3E7" blockId="19.[474,1872,2370,2541]" lastBlockId="20.[306,1706,312,1708]" lastPageId="20" lastPageNumber="31" pageId="19" pageNumber="30">Elongate with sides subparallel, pronotum strongly constricted behind middle and rostrum relatively long, reaching to middle of metasternum. Head as long as broad across eyes, finely granulate-punctate above except surrounding ocelli, with subappressed white pubescence anteriorly and laterally in front of eyes and posteriorly surrounding ocelli. With several erect, very long trichobothria-like hairs on vertex and adjacent to eyes and several shorter, erect hairs on surface of eyes. Interocular space over twice as wide as an eye, 16: 7, and anteocular portion of head one fourth longer than an eye, 15: 12. Rostrum relatively long, reaching to middle of metasternum, the first segment not reaching base of head, second segment reaching front coxae; proportion of segments 25: 25: 18: 14; all segments beset with scattered, relatively short but erect hairs. Antennae about 2.5 times as long as width of pronotum across humeri, 115: 45, first segment exceeding apex of head by slightly less than half its length, proportion of segments one to four as 16: 36: 28: 35.</paragraph>
+<paragraph id="647B124FF5183F794B18EDF3FAD8C2A2" blockId="20.[306,1706,312,1708]" pageId="20" pageNumber="31">
+Pronotum one fifth longer than head on median line, one fourth broader across humeri than long, the disk sparsely clothed with subappressed pale hairs with a few erect long hairs. Postmedian transverse constriction relatively strong, the width at constriction only one fifth greater than width across anterior collar. Anterior lobe half again as broad as long, impunctate. Posterior lobe three times as broad as long, sparsely but distinctly punctate. Scutellum longer than broad, 29:23, elevated at base and subflattened apically. Hemelytra as in 
+<taxonomicName id="A3C469CCF5183F794820ECE8FD27C2CC" box="[576,707,896,932]" class="Magnoliopsida" family="Lythraceae" genus="Pemphis" kingdom="Plantae" order="Myrtales" pageId="20" pageNumber="31" phylum="Tracheophyta" rank="species" species="ventralis">
+<emphasis id="56B0CE5DF5183F794820ECE8FD27C2CC" box="[576,707,896,932]" italics="true" pageId="20" pageNumber="31">ventralis</emphasis>
+</taxonomicName>
+<collectingCountry id="1CD352DFF5183F7948B5ECE8FCCBC2CC" box="[725,815,896,932]" name="China" pageId="20" pageNumber="31">China</collectingCountry>
+. Thoracic pleura relatively coarsely, distinctly punctate. Legs and coloration of body and appendages as in 
+<taxonomicName id="A3C469CCF5183F794E2BECCFFB2BC2A2" box="[1099,1231,935,970]" class="Magnoliopsida" family="Lythraceae" genus="Pemphis" kingdom="Plantae" order="Myrtales" pageId="20" pageNumber="31" phylum="Tracheophyta" rank="species" species="ventralis">
+<emphasis id="56B0CE5DF5183F794E2BECCFFB2BC2A2" box="[1099,1231,935,970]" italics="true" pageId="20" pageNumber="31">ventralis</emphasis>
+</taxonomicName>
+<collectingCountry id="1CD352DFF5183F794EBEECCFFADCC2A2" box="[1246,1336,935,970]" name="China" pageId="20" pageNumber="31">China</collectingCountry>
+.
+</paragraph>
+<paragraph id="647B124FF5183F794B18ECBCFD33C548" blockId="20.[306,1706,312,1708]" pageId="20" pageNumber="31">
+Size: male, length 
+<quantity id="A33CBFAAF5183F7948D9ECBCFCD1C292" box="[697,821,980,1018]" metricMagnitude="-3" metricUnit="m" metricValue="4.4" pageId="20" pageNumber="31" unit="mm" value="4.4">4.4 mm</quantity>
+., width (hemelytra) 
+<quantity id="A33CBFAAF5183F794EF1ECBCFAEBC292" box="[1169,1295,980,1018]" metricMagnitude="-3" metricUnit="m" metricValue="1.2" pageId="20" pageNumber="31" unit="mm" value="1.2">1.2 mm</quantity>
+.; female, length 
+<quantity id="A33CBFAAF5183F794C43ECBCF979C292" box="[1571,1693,980,1018]" metricMagnitude="-3" metricUnit="m" metricValue="4.7" pageId="20" pageNumber="31" unit="mm" value="4.7">4.7 mm</quantity>
+., width (hemelytra) 
+<quantity id="A33CBFAAF5183F794804EC95FD37C548" box="[612,723,1021,1056]" metricMagnitude="-3" metricUnit="m" metricValue="1.3" pageId="20" pageNumber="31" unit="mm" value="1.3">1.3 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5183F794B12EB55F942C7C4" pageId="20" pageNumber="31">
+<paragraph id="647B124FF5183F794B12EB55F9A3C468" blockId="20.[306,1706,312,1708]" pageId="20" pageNumber="31">
+<materialsCitation id="D4AC1812F5183F794B12EB55FB80C5F1" ID-GBIF-Occurrence="3994028379" collectedFrom="sucking fruits of &quot;Panama cherry&quot;" collectingDate="1936-05-04" collectorName="R. L. Usinger" country="Guam" location="Agana Swamp" pageId="20" pageNumber="31" specimenCount="46" typeStatus="holotype male, allotype female, and paratype (44)">
+<typeStatus id="BB7FACEDF5183F794B12EB55FDFFC50D" box="[370,539,1085,1125]" pageId="20" pageNumber="31">Holotype</typeStatus>
+<specimenCount id="72C2D9C6F5183F794848EB55FD64C50D" box="[552,640,1085,1125]" pageId="20" pageNumber="31" type="male">male</specimenCount>
+, 
+<typeStatus id="BB7FACEDF5183F7948F5EB55FCC1C50D" box="[661,805,1085,1125]" pageId="20" pageNumber="31">allotype</typeStatus>
+<specimenCount id="72C2D9C6F5183F794953EB55FC4AC50D" box="[819,942,1085,1125]" pageId="20" pageNumber="31" type="female">female</specimenCount>
+, and 44 
+<typeStatus id="BB7FACEDF5183F794E25EB55FB1CC50D" box="[1093,1272,1085,1125]" pageId="20" pageNumber="31">paratypes</typeStatus>
+, Agana Swamp, 
+<date id="107A348FF5183F794C4EEB55F946C50D" box="[1582,1698,1085,1125]" pageId="20" pageNumber="31">
+<collectingDate id="003ECD67F5183F794C4EEB55F946C50D" box="[1582,1698,1085,1125]" pageId="20" pageNumber="31">
+May 
+<emphasis id="56B0CE5DF5183F794CEAEB55F94DC50D" bold="true" box="[1674,1705,1085,1125]" pageId="20" pageNumber="31">4,</emphasis>
+</collectingDate>
+</date>
+sucking fruits of &quot; 
+<collectingCountry id="1CD352DFF5183F7948E3EB07FCFDC5F1" box="[643,793,1135,1177]" name="Panama" pageId="20" pageNumber="31">Panama</collectingCountry>
+cherry&quot;, 
+<collectingMunicipality id="841F8835F5183F7949ADEB07FB80C5F1" box="[973,1124,1135,1177]" pageId="20" pageNumber="31">Usinger</collectingMunicipality>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5183F794E1FEB07FE5AC5A4" ID-GBIF-Occurrence="3994028425" collectedFrom="sucking fruits of &quot;Panama cherry&quot;" collectingDate="1936-05-15" collectorName="R. L. Usinger" country="Guam" location="Agana Swamp" pageId="20" pageNumber="31" specimenCount="3" typeStatus="paratype">
+<specimenCount id="72C2D9C6F5183F794E1FEB07FB3CC5F1" box="[1151,1240,1135,1177]" pageId="20" pageNumber="31" type="generic">three</specimenCount>
+<typeStatus id="BB7FACEDF5183F794E89EB07FA71C5F1" box="[1257,1429,1135,1177]" pageId="20" pageNumber="31">paratypes</typeStatus>
+, same data but 
+<date id="107A348FF5183F794B54EBCBFE5AC5A4" box="[308,446,1187,1228]" pageId="20" pageNumber="31" value="2015-05">
+<collectingDate id="003ECD67F5183F794B54EBCBFE5AC5A4" box="[308,446,1187,1228]" pageId="20" pageNumber="31" value="2015-05">May 15</collectingDate>
+</date>
+</materialsCitation>
+, and 
+<materialsCitation id="D4AC1812F5183F794844EBCBFA0EC5A4" ID-GBIF-Occurrence="3994028481" box="[548,1514,1187,1228]" collectedFrom="on Pemphis" collectingDate="1936-05-14" collectorName="R. L. Usinger" country="Guam" location="Umatac" pageId="20" pageNumber="31" specimenCount="1" typeStatus="paratype">
+<specimenCount id="72C2D9C6F5183F794844EBCBFD84C5A4" box="[548,608,1187,1228]" pageId="20" pageNumber="31" type="generic">one</specimenCount>
+<typeStatus id="BB7FACEDF5183F794810EBCBFCEFC5A4" box="[624,779,1187,1228]" pageId="20" pageNumber="31">paratype</typeStatus>
+, Umatac, 
+<date id="107A348FF5183F7949A7EBCBFBB5C5A4" box="[967,1105,1187,1228]" pageId="20" pageNumber="31" value="2014-05">
+<collectingDate id="003ECD67F5183F7949A7EBCBFBB5C5A4" box="[967,1105,1187,1228]" pageId="20" pageNumber="31" value="2014-05">May 14</collectingDate>
+</date>
+, on 
+<taxonomicName id="A3C469CCF5183F794EC1EBCBFA0EC5A4" authority=", Usinger" authorityName="Usinger" box="[1185,1514,1187,1228]" class="Magnoliopsida" family="Lythraceae" genus="Pemphis" kingdom="Plantae" order="Myrtales" pageId="20" pageNumber="31" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5183F794EC1EBCBFAA7C5A4" box="[1185,1347,1187,1228]" italics="true" pageId="20" pageNumber="31">Pemphis,</emphasis>
+<location id="611B4494F5183F794F33EBCBFA0EC5A4" LSID="urn:lsid:plazi:treatment:EC6DA359F51F3F794BBAE62AF942C7C4:611B4494F5183F794F33EBCBFA0EC5A4" box="[1363,1514,1187,1228]" name="Usinger" pageId="20" pageNumber="31">Usinger</location>
+</taxonomicName>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5183F794C62EBCBFC8DC468" ID-GBIF-Occurrence="3994028422" collectingDate="1936-05-07" collectorName="R. L. Usinger" country="Guam" location="Inarajan" pageId="20" pageNumber="31" specimenCount="1" typeStatus="paratype">
+<specimenCount id="72C2D9C6F5183F794C62EBCBF9D9C5A4" box="[1538,1597,1187,1228]" pageId="20" pageNumber="31" type="generic">one</specimenCount>
+<typeStatus id="BB7FACEDF5183F794C2CEBCBFE9BC468" pageId="20" pageNumber="31">paratype</typeStatus>
+, 
+<collectingMunicipality id="841F8835F5183F794BF8EBBCFDD6C468" box="[408,562,1236,1280]" pageId="20" pageNumber="31">Inarajan</collectingMunicipality>
+, 
+<date id="107A348FF5183F794829EBBCFD58C468" box="[585,700,1236,1280]" pageId="20" pageNumber="31">
+<collectingDate id="003ECD67F5183F794829EBBCFD58C468" box="[585,700,1236,1280]" pageId="20" pageNumber="31">
+May 
+<emphasis id="56B0CE5DF5183F7948C7EBBCFD27C468" box="[679,707,1236,1280]" italics="true" pageId="20" pageNumber="31">7,</emphasis>
+</collectingDate>
+</date>
+<location id="611B4494F5183F7948B2EBBCFC8DC468" LSID="urn:lsid:plazi:treatment:EC6DA359F51F3F794BBAE62AF942C7C4:611B4494F5183F7948B2EBBCFC8DC468" box="[722,873,1236,1280]" municipality="Inarajan" name="Usinger" pageId="20" pageNumber="31">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5183F7949E1EBBCF9A6C468" ID-GBIF-Occurrence="3994028472" box="[897,1602,1236,1280]" collectingDate="1936-04-01" collectorName="E. H. Bryan" country="Guam" location="Talofofo" pageId="20" pageNumber="31" specimenCount="1">
+<specimenCount id="72C2D9C6F5183F7949E1EBBCFB89C468" box="[897,1133,1236,1280]" pageId="20" pageNumber="31" type="generic">one specimen</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5183F794EE2EBBCFAC0C468" box="[1154,1316,1236,1280]" pageId="20" pageNumber="31">Talofofo</collectingMunicipality>
+, 
+<date id="107A348FF5183F794F59EBBCFA5DC468" box="[1337,1465,1236,1280]" pageId="20" pageNumber="31">
+<collectingDate id="003ECD67F5183F794F59EBBCFA5DC468" box="[1337,1465,1236,1280]" pageId="20" pageNumber="31">April 1</collectingDate>
+</date>
+, 
+<location id="611B4494F5183F794FB1EBBCF9A6C468" LSID="urn:lsid:plazi:treatment:EC6DA359F51F3F794BBAE62AF942C7C4:611B4494F5183F794FB1EBBCF9A6C468" box="[1489,1602,1236,1280]" municipality="Talofofo" name="Bryan" pageId="20" pageNumber="31">Bryan</location>
+</materialsCitation>
+.
+</paragraph>
+<paragraph id="647B124FF5183F794B10EA79FC96C754" blockId="20.[306,1706,312,1708]" pageId="20" pageNumber="31">
+<emphasis id="56B0CE5DF5183F794B10EA79FDF0C454" box="[368,532,1297,1340]" italics="true" pageId="20" pageNumber="31">P. chinai</emphasis>
+is very close to the Samoan 
+<taxonomicName id="A3C469CCF5183F794E52EA79FB2EC454" box="[1074,1226,1297,1340]" class="Magnoliopsida" family="Lythraceae" genus="Pemphis" kingdom="Plantae" order="Myrtales" pageId="20" pageNumber="31" phylum="Tracheophyta" rank="species" species="ventralis">
+<emphasis id="56B0CE5DF5183F794E52EA79FB2EC454" box="[1074,1226,1297,1340]" italics="true" pageId="20" pageNumber="31">ventralis</emphasis>
+</taxonomicName>
+<collectingCountry id="1CD352DFF5183F794EBDEA79FAA2C454" box="[1245,1350,1297,1340]" name="China" pageId="20" pageNumber="31">China</collectingCountry>
+, of which I have a relatively small (
+<quantity id="A33CBFAAF5183F79480AEA2DFCE4C418" box="[618,768,1349,1392]" metricMagnitude="-3" metricUnit="m" metricValue="4.4" pageId="20" pageNumber="31" unit="mm" value="4.4">4.4 mm</quantity>
+.) topotype from Fagasa. 
+<taxonomicName id="A3C469CCF5183F794E83EA2DFA52C418" box="[1251,1462,1349,1392]" class="Magnoliopsida" family="Lythraceae" genus="Pemphis" kingdom="Plantae" order="Myrtales" pageId="20" pageNumber="31" phylum="Tracheophyta" rank="species" species="ventralis">
+<emphasis id="56B0CE5DF5183F794E83EA2DFA52C418" box="[1251,1462,1349,1392]" italics="true" pageId="20" pageNumber="31">P. ventralis</emphasis>
+</taxonomicName>
+differs in its distinctly shorter rostrum, reaching only to middle of mesosternum, and in its relatively broader and less strongly constricted anterior pronotal lobe. 
+<taxonomicName id="A3C469CCF5183F794C46EAC5FE6AC764" class="Magnoliopsida" family="Lythraceae" genus="Pemphis" kingdom="Plantae" order="Myrtales" pageId="20" pageNumber="31" phylum="Tracheophyta" rank="species" species="ventralis">
+<emphasis id="56B0CE5DF5183F794C46EAC5FE6AC764" italics="true" pageId="20" pageNumber="31">P. ventralis</emphasis>
+</taxonomicName>
+was collected on Tahiti, Society Islands, and on Raivavai and Tubuai, Austral Islands, by Zimmerman.
+</paragraph>
+<paragraph id="647B124FF5183F794B13E925F942C7C4" blockId="20.[306,1706,312,1708]" pageId="20" pageNumber="31">
+Dedicated to W. E. 
+<collectingCountry id="1CD352DFF5183F7948B3E925FCD8C711" box="[723,828,1613,1657]" name="China" pageId="20" pageNumber="31">China</collectingCountry>
+, whose 
+<taxonomicName id="A3C469CCF5183F7949A8E925FB61C711" box="[968,1157,1613,1657]" class="Insecta" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="20" pageNumber="31" phylum="Arthropoda" rank="order">Hemiptera</taxonomicName>
+fascicle of &quot;Insects of 
+<collectingCountry id="1CD352DFF5183F794C7FE925F97EC711" box="[1567,1690,1613,1657]" name="Samoa" pageId="20" pageNumber="31">Samoa</collectingCountry>
+&quot; is one of the best contributions to our knowledge of the 
+<taxonomicName id="A3C469CCF5183F794F74E9EAFA36C7C4" box="[1300,1490,1666,1708]" class="Insecta" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="20" pageNumber="31" phylum="Arthropoda" rank="order">Hemiptera</taxonomicName>
+of Oceania.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

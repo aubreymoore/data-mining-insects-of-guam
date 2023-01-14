@@ -1,0 +1,105 @@
+<document id="91AD3D544D1190C6E07F20C77683D1C7" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E946FFACFE50868590B006B5" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Heterographis" docType="treatment" docVersion="18" lastPageNumber="176" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="176" updateTime="1669841621050" updateUser="annettekang">
+<mods:mods id="609573471671048F9B73A7492E9F09A4" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="5DA097D2255694AC4104B90C9C5BAB4D">
+<mods:title id="AF1D94244B119367861BB811F39AD14E">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="A77E6AD157FAC0EEAD206175DDFE28BF" type="personal">
+<mods:role id="FF84EFF4FD6E2C7E3D6007856DEEDD2C">
+<mods:roleTerm id="C566FAB37F287CB2B8580C3CE8B46B6F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="AEC9F0E46611B5EAE3A87F7877D9C5FF">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="BF5F1CE6E4A8D6D186D007A9F42B4A63">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C26F74F8A3A1CC628BFFA6CD26FF84D6">text</mods:typeOfResource>
+<mods:relatedItem id="E9B35A8D3B6B50064B8A80F61098A439" type="host">
+<mods:originInfo id="003A5F73B5A13BAD69DA84B5FCDCCDE7">
+<mods:dateIssued id="04494DD80FB8C0E617E9B92071AE361E">1946</mods:dateIssued>
+<mods:dateOther id="A7668766DE4FB96DB69900544C92FEEA" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="28014F1ADF01F8B1D57A50A7B78664E2">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="346EB8827CA71F3845D5C1E3F71FAE18">
+<mods:placeTerm id="0B1FC68A0854F1FA83044F4D7664A514">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="D852BB0DAF8DA1070171DA45DEF526B2">
+<mods:title id="65ABB7BC0679BA1D0DD2CCC27E656F3C">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="8C5C981F5318BCF9C666B608B3F86024">
+<mods:extent id="7EE15BCCA4B0688D604F5F41A40BED23" unit="page">
+<mods:start id="EB718F002904E1695B5E20E9F8E23CB5">163</mods:start>
+<mods:end id="2CA1DF421F0FC2F57ED8B52E0AB0CD2E">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="39E270C53D4206597A0F5EBC63001CD6">book chapter</mods:classification>
+<mods:identifier id="CDDD98A15F8D6B2BCBDEFE9531DEE8D7" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="44C15721D7B3B73424589ED5F56413F3" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="09184CB6C8AAB3FBCC420BAF468DAB2C" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E946FFACFE50868590B006B5" ID-DOI="http://doi.org/10.5281/zenodo.5158518" ID-GBIF-Taxon="183926867" ID-Zenodo-Dep="5158518" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE50868590B006B5" httpUri="http://treatment.plazi.org/id/03B387B8E946FFACFE50868590B006B5" lastPageNumber="176" pageId="13" pageNumber="176">
+<subSubSection id="C3006525E946FFACFE508685910D0790" box="[415,891,1208,1247]" pageId="13" pageNumber="176" type="nomenclature">
+<paragraph id="8BA536AEE946FFACFE508685910D0790" blockId="13.[415,1814,1208,1352]" box="[415,891,1208,1247]" pageId="13" pageNumber="176">
+<heading id="D0ED81C2E946FFACFE508685910D0790" box="[415,891,1208,1247]" fontSize="11" level="2" pageId="13" pageNumber="176" reason="2">
+<emphasis id="B96EEABCE946FFACFE50868590930790" bold="true" box="[415,741,1208,1247]" pageId="13" pageNumber="176">
+2. 
+<taxonomicName id="4C1A4D2DE946FFACFE10868590930790" authority="Ragonot" box="[479,741,1208,1247]" class="Insecta" family="Pyralidae" genus="Heterographis" higherTaxonomySource="CoL" kingdom="Animalia" order="Lepidoptera" pageId="13" pageNumber="176" phylum="Arthropoda" rank="genus">Heterographis</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E946FFACFE2F86D6978A0607" pageId="13" pageNumber="176" type="materials_examined">
+<paragraph id="8BA536AEE946FFACFE2F86D6978A0607" blockId="13.[415,1814,1208,1352]" pageId="13" pageNumber="176">
+<materialsCitation id="3B723CF3E946FFACFE2F86D6978A0607" ID-GBIF-Occurrence="3332081476" collectedFrom="two moths reared from larvae feeding among thrips-infested terminal leaves of small-leaved Ficus" collectingDate="1936-07-19" collectorName="O. H. Swezey" country="Guam" location="Orote Peninsula" pageId="13" pageNumber="176" specimenCount="2">
+<collectingMunicipality id="6BC1ACD4E946FFACFE2F86D6917D065C" box="[480,779,1259,1299]" pageId="13" pageNumber="176">Orote Peninsula</collectingMunicipality>
+, 
+<date id="FFA4106EE946FFACFCEB86D691D8065C" box="[804,942,1259,1299]" pageId="13" pageNumber="176" value="2019-07">
+<collectingDate id="EFE0E986E946FFACFCEB86D691D8065C" box="[804,942,1259,1299]" pageId="13" pageNumber="176" value="2019-07">July 19</collectingDate>
+</date>
+, two moths reared from 
+<specimenCount id="9D1CFD27E946FFACFA4986D69782065C" box="[1414,1524,1259,1299]" pageId="13" pageNumber="176" type="larva">larvae</specimenCount>
+feeding among thrips-infested terminal leaves of small-leaved 
+<taxonomicName id="4C1A4D2DE946FFACFB3F8723978A0607" authority=", Swezey." authorityName="Swezey." box="[1264,1532,1310,1352]" class="Gastropoda" family="Ficidae" genus="Ficus" kingdom="Animalia" order="Littorinimorpha" pageId="13" pageNumber="176" phylum="Mollusca" rank="genus">
+<emphasis id="B96EEABCE946FFACFB3F8723972D0607" box="[1264,1371,1310,1352]" italics="true" pageId="13" pageNumber="176">
+<location id="8EC56075E946FFACFB3F872397220607" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE50868590B006B5:8EC56075E946FFACFB3F872397220607" box="[1264,1364,1310,1352]" pageId="13" pageNumber="176">Ficus</location>
+,
+</emphasis>
+<collectorName id="26EF5378E946FFACFABE872397810607" box="[1393,1527,1310,1352]" pageId="13" pageNumber="176">Swezey</collectorName>
+.
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E946FFACFE508757910D06DE" box="[415,891,1386,1425]" pageId="13" pageNumber="176" type="discussion">
+<paragraph id="8BA536AEE946FFACFE508757910D06DE" blockId="13.[415,1814,1386,1530]" box="[415,891,1386,1425]" pageId="13" pageNumber="176">
+<heading id="D0ED81C2E946FFACFE508757910D06DE" box="[415,891,1386,1425]" fontSize="11" level="2" pageId="13" pageNumber="176" reason="2">
+<emphasis id="B96EEABCE946FFACFE508757909206DE" bold="true" box="[415,740,1386,1425]" pageId="13" pageNumber="176">3. Heterographis</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E946FFACFE2F87A090B006B5" pageId="13" pageNumber="176" type="materials_examined">
+<paragraph id="8BA536AEE946FFACFE2F87A090B006B5" blockId="13.[415,1814,1386,1530]" pageId="13" pageNumber="176">
+<materialsCitation id="3B723CF3E946FFACFE2F87A090B006B5" ID-GBIF-Occurrence="3332081405" collectedFrom="two moths reared from larvae on leaves of Peltophorum inerme" collectingDate="1936-05-26" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="13" pageNumber="176" specimenCount="2">
+<location id="8EC56075E946FFACFE2F87A09055068A" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE50868590B006B5:8EC56075E946FFACFE2F87A09055068A" box="[480,547,1437,1477]" pageId="13" pageNumber="176">
+<collectingMunicipality id="6BC1ACD4E946FFACFE2F87A09055068A" box="[480,547,1437,1477]" pageId="13" pageNumber="176">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE946FFACFD8C87A090A3068A" box="[579,725,1437,1477]" pageId="13" pageNumber="176" value="1926-05">
+<collectingDate id="EFE0E986E946FFACFD8C87A090A3068A" box="[579,725,1437,1477]" pageId="13" pageNumber="176" value="1926-05">May 26</collectingDate>
+</date>
+, two moths reared from 
+<specimenCount id="9D1CFD27E946FFACFB7687A09755068A" box="[1209,1315,1437,1477]" pageId="13" pageNumber="176" type="larva">larvae</specimenCount>
+on leaves of 
+<taxonomicName id="4C1A4D2DE946FFACF9E087A090B006B5" authority=", Swezey." authorityName="Swezey." class="Magnoliopsida" family="Fabaceae" genus="Peltophorum" kingdom="Plantae" order="Fabales" pageId="13" pageNumber="176" phylum="Tracheophyta" rank="species" species="inerme">
+<emphasis id="B96EEABCE946FFACF9E087A0905706B5" italics="true" pageId="13" pageNumber="176">
+<location id="8EC56075E946FFACF9E087A09560068A" LSID="urn:lsid:plazi:treatment:03B387B8E946FFACFE50868590B006B5:8EC56075E946FFACF9E087A09560068A" box="[1583,1814,1437,1477]" pageId="13" pageNumber="176">Peltophorum</location>
+inerme,
+</emphasis>
+<collectorName id="26EF5378E946FFACFDF487ED90B706B5" box="[571,705,1488,1530]" pageId="13" pageNumber="176">Swezey</collectorName>
+.
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

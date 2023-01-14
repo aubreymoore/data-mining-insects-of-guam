@@ -1,0 +1,287 @@
+<document id="94EB11F872B9D716CD1B644AA2996281" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5253F444BD0EE80F8C2C7E3" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Nabis capsiformis Germar" docType="treatment" docVersion="21" lastPageNumber="52" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="52" updateTime="1671663334733" updateUser="annettekang">
+<mods:mods id="F9285A532466006438083129F9656638" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="E73886F731D01A29B884F32D1B96298E">
+<mods:title id="A09734E4C6A640317E1DF7E0DBF8B364">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="FFC035441C1641F9549411C65E58D4B5" type="personal">
+<mods:role id="2FFA9081F6A1CB0C8CC3039ACBAE14F5">
+<mods:roleTerm id="E49C5B0EA6BCE5E496041A4AD616757D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="5D39271BCA3071ECD120E42AFF384CBC">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="154336D21F57D7888AFE90149AD5103E">text</mods:typeOfResource>
+<mods:relatedItem id="76FDB2EDF6A2FF47DA846359369702C1" type="host">
+<mods:originInfo id="4AE511BC321B539D5272E1C5675B61DC">
+<mods:dateIssued id="E5D68ADF4DC35EC81526B720FB8EDCFB">1946</mods:dateIssued>
+<mods:dateOther id="499BEC559EFA68C0DD852DDF395DD5B1" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="84B365AFD45D535FFD8502F31EC827A3">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="9F6EE66BC2C0D5112813B2F190DDFC8F">
+<mods:placeTerm id="4DB77CE3B72E1CBE194DF10106AC7F2C">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="6E2CBB44D91FDBC6D546D43F83B815EF">
+<mods:title id="1855887AA349AD3442DA6C88A4EE2CE6">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="9D1AEB121CB2D3935D3DDBEB1A727C42">
+<mods:extent id="65CE4C6446F950EF144BC61C27CA273B" unit="page">
+<mods:start id="0F706AAA29F16F0338CBE3AEAB2D0563">11</mods:start>
+<mods:end id="78F4B0B80009E79E7F28CB00BC00E69A">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="BCB1F2844A1AFFACB84B8D0827D7A832">book chapter</mods:classification>
+<mods:identifier id="36509DB9FC8E1180DDA2987BF4737FFD" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="C7D245F98B0F354A728271FB9490F84B" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="898F14935319F0CC0A603438AC8DB618" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5253F444BD0EE80F8C2C7E3" ID-DOI="http://doi.org/10.5281/zenodo.5186612" ID-GBIF-Taxon="184601104" ID-Zenodo-Dep="5186612" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3" httpUri="http://treatment.plazi.org/id/EC6DA359F5253F444BD0EE80F8C2C7E3" lastPageNumber="52" pageId="41" pageNumber="52">
+<subSubSection id="2CDE41C4F5253F444BD0EE80FC16C37B" box="[432,1010,488,531]" pageId="41" pageNumber="52" type="nomenclature">
+<paragraph id="647B124FF5253F444BD0EE80FC16C37B" blockId="41.[432,1832,488,1675]" box="[432,1010,488,531]" pageId="41" pageNumber="52">
+<heading id="3F33A523F5253F444BD0EE80FC16C37B" box="[432,1010,488,531]" fontSize="8" level="2" pageId="41" pageNumber="52" reason="4">
+<emphasis id="56B0CE5DF5253F444BD0EE80FE06C37B" bold="true" box="[432,482,488,531]" pageId="41" pageNumber="52">44.</emphasis>
+<taxonomicName id="A3C469CCF5253F444865EE80FC08C37B" authority="Germar" authorityName="Germar" box="[517,1004,488,531]" class="Insecta" family="Nabidae" genus="Nabis" kingdom="Animalia" order="Hemiptera" pageId="41" pageNumber="52" phylum="Arthropoda" rank="species" species="capsiformis">
+<emphasis id="56B0CE5DF5253F444865EE80FCAAC37B" bold="true" box="[517,846,488,531]" pageId="41" pageNumber="52">Nabis capsiformis</emphasis>
+<author id="BC79FAAAF5253F444900EE80FC08C37B" box="[864,1004,488,531]" fns="*" inm="true" npo="*" pageId="41" pageNumber="52">Germar</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5253F444E65EE80F977C37B" box="[1029,1683,488,531]" pageId="41" pageNumber="52" type="reference_group">
+<paragraph id="647B124FF5253F444E65EE80F977C37B" blockId="41.[432,1832,488,1675]" box="[1029,1683,488,531]" pageId="41" pageNumber="52">
+<heading id="3F33A523F5253F444E65EE80F977C37B" box="[1029,1683,488,531]" fontSize="8" level="2" pageId="41" pageNumber="52" reason="4">
+<treatmentCitationGroup id="44D43561F5253F444E65EE80F977C37B" box="[1029,1683,488,531]" pageId="41" pageNumber="52">
+<treatmentCitation id="E565345EF5253F444E65EE80F977C37B" author="Germar" box="[1029,1683,488,531]" page="132" pageId="41" pageNumber="52" year="1837">
+<bibCitation id="B1EE1A23F5253F444E65EE80F977C37B" author="Germar" box="[1029,1683,488,531]" journalOrPublisher="Rev. Ent." pageId="41" pageNumber="52" pagination="132" part="5" refId="ref20597" type="journal article" year="1837">
+Sibermann's 
+<journalOrPublisher id="BE051883F5253F444E93EE80FA44C37B" box="[1267,1440,488,531]" pageId="41" pageNumber="52">Rev. Ent.</journalOrPublisher>
+<emphasis id="56B0CE5DF5253F444FD2EE80FA20C37B" bold="true" box="[1458,1476,488,531]" pageId="41" pageNumber="52">
+<part id="1060B8D2F5253F444FD2EE80FA24C37B" box="[1458,1472,488,531]" pageId="41" pageNumber="52" type="volume">5</part>
+:
+</emphasis>
+<pagination id="5D0DECBBF5253F444F87EE80F9C7C37B" box="[1511,1571,488,531]" pageId="41" pageNumber="52" type="pagination">132</pagination>
+, 
+<year id="106C531CF5253F444C5DEE80F96AC37B" box="[1597,1678,488,531]" pageId="41" pageNumber="52">1837</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5253F444B90ED4DF962C2D0" pageId="41" pageNumber="52" type="description">
+<paragraph id="647B124FF5253F444B90ED4DF962C2D0" blockId="41.[432,1832,488,1675]" pageId="41" pageNumber="52">
+<materialsCitation id="D4AC1812F5253F444B90ED4DFBE3C327" ID-GBIF-Occurrence="3994028493" box="[496,1031,549,591]" collectingDate="1936-04-30" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Piti" pageId="41" pageNumber="52" specimenCount="3">
+Piti, 
+<specimenCount id="72C2D9C6F5253F444825ED4DFCB9C327" box="[581,861,549,591]" pageId="41" pageNumber="52" type="generic">three specimens</specimenCount>
+, 
+<date id="107A348FF5253F444911ED4DFBE3C327" box="[881,1031,549,591]" pageId="41" pageNumber="52" value="1930-04">
+<location id="611B4494F5253F444911ED4DFC2BC327" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F444911ED4DFC2BC327" box="[881,975,549,591]" name="April" pageId="41" pageNumber="52">April</location>
+30
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="D4AC1812F5253F444E7AED4DFA26C327" ID-GBIF-Occurrence="3336136393" box="[1050,1474,549,591]" collectingDate="1936-06-20" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="41" pageNumber="52" specimenCount="9">
+<specimenCount id="72C2D9C6F5253F444E7AED4DFAC7C327" box="[1050,1315,549,591]" pageId="41" pageNumber="52" type="generic">nine specimens</specimenCount>
+, 
+<date id="107A348FF5253F444F56ED4DFA26C327" box="[1334,1474,549,591]" pageId="41" pageNumber="52" value="2020-06">
+<location id="611B4494F5253F444F56ED4DFA6DC327" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F444F56ED4DFA6DC327" box="[1334,1417,549,591]" name="June" pageId="41" pageNumber="52">June</location>
+20
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="D4AC1812F5253F444FB5ED4DFD6BC3EB" ID-GBIF-Occurrence="3336136420" collectingDate="1936-06-26" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="41" pageNumber="52" specimenCount="1">
+<specimenCount id="72C2D9C6F5253F444FB5ED4DF924C327" box="[1493,1728,549,591]" pageId="41" pageNumber="52" type="generic">one specimen</specimenCount>
+, 
+<date id="107A348FF5253F444CB2ED4DFE38C3EB" pageId="41" pageNumber="52" value="1926-06">
+<location id="611B4494F5253F444CB2ED4DF8C2C327" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F444CB2ED4DF8C2C327" box="[1746,1830,549,591]" municipality="Usinger" name="June" pageId="41" pageNumber="52">June</location>
+26
+</date>
+, 
+<collectingMunicipality id="841F8835F5253F444B99ED31FD6BC3EB" box="[505,655,601,643]" pageId="41" pageNumber="52">Usinger</collectingMunicipality>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5253F4448CCED31F929C3EB" ID-GBIF-Occurrence="3336136483" box="[684,1741,601,643]" collectingDate="1936-05-03" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Mount Tenjo" pageId="41" pageNumber="52" specimenCount="2">
+<specimenCount id="72C2D9C6F5253F4448CCED31FC52C3EB" box="[684,950,601,643]" pageId="41" pageNumber="52" type="generic">two specimens</specimenCount>
+, 
+<location id="611B4494F5253F4449B4ED31FB71C3EB" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F4449B4ED31FB71C3EB" box="[980,1173,601,643]" municipality="May" name="Mt. Tenjo" pageId="41" pageNumber="52">Mt. Tenjo</location>
+, 
+<date id="107A348FF5253F444ED3ED31FACFC3EB" box="[1203,1323,601,643]" pageId="41" pageNumber="52">
+<collectingMunicipality id="841F8835F5253F444ED3ED31FAE5C3EB" box="[1203,1281,601,643]" pageId="41" pageNumber="52">May</collectingMunicipality>
+3
+</date>
+, Swezey and Usinger
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5253F444C8AED31FB42C3DE" ID-GBIF-Occurrence="3336136470" collectedFrom="on sedges" collectingDate="1936-07-13" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="41" pageNumber="52" specimenCount="1">
+<specimenCount id="72C2D9C6F5253F444C8AED31FDB6C3DE" pageId="41" pageNumber="52" type="generic">one specimen</specimenCount>
+, 
+<location id="611B4494F5253F444808EDE4FD4EC3DE" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F444808EDE4FD4EC3DE" box="[616,682,652,694]" county="Swezey" municipality="July" name="Piti" pageId="41" pageNumber="52">Piti</location>
+, 
+<date id="107A348FF5253F4448A0EDE4FCA6C3DE" box="[704,834,652,694]" pageId="41" pageNumber="52" value="2013-07">
+<collectingMunicipality id="841F8835F5253F4448A0EDE4FCEEC3DE" box="[704,778,652,694]" pageId="41" pageNumber="52">July</collectingMunicipality>
+13
+</date>
+, on sedges, 
+<collectingCounty id="8D1A6AC3F5253F444E7BEDE4FB42C3DE" box="[1051,1190,652,694]" pageId="41" pageNumber="52">Swezey</collectingCounty>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5253F444EDDEDE4FCCBC382" ID-GBIF-Occurrence="3336136339" collectedFrom="on Ipomoea" collectingDate="1936-05-21" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="41" pageNumber="52" specimenCount="1">
+<specimenCount id="72C2D9C6F5253F444EDDEDE4FA4DC3DE" box="[1213,1449,652,694]" pageId="41" pageNumber="52" type="generic">one specimen</specimenCount>
+, 
+<location id="611B4494F5253F444FDFEDE4F965C3DE" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F444FDFEDE4F965C3DE" box="[1471,1665,652,694]" municipality="May" name="Mt. Alifan" pageId="41" pageNumber="52">Mt. Alifan</location>
+, 
+<date id="107A348FF5253F444CF6EDE4F8FAC3DE" box="[1686,1822,652,694]" pageId="41" pageNumber="52" value="2021-05">
+<collectingMunicipality id="841F8835F5253F444CF6EDE4F901C3DE" box="[1686,1765,652,694]" pageId="41" pageNumber="52">May</collectingMunicipality>
+21
+</date>
+, 
+<collectedFrom id="D7D851B2F5253F444BD1EDA8FCCBC382" box="[433,815,704,746]" pageId="41" pageNumber="52">
+on 
+<taxonomicName id="A3C469CCF5253F444B8CEDA8FCCBC382" authority=", Swezey" authorityName="Swezey" box="[492,815,704,746]" class="Magnoliopsida" family="Convolvulaceae" genus="Ipomoea" kingdom="Plantae" order="Solanales" pageId="41" pageNumber="52" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5253F444B8CEDA8FD69C382" box="[492,653,704,746]" italics="true" pageId="41" pageNumber="52">Ipomoea,</emphasis>
+Swezey
+</taxonomicName>
+</collectedFrom>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5253F444929EDA8F92BC382" ID-GBIF-Occurrence="3336136363" box="[841,1743,704,746]" collectedFrom="on Sida" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="41" pageNumber="52" specimenCount="1">
+<specimenCount id="72C2D9C6F5253F444929EDA8FBDFC382" box="[841,1083,704,746]" pageId="41" pageNumber="52" type="generic">one specimen</specimenCount>
+, 
+<location id="611B4494F5253F444E35EDA8FB35C382" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F444E35EDA8FB35C382" box="[1109,1233,704,746]" municipality="Aug." name="Fadian" pageId="41" pageNumber="52">Fadian</location>
+, 
+<date id="107A348FF5253F444E8AEDA8FA9AC382" box="[1258,1406,704,746]" pageId="41" pageNumber="52" value="2019-08">
+<collectingMunicipality id="841F8835F5253F444E8AEDA8FADAC382" box="[1258,1342,704,746]" pageId="41" pageNumber="52">Aug.</collectingMunicipality>
+19
+</date>
+, 
+<collectedFrom id="D7D851B2F5253F444FF9EDA8F92BC382" box="[1433,1743,704,746]" pageId="41" pageNumber="52">
+on 
+<taxonomicName id="A3C469CCF5253F444FB5EDA8F92BC382" authority=", Swezey" authorityName="Swezey" box="[1493,1743,704,746]" class="Magnoliopsida" family="Malvaceae" genus="Sida" kingdom="Plantae" order="Malvales" pageId="41" pageNumber="52" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5253F444FB5EDA8F9C9C382" box="[1493,1581,704,746]" italics="true" pageId="41" pageNumber="52">Sida,</emphasis>
+Swezey
+</taxonomicName>
+</collectedFrom>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5253F444C8AEDA8FACEC275" ID-GBIF-Occurrence="3336136394" collectedFrom="2 miles south of Piti" collectingDate="1936-06-14" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="41" pageNumber="52" specimenCount="1">
+<specimenCount id="72C2D9C6F5253F444C8AEDA8FDB7C275" pageId="41" pageNumber="52" type="generic">one specimen</specimenCount>
+, 
+<quantity id="A33CBFAAF5253F444809ED9AFD00C275" box="[617,740,754,797]" metricMagnitude="3" metricUnit="m" metricValue="3.218688" pageId="41" pageNumber="52" unit="mi" value="2.0">2 miles</quantity>
+south of 
+<location id="611B4494F5253F4449F6ED9AFC3DC275" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F4449F6ED9AFC3DC275" box="[918,985,754,797]" county="Usinger" municipality="June" name="Piti" pageId="41" pageNumber="52">Piti</location>
+, 
+<date id="107A348FF5253F444990ED9AFB99C275" box="[1008,1149,754,797]" pageId="41" pageNumber="52" value="2014-06">
+<collectingMunicipality id="841F8835F5253F444990ED9AFBA7C275" box="[1008,1091,754,797]" pageId="41" pageNumber="52">June</collectingMunicipality>
+14
+</date>
+, 
+<collectingCounty id="8D1A6AC3F5253F444EF4ED9AFACEC275" box="[1172,1322,754,797]" pageId="41" pageNumber="52">Usinger</collectingCounty>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5253F444F21ED9AFC2EC239" ID-GBIF-Occurrence="3336136388" collectingDate="1936-05-05" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Upi Trail" pageId="41" pageNumber="52" specimenCount="3">
+<specimenCount id="72C2D9C6F5253F444F21ED9AF9B8C275" box="[1345,1628,754,797]" pageId="41" pageNumber="52" type="generic">three specimens</specimenCount>
+, 
+<location id="611B4494F5253F444C11ED9AF8FBC275" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F444C11ED9AF8FBC275" box="[1649,1823,754,797]" municipality="May" name="Upi Trail" pageId="41" pageNumber="52">Upi Trail</location>
+, 
+<date id="107A348FF5253F444BD2EC4FFDCFC239" box="[434,555,807,849]" pageId="41" pageNumber="52">
+<collectingMunicipality id="841F8835F5253F444BD2EC4FFDE5C239" box="[434,513,807,849]" pageId="41" pageNumber="52">May</collectingMunicipality>
+5
+</date>
+, Swezey and Usinger
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5253F444985EC4FFCE6C2EC" ID-GBIF-Occurrence="3336136407" collectedFrom="on spiny amaranth" collectingDate="1936-08-06" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="41" pageNumber="52" specimenCount="3">
+<specimenCount id="72C2D9C6F5253F444985EC4FFAE2C239" box="[997,1286,807,849]" pageId="41" pageNumber="52" type="generic">three specimens</specimenCount>
+, 
+<location id="611B4494F5253F444F42EC4FFA3CC239" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F444F42EC4FFA3CC239" box="[1314,1496,807,849]" county="Swezey" municipality="Aug." name="Machanao" pageId="41" pageNumber="52">Machanao</location>
+, 
+<date id="107A348FF5253F444F92EC4FF995C239" box="[1522,1649,807,849]" pageId="41" pageNumber="52">
+<collectingMunicipality id="841F8835F5253F444F92EC4FF9A3C239" box="[1522,1607,807,849]" pageId="41" pageNumber="52">Aug.</collectingMunicipality>
+6
+</date>
+, on spiny amaranth, 
+<collectingCounty id="8D1A6AC3F5253F444816EC32FCE6C2EC" box="[630,770,858,900]" pageId="41" pageNumber="52">Swezey</collectingCounty>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5253F44497FEC32F9F5C2EC" ID-GBIF-Occurrence="3336136381" box="[799,1553,858,900]" collectingDate="1936-05-11" collectorName="R. L. Usinger" country="Guam" location="Dededo" pageId="41" pageNumber="52" specimenCount="1">
+<specimenCount id="72C2D9C6F5253F44497FEC32FBF5C2EC" box="[799,1041,858,900]" pageId="41" pageNumber="52" type="generic">one specimen</specimenCount>
+, 
+<location id="611B4494F5253F444E4CEC32FB50C2EC" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F444E4CEC32FB50C2EC" box="[1068,1204,858,900]" county="Usinger" municipality="May" name="Dededo" pageId="41" pageNumber="52">Dededo</location>
+, 
+<date id="107A348FF5253F444EB0EC32FABAC2EC" box="[1232,1374,858,900]" pageId="41" pageNumber="52" value="2011-05">
+<collectingMunicipality id="841F8835F5253F444EB0EC32FAC4C2EC" box="[1232,1312,858,900]" pageId="41" pageNumber="52">May</collectingMunicipality>
+11
+</date>
+, 
+<collectingCounty id="8D1A6AC3F5253F444F1AEC32F9F5C2EC" box="[1402,1553,858,900]" pageId="41" pageNumber="52">Usinger</collectingCounty>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5253F444C4EEC32FC60C2D0" ID-GBIF-Occurrence="3336136395" collectingDate="1936-08-11" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="41" pageNumber="52" specimenCount="1">
+<specimenCount id="72C2D9C6F5253F444C4EEC32F8C4C2EC" box="[1582,1824,858,900]" pageId="41" pageNumber="52" type="generic">one specimen</specimenCount>
+, 
+<location id="611B4494F5253F444BD2ECE5FDDEC2D0" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F444BD2ECE5FDDEC2D0" box="[434,570,909,952]" county="Swezey" municipality="Aug." name="Dededo" pageId="41" pageNumber="52">Dededo</location>
+, 
+<date id="107A348FF5253F444830ECE5FD3BC2D0" box="[592,735,909,952]" pageId="41" pageNumber="52" value="2011-08">
+<collectingMunicipality id="841F8835F5253F444830ECE5FD40C2D0" box="[592,676,909,952]" pageId="41" pageNumber="52">Aug.</collectingMunicipality>
+11
+</date>
+, 
+<collectingCounty id="8D1A6AC3F5253F444897ECE5FC60C2D0" box="[759,900,909,952]" pageId="41" pageNumber="52">Swezey</collectingCounty>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F5253F4449FBECE5F965C2D0" ID-GBIF-Occurrence="3336136379" box="[923,1665,909,952]" collectingDate="1936-11-18" collectorName="O. H. Swezey" country="Guam" location="Talofofo" pageId="41" pageNumber="52" specimenCount="1">
+<specimenCount id="72C2D9C6F5253F4449FBECE5FB6CC2D0" box="[923,1160,909,952]" pageId="41" pageNumber="52" type="generic">one specimen</specimenCount>
+, 
+<location id="611B4494F5253F444EFDECE5FADBC2D0" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F444EFDECE5FADBC2D0" box="[1181,1343,909,952]" county="Swezey" municipality="Nov." name="Talofofo" pageId="41" pageNumber="52">Talofofo</location>
+, 
+<date id="107A348FF5253F444F35ECE5FA07C2D0" box="[1365,1507,909,952]" pageId="41" pageNumber="52" value="2018-11">
+<collectingMunicipality id="841F8835F5253F444F35ECE5FA4DC2D0" box="[1365,1449,909,952]" pageId="41" pageNumber="52">Nov.</collectingMunicipality>
+18
+</date>
+, 
+<collectingCounty id="8D1A6AC3F5253F444F9AECE5F965C2D0" box="[1530,1665,909,952]" pageId="41" pageNumber="52">Swezey</collectingCounty>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5253F444B90ECACF8C2C7E3" pageId="41" pageNumber="52" type="description">
+<paragraph id="647B124FF5253F444B90ECACFC23C586" blockId="41.[432,1832,488,1675]" pageId="41" pageNumber="52">
+An extremely widespread and apparently variable species. 
+<collectingCountry id="1CD352DFF5253F444C31ECACF95CC286" box="[1617,1720,964,1006]" name="China" pageId="41" pageNumber="52">China</collectingCountry>
+[Ins. 
+<collectingCountry id="1CD352DFF5253F444BD3EC9FFDC3C549" box="[435,551,1015,1057]" name="Samoa" pageId="41" pageNumber="52">Samoa</collectingCountry>
+2(3): 157, 1930] notes differences between typical Mediterranean and South African specimens and those from Pacific islands. He also finds that &quot;the hind femur and the second antenna! segment in the Samoan specimens are distinctly longer than in Hawaiian specimens, although the shape of the male parameres is the same.&quot;
+</paragraph>
+<paragraph id="647B124FF5253F444B91EB90F8C2C7E3" blockId="41.[432,1832,488,1675]" pageId="41" pageNumber="52">
+The 
+<collectingCountry id="1CD352DFF5253F44482BEB90FD50C44C" box="[587,692,1272,1316]" name="Guam" pageId="41" pageNumber="52">Guam</collectingCountry>
+specimens are of 
+<specimenCount id="72C2D9C6F5253F444E74EB90FB2EC44C" box="[1044,1226,1272,1316]" pageId="41" pageNumber="52" type="generic" typeStatus="types">two types</specimenCount>
+, those from 
+<location id="611B4494F5253F444FA4EB90F9E2C44C" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F444FA4EB90F9E2C44C" box="[1476,1542,1272,1316]" country="Guam" county="Pacific" municipality="These" name="Piti" pageId="41" pageNumber="52">Piti</location>
+and 
+<location id="611B4494F5253F444C0CEB90F8C3C44C" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F444C0CEB90F8C3C44C" box="[1644,1831,1272,1316]" country="Guam" county="Pacific" municipality="These" name="Mt. Tenjo" pageId="41" pageNumber="52">Mt. Tenjo</location>
+being pale in color with relatively feebly sinuate subbasal angle of male genital clasper, whereas those from 
+<location id="611B4494F5253F444E09EA37FAC5C4E2" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F444E09EA37FAC5C4E2" box="[1129,1313,1375,1418]" country="Guam" county="Pacific" municipality="These" name="Upi Trail" pageId="41" pageNumber="52">Upi Trail</location>
+, 
+<location id="611B4494F5253F444F5EEA37FA1FC4E2" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F444F5EEA37FA1FC4E2" box="[1342,1531,1375,1418]" country="Guam" county="Pacific" municipality="These" name="Machanao" pageId="41" pageNumber="52">Machanao</location>
+, 
+<location id="611B4494F5253F444C78EA37F947C4E2" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F444C78EA37F947C4E2" box="[1560,1699,1375,1418]" country="Guam" county="Pacific" municipality="These" name="Dededo" pageId="41" pageNumber="52">Dededo</location>
+, and 
+<quantity id="A33CBFAAF5253F444D74EA37FDEBC4D5" metricMagnitude="3" metricUnit="m" metricValue="3.218688" pageId="41" pageNumber="52" unit="mi" value="2.0">2 miles</quantity>
+south of 
+<location id="611B4494F5253F4448B1EAFBFCF6C4D5" LSID="urn:lsid:plazi:treatment:EC6DA359F5253F444BD0EE80F8C2C7E3:611B4494F5253F4448B1EAFBFCF6C4D5" box="[721,786,1427,1469]" country="Guam" county="Pacific" municipality="These" name="Piti" pageId="41" pageNumber="52">Piti</location>
+are darker in color and have the male genital claspers strongly sinuate subbasally. 
+<collectingMunicipality id="841F8835F5253F4449ABEAAEFBD3C499" box="[971,1079,1478,1521]" pageId="41" pageNumber="52">These</collectingMunicipality>
+differences seem to fall within the limits of variation when compared with hundreds of specimens from nearly all of the principal island groups of the mid 
+<collectingCounty id="8D1A6AC3F5253F444E1BE946FB10C730" box="[1147,1268,1582,1624]" pageId="41" pageNumber="52">Pacific</collectingCounty>
+, but the presence of these two fairly distinct 
+<typeStatus id="BB7FACEDF5253F4448A0E909FCFAC7E3" box="[704,798,1633,1675]" pageId="41" pageNumber="52">types</typeStatus>
+on the single island of 
+<collectingCountry id="1CD352DFF5253F444E89E909FAB6C7E3" box="[1257,1362,1633,1675]" name="Guam" pageId="41" pageNumber="52">Guam</collectingCountry>
+is difficult to understand.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

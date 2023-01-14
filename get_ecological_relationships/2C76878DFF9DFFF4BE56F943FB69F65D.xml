@@ -1,0 +1,264 @@
+<document id="3A49071BFDBBAECDC402ADDFCCFAF3F2" ID-DOI="http://doi.org/10.5281/zenodo.5160233" ID-GBIF-Dataset="16f6ef92-619b-417b-946c-22d9b1445e7d" ID-Zenodo-Dep="5160233" checkinTime="1628022546680" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="2C76878DFF9DFFF4BE56F943FB69F65D" docLanguage="en" docName="InsectsOfGuamII.189.3-8.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Aiolopus tamulus" docType="treatment" docVersion="15" lastPageNumber="3" masterDocId="D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8" masterDocTitle="Orthoptera And Related Orders Orthoptera And Related Orders Of Guam" masterLastPageNumber="8" masterPageNumber="3" pageNumber="3" updateTime="1657803925581" updateUser="annettekang">
+<mods:mods id="B5D819DB87F294E66241628A6456971A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B20CBFA579948B1FF1190E55B572769D">
+<mods:title id="E31D7A97EFE4E763362C5BF5934011E7">Orthoptera And Related Orders Orthoptera And Related Orders Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="57BA52ACC82EA437EFD923D25403053C" type="personal">
+<mods:role id="C8A336CD0B09C0B5A69D2000307C67AA">
+<mods:roleTerm id="CD677AEB9262CC765B87D4DAF9C2264E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="D42D5F22668ED37C9EC910EAE41078A0">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="C6CD433DD4E7878729C65204CF4086C9">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="9B90891F50B51554702570CF27C9C033">text</mods:typeOfResource>
+<mods:relatedItem id="AC672FD9C56A8DBBBBB92F0A355C2DD0" type="host">
+<mods:originInfo id="9370E0751F652BB54F58A8566E9C40D9">
+<mods:dateIssued id="780E7CCD76D209ABBCEC3055336F3BF2">1946</mods:dateIssued>
+<mods:dateOther id="2BFE3FE5765909A41359DC5A21EA59FD" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="341926A54DA3CD32C8FBD20313E44305">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="DCBDA6EBBDFB9B334FE1777FB5A23506">
+<mods:placeTerm id="C604B24D9585FABF1104CD51902F838E">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="E847A1103BD99BE2241C8CC55452B665">
+<mods:title id="ED97E91EC8F1DFF779D821892D2F9CC5">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="E11D73FE7DC6F4C456983803E4121FC9">
+<mods:extent id="A199FE2B5C02FEA9EBF0655BA8E87C27" unit="page">
+<mods:start id="3871293A089D3F849786615F655AD053">3</mods:start>
+<mods:end id="32FCD1B41B65811CCE2B65AC9AAC999C">8</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="6000C8997BA34B38022F88BCECB6CFEE">book chapter</mods:classification>
+<mods:identifier id="DF9647DC707796AEE44B56DAA6A6CD37" type="DOI">http://doi.org/10.5281/zenodo.5160233</mods:identifier>
+<mods:identifier id="47E3586C9996C00E36B77E0DB86512B2" type="GBIF-Dataset">16f6ef92-619b-417b-946c-22d9b1445e7d</mods:identifier>
+<mods:identifier id="BD58E7841B7D75C30A361D73E5C34B82" type="Zenodo-Dep">5160233</mods:identifier>
+</mods:mods>
+<treatment id="2C76878DFF9DFFF4BE56F943FB69F65D" ID-DOI="http://doi.org/10.5281/zenodo.5158978" ID-GBIF-Taxon="183924955" ID-Zenodo-Dep="5158978" LSID="urn:lsid:plazi:treatment:2C76878DFF9DFFF4BE56F943FB69F65D" httpUri="http://treatment.plazi.org/id/2C76878DFF9DFFF4BE56F943FB69F65D" lastPageNumber="3" pageId="0" pageNumber="3">
+<subSubSection id="ECC56510FF9DFFF4BE56F943FC0CF8CD" box="[318,951,1769,1813]" pageId="0" pageNumber="3" type="nomenclature">
+<paragraph id="A460369BFF9DFFF4BE56F943FC0CF8CD" blockId="0.[317,1714,1769,2498]" box="[318,951,1769,1813]" pageId="0" pageNumber="3">
+<heading id="FF2881F7FF9DFFF4BE56F943FC0CF8CD" box="[318,951,1769,1813]" fontSize="11" level="2" pageId="0" pageNumber="3" reason="2">
+<emphasis id="96ABEA89FF9DFFF4BE56F943FEE0F8CD" bold="true" box="[318,347,1769,1813]" pageId="0" pageNumber="3">2.</emphasis>
+<taxonomicName id="63DF4D18FF9DFFF4BEE2F943FC0AF8CD" authority="(Fabricius)" baseAuthorityName="Fabricius" baseAuthorityYear="1798" box="[394,945,1769,1813]" class="Insecta" family="Baissogryllidae" genus="Aiolopus" kingdom="Animalia" order="Orthoptera" pageId="0" pageNumber="3" phylum="Arthropoda" rank="species" species="tamulus">
+<emphasis id="96ABEA89FF9DFFF4BEE2F943FD72F8CD" bold="true" box="[394,713,1769,1813]" pageId="0" pageNumber="3">Aiolopus tamulus</emphasis>
+(Fabricius)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9DFFF4BE17F88FFACBF85B" pageId="0" pageNumber="3" type="reference_group">
+<paragraph id="A460369BFF9DFFF4BE17F88FFACAF888" blockId="0.[317,1714,1769,2498]" box="[383,1393,1829,1872]" pageId="0" pageNumber="3">
+<bibCitation id="71F53EF7FF9DFFF4BE17F88FFACAF888" author="Fabricius" box="[383,1393,1829,1872]" journalOrPublisher="Ent. Syst., Suppl" pageId="0" pageNumber="3" pagination="195" refId="ref196" type="book" year="1798">
+<treatmentCitationGroup id="84CF11B5FF9DFFF4BE17F88FFAD7F888" box="[383,1388,1829,1872]" pageId="0" pageNumber="3">
+<treatmentCitation id="257E108AFF9DFFF4BE17F88FFAD7F888" author="Fabricius" box="[383,1388,1829,1872]" page="195" pageId="0" pageNumber="3" year="1798">
+<emphasis id="96ABEA89FF9DFFF4BE17F88FFD21F888" box="[383,666,1829,1872]" italics="true" pageId="0" pageNumber="3">Gryllus tamulus</emphasis>
+<author id="7C62DE7EFF9DFFF4BDC2F88FFCE9F888" box="[682,850,1829,1872]" pageId="0" pageNumber="3">Fabricius</author>
+, 
+<journalOrPublisher id="7E1E3C57FF9DFFF4BC01F88FFB19F888" box="[873,1186,1829,1872]" pageId="0" pageNumber="3">Ent. Syst., Suppl</journalOrPublisher>
+., 
+<pagination id="9D16C86FFF9DFFF4BBA9F88FFB44F888" box="[1217,1279,1829,1872]" pageId="0" pageNumber="3">195</pagination>
+, 
+<year id="D07777C8FF9DFFF4BA71F88FFAD7F888" box="[1305,1388,1829,1872]" pageId="0" pageNumber="3">1798</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+<paragraph id="A460369BFF9DFFF4BE15F8F2FACBF85B" blockId="0.[317,1714,1769,2498]" box="[381,1392,1880,1923]" pageId="0" pageNumber="3">
+<bibCitation id="71F53EF7FF9DFFF4BE15F8F2FACBF85B" author="Chopard" box="[381,1392,1880,1923]" journalOrPublisher="Ins. Samoa" pageId="0" pageNumber="3" pagination="56" part="1" refId="ref212" type="journal article" year="1929">
+<treatmentCitationGroup id="84CF11B5FF9DFFF4BE15F8F2FAD0F85B" box="[381,1387,1880,1923]" pageId="0" pageNumber="3">
+<treatmentCitation id="257E108AFF9DFFF4BE15F8F2FAD0F85B" author="Chopard" box="[381,1387,1880,1923]" page="56" pageId="0" pageNumber="3" year="1929">
+<emphasis id="96ABEA89FF9DFFF4BE15F8F2FD05F85B" box="[381,702,1880,1923]" italics="true" pageId="0" pageNumber="3">Aiolopus tamulus,</emphasis>
+<author id="7C62DE7EFF9DFFF4BDB9F8F2FCD1F85B" box="[721,874,1880,1923]" pageId="0" pageNumber="3">Chopard</author>
+, 
+<journalOrPublisher id="7E1E3C57FF9DFFF4BCEBF8F2FBF7F85B" box="[899,1100,1880,1923]" pageId="0" pageNumber="3">
+Ins. 
+<collectingCountry id="DCC8760BFF9DFFF4BCBFF8F2FBF7F85B" box="[983,1100,1880,1923]" name="Samoa" pageId="0" pageNumber="3">Samoa</collectingCountry>
+</journalOrPublisher>
+<emphasis id="96ABEA89FF9DFFF4BB36F8F2FBD7F85B" bold="true" box="[1118,1132,1880,1923]" pageId="0" pageNumber="3">
+<part id="D07B9C06FF9DFFF4BB36F8F2FBD7F85B" box="[1118,1132,1880,1923]" pageId="0" pageNumber="3" type="volume">1</part>
+</emphasis>
+(
+<part id="D07B9C06FF9DFFF4BBEDF8F2FB25F85B" box="[1157,1182,1880,1923]" pageId="0" pageNumber="3" type="issue">2</part>
+): 
+<pagination id="9D16C86FFF9DFFF4BBBFF8F2FB46F85B" box="[1239,1277,1880,1923]" pageId="0" pageNumber="3" type="pagination">56</pagination>
+, 
+<year id="D07777C8FF9DFFF4BA7FF8F2FAD0F85B" box="[1303,1387,1880,1923]" pageId="0" pageNumber="3">1929</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9DFFF4BE14F826FD5DF760" pageId="0" pageNumber="3" type="materials_examined">
+<paragraph id="A460369BFF9DFFF4BE14F826FD5DF760" blockId="0.[317,1714,1769,2498]" pageId="0" pageNumber="3">
+<materialsCitation id="14B73CC6FF9DFFF4BE14F826FC37F86F" ID-GBIF-Occurrence="3441224370" box="[380,908,1932,1975]" collectingDate="1936-03-28" collectorName="E. H. Bryan" country="Guam" location="Agfayan" pageId="0" pageNumber="3">
+<location id="A1006040FF9DFFF4BE14F826FDA5F86F" LSID="urn:lsid:plazi:treatment:2C76878DFF9DFFF4BE56F943FB69F65D:A1006040FF9DFFF4BE14F826FDA5F86F" box="[380,542,1932,1975]" name="Agfayan" pageId="0" pageNumber="3">Agfayan</location>
+, 
+<date id="D061105BFF9DFFF4BD55F826FD4FF86F" box="[573,756,1932,1975]" pageId="0" pageNumber="3" value="1928-03">
+<collectingDate id="C025E9B3FF9DFFF4BD55F826FD4FF86F" box="[573,756,1932,1975]" pageId="0" pageNumber="3" value="1928-03">March 28</collectingDate>
+</date>
+, 
+<collectorName id="092A534DFF9DFFF4BC7AF826FC37F86F" box="[786,908,1932,1975]" pageId="0" pageNumber="3">Bryan</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9DFFF4BCC2F826F9B6F86F" box="[938,1549,1932,1975]" collectingDate="1936-04-15" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="0" pageNumber="3">
+<location id="A1006040FF9DFFF4BCC2F826FB03F86F" LSID="urn:lsid:plazi:treatment:2C76878DFF9DFFF4BE56F943FB69F65D:A1006040FF9DFFF4BCC2F826FB03F86F" box="[938,1208,1932,1975]" name="Ritidian Point" pageId="0" pageNumber="3">Ritidian Point</location>
+, 
+<date id="D061105BFF9DFFF4BBBDF826FACDF86F" box="[1237,1398,1932,1975]" pageId="0" pageNumber="3" value="2015-04">
+<collectingDate id="C025E9B3FF9DFFF4BBBDF826FACDF86F" box="[1237,1398,1932,1975]" pageId="0" pageNumber="3" value="2015-04">April 15</collectingDate>
+</date>
+, 
+<collectorName id="092A534DFF9DFFF4BAFDF826F9B6F86F" box="[1429,1549,1932,1975]" pageId="0" pageNumber="3">Bryan</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9DFFF4B943F826FDE4F833" ID-GBIF-Occurrence="3441224323" collectingDate="1936-04-24" collectorName="E. H. Bryan" country="Guam" location="Merizo" pageId="0" pageNumber="3">
+<location id="A1006040FF9DFFF4B943F826F917F86F" LSID="urn:lsid:plazi:treatment:2C76878DFF9DFFF4BE56F943FB69F65D:A1006040FF9DFFF4B943F826F917F86F" box="[1579,1708,1932,1975]" name="Merizo" pageId="0" pageNumber="3">Merizo</location>
+, 
+<date id="D061105BFF9DFFF4BE56F815FE6FF833" box="[318,468,1983,2027]" pageId="0" pageNumber="3" value="1924-04">
+<collectingDate id="C025E9B3FF9DFFF4BE56F815FE6FF833" box="[318,468,1983,2027]" pageId="0" pageNumber="3" value="1924-04">April 24</collectingDate>
+</date>
+, 
+<collectorName id="092A534DFF9DFFF4BE81F815FDE4F833" box="[489,607,1983,2027]" pageId="0" pageNumber="3">Bryan</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9DFFF4BD1EF815FBBEF833" ID-GBIF-Occurrence="3441224328" box="[630,1029,1983,2027]" collectingDate="1936-03-28" collectorName="E. H. Bryan" country="Guam" location="Piti" pageId="0" pageNumber="3">
+<collectingMunicipality id="4404ACE1FF9DFFF4BD1EF815FD03F833" box="[630,696,1983,2027]" pageId="0" pageNumber="3">Piti</collectingMunicipality>
+, 
+<date id="D061105BFF9DFFF4BDA6F815FCC2F833" box="[718,889,1983,2027]" pageId="0" pageNumber="3" value="1928-03">
+<collectingDate id="C025E9B3FF9DFFF4BDA6F815FCC2F833" box="[718,889,1983,2027]" pageId="0" pageNumber="3" value="1928-03">March 28</collectingDate>
+</date>
+, 
+<collectorName id="092A534DFF9DFFF4BCF8F815FC45F833" box="[912,1022,1983,2027]" pageId="0" pageNumber="3">Bryan</collectorName>
+,
+</materialsCitation>
+<materialsCitation id="14B73CC6FF9DFFF4BB79F815FA90F833" ID-GBIF-Occurrence="3441224408" box="[1041,1323,1983,2027]" collectingDate="1936-06-01" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="0" pageNumber="3">
+<date id="D061105BFF9DFFF4BB79F815FB3FF833" box="[1041,1156,1983,2027]" pageId="0" pageNumber="3">
+<collectingDate id="C025E9B3FF9DFFF4BB79F815FB3FF833" box="[1041,1156,1983,2027]" pageId="0" pageNumber="3">
+June 
+<emphasis id="96ABEA89FF9DFFF4BB1BF815FB36F833" bold="true" box="[1139,1165,1983,2027]" pageId="0" pageNumber="3">1,</emphasis>
+</collectingDate>
+</date>
+<location id="A1006040FF9DFFF4BBF3F815FA90F833" LSID="urn:lsid:plazi:treatment:2C76878DFF9DFFF4BE56F943FB69F65D:A1006040FF9DFFF4BBF3F815FA90F833" box="[1179,1323,1983,2027]" name="Usinger" pageId="0" pageNumber="3">Usinger</location>
+</materialsCitation>
+, 
+<materialsCitation id="14B73CC6FF9DFFF4BA57F815FA7DF833" ID-GBIF-Occurrence="3441224330" box="[1343,1478,1983,2027]" collectingDate="1936-05-28" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="3">
+<date id="D061105BFF9DFFF4BA57F815FA7DF833" box="[1343,1478,1983,2027]" pageId="0" pageNumber="3" value="1928-05">
+<collectingDate id="C025E9B3FF9DFFF4BA57F815FA7DF833" box="[1343,1478,1983,2027]" pageId="0" pageNumber="3" value="1928-05">May 28</collectingDate>
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="14B73CC6FF9DFFF4BAB1F815F9FCF833" ID-GBIF-Occurrence="3441224320" box="[1497,1607,1983,2027]" collectingDate="1936-07-05" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="3">
+<date id="D061105BFF9DFFF4BAB1F815F9FCF833" box="[1497,1607,1983,2027]" pageId="0" pageNumber="3">
+<collectingDate id="C025E9B3FF9DFFF4BAB1F815F9FCF833" box="[1497,1607,1983,2027]" pageId="0" pageNumber="3">July 5</collectingDate>
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="14B73CC6FF9DFFF4B934F815FED2F7C6" ID-GBIF-Occurrence="3441224349" collectingDate="1936-08-10" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="3">
+<date id="D061105BFF9DFFF4B934F815FED2F7C6" pageId="0" pageNumber="3" value="2010-08">
+<collectingDate id="C025E9B3FF9DFFF4B934F815FED2F7C6" pageId="0" pageNumber="3" value="2010-08">Aug. 10</collectingDate>
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="14B73CC6FF9DFFF4BEEBF858FD0AF7C6" ID-GBIF-Occurrence="3441224404" box="[387,689,2034,2078]" collectingDate="1936-10-14" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="0" pageNumber="3">
+<date id="D061105BFF9DFFF4BEEBF858FDB0F7C6" box="[387,523,2034,2078]" pageId="0" pageNumber="3" value="2014-10">
+<collectingDate id="C025E9B3FF9DFFF4BEEBF858FDB0F7C6" box="[387,523,2034,2078]" pageId="0" pageNumber="3" value="2014-10">Oct. 14</collectingDate>
+</date>
+, 
+<collectorName id="092A534DFF9DFFF4BD4CF858FD0AF7C6" box="[548,689,2034,2078]" pageId="0" pageNumber="3">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9DFFF4BDA2F858FB17F7C6" ID-GBIF-Occurrence="3441224401" box="[714,1196,2034,2078]" collectingDate="1936-05-28" collectorName="R. L. Usinger" country="Guam" location="Umatac" pageId="0" pageNumber="3">
+<collectingMunicipality id="4404ACE1FF9DFFF4BDA2F858FCE3F7C6" box="[714,856,2034,2078]" pageId="0" pageNumber="3">Umatac</collectingMunicipality>
+, 
+<date id="D061105BFF9DFFF4BC18F858FC47F7C6" box="[880,1020,2034,2078]" pageId="0" pageNumber="3" value="1928-05">
+<collectingDate id="C025E9B3FF9DFFF4BC18F858FC47F7C6" box="[880,1020,2034,2078]" pageId="0" pageNumber="3" value="1928-05">May 28</collectingDate>
+</date>
+, 
+<location id="A1006040FF9DFFF4BB7CF858FB17F7C6" LSID="urn:lsid:plazi:treatment:2C76878DFF9DFFF4BE56F943FB69F65D:A1006040FF9DFFF4BB7CF858FB17F7C6" box="[1044,1196,2034,2078]" municipality="Umatac" name="Usinger" pageId="0" pageNumber="3">Usinger</location>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9DFFF4BBACF858F910F7C6" ID-GBIF-Occurrence="3441224369" box="[1220,1707,2034,2078]" collectingDate="1936-05-05" collectorName="O. H. Swezey" country="Guam" location="Upi Trail" pageId="0" pageNumber="3">
+<collectingMunicipality id="4404ACE1FF9DFFF4BBACF858FAC8F7C6" box="[1220,1395,2034,2078]" pageId="0" pageNumber="3">Upi Trail</collectingMunicipality>
+, 
+<date id="D061105BFF9DFFF4BAE4F858F9B8F7C6" box="[1420,1539,2034,2078]" pageId="0" pageNumber="3">
+<collectingDate id="C025E9B3FF9DFFF4BAE4F858F9B8F7C6" box="[1420,1539,2034,2078]" pageId="0" pageNumber="3">May 5</collectingDate>
+</date>
+, 
+<collectorName id="092A534DFF9DFFF4B976F858F910F7C6" box="[1566,1707,2034,2078]" pageId="0" pageNumber="3">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9DFFF4BE57F78DFC01F789" ID-GBIF-Occurrence="3441224308" box="[319,954,2087,2129]" collectedFrom="on rice" collectingDate="1936-05-14" collectorName="O. H. Swezey" country="Guam" location="Inarajan" pageId="0" pageNumber="3">
+<location id="A1006040FF9DFFF4BE57F78DFE61F789" LSID="urn:lsid:plazi:treatment:2C76878DFF9DFFF4BE56F943FB69F65D:A1006040FF9DFFF4BE57F78DFE61F789" box="[319,474,2087,2129]" name="Inarajan" pageId="0" pageNumber="3">Inarajan</location>
+, 
+<date id="D061105BFF9DFFF4BE9CF78DFDC4F789" box="[500,639,2087,2129]" pageId="0" pageNumber="3" value="2014-05">
+<collectingDate id="C025E9B3FF9DFFF4BE9CF78DFDC4F789" box="[500,639,2087,2129]" pageId="0" pageNumber="3" value="2014-05">May 14</collectingDate>
+</date>
+, on rice, 
+<collectorName id="092A534DFF9DFFF4BC45F78DFC01F789" box="[813,954,2087,2129]" pageId="0" pageNumber="3">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9DFFF4BCBCF78DF911F789" ID-GBIF-Occurrence="3441224348" box="[980,1706,2087,2129]" collectedFrom="on tobacco" collectingDate="1936-06-30" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="0" pageNumber="3">
+<location id="A1006040FF9DFFF4BCBCF78DFB31F789" LSID="urn:lsid:plazi:treatment:2C76878DFF9DFFF4BE56F943FB69F65D:A1006040FF9DFFF4BCBCF78DFB31F789" box="[980,1162,2087,2129]" name="Machanao" pageId="0" pageNumber="3">Machanao</location>
+, 
+<date id="D061105BFF9DFFF4BBF7F78DFA95F789" box="[1183,1326,2087,2129]" pageId="0" pageNumber="3" value="1930-06">
+<collectingDate id="C025E9B3FF9DFFF4BBF7F78DFA95F789" box="[1183,1326,2087,2129]" pageId="0" pageNumber="3" value="1930-06">June 30</collectingDate>
+</date>
+, on tobacco, 
+<collectorName id="092A534DFF9DFFF4B975F78DF911F789" box="[1565,1706,2087,2129]" pageId="0" pageNumber="3">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9DFFF4BE57F7F0FD46F75C" ID-GBIF-Occurrence="3441224309" box="[319,765,2138,2180]" collectingDate="1936-07-19" collectorName="O. H. Swezey" country="Guam" location="Orote Peninsula" pageId="0" pageNumber="3">
+<location id="A1006040FF9DFFF4BE57F7F0FE1CF75C" LSID="urn:lsid:plazi:treatment:2C76878DFF9DFFF4BE56F943FB69F65D:A1006040FF9DFFF4BE57F7F0FE1CF75C" box="[319,423,2138,2180]" name="Orote" pageId="0" pageNumber="3">Orote</location>
+, 
+<date id="D061105BFF9DFFF4BEACF7F0FDEAF75C" box="[452,593,2138,2180]" pageId="0" pageNumber="3" value="2019-07">
+<collectingDate id="C025E9B3FF9DFFF4BEACF7F0FDEAF75C" box="[452,593,2138,2180]" pageId="0" pageNumber="3" value="2019-07">July 19</collectingDate>
+</date>
+, 
+<collectorName id="092A534DFF9DFFF4BD19F7F0FD46F75C" box="[625,765,2138,2180]" pageId="0" pageNumber="3">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9DFFF4BC74F7F0F911F75C" ID-GBIF-Occurrence="3441224389" box="[796,1706,2138,2180]" collectedFrom="on rice seedling plot" collectingDate="1936-09-03" collectorName="O. H. Swezey" country="Guam" location="Atantano" pageId="0" pageNumber="3">
+<location id="A1006040FF9DFFF4BC74F7F0FC78F75C" LSID="urn:lsid:plazi:treatment:2C76878DFF9DFFF4BE56F943FB69F65D:A1006040FF9DFFF4BC74F7F0FC78F75C" box="[796,963,2138,2180]" name="Atantano" pageId="0" pageNumber="3">Atantano</location>
+, 
+<date id="D061105BFF9DFFF4BC89F7F0FBDEF75C" box="[993,1125,2138,2180]" pageId="0" pageNumber="3">
+<collectingDate id="C025E9B3FF9DFFF4BC89F7F0FBDEF75C" box="[993,1125,2138,2180]" pageId="0" pageNumber="3">Sept. 3</collectingDate>
+</date>
+, on rice seedling plot, 
+<collectorName id="092A534DFF9DFFF4B975F7F0F911F75C" box="[1565,1706,2138,2180]" pageId="0" pageNumber="3">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="14B73CC6FF9DFFF4BE56F724FD5AF760" ID-GBIF-Occurrence="3441224402" box="[318,737,2190,2232]" collectingDate="1936-10-02" collectorName="O. H. Swezey" country="Guam" location="Merizo" pageId="0" pageNumber="3">
+<collectingMunicipality id="4404ACE1FF9DFFF4BE56F724FE05F760" box="[318,446,2190,2232]" pageId="0" pageNumber="3">Merizo</collectingMunicipality>
+, 
+<date id="D061105BFF9DFFF4BEBAF724FDF9F760" box="[466,578,2190,2232]" pageId="0" pageNumber="3">
+<collectingDate id="C025E9B3FF9DFFF4BEBAF724FDF9F760" box="[466,578,2190,2232]" pageId="0" pageNumber="3">Oct. 2</collectingDate>
+</date>
+, 
+<collectorName id="092A534DFF9DFFF4BD31F724FD5AF760" box="[601,737,2190,2232]" pageId="0" pageNumber="3">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9DFFF4BE14F76BFB3CF688" pageId="0" pageNumber="3" type="distribution">
+<paragraph id="A460369BFF9DFFF4BE14F76BFB3CF688" blockId="0.[317,1714,1769,2498]" pageId="0" pageNumber="3">
+A small grasshopper which is widely distributed from 
+<collectingCountry id="DCC8760BFF9DFFF4BA35F76BFA02F733" box="[1373,1465,2241,2283]" name="India" pageId="0" pageNumber="3">India</collectingCountry>
+and 
+<collectingCountry id="DCC8760BFF9DFFF4B971F76BF93BF733" box="[1561,1664,2241,2283]" name="Japan" pageId="0" pageNumber="3">Japan</collectingCountry>
+to 
+<collectingCountry id="DCC8760BFF9DFFF4BE56F75EFE59F6C6" box="[318,482,2292,2334]" name="Australia" pageId="0" pageNumber="3">Australia</collectingCountry>
+and 
+<collectingCountry id="DCC8760BFF9DFFF4BD20F75EFD7BF6C6" box="[584,704,2292,2334]" name="Samoa" pageId="0" pageNumber="3">Samoa</collectingCountry>
+, and now recorded in 
+<collectingCountry id="DCC8760BFF9DFFF4BB0FF75EFB75F6C6" box="[1127,1230,2292,2334]" name="Guam" pageId="0" pageNumber="3">Guam</collectingCountry>
+for the first time. It was common to abundant everywhere in grasslands.
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9DFFF4BE14F6F1FB69F65D" box="[380,1234,2395,2437]" pageId="0" pageNumber="3" type="discussion">
+<paragraph id="A460369BFF9DFFF4BE14F6F1FB69F65D" blockId="0.[317,1714,1769,2498]" box="[380,1234,2395,2437]" pageId="0" pageNumber="3">This species was determined by F. X. Williams.</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,63 @@
+<document id="2F2F3D5A1C9F55FEE88F8A46D76F35CA" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF919FFF8FE27F72CFCA0172E" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pinnaspis" docType="treatment" docVersion="13" lastPageNumber="160" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="160" updateTime="1663083075184" updateUser="annettekang">
+<mods:mods id="6BAEE20F475C0BA0FBAFEE618B845206" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B12F66EF15B68AE274DBD1A4BBF535A2">
+<mods:title id="6E4D054C137C96D093EFAA0374EEEBE5">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="82481B2F34B2648562C5744FF1C980C2" type="personal">
+<mods:role id="347B8F81BADA2FAEC06621D3EAF5BBE5">
+<mods:roleTerm id="6EB97142680091D7E048D1FFA22B9ED8">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="EDDCD7B3C0232D7A93F712BD95AF0CEF">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="74211CABCBEBA31051EC6939599A7CBB">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="2911C56C89C19396D07E141B347CF42F">text</mods:typeOfResource>
+<mods:relatedItem id="3B26D1BAFCB5A947381F4F88C2CCD9D1" type="host">
+<mods:originInfo id="875CB40692CE3C856452626E12F25682">
+<mods:dateIssued id="835EE8EE6EA23022671A63E561DC1CCC">1946</mods:dateIssued>
+<mods:dateOther id="E70DFF69FA690D8B86C4F6BADE796BBD" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="9A7BE6530CD63E953A463055A0870CB6">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="3DAE7F41D26D7FD23CA97FA54D80DCC5">
+<mods:placeTerm id="37B9C9CAA0264BBDAC24AFBDBCA32B58">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9AF975A4CE910C2C4DE711414960D97D">
+<mods:title id="54974D4FBEC754C47BBD6CE769A7ADEB">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="0D8BB62B34E54668F501A08C8BD9C386">
+<mods:extent id="DBCC762A45DC80E2C891AFBC36625127" unit="page">
+<mods:start id="62620A8530BEB538D1AF9FA1E13B4AD3">157</mods:start>
+<mods:end id="47881E1D9DF4006ECE0DADB407D485A3">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F8191979E8F6B3ADE76F4FAA802F1914">book chapter</mods:classification>
+<mods:identifier id="87ED597F4B611405A788F2783A28B181" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="1EE9555DFA9FE949B1289D70282968F0" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="CADCDF4A8B7568C145BC75B738D7847E" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF919FFF8FE27F72CFCA0172E" ID-DOI="http://doi.org/10.5281/zenodo.5158146" ID-GBIF-Taxon="183925155" ID-Zenodo-Dep="5158146" LSID="urn:lsid:plazi:treatment:F03E87AAF919FFF8FE27F72CFCA0172E" httpUri="http://treatment.plazi.org/id/F03E87AAF919FFF8FE27F72CFCA0172E" lastPageNumber="160" pageId="3" pageNumber="160">
+<subSubSection id="308D6537F919FFF8FE27F72CFC8516E3" box="[421,833,2226,2269]" pageId="3" pageNumber="160" type="nomenclature">
+<paragraph id="782836BCF919FFF8FE27F72CFC8516E3" blockId="3.[421,868,2226,2320]" box="[421,833,2226,2269]" pageId="3" pageNumber="160">
+<heading id="236081D0F919FFF8FE27F72CFC8516E3" box="[421,833,2226,2269]" centered="true" fontSize="8" level="2" pageId="3" pageNumber="160" reason="4">
+<emphasis id="4AE3EAAEF919FFF8FE27F72CFD6C16E3" bold="true" box="[421,680,2226,2269]" pageId="3" pageNumber="160">
+43. 
+<taxonomicName id="BF974D3FF919FFF8FE7BF72CFD6C16E3" authority="Cockerell, 1892" box="[505,680,2226,2269]" class="Insecta" family="Coccidae" genus="Pinnaspis" higherTaxonomySource="CoL" kingdom="Animalia" order="Hemiptera" pageId="3" pageNumber="160" phylum="Arthropoda" rank="genus">Pinnaspis</taxonomicName>
+</emphasis>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F919FFF8FE67F778FCA0172E" box="[485,868,2278,2320]" pageId="3" pageNumber="160" type="materials_examined">
+<paragraph id="782836BCF919FFF8FE67F778FCA0172E" blockId="3.[421,868,2226,2320]" box="[485,868,2278,2320]" pageId="3" pageNumber="160">
+<materialsCitation id="C8FF3CE1F919FFF8FE67F778FC9B172E" ID-GBIF-Occurrence="3331839334" box="[485,863,2278,2320]" collectedFrom="On Hibiscus" collectingDate="1938-1939" collectorName="R. G. Oakley" country="Guam" location="Guam" pageId="3" pageNumber="160">
+<emphasis id="4AE3EAAEF919FFF8FE67F778FD0A172E" box="[485,718,2278,2320]" italics="true" pageId="3" pageNumber="160">
+<location id="7D486067F919FFF8FE67F778FD03172E" LSID="urn:lsid:plazi:treatment:F03E87AAF919FFF8FE27F72CFCA0172E:7D486067F919FFF8FE67F778FD03172E" box="[485,711,2278,2320]" name="OnHibiscus" pageId="3" pageNumber="160">OnHibiscus</location>
+,
+</emphasis>
+<collectorName id="D562536AF919FFF8FD5DF778FC9B172E" box="[735,863,2278,2320]" pageId="3" pageNumber="160">Oakley</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

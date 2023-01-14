@@ -1,0 +1,198 @@
+<document id="52D0393920FFE2B5F2A44CB487EFD447" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E95BFFB1FEE1804A9144073C" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Eurrhyparodes tricoloralis" docType="treatment" docVersion="22" lastPageNumber="179" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="179" updateTime="1670257311710" updateUser="annettekang">
+<mods:mods id="1CC814CC723379853EC8670016B167EE" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="227D5DB70AC62FF12D435E936DC2C45E">
+<mods:title id="3B04831799391F37A215E0B161817236">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="EE23D44B2D80F5EB765C2767AF6A9A41" type="personal">
+<mods:role id="EA791890174AE0A19B1AB1DB9EDBBF4E">
+<mods:roleTerm id="B0A085B519D5E8DCD03EB741399A5680">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="35FCE7C6C450BA04EBCC38D699421199">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="26167AABDC0E1D93952BFA9D88FBE3FD">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="95D54E0E6C0BC8C308EF35AB85216852">text</mods:typeOfResource>
+<mods:relatedItem id="6FE60B083B864761F1BB8A4DF4AE521B" type="host">
+<mods:originInfo id="9E209A6E23B3E89CA2FA935452A303A1">
+<mods:dateIssued id="F7BC79B1FAC393E40A8F7F4CDFB13601">1946</mods:dateIssued>
+<mods:dateOther id="48B283B990C5553C7ECC3F705EE8DE49" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="5A8F9229892C4199263C2F93522B1FE9">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="C385A2E6B1E90D1B171B956925A729E7">
+<mods:placeTerm id="64AE1CE5D76B4E4E7484F8D1BB9D5194">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="ECA06690FB05F2B8BFAD2210D42B9AC5">
+<mods:title id="67D53F453F6EDA614BCA7E28DEF222BD">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="E49034B8D573E9204351C4AFDEBA9045">
+<mods:extent id="74381C4DB10A1DD4F5D3FDD52979C0B5" unit="page">
+<mods:start id="6056AFAAD55468D2359C7286F95E66DA">163</mods:start>
+<mods:end id="3DA44B0C94490C3864C3A3C8F5BE3600">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="A3E95329351349EC716F21C915108095">book chapter</mods:classification>
+<mods:identifier id="B591F7B5125804686965FE3D7B49E716" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="4E2ADEBE67FDC0B57D3BA107424DD152" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="A348C478B615291A43B0F93C6C43F12C" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E95BFFB1FEE1804A9144073C" ID-DOI="http://doi.org/10.5281/zenodo.5224163" ID-GBIF-Taxon="183926896" ID-Zenodo-Dep="5224163" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB1FEE1804A9144073C" httpUri="http://treatment.plazi.org/id/03B387B8E95BFFB1FEE1804A9144073C" lastPageNumber="179" pageId="16" pageNumber="179">
+<subSubSection id="C3006525E95BFFB1FEE1804A966C01EE" box="[302,1050,631,673]" pageId="16" pageNumber="179" type="nomenclature">
+<paragraph id="8BA536AEE95BFFB1FEE1804A966C01EE" blockId="16.[302,1702,631,1139]" box="[302,1050,631,673]" pageId="16" pageNumber="179">
+<heading id="D0ED81C2E95BFFB1FEE1804A966C01EE" box="[302,1050,631,673]" fontSize="8" level="2" pageId="16" pageNumber="179" reason="4">
+<emphasis id="B96EEABCE95BFFB1FEE1804A931701EE" bold="true" box="[302,353,631,673]" pageId="16" pageNumber="179">21.</emphasis>
+<taxonomicName id="4C1A4D2DE95BFFB1FE4D804A966201EE" authority="(Zeller)" baseAuthorityName="Zeller" box="[386,1044,631,673]" class="Insecta" family="Geometridae" genus="Eurrhyparodes" higherTaxonomySource="CoL" kingdom="Animalia" order="Lepidoptera" pageId="16" pageNumber="179" phylum="Arthropoda" rank="species" species="tricoloralis">
+<emphasis id="B96EEABCE95BFFB1FE4D804A911B01EE" bold="true" box="[386,877,631,673]" pageId="16" pageNumber="179">Eurrhyparodes tricoloralis</emphasis>
+(Zeller)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95BFFB1FEA1809796D40072" pageId="16" pageNumber="179" type="reference_group">
+<paragraph id="8BA536AEE95BFFB1FEA180979723019A" blockId="16.[302,1702,631,1139]" box="[366,1365,682,725]" pageId="16" pageNumber="179">
+<treatmentCitationGroup id="AB0A1180E95BFFB1FEA180979723019A" box="[366,1365,682,725]" pageId="16" pageNumber="179">
+<bibCitation id="5E303EC2E95BFFB1FEA180979723019A" author="Zeller" box="[366,1365,682,725]" pageId="16" pageNumber="179" pagination="31" refId="ref8724" title="Lep. Micropt. Caffr." type="book" year="1852">
+<treatmentCitation id="0ABB10BFE95BFFB1FEA180979726019A" author="Zeller" box="[366,1360,682,725]" pageId="16" pageNumber="179" year="1852">
+<emphasis id="B96EEABCE95BFFB1FEA1809790D7019A" box="[366,673,682,725]" italics="true" pageId="16" pageNumber="179">Botys tricoloralis</emphasis>
+<author id="53A7DE4BE95BFFB1FD7F8097916C019A" box="[688,794,682,725]" pageId="16" pageNumber="179">Zeller</author>
+, 
+<title id="F91EDD98E95BFFB1FCFF809796D6019A" box="[816,1184,682,725]" pageId="16" pageNumber="179">Lep. Micropt. Caffr.</title>
+, 
+<pagination id="B2D3C85AE95BFFB1FB7880979694019A" box="[1207,1250,682,725]" pageId="16" pageNumber="179">31</pagination>
+, 
+<year id="FFB277FDE95BFFB1FB3180979726019A" box="[1278,1360,682,725]" pageId="16" pageNumber="179">1852</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE95BFFB1FEA280DC96D40072" blockId="16.[302,1702,631,1139]" pageId="16" pageNumber="179">
+<bibCitation id="5E303EC2E95BFFB1FEA280DC96D40072" author="Hampson" pageId="16" pageNumber="179" pagination="264" part="4" refId="ref8739" title="Fauna Brit. India, Moths" type="journal article" year="1896">
+<treatmentCitationGroup id="AB0A1180E95BFFB1FEA280DC96EB0072" pageId="16" pageNumber="179">
+<emphasis id="B96EEABCE95BFFB1FEA280DC91220044" box="[365,852,737,779]" italics="true" pageId="16" pageNumber="179">Eitrrhyparodes tricoloralis,</emphasis>
+<treatmentCitation id="0ABB10BFE95BFFB1FCA280DC90710072" author="Hampson" page="264" pageId="16" pageNumber="179" year="1896">
+<author id="53A7DE4BE95BFFB1FCA280DC966C0044" box="[877,1050,737,779]" pageId="16" pageNumber="179">Hampson</author>
+, 
+<title id="F91EDD98E95BFFB1FBF580DC94620044" box="[1082,1556,737,779]" pageId="16" pageNumber="179">
+Fauna Brit. 
+<collectingCountry id="F30D763EE95BFFB1FAE880DC97F00044" box="[1319,1414,737,779]" name="India" pageId="16" pageNumber="179">India</collectingCountry>
+, Moths
+</title>
+<part id="FFBE9C33E95BFFB1F9E580DC94320044" box="[1578,1604,737,779]" pageId="16" pageNumber="179" type="volume">4</part>
+: 
+<pagination id="B2D3C85AE95BFFB1F98580DC94ED0044" box="[1610,1691,737,779]" pageId="16" pageNumber="179" type="pagination">264</pagination>
+, 
+<year id="FFB277FDE95BFFB1FE61812F90710072" box="[430,519,786,829]" pageId="16" pageNumber="179">1896</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE95BFFB1FDEF812F96EB0072" author="Tams" box="[544,1181,786,829]" page="275" pageId="16" pageNumber="179" year="1935">
+<author id="53A7DE4BE95BFFB1FDEF812F90FF0072" box="[544,649,786,829]" pageId="16" pageNumber="179">Tams</author>
+, 
+<title id="F91EDD98E95BFFB1FD6D812F91070072" box="[674,881,786,829]" pageId="16" pageNumber="179">
+Ins. 
+<collectingCountry id="F30D763EE95BFFB1FD37812F91070072" box="[760,881,786,829]" name="Samoa" pageId="16" pageNumber="179">Samoa</collectingCountry>
+</title>
+<part id="FFBE9C33E95BFFB1FC4F812F91E00072" box="[896,918,786,829]" pageId="16" pageNumber="179" type="volume">3</part>
+(
+<part id="FFBE9C33E95BFFB1FC6A812F91C90072" box="[933,959,786,829]" pageId="16" pageNumber="179" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE95BFFB1FC3B812F96460072" box="[1012,1072,786,829]" pageId="16" pageNumber="179" type="pagination">275</pagination>
+, 
+<year id="FFB277FDE95BFFB1FB85812F96EB0072" box="[1098,1181,786,829]" pageId="16" pageNumber="179">1935</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95BFFB1FEA18175946C00E8" pageId="16" pageNumber="179" type="materials_examined">
+<paragraph id="8BA536AEE95BFFB1FEA18175946C00E8" blockId="16.[302,1702,631,1139]" pageId="16" pageNumber="179">
+<materialsCitation id="3B723CF3E95BFFB1FEA1817590ED003B" ID-GBIF-Occurrence="3913652365" box="[366,667,840,884]" collectedFrom="at light" collectingDate="1936-05-07" collectorName="O. H. Swezey" country="Guam" location="Talofofo" pageId="16" pageNumber="179">
+<location id="8EC56075E95BFFB1FEA181759071003B" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB1FEE1804A9144073C:8EC56075E95BFFB1FEA181759071003B" box="[366,519,840,884]" pageId="16" pageNumber="179">Talofofo</location>
+, 
+<date id="FFA4106EE95BFFB1FDD1817590E2003B" box="[542,660,840,884]" pageId="16" pageNumber="179">
+<collectingDate id="EFE0E986E95BFFB1FDD1817590E2003B" box="[542,660,840,884]" pageId="16" pageNumber="179">
+May 
+<emphasis id="B96EEABCE95BFFB1FDB1817590ED003B" box="[638,667,840,884]" italics="true" pageId="16" pageNumber="179">7,</emphasis>
+</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FD628175913B003B" ID-GBIF-Occurrence="3913652383" box="[685,845,840,884]" collectedFrom="at light" collectingDate="1936-11-18" collectorName="O. H. Swezey" country="Guam" location="Talofofo" pageId="16" pageNumber="179">
+<date id="FFA4106EE95BFFB1FD6281759133003B" box="[685,837,840,884]" pageId="16" pageNumber="179" value="2018-11">
+<collectingDate id="EFE0E986E95BFFB1FD6281759133003B" box="[685,837,840,884]" pageId="16" pageNumber="179" value="2018-11">Nov. 18</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FC92817596F2003B" ID-GBIF-Occurrence="3913652361" box="[861,1156,840,884]" collectedFrom="at light" collectingDate="1936-05-16" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="16" pageNumber="179">
+<location id="8EC56075E95BFFB1FC92817591A5003B" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB1FEE1804A9144073C:8EC56075E95BFFB1FC92817591A5003B" box="[861,979,840,884]" pageId="16" pageNumber="179">Agana</location>
+, 
+<date id="FFA4106EE95BFFB1FC248175960A003B" box="[1003,1148,840,884]" pageId="16" pageNumber="179" value="2016-05">
+<collectingDate id="EFE0E986E95BFFB1FC248175960A003B" box="[1003,1148,840,884]" pageId="16" pageNumber="179" value="2016-05">May 16</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FB5981759473003B" ID-GBIF-Occurrence="3913652315" box="[1174,1541,840,884]" collectedFrom="at light" collectingDate="1936-05-21" collectorName="O. H. Swezey" country="Guam" location="Mount Alifan" pageId="16" pageNumber="179">
+<location id="8EC56075E95BFFB1FB5981759723003B" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB1FEE1804A9144073C:8EC56075E95BFFB1FB5981759723003B" box="[1174,1365,840,884]" pageId="16" pageNumber="179">Mt. Alifan</location>
+, 
+<date id="FFA4106EE95BFFB1FAA28175978B003B" box="[1389,1533,840,884]" pageId="16" pageNumber="179" value="2021-05">
+<collectingDate id="EFE0E986E95BFFB1FAA28175978B003B" box="[1389,1533,840,884]" pageId="16" pageNumber="179" value="2021-05">May 21</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1F9D8817593B700E8" ID-GBIF-Occurrence="3332081445" collectedFrom="at light" collectingDate="1936-09-07" collectorName="O. H. Swezey" country="Guam" location="Dededo" pageId="16" pageNumber="179">
+<location id="8EC56075E95BFFB1F9D8817594E9003B" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB1FEE1804A9144073C:8EC56075E95BFFB1F9D8817594E9003B" box="[1559,1695,840,884]" pageId="16" pageNumber="179">
+<collectingMunicipality id="6BC1ACD4E95BFFB1F9D8817594E9003B" box="[1559,1695,840,884]" pageId="16" pageNumber="179">Dededo</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE95BFFB1FEFE814693CE00E8" box="[305,440,891,935]" pageId="16" pageNumber="179">
+<collectingDate id="EFE0E986E95BFFB1FEFE814693CE00E8" box="[305,440,891,935]" pageId="16" pageNumber="179">
+Sept. 
+<emphasis id="B96EEABCE95BFFB1FE54814693B700E8" box="[411,449,891,935]" italics="true" pageId="16" pageNumber="179">7;</emphasis>
+</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FE1A8146912300E8" ID-GBIF-Occurrence="3332081337" box="[469,853,891,935]" collectedFrom="at light" collectingDate="1936-09-22" collectorName="O. H. Swezey" country="Guam" location="Mount Tenjo" pageId="16" pageNumber="179">
+<location id="8EC56075E95BFFB1FE1A814690E200E8" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB1FEE1804A9144073C:8EC56075E95BFFB1FE1A814690E200E8" box="[469,660,891,935]" pageId="16" pageNumber="179">Mt. Tenjo</location>
+, 
+<date id="FFA4106EE95BFFB1FD608146913800E8" box="[687,846,891,935]" pageId="16" pageNumber="179" value="1922-09">
+<collectingDate id="EFE0E986E95BFFB1FD608146913800E8" box="[687,846,891,935]" pageId="16" pageNumber="179" value="1922-09">Sept. 22</collectingDate>
+</date>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E95BFFB1FCA68146946C00E8" ID-GBIF-Occurrence="3332081357" box="[873,1562,891,935]" collectedFrom="at light" collectingDate="1936-11-04" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="16" pageNumber="179">
+<location id="8EC56075E95BFFB1FCA6814691DD00E8" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB1FEE1804A9144073C:8EC56075E95BFFB1FCA6814691DD00E8" box="[873,939,891,935]" pageId="16" pageNumber="179">
+<collectingMunicipality id="6BC1ACD4E95BFFB1FCA6814691DD00E8" box="[873,939,891,935]" pageId="16" pageNumber="179">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE95BFFB1FC078146963000E8" box="[968,1094,891,935]" pageId="16" pageNumber="179">
+<collectingDate id="EFE0E986E95BFFB1FC078146963000E8" box="[968,1094,891,935]" pageId="16" pageNumber="179">Nov. 4</collectingDate>
+</date>
+, at light. 
+<location id="8EC56075E95BFFB1FAC68146974900E8" LSID="urn:lsid:plazi:treatment:03B387B8E95BFFB1FEE1804A9144073C:8EC56075E95BFFB1FAC68146974900E8" box="[1289,1343,891,935]" pageId="16" pageNumber="179">All</location>
+by 
+<collectorName id="26EF5378E95BFFB1FA418146946300E8" box="[1422,1557,891,935]" pageId="16" pageNumber="179">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E95BFFB1FEA0818C9144073C" pageId="16" pageNumber="179" type="description">
+<paragraph id="8BA536AEE95BFFB1FEA0818C9144073C" blockId="16.[302,1702,631,1139]" pageId="16" pageNumber="179">
+Of wide distribution in Africa, 
+<collectingCountry id="F30D763EE95BFFB1FC6C818C96740094" box="[931,1026,945,987]" name="India" pageId="16" pageNumber="179">India</collectingCountry>
+, 
+<collectingCountry id="F30D763EE95BFFB1FBD5818C96E00094" box="[1050,1174,945,987]" name="Sri Lanka" pageId="16" pageNumber="179">Ceylon</collectingCountry>
+, Java, 
+<collectingCountry id="F30D763EE95BFFB1FAD9818C97CB0094" box="[1302,1469,945,987]" name="Australia" pageId="16" pageNumber="179">Australia</collectingCountry>
+, 
+<collectingCountry id="F30D763EE95BFFB1FA1B818C946F0094" box="[1492,1561,945,987]" name="Fiji" pageId="16" pageNumber="179">Fiji</collectingCountry>
+, 
+<collectingCountry id="F30D763EE95BFFB1F9FE818C94D00094" box="[1585,1702,945,987]" name="Samoa" pageId="16" pageNumber="179">Samoa</collectingCountry>
+and Austral Islands. Now recorded for the first time in 
+<collectingCountry id="F30D763EE95BFFB1FAD581D997F00741" box="[1306,1414,996,1038]" name="Guam" pageId="16" pageNumber="179">Guam</collectingCountry>
+. Its caterpillars were abundant as leafrollers on 
+<emphasis id="B96EEABCE95BFFB1FC43862A96F70770" box="[908,1153,1047,1087]" italics="true" pageId="16" pageNumber="179">yerbas babue.</emphasis>
+Nearly all of our specimens were reared from this weed.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,114 @@
+<document id="85EFCF2FA6A2A22368B5F6FC2B57F644" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBD1B0AFEEDFB86040C436C" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Stilicopsis setigera" docType="treatment" docVersion="15" lastPageNumber="153" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="153" updateTime="1671336034494" updateUser="annettekang">
+<mods:mods id="7E3A477741BD92D77AC004EDE05802E0" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="121B4C7110A82AE21DC27F5F8F37EAC9">
+<mods:title id="5D567011FABF06CE0384231AC8328810">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="4916998443D61177BBB8E9256A7471CA" type="personal">
+<mods:role id="C80D56AE5D1D576454BF319CA6B57852">
+<mods:roleTerm id="096AB316C83BB9E0D5DEFE4E58391032">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="675AD93006EA9050BFA297A7A3ABD8C7">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="07EAA84DADF0CD9FD56AEFDD6BB9270F">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="6174B69D16426EC1116CF95C9379604F">text</mods:typeOfResource>
+<mods:relatedItem id="15F1EC04D399CE93CAA2EEE336ECFB7C" type="host">
+<mods:originInfo id="E2DDFFC10BE9FAB2C2783CDAFA2E3387">
+<mods:dateIssued id="B582A81307624BFE062154D15025D003">1942</mods:dateIssued>
+<mods:dateOther id="4DD73868D4F354EA4DF6352121CCECC6" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="3C50BFB8AB87AEC7CB3ED82F8F57546F">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="713F7628C4644EB623420FCC9CDAD507">
+<mods:placeTerm id="06AD6E07C760D1E9AC968A9D7C2EF113">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="67C909C385E4A056E1E6E29FCE3A72D0">
+<mods:title id="7B53AD77ADEADC1B63C39D25A5E3B284">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="00A080195268D31CD139F5E44F3ED400">
+<mods:extent id="E11BD57EA2DB0FAB352727EDDDD4DACD" unit="page">
+<mods:start id="D26C07AFEFE83441C4A5A8A64D07379F">150</mods:start>
+<mods:end id="47951B452738858D30EB722F8DEA5D0C">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="59BD87CE4517656DDD920BB33625FC98">book chapter</mods:classification>
+<mods:identifier id="037DE26BD66D0898E2187792A3B2C891" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="C3D4F62F8A1E5FF5DBF7907C517DFA68" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="80230AE2FCEC86043CD7A7CCC94C6860" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<subSection id="D64D2F18FFBD1B0AFEEDFB86040C436C" pageId="3" pageNumber="153" type="multiple">
+<treatment id="376B87E5FFBD1B0AFEEDFB86040C436C" ID-DOI="http://doi.org/10.5281/zenodo.5180782" ID-GBIF-Taxon="184415225" ID-Zenodo-Dep="5180782" LSID="urn:lsid:plazi:treatment:376B87E5FFBD1B0AFEEDFB86040C436C" httpUri="http://treatment.plazi.org/id/376B87E5FFBD1B0AFEEDFB86040C436C" lastPageNumber="153" pageId="3" pageNumber="153">
+<subSubSection id="F7D86578FFBD1B0AFEEDFB86047C426C" box="[311,890,1072,1114]" pageId="3" pageNumber="153" type="nomenclature">
+<paragraph id="BF7D36F3FFBD1B0AFEEDFB86047C426C" blockId="3.[311,339,1075,1113]" box="[311,890,1072,1114]" lastBlockId="3.[373,1705,1072,1370]" pageId="3" pageNumber="153">
+<heading id="E435819FFFBD1B0AFEEDFB860472426C" box="[311,884,1072,1114]" centered="true" fontSize="11" level="2" pageId="3" pageNumber="153" reason="2">
+<emphasis id="8DB6EAE1FFBD1B0AFEEDFB860655426F" bold="true" box="[311,339,1075,1113]" pageId="3" pageNumber="153">8.</emphasis>
+<taxonomicName id="78C24D70FFBD1B0AFEAFFB850472426C" authority="(Sharp)" baseAuthorityName="Sharp" baseAuthorityYear="1874" box="[373,884,1072,1114]" class="Insecta" family="Staphylinidae" genus="Stilicopsis" higherTaxonomySource="GBIF" kingdom="Animalia" order="Coleoptera" pageId="3" pageNumber="153" phylum="Arthropoda" rank="species" species="setigera">
+<emphasis id="8DB6EAE1FFBD1B0AFEAFFB8505CA426C" bold="true" box="[373,716,1072,1114]" pageId="3" pageNumber="153">Stilicopsis setigera</emphasis>
+(Sharp)
+</taxonomicName>
+</heading>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBD1B0AFEADFBD705DC42C3" pageId="3" pageNumber="153" type="reference_group">
+<paragraph id="BF7D36F3FFBD1B0AFEADFBD7016C42B8" blockId="3.[373,1705,1072,1370]" box="[375,1642,1122,1166]" pageId="3" pageNumber="153">
+<treatmentCitationGroup id="9FD211DDFFBD1B0AFEADFBD7016C42B8" box="[375,1642,1122,1166]" pageId="3" pageNumber="153">
+<treatmentCitation id="3E6310E2FFBD1B0AFEADFBD7016C42B8" author="Sharp" box="[375,1642,1122,1166]" page="67" pageId="3" pageNumber="153" year="1874">
+<bibCitation id="6AE83E9FFFBD1B0AFEADFBD7016C42B8" author="Sharp" box="[375,1642,1122,1166]" journalOrPublisher="Ent. Soc. London, Trans." pageId="3" pageNumber="153" pagination="67" refId="ref1622" type="book" year="1874">
+<emphasis id="8DB6EAE1FFBD1B0AFEADFBD7057042B8" box="[375,630,1122,1166]" italics="true" pageId="3" pageNumber="153">Acanthoglossa</emphasis>
+(?) 
+<emphasis id="8DB6EAE1FFBD1B0AFD0FFBD7045942B8" box="[725,863,1122,1166]" italics="true" pageId="3" pageNumber="153">setigera</emphasis>
+<author id="677FDE16FFBD1B0AFCB5FBD704DE42B8" box="[879,984,1122,1166]" pageId="3" pageNumber="153">Sharp</author>
+, 
+<journalOrPublisher id="65033C3FFFBD1B0AFC2AFBD702BE42B8" box="[1008,1464,1122,1166]" pageId="3" pageNumber="153">Ent. Soc. London, Trans.</journalOrPublisher>
+, 
+<pagination id="860BC807FFBD1B0AFA14FBD702FF42B8" box="[1486,1529,1122,1166]" pageId="3" pageNumber="153" type="pageRange">67</pagination>
+, 
+<year id="CB6A77A0FFBD1B0AF9C9FBD7016342B8" box="[1555,1637,1122,1166]" pageId="3" pageNumber="153">1874</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFBD1B0AFEADFB2205DC42C3" blockId="3.[373,1705,1072,1370]" pageId="3" pageNumber="153">
+<treatmentCitation id="3E6310E2FFBD1B0AFEADFB2205DC42C3" author="Bernhauer and Schubert" page="220" pageId="3" pageNumber="153" year="1912">
+<bibCitation id="6AE83E9FFFBD1B0AFEADFB2205DC42C3" author="Bernhauer &amp; Schubert" pageId="3" pageNumber="153" pagination="220" part="40" refId="ref1642" title="Coleopt. Catalog." type="book" year="1912">
+<treatmentCitationGroup id="9FD211DDFFBD1B0AFEADFB2205D342C3" pageId="3" pageNumber="153">
+<emphasis id="8DB6EAE1FFBD1B0AFEADFB2205CC42F7" box="[375,714,1175,1217]" italics="true" pageId="3" pageNumber="153">Stilicopsis setigera</emphasis>
+(Sharp) 
+<author id="677FDE16FFBD1B0AFC4AFB22034F42F7" box="[912,1097,1175,1217]" pageId="3" pageNumber="153">Bernhauer</author>
+and 
+<author id="677FDE16FFBD1B0AFB63FB22025042F7" box="[1209,1366,1175,1217]" pageId="3" pageNumber="153">Schubert</author>
+, 
+<title id="CDC6DDC5FFBD1B0AFAADFB2201AF42F7" box="[1399,1705,1175,1217]" pageId="3" pageNumber="153">Coleopt. Catalog.</title>
+(
+<part id="CB669C6EFFBD1B0AFE12FB7906FF42C3" box="[456,505,1228,1269]" pageId="3" pageNumber="153" type="issue">40</part>
+): 
+<pagination id="860BC807FFBD1B0AFDF5FB79056D42C3" box="[559,619,1228,1269]" pageId="3" pageNumber="153" type="pageRange">220</pagination>
+, 
+<year id="CB6A77A0FFBD1B0AFD58FB7905D342C3" box="[642,725,1228,1269]" pageId="3" pageNumber="153">1912</year>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBD1B0AFEADFB4B040C436C" pageId="3" pageNumber="153" type="materials_examined">
+<paragraph id="BF7D36F3FFBD1B0AFEADFB4B040C436C" blockId="3.[373,1705,1072,1370]" pageId="3" pageNumber="153">
+<materialsCitation id="0FAA3CAEFFBD1B0AFEADFB4B040C436C" ID-GBIF-Occurrence="3334692348" collectedFrom="in rotten breadfruit on ground, described from Japan" collectingDate="1936-08-22" collectorName="O. H. Swezey" country="Guam" location="Asan" pageId="3" pageNumber="153" specimenCount="2">
+Asan, 
+<date id="CB7C1033FFBD1B0AFE30FB4B057C4311" box="[490,634,1278,1319]" pageId="3" pageNumber="153" value="1922-08">
+<collectingDate id="DB38E9DBFFBD1B0AFE30FB4B057C4311" box="[490,634,1278,1319]" pageId="3" pageNumber="153" value="1922-08">Aug. 22</collectingDate>
+</date>
+, in rotten breadfruit on ground, 
+<collectorName id="12375325FFBD1B0AFB13FB4B02484311" box="[1225,1358,1278,1319]" pageId="3" pageNumber="153">Swezey</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFBD1B0AFABEFB4B01624311" box="[1380,1636,1278,1319]" pageId="3" pageNumber="153" type="generic">two specimens</specimenCount>
+. Described from 
+<collectingCountry id="C7D57663FFBD1B0AFD40FA860403436C" box="[666,773,1331,1370]" name="Japan" pageId="3" pageNumber="153">Japan</collectingCountry>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</subSection>
+</document>

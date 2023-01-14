@@ -1,0 +1,98 @@
+<document id="5D02E47185F33615892D9626A1B791CA" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91FFFFEFE2BFD12F97E1D6F" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Phenacaspis inday" docType="treatment" docVersion="12" lastPageNumber="162" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="162" updateTime="1663190934983" updateUser="aubreymoore">
+<mods:mods id="3CB6C857E794B8E2FC977973CD3E14BA" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="5A5EE79EF8A80385F17693FF3D228086">
+<mods:title id="AF05F078D216D5F81626C7BAB73879B3">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="CFCDB78435F585E8080302FD4C5828EB" type="personal">
+<mods:role id="728282583556E6BAA27BE48443AE2E52">
+<mods:roleTerm id="053AEB3D912CF91DE19EC7E932DB650E">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="5EEA84866D69479DA9121DA1EA43F9FE">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="B6ED0530EFB24B002CA788D4C2F8E213">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="01DD93AD6D550E5D6BF77C8D4A092DD5">text</mods:typeOfResource>
+<mods:relatedItem id="8A48B708DE5490252EC7F9113B3B10F6" type="host">
+<mods:originInfo id="1C1891DA65B90AA43418996A3B67B605">
+<mods:dateIssued id="61C04D98E18163A8D2215867C9071FAA">1946</mods:dateIssued>
+<mods:dateOther id="227708499ED48049199A53A667A869F2" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="E92329BA81601F17AB115A6D2154B790">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="3BB4C09726F5281CD13A45561723F832">
+<mods:placeTerm id="F3166B23D2D4176B1F66EB25008A7E36">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="73F05A6C3646444AC7A4064727100B62">
+<mods:title id="80E232277E5C4C11182385C6A28A957A">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="1EFAE2A16907D55813E193C357FE84C6">
+<mods:extent id="8D7F1D7085DA3513E6C912B883D397F1" unit="page">
+<mods:start id="A262B0CB31243CAC09B7720B65EDE9C5">157</mods:start>
+<mods:end id="F4E5E8AF4A409D47471981C7FCD2CEB3">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="204A10492035D9AE75155C7D9B0C6134">book chapter</mods:classification>
+<mods:identifier id="10A0513B921DB59FA66B958D884D9D67" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="BBFB79BBEADB6E7AC789997CCE19DD78" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="E2AAA5A59213CE8219799506C5F961B8" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91FFFFEFE2BFD12F97E1D6F" ID-DOI="http://doi.org/10.5281/zenodo.5169393" ID-GBIF-Taxon="183925180" ID-Zenodo-Dep="5169393" LSID="urn:lsid:plazi:treatment:F03E87AAF91FFFFEFE2BFD12F97E1D6F" httpUri="http://treatment.plazi.org/id/F03E87AAF91FFFFEFE2BFD12F97E1D6F" lastPageNumber="162" pageId="5" pageNumber="162">
+<subSubSection id="308D6537F91FFFFEFE2BFD12FBC11C88" box="[425,1029,652,694]" pageId="5" pageNumber="162" type="nomenclature">
+<paragraph id="782836BCF91FFFFEFE2BFD12FBC11C88" blockId="5.[425,1823,652,849]" box="[425,1029,652,694]" pageId="5" pageNumber="162">
+<heading id="236081D0F91FFFFEFE2BFD12FBC11C88" box="[425,1029,652,694]" fontSize="8" level="2" pageId="5" pageNumber="162" reason="4">
+<emphasis id="4AE3EAAEF91FFFFEFE2BFD12FE1E1C88" bold="true" box="[425,474,652,694]" pageId="5" pageNumber="162">56.</emphasis>
+<taxonomicName id="BF974D3FF91FFFFEFE7EFD12FC3B1C88" authority="(Banks)" baseAuthorityName="Banks" box="[508,1023,652,694]" class="Insecta" family="Coccidae" genus="Phenacaspis" kingdom="Animalia" order="Hemiptera" pageId="5" pageNumber="162" phylum="Arthropoda" rank="species" species="inday">
+<emphasis id="4AE3EAAEF91FFFFEFE7EFD12FC8B1C88" bold="true" box="[508,847,652,694]" pageId="5" pageNumber="162">Phenacaspis inday</emphasis>
+(Banks)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91FFFFEFE68FD20F9CC1CD7" box="[490,1544,702,745]" pageId="5" pageNumber="162" type="description">
+<paragraph id="782836BCF91FFFFEFE68FD20F9CC1CD7" blockId="5.[425,1823,652,849]" box="[490,1544,702,745]" pageId="5" pageNumber="162">
+<treatmentCitationGroup id="58871192F91FFFFEFE68FD20F9C71CD7" box="[490,1539,702,745]" pageId="5" pageNumber="162">
+<treatmentCitation id="F93610ADF91FFFFEFE68FD20F9C71CD7" author="Banks" box="[490,1539,702,745]" page="787" pageId="5" pageNumber="162" year="1906">
+<taxonomicName id="BF974D3FF91FFFFEFE68FD20FC501CD7" box="[490,916,702,745]" pageId="5" pageNumber="162">
+<title id="0A93DD8AF91FFFFEFE68FD20FCD11CD7" box="[490,789,702,745]" pageId="5" pageNumber="162">
+<emphasis id="4AE3EAAEF91FFFFEFE68FD20FCD11CD7" box="[490,789,702,745]" italics="true" pageId="5" pageNumber="162">Chionaspis inday</emphasis>
+</title>
+<bibCitation id="ADBD3ED0F91FFFFEFCA7FD20F9CC1CD7" author="Banks" box="[805,1544,702,745]" journalOrPublisher="Philippine Jour. Sci" pageId="5" pageNumber="162" pagination="787" part="1" type="book" year="1906">
+<author id="A02ADE59F91FFFFEFCA7FD20FC501CD7" box="[805,916,702,745]" pageId="5" pageNumber="162">Banks</author>
+, 
+<journalOrPublisher id="A2563C70F91FFFFEFC29FD20FAD41CD7" box="[939,1296,702,745]" pageId="5" pageNumber="162">Philippine Jour. Sci</journalOrPublisher>
+. 
+<emphasis id="4AE3EAAEF91FFFFEFAA5FD20FAF11CD7" bold="true" box="[1319,1333,702,745]" pageId="5" pageNumber="162">
+<part id="0C339C21F91FFFFEFAA5FD20FAF51CD7" box="[1319,1329,702,745]" pageId="5" pageNumber="162" type="volume">1</part>
+:
+</emphasis>
+<emphasis id="4AE3EAAEF91FFFFEFAD5FD20FA591CD7" box="[1367,1437,702,745]" italics="true" pageId="5" pageNumber="162">
+<pagination id="415EC848F91FFFFEFAD5FD20FA531CD7" box="[1367,1431,702,745]" pageId="5" pageNumber="162" type="pageRange">787</pagination>
+,
+</emphasis>
+<year id="0C3F77EFF91FFFFEFA32FD20F9C71CD7" box="[1456,1539,702,745]" pageId="5" pageNumber="162">1906</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F91FFFFEFE68FD6CF97E1D6F" pageId="5" pageNumber="162" type="description">
+<paragraph id="782836BCF91FFFFEFE68FD6CF97E1D6F" blockId="5.[425,1823,652,849]" pageId="5" pageNumber="162">
+<materialsCitation id="C8FF3CE1F91FFFFEFE68FD6CF9711D6F" ID-GBIF-Occurrence="3331839354" collectedFrom="On palm, perhaps scale reported on coconut by Vandenberg" collectingDate="1936" collectorName="Bureau of Entomology and Plant Quarantine" country="Guam" location="Guam" pageId="5" pageNumber="162">
+<collectingMunicipality id="984CACC6F91FFFFEFE68FD6CFDDB1D23" box="[490,543,754,797]" pageId="5" pageNumber="162">On</collectingMunicipality>
+palm, 
+<location id="7D486067F91FFFFEFD24FD6CFA281D23" LSID="urn:lsid:plazi:treatment:F03E87AAF91FFFFEFE2BFD12F97E1D6F:7D486067F91FFFFEFD24FD6CFA281D23" box="[678,1516,754,797]" municipality="On" name="Bureau of Entomology and Plant Quarantine" pageId="5" pageNumber="162">Bureau of Entomology and Plant Quarantine</location>
+. 
+<location id="7D486067F91FFFFEF993FD6CF95B1D23" LSID="urn:lsid:plazi:treatment:F03E87AAF91FFFFEFE2BFD12F97E1D6F:7D486067F91FFFFEF993FD6CF95B1D23" box="[1553,1695,754,797]" municipality="On" name="Perhaps" pageId="5" pageNumber="162">Perhaps</location>
+this is the scale reported on coconut by 
+<collectorName id="D562536AF91FFFFEFB87FCB9FB1F1D6F" box="[1029,1243,807,849]" pageId="5" pageNumber="162">Vandenberg</collectorName>
+as 
+<location id="7D486067F91FFFFEFAA2FCB9F9FD1D6F" LSID="urn:lsid:plazi:treatment:F03E87AAF91FFFFEFE2BFD12F97E1D6F:7D486067F91FFFFEFAA2FCB9F9FD1D6F" box="[1312,1593,807,849]" municipality="On" name="Hemichionaspis" pageId="5" pageNumber="162">Hemichionaspis</location>
+minor
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

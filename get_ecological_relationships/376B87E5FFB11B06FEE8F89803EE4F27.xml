@@ -1,0 +1,233 @@
+<document id="CA838079ED06A7E04D5BA94660FAC175" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB11B06FEE8F89803EE4F27" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Alphitobius laevigatus Gebien" docType="treatment" docVersion="16" lastPageNumber="165" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="165" updateTime="1671377585779" updateUser="annettekang">
+<mods:mods id="3441854FE48DBEB4F6118C01B09429F4" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CF9E824B72510F096B7E506F4972613A">
+<mods:title id="EBDA209A20D377E37AE19B4E94C51790">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="23182758287B65DC36FA5B72BD2AA2F2" type="personal">
+<mods:role id="B11FB4F4AC8E9AC249A6A236B644ADA4">
+<mods:roleTerm id="3D95CDD7FFCDC2FC0EEABB6EA290D458">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="9B09630DD5F15AFB6ED1D92C5DC550B9">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="0684D0F6FB7AA654D9FD18FBAA56C094">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="85701B1B29736133C2D5015F00E53508">text</mods:typeOfResource>
+<mods:relatedItem id="1A00D7C4CF34644C6BA0D7C048B2F85E" type="host">
+<mods:originInfo id="A87FD2EF3841AA7BE8055814D06AE47F">
+<mods:dateIssued id="9218EDAC48C306B1BEC268DDB6D9B723">1942</mods:dateIssued>
+<mods:dateOther id="3C11A41C27415FEDAE885F5E934A8C37" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="F480F1838EA07850B74A492395CA8A0F">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="E7F2FF2F2F851B8AAF807922876BD65E">
+<mods:placeTerm id="259D282D7C9710475B20482B0B531E16">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="01FD60FF79554F3D304991704131559A">
+<mods:title id="8200FFD8A768D20CB3EBF539725ED9EF">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="DB28370DFAAFC31D9EE65536C2CDC6D8">
+<mods:extent id="7F3950C1D06DF720CA674EF1F78228FD" unit="page">
+<mods:start id="9C6ADFF842525FDF3887B242444CAE95">150</mods:start>
+<mods:end id="7519A899D24B97816C6312E9BAD89C33">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="7490F50C584FBA7CAB3F9D956574169D">book chapter</mods:classification>
+<mods:identifier id="70506D794F9D85C6AE654A06501245E8" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="17EB49DC1D15160BC3D35D12C2587132" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="2F73E567ACA9B3F459EEEEB4B5D8F5A4" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB11B06FEE8F89803EE4F27" ID-DOI="http://doi.org/10.5281/zenodo.5184834" ID-GBIF-Taxon="184415351" ID-Zenodo-Dep="5184834" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEE8F89803EE4F27" httpUri="http://treatment.plazi.org/id/376B87E5FFB11B06FEE8F89803EE4F27" lastPageNumber="165" pageId="15" pageNumber="165">
+<subSubSection id="F7D86578FFB11B06FEE8F898030B416F" box="[306,1037,1837,1881]" pageId="15" pageNumber="165" type="nomenclature">
+<paragraph id="BF7D36F3FFB11B06FEE8F898030B416F" blockId="15.[302,1698,1837,2321]" box="[306,1037,1837,1881]" pageId="15" pageNumber="165">
+*3. 
+<taxonomicName id="78C24D70FFB11B06FE5EF8980301416F" authority="(Fabricius)" authorityName="Gebien" baseAuthorityName="Fabricius" baseAuthorityYear="1781" box="[388,1031,1837,1881]" class="Insecta" family="Tenebrionidae" genus="Alphitobius" kingdom="Animalia" order="Coleoptera" pageId="15" pageNumber="165" phylum="Arthropoda" rank="species" species="laevigatus">
+<emphasis id="8DB6EAE1FFB11B06FE5EF8980426416F" bold="true" box="[388,800,1837,1881]" pageId="15" pageNumber="165">Alphitobius laevigatus</emphasis>
+(Fabricius)
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB11B06FEABF8D003CA4E04" pageId="15" pageNumber="165" type="reference_group">
+<paragraph id="BF7D36F3FFB11B06FEABF8D0022E41B9" blockId="15.[302,1698,1837,2321]" box="[369,1320,1893,1935]" pageId="15" pageNumber="165">
+<treatmentCitationGroup id="9FD211DDFFB11B06FEABF8D0022E41B9" box="[369,1320,1893,1935]" pageId="15" pageNumber="165">
+<treatmentCitation id="3E6310E2FFB11B06FEABF8D0022E41B9" author="Fabricius" box="[369,1320,1893,1935]" page="90" pageId="15" pageNumber="165" year="1781">
+<bibCitation id="6AE83E9FFFB11B06FEABF8D0022E41B9" author="Fabricius" box="[369,1320,1893,1935]" journalOrPublisher="Spec. Ins." pageId="15" pageNumber="165" pagination="90" part="1" refId="ref8124" type="journal article" year="1781">
+<emphasis id="8DB6EAE1FFB11B06FEABF8D005DC41B9" box="[369,730,1893,1935]" italics="true" pageId="15" pageNumber="165">Opatruin laevigatum</emphasis>
+<author id="677FDE16FFB11B06FD32F8D0049641B9" box="[744,912,1893,1935]" pageId="15" pageNumber="165">Fabricius</author>
+, 
+<journalOrPublisher id="65033C3FFFB11B06FC7CF8D0034941B9" box="[934,1103,1893,1935]" pageId="15" pageNumber="165">Spec. Ins.</journalOrPublisher>
+<part id="CB669C6EFFB11B06FBBAF8D0036C41B9" box="[1120,1130,1893,1935]" pageId="15" pageNumber="165" type="volume">1</part>
+: 
+<pagination id="860BC807FFB11B06FB55F8D003BC41B9" box="[1167,1210,1893,1935]" pageId="15" pageNumber="165" type="pageRange">90</pagination>
+, 
+<year id="CB6A77A0FFB11B06FB0BF8D0022541B9" box="[1233,1315,1893,1935]" pageId="15" pageNumber="165">1781</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFB11B06FEB5F82E01A441F3" blockId="15.[302,1698,1837,2321]" box="[367,1698,1947,1989]" pageId="15" pageNumber="165">
+<treatmentCitationGroup id="9FD211DDFFB11B06FEB5F82E01A441F3" box="[367,1698,1947,1989]" pageId="15" pageNumber="165">
+<bibCitation id="6AE83E9FFFB11B06FEB5F82E01A441F3" author="Gebien" box="[367,1698,1947,1989]" journalOrPublisher="Nov. Guinea" pageId="15" pageNumber="165" pagination="277" part="13" refId="ref8138" type="journal article" year="1920">
+<treatmentCitation id="3E6310E2FFB11B06FEB5F82E019B41F3" author="Gebien" box="[367,1693,1947,1989]" page="277" pageId="15" pageNumber="165" year="1920">
+<emphasis id="8DB6EAE1FFB11B06FEB5F82E05FC41F3" box="[367,762,1947,1989]" italics="true" pageId="15" pageNumber="165">Alphitobius laevigatus</emphasis>
+(Fabricius) 
+<author id="677FDE16FFB11B06FC37F82E036E41F3" box="[1005,1128,1947,1989]" pageId="15" pageNumber="165">Gebien</author>
+, 
+<journalOrPublisher id="65033C3FFFB11B06FB5BF82E026641F3" box="[1153,1376,1947,1989]" pageId="15" pageNumber="165">
+Nov. 
+<collectingCountry id="C7D57663FFB11B06FB3FF82E026641F3" box="[1253,1376,1947,1989]" name="Guinea-Bissau" pageId="15" pageNumber="165">Guinea</collectingCountry>
+</journalOrPublisher>
+<emphasis id="8DB6EAE1FFB11B06FAABF82E02D641F3" bold="true" box="[1393,1488,1947,1989]" pageId="15" pageNumber="165">
+<part id="CB669C6EFFB11B06FAABF82E029A41F3" box="[1393,1436,1947,1989]" pageId="15" pageNumber="165" type="volume">13</part>
+(
+<part id="CB669C6EFFB11B06FA73F82E02BB41F3" box="[1449,1469,1947,1989]" pageId="15" pageNumber="165" type="issue">3</part>
+):
+</emphasis>
+<pagination id="860BC807FFB11B06FA28F82E013441F3" box="[1522,1586,1947,1989]" pageId="15" pageNumber="165" type="pageRange">277</pagination>
+, 
+<year id="CB6A77A0FFB11B06F996F82E019B41F3" box="[1612,1693,1947,1989]" pageId="15" pageNumber="165">1920</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFB11B06FEB5F867014741CD" blockId="15.[302,1698,1837,2321]" box="[367,1601,2002,2043]" pageId="15" pageNumber="165">
+<treatmentCitationGroup id="9FD211DDFFB11B06FEB5F867014741CD" box="[367,1601,2002,2043]" pageId="15" pageNumber="165">
+<bibCitation id="6AE83E9FFFB11B06FEB5F867014741CD" author="Blair" box="[367,1601,2002,2043]" journalOrPublisher="Ins. Samoa" pageId="15" pageNumber="165" pagination="77" part="4" refId="ref8157" type="journal article" year="1928">
+<treatmentCitation id="3E6310E2FFB11B06FEB5F867013A41CD" author="Blair" box="[367,1596,2002,2043]" page="77" pageId="15" pageNumber="165" year="1928">
+<emphasis id="8DB6EAE1FFB11B06FEB5F86705FF41CD" box="[367,761,2002,2043]" italics="true" pageId="15" pageNumber="165">Alphitobius laevigatus</emphasis>
+(Fabricius) 
+<author id="677FDE16FFB11B06FC37F867034E41CD" box="[1005,1096,2002,2043]" pageId="15" pageNumber="165">Blair</author>
+, 
+<journalOrPublisher id="65033C3FFFB11B06FBBAF867022E41CD" box="[1120,1320,2002,2043]" pageId="15" pageNumber="165">
+Ins. 
+<collectingCountry id="C7D57663FFB11B06FB6EF867022E41CD" box="[1204,1320,2002,2043]" name="Samoa" pageId="15" pageNumber="165">Samoa</collectingCountry>
+</journalOrPublisher>
+<part id="CB669C6EFFB11B06FAEDF867024841CD" box="[1335,1358,2002,2043]" pageId="15" pageNumber="165" type="volume">4</part>
+(
+<part id="CB669C6EFFB11B06FA81F867027441CD" box="[1371,1394,2002,2043]" pageId="15" pageNumber="165" type="issue">2</part>
+): 
+<emphasis id="8DB6EAE1FFB11B06FA7CF86702D141CD" box="[1446,1495,2002,2043]" italics="true" pageId="15" pageNumber="165">
+<pagination id="860BC807FFB11B06FA7CF86702D741CD" box="[1446,1489,2002,2043]" pageId="15" pageNumber="165" type="pageRange">77</pagination>
+,
+</emphasis>
+<year id="CB6A77A0FFB11B06FA30F867013A41CD" box="[1514,1596,2002,2043]" pageId="15" pageNumber="165">1928</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFB11B06FEB7F7BD03CA4E04" blockId="15.[302,1698,1837,2321]" box="[365,1228,2056,2098]" pageId="15" pageNumber="165">
+<bibCitation id="6AE83E9FFFB11B06FEB7F7BD03CA4E04" author="Olivier" box="[365,1228,2056,2098]" pageId="15" pageNumber="165" refId="ref8176" title="Encycl. Meth." type="book" year="1792">
+<treatmentCitationGroup id="9FD211DDFFB11B06FEB7F7BD03C14E04" box="[365,1223,2056,2098]" pageId="15" pageNumber="165">
+<treatmentCitation id="3E6310E2FFB11B06FEB7F7BD03C14E04" author="Olivier" box="[365,1223,2056,2098]" page="50" pageId="15" pageNumber="165" year="1792">
+<emphasis id="8DB6EAE1FFB11B06FEB7F7BD05674E04" box="[365,609,2056,2098]" italics="true" pageId="15" pageNumber="165">Helops piceus</emphasis>
+<author id="677FDE16FFB11B06FDB5F7BD05EB4E04" box="[623,749,2056,2098]" pageId="15" pageNumber="165">Olivier</author>
+, 
+<title id="CDC6DDC5FFB11B06FCDBF7BD04F34E04" box="[769,1013,2056,2098]" pageId="15" pageNumber="165">Encycl. Meth.</title>
+7: SO, 
+<year id="CB6A77A0FFB11B06FBA6F7BD03C14E04" box="[1148,1223,2056,2098]" pageId="15" pageNumber="165">1792</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB11B06FEAAF7F6031E4EE0" pageId="15" pageNumber="165" type="materials_examined">
+<paragraph id="BF7D36F3FFB11B06FEAAF7F6031E4EE0" blockId="15.[302,1698,1837,2321]" pageId="15" pageNumber="165">
+<materialsCitation id="0FAA3CAEFFB11B06FEAAF7F605434E59" ID-GBIF-Occurrence="3994027363" box="[368,581,2115,2159]" collectingDate="1936-06-03" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<location id="BA1D6028FFB11B06FEAAF7F606B74E59" LSID="urn:lsid:plazi:treatment:376B87E5FFB11B06FEE8F89803EE4F27:BA1D6028FFB11B06FEAAF7F606B74E59" box="[368,433,2115,2159]" name="Piti" pageId="15" pageNumber="165">Piti</location>
+, 
+<date id="CB7C1033FFB11B06FE12F7F605384E59" box="[456,574,2115,2159]" pageId="15" pageNumber="165">
+<collectingDate id="DB38E9DBFFB11B06FE12F7F605384E59" box="[456,574,2115,2159]" pageId="15" pageNumber="165">June 3</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FD80F7F605814E59" ID-GBIF-Occurrence="3994027530" box="[602,647,2115,2159]" collectingDate="1936-06-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">12,</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FD42F7F6040A4E59" ID-GBIF-Occurrence="3994027472" box="[664,780,2115,2159]" collectingDate="1936-07-05" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<date id="CB7C1033FFB11B06FD42F7F604004E59" box="[664,774,2115,2159]" pageId="15" pageNumber="165">
+<collectingDate id="DB38E9DBFFB11B06FD42F7F604004E59" box="[664,774,2115,2159]" pageId="15" pageNumber="165">July 5</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FCFAF7F604A44E59" ID-GBIF-Occurrence="3994027496" box="[800,930,2115,2159]" collectingDate="1936-09-01" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<date id="CB7C1033FFB11B06FCFAF7F6049C4E59" box="[800,922,2115,2159]" pageId="15" pageNumber="165">
+<collectingDate id="DB38E9DBFFB11B06FCFAF7F6049C4E59" box="[800,922,2115,2159]" pageId="15" pageNumber="165">Sept. 1</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FC6DF7F604E54E59" ID-GBIF-Occurrence="3994027494" box="[951,995,2115,2159]" collectingDate="1936-09-18" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">18,</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FC2CF7F603204E59" ID-GBIF-Occurrence="3994027362" box="[1014,1062,2115,2159]" collectingDate="1936-09-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">30,</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FBE2F7F602FA4E59" ID-GBIF-Occurrence="3994027450" box="[1080,1532,2115,2159]" collectedFrom="at light" collectingDate="1936-10-19" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<date id="CB7C1033FFB11B06FBE2F7F603BC4E59" box="[1080,1210,2115,2159]" pageId="15" pageNumber="165" value="2019-10">
+<collectingDate id="DB38E9DBFFB11B06FBE2F7F603BC4E59" box="[1080,1210,2115,2159]" pageId="15" pageNumber="165" value="2019-10">Oct. 19</collectingDate>
+</date>
+, at light, 
+<collectorName id="12375325FFB11B06FAB0F7F602F34E59" box="[1386,1525,2115,2159]" pageId="15" pageNumber="165">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06F9D6F7F605814E94" ID-GBIF-Occurrence="3334692412" collectedFrom="in oat bin" collectingDate="1936-08-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<date id="CB7C1033FFB11B06F9D6F7F6019D4E59" box="[1548,1691,2115,2159]" pageId="15" pageNumber="165" value="1927-08">
+<collectingDate id="DB38E9DBFFB11B06F9D6F7F6019D4E59" box="[1548,1691,2115,2159]" pageId="15" pageNumber="165" value="1927-08">Aug. 27</collectingDate>
+</date>
+, in oat bin, 
+<collectorName id="12375325FFB11B06FE2FF7C205864E94" box="[501,640,2167,2210]" pageId="15" pageNumber="165">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FD4DF7C204284E94" ID-GBIF-Occurrence="3994027346" box="[663,814,2167,2210]" collectingDate="1936-08-31" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<date id="CB7C1033FFB11B06FD4DF7C204214E94" box="[663,807,2167,2210]" pageId="15" pageNumber="165" value="1931-08">
+<collectingDate id="DB38E9DBFFB11B06FD4DF7C204214E94" box="[663,807,2167,2210]" pageId="15" pageNumber="165" value="1931-08">Aug. 31</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FC9AF7C204D14E94" ID-GBIF-Occurrence="3994027439" box="[832,983,2167,2210]" collectingDate="1936-09-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<date id="CB7C1033FFB11B06FC9AF7C204D64E94" box="[832,976,2167,2210]" pageId="15" pageNumber="165" value="1927-09">
+<collectingDate id="DB38E9DBFFB11B06FC9AF7C204D64E94" box="[832,976,2167,2210]" pageId="15" pageNumber="165" value="1927-09">
+Sept. 
+<emphasis id="8DB6EAE1FFB11B06FC7FF7C204D14E94" box="[933,983,2167,2210]" italics="true" pageId="15" pageNumber="165">27,</emphasis>
+</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FC30F7C202D64E94" ID-GBIF-Occurrence="3994027391" box="[1002,1488,2167,2210]" collectedFrom="in house" collectingDate="1936-11-22" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<date id="CB7C1033FFB11B06FC30F7C2037C4E94" box="[1002,1146,2167,2210]" pageId="15" pageNumber="165" value="1922-11">
+<collectingDate id="DB38E9DBFFB11B06FC30F7C2037C4E94" box="[1002,1146,2167,2210]" pageId="15" pageNumber="165" value="1922-11">Nov. 22</collectingDate>
+</date>
+, in house, 
+<collectorName id="12375325FFB11B06FAE7F7C202CF4E94" box="[1341,1481,2167,2210]" pageId="15" pageNumber="165">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FA3BF7C201584E94" ID-GBIF-Occurrence="3994027409" box="[1505,1630,2167,2210]" collectingDate="1936-06-08" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<date id="CB7C1033FFB11B06FA3BF7C201504E94" box="[1505,1622,2167,2210]" pageId="15" pageNumber="165">
+<collectingDate id="DB38E9DBFFB11B06FA3BF7C201504E94" box="[1505,1622,2167,2210]" pageId="15" pageNumber="165">June 8</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06F9A9F7C201A64E94" ID-GBIF-Occurrence="3994027382" box="[1651,1696,2167,2210]" collectingDate="1936-06-15" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">15,</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FEF4F71E06BE4EE0" ID-GBIF-Occurrence="3994027431" box="[302,440,2219,2262]" collectingDate="1936-07-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">
+<date id="CB7C1033FFB11B06FEF4F71E06B74EE0" box="[302,433,2219,2262]" pageId="15" pageNumber="165" value="1927-07">
+<collectingDate id="DB38E9DBFFB11B06FEF4F71E06B74EE0" box="[302,433,2219,2262]" pageId="15" pageNumber="165" value="1927-07">
+July 
+<emphasis id="8DB6EAE1FFB11B06FE5CF71E06BE4EE0" box="[390,440,2219,2262]" italics="true" pageId="15" pageNumber="165">27,</emphasis>
+</collectingDate>
+</date>
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FE1DF71E06FF4EE0" ID-GBIF-Occurrence="3994027413" box="[455,505,2219,2262]" collectingDate="1936-07-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="15" pageNumber="165">30,</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB11B06FDD2F71E031E4EE0" ID-GBIF-Occurrence="3994027554" box="[520,1048,2219,2262]" collectingDate="1936-08-01" collectorName="O. H. Swezey" country="Guam" location="Guam" pageId="15" pageNumber="165">
+<date id="CB7C1033FFB11B06FDD2F71E05794EE0" box="[520,639,2219,2262]" pageId="15" pageNumber="165">
+<collectingDate id="DB38E9DBFFB11B06FDD2F71E05794EE0" box="[520,639,2219,2262]" pageId="15" pageNumber="165">Aug. 1</collectingDate>
+</date>
+, without data, 
+<collectorName id="12375325FFB11B06FC57F71E03154EE0" box="[909,1043,2219,2262]" pageId="15" pageNumber="165">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB11B06FEB7F75D03EE4F27" box="[365,1256,2280,2321]" pageId="15" pageNumber="165" type="distribution">
+<paragraph id="BF7D36F3FFB11B06FEB7F75D03EE4F27" blockId="15.[302,1698,1837,2321]" box="[365,1256,2280,2321]" pageId="15" pageNumber="165">
+A widely distributed species, occurring in 
+<collectingRegion id="7D06F811FFB11B06FBBAF75D03E54F27" box="[1120,1251,2280,2321]" country="United States of America" name="Hawaii" pageId="15" pageNumber="165">Hawaii</collectingRegion>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

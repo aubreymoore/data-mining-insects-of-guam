@@ -1,0 +1,99 @@
+<document id="90D0DD87D1CA833B78A6091105A9CE49" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFD551235EF1ADCEFC5BF992" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Acalles samoanus Marshall. 1931" docType="treatment" docVersion="15" lastPageNumber="110" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="110" updateTime="1671148716309" updateUser="annettekang">
+<mods:mods id="26451A1B9189B4BF9A2D3C0EBD898C5C" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="30125355EDDB40DFBDD2CB6BCC73E26E">
+<mods:title id="6E5DE4604FFFC50519D8C23A01DA6A0B">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="0CE6B76771F27D4A14316B4DACB1E8CB" type="personal">
+<mods:role id="53B19C7B89B834EB8CFDE3C75CEBBE97">
+<mods:roleTerm id="4739BAC381098FA46A8391235B8C0257">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="81D669978F58A416FE1E03F2BEE4BA0E">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="9D32484859A0377CEC9A7949CAF41E95">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C3DDB3A4FE9B0CFA59B9B9238552E187">text</mods:typeOfResource>
+<mods:relatedItem id="2C62C8A0E153E53093E3E4024313FA18" type="host">
+<mods:originInfo id="507CFB969736FCF6622CDEAB7E8193DA">
+<mods:dateIssued id="AC33EC081A12145C64376ED371AC58B3">1942</mods:dateIssued>
+<mods:dateOther id="B21084EC41A84953A8ACC7FCCA1A7585" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="6AB1A9D193C65BA9BC3A3BEB492A6749">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="E767A978ACFE4227F85AFE714BE9D4A9">
+<mods:placeTerm id="48A46EABDF7A5307C65A707B04667644">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9A69F06A288CA41BE05D328CA5DB563A">
+<mods:title id="31FEB2B748E5B14157535327E41D7DAE">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="899241A39E9DCA174A1D49C7EE347D46">
+<mods:extent id="CFA170575B7741FCC756136C7B1C1BF1" unit="page">
+<mods:start id="8139CE48D510DFD34889B1DC96F1DD66">73</mods:start>
+<mods:end id="6F7234C6F7D3951992B783139E230036">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="81B9879B58F216448D7A62983B660953">book chapter</mods:classification>
+<mods:identifier id="5FC6C36FFEBD8877CF394AA14C79F16F" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="EF5D3D17BA051AFB3220373549088E9D" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="3B218512D67E0D20C2E661D22630E2FF" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFD551235EF1ADCEFC5BF992" ID-DOI="http://doi.org/10.5281/zenodo.5163948" ID-GBIF-Taxon="184097885" ID-Zenodo-Dep="5163948" LSID="urn:lsid:plazi:treatment:D6388709FFD551235EF1ADCEFC5BF992" httpUri="http://treatment.plazi.org/id/D6388709FFD551235EF1ADCEFC5BF992" lastPageNumber="110" pageId="37" pageNumber="110">
+<subSubSection id="168B6594FFD551235EF1ADCEFDA8FD62" pageId="37" pageNumber="110" type="nomenclature">
+<paragraph id="5E2E361FFFD551235EF1ADCEFDA8FD62" blockId="37.[425,1823,660,1540]" pageId="37" pageNumber="110">
+<heading id="05668173FFD551235EF1ADCEF8E4FD29" box="[426,1822,660,703]" centered="true" fontSize="8" level="2" pageId="37" pageNumber="110" reason="4">
+22. 
+<taxonomicName id="99914D9CFFD551235EA7ADCEFC0EFD29" authority="Marshall" authorityName="Marshall." authorityYear="1931" box="[508,1012,660,703]" class="Insecta" family="Curculionidae" genus="Acalles" kingdom="Animalia" order="Coleoptera" pageId="37" pageNumber="110" phylum="Arthropoda" rank="species" species="samoanus">Acalles samoanus Marshall</taxonomicName>
+, Insects of 
+<collectingCountry id="2686768FFFD551235B8EADCEFAB7FD29" box="[1237,1357,660,703]" name="Samoa" pageId="37" pageNumber="110">Samoa</collectingCountry>
+4(5):280-281, 1931 (pl.
+</heading>
+3, C).
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFD551235EB1AC59F95DFCF4" pageId="37" pageNumber="110" type="distribution">
+<paragraph id="5E2E361FFFD551235EB1AC59F95DFCF4" blockId="37.[425,1823,660,1540]" pageId="37" pageNumber="110">
+This is a widespread species known from 
+<collectingCountry id="2686768FFFD551235B8BAC59FAE9FCB8" box="[1232,1299,771,814]" name="Fiji" pageId="37" pageNumber="110">Fiji</collectingCountry>
+, 
+<collectingCountry id="2686768FFFD551235A71AC59FA67FCB8" box="[1322,1437,771,814]" name="Tonga" pageId="37" pageNumber="110">Tonga</collectingCountry>
+, and 
+<collectingCountry id="2686768FFFD55123595BAC59F98EFCB8" box="[1536,1652,771,814]" name="Samoa" pageId="37" pageNumber="110">Samoa</collectingCountry>
+and eastward through the Austral, Society, Mangareva, and Marquesas Islands.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFD551235EB2AC29F952FAFD" pageId="37" pageNumber="110" type="discussion">
+<paragraph id="5E2E361FFFD551235EB2AC29F952FAFD" blockId="37.[425,1823,660,1540]" pageId="37" pageNumber="110">
+As is usual for the species, it varies greatly in size, shape, sculpture and development of the dorsal tubercles in the series from 
+<collectingCountry id="2686768FFFD551235A29ACFCFA21FC47" box="[1394,1499,934,977]" name="Guam" pageId="37" pageNumber="110">Guam</collectingCountry>
+before me. However, there is more extreme variation in the 
+<collectingCountry id="2686768FFFD551235B8CAC80FAC5FB92" box="[1239,1343,986,1028]" name="Guam" pageId="37" pageNumber="110">Guam</collectingCountry>
+material than I have seen in specimens from other islands, and two extreme, isolated individuals might almost be taken for distinct species. Clean specimens can perhaps be most easily recognized by the conspicuous patch of white squamae at either side of thl base of the pronotum in front of the fifth elytral intervals in combination with their tuberculate dorsum and other characters. For a complete description, discussion and illustration, see my &quot; 
+<taxonomicName id="99914D9CFFD551235BF1AA57F9FAFAAE" authorityName="Schoenherr" authorityYear="1825" box="[1194,1536,1293,1336]" class="Insecta" family="Curculionidae" kingdom="Animalia" order="Coleoptera" pageId="37" pageNumber="110" phylum="Arthropoda" rank="subFamily" subFamily="Cryptorrhynchinae">Cryptorrhynchinae</taxonomicName>
+of the Austral Islands&quot; (B. P. Bishop Mus., 0cc. Papers 12(17): 5-7, fig. 2, 
+<emphasis id="6CE5EA0DFFD551235951AA1AF9DDFAFD" box="[1546,1575,1344,1387]" italics="true" pageId="37" pageNumber="110">b,</emphasis>
+1936).
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFD551235EB2AA28FC5BF992" pageId="37" pageNumber="110" type="materials_examined">
+<paragraph id="5E2E361FFFD551235EB2AA28FC5BF992" blockId="37.[425,1823,660,1540]" pageId="37" pageNumber="110">
+<materialsCitation id="EEF93C42FFD551235EB2AA28FCC6FA47" ID-GBIF-Occurrence="3333874464" collectingDate="1936-06-05" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="37" pageNumber="110" specimenCount="2">
+<location id="5B4E60C4FFD551235EB2AA28FDD4FA08" LSID="urn:lsid:plazi:treatment:D6388709FFD551235EF1ADCEFC5BF992:5B4E60C4FFD551235EB2AA28FDD4FA08" box="[489,558,1394,1438]" country="Guam" municipality="Machanao" name="The" pageId="37" pageNumber="110">The</location>
+following specimens from 
+<collectingCountry id="2686768FFFD551235B6AAA28FB62FA08" box="[1073,1176,1394,1438]" name="Guam" pageId="37" pageNumber="110">Guam</collectingCountry>
+are before me: two at 
+<collectingMunicipality id="BE4AAC65FFD55123593BAA28F8EDFA08" box="[1632,1815,1394,1438]" pageId="37" pageNumber="110">Machanao</collectingMunicipality>
+, 
+<date id="2A2F10DFFFD551235EF2AAFFFD71FA47" box="[425,651,1445,1489]" pageId="37" pageNumber="110" value="1936-06-05">
+<collectingDate id="3A6BE937FFD551235EF2AAFFFD71FA47" box="[425,651,1445,1489]" pageId="37" pageNumber="110" value="1936-06-05">June 5, 1936</collectingDate>
+</date>
+, Usinger;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFD551235C10AAFFFA97FA47" ID-GBIF-Occurrence="3990716322" box="[843,1389,1445,1489]" collectingDate="1936-09-18" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="37" pageNumber="110" specimenCount="1">
+one, Fadian, 
+<date id="2A2F10DFFFD551235B69AAFFFB38FA47" box="[1074,1218,1445,1489]" pageId="37" pageNumber="110" value="2018-09">Sept. 18</date>
+, Swezey;
+</materialsCitation>
+<materialsCitation id="EEF93C42FFD551235A20AAFFFC66F992" ID-GBIF-Occurrence="3990716320" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="37" pageNumber="110" specimenCount="2">and two taken by Fullaway without specific locality</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

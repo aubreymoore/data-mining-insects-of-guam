@@ -1,0 +1,257 @@
+<document id="0A690F1E2E4FCD5AF7DD8B4AFD4ADF79" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E94EFFA7FE01850A90CE01D2" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Amyna octo" docType="treatment" docVersion="22" lastPageNumber="169" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="168" updateTime="1669650926905" updateUser="annettekang">
+<mods:mods id="32109486C3A0182CCE7E17DCCFCD042E" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="2E0594677744C4B56D26A3D858EF69C1">
+<mods:title id="EEBA854DA33556AACA163F65C751FBB3">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="532E6295BA011B672791069C2BCA2976" type="personal">
+<mods:role id="8A047D9F9FC6F496C86F477F39457262">
+<mods:roleTerm id="9918E83AA4B7F4D1FCE96F8EF1BC69C7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="38F93DC138E537D1DA1B1513D22C5C54">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="AE0DF7CEE74C390DEF1B0B8BA9AFED4E">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="0D408A6F2467ACDB12B535E7EA0D9755">text</mods:typeOfResource>
+<mods:relatedItem id="667C3B4102D48970F515B479EA7DF9A8" type="host">
+<mods:originInfo id="A35505E8EEC47E5D79011FD24764402B">
+<mods:dateIssued id="849AE7BC2730925AF865BCDC443DC1A5">1946</mods:dateIssued>
+<mods:dateOther id="0DC59BA8CA2D0084804FF9F5D70A24EE" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="D9772695EFC8B75DC0A50FE4CEF4FB0D">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="466C93D87D3B0D32E42954DB59F3C178">
+<mods:placeTerm id="28A6E87E107556BAC5A3AAEB07AAACF9">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="AEB8A374A2430E07FF38769649D572E7">
+<mods:title id="776217DF4388212F214EB5685CE583BB">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="67F58E23A857D133F67B1FC875B7CF2F">
+<mods:extent id="B0335F6C09F043171A6BBC580B823763" unit="page">
+<mods:start id="8C922EC146D9862751B6EEAA175B4DC9">163</mods:start>
+<mods:end id="C420F9E70E955BE5010AD6172CFAD1CD">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="9375FBA354C97F16DA30C4FC6296AE6E">book chapter</mods:classification>
+<mods:identifier id="B26140203DC180ED55C3B3B11806E14E" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="664F5B8834A19449D8ACD5F2CF82CAE8" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="1F90EA1CE1C0C88174B1E4A474A6E4EC" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E94EFFA7FE01850A90CE01D2" ID-DOI="http://doi.org/10.5281/zenodo.5222717" ID-GBIF-Taxon="183926938" ID-Zenodo-Dep="5222717" LSID="urn:lsid:plazi:treatment:03B387B8E94EFFA7FE01850A90CE01D2" httpUri="http://treatment.plazi.org/id/03B387B8E94EFFA7FE01850A90CE01D2" lastPageId="6" lastPageNumber="169" pageId="5" pageNumber="168">
+<subSubSection id="C3006525E94EFFA4FE01850A91B1042E" box="[462,967,1847,1889]" pageId="5" pageNumber="168" type="nomenclature">
+<paragraph id="8BA536AEE94EFFA4FE01850A91B1042E" blockId="5.[461,1863,1323,2551]" box="[462,967,1847,1889]" pageId="5" pageNumber="168">
+<emphasis id="B96EEABCE94EFFA4FE01850A906B042E" bold="true" box="[462,541,1847,1889]" pageId="5" pageNumber="168">9. *</emphasis>
+<taxonomicName id="4C1A4D2DE94EFFA4FDD2850A91B4042E" authority="(Guenee)" baseAuthorityName="Guenee" baseAuthorityYear="1852" box="[541,962,1847,1889]" class="Insecta" family="Noctuidae" genus="Amyna" kingdom="Animalia" order="Lepidoptera" pageId="5" pageNumber="168" phylum="Arthropoda" rank="species" species="octo">
+<emphasis id="B96EEABCE94EFFA4FDD2850A9089042E" bold="true" box="[541,767,1847,1889]" pageId="5" pageNumber="168">Amyna octo</emphasis>
+(Guenee)
+</taxonomicName>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94EFFA4FDC1855697C70B61" pageId="5" pageNumber="168" type="reference_group">
+<paragraph id="8BA536AEE94EFFA4FDC1855697BF04DA" blockId="5.[461,1863,1323,2551]" box="[526,1481,1899,1941]" pageId="5" pageNumber="168">
+<treatmentCitationGroup id="AB0A1180E94EFFA4FDC1855697BF04DA" box="[526,1481,1899,1941]" pageId="5" pageNumber="168">
+<bibCitation id="5E303EC2E94EFFA4FDC1855697BF04DA" author="Guenee" box="[526,1481,1899,1941]" pageId="5" pageNumber="168" pagination="233" part="1" refId="ref3017" title="Spec. Gen." type="journal article" year="1852">
+<treatmentCitation id="0ABB10BFE94EFFA4FDC1855697B204DA" author="Guenée" box="[526,1476,1899,1941]" page="233" pageId="5" pageNumber="168" year="1852">
+<emphasis id="B96EEABCE94EFFA4FDC18556909D04DA" box="[526,747,1899,1941]" italics="true" pageId="5" pageNumber="168">Perigea octo</emphasis>
+<author id="53A7DE4BE94EFFA4FD31855691F404DA" box="[766,898,1899,1941]" pageId="5" pageNumber="168">Guenee</author>
+, 
+<title id="F91EDD98E94EFFA4FC558556962F04DA" box="[922,1113,1899,1941]" pageId="5" pageNumber="168">Spec. Gen.</title>
+, Noct. 
+<emphasis id="B96EEABCE94EFFA4FB2A8556968504DA" bold="true" box="[1253,1267,1899,1941]" pageId="5" pageNumber="168">
+<part id="FFBE9C33E94EFFA4FB2A8556969904DA" box="[1253,1263,1899,1941]" pageId="5" pageNumber="168" type="volume">1</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE94EFFA4FADA8556972304DA" box="[1301,1365,1899,1941]" pageId="5" pageNumber="168" type="pagination">233</pagination>
+, 
+<year id="FFB277FDE94EFFA4FABE855697B204DA" box="[1393,1476,1899,1941]" pageId="5" pageNumber="168">1852</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE94EFFA4FDC385A097C70B61" blockId="5.[461,1863,1323,2551]" pageId="5" pageNumber="168">
+<treatmentCitationGroup id="AB0A1180E94EFFA4FDC385A097C70B61" pageId="5" pageNumber="168">
+<bibCitation id="5E303EC2E94EFFA4FDC385A097C70B61" author="Hampson" journalOrPublisher="Ins. Samoa" pageId="5" pageNumber="168" pagination="251" part="2" refId="ref3034" title="Moths Ind." type="journal volume" year="1894">
+<emphasis id="B96EEABCE94EFFA4FDC385A0909D0488" box="[524,747,1949,1991]" italics="true" pageId="5" pageNumber="168">Amyna octo,</emphasis>
+<treatmentCitation id="0ABB10BFE94EFFA4FD3785A094760488" author="Hampson" box="[760,1536,1949,1991]" page="251" pageId="5" pageNumber="168" year="1894">
+<author id="53A7DE4BE94EFFA4FD3785A091D30488" box="[760,933,1949,1991]" pageId="5" pageNumber="168">Hampson</author>
+, 
+<title id="F91EDD98E94EFFA4FC7685A0960D0488" box="[953,1147,1949,1991]" pageId="5" pageNumber="168">Moths Ind.</title>
+<emphasis id="B96EEABCE94EFFA4FB4785A096ED0488" bold="true" box="[1160,1179,1949,1991]" pageId="5" pageNumber="168">
+<part id="FFBE9C33E94EFFA4FB4785A096E10488" box="[1160,1175,1949,1991]" pageId="5" pageNumber="168">2</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE94EFFA4FB7585A0968C0488" box="[1210,1274,1949,1991]" pageId="5" pageNumber="168">251</pagination>
+, fig. 142, 
+<year id="FFB277FDE94EFFA4FA6785A094760488" box="[1448,1536,1949,1991]" pageId="5" pageNumber="168">1894</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE94EFFA4F9DA85A0964B04B5" author="Hampson" page="468" pageId="5" pageNumber="168" year="1910">
+<title id="F91EDD98E94EFFA4F9DA85A090FE04B5" pageId="5" pageNumber="168">Cat. Lep. Phalaenae</title>
+<emphasis id="B96EEABCE94EFFA4FD5285F290A204B5" bold="true" box="[669,724,1999,2042]" pageId="5" pageNumber="168">
+<part id="FFBE9C33E94EFFA4FD5285F290B404B5" box="[669,706,1999,2042]" pageId="5" pageNumber="168">10</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE94EFFA4FD2F85F2915704B5" box="[736,801,1999,2042]" pageId="5" pageNumber="168">468</pagination>
+, fig. 132, 
+<year id="FFB277FDE94EFFA4FC2B85F2964B04B5" box="[996,1085,1999,2042]" pageId="5" pageNumber="168">1910</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE94EFFA4FB9785F294A304B5" author="Tams" box="[1112,1749,1999,2042]" page="203" pageId="5" pageNumber="168" year="1935">
+<author id="53A7DE4BE94EFFA4FB9785F296C904B5" box="[1112,1215,1999,2042]" pageId="5" pageNumber="168">Tams</author>
+, 
+<journalOrPublisher id="51DB3C62E94EFFA4FB1585F297DD04B5" box="[1242,1451,1999,2042]" pageId="5" pageNumber="168">
+Ins. 
+<collectingCountry id="F30D763EE94EFFA4FAFD85F297DD04B5" box="[1330,1451,1999,2042]" name="Samoa" pageId="5" pageNumber="168">Samoa</collectingCountry>
+</journalOrPublisher>
+<part id="FFBE9C33E94EFFA4FA7185F297A204B5" box="[1470,1492,1999,2042]" pageId="5" pageNumber="168" type="volume">3</part>
+(
+<part id="FFBE9C33E94EFFA4FA2D85F2978A04B5" box="[1506,1532,1999,2042]" pageId="5" pageNumber="168" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE94EFFA4F9FE85F2941A04B5" box="[1585,1644,1999,2042]" pageId="5" pageNumber="168" type="pagination">203</pagination>
+, 
+<year id="FFB277FDE94EFFA4F94785F294A304B5" box="[1672,1749,1999,2042]" pageId="5" pageNumber="168">1935</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE94EFFA4F93485F297DA0B61" author="Collenette" page="205" pageId="5" pageNumber="168" year="1935">
+<author id="53A7DE4BE94EFFA4F93485F290B00B61" pageId="5" pageNumber="168">Collenette</author>
+, 
+<journalOrPublisher id="51DB3C62E94EFFA4FD138A3F96E10B61" box="[732,1175,2050,2094]" pageId="5" pageNumber="168">B. P. Bishop Mus., Bull.</journalOrPublisher>
+<emphasis id="B96EEABCE94EFFA4FB668A3F96830B61" bold="true" box="[1193,1269,2050,2094]" pageId="5" pageNumber="168">
+<part id="FFBE9C33E94EFFA4FB668A3F96990B61" box="[1193,1263,2050,2094]" pageId="5" pageNumber="168" type="volume">114</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE94EFFA4FACD8A3F97340B61" box="[1282,1346,2050,2094]" pageId="5" pageNumber="168" type="pagination">205</pagination>
+, 
+<year id="FFB277FDE94EFFA4FA958A3F97DA0B61" box="[1370,1452,2050,2094]" pageId="5" pageNumber="168">1935</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E94EFFA7FDC08A0A90CE01D2" lastPageId="6" lastPageNumber="169" pageId="5" pageNumber="168" type="materials_examined">
+<paragraph id="8BA536AEE94EFFA4FDC08A0A961E0B88" blockId="5.[461,1863,1323,2551]" pageId="5" pageNumber="168">
+<materialsCitation id="3B723CF3E94EFFA4FDC08A0A961B0B2D" ID-GBIF-Occurrence="3332081423" box="[527,1133,2103,2146]" collectedFrom="at light" collectingDate="1936-04-17" collectorName="E. H. Bryan" country="Guam" location="Agana" pageId="5" pageNumber="168">
+<collectingMunicipality id="6BC1ACD4E94EFFA4FDC08A0A90F20B2D" box="[527,644,2103,2146]" pageId="5" pageNumber="168">Agana</collectingMunicipality>
+, 
+<date id="FFA4106EE94EFFA4FD528A0A914E0B2D" box="[669,824,2103,2146]" pageId="5" pageNumber="168" value="2017-04">
+<collectingDate id="EFE0E986E94EFFA4FD528A0A914E0B2D" box="[669,824,2103,2146]" pageId="5" pageNumber="168" value="2017-04">April 17</collectingDate>
+</date>
+, at light, 
+<location id="8EC56075E94EFFA4FC3F8A0A96100B2D" LSID="urn:lsid:plazi:treatment:03B387B8E94EFFA7FE01850A90CE01D2:8EC56075E94EFFA4FC3F8A0A96100B2D" box="[1008,1126,2103,2146]" pageId="5" pageNumber="168">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E94EFFA4FB4E8A0A97C60B2D" ID-GBIF-Occurrence="3913652459" box="[1153,1456,2103,2146]" collectingDate="1936-08-19" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="5" pageNumber="168">
+<collectingMunicipality id="6BC1ACD4E94EFFA4FB4E8A0A96880B2D" box="[1153,1278,2103,2146]" pageId="5" pageNumber="168">
+<location id="8EC56075E94EFFA4FB4E8A0A96880B2D" LSID="urn:lsid:plazi:treatment:03B387B8E94EFFA7FE01850A90CE01D2:8EC56075E94EFFA4FB4E8A0A96880B2D" box="[1153,1278,2103,2146]" pageId="5" pageNumber="168">Fadian</location>
+</collectingMunicipality>
+, 
+<date id="FFA4106EE94EFFA4FAD98A0A97DC0B2D" box="[1302,1450,2103,2146]" pageId="5" pageNumber="168" value="2019-08">
+<collectingDate id="EFE0E986E94EFFA4FAD98A0A97DC0B2D" box="[1302,1450,2103,2146]" pageId="5" pageNumber="168" value="2019-08">Aug. 19</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E94EFFA4FA0B8A0A90A00BD8" ID-GBIF-Occurrence="3913652363" collectedFrom="reared from Sida" collectingDate="1936-09-18" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="5" pageNumber="168">
+<date id="FFA4106EE94EFFA4FA0B8A0A942E0B2D" box="[1476,1624,2103,2146]" pageId="5" pageNumber="168" value="2018-09">
+<collectingDate id="EFE0E986E94EFFA4FA0B8A0A942E0B2D" box="[1476,1624,2103,2146]" pageId="5" pageNumber="168" value="2018-09">Sept. 18</collectingDate>
+</date>
+, reared from 
+<emphasis id="B96EEABCE94EFFA4FE1F8A5E905F0BD8" box="[464,553,2147,2199]" italics="true" pageId="5" pageNumber="168">
+<taxonomicName id="4C1A4D2DE94EFFA4FE1F8A5E90540BD8" box="[464,546,2147,2199]" class="Branchiopoda" family="Malvaceae" genus="Sida" kingdom="Animalia" order="Diplostraca" pageId="5" pageNumber="168" phylum="Arthropoda" rank="genus">
+<location id="8EC56075E94EFFA4FE1F8A5E90540BD8" LSID="urn:lsid:plazi:treatment:03B387B8E94EFFA7FE01850A90CE01D2:8EC56075E94EFFA4FE1F8A5E90540BD8" box="[464,546,2147,2199]" pageId="5" pageNumber="168">Sida</location>
+</taxonomicName>
+,
+</emphasis>
+s·wezey;
+</materialsCitation>
+<materialsCitation id="3B723CF3E94EFFA4FD3F8A5E91800BD8" ID-GBIF-Occurrence="3913652343" box="[752,1014,2147,2199]" collectingDate="1936-09-11" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="168">
+<location id="8EC56075E94EFFA4FD3F8A5E91440BD8" LSID="urn:lsid:plazi:treatment:03B387B8E94EFFA7FE01850A90CE01D2:8EC56075E94EFFA4FD3F8A5E91440BD8" box="[752,818,2147,2199]" pageId="5" pageNumber="168">
+<collectingMunicipality id="6BC1ACD4E94EFFA4FD3F8A5E91440BD8" box="[752,818,2147,2199]" pageId="5" pageNumber="168">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE94EFFA4FC9C8A5E91990BD8" box="[851,1007,2147,2199]" pageId="5" pageNumber="168" value="2011-09">
+<collectingDate id="EFE0E986E94EFFA4FC9C8A5E91990BD8" box="[851,1007,2147,2199]" pageId="5" pageNumber="168" value="2011-09">Sept. 11</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="3B723CF3E94EFFA4FBC08A5E978F0BD8" ID-GBIF-Occurrence="3913652508" box="[1039,1529,2147,2199]" collectedFrom="at light" collectingDate="1936-10-14" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="5" pageNumber="168">
+<date id="FFA4106EE94EFFA4FBC08A5E96ED0BD8" box="[1039,1179,2147,2199]" pageId="5" pageNumber="168" value="2014-10">
+<collectingDate id="EFE0E986E94EFFA4FBC08A5E96ED0BD8" box="[1039,1179,2147,2199]" pageId="5" pageNumber="168" value="2014-10">Oct. 14</collectingDate>
+</date>
+, at light, 
+<collectorName id="26EF5378E94EFFA4FAA98A5E97840BD8" box="[1382,1522,2147,2199]" pageId="5" pageNumber="168">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B723CF3E94EFFA4F9DD8A5E961E0B88" ID-GBIF-Occurrence="3332081309" collectedFrom="reared from Sida" collectingDate="1936-09-27" collectorName="O. H. Swezey" country="Guam" location="Orote Peninsula" pageId="5" pageNumber="168">
+<collectingMunicipality id="6BC1ACD4E94EFFA4F9DD8A5E95360BD8" box="[1554,1856,2147,2199]" pageId="5" pageNumber="168">Orote Peninsula</collectingMunicipality>
+, 
+<date id="FFA4106EE94EFFA4FE1C8AA0901C0B88" box="[467,618,2205,2247]" pageId="5" pageNumber="168" value="1927-09">
+<collectingDate id="EFE0E986E94EFFA4FE1C8AA0901C0B88" box="[467,618,2205,2247]" pageId="5" pageNumber="168" value="1927-09">Sept. 27</collectingDate>
+</date>
+, reared from 
+<taxonomicName id="4C1A4D2DE94EFFA4FCA28AA0961E0B88" authority=", Swezey." box="[877,1128,2205,2247]" class="Branchiopoda" family="Malvaceae" genus="Sida" kingdom="Animalia" order="Diplostraca" pageId="5" pageNumber="168" phylum="Arthropoda" rank="genus">
+<emphasis id="B96EEABCE94EFFA4FCA28AA091B00B88" box="[877,966,2205,2247]" italics="true" pageId="5" pageNumber="168">
+<location id="8EC56075E94EFFA4FCA28AA091C90B88" LSID="urn:lsid:plazi:treatment:03B387B8E94EFFA7FE01850A90CE01D2:8EC56075E94EFFA4FCA28AA091C90B88" box="[877,959,2205,2247]" pageId="5" pageNumber="168">Sida</location>
+,
+</emphasis>
+<collectorName id="26EF5378E94EFFA4FC128AA096150B88" box="[989,1123,2205,2247]" pageId="5" pageNumber="168">Swezey</collectorName>
+.
+</taxonomicName>
+</materialsCitation>
+</paragraph>
+<paragraph id="8BA536AEE94EFFA4FDDF8AF394230AB8" blockId="5.[461,1863,1323,2551]" pageId="5" pageNumber="168">
+This variable moth has a very wide range of distribution: southern 
+<collectingCountry id="F30D763EE94EFFA4F9028AF390490A63" name="United States of America" pageId="5" pageNumber="168">United States</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94EFFA4FD9A8B3C90AD0A63" box="[597,731,2305,2348]" name="Mexico" pageId="5" pageNumber="168">Mexico</collectingCountry>
+, Central America, West Indies, South America, Africa, Arabia, 
+<collectingCountry id="F30D763EE94EFFA4FE1F8B0990590A10" box="[464,559,2356,2399]" name="India" pageId="5" pageNumber="168">India</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94EFFA4FD838B0990B10A10" box="[588,711,2356,2399]" name="Sri Lanka" pageId="5" pageNumber="168">Ceylon</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94EFFA4FD2D8B09912B0A10" box="[738,861,2356,2399]" name="Myanmar" pageId="5" pageNumber="168">Burma</collectingCountry>
+, Andaman Islands, 
+<collectingCountry id="F30D763EE94EFFA4FB1A8B0994700A10" box="[1237,1542,2356,2399]" name="Christmas Island" pageId="5" pageNumber="168">Christmas Island</collectingCountry>
+(Indian Ocean), 
+<collectingCountry id="F30D763EE94EFFA4FE1E8B5B904D0ADD" box="[465,571,2406,2450]" name="China" pageId="5" pageNumber="168">China</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94EFFA4FD998B5B90C90ADD" box="[598,703,2406,2450]" name="Japan" pageId="5" pageNumber="168">Japan</collectingCountry>
+, Borneo, 
+<collectingCountry id="F30D763EE94EFFA4FCB28B5B91820ADD" box="[893,1012,2406,2450]" name="Samoa" pageId="5" pageNumber="168">Samoa</collectingCountry>
+, Marquesas, Society Islands, 
+<collectingCountry id="F30D763EE94EFFA4F9EE8B5B94100ADD" box="[1569,1638,2406,2450]" name="Fiji" pageId="5" pageNumber="168">Fiji</collectingCountry>
+, Rarotonga, 
+<collectingCountry id="F30D763EE94EFFA4FE008BA490320A8B" box="[463,580,2457,2500]" name="Tonga" pageId="5" pageNumber="168">Tonga</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94EFFA4FD928BA491270A8B" box="[605,849,2457,2500]" name="Tuvalu" pageId="5" pageNumber="168">Ellice Islands</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94EFFA4FCA48BA496010A8B" box="[875,1143,2457,2500]" name="Kiribati" pageId="5" pageNumber="168">Gilbert Islands</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94EFFA4FB5F8BA497EE0A8B" box="[1168,1432,2457,2500]" name="Vanuatu" pageId="5" pageNumber="168">New Hebrides</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94EFFA4FA7D8BA494AA0A8B" box="[1458,1756,2457,2500]" name="Solomon Islands" pageId="5" pageNumber="168">Solomon Islands</collectingCountry>
+, New 
+<collectingCountry id="F30D763EE94EFFA4FE1E8BF090260AB8" box="[465,592,2509,2551]" name="Guinea-Bissau" pageId="5" pageNumber="168">Guinea</collectingCountry>
+, 
+<collectingCountry id="F30D763EE94EFFA4FDA78BF091660AB8" box="[616,784,2509,2551]" name="Australia" pageId="5" pageNumber="168">Australia</collectingCountry>
+. Now recorded from 
+<collectingCountry id="F30D763EE94EFFA4FB688BF097790AB8" box="[1191,1295,2509,2551]" name="Guam" pageId="5" pageNumber="168">Guam</collectingCountry>
+for the first time.
+</paragraph>
+<paragraph id="8BA536AEE94DFFA7FE98837C912A0178" blockId="6.[280,1679,321,669]" pageId="6" pageNumber="169">
+The species has 23 synonyms, and aconsiderable variation. J. F. G. Clarke considers that a thorough study of the male genitalia might result in distinguishing several good species in the lot. In his study of the male genitalia of 
+<collectingCountry id="F30D763EE94DFFA7FE8683E493C4014B" box="[329,434,473,516]" name="Guam" pageId="6" pageNumber="169">Guam</collectingCountry>
+material, it came nearest to specimens from Texas, and was different from material from the Orient.
+</paragraph>
+<paragraph id="8BA536AEE94DFFA7FE95807D90CE01D2" blockId="6.[280,1679,321,669]" pageId="6" pageNumber="169">
+It was quite common in 
+<collectingCountry id="F30D763EE94DFFA7FCF4807D91D00126" box="[827,934,576,617]" name="Guam" pageId="6" pageNumber="169">Guam</collectingCountry>
+, the slender, green, looping caterpillars feeding on 
+<emphasis id="B96EEABCE94DFFA7FE3F804990CE01D2" box="[496,696,628,669]" italics="true" pageId="6" pageNumber="169">
+<taxonomicName id="4C1A4D2DE94DFFA7FE3F804990C501D2" box="[496,691,628,669]" class="Branchiopoda" family="Malvaceae" genus="Sida" kingdom="Animalia" order="Diplostraca" pageId="6" pageNumber="169" phylum="Arthropoda" rank="species" species="acuta">Sida acuta</taxonomicName>
+.
+</emphasis>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

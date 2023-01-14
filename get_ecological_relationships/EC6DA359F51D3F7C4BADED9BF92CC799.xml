@@ -1,0 +1,163 @@
+<document id="7C98C20EFB3F550D4D32EAF017AE58E9" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F51D3F7C4BADED9BF92CC799" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Nysius caledoniae Distant" docType="treatment" docVersion="22" lastPageNumber="28" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="28" updateTime="1671545422804" updateUser="annettekang">
+<mods:mods id="32740AB82FA660220FFE588CC8AE5E25" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C86AFC440D8B0DCA0DAD96BA9F109736">
+<mods:title id="CC8D921DF386A8C76CD099D23E116495">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="88A521B2AC84D5F19444D7EF656ADC1A" type="personal">
+<mods:role id="24ADE17AED55DFBDF05E8F32DA7FBBE3">
+<mods:roleTerm id="40E2E01F247AEEE1B68D4356136D1123">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="FAB8187243534C562EECF0E94C25E9A3">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="9A576C2C1C38484DB98A25C5A6419A30">text</mods:typeOfResource>
+<mods:relatedItem id="788DD4BA2D1988D7FB65C7A9B4547F66" type="host">
+<mods:originInfo id="074A068532A5524B5D62D30159D1A168">
+<mods:dateIssued id="490C1878AC22D2BD4DBFC54738D24E8F">1946</mods:dateIssued>
+<mods:dateOther id="6DE97EB48C6C990482BAB77DFF5E9426" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="BF01CCBBB0D12725D38766BFC5EC779A">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="7B8D407C5AAAFF231AB289E25951F5DF">
+<mods:placeTerm id="CCF00D05D501A07DFB95DC8EBA4C19D6">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="8154B8CFA398ABF7528739715558EDF5">
+<mods:title id="CED0A8E51516CA578DDBF6547592A893">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="FB2A1F55D64402452BDC763A3DBB357E">
+<mods:extent id="669A88AF3091E07820618EDC02B62ACB" unit="page">
+<mods:start id="2231F189F24734D2F2A1F0223B054A06">11</mods:start>
+<mods:end id="ECC7E23D9B2D2E1FFA5F356A5729EA32">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="2B8EAC664C804D9D41A1A9C1BEE30A3A">book chapter</mods:classification>
+<mods:identifier id="35B06AC927790277367E1162DFBA56C7" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="149A91AE39D2BCD486B8FC14B14D2196" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="ACD1F2DED3F9EF41353B3D46544423D1" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F51D3F7C4BADED9BF92CC799" ID-DOI="http://doi.org/10.5281/zenodo.5157603" ID-GBIF-Taxon="184601181" ID-Zenodo-Dep="5157603" LSID="urn:lsid:plazi:treatment:EC6DA359F51D3F7C4BADED9BF92CC799" httpUri="http://treatment.plazi.org/id/EC6DA359F51D3F7C4BADED9BF92CC799" lastPageNumber="28" pageId="17" pageNumber="28">
+<subSubSection id="2CDE41C4F51D3F7C4BADED9BFBE1C275" box="[461,1029,755,797]" pageId="17" pageNumber="28" type="nomenclature">
+<paragraph id="647B124FF51D3F7C4BADED9BFBE1C275" blockId="17.[457,1858,755,1777]" box="[461,1029,755,797]" pageId="17" pageNumber="28">
+<heading id="3F33A523F51D3F7C4BADED9BFBE1C275" box="[461,1029,755,797]" fontSize="8" level="2" pageId="17" pageNumber="28" reason="4">
+<emphasis id="56B0CE5DF51D3F7C4BADED9BFE19C275" bold="true" box="[461,509,755,797]" pageId="17" pageNumber="28">18.</emphasis>
+<taxonomicName id="A3C469CCF51D3F7C487EED9BFC1AC275" authority="Distant" box="[542,1022,755,797]" class="Insecta" family="Lygaeidae" genus="Nysius" kingdom="Animalia" order="Hemiptera" pageId="17" pageNumber="28" phylum="Arthropoda" rank="species" species="caledoniae">
+<emphasis id="56B0CE5DF51D3F7C487EED9BFC81C275" bold="true" box="[542,869,755,797]" pageId="17" pageNumber="28">Nysius caledoniae</emphasis>
+<author id="BC79FAAAF51D3F7C4915ED9BFC1AC275" box="[885,1022,755,797]" pageId="17" pageNumber="28">Distant</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F51D3F7C4E73ED9BF93DC275" box="[1043,1753,755,797]" pageId="17" pageNumber="28" type="reference_group">
+<paragraph id="647B124FF51D3F7C4E73ED9BF93DC275" blockId="17.[457,1858,755,1777]" box="[1043,1753,755,797]" pageId="17" pageNumber="28">
+<heading id="3F33A523F51D3F7C4E73ED9BF93DC275" box="[1043,1753,755,797]" fontSize="8" level="2" pageId="17" pageNumber="28" reason="4">
+<bibCitation id="B1EE1A23F51D3F7C4E73ED9BF93DC275" author="Distant" box="[1043,1753,755,797]" pageId="17" pageNumber="28" pagination="151" part="6" refId="ref7885" title="Ann. Mag. Nat. Hist" type="journal article" year="1920">
+<treatmentCitationGroup id="44D43561F51D3F7C4E73ED9BF930C275" box="[1043,1748,755,797]" pageId="17" pageNumber="28">
+<treatmentCitation id="E565345EF51D3F7C4E73ED9BF930C275" author="Distant" box="[1043,1748,755,797]" page="151" pageId="17" pageNumber="28" year="1920">
+<title id="16C0F979F51D3F7C4E73ED9BFA71C275" box="[1043,1429,755,797]" pageId="17" pageNumber="28">Ann. Mag. Nat. Hist</title>
+. IX, 
+<emphasis id="56B0CE5DF51D3F7C4F96ED9BF9FFC275" bold="true" box="[1526,1563,755,797]" pageId="17" pageNumber="28">
+<part id="1060B8D2F51D3F7C4F96ED9BF9EDC275" box="[1526,1545,755,797]" pageId="17" pageNumber="28" type="volume">6</part>
+:
+</emphasis>
+<pagination id="5D0DECBBF51D3F7C4C4BED9BF98CC275" box="[1579,1640,755,797]" pageId="17" pageNumber="28" type="pagination">151</pagination>
+, 
+<year id="106C531CF51D3F7C4CE2ED9BF930C275" box="[1666,1748,755,797]" pageId="17" pageNumber="28">1920</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F51D3F7C486AEC4EF92CC799" pageId="17" pageNumber="28" type="description">
+<paragraph id="647B124FF51D3F7C486AEC4EF9C1C53A" blockId="17.[457,1858,755,1777]" pageId="17" pageNumber="28">
+<materialsCitation id="D4AC1812F51D3F7C486AEC4EF999C239" ID-GBIF-Occurrence="3994028516" box="[522,1661,806,849]" collectedFrom="on Emilia" collectingDate="1936-04-30" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="17" pageNumber="28" specimenCount="30">
+Thirty 
+<specimenCount id="72C2D9C6F51D3F7C48EBEC4EFCDEC239" box="[651,826,806,849]" pageId="17" pageNumber="28" type="generic">specimens</specimenCount>
+collected at 
+<collectingMunicipality id="841F8835F51D3F7C4E7CEC4EFBBAC239" box="[1052,1118,806,849]" pageId="17" pageNumber="28">Piti</collectingMunicipality>
+, 
+<date id="107A348FF51D3F7C4E15EC4EFAE8C239" box="[1141,1292,806,849]" pageId="17" pageNumber="28" value="1930-04">
+<collectingDate id="003ECD67F51D3F7C4E15EC4EFAE8C239" box="[1141,1292,806,849]" pageId="17" pageNumber="28" value="1930-04">April 30</collectingDate>
+</date>
+, on 
+<taxonomicName id="A3C469CCF51D3F7C4F39EC4EF999C239" authority=", Usinger" authorityName="Usinger" box="[1369,1661,806,849]" class="Magnoliopsida" family="Asteraceae" genus="Emilia" kingdom="Plantae" order="Asterales" pageId="17" pageNumber="28" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF51D3F7C4F39EC4EFA3CC239" box="[1369,1496,806,849]" italics="true" pageId="17" pageNumber="28">
+<location id="611B4494F51D3F7C4F39EC4EFA36C239" LSID="urn:lsid:plazi:treatment:EC6DA359F51D3F7C4BADED9BF92CC799:611B4494F51D3F7C4F39EC4EFA36C239" box="[1369,1490,806,849]" municipality="Piti" name="Emilia" pageId="17" pageNumber="28">Emilia</location>
+,
+</emphasis>
+<location id="611B4494F51D3F7C4F86EC4EF999C239" LSID="urn:lsid:plazi:treatment:EC6DA359F51D3F7C4BADED9BF92CC799:611B4494F51D3F7C4F86EC4EF999C239" box="[1510,1661,806,849]" municipality="Piti" name="Usinger" pageId="17" pageNumber="28">Usinger</location>
+</taxonomicName>
+</materialsCitation>
+; 
+<materialsCitation id="D4AC1812F51D3F7C4CF4EC4EFC49C2EC" ID-GBIF-Occurrence="3994028427" collectingDate="1936-05-01" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="17" pageNumber="28" specimenCount="1">
+<specimenCount id="72C2D9C6F51D3F7C4CF4EC4EFDF3C2EC" pageId="17" pageNumber="28" type="generic">one specimen</specimenCount>
+, 
+<collectingMunicipality id="841F8835F51D3F7C484FEC32FD95C2EC" box="[559,625,858,900]" pageId="17" pageNumber="28">Piti</collectingMunicipality>
+, 
+<date id="107A348FF51D3F7C48ECEC32FCE4C2EC" box="[652,768,858,900]" pageId="17" pageNumber="28">
+<collectingDate id="003ECD67F51D3F7C48ECEC32FCE4C2EC" box="[652,768,858,900]" pageId="17" pageNumber="28">May 1</collectingDate>
+</date>
+, 
+<location id="611B4494F51D3F7C497DEC32FC49C2EC" LSID="urn:lsid:plazi:treatment:EC6DA359F51D3F7C4BADED9BF92CC799:611B4494F51D3F7C497DEC32FC49C2EC" box="[797,941,858,900]" municipality="Piti" name="Usinger" pageId="17" pageNumber="28">Usinger</location>
+</materialsCitation>
+. This species was repeatedly observed throughout our stay on 
+<collectingCountry id="1CD352DFF51D3F7C48CAECE6FCF7C2D0" box="[682,787,910,952]" name="Guam" pageId="17" pageNumber="28">Guam</collectingCountry>
+on the recently (within the previous 10 years) introduced composite, 
+<emphasis id="56B0CE5DF51D3F7C48F7ECA8FCF1C283" box="[663,789,960,1003]" italics="true" pageId="17" pageNumber="28">
+<taxonomicName id="A3C469CCF51D3F7C48F7ECA8FCF4C283" box="[663,784,960,1003]" class="Magnoliopsida" family="Asteraceae" genus="Emilia" kingdom="Plantae" order="Asterales" pageId="17" pageNumber="28" phylum="Tracheophyta" rank="genus">Emilia</taxonomicName>
+.
+</emphasis>
+The incubation period of eggs in 
+<taxonomicName id="A3C469CCF51D3F7C4FCDECA8F9C7C283" box="[1453,1571,960,1003]" class="Magnoliopsida" family="Asteraceae" genus="Emilia" kingdom="Plantae" order="Asterales" pageId="17" pageNumber="28" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF51D3F7C4FCDECA8F9C7C283" box="[1453,1571,960,1003]" italics="true" pageId="17" pageNumber="28">Emilia</emphasis>
+</taxonomicName>
+heads was five days. I collected the same species commonly at Los Banos and Montalban, 
+<collectingCountry id="1CD352DFF51D3F7C4BACEB4FFCF4C53A" box="[460,784,1063,1106]" name="Philippines" pageId="17" pageNumber="28">Philippine Islands</collectingCountry>
+, on the closely related composite, 
+<emphasis id="56B0CE5DF51D3F7C4F1DEB4FF9C1C53A" box="[1405,1573,1063,1106]" italics="true" pageId="17" pageNumber="28">
+<taxonomicName id="A3C469CCF51D3F7C4F1DEB4FF9C4C53A" box="[1405,1568,1063,1106]" class="Magnoliopsida" family="Asteraceae" genus="Erigeron" kingdom="Plantae" order="Asterales" pageId="17" pageNumber="28" phylum="Tracheophyta" rank="genus">Erigeron</taxonomicName>
+.
+</emphasis>
+</paragraph>
+<paragraph id="647B124FF51D3F7C4869EB35F92CC799" blockId="17.[457,1858,755,1777]" pageId="17" pageNumber="28">
+These specimens agree closely with topotypic 
+<collectingCountry id="1CD352DFF51D3F7C4F49EB35F9D1C5E0" box="[1321,1589,1117,1160]" name="New Caledonia" pageId="17" pageNumber="28">New Caledonia</collectingCountry>
+material determined by Distant. They are close to 
+<taxonomicName id="A3C469CCF51D3F7C4E38EBF9FB14C5D3" authorityName="Waterston" authorityYear="1915" box="[1112,1264,1169,1211]" class="Insecta" family="Encyrtidae" genus="Ooencyrtus" kingdom="Animalia" order="Hymenoptera" pageId="17" pageNumber="28" phylum="Arthropoda" rank="species" species="pacificus">
+<emphasis id="56B0CE5DF51D3F7C4E38EBF9FB14C5D3" box="[1112,1264,1169,1211]" italics="true" pageId="17" pageNumber="28">pacificus</emphasis>
+</taxonomicName>
+<collectingCountry id="1CD352DFF51D3F7C4E9EEBF9FA81C5D3" box="[1278,1381,1169,1211]" name="China" pageId="17" pageNumber="28">China</collectingCountry>
+but have a slightly shorter and less dense pubescence dorsally, particularly on the hemelytra. The presence of 
+<taxonomicName id="A3C469CCF51D3F7C4B9CEB90FD77C44A" authorityName="Waterston" authorityYear="1915" box="[508,659,1272,1314]" class="Insecta" family="Encyrtidae" genus="Ooencyrtus" kingdom="Animalia" order="Hymenoptera" pageId="17" pageNumber="28" phylum="Arthropoda" rank="species" species="pacificus">
+<emphasis id="56B0CE5DF51D3F7C4B9CEB90FD77C44A" box="[508,659,1272,1314]" italics="true" pageId="17" pageNumber="28">pacificus</emphasis>
+</taxonomicName>
+on Tutuila, alone of the Samoan Islands, is not particularly remarkable since it was probably introduced there. I also have specimens from 
+<collectingCountry id="1CD352DFF51D3F7C4C9EEA42F8DBC43D" box="[1790,1855,1322,1365]" name="Fiji" pageId="17" pageNumber="28">Fiji</collectingCountry>
+and 
+<taxonomicName id="A3C469CCF51D3F7C487CEA36FD24C4E0" authorityName="Kirkaldy" authorityYear="1913" box="[540,704,1374,1416]" class="Insecta" family="Dictyopharidae" genus="Amboina" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="17" pageNumber="28" phylum="Arthropoda" rank="genus">Amboina</taxonomicName>
+. Specimens are at hand from 
+<collectingCountry id="1CD352DFF51D3F7C4F6BEA36FA8CC4E0" box="[1291,1384,1374,1416]" name="India" pageId="17" pageNumber="28">India</collectingCountry>
+determined as 
+<emphasis id="56B0CE5DF51D3F7C4CEEEA36F8A4C4E0" box="[1678,1856,1374,1416]" italics="true" pageId="17" pageNumber="28">ceylanicus</emphasis>
+Motschulsky by Distant. These also belong with 
+<taxonomicName id="A3C469CCF51D3F7C4F5FEAF9FA33C4D4" authorityName="Waterston" authorityYear="1915" box="[1343,1495,1425,1468]" class="Insecta" family="Encyrtidae" genus="Ooencyrtus" kingdom="Animalia" order="Hymenoptera" pageId="17" pageNumber="28" phylum="Arthropoda" rank="species" species="pacificus">
+<emphasis id="56B0CE5DF51D3F7C4F5FEAF9FA33C4D4" box="[1343,1495,1425,1468]" italics="true" pageId="17" pageNumber="28">pacificus</emphasis>
+</taxonomicName>
+while a 
+<typeStatus id="BB7FACEDF51D3F7C4C12EAF9F8EFC4D4" box="[1650,1803,1425,1468]" pageId="17" pageNumber="28">paratype</typeStatus>
+of 
+<emphasis id="56B0CE5DF51D3F7C4BAAEAAEFDA1C499" box="[458,581,1478,1521]" italics="true" pageId="17" pageNumber="28">turneri</emphasis>
+Evans from Tasmania is closely allied but has longer, erect pubescence, especially on the pronotum. These closely related species form a group which is widely distributed throughout the Austro-Oriental region. Representatives of this group are also at hand from south and central 
+<collectingCountry id="1CD352DFF51D3F7C4FC0E909F9E1C7E2" box="[1440,1541,1633,1674]" name="China" pageId="17" pageNumber="28">China</collectingCountry>
+and from 
+<collectingCountry id="1CD352DFF51D3F7C4CADE909F8DCC7E2" box="[1741,1848,1633,1674]" name="Japan" pageId="17" pageNumber="28">Japan</collectingCountry>
+. The status of the various Oriental species of 
+<taxonomicName id="A3C469CCF51D3F7C4F6CE9FCFA6DC7D6" authorityName="Dallas" authorityYear="1852" box="[1292,1417,1684,1726]" class="Insecta" family="Lygaeidae" genus="Nysius" kingdom="Animalia" order="Hemiptera" pageId="17" pageNumber="28" phylum="Arthropoda" rank="genus">
+<emphasis id="56B0CE5DF51D3F7C4F6CE9FCFA6DC7D6" box="[1292,1417,1684,1726]" italics="true" pageId="17" pageNumber="28">Nysius</emphasis>
+</taxonomicName>
+can only be determined by a thorough systematic revision based upon a study of type specimens.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

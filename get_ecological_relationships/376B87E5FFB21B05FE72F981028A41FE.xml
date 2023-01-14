@@ -1,0 +1,144 @@
+<document id="81FD71D8576D29FE181FA0DFAD3ADB3E" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB21B05FE72F981028A41FE" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Noteropagus obscurus d'Orchymont" docType="treatment" docVersion="20" lastPageNumber="162" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="162" updateTime="1671494549916" updateUser="aubreymoore">
+<mods:mods id="2E43344DA538ED7062A97384ABACCE1D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="BA6D775473EF2862DFA8020AFB820D2D">
+<mods:title id="8EF67593311751C30C1AC10BC24210DB">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="6D7857BB5BE63E1DC5AC51C35AAEA11B" type="personal">
+<mods:role id="BB97FFCA7E6D3B0BF256D83A2D482D12">
+<mods:roleTerm id="D5B462FF768C3A9B732BE9DE989A3FFA">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1DDE4C55DED3A008BAE28FF34AAD2F27">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="E5861E6B7BCD5E452EDB2A6A8534F06C">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C2F7511EEE5EE026CFAD38F4A641032D">text</mods:typeOfResource>
+<mods:relatedItem id="5D9FF4489032A1318461317FF79079E2" type="host">
+<mods:originInfo id="3E8E76644B637566CA06946436CC7CE5">
+<mods:dateIssued id="BCDC4B0E72CF3D8077355FE1814212B6">1942</mods:dateIssued>
+<mods:dateOther id="AFBFD2971CCE2C7BB9ACDDC84DF0952C" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="2A8D112D4639D2727228876EE8F8FE2D">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="28F359480FF7D812990A653A73BF21DE">
+<mods:placeTerm id="BC1D0A65BD7DB531648FE06FC55CFF7B">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="FB97EA32B6FAB45A7F8E7703A71F8D2F">
+<mods:title id="B7206BBDB61A444BBE0F22AFD13CC6B1">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="A8BD6D517096EFB9632C8D7ABBF85173">
+<mods:extent id="B0C19300880252E13A105F6ED1EABCA4" unit="page">
+<mods:start id="779D6912428D0DB27A030A44D0133E60">150</mods:start>
+<mods:end id="AB9CE6D8949E008FABD4792628F1D2C3">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F2FEBF944F8B190A8D21F3E20FD3CCC0">book chapter</mods:classification>
+<mods:identifier id="94F32C7ADDD493033C3156246A033BEA" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="CE807FFDD191DA16CD76749443A0059A" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="C24CDFE5AE132647C9EC2AF38E2A331D" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB21B05FE72F981028A41FE" ID-DOI="http://doi.org/10.5281/zenodo.5211629" ID-GBIF-Taxon="184415339" ID-Zenodo-Dep="5211629" LSID="urn:lsid:plazi:treatment:376B87E5FFB21B05FE72F981028A41FE" httpUri="http://treatment.plazi.org/id/376B87E5FFB21B05FE72F981028A41FE" lastPageNumber="162" pageId="12" pageNumber="162">
+<subSubSection id="F7D86578FFB21B05FE72F981039D4056" box="[424,1179,1588,1632]" pageId="12" pageNumber="162" type="nomenclature">
+<paragraph id="BF7D36F3FFB21B05FE72F981039D4056" blockId="12.[422,1819,1588,1992]" box="[424,1179,1588,1632]" pageId="12" pageNumber="162">
+<heading id="E435819FFFB21B05FE72F981039D4056" box="[424,1179,1588,1632]" centered="true" fontSize="11" level="2" pageId="12" pageNumber="162" reason="2">
+<emphasis id="8DB6EAE1FFB21B05FE72F98106C34056" bold="true" box="[424,453,1588,1632]" pageId="12" pageNumber="162">3.</emphasis>
+<taxonomicName id="78C24D70FFB21B05FE3DF98103924056" authority="d'Orchymont" authorityName="d'Orchymont" box="[487,1172,1588,1632]" class="Insecta" family="Hydrophilidae" genus="Noteropagus" kingdom="Animalia" order="Coleoptera" pageId="12" pageNumber="162" phylum="Arthropoda" rank="species" species="obscurus">
+<emphasis id="8DB6EAE1FFB21B05FE3DF981048E4056" bold="true" box="[487,904,1588,1632]" pageId="12" pageNumber="162">Noteropagus obscurus</emphasis>
+d'Orchymont
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB21B05FB6CF981027440A2" pageId="12" pageNumber="162" type="reference_group">
+<paragraph id="BF7D36F3FFB21B05FB6CF981027440A2" blockId="12.[422,1819,1588,1992]" pageId="12" pageNumber="162">
+<bibCitation id="6AE83E9FFFB21B05FB6CF981027440A2" author="d'Orchymont" journalOrPublisher="Soc. Ent. France, Ann." pageId="12" pageNumber="162" pagination="135" part="88" refId="ref6483" title="Coleopt. Catalog." type="journal article" year="1919">
+<treatmentCitationGroup id="9FD211DDFFB21B05FB6CF981026B40A2" pageId="12" pageNumber="162">
+<treatmentCitation id="3E6310E2FFB21B05FB6CF981053D40A2" author="d'Orchymont" page="135" pageId="12" pageNumber="162" year="1919">
+<heading id="E435819FFFB21B05FB6CF981001C4056" box="[1206,1818,1588,1632]" centered="true" fontSize="11" level="2" pageId="12" pageNumber="162" reason="2">
+<journalOrPublisher id="65033C3FFFB21B05FB6CF98101724056" box="[1206,1652,1588,1632]" pageId="12" pageNumber="162">
+Soc. Ent. 
+<collectingCountry id="C7D57663FFB21B05FA5AF98102F94056" box="[1408,1535,1588,1632]" name="France" pageId="12" pageNumber="162">France</collectingCountry>
+, Ann.
+</journalOrPublisher>
+<part id="CB669C6EFFB21B05F954F98101C74056" box="[1678,1729,1588,1632]" pageId="12" pageNumber="162" type="volume">88</part>
+: 
+<pagination id="860BC807FFB21B05F90DF98100124056" box="[1751,1812,1588,1632]" pageId="12" pageNumber="162" type="pageRange">135</pagination>
+,
+</heading>
+<year id="CB6A77A0FFB21B05FE32F9DD053D40A2" box="[488,571,1640,1684]" pageId="12" pageNumber="162">1919</year>
+</treatmentCitation>
+. 
+<treatmentCitation id="3E6310E2FFB21B05FD85F9DD026B40A2" author="Knisch" box="[607,1389,1640,1684]" page="155" pageId="12" pageNumber="162" year="1924">
+<author id="677FDE16FFB21B05FD85F9DD05E740A2" box="[607,737,1640,1684]" pageId="12" pageNumber="162">Knisch</author>
+, 
+<title id="CDC6DDC5FFB21B05FD27F9DD033F40A2" box="[765,1081,1640,1684]" pageId="12" pageNumber="162">Coleopt. Catalog.</title>
+(
+<part id="CB669C6EFFB21B05FB85F9DD038C40A2" box="[1119,1162,1640,1684]" pageId="12" pageNumber="162" type="issue">79</part>
+): 
+<pagination id="860BC807FFB21B05FB1BF9DD03F840A2" box="[1217,1278,1640,1684]" pageId="12" pageNumber="162" type="pageRange">155</pagination>
+, 
+<year id="CB6A77A0FFB21B05FAC1F9DD026B40A2" box="[1307,1389,1640,1684]" pageId="12" pageNumber="162">1924</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB21B05FE3FF92905C0411B" pageId="12" pageNumber="162" type="materials_examined">
+<paragraph id="BF7D36F3FFB21B05FE3FF92905C0411B" blockId="12.[422,1819,1588,1992]" pageId="12" pageNumber="162">
+<materialsCitation id="0FAA3CAEFFB21B05FE3FF92903F340F1" ID-GBIF-Occurrence="3334692433" box="[485,1269,1692,1735]" collectingDate="1936-04-16" collectorName="E. H. Bryan" country="Guam" location="Ritidian Point" pageId="12" pageNumber="162" specimenCount="1">
+Ritidian Pt., 
+<date id="CB7C1033FFB21B05FD17F929046240F1" box="[717,868,1692,1735]" pageId="12" pageNumber="162" value="2016-04">
+<collectingDate id="DB38E9DBFFB21B05FD17F929046240F1" box="[717,868,1692,1735]" pageId="12" pageNumber="162" value="2016-04">April 16</collectingDate>
+</date>
+, 
+<location id="BA1D6028FFB21B05FCA2F92904EE40F1" LSID="urn:lsid:plazi:treatment:376B87E5FFB21B05FE72F981028A41FE:BA1D6028FFB21B05FCA2F92904EE40F1" box="[888,1000,1692,1735]" name="Bryan" pageId="12" pageNumber="162">Bryan</location>
+, 
+<specimenCount id="A9C4FD7AFFB21B05FC27F92903E940F1" box="[1021,1263,1692,1735]" pageId="12" pageNumber="162" type="generic">one specimen</specimenCount>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB21B05FAD8F929049940CC" ID-GBIF-Occurrence="3334692542" collectedFrom="in papaya log" collectingDate="1936-05-26" collectorName="R. L. Usinger" country="Guam" location="Mount Alifan" pageId="12" pageNumber="162" specimenCount="1">
+<location id="BA1D6028FFB21B05FAD8F92902C540F1" LSID="urn:lsid:plazi:treatment:376B87E5FFB21B05FE72F981028A41FE:BA1D6028FFB21B05FAD8F92902C540F1" box="[1282,1475,1692,1735]" name="Mt. Alifan" pageId="12" pageNumber="162">Mt. Alifan</location>
+, 
+<date id="CB7C1033FFB21B05FA02F929016640F1" box="[1496,1632,1692,1735]" pageId="12" pageNumber="162" value="1926-05">May 26</date>
+, in papaya log, Usinger, 
+<specimenCount id="A9C4FD7AFFB21B05FD7FF965049940CC" box="[677,927,1744,1786]" pageId="12" pageNumber="162" type="generic">one specimen</specimenCount>
+</materialsCitation>
+; 
+<materialsCitation id="0FAA3CAEFFB21B05FC60F96505C0411B" ID-GBIF-Occurrence="3334692497" collectedFrom="in rotten banana stem" collectingDate="1936-11-13" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="12" pageNumber="162" specimenCount="3">
+<location id="BA1D6028FFB21B05FC60F965031540CC" LSID="urn:lsid:plazi:treatment:376B87E5FFB21B05FE72F981028A41FE:BA1D6028FFB21B05FC60F965031540CC" box="[954,1043,1744,1786]" name="Yigo" pageId="12" pageNumber="162">Yigo</location>
+, 
+<date id="CB7C1033FFB21B05FBEAF96503C540CC" box="[1072,1219,1744,1786]" pageId="12" pageNumber="162" value="2013-11">
+<collectingDate id="DB38E9DBFFB21B05FBEAF96503C540CC" box="[1072,1219,1744,1786]" pageId="12" pageNumber="162" value="2013-11">Nov. 13</collectingDate>
+</date>
+, in rotten banana stem, 
+<collectorName id="12375325FFB21B05F954F965001240CC" box="[1678,1812,1744,1786]" pageId="12" pageNumber="162">Swezey</collectorName>
+, 
+<specimenCount id="A9C4FD7AFFB21B05FE7CF8B005C7411B" box="[422,705,1797,1837]" pageId="12" pageNumber="162" type="generic">three specimens</specimenCount>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB21B05FE3CF880028A41FE" pageId="12" pageNumber="162" type="discussion">
+<paragraph id="BF7D36F3FFB21B05FE3CF880028A41FE" blockId="12.[422,1819,1588,1992]" pageId="12" pageNumber="162">
+A tiny black species, described from 
+<location id="BA1D6028FFB21B05FB45F880021B4154" LSID="urn:lsid:plazi:treatment:376B87E5FFB21B05FE72F981028A41FE:BA1D6028FFB21B05FB45F880021B4154" box="[1183,1309,1845,1890]" country="United States of America" county="National Museum" municipality="Buchanan" name="Borneo" pageId="12" pageNumber="162">Borneo</location>
+and Timor. One specimen retained by 
+<collectingMunicipality id="5F19AC89FFB21B05FDA5F8DF043741A2" box="[639,817,1898,1940]" pageId="12" pageNumber="162">Buchanan</collectingMunicipality>
+, 
+<collectingCountry id="C7D57663FFB21B05FC92F8DF04A041A2" box="[840,934,1898,1940]" name="United States of America" pageId="12" pageNumber="162">U. S.</collectingCountry>
+<collectingCounty id="561C4E7FFFB21B05FC62F8DF03FA41A2" box="[952,1276,1898,1940]" pageId="12" pageNumber="162">National Museum</collectingCounty>
+, and 
+<materialsCitation id="0FAA3CAEFFB21B05FAB9F8DF028141FE" ID-GBIF-Occurrence="3994027521" collectedFrom="at British Museum" collectingDate="1936" collectorName="J. Balfour-Browne" country="Guam" location="Yigo" pageId="12" pageNumber="162" specimenCount="1">
+<specimenCount id="A9C4FD7AFFB21B05FAB9F8DF014B41A2" box="[1379,1613,1898,1940]" pageId="12" pageNumber="162" type="generic">one specimen</specimenCount>
+from 
+<collectorName id="12375325FFB21B05F91CF8DF001D41A2" box="[1734,1819,1898,1940]" pageId="12" pageNumber="162">Yigo</collectorName>
+at 
+<collectorName id="12375325FFB21B05FE02F82B04ED41FE" box="[472,1003,1950,1992]" pageId="12" pageNumber="162">British Museum. Determined</collectorName>
+by 
+<collectorName id="12375325FFB21B05FBE8F82B028141FE" box="[1074,1415,1950,1992]" pageId="12" pageNumber="162">J. Balfour-Browne</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

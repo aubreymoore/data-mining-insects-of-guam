@@ -1,0 +1,163 @@
+<document id="199F3487F8D2CBFC32AD542397FE807D" ID-DOI="http://doi.org/10.5281/zenodo.5160270" ID-GBIF-Dataset="6dc2872d-cbab-4982-baed-c0969e3e3236" ID-Zenodo-Dep="5160270" checkinTime="1628013042203" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="0E4F7F497E625A28B411F7B21002744B" docLanguage="en" docName="InsectsOfGuamI.172.175-183.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Nylanderia minutula var. fullawayi" docType="treatment" docVersion="18" lastPageNumber="182" masterDocId="F27607317E645A2FB552FF8416577654" masterDocTitle="Hymenoptera Formicidae of Guam" masterLastPageNumber="183" masterPageNumber="175" pageNumber="181" updateTime="1658169206258" updateUser="annettekang">
+<mods:mods id="75B2920B0D56FBBB296975B6BA25C1E8" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="ADD3F7634B14CF6C86A8FF5C1C2C2D55">
+<mods:title id="6DBE2BEAC617F220E47B39634C0FB725">Hymenoptera Formicidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="CD27175A3B04C358C240E6BF078E51E7" type="personal">
+<mods:role id="FCC8D4D9D5791664595A1E9ED1984B40">
+<mods:roleTerm id="48AFED79692381E57191321DF96F1948">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="6231F9DB5BB3A6D3AB9DDF80C2EFEA37">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="0E1D67FB522CB5844699257E376FDB98">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="8616075FD035FE877B6E028AC724796A">text</mods:typeOfResource>
+<mods:relatedItem id="16344B145C6D8C4E27634D1D4B0808D1" type="host">
+<mods:originInfo id="C24EE64368E19A07A56A9B7127A92D49">
+<mods:dateIssued id="08928555332A3B1663DCE2394957AA88">1942</mods:dateIssued>
+<mods:dateOther id="294AEAD80BD0AE0DFAA70B3572A4606D" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="B5ECA4A8F8FCA528444545BBDE2821AE">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="8BE2E30C7494458641D93C9184F8B131">
+<mods:placeTerm id="C9A2B8D51A3FBDC86155ADAE73470536">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="BEFC309A76061BC2129D19BF751AEAB7">
+<mods:title id="53BF30A9C877785B76EB628B0D1346BA">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="E21A1C56818FA7DE5BF0388C17A87E64">
+<mods:extent id="0C577EA567C45C47A27E295BB55B0212" unit="page">
+<mods:start id="A7D2CF8CDCFD0E5AA6BAF9C616C392CF">175</mods:start>
+<mods:end id="71519247775211873E16B7AB8D759CD9">183</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E120A0712FD6EDEC658E98F7D52AED22">book chapter</mods:classification>
+<mods:identifier id="1F8B72E7BDD57AF6C8FF4E56E0A21AED" type="DOI">http://doi.org/10.5281/zenodo.5160270</mods:identifier>
+<mods:identifier id="CCA49EA751353C7DE280E97D962539F8" type="GBIF-Dataset">6dc2872d-cbab-4982-baed-c0969e3e3236</mods:identifier>
+<mods:identifier id="086A8926C30033498F14D81FCFB1CCDF" type="Zenodo-Dep">5160270</mods:identifier>
+</mods:mods>
+<treatment id="0E4F7F497E625A28B411F7B21002744B" ID-DOI="http://doi.org/10.5281/zenodo.5164305" ID-GBIF-Taxon="184416207" ID-Zenodo-Dep="5164305" LSID="urn:lsid:plazi:treatment:0E4F7F497E625A28B411F7B21002744B" httpUri="http://treatment.plazi.org/id/0E4F7F497E625A28B411F7B21002744B" lastPageId="7" lastPageNumber="182" pageId="6" pageNumber="181">
+<subSubSection id="CEFC9DD47E625A29B411F7B210E27E35" box="[323,1717,2102,2145]" pageId="6" pageNumber="181" type="nomenclature">
+<paragraph id="8659CE5F7E625A29B411F7B210E27E35" blockId="6.[320,1717,2102,2483]" box="[323,1717,2102,2145]" pageId="6" pageNumber="181">
+<heading id="DD1179337E625A29B411F7B210E27E35" box="[323,1717,2102,2145]" centered="true" fontSize="8" level="2" pageId="6" pageNumber="181" reason="4">
+<emphasis id="B492124D7E625A29B411F7B217237E35" bold="true" box="[323,372,2102,2145]" pageId="6" pageNumber="181">25.</emphasis>
+<taxonomicName id="41E6B5DC7E625A29B4C7F7B210E77E35" authority="(Wheeler)" box="[405,1712,2102,2145]" class="Insecta" family="Formicidae" genus="Nylanderia" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hymenoptera" pageId="6" pageNumber="181" phylum="Arthropoda" rank="variety" species="minutula" variety="fullawayi">
+<emphasis id="B492124D7E625A29B4C7F7B215417E35" bold="true" box="[405,790,2102,2145]" pageId="6" pageNumber="181">Nylanderia minutula</emphasis>
+subspecies 
+<emphasis id="B492124D7E625A29B6AFF7B212287E35" bold="true" box="[1021,1151,2102,2145]" pageId="6" pageNumber="181">atomus</emphasis>
+variety 
+<emphasis id="B492124D7E625A29B078F7B213817E35" bold="true" box="[1322,1494,2102,2145]" pageId="6" pageNumber="181">fullawayi</emphasis>
+(Wheeler)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E625A29B42FF7F612197F14" pageId="6" pageNumber="181" type="reference_group">
+<paragraph id="8659CE5F7E625A29B42FF7F614F77E9B" blockId="6.[320,1717,2102,2483]" pageId="6" pageNumber="181">
+<treatmentCitationGroup id="A6F6E9717E625A29B42FF7F614F77E9B" pageId="6" pageNumber="181">
+<treatmentCitation id="0747E84E7E625A29B42FF7F614F77E9B" author="Wheeler" page="46" pageId="6" pageNumber="181" year="1912">
+<bibCitation id="53CCC6337E625A29B42FF7F614F77E9B" author="Wheeler" journalOrPublisher="New York Ent. Soc., Jour." pageId="6" pageNumber="181" pagination="46" part="20" refId="ref3914" type="journal article" year="1912">
+<emphasis id="B492124D7E625A29B42FF7F6124C7EC8" box="[381,1051,2162,2204]" italics="true" pageId="6" pageNumber="181">Prenolepis minutula atomus fullawayi</emphasis>
+<author id="5E5B26BA7E625A29B17AF7F612967EC8" box="[1064,1217,2162,2204]" pageId="6" pageNumber="181">Wheeler</author>
+, 
+<journalOrPublisher id="5C27C4937E625A29B185F7F610E57EC8" box="[1239,1714,2162,2204]" pageId="6" pageNumber="181">
+<collectingRegion id="442200BD7E625A29B185F7F613C57EC8" box="[1239,1426,2162,2204]" country="United States of America" name="New York" pageId="6" pageNumber="181">New York</collectingRegion>
+Ent. Soc., Jour.
+</journalOrPublisher>
+<emphasis id="B492124D7E625A29B4EDF72317AF7E9B" bold="true" box="[447,504,2215,2255]" pageId="6" pageNumber="181">
+<part id="F24264C27E625A29B4EDF72317A57E9B" box="[447,498,2215,2255]" pageId="6" pageNumber="181" type="volume">20</part>
+:
+</emphasis>
+<pagination id="BF2F30AB7E625A29B757F72314657E9B" box="[517,562,2215,2255]" pageId="6" pageNumber="181" type="pagination">46</pagination>
+, 
+<year id="F24E8F0C7E625A29B715F72314CC7E9B" box="[583,667,2215,2255]" pageId="6" pageNumber="181">1912</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8659CE5F7E625A29B4D2F76612197F14" blockId="6.[320,1717,2102,2483]" pageId="6" pageNumber="181">
+<treatmentCitationGroup id="A6F6E9717E625A29B4D2F76612197F14" pageId="6" pageNumber="181">
+<treatmentCitation id="0747E84E7E625A29B4D2F76612197F14" author="Wheeler" page="50" pageId="6" pageNumber="181" year="1935">
+<bibCitation id="53CCC6337E625A29B4D2F76612197F14" author="Wheeler" journalOrPublisher="B. P. Bishop Mus., 0 cc. Papers" pageId="6" pageNumber="181" pagination="50" part="11" refId="ref3935" type="journal article" year="1935">
+<emphasis id="B492124D7E625A29B4D2F76615D07F58" box="[384,903,2274,2316]" italics="true" pageId="6" pageNumber="181">Nylanderia minutula atomus</emphasis>
+variety 
+<emphasis id="B492124D7E625A29B17AF76612987F58" box="[1064,1231,2274,2316]" italics="true" pageId="6" pageNumber="181">fullawayi</emphasis>
+(
+<author id="5E5B26BA7E625A29B1A7F76613CB7F58" box="[1269,1436,2274,2316]" pageId="6" pageNumber="181">Wheeler</author>
+), 
+<journalOrPublisher id="5C27C4937E625A29B095F76615517F14" pageId="6" pageNumber="181">B. P. Bishop Mus., 0cc. Papers</journalOrPublisher>
+<part id="F24264C27E625A29B645F691156C7F14" box="[791,827,2325,2368]" pageId="6" pageNumber="181" type="volume">11</part>
+(
+<part id="F24264C27E625A29B600F691152B7F14" box="[850,892,2325,2368]" pageId="6" pageNumber="181" type="issue">11</part>
+): 
+<pagination id="BF2F30AB7E625A29B6E7F69115B77F14" box="[949,992,2325,2368]" pageId="6" pageNumber="181" type="pagination">50</pagination>
+, 
+<year id="F24E8F0C7E625A29B6A4F691121E7F14" box="[1014,1097,2325,2368]" pageId="6" pageNumber="181">1935</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E625A29B4D2F6D514EA7FE7" pageId="6" pageNumber="181" type="materials_examined">
+<paragraph id="8659CE5F7E625A29B4D2F6D514EA7FE7" blockId="6.[320,1717,2102,2483]" pageId="6" pageNumber="181">
+<materialsCitation id="368EC4027E625A29B4D2F6D515A07F29" ID-GBIF-Occurrence="3334693404" box="[384,1015,2385,2429]" collectingDate="1936-05-05" collectorName="E. H. Bryan and O. H. Swezey" country="Guam" location="Upi Trail" pageId="6" pageNumber="181">
+<collectingMunicipality id="663D54257E625A29B4D2F6D514787F29" box="[384,559,2385,2429]" pageId="6" pageNumber="181">Upi Trail</collectingMunicipality>
+, 
+<date id="F258E89F7E625A29B71BF6D514E87F29" box="[585,703,2385,2429]" pageId="6" pageNumber="181">
+<collectingDate id="E21C11777E625A29B71BF6D514E87F29" box="[585,703,2385,2429]" pageId="6" pageNumber="181">May 5</collectingDate>
+</date>
+, 
+<location id="833998847E625A29B788F6D5151F7F29" LSID="urn:lsid:plazi:treatment:0E4F7F497E625A28B411F7B21002744B:833998847E625A29B788F6D5151F7F29" box="[730,840,2385,2429]" municipality="Upi Trail" name="Bryan" pageId="6" pageNumber="181">Bryan</location>
+, 
+<collectorName id="2B13AB897E625A29B636F6D515A77F29" box="[868,1008,2385,2429]" pageId="6" pageNumber="181">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E625A29B159F6D5130B7F29" ID-GBIF-Occurrence="3862685305" box="[1035,1372,2385,2429]" collectingDate="1936-06-02" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="6" pageNumber="181">
+<location id="833998847E625A29B159F6D512947F29" LSID="urn:lsid:plazi:treatment:0E4F7F497E625A28B411F7B21002744B:833998847E625A29B159F6D512947F29" box="[1035,1219,2385,2429]" name="Machanao" pageId="6" pageNumber="181">Machanao</location>
+, 
+<date id="F258E89F7E625A29B189F6D513027F29" box="[1243,1365,2385,2429]" pageId="6" pageNumber="181">
+<collectingDate id="E21C11777E625A29B189F6D513027F29" box="[1243,1365,2385,2429]" pageId="6" pageNumber="181">June 2</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="368EC4027E625A29B03CF6D510637F29" ID-GBIF-Occurrence="3862685383" box="[1390,1588,2385,2429]" collectingDate="1936-06-04" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="6" pageNumber="181">
+4, 
+<collectorName id="2B13AB897E625A29B0F2F6D5107A7F29" box="[1440,1581,2385,2429]" pageId="6" pageNumber="181">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="368EC4027E625A29B315F6D514EF7FE7" ID-GBIF-Occurrence="3334693365" collectingDate="1936-07-06" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="6" pageNumber="181">
+<location id="833998847E625A29B315F6D517C37FE7" LSID="urn:lsid:plazi:treatment:0E4F7F497E625A28B411F7B21002744B:833998847E625A29B315F6D517C37FE7" name="Barrigada" pageId="6" pageNumber="181">Barrigada</location>
+, 
+<date id="F258E89F7E625A29B4FEF601144E7FE7" box="[428,537,2437,2483]" pageId="6" pageNumber="181">
+<collectingDate id="E21C11777E625A29B4FEF601144E7FE7" box="[428,537,2437,2483]" pageId="6" pageNumber="181">July6</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E625A29B766F60114EF7FE7" box="[564,696,2437,2483]" pageId="6" pageNumber="181">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E635A28B4B6FE091002744B" pageId="7" pageNumber="182" type="discussion">
+<paragraph id="8659CE5F7E635A28B4B6FE091002744B" blockId="7.[421,1816,397,543]" pageId="7" pageNumber="182">
+<materialsCitation id="368EC4027E635A28B4B6FE09123177B8" ID-GBIF-Occurrence="3862685328" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="7" pageNumber="182">
+This tiny blackish ant (
+<taxonomicName id="41E6B5DC7E635A28B6CBFE09128677ED" authority="Emery, 1906" authorityName="Emery" authorityYear="1906" box="[921,1233,397,441]" class="Insecta" family="Formicidae" genus="Nylanderia" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hymenoptera" pageId="7" pageNumber="182" phylum="Arthropoda" rank="variety" species="minutula" variety="fullawayi">
+variety 
+<emphasis id="B492124D7E635A28B178FE09128677ED" box="[1066,1233,397,441]" italics="true" pageId="7" pageNumber="182">fullawayi</emphasis>
+</taxonomicName>
+<emphasis id="B492124D7E635A28B183FE09128A77ED" box="[1233,1245,397,441]" italics="true" pageId="7" pageNumber="182">)</emphasis>
+was described from 
+<specimenCount id="90E005D67E635A28B33BFE09114F77ED" box="[1641,1816,397,441]" pageId="7" pageNumber="182" type="generic">specimens</specimenCount>
+collected in 
+<collectingCountry id="FEF18ECF7E635A28B72EFE4514B377B8" box="[636,740,449,492]" name="Guam" pageId="7" pageNumber="182">Guam</collectingCountry>
+by 
+<location id="833998847E635A28B67FFE45158777B8" LSID="urn:lsid:plazi:treatment:0E4F7F497E625A28B411F7B21002744B:833998847E635A28B67FFE45158777B8" box="[813,976,449,492]" country="Guam" name="Fullaway" pageId="7" pageNumber="182">Fullaway</location>
+in 1911
+</materialsCitation>
+. We collected it, by sweeping, in only a few places. It may have been overlooked because of its small size.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

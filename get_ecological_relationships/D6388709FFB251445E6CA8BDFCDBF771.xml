@@ -1,0 +1,89 @@
+<document id="3C3CC12B01A96235FD7CBB4B33C43023" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFB251445E6CA8BDFCDBF771" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Eutornus Wollaston 1873" docType="treatment" docVersion="8" lastPageNumber="139" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="139" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="5D2F0FEA19BD1146DB497135D2ADFAF7" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="48A86A07AF7E9BD626520A525D7DEF57">
+<mods:title id="4062DD02A87C87AAE675B8A1B6B9254C">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="A8B6250BE9F6691F4ECF81B54E3207F6" type="personal">
+<mods:role id="F07EEAFD5D0F29593D6490C41DE5CF18">
+<mods:roleTerm id="5E3AE6876388D466A419D47542A351D0">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DE58032653E8D3C98B7A0F22FD2DABFC">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="C1D518DBB954D6192727D6A321881036">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="579443B3A09348ADE2E4DECF1BB7C85E">text</mods:typeOfResource>
+<mods:relatedItem id="6E1B678A30EE348766A2504BBA27D716" type="host">
+<mods:originInfo id="16A4F7AA2CEE83E44EFCDB52DF71E4C3">
+<mods:dateIssued id="75A4AC28BC373237BF04AC8C164022D3">1942</mods:dateIssued>
+<mods:dateOther id="083569200CEBAC6EFF5B682AC387986E" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="89163E33F058B3BC15E4D5CD5C4BDBDF">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="8B150EE793F16961A0A2F5FA95AE943B">
+<mods:placeTerm id="F22726CFDCBFC60C457AD01BFF0A3F27">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="AF86B699B8CAA3E7B7F86655D73D9EC9">
+<mods:title id="8887F964EF3DAE61AD51E2AA3774E432">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="3B0E8C089527FF3E16373F34DF2222DE">
+<mods:extent id="05CC52225233EC969D39617605EADA0D" unit="page">
+<mods:start id="75B31F170DB48FB7B7D4DF0699A36917">73</mods:start>
+<mods:end id="5D463B6571D4D9148F5E680E37C913FD">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="05B0C8ECEFCD99C4A674226E02F8D5D8">book chapter</mods:classification>
+<mods:identifier id="FCD0FB05957CC734669D167D2E4C9EED" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="5E9C119711B56200B13A2CA2B9BAC47F" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="1B900882BA18D52F260B215D63C558A8" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFB251445E6CA8BDFCDBF771" ID-DOI="http://doi.org/10.5281/zenodo.5191790" ID-GBIF-Taxon="184614037" ID-Zenodo-Dep="5191790" LSID="urn:lsid:plazi:treatment:D6388709FFB251445E6CA8BDFCDBF771" httpUri="http://treatment.plazi.org/id/D6388709FFB251445E6CA8BDFCDBF771" lastPageNumber="139" pageId="66" pageNumber="139">
+<subSubSection id="168B6594FFB251445E6CA8BDFE1CF784" box="[311,486,2023,2066]" pageId="66" pageNumber="139" type="nomenclature">
+<paragraph id="5E2E361FFFB251445E6CA8BDFE1CF784" blockId="66.[311,1706,2023,2279]" box="[311,486,2023,2066]" pageId="66" pageNumber="139">
+<emphasis id="6CE5EA0DFFB251445E6CA8BDFE1CF784" box="[311,486,2023,2066]" italics="true" pageId="66" pageNumber="139">
+<taxonomicName id="99914D9CFFB251445E6CA8BDFE25F784" authority="Wollaston, 1873" authorityName="Wollaston" authorityYear="1873" box="[311,479,2023,2066]" class="Insecta" family="Curculionidae" genus="Eutornus" kingdom="Animalia" order="Coleoptera" pageId="66" pageNumber="139" phylum="Arthropoda" rank="genus">Eutornus</taxonomicName>
+,
+</emphasis>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB251445EA2A8BDFB01F784" box="[505,1275,2023,2066]" pageId="66" pageNumber="139" type="reference_group">
+<paragraph id="5E2E361FFFB251445EA2A8BDFB01F784" blockId="66.[311,1706,2023,2279]" box="[505,1275,2023,2066]" pageId="66" pageNumber="139">
+<treatmentCitationGroup id="7E811131FFB251445EA2A8BDFB01F784" box="[505,1275,2023,2066]" pageId="66" pageNumber="139">
+<treatmentCitation id="DF30100EFFB251445EA2A8BDFB01F784" author="Wollaston" box="[505,1275,2023,2066]" page="578" pageId="66" pageNumber="139" year="1873">
+<bibCitation id="8BBB3E73FFB251445EA2A8BDFB01F784" box="[505,1275,2023,2066]" journalOrPublisher="Ent. Soc. London, Trans." pageId="66" pageNumber="139" pagination="578" part="492" refId="ref45692" type="journal volume" year="1873">
+<journalOrPublisher id="84503CD3FFB251445EA2A8BDFC2AF784" box="[505,976,2023,2066]" pageId="66" pageNumber="139">
+<title id="2C95DD29FFB251445EA2A8BDFDC7F784" box="[505,573,2023,2066]" pageId="66" pageNumber="139">Ent</title>
+. 
+<journalOrPublisher id="84503CD3FFB251445D01A8BDFD5AF784" box="[602,672,2023,2066]" pageId="66" pageNumber="139">Soc.</journalOrPublisher>
+<author id="862CDEFAFFB251445DEFA8BDFC30F784" box="[692,970,2023,2066]" case="TC" fn="Trans" fnc="TC" fns="N" ln="London" lnc="TC" npo="LnFn" pageId="66" pageNumber="139">London, Trans</author>
+.
+</journalOrPublisher>
+, 
+<part id="2A359C82FFB251445CB1A8BDFBD6F784" box="[1002,1068,2023,2066]" pageId="66" pageNumber="139" type="volume">492</part>
+, 
+<emphasis id="6CE5EA0DFFB251445B1DA8BDFB77F784" box="[1094,1165,2023,2066]" italics="true" pageId="66" pageNumber="139">
+<pagination id="6758C8EBFFB251445B1DA8BDFB7DF784" box="[1094,1159,2023,2066]" pageId="66" pageNumber="139" type="pageRange">578</pagination>
+,
+</emphasis>
+<year id="2A39774CFFB251445BF8A8BDFB0CF784" box="[1187,1270,2023,2066]" pageId="66" pageNumber="139">1873</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFB251445E2DA77EFCDBF771" pageId="66" pageNumber="139" type="discussion">
+<paragraph id="5E2E361FFFB251445E2DA77EFCDBF771" blockId="66.[311,1706,2023,2279]" pageId="66" pageNumber="139">
+This genus contains about 20 species distributed from 
+<collectingCountry id="2686768FFFB251445A0FA77EFA36F7D8" box="[1364,1484,2084,2126]" name="Myanmar" pageId="66" pageNumber="139">Burma</collectingCountry>
+through the 
+<collectingCountry id="2686768FFFB251445E63A702FE06F717" box="[312,508,2136,2177]" name="Philippines" pageId="66" pageNumber="139">Philippines</collectingCountry>
+to Papua and is well represented in 
+<collectingCountry id="2686768FFFB251445BCDA702FA7FF717" box="[1174,1413,2136,2177]" name="New Zealand" pageId="66" pageNumber="139">New Zealand</collectingCountry>
+. No species has been reported from 
+<collectingCountry id="2686768FFFB251445DC4A7D6FCBCF723" box="[671,838,2188,2229]" name="Australia" pageId="66" pageNumber="139">Australia</collectingCountry>
+, and the new species described herein is the first described from 
+<collectingCountry id="2686768FFFB251445D0CA79AFCE6F771" box="[599,796,2240,2279]" name="Micronesia" pageId="66" pageNumber="139">Micronesia</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

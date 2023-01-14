@@ -1,0 +1,88 @@
+<document id="A32DAE8D7286AACE0A53AF3145FF69A6" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF91AFFFBFEA3F78DFD08169F" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pseudococcus comstocki" docType="treatment" docVersion="7" lastPageNumber="157" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="157" updateTime="1661269479645" updateUser="annettekang">
+<mods:mods id="365F282E6BA37EC62A69DEF2F73B03FE" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="3392EE47A9FF31AE750AA40978BCD857">
+<mods:title id="D430CBB893606499C6F6001DD77F68E7">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="B20D7531F6A13B98587CAA99CC271025" type="personal">
+<mods:role id="76BBB82A1331534C8F57E77223EB436E">
+<mods:roleTerm id="71963182AE9D4DE253490532BACBB658">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E07C9A7DFEFE4BF9461998F903B34839">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="8A562CEF56A4021C06A4E57F546285B6">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="45E119C30A5FBFD1161CB8584C293071">text</mods:typeOfResource>
+<mods:relatedItem id="2A508F3B012FA9540DBB6EF6B5EAAF1E" type="host">
+<mods:originInfo id="72CE5689B95199919271C33636DF809E">
+<mods:dateIssued id="90F0A2AB53DE9DEFDB54756CF511CCE3">1946</mods:dateIssued>
+<mods:dateOther id="858A449D6580C1F6AEEDE8412199F6BF" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="5A981B5BDFEBECF8729548CFFBF4A1E6">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="841D40366520E82F4677EBD8751CF8B0">
+<mods:placeTerm id="011E227BBAAD3FFF300B1F0012301D80">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="51307F7FE05F975D03FECB5B0FC59BCA">
+<mods:title id="B63AE66D8333307517E1ECD310495D21">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="C552418D2266E214C32B1018D0FB1ECC">
+<mods:extent id="FCEDB0C941F46D8A5E46BF347A68A4C0" unit="page">
+<mods:start id="F1B9DBAF72F32CDBBDC802E72276EF0C">157</mods:start>
+<mods:end id="A6DBC340CF8D5D981F0FE56EFF668708">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="D175062DC586E0B21AD7315E9C5691E1">book chapter</mods:classification>
+<mods:identifier id="1A987C70AF9A240A79897D9A1930B647" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="EE19095CCB1D0EA5B45BF5B621100B5C" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="07E885888C9E34C8857C342CCB80372B" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF91AFFFBFEA3F78DFD08169F" ID-DOI="http://doi.org/10.5281/zenodo.5157866" ID-GBIF-Taxon="184133255" ID-Zenodo-Dep="5157866" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFEA3F78DFD08169F" httpUri="http://treatment.plazi.org/id/F03E87AAF91AFFFBFEA3F78DFD08169F" lastPageNumber="157" pageId="0" pageNumber="157">
+<subSubSection id="308D6537F91AFFFBFEA3F78DFC3F1605" box="[289,1019,2066,2107]" pageId="0" pageNumber="157" type="nomenclature">
+<paragraph id="782836BCF91AFFFBFEA3F78DFC3F1605" blockId="0.[289,1624,2066,2209]" box="[289,1019,2066,2107]" pageId="0" pageNumber="157">
+<heading id="236081D0F91AFFFBFEA3F78DFC3F1605" box="[289,1019,2066,2107]" centered="true" fontSize="11" level="2" pageId="0" pageNumber="157" reason="2">
+<emphasis id="4AE3EAAEF91AFFFBFEA3F78DFEFA1604" bold="true" box="[289,318,2067,2106]" pageId="0" pageNumber="157">6.</emphasis>
+<taxonomicName id="BF974D3FF91AFFFBFEE2F78CFC311605" authority="(Kuwana)" baseAuthorityName="Kuwana" baseAuthorityYear="1902" box="[352,1013,2066,2107]" class="Insecta" family="Pseudococcidae" genus="Pseudococcus" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="157" phylum="Arthropoda" rank="species" species="comstocki">
+<emphasis id="4AE3EAAEF91AFFFBFEE2F78CFCE41605" bold="true" box="[352,800,2066,2107]" pageId="0" pageNumber="157">Pseudococcus comstocki</emphasis>
+(Kuwana)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<paragraph id="782836BCF91AFFFBFEE2F7DBFD08169F" blockId="0.[289,1624,2066,2209]" pageId="0" pageNumber="157">
+<subSubSection id="308D6537F91AFFFBFEE2F7DBF99C1650" box="[352,1624,2117,2158]" pageId="0" pageNumber="157" type="materials_examined">
+<treatmentCitationGroup id="58871192F91AFFFBFEE2F7DBF99C1650" box="[352,1624,2117,2158]" pageId="0" pageNumber="157">
+<treatmentCitation id="F93610ADF91AFFFBFEE2F7DBF9971650" author="Kuwana" box="[352,1619,2117,2158]" page="149" pageId="0" pageNumber="157" year="1902">
+<taxonomicName id="BF974D3FF91AFFFBFEE2F7DBFC541650" authority="Kuwana, Calif. Acad. Sci., Proc." box="[352,912,2117,2158]" class="Insecta" family="Dactylopiidae" genus="Dactylopius" kingdom="Animalia" order="Hemiptera" pageId="0" pageNumber="157" phylum="Arthropoda" rank="species" species="comstocki">
+<emphasis id="4AE3EAAEF91AFFFBFEE2F7DBFD281650" box="[352,748,2117,2158]" italics="true" pageId="0" pageNumber="157">Dactylopius comstocki</emphasis>
+<bibCitation id="ADBD3ED0F91AFFFBFD7BF7DBF99C1650" author="Kuwana" box="[761,1624,2117,2158]" journalOrPublisher="Calif. Acad. Sci., Proc." pageId="0" pageNumber="157" pagination="52" part="3" type="journal article" year="1902">
+<author id="A02ADE59F91AFFFBFD7BF7DBFC541650" box="[761,912,2117,2158]" pageId="0" pageNumber="157">Kuwana</author>
+, 
+<journalOrPublisher id="A2563C70F91AFFFBFC25F7DBFAFB1650" box="[935,1343,2117,2158]" pageId="0" pageNumber="157">Calif. Acad. Sci., Proc.</journalOrPublisher>
+<part id="0C339C21F91AFFFBFACDF7DBFAA01650" box="[1359,1380,2117,2158]" pageId="0" pageNumber="157" type="volume">3</part>
+(
+<part id="0C339C21F91AFFFBFAF0F7DBFA4C1650" box="[1394,1416,2117,2158]" pageId="0" pageNumber="157" type="issue">3</part>
+): 
+<subSection id="11182F57F91AFFFBFA42F7DBF99C1650" box="[1472,1624,2117,2158]" pageId="0" pageNumber="157" type="multiple">
+<heading id="236081D0F91AFFFBFA42F7DBF99C1650" box="[1472,1624,2117,2158]" centered="true" fontSize="8" level="2" pageId="0" pageNumber="157" reason="4">
+<pagination id="415EC848F91AFFFBFA42F7DBFA2E1650" box="[1472,1514,2117,2158]" pageId="0" pageNumber="157" type="pagination">52</pagination>
+, 
+<year id="0C3F77EFF91AFFFBF983F7DBF9971650" box="[1537,1619,2117,2158]" pageId="0" pageNumber="157">1902</year>
+.
+</heading>
+</subSection>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</subSubSection>
+<subSubSection id="308D6537F91AFFFBFEE2F7E7FD08169F" box="[352,716,2169,2209]" pageId="0" pageNumber="157" type="materials_examined">
+<materialsCitation id="C8FF3CE1F91AFFFBFEE2F7E7FD03169F" ID-GBIF-Occurrence="3334182302" box="[352,711,2169,2209]" collectedFrom="on cotton" collectingDate="1936" collectorName="R. L. Usinger" country="Guam" location="Guam" pageId="0" pageNumber="157">
+<collectingMunicipality id="984CACC6F91AFFFBFEE2F7E7FE51169F" box="[352,405,2169,2209]" pageId="0" pageNumber="157">On</collectingMunicipality>
+cotton, 
+<location id="7D486067F91AFFFBFDB2F7E7FD03169F" LSID="urn:lsid:plazi:treatment:F03E87AAF91AFFFBFEA3F78DFD08169F:7D486067F91AFFFBFDB2F7E7FD03169F" box="[560,711,2169,2209]" municipality="On" name="Usinger" pageId="0" pageNumber="157">Usinger</location>
+</materialsCitation>
+.
+</subSubSection>
+</paragraph>
+</treatment>
+</document>

@@ -1,0 +1,124 @@
+<document id="30AA2BC239DB3BFB8B7757236E87C384" ID-DOI="http://doi.org/10.5281/zenodo.5164064" ID-GBIF-Dataset="8ddfacbb-c42b-4385-b70b-ea5bd759c377" ID-Zenodo-Dep="5164064" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628020838575" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03938792FFDEFFCFFE39FEB28148FD2D" docLanguage="en" docName="InsectsOfGuamII.189.149-156.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Chloriona albotristriata" docType="treatment" docVersion="12" lastPageNumber="154" masterDocId="FFAAFFEAFFDBFFCAFFFEFFCD8671FFE9" masterDocTitle="Notes On Some Fulgoroidea Of Guam" masterLastPageNumber="156" masterPageNumber="149" pageNumber="154" updateTime="1671318232748" updateUser="annettekang">
+<mods:mods id="783FBBFEB8772374281E866A20CE9B90" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="10D9C6BBD6BFFFE44E6114F123CFDE40">
+<mods:title id="C50BAC466B2E5E2C6E9EB856313ED594">Notes On Some Fulgoroidea Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="4A6F8AD49E55E9120761C0B286629297" type="personal">
+<mods:role id="CFD515C94374CA76A992EEB6B2A039C5">
+<mods:roleTerm id="C909F8333634301A95E2B1EF9D80A58A">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="210636A85646E3CB887C0D0DF5F24133">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="75CC921C5DC055F3262A7F48E4F52211">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="8322E251BB7A90D5E48A5B3D4DEDAFA0">text</mods:typeOfResource>
+<mods:relatedItem id="6C03BBE1CEDD4A1734FCE4D71F2F9EF0" type="host">
+<mods:originInfo id="247B7B255ECBAF403063692F35A6A0B0">
+<mods:dateIssued id="D82AFA69E9A29957FFE044631E9AE483">1946</mods:dateIssued>
+<mods:dateOther id="CBC8CF2778768ACFC52472D792E67F90" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="E24EE74EF4113A63D30ADC69DF3FD777">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="A0A0C4BF964D749A9D7C017E8D4D6E09">
+<mods:placeTerm id="44E3628BF6D3CD06E5EE12F889AFCD7F">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="48DA04995E5AEF884FE9C772B33FE00C">
+<mods:title id="70EFCFC37FF46119B76A71643824B0F8">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="5BCE0D8F73FB26F6591DF2FA658570B3">
+<mods:extent id="60A46C13D4AC1A221AA32DC996F09882" unit="page">
+<mods:start id="6C7E5FAB288DA498078775A9C2C435B5">149</mods:start>
+<mods:end id="795309855B2144B2657B5F65B932B78E">156</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="2BA2AB3FE0917A8A9902FD008BAB1649">book chapter</mods:classification>
+<mods:identifier id="1DCFBD09453AB26D71B13AC4BAC4CCE0" type="DOI">http://doi.org/10.5281/zenodo.5164064</mods:identifier>
+<mods:identifier id="6292310D565E56965B9D9961B8EBEA87" type="GBIF-Dataset">8ddfacbb-c42b-4385-b70b-ea5bd759c377</mods:identifier>
+<mods:identifier id="D22A4C0EC56471CE61A1F2C008787400" type="Zenodo-Dep">5164064</mods:identifier>
+</mods:mods>
+<treatment id="03938792FFDEFFCFFE39FEB28148FD2D" ID-DOI="http://doi.org/10.5281/zenodo.5167404" ID-GBIF-Taxon="183925081" ID-Zenodo-Dep="5167404" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE39FEB28148FD2D" httpUri="http://treatment.plazi.org/id/03938792FFDEFFCFFE39FEB28148FD2D" lastPageNumber="154" pageId="5" pageNumber="154">
+<subSubSection id="C320650FFFDEFFCFFE39FEB282C5FE40" box="[455,1204,383,425]" pageId="5" pageNumber="154" type="nomenclature">
+<paragraph id="8B853684FFDEFFCFFE39FEB282C5FE40" blockId="5.[454,1851,383,708]" box="[455,1204,383,425]" pageId="5" pageNumber="154">
+<heading id="D0CD81E8FFDEFFCFFE39FEB282C5FE40" box="[455,1204,383,425]" fontSize="8" level="2" pageId="5" pageNumber="154" reason="4">
+<emphasis id="B94EEA96FFDEFFCFFE39FEB28787FE40" bold="true" box="[455,502,383,425]" pageId="5" pageNumber="154">10.</emphasis>
+<taxonomicName id="4C3A4D07FFDEFFCFFDE7FEB282DFFE40" authority="(Kirkaldy)" baseAuthorityName="Kirkaldy" baseAuthorityYear="1907" box="[537,1198,383,425]" class="Insecta" family="Delphacidae" genus="Chloriona" kingdom="Animalia" order="Hemiptera" pageId="5" pageNumber="154" phylum="Arthropoda" rank="species" species="albotristriata">
+<emphasis id="B94EEA96FFDEFFCFFDE7FEB285BBFE40" bold="true" box="[537,970,383,425]" pageId="5" pageNumber="154">Chloriona albotristriata</emphasis>
+(Kirkaldy)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDEFFCFFDF8FE768148FDBD" pageId="5" pageNumber="154" type="reference_group">
+<paragraph id="8B853684FFDEFFCFFDF8FE768063FDF3" blockId="5.[454,1851,383,708]" pageId="5" pageNumber="154">
+<treatmentCitationGroup id="AB2A11AAFFDEFFCFFDF8FE768063FDF3" pageId="5" pageNumber="154">
+<treatmentCitation id="0A9B1095FFDEFFCFFDF8FE76807CFDF3" author="Kirkaldy" page="154" pageId="5" pageNumber="154" year="1907">
+<emphasis id="B94EEA96FFDEFFCFFDF8FE7685B8FE0E" box="[518,969,443,487]" italics="true" pageId="5" pageNumber="154">
+&quot; 
+<taxonomicName id="4C3A4D07FFDEFFCFFDECFE76820BFE0E" authority="Kirkaldy" box="[530,1146,443,487]" kingdom="Animalia" pageId="5" pageNumber="154" rank="species">
+Delphaxn albotristriatus 
+<bibCitation id="5E103EE8FFDEFFCFFC27FE768063FDF3" author="Kirkaldy" journalOrPublisher="Haw. Sugar Plant. Assoc. Expt. Sta., Ent. Bull." pageId="5" pageNumber="154" pagination="154" part="3" type="journal article" year="1907">
+<author id="5387DE61FFDEFFCFFC27FE76820BFE0E" box="[985,1146,443,487]" pageId="5" pageNumber="154">Kirkaldy</author>
+, 
+<journalOrPublisher id="51FB3C48FFDEFFCFFB6CFE768482FDF3" pageId="5" pageNumber="154">Haw. Sugar Plant. Assoc. Expt. Sta., Ent. Bull.</journalOrPublisher>
+<part id="FF9E9C19FFDEFFCFFCFCFE228561FDF3" box="[770,784,495,538]" pageId="5" pageNumber="154" type="volume">3</part>
+: 
+<pagination id="B2F3C870FFDEFFCFFCC9FE228507FDF3" box="[823,886,495,538]" pageId="5" pageNumber="154" type="pagination">154</pagination>
+, pl. 10, fig. 15, pl. 14, figs. 1-3, 
+<year id="FF9277D7FFDEFFCFFA47FE22807CFDF3" box="[1465,1549,495,538]" pageId="5" pageNumber="154">1907</year>
+.
+</bibCitation>
+</taxonomicName>
+</emphasis>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8B853684FFDEFFCFFDF8FDE48148FDBD" blockId="5.[454,1851,383,708]" box="[518,1849,553,596]" pageId="5" pageNumber="154">
+<treatmentCitationGroup id="AB2A11AAFFDEFFCFFDF8FDE48148FDBD" box="[518,1849,553,596]" pageId="5" pageNumber="154">
+<treatmentCitation id="0A9B1095FFDEFFCFFDF8FDE48148FDBD" author="Metcalf" box="[518,1849,553,596]" page="322" pageId="5" pageNumber="154" year="1943">
+<taxonomicName id="4C3A4D07FFDEFFCFFDF8FDE4823BFDBD" authority=", Metcalf, Cat. Hemip., Fulgoroidea" authorityName="Metcalf, Cat. Hemip., Fulgoroidea" box="[518,1098,553,596]" class="Insecta" family="Delphacidae" genus="Chloriona" kingdom="Animalia" order="Hemiptera" pageId="5" pageNumber="154" phylum="Arthropoda" rank="species" species="albotristriata">
+<emphasis id="B94EEA96FFDEFFCFFDF8FDE485D9FDBD" box="[518,936,553,596]" italics="true" pageId="5" pageNumber="154">Chloriona albotristriata,</emphasis>
+<bibCitation id="5E103EE8FFDEFFCFFC46FDE48148FDBD" author="Metcalf" box="[952,1849,553,596]" pageId="5" pageNumber="154" pagination="322" part="3" title="Cat. Hemip., Fulgoroidea" type="book" year="1943">
+<author id="5387DE61FFDEFFCFFC46FDE48235FDBD" box="[952,1092,553,596]" pageId="5" pageNumber="154">Metcalf</author>
+, 
+<title id="F93EDDB2FFDEFFCFFBA7FDE4806DFDBD" box="[1113,1564,553,596]" pageId="5" pageNumber="154">Cat. Hemip., Fulgoroidea</title>
+(
+<part id="FF9E9C19FFDEFFCFF9C0FDE48024FDBD" box="[1598,1621,553,596]" pageId="5" pageNumber="154" type="issue">3</part>
+): 
+<pagination id="B2F3C870FFDEFFCFF970FDE480BBFDBD" box="[1678,1738,553,596]" pageId="5" pageNumber="154" type="pagination">322</pagination>
+, 
+<year id="FF9277D7FFDEFFCFF91FFDE48145FDBD" box="[1761,1844,553,596]" pageId="5" pageNumber="154">1943</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDEFFCFFDF8FDAA8468FD2D" pageId="5" pageNumber="154" type="discussion">
+<paragraph id="8B853684FFDEFFCFFDF8FDAA8468FD2D" blockId="5.[454,1851,383,708]" pageId="5" pageNumber="154">
+Described from Queensland, and now recorded from 
+<collectingCountry id="F32D7614FFDEFFCFFA19FDAA803EFD66" box="[1511,1615,615,655]" name="Guam" pageId="5" pageNumber="154">Guam</collectingCountry>
+for the first time.
+</paragraph>
+</subSubSection>
+<subSubSection id="C320650FFFDEFFCFFDC4FD558148FD2D" box="[570,1849,664,708]" pageId="5" pageNumber="154" type="materials_examined">
+<paragraph id="8B853684FFDEFFCFFDC4FD558148FD2D" blockId="5.[454,1851,383,708]" box="[570,1849,664,708]" pageId="5" pageNumber="154">
+<materialsCitation id="3B523CD9FFDEFFCFFDC4FD558145FD2D" ID-GBIF-Occurrence="3331825315" box="[570,1844,664,708]" collectedFrom="swept from grass at beach" collectingDate="1936-05-07" collectorName="R. L. Usinger" country="Guam" location="Inarajan" pageId="5" pageNumber="154" specimenCount="5">
+Five 
+<specimenCount id="9D3CFD0DFFDEFFCFFD65FD558538FD2D" box="[667,841,664,708]" pageId="5" pageNumber="154" type="generic">specimens</specimenCount>
+swept from grass at beach, 
+<location id="8EE5605FFFDEFFCFFAA6FD558385FD2D" LSID="urn:lsid:plazi:treatment:03938792FFDEFFCFFE39FEB28148FD2D:8EE5605FFFDEFFCFFAA6FD558385FD2D" box="[1368,1524,664,708]" name="Inarajan" pageId="5" pageNumber="154">Inarajan</location>
+, 
+<date id="FF841044FFDEFFCFF9F1FD5580F9FD2D" box="[1551,1672,664,708]" pageId="5" pageNumber="154">
+<collectingDate id="EFC0E9ACFFDEFFCFF9F1FD5580F9FD2D" box="[1551,1672,664,708]" pageId="5" pageNumber="154">
+May 
+<emphasis id="B94EEA96FFDEFFCFF98CFD5580FEFD2D" bold="true" box="[1650,1679,664,708]" italics="true" pageId="5" pageNumber="154">7,</emphasis>
+</collectingDate>
+</date>
+<collectorName id="26CF5352FFDEFFCFF95CFD558145FD2D" box="[1698,1844,664,708]" pageId="5" pageNumber="154">Usinger</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

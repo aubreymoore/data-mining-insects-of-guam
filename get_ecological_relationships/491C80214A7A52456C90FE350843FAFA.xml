@@ -1,0 +1,164 @@
+<document id="01084A83CDB998893A0E8D2BDF6245DE" ID-DOI="http://doi.org/10.5281/zenodo.5160297" ID-GBIF-Dataset="1df399c6-c920-4862-81a3-dd51f0a28471" ID-Zenodo-Dep="5160297" checkinTime="1628013120545" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="491C80214A7A52456C90FE350843FAFA" docLanguage="en" docName="InsectsOfGuamI.172.184-187.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Polistes macaensis" docType="treatment" docVersion="15" lastPageNumber="186" masterDocId="B525F8594A7852476D53FFF00A6FFFD2" masterDocTitle="Wasps of Guam" masterLastPageNumber="187" masterPageNumber="184" pageNumber="186" updateTime="1658952539199" updateUser="aubreymoore">
+<mods:mods id="6AEEE2F9076F4D851B1E69BC40784F2B" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="37809BA2EA9B79FB6468030DD537216A">
+<mods:title id="9B5EAFB4D72D0F5B232C1BCCD10B5A84">Wasps of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="86CDFB2C04884474117C5F66843A1E74" type="personal">
+<mods:role id="287F8F6D652D469058014710CCAEEFF8">
+<mods:roleTerm id="1BF3EF92DEF2FA77FA8AEE129A199DB3">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="E027CBB1642604F95DBDADBB4C55315E">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="509A0678F91F00970592517AE63020DD">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="5FCB0CDED8FEFC74456273FC6A0D5B69">text</mods:typeOfResource>
+<mods:relatedItem id="3FC70BD3BBB41EB31BB01E6039002F2E" type="host">
+<mods:originInfo id="7A605C27B6918AD4DD0112CBF8546DF8">
+<mods:dateIssued id="382891134FEA7ACDA25B43F454A0A9D5">1942</mods:dateIssued>
+<mods:dateOther id="1A51F21E259BCFE6A946DB7EF4DEDCD7" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="98F5CD4CF5773E8AF46FD923131D5143">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="CC89FAC4EDE39EA88543C51B7BD129E3">
+<mods:placeTerm id="E6621F6BEC34D8507810283227CD7C5A">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="6193B818B5945A9A25A37C7A4072898A">
+<mods:title id="22A4BB62467009122E5B119C209B428A">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="51C7AC2B0BCC1236FC26F01DD04EF2B5">
+<mods:extent id="B8964B6638F42FB6D9F21F2F8C4499C8" unit="page">
+<mods:start id="D193B3C0735F678D3874D0D425C93B1A">184</mods:start>
+<mods:end id="84DD8E28BDC68324195AE0746A86296E">187</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="C2D53A62E2C91808E345C0264F3120E4">book chapter</mods:classification>
+<mods:identifier id="CAB53B149E932BF8122669554B48D2FE" type="DOI">http://doi.org/10.5281/zenodo.5160297</mods:identifier>
+<mods:identifier id="F048F1096E5E344850D7257A2F3A62D2" type="GBIF-Dataset">1df399c6-c920-4862-81a3-dd51f0a28471</mods:identifier>
+<mods:identifier id="2146B5953BD76ED88A040C0EC1B431CC" type="Zenodo-Dep">5160297</mods:identifier>
+</mods:mods>
+<treatment id="491C80214A7A52456C90FE350843FAFA" ID-DOI="http://doi.org/10.5281/zenodo.5164322" ID-GBIF-Taxon="184130507" ID-Zenodo-Dep="5164322" LSID="urn:lsid:plazi:treatment:491C80214A7A52456C90FE350843FAFA" httpUri="http://treatment.plazi.org/id/491C80214A7A52456C90FE350843FAFA" lastPageNumber="186" pageId="2" pageNumber="186">
+<subSubSection id="89AF62BC4A7A52456C90FE350E2CFE3D" box="[451,1091,453,495]" pageId="2" pageNumber="186" type="nomenclature">
+<paragraph id="C10A31374A7A52456C90FE350E2CFE3D" blockId="2.[446,1848,382,2543]" box="[451,1091,453,495]" pageId="2" pageNumber="186">
+<heading id="9A42865B4A7A52456C90FE350E2CFE3D" box="[451,1091,453,495]" fontSize="11" level="2" pageId="2" pageNumber="186" reason="2">
+<emphasis id="F3C1ED254A7A52456C90FE350B8FFE3D" bold="true" box="[451,480,453,495]" pageId="2" pageNumber="186">6.</emphasis>
+<taxonomicName id="06B54AB44A7A52456F52FE350E52FE3D" authority="(Fabricius)" baseAuthorityName="Fabricius" baseAuthorityYear="1793" box="[513,1085,453,495]" class="Insecta" family="Eumenidae" genus="Polistes" kingdom="Animalia" order="Hymenoptera" pageId="2" pageNumber="186" phylum="Arthropoda" rank="species" species="macaensis">
+<emphasis id="F3C1ED254A7A52456F52FE35093BFE3D" bold="true" box="[513,852,453,495]" pageId="2" pageNumber="186">Polistes macaensis</emphasis>
+(Fabricius)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="89AF62BC4A7A52456F55FE0808F5FD6F" pageId="2" pageNumber="186" type="reference_group">
+<paragraph id="C10A31374A7A52456F55FE080FC6FDF1" blockId="2.[446,1848,382,2543]" box="[518,1449,504,547]" pageId="2" pageNumber="186">
+<treatmentCitationGroup id="E1A516194A7A52456F55FE080FC6FDF1" box="[518,1449,504,547]" pageId="2" pageNumber="186">
+<treatmentCitation id="401417264A7A52456F55FE080FCBFDF1" author="Fabricius" box="[518,1444,504,547]" page="259" pageId="2" pageNumber="186" year="1793">
+<taxonomicName id="06B54AB44A7A52456F55FE080987FDF1" authorityName="Linnaeus" authorityYear="1758" box="[518,1000,504,547]" class="Insecta" family="Vespidae" genus="Vespa" kingdom="Animalia" order="Hymenoptera" pageId="2" pageNumber="186" phylum="Arthropoda" rank="genus">
+<emphasis id="F3C1ED254A7A52456F55FE080940FDF1" box="[518,815,504,547]" italics="true" pageId="2" pageNumber="186">Vespa macaiinsis</emphasis>
+<bibCitation id="149F395B4A7A52456E13FE080FCBFDF1" author="Fabricius" box="[832,1444,504,547]" journalOrPublisher="Ent. Syst." pageId="2" pageNumber="186" pagination="259" part="2" type="journal article" year="1793">
+<author id="1908D9D24A7A52456E13FE080987FDF1" box="[832,1000,504,547]" pageId="2" pageNumber="186">Fabricius</author>
+, 
+<journalOrPublisher id="1B743BFB4A7A52456952FE080EDCFDF1" box="[1025,1203,504,547]" pageId="2" pageNumber="186">Ent. Syst.</journalOrPublisher>
+<part id="B5119BAA4A7A52456996FE080EBCFDF1" box="[1221,1235,504,547]" pageId="2" pageNumber="186" type="volume">2</part>
+: 
+<pagination id="F87CCFC34A7A524569A5FE080F57FDF1" box="[1270,1336,504,547]" pageId="2" pageNumber="186" type="pagination">259</pagination>
+, 
+<year id="B51D70644A7A52456801FE080FCBFDF1" box="[1362,1444,504,547]" pageId="2" pageNumber="186">1793</year>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="C10A31374A7A52456F51FDDC0C3FFD85" blockId="2.[446,1848,382,2543]" box="[514,1616,556,599]" pageId="2" pageNumber="186">
+<treatmentCitationGroup id="E1A516194A7A52456F51FDDC0C3FFD85" box="[514,1616,556,599]" pageId="2" pageNumber="186">
+<treatmentCitation id="401417264A7A52456F51FDDC0C3FFD85" author="Fabricius" box="[514,1616,556,599]" page="272" pageId="2" pageNumber="186" year="1804">
+<taxonomicName id="06B54AB44A7A52456F51FDDC0E5BFD85" authority="(Fabricius)" baseAuthorityName="Fabricius" baseAuthorityYear="1793" box="[514,1076,556,599]" class="Insecta" family="Eumenidae" genus="Polistes" kingdom="Animalia" order="Hymenoptera" pageId="2" pageNumber="186" phylum="Arthropoda" rank="species" species="macaensis">
+<emphasis id="F3C1ED254A7A52456F51FDDC0922FD85" box="[514,845,556,599]" italics="true" pageId="2" pageNumber="186">Polistes macaensis</emphasis>
+<bibCitation id="149F395B4A7A52456E31FDDC0C3FFD85" author="Fabricius" box="[866,1616,556,599]" journalOrPublisher="Syst. Piezatorum" pageId="2" pageNumber="186" pagination="272" type="book" year="1804">
+(
+<author id="1908D9D24A7A52456E3CFDDC0E48FD85" box="[879,1063,556,599]" fns="*" inm="true" npo="*" pageId="2" pageNumber="186">Fabricius</author>
+), 
+<journalOrPublisher id="1B743BFB4A7A5245691CFDDC0FEBFD85" box="[1103,1412,556,599]" pageId="2" pageNumber="186">Syst. Piezatorum</journalOrPublisher>
+, 
+<emphasis id="F3C1ED254A7A524568C8FDDC0F8CFD85" box="[1435,1507,556,599]" italics="true" pageId="2" pageNumber="186">
+<pagination id="F87CCFC34A7A524568C8FDDC0FB2FD85" box="[1435,1501,556,599]" pageId="2" pageNumber="186">272</pagination>
+,
+</emphasis>
+<year id="B51D70644A7A524568AAFDDC0C24FD85" box="[1529,1611,556,599]" pageId="2" pageNumber="186">1804</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="C10A31374A7A52456F52FD9008F5FD6F" blockId="2.[446,1848,382,2543]" pageId="2" pageNumber="186">
+<treatmentCitationGroup id="E1A516194A7A52456F52FD9008F5FD6F" pageId="2" pageNumber="186">
+<treatmentCitation id="401417264A7A52456F52FD9008F5FD6F" author="Fullaway" page="283" pageId="2" pageNumber="186" year="1913">
+<taxonomicName id="06B54AB44A7A52456F52FD900E8AFD59" authority="(Fabricius) Fullaway, Haw. Ent. Soc., Proc." baseAuthorityName="Fabricius" box="[513,1253,608,651]" class="Insecta" family="Eumenidae" genus="Polistes" kingdom="Animalia" order="Hymenoptera" pageId="2" pageNumber="186" phylum="Arthropoda" rank="species" species="hebraeus">
+<emphasis id="F3C1ED254A7A52456F52FD900953FD59" box="[513,828,608,651]" italics="true" pageId="2" pageNumber="186">Polistes hebraeus</emphasis>
+(Fabricius) 
+<bibCitation id="149F395B4A7A5245696DFD9008F5FD6F" author="Fullaway" journalOrPublisher="Haw. Ent. Soc., Proc." pageId="2" pageNumber="186" pagination="283" part="2" type="journal article" year="1913">
+<author id="1908D9D24A7A5245696DFD900E8AFD59" box="[1086,1253,608,651]" pageId="2" pageNumber="186">Fullaway</author>
+, 
+<journalOrPublisher id="1B743BFB4A7A52456850FD900CCCFD59" box="[1283,1699,608,651]" pageId="2" pageNumber="186">Haw. Ent. Soc., Proc.</journalOrPublisher>
+<part id="B5119BAA4A7A52456BE8FD900CA6FD59" box="[1723,1737,608,651]" pageId="2" pageNumber="186" type="volume">2</part>
+: 
+<pagination id="F87CCFC34A7A52456BBDFD900D40FD59" box="[1774,1839,608,651]" pageId="2" pageNumber="186" type="pagination">283</pagination>
+, 
+<year id="B51D70644A7A52456F11FD6508FAFD6F" box="[578,661,661,701]" pageId="2" pageNumber="186">1913</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="89AF62BC4A7A52456F50FD380D5AFC88" pageId="2" pageNumber="186" type="materials_examined">
+<paragraph id="C10A31374A7A52456F50FD380D5AFC88" blockId="2.[446,1848,382,2543]" pageId="2" pageNumber="186">
+<materialsCitation id="71DD3B6A4A7A52456F50FD380956FD26" ID-GBIF-Occurrence="3864422303" box="[515,825,712,756]" collectingDate="1936-03-27" collectorName="E. H. Bryan" country="Guam" location="Agana" pageId="2" pageNumber="186">
+Agana, March 
+<emphasis id="F3C1ED254A7A52456E5DFD380950FD26" box="[782,831,712,756]" italics="true" pageId="2" pageNumber="186">27,</emphasis>
+</materialsCitation>
+<materialsCitation id="71DD3B6A4A7A52456E1DFD380991FD26" ID-GBIF-Occurrence="3864422336" box="[846,1022,712,756]" collectingDate="1936-03-28" collectorName="E. H. Bryan" country="Guam" location="Agana" pageId="2" pageNumber="186">28, Bryan</materialsCitation>
+, 
+<materialsCitation id="71DD3B6A4A7A52456947FD380F50FD26" ID-GBIF-Occurrence="3864422340" box="[1044,1343,712,756]" collectingDate="1936-05-25" collectorName="O. H. Swezey" country="Guam" location="Agana" pageId="2" pageNumber="186">May 25, Swezey</materialsCitation>
+; 
+<materialsCitation id="71DD3B6A4A7A52456804FD380CBDFD26" ID-GBIF-Occurrence="3864422312" box="[1367,1746,712,756]" collectingDate="1936-05-23" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="186">Piti, May 23, Swezey</materialsCitation>
+, 
+<materialsCitation id="71DD3B6A4A7A52456BB7FD3808EDFCF5" ID-GBIF-Occurrence="3864422311" collectingDate="1936-06-02" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="2" pageNumber="186">June 2, Usinger</materialsCitation>
+, 
+<materialsCitation id="71DD3B6A4A7A52456FC8FD0C094EFCF5" ID-GBIF-Occurrence="3864422308" box="[667,801,764,807]" collectingDate="1936-10-12" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="186">Oct. 12</materialsCitation>
+, 
+<materialsCitation id="71DD3B6A4A7A52456E68FD0C0E61FCF5" ID-GBIF-Occurrence="3864422304" box="[827,1038,764,807]" collectingDate="1936-10-31" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="2" pageNumber="186">31, Swezey</materialsCitation>
+; 
+<materialsCitation id="71DD3B6A4A7A52456974FD0C0F1DFCF5" ID-GBIF-Occurrence="3864422332" box="[1063,1394,764,807]" collectingDate="1936-06-11" collectorName="O. H. Swezey" country="Guam" location="Talofofo" pageId="2" pageNumber="186">Talofofo, June 11</materialsCitation>
+, 
+<materialsCitation id="71DD3B6A4A7A524568DEFD0C0D5FFC88" ID-GBIF-Occurrence="3864422326" collectingDate="1936-11-18" collectorName="O. H. Swezey" country="Guam" location="Talofofo" pageId="2" pageNumber="186" specimenCount="2">
+Nov. 18, 
+<specimenCount id="D7B3FABE4A7A52456B66FD0C0D59FCF5" box="[1589,1846,764,807]" pageId="2" pageNumber="186" type="generic">two specimens</specimenCount>
+dead with parasitic fungus, one fastened on a leaf, the other on a nest, Swezey
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="89AF62BC4A7A52456F52FC930843FAFA" pageId="2" pageNumber="186" type="discussion">
+<paragraph id="C10A31374A7A52456F52FC930D5AFBF5" blockId="2.[446,1848,382,2543]" pageId="2" pageNumber="186">
+This very common yellowjacket wasp was collected in 
+<collectingCountry id="B9A271A74A7A524568B1FC930C25FC5C" box="[1506,1610,867,910]" name="Guam" pageId="2" pageNumber="186">Guam</collectingCountry>
+by Fullaway and recorded under the name 
+<emphasis id="F3C1ED254A7A52456EA1FC680EBEFC12" box="[1010,1233,920,960]" italics="true" pageId="2" pageNumber="186">
+<taxonomicName id="06B54AB44A7A52456EA1FC680EA4FC12" box="[1010,1227,920,960]" class="Insecta" family="Eumenidae" genus="Polistes" kingdom="Animalia" order="Hymenoptera" pageId="2" pageNumber="186" phylum="Arthropoda" rank="species" species="hebraeus">P. hebraeus</taxonomicName>
+,
+</emphasis>
+a related species which has been synonymized with 
+<taxonomicName id="06B54AB44A7A52456E5CFC3B0999FC27" baseAuthorityName="Fabricius" baseAuthorityYear="1793" box="[783,1014,971,1013]" class="Insecta" family="Eumenidae" genus="Polistes" kingdom="Animalia" order="Hymenoptera" pageId="2" pageNumber="186" phylum="Arthropoda" rank="species" species="macaensis">
+<emphasis id="F3C1ED254A7A52456E5CFC3B0999FC27" box="[783,1014,971,1013]" italics="true" pageId="2" pageNumber="186">P. macaensis</emphasis>
+</taxonomicName>
+in some of the literature. It occurs in Hawaii and other Pacific island groups. It is common and widely distributed in 
+<collectingCountry id="B9A271A74A7A52456B97FC0F0D5FFBF5" box="[1732,1840,1023,1063]" name="Guam" pageId="2" pageNumber="186">Guam</collectingCountry>
+.
+</paragraph>
+<paragraph id="C10A31374A7A52456F52FBC10843FAFA" blockId="2.[446,1848,382,2543]" pageId="2" pageNumber="186">These wasps are useful in gardens as they habitually carry caterpillars and young grasshoppers home for feeding the larvae in their paper nests. Their cibundance may be indicated by the size of nests found. One nest, four inches in diameter, contained 193 cells, in each of which a wasp had grown to maturity.</paragraph>
+</subSubSection>
+</treatment>
+</document>

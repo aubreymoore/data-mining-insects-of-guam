@@ -1,0 +1,71 @@
+<document id="73B6381769DC98390FC3E86E1F9C3442" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFBF1B08FEFDFBAA04DF4298" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Lesticus" docType="treatment" docVersion="12" lastPageNumber="151" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="151" updateTime="1671336034494" updateUser="annettekang">
+<mods:mods id="0D58ADDAEC2C12D91F904404840E575A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="1E8CFB1F07EE4D238EBBF5ED596427FA">
+<mods:title id="830C41F68DA0CB95F38ED5C893BFF1F4">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="4B70675F2D2D0470A8ED806819DBC6FA" type="personal">
+<mods:role id="E3E8D0C4DC598A2B355475197B951111">
+<mods:roleTerm id="93C1D5651D923288373F96CB37E5AE6D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="8A15625C9CA3DC644B1990E99CA61FA6">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="2BE80FAD573938607EF88BF7A3412300">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="FA027A219366AF9F6E9A4749BD8D02A3">text</mods:typeOfResource>
+<mods:relatedItem id="0F28B2EB3AA5E32C307D3E7DDE77EF02" type="host">
+<mods:originInfo id="E9A3FB43CBFB45D0D2F7FA7C2A44F9C1">
+<mods:dateIssued id="ED29CF7EFC39015B46A70F36A27DA8D7">1942</mods:dateIssued>
+<mods:dateOther id="CC8E7A59478AAFB739B5905AD1D5A4D2" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="D4EA06702BBA6F4495AAF8B7F4A3B85B">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="E5FE69147EF1814B07DE99115ABB327E">
+<mods:placeTerm id="BE172F105AD0F0913AB7A494C7B9C03D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="21BAC8F96021B5582C4FDA2F6715FD7A">
+<mods:title id="51C2D21DAB8F6B515D2C9B7A8187504A">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="34E0523DB00FF550681FFB05819A1D2A">
+<mods:extent id="937F0788500259C8F27AED1BFD7A05B2" unit="page">
+<mods:start id="C7963BABFA1FBA54CA314F636C4BAEC1">150</mods:start>
+<mods:end id="4BE483C443BC87EC759FECEFE5A37E3B">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="A89A10A57611FC6C6EE9FD9AC9F3DBCF">book chapter</mods:classification>
+<mods:identifier id="5573E1B1C86A719EC355E0C77AF2C36A" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="4BBC42338D8164F5D502FCE35B60E341" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="2CDB76146E6CD68E8BD4BE3B25B212A0" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFBF1B08FEFDFBAA04DF4298" ID-DOI="http://doi.org/10.5281/zenodo.5206437" ID-GBIF-Taxon="184415220" ID-Zenodo-Dep="5206437" LSID="urn:lsid:plazi:treatment:376B87E5FFBF1B08FEFDFBAA04DF4298" httpUri="http://treatment.plazi.org/id/376B87E5FFBF1B08FEFDFBAA04DF4298" lastPageNumber="151" pageId="1" pageNumber="151">
+<subSubSection id="F7D86578FFBF1B08FEFDFBAA0589427E" box="[295,655,1055,1096]" pageId="1" pageNumber="151" type="nomenclature">
+<paragraph id="BF7D36F3FFBF1B08FEFDFBAA0589427E" blockId="1.[295,1686,1055,1198]" box="[295,655,1055,1096]" pageId="1" pageNumber="151">
+<heading id="E435819FFFBF1B08FEFDFBAA0589427E" box="[295,655,1055,1096]" fontSize="11" level="2" pageId="1" pageNumber="151" reason="2">
+<emphasis id="8DB6EAE1FFBF1B08FEFDFBAA0645427E" bold="true" box="[295,323,1055,1096]" pageId="1" pageNumber="151">5.</emphasis>
+<taxonomicName id="78C24D70FFBF1B08FEBFFBAA06FC427E" box="[357,506,1055,1096]" class="Insecta" family="Carabidae" genus="Lesticus" kingdom="Animalia" order="Coleoptera" pageId="1" pageNumber="151" phylum="Arthropoda" rank="genus">
+<emphasis id="8DB6EAE1FFBF1B08FEBFFBAA06FC427E" bold="true" box="[357,506,1055,1096]" pageId="1" pageNumber="151">Lesticus</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFBF1B08FEBCFBE504DF4298" pageId="1" pageNumber="151" type="materials_examined">
+<paragraph id="BF7D36F3FFBF1B08FEBCFBE504DF4298" blockId="1.[295,1686,1055,1198]" pageId="1" pageNumber="151">
+<materialsCitation id="0FAA3CAEFFBF1B08FEBCFBE504D24298" ID-GBIF-Occurrence="3334692398" collectedFrom="Determined by E. B. Britton" collectingDate="1936-06-30" collectorName="R. L. Usinger" country="Guam" location="Machanao" pageId="1" pageNumber="151" specimenCount="1">
+<collectingMunicipality id="5F19AC89FFBF1B08FEBCFBE50525424C" box="[358,547,1104,1146]" pageId="1" pageNumber="151">Machanao</collectingMunicipality>
+, 
+<date id="CB7C1033FFBF1B08FDE7FBE505D6424C" box="[573,720,1104,1146]" pageId="1" pageNumber="151" value="1930-06">
+<collectingDate id="DB38E9DBFFBF1B08FDE7FBE505D6424C" box="[573,720,1104,1146]" pageId="1" pageNumber="151" value="1930-06">June 30</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFBF1B08FD30FBE50478424C" box="[746,894,1104,1146]" pageId="1" pageNumber="151">Usinger</collectorName>
+, remains of 
+<specimenCount id="A9C4FD7AFFBF1B08FBAEFBE50260424C" box="[1140,1382,1104,1146]" pageId="1" pageNumber="151" type="generic">one specimen</specimenCount>
+(prothorax and elytra). 
+<location id="BA1D6028FFBF1B08FE13FB36059D4298" LSID="urn:lsid:plazi:treatment:376B87E5FFBF1B08FEFDFBAA04DF4298:BA1D6028FFBF1B08FE13FB36059D4298" box="[457,667,1155,1198]" municipality="Machanao" name="Determined" pageId="1" pageNumber="151">Determined</location>
+by 
+<collectorName id="12375325FFBF1B08FD39FB3604D24298" box="[739,980,1155,1198]" pageId="1" pageNumber="151">E. B. Britton</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

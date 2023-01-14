@@ -1,0 +1,82 @@
+<document id="8C82F9E354C9C38752F8A2D7AAC4981C" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFE9511C5CCBA7ADFD56FDD0" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Ithyporinae" docType="treatment" docVersion="11" lastPageNumber="99" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="98" updateTime="1664476717952" updateUser="ExternalLinkService">
+<mods:mods id="BD6F06AEF3F1DB402D392EF75433E689" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="34B6CE0700E60ADA82A8924739CDE798">
+<mods:title id="DC91D321995A172BC208D45E2AE0D346">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="A2B2A5C383B13ED0AFEB5EBDEEBE5E93" type="personal">
+<mods:role id="806B8F9502A12D2EEBB74C99FD0A9E38">
+<mods:roleTerm id="9B4A2AD355AC50B1EBBCFAF6D34B6597">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="683D84C74898B55EB10F1D7711750223">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="3277B4759D29D50C1F08067D446347B0">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="86B29C476BCCE6D2B591437D6A8A3E54">text</mods:typeOfResource>
+<mods:relatedItem id="CA8BE3B8D109178368B628AECC4866DA" type="host">
+<mods:originInfo id="B709143A5EC9BD3B73166970B69F76EC">
+<mods:dateIssued id="84982AE9D1D908654C2565110446A26E">1942</mods:dateIssued>
+<mods:dateOther id="55F9DEB87D3FECB85E6A61CB265403B6" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="D708512AB637FD07B51B8A258AFA7899">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="1340DDD54CF8BCF89BD02315D606567A">
+<mods:placeTerm id="3F6D4327C7967BE616251B845C2EABD0">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="90F06D48A59E24972883C81CB75561D5">
+<mods:title id="4484C1F56C4A8D8326735874174A754D">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="A569EABE9C59BDC59E26551427BCA99B">
+<mods:extent id="3D67C10EFBF74B10041F3FD401558D90" unit="page">
+<mods:start id="550A2DC7D0406D2BF526429AA14165B3">73</mods:start>
+<mods:end id="92FF847ABB44A3D6BFEEB275CF9093E0">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="D8942070F49DD41CEB190F9C32376083">book chapter</mods:classification>
+<mods:identifier id="709AD0147BF19269978514D187A09DD4" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="4545E979B607E701F2095B24A91179D2" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="18C4B8F89E353A93630F1129024EF7DF" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFE9511C5CCBA7ADFD56FDD0" ID-DOI="http://doi.org/10.5281/zenodo.7120750" ID-GBIF-Taxon="184097859" ID-Zenodo-Dep="7120750" LSID="urn:lsid:plazi:treatment:D6388709FFE9511C5CCBA7ADFD56FDD0" httpUri="http://treatment.plazi.org/id/D6388709FFE9511C5CCBA7ADFD56FDD0" lastPageId="26" lastPageNumber="99" pageId="25" pageNumber="98">
+<subSubSection id="168B6594FFE9511F5CCBA7ADFA6AF6B3" box="[912,1424,2295,2341]" pageId="25" pageNumber="98" type="nomenclature">
+<paragraph id="5E2E361FFFE9511F5CCBA7ADFA6AF6B3" blockId="25.[466,1862,2295,2555]" box="[912,1424,2295,2341]" pageId="25" pageNumber="98">
+<heading id="05668173FFE9511F5CCBA7ADFA6AF6B3" box="[912,1424,2295,2341]" centered="true" fontSize="8" level="2" pageId="25" pageNumber="98" reason="3">
+SUBFAMILY 
+<taxonomicName id="99914D9CFFE9511F5B2DA7ADFA6AF6B3" box="[1142,1424,2295,2341]" family="Curculionidae" kingdom="Animalia" order="Coleoptera" pageId="25" pageNumber="98" rank="subFamily" subFamily="Ithyporinae">ITHYPORINAE</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFE9511C5D4AA662FD56FDD0" lastPageId="26" lastPageNumber="99" pageId="25" pageNumber="98" type="discussion">
+<paragraph id="5E2E361FFFE9511C5D4AA662FA82FE49" blockId="25.[466,1862,2295,2555]" lastBlockId="26.[297,1695,334,582]" lastPageId="26" lastPageNumber="99" pageId="25" pageNumber="98">
+A new genus including one new species represents this subfamily in 
+<collectingCountry id="2686768FFFE9511F598FA662F8C5F6F7" box="[1748,1855,2360,2401]" name="Guam" pageId="25" pageNumber="98">Guam</collectingCountry>
+. The new genus belongs to a group of peculiar genera which include 
+<taxonomicName id="99914D9CFFE9511F5997A630FD7AF65E" authority="Lea" authorityName="Lea" authorityYear="1911" class="Insecta" family="Curculionidae" genus="Fergusonia" kingdom="Animalia" order="Coleoptera" pageId="25" pageNumber="98" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFE9511F5997A630FDD6F65E" italics="true" pageId="25" pageNumber="98">Fergusonia</emphasis>
+Lea
+</taxonomicName>
+of 
+<collectingCountry id="2686768FFFE9511F5D92A6C4FC8AF65E" box="[713,880,2462,2504]" name="Australia" pageId="25" pageNumber="98">Australia</collectingCountry>
+, 
+<taxonomicName id="99914D9CFFE9511F5CD7A6C4FAF2F65E" authority="Marshall" authorityName="Marshall" authorityYear="1931" box="[908,1288,2462,2504]" class="Insecta" family="Curculionidae" genus="Cranopoeus" kingdom="Animalia" order="Coleoptera" pageId="25" pageNumber="98" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFE9511F5CD7A6C4FBA3F65E" box="[908,1113,2462,2504]" italics="true" pageId="25" pageNumber="98">Cranopoeus</emphasis>
+Marshall
+</taxonomicName>
+and 
+<taxonomicName id="99914D9CFFE9511F5A30A6C4F902F65E" authority="Marshall" authorityName="Marshall and Fergttsoniella" box="[1387,1784,2462,2504]" class="Insecta" family="Curculionidae" genus="Spanochelus" kingdom="Animalia" order="Coleoptera" pageId="25" pageNumber="98" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFE9511F5A30A6C4F9BCF65E" box="[1387,1606,2462,2504]" italics="true" pageId="25" pageNumber="98">Spanochelus</emphasis>
+Marshall
+</taxonomicName>
+, the last two of which are abundantly represented at least among the islands from 
+<collectingCountry id="2686768FFFEA511C5E76AE14FE97FEEE" box="[301,365,334,376]" name="Fiji" pageId="26" pageNumber="99">Fiji</collectingCountry>
+to the Marquesas, but few of the species have been described. Other genera and species will undoubtedly be found to show that the group has a wide distribution in Australasia and probably also in Indo-Malaya.
+</paragraph>
+<paragraph id="5E2E361FFFEA511C5E31AEB2FD56FDD0" blockId="26.[297,1695,334,582]" pageId="26" pageNumber="99">
+It is worthwhile to note here that 
+<taxonomicName id="99914D9CFFEA511C5C9FAEB2FB21FD84" authority="Lea" authorityName="Lea" authorityYear="1911" box="[964,1243,488,530]" class="Insecta" family="Curculionidae" genus="Fergusonia" kingdom="Animalia" order="Coleoptera" pageId="26" pageNumber="99" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFEA511C5C9FAEB2FB71FD84" box="[964,1163,488,530]" italics="true" pageId="26" pageNumber="99">Fergusonia</emphasis>
+Lea
+</taxonomicName>
+is a homonym; I suggest the following change:
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

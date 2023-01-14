@@ -1,0 +1,87 @@
+<document id="28F0F5B48EC98564CBFEB244E3741620" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFEE51185D65ADEEFBACFCC8" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Camptorhinus Schoenherr 1826" docType="treatment" docVersion="14" lastPageNumber="103" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="103" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="35C5A3ECCF4ACD739FD97F6AD522A3CC" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="BAB5CD27437431D7096A09E220C23DA3">
+<mods:title id="4215540C227CF5C838BAFCC7E9492DC7">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="87201CC127A764DBCEDA38BE3E96D96D" type="personal">
+<mods:role id="FDC1521AF46E138840759AA7FDAF5880">
+<mods:roleTerm id="54A6B3A03B89556F35DA93558942F5C7">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DDD53651360F0AF22D4B5648755AE256">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="651DDC4A111DAC25B39F63B302592F6B">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="BF1549A797D783453E7EB849EC8CB1F2">text</mods:typeOfResource>
+<mods:relatedItem id="469D47525A9C5D1C12C5FB9BA6FCCB63" type="host">
+<mods:originInfo id="91F2168DF9C9921AA8D49C00915533A5">
+<mods:dateIssued id="E3DA326A07662EFAAFD6E55419F2C82D">1942</mods:dateIssued>
+<mods:dateOther id="407FDE8B288F303F284EC5FF067C148F" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="98EDACCFBC8537E90D70241D4E9CC124">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="3357F5C654A7E11BAC105AB30DB8548D">
+<mods:placeTerm id="51951A21B5C8D9A11531B54311B7BD2E">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="1A764564F0A5359111828632763FE7E6">
+<mods:title id="F5E8549B5C6905699A4BC2D88CF741AA">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="DF0475D9E387136C23A0E6200CAC61BB">
+<mods:extent id="AA7E0FB22053D126F2D33915227542A6" unit="page">
+<mods:start id="E31882143C24EA4D538386C689306042">73</mods:start>
+<mods:end id="A9085C1360F2A66CBCBFAF5A3CECC958">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="F470B497D2A43F18DF188442B921B3BB">book chapter</mods:classification>
+<mods:identifier id="B6636E0A729A948C239CD5D5F1CF69DB" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="97134F67851436F05B12A0DF60D97936" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="7B19074A0D888EB23BF6D8CB9237E12C" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFEE51185D65ADEEFBACFCC8" ID-DOI="http://doi.org/10.5281/zenodo.5191780" ID-GBIF-Taxon="184097854" ID-Zenodo-Dep="5191780" LSID="urn:lsid:plazi:treatment:D6388709FFEE51185D65ADEEFBACFCC8" httpUri="http://treatment.plazi.org/id/D6388709FFEE51185D65ADEEFBACFCC8" lastPageNumber="103" pageId="30" pageNumber="103">
+<subSubSection id="168B6594FFEE51185D65ADEEFA79FD48" box="[574,1411,692,734]" pageId="30" pageNumber="103" type="nomenclature">
+<paragraph id="5E2E361FFFEE51185D65ADEEFA79FD48" blockId="30.[574,1411,692,734]" box="[574,1411,692,734]" pageId="30" pageNumber="103">
+<heading id="05668173FFEE51185D65ADEEFA79FD48" box="[574,1411,692,734]" centered="true" fontSize="8" level="2" pageId="30" pageNumber="103" reason="3">
+Genus 
+<taxonomicName id="99914D9CFFEE51185D99ADEEFA79FD48" authority="Schoenherr, 1826" authorityName="Schoenherr" authorityYear="1826" box="[706,1411,692,734]" class="Insecta" family="Curculionidae" genus="Camptorhinus" kingdom="Animalia" order="Coleoptera" pageId="30" pageNumber="103" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFEE51185D99ADEEFBD5FD48" bold="true" box="[706,1071,692,734]" pageId="30" pageNumber="103">CAMPTORHINUS</emphasis>
+Schoenherr, 1826
+</taxonomicName>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFEE51185E73AC5AFBACFCC8" pageId="30" pageNumber="103" type="reference_group">
+<paragraph id="5E2E361FFFEE51185E73AC5AFAD1FCBC" blockId="30.[294,1323,768,862]" box="[296,1323,768,810]" pageId="30" pageNumber="103">
+<treatmentCitationGroup id="7E811131FFEE51185E73AC5AFAD1FCBC" box="[296,1323,768,810]" pageId="30" pageNumber="103">
+<treatmentCitation id="DF30100EFFEE51185E73AC5AFAD1FCBC" author="Schoenherr" box="[296,1323,768,810]" page="283" pageId="30" pageNumber="103" year="1826">
+<bibCitation id="8BBB3E73FFEE51185E73AC5AFAD1FCBC" author="Schoenherr" box="[296,1323,768,810]" pageId="30" pageNumber="103" pagination="283" refId="ref20062" title="Cure. disp. method." type="book" year="1826">
+<emphasis id="6CE5EA0DFFEE51185E73AC5AFDDAFCBC" box="[296,544,768,810]" italics="true" pageId="30" pageNumber="103">Camptorhinus</emphasis>
+<author id="862CDEFAFFEE51185D74AC5AFD03FCBC" box="[559,761,768,810]" pageId="30" pageNumber="103">Schoenherr</author>
+, 
+<title id="2C95DD29FFEE51185C54AC5AFB9FFCBC" box="[783,1125,768,810]" pageId="30" pageNumber="103">Cure. disp. method.</title>
+, 
+<pagination id="6758C8EBFFEE51185B20AC5AFB41FCBC" box="[1147,1211,768,810]" pageId="30" pageNumber="103" type="pageRange">283</pagination>
+, 
+<year id="2A39774CFFEE51185B88AC5AFADCFCBC" box="[1235,1318,768,810]" pageId="30" pageNumber="103">1826</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFEE51185E7DAC6EFBACFCC8" blockId="30.[294,1323,768,862]" box="[294,1110,820,862]" pageId="30" pageNumber="103">
+<treatmentCitationGroup id="7E811131FFEE51185E7DAC6EFBACFCC8" box="[294,1110,820,862]" pageId="30" pageNumber="103">
+<treatmentCitation id="DF30100EFFEE51185E7DAC6EFBACFCC8" author="Sturm" box="[294,1110,820,862]" page="190" pageId="30" pageNumber="103" year="1826">
+<bibCitation id="8BBB3E73FFEE51185E7DAC6EFBACFCC8" author="Sturm" box="[294,1110,820,862]" pageId="30" pageNumber="103" pagination="190" refId="ref20076" title="Cat. Ins. Samml." type="book" year="1826">
+<emphasis id="6CE5EA0DFFEE51185E7DAC6EFE36FCC8" box="[294,460,820,862]" italics="true" pageId="30" pageNumber="103">Rhinodes</emphasis>
+<author id="862CDEFAFFEE51185E80AC6EFDB1FCC8" box="[475,587,820,862]" pageId="30" pageNumber="103">Sturm</author>
+, 
+<title id="2C95DD29FFEE51185D38AC6EFC74FCC8" box="[611,910,820,862]" pageId="30" pageNumber="103">Cat. Ins. Samml.</title>
+, 
+<pagination id="6758C8EBFFEE51185CF3AC6EFC1EFCC8" box="[936,996,820,862]" pageId="30" pageNumber="103" type="pageRange">190</pagination>
+, 
+<year id="2A39774CFFEE51185CA5AC6EFBABFCC8" box="[1022,1105,820,862]" pageId="30" pageNumber="103">1826</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

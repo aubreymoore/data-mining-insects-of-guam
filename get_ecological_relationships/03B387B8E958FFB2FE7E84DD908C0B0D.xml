@@ -1,0 +1,137 @@
+<document id="4442F78E92C1A314EFCE2B2ADBACD7C3" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E958FFB2FE7E84DD908C0B0D" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Margaronia mysteris" docType="treatment" docVersion="19" lastPageNumber="182" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="182" updateTime="1670265188883" updateUser="annettekang">
+<mods:mods id="C95757D174EC077F581D20B74BD562CB" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="30BEF2399049BCC162E46E78152F13BF">
+<mods:title id="44B20F5FFA21D472F3764D4FE1D66500">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="869AB01812C86BAA301404EDE45469AD" type="personal">
+<mods:role id="69233F19503051876372355E10AFB4B8">
+<mods:roleTerm id="9969DAA56E959149DD8DD11876D110D2">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4BD651E9584529C721AD95D5DD66D69D">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="A5AAE12973CFDD6FD7A27602BE9823E1">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C85F4EFFEE0F8F0EE68A2F8DD23D13BA">text</mods:typeOfResource>
+<mods:relatedItem id="B85D4C3503DF1111D7BE4062636D5CFE" type="host">
+<mods:originInfo id="54ABDF0A4574A61520A983D3C9936958">
+<mods:dateIssued id="D99431DE4B9CB2D33AA307C67F5E0CC7">1946</mods:dateIssued>
+<mods:dateOther id="F47254A65D6C4AD3802713697C368284" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="430A5F9E131852759EE8ECB2A71C3984">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="3535ED0318FBEA2E0EA4A50474084818">
+<mods:placeTerm id="ABC10EF7D40CB81264C118B0FF3A1358">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="5BBCBDB5CF4E6E038D0658314411D461">
+<mods:title id="F1A039C087EA9C2AE804E5555F522A95">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="2C1104C064067880100289B726F9D75A">
+<mods:extent id="AA16E3275E94C5908D780F3AC409151B" unit="page">
+<mods:start id="F50DCFDA389A6BD11471CE6A64DDB872">163</mods:start>
+<mods:end id="62C3EA71CEB7AA1BFC65D9ED90FF6FCC">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="C85F2FD987E6FB29845B8973218C02EE">book chapter</mods:classification>
+<mods:identifier id="9B223C5CB0C6EF361D6849CC6397691C" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="08176D5BFCDB421065D5E30A7428E9E1" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="C03A7847559F6740B78CD8E177B241A8" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E958FFB2FE7E84DD908C0B0D" ID-DOI="http://doi.org/10.5281/zenodo.5158629" ID-GBIF-Taxon="183926923" ID-Zenodo-Dep="5158629" LSID="urn:lsid:plazi:treatment:03B387B8E958FFB2FE7E84DD908C0B0D" httpUri="http://treatment.plazi.org/id/03B387B8E958FFB2FE7E84DD908C0B0D" lastPageNumber="182" pageId="19" pageNumber="182">
+<subSubSection id="C3006525E958FFB2FE7E84DD96170445" box="[433,1121,1760,1802]" pageId="19" pageNumber="182" type="nomenclature">
+<paragraph id="8BA536AEE958FFB2FE7E84DD96170445" blockId="19.[433,1833,1760,2114]" box="[433,1121,1760,1802]" pageId="19" pageNumber="182">
+<heading id="D0ED81C2E958FFB2FE7E84DD96170445" box="[433,1121,1760,1802]" fontSize="8" level="2" pageId="19" pageNumber="182" reason="4">
+<emphasis id="B96EEABCE958FFB2FE7E84DD93930445" bold="true" box="[433,485,1760,1802]" pageId="19" pageNumber="182">32.</emphasis>
+<taxonomicName id="4C1A4D2DE958FFB2FDCA84DD962A0445" authority="(Meyrick)" baseAuthorityName="Meyrick" box="[517,1116,1760,1802]" class="Insecta" family="Crambidae" genus="Margaronia" higherTaxonomySource="GBIF" kingdom="Animalia" order="Lepidoptera" pageId="19" pageNumber="182" phylum="Arthropoda" rank="species" species="mysteris">
+<emphasis id="B96EEABCE958FFB2FDCA84DD91F00445" bold="true" box="[517,902,1760,1802]" pageId="19" pageNumber="182">Margaronia mysteris</emphasis>
+(Meyrick)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E958FFB2FE3C852F9784043C" pageId="19" pageNumber="182" type="description">
+<paragraph id="8BA536AEE958FFB2FE3C852F94FC0472" blockId="19.[433,1833,1760,2114]" box="[499,1674,1810,1853]" pageId="19" pageNumber="182">
+<treatmentCitationGroup id="AB0A1180E958FFB2FE3C852F94FC0472" box="[499,1674,1810,1853]" pageId="19" pageNumber="182">
+<bibCitation id="5E303EC2E958FFB2FE3C852F94FC0472" author="Meyrick" box="[499,1674,1810,1853]" journalOrPublisher="Ent. Soc. London, Trans." pageId="19" pageNumber="182" pagination="223" refId="ref10731" type="journal volume" year="1886">
+<treatmentCitation id="0ABB10BFE958FFB2FE3C852F94F30472" author="Meyrick" box="[499,1669,1810,1853]" page="223" pageId="19" pageNumber="182" year="1886">
+<emphasis id="B96EEABCE958FFB2FE3C852F914C0472" box="[499,826,1810,1853]" italics="true" pageId="19" pageNumber="182">Cydalima mysteris</emphasis>
+<author id="53A7DE4BE958FFB2FC86852F91A90472" box="[841,991,1810,1853]" pageId="19" pageNumber="182">Meyrick</author>
+, 
+<journalOrPublisher id="51DB3C62E958FFB2FC3A852F97B70472" box="[1013,1473,1810,1853]" pageId="19" pageNumber="182">Ent. Soc. London, Trans.</journalOrPublisher>
+, 
+<pagination id="B2D3C85AE958FFB2FA19852F946E0472" box="[1494,1560,1810,1853]" pageId="19" pageNumber="182">223</pagination>
+, 
+<year id="FFB277FDE958FFB2F9FE852F94F30472" box="[1585,1669,1810,1853]" pageId="19" pageNumber="182">1886</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BA536AEE958FFB2FE3F85759784043C" blockId="19.[433,1833,1760,2114]" box="[496,1522,1864,1907]" pageId="19" pageNumber="182">
+<bibCitation id="5E303EC2E958FFB2FE3F85759784043C" author="Tams" box="[496,1522,1864,1907]" pageId="19" pageNumber="182" pagination="281" part="3" refId="ref10748" title="Ins. Samoa" type="journal article" year="1935">
+<treatmentCitationGroup id="AB0A1180E958FFB2FE3F8575979B043C" box="[496,1517,1864,1907]" pageId="19" pageNumber="182">
+<treatmentCitation id="0ABB10BFE958FFB2FE3F8575979B043C" author="Tams" box="[496,1517,1864,1907]" page="281" pageId="19" pageNumber="182" year="1935">
+<emphasis id="B96EEABCE958FFB2FE3F85759118043C" box="[496,878,1864,1907]" italics="true" pageId="19" pageNumber="182">Margaronia mysteris,</emphasis>
+<author id="53A7DE4BE958FFB2FCB185759195043C" box="[894,995,1864,1907]" pageId="19" pageNumber="182">Tams</author>
+, 
+<title id="F91EDD98E958FFB2FC34857596B5043C" box="[1019,1219,1864,1907]" pageId="19" pageNumber="182">
+Ins. 
+<collectingCountry id="F30D763EE958FFB2FB81857596B5043C" box="[1102,1219,1864,1907]" name="Samoa" pageId="19" pageNumber="182">Samoa</collectingCountry>
+</title>
+<part id="FFBE9C33E958FFB2FB1D85759690043C" box="[1234,1254,1864,1907]" pageId="19" pageNumber="182" type="volume">3</part>
+(
+<part id="FFBE9C33E958FFB2FB3B8575977A043C" box="[1268,1292,1864,1907]" pageId="19" pageNumber="182" type="issue">4</part>
+): 
+<pagination id="B2D3C85AE958FFB2FA8F857597F7043C" box="[1344,1409,1864,1907]" pageId="19" pageNumber="182" type="pagination">281</pagination>
+, 
+<year id="FFB277FDE958FFB2FA538575979B043C" box="[1436,1517,1864,1907]" pageId="19" pageNumber="182">1935</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E958FFB2FE3D8542908C0B0D" pageId="19" pageNumber="182" type="description">
+<paragraph id="8BA536AEE958FFB2FE3D8542908C0B0D" blockId="19.[433,1833,1760,2114]" pageId="19" pageNumber="182">
+Described from the 
+<collectingCountry id="F30D763EE958FFB2FCBF8542960B04E8" box="[880,1149,1919,1959]" name="Vanuatu" pageId="19" pageNumber="182">New Hebrides</collectingCountry>
+, and also known from 
+<collectingCountry id="F30D763EE958FFB2F98B854294B704E8" box="[1604,1729,1919,1959]" name="Samoa" pageId="19" pageNumber="182">Samoa</collectingCountry>
+; now recorded from 
+<collectingCountry id="F30D763EE958FFB2FD08858C91420494" box="[711,820,1969,2011]" name="Guam" pageId="19" pageNumber="182">Guam</collectingCountry>
+. 
+<materialsCitation id="3B723CF3E958FFB2FC96858C97770B41" ID-GBIF-Occurrence="3913652442" collectedFrom="one moth was reared from a leafroller caterpillar on Colubrina asiatica" collectingDate="1936-08019" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="19" pageNumber="182" specimenCount="1">
+<collectingMunicipality id="6BC1ACD4E958FFB2FC96858C91D40494" box="[857,930,1969,2011]" pageId="19" pageNumber="182">One</collectingMunicipality>
+moth was reared from a leafroller caterpillar on 
+<taxonomicName id="4C1A4D2DE958FFB2FE7A85DE90850B41" box="[437,755,2019,2062]" class="Magnoliopsida" family="Rhamnaceae" genus="Colubrina" kingdom="Plantae" order="Rosales" pageId="19" pageNumber="182" phylum="Tracheophyta" rank="species" species="asiatica">
+<emphasis id="B96EEABCE958FFB2FE7A85DE90850B41" box="[437,755,2019,2062]" italics="true" pageId="19" pageNumber="182">
+<location id="8EC56075E958FFB2FE7A85DE90140B41" LSID="urn:lsid:plazi:treatment:03B387B8E958FFB2FE7E84DD908C0B0D:8EC56075E958FFB2FE7A85DE90140B41" box="[437,610,2019,2062]" pageId="19" pageNumber="182">Colubrina</location>
+asiatica
+</emphasis>
+</taxonomicName>
+at 
+<location id="8EC56075E958FFB2FCFC85DE91C60B41" LSID="urn:lsid:plazi:treatment:03B387B8E958FFB2FE7E84DD908C0B0D:8EC56075E958FFB2FCFC85DE91C60B41" box="[819,944,2019,2062]" pageId="19" pageNumber="182">Fadian</location>
+, 
+<date id="FFA4106EE958FFB2FC0785DE962D0B41" box="[968,1115,2019,2062]" pageId="19" pageNumber="182" value="2019-08">
+<collectingDate id="EFE0E986E958FFB2FC0785DE962D0B41" box="[968,1115,2019,2062]" pageId="19" pageNumber="182" value="2019-08">Aug. 19</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E958FFB2FBBA85DE97770B41" box="[1141,1281,2019,2062]" pageId="19" pageNumber="182">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="3B723CF3E958FFB2FAD685DE90830B0D" ID-GBIF-Occurrence="3913652409" collectingDate="1936-09-18" collectorName="O. H. Swezey" country="Guam" location="Fadian" pageId="19" pageNumber="182" specimenCount="1">
+one moth collected at 
+<collectingMunicipality id="6BC1ACD4E958FFB2F96A85DE95540B41" box="[1701,1826,2019,2062]" pageId="19" pageNumber="182">
+<location id="8EC56075E958FFB2F96A85DE95540B41" LSID="urn:lsid:plazi:treatment:03B387B8E958FFB2FE7E84DD908C0B0D:8EC56075E958FFB2F96A85DE95540B41" box="[1701,1826,2019,2062]" pageId="19" pageNumber="182">Fadian</location>
+</collectingMunicipality>
+, 
+<date id="FFA4106EE958FFB2FE798A2590390B0D" box="[438,591,2072,2114]" pageId="19" pageNumber="182" value="2018-09">
+<collectingDate id="EFE0E986E958FFB2FE798A2590390B0D" box="[438,591,2072,2114]" pageId="19" pageNumber="182" value="2018-09">Sept. 18</collectingDate>
+</date>
+, 
+<collectorName id="26EF5378E958FFB2FDA08A2590830B0D" box="[623,757,2072,2114]" pageId="19" pageNumber="182">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

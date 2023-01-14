@@ -1,0 +1,93 @@
+<document id="1D6DB793F09C9BBF4639249CA85E919F" ID-DOI="http://doi.org/10.5281/zenodo.5164252" ID-GBIF-Dataset="ddbdc4ea-a921-4961-b58d-4b28fed11e68" ID-Zenodo-Dep="5164252" approvalRequired="5" approvalRequired_for_textStreams="4" checkinTime="1628020897852" checkinUser="carolina" docAuthor="Fullaway, D. T." docDate="1946" docId="F03E87AAF918FFF9FEB2FEA9FD7B1FF7" docLanguage="en" docName="InsectsOfGuamII.189.157-162.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Asterolecanium pustulans" docType="treatment" docVersion="10" lastPageNumber="159" masterDocId="0C07FFD2F91AFFFBFF82FF9EFFC41E3E" masterDocTitle="Coccidae of Guam" masterLastPageNumber="162" masterPageNumber="157" pageNumber="159" updateTime="1661283429254" updateUser="annettekang">
+<mods:mods id="600D12D8F3EFC0C1AEB52D44A253C76A" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="9D455E03AD1B18D2947AD90A36456C60">
+<mods:title id="46CE39A42F9343C1E4A9245C95B7C848">Coccidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="222177ACBB0F1E8DEE712B3B7D651AE2" type="personal">
+<mods:role id="36AF715945CD461800664736428F305A">
+<mods:roleTerm id="C1664861A5EDBC24B6E59F5DAB61ED68">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="72BE42425C3EBD6B2942251A3E4FDAEA">Fullaway, D. T.</mods:namePart>
+<mods:affiliation id="F7ADA6DE4FCE3B9B52CF9744957D2106">Board of Agriculture and Forestry, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="B132CDBD7F1D1A92EC0A4ADD0C8C9229">text</mods:typeOfResource>
+<mods:relatedItem id="89644F9CC8D44427676F2746D06D5E74" type="host">
+<mods:originInfo id="0827A4257343E253ECCB79EAF20EC870">
+<mods:dateIssued id="24F4CE020725938FFD0A03A79DFABC10">1946</mods:dateIssued>
+<mods:dateOther id="D6611992675239ADDFD0E86504487956" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="0B515D01CC7417961B68F7BACD799C38">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="8CF39A8770E24EA0FED41B7A3214AB80">
+<mods:placeTerm id="4403600E46237069B500979CEC1E00D7">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="7EE5C18302D5C6786F6B2CCE42CF4C33">
+<mods:title id="21A0558934F42506F5D21D9962142D45">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="1BC42E6EC9AD9AA44F988C0E08BF5DB8">
+<mods:extent id="1BBC6379A95112B94B05A42E597AAF5B" unit="page">
+<mods:start id="3A2F60F99B020D045D9F8DAD43D8B172">157</mods:start>
+<mods:end id="434EDFBEA12DE08FB8272DB48C2528DC">162</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="575416D165049CCB700557BDF1C6A6C5">book chapter</mods:classification>
+<mods:identifier id="D6837498146C7FD04F2D2AB255437212" type="DOI">http://doi.org/10.5281/zenodo.5164252</mods:identifier>
+<mods:identifier id="F060EEC24B1C24D632C7FDF0085DA7BB" type="GBIF-Dataset">ddbdc4ea-a921-4961-b58d-4b28fed11e68</mods:identifier>
+<mods:identifier id="B90DC29C3CED0282E0236FCBA3C6EEBD" type="Zenodo-Dep">5164252</mods:identifier>
+</mods:mods>
+<treatment id="F03E87AAF918FFF9FEB2FEA9FD7B1FF7" ID-DOI="http://doi.org/10.5281/zenodo.5158011" ID-GBIF-Taxon="183925202" ID-Zenodo-Dep="5158011" LSID="urn:lsid:plazi:treatment:F03E87AAF918FFF9FEB2FEA9FD7B1FF7" httpUri="http://treatment.plazi.org/id/F03E87AAF918FFF9FEB2FEA9FD7B1FF7" lastPageNumber="159" pageId="2" pageNumber="159">
+<subSubSection id="308D6537F918FFF9FEB2FEA9FB8C1F5F" box="[304,1096,311,353]" pageId="2" pageNumber="159" type="nomenclature">
+<paragraph id="782836BCF918FFF9FEB2FEA9FB8C1F5F" blockId="2.[304,1592,311,457]" box="[304,1096,311,353]" pageId="2" pageNumber="159">
+<heading id="236081D0F918FFF9FEB2FEA9FB8C1F5F" box="[304,1096,311,353]" fontSize="8" level="2" pageId="2" pageNumber="159" reason="4">
+<emphasis id="4AE3EAAEF918FFF9FEB2FEA9FEA61F5F" bold="true" box="[304,354,311,353]" pageId="2" pageNumber="159">21.</emphasis>
+<taxonomicName id="BF974D3FF918FFF9FE01FEA9FB871F5F" authority="(Cockerell)" baseAuthorityName="Cockerell" baseAuthorityYear="1892" box="[387,1091,311,353]" class="Insecta" family="Coccidae" genus="Asterolecanium" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="159" phylum="Arthropoda" rank="species" species="pustulans">
+<emphasis id="4AE3EAAEF918FFF9FE01FEA9FC9E1F5F" bold="true" box="[387,858,311,353]" pageId="2" pageNumber="159">Asterolecanium pustulans</emphasis>
+(Cockerell)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="308D6537F918FFF9FEEDFEF4FD7B1FF7" pageId="2" pageNumber="159" type="description">
+<paragraph id="782836BCF918FFF9FEEDFEF4F9FC1FAA" blockId="2.[304,1592,311,457]" box="[367,1592,362,404]" pageId="2" pageNumber="159">
+<treatmentCitationGroup id="58871192F918FFF9FEEDFEF4F9F71FAA" box="[367,1587,362,404]" pageId="2" pageNumber="159">
+<treatmentCitation id="F93610ADF918FFF9FEEDFEF4F9F71FAA" author="Cockerell" box="[367,1587,362,404]" page="143" pageId="2" pageNumber="159" year="1892">
+<taxonomicName id="BF974D3FF918FFF9FEEDFEF4FC0F1FAA" authority="Cockerell, Inst." authorityName="Cockerell, Inst." box="[367,971,362,404]" class="Insecta" family="Asterolecaniidae" genus="Asterodiaspis" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="2" pageNumber="159" phylum="Arthropoda" rank="species" species="pustulans">
+<emphasis id="4AE3EAAEF918FFF9FEEDFEF4FCD01FAA" box="[367,788,362,404]" italics="true" pageId="2" pageNumber="159">Asterodiaspis pustulans</emphasis>
+<bibCitation id="ADBD3ED0F918FFF9FCA4FEF4FD7E1FF7" author="Cockerell" journalOrPublisher="Inst. Jamaica, Jour" pageId="2" pageNumber="159" pagination="143" part="1" type="journal article" year="1892">
+<author id="A02ADE59F918FFF9FCA4FEF4FC0F1FAA" box="[806,971,362,404]" pageId="2" pageNumber="159">Cockerell</author>
+, 
+<journalOrPublisher id="A2563C70F918FFF9FC66FEF4FAF91FAA" box="[996,1341,362,404]" pageId="2" pageNumber="159">
+Inst. 
+<collectingCountry id="0080762CF918FFF9FBC1FEF4FB171FAA" box="[1091,1235,362,404]" name="Jamaica" pageId="2" pageNumber="159">Jamaica</collectingCountry>
+, Jour
+</journalOrPublisher>
+. 
+<emphasis id="4AE3EAAEF918FFF9FAD5FEF4FAA11FAA" bold="true" box="[1367,1381,362,404]" pageId="2" pageNumber="159">
+<part id="0C339C21F918FFF9FAD5FEF4FAA51FAA" box="[1367,1377,362,404]" pageId="2" pageNumber="159" type="volume">1</part>
+:
+</emphasis>
+<subSection id="11182F57F918FFF9FA08FEF4F9FC1FAA" box="[1418,1592,362,404]" pageId="2" pageNumber="159" type="multiple">
+<heading id="236081D0F918FFF9FA08FEF4F9FC1FAA" box="[1418,1592,362,404]" centered="true" fontSize="8" level="2" pageId="2" pageNumber="159" reason="4">
+<pagination id="415EC848F918FFF9FA08FEF4FA021FAA" box="[1418,1478,362,404]" pageId="2" pageNumber="159" type="pagination">143</pagination>
+, 
+<year id="0C3F77EFF918FFF9FA63FEF4F9F71FAA" box="[1505,1587,362,404]" pageId="2" pageNumber="159">1892</year>
+.
+</heading>
+</subSection>
+<paragraph id="782836BCF918FFF9FEF2FE01FD7B1FF7" blockId="2.[304,1592,311,457]" box="[368,703,415,457]" pageId="2" pageNumber="159">
+<materialsCitation id="C8FF3CE1F918FFF9FEF2FE01FD7E1FF7" ID-GBIF-Occurrence="3331839304" box="[368,698,415,457]" collectingDate="1938-1939" collectorName="R. G. Oakley" country="Guam" location="Guam" pageId="2" pageNumber="159">
+<collectingMunicipality id="984CACC6F918FFF9FEF2FE01FE621FF7" box="[368,422,415,457]" pageId="2" pageNumber="159">On</collectingMunicipality>
+cotton, 
+<collectorName id="D562536AF918FFF9FDB8FE01FD7E1FF7" box="[570,698,415,457]" pageId="2" pageNumber="159">Oakley</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

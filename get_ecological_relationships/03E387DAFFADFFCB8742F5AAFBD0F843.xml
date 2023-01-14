@@ -1,0 +1,96 @@
+<document id="396666070D0E90B1E402984799061FB0" ID-DOI="http://doi.org/10.5281/zenodo.5159673" ID-GBIF-Dataset="7700299b-eb39-4c24-86fe-2eabb15beda7" ID-Zenodo-Dep="5159673" approvalRequired="1" approvalRequired_for_document="1" checkinTime="1628017110730" checkinUser="carolina" docAuthor="Blair, K. G." docDate="1942" docId="03E387DAFFADFFCB8742F5AAFBD0F843" docLanguage="en" docName="InsectsOfGuamI.172.56-60.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Zonitis oceanica Blair" docType="treatment" docVersion="11" lastPageNumber="59" masterDocId="FFDAFFA2FFAEFFC88657F353FF92FFF8" masterDocTitle="Coleoptera Heteromera From Guam" masterLastPageNumber="60" masterPageNumber="56" pageNumber="59" updateTime="1659621072307" updateUser="annettekang">
+<mods:mods id="BA88D263D398783C82172A2886BDE6C8" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="A615753220B543DBB37B018BA3D3B350">
+<mods:title id="9188150016BE016D154422ADFA82B140">Coleoptera Heteromera From Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="4C2031E004F5CFB2C613DAEE4FFEAFA6" type="personal">
+<mods:role id="5141F169839F52D7D49D4E2AC73381F9">
+<mods:roleTerm id="1C40C2BFB0885A699618996D0BC3596D">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="CF7EDD1E6F24FA35616B2A1AB881B56E">Blair, K. G.</mods:namePart>
+<mods:affiliation id="48DFDE8011A94CCC1859FFB812F19385">British Museum \ (Natural History), London</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="2DED1B5E5AC4739A1C214E062389785A">text</mods:typeOfResource>
+<mods:relatedItem id="B234A3A659CC2DDFC7355C0EA8BDC49D" type="host">
+<mods:originInfo id="DABC9C513D908CF34A0C8C52611089EF">
+<mods:dateIssued id="C9995052DC30E192D531314AAEB4BD35">1942</mods:dateIssued>
+<mods:dateOther id="2CF846AE5891FB2D4F0B30CCA57234DB" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="4531BF02005D37807011802629E05AF0">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="15B030D037A1ADD9044C31E6E72FDC29">
+<mods:placeTerm id="3CCBCD400982F6D23D7725B18702E636">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9ED78E45BF92AE7A750A69A2C51FB8ED">
+<mods:title id="89081147B3B9D4257A0503FBAEF66737">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="30F456C96ACA98578A522B3F9D42A5CF">
+<mods:extent id="7DCC83A0E82CFE916400E9F03C406F33" unit="page">
+<mods:start id="D890EBBF1537F5E96EC8CA884544155E">56</mods:start>
+<mods:end id="58EB01AA092330BADA7D6F6C62B21321">60</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="04654111F8B110D7B376E9E915909040">book chapter</mods:classification>
+<mods:identifier id="FE20CE2096F073005A0A3A845A4014A2" type="DOI">http://doi.org/10.5281/zenodo.5159673</mods:identifier>
+<mods:identifier id="75574E91BAB701927E9AA428381B5832" type="GBIF-Dataset">7700299b-eb39-4c24-86fe-2eabb15beda7</mods:identifier>
+<mods:identifier id="D944748A2EC4FBB6BFE362FA5DF47650" type="Zenodo-Dep">5159673</mods:identifier>
+</mods:mods>
+<treatment id="03E387DAFFADFFCB8742F5AAFBD0F843" ID-DOI="http://doi.org/10.5281/zenodo.5163536" ID-GBIF-Taxon="183919358" ID-Zenodo-Dep="5163536" LSID="urn:lsid:plazi:treatment:03E387DAFFADFFCB8742F5AAFBD0F843" httpUri="http://treatment.plazi.org/id/03E387DAFFADFFCB8742F5AAFBD0F843" lastPageNumber="59" pageId="3" pageNumber="59">
+<subSubSection id="C3506547FFADFFCB8742F5AAFE3EF8AB" pageId="3" pageNumber="59" type="nomenclature">
+<paragraph id="8BF536CCFFADFFCB8742F5AAFE3EF8AB" blockId="3.[277,1672,1785,1979]" pageId="3" pageNumber="59">
+<treatmentCitationGroup id="AB5A11E2FFADFFCB8742F5AAFE35F8AB" pageId="3" pageNumber="59">
+<treatmentCitation id="0AEB10DDFFADFFCB8742F5AAFE35F8AB" author="Blair" page="146" pageId="3" pageNumber="59" year="1940">
+<taxonomicName id="4C4A4D4FFFADFFCB8742F5AAFD20F8DB" authorityName="Blair" box="[277,690,1785,1827]" class="Insecta" family="Meloidae" genus="Zonitis" kingdom="Animalia" order="Coleoptera" pageId="3" pageNumber="59" phylum="Arthropoda" rank="species" species="oceanica">
+<emphasis id="B93EEADEFFADFFCB8742F5AAFDD2F8DB" bold="true" box="[277,576,1785,1827]" pageId="3" pageNumber="59">Zonitis oceanica</emphasis>
+<bibCitation id="5E603EA0FFADFFCB8401F5AAFE3EF8AB" author="Blair" journalOrPublisher="B. P. Bishop Mus., 0 cc. Papers" pageId="3" pageNumber="59" pagination="146" part="16" type="journal volume" year="1940">
+<author id="53F7DE29FFADFFCB8401F5AAFD20F8DB" box="[598,690,1785,1827]" pageId="3" pageNumber="59">Blair</author>
+, 
+<journalOrPublisher id="518B3C00FFADFFCB8487F5AAFAB8F8DB" box="[720,1322,1785,1827]" pageId="3" pageNumber="59">B. P. Bishop Mus., 0cc. Papers</journalOrPublisher>
+<part id="FFEE9C51FFADFFCB8315F5AAFAFFF8DB" box="[1346,1389,1785,1827]" pageId="3" pageNumber="59">16</part>
+(
+<part id="FFEE9C51FFADFFCB832EF5AAFA1DF8DB" box="[1401,1423,1785,1827]" pageId="3" pageNumber="59">6</part>
+): 
+<pagination id="B283C838FFADFFCB8390F5AAF991F8DB" box="[1479,1539,1785,1827]" pageId="3" pageNumber="59">146</pagination>
+, fig. 9, 
+<year id="FFE2779FFFADFFCB8702F47FFE35F8AB" box="[341,423,1836,1875]" pageId="3" pageNumber="59">1940</year>
+.
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<paragraph id="8BF536CCFFADFFCB8701F40DFBD0F843" blockId="3.[277,1672,1785,1979]" pageId="3" pageNumber="59">
+<subSubSection id="C3506547FFADFFCB8701F40DF914F871" box="[342,1670,1886,1929]" pageId="3" pageNumber="59" type="materials_examined">
+<materialsCitation id="3B223C91FFADFFCB8701F40DF914F871" ID-GBIF-Occurrence="3331241331" box="[342,1670,1886,1929]" collectedFrom="on sword grass" collectingDate="1936-05-19" collectorName="R. L. Usinger" country="Guam" location="Santa Rosa Peak" pageId="3" pageNumber="59" specimenCount="2" specimenCount-female="1" specimenCount-male="1">
+<collectingMunicipality id="6B91ACB6FFADFFCB8701F40DFD15F871" box="[342,647,1886,1929]" pageId="3" pageNumber="59">Santa Rosa Peak</collectingMunicipality>
+, 
+<date id="FFF4100CFFADFFCB84CAF40DFCB4F871" box="[669,806,1886,1929]" pageId="3" pageNumber="59" value="2019-05">
+<collectingDate id="EFB0E9E4FFADFFCB84CAF40DFCB4F871" box="[669,806,1886,1929]" pageId="3" pageNumber="59" value="2019-05">May 19</collectingDate>
+</date>
+, on sword grass, 
+<location id="8E956017FFADFFCB8208F40DFB7DF871" LSID="urn:lsid:plazi:treatment:03E387DAFFADFFCB8742F5AAFBD0F843:8E956017FFADFFCB8208F40DFB7DF871" box="[1119,1263,1886,1929]" municipality="Santa Rosa Peak" name="Usinger" pageId="3" pageNumber="59">Usinger</location>
+, 
+<specimenCount id="9D4CFD45FFADFFCB8352F40DFA30F871" box="[1285,1442,1886,1929]" pageId="3" pageNumber="59" type="male">one male</specimenCount>
+, 
+<specimenCount id="9D4CFD45FFADFFCB83E0F40DF912F871" box="[1463,1664,1886,1929]" pageId="3" pageNumber="59" type="female">one female</specimenCount>
+;
+</materialsCitation>
+</subSubSection>
+<subSubSection id="C3506547FFADFFCB8741F4C2FBD0F843" box="[278,1090,1937,1979]" pageId="3" pageNumber="59" type="description">
+<materialsCitation id="3B223C91FFADFFCB8741F4C2FBAFF843" ID-GBIF-Occurrence="3331241335" box="[278,1085,1937,1979]" collectingDate="1936-04-25" collectorName="E. H. Bryan" country="Guam" location="Mount Sasalaguan" pageId="3" pageNumber="59" specimenCount-female="1">
+<location id="8E956017FFADFFCB8741F4C2FDB9F843" LSID="urn:lsid:plazi:treatment:03E387DAFFADFFCB8742F5AAFBD0F843:8E956017FFADFFCB8741F4C2FDB9F843" box="[278,555,1937,1979]" county="Bryan" municipality="April" name="Mt. Sasalaguan" pageId="3" pageNumber="59">Mt. Sasalaguan</location>
+, 
+<date id="FFF4100CFFADFFCB8415F4C2FD4BF843" box="[578,729,1937,1979]" pageId="3" pageNumber="59" value="1925-04">
+<collectingDate id="EFB0E9E4FFADFFCB8415F4C2FD4BF843" box="[578,729,1937,1979]" pageId="3" pageNumber="59" value="1925-04">April 25</collectingDate>
+</date>
+, 
+<collectingCounty id="62944E40FFADFFCB84A5F4C2FCF2F843" box="[754,864,1937,1979]" pageId="3" pageNumber="59">Bryan</collectingCounty>
+, 
+<specimenCount id="9D4CFD45FFADFFCB852EF4C2FBAFF843" box="[889,1085,1937,1979]" pageId="3" pageNumber="59" type="female">one female</specimenCount>
+</materialsCitation>
+.
+</subSubSection>
+</paragraph>
+</treatment>
+</document>

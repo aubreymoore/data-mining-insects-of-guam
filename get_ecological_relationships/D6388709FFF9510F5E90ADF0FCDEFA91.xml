@@ -1,0 +1,156 @@
+<document id="CDB2A7A8F2B5B364A11FBC90A99C5CFF" ID-DOI="http://doi.org/10.5281/zenodo.5159964" ID-GBIF-Dataset="d0309e8b-3179-4162-946c-08cef1c82013" ID-Zenodo-Dep="5159964" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628020003191" checkinUser="carolina" docAuthor="Zimmerman, Elwood C." docDate="1942" docId="D6388709FFF9510F5E90ADF0FCDEFA91" docLanguage="en" docName="InsectsOfGuamI.172.73-146.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Trigonops insularis Zimmerman 1942, new combination" docType="treatment" docVersion="17" lastPageNumber="82" masterDocId="2A01FF71FFF051065F5BAF5AFFFAFF96" masterDocTitle="Curculionidae of Guam" masterLastPageNumber="146" masterPageNumber="73" pageNumber="82" updateTime="1664379878909" updateUser="annettekang">
+<mods:mods id="60366B089B877CFD895C11F67182E382" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="C944B5F016750B0525A549EF0942F571">
+<mods:title id="41D3EA6055D3B9B90ECFB0A3210BB382">Curculionidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="D502BB62ACB83792904F071A52492E58" type="personal">
+<mods:role id="7AE8E482ABA6D6523F8BCE0B09350A6C">
+<mods:roleTerm id="33A8450550E0D925B4BC50166CB8A084">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="0D5269ECD5EFA4C94C87C6D76B969CC2">Zimmerman, Elwood C.</mods:namePart>
+<mods:affiliation id="2220143F5901A2FBF07E5C251F678EA0">Entomologist Bernice P. Bishop Museum</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="E7FED327FE2CDE8AA426B764A6CE1469">text</mods:typeOfResource>
+<mods:relatedItem id="9D9C5BCBE9C0D9C9FB393CD971E84D09" type="host">
+<mods:originInfo id="3C51E30EA231E560AD492345BCFA033D">
+<mods:dateIssued id="199C5F8AFD43498E31ED0A4F9EC29573">1942</mods:dateIssued>
+<mods:dateOther id="4E114477B985E871B01DCA74A0FFF5FA" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="0AEDF8474A3B9BED927ACD8A530B3F44">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="42BA044129537633C18F5D18A7A64059">
+<mods:placeTerm id="6C9BBC4E37FB380DDC55F9F2384815C1">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="B54AE8C453EDC46FC683FEFDB98E5B81">
+<mods:title id="A3D2CDF34CA314F68B7686F805ACC4F6">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="1381C7A6D0E23746E3B7CBAA22EDEFA9">
+<mods:extent id="67BC90F8C269277EA272FAE095A51662" unit="page">
+<mods:start id="09933B169AADF036EF59CC151E2DE213">73</mods:start>
+<mods:end id="924EC7DB30E854AB78D0F7ABBCC0F66E">146</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="815057643EF16E24B9560F0A76570039">book chapter</mods:classification>
+<mods:identifier id="FF06D9FE778E11A4028E1B27DEDEFBA3" type="DOI">http://doi.org/10.5281/zenodo.5159964</mods:identifier>
+<mods:identifier id="F9BE420ADE5087723F58D526DE55214A" type="GBIF-Dataset">d0309e8b-3179-4162-946c-08cef1c82013</mods:identifier>
+<mods:identifier id="DCA243C356181A2245DB43267FC168A0" type="Zenodo-Dep">5159964</mods:identifier>
+</mods:mods>
+<treatment id="D6388709FFF9510F5E90ADF0FCDEFA91" ID-DOI="http://doi.org/10.5281/zenodo.5157278" ID-GBIF-Taxon="184097844" ID-Zenodo-Dep="5157278" LSID="urn:lsid:plazi:treatment:D6388709FFF9510F5E90ADF0FCDEFA91" httpUri="http://treatment.plazi.org/id/D6388709FFF9510F5E90ADF0FCDEFA91" lastPageNumber="82" pageId="9" pageNumber="82">
+<subSubSection id="168B6594FFF9510F5E90ADF0FA8EFD45" box="[459,1396,682,723]" pageId="9" pageNumber="82" type="nomenclature">
+<paragraph id="5E2E361FFFF9510F5E90ADF0FA8EFD45" blockId="9.[456,1853,682,1287]" box="[459,1396,682,723]" pageId="9" pageNumber="82">
+<taxonomicName id="99914D9CFFF9510F5E90ADF0FBE0FD45" authority="(Boheman)" authorityName="Zimmerman" authorityYear="1942" baseAuthorityName="Boheman" box="[459,1050,682,723]" class="Insecta" family="Curculionidae" genus="Trigonops" kingdom="Animalia" order="Coleoptera" pageId="9" pageNumber="82" phylum="Arthropoda" rank="species" species="insularis" status="new combination">
+<emphasis id="6CE5EA0DFFF9510F5E90ADF0FCC8FD45" bold="true" box="[459,818,682,723]" pageId="9" pageNumber="82">Trigonops insularis</emphasis>
+(Boheman)
+</taxonomicName>
+, 
+<taxonomicNameLabel id="77D65776FFF9510F5B68ADF0FA95FD45" box="[1075,1391,682,723]" pageId="9" pageNumber="82" rank="species">new combination</taxonomicNameLabel>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFF9510F5D51AD87F965FBE6" pageId="9" pageNumber="82" type="reference_group">
+<paragraph id="5E2E361FFFF9510F5D51AD87FCEBFCAF" blockId="9.[456,1853,682,1287]" pageId="9" pageNumber="82">
+<treatmentCitationGroup id="7E811131FFF9510F5D51AD87FCEBFCAF" pageId="9" pageNumber="82">
+<treatmentCitation id="DF30100EFFF9510F5D51AD87FCEBFCAF" author="Boheman" page="251" pageId="9" pageNumber="82" year="1843">
+<bibCitation id="8BBB3E73FFF9510F5D51AD87FCEBFCAF" author="Boheman" editor="Schoenherr's Gen" pageId="9" pageNumber="82" pagination="251" part="7" refId="ref4525" title="Spec. Cure." type="book chapter" year="1843">
+<emphasis id="6CE5EA0DFFF9510F5D51AD87FC88FC91" box="[522,882,733,775]" italics="true" pageId="9" pageNumber="82">Celeuthetes insu.laris</emphasis>
+<author id="862CDEFAFFF9510F5CDBAD87FBDDFC91" box="[896,1063,733,775]" fns="*" inm="true" npo="*" pageId="9" pageNumber="82">Boheman</author>
+, in 
+<editor id="980DDE1CFFF9510F5B37AD87FA5CFC91" box="[1132,1446,733,775]" case="TC" fns="*" inm="true" npo="*" pageId="9" pageNumber="82">Schoenherr's Gen</editor>
+. 
+<title id="2C95DD29FFF9510F5AE7AD87F978FC91" box="[1468,1666,733,775]" pageId="9" pageNumber="82">Spec. Cure.</title>
+<part id="2A359C82FFF9510F59C9AD87F957FC91" box="[1682,1709,733,775]" pageId="9" pageNumber="82" type="volume">7</part>
+(
+<part id="2A359C82FFF9510F59E6AD87F934FC91" box="[1725,1742,733,775]" pageId="9" pageNumber="82" type="issue">1</part>
+): 
+<pagination id="6758C8EBFFF9510F59A8AD87F8CFFC91" box="[1779,1845,733,775]" pageId="9" pageNumber="82" type="pageRange">251</pagination>
+, 
+<year id="2A39774CFFF9510F5D1CAC4BFD63FCAF" box="[583,665,785,825]" pageId="9" pageNumber="82">1843</year>
+. Male
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFF9510F5D52AC1EFD05FC35" blockId="9.[456,1853,682,1287]" pageId="9" pageNumber="82">
+<treatmentCitationGroup id="7E811131FFF9510F5D52AC1EFD05FC35" pageId="9" pageNumber="82">
+<treatmentCitation id="DF30100EFFF9510F5D52AC1EFD05FC35" author="Fairmaire" page="505" pageId="9" pageNumber="82" year="1849">
+<bibCitation id="8BBB3E73FFF9510F5D52AC1EFD05FC35" author="Fairmaire" journalOrPublisher="Rev. Zool." pageId="9" pageNumber="82" pagination="SOS" refId="ref4549" type="journal article" year="1849">
+<emphasis id="6CE5EA0DFFF9510F5D52AC1EFC50FCF8" box="[521,938,836,878]" italics="true" pageId="9" pageNumber="82">Celeuthetes spongicollis</emphasis>
+<author id="862CDEFAFFF9510F5CE6AC1EFB8AFCF8" box="[957,1136,836,878]" pageId="9" pageNumber="82">Fairmaire</author>
+, 
+<journalOrPublisher id="84503CD3FFF9510F5BDCAC1EFAB9FCF8" box="[1159,1347,836,878]" pageId="9" pageNumber="82">Rev. Zool.</journalOrPublisher>
+, 
+<pagination id="6758C8EBFFF9510F5A06AC1EFA59FCF8" box="[1373,1443,836,878]" pageId="9" pageNumber="82" type="pageRange">SOS</pagination>
+, 
+<year id="2A39774CFFF9510F5AE5AC1EF9F1FCF8" box="[1470,1547,836,878]" pageId="9" pageNumber="82">1849</year>
+. Female. (New synonym.)
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFF9510F5D51ACF0FD57FB9C" blockId="9.[456,1853,682,1287]" pageId="9" pageNumber="82">
+<treatmentCitationGroup id="7E811131FFF9510F5D51ACF0FD57FB9C" pageId="9" pageNumber="82">
+<treatmentCitation id="DF30100EFFF9510F5D51ACF0FD57FB9C" author="Fairmaire" page="508" pageId="9" pageNumber="82" year="1849">
+<bibCitation id="8BBB3E73FFF9510F5D51ACF0FD57FB9C" author="Fairmaire" journalOrPublisher="Rev. Zool." pageId="9" pageNumber="82" pagination="508" refId="ref4569" type="journal article" year="1849">
+<emphasis id="6CE5EA0DFFF9510F5D51ACF0FC9AFC43" box="[522,864,938,981]" italics="true" pageId="9" pageNumber="82">Celeuthetes griseus</emphasis>
+<author id="862CDEFAFFF9510F5C2EACF0FBDCFC43" box="[885,1062,938,981]" pageId="9" pageNumber="82">Fairmaire</author>
+, 
+<journalOrPublisher id="84503CD3FFF9510F5B18ACF0FAFBFC43" box="[1091,1281,938,981]" pageId="9" pageNumber="82">Rev. Zool.</journalOrPublisher>
+, 
+<pagination id="6758C8EBFFF9510F5A44ACF0FAA4FC43" box="[1311,1374,938,981]" pageId="9" pageNumber="82" type="pageRange">508</pagination>
+, 
+<year id="2A39774CFFF9510F5A25ACF0FA35FC43" box="[1406,1487,938,981]" pageId="9" pageNumber="82">1849</year>
+. Male. (New synonym.)
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="5E2E361FFFF9510F5D53AB4BF965FBE6" blockId="9.[456,1853,682,1287]" pageId="9" pageNumber="82">
+<treatmentCitationGroup id="7E811131FFF9510F5D53AB4BF965FBE6" pageId="9" pageNumber="82">
+<bibCitation id="8BBB3E73FFF9510F5D53AB4BF965FBE6" author="Rainbow" journalOrPublisher="Austr. Mus., Mem." pageId="9" pageNumber="82" pagination="92" part="3" refId="ref4589" type="journal article" year="1897">
+<treatmentCitation id="DF30100EFFF9510F5D53AB4BF999FBAB" author="Rainbow" box="[520,1635,1041,1085]" page="92" pageId="9" pageNumber="82" year="1897">
+<emphasis id="6CE5EA0DFFF9510F5D53AB4BFC80FBAB" box="[520,890,1041,1085]" italics="true" pageId="9" pageNumber="82">Elytrurus squamatus</emphasis>
+<author id="862CDEFAFFF9510F5CDDAB4BFBDFFBAB" box="[902,1061,1041,1085]" pageId="9" pageNumber="82">Rainbow</author>
+, 
+<journalOrPublisher id="84503CD3FFF9510F5B62AB4BFA73FBAB" box="[1081,1417,1041,1085]" pageId="9" pageNumber="82">Austr. Mus., Mem.</journalOrPublisher>
+<emphasis id="6CE5EA0DFFF9510F5AC3AB4BFA53FBAB" bold="true" box="[1432,1449,1041,1085]" pageId="9" pageNumber="82">
+<part id="2A359C82FFF9510F5AC3AB4BFA5FFBAB" box="[1432,1445,1041,1085]" pageId="9" pageNumber="82" type="volume">3</part>
+:
+</emphasis>
+<pagination id="6758C8EBFFF9510F5A92AB4BFA0FFBAB" box="[1481,1525,1041,1085]" pageId="9" pageNumber="82" type="pageRange">92</pagination>
+, 
+<year id="2A39774CFFF9510F5957AB4BF9A4FBAB" box="[1548,1630,1041,1085]" pageId="9" pageNumber="82">1897</year>
+.
+</treatmentCitation>
+<treatmentCitation id="DF30100EFFF9510F5926AB4BF965FBE6" author="Marshall" page="69" pageId="9" pageNumber="82" year="1938">
+Synonymy by 
+<author id="862CDEFAFFF9510F5DDBAB1EFCE5FBE6" box="[640,799,1092,1136]" pageId="9" pageNumber="82">Marshall</author>
+, 
+<journalOrPublisher id="84503CD3FFF9510F5C63AB1EFA9DFBE6" box="[824,1383,1092,1136]" pageId="9" pageNumber="82">Roy. Ent. Soc. London, Trans.</journalOrPublisher>
+<emphasis id="6CE5EA0DFFF9510F5A22AB1EFA25FBE6" bold="true" box="[1401,1503,1092,1136]" pageId="9" pageNumber="82">
+<part id="2A359C82FFF9510F5A22AB1EFA56FBE6" box="[1401,1452,1092,1136]" pageId="9" pageNumber="82" type="volume">87</part>
+(
+<part id="2A359C82FFF9510F5AE1AB1EFA2AFBE6" box="[1466,1488,1092,1136]" pageId="9" pageNumber="82" type="issue">3</part>
+)
+</emphasis>
+: 
+<pagination id="6758C8EBFFF9510F5AAEAB1EF9D0FBE6" box="[1525,1578,1092,1136]" pageId="9" pageNumber="82" type="pageRange">69</pagination>
+, 
+<year id="2A39774CFFF9510F5913AB1EF960FBE6" box="[1608,1690,1092,1136]" pageId="9" pageNumber="82">1938</year>
+.
+</treatmentCitation>
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="168B6594FFF9510F5D53AB2CFCDEFA91" pageId="9" pageNumber="82" type="discussion">
+<paragraph id="5E2E361FFFF9510F5D53AB2CFCDEFA91" blockId="9.[456,1853,682,1287]" pageId="9" pageNumber="82">
+There was considerable difficulty in drawing up the descriptions of the 
+<collectingCountry id="2686768FFFF9510F5E91ABF0FDC8FB40" box="[458,562,1194,1238]" name="Guam" pageId="9" pageNumber="82">Guam</collectingCountry>
+<taxonomicName id="99914D9CFFF9510F5D13ABF0FD06FB40" box="[584,764,1194,1238]" class="Insecta" family="Curculionidae" genus="Trigonops" kingdom="Animalia" order="Coleoptera" pageId="9" pageNumber="82" phylum="Arthropoda" rank="genus">
+<emphasis id="6CE5EA0DFFF9510F5D13ABF0FD06FB40" box="[584,764,1194,1238]" italics="true" pageId="9" pageNumber="82">Trigonops</emphasis>
+</taxonomicName>
+because of the variation found between the individuals of some of the species.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

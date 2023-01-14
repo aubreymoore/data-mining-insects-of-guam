@@ -1,0 +1,94 @@
+<document id="215AB88194779D8C3A80B5DE12FE3587" ID-DOI="http://doi.org/10.5281/zenodo.5173516" ID-GBIF-Dataset="2eb23bc8-fdf6-422e-afde-a708a845592c" ID-Zenodo-Dep="5173516" approvalRequired="2" approvalRequired_for_textStreams="2" checkinTime="1628021860980" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="7376EC19FF82FFECE408FDD18AADFC93" docLanguage="en" docName="InsectsOfGuamII.189.211-219.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Paranagrus optabilis Perkins" docType="treatment" docVersion="15" lastPageNumber="219" masterDocId="8F4F9461FF8AFFE4E503FFAC8F5EFFD2" masterDocTitle="Notes On Some Guam Chalcidoidea" masterLastPageNumber="219" masterPageNumber="211" pageNumber="219" updateTime="1664203411617" updateUser="annettekang">
+<mods:mods id="E65D85A219BDA7BF92D3017B0E460FED" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="3AF095154DC298D2DC7E3F3E5A9EB8D3">
+<mods:title id="60C18A152BFC63292769608311641578">Notes On Some Guam Chalcidoidea</mods:title>
+</mods:titleInfo>
+<mods:name id="7FB7A12893A9D638087D2E116A09568D" type="personal">
+<mods:role id="3D934286FD4961725F93669B897CAD80">
+<mods:roleTerm id="7AA41789FF15957519E06DE9949F713F">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="4FE7C4DA18AE7CC3315AD0188F26D666">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="D5402843526D048BF7D52D85A86E31FE">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="A8A51E829916755A12E95D347819B937">text</mods:typeOfResource>
+<mods:relatedItem id="A965627A62C36AAD6BCDB4DE5489D3C8" type="host">
+<mods:originInfo id="DCDE0C85165FCFB6BCBD6EEB5D8461E1">
+<mods:dateIssued id="FC5F95E7E30026E453A218080D9CC9D7">1946</mods:dateIssued>
+<mods:dateOther id="BDF8099830E9C8EC17FBC72125273CEC" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="847338DA9A1BD762E05CA3E689D165F1">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="C4CA5F5864AD5637A9E6E92746339F95">
+<mods:placeTerm id="19C39FD5CD523E8B529B21B32CE4E39F">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="B09227880CD564BE0D79D785C2EBDF6A">
+<mods:title id="73A093C0E760BAAFE5A64E5FFD95FD61">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="1ADB6A6FC0DBCE844C2E2C2B100EBE53">
+<mods:extent id="133913AAA5C0657CDA1A22C0FD4670D4" unit="page">
+<mods:start id="013BC7477429B99726D9C7E3E2FB3013">211</mods:start>
+<mods:end id="7CAF4F2354F23022D143C997FAEE16CA">219</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="85FA53BC0141566C9FB896251FA6BE3A">book chapter</mods:classification>
+<mods:identifier id="1F932624E4C0912EEA1860673A467457" type="DOI">http://doi.org/10.5281/zenodo.5173516</mods:identifier>
+<mods:identifier id="689F9F8009633274569C22395F490F8D" type="GBIF-Dataset">2eb23bc8-fdf6-422e-afde-a708a845592c</mods:identifier>
+<mods:identifier id="8FBBBB91DD89991150D2E025883FE9D3" type="Zenodo-Dep">5173516</mods:identifier>
+</mods:mods>
+<treatment id="7376EC19FF82FFECE408FDD18AADFC93" ID-DOI="http://doi.org/10.5281/zenodo.5227126" ID-GBIF-Taxon="187737484" ID-Zenodo-Dep="5227126" LSID="urn:lsid:plazi:treatment:7376EC19FF82FFECE408FDD18AADFC93" httpUri="http://treatment.plazi.org/id/7376EC19FF82FFECE408FDD18AADFC93" lastPageNumber="219" pageId="8" pageNumber="219">
+<bibCitation id="2EF55563FF82FFECE408FDD18C6FFD09" author="Perkins" journalOrPublisher="Haw. Sugar Plant. Assoc. Expt. Sta., Ent. Bull." pageId="8" pageNumber="219" pagination="199" part="1" refId="ref3615" type="journal article" year="1905">
+<subSubSection id="B3C50E84FF82FFECE408FDD18CCEFD7A" box="[267,912,637,680]" pageId="8" pageNumber="219" type="nomenclature">
+<paragraph id="FB605D0FFF82FFECE408FDD18CCEFD7A" blockId="8.[267,1662,637,833]" box="[267,912,637,680]" pageId="8" pageNumber="219">
+<emphasis id="C9AB811DFF82FFECE408FDD18E62FD7A" bold="true" box="[267,316,637,680]" pageId="8" pageNumber="219">63.</emphasis>
+<taxonomicName id="3CDF268CFF82FFECE45DFDD18CD7FD7A" authority="Perkins" box="[350,905,637,680]" class="Insecta" family="Mymaridae" genus="Paranagrus" higherTaxonomySource="CoL" kingdom="Animalia" order="Hymenoptera" pageId="8" pageNumber="219" phylum="Arthropoda" rank="species" species="optabilis">
+<treatmentCitationGroup id="DBCF7A21FF82FFECE45DFDD18DBDFD7A" box="[350,739,637,680]" pageId="8" pageNumber="219">
+<treatmentCitation id="7A7E7B1EFF82FFECE45DFDD18DBDFD7A" author="Perkins" box="[350,739,637,680]" page="199" pageId="8" pageNumber="219" year="1905">
+<emphasis id="C9AB811DFF82FFECE45DFDD18DBDFD7A" bold="true" box="[350,739,637,680]" pageId="8" pageNumber="219">Paranagrus optabilis</emphasis>
+</treatmentCitation>
+</treatmentCitationGroup>
+<author id="2362B5EAFF82FFECE7FFFDD18CD7FD7A" box="[764,905,637,680]" pageId="8" pageNumber="219">Perkins</author>
+</taxonomicName>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="B3C50E84FF82FFECE6ABFDD18C6FFD09" pageId="8" pageNumber="219" type="reference_group">
+<paragraph id="FB605D0FFF82FFECE6ABFDD18C6FFD09" blockId="8.[267,1662,637,833]" pageId="8" pageNumber="219">
+<journalOrPublisher id="211E57C3FF82FFECE6ABFDD18EA6FD09" pageId="8" pageNumber="219">Haw. Sugar Plant. Assoc. Expt. Sta., Ent. Bull.</journalOrPublisher>
+<part id="8F7BF792FF82FFECE70EFD1D8D40FD09" box="[525,542,689,731]" pageId="8" pageNumber="219" type="volume">1</part>
+(
+<part id="8F7BF792FF82FFECE72EFD1D8D18FD09" box="[557,582,689,731]" pageId="8" pageNumber="219" type="issue">6</part>
+): 
+<pagination id="C216A3FBFF82FFECE781FD1D8D9EFD09" box="[642,704,689,731]" pageId="8" pageNumber="219" type="pagination">199</pagination>
+, 
+<year id="8F771C5CFF82FFECE7D9FD1D8C72FD09" box="[730,812,689,731]" pageId="8" pageNumber="219">1905</year>
+.
+</paragraph>
+</subSubSection>
+</bibCitation>
+<subSubSection id="B3C50E84FF82FFECE448FD498AADFC93" pageId="8" pageNumber="219" type="materials_examined">
+<paragraph id="FB605D0FFF82FFECE448FD498AADFC93" blockId="8.[267,1662,637,833]" pageId="8" pageNumber="219">
+<materialsCitation id="4BB75752FF82FFECE448FD498AADFC93" ID-GBIF-Occurrence="3901040303" collectedFrom="ex eggs of Perkinsiella thompsoni Muir in sugar cane leaves" collectingDate="1936-04-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="8" pageNumber="219" specimenCount="4">
+<collectingMunicipality id="1B04C775FF82FFECE448FD498ED0FCDC" box="[331,398,741,782]" pageId="8" pageNumber="219">Piti</collectingMunicipality>
+, 
+<date id="8F617BCFFF82FFECE4A0FD498D64FCDC" box="[419,570,741,782]" pageId="8" pageNumber="219" value="1930-04">
+<collectingDate id="9F258227FF82FFECE4A0FD498D64FCDC" box="[419,570,741,782]" pageId="8" pageNumber="219" value="1930-04">April 30</collectingDate>
+</date>
+, 
+<specimenCount id="EDD99686FF82FFECE74CFD498D26FCDC" box="[591,632,741,782]" pageId="8" pageNumber="219" type="generic">ex</specimenCount>
+<specimenCount id="EDD99686FF82FFECE785FD498D8FFCDC" box="[646,721,741,782]" pageId="8" pageNumber="219" type="egg">eggs</specimenCount>
+of 
+<taxonomicName id="3CDF268CFF82FFECE612FD498A52FCDC" box="[785,1292,741,782]" pageId="8" pageNumber="219">
+<emphasis id="C9AB811DFF82FFECE612FD498BF9FCDC" box="[785,1191,741,782]" italics="true" pageId="8" pageNumber="219">Perkinsiella thompsoni</emphasis>
+Muir
+</taxonomicName>
+in sugar cane leaves, 
+<collectorName id="562A38D9FF82FFECE40EFCBB8ECAFC93" box="[269,404,791,833]" pageId="8" pageNumber="219">Swezey</collectorName>
+. Three slide mounts, one retained in 
+<collectingCountry id="83C81D9FFF82FFECE13EFCBB8BC5FC93" box="[1085,1179,791,833]" name="United States of America" pageId="8" pageNumber="219">U. S.</collectingCountry>
+<location id="FE000BD4FF82FFECE1AFFCBB8AB0FC93" LSID="urn:lsid:plazi:treatment:7376EC19FF82FFECE408FDD18AADFC93:FE000BD4FF82FFECE1AFFCBB8AB0FC93" box="[1196,1518,791,833]" country="United States of America" municipality="Piti" name="National Museum" pageId="8" pageNumber="219">National Museum</location>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,106 @@
+<document id="5000C27DAA3C41284FA5A16815BCDCB6" ID-DOI="http://doi.org/10.5281/zenodo.5160270" ID-GBIF-Dataset="6dc2872d-cbab-4982-baed-c0969e3e3236" ID-Zenodo-Dep="5160270" checkinTime="1628013042203" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="0E4F7F497E605A2BB416FBBD1301739B" docLanguage="en" docName="InsectsOfGuamI.172.175-183.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Pheidole" docType="treatment" docVersion="6" lastPageNumber="179" masterDocId="F27607317E645A2FB552FF8416577654" masterDocTitle="Hymenoptera Formicidae of Guam" masterLastPageNumber="183" masterPageNumber="175" pageNumber="179" updateTime="1657826854609" updateUser="ExternalLinkService">
+<mods:mods id="CCACD186AC776302C3DC7BE1E0144D83" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="CEBC3E375CF99B7ADA95E0FCF64838A6">
+<mods:title id="55A0ACBC15CD63F2D5D10FDA6B6FE32D">Hymenoptera Formicidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="CAE99001A25FB719AA2B531649247CC4" type="personal">
+<mods:role id="1177918FFAB617498A1862BDF4AFD529">
+<mods:roleTerm id="0541E23447614F6E957737727A6F5C57">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="BD328D0E09B8CC26640036EC55644AAC">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="DCBFCDB83A8EC3EAA163BD3D62F77B7F">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="8732F9B1AF8AA65E3A29497ED55C99DF">text</mods:typeOfResource>
+<mods:relatedItem id="12D9C4311DA7741FA8B0FFDD2148BC75" type="host">
+<mods:originInfo id="6E8B830D9DA2B1AAC9C4C62115B972C9">
+<mods:dateIssued id="4836A264AD5BA13740BCFB2587189357">1942</mods:dateIssued>
+<mods:dateOther id="6763A428475F50A2DB1AACE438F5CF44" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="5AECDFCAD02BD1BA94083C02FC1A2D8E">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="8D4EB58E46DEA490D04F8F0448C21510">
+<mods:placeTerm id="0F45105D5D68F4A72B7F5299F72C79C2">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="ECB6E012DA6DCB11B77647A11AD016F1">
+<mods:title id="AC00AD95ED62C0E5DF884ADC6EF85D6E">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="AC3F8949EBA90E9238DC956C357EE1E8">
+<mods:extent id="731D5B9A43AC0E0369D8B08FE2EEA4F6" unit="page">
+<mods:start id="9F350EB551376697FA9FBA4775608379">175</mods:start>
+<mods:end id="202B1FAD249423535108E3C6DDA57B63">183</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="89FAE4A63C2CE4E5528685DE74BB360D">book chapter</mods:classification>
+<mods:identifier id="D5183CBEA6B13A5226EEC2D1119E76A4" type="DOI">http://doi.org/10.5281/zenodo.5160270</mods:identifier>
+<mods:identifier id="A1796DCE020DEC6C5F1B702DF5D7A05E" type="GBIF-Dataset">6dc2872d-cbab-4982-baed-c0969e3e3236</mods:identifier>
+<mods:identifier id="1E87AB3E519EB16552C2EEA47172856F" type="Zenodo-Dep">5160270</mods:identifier>
+</mods:mods>
+<treatment id="0E4F7F497E605A2BB416FBBD1301739B" ID-DOI="http://doi.org/10.5281/zenodo.5164295" ID-GBIF-Taxon="187967714" ID-Zenodo-Dep="5164295" LSID="urn:lsid:plazi:treatment:0E4F7F497E605A2BB416FBBD1301739B" httpUri="http://treatment.plazi.org/id/0E4F7F497E605A2BB416FBBD1301739B" lastPageNumber="179" pageId="4" pageNumber="179">
+<subSubSection id="CEFC9DD47E605A2BB416FBBD158C7237" box="[324,987,1081,1123]" pageId="4" pageNumber="179" type="nomenclature">
+<paragraph id="8659CE5F7E605A2BB416FBBD158C7237" blockId="4.[324,1527,1081,1293]" box="[324,987,1081,1123]" pageId="4" pageNumber="179">
+<heading id="DD1179337E605A2BB416FBBD158C7237" box="[324,987,1081,1123]" fontSize="8" level="2" pageId="4" pageNumber="179" reason="4">
+<emphasis id="B492124D7E605A2BB416FBBD146A7237" bold="true" box="[324,573,1081,1123]" pageId="4" pageNumber="179">
+17. 
+<taxonomicName id="41E6B5DC7E605A2BB4C4FBBD14607237" authority="Westwood, 1839" box="[406,567,1081,1123]" class="Insecta" family="Formicidae" genus="Pheidole" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="179" phylum="Arthropoda" rank="genus">Pheidole</taxonomicName>
+,
+</emphasis>
+species near 
+<emphasis id="B492124D7E605A2BB660FBBD158C7237" box="[818,987,1081,1123]" italics="true" pageId="4" pageNumber="179">phileinon.</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E605A2BB4D3FBF1123572CB" box="[385,1122,1141,1183]" pageId="4" pageNumber="179" type="materials_examined">
+<paragraph id="8659CE5F7E605A2BB4D3FBF1123572CB" blockId="4.[324,1527,1081,1293]" box="[385,1122,1141,1183]" pageId="4" pageNumber="179">
+<materialsCitation id="368EC4027E605A2BB4D3FBF1120A72CB" ID-GBIF-Occurrence="3351983302" box="[385,1117,1141,1183]" collectingDate="1936-10-18" collectorName="O. H. Swezey" country="Guam" location="Yigo" pageId="4" pageNumber="179" specimenCount="12">
+<location id="833998847E605A2BB4D3FBF1178D72CB" LSID="urn:lsid:plazi:treatment:0E4F7F497E605A2BB416FBBD1301739B:833998847E605A2BB4D3FBF1178D72CB" box="[385,474,1141,1183]" name="Yigo" pageId="4" pageNumber="179">Yigo</location>
+, 
+<date id="F258E89F7E605A2BB4A0FBF1142172CB" box="[498,630,1141,1183]" pageId="4" pageNumber="179" value="2018-10">
+<collectingDate id="E21C11777E605A2BB4A0FBF1142172CB" box="[498,630,1141,1183]" pageId="4" pageNumber="179" value="2018-10">Oct. 18</collectingDate>
+</date>
+, 
+<collectorName id="2B13AB897E605A2BB7DCFBF1154372CB" box="[654,788,1141,1183]" pageId="4" pageNumber="179">Swezey</collectorName>
+, 
+<specimenCount id="90E005D67E605A2BB678FBF1120A72CB" box="[810,1117,1141,1183]" pageId="4" pageNumber="179" type="generic">twelve specimens</specimenCount>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E605A2BB4D1FB3514907303" pageId="4" pageNumber="179" type="discussion">
+<paragraph id="8659CE5F7E605A2BB4D1FB3514897359" blockId="4.[324,1527,1081,1293]" pageId="4" pageNumber="179">A small black species with a specially large big-headed soldier. Determination by M. R. Smith.</paragraph>
+<paragraph id="8659CE5F7E605A2BB416FAAB14907303" blockId="4.[324,1486,1327,1487]" box="[324,711,1327,1367]" pageId="4" pageNumber="179">
+<heading id="DD1179337E605A2BB416FAAB14907303" box="[324,711,1327,1367]" fontSize="8" level="2" pageId="4" pageNumber="179" reason="4">
+<emphasis id="B492124D7E605A2BB416FAAB17237303" bold="true" box="[324,372,1327,1367]" pageId="4" pageNumber="179">18.</emphasis>
+<taxonomicName id="41E6B5DC7E605A2BB4C7FAAB14667303" box="[405,561,1327,1367]" class="Insecta" family="Formicidae" genus="Pheidole" kingdom="Animalia" order="Hymenoptera" pageId="4" pageNumber="179" phylum="Arthropoda" rank="species" species="undetermined">
+<emphasis id="B492124D7E605A2BB4C7FAAB14667303" bold="true" box="[405,561,1327,1367]" pageId="4" pageNumber="179">Pheidole</emphasis>
+</taxonomicName>
+species.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E605A2BB4D6FAEF139973C1" box="[388,1486,1387,1429]" pageId="4" pageNumber="179" type="materials_examined">
+<paragraph id="8659CE5F7E605A2BB4D6FAEF139973C1" blockId="4.[324,1486,1327,1487]" box="[388,1486,1387,1429]" pageId="4" pageNumber="179">
+<materialsCitation id="368EC4027E605A2BB4D6FAEF140973C1" ID-GBIF-Occurrence="3862685377" box="[388,606,1387,1429]" collectingDate="1936-08-04" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="179">
+<location id="833998847E605A2BB4D6FAEF179173C1" LSID="urn:lsid:plazi:treatment:0E4F7F497E605A2BB416FBBD1301739B:833998847E605A2BB4D6FAEF179173C1" box="[388,454,1387,1429]" name="Piti" pageId="4" pageNumber="179">Piti</location>
+, 
+<date id="F258E89F7E605A2BB48EFAEF140073C1" box="[476,599,1387,1429]" pageId="4" pageNumber="179">
+<collectingDate id="E21C11777E605A2BB48EFAEF140073C1" box="[476,599,1387,1429]" pageId="4" pageNumber="179">Aug. 4</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="368EC4027E605A2BB73DFAEF139E73C1" ID-GBIF-Occurrence="3862685407" box="[623,1481,1387,1429]" collectedFrom="in garden" collectingDate="1936-09-26" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="4" pageNumber="179" specimenCount="30">
+<date id="F258E89F7E605A2BB73DFAEF155773C1" box="[623,768,1387,1429]" pageId="4" pageNumber="179" value="1926-09">
+<collectingDate id="E21C11777E605A2BB73DFAEF155773C1" box="[623,768,1387,1429]" pageId="4" pageNumber="179" value="1926-09">Sept. 26</collectingDate>
+</date>
+, in garden, 
+<collectorName id="2B13AB897E605A2BB685FAEF120B73C1" box="[983,1116,1387,1429]" pageId="4" pageNumber="179">Swezey</collectorName>
+, about 
+<specimenCount id="90E005D67E605A2BB1B3FAEF139E73C1" box="[1249,1481,1387,1429]" pageId="4" pageNumber="179" type="generic">30 specimens</specimenCount>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="CEFC9DD47E605A2BB4D0FA221301739B" box="[386,1366,1446,1487]" pageId="4" pageNumber="179" type="discussion">
+<paragraph id="8659CE5F7E605A2BB4D0FA221301739B" blockId="4.[324,1486,1327,1487]" box="[386,1366,1446,1487]" pageId="4" pageNumber="179">A light brown species. Determination by M. R. Smith.</paragraph>
+</subSubSection>
+</treatment>
+</document>

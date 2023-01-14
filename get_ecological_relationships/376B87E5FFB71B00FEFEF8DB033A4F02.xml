@@ -1,0 +1,173 @@
+<document id="BFF383E9BB03F22FDD064F90C498AFD0" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB71B00FEFEF8DB033A4F02" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Anisolemnia mulsanti" docType="treatment" docVersion="17" lastPageNumber="159" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="159" updateTime="1671344542561" updateUser="ExternalLinkService">
+<mods:mods id="D11B6CE410AE11996215372CCF886262" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="EE48964D8746E11B71B1AC543713C1D3">
+<mods:title id="467A6332D0130F1DD337B1C1EB762F8D">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="5DF92DCBE1F4D2B1BFE18B6202A104D3" type="personal">
+<mods:role id="536C2DE5614A30312EE8AD9C57F5A882">
+<mods:roleTerm id="2E05C32D6FAFB978003B11BC82F7FE59">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="0F55C648E3F7665DA897882E7AA7CAEB">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="15C72908C7286925D7F95A599B3B22BA">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="B6C13B15175FD202F1B62F3DEC549E0A">text</mods:typeOfResource>
+<mods:relatedItem id="59E95DEC3DCB6BE413B3AF1D7600D670" type="host">
+<mods:originInfo id="0924D00B593D7C21D87FD3E72B21A632">
+<mods:dateIssued id="1B307C9E7AF2F5D2F6572D216FFBBCED">1942</mods:dateIssued>
+<mods:dateOther id="D8FF6A16379340CC5B559F778C0E602D" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="4037776D7A99EBAB6D405155668399D8">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="2F6C950C5E837F4DA1D5870BC4B9A99C">
+<mods:placeTerm id="7B0C8B93E89931ACBA722A72E2D749CB">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A406AFF9EB2765068C7F9B13A65D3B48">
+<mods:title id="2BA999B6FD64B7AB65FA2D3FDB1F977A">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="CA3F0D076C77E7FECC096FA1E3219A65">
+<mods:extent id="2060D06D4549F75F8772E82F023DF255" unit="page">
+<mods:start id="D51111F31B24C627B1587A8EF69E25CD">150</mods:start>
+<mods:end id="751755EAFB37D9DFB8AA134CDF554B98">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="D219A61B11891E56271584758AB4242F">book chapter</mods:classification>
+<mods:identifier id="127DDDAAE00639544272B97D26239ED7" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="1D167B1B8C8F77F185F0897AF19EF82C" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="8E145742B74A73E3548C781C0913EAF3" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB71B00FEFEF8DB033A4F02" ID-DOI="http://doi.org/10.5281/zenodo.5180814" ID-GBIF-Taxon="184415310" ID-Zenodo-Dep="5180814" LSID="urn:lsid:plazi:treatment:376B87E5FFB71B00FEFEF8DB033A4F02" httpUri="http://treatment.plazi.org/id/376B87E5FFB71B00FEFEF8DB033A4F02" lastPageNumber="159" pageId="9" pageNumber="159">
+<subSection id="D64D2F18FFB71B00FEFEF8DB031041A1" box="[292,1046,1902,1943]" pageId="9" pageNumber="159" type="multiple">
+<subSubSection id="F7D86578FFB71B00FEFEF8DB031041A1" box="[292,1046,1902,1943]" pageId="9" pageNumber="159" type="nomenclature">
+<paragraph id="BF7D36F3FFB71B00FEFEF8DB031041A1" blockId="9.[292,1689,1902,2356]" box="[292,1046,1902,1943]" pageId="9" pageNumber="159">
+<heading id="E435819FFFB71B00FEFEF8DB031041A1" box="[292,1046,1902,1943]" fontSize="11" level="2" pageId="9" pageNumber="159" reason="2">
+<emphasis id="8DB6EAE1FFB71B00FEFEF8DB064741A1" bold="true" box="[292,321,1902,1943]" pageId="9" pageNumber="159">4.</emphasis>
+<taxonomicName id="78C24D70FFB71B00FEB9F8DB031741A1" authority="(Montrouzier)" baseAuthorityName="Montrouzier" box="[355,1041,1902,1943]" class="Insecta" family="Coccinellidae" genus="Anisolemnia" kingdom="Animalia" order="Coleoptera" pageId="9" pageNumber="159" phylum="Arthropoda" rank="species" species="mulsanti">
+<emphasis id="8DB6EAE1FFB71B00FEB9F8DB05F541A1" bold="true" box="[355,755,1902,1943]" pageId="9" pageNumber="159">Anisolemnia mulsanti</emphasis>
+(Montrouzier)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+</subSection>
+<subSubSection id="F7D86578FFB71B00FEBEF81502204E04" pageId="9" pageNumber="159" type="reference_group">
+<paragraph id="BF7D36F3FFB71B00FEBEF815015E41FD" blockId="9.[292,1689,1902,2356]" box="[356,1624,1952,1995]" pageId="9" pageNumber="159">
+<heading id="E435819FFFB71B00FEBEF815015E41FD" box="[356,1624,1952,1995]" centered="true" fontSize="8" level="2" pageId="9" pageNumber="159" reason="3">
+<treatmentCitationGroup id="9FD211DDFFB71B00FEBEF815015E41FD" box="[356,1624,1952,1995]" pageId="9" pageNumber="159">
+<treatmentCitation id="3E6310E2FFB71B00FEBEF815015E41FD" author="Mulsant" box="[356,1624,1952,1995]" page="304" pageId="9" pageNumber="159" year="1861">
+<bibCitation id="6AE83E9FFFB71B00FEBEF815015E41FD" author="Montrouzier" box="[356,1624,1952,1995]" journalOrPublisher="Soc. Ent. France, Ann." pageId="9" pageNumber="159" pagination="304" part="1" refId="ref5009" type="journal article" year="1861">
+<emphasis id="8DB6EAE1FFB71B00FEBEF815057D41FD" box="[356,635,1952,1995]" italics="true" pageId="9" pageNumber="159">Daulis mulsanti</emphasis>
+<author id="677FDE16FFB71B00FD53F815046C41FD" box="[649,874,1952,1995]" pageId="9" pageNumber="159">Montrouzier</author>
+, 
+<journalOrPublisher id="65033C3FFFB71B00FC58F815021A41FD" box="[898,1308,1952,1995]" pageId="9" pageNumber="159">
+Soc. Ent. 
+<collectingCountry id="C7D57663FFB71B00FBEEF81503B741FD" box="[1076,1201,1952,1995]" name="France" pageId="9" pageNumber="159">France</collectingCountry>
+, Ann.
+</journalOrPublisher>
+IV, 
+<emphasis id="8DB6EAE1FFB71B00FAA3F815028E41FD" bold="true" box="[1401,1416,1952,1995]" pageId="9" pageNumber="159">
+<part id="CB669C6EFFB71B00FAA3F815028241FD" box="[1401,1412,1952,1995]" pageId="9" pageNumber="159" type="volume">1</part>
+:
+</emphasis>
+<pagination id="860BC807FFB71B00FA73F81502EF41FD" box="[1449,1513,1952,1995]" pageId="9" pageNumber="159" type="pageRange">304</pagination>
+, 
+<year id="CB6A77A0FFB71B00F9DBF815015541FD" box="[1537,1619,1952,1995]" pageId="9" pageNumber="159">1861</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</heading>
+</paragraph>
+<paragraph id="BF7D36F3FFB71B00FEBCF861019141C8" blockId="9.[292,1689,1902,2356]" box="[358,1687,2004,2046]" pageId="9" pageNumber="159">
+<treatmentCitationGroup id="9FD211DDFFB71B00FEBCF861019141C8" box="[358,1687,2004,2046]" pageId="9" pageNumber="159">
+<bibCitation id="6AE83E9FFFB71B00FEBCF861019141C8" author="Crotch" box="[358,1687,2004,2046]" journalOrPublisher="Rev. Coccinellidae" pageId="9" pageNumber="159" pagination="152" refId="ref5029" type="book" year="1874">
+<treatmentCitation id="3E6310E2FFB71B00FEBCF861019441C8" author="Crotch" box="[358,1682,2004,2046]" page="152" pageId="9" pageNumber="159" year="1874">
+<emphasis id="8DB6EAE1FFB71B00FEBCF86105D441C8" box="[358,722,2004,2046]" italics="true" pageId="9" pageNumber="159">Coelophora mulsanti</emphasis>
+(Montrouzier) 
+<author id="677FDE16FFB71B00FC27F861037041C8" box="[1021,1142,2004,2046]" pageId="9" pageNumber="159">Crotch</author>
+, 
+<journalOrPublisher id="65033C3FFFB71B00FB50F86102D541C8" box="[1162,1491,2004,2046]" pageId="9" pageNumber="159">Rev. Coccinellidae</journalOrPublisher>
+, 
+<pagination id="860BC807FFB71B00FA30F861012E41C8" box="[1514,1576,2004,2046]" pageId="9" pageNumber="159" type="pageRange">152</pagination>
+, 
+<year id="CB6A77A0FFB71B00F99AF861019441C8" box="[1600,1682,2004,2046]" pageId="9" pageNumber="159">1874</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFB71B00FEB9F7BD02204E04" blockId="9.[292,1689,1902,2356]" box="[355,1318,2056,2098]" pageId="9" pageNumber="159">
+<treatmentCitationGroup id="9FD211DDFFB71B00FEB9F7BD02274E04" box="[355,1313,2056,2098]" pageId="9" pageNumber="159">
+<treatmentCitation id="3E6310E2FFB71B00FEB9F7BD02274E04" author="Montrouzier" box="[355,1313,2056,2098]" pageId="9" pageNumber="159">
+<taxonomicName id="78C24D70FFB71B00FEB9F7BD04FF4E04" authority="(Montrouzier)" baseAuthorityName="Montrouzier" box="[355,1017,2056,2098]" class="Insecta" family="Coccinellidae" genus="Anisolemnia" kingdom="Animalia" order="Coleoptera" pageId="9" pageNumber="159" phylum="Arthropoda" rank="species" species="mulsanti">
+<emphasis id="8DB6EAE1FFB71B00FEB9F7BD05E34E04" box="[355,741,2056,2098]" italics="true" pageId="9" pageNumber="159">Anisoleninia mitlsanti</emphasis>
+(Montrouzier)
+</taxonomicName>
+Timberlake Ms
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB71B00FEBFF789040E4EAC" pageId="9" pageNumber="159" type="materials_examined">
+<paragraph id="BF7D36F3FFB71B00FEBFF789040E4EAC" blockId="9.[292,1689,1902,2356]" pageId="9" pageNumber="159">
+<materialsCitation id="0FAA3CAEFFB71B00FEBFF78904514E50" ID-GBIF-Occurrence="3334692336" box="[357,855,2108,2150]" collectingDate="1936-04-11" collectorName="E. H. Bryan" country="Guam" location="Talofofo" pageId="9" pageNumber="159">
+<collectingMunicipality id="5F19AC89FFB71B00FEBFF78905014E50" box="[357,519,2108,2150]" pageId="9" pageNumber="159">Talofofo</collectingMunicipality>
+, 
+<date id="CB7C1033FFB71B00FDFBF78905B84E50" box="[545,702,2108,2150]" pageId="9" pageNumber="159" value="2011-04">
+<collectingDate id="DB38E9DBFFB71B00FDFBF78905B84E50" box="[545,702,2108,2150]" pageId="9" pageNumber="159" value="2011-04">April 11</collectingDate>
+</date>
+, 
+<location id="BA1D6028FFB71B00FD00F78904564E50" LSID="urn:lsid:plazi:treatment:376B87E5FFB71B00FEFEF8DB033A4F02:BA1D6028FFB71B00FD00F78904564E50" box="[730,848,2108,2150]" municipality="Talofofo" name="Bryan" pageId="9" pageNumber="159">Bryan</location>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB71B00FCB4F78903A64E50" ID-GBIF-Occurrence="3994027366" box="[878,1184,2108,2150]" collectingDate="1936-06-11" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Merizo" pageId="9" pageNumber="159">
+<location id="BA1D6028FFB71B00FCB4F78904EB4E50" LSID="urn:lsid:plazi:treatment:376B87E5FFB71B00FEFEF8DB033A4F02:BA1D6028FFB71B00FCB4F78904EB4E50" box="[878,1005,2108,2150]" name="Merizo" pageId="9" pageNumber="159">Merizo</location>
+, 
+<date id="CB7C1033FFB71B00FBD2F789039F4E50" box="[1032,1177,2108,2150]" pageId="9" pageNumber="159" value="2011-06">
+<collectingDate id="DB38E9DBFFB71B00FBD2F789039F4E50" box="[1032,1177,2108,2150]" pageId="9" pageNumber="159" value="2011-06">June 11</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB71B00FB6CF789019E4E50" ID-GBIF-Occurrence="3994027349" box="[1206,1688,2108,2150]" collectingDate="1936-10-20" collectorName="O. H. Swezey and R. L. Usinger" country="Guam" location="Merizo" pageId="9" pageNumber="159">
+<date id="CB7C1033FFB71B00FB6CF78902394E50" box="[1206,1343,2108,2150]" pageId="9" pageNumber="159" value="2020-10">
+<collectingDate id="DB38E9DBFFB71B00FB6CF78902394E50" box="[1206,1343,2108,2150]" pageId="9" pageNumber="159" value="2020-10">Oct. 20</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB71B00FA82F78902EE4E50" box="[1368,1512,2108,2150]" pageId="9" pageNumber="159">Usinger</collectorName>
+, 
+<collectorName id="12375325FFB71B00F9DCF78901974E50" box="[1542,1681,2108,2150]" pageId="9" pageNumber="159">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB71B00FEFDF7DA040E4EAC" ID-GBIF-Occurrence="3334692482" box="[295,776,2159,2202]" collectingDate="1936-06-15" collectorName="O. H. Swezey" country="Guam" location="Sinajana" pageId="9" pageNumber="159">
+<collectingMunicipality id="5F19AC89FFB71B00FEFDF7DA06C24EAC" box="[295,452,2159,2202]" pageId="9" pageNumber="159">Sinajana</collectingMunicipality>
+, 
+<date id="CB7C1033FFB71B00FE00F7DA05604EAC" box="[474,614,2159,2202]" pageId="9" pageNumber="159" value="2015-06">
+<collectingDate id="DB38E9DBFFB71B00FE00F7DA05604EAC" box="[474,614,2159,2202]" pageId="9" pageNumber="159" value="2015-06">June 15</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB71B00FDA7F7DA04054EAC" box="[637,771,2159,2202]" pageId="9" pageNumber="159">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB71B00FEBFF716033A4F02" pageId="9" pageNumber="159" type="discussion">
+<paragraph id="BF7D36F3FFB71B00FEBFF716033A4F02" blockId="9.[292,1689,1902,2356]" pageId="9" pageNumber="159">
+<materialsCitation id="0FAA3CAEFFB71B00FEBFF71601914EFA" ID-GBIF-Occurrence="3994027412" box="[357,1687,2211,2252]" collectedFrom="is a rare ladybeetle " collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="9" pageNumber="159">
+This is a rare ladybeetle in 
+<collectingCountry id="C7D57663FFB71B00FCB8F71604C84EFA" box="[866,974,2211,2252]" name="Guam" pageId="9" pageNumber="159">Guam</collectingCountry>
+. 
+<collectingMunicipality id="5F19AC89FFB71B00FC2BF71603094EFA" box="[1009,1039,2211,2252]" pageId="9" pageNumber="159">It</collectingMunicipality>
+was recorded by 
+<collectorName id="12375325FFB71B00FA8DF71602FC4EFA" box="[1367,1530,2211,2252]" pageId="9" pageNumber="159">Fullaway</collectorName>
+in 1911.
+</materialsCitation>
+It was described from Woodlark Island, and is known in 
+<collectingCountry id="C7D57663FFB71B00FABFF762010A4F37" box="[1381,1548,2263,2305]" name="Australia" pageId="9" pageNumber="159">Australia</collectingCountry>
+. 
+<collectingCountry id="C7D57663FFB71B00F9E8F762019F4F37" box="[1586,1689,2263,2305]" name="Guam" pageId="9" pageNumber="159">Guam</collectingCountry>
+specimens determined by P. H. Timberlake.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

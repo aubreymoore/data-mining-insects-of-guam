@@ -1,0 +1,135 @@
+<document id="5605F4E4881D93ABBABAC9E962D02E7A" ID-DOI="http://doi.org/10.5281/zenodo.5165313" ID-GBIF-Dataset="058b438a-ffe3-452b-a286-9267419b3014" ID-Zenodo-Dep="5165313" checkinTime="1628021183604" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="03B387B8E943FFA9FEEC839091870044" docLanguage="en" docName="InsectsOfGuamII.189.163-185.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Noctua geometrica" docType="treatment" docVersion="20" lastPageNumber="171" masterDocId="FF8AFFC0E94BFFA1FFCF823D9276034F" masterDocTitle="Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam" masterLastPageNumber="185" masterPageNumber="163" pageNumber="171" updateTime="1669826952250" updateUser="annettekang">
+<mods:mods id="1CFC8AA6AA57B371F06322489B667202" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B0D7866CA790111C96F02B3C45F06751">
+<mods:title id="796EC80AEC0155B780E714DC4B4B25DB">Lepidoptera, Geometridae, Arctiidae, Agrotidae, and Pyralidae of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="DEA6FE608ECC3A2AAE3A950BC9C18E83" type="personal">
+<mods:role id="2E4E24F0F636B5A739B691424767A4FB">
+<mods:roleTerm id="490957EC987AC3DCB825D231EDA8B410">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="C5B81E6142EA1683FDC70F79D1E7F01E">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="F710F12B076B1F3A7EE87CC82943B821">Experiment Station Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="435514D22E88DF9F88AA052127F66B1F">text</mods:typeOfResource>
+<mods:relatedItem id="8A68D38B529FD7275F568C2236E504F0" type="host">
+<mods:originInfo id="EA9FC3F716EA373AE7BDE0831C435A88">
+<mods:dateIssued id="11091058C36E3F77E18E862BAE71DB4E">1946</mods:dateIssued>
+<mods:dateOther id="662FA1556CFB452CE09C2193AA72323C" type="pubDate">1942-12-20</mods:dateOther>
+<mods:publisher id="D45FA68A36DE72702376194B519EFEAF">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="990E367FA9F2BA651DDCF5E884712238">
+<mods:placeTerm id="8EFBA6BB1313D98F0DED23AD2A9ACDD8">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="A303CC0D59417A453B07FCA3DAAE8E65">
+<mods:title id="B1D08A54C1E8BEAB8DD26D0ADE161519">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="E0F0FA42A81882C108DD174DE02F5E79">
+<mods:extent id="A1E2F2F441AAA26449C397DDD1AC271A" unit="page">
+<mods:start id="F22BF4672B967061A2D66CA8CB9852F4">163</mods:start>
+<mods:end id="178D47039CFA54EB8DA40F0B07B80943">185</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="0BE0A3E0CE9A3B132EF002745606CC2F">book chapter</mods:classification>
+<mods:identifier id="083FE07B5AD10E1E64E9F50BD18AC0B3" type="DOI">http://doi.org/10.5281/zenodo.5165313</mods:identifier>
+<mods:identifier id="2370E7ED183C08CC60B6932AF8DBB07D" type="GBIF-Dataset">058b438a-ffe3-452b-a286-9267419b3014</mods:identifier>
+<mods:identifier id="C3C4C2EB37A501F51CA5596FB8FD0CC8" type="Zenodo-Dep">5165313</mods:identifier>
+</mods:mods>
+<treatment id="03B387B8E943FFA9FEEC839091870044" ID-DOI="http://doi.org/10.5281/zenodo.5224117" ID-GBIF-Taxon="183926960" ID-Zenodo-Dep="5224117" LSID="urn:lsid:plazi:treatment:03B387B8E943FFA9FEEC839091870044" httpUri="http://treatment.plazi.org/id/03B387B8E943FFA9FEEC839091870044" lastPageNumber="171" pageId="8" pageNumber="171">
+<subSubSection id="C3006525E943FFA9FEEC8390964E0297" box="[291,1080,429,472]" pageId="8" pageNumber="171" type="nomenclature">
+<paragraph id="8BA536AEE943FFA9FEEC8390964E0297" blockId="8.[291,1688,429,779]" box="[291,1080,429,472]" pageId="8" pageNumber="171">
+<heading id="D0ED81C2E943FFA9FEEC8390964E0297" box="[291,1080,429,472]" fontSize="8" level="2" pageId="8" pageNumber="171" reason="4">
+<emphasis id="B96EEABCE943FFA9FEEC839093250297" bold="true" box="[291,339,429,472]" pageId="8" pageNumber="171">17.</emphasis>
+<taxonomicName id="4C1A4D2DE943FFA9FEBA839096440297" authority="(Fabricius)" baseAuthorityName="Fabricius" box="[373,1074,429,472]" class="Insecta" family="Noctuidae" genus="Noctua" kingdom="Animalia" order="Lepidoptera" pageId="8" pageNumber="171" phylum="Arthropoda" rank="species" species="geometrica">
+<emphasis id="B96EEABCE943FFA9FEBA8390913F0297" bold="true" box="[373,841,429,472]" pageId="8" pageNumber="171">Grammarodes geometrica</emphasis>
+(Fabricius)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E943FFA9FE9083DF968E0143" box="[351,1272,482,524]" pageId="8" pageNumber="171" type="synonymic_list">
+<paragraph id="8BA536AEE943FFA9FE9083DF968E0143" blockId="8.[291,1688,429,779]" box="[351,1272,482,524]" pageId="8" pageNumber="171">
+<treatmentCitationGroup id="AB0A1180E943FFA9FE9083DF968E0143" box="[351,1272,482,524]" pageId="8" pageNumber="171">
+<bibCitation id="5E303EC2E943FFA9FE9083DF968E0143" author="Fabricius" box="[351,1272,482,524]" pageId="8" pageNumber="171" pagination="599" refId="ref4348" title="Syst. Ent." type="book" year="1775">
+<treatmentCitation id="0ABB10BFE943FFA9FE9083DF96850143" author="Fabricius" box="[351,1267,482,524]" page="599" pageId="8" pageNumber="171" year="1775">
+<emphasis id="B96EEABCE943FFA9FE9083DF90DB0143" box="[351,685,482,524]" italics="true" pageId="8" pageNumber="171">Noctua geometrica</emphasis>
+<author id="53A7DE4BE943FFA9FD7383DF91120143" box="[700,868,482,524]" pageId="8" pageNumber="171">Fabricius</author>
+, 
+<title id="F91EDD98E943FFA9FCB383DF96590143" box="[892,1071,482,524]" pageId="8" pageNumber="171">Syst. Ent.</title>
+, 
+<pagination id="B2D3C85AE943FFA9FB8883DF96F10143" box="[1095,1159,482,524]" pageId="8" pageNumber="171">599</pagination>
+, 
+<emphasis id="B96EEABCE943FFA9FB6F83DF96850143" bold="true" box="[1184,1267,482,524]" pageId="8" pageNumber="171">
+<year id="FFB277FDE943FFA9FB6F83DF96850143" box="[1184,1267,482,524]" pageId="8" pageNumber="171">1775</year>
+</emphasis>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E943FFA9FEAC8028978F013C" pageId="8" pageNumber="171" type="reference_group">
+<paragraph id="8BA536AEE943FFA9FEAC8028978F013C" blockId="8.[291,1688,429,779]" pageId="8" pageNumber="171">
+<treatmentCitationGroup id="AB0A1180E943FFA9FEAC8028978F013C" pageId="8" pageNumber="171">
+<bibCitation id="5E303EC2E943FFA9FEAC8028978F013C" author="Hampson" pageId="8" pageNumber="171" pagination="531" part="2" refId="ref4361" title="Fauna Brit. India, Moths" type="journal volume" year="1894">
+<emphasis id="B96EEABCE943FFA9FEAC802891590170" box="[355,815,533,575]" italics="true" pageId="8" pageNumber="171">Grammarodes ge01netrica</emphasis>
+, 
+<treatmentCitation id="0ABB10BFE943FFA9FC8980289039013C" author="Hampson" page="531" pageId="8" pageNumber="171" year="1894">
+<author id="53A7DE4BE943FFA9FC898028919B0170" box="[838,1005,533,575]" pageId="8" pageNumber="171">Hampson</author>
+, 
+<title id="F91EDD98E943FFA9FBCA802897BE0170" box="[1029,1480,533,575]" pageId="8" pageNumber="171">
+Fauna Brit. 
+<collectingCountry id="F30D763EE943FFA9FB2C802897340170" box="[1251,1346,533,575]" name="India" pageId="8" pageNumber="171">India</collectingCountry>
+, Moths
+</title>
+<part id="FFBE9C33E943FFA9FA17802897900170" box="[1496,1510,533,575]" pageId="8" pageNumber="171">2</part>
+: 
+<pagination id="B2D3C85AE943FFA9F9C48028943F0170" box="[1547,1609,533,575]" pageId="8" pageNumber="171">531</pagination>
+, fig. 296, 
+<year id="FFB277FDE943FFA9FE3880759039013C" box="[503,591,584,627]" pageId="8" pageNumber="171">1894</year>
+</treatmentCitation>
+; 
+<treatmentCitation id="0ABB10BFE943FFA9FDAA80759782013C" author="Hampson" box="[613,1524,584,627]" page="18" pageId="8" pageNumber="171" year="1913">
+<author id="53A7DE4BE943FFA9FDAA80759163013C" box="[613,789,584,627]" pageId="8" pageNumber="171">Hampson</author>
+, 
+<title id="F91EDD98E943FFA9FCE2807596EC013C" box="[813,1178,584,627]" pageId="8" pageNumber="171">Cat. Lep. Phalaenae</title>
+<emphasis id="B96EEABCE943FFA9FB66807596BB013C" bold="true" box="[1193,1229,584,627]" pageId="8" pageNumber="171">
+<part id="FFBE9C33E943FFA9FB66807596BF013C" box="[1193,1225,584,627]" pageId="8" pageNumber="171">13</part>
+:
+</emphasis>
+<pagination id="B2D3C85AE943FFA9FB3F80759761013C" box="[1264,1303,584,627]" pageId="8" pageNumber="171">18</pagination>
+, fig. 4, 
+<year id="FFB277FDE943FFA9FA6E80759782013C" box="[1441,1524,584,627]" pageId="8" pageNumber="171">1913</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3006525E943FFA9FEAD804191870044" pageId="8" pageNumber="171" type="description">
+<paragraph id="8BA536AEE943FFA9FEAD804191870044" blockId="8.[291,1688,429,779]" pageId="8" pageNumber="171">
+This moth has a very wide distribution, in Africa, southern Europe, southern Asia, 
+<collectingCountry id="F30D763EE943FFA9FE2A809290F40196" box="[485,642,687,729]" name="Taiwan" pageId="8" pageNumber="171">Formosa</collectingCountry>
+, Java, Queensland. 
+<materialsCitation id="3B723CF3E943FFA9FBC38092919A0044" ID-GBIF-Occurrence="3913652511" collectedFrom="at light" collectingDate="1936-10-22" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="8" pageNumber="171" specimenCount="1">
+We collected only 
+<specimenCount id="9D1CFD27E943FFA9FAA0809294160196" box="[1391,1632,687,729]" pageId="8" pageNumber="171" type="generic">one specimen</specimenCount>
+in 
+<collectingCountry id="F30D763EE943FFA9FEEB80DC93F90044" box="[292,399,737,779]" name="Guam" pageId="8" pageNumber="171">Guam</collectingCountry>
+, at 
+<location id="8EC56075E943FFA9FE1980DC906E0044" LSID="urn:lsid:plazi:treatment:03B387B8E943FFA9FEEC839091870044:8EC56075E943FFA9FE1980DC906E0044" box="[470,536,737,779]" pageId="8" pageNumber="171">
+<collectingMunicipality id="6BC1ACD4E943FFA9FE1980DC906E0044" box="[470,536,737,779]" pageId="8" pageNumber="171">Piti</collectingMunicipality>
+</location>
+, 
+<date id="FFA4106EE943FFA9FDFE80DC90C30044" box="[561,693,737,779]" pageId="8" pageNumber="171" value="1922-10">
+<collectingDate id="EFE0E986E943FFA9FDFE80DC90C30044" box="[561,693,737,779]" pageId="8" pageNumber="171" value="1922-10">Oct. 22</collectingDate>
+</date>
+, at light, 
+<collectorName id="26EF5378E943FFA9FCAA80DC919A0044" box="[869,1004,737,779]" pageId="8" pageNumber="171">Swezey</collectorName>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

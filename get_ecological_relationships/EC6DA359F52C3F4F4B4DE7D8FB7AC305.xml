@@ -1,0 +1,180 @@
+<document id="B2F6014060E60672C8DAA3D73B288924" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F52C3F4F4B4DE7D8FB7AC305" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Ademula distincta Usinger 1946, new species" docType="treatment" docVersion="16" lastPageNumber="45" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="43" updateTime="1671571822877" updateUser="annettekang">
+<mods:mods id="CB3335F7118EAFA8FFE8740F5A147FEB" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="32695EE9C45F787A4FB2B92711CF7A6E">
+<mods:title id="376816B2BCE396A5ABA01A58120F92AF">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="DE01F61D30CF499BAE7ABE0651C43370" type="personal">
+<mods:role id="6813AFE831AA92B2A95166C0B19474EE">
+<mods:roleTerm id="59F182876F5EB99FA571AF2725844476">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="1AF10C0F245AE5156648BAA0CFB8112D">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="CD5E19C920437E8A568ED1DB1E42DBC5">text</mods:typeOfResource>
+<mods:relatedItem id="7B20022BD2622F72B2346B9A6E61D203" type="host">
+<mods:originInfo id="3EBA752C693705732CD8133CEFC41233">
+<mods:dateIssued id="A292742C98F9B265CAB778038298CE11">1946</mods:dateIssued>
+<mods:dateOther id="0A8A4FEE5EE0EC1DA073B117137CC7AE" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="9E67205D2373A754B41D6BA488AC0E5F">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="D5922716F251483A484949BEABECF4BB">
+<mods:placeTerm id="7726F2EC1A1BEA6D703B31C99D157436">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="9B60E7EA6B80916EEA56AF9F414795E6">
+<mods:title id="FDDB04837A9069DEE46DD1ABD319036C">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="BA3B59F1B9CB42FA7B9B1DB7305B9629">
+<mods:extent id="5F1DB2F702A70F407FBC5229C2359621" unit="page">
+<mods:start id="1D7E518A23738A2240B5A9D9E4BF5D43">11</mods:start>
+<mods:end id="BCF1810956D11835F22241D883523EF4">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="E74AF8171D2E9647801511C03741E709">book chapter</mods:classification>
+<mods:identifier id="5099AA39CD03133B85FCA06596AEDEA8" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="3AA8B6C152AB5FB076E14004899E88A3" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="D54397B70526F5B0EC94264D6B9BB245" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F52C3F4F4B4DE7D8FB7AC305" ID-DOI="http://doi.org/10.5281/zenodo.5157621" ID-GBIF-Taxon="184601208" ID-Zenodo-Dep="5157621" LSID="urn:lsid:plazi:treatment:EC6DA359F52C3F4F4B4DE7D8FB7AC305" httpUri="http://treatment.plazi.org/id/EC6DA359F52C3F4F4B4DE7D8FB7AC305" lastPageId="34" lastPageNumber="45" pageId="32" pageNumber="43">
+<subSubSection id="2CDE41C4F52C3F4D4B4DE7D8FB7BC9B2" box="[301,1183,2224,2266]" pageId="32" pageNumber="43" type="nomenclature">
+<paragraph id="647B124FF52C3F4D4B4DE7D8FB7BC9B2" blockId="32.[301,1699,2224,2481]" box="[301,1183,2224,2266]" pageId="32" pageNumber="43">
+<heading id="3F33A523F52C3F4D4B4DE7D8FB7BC9B2" box="[301,1183,2224,2266]" fontSize="8" level="2" pageId="32" pageNumber="43" reason="4">
+<emphasis id="56B0CE5DF52C3F4D4B4DE7D8FD2EC9B2" bold="true" box="[301,714,2224,2266]" pageId="32" pageNumber="43">
+37. 
+<taxonomicName id="A3C469CCF52C3F4D4B16E7D8FD27C9B2" authority="Usinger, 1946" authorityName="Usinger" authorityYear="1946" box="[374,707,2224,2266]" class="Insecta" family="Reduviidae" genus="Ademula" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="32" pageNumber="43" phylum="Arthropoda" rank="species" species="distincta" status="new species">Ademula distincta</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="4D837326F52C3F4D48B9E7D8FC4EC9B2" box="[729,938,2224,2266]" pageId="32" pageNumber="43" rank="species">new species</taxonomicNameLabel>
+(fig. 8, 
+<emphasis id="56B0CE5DF52C3F4D4E23E7D8FBBAC9B2" box="[1091,1118,2224,2266]" italics="true" pageId="32" pageNumber="43">a,</emphasis>
+b).
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F52C3F4C4B12E783FCAFC7A0" lastPageId="33" lastPageNumber="44" pageId="32" pageNumber="43" type="description">
+<paragraph id="647B124FF52C3F4D4B12E783FAA9C85D" blockId="32.[301,1699,2224,2481]" pageId="32" pageNumber="43">Head and pronotum above with only short pubescence, under surface of head, front coxae and femora and first antenna! segment with,long, erect hairs.</paragraph>
+<paragraph id="647B124FF52C3F4C4B12E628FABEC09E" blockId="32.[301,1699,2224,2481]" lastBlockId="33.[445,1846,387,1736]" lastPageId="33" lastPageNumber="44" pageId="32" pageNumber="43">Head as long as wide, antenniferous tubercles projecting prominently above bases of juga. Eyes large, half again as broad as interocular space, hind lobe of head rounded behind, feebly longitudinally impressed along middle. Antennae over half again as long as body, 209: 130, proportion of segments one to four as 83: 83: 30: 13; slender throughout. Proportion of rostral segments about 13: 10: 13; middle segment only moderately swollen at middle, not exceeding greatest thickness of first segment.</paragraph>
+<paragraph id="647B124FF52D3F4C4866EE91FCFDC26C" blockId="33.[445,1846,387,1736]" pageId="33" pageNumber="44">Pronotum strongly constricted in front of middle, the front lobe about two thirds as long as hind lobe, rounded and smooth laterally, slightly granular at middle and impressed just behind middle. Hind lobe more coarsely granular, moderately convex with a broad longitudinal impression along middle nearly as long as broad across humeri, 24:26; laterally only faintly carinate. Anterior disk pubescent, especially laterally, posterior disk without pubescence and without spines or processes. Hind margin shallowly but distinctly angulately emarginate.</paragraph>
+<paragraph id="647B124FF52D3F4C4864EC61FDF5C2F7" blockId="33.[445,1846,387,1736]" pageId="33" pageNumber="44">Mesonotum three fourths as long as broad, with an erect spine at middle, the spine half as long as mesonotum. Metanotum scarcely spined, with a very short subacute tubercle at apex. First abdominal tergite with a prominent, erect spine about the size of mesonotal spine.</paragraph>
+<paragraph id="647B124FF52D3F4C4864ECCBFDB5C57B" blockId="33.[445,1846,387,1736]" pageId="33" pageNumber="44">
+Hemelytra very long and slender, six times as long as greatest width, the venation as figured for 
+<taxonomicName id="A3C469CCF52D3F4C481AECA1FB1FC284" authority="McAtee and Malloch" authorityName="McAtee and Malloch" box="[634,1275,969,1004]" class="Insecta" family="Reduviidae" genus="Ademula" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="33" pageNumber="44" phylum="Arthropoda" rank="species" species="reticulata">
+<emphasis id="56B0CE5DF52D3F4C481AECA1FC46C284" box="[634,930,969,1004]" italics="true" pageId="33" pageNumber="44">Ademula reticulata</emphasis>
+McAtee and Malloch
+</taxonomicName>
+(Philippine Jour. Sci. 30:pl. 3, fig. 23, 1926).
+</paragraph>
+<paragraph id="647B124FF52D3F4C4862EB7EFCE0C5C4" blockId="33.[445,1846,387,1736]" pageId="33" pageNumber="44">Legs relatively long and slender, the hind femora exceeding tip of abdomen by about one seventh their total length. Middle and hind femora not conspicuously enlarged apically. Front femora with four well-developed spines on basal half. Front tarsi apparently two segmented.</paragraph>
+<paragraph id="647B124FF52D3F4C4862EBD8FDC3C4FC" blockId="33.[445,1846,387,1736]" pageId="33" pageNumber="44">Abdomen more than twice as broad subapically as subbasally. Male with a short, rounded tubercle on either side of hind margin of pregenital segment. Genital capsule biemarginate apically as seen from behind with a broad, apically rounded process between, this process twice as long as broad at apex. Claspers elongate, about as long as posterior process, rounded apically. Female with a small, rounded process on either side of subapical tergite.</paragraph>
+<paragraph id="647B124FF52D3F4C4861EAFFFABCC7CA" blockId="33.[445,1846,387,1736]" pageId="33" pageNumber="44">Color pale, testaceous, with brown head, brownish base and apex of rostrum, and irregularly and faintly infuscated first antenna! segment except for pale apex. Subbasal, median, and subapical brown annulations on front femora and tibiae, at ieast subapical annulations on middle and hind femora and various brown hemelytral markings as follows: main veins at middle of basal third, broad suffusion slightly in front of middle of hemelytron rather broadly broken by large reticulations at middle, and along inner margin of apical half of discal cell and across this vein to middle of inner apical cell.</paragraph>
+<paragraph id="647B124FF52D3F4C4862E9CEFCAFC7A0" blockId="33.[445,1846,387,1736]" box="[514,843,1702,1736]" pageId="33" pageNumber="44">
+Size: length 
+<quantity id="A33CBFAAF52D3F4C48B4E9CEFCA3C7A0" box="[724,839,1702,1736]" metricMagnitude="-3" metricUnit="m" metricValue="6.3" pageId="33" pageNumber="44" unit="mm" value="6.3">6.3 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F52D3F4C4B9EE984FD65C6D9" pageId="33" pageNumber="44" type="description">
+<paragraph id="647B124FF52D3F4C4B9EE984FD65C6D9" blockId="33.[444,1844,1772,2541]" pageId="33" pageNumber="44">
+<materialsCitation id="D4AC1812F52D3F4C4B9EE984FDB8C623" ID-GBIF-Occurrence="3994028323" collectingDate="1936-05-03" collectorName="R. L. Usinger" country="Guam" location="Mount Tenjo" pageId="33" pageNumber="44" specimenCount="9" typeStatus="holotype male, allotype female, paratype (7)">
+<typeStatus id="BB7FACEDF52D3F4C4B9EE984FD45C67F" box="[510,673,1772,1815]" pageId="33" pageNumber="44">Holotype</typeStatus>
+male, 
+<typeStatus id="BB7FACEDF52D3F4C4943E984FC48C67F" box="[803,940,1772,1815]" pageId="33" pageNumber="44">allotype</typeStatus>
+female, and 
+<specimenCount id="72C2D9C6F52D3F4C4EC3E984FA24C67F" box="[1187,1472,1772,1815]" pageId="33" pageNumber="44" type="generic" typeStatus="paratypes">seven paratypes</specimenCount>
+, 
+<location id="611B4494F52D3F4C4FBCE984F97EC67F" LSID="urn:lsid:plazi:treatment:EC6DA359F52C3F4F4B4DE7D8FB7AC305:611B4494F52D3F4C4FBCE984F97EC67F" box="[1500,1690,1772,1815]" county="May" municipality="Upi Trail" name="Mt. Tenjo" pageId="33" pageNumber="44">Mt. Tenjo</location>
+, 
+<date id="107A348FF52D3F4C4CD5E984F8C8C67F" box="[1717,1836,1772,1815]" pageId="33" pageNumber="44">
+<location id="611B4494F52D3F4C4CD5E984F8E1C67F" LSID="urn:lsid:plazi:treatment:EC6DA359F52C3F4F4B4DE7D8FB7AC305:611B4494F52D3F4C4CD5E984F8E1C67F" box="[1717,1797,1772,1815]" county="May" municipality="Upi Trail" name="May" pageId="33" pageNumber="44">May</location>
+3
+</date>
+, 
+<location id="611B4494F52D3F4C4BDEE848FDB1C623" LSID="urn:lsid:plazi:treatment:EC6DA359F52C3F4F4B4DE7D8FB7AC305:611B4494F52D3F4C4BDEE848FDB1C623" box="[446,597,1824,1867]" county="May" municipality="Upi Trail" name="Usinger" pageId="33" pageNumber="44">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F52D3F4C480CE848FA5EC623" ID-GBIF-Occurrence="3994028349" box="[620,1466,1824,1867]" collectingDate="1936-05-16" collectorName="R. L. Usinger" country="Guam" location="Mount Chachao" pageId="33" pageNumber="44" specimenCount="2" typeStatus="paratype">
+<specimenCount id="72C2D9C6F52D3F4C480CE848FC8CC623" box="[620,872,1824,1867]" pageId="33" pageNumber="44" type="generic" typeStatus="paratypes">two paratypes</specimenCount>
+, 
+<location id="611B4494F52D3F4C491FE848FB81C623" LSID="urn:lsid:plazi:treatment:EC6DA359F52C3F4F4B4DE7D8FB7AC305:611B4494F52D3F4C491FE848FB81C623" box="[895,1125,1824,1867]" county="May" municipality="Upi Trail" name="Mt. Chachao" pageId="33" pageNumber="44">Mt. Chachao</location>
+, 
+<date id="107A348FF52D3F4C4E1BE848FAE1C623" box="[1147,1285,1824,1867]" pageId="33" pageNumber="44" value="2016-05">
+<location id="611B4494F52D3F4C4E1BE848FB2EC623" LSID="urn:lsid:plazi:treatment:EC6DA359F52C3F4F4B4DE7D8FB7AC305:611B4494F52D3F4C4E1BE848FB2EC623" box="[1147,1226,1824,1867]" county="May" municipality="Upi Trail" name="May" pageId="33" pageNumber="44">May</location>
+16
+</date>
+, 
+<location id="611B4494F52D3F4C4F7BE848FA57C623" LSID="urn:lsid:plazi:treatment:EC6DA359F52C3F4F4B4DE7D8FB7AC305:611B4494F52D3F4C4F7BE848FA57C623" box="[1307,1459,1824,1867]" county="May" municipality="Upi Trail" name="Usinger" pageId="33" pageNumber="44">Usinger</location>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F52D3F4C4FABE848FAF7C616" ID-GBIF-Occurrence="3994028408" collectedFrom="on Ochrosia and Cycas" collectingDate="1936-05-11" collectorName="R. L. Usinger" country="Guam" location="Dededo" pageId="33" pageNumber="44" specimenCount="3" typeStatus="paratype">
+<specimenCount id="72C2D9C6F52D3F4C4FABE848F93AC623" box="[1483,1758,1824,1867]" pageId="33" pageNumber="44" type="generic" typeStatus="paratypes">three paratypes</specimenCount>
+, 
+<location id="611B4494F52D3F4C4C94E848FDF7C616" LSID="urn:lsid:plazi:treatment:EC6DA359F52C3F4F4B4DE7D8FB7AC305:611B4494F52D3F4C4C94E848FDF7C616" county="May" municipality="Upi Trail" name="Dededo" pageId="33" pageNumber="44">Dededo</location>
+, 
+<date id="107A348FF52D3F4C484AE83BFD57C616" box="[554,691,1875,1918]" pageId="33" pageNumber="44" value="2011-05">
+<location id="611B4494F52D3F4C484AE83BFD9DC616" LSID="urn:lsid:plazi:treatment:EC6DA359F52C3F4F4B4DE7D8FB7AC305:611B4494F52D3F4C484AE83BFD9DC616" box="[554,633,1875,1918]" county="May" municipality="Upi Trail" name="May" pageId="33" pageNumber="44">May</location>
+11
+</date>
+, 
+<collectedFrom id="D7D851B2F52D3F4C48A8E83BFC7BC616" box="[712,927,1875,1918]" pageId="33" pageNumber="44">
+on 
+<taxonomicName id="A3C469CCF52D3F4C4962E83BFC7BC616" box="[770,927,1875,1918]" class="Magnoliopsida" family="Apocynaceae" genus="Ochrosia" kingdom="Plantae" order="Gentianales" pageId="33" pageNumber="44" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF52D3F4C4962E83BFC7BC616" box="[770,927,1875,1918]" italics="true" pageId="33" pageNumber="44">Ochrosia</emphasis>
+</taxonomicName>
+</collectedFrom>
+and 
+<taxonomicName id="A3C469CCF52D3F4C4998E83BFAE8C616" authority=", Usinger" authorityName="Usinger" box="[1016,1292,1875,1918]" class="Cycadopsida" family="Cycadaceae" genus="Cycas" kingdom="Plantae" order="Cycadales" pageId="33" pageNumber="44" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF52D3F4C4998E83BFB83C616" box="[1016,1127,1875,1918]" italics="true" pageId="33" pageNumber="44">Cycas,</emphasis>
+Usinger
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="D4AC1812F52D3F4C4F42E83BFD65C6D9" ID-GBIF-Occurrence="3994028301" collectingDate="1936-05-05" collectorName="R. L. Usinger" country="Guam" location="Upi Trail" pageId="33" pageNumber="44" specimenCount="1">
+<specimenCount id="72C2D9C6F52D3F4C4F42E83BF9EAC616" box="[1314,1550,1875,1918]" pageId="33" pageNumber="44" type="generic">one specimen</specimenCount>
+, 
+<collectingMunicipality id="841F8835F52D3F4C4C43E83BF92BC616" box="[1571,1743,1875,1918]" pageId="33" pageNumber="44">Upi Trail</collectingMunicipality>
+, 
+<date id="107A348FF52D3F4C4C85E83BFE37C6D9" pageId="33" pageNumber="44">
+<collectingCounty id="8D1A6AC3F52D3F4C4C85E83BF8D7C616" box="[1765,1843,1875,1918]" pageId="33" pageNumber="44">May</collectingCounty>
+5
+</date>
+, Usinger.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F52D3F4F4B9CE8ABFB7AC305" lastPageId="34" lastPageNumber="45" pageId="33" pageNumber="44" type="description">
+<paragraph id="647B124FF52D3F4F4B9CE8ABF95EC052" blockId="33.[444,1844,1772,2541]" lastBlockId="34.[325,1722,272,314]" lastPageId="34" lastPageNumber="45" pageId="33" pageNumber="44">
+Very close to 
+<taxonomicName id="A3C469CCF52D3F4C4964E8ABFA16C683" authority="McAtee and Malloch" authorityName="McAtee and Malloch" box="[772,1522,1987,2027]" class="Insecta" family="Reduviidae" genus="Ademula" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="33" pageNumber="44" phylum="Arthropoda" rank="species" species="reticulata">
+<emphasis id="56B0CE5DF52D3F4C4964E8ABFBB8C683" box="[772,1116,1987,2027]" italics="true" pageId="33" pageNumber="44">Ademula reticulata</emphasis>
+McAtee and Malloch
+</taxonomicName>
+, from 
+<collectingCountry id="1CD352DFF52D3F4C4C19E8ABF8C9C683" box="[1657,1837,1987,2027]" name="Singapore" pageId="33" pageNumber="44">Singapore</collectingCountry>
+, Borneo, and the 
+<collectingCountry id="1CD352DFF52D3F4C488DE89EFC51C977" box="[749,949,2038,2079]" name="Philippines" pageId="33" pageNumber="44">Philippines</collectingCountry>
+, despite the apparently two-segmented front tarsi and the absence of uniformly long hairs on head and anterior lobe of pronotum. The hemelytra are only about four times as long as greatest width in that species, and the fuscous markings of the hemelytra are more extensive. From the present material I am not able to judge whether this is an unwarranted extension of the generic concept of 
+<taxonomicName id="A3C469CCF52D3F4C4E21E79DFB05C877" authorityName="McAtee &amp; Malloch" authorityYear="1926" box="[1089,1249,2293,2335]" class="Insecta" family="Reduviidae" genus="Ademula" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="33" pageNumber="44" phylum="Arthropoda" rank="genus">
+<emphasis id="56B0CE5DF52D3F4C4E21E79DFB05C877" box="[1089,1249,2293,2335]" italics="true" pageId="33" pageNumber="44">Ademula</emphasis>
+</taxonomicName>
+or not. I collected a new species which is very close to this at Los Banos, Luzon, but this species has much longer hairs on the legs and on the first antennal segment, the mesonotal spine is longer, the black subapical annulations are strikingly narrow on the first antennal segment and on the middle and hind femora, and the posterior process of the male genital capsule is narrower at base and broader and rounded apically.
+</paragraph>
+<paragraph id="647B124FF52E3F4F4B25EE2AFB7AC305" blockId="34.[324,1724,322,621]" pageId="34" pageNumber="45">
+Both of these species will run directly to 
+<taxonomicName id="A3C469CCF52E3F4F4E52EE2AFB03C005" authorityName="Wolff" authorityYear="1811" box="[1074,1255,322,365]" class="Insecta" family="Reduviidae" genus="Empicoris" kingdom="Animalia" order="Hemiptera" pageId="34" pageNumber="45" phylum="Arthropoda" rank="genus">
+<emphasis id="56B0CE5DF52E3F4F4E52EE2AFB03C005" box="[1074,1255,322,365]" italics="true" pageId="34" pageNumber="45">Empicoris</emphasis>
+</taxonomicName>
+in McAtee and Malloch's key but they obviously have nothing to do with this genus, the venation, in particular, referring them directly to 
+<emphasis id="56B0CE5DF52E3F4F498AEEC1FB76C0BC" box="[1002,1170,425,468]" italics="true" pageId="34" pageNumber="45">
+<taxonomicName id="A3C469CCF52E3F4F498AEEC1FB69C0BC" authorityName="McAtee &amp; Malloch" authorityYear="1926" box="[1002,1165,425,468]" class="Insecta" family="Reduviidae" genus="Ademula" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="34" pageNumber="45" phylum="Arthropoda" rank="genus">Ademula</taxonomicName>
+.
+</emphasis>
+Kirkaldy's Fijian 
+<emphasis id="56B0CE5DF52E3F4F4F97EEC1F96AC0BC" box="[1527,1678,425,468]" italics="true" pageId="34" pageNumber="45">calamine</emphasis>
+is related to 
+<taxonomicName id="A3C469CCF52E3F4F4863EEB6FD7CC36E" authorityName="Usinger" authorityYear="1946" box="[515,664,478,518]" class="Insecta" family="Reduviidae" genus="Ademula" higherTaxonomySource="GBIF" kingdom="Animalia" order="Hemiptera" pageId="34" pageNumber="45" phylum="Arthropoda" rank="species" species="distincta">
+<emphasis id="56B0CE5DF52E3F4F4863EEB6FD7CC36E" box="[515,664,478,518]" italics="true" pageId="34" pageNumber="45">distincta</emphasis>
+</taxonomicName>
+but has shorter hairs on the first antennal segment, has a smoother pronotum with long, fine hairs anteriorly and laterally, and is shorter and broader with differently colored hemelytra.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

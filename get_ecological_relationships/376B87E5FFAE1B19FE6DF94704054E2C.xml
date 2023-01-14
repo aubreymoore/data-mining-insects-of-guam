@@ -1,0 +1,114 @@
+<document id="4FC709B1F9AEB367750221500B7ED700" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFAE1B19FE6DF94704054E2C" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Palorus ratzeburgi" docType="treatment" docVersion="16" lastPageNumber="166" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="166" updateTime="1671377871765" updateUser="annettekang">
+<mods:mods id="18FE92AF7DDCBEFAC0A7D61A692EEB6D" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="B5A708EB83462F1AC6966CD72570D1AA">
+<mods:title id="A6A41C1E8D04638EB56E68F9B22F94C1">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="FFB867406A0CB3349154FD93CA4F2B0F" type="personal">
+<mods:role id="C992D45CEA75610744A8E620A848A184">
+<mods:roleTerm id="2FA0033148923532FFF28BBFF0943829">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="AE1A0C4595EBCB5EC192724131470BCA">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="DEE0B76E90ACC6E3ABE5399EF058BBF1">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="F60C620DA227E48C26E9B9B3227377A5">text</mods:typeOfResource>
+<mods:relatedItem id="79595E6E6B5B510EA8A6DF508C6CFE81" type="host">
+<mods:originInfo id="3FC98B0B30C1C26D65D5FB0D01996F26">
+<mods:dateIssued id="51253DACAABD91D91A8E236AA9B02F26">1942</mods:dateIssued>
+<mods:dateOther id="CF3663993C757ADD90FF251278EED3CA" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="ACE4E56756FDB3D68A623D72CDAEB670">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="9991F202DAFBCB0734CB84E8B6A8CA5B">
+<mods:placeTerm id="315ED2049F5112D366787F26BD7E5D29">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="352D4989DF606EE46DB3C1B43163A64D">
+<mods:title id="47955BF837F0035062870196D5E76D49">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="6E137A8305E19DF58DC5227C8A489982">
+<mods:extent id="6033C3506E15B1B2A71B1317F5CB31DC" unit="page">
+<mods:start id="8080FC881253622A62495B6285F82D90">150</mods:start>
+<mods:end id="356263C87B016E2A01A6430913CF7AD9">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="3A533FAF8A00BE016A895F355538CB71">book chapter</mods:classification>
+<mods:identifier id="6C025E77DF02FA468642286DD85109F3" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="845251E7F21AD6DC90BEF250A664D6AA" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="3548460ACD7FAD4654054053D4980D55" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFAE1B19FE6DF94704054E2C" ID-DOI="http://doi.org/10.5281/zenodo.5182978" ID-GBIF-Taxon="184415381" ID-Zenodo-Dep="5182978" LSID="urn:lsid:plazi:treatment:376B87E5FFAE1B19FE6DF94704054E2C" httpUri="http://treatment.plazi.org/id/376B87E5FFAE1B19FE6DF94704054E2C" lastPageNumber="166" pageId="16" pageNumber="166">
+<subSubSection id="F7D86578FFAE1B19FE6DF9470348412C" box="[439,1102,1778,1818]" pageId="16" pageNumber="166" type="nomenclature">
+<paragraph id="BF7D36F3FFAE1B19FE6DF9470348412C" blockId="16.[439,1835,1778,2074]" box="[439,1102,1778,1818]" pageId="16" pageNumber="166">
+<heading id="E435819FFFAE1B19FE6DF9470348412C" box="[439,1102,1778,1818]" fontSize="11" level="2" pageId="16" pageNumber="166" reason="2">
+<emphasis id="8DB6EAE1FFAE1B19FE6DF94706D5412C" bold="true" box="[439,467,1778,1818]" pageId="16" pageNumber="166">9.</emphasis>
+<taxonomicName id="78C24D70FFAE1B19FE2FF947034F412C" authority="(Wissmann)" baseAuthorityName="Wissmann" baseAuthorityYear="1848" box="[501,1097,1778,1818]" class="Insecta" family="Tenebrionidae" genus="Palorus" kingdom="Animalia" order="Coleoptera" pageId="16" pageNumber="166" phylum="Arthropoda" rank="species" species="ratzeburgi">
+<emphasis id="8DB6EAE1FFAE1B19FE2FF9470448412C" bold="true" box="[501,846,1778,1818]" pageId="16" pageNumber="166">Palorus ratzeburgi</emphasis>
+(Wissmann)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAE1B19FE2FF89105964182" pageId="16" pageNumber="166" type="reference_group">
+<paragraph id="BF7D36F3FFAE1B19FE2FF89101DA4178" blockId="16.[439,1835,1778,2074]" box="[501,1756,1828,1870]" pageId="16" pageNumber="166">
+<treatmentCitationGroup id="9FD211DDFFAE1B19FE2FF89101DA4178" box="[501,1756,1828,1870]" pageId="16" pageNumber="166">
+<bibCitation id="6AE83E9FFFAE1B19FE2FF89101DA4178" author="Wissmann" box="[501,1756,1828,1870]" journalOrPublisher="Stett. Ent. Zeitung" pageId="16" pageNumber="166" pagination="77" part="9" refId="ref8653" type="journal article" year="1848">
+<treatmentCitation id="3E6310E2FFAE1B19FE2FF89101D14178" author="Wissmann" box="[501,1751,1828,1870]" page="77" pageId="16" pageNumber="166" year="1848">
+<emphasis id="8DB6EAE1FFAE1B19FE2FF89104B84178" box="[501,958,1828,1870]" italics="true" pageId="16" pageNumber="166">Hypophloeus Ratzeburgii</emphasis>
+<author id="677FDE16FFAE1B19FC14F891038B4178" box="[974,1165,1828,1870]" pageId="16" pageNumber="166">Wissmann</author>
+, 
+<journalOrPublisher id="65033C3FFFAE1B19FB7CF89102FC4178" box="[1190,1530,1828,1870]" pageId="16" pageNumber="166">Stett. Ent. Zeitung</journalOrPublisher>
+<emphasis id="8DB6EAE1FFAE1B19F9D0F891011B4178" bold="true" box="[1546,1565,1828,1870]" pageId="16" pageNumber="166">
+<part id="CB669C6EFFAE1B19F9D0F891011B4178" box="[1546,1565,1828,1870]" pageId="16" pageNumber="166" type="volume">9</part>
+</emphasis>
+: 
+<emphasis id="8DB6EAE1FFAE1B19F9E3F89101684178" box="[1593,1646,1828,1870]" italics="true" pageId="16" pageNumber="166">
+<pagination id="860BC807FFAE1B19F9E3F89101614178" box="[1593,1639,1828,1870]" pageId="16" pageNumber="166" type="pageRange">77</pagination>
+,
+</emphasis>
+<year id="CB6A77A0FFAE1B19F959F89101D14178" box="[1667,1751,1828,1870]" pageId="16" pageNumber="166">1848</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFAE1B19FE2FF8ED05964182" blockId="16.[439,1835,1778,2074]" pageId="16" pageNumber="166">
+<bibCitation id="6AE83E9FFFAE1B19FE2FF8ED05964182" author="Gebien" pageId="16" pageNumber="166" pagination="97" part="28" refId="ref8668" title="Coleopt. Catalog." type="book" year="1911">
+<treatmentCitationGroup id="9FD211DDFFAE1B19FE2FF8ED058D4182" pageId="16" pageNumber="166">
+<treatmentCitation id="3E6310E2FFAE1B19FE2FF8ED058D4182" author="Gebien" page="97" pageId="16" pageNumber="166" year="1911">
+<emphasis id="8DB6EAE1FFAE1B19FE2FF8ED045A41B7" box="[501,860,1880,1921]" italics="true" pageId="16" pageNumber="166">Palorus Ratzeburgi</emphasis>
+(Wissmann) 
+<author id="677FDE16FFAE1B19FBA1F8ED03F141B7" box="[1147,1271,1880,1921]" pageId="16" pageNumber="166">Gebien</author>
+, 
+<title id="CDC6DDC5FFAE1B19FAC1F8ED015741B7" box="[1307,1617,1880,1921]" pageId="16" pageNumber="166">Coleopt. Catalog.</title>
+(
+<part id="CB669C6EFFAE1B19F95AF8ED01AB41B7" box="[1664,1709,1880,1921]" pageId="16" pageNumber="166" type="volume">28</part>
+): ~ 
+<pagination id="860BC807FFAE1B19F923F8ED002241B7" box="[1785,1828,1880,1921]" pageId="16" pageNumber="166" type="pageRange">97</pagination>
+, 
+<year id="CB6A77A0FFAE1B19FDE2F839058D4182" box="[568,651,1932,1972]" pageId="16" pageNumber="166">1911</year>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAE1B19FE22F80A04054E2C" pageId="16" pageNumber="166" type="materials_examined">
+<paragraph id="BF7D36F3FFAE1B19FE22F80A04054E2C" blockId="16.[439,1835,1778,2074]" pageId="16" pageNumber="166">
+<materialsCitation id="0FAA3CAEFFAE1B19FE22F80A04054E2C" ID-GBIF-Occurrence="3334692420" collectedFrom="under bark of Intsia bijuga log, a widely distributed species" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="16" pageNumber="166">
+<location id="BA1D6028FFAE1B19FE22F80A05AD41DE" LSID="urn:lsid:plazi:treatment:376B87E5FFAE1B19FE6DF94704054E2C:BA1D6028FFAE1B19FE22F80A05AD41DE" box="[504,683,1983,2024]" name="Barrigada" pageId="16" pageNumber="166">Barrigada</location>
+, 
+<date id="CB7C1033FFAE1B19FD1CF80A045741DE" box="[710,849,1983,2024]" pageId="16" pageNumber="166" value="1922-07">
+<collectingDate id="DB38E9DBFFAE1B19FD1CF80A045741DE" box="[710,849,1983,2024]" pageId="16" pageNumber="166" value="1922-07">July 22</collectingDate>
+</date>
+, under bark of 
+<taxonomicName id="78C24D70FFAE1B19FB5EF80A026841DE" authorityName=", Swezey. E. C." box="[1156,1390,1983,2024]" class="Magnoliopsida" family="Fabaceae" genus="Intsia" kingdom="Plantae" order="Fabales" pageId="16" pageNumber="166" phylum="Tracheophyta" rank="species" species="bijuga">
+<emphasis id="8DB6EAE1FFAE1B19FB5EF80A026841DE" box="[1156,1390,1983,2024]" italics="true" pageId="16" pageNumber="166">lntsia bijuga</emphasis>
+</taxonomicName>
+log, 
+<collectorName id="12375325FFAE1B19FA03F80A015841DE" box="[1497,1630,1983,2024]" pageId="16" pageNumber="166">Swezey</collectorName>
+. A widely distributed species.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

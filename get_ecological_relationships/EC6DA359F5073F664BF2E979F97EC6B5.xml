@@ -1,0 +1,103 @@
+<document id="BB5A80410C1080B13F6FABA4633528EA" ID-DOI="http://doi.org/10.5281/zenodo.5173934" ID-GBIF-Dataset="e7ce9dca-1d2b-4aad-8471-7ea2c177da53" ID-Zenodo-Dep="5173934" checkinTime="1628020781633" checkinUser="carolina" docAuthor="Usinger, Robert L." docDate="1946" docId="EC6DA359F5073F664BF2E979F97EC6B5" docLanguage="en" docName="InsectsOfGuamII.189.11-103.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Alciphron glaucus" docType="treatment" docVersion="22" lastPageNumber="22" masterDocId="1054DB21F50C3F6D4A60EF68FFE4C168" masterDocTitle="Hemiptera Heteroptera of Guam" masterLastPageNumber="103" masterPageNumber="11" pageNumber="22" updateTime="1671507890132" updateUser="annettekang">
+<mods:mods id="AB19AD6924CAEBA580499ACD6E1A2BEC" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="F69BF5EBE212D6DE2D16524000D34FA1">
+<mods:title id="30B9D7DD3D96A31AED89B1020845F0F7">Hemiptera Heteroptera of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="4898B5BD9555097B37FD5D0589873942" type="personal">
+<mods:role id="A3B1BF03ACB0648B062102F1C69B66AF">
+<mods:roleTerm id="1F59F8C2EFB11661F81A7D2F14F6F886">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="ED3713209FC028256D9560AA0E1F1634">Usinger, Robert L.</mods:namePart>
+</mods:name>
+<mods:typeOfResource id="8843D59A8537BE80CA8E1EC4BB00BB36">text</mods:typeOfResource>
+<mods:relatedItem id="5237714CFD8525C953CE85711AB98D62" type="host">
+<mods:originInfo id="C389F5B8C1D507E7CD5FE77EEE07C624">
+<mods:dateIssued id="7A6079D08E62D54C4B80A070008842A7">1946</mods:dateIssued>
+<mods:dateOther id="DF0C4828E6FE897A74CFF8824183A216" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="870C829F9161BAEACAB9A6B5DDED544A">Bernice P. Bishop Museum, Bulletin 189</mods:publisher>
+<mods:place id="F9923EEF0253555F6B5F4FED35D49EAD">
+<mods:placeTerm id="FB1212DCE6C474E9268E6B8FF76BE824">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="0F66640226589722AD6BE732E25E1035">
+<mods:title id="7473947B3916BF771AF2BC33B63830D2">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="716652CE6E213A8111756B5496E3ED70">
+<mods:extent id="78FAE8F2CDBF63B52FABFBBDC2A45D56" unit="page">
+<mods:start id="4762634F950C2FFCAE0BABECCD22B253">11</mods:start>
+<mods:end id="D6AFCDFDE62046FB8B70FC85B337F832">103</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="BEED93C32B80240FCE581E0503BFACB8">book chapter</mods:classification>
+<mods:identifier id="59393F7CDA2F0F50062A13C309967AEF" type="DOI">http://doi.org/10.5281/zenodo.5173934</mods:identifier>
+<mods:identifier id="C7917DF1B1A8BE2066570FCE5B6C1805" type="GBIF-Dataset">e7ce9dca-1d2b-4aad-8471-7ea2c177da53</mods:identifier>
+<mods:identifier id="D524435B559912108B53A48A76341B1E" type="Zenodo-Dep">5173934</mods:identifier>
+</mods:mods>
+<treatment id="EC6DA359F5073F664BF2E979F97EC6B5" ID-DOI="http://doi.org/10.5281/zenodo.5186585" ID-GBIF-Taxon="184601222" ID-Zenodo-Dep="5186585" LSID="urn:lsid:plazi:treatment:EC6DA359F5073F664BF2E979F97EC6B5" httpUri="http://treatment.plazi.org/id/EC6DA359F5073F664BF2E979F97EC6B5" lastPageNumber="22" pageId="11" pageNumber="22">
+<subSubSection id="2CDE41C4F5073F664BF2E979FBEAC755" box="[402,1038,1553,1597]" pageId="11" pageNumber="22" type="nomenclature">
+<paragraph id="647B124FF5073F664BF2E979FBEAC755" blockId="11.[401,1800,1553,2013]" box="[402,1038,1553,1597]" pageId="11" pageNumber="22">
+<heading id="3F33A523F5073F664BF2E979FBEAC755" box="[402,1038,1553,1597]" fontSize="8" level="2" pageId="11" pageNumber="22" reason="4">
+8. 
+<taxonomicName id="A3C469CCF5073F664BAFE979FBECC755" authority="(Fabricius)" baseAuthorityName="Fabricius" box="[463,1032,1553,1597]" class="Insecta" family="Cimicidae" genus="Alciphron" kingdom="Animalia" order="Hemiptera" pageId="11" pageNumber="22" phylum="Arthropoda" rank="species" species="glaucus">Alciphron glaucus (Fabricius)</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5073F664BB3E921FAC0C71B" box="[467,1316,1609,1651]" pageId="11" pageNumber="22" type="reference_group">
+<paragraph id="647B124FF5073F664BB3E921FAC0C71B" blockId="11.[401,1800,1553,2013]" box="[467,1316,1609,1651]" pageId="11" pageNumber="22">
+<treatmentCitationGroup id="44D43561F5073F664BB3E921FAC0C71B" box="[467,1316,1609,1651]" pageId="11" pageNumber="22">
+<bibCitation id="B1EE1A23F5073F664BB3E921FAC0C71B" author="Fabricius" box="[467,1316,1609,1651]" pageId="11" pageNumber="22" pagination="714" refId="ref4870" type="book" year="1775">
+<treatmentCitation id="E565345EF5073F664BB3E921FAFBC71B" author="Fabricius" box="[467,1311,1609,1651]" page="714" pageId="11" pageNumber="22" year="1775">
+<emphasis id="56B0CE5DF5073F664BB3E921FD31C71B" box="[467,725,1609,1651]" italics="true" pageId="11" pageNumber="22">Cimex glaucus</emphasis>
+<author id="BC79FAAAF5073F664885E921FC69C71B" box="[741,909,1609,1651]" pageId="11" pageNumber="22">Fabricius</author>
+, Syst. Ent., 
+<pagination id="5D0DECBBF5073F664E11E921FB55C71B" box="[1137,1201,1609,1651]" pageId="11" pageNumber="22">714</pagination>
+, 
+<year id="106C531CF5073F664EADE921FAFBC71B" box="[1229,1311,1609,1651]" pageId="11" pageNumber="22">1775</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="2CDE41C4F5073F664BB3E917F97EC6B5" pageId="11" pageNumber="22" type="materials_examined">
+<paragraph id="647B124FF5073F664BB3E917F97EC6B5" blockId="11.[401,1800,1553,2013]" pageId="11" pageNumber="22">
+<materialsCitation id="D4AC1812F5073F664BB3E917FA9EC7C1" ID-GBIF-Occurrence="3994028360" box="[467,1402,1663,1705]" collectedFrom="on Cycas" collectingDate="1936-05-11" collectorName="R. L. Usinger" country="Guam" location="Dededo" pageId="11" pageNumber="22" specimenCount="1">
+<collectorName id="C9317799F5073F664BB3E917FDF8C7C1" box="[467,540,1663,1705]" pageId="11" pageNumber="22">One</collectorName>
+<specimenCount id="72C2D9C6F5073F66484DE917FD2AC7C1" box="[557,718,1663,1705]" pageId="11" pageNumber="22" type="generic">specimen</specimenCount>
+, 
+<collectingMunicipality id="841F8835F5073F664887E917FC8AC7C1" box="[743,878,1663,1705]" pageId="11" pageNumber="22">Dededo</collectingMunicipality>
+, 
+<date id="107A348FF5073F6649E7E917FBF7C7C1" box="[903,1043,1663,1705]" pageId="11" pageNumber="22" value="2011-05">
+<collectingDate id="003ECD67F5073F6649E7E917FBF7C7C1" box="[903,1043,1663,1705]" pageId="11" pageNumber="22" value="2011-05">May 11</collectingDate>
+</date>
+, on 
+<taxonomicName id="A3C469CCF5073F664E08E917F9A5C7C1" authority=", Usinger. Recorded" authorityName="Usinger. Recorded" box="[1128,1601,1663,1705]" class="Cycadopsida" family="Cycadaceae" genus="Cycas" kingdom="Plantae" order="Cycadales" pageId="11" pageNumber="22" phylum="Tracheophyta" rank="genus">
+<emphasis id="56B0CE5DF5073F664E08E917FB32C7C1" box="[1128,1238,1663,1705]" italics="true" pageId="11" pageNumber="22">
+<location id="611B4494F5073F664E08E917FB34C7C1" LSID="urn:lsid:plazi:treatment:EC6DA359F5073F664BF2E979F97EC6B5:611B4494F5073F664E08E917FB34C7C1" box="[1128,1232,1663,1705]" municipality="Dededo" name="Cycas" pageId="11" pageNumber="22">Cycas</location>
+,
+</emphasis>
+<location id="611B4494F5073F664E89E917FA9EC7C1" LSID="urn:lsid:plazi:treatment:EC6DA359F5073F664BF2E979F97EC6B5:611B4494F5073F664E89E917FA9EC7C1" box="[1257,1402,1663,1705]" municipality="Dededo" name="Usinger" pageId="11" pageNumber="22">Usinger</location>
+. Recorded
+</taxonomicName>
+</materialsCitation>
+previously from 
+<collectingCountry id="1CD352DFF5073F664B9BE9DAFCECC7B4" box="[507,776,1714,1756]" name="New Caledonia" pageId="11" pageNumber="22">New Caledonia</collectingCountry>
+(
+<typeStatus id="BB7FACEDF5073F664949E9DAFC9DC7B4" box="[809,889,1714,1756]" pageId="11" pageNumber="22">type</typeStatus>
+locality), 
+<collectingCountry id="1CD352DFF5073F664E56E9DAFB39C7B4" box="[1078,1245,1714,1756]" name="Australia" pageId="11" pageNumber="22">Australia</collectingCountry>
+, and 
+<collectingCountry id="1CD352DFF5073F664F21E9DAFA63C7B4" box="[1345,1415,1714,1756]" name="Fiji" pageId="11" pageNumber="22">Fiji</collectingCountry>
+. The genus was proposed for this unique species by Stal (Enum. Hemipt. 5:67, 101, 1876). I have seen specimens from North Queensland, Illingworth, and 
+<collectingCountry id="1CD352DFF5073F664F95E872F9DEC62A" box="[1525,1594,1818,1858]" name="Fiji" pageId="11" pageNumber="22">Viti</collectingCountry>
+Levu, Valentine and Zimmerman. New records include 
+<specimenCount id="72C2D9C6F5073F664E97E824FA1DC61E" box="[1271,1529,1868,1910]" pageId="11" pageNumber="22" type="generic">five specimens</specimenCount>
+from Tutuila, Fullaway, and three from Guadalcanal, Kusche. The Fijian and 
+<collectingCountry id="1CD352DFF5073F664C4AE817F977C6C1" box="[1578,1683,1919,1961]" name="Guam" pageId="11" pageNumber="22">Guam</collectingCountry>
+specimens are smaller and greener than the others but are similar structurally.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

@@ -1,0 +1,118 @@
+<document id="173CD9D4E7FB834EAEDFEF19D6B0102C" ID-DOI="http://doi.org/10.5281/zenodo.5174008" ID-GBIF-Dataset="62345736-dcf6-4c38-a870-36a90992dabb" ID-Zenodo-Dep="5174008" checkinTime="1628020725273" checkinUser="carolina" docAuthor="Metcalf, Z. P." docDate="1946" docId="416187EDEB7EFFD8FE7F4A2F8B9DF48D" docLanguage="en" docName="InsectsOfGuamII.189.105-148.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum Bulletin 189" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Empoasca pitiensis Metcalf, 1946, new species" docType="treatment" docVersion="10" lastPageNumber="146" masterDocId="BD58FF95EB59FFFFFFB04B578875FD6D" masterDocTitle="Homoptera, Fulgoroidea and Jassoidea of Guam" masterLastPageNumber="148" masterPageNumber="105" pageNumber="146" updateTime="1660233399945" updateUser="annettekang">
+<mods:mods id="5904EF7B062E76B905543EEE9CE3E35F" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="6420600A534477DB57421B9CED23FAA6">
+<mods:title id="10B7310C6441BCD1E1EDFE77A015277A">Homoptera, Fulgoroidea and Jassoidea of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="6A2DB563CB84778A9A63C37CDA286E11" type="personal">
+<mods:role id="155ADA2EAB2D23BD8F253C2F32CB606F">
+<mods:roleTerm id="89DFB9C9E4835BB2D2409BB32A714979">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="698AFD4968BB9EACAC7119C1F2803CD9">Metcalf, Z. P.</mods:namePart>
+<mods:affiliation id="E610713D770D49EF93288A4505A01AD3">College of Agriculture and Engineering, University of North Carolins</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="32845690830763A5FC94CFB5B2109981">text</mods:typeOfResource>
+<mods:relatedItem id="735E64C8157ABD2DB5F3FE7982E46EFE" type="host">
+<mods:originInfo id="7CF4271539806084D1E7BFEC686ACA72">
+<mods:dateIssued id="F5AD59E4EE6832DF9D8C03D59B056425">1946</mods:dateIssued>
+<mods:dateOther id="1E6332D9A69A34A44C6F575B773D8EE8" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="98B3097A12A9CD5534D248D8FCE7DF8D">Bernice P. Bishop Museum Bulletin 189</mods:publisher>
+<mods:place id="002CAAE65739202586BD180A2E8F3136">
+<mods:placeTerm id="10A2BF5953657C3A61C99283498807BF">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="61130C69CCCA99E00EB5645DB257937D">
+<mods:title id="6FE20B302D6F7C32EB2255977C61E41A">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="DA623DD2FF187CF44717E496A6F92A53">
+<mods:extent id="1EDDEC1476D53EA10D156EAA854E42C8" unit="page">
+<mods:start id="35A672F832CDFEFC8EEB9FA949C82646">105</mods:start>
+<mods:end id="A2E01F85C3970A8F3A9031EC58DD4617">148</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="5FF9A141B9A8DFEF4BB12046DA6B4D4F">book chapter</mods:classification>
+<mods:identifier id="21157CF6B69EE7B8C7B94BBFFC163A33" type="DOI">http://doi.org/10.5281/zenodo.5174008</mods:identifier>
+<mods:identifier id="07E18CCC7171849533783F317A464517" type="GBIF-Dataset">62345736-dcf6-4c38-a870-36a90992dabb</mods:identifier>
+<mods:identifier id="CA8886DAB3E0A4BA7AC62B0B50B8944F" type="Zenodo-Dep">5174008</mods:identifier>
+</mods:mods>
+<treatment id="416187EDEB7EFFD8FE7F4A2F8B9DF48D" ID-DOI="http://doi.org/10.5281/zenodo.5188219" ID-GBIF-Taxon="184009000" ID-Zenodo-Dep="5188219" LSID="urn:lsid:plazi:treatment:416187EDEB7EFFD8FE7F4A2F8B9DF48D" httpUri="http://treatment.plazi.org/id/416187EDEB7EFFD8FE7F4A2F8B9DF48D" lastPageNumber="146" pageId="39" pageNumber="146">
+<subSubSection id="81D26570EB7EFFD8FE7F4A2F8D29FCCF" box="[463,1372,376,418]" pageId="39" pageNumber="146" type="nomenclature">
+<paragraph id="C97736FBEB7EFFD8FE7F4A2F8D29FCCF" blockId="39.[463,1864,376,1388]" box="[463,1372,376,418]" pageId="39" pageNumber="146">
+<heading id="923F8197EB7EFFD8FE7F4A2F8D29FCCF" box="[463,1372,376,418]" fontSize="11" level="2" pageId="39" pageNumber="146" reason="2">
+<emphasis id="FBBCEAE9EB7EFFD8FE7F4A2F8B02FCCF" bold="true" box="[463,887,376,418]" pageId="39" pageNumber="146">
+8. 
+<taxonomicName id="0EC84D78EB7EFFD8FDBE4A2F8B05FCCF" authorityName="Metcalf" authorityYear="1946" box="[526,880,376,418]" class="Insecta" family="Cicadellidae" genus="Empoasca" kingdom="Animalia" order="Hemiptera" pageId="39" pageNumber="146" phylum="Arthropoda" rank="species" species="pitiensis" status="new species">Empoasca pitiensis</taxonomicName>
+,
+</emphasis>
+<taxonomicNameLabel id="E08F5792EB7EFFD8FC354A2F8C2DFCCF" box="[901,1112,376,418]" pageId="39" pageNumber="146" rank="species">new species</taxonomicNameLabel>
+(
+<figureCitation id="51F32A7EEB7EFFD8FBCB4A2F8C87FCCF" box="[1147,1266,376,418]" captionStart="FIGURE 30" captionStartId="39.[538,647,2306,2344]" captionTargetBox="[650,1688,993,2297]" captionText="FIGURE 30.-Empoasca pitie11sis: a, ventral view of male genitalia; b, lateral view of male genitalia; c, ventral view of female genitalia." figureDoi="http://doi.org/10.5281/zenodo.5174071" httpUri="https://zenodo.org/record/5174071/files/figure.png" pageId="39" pageNumber="146">fig. 30</figureCitation>
+, 
+<emphasis id="FBBCEAE9EB7EFFD8FAB94A2F8D29FCCF" box="[1289,1372,376,418]" italics="true" pageId="39" pageNumber="146">a-c).</emphasis>
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB7EFFD8FDA54AE38E57FEB8" pageId="39" pageNumber="146" type="description">
+<paragraph id="C97736FBEB7EFFD8FDA54AE38E1FFCB5" blockId="39.[463,1864,376,1388]" box="[533,1642,436,472]" pageId="39" pageNumber="146">A greenish species with obtusely angulate head and distinct genitalia.</paragraph>
+<paragraph id="C97736FBEB7EFFD8FDA64A8C8E50FF19" blockId="39.[463,1864,376,1388]" pageId="39" pageNumber="146">Crown obtusely angulate, about 1.5 times as broadly as its median length, not as long as the pronotum; face including anteclypeus more than twice as long as the width between the eyes; pronotum and mesonoturn subequal; pronotum about twice as broad as its median length, narrower than the head including the compound eyes.</paragraph>
+<paragraph id="C97736FBEB7EFFD8FDA649208C15FEC1" blockId="39.[463,1864,376,1388]" pageId="39" pageNumber="146">
+External male genitalia: posterior margin of last ventral segment with a deep V-shaped notch extending cephalad for more than a third of the length of the segment; genital plates elongate, diverging, the inner margin slightly sinuate; the apices obtuse. Internal male genitalia: of the 
+<typeStatus id="16738859EB7EFFD8FC6749BC8C62FE62" box="[983,1047,747,783]" pageId="39" pageNumber="146">type</typeStatus>
+of 
+<emphasis id="FBBCEAE9EB7EFFD8FBED49BC8D19FE62" box="[1117,1388,747,783]" italics="true" pageId="39" pageNumber="146">
+<taxonomicName id="0EC84D78EB7EFFD8FBED49BC8C82FE62" box="[1117,1271,747,783]" class="Insecta" family="Cicadellidae" genus="Empoasca" kingdom="Animalia" order="Hemiptera" pageId="39" pageNumber="146" phylum="Arthropoda" rank="genus">Empoasca</taxonomicName>
+obt11sa
+</emphasis>
+(Walsh) with the following differences; genital styles broad at base, gradually tapering to acute divergent apices; lateral processes bifid, not longer than the genital styles; aedeagus simple, without apical, lateral processes. Female genitalia: with the last ventral segment about twice as broad as long; the posterior margin transverse.
+</paragraph>
+<paragraph id="C97736FBEB7EFFD8FDA548F98E57FEB8" blockId="39.[463,1864,376,1388]" box="[533,1570,942,981]" pageId="39" pageNumber="146">
+Length: to apex of tegmina, 
+<quantity id="0E309B1EEB7EFFD8FC6948F98C44FEB8" box="[985,1073,942,981]" metricMagnitude="-3" metricUnit="m" metricValue="3.0" pageId="39" pageNumber="146" unit="mm" value="3.0">3 mm</quantity>
+.; to apex of abdomen, 
+<quantity id="0E309B1EEB7EFFD8FA2B48F98E6BFEB8" box="[1435,1566,942,981]" metricMagnitude="-3" metricUnit="m" metricValue="3.25" pageId="39" pageNumber="146" unit="mm" value="3.25">3.25 mm</quantity>
+.
+</paragraph>
+</subSubSection>
+<caption id="9DB76673EB7EFFD8FDAA42558D49F420" ID-DOI="http://doi.org/10.5281/zenodo.5174071" ID-Zenodo-Dep="5174071" httpUri="https://zenodo.org/record/5174071/files/figure.png" pageId="39" pageNumber="146" startId="39.[538,647,2306,2344]" targetBox="[650,1688,993,2297]" targetPageId="39">
+<paragraph id="C97736FBEB7EFFD8FDAA42558D49F420" pageId="39" pageNumber="146">
+<collectionCode id="AFD9AE3EEB7EFFD8FDAA42558AF2F445" box="[538,647,2306,2344]" pageId="39" pageNumber="146">FIGURE</collectionCode>
+<emphasis id="FBBCEAE9EB7EFFD8FD2742558C67F445" box="[663,1042,2306,2344]" italics="true" pageId="39" pageNumber="146">
+30.- 
+<taxonomicName id="0EC84D78EB7EFFD8FD7E42558B09F445" box="[718,892,2306,2344]" class="Insecta" family="Cicadellidae" genus="Empoasca" kingdom="Animalia" order="Hemiptera" pageId="39" pageNumber="146" phylum="Arthropoda" rank="genus">Empoasca</taxonomicName>
+pitie11sis:
+</emphasis>
+a, ventral view of male genitalia; 
+<emphasis id="FBBCEAE9EB7EFFD8F9D442558E08F445" bold="true" box="[1636,1661,2306,2344]" pageId="39" pageNumber="146">b,</emphasis>
+lateral view of male genitalia; c, ventral view of female genitalia.
+</paragraph>
+</caption>
+<materialsCitation id="79A03CA6EB7EFFD8FDA742D68B9DF48D" ID-GBIF-Occurrence="3332978304" collectedFrom="from beans" collectingDate="1936-05-23" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="39" pageNumber="146" specimenCount="9" specimenCount-female="4" specimenCount-male="5" typeStatus="holotype male (1), allotype female (1), and paratypes (4 male and 3 female)">
+<subSubSection id="81D26570EB7EFFD8FDA742D68F3BF4C1" box="[535,1870,2433,2476]" pageId="39" pageNumber="146" type="materials_examined">
+<paragraph id="C97736FBEB7EFFD8FDA742D68F3BF4C1" blockId="39.[472,1870,2433,2528]" box="[535,1870,2433,2476]" pageId="39" pageNumber="146">
+<typeStatus id="16738859EB7EFFD8FDA742D68ACFF4C1" box="[535,698,2433,2476]" pageId="39" pageNumber="146">Holotype</typeStatus>
+<specimenCount id="DFCEFD72EB7EFFD8FD7742D68B69F4C1" box="[711,796,2433,2476]" pageId="39" pageNumber="146" type="male">male</specimenCount>
+, 
+<typeStatus id="16738859EB7EFFD8FC8142D68BCDF4C1" box="[817,952,2433,2476]" pageId="39" pageNumber="146">allotype</typeStatus>
+female, 
+<specimenCount id="DFCEFD72EB7EFFD8FBE542D68D75F4C1" box="[1109,1280,2433,2476]" pageId="39" pageNumber="146" type="male">four male</specimenCount>
+and 
+<specimenCount id="DFCEFD72EB7EFFD8FAE942D68E41F4C1" box="[1369,1588,2433,2476]" pageId="39" pageNumber="146" type="female">three female</specimenCount>
+<typeStatus id="16738859EB7EFFD8F9F142D68E9BF4C1" box="[1601,1774,2433,2476]" pageId="39" pageNumber="146">paratypes</typeStatus>
+, 
+<collectingMunicipality id="2913AC81EB7EFFD8F8B442D68F32F4C1" box="[1796,1863,2433,2476]" pageId="39" pageNumber="146">Piti</collectingMunicipality>
+,
+</paragraph>
+</subSubSection>
+<subSubSection id="81D26570EB7EFFD8FE6842E18B9DF48D" box="[472,1000,2486,2528]" pageId="39" pageNumber="146" type="description">
+<paragraph id="C97736FBEB7EFFD8FE6842E18B9DF48D" blockId="39.[472,1870,2433,2528]" box="[472,1000,2486,2528]" pageId="39" pageNumber="146">
+<collectingDate id="AD32E9D3EB7EFFD8FE6842E18A14F48D" box="[472,609,2486,2528]" pageId="39" pageNumber="146" value="1923-05">
+<date id="BD76103BEB7EFFD8FE6842E18A14F48D" box="[472,609,2486,2528]" pageId="39" pageNumber="146" value="1923-05">May 23</date>
+</collectingDate>
+, from beans, 
+<location id="CC176020EB7EFFD8FCEC42E18B96F48D" LSID="urn:lsid:plazi:treatment:416187EDEB7EFFD8FE7F4A2F8B9DF48D:CC176020EB7EFFD8FCEC42E18B96F48D" box="[860,995,2486,2528]" municipality="Piti" name="Swezey" pageId="39" pageNumber="146">Swezey</location>
+.
+</paragraph>
+</subSubSection>
+</materialsCitation>
+</treatment>
+</document>

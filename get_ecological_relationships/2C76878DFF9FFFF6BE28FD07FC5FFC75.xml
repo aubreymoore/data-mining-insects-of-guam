@@ -1,0 +1,94 @@
+<document id="2E2FE917A8A25E5135F1E7218AC6DB3C" ID-DOI="http://doi.org/10.5281/zenodo.5160233" ID-GBIF-Dataset="16f6ef92-619b-417b-946c-22d9b1445e7d" ID-Zenodo-Dep="5160233" checkinTime="1628022546680" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1946" docId="2C76878DFF9FFFF6BE28FD07FC5FFC75" docLanguage="en" docName="InsectsOfGuamII.189.3-8.pdf.imf" docOrigin="Insects of Guam II, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Salomona guamensis Hebard" docType="treatment" docVersion="15" lastPageNumber="5" masterDocId="D04FFFF5FF9DFFF4BF68FFAAFFBBFFD8" masterDocTitle="Orthoptera And Related Orders Orthoptera And Related Orders Of Guam" masterLastPageNumber="8" masterPageNumber="3" pageNumber="5" updateTime="1657633747505" updateUser="annettekang">
+<mods:mods id="FD2534F8A611A0426D9DC12B5F085933" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="8789AE956AD60C73EBDBE01E8B6EFB91">
+<mods:title id="A24C013D81CE011A8293E78D8060C6F8">Orthoptera And Related Orders Orthoptera And Related Orders Of Guam</mods:title>
+</mods:titleInfo>
+<mods:name id="07266DCEE1A3F80BC6D4673D4ABA25C2" type="personal">
+<mods:role id="04479884BA03367E35136B19E00FBEC4">
+<mods:roleTerm id="BFAD4D92D92504FE86BCF8E64776B0C8">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="DB1684CC863C5363B22ACDA054C8491D">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="3FABF9E1D1DE9BCD6C394D96D454EEF5">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="DAC323CBC9806EF4E903239AF566C86B">text</mods:typeOfResource>
+<mods:relatedItem id="1F5A3383AF84535707777CE37A269169" type="host">
+<mods:originInfo id="3236072D5584880D09DF2879B3AC37CD">
+<mods:dateIssued id="C0BDAC2BFAD4CB4D7B8C224D9957137F">1946</mods:dateIssued>
+<mods:dateOther id="A4F01FE69D607BEAEA2B3B445ABBFC5D" type="pubDate">1946-12-20</mods:dateOther>
+<mods:publisher id="A3307C347F694C5AA789A0E9A3AE1328">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="C09FA19BC0C64507DEC0008A6A5CCDE1">
+<mods:placeTerm id="EB52BEF34E9B02FCE620E2E08754BB38">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="EFA3CB1518C5F737DD3CA6A988047BFD">
+<mods:title id="00572298705AEA1C54FB31BA2418A4B6">Insects of Guam II</mods:title>
+</mods:titleInfo>
+<mods:part id="696D00D4AF052DF0F58E096C7E9E94CF">
+<mods:extent id="5FBD78A7CB15BA49D4B00487E3FFD409" unit="page">
+<mods:start id="41C9E6B14891E1CA749731F406193204">3</mods:start>
+<mods:end id="086494060BA072B9325EE0D9D015B72E">8</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="18096590ED1DDA2D40FBEFFECBBE715D">book chapter</mods:classification>
+<mods:identifier id="1E0E0197962050ED2BE6AB8BBA7F49D7" type="DOI">http://doi.org/10.5281/zenodo.5160233</mods:identifier>
+<mods:identifier id="2710CA2D13D6303B4310897B74435DAC" type="GBIF-Dataset">16f6ef92-619b-417b-946c-22d9b1445e7d</mods:identifier>
+<mods:identifier id="A63B6872C8F94C1B3FD2066856D7C47F" type="Zenodo-Dep">5160233</mods:identifier>
+</mods:mods>
+<treatment id="2C76878DFF9FFFF6BE28FD07FC5FFC75" ID-DOI="http://doi.org/10.5281/zenodo.5208337" ID-GBIF-Taxon="183924950" ID-Zenodo-Dep="5208337" LSID="urn:lsid:plazi:treatment:2C76878DFF9FFFF6BE28FD07FC5FFC75" httpUri="http://treatment.plazi.org/id/2C76878DFF9FFFF6BE28FD07FC5FFC75" lastPageNumber="5" pageId="2" pageNumber="5">
+<subSubSection id="ECC56510FF9FFFF6BE28FD07FC23FD00" box="[320,920,685,728]" pageId="2" pageNumber="5" type="nomenclature">
+<paragraph id="A460369BFF9FFFF6BE28FD07FC23FD00" blockId="2.[319,1718,681,941]" box="[320,920,685,728]" pageId="2" pageNumber="5">
+<heading id="FF2881F7FF9FFFF6BE28FD07FC23FD00" box="[320,920,685,728]" centered="true" fontSize="11" level="2" pageId="2" pageNumber="5" reason="2">
+<emphasis id="96ABEA89FF9FFFF6BE28FD07FEE6FD00" bold="true" box="[320,349,685,728]" pageId="2" pageNumber="5">7.</emphasis>
+<taxonomicName id="63DF4D18FF9FFFF6BE16FD07FC2AFD00" authority="Hebard, Acad. Nat. Sd. Philadelphia, Proc." box="[382,913,685,728]" class="Insecta" family="Tettigoniidae" genus="Salomona" kingdom="Animalia" order="Orthoptera" pageId="2" pageNumber="5" phylum="Arthropoda" rank="species" species="guamensis">
+<emphasis id="96ABEA89FF9FFFF6BE16FD07FD43FD00" bold="true" box="[382,760,685,728]" pageId="2" pageNumber="5">Salomona guamensis</emphasis>
+<author id="7C62DE7EFF9FFFF6BC6EFD07FC2AFD00" box="[774,913,685,728]" pageId="2" pageNumber="5">Hebard</author>
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9FFFF6BCCDFD07FD7FFCD5" pageId="2" pageNumber="5" type="reference_group">
+<paragraph id="A460369BFF9FFFF6BCCDFD07FD7FFCD5" blockId="2.[319,1718,681,941]" pageId="2" pageNumber="5">
+<treatmentCitationGroup id="84CF11B5FF9FFFF6BCCDFD07FD7FFCD5" pageId="2" pageNumber="5">
+<treatmentCitation id="257E108AFF9FFFF6BCCDFD07FD7FFCD5" author="Hebard" page="232" pageId="2" pageNumber="5" year="1922">
+<bibCitation id="71F53EF7FF9FFFF6BCCDFD07FD7FFCD5" author="Hebard" journalOrPublisher="Acad. Nat. Sd. Philadelphia, Proc." pageId="2" pageNumber="5" pagination="232" part="74" refId="ref1066" type="journal volume" year="1922">
+<journalOrPublisher id="7E1E3C57FF9FFFF6BCCDFD07F9A0FD00" box="[933,1563,685,728]" pageId="2" pageNumber="5">Acad. Nat. Sd. Philadelphia, Proc.</journalOrPublisher>
+<emphasis id="96ABEA89FF9FFFF6B941FD07F9DAFD00" bold="true" box="[1577,1633,685,728]" pageId="2" pageNumber="5">
+<part id="D07B9C06FF9FFFF6B941FD07F9E0FD00" box="[1577,1627,685,728]" pageId="2" pageNumber="5">74</part>
+:
+</emphasis>
+<pagination id="9D16C86FFF9FFFF6B906FD07F914FD00" box="[1646,1711,685,728]" pageId="2" pageNumber="5">232</pagination>
+, pl. 22, fig. 1, 
+<year id="D07777C8FF9FFFF6BD04FD48FD04FCD5" box="[620,703,738,781]" pageId="2" pageNumber="5">1922</year>
+.
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="ECC56510FF9FFFF6BE16FCB7FC5FFC75" pageId="2" pageNumber="5" type="materials_examined">
+<paragraph id="A460369BFF9FFFF6BE16FCB7FC5FFC75" blockId="2.[319,1718,681,941]" pageId="2" pageNumber="5">
+<location id="A1006040FF9FFFF6BE16FCB7FE6BFC9F" LSID="urn:lsid:plazi:treatment:2C76878DFF9FFFF6BE28FD07FC5FFC75:A1006040FF9FFFF6BE16FCB7FE6BFC9F" box="[382,464,797,839]" country="Guam" municipality="Fullaway" name="This" pageId="2" pageNumber="5">This</location>
+large insect was described from 
+<collectingCountry id="DCC8760BFF9FFFF6BB35FCB7FB71FC9F" box="[1117,1226,797,839]" name="Guam" pageId="2" pageNumber="5">Guam</collectingCountry>
+, and I know of no other records. 
+<materialsCitation id="14B73CC6FF9FFFF6BE83FCFAFE63FC75" ID-GBIF-Occurrence="3855283304" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="2" pageNumber="5" specimenCount-female="1">
+Collected by 
+<collectingMunicipality id="4404ACE1FF9FFFF6BDB5FCFAFC3DFCA3" box="[733,902,848,891]" pageId="2" pageNumber="5">Fullaway</collectingMunicipality>
+in 1911, 
+<specimenCount id="B2D9FD12FF9FFFF6BB5BFCFAFB43FCA3" box="[1075,1272,848,891]" pageId="2" pageNumber="5" type="female">one female</specimenCount>
+is in the 
+<collectingCountry id="DCC8760BFF9FFFF6BAC1FCFAF9BCFCA3" box="[1449,1543,848,891]" name="United States of America" pageId="2" pageNumber="5">U. S.</collectingCountry>
+<location id="A1006040FF9FFFF6B970FCFAFE63FC75" LSID="urn:lsid:plazi:treatment:2C76878DFF9FFFF6BE28FD07FC5FFC75:A1006040FF9FFFF6B970FCFAFE63FC75" country="United States of America" municipality="Fullaway" name="National Museum" pageId="2" pageNumber="5">National Museum</location>
+</materialsCitation>
+and 
+<materialsCitation id="14B73CC6FF9FFFF6BD50FC2FFC64FC75" ID-GBIF-Occurrence="3855283303" box="[568,991,901,941]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="2" pageNumber="5" specimenCount="1">
+one in 
+<collectingMunicipality id="4404ACE1FF9FFFF6BDDEFC2FFC64FC75" box="[694,991,901,941]" pageId="2" pageNumber="5">Bishop Museum</collectingMunicipality>
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

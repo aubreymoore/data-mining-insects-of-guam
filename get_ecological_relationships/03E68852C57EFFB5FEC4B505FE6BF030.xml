@@ -1,0 +1,195 @@
+<document id="748F17100FA41680DA92FCBE088DF5D1" ID-DOI="http://doi.org/10.5281/zenodo.5159515" ID-GBIF-Dataset="c9232a85-5a09-440a-9ede-102073e7b6f0" ID-Zenodo-Dep="5159515" checkinTime="1627051975127" checkinUser="carolina" docAuthor="SWEZEY, O. H. &amp; WILLIAMS, F. X." docDate="1942" docId="03E68852C57EFFB5FEC4B505FE6BF030" docLanguage="en" docName="InsectsOfGuamI.172.3-6.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum, Bulletin 172" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Rhyothemis phyllis phyllis (Sulzer" docType="treatment" docVersion="13" lastPageNumber="5" masterDocId="FFDFF02AC57CFFB7FF89B354FF83F875" masterDocTitle="ODONATA, DRAGONFLIES OF GUAM" masterLastPageNumber="6" masterPageNumber="3" pageNumber="5" updateTime="1658861037059" updateUser="ExternalLinkService">
+<mods:mods id="1C7B4A89CD2D7CC7BACF47CF63184EEC" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="67C29679664303191A2534E3646867DB">
+<mods:title id="8D7B370F6B5475A1CF0BA4F15F5FB326">ODONATA, DRAGONFLIES OF GUAM</mods:title>
+</mods:titleInfo>
+<mods:name id="D2D997D18C46D5FB021292E65714BE11" type="personal">
+<mods:role id="EBE407A44BA6660D73455D4A6DCFFD30">
+<mods:roleTerm id="0D1AD0D9ADB17918838A3F59429187AE">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="B297D45A177DCA7B587A9A062C23B6DB">SWEZEY, O. H.</mods:namePart>
+<mods:affiliation id="3ED3BB8011D1C7E0222BA56D73CAF1E7">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:name id="181C1033CA7272F123E1E37C0D1047ED" type="personal">
+<mods:role id="D9580F4CFDF73CB4A1AB34FECB4DDCB1">
+<mods:roleTerm id="7FBED56B6B5C83303E58C23DC0D696B1">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="3C859ABA11F72804A64D00E446FBEF6B">WILLIAMS, F. X.</mods:namePart>
+<mods:affiliation id="B6C20E3D41810D019D2600E9294840FA">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="16E985B3F3522208A52DD28A91A56E6F">text</mods:typeOfResource>
+<mods:relatedItem id="2AB7A333FB0215A3811247C49E494E82" type="host">
+<mods:originInfo id="4D7245F25C17A827C1668BBFFDA6D284">
+<mods:dateIssued id="85C917F4796E176068D00B1187BA7DAE">1942</mods:dateIssued>
+<mods:dateOther id="77B8CE7FE27816FB7300EFDC8F696333" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="5E3E3FA039945047B3BF052F91DB8BB8">Bernice P. Bishop Museum, Bulletin 172</mods:publisher>
+<mods:place id="3DD6C3210E0E71F914BE2D1EFCE85508">
+<mods:placeTerm id="E5F1F1A48B866F06B1F7B57F0126193D">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="24E0B8DE8FDAA9C5B5B8BF4CC71C2CAA">
+<mods:title id="C6F7E8190FCD6EEB1EB89D05EA9B0C2E">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="96DECC78B1F6521BCBCE84A1D26467E2">
+<mods:extent id="9A4230A72ED5B407422031DA557A9023" unit="page">
+<mods:start id="336C17F253F5F86EA3EB1DF822DBAD82">3</mods:start>
+<mods:end id="A56CD8E97F8AB8763738C2548B7A1616">6</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="B5E1D01508FC8C1EAD1DF33DA1AC0530">book chapter</mods:classification>
+<mods:identifier id="CC86BF57522EDBCF135CC0FC1C72F47F" type="DOI">http://doi.org/10.5281/zenodo.5159515</mods:identifier>
+<mods:identifier id="FE1012FF2C948954FB86751E104AD812" type="GBIF-Dataset">c9232a85-5a09-440a-9ede-102073e7b6f0</mods:identifier>
+<mods:identifier id="E506B1B4D45925ACEBEF32435A6F88D5" type="Zenodo-Dep">5159515</mods:identifier>
+</mods:mods>
+<treatment id="03E68852C57EFFB5FEC4B505FE6BF030" ID-DOI="http://doi.org/10.5281/zenodo.5129033" ID-GBIF-Taxon="183919243" ID-Zenodo-Dep="5129033" LSID="urn:lsid:plazi:treatment:03E68852C57EFFB5FEC4B505FE6BF030" httpUri="http://treatment.plazi.org/id/03E68852C57EFFB5FEC4B505FE6BF030" lastPageNumber="5" pageId="2" pageNumber="5">
+<subSubSection id="C3556ACFC57EFFB5FEC4B505FBAEFE0E" box="[333,1069,1617,1659]" pageId="2" pageNumber="5" type="nomenclature">
+<paragraph id="8BF03944C57EFFB5FEC4B505FBAEFE0E" blockId="2.[333,1728,1617,2117]" box="[333,1069,1617,1659]" pageId="2" pageNumber="5">
+<heading id="D0B88E28C57EFFB5FEC4B505FBAEFE0E" box="[333,1069,1617,1659]" fontSize="11" level="2" pageId="2" pageNumber="5" reason="2">
+<emphasis id="B93BE556C57EFFB5FEC4B505FEE9FE0E" bold="true" box="[333,362,1617,1659]" pageId="2" pageNumber="5">9.</emphasis>
+<taxonomicName id="4C4F42C7C57EFFB5FE03B505FBA4FE0E" authority="phyllis phyllis (Sulzer)" box="[394,1063,1617,1659]" class="Insecta" family="Libellulidae" genus="Rhyothemis" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="5" phylum="Arthropoda" rank="genus">
+<emphasis id="B93BE556C57EFFB5FE03B505FCFAFE0E" bold="true" box="[394,889,1617,1659]" pageId="2" pageNumber="5">Rhyothemis phyllis phyllis</emphasis>
+(Sulzer)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="C3556ACFC57EFFB5FE04B5D0F988FF3D" pageId="2" pageNumber="5" type="reference_group">
+<paragraph id="8BF03944C57EFFB5FE04B5D0F93DFEDA" blockId="2.[333,1728,1617,2117]" box="[397,1726,1668,1711]" pageId="2" pageNumber="5">
+<treatmentCitationGroup id="AB5F1E6AC57EFFB5FE04B5D0F93DFEDA" box="[397,1726,1668,1711]" pageId="2" pageNumber="5">
+<treatmentCitation id="0AEE1F55C57EFFB5FE04B5D0F93AFEDA" box="[397,1721,1668,1711]" pageId="2" pageNumber="5">
+<taxonomicName id="4C4F42C7C57EFFB5FE04B5D0FCA5FEDA" authority="Sulzer, Abgekurzte Gesch." authorityName="Sulzer, Abgekurzte Gesch." box="[397,806,1668,1711]" class="Insecta" family="Libellulidae" genus="Libellula" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="5" phylum="Arthropoda" rank="species" species="phyllis">
+<emphasis id="B93BE556C57EFFB5FE04B5D0FD24FEDA" box="[397,679,1668,1711]" italics="true" pageId="2" pageNumber="5">Libellula phyllis</emphasis>
+<bibCitation id="5E653128C57EFFB5FD3CB5D0F93AFEDA" author="Sulzer" box="[693,1721,1668,1711]" journalOrPublisher="Abgekurzte Gesch. cler Ins." pageId="2" pageNumber="5" part="169" refId="ref1272" type="book" year="1936">
+<author id="53F2D1A1C57EFFB5FD3CB5D0FCA5FEDA" box="[693,806,1668,1711]" pageId="2" pageNumber="5">Sulzer</author>
+, 
+<journalOrPublisher id="518E3388C57EFFB5FCB2B5D0FA99FEDA" box="[827,1306,1668,1711]" pageId="2" pageNumber="5">Abgekurzte Gesch. cler Ins.</journalOrPublisher>
+, 
+<part id="FFEB93D9C57EFFB5FABBB5D0FAF3FEDA" box="[1330,1392,1668,1711]" pageId="2" pageNumber="5">169</part>
+, pl. 24, fig. 2, 1776
+</bibCitation>
+</taxonomicName>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BF03944C57EFFB5FE05B5ECF903FE97" blockId="2.[333,1728,1617,2117]" box="[396,1664,1720,1762]" pageId="2" pageNumber="5">
+<treatmentCitationGroup id="AB5F1E6AC57EFFB5FE05B5ECF903FE97" box="[396,1664,1720,1762]" pageId="2" pageNumber="5">
+<treatmentCitation id="0AEE1F55C57EFFB5FE05B5ECF9F8FE97" box="[396,1659,1720,1762]" pageId="2" pageNumber="5">
+<taxonomicName id="4C4F42C7C57EFFB5FE05B5ECFC09FE97" authority="(Sulzer)" baseAuthorityName="Sulzer" box="[396,906,1720,1762]" class="Insecta" family="Libellulidae" genus="Libellula" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="5" phylum="Arthropoda" rank="species" species="phyllis">
+<emphasis id="B93BE556C57EFFB5FE05B5ECFDDCFE97" box="[396,607,1720,1762]" italics="true" pageId="2" pageNumber="5">Rhyotheniis</emphasis>
+<emphasis id="B93BE556C57EFFB5FDE7B5ECFD62FE97" box="[622,737,1720,1762]" italics="true" pageId="2" pageNumber="5">Phyllis</emphasis>
+(Sulzer)
+</taxonomicName>
+<bibCitation id="5E653128C57EFFB5FC16B5ECF9F8FE97" author="Hagen" box="[927,1659,1720,1762]" journalOrPublisher="Stett. Ent. Zeitung" pageId="2" pageNumber="5" pagination="232" part="28" refId="ref1298" type="journal article" year="1867">
+<author id="53F2D1A1C57EFFB5FC16B5ECFB95FE97" box="[927,1046,1720,1762]" pageId="2" pageNumber="5">Hagen</author>
+, 
+<journalOrPublisher id="518E3388C57EFFB5FBB9B5ECFAFFFE97" box="[1072,1404,1720,1762]" pageId="2" pageNumber="5">Stett. Ent. Zeitung</journalOrPublisher>
+<emphasis id="B93BE556C57EFFB5FA01B5ECFA43FE97" bold="true" box="[1416,1472,1720,1762]" pageId="2" pageNumber="5">
+<part id="FFEB93D9C57EFFB5FA01B5ECFA33FE97" box="[1416,1456,1720,1762]" pageId="2" pageNumber="5" type="volume">28</part>
+:
+</emphasis>
+<pagination id="B286C7B0C57EFFB5FA46B5ECF98CFE97" box="[1487,1551,1720,1762]" pageId="2" pageNumber="5" type="pagination">232</pagination>
+, 
+<year id="FFE77817C57EFFB5F9A1B5ECF9F8FE97" box="[1576,1659,1720,1762]" pageId="2" pageNumber="5">1867</year>
+</bibCitation>
+</treatmentCitation>
+.
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="8BF03944C57EFFB5FE04B5B8F988FF3D" blockId="2.[333,1728,1617,2117]" pageId="2" pageNumber="5">
+<treatmentCitationGroup id="AB5F1E6AC57EFFB5FE04B5B8F985FF3D" pageId="2" pageNumber="5">
+<treatmentCitation id="0AEE1F55C57EFFB5FE04B5B8FCD3FF3D" pageId="2" pageNumber="5">
+<taxonomicName id="4C4F42C7C57EFFB5FE04B5B8FB88FF60" authority="Phyllis Phyllis (Sulzer) Fraser" box="[397,1035,1772,1813]" class="Insecta" family="Libellulidae" genus="Rhyothemis" kingdom="Animalia" order="Odonata" pageId="2" pageNumber="5" phylum="Arthropoda" rank="genus">
+<emphasis id="B93BE556C57EFFB5FE04B5B8FCE0FF60" box="[397,867,1772,1813]" italics="true" pageId="2" pageNumber="5">Rhyothemis Phyllis Phyllis</emphasis>
+(Sulzer)
+</taxonomicName>
+<bibCitation id="5E653128C57EFFB5FBABB5B8FCD3FF3D" author="Fraser" journalOrPublisher="Bombay Nat. Hist. SooJour." pageId="2" pageNumber="5" part="931" refId="ref1317" type="journal volume" year="1920">
+<author id="53F2D1A1C57EFFB5FBABB5B8FB15FF60" box="[1058,1174,1772,1813]" pageId="2" pageNumber="5">Fraser</author>
+, 
+<journalOrPublisher id="518E3388C57EFFB5FB39B5B8F93CFF60" box="[1200,1727,1772,1813]" pageId="2" pageNumber="5">
+<collectingCountry id="F35879D4C57EFFB5FB39B5B8FABDFF60" box="[1200,1342,1772,1813]" name="India" pageId="2" pageNumber="5">Bombay</collectingCountry>
+Nat. Hist. SooJour.
+</journalOrPublisher>
+<emphasis id="B93BE556C57EFFB5FE42B44AFD87FF3D" bold="true" box="[459,516,1822,1864]" pageId="2" pageNumber="5">26:</emphasis>
+<part id="FFEB93D9C57EFFB5FD98B44AFDD2FF3D" box="[529,593,1822,1864]" pageId="2" pageNumber="5" type="volume">931</part>
+, fig. 52, 
+<year id="FFE77817C57EFFB5FD71B44AFCD3FF3D" box="[760,848,1822,1864]" pageId="2" pageNumber="5">1920</year>
+</bibCitation>
+</treatmentCitation>
+; 
+<treatmentCitation id="0AEE1F55C57EFFB5FCE3B44AF985FF3D" box="[874,1542,1822,1864]" pageId="2" pageNumber="5">
+<bibCitation id="5E653128C57EFFB5FCE3B44AF985FF3D" author="Fauna Brit" box="[874,1542,1822,1864]" journalOrPublisher="Incl., Odon." pageId="2" pageNumber="5" pagination="421" part="3" refId="ref1336" type="journal article" year="1936">
+<author id="53F2D1A1C57EFFB5FCE3B44AFBB0FF3D" box="[874,1075,1822,1864]" case="TC" fns="*" inm="true" npo="*" pageId="2" pageNumber="5">Fauna Brit</author>
+. 
+<journalOrPublisher id="518E3388C57EFFB5FBC2B44AFA94FF3D" box="[1099,1303,1822,1864]" pageId="2" pageNumber="5">Incl., Odon.</journalOrPublisher>
+<part id="FFEB93D9C57EFFB5FAA1B44AFAB6FF3D" box="[1320,1333,1822,1864]" pageId="2" pageNumber="5" type="volume">3</part>
+: 
+<pagination id="B286C7B0C57EFFB5FAD3B44AFA1AFF3D" box="[1370,1433,1822,1864]" pageId="2" pageNumber="5" type="pagination">421</pagination>
+, 
+<year id="FFE77817C57EFFB5FA3DB44AF985FF3D" box="[1460,1542,1822,1864]" pageId="2" pageNumber="5">1936</year>
+</bibCitation>
+</treatmentCitation>
+</treatmentCitationGroup>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="C3556ACFC57EFFB5FE05B406FE6BF030" pageId="2" pageNumber="5" type="materials_examined">
+<paragraph id="8BF03944C57EFFB5FE05B406FAFFFFDA" blockId="2.[333,1728,1617,2117]" pageId="2" pageNumber="5">
+<materialsCitation id="3B273319C57EFFB5FE05B406FBD4FF08" ID-GBIF-Occurrence="3866005332" box="[396,1111,1874,1917]" collectingDate="1936-05-04" collectorName="E. H. Bryan and R. L. Usinger" country="Guam" location="Agana Swamp" pageId="2" pageNumber="5">
+<location id="8E906F9FC57EFFB5FE05B406FE7CFF08" LSID="urn:lsid:plazi:treatment:03E68852C57EFFB5FEC4B505FE6BF030:8E906F9FC57EFFB5FE05B406FE7CFF08" box="[396,511,1874,1917]" name="Agana" pageId="2" pageNumber="5">Agana</location>
+swamp, 
+<date id="FFF11F84C57EFFB5FD2EB406FC9EFF08" box="[679,797,1874,1917]" pageId="2" pageNumber="5">
+<collectingDate id="EFB5E66CC57EFFB5FD2EB406FC9EFF08" box="[679,797,1874,1917]" pageId="2" pageNumber="5">May 4</collectingDate>
+</date>
+, 
+<location id="8E906F9FC57EFFB5FCB1B406FC25FF08" LSID="urn:lsid:plazi:treatment:03E68852C57EFFB5FEC4B505FE6BF030:8E906F9FC57EFFB5FCB1B406FC25FF08" box="[824,934,1874,1917]" name="Bryan" pageId="2" pageNumber="5">Bryan</location>
+, 
+<collectorName id="26BA5C92C57EFFB5FC48B406FBD2FF08" box="[961,1105,1874,1917]" pageId="2" pageNumber="5">Usinger</collectorName>
+,
+</materialsCitation>
+<materialsCitation id="3B273319C57EFFB5FBE5B406FA27FF08" ID-GBIF-Occurrence="3866005307" box="[1132,1444,1874,1917]" collectingDate="1936-05-25" collectorName="O. H. Swezey" country="Guam" location="Agana Swamp" pageId="2" pageNumber="5">
+<date id="FFF11F84C57EFFB5FBE5B406FB75FF08" box="[1132,1270,1874,1917]" pageId="2" pageNumber="5" value="1925-05">
+<collectingDate id="EFB5E66CC57EFFB5FBE5B406FB75FF08" box="[1132,1270,1874,1917]" pageId="2" pageNumber="5" value="1925-05">May 25</collectingDate>
+</date>
+, 
+<collectorName id="26BA5C92C57EFFB5FA9BB406FA1EFF08" box="[1298,1437,1874,1917]" pageId="2" pageNumber="5">Swezey</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B273319C57EFFB5FA31B406FC0CFFDA" ID-GBIF-Occurrence="3866005323" collectedFrom="swamp 3 miles south of Piti" collectingDate="1936-05-23" collectorName="R. L. Usinger" country="Guam" location="Piti" pageId="2" pageNumber="5">
+swamp 
+<quantity id="4CB794A1C57EFFB5F9CBB406F943FF08" box="[1602,1728,1874,1917]" metricMagnitude="3" metricUnit="m" metricValue="4.828032" pageId="2" pageNumber="5" unit="mi" value="3.0">
+<locationDeviation id="9A422066C57EFFB5F9CBB406F943FF08" box="[1602,1728,1874,1917]" metricMagnitude="3" metricUnit="m" metricValue="4.828032" pageId="2" pageNumber="5" unit="mi" value="3.0">3 miles</locationDeviation>
+</quantity>
+south of 
+<location id="8E906F9FC57EFFB5FE7AB4D2FDB6FFDA" LSID="urn:lsid:plazi:treatment:03E68852C57EFFB5FEC4B505FE6BF030:8E906F9FC57EFFB5FE7AB4D2FDB6FFDA" box="[499,565,1926,1967]" name="Piti" pageId="2" pageNumber="5">Piti</location>
+, 
+<date id="FFF11F84C57EFFB5FDC6B4D2FD5AFFDA" box="[591,729,1926,1967]" pageId="2" pageNumber="5" value="1923-05">
+<collectingDate id="EFB5E66CC57EFFB5FDC6B4D2FD5AFFDA" box="[591,729,1926,1967]" pageId="2" pageNumber="5" value="1923-05">May 23</collectingDate>
+</date>
+, 
+<collectorName id="26BA5C92C57EFFB5FD7BB4D2FC0BFFDA" box="[754,904,1926,1967]" pageId="2" pageNumber="5">Usinger</collectorName>
+;
+</materialsCitation>
+<materialsCitation id="3B273319C57EFFB5FC2AB4D2FAF4FFDA" ID-GBIF-Occurrence="3866005304" box="[931,1399,1926,1967]" collectingDate="1936-06-08" collectorName="R. L. Usinger" country="Guam" location="Inarajan" pageId="2" pageNumber="5">
+<collectingMunicipality id="6B94A33EC57EFFB5FC2AB4D2FBBEFFDA" box="[931,1085,1926,1967]" pageId="2" pageNumber="5">Inarajan</collectingMunicipality>
+, 
+<date id="FFF11F84C57EFFB5FBDCB4D2FB4EFFDA" box="[1109,1229,1926,1967]" pageId="2" pageNumber="5">
+<collectingDate id="EFB5E66CC57EFFB5FBDCB4D2FB4EFFDA" box="[1109,1229,1926,1967]" pageId="2" pageNumber="5">June 8</collectingDate>
+</date>
+, 
+<collectorName id="26BA5C92C57EFFB5FB6EB4D2FAF4FFDA" box="[1255,1399,1926,1967]" pageId="2" pageNumber="5">Usinger</collectorName>
+</materialsCitation>
+.
+</paragraph>
+<paragraph id="8BF03944C57EFFB5FE04B4ECFE6BF030" blockId="2.[333,1728,1617,2117]" pageId="2" pageNumber="5">
+This species occurs in 
+<collectingCountry id="F35879D4C57EFFB5FCAAB4ECFC1DFF96" box="[803,926,1976,2019]" name="Myanmar" pageId="2" pageNumber="5">Burma</collectingCountry>
+, Java, Sumatra, and Borneo. Now recorded for the first time in 
+<collectingCountry id="F35879D4C57EFFB5FD58B4B8FCB8F063" box="[721,827,2028,2070]" name="Guam" pageId="2" pageNumber="5">Guam</collectingCountry>
+, where it was found in swampy regions but not common.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>

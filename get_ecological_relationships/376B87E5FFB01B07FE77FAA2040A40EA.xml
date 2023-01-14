@@ -1,0 +1,173 @@
+<document id="7D6DB67247893CE52C6C5343A7D07BEE" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFB01B07FE77FAA2040A40EA" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Chrysobothris costata Kerremans 1895" docType="treatment" docVersion="20" lastPageNumber="164" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="164" updateTime="1671396144017" updateUser="ExternalLinkService">
+<mods:mods id="8501DF58A490C9DED6F94AD73C52EC99" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="2E5B0B506B702E5A3B033AC1F7029890">
+<mods:title id="BCB6F2CC42AF2C6386E41389EBCD74D0">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="CCC9BA2AF4D1A80C57241A447899ED6F" type="personal">
+<mods:role id="DB50B9D161D269931DAAD56E4034C708">
+<mods:roleTerm id="31BDDD258F2DDE19C7600B4120E464EF">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="676763FEB0AAAA2D12F65EEE31EFF217">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="4FDCCFA8586440C0195EAB512BA7FDE7">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="E13A29A098B3B8471F29B2F6BDD2594E">text</mods:typeOfResource>
+<mods:relatedItem id="57B09F88C6F3C717E3E61E8D407E63D2" type="host">
+<mods:originInfo id="9D8AA513BA5627414B1C0C23DB8A8383">
+<mods:dateIssued id="C96169D1D633A17E6896A2C1B98A35F0">1942</mods:dateIssued>
+<mods:dateOther id="56637631EB88A5F1B002373E1AC10395" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="94C3B017019CA8C54633906F2558A265">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="B2BFDCD261F37000386FC2042011BF5C">
+<mods:placeTerm id="A8D6F367D80D1F01ACA8E6AA5D163A42">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="46143763F1991380F389BB527AB31A0E">
+<mods:title id="939B21C430169719C3A5BEBEC8052389">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="C8BF92908909FFABCB5101948BFBC722">
+<mods:extent id="135EA33E464B180A34D944B6A5340E21" unit="page">
+<mods:start id="8A5BB701540C91E5AF1F5C94798D4A96">150</mods:start>
+<mods:end id="BA5313964E94D0D40AE311B0747790BF">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="5EF7622B2DDC95E68334DF98635D6BBA">book chapter</mods:classification>
+<mods:identifier id="05A6F57C4186F22B55D10502D7B1D2C4" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="8831973A4BDC6E1D667750D456751F61" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="88E2EC5EEEC182CE4659F93C854FA810" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFB01B07FE77FAA2040A40EA" ID-DOI="http://doi.org/10.5281/zenodo.5211637" ID-GBIF-Taxon="184415358" ID-Zenodo-Dep="5211637" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77FAA2040A40EA" httpUri="http://treatment.plazi.org/id/376B87E5FFB01B07FE77FAA2040A40EA" lastPageNumber="164" pageId="14" pageNumber="164">
+<subSubSection id="F7D86578FFB01B07FE77FAA203504377" box="[429,1110,1303,1345]" pageId="14" pageNumber="164" type="nomenclature">
+<paragraph id="BF7D36F3FFB01B07FE77FAA203504377" blockId="14.[429,1824,1303,2561]" box="[429,1110,1303,1345]" pageId="14" pageNumber="164">
+<heading id="E435819FFFB01B07FE77FAA203504377" box="[429,1110,1303,1345]" centered="true" fontSize="11" level="2" pageId="14" pageNumber="164" reason="2">
+3. 
+<taxonomicName id="78C24D70FFB01B07FE37FAA203494377" authority="Kerremans" authorityName="Kerremans" authorityYear="1895" box="[493,1103,1303,1345]" class="Insecta" family="Buprestidae" genus="Chrysobothris" kingdom="Animalia" order="Coleoptera" pageId="14" pageNumber="164" phylum="Arthropoda" rank="species" species="costata">
+<emphasis id="8DB6EAE1FFB01B07FE37FAA2047F4377" bold="true" box="[493,889,1303,1345]" pageId="14" pageNumber="164">Chrysobothris costata</emphasis>
+Kerremans
+</taxonomicName>
+,
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB01B07FBBCFAA202484342" pageId="14" pageNumber="164" type="reference_group">
+<paragraph id="BF7D36F3FFB01B07FBBCFAA202484342" blockId="14.[429,1824,1303,2561]" pageId="14" pageNumber="164">
+<treatmentCitationGroup id="9FD211DDFFB01B07FBBCFAA202484342" pageId="14" pageNumber="164">
+<bibCitation id="6AE83E9FFFB01B07FBBCFAA202484342" author="Kerremans" journalOrPublisher="Soc. Ent. Belgique, Ann." pageId="14" pageNumber="164" pagination="213" part="39" refId="ref7432" title="Coleopt. Catalog" type="journal article" year="1895">
+<heading id="E435819FFFB01B07FBBCFAA200264377" box="[1126,1824,1303,1345]" centered="true" fontSize="11" level="2" pageId="14" pageNumber="164" reason="2">
+<treatmentCitation id="3E6310E2FFB01B07FBBCFAA2001D4377" author="Kerremans" box="[1126,1819,1303,1345]" page="213" pageId="14" pageNumber="164" year="1895">
+<journalOrPublisher id="65033C3FFFB01B07FBBCFAA201184377" box="[1126,1566,1303,1345]" pageId="14" pageNumber="164">
+Soc. Ent. 
+<collectingCountry id="C7D57663FFB01B07FACFFAA202B04377" box="[1301,1462,1303,1345]" name="Belgium" pageId="14" pageNumber="164">Belgique</collectingCountry>
+, Ann.
+</journalOrPublisher>
+<emphasis id="8DB6EAE1FFB01B07F9F6FAA201554377" bold="true" box="[1580,1619,1303,1345]" pageId="14" pageNumber="164">
+<part id="CB669C6EFFB01B07F9F6FAA201494377" box="[1580,1615,1303,1345]" pageId="14" pageNumber="164" type="volume">39</part>
+:
+</emphasis>
+<pagination id="860BC807FFB01B07F9A8FAA201B74377" box="[1650,1713,1303,1345]" pageId="14" pageNumber="164" type="pageRange">213</pagination>
+, 
+<year id="CB6A77A0FFB01B07F913FAA2001D4377" box="[1737,1819,1303,1345]" pageId="14" pageNumber="164">1895</year>
+</treatmentCitation>
+.
+</heading>
+<treatmentCitation id="3E6310E2FFB01B07FE31FAFF024F4342" author="Obenberger" box="[491,1353,1354,1396]" page="600" pageId="14" pageNumber="164" year="1934">
+<author id="677FDE16FFB01B07FE31FAFF05C24342" box="[491,708,1354,1396]" pageId="14" pageNumber="164">Obenberger</author>
+, 
+<title id="CDC6DDC5FFB01B07FD02FAFF030F4342" box="[728,1033,1354,1396]" pageId="14" pageNumber="164">Coleopt. Catalog</title>
+. (
+<part id="CB669C6EFFB01B07FBF4FAFF03764342" box="[1070,1136,1354,1396]" pageId="14" pageNumber="164" type="issue">132</part>
+): 
+<pagination id="860BC807FFB01B07FB7FFAFF03D94342" box="[1189,1247,1354,1396]" pageId="14" pageNumber="164" type="pageRange">600</pagination>
+, 
+<year id="CB6A77A0FFB01B07FB2DFAFF024F4342" box="[1271,1353,1354,1396]" pageId="14" pageNumber="164">1934</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB01B07FE36FAC803CA43EA" pageId="14" pageNumber="164" type="materials_examined">
+<paragraph id="BF7D36F3FFB01B07FE36FAC803CA43EA" blockId="14.[429,1824,1303,2561]" pageId="14" pageNumber="164">
+<materialsCitation id="0FAA3CAEFFB01B07FE36FAC803B74391" ID-GBIF-Occurrence="3334692597" box="[492,1201,1405,1447]" collectedFrom="on Citrus" collectingDate="1936-07-17" collectorName="O. H. Swezey" country="Guam" location="Dandan" pageId="14" pageNumber="164">
+<collectingMunicipality id="5F19AC89FFB01B07FE36FAC8057D4391" box="[492,635,1405,1447]" pageId="14" pageNumber="164">Dandan</collectingMunicipality>
+, 
+<date id="CB7C1033FFB01B07FD40FAC8042C4391" box="[666,810,1405,1447]" pageId="14" pageNumber="164" value="2017-07">
+<collectingDate id="DB38E9DBFFB01B07FD40FAC8042C4391" box="[666,810,1405,1447]" pageId="14" pageNumber="164" value="2017-07">July 17</collectingDate>
+</date>
+, on 
+<taxonomicName id="78C24D70FFB01B07FC57FAC803AC4391" authority=", Swezey" authorityName=", Swezey" authorityYear="1911" box="[909,1194,1405,1447]" class="Magnoliopsida" family="Rutaceae" genus="Citrus" kingdom="Plantae" order="Sapindales" pageId="14" pageNumber="164" phylum="Tracheophyta" rank="genus">
+<emphasis id="8DB6EAE1FFB01B07FC57FAC803044391" box="[909,1026,1405,1447]" italics="true" pageId="14" pageNumber="164">
+<location id="BA1D6028FFB01B07FC57FAC804FD4391" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77FAA2040A40EA:BA1D6028FFB01B07FC57FAC804FD4391" box="[909,1019,1405,1447]" municipality="Dandan" name="Citrus" pageId="14" pageNumber="164">Citrus</location>
+,
+</emphasis>
+<collectorName id="12375325FFB01B07FBC6FAC803AC4391" box="[1052,1194,1405,1447]" pageId="14" pageNumber="164">Swezey</collectorName>
+</taxonomicName>
+;
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB01B07FB10FAC8011C4391" ID-GBIF-Occurrence="3994027477" box="[1226,1562,1405,1447]" collectingDate="1936-07-06" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="14" pageNumber="164">
+<location id="BA1D6028FFB01B07FB10FAC8027B4391" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77FAA2040A40EA:BA1D6028FFB01B07FB10FAC8027B4391" box="[1226,1405,1405,1447]" name="Barrigada" pageId="14" pageNumber="164">Barrigada</location>
+, 
+<date id="CB7C1033FFB01B07FA41FAC801154391" box="[1435,1555,1405,1447]" pageId="14" pageNumber="164">
+<collectingDate id="DB38E9DBFFB01B07FA41FAC801154391" box="[1435,1555,1405,1447]" pageId="14" pageNumber="164">July 6</collectingDate>
+</date>
+,
+</materialsCitation>
+<materialsCitation id="0FAA3CAEFFB01B07F9EAFAC805C443EA" ID-GBIF-Occurrence="3994027542" collectedFrom="on Intsia bijuga" collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="14" pageNumber="164">
+22, on 
+<taxonomicName id="78C24D70FFB01B07F961FAC8052243EA" authority="," authorityName=", Swezey. E. C." class="Magnoliopsida" family="Fabaceae" genus="Intsia" kingdom="Plantae" order="Fabales" pageId="14" pageNumber="164" phylum="Tracheophyta" rank="species" species="bijuga">
+<emphasis id="8DB6EAE1FFB01B07F961FAC8052243EA" italics="true" pageId="14" pageNumber="164">
+<collectingMunicipality id="5F19AC89FFB01B07F961FAC800264391" box="[1723,1824,1405,1447]" pageId="14" pageNumber="164">Intsia</collectingMunicipality>
+bijuga,
+</emphasis>
+</taxonomicName>
+<collectorName id="12375325FFB01B07FDEDFA0405C443EA" box="[567,706,1457,1500]" pageId="14" pageNumber="164">Swezey</collectorName>
+</materialsCitation>
+; 
+<materialsCitation id="0FAA3CAEFFB01B07FD06FA0403CA43EA" ID-GBIF-Occurrence="3334692440" box="[732,1228,1457,1500]" collectingDate="1936-08-06" collectorName="O. H. Swezey" country="Guam" location="Machanao" pageId="14" pageNumber="164">
+<location id="BA1D6028FFB01B07FD06FA04049543EA" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77FAA2040A40EA:BA1D6028FFB01B07FD06FA04049543EA" box="[732,915,1457,1500]" name="Machanao" pageId="14" pageNumber="164">Machanao</location>
+, 
+<date id="CB7C1033FFB01B07FC70FA04032143EA" box="[938,1063,1457,1500]" pageId="14" pageNumber="164">
+<collectingDate id="DB38E9DBFFB01B07FC70FA04032143EA" box="[938,1063,1457,1500]" pageId="14" pageNumber="164">Aug. 6</collectingDate>
+</date>
+, 
+<collectorName id="12375325FFB01B07FB9AFA0403C143EA" box="[1088,1223,1457,1500]" pageId="14" pageNumber="164">Swezey</collectorName>
+.
+</materialsCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFB01B07FE36FA51040A40EA" pageId="14" pageNumber="164" type="discussion">
+<paragraph id="BF7D36F3FFB01B07FE36FA51037940E7" blockId="14.[429,1824,1303,2561]" pageId="14" pageNumber="164">
+<location id="BA1D6028FFB01B07FE36FA51059F4038" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77FAA2040A40EA:BA1D6028FFB01B07FE36FA51059F4038" box="[492,665,1508,1550]" country="Northern Mariana Islands" county="July" municipality="From" name="Described" pageId="14" pageNumber="164">Described</location>
+from 
+<collectingCountry id="C7D57663FFB01B07FCCAFA5103424038" box="[784,1092,1508,1550]" name="Northern Mariana Islands" pageId="14" pageNumber="164">Marianas Islands</collectingCountry>
+, and not recorded elsewhere. 
+<location id="BA1D6028FFB01B07F9BBFA5101A94038" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77FAA2040A40EA:BA1D6028FFB01B07F9BBFA5101A94038" box="[1633,1711,1508,1550]" country="Northern Mariana Islands" county="July" municipality="From" name="This" pageId="14" pageNumber="164">This</location>
+abundant green species is smaller and duller. 
+<materialsCitation id="0FAA3CAEFFB01B07FB59F9A3037E40E7" ID-GBIF-Occurrence="3994733306" collectedFrom="larvae were found very abundant under bark of remaining top of an Intsia bijuga tree which had been cut off for timber. From portion of branch, adults issued between August 3 and October 1." collectingDate="1936-07-22" collectorName="O. H. Swezey" country="Guam" location="Barrigada" pageId="14" pageNumber="164" specimenCount="10">
+<location id="BA1D6028FFB01B07FB59F9A303CE4077" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77FAA2040A40EA:BA1D6028FFB01B07FB59F9A303CE4077" box="[1155,1224,1558,1601]" country="Northern Mariana Islands" county="July" municipality="From" name="The" pageId="14" pageNumber="164">The</location>
+<specimenCount id="A9C4FD7AFFB01B07FB0CF9A302464077" box="[1238,1344,1558,1601]" pageId="14" pageNumber="164" type="larva">larvae</specimenCount>
+were found very abundant under bark of remaining top of an 
+<taxonomicName id="78C24D70FFB01B07FBFAF9F902054042" authorityName=", Swezey. E. C." box="[1056,1283,1612,1652]" class="Magnoliopsida" family="Fabaceae" genus="Intsia" kingdom="Plantae" order="Fabales" pageId="14" pageNumber="164" phylum="Tracheophyta" rank="species" species="bijuga">
+<emphasis id="8DB6EAE1FFB01B07FBFAF9F902054042" box="[1056,1283,1612,1652]" italics="true" pageId="14" pageNumber="164">
+<location id="BA1D6028FFB01B07FBFAF9F903804042" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77FAA2040A40EA:BA1D6028FFB01B07FBFAF9F903804042" box="[1056,1158,1612,1652]" name="Intsia" pageId="14" pageNumber="164">Intsia</location>
+bijuga
+</emphasis>
+</taxonomicName>
+tree which had been cut off at 
+<location id="BA1D6028FFB01B07FE74F9CB05584091" LSID="urn:lsid:plazi:treatment:376B87E5FFB01B07FE77FAA2040A40EA:BA1D6028FFB01B07FE74F9CB05584091" box="[430,606,1662,1703]" country="Northern Mariana Islands" county="July" municipality="From" name="Barrigacla" pageId="14" pageNumber="164">Barrigacla</location>
+for timber. 
+<collectingMunicipality id="5F19AC89FFB01B07FC93F9CB04AD4091" box="[841,939,1662,1703]" pageId="14" pageNumber="164">From</collectingMunicipality>
+portion of branch, taken home 
+<date id="CB7C1033FFB01B07FA3CF9CB01AD4091" box="[1510,1707,1662,1703]" pageId="14" pageNumber="164" value="2010-07-22">
+<collectingDate id="DB38E9DBFFB01B07FA3CF9CB01AD4091" box="[1510,1707,1662,1703]" pageId="14" pageNumber="164" value="2010-07-22">July 22, 10</collectingDate>
+</date>
+adults issued between 
+<date id="CB7C1033FFB01B07FD19F907037E40E7" box="[707,1144,1714,1745]" pageId="14" pageNumber="164">
+<collectingDate id="DB38E9DBFFB01B07FD19F907037E40E7" box="[707,1144,1714,1745]" pageId="14" pageNumber="164">August 3 and October 1</collectingDate>
+</date>
+</materialsCitation>
+.
+</paragraph>
+<paragraph id="BF7D36F3FFB01B07FD20F967040A40EA" blockId="14.[429,1824,1303,2561]" box="[762,780,1746,1756]" pageId="14" pageNumber="164">TODO</paragraph>
+</subSubSection>
+</treatment>
+</document>

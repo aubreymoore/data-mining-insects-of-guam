@@ -1,0 +1,142 @@
+<document id="22115013B5946805E3DBFFFDDB96150B" ID-DOI="http://doi.org/10.5281/zenodo.5167701" ID-GBIF-Dataset="5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2" ID-Zenodo-Dep="5167701" approvalRequired="1" approvalRequired_for_textStreams="1" checkinTime="1628010815332" checkinUser="carolina" docAuthor="Swezey, O. H." docDate="1942" docId="376B87E5FFAC1B1BFE75FBD8014343E6" docLanguage="en" docName="InsectsOfGuamI.172.150-171.pdf.imf" docOrigin="Insects of Guam I, Honolulu, Hawaii: Bernice P. Bishop Museum" docStyle="DocumentStyle:A6818C686426A7D59822A3BD2E5D42E5.1:InsectsOfGuam.1942.book_chapter" docStyleId="A6818C686426A7D59822A3BD2E5D42E5" docStyleName="InsectsOfGuam.1942.book_chapter" docStyleVersion="1" docTitle="Aphodius lividus Gemminger and Harold, Coleopt." docType="treatment" docVersion="17" lastPageNumber="168" masterDocId="CB52FF9DFFBE1B09FFDAFFB507064636" masterDocTitle="Miscellaneous Families of Guam Coleoptera" masterLastPageNumber="171" masterPageNumber="150" pageNumber="168" updateTime="1671385820913" updateUser="annettekang">
+<mods:mods id="76578AFE67AE3A1919DF6B83986CC7F5" xmlns:mods="http://www.loc.gov/mods/v3">
+<mods:titleInfo id="BF4762B33CF0AD51D600123C79EFC956">
+<mods:title id="E22E91D18EA7C31E1FB36B6A9EDD9B66">Miscellaneous Families of Guam Coleoptera</mods:title>
+</mods:titleInfo>
+<mods:name id="F797BFADAC7497AAFAAEDEDFA1DA7CCD" type="personal">
+<mods:role id="D8B3208FAB6712DB3511850F383A6E9D">
+<mods:roleTerm id="BBF2D5F3304347C8C9A9C6BC1C60AEE1">Author</mods:roleTerm>
+</mods:role>
+<mods:namePart id="CE14923FCBE233A9337BDD4817CD1F5D">Swezey, O. H.</mods:namePart>
+<mods:affiliation id="76FB38AFACDEE47FB6277E12B1259B6C">Experiment Station, Hawaiian Sugar Planters' Association, Honolulu</mods:affiliation>
+</mods:name>
+<mods:typeOfResource id="C3E9CF66DDFC0F1CCCE12C767AC8F331">text</mods:typeOfResource>
+<mods:relatedItem id="430C1EF10508C329A7F7C7443ECF1D6E" type="host">
+<mods:originInfo id="7681C79C9A0F3B67DF3CE7CD4D7234C7">
+<mods:dateIssued id="E71B6A70DB2EBF4545C691E4033D0041">1942</mods:dateIssued>
+<mods:dateOther id="C9A6C0B9556E2A7619C7856434951A3C" type="pubDate">1942-06-01</mods:dateOther>
+<mods:publisher id="1B842262B74CF647A18E3B1A8C6E4442">Bernice P. Bishop Museum</mods:publisher>
+<mods:place id="15B20896C5F58FB7A4DB382C14341960">
+<mods:placeTerm id="D7BA8F64BA5C5CA51824EC5A0B431BEC">Honolulu, Hawaii</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:titleInfo id="3611D661FF97119DBD72C0AAEC840EE7">
+<mods:title id="A9DB657A4849E10974EE556B00F1A663">Insects of Guam I</mods:title>
+</mods:titleInfo>
+<mods:part id="7A2B688134F29BD4754E2F8D2627DD94">
+<mods:extent id="5925A91B516612C5AAB83ECB8044AC7E" unit="page">
+<mods:start id="D9A6AC1703E4E72608C4B71AA6B06A5B">150</mods:start>
+<mods:end id="54503C5F24628071B2B6B15F7BA0E53A">171</mods:end>
+</mods:extent>
+</mods:part>
+</mods:relatedItem>
+<mods:classification id="0D1AFB0A572A0C1D7B26E86346621A6A">book chapter</mods:classification>
+<mods:identifier id="ACD04134F1CB43C7629CB07AD8C786A7" type="DOI">http://doi.org/10.5281/zenodo.5167701</mods:identifier>
+<mods:identifier id="6C1CBDAE25FE354F6ADAF960803D3834" type="GBIF-Dataset">5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2</mods:identifier>
+<mods:identifier id="9FF8BDAC6A0C6FA74AE7C33A43662845" type="Zenodo-Dep">5167701</mods:identifier>
+</mods:mods>
+<treatment id="376B87E5FFAC1B1BFE75FBD8014343E6" ID-DOI="http://doi.org/10.5281/zenodo.5183016" ID-GBIF-Taxon="184415393" ID-Zenodo-Dep="5183016" LSID="urn:lsid:plazi:treatment:376B87E5FFAC1B1BFE75FBD8014343E6" httpUri="http://treatment.plazi.org/id/376B87E5FFAC1B1BFE75FBD8014343E6" lastPageNumber="168" pageId="18" pageNumber="168">
+<subSubSection id="F7D86578FFAC1B1BFE75FBD804ED42A0" box="[431,1003,1133,1174]" pageId="18" pageNumber="168" type="nomenclature">
+<paragraph id="BF7D36F3FFAC1B1BFE75FBD804ED42A0" blockId="18.[431,1825,1133,1488]" box="[431,1003,1133,1174]" pageId="18" pageNumber="168">
+<heading id="E435819FFFAC1B1BFE75FBD804ED42A0" box="[431,1003,1133,1174]" fontSize="11" level="2" pageId="18" pageNumber="168" reason="2">
+<emphasis id="8DB6EAE1FFAC1B1BFE75FBD806CA42A0" bold="true" box="[431,460,1133,1174]" pageId="18" pageNumber="168">3.</emphasis>
+<taxonomicName id="78C24D70FFAC1B1BFE34FBD804E342A0" authority="(Olivier)" authorityName="Gemminger and Harold, Coleopt." baseAuthorityName="Olivier" baseAuthorityYear="1789" box="[494,997,1133,1174]" class="Insecta" family="Aphodiidae" genus="Aphodius" kingdom="Animalia" order="Coleoptera" pageId="18" pageNumber="168" phylum="Arthropoda" rank="species" species="lividus">
+<emphasis id="8DB6EAE1FFAC1B1BFE34FBD8042142A0" bold="true" box="[494,807,1133,1174]" pageId="18" pageNumber="168">Aphodius lividus</emphasis>
+(Olivier)
+</taxonomicName>
+.
+</heading>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAC1B1BFE2AFB1705F74300" pageId="18" pageNumber="168" type="reference_group">
+<paragraph id="BF7D36F3FFAC1B1BFE2AFB17011042FB" blockId="18.[431,1825,1133,1488]" box="[496,1558,1186,1229]" pageId="18" pageNumber="168">
+<treatmentCitationGroup id="9FD211DDFFAC1B1BFE2AFB17011042FB" box="[496,1558,1186,1229]" pageId="18" pageNumber="168">
+<bibCitation id="6AE83E9FFFAC1B1BFE2AFB17011042FB" author="Olivier" box="[496,1558,1186,1229]" journalOrPublisher="Ent." pageId="18" pageNumber="168" pagination="86" part="1" refId="ref9537" type="book" year="1789">
+<treatmentCitation id="3E6310E2FFAC1B1BFE2AFB17011742FB" author="Olivier" box="[496,1553,1186,1229]" page="222" pageId="18" pageNumber="168" year="1789">
+<emphasis id="8DB6EAE1FFAC1B1BFE2AFB17043E42FB" box="[496,824,1186,1229]" italics="true" pageId="18" pageNumber="168">Scarabaeus lividus</emphasis>
+<author id="677FDE16FFAC1B1BFC9CFB1704C342FB" box="[838,965,1186,1229]" pageId="18" pageNumber="168">Olivier</author>
+, 
+<journalOrPublisher id="65033C3FFFAC1B1BFC00FB17032242FB" box="[986,1060,1186,1229]" pageId="18" pageNumber="168">Ent.</journalOrPublisher>
+<emphasis id="8DB6EAE1FFAC1B1BFBEDFB17034342FB" bold="true" box="[1079,1093,1186,1229]" pageId="18" pageNumber="168">
+<part id="CB669C6EFFAC1B1BFBEDFB17034742FB" box="[1079,1089,1186,1229]" pageId="18" pageNumber="168" type="volume">1</part>
+:
+</emphasis>
+<pagination id="860BC807FFAC1B1BFBBFFB17039742FB" box="[1125,1169,1186,1229]" pageId="18" pageNumber="168" type="pageRange">86</pagination>
+, pl. 26, fig. 222, 
+<year id="CB6A77A0FFAC1B1BFA64FB17011742FB" box="[1470,1553,1186,1229]" pageId="18" pageNumber="168">1789</year>
+</treatmentCitation>
+.
+</bibCitation>
+</treatmentCitationGroup>
+</paragraph>
+<paragraph id="BF7D36F3FFAC1B1BFE37FB6C05F74300" blockId="18.[431,1825,1133,1488]" pageId="18" pageNumber="168">
+<treatmentCitation id="3E6310E2FFAC1B1BFE37FB6C05F74300" author="Gemminger and Harold" page="1051" pageId="18" pageNumber="168" year="1869">
+<bibCitation id="6AE83E9FFFAC1B1BFE37FB6C05F74300" author="Gemminger and Harold" pageId="18" pageNumber="168" pagination="1051" part="4" refId="ref9557" title="Coleopt. Catalog." type="journal article" year="1869">
+<treatmentCitationGroup id="9FD211DDFFAC1B1BFE37FB6C05EA4300" pageId="18" pageNumber="168">
+<emphasis id="8DB6EAE1FFAC1B1BFE37FB6C041E4335" box="[493,792,1241,1283]" italics="true" pageId="18" pageNumber="168">Aphodius lividus</emphasis>
+(Olivier) 
+<author id="677FDE16FFAC1B1BFC07FB6C03AC4335" box="[989,1194,1241,1283]" pageId="18" pageNumber="168">Gemminger</author>
+and 
+<author id="677FDE16FFAC1B1BFAD8FB6C02854335" box="[1282,1411,1241,1283]" pageId="18" pageNumber="168">Harold</author>
+, 
+<title id="CDC6DDC5FFAC1B1BFA43FB6C01C44335" box="[1433,1730,1241,1283]" pageId="18" pageNumber="168">Coleopt. Catalog.</title>
+(
+<part id="CB669C6EFFAC1B1BF938FB6C01FC4335" box="[1762,1786,1241,1283]" pageId="18" pageNumber="168" type="issue">4</part>
+): 
+<pagination id="860BC807FFAC1B1BFDEAFAB905854300" box="[560,643,1292,1334]" pageId="18" pageNumber="168" type="pageRange">1051</pagination>
+, 
+<year id="CB6A77A0FFAC1B1BFD43FAB905EA4300" box="[665,748,1292,1334]" pageId="18" pageNumber="168">1869</year>
+</treatmentCitationGroup>
+.
+</bibCitation>
+</treatmentCitation>
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAC1B1BFE35FAF5036343AB" pageId="18" pageNumber="168" type="materials_examined">
+<paragraph id="BF7D36F3FFAC1B1BFE35FAF5036343AB" blockId="18.[431,1825,1133,1488]" pageId="18" pageNumber="168">
+<materialsCitation id="0FAA3CAEFFAC1B1BFE35FAF504C5435C" ID-GBIF-Occurrence="3994027408" box="[495,963,1344,1386]" collectedFrom="in cow dung" collectingDate="1936-05-30" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="18" pageNumber="168">
+<location id="BA1D6028FFAC1B1BFE35FAF50537435C" LSID="urn:lsid:plazi:treatment:376B87E5FFAC1B1BFE75FBD8014343E6:BA1D6028FFAC1B1BFE35FAF50537435C" box="[495,561,1344,1386]" name="Piti" pageId="18" pageNumber="168">Piti</location>
+, 
+<date id="CB7C1033FFAC1B1BFD93FAF505D4435C" box="[585,722,1344,1386]" pageId="18" pageNumber="168" value="1930-05">
+<collectingDate id="DB38E9DBFFAC1B1BFD93FAF505D4435C" box="[585,722,1344,1386]" pageId="18" pageNumber="168" value="1930-05">May 30</collectingDate>
+</date>
+, in cow dung
+</materialsCitation>
+, 
+<materialsCitation id="0FAA3CAEFFAC1B1BFC03FAF502DE435C" ID-GBIF-Occurrence="3994027385" box="[985,1496,1344,1386]" collectedFrom="in rotten breadfruit" collectingDate="1936-06-24" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="18" pageNumber="168">
+<date id="CB7C1033FFAC1B1BFC03FAF50360435C" box="[985,1126,1344,1386]" pageId="18" pageNumber="168" value="1924-06">
+<collectingDate id="DB38E9DBFFAC1B1BFC03FAF50360435C" box="[985,1126,1344,1386]" pageId="18" pageNumber="168" value="1924-06">June 24</collectingDate>
+</date>
+, in rotten breadfruit
+</materialsCitation>
+, 
+<materialsCitation id="0FAA3CAEFFAC1B1BFA37FAF50177435C" ID-GBIF-Occurrence="3994027388" box="[1517,1649,1344,1386]" collectingDate="1936-07-27" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="18" pageNumber="168">
+<date id="CB7C1033FFAC1B1BFA37FAF50177435C" box="[1517,1649,1344,1386]" pageId="18" pageNumber="168" value="1927-07">
+<collectingDate id="DB38E9DBFFAC1B1BFA37FAF50177435C" box="[1517,1649,1344,1386]" pageId="18" pageNumber="168" value="1927-07">July 27</collectingDate>
+</date>
+</materialsCitation>
+, 
+<materialsCitation id="0FAA3CAEFFAC1B1BF951FAF5042D43AB" ID-GBIF-Occurrence="3994027525" collectedFrom="in cow dung" collectingDate="1936-09-21" collectorName="O. H. Swezey" country="Guam" location="Piti" pageId="18" pageNumber="168">
+<date id="CB7C1033FFAC1B1BF951FAF5001C435C" box="[1675,1818,1344,1386]" pageId="18" pageNumber="168" value="2021-09">
+<collectingDate id="DB38E9DBFFAC1B1BF951FAF5001C435C" box="[1675,1818,1344,1386]" pageId="18" pageNumber="168" value="2021-09">Sept. 21</collectingDate>
+</date>
+, in cow dung, 
+<collectorName id="12375325FFAC1B1BFD7FFAC6042D43AB" box="[677,811,1395,1437]" pageId="18" pageNumber="168">Swezey</collectorName>
+</materialsCitation>
+. 
+<materialsCitation id="0FAA3CAEFFAC1B1BFC97FAC6036643AB" ID-GBIF-Occurrence="3994027309" box="[845,1120,1395,1437]" collectingDate="1911" collectorName="D. T. Fullaway" country="Guam" location="Guam" pageId="18" pageNumber="168">
+<collectorName id="12375325FFAC1B1BFC97FAC604F543AB" box="[845,1011,1395,1437]" pageId="18" pageNumber="168">Fullaway</collectorName>
+, 1911
+</materialsCitation>
+.
+</paragraph>
+</subSubSection>
+<subSubSection id="F7D86578FFAC1B1BFE37FA13014343E6" box="[493,1605,1446,1488]" pageId="18" pageNumber="168" type="distribution">
+<paragraph id="BF7D36F3FFAC1B1BFE37FA13014343E6" blockId="18.[431,1825,1133,1488]" box="[493,1605,1446,1488]" pageId="18" pageNumber="168">
+This cosmopolitan species was collected a few times in 
+<collectingCountry id="C7D57663FFAC1B1BFA0EFA13014643E6" box="[1492,1600,1446,1488]" name="Guam" pageId="18" pageNumber="168">Guam</collectingCountry>
+.
+</paragraph>
+</subSubSection>
+</treatment>
+</document>
