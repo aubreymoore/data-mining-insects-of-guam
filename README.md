@@ -25,14 +25,15 @@ Download [Plazi XML](https://zenodo.org/record/5208360/formats?mimetype=applicat
 
 #### GBIF
 
-##### Treamen article
+##### Treament article
 
 Example:
 
 Light S F, carolina (1946). Isoptera of Guam. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.5160243 accessed via GBIF.org on 2023-01-14. 
 
-https://aubreymoore.github.io/data-mining-insects-of-guam/get_ecological_relationships/glochidion.html
+### Example Use Case: Insects Associated with Glochidion
 
+[Table of insects associated with **Glochidion**](https://aubreymoore.github.io/data-mining-insects-of-guam/get_ecological_relationships/glochidion.html)
 
 ## TO DO
 
