@@ -29,6 +29,8 @@ Download [Plazi XML](https://zenodo.org/record/5208360/formats?mimetype=applicat
 
 [Miscellaneous Families of Guam Coleoptera](https://www.gbif.org/dataset/5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2)
 
+Swezey O H, carolina (1942). Miscellaneous Families of Guam Coleoptera. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.5167701 accessed via GBIF.org on 2023-01-14. 
+
 Swezey O H, carolina (1942). Miscellaneous Families of Guam Coleoptera. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.5167701 accessed via GBIF.org on 2023-01-14. https://www.gbif.org/occurrence/3994027426 
 
 Example:
