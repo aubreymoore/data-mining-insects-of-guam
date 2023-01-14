@@ -1,7 +1,12 @@
-# data-mining-insects-of-guamT
+# data-mining-insects-of-guam
 
-The objective of thia 
+## Background
 
+The objective of this project was to extract biodiversity data from legacy literature namely the 40 plus chapters in Insects of Guam I and II published by the Bishop Museum in 1942 and 1946. These chapters are publicly available for download from the Bishop Museum web site. Data mining was greatly facilited by use of the Golden Gate Imagine software developed and maintained by Plazi. An automated workflow was developed by Plazi collaborators in Brazil to automated initial mark up of each chapter. Mark-up was later refined by manual parsing of material citations sections by collaborators at the University of Guam and Cornell University.
+
+## Results
+
+## TO DO
 
 [Status report](https://aubreymoore.github.io/data-mining-insects-of-guam/validator2/status_report.html)
 
