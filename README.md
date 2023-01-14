@@ -6,14 +6,25 @@ The objective of this project was to extract biodiversity data from legacy liter
 ## Results
 ### Data products
 #### Biodiversity Literature Respository
+
+##### Book sections
+
 Example: 
+
 Light, S. F. (1946). Isoptera of Guam. In Insects of Guam II (pp. 9–9). Bernice P. Bishop Museum. https://doi.org/10.5281/zenodo.5160243
 
-#### Taxonomic treatments
+##### Taxonomic treatments
+
 Example:
+
 Light, S. F. (1946). Cryptotermes hermsi Kirby. In Isoptera of Guam, pp. 9 in Insects of Guam II (p. 9). Bernice P. Bishop Museum. https://doi.org/10.5281/zenodo.5208360
+
 Download [treatment.html](https://zenodo.org/record/5208360/files/treatment.html?download=1)
+
 Download [Plazi XML](https://zenodo.org/record/5208360/formats?mimetype=application%2Fvnd.plazi.v1%2Bxml)
+
+#### GBIF
+
 
 ## TO DO
 
