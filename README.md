@@ -27,7 +27,7 @@ Download [Plazi XML](https://zenodo.org/record/5208360/formats?mimetype=applicat
 
 ##### Dataset
 
-https://www.gbif.org/dataset/5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2
+[Miscellaneous Families of Guam Coleoptera](https://www.gbif.org/dataset/5f279ac2-63c6-4bd8-be9e-0e3d82b73ab2)
 
 Example:
 
