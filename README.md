@@ -1,10 +1,19 @@
 # data-mining-insects-of-guam
 
 ## Background
-
-The objective of this project was to extract biodiversity data from legacy literature namely the 40 plus chapters in Insects of Guam I and II published by the Bishop Museum in 1942 and 1946. These chapters are publicly available for download from the Bishop Museum web site. Data mining was greatly facilited by use of the Golden Gate Imagine software developed and maintained by Plazi. An automated workflow was developed by Plazi collaborators in Brazil to automated initial mark up of each chapter. Mark-up was later refined by manual parsing of material citations sections by collaborators at the University of Guam and Cornell University.
+The objective of this project was to extract biodiversity data from legacy literature namely the 40 plus chapters in [Insects of Guam I](http://hbs.bishopmuseum.org/pubs-online/pdf/bull172.pdf) and [Insects of Guam II](http://hbs.bishopmuseum.org/pubs-online/pdf/bull189.pdf) published by the Bishop Museum in 1942 and 1946 respectively. These chapters are publicly available for download from the Bishop Museum web site. Data mining was greatly facilited by use of the Golden Gate Imagine software developed and maintained by Plazi. An automated workflow was developed by Plazi collaborators in Brazil to automated initial mark up of each chapter. Mark-up was later refined by manual parsing of material citations sections by collaborators at the University of Guam and Cornell University.
 
 ## Results
+### Data products
+#### Biodiversity Literature Respository
+Example: 
+Light, S. F. (1946). Isoptera of Guam. In Insects of Guam II (pp. 9–9). Bernice P. Bishop Museum. https://doi.org/10.5281/zenodo.5160243
+
+#### Taxonomic treatments
+Example:
+Light, S. F. (1946). Cryptotermes hermsi Kirby. In Isoptera of Guam, pp. 9 in Insects of Guam II (p. 9). Bernice P. Bishop Museum. https://doi.org/10.5281/zenodo.5208360
+Download [treatment.html](https://zenodo.org/record/5208360/files/treatment.html?download=1)
+Download [Plazi XML](https://zenodo.org/record/5208360/formats?mimetype=application%2Fvnd.plazi.v1%2Bxml)
 
 ## TO DO
 
